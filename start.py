@@ -27,7 +27,8 @@ def strip_tags(html):
 
 def show_list(articles):
     for news in articles:
-        print('* [{0}]({1})\n{2}\n'.format(news.title, news.link, strip_tags(news.summary)))
+        # print('* [{0}]({1})\n{2}\n'.format(news.title, news.link, strip_tags(news.summary)))
+        print('* [{0}]({1})\n'.format(news.title, news.link))
  
 def show_news_from(domain):
     print('## {0} \n'.format(domain))

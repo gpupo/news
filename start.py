@@ -8,10 +8,10 @@ from datetime import datetime
 
 def show_list(articles):
     for news in articles:
-        print('* [{0}]({1})\n'.format(news.title, news.link))
+        print('* [{0}]({1})'.format(news.title, news.link))
  
 def show_news_from(domain):
-    print('## {0} \n\n'.format(domain))
+    print('## {0}\n\n'.format(domain))
     source = Newscatcher(website = domain)
     results = source.get_news()
     show_list(results['articles'])

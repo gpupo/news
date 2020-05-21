@@ -2,7 +2,7 @@
 name: Indexer Workflow
 on:
   schedule:
-    - cron:  '*/10 * * * *'
+    - cron:  '*/30 * * * *'
 jobs:
   build:
 

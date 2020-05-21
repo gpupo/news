@@ -20,7 +20,7 @@ def main():
     print("---\nlayout: default\n---\n")
     now = datetime.now()
     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-    print('# indexed at {0}\n\n'.format(dt_string))
+    print('# indexed at {0} UTC\n\n'.format(dt_string))
     domains = ['news.ycombinator.com','nytimes.com' ,'globo.com']
     for d in domains:
         show_news_from(d)

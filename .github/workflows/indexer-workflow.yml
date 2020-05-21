@@ -17,7 +17,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
     - name: Make
       run: |
-        git reset --hard b0f52ce743c1dfd4f43961eb6088ebc9550d0582
+        git reset --hard HEAD~1
         git rebase develop    
     - name: Install dependencies
       run: |

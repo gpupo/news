@@ -36,6 +36,7 @@ def show_news_from(domain):
     show_list(results['articles'])
 
 def main():
+    print("---\nlayout: default\n---\n")
     print('# @gpupo news | index')
     show_news_from('news.ycombinator.com')
     show_news_from('nytimes.com')

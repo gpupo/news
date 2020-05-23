@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 07:11:48 UTC
+# indexed at 23/05/2020 07:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
 * [Netflix stops charging customers who never watch](https://www.bbc.com/news/technology-52777365)
 * [I think my BBQ just offered to be my default browser?](https://twitter.com/kaydo/status/1259747848502960130)
 * [Show HN: React Native scrollable bottom sheet native animations gestures 60FPS](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
 * [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
-* [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
-* [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
-* [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
-* [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
-* [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
-* [Destroyed by Rockefellers, Mural Trespassed on Political Vision (2014)](https://www.npr.org/2014/03/09/287745199/destroyed-by-rockefellers-mural-trespassed-on-political-vision)
 * [Herd of Fuzzy Green 'Glacier Mice' Baffles Scientists](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
+* [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
+* [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
+* [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
+* [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
+* [Destroyed by Rockefellers, Mural Trespassed on Political Vision (2014)](https://www.npr.org/2014/03/09/287745199/destroyed-by-rockefellers-mural-trespassed-on-political-vision)
 * [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
-* [Facebook pay cuts for remote employees who move prove that labor market rigged?](https://philip.greenspun.com/blog/2020/05/22/facebook-pay-cuts-for-remote-employees-who-move-to-nevada-or-texas-prove-that-the-labor-market-is-rigged/)
 * [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
+* [Facebook pay cuts for remote employees who move prove that labor market rigged?](https://philip.greenspun.com/blog/2020/05/22/facebook-pay-cuts-for-remote-employees-who-move-to-nevada-or-texas-prove-that-the-labor-market-is-rigged/)
 * [110M year-old nodosaur is the best-preserved fossil of its kind (2017)](https://www.nationalgeographic.com/magazine/2017/06/dinosaur-nodosaur-fossil-discovery/)
 * [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Using SQL to find my best photo of a pelican according to Apple Photos](https://simonwillison.net/2020/May/21/dogsheep-photos/)
 * [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
 * [Out-of-Sync ‘Loners’ May Secretly Protect Orderly Swarms](https://www.quantamagazine.org/out-of-sync-loners-may-secretly-protect-orderly-swarms-20200521/)
 * [Show HN: Create a custom macOS app from a group of websites](https://github.com/hkgumbs/multi)
-* [Chip-scale blue light phased array](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1934)
 * [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
-* [Where Do Eels Come From?](https://www.newyorker.com/magazine/2020/05/25/where-do-eels-come-from)
+* [Chip-scale blue light phased array](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1934)
 * [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
+* [Where Do Eels Come From?](https://www.newyorker.com/magazine/2020/05/25/where-do-eels-come-from)
 * [Hertz files for bankruptcy protection](https://www.nytimes.com/2020/05/22/business/hertz-bankruptcy-coronavirus-car-rental.html)
 * [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
 * [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
-* [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [Employers are rethinking open-plan office design](https://www.citylab.com/life/2020/05/open-office-design-coronavirus-risk-safe-workplace-health/611299/)
+* [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 ## nytimes.com
 
 
@@ -81,19 +81,19 @@ layout: default
 * [‘Lionhearted’ Girl Bikes Dad Across India, Inspiring a Nation](https://www.nytimes.com/2020/05/22/world/asia/india-bicycle-girl-migrants.html)
 * [Ahmaud Arbery Shooting: Investigators Say William Bryan Was More Than a Witness](https://www.nytimes.com/2020/05/22/us/ahmaud-arbery-william-roddie-bryan.html)
 * [Jerry Sloan, Hall of Fame N.B.A. Guard and Coach, Dies at 78](https://www.nytimes.com/2020/05/22/sports/basketball/jerry-sloan-dead.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [A Philip Glass Score Was Lost. 50 Years Later, Here It Is.](https://www.nytimes.com/2020/05/22/arts/music/philip-glass-music-in-eight-parts.html)
 * [Why a ‘Strange and Nerdy’ Book About Eels Is Making Waves](https://www.nytimes.com/2020/05/22/books/patrik-svensson-book-of-eels-sweden.html)
 * [A Bright, Comforting One-Pot Stew With West African Roots](https://www.nytimes.com/2020/05/22/dining/asaro-summer-recipe.html)
 * [How Women are Getting Squeezed by the Pandemic](https://www.nytimes.com/2020/05/20/us/women-economy-jobs-coronavirus-gender.html)
 * [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
+* [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
 * [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
-* [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
 * [Tara Reade Is Dropped as Client by a Leading #MeToo Lawyer](https://www.nytimes.com/2020/05/21/us/politics/tara-reade-credentials.html)
 * [Church That Defied Coronavirus Restrictions Is Burned to Ground](https://www.nytimes.com/2020/05/22/us/mississippi-church-arson-coronavirus.html)
@@ -103,6 +103,7 @@ layout: default
 ## globo.com
 
 
+* [Celso Barros: 'Todos os clubes têm que ter responsabilidade sobre o que estamos vivendo'](https://oglobo.globo.com/esportes/celso-barros-todos-os-clubes-tem-que-ter-responsabilidade-sobre-que-estamos-vivendo-24441325)
 * [Artigo: Vacinação, bem público global](https://oglobo.globo.com/opiniao/artigo-vacinacao-bem-publico-global-24439003)
 * [Em duas horas de reunião, Bolsonaro e ministros disparam 42 palavrões; presidente lidera com 34](https://oglobo.globo.com/brasil/em-duas-horas-de-reuniao-bolsonaro-ministros-disparam-42-palavroes-presidente-lidera-com-34-24442590)
 * [Artigo: Vulnerabilidade em tempos de Covid-19](https://oglobo.globo.com/opiniao/artigo-vulnerabilidade-em-tempos-de-covid-19-1-24439195)
@@ -112,4 +113,3 @@ layout: default
 * [Tempos sombrios](https://oglobo.globo.com/opiniao/tempos-sombrios-24441738)
 * [O médico decide](https://oglobo.globo.com/opiniao/o-medico-decide-24441685)
 * [Artigo: Colapso da saúde no Rio vem de antes da pandemia](https://oglobo.globo.com/opiniao/artigo-colapso-da-saude-no-rio-vem-de-antes-da-pandemia-24441450)
-* [Celso Barros: 'Todos os clubes têm que ter responsabilidade sobre o que estamos vivendo'](https://oglobo.globo.com/esportes/celso-barros-todos-os-clubes-tem-que-ter-responsabilidade-sobre-que-estamos-vivendo-24441325)

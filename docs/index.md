@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 06:12:26 UTC
+# indexed at 23/05/2020 06:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [I think my BBQ just offered to be my default browser?](https://twitter.com/kaydo/status/1259747848502960130)
 * [Netflix Stops Charging Customers Who Never Watch](https://www.bbc.com/news/technology-52777365)
 * [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
-* [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
 * [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
+* [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
 * [Destroyed by Rockefellers, Mural Trespassed on Political Vision (2014)](https://www.npr.org/2014/03/09/287745199/destroyed-by-rockefellers-mural-trespassed-on-political-vision)
 * [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
+* [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
+* [Facebook pay cuts for remote employees who move prove that labor market rigged?](https://philip.greenspun.com/blog/2020/05/22/facebook-pay-cuts-for-remote-employees-who-move-to-nevada-or-texas-prove-that-the-labor-market-is-rigged/)
 * [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
 * [110M year-old nodosaur is the best-preserved fossil of its kind (2017)](https://www.nationalgeographic.com/magazine/2017/06/dinosaur-nodosaur-fossil-discovery/)
 * [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Using SQL to find my best photo of a pelican according to Apple Photos](https://simonwillison.net/2020/May/21/dogsheep-photos/)
 * [Out-of-Sync ‘Loners’ May Secretly Protect Orderly Swarms](https://www.quantamagazine.org/out-of-sync-loners-may-secretly-protect-orderly-swarms-20200521/)
 * [Show HN: Create a custom macOS app from a group of websites](https://github.com/hkgumbs/multi)
-* [Hertz files for bankruptcy protection](https://www.nytimes.com/2020/05/22/business/hertz-bankruptcy-coronavirus-car-rental.html)
 * [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
+* [Hertz files for bankruptcy protection](https://www.nytimes.com/2020/05/22/business/hertz-bankruptcy-coronavirus-car-rental.html)
 * [Chip-scale blue light phased array](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1934)
 * [Picture Hanging Knot (2017)](http://blog.ukpictureframingsupplies.co.uk/picture-framing-information/picture-framing-a-picture-cord-knot/)
 * [Where Do Eels Come From?](https://www.newyorker.com/magazine/2020/05/25/where-do-eels-come-from)
 * [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
-* [Facebook pay cuts for remote employees who move prove that labor market rigged?](https://philip.greenspun.com/blog/2020/05/22/facebook-pay-cuts-for-remote-employees-who-move-to-nevada-or-texas-prove-that-the-labor-market-is-rigged/)
 * [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
 * [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
 * [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
 * [Employers are rethinking open-plan office design](https://www.citylab.com/life/2020/05/open-office-design-coronavirus-risk-safe-workplace-health/611299/)
 * [Vintage Telephones Hacked with Raspberry Pis to Create Intercom [video]](https://www.youtube.com/watch?v=gN1owkwFsdY)
-* [On Facebook and YouTube, classical musicians are getting blocked or muted](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html)
 ## nytimes.com
 
 
@@ -83,8 +83,8 @@ layout: default
 * [Jerry Sloan, Hall of Fame N.B.A. Guard and Coach, Dies at 78](https://www.nytimes.com/2020/05/22/sports/basketball/jerry-sloan-dead.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [A Philip Glass Score Was Lost. 50 Years Later, Here It Is.](https://www.nytimes.com/2020/05/22/arts/music/philip-glass-music-in-eight-parts.html)
 * [Why a ‘Strange and Nerdy’ Book About Eels Is Making Waves](https://www.nytimes.com/2020/05/22/books/patrik-svensson-book-of-eels-sweden.html)
@@ -92,8 +92,8 @@ layout: default
 * [How Women are Getting Squeezed by the Pandemic](https://www.nytimes.com/2020/05/20/us/women-economy-jobs-coronavirus-gender.html)
 * [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
-* [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
 * [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
+* [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
 * [Tara Reade Is Dropped as Client by a Leading #MeToo Lawyer](https://www.nytimes.com/2020/05/21/us/politics/tara-reade-credentials.html)
 * [Church That Defied Coronavirus Restrictions Is Burned to Ground](https://www.nytimes.com/2020/05/22/us/mississippi-church-arson-coronavirus.html)

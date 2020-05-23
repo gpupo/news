@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 20:13:14 UTC
+# indexed at 23/05/2020 20:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6)
 * [Unable to deal with Chrome Extension Team, Kozmos is shutting down](https://kodfabrik.com/journal/why-am-i-shutting-down-kozmos)
-* [Show HN: A dependently-typed programming language with static memory management](https://github.com/u2zv1wx/neut)
 * [GraphBLAS – Graph algorithms in the language of linear algebra](http://graphblas.org/)
+* [Show HN: A dependently-typed programming language with static memory management](https://github.com/u2zv1wx/neut)
 * [Why immunity passports are a bad idea](https://www.nature.com/articles/d41586-020-01451-0)
+* [Show HN: A WebGL Tribute to Tron(1982), movie that made me fall in love with CGI](https://mgz.me/?scene=TheLightCycles)
 * [The Ten Commandments for C Programmers (1990)](https://www.lysator.liu.se/c/ten-commandments.html)
 * [First Krita Beta for Android and ChromeOS in Play Store](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/)
 * [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
-* [Show HN: A WebGL Tribute to Tron(1982), movie that made me fall in love with CGI](https://mgz.me/?scene=TheLightCycles)
 * [Court rules “Dueling Dinos” belong to landowners](https://www.sciencemag.org/news/2020/05/court-rules-dueling-dinos-belong-landowners-win-science)
 * [Back of the envelope estimation hacks](https://robertovitillo.com/back-of-the-envelope-estimation-hacks/)
 * [Assembly's Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
+* [Sam's Laser Repair FAQ](https://www.repairfaq.org/sam/lasersam.htm)
 * [Catalina is checking notarization of unsigned executables](https://lapcatsoftware.com/articles/catalina-executables.html)
 * [Researchers have achieved an internet speed of 44.2 terabits per second](https://www.independent.co.uk/life-style/gadgets-and-tech/news/internet-speed-world-record-fastest-download-a9527236.html)
-* [Sam's Laser Repair FAQ](https://www.repairfaq.org/sam/lasersam.htm)
-* [One-pass Compiler](https://keleshev.com/one-pass-compiler-primer)
 * [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, & macOS](https://github.com/myspaghetti/macos-virtualbox)
-* [Show HN: Discohash – Fast Hash](https://github.com/cris691/discohash.git)
 * [loginsrv: JWT login microservice with back ends like OAuth2, Google, GitHub](https://github.com/tarent/loginsrv)
+* [One-pass Compiler](https://keleshev.com/one-pass-compiler-primer)
 * [Ask HN: Who regrets choosing Elixir?](https://news.ycombinator.com/item?id=23283675)
+* [London may have gone into a Covid-accelerated decline](https://www.economist.com/britain/2020/05/21/london-may-have-gone-into-a-covid-accelerated-decline)
+* [Show HN: Discohash – Fast Hash](https://github.com/cris691/discohash.git)
 * [SQLite 3.32.0](https://sqlite.org/releaselog/3_32_0.html)
 * [Hacker Mods Old Calculator to Access the Internet, Casio Files DMCA Complaint](https://torrentfreak.com/hacker-mods-old-calculator-to-access-the-internet-casio-files-dmca-complaint-200523/)
 * [Herd of Fuzzy Green 'Glacier Mice' Baffles Scientists](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
-* [Science Fiction Timeline of Inventions](http://www.technovelgy.com/ct/ctnlistPubDate.asp)
 * [How to write a programming book](https://www.aquicarattino.com/blog/how-write-programming-book/)
+* [Science Fiction Timeline of Inventions](http://www.technovelgy.com/ct/ctnlistPubDate.asp)
 * [Ask HN: How do you brand yourself as a freelancer?](https://news.ycombinator.com/item?id=23282278)
 * [Gitlab phished its own work-from-home staff, and 1 in 5 fell for it](https://www.theregister.co.uk/2020/05/21/gitlab_phishing_pentest/)
 * [Python Generated Sequence Diagrams](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html)
 * [Netflix stops charging customers who never watch](https://www.bbc.com/news/technology-52777365)
-* [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 ## nytimes.com
 
 
@@ -78,20 +78,20 @@ layout: default
 * [Trump Takes Aim at a Watergate Reform: The Independent Inspector General](https://www.nytimes.com/2020/05/22/us/politics/trump-inspectors-general.html)
 * [Biden’s ‘Breakfast Club’ Controversy Shows What His Rivals Already Knew](https://www.nytimes.com/2020/05/23/us/politics/joe-biden-breakfast-club.html)
 * [The New Training Facilities: Backyard Gym, Hallway Track](https://www.nytimes.com/2020/05/23/sports/the-new-training-facilities-backyard-gym-hallway-track.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [With Museums Closed, Coffee-Table Books Bring the Art to You](https://www.nytimes.com/2020/05/22/books/review/coffee-table-art-books-gerhard-richter-basquiat.html)
 * [A No. 1 Hit Vanished From Poland’s Charts. It’s Not Going Quietly.](https://www.nytimes.com/2020/05/22/arts/music/poland-chart-song-removed.html)
 * [Trichotillomania, Isolation and Anxiety: What to Do?](https://www.nytimes.com/2020/05/21/fashion/trichotillomania-anxiety-treatment.html)
 * [You Can’t Beat a Savory Babka](https://www.nytimes.com/2020/05/22/dining/savory-babka-recipe.html)
 * [Akim Aliu’s Account of Racism Pushes Hockey to Search Its Soul](https://www.nytimes.com/2020/05/23/sports/hockey/akim-aliu-nhl-racism.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
-* [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
 * [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [This One-Bowl Cake Is Worthy of Its Own Celebration](https://www.nytimes.com/2020/05/22/dining/celebration-cake-recipe-coronavirus.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
@@ -102,11 +102,11 @@ layout: default
 ## globo.com
 
 
+* [Abin recebeu 1.272 relatórios de inteligência para repassar informações a Bolsonaro](https://oglobo.globo.com/brasil/abin-recebeu-1272-relatorios-de-inteligencia-para-repassar-informacoes-bolsonaro-24442887)
 * [Com casos de Covid-19 em queda, Nova York alivia restrições e permite reuniões de grupos de até 10 pessoas](https://oglobo.globo.com/mundo/com-casos-de-covid-19-em-queda-nova-york-alivia-restricoes-permite-reunioes-de-grupos-de-ate-10-pessoas-24442982)
 * [Caso João Pedro: Polícia vai fazer reprodução simulada após ouvir depoimentos e analisar laudos](https://oglobo.globo.com/rio/caso-joao-pedro-policia-vai-fazer-reproducao-simulada-apos-ouvir-depoimentos-analisar-laudos-24442947)
 * [Abin recebeu 1.272 relatórios de inteligência para repassar informações a Jair Bolsonaro](https://oglobo.globo.com/brasil/abin-recebeu-1272-relatorios-de-inteligencia-para-repassar-informacoes-jair-bolsonaro-24442981)
 * [Salles não explica quais normas gostaria de 'passar a boiada' durante a pandemia da Covid-19](https://oglobo.globo.com/analitico/salles-nao-explica-quais-normas-gostaria-de-passar-boiada-durante-pandemia-da-covid-19-24442771)
-* [Abin recebeu 1.272 relatórios de inteligência para repassar informações a Bolsonaro](https://oglobo.globo.com/brasil/abin-recebeu-1272-relatorios-de-inteligencia-para-repassar-informacoes-bolsonaro-24442887)
 * [Greta Thunberg reage à fala de Salles: 'imagine o que tem sido dito longe das câmeras'](https://oglobo.globo.com/sociedade/greta-thunberg-reage-fala-de-salles-imagine-que-tem-sido-dito-longe-das-cameras-24442948)
 * [Bundesliga: Bayern goleia Frankfurt com 'torcida' em caixas de som e mantém liderança](https://oglobo.globo.com/esportes/bundesliga-bayern-goleia-frankfurt-com-torcida-em-caixas-de-som-mantem-lideranca-24442945)
 * [Para enfrentar pandemia, grupos de empresários promovem encontros virtuais](https://oglobo.globo.com/economia/apoieonegociolocal/para-enfrentar-pandemia-grupos-de-empresarios-promovem-encontros-virtuais-24442936)

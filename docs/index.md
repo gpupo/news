@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 10:11:12 UTC
+# indexed at 23/05/2020 10:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -10,26 +10,27 @@ layout: default
 
 * [Netflix stops charging customers who never watch](https://www.bbc.com/news/technology-52777365)
 * [I think my BBQ just offered to be my default browser?](https://twitter.com/kaydo/status/1259747848502960130)
-* [Herd of Fuzzy Green 'Glacier Mice' Baffles Scientists](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
 * [Convos IRC client now supports video chat](https://convos.by/2020/5/23/experimental-video-support-using-webrtc.html)
+* [First Krita Beta for Android and ChromeOS in Play Store](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/)
+* [Herd of Fuzzy Green 'Glacier Mice' Baffles Scientists](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
 * [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
 * [Show HN: React Native scrollable bottom sheet native animations gestures 60FPS](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
 * [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [Python Generated Sequence Diagrams](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html)
-* [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 * [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
+* [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 * [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+* [JWT scope claim compression using a bitmap](https://raphael.medaer.me/2020/05/21/scope-bitmap.html)
 * [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
-* [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
 * [Destroyed by Rockefellers, Mural Trespassed on Political Vision (2014)](https://www.npr.org/2014/03/09/287745199/destroyed-by-rockefellers-mural-trespassed-on-political-vision)
-* [JWT scope claim compression using a bitmap](https://raphael.medaer.me/2020/05/21/scope-bitmap.html)
+* [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
 * [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
 * [Into the Tar Pit](https://einarwh.wordpress.com/2020/05/19/into-the-tar-pit/)
-* [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Out-of-Sync ‘Loners’ May Secretly Protect Orderly Swarms](https://www.quantamagazine.org/out-of-sync-loners-may-secretly-protect-orderly-swarms-20200521/)
 * [Show HN: Create a custom macOS app from a group of websites](https://github.com/hkgumbs/multi)
 * [Beekeeper Studio 1.4 – SSH Tunnels, SQL Server, and Clicking](https://www.beekeeperstudio.io/blog/release-1.4)
+* [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
 * [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
 * [HP, HPE accused of coordinated plan to oust older staff](https://www.theregister.co.uk/2020/05/22/hp_hpe_accused_of_coordinated/)
@@ -37,14 +38,13 @@ layout: default
 * [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
 * [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
-* [Siri, What Time Is It in London?](https://daringfireball.net/linked/2020/05/22/what-time-is-it-in-london)
 ## nytimes.com
 
 
 * [Memorial Day Beckons, but the Coronavirus Pandemic Looms](https://www.nytimes.com/2020/05/22/us/coronavirus-memorial-day-weekend.html)
 * [Beach Towns Have a Message for New York City Residents: Go Away](https://www.nytimes.com/2020/05/22/nyregion/beaches-ny-coronavirus.html)
 * [New York Relaxes Rules, Approving All Gatherings of Up to 10 People](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-ny-nj-live-cases-deaths.html)
-* [Coronavirus News: Live Updates](https://www.nytimes.com/2020/05/23/world/coronavirus-updates.html)
+* [Live Coronavirus News Updates and Analysis](https://www.nytimes.com/2020/05/23/world/coronavirus-updates.html)
 * [Firing a Salvo in Culture Wars, Trump Pushes for Churches to Reopen](https://www.nytimes.com/2020/05/22/us/politics/trump-churches-coronavirus.html)
 * [Hertz, Car Rental Pioneer, Files for Bankruptcy Protection](https://www.nytimes.com/2020/05/22/business/hertz-bankruptcy-coronavirus-car-rental.html)
 * [What Role Should Employers Play in Testing Workers?](https://www.nytimes.com/2020/05/22/business/employers-coronavirus-testing.html)
@@ -80,18 +80,18 @@ layout: default
 * [After 3 Children Die, a Race to Investigate a Baffling Virus Syndrome](https://www.nytimes.com/2020/05/22/nyregion/children-coronavirus-syndrome-new-york.html)
 * [Biden’s ‘Breakfast Club’ Controversy Shows What His Rivals Already Knew](https://www.nytimes.com/2020/05/23/us/politics/joe-biden-breakfast-club.html)
 * [Jacinda Ardern Sold a Drastic Lockdown With Straight Talk and Mom Jokes](https://www.nytimes.com/2020/05/23/world/asia/jacinda-ardern-coronavirus-new-zealand.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [With Museums Closed, Coffee-Table Books Bring the Art to You](https://www.nytimes.com/2020/05/22/books/review/coffee-table-art-books-gerhard-richter-basquiat.html)
 * [A No. 1 Hit Vanished From Poland’s Charts. It’s Not Going Quietly.](https://www.nytimes.com/2020/05/22/arts/music/poland-chart-song-removed.html)
 * [Trichotillomania, Isolation and Anxiety: What to Do?](https://www.nytimes.com/2020/05/21/fashion/trichotillomania-anxiety-treatment.html)
 * [You Can’t Beat a Savory Babka](https://www.nytimes.com/2020/05/22/dining/savory-babka-recipe.html)
 * [Akim Aliu’s Account of Racism Pushes Hockey to Search Its Soul](https://www.nytimes.com/2020/05/23/sports/hockey/akim-aliu-nhl-racism.html)
-* [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
 * [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
+* [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
 * [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
@@ -103,6 +103,7 @@ layout: default
 ## globo.com
 
 
+* [Quem teve Covid-19 e se curou adverte: 'Fique em casa'](https://oglobo.globo.com/rio/bairros/quem-teve-covid-19-se-curou-adverte-fique-em-casa-24438334)
 * [Não consegue ler um livro? Entenda por que a pandemia derruba nossa capacidade de concentração](https://oglobo.globo.com/cultura/nao-consegue-ler-um-livro-entenda-por-que-pandemia-derruba-nossa-capacidade-de-concentracao-24442362)
 * [Augusto Aras pedirá a STF depoimento de Bolsonaro](https://epoca.globo.com/guilherme-amado/augusto-aras-pedira-stf-depoimento-de-bolsonaro-24442528)
 * [Como o desmatamento se alastra na Amazônia durante escalada de pandemia de coronavírus](https://epoca.globo.com/sociedade/como-desmatamento-se-alastra-na-amazonia-durante-escalada-de-pandemia-de-coronavirus-24441196)
@@ -111,5 +112,4 @@ layout: default
 * [Malala, Frida ou Clementina de Jesus: 10 filmes e documentários baseados na vida de mulheres que fizeram história](https://oglobo.globo.com/celina/malala-frida-ou-clementina-de-jesus-10-filmes-documentarios-baseados-na-vida-de-mulheres-que-fizeram-historia-24441934)
 * [Novas habilidades são afloradas durante o isolamento social](https://oglobo.globo.com/rio/bairros/novas-habilidades-sao-afloradas-durante-isolamento-social-1-24441640)
 * [Artigo: Colapso da saúde no Rio vem de antes da pandemia](https://oglobo.globo.com/opiniao/artigo-colapso-da-saude-no-rio-vem-de-antes-da-pandemia-24441450)
-* [Quem teve Covid-19 e se curou adverte: 'Fique em casa'](https://oglobo.globo.com/rio/bairros/quem-teve-covid-19-se-curou-adverte-fique-em-casa-24438334)
 * [Fornadas de pães artesanais se multiplicam na quarentena](https://oglobo.globo.com/rio/bairros/fornadas-de-paes-artesanais-se-multiplicam-na-quarentena-24441020)

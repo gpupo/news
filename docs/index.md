@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 11:10:55 UTC
+# indexed at 23/05/2020 11:50:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [First Krita Beta for Android and ChromeOS in Play Store](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/)
+* [Gitlab phished its own work-from-home staff. 1 in 5 fell for it](https://www.theregister.co.uk/2020/05/21/gitlab_phishing_pentest/)
 * [Netflix stops charging customers who never watch](https://www.bbc.com/news/technology-52777365)
 * [I think my BBQ just offered to be my default browser?](https://twitter.com/kaydo/status/1259747848502960130)
-* [Convos IRC client now supports video chat](https://convos.by/2020/5/23/experimental-video-support-using-webrtc.html)
-* [Gitlab phished its own work-from-home staff. 1 in 5 fell for it](https://www.theregister.co.uk/2020/05/21/gitlab_phishing_pentest/)
 * [Herd of Fuzzy Green 'Glacier Mice' Baffles Scientists](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
-* [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
+* [Convos IRC client now supports video chat](https://convos.by/2020/5/23/experimental-video-support-using-webrtc.html)
 * [Show HN: React Native scrollable bottom sheet native animations gestures 60FPS](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
 * [Python Generated Sequence Diagrams](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html)
 * [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 * [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
 * [JWT scope claim compression using a bitmap](https://raphael.medaer.me/2020/05/21/scope-bitmap.html)
+* [Science Fiction Timeline of Inventions](http://www.technovelgy.com/ct/ctnlistPubDate.asp)
 * [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
 * [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
 * [Destroyed by Rockefellers, Mural Trespassed on Political Vision (2014)](https://www.npr.org/2014/03/09/287745199/destroyed-by-rockefellers-mural-trespassed-on-political-vision)
 * [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
+* [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
 * [Into the Tar Pit](https://einarwh.wordpress.com/2020/05/19/into-the-tar-pit/)
-* [Out-of-Sync ‘Loners’ May Secretly Protect Orderly Swarms](https://www.quantamagazine.org/out-of-sync-loners-may-secretly-protect-orderly-swarms-20200521/)
-* [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Beekeeper Studio 1.4 – SSH Tunnels, SQL Server, and Clicking](https://www.beekeeperstudio.io/blog/release-1.4)
-* [Show HN: Create a custom macOS app from a group of websites](https://github.com/hkgumbs/multi)
+* [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
-* [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
+* [AMD Ryzen 9 3900x price drop could take the wind out of Intel comet lake sales](https://www.techradar.com/in/news/amd-ryzen-9-3900x-price-drop-could-take-the-wind-out-of-intel-comet-lake-cpu-sales)
 * [HP, HPE accused of coordinated plan to oust older staff](https://www.theregister.co.uk/2020/05/22/hp_hpe_accused_of_coordinated/)
 * [Chip-scale blue light phased array](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1934)
-* [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
 * [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
+* [Gourami: An intentionally small, lightweight ActivityPub microblogging service](https://dev.gourami.social/)
+* [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
 ## nytimes.com
 
 
@@ -80,33 +80,33 @@ layout: default
 * [After 3 Children Die, a Race to Investigate a Baffling Virus Syndrome](https://www.nytimes.com/2020/05/22/nyregion/children-coronavirus-syndrome-new-york.html)
 * [Biden’s ‘Breakfast Club’ Controversy Shows What His Rivals Already Knew](https://www.nytimes.com/2020/05/23/us/politics/joe-biden-breakfast-club.html)
 * [Jacinda Ardern Sold a Drastic Lockdown With Straight Talk and Mom Jokes](https://www.nytimes.com/2020/05/23/world/asia/jacinda-ardern-coronavirus-new-zealand.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [With Museums Closed, Coffee-Table Books Bring the Art to You](https://www.nytimes.com/2020/05/22/books/review/coffee-table-art-books-gerhard-richter-basquiat.html)
 * [A No. 1 Hit Vanished From Poland’s Charts. It’s Not Going Quietly.](https://www.nytimes.com/2020/05/22/arts/music/poland-chart-song-removed.html)
 * [Trichotillomania, Isolation and Anxiety: What to Do?](https://www.nytimes.com/2020/05/21/fashion/trichotillomania-anxiety-treatment.html)
 * [You Can’t Beat a Savory Babka](https://www.nytimes.com/2020/05/22/dining/savory-babka-recipe.html)
 * [Akim Aliu’s Account of Racism Pushes Hockey to Search Its Soul](https://www.nytimes.com/2020/05/23/sports/hockey/akim-aliu-nhl-racism.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
 * [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
+* [Coronavirus and Beaches: Can I Safely Enjoy the Sun, Surf and Sand?](https://www.nytimes.com/article/beaches-coronavirus.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
 * [Tara Reade Is Dropped as Client by a Leading #MeToo Lawyer](https://www.nytimes.com/2020/05/21/us/politics/tara-reade-credentials.html)
-* [Church That Defied Coronavirus Restrictions Is Burned to Ground](https://www.nytimes.com/2020/05/22/us/mississippi-church-arson-coronavirus.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Em sexta de sol, isolamento cai e número de pessoas aumenta 22% nas ruas do Rio](https://oglobo.globo.com/rio/em-sexta-de-sol-isolamento-cai-numero-de-pessoas-aumenta-22-nas-ruas-do-rio-24442651)
 * [Para fashionistas, pandemia não é desculpa para pijama virar uniforme](https://oglobo.globo.com/ela/moda/para-fashionistas-pandemia-nao-desculpa-para-pijama-virar-uniforme-24438443)
 * [Isolamento pelo coronavírus aumenta troca de nudes e vazamento de imagens](https://oglobo.globo.com/ela/gente/isolamento-pelo-coronavirus-aumenta-troca-de-nudes-vazamento-de-imagens-24438494)
 * [Vídeo de reunião inflama base mais fiel a governo, mas afasta apoio de outros grupos, dizem analistas](https://epoca.globo.com/video-de-reuniao-inflama-base-mais-fiel-governo-mas-afasta-apoio-de-outros-grupos-dizem-analistas-24442645)
-* [Quem teve Covid-19 e se curou adverte: 'Fique em casa'](https://oglobo.globo.com/rio/bairros/quem-teve-covid-19-se-curou-adverte-fique-em-casa-24438334)
 * [Quanto custaria aumentar em 20% o salário dos servidores da saúde durante a pandemia?](https://epoca.globo.com/guilherme-amado/quanto-custaria-aumentar-em-20-salario-dos-servidores-da-saude-durante-pandemia-1-24441559)
 * [Ala de militares da reserva pede a Bolsonaro mais contundência no comando das Forças Armadas](https://epoca.globo.com/brasil/ala-de-militares-da-reserva-pede-bolsonaro-mais-contundencia-no-comando-das-forcas-armadas-24442442)
 * [Siqueira Castro, grande banca de advocacia, demite todos os estagiários](https://epoca.globo.com/guilherme-amado/siqueira-castro-grande-banca-de-advocacia-demite-todos-os-estagiarios-24442375)

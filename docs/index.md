@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 09:11:14 UTC
+# indexed at 23/05/2020 09:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Netflix stops charging customers who never watch](https://www.bbc.com/news/technology-52777365)
 * [I think my BBQ just offered to be my default browser?](https://twitter.com/kaydo/status/1259747848502960130)
-* [Show HN: React Native scrollable bottom sheet native animations gestures 60FPS](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
-* [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
 * [Convos IRC client now supports video chat](https://convos.by/2020/5/23/experimental-video-support-using-webrtc.html)
 * [Herd of Fuzzy Green 'Glacier Mice' Baffles Scientists](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
+* [Show HN: React Native scrollable bottom sheet native animations gestures 60FPS](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
+* [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
 * [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
 * [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
-* [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [Python Generated Sequence Diagrams](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html)
-* [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
+* [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [Destroyed by Rockefellers, Mural Trespassed on Political Vision (2014)](https://www.npr.org/2014/03/09/287745199/destroyed-by-rockefellers-mural-trespassed-on-political-vision)
+* [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+* [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
 * [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
 * [Into the Tar Pit](https://einarwh.wordpress.com/2020/05/19/into-the-tar-pit/)
-* [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-* [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
 * [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
 * [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Out-of-Sync ‘Loners’ May Secretly Protect Orderly Swarms](https://www.quantamagazine.org/out-of-sync-loners-may-secretly-protect-orderly-swarms-20200521/)
 * [Show HN: Create a custom macOS app from a group of websites](https://github.com/hkgumbs/multi)
 * [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
-* [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
-* [Chip-scale blue light phased array](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1934)
 * [Beekeeper Studio 1.4 – SSH Tunnels, SQL Server, and Clicking](https://www.beekeeperstudio.io/blog/release-1.4)
+* [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
+* [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
+* [Chip-scale blue light phased array](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1934)
 * [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
-* [Hertz files for bankruptcy protection](https://www.nytimes.com/2020/05/22/business/hertz-bankruptcy-coronavirus-car-rental.html)
 * [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
+* [HP, HPE accused of coordinated plan to oust older staff](https://www.theregister.co.uk/2020/05/22/hp_hpe_accused_of_coordinated/)
 * [Siri, What Time Is It in London?](https://daringfireball.net/linked/2020/05/22/what-time-is-it-in-london)
 ## nytimes.com
 
@@ -81,17 +81,17 @@ layout: default
 * [‘Lionhearted’ Girl Bikes Dad Across India, Inspiring a Nation](https://www.nytimes.com/2020/05/22/world/asia/india-bicycle-girl-migrants.html)
 * [Ahmaud Arbery Shooting: Investigators Say William Bryan Was More Than a Witness](https://www.nytimes.com/2020/05/22/us/ahmaud-arbery-william-roddie-bryan.html)
 * [Jerry Sloan, Hall of Fame N.B.A. Guard and Coach, Dies at 78](https://www.nytimes.com/2020/05/22/sports/basketball/jerry-sloan-dead.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [A Philip Glass Score Was Lost. 50 Years Later, Here It Is.](https://www.nytimes.com/2020/05/22/arts/music/philip-glass-music-in-eight-parts.html)
 * [Why a ‘Strange and Nerdy’ Book About Eels Is Making Waves](https://www.nytimes.com/2020/05/22/books/patrik-svensson-book-of-eels-sweden.html)
 * [A Bright, Comforting One-Pot Stew With West African Roots](https://www.nytimes.com/2020/05/22/dining/asaro-summer-recipe.html)
 * [How Women are Getting Squeezed by the Pandemic](https://www.nytimes.com/2020/05/20/us/women-economy-jobs-coronavirus-gender.html)
-* [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
 * [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
+* [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)

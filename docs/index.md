@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 03:26:23 UTC
+# indexed at 23/05/2020 03:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -32,12 +32,12 @@ layout: default
 * [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
 * [Where Do Eels Come From?](https://www.newyorker.com/magazine/2020/05/25/where-do-eels-come-from)
 * [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
+* [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
 * [Vintage Telephones Hacked with Raspberry Pis to Create Intercom](https://blog.adafruit.com/2020/05/22/create-a-london-eye-model-and-turbine-station-with-a-microbit/)
 * [Employers are rethinking open-plan office design](https://www.citylab.com/life/2020/05/open-office-design-coronavirus-risk-safe-workplace-health/611299/)
 * [On Facebook and YouTube, classical musicians are getting blocked or muted](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html)
-* [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
 * [Siri, What Time Is It in London?](https://daringfireball.net/linked/2020/05/22/what-time-is-it-in-london)
-* [Thirty-Six Thousand Feet Under the Sea](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea)
+* [GitLab 13.0](https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/)
 ## nytimes.com
 
 
@@ -81,19 +81,19 @@ layout: default
 * [‘Lionhearted’ Girl Bikes Dad Across India, Inspiring a Nation](https://www.nytimes.com/2020/05/22/world/asia/india-bicycle-girl-migrants.html)
 * [Ahmaud Arbery Shooting: Investigators Say William Bryan Was More Than a Witness](https://www.nytimes.com/2020/05/22/us/ahmaud-arbery-william-roddie-bryan.html)
 * [Jerry Sloan, Hall of Fame N.B.A. Guard and Coach, Dies at 78](https://www.nytimes.com/2020/05/22/sports/basketball/jerry-sloan-dead.html)
-* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
-* [Disinfectant Against Coronavirus: How to Make and Use](https://www.nytimes.com/article/disinfectant-coronavirus.html)
-* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [A Philip Glass Score Was Lost. 50 Years Later, Here It Is.](https://www.nytimes.com/2020/05/22/arts/music/philip-glass-music-in-eight-parts.html)
 * [Why a ‘Strange and Nerdy’ Book About Eels Is Making Waves](https://www.nytimes.com/2020/05/22/books/patrik-svensson-book-of-eels-sweden.html)
 * [A Bright, Comforting One-Pot Stew With West African Roots](https://www.nytimes.com/2020/05/22/dining/asaro-summer-recipe.html)
 * [How Women are Getting Squeezed by the Pandemic](https://www.nytimes.com/2020/05/20/us/women-economy-jobs-coronavirus-gender.html)
-* [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
+* [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
-* [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
+* [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
 * [Tara Reade Is Dropped as Client by a Leading #MeToo Lawyer](https://www.nytimes.com/2020/05/21/us/politics/tara-reade-credentials.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
 * [10 Great Bottles of Italian White Wine Under $25](https://www.nytimes.com/2020/05/21/dining/drinks/italian-white-wine.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Em duas horas de reunião, Bolsonaro e ministros disparam 42 palavrões; presidente lidera com 34](https://oglobo.globo.com/brasil/em-duas-horas-de-reuniao-bolsonaro-ministros-disparam-42-palavroes-presidente-lidera-com-34-24442590)
+* [Bolsonaro admite que temia operação de busca contra seus filhos e diz que pediu atuação de Moro](https://oglobo.globo.com/brasil/bolsonaro-admite-que-temia-operacao-de-busca-contra-seus-filhos-diz-que-pediu-atuacao-de-moro-1-24442357)
 * [Seis episódios mostram que Bolsonaro queria troca na PF: Confira](https://oglobo.globo.com/brasil/seis-episodios-mostram-que-bolsonaro-queria-troca-na-pf-confira-24442535)
 * [Após divulgação de vídeo de reunião ministerial, embaixada da China diz que Brasil é 'parceiro estratégico global'](https://oglobo.globo.com/mundo/apos-divulgacao-de-video-de-reuniao-ministerial-embaixada-da-china-diz-que-brasil-parceiro-estrategico-global-24442449)
-* [Bolsonaro admite que temia operação de busca contra seus filhos e diz que pediu atuação de Moro](https://oglobo.globo.com/brasil/bolsonaro-admite-que-temia-operacao-de-busca-contra-seus-filhos-diz-que-pediu-atuacao-de-moro-1-24442357)
 * [Em reunião ministerial, Bolsonaro afirma que ‘perde o ministério quem for elogiado pelo GLOBO e pela Folha’](https://oglobo.globo.com/brasil/em-reuniao-ministerial-bolsonaro-afirma-que-perde-ministerio-quem-for-elogiado-pelo-globo-pela-folha-24442496)
 * ['Descubro muitas coisas que lamentavelmente não descubro via as inteligências oficiais', diz Bolsonaro](https://oglobo.globo.com/brasil/descubro-muitas-coisas-que-lamentavelmente-nao-descubro-via-as-inteligencias-oficiais-diz-bolsonaro-24442481)
 * [Cuba anuncia que uso de dois medicamentos produzidos na ilha reduziu número de mortes por Covid-19](https://oglobo.globo.com/sociedade/coronavirus/cuba-anuncia-que-uso-de-dois-medicamentos-produzidos-na-ilha-reduziu-numero-de-mortes-por-covid-19-1-24442361)
-* [Divulgação de reunião não afasta suspeitas contra Bolsonaro e compromete ministros](https://oglobo.globo.com/analitico/divulgacao-de-reuniao-nao-afasta-suspeitas-contra-bolsonaro-compromete-ministros-1-24442328)
 * [Cenas de um governo tenso e sem rumo](https://oglobo.globo.com/opiniao/cenas-de-um-governo-tenso-sem-rumo-1-24442257)
 * [Lives de hoje: Claudia Leitte e Anitta são os destaques deste sábado](https://oglobo.globo.com/cultura/lives-de-hoje-claudia-leitte-anitta-sao-os-destaques-deste-sabado-24441443)
 * [Artigo: Colapso da saúde no Rio vem de antes da pandemia](https://oglobo.globo.com/opiniao/artigo-colapso-da-saude-no-rio-vem-de-antes-da-pandemia-24441450)

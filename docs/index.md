@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/05/2020 05:11:14 UTC
+# indexed at 23/05/2020 05:35:29 UTC
 
 
 ## news.ycombinator.com
@@ -12,16 +12,15 @@ layout: default
 * [I think my BBQ just offered to be my default browser?](https://twitter.com/kaydo/status/1259747848502960130)
 * [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=23276456)
 * [Show HN: Multi-room audio with Snapcast and Raspberry Pi](https://oyvn.github.io/multi-room-audio-with-snapcast)
-* [Netflix Stops Charging Customers Who Never Watch](https://www.bbc.com/news/technology-52777365)
 * [Breathing habits are related to physical and mental health](https://www.wsj.com/articles/the-healing-power-of-proper-breathing-11590098696)
+* [Netflix Stops Charging Customers Who Never Watch](https://www.bbc.com/news/technology-52777365)
+* [Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [If your product is great, it doesn't need to be good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [Multi-node TimescaleDB is now free](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [Next-generation solar cells pass strict international tests](https://www.sydney.edu.au/news-opinion/news/2020/05/22/perovskite-solar-cells-pass-strict-international-tests.html)
 * [110M year-old nodosaur is the best-preserved fossil of its kind (2017)](https://www.nationalgeographic.com/magazine/2017/06/dinosaur-nodosaur-fossil-discovery/)
-* [Facebook pay cuts for remote employees who move prove that labor market rigged?](https://philip.greenspun.com/blog/2020/05/22/facebook-pay-cuts-for-remote-employees-who-move-to-nevada-or-texas-prove-that-the-labor-market-is-rigged/)
 * [FBI cannot even look at your phone lock screen without a warrant, rules judge](https://9to5mac.com/2020/05/22/phone-lock-screen/)
 * [Video Game Heritage and Preservation](http://www.computinghistory.org.uk/pages/56680/videogame-preservation/)
-* [Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [Using SQL to find my best photo of a pelican according to Apple Photos](https://simonwillison.net/2020/May/21/dogsheep-photos/)
 * [Out-of-Sync ‘Loners’ May Secretly Protect Orderly Swarms](https://www.quantamagazine.org/out-of-sync-loners-may-secretly-protect-orderly-swarms-20200521/)
 * [Show HN: Create a custom macOS app from a group of websites](https://github.com/hkgumbs/multi)
@@ -30,14 +29,15 @@ layout: default
 * [Picture Hanging Knot (2017)](http://blog.ukpictureframingsupplies.co.uk/picture-framing-information/picture-framing-a-picture-cord-knot/)
 * [Where Do Eels Come From?](https://www.newyorker.com/magazine/2020/05/25/where-do-eels-come-from)
 * [To show how easy it is for plagiarized news sites to get ad revenue, I made one](https://www.cnbc.com/2020/05/17/broken-internet-ad-system-makes-it-easy-to-earn-money-with-plagiarism.html)
-* [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
 * [PGCon 2020 is free and will stream beginning May 26th](https://www.pgcon.org/2020/)
-* [Vintage Telephones Hacked with Raspberry Pis to Create Intercom [video]](https://www.youtube.com/watch?v=gN1owkwFsdY)
+* [Waiting in Asyncio](https://hynek.me/articles/waiting-in-asyncio/)
 * [Employers are rethinking open-plan office design](https://www.citylab.com/life/2020/05/open-office-design-coronavirus-risk-safe-workplace-health/611299/)
+* [Vintage Telephones Hacked with Raspberry Pis to Create Intercom [video]](https://www.youtube.com/watch?v=gN1owkwFsdY)
 * [Programming Inside a Container](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
 * [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
 * [On Facebook and YouTube, classical musicians are getting blocked or muted](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html)
 * [Siri, What Time Is It in London?](https://daringfireball.net/linked/2020/05/22/what-time-is-it-in-london)
+* [Amphibious Warship USS Portland Shot Down a Drone with Its New High-Power Laser](https://www.thedrive.com/the-war-zone/33634/the-amphibious-warship-uss-portland-has-shot-down-a-drone-with-its-new-high-power-laser)
 ## nytimes.com
 
 
@@ -81,19 +81,19 @@ layout: default
 * [‘Lionhearted’ Girl Bikes Dad Across India, Inspiring a Nation](https://www.nytimes.com/2020/05/22/world/asia/india-bicycle-girl-migrants.html)
 * [Ahmaud Arbery Shooting: Investigators Say William Bryan Was More Than a Witness](https://www.nytimes.com/2020/05/22/us/ahmaud-arbery-william-roddie-bryan.html)
 * [Jerry Sloan, Hall of Fame N.B.A. Guard and Coach, Dies at 78](https://www.nytimes.com/2020/05/22/sports/basketball/jerry-sloan-dead.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [Here’s What to Trim (and What Not to Touch) From Your Budget Right Now](https://www.nytimes.com/2020/04/28/smarter-living/heres-what-to-trim-and-what-not-to-touch-from-your-budget-right-now.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [So You Had a Bad Day …](https://www.nytimes.com/2020/05/12/smarter-living/coronavirus-bad-day.html)
+* [A Guide for First-Time Pet Owners During the Pandemic](https://www.nytimes.com/2020/05/06/smarter-living/a-guide-for-first-time-pet-owners-during-the-pandemic.html)
+* [We Don’t Just Need to Connect — We Need to Reconnect](https://www.nytimes.com/2020/04/24/smarter-living/reconnecting-with-people.html)
 * [A Philip Glass Score Was Lost. 50 Years Later, Here It Is.](https://www.nytimes.com/2020/05/22/arts/music/philip-glass-music-in-eight-parts.html)
 * [Why a ‘Strange and Nerdy’ Book About Eels Is Making Waves](https://www.nytimes.com/2020/05/22/books/patrik-svensson-book-of-eels-sweden.html)
 * [A Bright, Comforting One-Pot Stew With West African Roots](https://www.nytimes.com/2020/05/22/dining/asaro-summer-recipe.html)
 * [How Women are Getting Squeezed by the Pandemic](https://www.nytimes.com/2020/05/20/us/women-economy-jobs-coronavirus-gender.html)
 * [What We Know About the Covid-Related Syndrome Affecting Children](https://www.nytimes.com/2020/05/19/parenting/pmis-coronavirus-children.html)
-* [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [$1.2 Billion From U.S. to Drugmaker to Pursue Coronavirus Vaccine](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html)
+* [Eat Rat, Make New Body: Easy Stuff for Pythons](https://www.nytimes.com/2020/05/12/science/pythons-metabolism-animals-digestion.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
 * [Tara Reade Is Dropped as Client by a Leading #MeToo Lawyer](https://www.nytimes.com/2020/05/21/us/politics/tara-reade-credentials.html)
 * [Church That Defied Coronavirus Restrictions Is Burned to Ground](https://www.nytimes.com/2020/05/22/us/mississippi-church-arson-coronavirus.html)

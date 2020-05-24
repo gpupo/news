@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 20:13:34 UTC
+# indexed at 24/05/2020 20:34:22 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,39 @@ layout: default
 
 * [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 * [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
+* [BaseSAFE: Baseband SAnitized Fuzzing Through Emulation](https://arxiv.org/abs/2005.07797)
 * [Writing and the narrative fallacy (2018)](https://jacklimpert.com/2018/04/jeff-bezos-talks-about-writing-and-the-narrative-fallacy/)
 * [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
-* [Running Lisp in Production (2015)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
+* [Running Lisp in Production (2015)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 * [Lets Draw Together](https://multiuser-sketchpad.glitch.me/)
-* [BaseSAFE: Baseband SAnitized Fuzzing Through Emulation](https://arxiv.org/abs/2005.07797)
+* [Industries that provided in-person services may never operate in-person again](http://theglobeandmail.com/business/careers/article-industries-that-provided-primarily-in-person-services-may-never/)
 * [MiniConf: A Virtual Conference in a Box](https://mini-conf.github.io/index.html)
-* [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
 * [Self Supervised Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
-* [A 1973 IBM Selectric typeball recorded dancers' body movements](https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/)
+* [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
 * [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
-* [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
+* [A 1973 IBM Selectric typeball recorded dancers' body movements](https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/)
 * [My New FreeBSD Laptop: Dell Latitude 7390](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
+* [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
 * [One-Word Domains](https://www.oneword.domains/)
 * [Pantai Remis Landslide](https://en.wikipedia.org/wiki/Pantai_Remis_landslide)
 * [Don’t Be Afraid of RAID](https://louwrentius.com/dont-be-afraid-of-raid.html)
 * [COBS: A Compact Bit-Sliced Signature Index [pdf]](http://bingmann.github.io/2019/publications/1905.09624v2.pdf)
 * [Immutable Databases](https://adlrocha.substack.com/p/adlrocha-immutable-databases)
 * [Show HN: FizzBuzz purely in Rust's trait system](http://github.com/doctorn/trait-eval/)
-* [TSA compton backscattering exposes body to non-negligible radiation (2010)](http://www.public.asu.edu/~atppr/bodyscan.html)
+* [The Challenge of Cross-language Interoperability (2013)](https://queue.acm.org/detail.cfm?id=2543971)
 * [Classic Calculator Was Reverse Engineered from the Bare Metal](https://spectrum.ieee.org/geek-life/hands-on/this-classic-calculator-was-literally-reverse-engineered-from-the-bare-metal)
-* [Show HN: Bosconian (1981), in 3-D](http://nolannicholson.com/bosco-3d/)
+* [TSA compton backscattering exposes body to non-negligible radiation (2010)](http://www.public.asu.edu/~atppr/bodyscan.html)
 * [Restaurants rebel against delivery apps as cities crack down on fees](https://www.nbcnews.com/tech/tech-news/restaurants-rebel-against-delivery-apps-cities-crack-down-fees-n1211456)
-* [NSA “precomputed contact chaining” enhances phone-record tracking program](https://www.wired.com/story/inside-the-nsas-secret-tool-for-mapping-your-social-network/)
 * [Ansiplay.js – Simple ANSI Music Player based on Ansiplay.exe](https://andyherbert.github.io/ansiplay.js/)
-* [Scaling SQLite to 4M QPS on a Single Server (EC2 vs. Bare Metal)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
+* [Show HN: Bosconian (1981), in 3-D](http://nolannicholson.com/bosco-3d/)
 ## nytimes.com
 
 
 * [Coronavirus Live News Updates: Brazil, Vaccines, Hong Kong](https://www.nytimes.com/2020/05/24/world/coronavirus-news-update.html)
-* [A Front Page Full of Names: Behind the Times's Project on U.S. Coronavirus Deaths](https://www.nytimes.com/2020/05/23/reader-center/coronavirus-new-york-times-front-page.html)
+* [The Project Behind a Front Page Full of Names](https://www.nytimes.com/2020/05/23/reader-center/coronavirus-new-york-times-front-page.html)
 * [Coronavirus in N.Y. Live Updates: New Deaths Rise Above 100](https://www.nytimes.com/2020/05/24/nyregion/coronavirus-new-york-update.html)
 * [They Survived the Worst Battles of World War II. And Died of the Virus.](https://www.nytimes.com/2020/05/24/us/they-survived-the-worst-battles-of-world-war-ii-and-died-of-the-virus.html)
 * [For Some Italians, the Future of Work Looks Like the Past](https://www.nytimes.com/2020/05/24/world/europe/italy-farms-coronavirus.html)
@@ -82,19 +82,19 @@ layout: default
 * [Pay Cuts Become a Tool for Some Companies to Avoid Layoffs](https://www.nytimes.com/2020/05/24/business/economy/coronavirus-pay-cuts.html)
 * [Rafael Leonardo Black, Solitary and Self-Trained Artist, Dies at 71](https://www.nytimes.com/2020/05/23/arts/rafael-leonardo-black-dead-coronavirus.html)
 * [Why the Call to Prayer Made Me Cry This Ramadan](https://www.nytimes.com/2020/05/22/world/africa/coronavirus-ramadan-east-africa.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [They Both Found Their Jukebox Hero](https://www.nytimes.com/2020/05/22/fashion/weddings/they-both-found-their-jukebox-hero.html)
 * [How a Teacher Who Moonlights Delivering Beer Spends His Sundays](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-harlem-hops-beer-nyc.html)
 * [Summer Reading Suggestions, Handpicked for Your Taste](https://www.nytimes.com/2020/05/20/books/summer-reading-suggestions.html)
 * [How to Share Food Safely During the Pandemic](https://www.nytimes.com/2020/05/22/dining/food-sharing-safety-coronavirus.html)
-* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Dating After Coronavirus](https://www.nytimes.com/2020/05/18/opinion/coronavirus-dating.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
@@ -104,9 +104,9 @@ layout: default
 ## globo.com
 
 
-* [Escritores reagem a post de curador do Prêmio Jabuti com informações falsas sobre a Covid-19](https://oglobo.globo.com/cultura/livros/escritores-reagem-post-de-curador-do-premio-jabuti-com-informacoes-falsas-sobre-covid-19-24443681)
-* [Apoio de Bolsonaro fortalece agenda econômica de Guedes, mas vídeo de reunião eleva incerteza, dizem analistas](https://oglobo.globo.com/economia/apoio-de-bolsonaro-fortalece-agenda-economica-de-guedes-mas-video-de-reuniao-eleva-incerteza-dizem-analistas-24443633)
 * [Em meio a expectativa de restrições a viagens de brasileiros, Araújo diz que EUA irão doar respiradores ao Brasil](https://oglobo.globo.com/mundo/em-meio-expectativa-de-restricoes-viagens-de-brasileiros-araujo-diz-que-eua-irao-doar-respiradores-ao-brasil-24443712)
+* [Escritores reagem a post de curador do Prêmio Jabuti contra o isolamento social](https://oglobo.globo.com/cultura/livros/escritores-reagem-post-de-curador-do-premio-jabuti-contra-isolamento-social-24443681)
+* [Apoio de Bolsonaro fortalece agenda econômica de Guedes, mas vídeo de reunião eleva incerteza, dizem analistas](https://oglobo.globo.com/economia/apoio-de-bolsonaro-fortalece-agenda-economica-de-guedes-mas-video-de-reuniao-eleva-incerteza-dizem-analistas-24443633)
 * [Três médicos morrem por Covid-19 em São Gonçalo](https://oglobo.globo.com/rio/tres-medicos-morrem-por-covid-19-em-sao-goncalo-24443629)
 * [Luís Filipe de Lima põe à venda seu violão de 7 cordas e escancara crise do músico brasileiro](https://oglobo.globo.com/cultura/luis-filipe-de-lima-poe-venda-seu-violao-de-7-cordas-escancara-crise-do-musico-brasileiro-24443662)
 * [Brasileiro compra mais celulares, laptops e TVs na quarentena](https://oglobo.globo.com/economia/brasileiro-compra-mais-celulares-laptops-tvs-na-quarentena-24443632)

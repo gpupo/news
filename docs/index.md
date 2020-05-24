@@ -2,48 +2,48 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 17:11:36 UTC
+# indexed at 24/05/2020 17:34:36 UTC
 
 
 ## news.ycombinator.com
 
 
-* [MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
 * [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
+* [Most book clubs are doing it wrong](http://jsomers.net/blog/book-clubs)
 * [My New FreeBSD Laptop: Dell Latitude 7390](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
+* [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [1973 IBM Selectric typeball recorded dancers' body movements](https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/)
+* [Running Lisp in Production at Grammarly](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
+* [MiniConf: A Virtual Conference in a Box](https://mini-conf.github.io/index.html)
 * [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
+* [One Word Domains](https://www.oneword.domains/)
+* [Pantai Remis Landslide](https://en.wikipedia.org/wiki/Pantai_Remis_landslide)
 * [Show HN: Bosconian (1981), in 3-D](http://nolannicholson.com/bosco-3d/)
 * [Classic Calculator Was Reverse Engineered from the Bare Metal](https://spectrum.ieee.org/geek-life/hands-on/this-classic-calculator-was-literally-reverse-engineered-from-the-bare-metal)
-* [One Word Domains](https://www.oneword.domains/)
-* [No Brilliant Jerks](https://www.leadershipnow.com/leadingblog/2020/05/no_brilliant_jerks_how_to_deal.html)
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Show HN: FizzBuzz purely in Rust's trait system](http://github.com/doctorn/trait-eval/)
 * [NSA “precomputed contact chaining” enhances phone-record tracking program](https://www.wired.com/story/inside-the-nsas-secret-tool-for-mapping-your-social-network/)
+* [Scaling SQLite to 4M QPS on a Single Server (EC2 vs. Bare Metal)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
 * [Immutable Databases](https://adlrocha.substack.com/p/adlrocha-immutable-databases)
 * [How a star explosion may have shaped life on Earth (2015)](http://oceans.nautil.us/feature/562/the-secret-history-of-the-supernova-at-the-bottom-of-the-sea)
-* [Scaling SQLite to 4M QPS on a Single Server (EC2 vs. Bare Metal)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
 * [Ask HN: Looking for Side Project Ideas](https://news.ycombinator.com/item?id=23290536)
-* [Peer Review](https://rodneybrooks.com/peer-review/)
-* [The Most Dangerous Dams (2019) [video]](https://www.youtube.com/watch?v=GVDpqphHhAE)
-* [Apple adds 192-room hotel to plans of Northwest Austin campus](https://austin.culturemap.com/news/city-life/05-20-20-apple-adds-surprising-element-to-1-billion-campus-in-northwest-austin/)
-* [Setting the story straight on quite a few issues](https://rachelbythebay.com/w/2020/05/23/nope/)
-* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
-* [NIST Handbook of Engineering Statistics (2012)](https://www.itl.nist.gov/div898/handbook/)
 * [Broadword Implementation of Rank/Select Queries [pdf]](http://vigna.di.unimi.it/ftp/papers/Broadword.pdf)
+* [The Most Dangerous Dams (2019) [video]](https://www.youtube.com/watch?v=GVDpqphHhAE)
+* [NIST Handbook of Engineering Statistics (2012)](https://www.itl.nist.gov/div898/handbook/)
+* [Setting the story straight on quite a few issues](https://rachelbythebay.com/w/2020/05/23/nope/)
+* [Apple adds 192-room hotel to plans of Northwest Austin campus](https://austin.culturemap.com/news/city-life/05-20-20-apple-adds-surprising-element-to-1-billion-campus-in-northwest-austin/)
 * [When mechanical analog computers ruled the waves](https://arstechnica.com/information-technology/2020/05/gears-of-war-when-mechanical-analog-computers-ruled-the-waves/)
+* [Creating an Open-Source IoT Digital Twin Platform](https://xaviergeerinck.com/post/iot/digital-twin-implementation/)
 * [Show HN: Lockdown.sh Simple shell script for locking down new linux installs](https://github.com/x08d/lockdown.sh)
 * [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
-* [Creating an Open-Source IoT Digital Twin Platform](https://xaviergeerinck.com/post/iot/digital-twin-implementation/)
-* [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
 ## nytimes.com
 
 
 * [Live Coronavirus News Updates: Brazil, Churches, Hong Kong](https://www.nytimes.com/2020/05/24/world/coronavirus-news-update.html)
 * [The Project Behind a Front Page Full of Names](https://www.nytimes.com/2020/05/23/reader-center/coronavirus-new-york-times-front-page.html)
-* [Coronavirus in N.Y.: Live Updates](https://www.nytimes.com/2020/05/24/nyregion/coronavirus-new-york-update.html)
+* [N.Y. Preparing Public Transit as More Regions Reopen: Live Updates](https://www.nytimes.com/2020/05/24/nyregion/coronavirus-new-york-update.html)
 * [They Survived the Worst Battles of World War II. And Died of the Virus.](https://www.nytimes.com/2020/05/24/us/they-survived-the-worst-battles-of-world-war-ii-and-died-of-the-virus.html)
 * [For Some Italians, the Future of Work Looks Like the Past](https://www.nytimes.com/2020/05/24/world/europe/italy-farms-coronavirus.html)
 * [Full Coronavirus Coverage](https://www.nytimes.com/news-event/coronavirus)
@@ -83,19 +83,19 @@ layout: default
 * [Investigators Say One Man Shot Ahmaud Arbery. Why Are Three Charged With Murder?](https://www.nytimes.com/2020/05/23/us/ahmaud-arbery-william-bryan-travis-mcmichael-gregory-mcmichael.html)
 * [Cicadas 2020: After 17 Years Underground, the Insects Are Back in the South](https://www.nytimes.com/2020/05/24/us/17-year-cicadas-virginia.html)
 * [Wilson Jerman, Longtime White House Butler, Dies at 91](https://www.nytimes.com/2020/05/21/us/politics/wilson-jerman-dead-coronavirus.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [They Both Found Their Jukebox Hero](https://www.nytimes.com/2020/05/22/fashion/weddings/they-both-found-their-jukebox-hero.html)
 * [How a Teacher Who Moonlights Delivering Beer Spends His Sundays](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-harlem-hops-beer-nyc.html)
 * [Summer Reading Suggestions, Handpicked for Your Taste](https://www.nytimes.com/2020/05/20/books/summer-reading-suggestions.html)
 * [How to Share Food Safely During the Pandemic](https://www.nytimes.com/2020/05/22/dining/food-sharing-safety-coronavirus.html)
 * [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
-* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Dating After Coronavirus](https://www.nytimes.com/2020/05/18/opinion/coronavirus-dating.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
@@ -105,8 +105,8 @@ layout: default
 ## globo.com
 
 
-* [Presidente do STF está hospitalizado com sintomas de Covid-19](https://oglobo.globo.com/brasil/presidente-do-stf-esta-hospitalizado-com-sintomas-de-covid-19-24443575)
 * [Bolsonaro volta a gerar aglomeração e pega criança no colo em manifestação em Brasília](https://oglobo.globo.com/brasil/bolsonaro-volta-gerar-aglomeracao-pega-crianca-no-colo-em-manifestacao-em-brasilia-24443521)
+* [Presidente do STF está hospitalizado com sintomas de Covid-19](https://oglobo.globo.com/brasil/presidente-do-stf-esta-hospitalizado-com-sintomas-de-covid-19-1-24443575)
 * [Restrições de viagens do Brasil para os EUA devem sair neste domingo, diz assessor de Trump](https://oglobo.globo.com/mundo/restricoes-de-viagens-do-brasil-para-os-eua-devem-sair-neste-domingo-diz-assessor-de-trump-24443537)
 * ['Home office' pode gerar ansiedade. Entenda como manter o equilíbrio trabalhando em casa](https://oglobo.globo.com/economia/home-office-pode-gerar-ansiedade-entenda-como-manter-equilibrio-trabalhando-em-casa-1-24443555)
 * [Vídeo de reunião ministerial gera críticas no Twitter e deixa base pró-governo isolada](https://oglobo.globo.com/brasil/video-de-reuniao-ministerial-gera-criticas-no-twitter-deixa-base-pro-governo-isolada-1-24443569)

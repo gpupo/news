@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 05:11:14 UTC
+# indexed at 24/05/2020 05:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -21,27 +21,27 @@ layout: default
 * [Show HN: A dependently-typed programming language with static memory management](https://github.com/u2zv1wx/neut)
 * [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox)
 * [A Hidden Origin Story of the CBD Craze](https://www.nytimes.com/2020/05/23/sunday-review/coronavirus-cbd-oil.html)
+* [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
 * [Decimating Array.Sort with AVX2](https://bits.houmus.org/2020-02-02/this-goes-to-eleven-pt5)
 * [Unable to deal with Chrome Extension Team, Kozmos is shutting down](https://kodfabrik.com/journal/why-am-i-shutting-down-kozmos)
-* [Show HN: A WebGL Tribute to Tron, the movie that made me fall in love with CGI](https://mgz.me/?scene=TheLightCycles)
 * [Loginsrv: JWT login microservice with back ends like OAuth2, Google, GitHub](https://github.com/tarent/loginsrv)
+* [Show HN: A WebGL Tribute to Tron, the movie that made me fall in love with CGI](https://mgz.me/?scene=TheLightCycles)
 * [Sam's Laser Repair FAQ](https://www.repairfaq.org/sam/lasersam.htm)
-* [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
 * [Sxmo: Simple X Mobile – A Pinephone UI that is simple and suckless](https://sr.ht/~mil/Sxmo/)
 * [Back of the envelope estimation hacks](https://robertovitillo.com/back-of-the-envelope-estimation-hacks/)
 * [Show HN: r/hnblogs, Blogging is not Dead](https://news.ycombinator.com/item?id=23287286)
-* [Show HN: Stylus, a lightweight home infrastructure monitor based on CSS/SVG/HTML](https://github.com/mmastrac/stylus)
 * [Unfolding the Earth: Myriahedral Projections](https://www.win.tue.nl/~vanwijk/myriahedral/)
+* [Show HN: Stylus, a lightweight home infrastructure monitor based on CSS/SVG/HTML](https://github.com/mmastrac/stylus)
 * [Unc0ver Jailbreak for iOS 11.0 to 13.5](https://unc0ver.dev/?released)
-* [London may have gone into a Covid-accelerated decline](https://www.economist.com/britain/2020/05/21/london-may-have-gone-into-a-covid-accelerated-decline)
 * [Assembly's Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
+* [London may have gone into a Covid-accelerated decline](https://www.economist.com/britain/2020/05/21/london-may-have-gone-into-a-covid-accelerated-decline)
 * [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
 * [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 * [First Krita Beta for Android and ChromeOS in Play Store](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/)
 ## nytimes.com
 
 
-* [Live Coronavirus Updates](https://www.nytimes.com/2020/05/24/world/coronavirus-news-update.html)
+* [Coronavirus Live: Global Updates](https://www.nytimes.com/2020/05/24/world/coronavirus-news-update.html)
 * [Together, Alone: The Car as Shelter in the Pandemic](https://www.nytimes.com/2020/05/23/us/drive-by-graduation-baby-shower-drive-in-coronavirus.html)
 * [Parents Really Need a Break. But Is Summer Camp Too Risky?](https://www.nytimes.com/2020/05/22/nyregion/summer-camp-coronavirus.html)
 * [Turning Your Backyard Into a Vacation Spot](https://www.nytimes.com/2020/05/22/realestate/turning-your-backyard-into-a-vacation-spot.html)
@@ -77,20 +77,20 @@ layout: default
 * [What a Week’s Disasters Tell Us About Climate and the Pandemic](https://www.nytimes.com/2020/05/23/climate/climate-change-coronavirus.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [In Grayson Perry’s ‘Art Club,’ an Exhibition of Britain’s Lockdown Dreams](https://www.nytimes.com/2020/05/22/arts/design/grayson-perry-artclub-coronavirus.html)
 * [Five Delicious Reasons to Always Have Gnocchi in Your Pantry](https://www.nytimes.com/2020/05/19/dining/gnocchi-recipes.html)
 * [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [How-To Books for an Age of Insecurity](https://www.nytimes.com/2020/05/19/realestate/how-to-books-for-an-age-of-insecurity.html)
-* [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
 * [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
-* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
-* [Pick a Card and Be Transported: 7 Board Games From Around the World](https://www.nytimes.com/2020/05/22/travel/board-games-travel.html)
+* [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
+* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [Goldman Sachs Forecloses on 10,000 Homes for ‘Consumer Relief’](https://www.nytimes.com/2020/05/22/business/goldman-sachs-mortgage-foreclosure.html)
+* [Pick a Card and Be Transported: 7 Board Games From Around the World](https://www.nytimes.com/2020/05/22/travel/board-games-travel.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

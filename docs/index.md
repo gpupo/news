@@ -2,27 +2,30 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 11:34:36 UTC
+# indexed at 24/05/2020 12:14:49 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
 * [Classic Calculator Was Reverse Engineered from the Bare Metal](https://spectrum.ieee.org/geek-life/hands-on/this-classic-calculator-was-literally-reverse-engineered-from-the-bare-metal)
+* [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Coronavirus: 'Baffling' observations from the front line](https://www.bbc.co.uk/news/52760992)
 * [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
 * [Why NetNewsWire Is Fast](https://inessential.com/2020/05/18/why_netnewswire_is_fast)
 * [The Ainu, Japan’s Indigenous People](http://www.bbc.com/travel/story/20200519-japans-forgotten-indigenous-people)
-* [They redesigned PubMed](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
-* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [A list of the 5000 most commonly used domain prefix/suffix](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700)
-* [84-year-old alligator rumored to have been Hitler's dies in Moscow](https://www.dawn.com/news/1559345/84-year-old-alligator-rumored-to-have-been-hitlers-dies-in-moscow)
-* [Chromium project finds that 70% of security defects are memory safety problems](https://www.chromium.org/Home/chromium-security/memory-safety)
-* [Decimating Array.Sort with AVX2](https://bits.houmus.org/2020-02-02/this-goes-to-eleven-pt5)
+* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [Peer Review](https://rodneybrooks.com/peer-review/)
-* [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
 * [Can virtual reality help get you through lockdown?](https://www.theguardian.com/games/2020/may/20/can-virtual-reality-help-get-you-through-lockdown)
+* [They redesigned PubMed](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
+* [84-year-old alligator rumored to have been Hitler's dies in Moscow](https://www.dawn.com/news/1559345/84-year-old-alligator-rumored-to-have-been-hitlers-dies-in-moscow)
+* [Decimating Array.Sort with AVX2](https://bits.houmus.org/2020-02-02/this-goes-to-eleven-pt5)
+* [Chromium project finds that 70% of security defects are memory safety problems](https://www.chromium.org/Home/chromium-security/memory-safety)
+* [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
+* [Travelling long haul in 1939: Melbourne to New York (2015)](https://www.nla.gov.au/stories/blog/behind-the-scenes/2015/09/29/travelling-long-haul-in-1939-melbourne-to-new-york)
 * [A Hidden Origin Story of the CBD Craze](https://www.nytimes.com/2020/05/23/sunday-review/coronavirus-cbd-oil.html)
 * [NIST Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/)
 * [GraphBLAS – Graph algorithms in the language of linear algebra](http://graphblas.org/)
@@ -34,10 +37,7 @@ layout: default
 * [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
 * [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
 * [Unfolding the Earth: Myriahedral Projections](https://www.win.tue.nl/~vanwijk/myriahedral/)
-* [Comment Ranking Algorithms: Hacker News vs. YouTube vs. Reddit](http://amacfie.github.io/2020/05/21/comment-ranking/)
 * [Latency in Asynchronous Python](https://nullprogram.com/blog/2020/05/24/)
-* [First Krita Beta for Android and ChromeOS in Play Store](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/)
-* [Netflix stops charging customers who never watch](https://www.bbc.com/news/technology-52777365)
 ## nytimes.com
 
 
@@ -82,19 +82,19 @@ layout: default
 * [Investigators Say One Man Shot Ahmaud Arbery. Why Are Three Charged With Murder?](https://www.nytimes.com/2020/05/23/us/ahmaud-arbery-william-bryan-travis-mcmichael-gregory-mcmichael.html)
 * [After 17 Years Underground, Cicadas Stage a 2020 Southern Invasion](https://www.nytimes.com/2020/05/24/us/17-year-cicadas-virginia.html)
 * [Wilson Jerman, Longtime White House Butler, Dies at 91](https://www.nytimes.com/2020/05/21/us/politics/wilson-jerman-dead-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [They Both Found Their Jukebox Hero](https://www.nytimes.com/2020/05/22/fashion/weddings/they-both-found-their-jukebox-hero.html)
 * [How a Teacher Who Moonlights Delivering Beer Spends His Sundays](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-harlem-hops-beer-nyc.html)
 * [Summer Reading Suggestions, Handpicked for Your Taste](https://www.nytimes.com/2020/05/20/books/summer-reading-suggestions.html)
 * [How to Share Food Safely During the Pandemic](https://www.nytimes.com/2020/05/22/dining/food-sharing-safety-coronavirus.html)
-* [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
-* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -102,9 +102,9 @@ layout: default
 ## globo.com
 
 
+* [Vasco x Barcelona em 1998: campeão aos 21 anos, Pedrinho se emociona com reprise da Libertadores](https://oglobo.globo.com/esportes/vasco/vasco-barcelona-em-1998-campeao-aos-21-anos-pedrinho-se-emociona-com-reprise-da-libertadores-24443150)
 * [Príncipe Harry foi quem tomou a decisão de deixar a família real, diz biografia](https://oglobo.globo.com/ela/gente/principe-harry-foi-quem-tomou-decisao-de-deixar-familia-real-diz-biografia-24443475)
 * [Formulador da estratégia de combate à Covid-19, Wanderson Oliveira deixará Ministério da Saúde](https://oglobo.globo.com/brasil/formulador-da-estrategia-de-combate-covid-19-wanderson-oliveira-deixara-ministerio-da-saude-24443471)
-* [Filhos de Pedrinho, ídolo do Vasco, poderão ver o pai campeão da Libertadores](https://oglobo.globo.com/esportes/vasco/filhos-de-pedrinho-idolo-do-vasco-poderao-ver-pai-campeao-da-libertadores-1-24443150)
 * [Cenário de casamentos e grandes festas, Villa Riso terá investimento de R$ 500 mil em revitalização](https://oglobo.globo.com/rio/bairros/cenario-de-casamentos-grandes-festas-villa-riso-tera-investimento-de-500-mil-em-revitalizacao-1-24441494)
 * [Amor nos tempos da Covid-19: médicos casam em hospital](https://oglobo.globo.com/rio/bairros/amor-nos-tempos-da-covid-19-medicos-casam-em-hospital-24441611)
 * [PGR vê inquérito de interferência na PF com duração maior que mandato de Mello](https://epoca.globo.com/guilherme-amado/pgr-ve-inquerito-de-interferencia-na-pf-com-duracao-maior-que-mandato-de-mello-24442584)

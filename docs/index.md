@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 10:11:23 UTC
+# indexed at 24/05/2020 10:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Classic Calculator Was Reverse Engineered from the Bare Metal](https://spectrum.ieee.org/geek-life/hands-on/this-classic-calculator-was-literally-reverse-engineered-from-the-bare-metal)
-* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Coronavirus: 'Baffling' observations from the front line](https://www.bbc.co.uk/news/52760992)
 * [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
-* [The Ainu, Japan’s Indigenous People](http://www.bbc.com/travel/story/20200519-japans-forgotten-indigenous-people)
+* [We just wanted free internet](https://sketch.nono.ma/we-just-wanted-free-internet)
 * [Why NetNewsWire Is Fast](https://inessential.com/2020/05/18/why_netnewswire_is_fast)
+* [The Ainu, Japan’s Indigenous People](http://www.bbc.com/travel/story/20200519-japans-forgotten-indigenous-people)
 * [They redesigned PubMed](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
 * [GraphBLAS – Graph algorithms in the language of linear algebra](http://graphblas.org/)
 * [Chromium project finds that 70% of security defects are memory safety problems](https://www.chromium.org/Home/chromium-security/memory-safety)
-* [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox)
-* [Latency in Asynchronous Python](https://nullprogram.com/blog/2020/05/24/)
-* [A list of the 5000 most commonly used domain prefix/suffix](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700)
+* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [Peer Review](https://rodneybrooks.com/peer-review/)
+* [A list of the 5000 most commonly used domain prefix/suffix](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700)
 * [Decimating Array.Sort with AVX2](https://bits.houmus.org/2020-02-02/this-goes-to-eleven-pt5)
 * [Show HN: A WebGL Tribute to Tron, the movie that made me fall in love with CGI](https://mgz.me/?scene=TheLightCycles)
 * [Loginsrv: JWT login microservice with back ends like OAuth2, Google, GitHub](https://github.com/tarent/loginsrv)
 * [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
-* [Unable to deal with Chrome Extension Team, Kozmos is shutting down](https://kodfabrik.com/journal/why-am-i-shutting-down-kozmos)
 * [Sam's Laser Repair FAQ](https://www.repairfaq.org/sam/lasersam.htm)
+* [Latency in Asynchronous Python](https://nullprogram.com/blog/2020/05/24/)
 * [A Hidden Origin Story of the CBD Craze](https://www.nytimes.com/2020/05/23/sunday-review/coronavirus-cbd-oil.html)
 * [Sxmo: Simple X Mobile – A Pinephone UI that is simple and suckless](https://sr.ht/~mil/Sxmo/)
-* [Unfolding the Earth: Myriahedral Projections](https://www.win.tue.nl/~vanwijk/myriahedral/)
 * [Unc0ver Jailbreak for iOS 11.0 to 13.5](https://unc0ver.dev/?released)
 * [Show HN: A dependently-typed programming language with static memory management](https://github.com/u2zv1wx/neut)
 * [Show HN: r/hnblogs, Blogging is not Dead](https://news.ycombinator.com/item?id=23287286)
+* [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox)
+* [Unfolding the Earth: Myriahedral Projections](https://www.win.tue.nl/~vanwijk/myriahedral/)
 * [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
-* [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
 * [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
-* [Want to Be More Productive? Try Doing Less](https://hbr.org/2020/05/want-to-be-more-productive-try-doing-less)
+* [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
+* [London may have gone into a Covid-accelerated decline](https://www.economist.com/britain/2020/05/21/london-may-have-gone-into-a-covid-accelerated-decline)
 ## nytimes.com
 
 
@@ -82,18 +82,18 @@ layout: default
 * [After 17 Years Underground, Cicadas Stage a 2020 Southern Invasion](https://www.nytimes.com/2020/05/24/us/17-year-cicadas-virginia.html)
 * [Wilson Jerman, Longtime White House Butler, Dies at 91](https://www.nytimes.com/2020/05/21/us/politics/wilson-jerman-dead-coronavirus.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [They Both Found Their Jukebox Hero](https://www.nytimes.com/2020/05/22/fashion/weddings/they-both-found-their-jukebox-hero.html)
 * [How a Teacher Who Moonlights Delivering Beer Spends His Sundays](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-harlem-hops-beer-nyc.html)
 * [Summer Reading Suggestions, Handpicked for Your Taste](https://www.nytimes.com/2020/05/20/books/summer-reading-suggestions.html)
 * [How to Share Food Safely During the Pandemic](https://www.nytimes.com/2020/05/22/dining/food-sharing-safety-coronavirus.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
-* [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
-* [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
+* [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
+* [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

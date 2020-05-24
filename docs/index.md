@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 14:11:18 UTC
+# indexed at 24/05/2020 14:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
 * [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
-* [Apple checks in with 192-room hotel for billion-dollar Northwest Austin campus](https://austin.culturemap.com/news/city-life/05-20-20-apple-adds-surprising-element-to-1-billion-campus-in-northwest-austin/)
 * [Classic Calculator Was Reverse Engineered from the Bare Metal](https://spectrum.ieee.org/geek-life/hands-on/this-classic-calculator-was-literally-reverse-engineered-from-the-bare-metal)
-* [Restaurants rebel against delivery apps as cities crack down on fees](https://www.nbcnews.com/tech/tech-news/restaurants-rebel-against-delivery-apps-cities-crack-down-fees-n1211456)
+* [Apple adds 192-room hotel to plans of Northwest Austin campus](https://austin.culturemap.com/news/city-life/05-20-20-apple-adds-surprising-element-to-1-billion-campus-in-northwest-austin/)
+* [State Secrets and Secret States of Quantum Computing](https://kirstenhacker.wordpress.com/2020/04/28/state-secrets-and-secret-states-of-quantum-computing/)
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [How a star explosion may have shaped life on Earth (2015)](http://oceans.nautil.us/feature/562/the-secret-history-of-the-supernova-at-the-bottom-of-the-sea)
-* [State Secrets and Secret States of Quantum Computing](https://kirstenhacker.wordpress.com/2020/04/28/state-secrets-and-secret-states-of-quantum-computing/)
-* [The Ainu, Japan’s Indigenous People](http://www.bbc.com/travel/story/20200519-japans-forgotten-indigenous-people)
-* [Peer Review](https://rodneybrooks.com/peer-review/)
-* [A list of the 5000 most commonly used domain prefix/suffix](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700)
-* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
+* [Restaurants rebel against delivery apps as cities crack down on fees](https://www.nbcnews.com/tech/tech-news/restaurants-rebel-against-delivery-apps-cities-crack-down-fees-n1211456)
 * [Ask HN: Looking for Side Project Ideas](https://news.ycombinator.com/item?id=23290536)
+* [Peer Review](https://rodneybrooks.com/peer-review/)
+* [Don’t Be Afraid of Raid](https://louwrentius.com/dont-be-afraid-of-raid.html)
+* [Setting the story straight on quite a few issues](https://rachelbythebay.com/w/2020/05/23/nope/)
+* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [NIST Handbook of Engineering Statistics (2012)](https://www.itl.nist.gov/div898/handbook/)
+* [The Most Dangerous Dams (Low Head Dams)](https://youtu.be/GVDpqphHhAE)
+* [Do Elevated Viewpoints Increase Risk Taking?](http://datacolada.org/82)
 * [They redesigned PubMed](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
-* [US Covid-19 Death Toll Nears 100k](https://www.nytimes.com/2020/05/23/reader-center/coronavirus-new-york-times-front-page.html#commentsContainer)
-* [Chromium project finds that 70% of security defects are memory safety problems](https://www.chromium.org/Home/chromium-security/memory-safety)
 * [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
+* [Immutable Databases](https://adlrocha.substack.com/p/adlrocha-immutable-databases)
+* [Chromium project finds that 70% of security defects are memory safety problems](https://www.chromium.org/Home/chromium-security/memory-safety)
 * [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
-* [Travelling long haul in 1939: Melbourne to New York (2015)](https://www.nla.gov.au/stories/blog/behind-the-scenes/2015/09/29/travelling-long-haul-in-1939-melbourne-to-new-york)
-* [Coronavirus: 'Baffling' observations from the front line](https://www.bbc.co.uk/news/52760992)
-* [Why NetNewsWire Is Fast](https://inessential.com/2020/05/18/why_netnewswire_is_fast)
+* [When mechanical analog computers ruled the waves](https://arstechnica.com/information-technology/2020/05/gears-of-war-when-mechanical-analog-computers-ruled-the-waves/)
 * [GraphBLAS – Graph algorithms in the language of linear algebra](http://graphblas.org/)
-* [Unc0ver Jailbreak for iOS 11.0 to 13.5](https://unc0ver.dev/?released)
+* [Why NetNewsWire Is Fast](https://inessential.com/2020/05/18/why_netnewswire_is_fast)
+* [A list of the 5000 most commonly used domain prefix/suffix](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700)
+* [Coronavirus: 'Baffling' observations from the front line](https://www.bbc.co.uk/news/52760992)
+* [The Ainu, Japan’s Indigenous People](http://www.bbc.com/travel/story/20200519-japans-forgotten-indigenous-people)
 * [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox)
 * [Show HN: A dependently-typed programming language with static memory management](https://github.com/u2zv1wx/neut)
-* [Can virtual reality help get you through lockdown?](https://www.theguardian.com/games/2020/may/20/can-virtual-reality-help-get-you-through-lockdown)
 * [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
-* [MacOS Catalina: Slow by Design?](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
-* [When mechanical analog computers ruled the waves](https://arstechnica.com/information-technology/2020/05/gears-of-war-when-mechanical-analog-computers-ruled-the-waves/)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Investigators Say One Man Shot Ahmaud Arbery. Why Are Three Charged With Murder?](https://www.nytimes.com/2020/05/23/us/ahmaud-arbery-william-bryan-travis-mcmichael-gregory-mcmichael.html)
 * [Cicadas 2020: After 17 Years Underground, the Insects Are Back in the South](https://www.nytimes.com/2020/05/24/us/17-year-cicadas-virginia.html)
 * [Wilson Jerman, Longtime White House Butler, Dies at 91](https://www.nytimes.com/2020/05/21/us/politics/wilson-jerman-dead-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [They Both Found Their Jukebox Hero](https://www.nytimes.com/2020/05/22/fashion/weddings/they-both-found-their-jukebox-hero.html)
 * [How a Teacher Who Moonlights Delivering Beer Spends His Sundays](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-harlem-hops-beer-nyc.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Vídeo: A quarentena da companhia de dança de Deborah Colker](https://epoca.globo.com/guilherme-amado/video-quarentena-da-companhia-de-danca-de-deborah-colker-24442297)
+* [Premier Benjamin Netanyahu começa a ser julgado por corrupção em Israel](https://oglobo.globo.com/mundo/premier-benjamin-netanyahu-comeca-ser-julgado-por-corrupcao-em-israel-24443483)
+* [Chefe do Tinder diz que pandemia mudará 'drasticamente' os relacionamentos](https://epoca.globo.com/chefe-do-tinder-diz-que-pandemia-mudara-drasticamente-os-relacionamentos-24443507)
 * [Crise da pandemia está mais profunda por causa de Bolsonaro, diz Jeffrey Sachs, da Universidade Columbia](https://epoca.globo.com/crise-da-pandemia-esta-mais-profunda-por-causa-de-bolsonaro-diz-jeffrey-sachs-da-universidade-columbia-24443496)
 * [Luana Génot: O adiamento do Enem para 2021 se faz urgente](https://oglobo.globo.com/ela/luana-genot-adiamento-do-enem-para-2021-se-faz-urgente-24436777)
-* [Formulador da estratégia de combate à Covid-19, Wanderson Oliveira deixará Ministério da Saúde](https://oglobo.globo.com/brasil/formulador-da-estrategia-de-combate-covid-19-wanderson-oliveira-deixara-ministerio-da-saude-24443471)
 * [Pesquisadores israelenses criam máscara que mata coronavírus](https://oglobo.globo.com/sociedade/coronavirus/pesquisadores-israelenses-criam-mascara-que-mata-coronavirus-24443493)
 * [Frente fria muda o tempo e traz chuva moderada para o Rio neste domingo](https://oglobo.globo.com/rio/frente-fria-muda-tempo-traz-chuva-moderada-para-rio-neste-domingo-24443487)
-* [Premiê Benjamin Netanyahu começa a ser julgado por corrupção em Israel](https://oglobo.globo.com/mundo/premie-benjamin-netanyahu-comeca-ser-julgado-por-corrupcao-em-israel-24443483)
 * [Príncipe Harry foi quem tomou a decisão de deixar a família real, diz biografia](https://oglobo.globo.com/ela/gente/principe-harry-foi-quem-tomou-decisao-de-deixar-familia-real-diz-biografia-24443475)
 * [Deputado pede que Câmara cobre exames de Bolsonaro de Covid](https://epoca.globo.com/guilherme-amado/deputado-pede-que-camara-cobre-exames-de-bolsonaro-de-covid-1-24442262)
-* [A quarentena da companhia de dança de Deborah Colker](https://epoca.globo.com/guilherme-amado/a-quarentena-da-companhia-de-danca-de-deborah-colker-24442297)
 * [Coluna | Lição deixada por Regina Duarte: a política engole mulheres submissas](https://epoca.globo.com/colunistas/coluna-licao-deixada-por-regina-duarte-politica-engole-mulheres-submissas-24441749)

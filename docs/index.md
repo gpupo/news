@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 03:11:22 UTC
+# indexed at 24/05/2020 03:34:55 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [The Ainu, Japan’s Indigenous People](http://www.bbc.com/travel/story/20200519-japans-forgotten-indigenous-people)
+* [They redesigned PubMed, a beloved website. It hasn’t gone over well](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
 * [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
 * [Why NetNewsWire Is Fast](https://inessential.com/2020/05/18/why_netnewswire_is_fast)
-* [They redesigned PubMed, a beloved website. It hasn’t gone over well](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
 * [GraphBLAS – Graph algorithms in the language of linear algebra](http://graphblas.org/)
 * [Show HN: A dependently-typed programming language with static memory management](https://github.com/u2zv1wx/neut)
-* [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox)
 * [A list of the 5000 most commonly used domain prefix/suffix](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700)
 * [A Hidden Origin Story of the CBD Craze](https://www.nytimes.com/2020/05/23/sunday-review/coronavirus-cbd-oil.html)
-* [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
+* [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox)
 * [Unable to deal with Chrome Extension Team, Kozmos is shutting down](https://kodfabrik.com/journal/why-am-i-shutting-down-kozmos)
 * [Loginsrv: JWT login microservice with back ends like OAuth2, Google, GitHub](https://github.com/tarent/loginsrv)
-* [Unc0ver Jailbreak for iOS 11.0 to 13.5](https://unc0ver.dev/?released)
 * [Show HN: A WebGL Tribute to Tron, the movie that made me fall in love with CGI](https://mgz.me/?scene=TheLightCycles)
-* [Sam's Laser Repair FAQ](https://www.repairfaq.org/sam/lasersam.htm)
-* [Sxmo: Simple X Mobile – A Pinephone UI that is simple and suckless](https://sr.ht/~mil/Sxmo/)
 * [Decimating Array.Sort with AVX2](https://bits.houmus.org/2020-02-02/this-goes-to-eleven-pt5)
+* [Sxmo: Simple X Mobile – A Pinephone UI that is simple and suckless](https://sr.ht/~mil/Sxmo/)
+* [Sam's Laser Repair FAQ](https://www.repairfaq.org/sam/lasersam.htm)
 * [Show HN: r/hnblogs, Blogging is not Dead](https://news.ycombinator.com/item?id=23287286)
-* [How the pandemic is changing shopping](https://www.washingtonpost.com/business/2020/05/21/pandemic-is-changing-every-aspect-shopping-store-layouts-how-jeans-are-folded/)
 * [The Ten Commandments for C Programmers (1987)](https://www.lysator.liu.se/c/ten-commandments.html)
 * [Show HN: Stylus, a lightweight home infrastructure monitor based on CSS/SVG/HTML](https://github.com/mmastrac/stylus)
+* [Unc0ver Jailbreak for iOS 11.0 to 13.5](https://unc0ver.dev/?released)
 * [Back of the envelope estimation hacks](https://robertovitillo.com/back-of-the-envelope-estimation-hacks/)
-* [Researchers achieve optical data transmission speed of 44.2 terabits per second](https://www.independent.co.uk/life-style/gadgets-and-tech/news/internet-speed-world-record-fastest-download-a9527236.html)
 * [Hacker Mods Old Calculator to Access the Internet, Casio Files DMCA Complaint](https://torrentfreak.com/hacker-mods-old-calculator-to-access-the-internet-casio-files-dmca-complaint-200523/)
 * [Assembly's Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 * [Unfolding the Earth: Myriahedral Projections](https://www.win.tue.nl/~vanwijk/myriahedral/)
 * [London may have gone into a Covid-accelerated decline](https://www.economist.com/britain/2020/05/21/london-may-have-gone-into-a-covid-accelerated-decline)
-* [One-pass Compiler](https://keleshev.com/one-pass-compiler-primer)
+* [Show HN: LaTeX.css – Make your website look like a LaTeX document](https://latex.now.sh)
 * [How a “Rope Lighter” Works](https://www.youtube.com/watch?v=XlnOY7umKLY)
+* [First Krita Beta for Android and ChromeOS in Play Store](https://krita.org/en/item/first-krita-beta-for-android-and-chromeos-in-play-store/)
+* [Want to Be More Productive? Try Doing Less](https://hbr.org/2020/05/want-to-be-more-productive-try-doing-less)
+* [Tell HN: Interviewed with Triplebyte? Your profile is about to become public](https://news.ycombinator.com/item?id=23279837)
 ## nytimes.com
 
 
@@ -77,19 +77,19 @@ layout: default
 * [What a Week’s Disasters Tell Us About Climate and the Pandemic](https://www.nytimes.com/2020/05/23/climate/climate-change-coronavirus.html)
 * [Investigators Say One Man Shot Ahmaud Arbery. Why Are Three Charged With Murder?](https://www.nytimes.com/2020/05/23/us/ahmaud-arbery-william-bryan-travis-mcmichael-gregory-mcmichael.html)
 * [The New Training Facilities: Backyard Gym, Hallway Track](https://www.nytimes.com/2020/05/23/sports/the-new-training-facilities-backyard-gym-hallway-track.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
+* [Parents Are Relying on Melatonin to Help Their Kids Sleep. Should They?](https://www.nytimes.com/2020/05/18/parenting/melatonin-sleep-kids.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
 * [In Grayson Perry’s ‘Art Club,’ an Exhibition of Britain’s Lockdown Dreams](https://www.nytimes.com/2020/05/22/arts/design/grayson-perry-artclub-coronavirus.html)
 * [Five Delicious Reasons to Always Have Gnocchi in Your Pantry](https://www.nytimes.com/2020/05/19/dining/gnocchi-recipes.html)
 * [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [How-To Books for an Age of Insecurity](https://www.nytimes.com/2020/05/19/realestate/how-to-books-for-an-age-of-insecurity.html)
+* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
 * [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [When Cadaver Dogs Pick Up a Scent, Archaeologists Find Where to Dig](https://www.nytimes.com/2020/05/19/science/cadaver-dogs-archaeology.html)
-* [When Teen Boys Use Supplements](https://www.nytimes.com/2020/05/21/well/family/teenage-boys-supplements-protein-creatine.html)
-* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [‘Horrified’ and ‘Ashamed’: Volkswagen Apologizes for Ad](https://www.nytimes.com/2020/05/21/business/volkswagen-ad.html)
 * [Tara Reade Is Dropped as Client by a Leading #MeToo Lawyer](https://www.nytimes.com/2020/05/21/us/politics/tara-reade-credentials.html)

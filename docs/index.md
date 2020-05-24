@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/05/2020 15:11:05 UTC
+# indexed at 24/05/2020 15:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
 * [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
+* [My New FreeBSD Laptop: Dell Latitude 7390](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
 * [Classic Calculator Was Reverse Engineered from the Bare Metal](https://spectrum.ieee.org/geek-life/hands-on/this-classic-calculator-was-literally-reverse-engineered-from-the-bare-metal)
 * [Apple adds 192-room hotel to plans of Northwest Austin campus](https://austin.culturemap.com/news/city-life/05-20-20-apple-adds-surprising-element-to-1-billion-campus-in-northwest-austin/)
-* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Don’t Be Afraid of Raid](https://louwrentius.com/dont-be-afraid-of-raid.html)
 * [How a star explosion may have shaped life on Earth (2015)](http://oceans.nautil.us/feature/562/the-secret-history-of-the-supernova-at-the-bottom-of-the-sea)
-* [Ask HN: Looking for Side Project Ideas](https://news.ycombinator.com/item?id=23290536)
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [NSA “precomputed contact chaining” enhances phone-record tracking program](https://www.wired.com/story/inside-the-nsas-secret-tool-for-mapping-your-social-network/)
-* [Peer Review](https://rodneybrooks.com/peer-review/)
-* [The Most Dangerous Dams (2019) [video]](https://youtu.be/GVDpqphHhAE)
 * [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
-* [Immutable Databases](https://adlrocha.substack.com/p/adlrocha-immutable-databases)
-* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
-* [Show HN: FizzBuzz purely in Rust's trait system](http://github.com/doctorn/trait-eval/)
+* [Ask HN: Looking for Side Project Ideas](https://news.ycombinator.com/item?id=23290536)
+* [One Word Domains](https://www.oneword.domains/)
+* [No Brilliant Jerks](https://www.leadershipnow.com/leadingblog/2020/05/no_brilliant_jerks_how_to_deal.html)
+* [The Most Dangerous Dams (2019) [video]](https://youtu.be/GVDpqphHhAE)
 * [State Secrets and Secret States of Quantum Computing](https://kirstenhacker.wordpress.com/2020/04/28/state-secrets-and-secret-states-of-quantum-computing/)
+* [Immutable Databases](https://adlrocha.substack.com/p/adlrocha-immutable-databases)
+* [Peer Review](https://rodneybrooks.com/peer-review/)
+* [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Setting the story straight on quite a few issues](https://rachelbythebay.com/w/2020/05/23/nope/)
+* [Show HN: FizzBuzz purely in Rust's trait system](http://github.com/doctorn/trait-eval/)
+* [Jepsen Disputes MongoDB's Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
 * [NIST Handbook of Engineering Statistics (2012)](https://www.itl.nist.gov/div898/handbook/)
+* [When mechanical analog computers ruled the waves](https://arstechnica.com/information-technology/2020/05/gears-of-war-when-mechanical-analog-computers-ruled-the-waves/)
+* [They redesigned PubMed](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
 * [Broadword Implementation of Rank/Select Queries [pdf]](http://vigna.di.unimi.it/ftp/papers/Broadword.pdf)
 * [Restaurants rebel against delivery apps as cities crack down on fees](https://www.nbcnews.com/tech/tech-news/restaurants-rebel-against-delivery-apps-cities-crack-down-fees-n1211456)
-* [They redesigned PubMed](https://www.sciencemag.org/news/2020/05/they-redesigned-pubmed-beloved-website-it-hasn-t-gone-over-well)
-* [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
 * [Lorenzetti’s Allegory of Good and Bad Government](https://flashbak.com/lorenzettis-allegory-of-good-and-bad-government-a-revolutionary-painting-for-then-and-now-373579/)
+* [DuckDB: SQLite for Analytics](https://github.com/cwida/duckdb)
 * [Do Elevated Viewpoints Increase Risk Taking?](http://datacolada.org/82)
-* [When mechanical analog computers ruled the waves](https://arstechnica.com/information-technology/2020/05/gears-of-war-when-mechanical-analog-computers-ruled-the-waves/)
-* [Chromium project finds that 70% of security defects are memory safety problems](https://www.chromium.org/Home/chromium-security/memory-safety)
-* [GraphBLAS – Graph algorithms in the language of linear algebra](http://graphblas.org/)
-* [Why NetNewsWire Is Fast](https://inessential.com/2020/05/18/why_netnewswire_is_fast)
-* [Unc0ver Jailbreak for iOS 11.0 to 13.5](https://unc0ver.dev/?released)
 ## nytimes.com
 
 
@@ -51,7 +51,7 @@ layout: default
 * [Elizabeth Warren to Hold Big-Dollar Fund-Raiser for Joe Biden](https://www.nytimes.com/2020/05/23/us/politics/biden-fundraising-elizabeth-warren.html)
 * [How the Trump Effect Could Lift Democratic Senate Candidates](https://www.nytimes.com/2020/05/22/us/politics/polling-senate-races.html)
 * [Is a Pandemic the Right Time to Start a Business? It Just Might Be](https://www.nytimes.com/2020/05/20/business/coronavirus-small-business-startup.html)
-* [Pandemic Has Increased Money Anxiety. Therapists Hope to Cure That.](https://www.nytimes.com/2020/05/22/your-money/coronavirus-money-fears-financial-therapy.html)
+* [Pay Cuts Become a Tool for Some Companies to Avoid Layoffs](https://www.nytimes.com/2020/05/24/business/economy/coronavirus-pay-cuts.html)
 * [Another Casualty of the Coronavirus: Summer Internships](https://www.nytimes.com/2020/05/22/business/coronavirus-summer-internships.html)
 * [Netanyahu Corruption Trial Begins, Taking Israel Into Uncharted Territory](https://www.nytimes.com/2020/05/24/world/middleeast/israel-benjamin-netanyahu-corruption-trial.html)
 * [Despite Coronavirus, Hong Kong Protesters Rally Against China](https://www.nytimes.com/2020/05/24/world/asia/hong-kong-protest-coronavirus-china.html)
@@ -83,19 +83,19 @@ layout: default
 * [Investigators Say One Man Shot Ahmaud Arbery. Why Are Three Charged With Murder?](https://www.nytimes.com/2020/05/23/us/ahmaud-arbery-william-bryan-travis-mcmichael-gregory-mcmichael.html)
 * [Cicadas 2020: After 17 Years Underground, the Insects Are Back in the South](https://www.nytimes.com/2020/05/24/us/17-year-cicadas-virginia.html)
 * [Wilson Jerman, Longtime White House Butler, Dies at 91](https://www.nytimes.com/2020/05/21/us/politics/wilson-jerman-dead-coronavirus.html)
-* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
-* [How Not to Apologize in Quarantine](https://www.nytimes.com/2020/05/08/smarter-living/how-not-to-apologize-in-quarantine.html)
-* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
-* [Coronavirus Antibody Test: What You Need to Know](https://www.nytimes.com/article/antibody-test-coronavirus.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [They Both Found Their Jukebox Hero](https://www.nytimes.com/2020/05/22/fashion/weddings/they-both-found-their-jukebox-hero.html)
 * [How a Teacher Who Moonlights Delivering Beer Spends His Sundays](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-harlem-hops-beer-nyc.html)
 * [Summer Reading Suggestions, Handpicked for Your Taste](https://www.nytimes.com/2020/05/20/books/summer-reading-suggestions.html)
 * [How to Share Food Safely During the Pandemic](https://www.nytimes.com/2020/05/22/dining/food-sharing-safety-coronavirus.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
-* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [Carly Rae Jepsen’s Summery Throwback, and 11 More New Songs](https://www.nytimes.com/2020/05/22/arts/music/playlist-carly-rae-jepsen-polo-g-neil-young.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -104,6 +104,8 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro volta gerar aglomeração e pega crianças no colo em manifestação em Brasília](https://oglobo.globo.com/brasil/bolsonaro-volta-gerar-aglomeracao-pega-criancas-no-colo-em-manifestacao-em-brasilia-24443521)
+* [Polícia e manifestantes voltam a entrar em confronto em Hong Kong](https://oglobo.globo.com/sociedade/coronavirus/policia-manifestantes-voltam-entrar-em-confronto-em-hong-kong-24443518)
 * [Premier Benjamin Netanyahu começa a ser julgado por corrupção em Israel](https://oglobo.globo.com/mundo/premier-benjamin-netanyahu-comeca-ser-julgado-por-corrupcao-em-israel-24443483)
 * [Vídeo: A quarentena da companhia de dança de Deborah Colker](https://epoca.globo.com/guilherme-amado/video-quarentena-da-companhia-de-danca-de-deborah-colker-24442297)
 * [Chefe do Tinder diz que pandemia mudará 'drasticamente' os relacionamentos](https://epoca.globo.com/chefe-do-tinder-diz-que-pandemia-mudara-drasticamente-os-relacionamentos-24443507)
@@ -111,6 +113,4 @@ layout: default
 * [Luana Génot: O adiamento do Enem para 2021 se faz urgente](https://oglobo.globo.com/ela/luana-genot-adiamento-do-enem-para-2021-se-faz-urgente-24436777)
 * [Pesquisadores israelenses criam máscara que mata coronavírus](https://oglobo.globo.com/sociedade/coronavirus/pesquisadores-israelenses-criam-mascara-que-mata-coronavirus-24443493)
 * [Frente fria muda o tempo e traz chuva moderada para o Rio neste domingo](https://oglobo.globo.com/rio/frente-fria-muda-tempo-traz-chuva-moderada-para-rio-neste-domingo-24443487)
-* [Príncipe Harry foi quem tomou a decisão de deixar a família real, diz biografia](https://oglobo.globo.com/ela/gente/principe-harry-foi-quem-tomou-decisao-de-deixar-familia-real-diz-biografia-24443475)
-* [Deputado pede que Câmara cobre exames de Bolsonaro de Covid](https://epoca.globo.com/guilherme-amado/deputado-pede-que-camara-cobre-exames-de-bolsonaro-de-covid-1-24442262)
 * [Coluna | Lição deixada por Regina Duarte: a política engole mulheres submissas](https://epoca.globo.com/colunistas/coluna-licao-deixada-por-regina-duarte-politica-engole-mulheres-submissas-24441749)

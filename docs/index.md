@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 01:12:38 UTC
+# indexed at 25/05/2020 01:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://github.com/davidahmed/wiper)
-* [Linus Torvalds has switched to AMD](https://lkml.org/lkml/2020/5/24/407)
 * [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
 * [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
@@ -17,27 +16,28 @@ layout: default
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
 * [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
-* [My New FreeBSD Laptop: Dell Latitude 7390](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
 * [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
+* [My New FreeBSD Laptop: Dell Latitude 7390](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
 * [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
 * [With remote work plan, Facebook dashes hopes of paycheck arbitrage](https://mobile.reuters.com/article/idUSKBN22Y1IA)
 * [Self Supervised Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
 * [Ask HN: If you could work remote where would you live?](https://news.ycombinator.com/item?id=23294799)
+* [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
+* [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
 * [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
 * [MiniConf: A Virtual Conference in a Box](https://mini-conf.github.io/index.html)
 * [Let’s Draw Together](https://multiuser-sketchpad.glitch.me/)
 * [Running Lisp in Production (2015)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 * [Real reasons why tech giants are hugging “Remote Work”](https://om.co/2020/05/23/real-reasons-why-tech-giants-are-hugging-remote-work/)
 * [One-Word Domains](https://www.oneword.domains/)
-* [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
 * [Don’t Be Afraid of RAID](https://louwrentius.com/dont-be-afraid-of-raid.html)
-* [Show HN: Bosconian (1981), in 3-D](http://nolannicholson.com/bosco-3d/)
-* [BaseSAFE: Baseband SAnitized Fuzzing Through Emulation](https://arxiv.org/abs/2005.07797)
-* [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
-* [The Challenge of Cross-language Interoperability (2013)](https://queue.acm.org/detail.cfm?id=2543971)
+* [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
 * [A 1973 IBM Selectric typeball recorded dancers' body movements](https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/)
 * [Writing and the narrative fallacy (2018)](https://jacklimpert.com/2018/04/jeff-bezos-talks-about-writing-and-the-narrative-fallacy/)
+* [Show HN: Bosconian (1981), in 3-D](http://nolannicholson.com/bosco-3d/)
+* [BaseSAFE: Baseband SAnitized Fuzzing Through Emulation](https://arxiv.org/abs/2005.07797)
+* [The Challenge of Cross-language Interoperability (2013)](https://queue.acm.org/detail.cfm?id=2543971)
 ## nytimes.com
 
 
@@ -45,7 +45,6 @@ layout: default
 * [The Project Behind a Front Page Full of Names](https://www.nytimes.com/2020/05/23/reader-center/coronavirus-new-york-times-front-page.html)
 * [Trump Tweets and Golfs, but Makes No Mention of Virus’s Toll](https://www.nytimes.com/2020/05/24/us/politics/trump-coronavirus-death-toll.html)
 * [They Survived the Worst Battles of World War II. And Died of the Virus.](https://www.nytimes.com/2020/05/24/us/they-survived-the-worst-battles-of-world-war-ii-and-died-of-the-virus.html)
-* [For Some Italians, the Future of Work Looks Like the Past](https://www.nytimes.com/2020/05/24/world/europe/italy-farms-coronavirus.html)
 * [The Virus Has Wrecked Some Families. It Has Brought Others Closer.](https://www.nytimes.com/2020/05/24/nyregion/coronavirus-nyc-families.html)
 * [Full Coronavirus Coverage](https://www.nytimes.com/news-event/coronavirus)
 * [Trump Sows Doubt on Voting. It Keeps Some People Up at Night.](https://www.nytimes.com/2020/05/24/us/politics/trump-2020-election-voting-rights.html)
@@ -82,19 +81,19 @@ layout: default
 * [Suriname’s Strongman Shrugs Off Murder Sentence in Re-election Bid](https://www.nytimes.com/2020/05/24/world/americas/suriname-bouterse-election.html)
 * [Rafael Leonardo Black, Solitary and Self-Trained Artist, Dies at 71](https://www.nytimes.com/2020/05/23/arts/rafael-leonardo-black-dead-coronavirus.html)
 * [Why the Call to Prayer Made Me Cry This Ramadan](https://www.nytimes.com/2020/05/22/world/africa/coronavirus-ramadan-east-africa.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Regan Smith: No Swimming, No Olympics, No Graduation. No Complaints.](https://www.nytimes.com/2020/05/22/sports/swimming-regan-smith.html)
 * [9 Movies to Stream When You’ve Watched Everything Else](https://www.nytimes.com/2020/05/20/movies/unique-movie-streaming-recommendations.html)
 * [For This Lesbian Romance, World War II Is Just One Complication](https://www.nytimes.com/2020/05/19/books/review/dola-de-jong-tree-vine.html)
 * [Learning How to Love From Afar](https://www.nytimes.com/2020/05/22/well/family/coronavirus-polio-neighbors-community.html)
 * [Plant-Based ‘Meats’ Catch On in the Pandemic](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html)
 * [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
-* [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Trump Promotes Posts From Racist and Sexist Twitter Feed](https://www.nytimes.com/2020/05/24/us/politics/trump-tweets-racist.html)
 * [Dating After Coronavirus](https://www.nytimes.com/2020/05/18/opinion/coronavirus-dating.html)
@@ -105,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* ['Óbvio que antecipar o uso da cloroquina teve peso', diz Teich sobre saída de ministério](https://oglobo.globo.com/brasil/obvio-que-antecipar-uso-da-cloroquina-teve-peso-diz-teich-sobre-saida-de-ministerio-24443783)
+* [Guilherme de Pádua vai a manifestação em defesa de Bolsonaro: 'Brasil precisa mudar'](https://epoca.globo.com/guilherme-amado/guilherme-de-padua-vai-manifestacao-em-defesa-de-bolsonaro-brasil-precisa-mudar-24444036)
 * [Trump cumpre aviso e proíbe entrada de brasileiros nos EUA por causa da crise do coronavírus](https://oglobo.globo.com/mundo/trump-cumpre-aviso-proibe-entrada-de-brasileiros-nos-eua-por-causa-da-crise-do-coronavirus-24441318)
 * [ONG distribui lanches para moradores de rua na Cinelândia: 'Vivendo período de guerra'](https://oglobo.globo.com/rio/ong-distribui-lanches-para-moradores-de-rua-na-cinelandia-vivendo-periodo-de-guerra-24443988)
 * [Repórteres conversam com médicos obrigados a escolher quem recebe tratamento na pandemia](https://oglobo.globo.com/meu-oglobo/reporteres-conversam-com-medicos-obrigados-escolher-quem-recebe-tratamento-na-pandemia-24443870)
 * ['Não é justo delegar aos médicos a decisão de quem vai morrer ou viver', diz advogado](https://oglobo.globo.com/sociedade/nao-justo-delegar-aos-medicos-decisao-de-quem-vai-morrer-ou-viver-diz-advogado-24443941)
 * [Brasileira que mora nos Estados Unidos conta como foi pegar o coronavírus](https://oglobo.globo.com/sociedade/coronavirus/brasileira-que-mora-nos-estados-unidos-conta-como-foi-pegar-coronavirus-24443945)
 * [Brasil tem mais de 363 mil casos de Covid-19 e registra 653 novas mortes](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-mais-de-363-mil-casos-de-covid-19-registra-653-novas-mortes-24443890)
-* [Quem nasce para Sergio Moro não chega a Pedro Aleixo](https://epoca.globo.com/quem-nasce-para-sergio-moro-nao-chega-pedro-aleixo-1-24443767)
 * [Bolsonaro diz que ministro da Defesa sabe 'fazer valer as Forças Armadas em defesa da democracia'](https://oglobo.globo.com/brasil/bolsonaro-diz-que-ministro-da-defesa-sabe-fazer-valer-as-forcas-armadas-em-defesa-da-democracia-1-24443802)
 * [Clubes, Ferj e Prefeitura trabalham pela volta do Carioca em 14 de junho](https://oglobo.globo.com/esportes/clubes-ferj-prefeitura-trabalham-pela-volta-do-carioca-em-14-de-junho-24443787)
-* [Lufthansa retomará voos para 20 destinos a partir de meados de junho](https://oglobo.globo.com/economia/lufthansa-retomara-voos-para-20-destinos-partir-de-meados-de-junho-24443773)

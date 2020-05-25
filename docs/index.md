@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 12:14:45 UTC
+# indexed at 25/05/2020 12:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Org Mode – Organize Your Life in Plain Text](http://doc.norang.ca/org-mode.html)
 * [Software will eat software in a remote-first world](https://themargins.substack.com/p/software-will-eat-software-in-a-remote)
 * [Show HN: A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://github.com/davidahmed/wiper)
 * [Mocking time and testing event loops in Go](https://dmitryfrank.com/articles/mocking_time_in_go)
 * [eBay port scans visitors' computers for remote access programs](https://www.bleepingcomputer.com/news/security/ebay-port-scans-visitors-computers-for-remote-access-programs/)
-* [Org Mode – Organize Your Life in Plain Text](http://doc.norang.ca/org-mode.html)
 * [Tycoon Xavier Niel says he was spy who hacked ex-French president](https://nypost.com/2020/05/23/tycoon-xavier-niel-says-he-was-spy-who-hacked-ex-french-president/)
-* [Intelligence Without Reason (1991) [pdf]](https://www.ijcai.org/Proceedings/91-1/Papers/089.pdf)
 * [Pelorus Jack](https://en.wikipedia.org/wiki/Pelorus_Jack)
 * [W64devkit: A Portable C and C++ Development Kit for Windows](https://nullprogram.com/blog/2020/05/15/)
+* [Intelligence Without Reason (1991) [pdf]](https://www.ijcai.org/Proceedings/91-1/Papers/089.pdf)
 * [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
-* [Infected by ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
+* [Bitten by a Snake](https://www.lrb.co.uk/the-paper/v42/n10/michael-wood/bitten-by-a-snake)
 * [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
+* [Infected by ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
 * [Learn Genetics](https://learn.genetics.utah.edu/)
 * [The Argument Against Quantum Computers and the Quantum Laws of Nature [pdf]](https://gilkalai.files.wordpress.com/2020/04/laws-blog.pdf)
+* [Disney’s flying robot stunt double can pose just like a superhero (2018)](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)
 * [Beyond Remote](https://vimota.me/writing/beyond-remote)
+* [Becoming Addiction-Free](https://www.stevepavlina.com/blog/2017/02/becoming-addiction-free/)
+* [BSD Hardware – Details of BSD Powered Computers over the World](https://bsd-hardware.info)
 * [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
 * [Thai Database Leaks 8.3B Internet Records](https://rainbowtabl.es/2020/05/25/thai-database-leaks-internet-records/?=may-23-2020)
-* [BSD Hardware – Details of BSD Powered Computers over the World](https://bsd-hardware.info)
 * [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
-* [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
-* [Disney’s flying robot stunt double can pose just like a superhero (2018)](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)
-* [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
 * [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
+* [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
+* [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
 * [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
 * [Show HN: Use Your Inbox As A Google Reader Replacement](http://feedsub.com?hn)
 * [A Field Guide to zkSNARKs Part I: A Primer on Computation](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
 * [A stitch in time: How a quantum physicist invented new code from old tricks](https://phys.org/news/2020-05-quantum-physicist-code.html)
-* [A 1969 Experiment in a Locked Room Changed Art History](https://www.artnews.com/art-news/news/locked-room-experiment-art-education-1202687843/)
-* [Ask HN: Did Reddit ever end up giving equity to any of its users?](https://news.ycombinator.com/item?id=23298611)
 ## nytimes.com
 
 
@@ -84,17 +84,17 @@ layout: default
 * [The Artisans Behind Italian Fashion Tremble at Their Future](https://www.nytimes.com/2020/05/23/business/italy-luxury-fashion-coronavirus.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [12 Great TV Series by Film Directors](https://www.nytimes.com/2020/05/20/arts/television/movie-directors-devs-twin-peaks-queen-sugar.html)
 * [8 New Books We Recommend This Week](https://www.nytimes.com/2020/05/21/books/review/8-new-books-to-read-this-week.html)
 * [Carly Rae Jepsen’s Summery Throwback, and 11 More New Songs](https://www.nytimes.com/2020/05/22/arts/music/playlist-carly-rae-jepsen-polo-g-neil-young.html)
 * [The People Who Miss Our Kids](https://www.nytimes.com/2020/05/19/parenting/coronavirus-teachers-children-separation.html)
 * [Putting the Risk of Covid-19 in Perspective](https://www.nytimes.com/2020/05/22/well/live/putting-the-risk-of-covid-19-in-perspective.html)
 * [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
-* [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
-* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
 * [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
+* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
+* [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [First They Fled the City. Now They’re Building $75,000 In-Ground Pools.](https://www.nytimes.com/2020/05/22/nyregion/quarantine-rich-pools.html)
 * [Trump Sows Doubt on Voting. It Keeps Some People Up at Night.](https://www.nytimes.com/2020/05/24/us/politics/trump-2020-election-voting-rights.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Prefeitura do Rio mantém bloqueio em 11 bairros como medida de contenção do coronavírus](https://oglobo.globo.com/rio/prefeitura-do-rio-mantem-bloqueio-em-11-bairros-como-medida-de-contencao-do-coronavirus-24444370)
-* [Morre Jimmy Cobb, o mítico baterista de 'Kind of blue', de Miles Davis](https://oglobo.globo.com/cultura/musica/morre-jimmy-cobb-mitico-baterista-de-kind-of-blue-de-miles-davis-1-24444326)
 * [MPRJ e Polícia Civil fazem operação contra fraudes em licitação para compra de álcool em gel em Niterói](https://oglobo.globo.com/rio/mprj-policia-civil-fazem-operacao-contra-fraudes-em-licitacao-para-compra-de-alcool-em-gel-em-niteroi-24444323)
+* [Pneumologista referência no país se cura de Covid-19: 'Não me tratei com cloroquina e não receitaria a nenhum paciente'](https://epoca.globo.com/guilherme-amado/pneumologista-referencia-no-pais-se-cura-de-covid-19-nao-me-tratei-com-cloroquina-nao-receitaria-nenhum-paciente-24444158)
+* [Esfoliação: especialista fala sobre frequência ideal de retirada de células mortas da pele](https://oglobo.globo.com/ela/beleza/pele/esfoliacao-especialista-fala-sobre-frequencia-ideal-de-retirada-de-celulas-mortas-da-pele-24444422)
+* [Prefeitura do Rio mantém bloqueio em 13 bairros como medida de contenção do coronavírus](https://oglobo.globo.com/rio/prefeitura-do-rio-mantem-bloqueio-em-13-bairros-como-medida-de-contencao-do-coronavirus-24444370)
+* [Morre Jimmy Cobb, o mítico baterista de 'Kind of blue', de Miles Davis](https://oglobo.globo.com/cultura/musica/morre-jimmy-cobb-mitico-baterista-de-kind-of-blue-de-miles-davis-1-24444326)
 * [Exame de Toffoli para Covid-19 dá negativo](https://oglobo.globo.com/brasil/exame-de-toffoli-para-covid-19-da-negativo-24444358)
 * [Meghan Markle estava convencida de que havia uma conspiração contra ela, diz revista](https://oglobo.globo.com/ela/gente/meghan-markle-estava-convencida-de-que-havia-uma-conspiracao-contra-ela-diz-revista-24444355)
 * [Coluna | Pandemia, urnas e popularidade](https://epoca.globo.com/ariel-palacios/coluna-pandemia-urnas-popularidade-24444338)
 * [Petróleo volta a cair com escalada da tensão entre EUA e China, que fala em nova Guerra Fria](https://oglobo.globo.com/economia/petroleo-volta-cair-com-escalada-da-tensao-entre-eua-china-que-fala-em-nova-guerra-fria-24444180)
-* [Caxias reabre o comércio, e prefeito se responsabiliza se casos de Covid-19 aumentarem](https://oglobo.globo.com/rio/caxias-reabre-comercio-prefeito-se-responsabiliza-se-casos-de-covid-19-aumentarem-1-24444307)
-* [INSS começa a pagar hoje segunda parcela do 13º salário a aposentados e pensionistas](https://oglobo.globo.com/economia/inss-comeca-pagar-hoje-segunda-parcela-do-13-salario-aposentados-pensionistas-24444239)
 * [Site de Bolsonaro exalta 'inteligência e eficiência' de Moro](https://epoca.globo.com/guilherme-amado/site-de-bolsonaro-exalta-inteligencia-eficiencia-de-moro-1-24441464)

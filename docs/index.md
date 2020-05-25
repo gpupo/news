@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 06:12:43 UTC
+# indexed at 25/05/2020 06:34:52 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Software will eat software in a remote-first world](https://themargins.substack.com/p/software-will-eat-software-in-a-remote)
-* [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
 * [Show HN: A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://github.com/davidahmed/wiper)
 * [Pelorus Jack](https://en.wikipedia.org/wiki/Pelorus_Jack)
 * [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
+* [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
 * [The Argument Against Quantum Computers and the Quantum Laws of Nature [pdf]](https://gilkalai.files.wordpress.com/2020/04/laws-blog.pdf)
 * [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
-* [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
 * [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
-* [Scientists baffled by decision to stop a pioneering coronavirus testing project](https://www.nature.com/articles/d41586-020-01543-x)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
 * [Beyond Remote](https://vimota.me/writing/beyond-remote)
+* [Scientists baffled by decision to stop a pioneering coronavirus testing project](https://www.nature.com/articles/d41586-020-01543-x)
+* [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
 * [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
 * [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
-* [Learn Genetics](https://learn.genetics.utah.edu/)
+* [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
 * [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
-* [A Field Guide to zkSNARKs Part I: A Primer on Computation](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
+* [Learn Genetics](https://learn.genetics.utah.edu/)
 * [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
+* [A Field Guide to zkSNARKs Part I: A Primer on Computation](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
+* [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
 * [Show HN: Use Your Inbox As A Google Reader Replacement](http://feedsub.com?hn)
 * [AWS partitions](https://github.com/aws/aws-sdk-js-v3/blob/c96f35f972c44706a391bb07e0a897e73b8d6dfe/clients/client-cloudfront/endpoints.ts)
-* [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
-* [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
 * [The Chiral Puzzle of Life](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6)
 * [Self Supervised Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
-* [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
 * [MiniConf: A Virtual Conference in a Box](https://mini-conf.github.io/index.html)
-* [Fashion industry suffers](https://filtercoffee.substack.com/p/fashion-industry-suffers)
+* [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
 * [With remote work plan, Facebook dashes hopes of paycheck arbitrage](https://mobile.reuters.com/article/idUSKBN22Y1IA)
 * [Hong Kong security chief warns of growing terrorism backing planned security law](https://www.reuters.com/article/us-hongkong-protests/hong-kongs-security-chief-warns-of-growing-terrorism-as-govt-backs-beijings-planned-security-laws-idUSKBN23107F)
+* [Fashion industry suffers](https://filtercoffee.substack.com/p/fashion-industry-suffers)
 * [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
 ## nytimes.com
 
@@ -81,20 +81,20 @@ layout: default
 * [Tiger Woods-Peyton Manning pairing wins match over Phil Mickelson-Tom Brady](https://www.nytimes.com/2020/05/24/sports/golf/tiger-woods-tom-brady-manning-mickelson-result.html)
 * [Suriname’s President Shrugs Off Murder Sentence in Re-election Bid](https://www.nytimes.com/2020/05/24/world/americas/suriname-bouterse-election.html)
 * [The Artisans Behind Italian Fashion Tremble at Their Future](https://www.nytimes.com/2020/05/23/business/italy-luxury-fashion-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Regan Smith: No Swimming, No Olympics, No Graduation. No Complaints.](https://www.nytimes.com/2020/05/22/sports/swimming-regan-smith.html)
 * [9 Movies to Stream When You’ve Watched Everything Else](https://www.nytimes.com/2020/05/20/movies/unique-movie-streaming-recommendations.html)
 * [For This Lesbian Romance, World War II Is Just One Complication](https://www.nytimes.com/2020/05/19/books/review/dola-de-jong-tree-vine.html)
 * [Learning How to Love From Afar](https://www.nytimes.com/2020/05/22/well/family/coronavirus-polio-neighbors-community.html)
 * [Plant-Based ‘Meats’ Catch On in the Pandemic](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
-* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
+* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
 * [You Can’t Beat a Savory Babka](https://www.nytimes.com/2020/05/22/dining/savory-babka-recipe.html)
 * [First They Fled the City. Now They’re Building $75,000 In-Ground Pools.](https://www.nytimes.com/2020/05/22/nyregion/quarantine-rich-pools.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
@@ -106,7 +106,7 @@ layout: default
 
 
 * [99% do desmatamento no Brasil em 2019 foi ilegal, aponta relatório](https://oglobo.globo.com/sociedade/99-do-desmatamento-no-brasil-em-2019-foi-ilegal-aponta-relatorio-24444171)
-* [Maduro comemora a chegada do primeiro navio petroleiro vindo do Irã para abastecer o país](https://oglobo.globo.com/mundo/maduro-comemora-chegada-do-primeiro-navio-petroleiro-vindo-do-ira-para-abastecer-pais-24444156)
+* [Stephen King lista seus cinco filmes imperdíveis de terror](https://oglobo.globo.com/rioshow/stephen-king-lista-seus-cinco-filmes-imperdiveis-de-terror-24444024)
 * [Artigo: Cenários pós-Covid-19](https://oglobo.globo.com/opiniao/artigo-cenarios-pos-covid-19-24439096)
 * [Gestos que salvam](https://oglobo.globo.com/opiniao/gestos-que-salvam-1-24443841)
 * [Vídeo, mentiras e palavrões](https://oglobo.globo.com/opiniao/video-mentiras-palavroes-24443778)

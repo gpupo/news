@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 17:11:36 UTC
+# indexed at 25/05/2020 17:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
 * [Show HN: PgTyped – Typesafe SQL in TypeScript and Postgres](https://github.com/adelsz/pgtyped)
 * [The Undocumented DOS Commands](https://the-eye.eu/public/Software/Old%20Apps/DOS%20Resources/Undocumented%20dos%20tips.txt)
-* [The China tea trade was a paradox of global capitalism](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)
-* [The Top 15 Captured Warplanes](https://hushkit.net/2020/05/25/the-top-15-captured-warplanes/)
-* [Software will eat software in a remote-first world](https://themargins.substack.com/p/software-will-eat-software-in-a-remote)
 * [Updating STM32 Over-The-Air using ESP32](https://github.com/laukik-hase/OTA_update_STM32_using_ESP32)
+* [The Top 15 Captured Warplanes](https://hushkit.net/2020/05/25/the-top-15-captured-warplanes/)
+* [SONiC – An Open Source Network Operating System](https://azure.github.io/SONiC/)
+* [The China tea trade was a paradox of global capitalism](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)
+* [Software will eat software in a remote-first world](https://themargins.substack.com/p/software-will-eat-software-in-a-remote)
 * [A No. 1 Hit Vanished from Poland’s Charts. It’s Not Going Quietly](https://www.nytimes.com/2020/05/22/arts/music/poland-chart-song-removed.html)
-* [An Introduction to Sine-Wave Speech (2007)](http://www.mrc-cbu.cam.ac.uk/personal/matt.davis/sine-wave-speech/)
-* [Rose-8 on Mac OS 9](https://belkadan.com/blog/2020/05/ROSE-8-on-Mac-OS-9/)
 * [Ironies of Automation (1983) [pdf]](https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
+* [Rose-8 on Mac OS 9](https://belkadan.com/blog/2020/05/ROSE-8-on-Mac-OS-9/)
+* [Show HN: InvaderZ is now available to play on itch.io](https://victorqribeiro.itch.io/invaderz)
 * [Mocking time and testing event loops in Go](https://dmitryfrank.com/articles/mocking_time_in_go)
 * [Org Mode – Organize Your Life in Plain Text](http://doc.norang.ca/org-mode.html)
 * [BSD Hardware Database](https://bsd-hardware.info)
-* [Show HN: InvaderZ is now available to play on itch.io](https://victorqribeiro.itch.io/invaderz)
+* [An Introduction to Sine-Wave Speech (2007)](http://www.mrc-cbu.cam.ac.uk/personal/matt.davis/sine-wave-speech/)
+* [A 1969 Experiment in a Locked Room Changed Art History](https://www.artnews.com/art-news/news/locked-room-experiment-art-education-1202687843/)
 * [Intelligence Without Reason (1991) [pdf]](https://www.ijcai.org/Proceedings/91-1/Papers/089.pdf)
 * [W64devkit: A Portable C and C++ Development Kit for Windows](https://nullprogram.com/blog/2020/05/15/)
 * [Swiss companies must pay share of rent for employees working from home](https://www.swissinfo.ch/eng/court-decision_companies-must-pay-share-of-rent-for-employees-working-from-home/45781126)
 * [Show HN: A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://github.com/davidahmed/wiper)
+* [Beyond Remote](https://vimota.me/writing/beyond-remote)
 * [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
 * [Infected by ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
-* [Beyond Remote](https://vimota.me/writing/beyond-remote)
-* [All the Letters](https://www.solipsys.co.uk/new/AllTheLetters.html?te24hn)
 * [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
+* [All the Letters](https://www.solipsys.co.uk/new/AllTheLetters.html?te24hn)
 * [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
 * [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
-* [eBay port scans visitors' computers for remote access programs](https://www.bleepingcomputer.com/news/security/ebay-port-scans-visitors-computers-for-remote-access-programs/)
 * [Pelorus Jack](https://en.wikipedia.org/wiki/Pelorus_Jack)
-* [API with NestJS #3. Authenticating users with bcrypt, Passport, JWT, and cookies](https://wanago.io/2020/05/25/api-nestjs-authenticating-users-bcrypt-passport-jwt-cookies/)
 ## nytimes.com
 
 
@@ -80,18 +80,18 @@ layout: default
 * [Putin Speaks, Officials Shrug, and Doctors Are Caught in the Middle](https://www.nytimes.com/2020/05/25/world/europe/putin-russia-coronavirus.html)
 * [A No. 1 Hit Vanished From Poland’s Charts. It’s Not Going Quietly.](https://www.nytimes.com/2020/05/22/arts/music/poland-chart-song-removed.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [Pass the Popcorn and Shhh! The Wedding Is About to Start](https://www.nytimes.com/2020/05/25/fashion/weddings/pass-the-popcorn-and-shhh-the-wedding-is-about-to-start.html)
 * [Putting the Risk of Covid-19 in Perspective](https://www.nytimes.com/2020/05/22/well/live/putting-the-risk-of-covid-19-in-perspective.html)
 * [Amy Schumer on Isolation and Missing Stand-Up](https://www.nytimes.com/2020/05/25/arts/television/amy-schumer.html)
 * [You May Not Like Lionel Shriver’s Characters. That May Be the Point.](https://www.nytimes.com/2020/05/19/books/review/the-motion-of-the-body-through-space-lionel-shriver.html)
 * [All Alone in a Three-Bedroom Apartment](https://www.nytimes.com/2020/05/25/realestate/all-alone-in-a-three-bedroom-apartment.html)
 * [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
-* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
 * [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
+* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
 * [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
 * [A Bright, Comforting One-Pot Stew With West African Roots](https://www.nytimes.com/2020/05/22/dining/asaro-summer-recipe.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [e](https://oglobo.globo.com/esportes/e-13-24444993)
+* [Crivella confirma treinos com bola em junho e partidas sem público já em julho; Flu emite nota](https://oglobo.globo.com/esportes/crivella-confirma-treinos-com-bola-em-junho-partidas-sem-publico-ja-em-julho-flu-emite-nota-24444965)
+* [OMS suspende testes com cloroquina e hidroxicloroquina](https://oglobo.globo.com/sociedade/coronavirus/oms-suspende-testes-com-cloroquina-hidroxicloroquina-24444957)
+* [Novo coronavírus: Crivella vai liberar funcionamento de igrejas e templos religiosos](https://oglobo.globo.com/rio/novo-coronavirus-crivella-vai-liberar-funcionamento-de-igrejas-templos-religiosos-24444942)
 * [TSE deve julgar em junho duas ações que pedem cassação do mandato de Bolsonaro](https://oglobo.globo.com/brasil/tse-deve-julgar-em-junho-duas-acoes-que-pedem-cassacao-do-mandato-de-bolsonaro-24444880)
 * [Sergio Moro protegia o PSDB e tinha predileção em condenar o PT, acusa Carla Zambelli](https://epoca.globo.com/guilherme-amado/sergio-moro-protegia-psdb-tinha-predilecao-em-condenar-pt-acusa-carla-zambelli-1-24444882)
-* [Novo coronavírus: Crivella vai liberar funcionamento de igrejas e templos religiosos](https://oglobo.globo.com/rio/novo-coronavirus-crivella-vai-liberar-funcionamento-de-igrejas-templos-religiosos-24444942)
 * [Netanyahu diz que não perderá 'oportunidade histórica' de fazer anexações na Cisjordânia](https://oglobo.globo.com/mundo/netanyahu-diz-que-nao-perdera-oportunidade-historica-de-fazer-anexacoes-na-cisjordania-24444920)
-* [Enquanto pandemia avança, Covas e Doria se desentendem sobre combate ao coronavírus em SP](https://oglobo.globo.com/brasil/enquanto-pandemia-avanca-covas-doria-se-desentendem-sobre-combate-ao-coronavirus-em-sp-24444817)
 * [Pixar tem sua primeira produção com protagonistas gays transmitida pela Disney +](https://oglobo.globo.com/cultura/pixar-tem-sua-primeira-producao-com-protagonistas-gays-transmitida-pela-disney-24444800)
-* [Itália vai recrutar voluntários para reforçar distanciamento à medida que país flexibiliza isolamento](https://oglobo.globo.com/mundo/italia-vai-recrutar-voluntarios-para-reforcar-distanciamento-medida-que-pais-flexibiliza-isolamento-24444784)
 * [Com inadimplência e evasão em alta na pandemia, 30% das instituições de Ensino Superior podem fechar em 2020](https://oglobo.globo.com/sociedade/com-inadimplencia-evasao-em-alta-na-pandemia-30-das-instituicoes-de-ensino-superior-podem-fechar-em-2020-24444843)
 * [Sisu ofertará vagas para estudantes de ensino a distância](https://oglobo.globo.com/sociedade/sisu-ofertara-vagas-para-estudantes-de-ensino-distancia-24444861)
-* [Como Covid-19 reduz oxigenação sem afetar respiração do infectado](https://epoca.globo.com/como-covid-19-reduz-oxigenacao-sem-afetar-respiracao-do-infectado-24443078)

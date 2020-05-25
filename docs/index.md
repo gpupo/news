@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 09:11:30 UTC
+# indexed at 25/05/2020 09:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -14,23 +14,22 @@ layout: default
 * [Pelorus Jack](https://en.wikipedia.org/wiki/Pelorus_Jack)
 * [W64devkit: A Portable C and C++ Development Kit for Windows](https://nullprogram.com/blog/2020/05/15/)
 * [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
-* [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
 * [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
 * [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
+* [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
+* [Intelligence Without Reason (1991) [pdf]](https://www.ijcai.org/Proceedings/91-1/Papers/089.pdf)
 * [The Argument Against Quantum Computers and the Quantum Laws of Nature [pdf]](https://gilkalai.files.wordpress.com/2020/04/laws-blog.pdf)
 * [Infected by Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
 * [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
 * [Learn Genetics](https://learn.genetics.utah.edu/)
 * [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
-* [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
-* [Beyond Remote](https://vimota.me/writing/beyond-remote)
 * [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
+* [Beyond Remote](https://vimota.me/writing/beyond-remote)
 * [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
-* [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
 * [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
-* [A 1969 Experiment in a Locked Room Changed Art History](https://www.artnews.com/art-news/news/locked-room-experiment-art-education-1202687843/)
 * [A stitch in time: How a quantum physicist invented new code from old tricks](https://phys.org/news/2020-05-quantum-physicist-code.html)
+* [A 1969 Experiment in a Locked Room Changed Art History](https://www.artnews.com/art-news/news/locked-room-experiment-art-education-1202687843/)
 * [A Field Guide to zkSNARKs Part I: A Primer on Computation](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
 * [Self Supervised Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
 * [Show HN: Use Your Inbox As A Google Reader Replacement](http://feedsub.com?hn)
@@ -38,6 +37,7 @@ layout: default
 * [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
 * [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
 * [With remote work plan, Facebook dashes hopes of paycheck arbitrage](https://mobile.reuters.com/article/idUSKBN22Y1IA)
+* [Scientists baffled by decision to stop a pioneering coronavirus testing project](https://www.nature.com/articles/d41586-020-01543-x)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [Tiger Woods-Peyton Manning pairing wins match over Phil Mickelson-Tom Brady](https://www.nytimes.com/2020/05/24/sports/golf/tiger-woods-tom-brady-manning-mickelson-result.html)
 * [Suriname’s President Shrugs Off Murder Sentence in Re-election Bid](https://www.nytimes.com/2020/05/24/world/americas/suriname-bouterse-election.html)
 * [The Artisans Behind Italian Fashion Tremble at Their Future](https://www.nytimes.com/2020/05/23/business/italy-luxury-fashion-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Regan Smith: No Swimming, No Olympics, No Graduation. No Complaints.](https://www.nytimes.com/2020/05/22/sports/swimming-regan-smith.html)
 * [9 Movies to Stream When You’ve Watched Everything Else](https://www.nytimes.com/2020/05/20/movies/unique-movie-streaming-recommendations.html)
@@ -91,9 +91,9 @@ layout: default
 * [Learning How to Love From Afar](https://www.nytimes.com/2020/05/22/well/family/coronavirus-polio-neighbors-community.html)
 * [Plant-Based ‘Meats’ Catch On in the Pandemic](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html)
 * [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
-* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [First They Fled the City. Now They’re Building $75,000 In-Ground Pools.](https://www.nytimes.com/2020/05/22/nyregion/quarantine-rich-pools.html)
 * [Trump Promotes Posts From Racist and Sexist Twitter Feed](https://www.nytimes.com/2020/05/24/us/politics/trump-tweets-racist.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Ressaca pode trazer ondas de até 2,5 metros para a orla do Rio nesta segunda-feira](https://oglobo.globo.com/rio/ressaca-pode-trazer-ondas-de-ate-25-metros-para-orla-do-rio-nesta-segunda-feira-24444212)
 * [Sismo surpreende primeira-ministra neozelandesa durante entrevista](https://oglobo.globo.com/mundo/sismo-surpreende-primeira-ministra-neozelandesa-durante-entrevista-24444194)
 * [Levantamento aponta que Planalto tomou seis medidas para flexibilizar armas](https://oglobo.globo.com/brasil/levantamento-aponta-que-planalto-tomou-seis-medidas-para-flexibilizar-armas-24444166)
 * [‘Ficou claro que ele falava a respeito da segurança’, avalia líder do governo na Câmara](https://oglobo.globo.com/brasil/ficou-claro-que-ele-falava-respeito-da-seguranca-avalia-lider-do-governo-na-camara-24444164)
 * ['Boiada' de Salles incluiu demissão de fiscais, anistia a desmatadores e submissão do Ibama a militares na Amazônia](https://oglobo.globo.com/brasil/boiada-de-salles-incluiu-demissao-de-fiscais-anistia-desmatadores-submissao-do-ibama-militares-na-amazonia-24443867)
-* [Para procuradores, Bolsonaro pode ter cometido crime de advocacia administrativa em pressão para trocas na PF](https://oglobo.globo.com/brasil/para-procuradores-bolsonaro-pode-ter-cometido-crime-de-advocacia-administrativa-em-pressao-para-trocas-na-pf-24443972)
 * [Túlio é eleito 5º maior ídolo do Botafogo e faz pedido: 'Só falta uma estátua para morrer tranquilo'](https://oglobo.globo.com/esportes/botafogo/tulio-eleito-5-maior-idolo-do-botafogo-faz-pedido-so-falta-uma-estatua-para-morrer-tranquilo-24433639)
 * [Por trás dos números: talentosa, irmã Maria de Nazaré dedicou mais de 50 anos à fé católica](https://oglobo.globo.com/sociedade/coronavirus/por-tras-dos-numeros-talentosa-irma-maria-de-nazare-dedicou-mais-de-50-anos-fe-catolica-24443954)
-* [O risco da Olimpíada de Tóquio ser cancelada](https://oglobo.globo.com/podcast/o-risco-da-olimpiada-de-toquio-ser-cancelada-1-24444010)
+* [Sem interromper aulas, Escola de Cadetes da Aeronáutica em MG soma 200 casos de Covid](https://epoca.globo.com/guilherme-amado/sem-interromper-aulas-escola-de-cadetes-da-aeronautica-em-mg-soma-200-casos-de-covid-24444109)
 * [Quem dá mais? Para ajudar moradoras de favelas, Cufa promove leilão virtual de peças de famosos](https://oglobo.globo.com/sociedade/quem-da-mais-para-ajudar-moradoras-de-favelas-cufa-promove-leilao-virtual-de-pecas-de-famosos-24443910)
 * [Sem remédio e sem comida: restrições devido ao coronavírus ampliam riscos à saúde de pessoas LGBTI com HIV](https://oglobo.globo.com/celina/sem-remedio-sem-comida-restricoes-devido-ao-coronavirus-ampliam-riscos-saude-de-pessoas-lgbti-com-hiv-1-24437188)

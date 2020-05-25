@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 02:11:49 UTC
+# indexed at 25/05/2020 02:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
-* [The Chiral Puzzle of Life](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6)
+* [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
 * [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
-* [GitHub Reinstates Popcorn Time Code Despite MPA ‘Threat’](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
+* [The Chiral Puzzle of Life](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6)
 * [Tuxedo Book BA15: AMD-only and Linux-preinstalled laptop](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-BA15-Gen10.tuxedo)
-* [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
+* [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
 * [My New FreeBSD Laptop: Dell Latitude 7390](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
+* [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
 * [Jepsen: MongoDB 4.2.6](http://jepsen.io/analyses/mongodb-4.2.6)
+* [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
 * [Self Supervised Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
 * [With remote work plan, Facebook dashes hopes of paycheck arbitrage](https://mobile.reuters.com/article/idUSKBN22Y1IA)
 * [Ask HN: If you could work remote where would you live?](https://news.ycombinator.com/item?id=23294799)
-* [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
-* [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
 * [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
 * [MiniConf: A Virtual Conference in a Box](https://mini-conf.github.io/index.html)
+* [The Argument Against Quantum Computers and the Quantum Laws of Nature [pdf]](https://gilkalai.files.wordpress.com/2020/04/laws-blog.pdf)
 * [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
 * [Let’s Draw Together](https://multiuser-sketchpad.glitch.me/)
 * [Running Lisp in Production (2015)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 * [Don’t Be Afraid of RAID](https://louwrentius.com/dont-be-afraid-of-raid.html)
 * [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
 * [A 1973 IBM Selectric typeball recorded dancers' body movements](https://www.ibm.com/blogs/industries/selectric-typewriter-dancers/)
-* [Writing and the narrative fallacy (2018)](https://jacklimpert.com/2018/04/jeff-bezos-talks-about-writing-and-the-narrative-fallacy/)
-* [One-Word Domains](https://www.oneword.domains/)
-* [Show HN: Bosconian (1981), in 3-D](http://nolannicholson.com/bosco-3d/)
 * [BaseSAFE: Baseband SAnitized Fuzzing Through Emulation](https://arxiv.org/abs/2005.07797)
+* [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
+* [Learn Genetics](https://learn.genetics.utah.edu/)
 ## nytimes.com
 
 
@@ -82,20 +82,20 @@ layout: default
 * [Suriname’s Strongman Shrugs Off Murder Sentence in Re-election Bid](https://www.nytimes.com/2020/05/24/world/americas/suriname-bouterse-election.html)
 * [Rafael Leonardo Black, Solitary and Self-Trained Artist, Dies at 71](https://www.nytimes.com/2020/05/23/arts/rafael-leonardo-black-dead-coronavirus.html)
 * [Why the Call to Prayer Made Me Cry This Ramadan](https://www.nytimes.com/2020/05/22/world/africa/coronavirus-ramadan-east-africa.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [Regan Smith: No Swimming, No Olympics, No Graduation. No Complaints.](https://www.nytimes.com/2020/05/22/sports/swimming-regan-smith.html)
 * [9 Movies to Stream When You’ve Watched Everything Else](https://www.nytimes.com/2020/05/20/movies/unique-movie-streaming-recommendations.html)
 * [For This Lesbian Romance, World War II Is Just One Complication](https://www.nytimes.com/2020/05/19/books/review/dola-de-jong-tree-vine.html)
 * [Learning How to Love From Afar](https://www.nytimes.com/2020/05/22/well/family/coronavirus-polio-neighbors-community.html)
 * [Plant-Based ‘Meats’ Catch On in the Pandemic](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html)
-* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
-* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
-* [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
+* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
 * [Trump Promotes Posts From Racist and Sexist Twitter Feed](https://www.nytimes.com/2020/05/24/us/politics/trump-tweets-racist.html)
 * [Dating After Coronavirus](https://www.nytimes.com/2020/05/18/opinion/coronavirus-dating.html)
 * [Kayleigh McEnany Displays One of Trump's Checks in a Little Too Much Detail](https://www.nytimes.com/2020/05/22/us/politics/coronavirus-trump-press-secretary-check.html)
@@ -105,8 +105,8 @@ layout: default
 ## globo.com
 
 
-* [Moro: ‘Agenda anticorrupção não teve impulso do presidente’](https://oglobo.globo.com/brasil/moro-agenda-anticorrupcao-nao-teve-impulso-do-presidente-24443895)
 * [Tele abre plataforma de cursos on-line voltados para o Enem a clientes de celular pré-pago](https://oglobo.globo.com/economia/tele-abre-plataforma-de-cursos-on-line-voltados-para-enem-clientes-de-celular-pre-pago-24444104)
+* [Moro: ‘Agenda anticorrupção não teve impulso do presidente’](https://oglobo.globo.com/brasil/moro-agenda-anticorrupcao-nao-teve-impulso-do-presidente-24443895)
 * [Maduro comemora a chegada do primeiro navio petroleiro vindo do Irã para abastecer o país](https://oglobo.globo.com/mundo/maduro-comemora-chegada-do-primeiro-navio-petroleiro-vindo-do-ira-para-abastecer-pais-24444156)
 * ['Óbvio que antecipar o uso da cloroquina teve peso', diz Teich sobre saída do Ministério da Saúde](https://oglobo.globo.com/sociedade/obvio-que-antecipar-uso-da-cloroquina-teve-peso-diz-teich-sobre-saida-do-ministerio-da-saude-24443783)
 * [Guilherme de Pádua vai a manifestação em defesa de Bolsonaro: 'Brasil precisa mudar'](https://epoca.globo.com/guilherme-amado/guilherme-de-padua-vai-manifestacao-em-defesa-de-bolsonaro-brasil-precisa-mudar-24444036)

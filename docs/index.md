@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 13:11:04 UTC
+# indexed at 25/05/2020 13:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Swiss companies must pay share of rent for employees working from home](https://www.swissinfo.ch/eng/court-decision_companies-must-pay-share-of-rent-for-employees-working-from-home/45781126)
-* [It's about time you try Linux](https://www.trylinux.today/)
-* [Org Mode – Organize Your Life in Plain Text](http://doc.norang.ca/org-mode.html)
 * [Software will eat software in a remote-first world](https://themargins.substack.com/p/software-will-eat-software-in-a-remote)
+* [Joe Rogan Is the New Mainstream Media](https://www.nytimes.com/2020/05/25/opinion/joe-rogan-spotify-podcast.html)
 * [Show HN: A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://github.com/davidahmed/wiper)
 * [Mocking time and testing event loops in Go](https://dmitryfrank.com/articles/mocking_time_in_go)
-* [eBay port scans visitors' computers for remote access programs](https://www.bleepingcomputer.com/news/security/ebay-port-scans-visitors-computers-for-remote-access-programs/)
+* [Org Mode – Organize Your Life in Plain Text](http://doc.norang.ca/org-mode.html)
 * [Pelorus Jack](https://en.wikipedia.org/wiki/Pelorus_Jack)
-* [W64devkit: A Portable C and C++ Development Kit for Windows](https://nullprogram.com/blog/2020/05/15/)
+* [eBay port scans visitors' computers for remote access programs](https://www.bleepingcomputer.com/news/security/ebay-port-scans-visitors-computers-for-remote-access-programs/)
 * [Intelligence Without Reason (1991) [pdf]](https://www.ijcai.org/Proceedings/91-1/Papers/089.pdf)
+* [W64devkit: A Portable C and C++ Development Kit for Windows](https://nullprogram.com/blog/2020/05/15/)
+* [BSD Hardware – Details of BSD Powered Computers over the World](https://bsd-hardware.info)
 * [Tycoon Xavier Niel says he was spy who hacked ex-French president](https://nypost.com/2020/05/23/tycoon-xavier-niel-says-he-was-spy-who-hacked-ex-french-president/)
 * [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
-* [BSD Hardware – Details of BSD Powered Computers over the World](https://bsd-hardware.info)
 * [Learn Genetics](https://learn.genetics.utah.edu/)
 * [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
-* [Infected by ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
-* [Disney’s flying robot stunt double can pose just like a superhero (2018)](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)
-* [Beyond Remote](https://vimota.me/writing/beyond-remote)
 * [The Argument Against Quantum Computers and the Quantum Laws of Nature [pdf]](https://gilkalai.files.wordpress.com/2020/04/laws-blog.pdf)
+* [Infected by ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
+* [Beyond Remote](https://vimota.me/writing/beyond-remote)
+* [Disney’s flying robot stunt double can pose just like a superhero (2018)](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)
+* [All the Letters](https://www.solipsys.co.uk/new/AllTheLetters.html?te24hn)
+* [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
 * [Bitten by a Snake](https://www.lrb.co.uk/the-paper/v42/n10/michael-wood/bitten-by-a-snake)
-* [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
-* [Becoming Addiction-Free](https://www.stevepavlina.com/blog/2017/02/becoming-addiction-free/)
 * [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
-* [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
+* [Becoming Addiction-Free](https://www.stevepavlina.com/blog/2017/02/becoming-addiction-free/)
 * [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
+* [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
 * [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
-* [Thai Database Leaks 8.3B Internet Records](https://rainbowtabl.es/2020/05/25/thai-database-leaks-internet-records/?=may-23-2020)
 * [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
-* [A Field Guide to zkSNARKs Part I: A Primer on Computation](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
+* [Thai Database Leaks 8.3B Internet Records](https://rainbowtabl.es/2020/05/25/thai-database-leaks-internet-records/?=may-23-2020)
 ## nytimes.com
 
 
@@ -82,18 +82,18 @@ layout: default
 * [Suriname’s President Shrugs Off Murder Sentence in Re-election Bid](https://www.nytimes.com/2020/05/24/world/americas/suriname-bouterse-election.html)
 * [The New Model Media Star Is Famous Only to You](https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html)
 * [The Artisans Behind Italian Fashion Tremble at Their Future](https://www.nytimes.com/2020/05/23/business/italy-luxury-fashion-coronavirus.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [12 Great TV Series by Film Directors](https://www.nytimes.com/2020/05/20/arts/television/movie-directors-devs-twin-peaks-queen-sugar.html)
 * [8 New Books We Recommend This Week](https://www.nytimes.com/2020/05/21/books/review/8-new-books-to-read-this-week.html)
 * [Carly Rae Jepsen’s Summery Throwback, and 11 More New Songs](https://www.nytimes.com/2020/05/22/arts/music/playlist-carly-rae-jepsen-polo-g-neil-young.html)
 * [The People Who Miss Our Kids](https://www.nytimes.com/2020/05/19/parenting/coronavirus-teachers-children-separation.html)
 * [Putting the Risk of Covid-19 in Perspective](https://www.nytimes.com/2020/05/22/well/live/putting-the-risk-of-covid-19-in-perspective.html)
 * [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
-* [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
 * [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
+* [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
 * [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [First They Fled the City. Now They’re Building $75,000 In-Ground Pools.](https://www.nytimes.com/2020/05/22/nyregion/quarantine-rich-pools.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Bebê que venceu a Covid-19 terá festa virtual de 6 meses, após 54 dias no hospital](https://oglobo.globo.com/rio/bebe-que-venceu-covid-19-tera-festa-virtual-de-6-meses-apos-54-dias-no-hospital-24444450)
+* [Governo alemão dá aval a socorro bilionário a Lufthansa e terá 20% da aérea](https://oglobo.globo.com/economia/governo-alemao-da-aval-socorro-bilionario-lufthansa-tera-20-da-aerea-24444509)
+* [Operações das Polícias Civil e Militar serão suspensas durante a pandemia de Covid-19](https://oglobo.globo.com/rio/operacoes-das-policias-civil-militar-serao-suspensas-durante-pandemia-de-covid-19-24444484)
+* [Bebê que venceu a Covid-19 terá festa virtual de 6 meses, após 54 dias no hospital](https://oglobo.globo.com/rio/bebe-que-venceu-covid-19-tera-festa-virtual-de-6-meses-apos-54-dias-no-hospital-1-24444450)
+* [Itália e Espanha entram em nova fase de desconfinamento, com bares e academias funcionando](https://oglobo.globo.com/mundo/italia-espanha-entram-em-nova-fase-de-desconfinamento-com-bares-academias-funcionando-24444512)
+* [Dólar abre em queda de 1,25%, a R$ 5,51](https://oglobo.globo.com/economia/dolar-abre-em-queda-de-125-r-551-24444436)
+* [Irmão de Felipe Neto lança mais uma aposta para virar best-seller](https://epoca.globo.com/guilherme-amado/irmao-de-felipe-neto-lanca-mais-uma-aposta-para-virar-best-seller-24444508)
 * [Niterói tem funcionamento do comércio ampliado nesta segunda-feira; veja lista](https://oglobo.globo.com/rio/niteroi-tem-funcionamento-do-comercio-ampliado-nesta-segunda-feira-veja-lista-24444431)
-* [Operações das Polícias Civil e Militar serão suspesas durante a pandemia de Covid-19](https://oglobo.globo.com/rio/operacoes-das-policias-civil-militar-serao-suspesas-durante-pandemia-de-covid-19-24444484)
 * [Mais de 10% dos casos de Covid-19 do Rio não têm os bairros identificados](https://oglobo.globo.com/rio/mais-de-10-dos-casos-de-covid-19-do-rio-nao-tem-os-bairros-identificados-24444265)
 * [Adriano fica fora de eleição de melhor estrangeiro da Inter; lista tem Ronaldo e Júlio César](https://oglobo.globo.com/esportes/adriano-fica-fora-de-eleicao-de-melhor-estrangeiro-da-inter-lista-tem-ronaldo-julio-cesar-24444477)
-* [Dólar abre em queda de 1,25%, a R$ 5,51](https://oglobo.globo.com/economia/dolar-abre-em-queda-de-125-r-551-24444436)
-* [Prefeitura do Rio mantém bloqueio em 13 bairros como medida de contenção do coronavírus](https://oglobo.globo.com/rio/prefeitura-do-rio-mantem-bloqueio-em-13-bairros-como-medida-de-contencao-do-coronavirus-24444370)
-* [Esfoliação: especialista fala sobre frequência ideal de retirada de células mortas da pele](https://oglobo.globo.com/ela/beleza/pele/esfoliacao-especialista-fala-sobre-frequencia-ideal-de-retirada-de-celulas-mortas-da-pele-24444422)
-* [Pneumologista referência no país se cura de Covid-19: 'Não me tratei com cloroquina e não receitaria a nenhum paciente'](https://epoca.globo.com/guilherme-amado/pneumologista-referencia-no-pais-se-cura-de-covid-19-nao-me-tratei-com-cloroquina-nao-receitaria-nenhum-paciente-24444158)
 * ['Não gostava de perder': Heleno de Freitas é lembrado entre os maiores ídolos do Botafogo](https://oglobo.globo.com/esportes/botafogo/nao-gostava-de-perder-heleno-de-freitas-lembrado-entre-os-maiores-idolos-do-botafogo-24439389)

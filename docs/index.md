@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/05/2020 08:12:46 UTC
+# indexed at 25/05/2020 08:34:21 UTC
 
 
 ## news.ycombinator.com
@@ -12,36 +12,36 @@ layout: default
 * [Show HN: A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://github.com/davidahmed/wiper)
 * [Pelorus Jack](https://en.wikipedia.org/wiki/Pelorus_Jack)
 * [How the biggest consumer apps got their first 1k users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
+* [Thai Database Leaks 8.3B Internet Records](https://rainbowtabl.es/2020/05/25/thai-database-leaks-internet-records/?=may-23-2020)
+* [W64devkit: A Portable C and C++ Development Kit for Windows](https://nullprogram.com/blog/2020/05/15/)
 * [Ancient Egyptian coffins and mystery of ‘black goo’](https://blog.britishmuseum.org/ancient-egyptian-coffins-and-mystery-of-black-goo/)
-* [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
 * [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
-* [Beyond Remote](https://vimota.me/writing/beyond-remote)
+* [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
 * [Linux 5.8 Set to Optionally Flush the L1d Cache on Context Switch](https://www.phoronix.com/scan.php?page=news_item&px=L1d-Cache-Flushing-Queued)
 * [The Argument Against Quantum Computers and the Quantum Laws of Nature [pdf]](https://gilkalai.files.wordpress.com/2020/04/laws-blog.pdf)
 * [Scientists baffled by decision to stop a pioneering coronavirus testing project](https://www.nature.com/articles/d41586-020-01543-x)
 * [Light-field videos: Part I](https://roblesnotes.com/blog/light-fields-project-i/)
 * [GitHub reinstates Popcorn Time code](https://torrentfreak.com/github-reinstates-popcorn-time-code-despite-mpa-threat-200520/)
-* [Infected by Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
-* [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
-* [Learn Genetics](https://learn.genetics.utah.edu/)
+* [Beyond Remote](https://vimota.me/writing/beyond-remote)
 * [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
+* [Learn Genetics](https://learn.genetics.utah.edu/)
+* [A major reason for departures at Slack was “remote work request rejected”](https://twitter.com/rkoutnik/status/1255505362733674499)
+* [Infected by Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
+* [A 1969 Experiment in a Locked Room Changed Art History](https://www.artnews.com/art-news/news/locked-room-experiment-art-education-1202687843/)
 * [Orion’s Arm Universe Project: Collaborative Hard Sci-Fi Worldbuilding](https://www.orionsarm.com)
-* [A stitch in time: How a quantum physicist invented new code from old tricks](https://phys.org/news/2020-05-quantum-physicist-code.html)
-* [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
 * [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs)
+* [Removing old, obsolete dams restores life to creeks and streams](https://www.riverkeeper.org/campaigns/river-ecology/saving-hudson-river-fish/dam-removal/)
+* [A stitch in time: How a quantum physicist invented new code from old tricks](https://phys.org/news/2020-05-quantum-physicist-code.html)
 * [A Field Guide to zkSNARKs Part I: A Primer on Computation](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
-* [Show HN: Use Your Inbox As A Google Reader Replacement](http://feedsub.com?hn)
 * [Fashion industry suffers](https://filtercoffee.substack.com/p/fashion-industry-suffers)
+* [Show HN: Use Your Inbox As A Google Reader Replacement](http://feedsub.com?hn)
 * [Self Supervised Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
 * [The Chiral Puzzle of Life](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6)
-* [A 1969 Experiment in a Locked Room Changed Art History](https://www.artnews.com/art-news/news/locked-room-experiment-art-education-1202687843/)
 * [Hard-Coding Bottom-Up Code Generation Tables to Save Time and Space (1991) [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8E1E2F91F95973FD5873D5ABEB80A536?doi=10.1.1.15.397&rep=rep1&type=pdf)
-* [With remote work plan, Facebook dashes hopes of paycheck arbitrage](https://mobile.reuters.com/article/idUSKBN22Y1IA)
-* [Testing Distributed Systems with Deterministic Simulation (2014) [video]](https://www.youtube.com/watch?v=4fFDFbi3toc)
 ## nytimes.com
 
 
-* [Coronavirus Live Updates: U.S. Adds Brazil to Travel Ban List](https://www.nytimes.com/2020/05/25/world/coronavirus-live-updates.html)
+* [Coronavirus Live Updates: Countries Struggle to Resume Air Travel](https://www.nytimes.com/2020/05/25/world/coronavirus-live-updates.html)
 * [The Project Behind a Front Page Full of Names](https://www.nytimes.com/2020/05/23/reader-center/coronavirus-new-york-times-front-page.html)
 * [Trump Tweets and Golfs, but Makes No Mention of Virus’s Toll](https://www.nytimes.com/2020/05/24/us/politics/trump-coronavirus-death-toll.html)
 * [They Survived the Worst Battles of World War II. And Died of the Virus.](https://www.nytimes.com/2020/05/24/us/they-survived-the-worst-battles-of-world-war-ii-and-died-of-the-virus.html)
@@ -80,20 +80,20 @@ layout: default
 * [Tiger Woods-Peyton Manning pairing wins match over Phil Mickelson-Tom Brady](https://www.nytimes.com/2020/05/24/sports/golf/tiger-woods-tom-brady-manning-mickelson-result.html)
 * [Suriname’s President Shrugs Off Murder Sentence in Re-election Bid](https://www.nytimes.com/2020/05/24/world/americas/suriname-bouterse-election.html)
 * [The Artisans Behind Italian Fashion Tremble at Their Future](https://www.nytimes.com/2020/05/23/business/italy-luxury-fashion-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Regan Smith: No Swimming, No Olympics, No Graduation. No Complaints.](https://www.nytimes.com/2020/05/22/sports/swimming-regan-smith.html)
 * [9 Movies to Stream When You’ve Watched Everything Else](https://www.nytimes.com/2020/05/20/movies/unique-movie-streaming-recommendations.html)
 * [For This Lesbian Romance, World War II Is Just One Complication](https://www.nytimes.com/2020/05/19/books/review/dola-de-jong-tree-vine.html)
 * [Learning How to Love From Afar](https://www.nytimes.com/2020/05/22/well/family/coronavirus-polio-neighbors-community.html)
 * [Plant-Based ‘Meats’ Catch On in the Pandemic](https://www.nytimes.com/2020/05/22/dining/plant-based-meats-coronavirus.html)
-* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
 * [Uncertain Results in Study of Convalescent Serum for Covid-19](https://www.nytimes.com/2020/05/22/health/coronarvirus-convalescent-serum.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Remdesivir Coronavirus Trial: Federal Scientists Finally Publish Data](https://www.nytimes.com/2020/05/23/health/coronavirus-remdesivir.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [First They Fled the City. Now They’re Building $75,000 In-Ground Pools.](https://www.nytimes.com/2020/05/22/nyregion/quarantine-rich-pools.html)
 * [Trump Promotes Posts From Racist and Sexist Twitter Feed](https://www.nytimes.com/2020/05/24/us/politics/trump-tweets-racist.html)
@@ -103,7 +103,8 @@ layout: default
 ## globo.com
 
 
-* [Garrincha é eleito o maior ídolo da história do Botafogo: 'Que ninguém se esqueça dele'](https://oglobo.globo.com/esportes/botafogo/garrincha-eleito-maior-idolo-da-historia-do-botafogo-que-ninguem-se-esqueca-dele-24433544)
+* ['Boiada' de Salles incluiu demissão de fiscais, anistia a desmatadores e submissão do Ibama a militares na Amazônia](https://oglobo.globo.com/brasil/boiada-de-salles-incluiu-demissao-de-fiscais-anistia-desmatadores-submissao-do-ibama-militares-na-amazonia-24443867)
+* [Para procuradores, Bolsonaro pode ter cometido crime de advocacia administrativa em pressão para trocas na PF](https://oglobo.globo.com/brasil/para-procuradores-bolsonaro-pode-ter-cometido-crime-de-advocacia-administrativa-em-pressao-para-trocas-na-pf-24443972)
 * [Jairzinho entra no Top-3 de maiores ídolos do Botafogo: 'Pulava o muro para ver o Garrincha'](https://oglobo.globo.com/esportes/botafogo/jairzinho-entra-no-top-3-de-maiores-idolos-do-botafogo-pulava-muro-para-ver-garrincha-24433679)
 * [Vulneráveis ao coronavírus, idosos respondem por mais da metade da renda em 20% dos lares](https://oglobo.globo.com/economia/vulneraveis-ao-coronavirus-idosos-respondem-por-mais-da-metade-da-renda-em-20-dos-lares-24443947)
 * [Mais de 14 milhões de brasileiros gastam ao menos duas horas até uma UTI para tratamento da Covid-19](https://oglobo.globo.com/sociedade/mais-de-14-milhoes-de-brasileiros-gastam-ao-menos-duas-horas-ate-uma-uti-para-tratamento-da-covid-19-24442488)
@@ -111,5 +112,4 @@ layout: default
 * [Regras contra coronavírus são ignoradas no Campo de Golfe da Barra da Tijuca](https://oglobo.globo.com/rio/regras-contra-coronavirus-sao-ignoradas-no-campo-de-golfe-da-barra-da-tijuca-24444033)
 * [Caderneta de poupança bate recorde em meio à crise](https://oglobo.globo.com/economia/caderneta-de-poupanca-bate-recorde-em-meio-crise-24444018)
 * [O risco da Olimpíada de Tóquio ser cancelada](https://oglobo.globo.com/podcast/o-risco-da-olimpiada-de-toquio-ser-cancelada-1-24444010)
-* [Moby: 'Espero que a pandemia nos faça ver que o velho normal pode ser confortável, mas é insustentável'](https://oglobo.globo.com/cultura/moby-espero-que-pandemia-nos-faca-ver-que-velho-normal-pode-ser-confortavel-mas-insustentavel-24439392)
 * [Conheça o projeto colaborativo que estuda como a quarentena vai influenciar na arquitetura daqui para frente](https://oglobo.globo.com/ela/decoracao/conheca-projeto-colaborativo-que-estuda-como-quarentena-vai-influenciar-na-arquitetura-daqui-para-frente-1-24443174)

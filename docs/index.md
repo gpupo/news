@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/05/2020 08:12:57 UTC
+# indexed at 26/05/2020 08:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [I/O library 6x faster than fmt, 10x faster than stdio.h and iostream](https://github.com/expnkx/fast_io)
 * [Tell HN: Triplebyte reverses, emails apology](https://news.ycombinator.com/item?id=23303037)
 * [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
-* [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
 * [New Two-Stroke Engine Design Could Help Keep Internal Combustion Around Longer](https://www.roadandtrack.com/new-cars/car-technology/a32612802/entry-ignition-two-stroke-engine-design-explained/)
+* [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
+* [Instrumentation in Go](https://gbws.io/articles/instrumentation-in-go/)
+* [Why super apps are proliferating across emerging markets](https://afridigest.substack.com/p/why-super-apps-are-proliferating)
 * [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
+* [A Forgotten Twentieth-Century Photographer’s Wild Portraits of Women in Nature](https://www.newyorker.com/culture/photo-booth/a-forgotten-twentieth-century-photographers-wild-portraits-of-women-in-nature)
 * [Ask HN: Has anybody shipped a web app at scale with 1 DB per account?](https://news.ycombinator.com/item?id=23305111)
-* [Vim Killer](https://github.com/caseykneale/VIMKiller)
 * [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
+* [Vim Killer](https://github.com/caseykneale/VIMKiller)
 * [How VC Works – A Beginner's Guide](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide)
-* [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
 * [Every tech downturn has a silver lining](https://om.co/2020/05/24/why-every-tech-downturn-has-a-silver-lining/)
 * [Sod – An Embedded Computer Vision and Machine Learning Tiny C Library](https://sod.pixlab.io/)
-* [Counterfactual Regret Minimization with Kuhn Poker](http://blog.varunajayasiri.com/ml/kuhn_poker.html)
+* [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
 * [Today’s Javascript, from an outsider’s perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
+* [Counterfactual Regret Minimization with Kuhn Poker](http://blog.varunajayasiri.com/ml/kuhn_poker.html)
 * [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device)
 * [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
-* [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
 * [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
+* [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
 * [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
 * [Show HN: Dsnet, a simple command to manage a centralised WireGuard VPN](https://github.com/naggie/dsnet/)
+* [Wikimedia enacts new standards to address harassment and promote inclusivity](https://wikimediafoundation.org/news/2020/05/22/wikimedia-foundation-board-announces-community-culture-statement/)
+* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [A Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
 * [Quines: self-replicating programs (2005)](http://www.madore.org/~david/computers/quine.html)
-* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [SCI Runs OpenVMS on x86-64](https://www.sciinc.com/remotevms/vms_techinfo/vms_news/OpenVMSOnX86-64.asp)
-* [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
-* [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
-* [Highly available Kubernetes with batteries for small business](https://cinaq.com/post/2020/05/25/highly-available-kubernetes-with-batteries-for-small-business/)
-* [Two capacitor paradox](https://en.wikipedia.org/wiki/Two_capacitor_paradox)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Stanley Ho, Who Turned Macau Into a Global Gambling Hub, Dies at 98](https://www.nytimes.com/2020/05/26/obituaries/stanley-ho-dead.html)
 * [Oil-Starved Venezuela Celebrates Arrival of Tankers From Iran](https://www.nytimes.com/2020/05/25/world/americas/Iranian-oil-tankers-venezuela.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [Gucci and the Future of Fashion Shows and Gender](https://www.nytimes.com/2020/05/25/style/alessandro-michele-gucci-future-fashion-shows.html)
 * [Too Many Memorial Days](https://www.nytimes.com/2020/05/24/reader-center/too-many-memorial-days.html)
 * [In ‘Rodham,’ Curtis Sittenfeld Reimagines Hillary’s Life](https://www.nytimes.com/2020/05/19/books/review/rodham-curtis-sittenfeld.html)
@@ -97,8 +97,8 @@ layout: default
 ## globo.com
 
 
+* [Ministros do Supremo não devem processar Weintraub por ofensa em reunião](https://oglobo.globo.com/brasil/ministros-do-supremo-nao-devem-processar-weintraub-por-ofensa-em-reuniao-24445841)
 * [Decisão de Crivella de liberar culto religioso surpreende comitê científico da prefeitura do Rio](https://oglobo.globo.com/rio/decisao-de-crivella-de-liberar-culto-religioso-surpreende-comite-cientifico-da-prefeitura-do-rio-24445838)
-* [Este ano, 25 estados devem superar limite legal para gastos com pessoal](https://oglobo.globo.com/economia/este-ano-25-estados-devem-superar-limite-legal-para-gastos-com-pessoal-24445103)
 * [Estudo prevê tombo de 11% no setor da construção civil este ano](https://oglobo.globo.com/economia/estudo-preve-tombo-de-11-no-setor-da-construcao-civil-este-ano-24445897)
 * [Ruínas de Pompeia, no sul da Itália, voltam a receber visitantes](https://oglobo.globo.com/boa-viagem/ruinas-de-pompeia-no-sul-da-italia-voltam-receber-visitantes-24445563)
 * [A batalha por leitos de UTI: o sistema que gerencia as vagas](https://oglobo.globo.com/podcast/a-batalha-por-leitos-de-uti-sistema-que-gerencia-as-vagas-1-24445839)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/05/2020 09:11:37 UTC
+# indexed at 26/05/2020 09:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
+* [UK government advisor caught out by Wayback machine](https://www.thenational.scot/news/18474584.dominic-cummings-added-coronavirus-quote-blog-april/)
+* [Why super apps are proliferating across emerging markets](https://afridigest.substack.com/p/why-super-apps-are-proliferating)
 * [Mastodon: Add end-to-end encryption API](https://github.com/tootsuite/mastodon/pull/13820)
 * [I/O library 6x faster than fmt, 10x faster than stdio.h and iostream](https://github.com/expnkx/fast_io)
-* [Why super apps are proliferating across emerging markets](https://afridigest.substack.com/p/why-super-apps-are-proliferating)
 * [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
-* [New Two-Stroke Engine Design Could Help Keep Internal Combustion Around Longer](https://www.roadandtrack.com/new-cars/car-technology/a32612802/entry-ignition-two-stroke-engine-design-explained/)
 * [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
-* [Instrumentation in Go](https://gbws.io/articles/instrumentation-in-go/)
 * [A Forgotten Twentieth-Century Photographer’s Wild Portraits of Women in Nature](https://www.newyorker.com/culture/photo-booth/a-forgotten-twentieth-century-photographers-wild-portraits-of-women-in-nature)
+* [Instrumentation in Go](https://gbws.io/articles/instrumentation-in-go/)
 * [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
+* [Vim Killer](https://github.com/caseykneale/VIMKiller)
 * [Ask HN: Has anybody shipped a web app at scale with 1 DB per account?](https://news.ycombinator.com/item?id=23305111)
 * [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
 * [How VC Works – A Beginner's Guide](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide)
-* [Vim Killer](https://github.com/caseykneale/VIMKiller)
-* [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
+* [Wikimedia enacts new standards to address harassment and promote inclusivity](https://wikimediafoundation.org/news/2020/05/22/wikimedia-foundation-board-announces-community-culture-statement/)
 * [Every tech downturn has a silver lining](https://om.co/2020/05/24/why-every-tech-downturn-has-a-silver-lining/)
+* [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
 * [Tell HN: Triplebyte reverses, emails apology](https://news.ycombinator.com/item?id=23303037)
 * [Counterfactual Regret Minimization with Kuhn Poker](http://blog.varunajayasiri.com/ml/kuhn_poker.html)
 * [Sod – An Embedded Computer Vision and Machine Learning Tiny C Library](https://sod.pixlab.io/)
-* [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device)
+* [Microship.com: The Library of Technomadics](https://microship.com/)
 * [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
+* [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device)
 * [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
 * [Today’s Javascript, from an outsider’s perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
-* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [A Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
+* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
+* [Quines: self-replicating programs (2005)](http://www.madore.org/~david/computers/quine.html)
 * [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
 * [Show HN: Dsnet, a simple command to manage a centralised WireGuard VPN](https://github.com/naggie/dsnet/)
-* [Wikimedia enacts new standards to address harassment and promote inclusivity](https://wikimediafoundation.org/news/2020/05/22/wikimedia-foundation-board-announces-community-culture-statement/)
-* [Quines: self-replicating programs (2005)](http://www.madore.org/~david/computers/quine.html)
-* [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
 ## nytimes.com
 
 
@@ -50,6 +50,7 @@ layout: default
 * [Another Summer Ritual Canceled: The Beach House Share](https://www.nytimes.com/2020/05/25/nyregion/hamptons-coronavirus-share-house.html)
 * [How Quarantine Saved the Hot Dog](https://www.nytimes.com/2020/05/22/nyregion/coronavirus-hot-dogs-feltmans.html)
 * [He Thought He Was Getting Football Physicals. He Was Being Abused.](https://www.nytimes.com/2020/05/25/sports/ncaafootball/michigan-football-sex-abuse.html)
+* [Coronavirus in N.Y.C.: Latest Updates](https://www.nytimes.com/2020/05/26/nyregion/coronavirus-nyc.html)
 * [Six: Impasse](https://www.nytimes.com/2020/05/21/podcasts/rabbit-hole-PewDiePie-youtube-virus.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [Sign Up: ‘Watching’](https://www.nytimes.com/newsletters/watching)
@@ -76,11 +77,11 @@ layout: default
 * [Stanley Ho, Who Turned Macau Into a Global Gambling Hub, Dies at 98](https://www.nytimes.com/2020/05/26/business/stanley-ho-dead.html)
 * [Oil-Starved Venezuela Celebrates Arrival of Tankers From Iran](https://www.nytimes.com/2020/05/25/world/americas/Iranian-oil-tankers-venezuela.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Gucci and the Future of Fashion Shows and Gender](https://www.nytimes.com/2020/05/25/style/alessandro-michele-gucci-future-fashion-shows.html)
 * [Too Many Memorial Days](https://www.nytimes.com/2020/05/24/reader-center/too-many-memorial-days.html)
 * [In ‘Rodham,’ Curtis Sittenfeld Reimagines Hillary’s Life](https://www.nytimes.com/2020/05/19/books/review/rodham-curtis-sittenfeld.html)
@@ -97,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Cloroquina contra coronavírus: por que OMS decidiu interromper testes com remédio em pacientes com Covid-19](https://epoca.globo.com/mundo/cloroquina-contra-coronavirus-por-que-oms-decidiu-interromper-testes-com-remedio-em-pacientes-com-covid-19-1-24445942)
 * [Ministros do Supremo não devem processar Weintraub por ofensa em reunião](https://oglobo.globo.com/brasil/ministros-do-supremo-nao-devem-processar-weintraub-por-ofensa-em-reuniao-24445841)
 * [A batalha por leitos de UTI: o sistema que gerencia as vagas](https://oglobo.globo.com/podcast/a-batalha-por-leitos-de-uti-sistema-que-gerencia-as-vagas-1-24445839)
 * [Cloroquina: duas semanas antes de novo protocolo, documento da área técnica do Ministério da Saúde ignorava uso do medicamento em casos leves de coronavírus](https://oglobo.globo.com/sociedade/coronavirus/cloroquina-duas-semanas-antes-de-novo-protocolo-documento-da-area-tecnica-do-ministerio-da-saude-ignorava-uso-do-medicamento-em-casos-leves-de-coronavirus-24445648)
 * ['Vírus do bem' desenhado por menina de 11 anos vira ação e já arrecadou quase mil cestas](https://oglobo.globo.com/rio/virus-do-bem-desenhado-por-menina-de-11-anos-vira-acao-ja-arrecadou-quase-mil-cestas-1-24445523)
 * [Salões de beleza reabrem em Niterói, mas com capacidade reduzida a menos da metade](https://oglobo.globo.com/rio/saloes-de-beleza-reabrem-em-niteroi-mas-com-capacidade-reduzida-menos-da-metade-1-24445646)
 * [MP pede condenação da Fogo de Chão em R$ 70 mi por demissão em massa](https://epoca.globo.com/guilherme-amado/mp-pede-condenacao-da-fogo-de-chao-em-70-mi-por-demissao-em-massa-24445647)
-* [Cinco razões para não perder o clássico entre Bayern e Borussia Dortmund](https://oglobo.globo.com/esportes/cinco-razoes-para-nao-perder-classico-entre-bayern-borussia-dortmund-24445649)
 * [Caixa usa estratégia velha para enfrentar o mundo novo](https://oglobo.globo.com/analitico/caixa-usa-estrategia-velha-para-enfrentar-mundo-novo-24445602)
 * [Rodolfo Landim e Alexandre Campello apresentam a necrocartolagem do futebol brasileiro](https://oglobo.globo.com/esportes/rodolfo-landim-alexandre-campello-apresentam-necrocartolagem-do-futebol-brasileiro-24445518)
 * [NASA batiza telescópio em homenagem à 'mãe do Hubble', Nancy Grace Roman](https://oglobo.globo.com/celina/nasa-batiza-telescopio-em-homenagem-mae-do-hubble-nancy-grace-roman-24439375)

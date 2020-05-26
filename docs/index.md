@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/05/2020 01:12:38 UTC
+# indexed at 26/05/2020 01:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Tell HN: Triplebyte reverses, emails apology](https://news.ycombinator.com/item?id=23303037)
 * [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
-* [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
 * [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
 * [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
+* [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
 * [Two capacitor paradox](https://en.wikipedia.org/wiki/Two_capacitor_paradox)
+* [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
 * [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
 * [Show HN: PgTyped – Typesafe SQL in TypeScript and Postgres](https://github.com/adelsz/pgtyped)
-* [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
 * [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
 * [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)
+* [Today’s JavaScript, from an Outsider’s Perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
 * [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
-* [Today’s JavaScript, from an Outsider’s Perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
+* [Wat-Sharp: A C# Wrapper Around Wat to Unit Test Your C# Godot Games](https://github.com/CodeDarigan/WATSharp)
 * [SCI Runs OpenVMS on x86-64](https://www.sciinc.com/remotevms/vms_techinfo/vms_news/OpenVMSOnX86-64.asp)
 * [Intelligent Disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience)
 * [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
-* [Wat-Sharp: A C# Wrapper Around Wat to Unit Test Your C# Godot Games](https://github.com/CodeDarigan/WATSharp)
-* [Show HN: A Simple COBOL Game, TicTacTOBOL](https://github.com/BasiliusCarver/TicTacTOBOL)
-* [EasyPost (YC S13) is hiring](https://www.easypost.com/careers)
-* [The new model media star is only famous to you](https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html)
 * [Ask HN: Has anybody shipped a web app at scale with 1 DB per account?](https://news.ycombinator.com/item?id=23305111)
+* [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
+* [The new model media star is only famous to you](https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html)
 * [Shhh: The Undocumented DOS Commands (1999)](https://the-eye.eu/public/Software/Old%20Apps/DOS%20Resources/Undocumented%20dos%20tips.txt)
+* [EasyPost (YC S13) is hiring](https://www.easypost.com/careers)
 * [Online Jamming and Concert Technology](https://online.stanford.edu/courses/sohs-music0001-online-jamming-and-concert-technology)
 * [SONiC – An Open Source Network Operating System](https://azure.github.io/SONiC/)
-* [Highly available Kubernetes with batteries for small business](https://cinaq.com/post/2020/05/25/highly-available-kubernetes-with-batteries-for-small-business/)
-* [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
-* [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
 * [Bespoke software, and a really simple RSS aggregator](https://routley.io/posts/bespoke-software-rss-aggregator/)
+* [Show HN: A Simple COBOL Game, TicTacTOBOL](https://github.com/BasiliusCarver/TicTacTOBOL)
+* [Highly available Kubernetes with batteries for small business](https://cinaq.com/post/2020/05/25/highly-available-kubernetes-with-batteries-for-small-business/)
+* [A Better Joel Test: The Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
 ## nytimes.com
 
 
@@ -78,31 +78,31 @@ layout: default
 * [Remains of 60 Mammoths Found in Mexico](https://www.nytimes.com/2020/05/25/us/mammoths-mexico.html)
 * [ISIS Prisoners Threaten U.S. Mission in Northeastern Syria](https://www.nytimes.com/2020/05/25/world/middleeast/isis-prisoners-syria.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [Gucci and the Future of Fashion Shows and Gender](https://www.nytimes.com/2020/05/25/style/alessandro-michele-gucci-future-fashion-shows.html)
 * [Too Many Memorial Days](https://www.nytimes.com/2020/05/24/reader-center/too-many-memorial-days.html)
 * [In ‘Rodham,’ Curtis Sittenfeld Reimagines Hillary’s Life](https://www.nytimes.com/2020/05/19/books/review/rodham-curtis-sittenfeld.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [All Alone in a Three-Bedroom Apartment](https://www.nytimes.com/2020/05/25/realestate/all-alone-in-a-three-bedroom-apartment.html)
-* [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
 * [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
 * [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
 * [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
+* [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* ['Caso de inimputabilidade', diz Gilmar Mendes sobre Weintraub](https://epoca.globo.com/guilherme-amado/caso-de-inimputabilidade-diz-gilmar-mendes-sobre-weintraub-24445720)
 * ['Pós-Covid, a gestão cultural precisa ser objetiva, usar dados, ou só falará com catequizados', diz diretor do Itaú Cultural](https://oglobo.globo.com/cultura/pos-covid-gestao-cultural-precisa-ser-objetiva-usar-dados-ou-so-falara-com-catequizados-diz-diretor-do-itau-cultural-24445655)
 * [Falta de segurança faz jornalistas do Grupo Globo deixar plantão no Alvorada](https://oglobo.globo.com/brasil/falta-de-seguranca-faz-jornalistas-do-grupo-globo-deixar-plantao-no-alvorada-1-24445585)
 * [Copacabana é o primeiro bairro do Rio a ultrapassar mil casos de Covid-19](https://oglobo.globo.com/rio/copacabana-o-primeiro-bairro-do-rio-ultrapassar-mil-casos-de-covid-19-24445595)
 * [Mais da metade de crédito contratado entre março e maio foi para grandes empresas](https://oglobo.globo.com/economia/mais-da-metade-de-credito-contratado-entre-marco-maio-foi-para-grandes-empresas-24445603)
-* [Estados Unidos antecipam proibição da entrada de viajantes do Brasil para quarta-feira](https://oglobo.globo.com/mundo/estados-unidos-antecipam-proibicao-da-entrada-de-viajantes-do-brasil-para-quarta-feira-24445522)
 * [Oposição pede que PGR investigue Bolsonaro por interferência no Iphan](https://epoca.globo.com/guilherme-amado/oposicao-pede-que-pgr-investigue-bolsonaro-por-interferencia-no-iphan-24445601)
 * [Projeto inovador pode reduzir risco de Cedae enfrentar um novo ‘verão da geosmina’](https://oglobo.globo.com/rio/projeto-inovador-pode-reduzir-risco-de-cedae-enfrentar-um-novo-verao-da-geosmina-24445578)
 * [Casa própria: mais de 2,3 milhões pediram suspensão temporária da prestação; veja como solicitar](https://oglobo.globo.com/economia/casa-propria-mais-de-23-milhoes-pediram-suspensao-temporaria-da-prestacao-veja-como-solicitar-24445551)

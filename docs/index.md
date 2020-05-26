@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/05/2020 06:34:28 UTC
+# indexed at 26/05/2020 07:11:35 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Mastodon: Add end-to-end encryption API](https://github.com/tootsuite/mastodon/pull/13820)
-* [Wikimedia enacts new standards to address harassment and promote inclusivity](https://wikimediafoundation.org/news/2020/05/22/wikimedia-foundation-board-announces-community-culture-statement/)
 * [I/O library 6x faster than fmt, 10x faster than stdio.h and iostream](https://github.com/expnkx/fast_io)
-* [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 * [Tell HN: Triplebyte reverses, emails apology](https://news.ycombinator.com/item?id=23303037)
+* [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 * [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
 * [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
 * [Ask HN: Has anybody shipped a web app at scale with 1 DB per account?](https://news.ycombinator.com/item?id=23305111)
 * [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
+* [Vim Killer](https://github.com/caseykneale/VIMKiller)
 * [Show HN: PgTyped – Typesafe SQL in TypeScript and Postgres](https://github.com/adelsz/pgtyped)
 * [Today’s Javascript, from an outsider’s perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
+* [Counterfactual Regret Minimization with Kuhn Poker](http://blog.varunajayasiri.com/ml/kuhn_poker.html)
 * [Every tech downturn has a silver lining](https://om.co/2020/05/24/why-every-tech-downturn-has-a-silver-lining/)
 * [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
-* [Counterfactual Regret Minimization with Kuhn Poker](http://blog.varunajayasiri.com/ml/kuhn_poker.html)
 * [Sod – An Embedded Computer Vision and Machine Learning Tiny C Library](https://sod.pixlab.io/)
-* [Vim Killer](https://github.com/caseykneale/VIMKiller)
-* [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
-* [How VC Works – A Beginner's Guide](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide?r=2gqa1&utm_campaign=post&utm_medium=web&utm_source=copy)
-* [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
-* [Intelligent disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience)
-* [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device)
-* [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
+* [How VC Works – A Beginner's Guide](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide)
 * [Quines: self-replicating programs (2005)](http://www.madore.org/~david/computers/quine.html)
+* [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device)
+* [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
+* [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
+* [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
 * [Show HN: Dsnet, a simple command to manage a centralised WireGuard VPN](https://github.com/naggie/dsnet/)
-* [A Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
 * [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
+* [A Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
 * [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [SCI Runs OpenVMS on x86-64](https://www.sciinc.com/remotevms/vms_techinfo/vms_news/OpenVMSOnX86-64.asp)
 * [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
-* [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
+* [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
+* [SONiC – An Open Source Network Operating System](https://azure.github.io/SONiC/)
+* [Highly available Kubernetes with batteries for small business](https://cinaq.com/post/2020/05/25/highly-available-kubernetes-with-batteries-for-small-business/)
 ## nytimes.com
 
 
@@ -73,22 +73,22 @@ layout: default
 * [National Hockey League Edges Toward Restart With Detailed Plans](https://www.nytimes.com/2020/05/25/sports/hockey/coronavirus-hockey-restart-plans.html)
 * [Trump Threatens to Pull Republican National Convention From North Carolina](https://www.nytimes.com/2020/05/25/us/politics/trump-rnc-north-carolina.html)
 * [On a Scottish Isle, Nursing Home Deaths Expose a Covid-19 Scandal](https://www.nytimes.com/2020/05/25/world/europe/coronavirus-uk-nursing-homes.html)
-* [Remains of 60 Mammoths Found in Mexico](https://www.nytimes.com/2020/05/25/us/mammoths-mexico.html)
+* [Stanley Ho, Who Turned Macau Into a Global Gambling Hub, Dies at 98](https://www.nytimes.com/2020/05/26/obituaries/stanley-ho-dead.html)
 * [Oil-Starved Venezuela Celebrates Arrival of Tankers From Iran](https://www.nytimes.com/2020/05/25/world/americas/Iranian-oil-tankers-venezuela.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Gucci and the Future of Fashion Shows and Gender](https://www.nytimes.com/2020/05/25/style/alessandro-michele-gucci-future-fashion-shows.html)
 * [Too Many Memorial Days](https://www.nytimes.com/2020/05/24/reader-center/too-many-memorial-days.html)
 * [In ‘Rodham,’ Curtis Sittenfeld Reimagines Hillary’s Life](https://www.nytimes.com/2020/05/19/books/review/rodham-curtis-sittenfeld.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [All Alone in a Three-Bedroom Apartment](https://www.nytimes.com/2020/05/25/realestate/all-alone-in-a-three-bedroom-apartment.html)
-* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
-* [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
+* [Remains of 60 Mammoths Found in Mexico](https://www.nytimes.com/2020/05/25/us/mammoths-mexico.html)
 * [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
+* [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
 * [Can Smart Thermometers Track the Spread of the Coronavirus?](https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html)
 * [What the Coronavirus Revealed About Life in Red vs. Blue States](https://www.nytimes.com/2020/05/25/us/politics/coronavirus-red-blue-states.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -97,7 +97,6 @@ layout: default
 ## globo.com
 
 
-* [Latam avalia pedir recuperação judicial no Brasil, no Chile e nos EUA](https://oglobo.globo.com/economia/latam-avalia-pedir-recuperacao-judicial-no-brasil-no-chile-nos-eua-24445861)
 * [Luvas, máscaras, óculos, toucas e aventais para se proteger do coronavírus: a história dos EPIs](https://oglobo.globo.com/sociedade/luvas-mascaras-oculos-toucas-aventais-para-se-proteger-do-coronavirus-historia-dos-epis-1-24405885)
 * [Lives: Tigers Jaw e Carlinhos Vergueiro são os destaques desta terça-feira](https://oglobo.globo.com/cultura/lives-tigers-jaw-carlinhos-vergueiro-sao-os-destaques-desta-terca-feira-24445583)
 * [Artigo: Ciência, Schopenhauer e Covid-19](https://oglobo.globo.com/opiniao/artigo-ciencia-schopenhauer-covid-19-24441604)
@@ -106,4 +105,5 @@ layout: default
 * [Política externa em tempo de vírus](https://oglobo.globo.com/opiniao/politica-externa-em-tempo-de-virus-24445553)
 * [Após decisão da OMS, é essencial rever o protocolo da cloroquina](https://oglobo.globo.com/opiniao/apos-decisao-da-oms-essencial-rever-protocolo-da-cloroquina-1-24445177)
 * [Bolsonaro tem de explicar o projeto armamentista](https://oglobo.globo.com/opiniao/bolsonaro-tem-de-explicar-projeto-armamentista-1-24445454)
+* [Balanço: as histórias, números e curiosidades dos rankings de maiores ídolos](https://oglobo.globo.com/esportes/balanco-as-historias-numeros-curiosidades-dos-rankings-de-maiores-idolos-24441741)
 * [Artigo: Colapso da saúde no Rio vem de antes da pandemia](https://oglobo.globo.com/opiniao/artigo-colapso-da-saude-no-rio-vem-de-antes-da-pandemia-24441450)

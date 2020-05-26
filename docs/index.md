@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/05/2020 00:30:52 UTC
+# indexed at 26/05/2020 01:12:38 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Tell HN: Triplebyte reverses, emails apology](https://news.ycombinator.com/item?id=23303037)
 * [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 * [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
-* [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
 * [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
-* [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
+* [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
 * [Two capacitor paradox](https://en.wikipedia.org/wiki/Two_capacitor_paradox)
+* [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
 * [Show HN: PgTyped – Typesafe SQL in TypeScript and Postgres](https://github.com/adelsz/pgtyped)
+* [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
 * [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
-* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)
+* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
 * [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
-* [Wat-Sharp: A C# Wrapper Around Wat to Unit Test Your C# Godot Games](https://github.com/CodeDarigan/WATSharp)
-* [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
-* [EasyPost (YC S13) is hiring](https://www.easypost.com/careers)
+* [Today’s JavaScript, from an Outsider’s Perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [SCI Runs OpenVMS on x86-64](https://www.sciinc.com/remotevms/vms_techinfo/vms_news/OpenVMSOnX86-64.asp)
 * [Intelligent Disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience)
+* [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
+* [Wat-Sharp: A C# Wrapper Around Wat to Unit Test Your C# Godot Games](https://github.com/CodeDarigan/WATSharp)
+* [Show HN: A Simple COBOL Game, TicTacTOBOL](https://github.com/BasiliusCarver/TicTacTOBOL)
+* [EasyPost (YC S13) is hiring](https://www.easypost.com/careers)
 * [The new model media star is only famous to you](https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html)
 * [Ask HN: Has anybody shipped a web app at scale with 1 DB per account?](https://news.ycombinator.com/item?id=23305111)
 * [Shhh: The Undocumented DOS Commands (1999)](https://the-eye.eu/public/Software/Old%20Apps/DOS%20Resources/Undocumented%20dos%20tips.txt)
-* [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
-* [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
-* [SONiC – An Open Source Network Operating System](https://azure.github.io/SONiC/)
 * [Online Jamming and Concert Technology](https://online.stanford.edu/courses/sohs-music0001-online-jamming-and-concert-technology)
-* [Bespoke software, and a really simple RSS aggregator](https://routley.io/posts/bespoke-software-rss-aggregator/)
+* [SONiC – An Open Source Network Operating System](https://azure.github.io/SONiC/)
 * [Highly available Kubernetes with batteries for small business](https://cinaq.com/post/2020/05/25/highly-available-kubernetes-with-batteries-for-small-business/)
+* [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
 * [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
-* [Adventures of Porting MUSL to PS4](https://dayzerosec.com/posts/adventures-of-porting-musl-to-ps4/)
-* [Show HN: 8bars – Make Music in the Browser](https://8bars.app)
+* [Bespoke software, and a really simple RSS aggregator](https://routley.io/posts/bespoke-software-rss-aggregator/)
 ## nytimes.com
 
 
@@ -78,18 +78,18 @@ layout: default
 * [Remains of 60 Mammoths Found in Mexico](https://www.nytimes.com/2020/05/25/us/mammoths-mexico.html)
 * [ISIS Prisoners Threaten U.S. Mission in Northeastern Syria](https://www.nytimes.com/2020/05/25/world/middleeast/isis-prisoners-syria.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [Gucci and the Future of Fashion Shows and Gender](https://www.nytimes.com/2020/05/25/style/alessandro-michele-gucci-future-fashion-shows.html)
 * [Too Many Memorial Days](https://www.nytimes.com/2020/05/24/reader-center/too-many-memorial-days.html)
 * [In ‘Rodham,’ Curtis Sittenfeld Reimagines Hillary’s Life](https://www.nytimes.com/2020/05/19/books/review/rodham-curtis-sittenfeld.html)
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [All Alone in a Three-Bedroom Apartment](https://www.nytimes.com/2020/05/25/realestate/all-alone-in-a-three-bedroom-apartment.html)
-* [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
 * [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
+* [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
 * [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
 * [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -98,12 +98,12 @@ layout: default
 ## globo.com
 
 
+* ['Pós-Covid, a gestão cultural precisa ser objetiva, usar dados, ou só falará com catequizados', diz diretor do Itaú Cultural](https://oglobo.globo.com/cultura/pos-covid-gestao-cultural-precisa-ser-objetiva-usar-dados-ou-so-falara-com-catequizados-diz-diretor-do-itau-cultural-24445655)
+* [Falta de segurança faz jornalistas do Grupo Globo deixar plantão no Alvorada](https://oglobo.globo.com/brasil/falta-de-seguranca-faz-jornalistas-do-grupo-globo-deixar-plantao-no-alvorada-1-24445585)
 * [Copacabana é o primeiro bairro do Rio a ultrapassar mil casos de Covid-19](https://oglobo.globo.com/rio/copacabana-o-primeiro-bairro-do-rio-ultrapassar-mil-casos-de-covid-19-24445595)
 * [Mais da metade de crédito contratado entre março e maio foi para grandes empresas](https://oglobo.globo.com/economia/mais-da-metade-de-credito-contratado-entre-marco-maio-foi-para-grandes-empresas-24445603)
 * [Estados Unidos antecipam proibição da entrada de viajantes do Brasil para quarta-feira](https://oglobo.globo.com/mundo/estados-unidos-antecipam-proibicao-da-entrada-de-viajantes-do-brasil-para-quarta-feira-24445522)
-* [Falta de segurança faz jornalistas do Grupo Globo deixar plantão no Alvorada](https://oglobo.globo.com/brasil/falta-de-seguranca-faz-jornalistas-do-grupo-globo-deixar-plantao-no-alvorada-1-24445585)
 * [Oposição pede que PGR investigue Bolsonaro por interferência no Iphan](https://epoca.globo.com/guilherme-amado/oposicao-pede-que-pgr-investigue-bolsonaro-por-interferencia-no-iphan-24445601)
-* ['Dominamos a pandemia', diz Crivella; mas volta à normalidade pode levar dois meses](https://oglobo.globo.com/rio/dominamos-pandemia-diz-crivella-mas-volta-normalidade-pode-levar-dois-meses-24445516)
 * [Projeto inovador pode reduzir risco de Cedae enfrentar um novo ‘verão da geosmina’](https://oglobo.globo.com/rio/projeto-inovador-pode-reduzir-risco-de-cedae-enfrentar-um-novo-verao-da-geosmina-24445578)
 * [Casa própria: mais de 2,3 milhões pediram suspensão temporária da prestação; veja como solicitar](https://oglobo.globo.com/economia/casa-propria-mais-de-23-milhoes-pediram-suspensao-temporaria-da-prestacao-veja-como-solicitar-24445551)
 * [Cobertura da imprensa é 'oportunidade', não a pandemia, diz Ricardo Salles](https://oglobo.globo.com/brasil/cobertura-da-imprensa-oportunidade-nao-pandemia-diz-ricardo-salles-24445555)

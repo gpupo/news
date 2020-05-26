@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/05/2020 02:11:51 UTC
+# indexed at 26/05/2020 02:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Tell HN: Triplebyte reverses, emails apology](https://news.ycombinator.com/item?id=23303037)
 * [The US Army's earth-shaking, off-road land trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
+* [Today’s JavaScript, from an Outsider’s Perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [I've collected over 600 pitch decks](https://starthouse.xyz?ref=hn)
+* [Sod – An Embedded Computer Vision and Machine Learning Tiny C Library](https://sod.pixlab.io/)
 * [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy)
 * [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
-* [Today’s JavaScript, from an Outsider’s Perspective](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
-* [Sod – An Embedded Computer Vision and Machine Learning Tiny C Library](https://sod.pixlab.io/)
 * [Two capacitor paradox](https://en.wikipedia.org/wiki/Two_capacitor_paradox)
-* [Show HN: PgTyped – Typesafe SQL in TypeScript and Postgres](https://github.com/adelsz/pgtyped)
 * [Lies, Damned Lies, and Stock-Based Compensation](https://tanay.substack.com/p/lies-damned-lies-and-stock-based)
+* [Show HN: PgTyped – Typesafe SQL in TypeScript and Postgres](https://github.com/adelsz/pgtyped)
 * [Hardware fix for Dell “AC power adapter could not be determined”](https://blog.project-insanity.org/2020/05/25/hardware-fix-for-dell-ac-power-adapter-could-not-be-determined/)
-* [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
 * [Quines (self-replicating programs)](http://www.madore.org/~david/computers/quine.html)
+* [I wrote Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
 * [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)
-* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
-* [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
 * [Ask HN: Has anybody shipped a web app at scale with 1 DB per account?](https://news.ycombinator.com/item?id=23305111)
-* [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
-* [Intelligent Disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience)
-* [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
-* [Wat-Sharp: A C# Wrapper Around Wat to Unit Test Your C# Godot Games](https://github.com/CodeDarigan/WATSharp)
+* [A day using money in Cuba](http://boazsobrado.com/blog/2020/05/22/a-day-using-money-in-cuba/)
+* [Guilemacs – Emacs with Guile Scheme](https://www.emacswiki.org/emacs/GuileEmacs)
 * [SCI Runs OpenVMS on x86-64](https://www.sciinc.com/remotevms/vms_techinfo/vms_news/OpenVMSOnX86-64.asp)
+* [Intelligent Disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience)
+* [Google removes over 5M reviews from Play Store to improve TikTok rating](https://www.indiatoday.in/technology/news/story/google-removes-over-5-million-reviews-from-play-store-to-improve-tiktok-rating-1681721-2020-05-25)
+* [Solving the “Miracle Sudoku” in Prolog](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
+* [A Better Joel Test: The Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
 * [Examining Windows 1.0 Hello.c](https://virtuallyfun.com/wordpress/2020/05/22/examining-windows-1-0-hello-c/)
 * [Shhh: The Undocumented DOS Commands (1999)](https://the-eye.eu/public/Software/Old%20Apps/DOS%20Resources/Undocumented%20dos%20tips.txt)
+* [Wat-Sharp: A C# Wrapper Around Wat to Unit Test Your C# Godot Games](https://github.com/CodeDarigan/WATSharp)
 * [Highly available Kubernetes with batteries for small business](https://cinaq.com/post/2020/05/25/highly-available-kubernetes-with-batteries-for-small-business/)
+* [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
 * [Online Jamming and Concert Technology](https://online.stanford.edu/courses/sohs-music0001-online-jamming-and-concert-technology)
 * [SONiC – An Open Source Network Operating System](https://azure.github.io/SONiC/)
-* [The original .NET garbage collector was written in Common Lisp](https://twitter.com/rainerjoswig/status/1264664590853562368)
-* [EasyPost (YC S13) is hiring](https://www.easypost.com/careers)
 * [The new model media star is only famous to you](https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html)
 ## nytimes.com
 
@@ -78,10 +78,10 @@ layout: default
 * [Remains of 60 Mammoths Found in Mexico](https://www.nytimes.com/2020/05/25/us/mammoths-mexico.html)
 * [ISIS Prisoners Threaten U.S. Mission in Northeastern Syria](https://www.nytimes.com/2020/05/25/world/middleeast/isis-prisoners-syria.html)
 * [Aston Martin's James Bond Car Comes to Life](https://www.nytimes.com/2020/05/25/business/aston-martin-james-bond-car.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
 * [Gucci and the Future of Fashion Shows and Gender](https://www.nytimes.com/2020/05/25/style/alessandro-michele-gucci-future-fashion-shows.html)
 * [Too Many Memorial Days](https://www.nytimes.com/2020/05/24/reader-center/too-many-memorial-days.html)
@@ -89,17 +89,17 @@ layout: default
 * [The Best Films of 2020 (So Far), and They’re All Streaming](https://www.nytimes.com/2020/05/22/movies/best-films-of-2020.html)
 * [All Alone in a Three-Bedroom Apartment](https://www.nytimes.com/2020/05/25/realestate/all-alone-in-a-three-bedroom-apartment.html)
 * [Prototype Vaccine Protects Monkeys From Coronavirus](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-harvard.html)
-* [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
-* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
 * [The Galaxy That Grew Up Too Fast](https://www.nytimes.com/2020/05/20/science/galaxy-early-universe-astronomy.html)
+* [These Large Carnivorous Lizards Are Right Where They Belong](https://www.nytimes.com/2020/05/15/science/monitor-lizards-invasive-species.html)
+* [You’re Getting Used to Masks. Will You Wear a Face Shield?](https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Projeto inovador pode reduzir risco de Cedae enfrentar um novo ‘verão da geosmina’](https://oglobo.globo.com/rio/projeto-inovador-pode-reduzir-risco-de-cedae-enfrentar-um-novo-verao-da-geosmina-24445578)
 * [Latam avalia pedir recuperação judicial no Brasil, no Chile e nos EUA](https://oglobo.globo.com/economia/latam-avalia-pedir-recuperacao-judicial-no-brasil-no-chile-nos-eua-24445861)
+* [Projeto inovador pode reduzir risco de Cedae enfrentar um novo ‘verão da geosmina’](https://oglobo.globo.com/rio/projeto-inovador-pode-reduzir-risco-de-cedae-enfrentar-um-novo-verao-da-geosmina-24445578)
 * [Copacabana é o primeiro bairro do Rio a ultrapassar mil casos de Covid-19](https://oglobo.globo.com/rio/copacabana-o-primeiro-bairro-do-rio-ultrapassar-mil-casos-de-covid-19-24445595)
 * [Empresa alega falta de pagamento e decide suspender o controle de tornozeleiras eletrônicas de 5.500 presos no Rio](https://oglobo.globo.com/rio/empresa-alega-falta-de-pagamento-decide-suspender-controle-de-tornozeleiras-eletronicas-de-5500-presos-no-rio-24445845)
 * [Brasil tem mais mortes por Covid-19 que os Estados Unidos pelo segundo dia consecutivo](https://oglobo.globo.com/sociedade/brasil-tem-mais-mortes-por-covid-19-que-os-estados-unidos-pelo-segundo-dia-consecutivo-24445825)

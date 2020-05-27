@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 06:12:45 UTC
+# indexed at 27/05/2020 06:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Blue bee feared to be extinct is found in Florida](https://www.smithsonianmag.com/science-nature/blue-bee-feared-be-extinct-found-florida-180974957)
-* [Why C# coders should shut up about Delphi (2016)](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
 * [I was blackmailed – any YouTuber could be next](https://www.gamefromscratch.com/post/2020/05/26/I-Was-Blackmailed-Any-YouTuber-Could-Be-Next.aspx)
 * [I helped reposition a database product that went on to make $1B in revenue](https://www.thefxck.com/interviews/product-positioning-april-dunford)
 * [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
 * [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
 * [Amazon in advanced talks to buy Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611)
 * [Facebook executives shut down efforts to make the site less divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499)
+* [Why C# coders should shut up about Delphi (2016)](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
 * [NextDNS Is Out of Beta](https://nextdns.io)
 * [Reading habits that changed my life](https://blog.usejournal.com/10-reading-habits-that-changed-my-life-5c7673bc34bc)
-* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
+* [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
 * [The 10,000,000,000th Prime Number (1994)](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
 * [Make Writing a Habit](https://www.writenext.io/)
-* [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
+* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
+* [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
 * [Venom: All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
 * [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 * [Looking Glass starts shipping its 8K holographic display](https://techcrunch.com/2020/05/26/looking-glass-starts-shipping-its-8k-holographic-display/)
 * [Real time image animation in opencv using first order model](https://github.com/anandpawara/Real_Time_Image_Animation)
-* [China’s Communist Party and Its American Media Enablers](https://intpolicydigest.org/2020/05/26/china-s-communist-party-and-its-american-media-enablers/)
 * [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [MasterClass is seizing its moment](https://www.nytimes.com/2020/05/25/style/masterclass-secrets.html)
-* [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
-* [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
-* [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
+* [China’s Communist Party and Its American Media Enablers](https://intpolicydigest.org/2020/05/26/china-s-communist-party-and-its-american-media-enablers/)
 * [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [A touch of absurdity can help to wrap your mind around reality](https://psyche.co/ideas/a-touch-of-absurdity-can-help-to-wrap-your-mind-around-reality)
-* [How to Put More “Character” into Your NPCs](https://pausebutton.substack.com/p/how-to-put-more-character-into-your)
+* [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
 * [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
+* [How to Put More “Character” into Your NPCs](https://pausebutton.substack.com/p/how-to-put-more-character-into-your)
+* [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
 * [The FBI investigating hacking of Covid research by “PRC-affiliated cyber actors”](https://www.fbi.gov/news/pressrel/press-releases/peoples-republic-of-china-prc-targeting-of-covid-19-research-organizations)
-* [Principles of Authoring a Pattern Library](https://warhol.io/blog/principles-for-pattern-libraries)
+* [Code in the Browser with GitHub Classroom](https://github.blog/2020-05-26-code-in-the-browser-with-github-classroom/)
 ## nytimes.com
 
 
@@ -81,19 +81,19 @@ layout: default
 * [Jimmy Cobb, Drummer on Miles Davis’s ‘Kind of Blue,’ Dies at 91](https://www.nytimes.com/2020/05/26/arts/music/jimmy-cobb-dead.html)
 * [Two Months Later, the Iditarod Champion May Finally Get a Ride Home](https://www.nytimes.com/2020/05/26/sports/iditarod-coronavirus-thomas-waerner.html)
 * [Poll Shows One Hurdle to Reopening Broadway: Fear of Jerks](https://www.nytimes.com/2020/05/26/theater/broadway-coronavirus-poll.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
+* [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How Kobe Bryant Created His Own Olympic Dream Team](https://www.nytimes.com/2020/05/26/sports/basketball/kobe-bryant-olympic-dream-team.html)
 * [Should a Parent of Two Children Split Inheritance Equally?](https://www.nytimes.com/2020/05/26/magazine/should-a-parent-of-two-children-split-inheritance-equally.html)
 * [Follow the Silk Road, Book by Book](https://www.nytimes.com/2020/05/11/t-magazine/silk-road-reading-list-books-movies.html)
 * [Tiny Love Stories: ‘It’s OK if You Meet Someone’](https://www.nytimes.com/2020/05/26/style/tiny-modern-love-stories-coronavirus-its-ok-if-you-meet-someone.html)
 * [Richard Anuszkiewicz, Whose Op Art Caught Eyes in the ’60s, Dies at 89](https://www.nytimes.com/2020/05/25/arts/richard-anuszkiewicz-dead.html)
-* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
-* [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
+* [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
+* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
 * [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [Long-Term Summer Rentals is the Latest Trend](https://www.nytimes.com/2020/05/26/travel/summer-rentals-long-term.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,12 +2,14 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 23:12:42 UTC
+# indexed at 27/05/2020 23:34:15 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+* [htmx – high power tools for HTML](https://htmx.org/)
 * [Show HN: Obsidian – A knowledge base that works on local Markdown files](https://obsidian.md/)
 * [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
 * [Guerrilla Public Service Redux (2017)](https://99percentinvisible.org/episode/guerrilla-public-service/)
@@ -15,29 +17,27 @@ layout: default
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [$100M in bounties paid via HackerOne to ethical hackers](https://www.bleepingcomputer.com/news/security/100-million-in-bounties-paid-by-hackerone-to-ethical-hackers/)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://careers.substack.com/)
-* [htmx – high power tools for HTML](https://htmx.org/)
 * [Google no longer providing original URL in AMP for image search results](https://twitter.com/zenexer/status/1265633022709301249)
 * [Boeing cutting more than 12,000 U.S. jobs with thousands more planned](https://www.reuters.com/article/us-boeing-jobs/boeing-laying-off-6700-u-s-workers-with-thousands-more-planned-idUSKBN2332EP)
 * [Roman mosaic floor found under Italian vineyard](https://www.bbc.co.uk/news/world-europe-52818746)
 * [Americans, it turns out, would rather visit a store than buy food online](https://www.bloomberg.com/news/articles/2020-05-27/has-online-grocery-shopping-peaked-most-still-prefer-in-store)
 * [Bash IRC Quote Database](http://bash.org)
-* [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
 * [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
-* [The Concurnas Programming Language](https://concurnas.com/)
 * [Gatsby raises $28M Series B led by Index Ventures](https://www.forbes.com/sites/davidjeans/2020/05/27/gatsby-website-building-startup-backed-by-index-ventures-raises-28-million/#18bc10047f3e)
 * [Speech to Text on iPhone vs. Pixel](https://twitter.com/jamescham/status/1265512829806927873)
-* [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
 * [Trump threatens to 'close' down social media platforms](https://techcrunch.com/2020/05/27/after-twitter-fact-check-trump-threatens-to-regulate-or-close-down-social-media-platforms/)
+* [The Concurnas Programming Language](https://concurnas.com/)
+* [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
 * [Climb Mount Improbable: Evolvable Critters in JavaScript](https://www.gwern.net/docs/genetics/selection/www.mountimprobable.com/index.html)
-* [Japanese Waltzing Mouse (2014)](https://mouseinterrupted.wordpress.com/tag/japanese-waltzing-mouse/)
 * [Nitrome to convert its Flash game library to HTML5](http://www.nitrome.com/blog/articles/1427/)
 * [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
-* [Achieving Accessibility Through Simplicity](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
-* [Show HN: Twingate – A modern solution for remote access](https://www.twingate.com/blog/introducing-twingate)
-* [GE switches off light bulb business after almost 130 years](https://arstechnica.com/information-technology/2020/05/ge-switches-off-light-bulb-business-after-almost-130-years/)
-* [A Novel Way to Think About Literary Categories](https://www.nybooks.com/daily/2020/05/25/a-novel-way-to-think-about-literary-categories/)
+* [Japanese Waltzing Mouse (2014)](https://mouseinterrupted.wordpress.com/tag/japanese-waltzing-mouse/)
 * [Two Pearls of the Web](https://herebeseaswines.net/essays/2020-05-27-two-pearls-of-the-web)
+* [Achieving Accessibility Through Simplicity](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
+* [GE switches off light bulb business after almost 130 years](https://arstechnica.com/information-technology/2020/05/ge-switches-off-light-bulb-business-after-almost-130-years/)
+* [A history of the codpiece, the personal protection for Renaissance equipment](https://www.newyorker.com/books/page-turner/a-brief-history-of-the-codpiece-the-personal-protection-for-renaissance-equipment)
+* [Show HN: Twingate – A modern solution for remote access](https://www.twingate.com/blog/introducing-twingate)
 ## nytimes.com
 
 
@@ -79,13 +79,13 @@ layout: default
 * [Judge Who Asked Woman if She Closed Her Legs to Prevent Assault Is Removed](https://www.nytimes.com/2020/05/27/nyregion/nj-judge-john-russo.html)
 * [Christian Cooper, That Central Park Incident and His Feelings About Her Fate](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)
 * [This Chef Has a Michelin Star and a Mission: Feeding Millions in India’s Lockdown](https://www.nytimes.com/2020/05/27/world/asia/vikas-khanna-india-hungry.html)
-* [China Forgets the Coronavirus. A Writer Explores Its Amnesia.](https://www.nytimes.com/2020/05/27/business/china-coronavirus-amnesia.html)
+* [As a Federal Coronavirus Expert Frets, the Capital Moves to Reopen](https://www.nytimes.com/2020/05/27/us/politics/coronavirus-washington-maryland-virginia.html)
 * [Disney World is Reopening, but You Won’t Be Able to Hug Mickey](https://www.nytimes.com/2020/05/27/business/coronavirus-disney-world-reopening.html)
 * [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [When the Mexican Air Force Went to War Alongside America](https://www.nytimes.com/2020/05/27/magazine/world-war-ii-mexican-air-force.html)
 * [How Studio Ghibli Went From Streaming Holdout to HBO Max Star](https://www.nytimes.com/2020/05/27/movies/studio-ghibli-hbo-max.html)
 * [Soccer’s Landscape Was Already Shifting. Then an Earthquake Struck.](https://www.nytimes.com/2020/05/27/sports/soccer/bundesliga-kaiserslauten-bayern.html)
@@ -93,8 +93,8 @@ layout: default
 * [12 Underknown Songs From the Region That Birthed Emo](https://www.nytimes.com/2020/05/27/arts/music/emo-songs-washington-playlist.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
 * [Emotional Eating in Quarantined Kids](https://www.nytimes.com/2020/05/18/well/family/children-emotional-eating-coronavirus.html)
-* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
 * [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
+* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
 * [Caterpillar to Butterfly Kits](https://www.nytimes.com/2020/05/26/realestate/coronavirus-caterpillar-kits-butterfly.html)
 * [Amy Cooper Is Fired After Calling Police on Black Birder in Central Park](https://www.nytimes.com/2020/05/26/nyregion/amy-cooper-dog-central-park.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Sem conseguir voltar para casa por causa do coronavírus, 200 colombianos acampam no aeroporto de Guarulhos](https://oglobo.globo.com/mundo/sem-conseguir-voltar-para-casa-por-causa-do-coronavirus-200-colombianos-acampam-no-aeroporto-de-guarulhos-24448523)
+* [Dono da Smart Fit e Bio Ritmo está entre os investigados no inquérito das fake news](https://oglobo.globo.com/brasil/dono-da-smart-fit-bio-ritmo-esta-entre-os-investigados-no-inquerito-das-fake-news-24449359)
+* [Serviço exibe filmes inéditos em parceria com salas de cinema](https://oglobo.globo.com/rioshow/servico-exibe-filmes-ineditos-em-parceria-com-salas-de-cinema-24447833)
 * [Justiça do Rio revoga a nomeação do secretário Edmar Santos](https://oglobo.globo.com/rio/justica-do-rio-revoga-nomeacao-do-secretario-edmar-santos-24449361)
+* [Coronavúrus: Estado do Rio registra 4,6 mil mortes e se aproxima de total de óbitos da China](https://oglobo.globo.com/rio/coronavurus-estado-do-rio-registra-46-mil-mortes-se-aproxima-de-total-de-obitos-da-china-24449404)
+* [No Brasil, coronavírus é mais letal entre pretos e pardos, aponta estudo da PUC](https://oglobo.globo.com/sociedade/no-brasil-coronavirus-mais-letal-entre-pretos-pardos-aponta-estudo-da-puc-24448404)
+* [Sem conseguir voltar para casa por causa do coronavírus, 200 colombianos acampam no aeroporto de Guarulhos](https://oglobo.globo.com/mundo/sem-conseguir-voltar-para-casa-por-causa-do-coronavirus-200-colombianos-acampam-no-aeroporto-de-guarulhos-24448523)
+* [Viúva de Marielle define como 'vitória' manutenção da investigação no Rio: 'O mundo anseia por Justiça'](https://oglobo.globo.com/rio/viuva-de-marielle-define-como-vitoria-manutencao-da-investigacao-no-rio-mundo-anseia-por-justica-24449379)
 * [Senado aprova MP que fixa salário minimo em R$ 1.045 este ano](https://oglobo.globo.com/economia/senado-aprova-mp-que-fixa-salario-minimo-em-1045-este-ano-24449371)
 * [Estados estimam que crise do coronavírus pode gerar queda de até R$20 bilhões em recursos do Fundeb](https://oglobo.globo.com/sociedade/estados-estimam-que-crise-do-coronavirus-pode-gerar-queda-de-ate-r20-bilhoes-em-recursos-do-fundeb-24449251)
 * [É #FAKE que vídeo mostre ator Fabio Assunção criticando Doria e as medidas de isolamento social](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-ator-fabio-assuncao-criticando-doria-as-medidas-de-isolamento-social-24449345)
-* [Plenário do TCU confirma cautelar e proíbe BB de anunciar em sites de fake news](https://epoca.globo.com/guilherme-amado/plenario-do-tcu-confirma-cautelar-proibe-bb-de-anunciar-em-sites-de-fake-news-24449340)
-* [Coronavírus: Brasil tem 411.821 casos confirmados e 25.598 mortes](https://oglobo.globo.com/sociedade/coronavirus-brasil-tem-411821-casos-confirmados-25598-mortes-24449091)
-* [Rússia adia encontro de membros do Brics por causa da pandemia da Covid-19](https://oglobo.globo.com/mundo/russia-adia-encontro-de-membros-do-brics-por-causa-da-pandemia-da-covid-19-24449329)
-* [Disney planeja reabertura de seu maior parque temático no dia 11 de julho](https://oglobo.globo.com/economia/disney-planeja-reabertura-de-seu-maior-parque-tematico-no-dia-11-de-julho-24449313)
-* [É #FAKE que foto mostre andar inteiro de hospital de Manaus sem pacientes com Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-andar-inteiro-de-hospital-de-manaus-sem-pacientes-com-covid-19-24449314)

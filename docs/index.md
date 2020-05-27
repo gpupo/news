@@ -2,31 +2,29 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 12:15:07 UTC
+# indexed at 27/05/2020 12:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
-* [What's New with Qt for Android](https://www.qt.io/blog/whats-new-with-qt-for-android)
-* [Qt 5.15 LTS Released](https://www.qt.io/blog/qt-5.15-released)
-* [Blue bee feared to be extinct is found in Florida](https://www.smithsonianmag.com/science-nature/blue-bee-feared-be-extinct-found-florida-180974957)
+* [Qt 5.15 LTS](https://www.qt.io/blog/qt-5.15-released)
 * [Ask HN: Any job boards and age-friendly companies for older developers?](https://news.ycombinator.com/item?id=23320974)
+* [Blue bee feared to be extinct is found in Florida](https://www.smithsonianmag.com/science-nature/blue-bee-feared-be-extinct-found-florida-180974957)
 * [How to build your own feature store for ML](https://www.logicalclocks.com/blog/how-to-build-your-own-feature-store)
 * [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
 * [I helped reposition a database product that went on to make $1B in revenue](https://www.thefxck.com/interviews/product-positioning-april-dunford)
 * [Reading habits that changed my life](https://blog.usejournal.com/10-reading-habits-that-changed-my-life-5c7673bc34bc)
-* [A complete 4-year course plan for an AI undergraduate degree](https://www.mihaileric.com/posts/complete-artificial-intelligence-undergraduate-course-plan/)
 * [A lot of “idiotic” things have perfectly reasonable explanations (2011)](https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/)
 * [Growing Anomalies at the Large Hadron Collider Raise Hopes](https://www.quantamagazine.org/growing-anomalies-at-the-large-hadron-collider-hint-at-new-particles-20200526/)
+* [A complete 4-year course plan for an AI undergraduate degree](https://www.mihaileric.com/posts/complete-artificial-intelligence-undergraduate-course-plan/)
 * [Amazon in advanced talks to buy Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611)
-* [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
-* [Qt Online Installer 3.2.3](https://www.qt.io/blog/qt-online-installer-3.2.3-released)
-* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
 * [Dutch Scientists Find a Novel Coronavirus Early-Warning Signal](https://www.bloomberg.com/news/articles/2020-03-31/coronavirus-in-sewage-portended-covid-19-outbreak-in-dutch-city)
-* [Compiled data from the Hadley's supercomputer shows alarming climate trajectory](https://www.theguardian.com/environment/2020/may/27/hadley-climate-centre-turns-30-the-human-fingerprint-is-everywhere)
+* [Qt Online Installer 3.2.3](https://www.qt.io/blog/qt-online-installer-3.2.3-released)
+* [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
 * [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
+* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
 * [I was blackmailed – any YouTuber could be next](https://www.gamefromscratch.com/post/2020/05/26/I-Was-Blackmailed-Any-YouTuber-Could-Be-Next.aspx)
 * [The 10,000,000,000th Prime Number (1994)](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
 * [Venom: All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
@@ -34,10 +32,12 @@ layout: default
 * [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
 * [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
 * [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
+* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
+* [What's New with Qt for Android](https://www.qt.io/blog/whats-new-with-qt-for-android)
 * [Facebook executives shut down efforts to make the site less divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499)
 * [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
-* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [CareRev (YC S16) Is Hiring a Product Manager (Health Care / Enterprise)](https://grnh.se/7972a60d3us)
+* [Code in the Browser with GitHub Classroom](https://github.blog/2020-05-26-code-in-the-browser-with-github-classroom/)
 ## nytimes.com
 
 
@@ -85,19 +85,19 @@ layout: default
 * [They Evoke Darth Vader, but These Masks May Save Your Doctor’s Life](https://www.nytimes.com/2020/05/27/us/coronavirus-masks-elastomeric-respirators.html)
 * [For Steve King, the Number of People Who Want Him Gone Could Be a Blessing](https://www.nytimes.com/2020/05/27/us/politics/steve-king-iowa-primary.html)
 * [Boris Johnson Feels Public Anger in Outcry Over Dominic Cummings](https://www.nytimes.com/2020/05/26/world/europe/boris-johnson-dominic-cummings-uk.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [A Chess Prodigy’s Return to Health Brings Cheer to the Game](https://www.nytimes.com/2020/05/27/sports/chess-coronavirus-irina-krush.html)
 * [Couples Who Eat Together May Not Stay Together](https://www.nytimes.com/2020/05/25/fashion/weddings/couples-food-habits-quarantine.html)
 * [John McEnroe Is Mindy Kaling’s Voice of Teen Angst. Seriously.](https://www.nytimes.com/2020/05/26/sports/john-mcenroe-never-have-i-ever.html)
 * [How to Refresh Your Home With Minimal Fuss](https://www.nytimes.com/2020/05/21/t-magazine/redecorate-home-coronavirus.html)
 * [Lincoln Center Opens Its Vaults for Dance Week](https://www.nytimes.com/2020/05/26/arts/dance/lincoln-center-dance-week-coronavirus.html)
-* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
-* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
+* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
+* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
 * [Emotional Eating in Quarantined Kids](https://www.nytimes.com/2020/05/18/well/family/children-emotional-eating-coronavirus.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Após proposta de Merkel e Macron, Comissão Europeia aprova fundo de reconstrução de 750 bilhões de euros](https://oglobo.globo.com/mundo/apos-proposta-de-merkel-macron-comissao-europeia-aprova-fundo-de-reconstrucao-de-750-bilhoes-de-euros-24447946)
 * [Filme de Tom Cruise no espaço em parceria com Nasa e Elon Musk ganha diretor](https://oglobo.globo.com/cultura/filmes/filme-de-tom-cruise-no-espaco-em-parceria-com-nasa-elon-musk-ganha-diretor-24447963)
-* [Witzel sobre ação da PF: Investigação partiu do gabinete do procurador-geral, com ciência de Bolsonaro](https://oglobo.globo.com/rio/witzel-sobre-acao-da-pf-investigacao-partiu-do-gabinete-do-procurador-geral-com-ciencia-de-bolsonaro-2-24447921)
+* [Caso George Floyd: morte de homem negro filmado com policial branco com joelhos em seu pescoço causa indignação nos EUA](https://epoca.globo.com/mundo/caso-george-floyd-morte-de-homem-negro-filmado-com-policial-branco-com-joelhos-em-seu-pescoco-causa-indignacao-nos-eua-24448010)
+* [Após proposta de Merkel e Macron, Comissão Europeia aprova fundo de reconstrução de 750 bilhões de euros](https://oglobo.globo.com/mundo/apos-proposta-de-merkel-macron-comissao-europeia-aprova-fundo-de-reconstrucao-de-750-bilhoes-de-euros-24447946)
+* [Dólar é negociado abaixo de R$ 5,35, com mercado avaliando pacote bilionário de ajuda à União Europeia](https://oglobo.globo.com/economia/dolar-negociado-abaixo-de-535-com-mercado-avaliando-pacote-bilionario-de-ajuda-uniao-europeia-24448000)
+* [Estados Unidos doarão 2 milhões de comprimidos de hidroxicloroquina ao Brasil, diz Bolsonaro](https://oglobo.globo.com/sociedade/estados-unidos-doarao-2-milhoes-de-comprimidos-de-hidroxicloroquina-ao-brasil-diz-bolsonaro-24447978)
 * [Deputado Luiz Paulo protocola pedido de impeachment de Witzel na Alerj nesta quarta-feira](https://oglobo.globo.com/rio/deputado-luiz-paulo-protocola-pedido-de-impeachment-de-witzel-na-alerj-nesta-quarta-feira-24447844)
+* [Caso Marielle: STJ julga a federalização da investigação nesta quarta-feira](https://oglobo.globo.com/rio/caso-marielle-stj-julga-federalizacao-da-investigacao-nesta-quarta-feira-24447925)
 * ['Enquanto eu for presidente, vai ter mais', responde Bolsonaro sobre operação da PF que mirou Witzel](https://oglobo.globo.com/rio/enquanto-eu-for-presidente-vai-ter-mais-responde-bolsonaro-sobre-operacao-da-pf-que-mirou-witzel-24447959)
 * [Tecnologia permitirá torcedores apoiarem e até vaiarem partidas remotamente no Japão](https://oglobo.globo.com/esportes/tecnologia-permitira-torcedores-apoiarem-ate-vaiarem-partidas-remotamente-no-japao-24447945)
-* [Deputado pede, em ação, que Ernesto Araújo devolva gasto público com amigo](https://oglobo.globo.com/mundo/deputado-pede-em-acao-que-ernesto-araujo-devolva-gasto-publico-com-amigo-24447521)
 * [Deputado cobra documentos detalhados de propaganda do Planalto](https://epoca.globo.com/guilherme-amado/deputado-cobra-documentos-detalhados-de-propaganda-do-planalto-24447438)
-* [Fabricante da Coca-Cola lança cartilha para ajudar pequenos negócios durante a crise](https://oglobo.globo.com/economia/apoieonegociolocal/fabricante-da-coca-cola-lanca-cartilha-para-ajudar-pequenos-negocios-durante-crise-24443888)
-* [Shoppings da Zona Norte promovem ação para compra de cestas básicas](https://oglobo.globo.com/rio/bairros/shoppings-da-zona-norte-promovem-acao-para-compra-de-cestas-basicas-24438256)

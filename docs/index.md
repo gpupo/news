@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 22:28:18 UTC
+# indexed at 27/05/2020 22:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -13,25 +13,25 @@ layout: default
 * [Maximator: European signals intelligence cooperation](https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538)
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [$100M in bounties paid via HackerOne to ethical hackers](https://www.bleepingcomputer.com/news/security/100-million-in-bounties-paid-by-hackerone-to-ethical-hackers/)
+* [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
 * [Boeing cutting more than 12,000 U.S. jobs with thousands more planned](https://www.reuters.com/article/us-boeing-jobs/boeing-laying-off-6700-u-s-workers-with-thousands-more-planned-idUSKBN2332EP)
 * [Google no longer providing original URL in AMP for image search results](https://twitter.com/zenexer/status/1265633022709301249)
 * [Roman mosaic floor found under Italian vineyard](https://www.bbc.co.uk/news/world-europe-52818746)
 * [Americans, it turns out, would rather visit a store than buy food online](https://www.bloomberg.com/news/articles/2020-05-27/has-online-grocery-shopping-peaked-most-still-prefer-in-store)
-* [Bash IRC Quote Database](http://bash.org)
 * [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
+* [Bash IRC Quote Database](http://bash.org)
 * [Gatsby raises $28M Series B led by Index Ventures](https://www.forbes.com/sites/davidjeans/2020/05/27/gatsby-website-building-startup-backed-by-index-ventures-raises-28-million/#18bc10047f3e)
-* [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
 * [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
 * [Trump threatens to 'close' down social media platforms](https://techcrunch.com/2020/05/27/after-twitter-fact-check-trump-threatens-to-regulate-or-close-down-social-media-platforms/)
-* [The Concurnas Programming Language](https://concurnas.com/)
-* [Climb Mount Improbable: Evolvable Critters in JavaScript](https://www.gwern.net/docs/genetics/selection/www.mountimprobable.com/index.html)
 * [Speech to Text on iPhone vs. Pixel](https://twitter.com/jamescham/status/1265512829806927873)
-* [A feud in wolf-kink erotica raises a deep legal question](https://www.nytimes.com/2020/05/23/business/omegaverse-erotica-copyright.html)
+* [Climb Mount Improbable: Evolvable Critters in JavaScript](https://www.gwern.net/docs/genetics/selection/www.mountimprobable.com/index.html)
+* [The Concurnas Programming Language](https://concurnas.com/)
 * [Japanese Waltzing Mouse (2014)](https://mouseinterrupted.wordpress.com/tag/japanese-waltzing-mouse/)
+* [A feud in wolf-kink erotica raises a deep legal question](https://www.nytimes.com/2020/05/23/business/omegaverse-erotica-copyright.html)
 * [Nitrome to convert its Flash game library to HTML5](http://www.nitrome.com/blog/articles/1427/)
-* [Show HN: Twingate – A modern solution for remote access](https://www.twingate.com/blog/introducing-twingate)
 * [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
+* [Show HN: Twingate – A modern solution for remote access](https://www.twingate.com/blog/introducing-twingate)
 * [A history of the codpiece, the personal protection for Renaissance equipment](https://www.newyorker.com/books/page-turner/a-brief-history-of-the-codpiece-the-personal-protection-for-renaissance-equipment)
 * [Achieving Accessibility Through Simplicity](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
 * [GE switches off light bulb business after almost 130 years](https://arstechnica.com/information-technology/2020/05/ge-switches-off-light-bulb-business-after-almost-130-years/)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [É #FAKE que foto mostre andar inteiro de hospital de Manaus sem pacientes com Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-andar-inteiro-de-hospital-de-manaus-sem-pacientes-com-covid-19-24449314)
+* [Disney planeja reabertura de seu maior parque temático no dia 11 de julho](https://oglobo.globo.com/economia/disney-planeja-reabertura-de-seu-maior-parque-tematico-no-dia-11-de-julho-24449313)
+* [Coronavírus: Brasil tem 411.821 casos confirmados e 25.598 mortes](https://oglobo.globo.com/sociedade/coronavirus-brasil-tem-411821-casos-confirmados-25598-mortes-24449091)
 * [Bannon vence batalha legal e criará academia política na Itália](https://oglobo.globo.com/mundo/bannon-vence-batalha-legal-criara-academia-politica-na-italia-24449224)
 * [Militares e aposentados do INSS são liberados pelo TCU para trabalhar nos postos de atendimento da instituição](https://oglobo.globo.com/economia/militares-aposentados-do-inss-sao-liberados-pelo-tcu-para-trabalhar-nos-postos-de-atendimento-da-instituicao-24449226)
-* [Diagnosticado com 'estresse', segurança morre com coronavírus após lutar por atendimento na Baixada](https://oglobo.globo.com/rio/diagnosticado-com-estresse-seguranca-morre-com-coronavirus-apos-lutar-por-atendimento-na-baixada-24449116)
 * [STJ decide manter caso Marielle no Rio de Janeiro](https://epoca.globo.com/guilherme-amado/stj-decide-manter-caso-marielle-no-rio-de-janeiro-1-24449200)
 * [Alexandre de Moraes vai pedir à PGR providências sobre ameaças de Sara Winter](https://oglobo.globo.com/brasil/alexandre-de-moraes-vai-pedir-pgr-providencias-sobre-ameacas-de-sara-winter-24449204)
 * [Lançamento de foguete da SpaceX é adiado por mau tempo](https://oglobo.globo.com/sociedade/lancamento-de-foguete-da-spacex-adiado-por-mau-tempo-24449169)
 * [Após polêmica por texto contra isolamento, Pedro Almeida deixa o posto de curador do Prêmio Jabuti](https://oglobo.globo.com/cultura/apos-polemica-por-texto-contra-isolamento-pedro-almeida-deixa-posto-de-curador-do-premio-jabuti-24449164)
 * [Abuso sexual no futebol feminino, um problema para a FIFA resolver](https://oglobo.globo.com/celina/abuso-sexual-no-futebol-feminino-um-problema-para-fifa-resolver-24444763)
-* ['A Química está no que vemos e no que não vemos'](https://oglobo.globo.com/brasil/a-quimica-e-a-pandemia/a-quimica-esta-no-que-vemos-no-que-nao-vemos-24449156)
-* [Senacon quer monitorar problemas na concessão de crédito para micro e pequenos empresários](https://oglobo.globo.com/economia/defesa-do-consumidor/senacon-quer-monitorar-problemas-na-concessao-de-credito-para-micro-pequenos-empresarios-24448344)

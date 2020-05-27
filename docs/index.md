@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 07:11:59 UTC
+# indexed at 27/05/2020 07:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
-* [If Everyone Else Is Such an Idiot, How Come You're Not Rich?](https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/)
 * [Blue bee feared to be extinct is found in Florida](https://www.smithsonianmag.com/science-nature/blue-bee-feared-be-extinct-found-florida-180974957)
 * [I was blackmailed – any YouTuber could be next](https://www.gamefromscratch.com/post/2020/05/26/I-Was-Blackmailed-Any-YouTuber-Could-Be-Next.aspx)
+* [An open source Firebase alternative](https://supabase.io/)
 * [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
 * [I helped reposition a database product that went on to make $1B in revenue](https://www.thefxck.com/interviews/product-positioning-april-dunford)
 * [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
@@ -19,24 +19,24 @@ layout: default
 * [Reading habits that changed my life](https://blog.usejournal.com/10-reading-habits-that-changed-my-life-5c7673bc34bc)
 * [NextDNS Is Out of Beta](https://nextdns.io)
 * [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
-* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
 * [Growing Anomalies at the Large Hadron Collider Raise Hopes](https://www.quantamagazine.org/growing-anomalies-at-the-large-hadron-collider-hint-at-new-particles-20200526/)
+* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
 * [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
 * [The 10,000,000,000th Prime Number (1994)](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
 * [Make Writing a Habit](https://www.writenext.io/)
-* [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 * [Catching It Early: New Ways of Detecting Coronavirus](https://chembites.org/2020/05/26/catching-it-early-new-ways-of-detecting-coronavirus/)
+* [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 * [Looking Glass starts shipping its 8K holographic display](https://techcrunch.com/2020/05/26/looking-glass-starts-shipping-its-8k-holographic-display/)
-* [Why C# coders should shut up about Delphi (2016)](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
-* [Real time image animation in opencv using first order model](https://github.com/anandpawara/Real_Time_Image_Animation)
 * [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
+* [Real time image animation in opencv using first order model](https://github.com/anandpawara/Real_Time_Image_Animation)
 * [Venom: All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
 * [MasterClass is seizing its moment](https://www.nytimes.com/2020/05/25/style/masterclass-secrets.html)
-* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
+* [Why C# coders should shut up about Delphi (2016)](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
+* [If Everyone Else Is Such an Idiot, How Come You're Not Rich?](https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/)
 * [A touch of absurdity can help to wrap your mind around reality](https://psyche.co/ideas/a-touch-of-absurdity-can-help-to-wrap-your-mind-around-reality)
-* [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
-* [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
+* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [How to Put More “Character” into Your NPCs](https://pausebutton.substack.com/p/how-to-put-more-character-into-your)
+* [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
 * [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
 ## nytimes.com
 
@@ -80,20 +80,20 @@ layout: default
 * [Jimmy Cobb, Drummer on Miles Davis’s ‘Kind of Blue,’ Dies at 91](https://www.nytimes.com/2020/05/26/arts/music/jimmy-cobb-dead.html)
 * [Two Months Later, the Iditarod Champion May Finally Get a Ride Home](https://www.nytimes.com/2020/05/26/sports/iditarod-coronavirus-thomas-waerner.html)
 * [Poll Shows One Hurdle to Reopening Broadway: Fear of Jerks](https://www.nytimes.com/2020/05/26/theater/broadway-coronavirus-poll.html)
-* [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
 * [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [How Kobe Bryant Created His Own Olympic Dream Team](https://www.nytimes.com/2020/05/26/sports/basketball/kobe-bryant-olympic-dream-team.html)
 * [Should a Parent of Two Children Split Inheritance Equally?](https://www.nytimes.com/2020/05/26/magazine/should-a-parent-of-two-children-split-inheritance-equally.html)
 * [Follow the Silk Road, Book by Book](https://www.nytimes.com/2020/05/11/t-magazine/silk-road-reading-list-books-movies.html)
 * [Tiny Love Stories: ‘It’s OK if You Meet Someone’](https://www.nytimes.com/2020/05/26/style/tiny-modern-love-stories-coronavirus-its-ok-if-you-meet-someone.html)
 * [Richard Anuszkiewicz, Whose Op Art Caught Eyes in the ’60s, Dies at 89](https://www.nytimes.com/2020/05/25/arts/richard-anuszkiewicz-dead.html)
-* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
-* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
-* [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
+* [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
+* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
+* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [Long-Term Summer Rentals is the Latest Trend](https://www.nytimes.com/2020/05/26/travel/summer-rentals-long-term.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

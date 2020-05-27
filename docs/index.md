@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 01:34:32 UTC
+# indexed at 27/05/2020 02:12:13 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Blue Bee, Feared Extinct, Found in Florida](https://www.smithsonianmag.com/science-nature/blue-bee-feared-be-extinct-found-florida-180974957)
 * [I helped reposition a database product that went on to make $1B in revenue](https://www.thefxck.com/interviews/product-positioning-april-dunford)
-* [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [I was blackmailed – any YouTuber could be next](https://www.gamefromscratch.com/post/2020/05/26/I-Was-Blackmailed-Any-YouTuber-Could-Be-Next.aspx)
 * [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
+* [Venom: All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
+* [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
 * [Facebook executives shut down efforts to make the site less divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499)
 * [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
-* [The 10,000,000,000th Prime Number](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
+* [The 10,000,000,000th Prime Number (1994)](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
 * [NextDNS Is Out of Beta](https://nextdns.io)
 * [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 * [Make Writing a Habit](https://www.writenext.io/)
+* [Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611)
 * [Looking Glass starts shipping its 8K holographic display](https://techcrunch.com/2020/05/26/looking-glass-starts-shipping-its-8k-holographic-display/)
 * [Real time image animation in opencv using first order model](https://github.com/anandpawara/Real_Time_Image_Animation)
 * [Principles of Authoring a Pattern Library](https://warhol.io/blog/principles-for-pattern-libraries)
+* [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [Can 1/3 and 1/3 = 2/6? It seemed so](http://www.marilynburnsmathblog.com/can-1-3-1-3-2-6-it-seemed-so/)
-* [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
-* [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
 * [MasterClass is seizing its moment](https://www.nytimes.com/2020/05/25/style/masterclass-secrets.html)
+* [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
+* [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
 * [A touch of absurdity can help to wrap your mind around reality](https://psyche.co/ideas/a-touch-of-absurdity-can-help-to-wrap-your-mind-around-reality)
 * [Symbolic mathematics finally yields to neural networks](https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/)
 * [Code in the Browser with GitHub Classroom](https://github.blog/2020-05-26-code-in-the-browser-with-github-classroom/)
-* [Nissan Figaro – Retro-inspired convertible from Japan [video]](https://www.youtube.com/watch?v=HE2dKZ492TA)
-* [ZSH Aliases](https://thorsten-hans.com/5-types-of-zsh-aliases)
 * [How to Put More “Character” into Your NPCs](https://pausebutton.substack.com/p/how-to-put-more-character-into-your)
+* [Nissan Figaro – Retro-inspired convertible from Japan [video]](https://www.youtube.com/watch?v=HE2dKZ492TA)
 * [Bionic eye boosted by hemispherical retina](https://www.nature.com/articles/d41586-020-01420-7)
-* [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
-* [Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611)
-* [Caper (YC W16) Is Hiring a Site Reliability Engineer (Remote OK)](https://recruiterflow.com/caper/jobs)
 * [The FBI investigating hacking of Covid research by “PRC-affiliated cyber actors”](https://www.fbi.gov/news/pressrel/press-releases/peoples-republic-of-china-prc-targeting-of-covid-19-research-organizations)
 * [Plywood: A New Cross-Platform Open Source C++ Framework](https://preshing.com/20200526/a-new-cross-platform-open-source-cpp-framework/)
+* [How a lazy bitch like me learned to be productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
 ## nytimes.com
 
 
@@ -50,6 +50,7 @@ layout: default
 * [Trump Pushes a Conspiracy Theory That Falsely Accuses a TV Host of Murder](https://www.nytimes.com/2020/05/26/us/politics/klausutis-letter-jack-dorsey.html)
 * [White Woman Is Fired After Calling Police on Black Man in Central Park](https://www.nytimes.com/2020/05/26/nyregion/amy-cooper-dog-central-park.html)
 * [Minneapolis Police Narrative Is Challenged in Bystander Video](https://www.nytimes.com/2020/05/26/us/george-floyd-minneapolis-police.html)
+* [4 Minneapolis Officers Fired After Black Man Dies in Custody](https://www.nytimes.com/2020/05/26/us/minneapolis-police-man-died.html)
 * [How the Taliban Outlasted a Superpower: Tenacity and Carnage](https://www.nytimes.com/2020/05/26/world/asia/taliban-afghanistan-war.html)
 * [Trump Wants Troops in Afghanistan Home by Election Day. The Pentagon Is Drawing Up Plans.](https://www.nytimes.com/2020/05/26/world/asia/afghanistan-troop-withdrawal-election-day.html)
 * [How SpaceX Got to Launch NASA's Astronauts to Orbit](https://www.nytimes.com/2020/05/26/science/spacex-launch-nasa.html)
@@ -73,7 +74,7 @@ layout: default
 * [HBO Max Wants to ‘Crush’ Netflix. Is It Too Late?](https://www.nytimes.com/2020/05/26/business/media/hbo-max-netflix-streaming.html)
 * [‘I Was a Little Nervous as I Finished and Dropped Back Onto the Sidewalk’](https://www.nytimes.com/2020/05/24/nyregion/metropolitan-diary.html)
 * [House to Vote on Limiting F.B.I. Power to Collect Americans’ Internet Data](https://www.nytimes.com/2020/05/26/us/politics/fisa-bill-amendment.html)
-* [Biden, Urging Face Masks, Calls Trump a ‘Fool’ for Not Wearing One](https://www.nytimes.com/2020/05/26/us/politics/joe-biden-facemasks-trump-virus.html)
+* [Biden, Urging Face Masks, Calls Trump a ‘Fool’ for Not Wearing One](https://www.nytimes.com/2020/05/26/us/politics/joe-biden-facemasks-trump-coronavirus.html)
 * [Jimmy Fallon Apologizes for Blackface Skit](https://www.nytimes.com/2020/05/26/us/jimmy-fallon-chris-rock-blackface.html)
 * [Justice Dept. Ends Inquiries Into 3 Senators’ Stock Trades](https://www.nytimes.com/2020/05/26/us/politics/senators-stock-trades-investigation.html)
 * [In Audacious Move, Georgia and Florida Governors Offer to Host G.O.P. Convention](https://www.nytimes.com/2020/05/26/us/politics/republican-convention-trump.html)
@@ -81,11 +82,11 @@ layout: default
 * [Jimmy Cobb, Drummer on Miles Davis’s ‘Kind of Blue,’ Dies at 91](https://www.nytimes.com/2020/05/26/arts/music/jimmy-cobb-dead.html)
 * [Two Months Later, the Iditarod Champion May Finally Get a Ride Home](https://www.nytimes.com/2020/05/26/sports/iditarod-coronavirus-thomas-waerner.html)
 * [Poll Shows One Hurdle to Reopening Broadway: Fear of Jerks](https://www.nytimes.com/2020/05/26/theater/broadway-coronavirus-poll.html)
-* [Kids Are Grieving, Too](https://www.nytimes.com/2020/05/13/parenting/kids-death-coronavirus-grieving.html)
-* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
-* [Three Stretches to Tend to the Aches and Pains of Working From Home](https://www.nytimes.com/2020/05/19/well/three-stretches-to-tend-to-the-aches-and-pains-of-working-from-home.html)
-* [Coronavirus Antibody Test: What You Need to Know](https://www.nytimes.com/article/antibody-test-coronavirus.html)
-* [This Summer, Consider Camping in Your Own Backyard](https://www.nytimes.com/2020/05/15/smarter-living/this-summer-consider-camping-in-your-own-backyard.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How Kobe Bryant Created His Own Olympic Dream Team](https://www.nytimes.com/2020/05/26/sports/basketball/kobe-bryant-olympic-dream-team.html)
 * [Should a Parent of Two Children Split Inheritance Equally?](https://www.nytimes.com/2020/05/26/magazine/should-a-parent-of-two-children-split-inheritance-equally.html)
 * [Follow the Silk Road, Book by Book](https://www.nytimes.com/2020/05/11/t-magazine/silk-road-reading-list-books-movies.html)
@@ -93,8 +94,9 @@ layout: default
 * [Richard Anuszkiewicz, Whose Op Art Caught Eyes in the ’60s, Dies at 89](https://www.nytimes.com/2020/05/25/arts/richard-anuszkiewicz-dead.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
 * [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
-* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
+* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
+* [Long-Term Summer Rentals is the Latest Trend](https://www.nytimes.com/2020/05/26/travel/summer-rentals-long-term.html)
 * [Why the Coronavirus Is Killing African Americans](https://www.nytimes.com/2020/05/25/opinion/coronavirus-race-obesity.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -102,7 +104,8 @@ layout: default
 ## globo.com
 
 
-* [Witzel ataca Flávio Bolsonaro e pede que senador abra sigilos bancários e telefônicos: 'Some com Queiroz e foge da Justiça'](https://oglobo.globo.com/rio/witzel-ataca-flavio-bolsonaro-pede-que-senador-abra-sigilos-bancarios-telefonicos-some-com-queiroz-foge-da-justica-24447508)
+* [Lebron James critica violência policial após jovem negro ser morto nos Estados Unidos](https://oglobo.globo.com/esportes/lebron-james-critica-violencia-policial-apos-jovem-negro-ser-morto-nos-estados-unidos-24447735)
+* [Witzel ataca Flávio Bolsonaro e desafia senador a abrir sigilos bancários e telefônicos: 'Some com Queiroz e foge da Justiça'](https://oglobo.globo.com/rio/witzel-ataca-flavio-bolsonaro-desafia-senador-abrir-sigilos-bancarios-telefonicos-some-com-queiroz-foge-da-justica-24447508)
 * [Guedes avalia criar socorro de até R$ 10 mil para microempresas](https://oglobo.globo.com/economia/guedes-avalia-criar-socorro-de-ate-10-mil-para-microempresas-24447556)
 * [Câmara aprova MP que fixou o salário mínimo em R$ 1.045](https://oglobo.globo.com/economia/camara-aprova-mp-que-fixou-salario-minimo-em-1045-24447525)
 * [Novo método da Prefeitura do Rio para registrar óbitos com Covid-19 exclui 1.177 mortos da estatística](https://oglobo.globo.com/rio/novo-metodo-da-prefeitura-do-rio-para-registrar-obitos-com-covid-19-exclui-1177-mortos-da-estatistica-24447428)
@@ -110,5 +113,4 @@ layout: default
 * [Ministério da Saúde recebeu 34% dos testes comprados](https://oglobo.globo.com/sociedade/ministerio-da-saude-recebeu-34-dos-testes-comprados-24447403)
 * [Casos de Covid-19 se espalham pelos campos de petróleo do Brasil](https://oglobo.globo.com/sociedade/coronavirus/casos-de-covid-19-se-espalham-pelos-campos-de-petroleo-do-brasil-24447439)
 * [Justiça libera Joesley Batista para ocupar cargos executivos no grupo J&F](https://oglobo.globo.com/economia/justica-libera-joesley-batista-para-ocupar-cargos-executivos-no-grupo-jf-24447419)
-* [Câmara aprova MP que prorroga prazo para cinemas se adequarem a regras de acessibilidade](https://oglobo.globo.com/cultura/camara-aprova-mp-que-prorroga-prazo-para-cinemas-se-adequarem-regras-de-acessibilidade-24447390)
 * [É #FAKE que Moro é cunhado de Aécio e que avô do ex-ministro é um dos fundadores do PSDB](https://oglobo.globo.com/fato-ou-fake/e-fake-que-moro-cunhado-de-aecio-que-avo-do-ex-ministro-um-dos-fundadores-do-psdb-24447395)

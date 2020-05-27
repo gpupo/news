@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 08:12:42 UTC
+# indexed at 27/05/2020 08:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
 * [I helped reposition a database product that went on to make $1B in revenue](https://www.thefxck.com/interviews/product-positioning-april-dunford)
 * [Facebook executives shut down efforts to make the site less divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499)
+* [Reading habits that changed my life](https://blog.usejournal.com/10-reading-habits-that-changed-my-life-5c7673bc34bc)
+* [CareRev (YC S16) Is Hiring a Product Manager (Health Care / Enterprise)](https://grnh.se/7972a60d3us)
 * [Amazon in advanced talks to buy Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611)
 * [NextDNS Is Out of Beta](https://nextdns.io)
-* [Reading habits that changed my life](https://blog.usejournal.com/10-reading-habits-that-changed-my-life-5c7673bc34bc)
-* [macOS Catalina 10.15.5](https://support.apple.com/en-us/HT210642#macos10155)
 * [Growing Anomalies at the Large Hadron Collider Raise Hopes](https://www.quantamagazine.org/growing-anomalies-at-the-large-hadron-collider-hint-at-new-particles-20200526/)
+* [macOS Catalina 10.15.5](https://support.apple.com/en-us/HT210642#macos10155)
 * [Catching It Early: New Ways of Detecting Coronavirus](https://chembites.org/2020/05/26/catching-it-early-new-ways-of-detecting-coronavirus/)
+* [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
 * [Make Writing a Habit](https://www.writenext.io/)
 * [The 10,000,000,000th Prime Number (1994)](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
-* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
-* [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
 * [Looking Glass starts shipping its 8K holographic display](https://techcrunch.com/2020/05/26/looking-glass-starts-shipping-its-8k-holographic-display/)
 * [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 * [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
-* [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
+* [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
 * [Real time image animation in opencv using first order model](https://github.com/anandpawara/Real_Time_Image_Animation)
 * [Venom: All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
 * [MasterClass is seizing its moment](https://www.nytimes.com/2020/05/25/style/masterclass-secrets.html)
-* [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
 * [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
+* [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
 * [A touch of absurdity can help to wrap your mind around reality](https://psyche.co/ideas/a-touch-of-absurdity-can-help-to-wrap-your-mind-around-reality)
-* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
+* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
-* [The FBI investigating hacking of Covid research by “PRC-affiliated cyber actors”](https://www.fbi.gov/news/pressrel/press-releases/peoples-republic-of-china-prc-targeting-of-covid-19-research-organizations)
+* [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
 ## nytimes.com
 
 
@@ -82,32 +82,31 @@ layout: default
 * [Poll Shows One Hurdle to Reopening Broadway: Fear of Jerks](https://www.nytimes.com/2020/05/26/theater/broadway-coronavirus-poll.html)
 * [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [How Kobe Bryant Created His Own Olympic Dream Team](https://www.nytimes.com/2020/05/26/sports/basketball/kobe-bryant-olympic-dream-team.html)
 * [Should a Parent of Two Children Split Inheritance Equally?](https://www.nytimes.com/2020/05/26/magazine/should-a-parent-of-two-children-split-inheritance-equally.html)
 * [Follow the Silk Road, Book by Book](https://www.nytimes.com/2020/05/11/t-magazine/silk-road-reading-list-books-movies.html)
 * [Tiny Love Stories: ‘It’s OK if You Meet Someone’](https://www.nytimes.com/2020/05/26/style/tiny-modern-love-stories-coronavirus-its-ok-if-you-meet-someone.html)
 * [Richard Anuszkiewicz, Whose Op Art Caught Eyes in the ’60s, Dies at 89](https://www.nytimes.com/2020/05/25/arts/richard-anuszkiewicz-dead.html)
-* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
-* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
-* [Long-Term Summer Rentals is the Latest Trend](https://www.nytimes.com/2020/05/26/travel/summer-rentals-long-term.html)
+* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
+* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [‘Ou encontramos medicação para a Covid-19 ou não haverá retorno completo’ em 2020, diz reitora da UFRJ](https://oglobo.globo.com/sociedade/ou-encontramos-medicacao-para-covid-19-ou-nao-havera-retorno-completo-em-2020-diz-reitora-da-ufrj-1-24438673)
+* [Bolsonaro passou recado para evitar faixas pró-golpe em manifestação](https://oglobo.globo.com/brasil/bolsonaro-passou-recado-para-evitar-faixas-pro-golpe-em-manifestacao-24447530)
+* [Auxiliares não veem avanço em inquérito sobre suposta interferência na PF e aconselham Bolsonaro a cessar ataques a Supremo](https://oglobo.globo.com/brasil/auxiliares-nao-veem-avanco-em-inquerito-sobre-suposta-interferencia-na-pf-aconselham-bolsonaro-cessar-ataques-supremo-24447466)
 * [Filas por comida se multiplicam em Portugal e reúnem de profissionais liberais portugueses a imigrantes brasileiros](https://oglobo.globo.com/mundo/filas-por-comida-se-multiplicam-em-portugal-reunem-de-profissionais-liberais-portugueses-imigrantes-brasileiros-24447769)
 * [A rede que liga Wilson Witzel ao escândalo dos leitos para Covid](https://oglobo.globo.com/podcast/a-rede-que-liga-wilson-witzel-ao-escandalo-dos-leitos-para-covid-1-24447824)
 * [Pedido de recuperação judicial da Latam no exterior acende sinal de alerta no governo](https://oglobo.globo.com/economia/pedido-de-recuperacao-judicial-da-latam-no-exterior-acende-sinal-de-alerta-no-governo-24447812)
 * [Evento on-line discute como China passou da cópia à inovação](https://oglobo.globo.com/economia/evento-on-line-discute-como-china-passou-da-copia-inovacao-24447807)
 * [Histórias por trás dos números: Seu Carlinhos foi de garçom a dono da própria pizzaria](https://oglobo.globo.com/sociedade/coronavirus/historias-por-tras-dos-numeros-seu-carlinhos-foi-de-garcom-dono-da-propria-pizzaria-24447736)
-* [MP 936: Líderes na Câmara defendem desoneração da folha de pagamento](https://oglobo.globo.com/economia/mp-936-lideres-na-camara-defendem-desoneracao-da-folha-de-pagamento-24447728)
-* [Alvo de investigação da PF, Helena Witzel exerce influência no Palácico Guanabara](https://oglobo.globo.com/rio/alvo-de-investigacao-da-pf-helena-witzel-exerce-influencia-no-palacico-guanabara-24447400)
 * [Como o Vasco espalhará jogadores na volta às atividades em São Januário](https://oglobo.globo.com/esportes/como-vasco-espalhara-jogadores-na-volta-as-atividades-em-sao-januario-24447670)
 * [Camisas de Neymar e ex-craques vão a leilão beneficente; Parreira juntou itens](https://oglobo.globo.com/esportes/camisas-de-neymar-ex-craques-vao-leilao-beneficente-parreira-juntou-itens-1-24447563)
-* [Quarentena: na cozinha com dois filhos e um pacote de polvilho vencido](https://oglobo.globo.com/cultura/quarentena-na-cozinha-com-dois-filhos-um-pacote-de-polvilho-vencido-24446663)

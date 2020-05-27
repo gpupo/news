@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# indexed at 27/05/2020 09:11:26 UTC
+# indexed at 27/05/2020 09:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
-* [An open source Firebase alternative](https://supabase.io/)
+* [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
 * [Blue bee feared to be extinct is found in Florida](https://www.smithsonianmag.com/science-nature/blue-bee-feared-be-extinct-found-florida-180974957)
 * [I was blackmailed – any YouTuber could be next](https://www.gamefromscratch.com/post/2020/05/26/I-Was-Blackmailed-Any-YouTuber-Could-Be-Next.aspx)
 * [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
@@ -20,20 +20,20 @@ layout: default
 * [Catching It Early: New Ways of Detecting Coronavirus](https://chembites.org/2020/05/26/catching-it-early-new-ways-of-detecting-coronavirus/)
 * [Make Writing a Habit](https://www.writenext.io/)
 * [By the Bluebook implementation of Smalltalk-80](https://github.com/dbanay/Smalltalk)
-* [CareRev (YC S16) Is Hiring a Product Manager (Health Care / Enterprise)](https://grnh.se/7972a60d3us)
 * [The 10,000,000,000th Prime Number (1994)](https://code.jsoftware.com/wiki/Doc/Articles/Play104)
 * [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
+* [CareRev (YC S16) Is Hiring a Product Manager (Health Care / Enterprise)](https://grnh.se/7972a60d3us)
 * [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [Venom: All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
 * [Show HN: Preemptive Multitasking on an AVR Microcontroller](https://github.com/TurkeyMcMac/avr_threads)
 * [MasterClass is seizing its moment](https://www.nytimes.com/2020/05/25/style/masterclass-secrets.html)
-* [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
 * [A touch of absurdity can help to wrap your mind around reality](https://psyche.co/ideas/a-touch-of-absurdity-can-help-to-wrap-your-mind-around-reality)
+* [Show HN: Bear – Minimal blogging platform](https://bearblog.dev)
 * [How to detect if an object has been garbage collected in JavaScript](http://stevehanov.ca/blog/?id=148)
+* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [Local TV stations pushed the same Amazon-scripted segment](https://couriernewsroom.com/2020/05/26/11-local-tv-stations-that-pushed-amazon-scripted-segment/)
 * [Facebook executives shut down efforts to make the site less divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499)
 * [Surfboard: Audio Feature Extraction for Modern Machine Learning](https://arxiv.org/abs/2005.08848)
-* [Parsing Headers](https://vsoch.github.io/2020/url-headers/)
 * [Code in the Browser with GitHub Classroom](https://github.blog/2020-05-26-code-in-the-browser-with-github-classroom/)
 * [How a lazy bitch like me learned to be productive](https://www.madisontaskett.com/lazy-bastard-productivity/)
 * [Bionic eye boosted by hemispherical retina](https://www.nature.com/articles/d41586-020-01420-7)
@@ -80,19 +80,19 @@ layout: default
 * [Jimmy Cobb, Drummer on Miles Davis’s ‘Kind of Blue,’ Dies at 91](https://www.nytimes.com/2020/05/26/arts/music/jimmy-cobb-dead.html)
 * [Two Months Later, the Iditarod Champion May Finally Get a Ride Home](https://www.nytimes.com/2020/05/26/sports/iditarod-coronavirus-thomas-waerner.html)
 * [Poll Shows One Hurdle to Reopening Broadway: Fear of Jerks](https://www.nytimes.com/2020/05/26/theater/broadway-coronavirus-poll.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
-* [My 14-Year-Old Isn’t Social Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
 * [How Kobe Bryant Created His Own Olympic Dream Team](https://www.nytimes.com/2020/05/26/sports/basketball/kobe-bryant-olympic-dream-team.html)
 * [Should a Parent of Two Children Split Inheritance Equally?](https://www.nytimes.com/2020/05/26/magazine/should-a-parent-of-two-children-split-inheritance-equally.html)
 * [Follow the Silk Road, Book by Book](https://www.nytimes.com/2020/05/11/t-magazine/silk-road-reading-list-books-movies.html)
 * [Tiny Love Stories: ‘It’s OK if You Meet Someone’](https://www.nytimes.com/2020/05/26/style/tiny-modern-love-stories-coronavirus-its-ok-if-you-meet-someone.html)
 * [Richard Anuszkiewicz, Whose Op Art Caught Eyes in the ’60s, Dies at 89](https://www.nytimes.com/2020/05/25/arts/richard-anuszkiewicz-dead.html)
+* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
 * [The U.S. Is Getting Shorter, as Mapmakers Race to Keep Up](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
-* [Mother Sea Turtles Might Be Sneakier Than They Look](https://www.nytimes.com/2020/05/19/science/sea-turtles-decoy-nests.html)
 * [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

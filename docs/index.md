@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/05/2020 13:04:34 UTC
+# indexed at 28/05/2020 13:10:29 UTC
 
 
 ## news.ycombinator.com
@@ -11,14 +11,14 @@ layout: default
 * [Swarm satellites probe weakening of Earth’s magnetic field](https://www.esa.int/Applications/Observing_the_Earth/Swarm/Swarm_probes_weakening_of_Earth_s_magnetic_field)
 * [The Day AppGet Died](https://keivan.io/the-day-appget-died/)
 * [Against an Increasingly User-Hostile Web (2017)](https://neustadt.fr/essays/against-a-user-hostile-web/)
-* [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 * [Micro: Modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [Htmx – high power tools for HTML](https://htmx.org/)
 * [What Is the Business Model for DuckDuckGo? (2017)](https://spreadprivacy.com/duckduckgo-revenue-model/)
+* [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 * [How I made a game played in Notepad](https://sheepolution.com/blog/gamedev/how-i-made-a-game-played-in-notepad/)
 * [How We Built SELinux Support for Kubernetes](https://gravitational.com/blog/how-we-built-selinux-support-for-kubernetes-in-gravity-7-dot-0/)
-* [Editmode: Make any website editable inline](https://editmode.app/)
 * [The use of `class` for things that should be simple free functions](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
+* [Editmode: Make any website editable inline](https://editmode.app/)
 * [Raspberry Pi OS (formerly Raspbian) 64 bit beta](https://www.raspberrypi.org/forums/viewtopic.php?f=117&t=275370)
 * [The 'war tubas' we used to spot warplanes before radar (2018)](https://edition.cnn.com/style/article/war-sound-locators-before-radar/index.html)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
@@ -26,24 +26,25 @@ layout: default
 * [We reduced the AWS costs of our streaming data pipeline](https://www.taloflow.ai/blog/reducing-aws-costs)
 * [Astronomers find 'missing matter', solving decades-long mystery of outer space](https://www.abc.net.au/news/2020-05-28/astronomers-find-universe-missing-matter/12291788)
 * [Regexes vs. Combinatorial Parsing (2019)](https://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
-* [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
 * [“Maxwell's equations of software” examined (2008)](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [Show HN: Obsidian – A knowledge base that works on local Markdown files](https://obsidian.md/)
 * [Landlord-friendly, self-install solar and battery kit](https://sunboxlabs.com/solar-kit/)
 * [New fuzzing tool finds 26 USB bugs in Linux, Windows, macOS, and FreeBSD](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
-* [Editing plant chromosomes using molecular scissors](https://phys.org/news/2020-05-chromosomes-molecular-scissors.html)
 * [Using regmaps to make Linux drivers more generic](https://www.collabora.com/news-and-blog/blog/2020/05/27/using-regmaps-to-make-linux-drivers-more-generic/)
+* [Editing plant chromosomes using molecular scissors](https://phys.org/news/2020-05-chromosomes-molecular-scissors.html)
 * [Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
 * [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
+* [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
 * [An English Clergyman’s Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/)
-* [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
 * [8GB Raspberry Pi 4 on sale now at $75](https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/)
+* [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
 ## nytimes.com
 
 
 * [Hong Kong Security Plan Is Approved, Tightening China's Hold](https://www.nytimes.com/2020/05/28/world/asia/china-hong-kong-crackdown.html)
 * [U.S. to Expel Chinese Graduate Students With Ties to China’s Military Schools](https://www.nytimes.com/2020/05/28/us/politics/china-hong-kong-trump-student-visas.html)
 * [Coronavirus Live Updates: Testing in the U.S. Becomes Major Campaign Issue](https://www.nytimes.com/2020/05/28/us/coronavirus-live-updates.html)
+* [2.1 Million Unemployment Claims Push Total Past 40 Million](https://www.nytimes.com/2020/05/28/business/economy/coronavirus-unemployment-claims.html)
 * [Tracking Coronavirus](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 * [‘It’s Not The Virus’: Mexico’s Broken Hospitals Become Killers, Too](https://www.nytimes.com/2020/05/28/world/americas/virus-mexico-doctors.html)
 * [10 Weeks Into New York Area’s Lockdown, Who Is Still Getting Sick?](https://www.nytimes.com/2020/05/28/nyregion/ny-coronavirus-new-cases.html)
@@ -77,24 +78,24 @@ layout: default
 * [UConn Student Wanted in 2 Homicides is Caught in Maryland](https://www.nytimes.com/2020/05/27/nyregion/uconn-killer-peter-manfredonia.html)
 * [Senators Seek Answers on Coronavirus Protections at Guantánamo Bay](https://www.nytimes.com/2020/05/28/us/politics/senators-seek-answers-on-coronavirus-protections-at-guantanamo-bay.html)
 * [G.E., Which Traces Its Roots to Thomas Edison, Sells Its Lighting Business](https://www.nytimes.com/2020/05/28/us/General-electric-light-bulb-business.html)
-* [Rep. Sam Johnson of Texas Dies at 89](https://www.nytimes.com/2020/05/27/us/politics/sam-johnson-dead.html)
+* [Couple Bilked Medicaid for $13 Million to Pay for Lavish Lifestyle, U.S. Says](https://www.nytimes.com/2020/05/28/us/medicare-fraud-las-vegas.html)
 * [U.S. to Penalize Work at Iranian Facilities in Latest Blow to Nuclear Accord](https://www.nytimes.com/2020/05/27/us/politics/us-iran-nuclear-facilities-accord.html)
 * [Where Coronavirus Help on Facebook Is ‘Inherently Political’](https://www.nytimes.com/2020/05/28/us/politics/michigan-coronavirus-help.html)
 * [‘It’s Too Late’: In Sprawling Indonesia, Coronavirus Surges](https://www.nytimes.com/2020/05/28/world/asia/indonesia-coronavirus-surge.html)
 * [Asserting Sovereignty, Indian Casinos Defy California’s Governor and Reopen](https://www.nytimes.com/2020/05/28/us/california-virus-casinos.html)
 * [The Giant 'Murder Hornet' Resurfaces in British Columbia](https://www.nytimes.com/2020/05/27/us/murder-hornets.html)
-* [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [The Mythic Performances That Are Keeping Me Company](https://www.nytimes.com/2020/05/28/theater/memorable-stage-performances.html)
 * [How to Use Zoom Like a Theater or Film Professional](https://www.nytimes.com/2020/05/27/t-magazine/zoom-tips-coronavirus.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [A Global Film Festival and Concerts for All: New Livestreams to Watch](https://www.nytimes.com/2020/05/28/arts/livestreaming-coronavirus.html)
 * [How to Compost, Step by Step](https://www.nytimes.com/2020/05/27/realestate/how-to-compost-composting-food-waste.html)
-* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
 * [A New Entry in the Race for a Coronavirus Vaccine: Hope](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccines.html)
+* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
 * [A Possible Remedy for Pandemic Stress: Exercise](https://www.nytimes.com/2020/05/27/well/move/coronavirus-exercise-stress-mental-health-depression-mood-resilience.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
 * [Christian Cooper on Amy Cooper's Fate and Central Park Birdwatching](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)
@@ -104,8 +105,8 @@ layout: default
 ## globo.com
 
 
-* [Depois de aumento em março, nível de concessão de crédito para empresas cai 33,7% em abril, diz BC](https://oglobo.globo.com/economia/depois-de-aumento-em-marco-nivel-de-concessao-de-credito-para-empresas-cai-337-em-abril-diz-bc-1-24450073)
 * [Após seis dias de queda, dólar sobe e é negociado a R$ 5,32](https://oglobo.globo.com/economia/apos-seis-dias-de-queda-dolar-sobe-e-negociado-r-532-24450114)
+* [Depois de aumento em março, nível de concessão de crédito para empresas cai 33,7% em abril, diz BC](https://oglobo.globo.com/economia/depois-de-aumento-em-marco-nivel-de-concessao-de-credito-para-empresas-cai-337-em-abril-diz-bc-1-24450073)
 * ['Agricultores podem ser aliados na proteção da Amazônia, o que não podemos é aceitar milícias e bandidos', diz pesquisador](https://epoca.globo.com/sociedade/agricultores-podem-ser-aliados-na-protecao-da-amazonia-que-nao-podemos-aceitar-milicias-bandidos-diz-pesquisador-24450098)
 * ['Intervenção militar não resolve nada, ninguém está pensando nisso', diz Augusto Heleno](https://oglobo.globo.com/brasil/intervencao-militar-nao-resolve-nada-ninguem-esta-pensando-nisso-diz-augusto-heleno-1-24450091)
 * [Antes do veto de Bolsonaro a reajuste de servidores, estados concederam aumento. Saiba quais](https://oglobo.globo.com/economia/antes-do-veto-de-bolsonaro-reajuste-de-servidores-estados-concederam-aumento-saiba-quais-24449877)

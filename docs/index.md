@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/05/2020 03:13:28 UTC
+# indexed at 28/05/2020 03:34:18 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Show HN: Obsidian – A knowledge base that works on local Markdown files](https://obsidian.md/)
 * [We reduced the AWS costs of our streaming data pipeline](https://www.taloflow.ai/blog/reducing-aws-costs)
 * [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
-* [Maximator: European signals intelligence cooperation](https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538)
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
+* [Maximator: European signals intelligence cooperation](https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538)
 * [Guerrilla Public Service Redux (2017)](https://99percentinvisible.org/episode/guerrilla-public-service/)
 * [Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
 * [Google no longer providing original URL in AMP for image search results](https://twitter.com/zenexer/status/1265633022709301249)
 * [Regexes vs. Combinatorial Parsing](https://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
 * [$100M in bounties paid via HackerOne to ethical hackers](https://www.bleepingcomputer.com/news/security/100-million-in-bounties-paid-by-hackerone-to-ethical-hackers/)
+* [Poems of my Father #3 – The First Snowfall](https://medium.com/@russroberts/poems-of-my-father-3-797a00b44a00)
 * [Americans, it turns out, would rather visit a store than buy food online](https://www.bloomberg.com/news/articles/2020-05-27/has-online-grocery-shopping-peaked-most-still-prefer-in-store)
 * [Trump threatens to 'close' down social media platforms](https://techcrunch.com/2020/05/27/after-twitter-fact-check-trump-threatens-to-regulate-or-close-down-social-media-platforms/)
 * [Roman mosaic floor found under Italian vineyard](https://www.bbc.co.uk/news/world-europe-52818746)
-* [An English Clergyman’s Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/)
-* [Boeing cutting more than 12,000 U.S. jobs with thousands more planned](https://www.reuters.com/article/us-boeing-jobs/boeing-laying-off-6700-u-s-workers-with-thousands-more-planned-idUSKBN2332EP)
 * [Show HN: Simple-blogger – blog generated from GitHub project READMEs](https://github.com/vksah32/simple-blogger)
+* [Boeing cutting more than 12,000 U.S. jobs with thousands more planned](https://www.reuters.com/article/us-boeing-jobs/boeing-laying-off-6700-u-s-workers-with-thousands-more-planned-idUSKBN2332EP)
+* [An English Clergyman’s Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
 * [Bash IRC Quote Database](http://bash.org)
-* [Poems of my Father #3 – The First Snowfall](https://medium.com/@russroberts/poems-of-my-father-3-797a00b44a00)
 * [Speech to Text on iPhone vs. Pixel](https://twitter.com/jamescham/status/1265512829806927873)
 * [Gatsby raises $28M Series B led by Index Ventures](https://www.forbes.com/sites/davidjeans/2020/05/27/gatsby-website-building-startup-backed-by-index-ventures-raises-28-million/#18bc10047f3e)
 * [The Puritan Bohemian](https://newcriterion.com/issues/2020/6/the-puritan-bohemian)
-* [Nitrome to convert its Flash game library to HTML5](http://www.nitrome.com/blog/articles/1427/)
 * [Reducing transmission of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/05/27/science.abc6197)
+* [Nitrome to convert its Flash game library to HTML5](http://www.nitrome.com/blog/articles/1427/)
 * [The Concurnas Programming Language](https://concurnas.com/)
 * [Climb Mount Improbable: Evolvable Critters in JavaScript](https://www.gwern.net/docs/genetics/selection/www.mountimprobable.com/index.html)
-* [Building an IBM 3270 terminal controller](https://ajk.me/building-an-ibm-3270-terminal-controller)
+* [GE switches off light bulb business after almost 130 years](https://arstechnica.com/information-technology/2020/05/ge-switches-off-light-bulb-business-after-almost-130-years/)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Protests Expand to Los Angeles After Minneapolis Police Killing](https://www.nytimes.com/2020/05/27/us/minneapolis-police.html)
 * [As a Federal Coronavirus Expert Frets, the Capital Moves to Reopen](https://www.nytimes.com/2020/05/27/us/politics/coronavirus-washington-maryland-virginia.html)
 * [This Chef Has a Michelin Star and a Mission: Feeding Millions in India’s Lockdown](https://www.nytimes.com/2020/05/27/world/asia/vikas-khanna-india-hungry.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [When the Mexican Air Force Went to War Alongside America](https://www.nytimes.com/2020/05/27/magazine/world-war-ii-mexican-air-force.html)
 * [How Studio Ghibli Went From Streaming Holdout to HBO Max Star](https://www.nytimes.com/2020/05/27/movies/studio-ghibli-hbo-max.html)
 * [Soccer’s Landscape Was Already Shifting. Then an Earthquake Struck.](https://www.nytimes.com/2020/05/27/sports/soccer/bundesliga-kaiserslauten-bayern.html)
@@ -93,8 +93,8 @@ layout: default
 * [12 Underknown Songs From the Region That Birthed Emo](https://www.nytimes.com/2020/05/27/arts/music/emo-songs-washington-playlist.html)
 * [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
 * [Emotional Eating in Quarantined Kids](https://www.nytimes.com/2020/05/18/well/family/children-emotional-eating-coronavirus.html)
-* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
+* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
 * [A Deeply Flavorful Grain Salad, Full of Lemony Flavor](https://www.nytimes.com/2020/05/27/dining/farro-bean-salad-recipe-coronavirus.html)
 * [Amy Cooper Is Fired After Calling Police on Black Birder in Central Park](https://www.nytimes.com/2020/05/26/nyregion/amy-cooper-dog-central-park.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

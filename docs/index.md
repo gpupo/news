@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/05/2020 09:13:33 UTC
+# indexed at 28/05/2020 09:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Trump's executive order targets political bias at Twitter and Facebook: draft](https://www.reuters.com/article/us-twitter-trump-executive-order-social/trumps-executive-order-targets-political-bias-at-twitter-and-facebook-draft-idUSKBN2340MW)
 * [The Day AppGet Died](https://keivan.io/the-day-appget-died/)
-* [Against an Increasingly User-Hostile Web (2017)](https://neustadt.fr/essays/against-a-user-hostile-web/)
 * [The use of `class` for things that should be simple free functions](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
-* [8GB Raspberry Pi 4 on sale now at $75](https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/)
+* [Against an Increasingly User-Hostile Web (2017)](https://neustadt.fr/essays/against-a-user-hostile-web/)
 * [Micro: Modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [Htmx – high power tools for HTML](https://htmx.org/)
+* [8GB Raspberry Pi 4 on sale now at $75](https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/)
+* [Editmode: Make any website editable inline](https://editmode.app/)
 * [Pros and Cons of Nim](https://onlinetechinfo.com/pros-and-cons-of-nim/)
-* [Trump's executive order targets political bias at Twitter and Facebook: draft](https://www.reuters.com/article/us-twitter-trump-executive-order-social/trumps-executive-order-targets-political-bias-at-twitter-and-facebook-draft-idUSKBN2340MW)
 * [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
 * [We reduced the AWS costs of our streaming data pipeline](https://www.taloflow.ai/blog/reducing-aws-costs)
 * [Guerrilla Public Service Redux (2017)](https://99percentinvisible.org/episode/guerrilla-public-service/)
-* [Editmode: Make any website editable inline](https://editmode.app/)
+* [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
+* [Pulling apart a £339 anti-5G USB stick](https://www.bbc.co.uk/news/technology-52810220)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
 * [Regexes vs. Combinatorial Parsing (2019)](https://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
-* [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
-* [“Maxwell's equations of software” examined (2008)](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [Using regmaps to make Linux drivers more generic](https://www.collabora.com/news-and-blog/blog/2020/05/27/using-regmaps-to-make-linux-drivers-more-generic/)
+* [“Maxwell's equations of software” examined (2008)](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
+* [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
 * [Show HN: Obsidian – A knowledge base that works on local Markdown files](https://obsidian.md/)
 * [Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
-* [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
 * [An English Clergyman’s Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/)
 * [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
 * [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
 * [Show HN: Simple-blogger – blog generated from GitHub project READMEs](https://github.com/vksah32/simple-blogger)
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [The Concurnas Programming Language](https://concurnas.com/)
-* [Editing plant chromosomes using molecular scissors](https://phys.org/news/2020-05-chromosomes-molecular-scissors.html)
 * [Maximator: European signals intelligence cooperation](https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538)
+* [Editing plant chromosomes using molecular scissors](https://phys.org/news/2020-05-chromosomes-molecular-scissors.html)
 * [Poems of my Father #3 – The First Snowfall](https://medium.com/@russroberts/poems-of-my-father-3-797a00b44a00)
-* [Google no longer providing original URL in AMP for image search results](https://twitter.com/zenexer/status/1265633022709301249)
 ## nytimes.com
 
 
@@ -78,19 +78,19 @@ layout: default
 * [Why Is Boris Johnson Defending Dominic Cummings?](https://www.nytimes.com/2020/05/27/world/europe/boris-johnson-cummings-cooper.html)
 * [The Giant 'Murder Hornet' Resurfaces in British Columbia](https://www.nytimes.com/2020/05/27/us/murder-hornets.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [When the Mexican Air Force Went to War Alongside America](https://www.nytimes.com/2020/05/27/magazine/world-war-ii-mexican-air-force.html)
 * [How Studio Ghibli Went From Streaming Holdout to HBO Max Star](https://www.nytimes.com/2020/05/27/movies/studio-ghibli-hbo-max.html)
 * [Soccer’s Landscape Was Already Shifting. Then an Earthquake Struck.](https://www.nytimes.com/2020/05/27/sports/soccer/bundesliga-kaiserslauten-bayern.html)
 * [Now on Netflix: Portraits of Grief With Unplanned Relevance](https://www.nytimes.com/2020/05/27/arts/television/netflix-never-have-i-ever-i-am-not-okay-with-this.html)
 * [12 Underknown Songs From the Region That Birthed Emo](https://www.nytimes.com/2020/05/27/arts/music/emo-songs-washington-playlist.html)
-* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
-* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
+* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
 * [Emotional Eating in Quarantined Kids](https://www.nytimes.com/2020/05/18/well/family/children-emotional-eating-coronavirus.html)
+* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
 * [Amy Cooper Is Fired After Calling Police on Black Birder in Central Park](https://www.nytimes.com/2020/05/26/nyregion/amy-cooper-dog-central-park.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

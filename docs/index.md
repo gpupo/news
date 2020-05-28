@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/05/2020 08:15:10 UTC
+# indexed at 28/05/2020 08:34:46 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The use of `class` for things that should be simple free functions](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
-* [Against an Increasingly User-Hostile Web (2017)](https://neustadt.fr/essays/against-a-user-hostile-web/)
 * [The Day AppGet Died](https://keivan.io/the-day-appget-died/)
+* [Against an Increasingly User-Hostile Web (2017)](https://neustadt.fr/essays/against-a-user-hostile-web/)
 * [Htmx – high power tools for HTML](https://htmx.org/)
 * [8GB Raspberry Pi 4 on sale now at $75](https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/)
+* [Micro: Modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [Pros and Cons of Nim](https://onlinetechinfo.com/pros-and-cons-of-nim/)
 * [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
 * [We reduced the AWS costs of our streaming data pipeline](https://www.taloflow.ai/blog/reducing-aws-costs)
-* [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
-* [Micro: Modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [Guerrilla Public Service Redux (2017)](https://99percentinvisible.org/episode/guerrilla-public-service/)
 * [Regexes vs. Combinatorial Parsing (2019)](https://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
-* [“Maxwell's equations of software” examined (2008)](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
-* [Using regmaps to make Linux drivers more generic](https://www.collabora.com/news-and-blog/blog/2020/05/27/using-regmaps-to-make-linux-drivers-more-generic/)
+* [“Maxwell's equations of software” examined (2008)](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [$100M in bounties paid via HackerOne to ethical hackers](https://www.bleepingcomputer.com/news/security/100-million-in-bounties-paid-by-hackerone-to-ethical-hackers/)
-* [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
-* [Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+* [Using regmaps to make Linux drivers more generic](https://www.collabora.com/news-and-blog/blog/2020/05/27/using-regmaps-to-make-linux-drivers-more-generic/)
 * [Show HN: Obsidian – A knowledge base that works on local Markdown files](https://obsidian.md/)
-* [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
+* [Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+* [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
 * [An English Clergyman’s Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/)
-* [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
 * [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
+* [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
+* [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
 * [Show HN: Simple-blogger – blog generated from GitHub project READMEs](https://github.com/vksah32/simple-blogger)
+* [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [Maximator: European signals intelligence cooperation](https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538)
 * [The Concurnas Programming Language](https://concurnas.com/)
 * [Poems of my Father #3 – The First Snowfall](https://medium.com/@russroberts/poems-of-my-father-3-797a00b44a00)
 * [Google no longer providing original URL in AMP for image search results](https://twitter.com/zenexer/status/1265633022709301249)
 * [Americans, it turns out, would rather visit a store than buy food online](https://www.bloomberg.com/news/articles/2020-05-27/has-online-grocery-shopping-peaked-most-still-prefer-in-store)
-* [Circle Medical (YC S15) is hiring an iOS engineer in Montreal](https://jobs.lever.co/circlemedical/6bc5ef92-faff-4929-bec0-41700e53a3e8)
+* [Roman mosaic floor found under Italian vineyard](https://www.bbc.co.uk/news/world-europe-52818746)
 ## nytimes.com
 
 
@@ -77,19 +77,19 @@ layout: default
 * [Renault and Nissan Unveil Plan to Patch Tattered Alliance](https://www.nytimes.com/2020/05/27/business/renault-nissan-alliance.html)
 * [Why Is Boris Johnson Defending Dominic Cummings?](https://www.nytimes.com/2020/05/27/world/europe/boris-johnson-cummings-cooper.html)
 * [The Giant 'Murder Hornet' Resurfaces in British Columbia](https://www.nytimes.com/2020/05/27/us/murder-hornets.html)
-* [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [When the Mexican Air Force Went to War Alongside America](https://www.nytimes.com/2020/05/27/magazine/world-war-ii-mexican-air-force.html)
 * [How Studio Ghibli Went From Streaming Holdout to HBO Max Star](https://www.nytimes.com/2020/05/27/movies/studio-ghibli-hbo-max.html)
 * [Soccer’s Landscape Was Already Shifting. Then an Earthquake Struck.](https://www.nytimes.com/2020/05/27/sports/soccer/bundesliga-kaiserslauten-bayern.html)
 * [Now on Netflix: Portraits of Grief With Unplanned Relevance](https://www.nytimes.com/2020/05/27/arts/television/netflix-never-have-i-ever-i-am-not-okay-with-this.html)
 * [12 Underknown Songs From the Region That Birthed Emo](https://www.nytimes.com/2020/05/27/arts/music/emo-songs-washington-playlist.html)
-* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
 * [Emotional Eating in Quarantined Kids](https://www.nytimes.com/2020/05/18/well/family/children-emotional-eating-coronavirus.html)
 * [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
+* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
 * [Amy Cooper Is Fired After Calling Police on Black Birder in Central Park](https://www.nytimes.com/2020/05/26/nyregion/amy-cooper-dog-central-park.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [O que pesa contra o 'Gabinete do Ódio' no inquérito do STF?](https://oglobo.globo.com/podcast/o-que-pesa-contra-gabinete-do-odio-no-inquerito-do-stf-24449577)
 * [Saiba como será viajar de avião depois do novo coronavírus](https://oglobo.globo.com/boa-viagem/saiba-como-sera-viajar-de-aviao-depois-do-novo-coronavirus-24449710)
+* [Descanso semanal, jogos noturnos e domingos: futebol tem debate jurídico e prático](https://oglobo.globo.com/esportes/descanso-semanal-jogos-noturnos-domingos-futebol-tem-debate-juridico-pratico-24449592)
 * [Latam tenta obter crédito do BNDES para evitar piora da crise](https://oglobo.globo.com/economia/latam-tenta-obter-credito-do-bndes-para-evitar-piora-da-crise-24449712)
 * [Taxa de contágio da Covid-19 mostra crescimento em estados ainda pouco atingidos, e Rio e SP longe da estabilização](https://oglobo.globo.com/sociedade/coronavirus/taxa-de-contagio-da-covid-19-mostra-crescimento-em-estados-ainda-pouco-atingidos-rio-sp-longe-da-estabilizacao-24449549)
 * [Histórias por trás dos números: Dançando bolero ou na praia de sapato, o humor de Sérgio prevalecia](https://oglobo.globo.com/sociedade/coronavirus/historias-por-tras-dos-numeros-dancando-bolero-ou-na-praia-de-sapato-humor-de-sergio-prevalecia-24449599)
-* [As ligações suspeitas da empresa que tem contrato com Helena Witzel](https://oglobo.globo.com/rio/as-ligacoes-suspeitas-da-empresa-que-tem-contrato-com-helena-witzel-24449669)
 * [Pandemia pode empurrar 86 milhões de crianças para a pobreza até o fim do ano](https://oglobo.globo.com/economia/pandemia-pode-empurrar-86-milhoes-de-criancas-para-pobreza-ate-fim-do-ano-24449629)
 * [Aumento na procura por doces simples ajuda confeiteiros a garantirem renda na pandemia](https://oglobo.globo.com/economia/apoieonegociolocal/aumento-na-procura-por-doces-simples-ajuda-confeiteiros-garantirem-renda-na-pandemia-24448699)
-* ['Sabrina': HQ mostra como fake news podem impactar pessoas comuns](https://oglobo.globo.com/cultura/sabrina-hq-mostra-como-fake-news-podem-impactar-pessoas-comuns-24449458)
 * [Pandemia acaba com o sonho de argentinos residentes no Brasil](https://oglobo.globo.com/mundo/pandemia-acaba-com-sonho-de-argentinos-residentes-no-brasil-24449152)
 * [No país dos adélios](https://oglobo.globo.com/cultura/no-pais-dos-adelios-24447969)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/05/2020 10:34:22 UTC
+# indexed at 28/05/2020 11:10:31 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [The Day AppGet Died](https://keivan.io/the-day-appget-died/)
 * [Against an Increasingly User-Hostile Web (2017)](https://neustadt.fr/essays/against-a-user-hostile-web/)
-* [The use of `class` for things that should be simple free functions](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 * [What Is the Business Model for DuckDuckGo?](https://spreadprivacy.com/duckduckgo-revenue-model/)
 * [Htmx – high power tools for HTML](https://htmx.org/)
 * [Micro: Modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
-* [Editmode: Make any website editable inline](https://editmode.app/)
+* [The use of `class` for things that should be simple free functions](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 * [Pros and Cons of Nim](https://onlinetechinfo.com/pros-and-cons-of-nim/)
+* [Editmode: Make any website editable inline](https://editmode.app/)
 * [Show HN: Straight2Spam – Send your email right to someone's spam folder](https://straight2spam.com)
+* [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
 * [Guerrilla Public Service Redux (2017)](https://99percentinvisible.org/episode/guerrilla-public-service/)
 * [We reduced the AWS costs of our streaming data pipeline](https://www.taloflow.ai/blog/reducing-aws-costs)
-* [Alterations in glutamate and the experience of ego dissolution with psilocybin](https://www.nature.com/articles/s41386-020-0718-8)
 * [Supabase (YC S20) – An open source Firebase alternative](https://supabase.io/)
 * [Regexes vs. Combinatorial Parsing (2019)](https://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
-* [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
+* [The 'war tubas' we used to spot warplanes before radar (2018)](https://edition.cnn.com/style/article/war-sound-locators-before-radar/index.html)
 * [“Maxwell's equations of software” examined (2008)](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [Show HN: Obsidian – A knowledge base that works on local Markdown files](https://obsidian.md/)
+* [I got my degree through Email (1997)](https://www.forbes.com/forbes/1997/0616/5912084a.html#fcea8175b544)
+* [Editing plant chromosomes using molecular scissors](https://phys.org/news/2020-05-chromosomes-molecular-scissors.html)
 * [Using regmaps to make Linux drivers more generic](https://www.collabora.com/news-and-blog/blog/2020/05/27/using-regmaps-to-make-linux-drivers-more-generic/)
 * [Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
-* [Editing plant chromosomes using molecular scissors](https://phys.org/news/2020-05-chromosomes-molecular-scissors.html)
-* [CLIs are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/)
 * [An English Clergyman’s Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/)
-* [The 'war tubas' we used to spot warplanes before radar (2018)](https://edition.cnn.com/style/article/war-sound-locators-before-radar/index.html)
-* [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [Show HN: Simple-blogger – blog generated from GitHub project READMEs](https://github.com/vksah32/simple-blogger)
-* [The Concurnas Programming Language](https://concurnas.com/)
+* [From punch cutters to number crunchers (2017)](http://www.eyemagazine.com/feature/article/from-punch-cutters-to-number-crunchers)
 * [Maximator: European signals intelligence cooperation](https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538)
-* [New fuzzing tool finds 26 USB bugs in Linux, Windows, macOS, and FreeBSD](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
+* [Pulling apart a £339 anti-5G USB stick](https://www.bbc.co.uk/news/technology-52810220)
 * [Google no longer providing original URL in AMP for image search results](https://twitter.com/zenexer/status/1265633022709301249)
+* [New fuzzing tool finds 26 USB bugs in Linux, Windows, macOS, and FreeBSD](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
+* [Poems of my Father #3 – The First Snowfall](https://medium.com/@russroberts/poems-of-my-father-3-797a00b44a00)
 ## nytimes.com
 
 
@@ -55,6 +55,7 @@ layout: default
 * [They Predicted ‘The Crisis of 2020’ … in 1991. So How Does This End?](https://www.nytimes.com/2020/05/28/us/politics/coronavirus-republicans-trump.html)
 * [Larry Kramer, Prophet and Pussycat](https://www.nytimes.com/2020/05/27/theater/larry-kramer-playwright-appraisal.html)
 * [‘We Loved Each Other’: Fauci Recalls Larry Kramer, Friend and Nemesis](https://www.nytimes.com/2020/05/27/health/larry-kramer-anthony-fauci.html)
+* [Can You Get the Virus From a Surface?](https://www.nytimes.com/2020/05/28/briefing/coronavirus-hong-kong-minneapolis-your-thursday-briefing.html)
 * [Coronavirus in N.Y.C.: Latest Updates](https://www.nytimes.com/2020/05/28/nyregion/coronavirus-nyc.html)
 * [Space Travel, Privatized](https://www.nytimes.com/2020/05/28/podcasts/the-daily/spacex-launch-space-nasa.html)
 * [One Giant Leap for SpaceX](https://www.nytimes.com/2020/05/27/business/dealbook/spacex-elon-musk.html)
@@ -81,19 +82,19 @@ layout: default
 * [‘It’s Too Late’: In Sprawling Indonesia, Coronavirus Surges](https://www.nytimes.com/2020/05/28/world/asia/indonesia-coronavirus-surge.html)
 * [Asserting Sovereignty, Indian Casinos Defy California’s Governor and Reopen](https://www.nytimes.com/2020/05/28/us/california-virus-casinos.html)
 * [The Giant 'Murder Hornet' Resurfaces in British Columbia](https://www.nytimes.com/2020/05/27/us/murder-hornets.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [The Mythic Performances That Are Keeping Me Company](https://www.nytimes.com/2020/05/28/theater/memorable-stage-performances.html)
 * [How to Use Zoom Like a Theater or Film Professional](https://www.nytimes.com/2020/05/27/t-magazine/zoom-tips-coronavirus.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [A Global Film Festival and Concerts for All: New Livestreams to Watch](https://www.nytimes.com/2020/05/28/arts/livestreaming-coronavirus.html)
 * [How to Compost, Step by Step](https://www.nytimes.com/2020/05/27/realestate/how-to-compost-composting-food-waste.html)
-* [Polio and Measles Could Surge After Disruption of Vaccine Programs](https://www.nytimes.com/2020/05/22/health/coronavirus-polio-measles-immunizations.html)
-* [How to Keep Kids Moving (Personal Bounce House Not Required)](https://www.nytimes.com/2020/05/15/parenting/coronavirus-keeping-kids-active.html)
-* [Emotional Eating in Quarantined Kids](https://www.nytimes.com/2020/05/18/well/family/children-emotional-eating-coronavirus.html)
+* [A Possible Remedy for Pandemic Stress: Exercise](https://www.nytimes.com/2020/05/27/well/move/coronavirus-exercise-stress-mental-health-depression-mood-resilience.html)
+* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
+* [A New Entry in the Race for a Coronavirus Vaccine: Hope](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccines.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
 * [Amy Cooper Is Fired After Calling Police on Black Birder in Central Park](https://www.nytimes.com/2020/05/26/nyregion/amy-cooper-dog-central-park.html)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Sem acordo, votação da MP 936, que permite corte de salário e jornada, é adiada para hoje](https://oglobo.globo.com/economia/sem-acordo-votacao-da-mp-936-que-permite-corte-de-salario-jornada-adiada-para-hoje-1-24449745)
+* [Venda de seguros para celulares cresce na pandemia e atrai indústria](https://oglobo.globo.com/economia/venda-de-seguros-para-celulares-cresce-na-pandemia-atrai-industria-24448969)
 * [PRF e Polícia Civil fazem operação contra rachas; Veículos envolvidos são avaliados em R$ 5 milhões](https://oglobo.globo.com/rio/prf-policia-civil-fazem-operacao-contra-rachas-veiculos-envolvidos-sao-avaliados-emr-5-milhoes-1-24449787)
 * [Novo normal em Niterói: seis dicas para voltar a correr com segurança e evitar lesões](https://oglobo.globo.com/rio/bairros/novo-normal-em-niteroi-seis-dicas-para-voltar-correr-com-seguranca-evitar-lesoes-24448898)
 * [Empresas farmacêuticas exageraram ao anunciar precisão de testes para Covid-19, diz agência britânica](https://oglobo.globo.com/sociedade/coronavirus/empresas-farmaceuticas-exageraram-ao-anunciar-precisao-de-testes-para-covid-19-diz-agencia-britanica-24448024)
 * [Menos da metade de eleitores de Bolsonaro em 2018 avalia governo como 'ótimo ou bom'](https://epoca.globo.com/guilherme-amado/menos-da-metade-de-eleitores-de-bolsonaro-em-2018-avalia-governo-como-otimo-ou-bom-24449479)
 * [Impeachment de Witzel deve ser instaurado em duas semanas](https://epoca.globo.com/guilherme-amado/impeachment-de-witzel-deve-ser-instaurado-em-duas-semanas-24449467)
+* [Shoppings da Zona Norte promovem ação para compra de cestas básicas](https://oglobo.globo.com/rio/bairros/shoppings-da-zona-norte-promovem-acao-para-compra-de-cestas-basicas-2-24438256)
+* [A relevantíssima opinião do Clube Naval do Rio sobre o vídeo de 22 de abril](https://epoca.globo.com/guilherme-amado/a-relevantissima-opiniao-do-clube-naval-do-rio-sobre-video-de-22-de-abril-24449443)
 * [Brasil Restaurant Week lança ação Delivery Solidário durante a pandemia do novo coronavírus](https://oglobo.globo.com/rio/bairros/brasil-restaurant-week-lanca-acao-delivery-solidario-durante-pandemia-do-novo-coronavirus-1-24448951)
 * [O que é pobreza menstrual e como ela pode ser agravar durante a pandemia de Covid-19](https://oglobo.globo.com/celina/o-que-pobreza-menstrual-como-ela-pode-ser-agravar-durante-pandemia-de-covid-19-24446848)
-* [Venda de seguros para celulares cresce na pandemia e atrai indústria](https://oglobo.globo.com/economia/venda-de-seguros-para-celulares-cresce-na-pandemia-atrai-industria-24448969)
-* [Com pandemia, parceiros do Mercosul devem trocar Brasil por outros mercados](https://oglobo.globo.com/analitico/com-pandemia-parceiros-do-mercosul-devem-trocar-brasil-por-outros-mercados-24448664)

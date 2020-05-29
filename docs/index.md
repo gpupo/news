@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/05/2020 10:09:24 UTC
+# indexed at 29/05/2020 10:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -10,38 +10,38 @@ layout: default
 
 * [GPT-3: Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 * [Western Digital Lawsuit for Shipping Slower SMR Hard Drives Including WD Red NAS](https://www.hattislaw.com/cases/investigations/western-digital-lawsuit-for-shipping-slower-smr-hard-drives-including-wd-red-nas/?shh)
-* [OpenSSL 3.0](https://wiki.openssl.org/index.php/OpenSSL_3.0)
 * [Stoke – A stochastic superoptimizer and program synthesizer](http://stoke.stanford.edu/)
+* [OpenSSL 3.0](https://wiki.openssl.org/index.php/OpenSSL_3.0)
 * [Idea Generation](https://blog.samaltman.com/idea-generation)
 * [1989 California Medfly Attack](https://en.wikipedia.org/wiki/1989_California_medfly_attack)
-* [Parsing Series of Integers with SIMD (2018)](http://0x80.pl/articles/simd-parsing-int-sequences.html)
 * [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
 * [Deno Is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
 * [How the Startup Slice Got Their First 1000 Customers](https://first1000.substack.com/p/-slice)
-* [Show HN: I built a free forms service for static websites](https://www.formking.io)
 * [Guitar Decomposed: 5. Mutating the Third](https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/)
-* [How Napoleon Bonaparte’s delayed funeral came to be](https://www.laphamsquarterly.org/roundtable/bring-him-home)
+* [Parsing Series of Integers with SIMD (2018)](http://0x80.pl/articles/simd-parsing-int-sequences.html)
 * [Most-streamed track of the day by country](https://www.worldspotify.com/)
+* [Show HN: I built a free forms service for static websites](https://www.formking.io)
+* [How Napoleon Bonaparte’s delayed funeral came to be](https://www.laphamsquarterly.org/roundtable/bring-him-home)
 * [Trilium Notes: Markdown autoformat personal knowledge base](https://github.com/zadam/trilium)
 * [How many people did it take to build the Great Pyramid?](https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid)
 * [What's in a Parser Combinator? (2016)](https://remusao.github.io/posts/whats-in-a-parser-combinator.html)
 * [Tools for Better Thinking](https://untools.co)
-* [U.K. Plans Citizenship for Hong Kong Residents in Row with China](https://www.bloomberg.com/news/articles/2020-05-28/u-k-plans-citizenship-for-hong-kong-residents-in-row-with-china)
 * [AudioMass – free, open source, web-based Audio and Waveform editor](https://audiomass.co/)
+* [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 * [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
 * [Show HN: RoughNotation – create and animate hand-drawn annotations on a web page](https://roughnotation.com/)
+* [U.K. Plans Citizenship for Hong Kong Residents in Row with China](https://www.bloomberg.com/news/articles/2020-05-28/u-k-plans-citizenship-for-hong-kong-residents-in-row-with-china)
 * [Relationship between psychedelics, the brain, well-being, and creativity](https://mythirdbrain.substack.com/p/what-psychedelics-teach-us-about)
 * [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
 * [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [Why we have so many problems with our teeth](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/)
-* [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
 * [Dangerous SHA-1 crypto function is about to die in SSH](https://arstechnica.com/information-technology/2020/05/dangerous-sha-1-crypto-function-is-about-to-die-in-ssh/)
-* [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
-* [Show HN: Redux with a UseState Hook](https://hooked-on-redux.js.org)
+* [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
+* [The Writings of Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
 ## nytimes.com
 
 
-* [Protests Continue to Rage After Death of George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-national-guard.html)
+* [George Floyd Protests in Minneapolis: Live Updates](https://www.nytimes.com/2020/05/29/us/george-floyd-minneapolis-protests.html)
 * [National Guard Called as Minneapolis Erupts in Solidarity for George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-minneapolis-protests.html)
 * [7 People Shot at Louisville Protest Over the Death of Breonna Taylor](https://www.nytimes.com/2020/05/29/us/louisville-protest-shooting-breonna-taylor.html)
 * [Twitter Warns that Trump Tweet Could Spur Violence](https://www.nytimes.com/2020/05/29/technology/twitter-president-trump.html)
@@ -82,19 +82,19 @@ layout: default
 * [Why Amy Cooper’s Use of ‘African-American’ Stung](https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html)
 * [China Pressures Hong Kong to Support Security Law](https://www.nytimes.com/2020/05/29/world/asia/hong-kong-china-national-security-law.html)
 * [Who Should Bear the Financial Brunt of the Coronavirus in Baseball?](https://www.nytimes.com/2020/05/28/sports/baseball/coronavirus-baseball-mlb.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
+* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [Practicing Architecture in a Pandemic](https://www.nytimes.com/2020/05/28/arts/design/elizabeth-diller-architecture-virus.html)
 * [The Woman at the Heart of Beethoven’s ‘Moonlight’ Sonata](https://www.nytimes.com/2020/05/27/arts/music/beethoven-moonlight-sonata.html)
 * [‘Space Force’ Review: Steve Carell, in a Familiar Orbit on Netflix](https://www.nytimes.com/2020/05/27/arts/television/space-force-netflix-review.html)
 * [For One Theater, a ‘Marvelous’ Way to Perform in Lockdown](https://www.nytimes.com/2020/05/28/theater/lockdown-musical-new-hampshire.html)
 * [6 Things to Do at Home This Weekend](https://www.nytimes.com/2020/05/28/arts/things-to-do-weekend-coronavirus.html)
-* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
 * [A Possible Remedy for Pandemic Stress: Exercise](https://www.nytimes.com/2020/05/27/well/move/coronavirus-exercise-stress-mental-health-depression-mood-resilience.html)
 * [A New Entry in the Race for a Coronavirus Vaccine: Hope](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccines.html)
+* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
 * [Trump’s ‘Horrifying Lies’ About Lori Klausutis May Cross a Legal Line](https://www.nytimes.com/2020/05/28/opinion/twitter-trump-scarborough.html)
 * [Pamela Anderson’s Garden of Eden](https://www.nytimes.com/2020/05/28/style/pamela-anderson-webcam.html)
@@ -104,11 +104,11 @@ layout: default
 ## globo.com
 
 
+* [Alcione: 'Você acha que é qualquer Covid que vai tirar minha alegria?'](https://oglobo.globo.com/cultura/alcione-voce-acha-que-qualquer-covid-que-vai-tirar-minha-alegria-24449490)
 * [Trump tem postagem no Twitter sinalizada por 'glorificar violência' após sugerir que polícia pode atirar em manifestantes](https://oglobo.globo.com/mundo/trump-tem-postagem-no-twitter-sinalizada-por-glorificar-violencia-apos-sugerir-que-policia-pode-atirar-em-manifestantes-24451879)
 * [Hospitais de campanha do Rio agora não têm mais data para abrir](https://oglobo.globo.com/rio/hospitais-de-campanha-do-rio-agora-nao-tem-mais-data-para-abrir-24451882)
 * [Como amenizar o impacto da pandemia sobre o desemprego?](https://oglobo.globo.com/podcast/como-amenizar-impacto-da-pandemia-sobre-desemprego-24451631)
 * [Regras para distanciamento de funcionários e desinfecção de ambientes devem fazer parte da nova rotina da indústria](https://oglobo.globo.com/economia/regras-para-distanciamento-de-funcionarios-desinfeccao-de-ambientes-devem-fazer-parte-da-nova-rotina-da-industria-24451302)
-* ['Quarentena sem fome': Ação vai alcançar a marca de 20 mil quentinhas distribuídas no Rio](https://oglobo.globo.com/rio/quarentena-sem-fome-acao-vai-alcancar-marca-de-20-mil-quentinhas-distribuidas-no-rio-24451565)
 * [Coronavírus: profissionais da cultura de Niterói reivindicam auxílio financeiro da prefeitura](https://oglobo.globo.com/rio/bairros/coronavirus-profissionais-da-cultura-de-niteroi-reivindicam-auxilio-financeiro-da-prefeitura-24451648)
 * [Sem parecer com orientações para educação na pandemia homologado, MEC deixa instituições à deriva](https://oglobo.globo.com/sociedade/sem-parecer-com-orientacoes-para-educacao-na-pandemia-homologado-mec-deixa-instituicoes-deriva-24451222)
 * [Industriais nordestinos precisam de mais ajuda, aponta pesquisa](https://epoca.globo.com/guilherme-amado/industriais-nordestinos-precisam-de-mais-ajuda-aponta-pesquisa-24451524)

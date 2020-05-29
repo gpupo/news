@@ -2,18 +2,16 @@
 layout: default
 ---
 
-# indexed at 29/05/2020 11:08:57 UTC
+# indexed at 29/05/2020 11:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Western Digital Lawsuit for Shipping Slower SMR Hard Drives Including WD Red NAS](https://www.hattislaw.com/cases/investigations/western-digital-lawsuit-for-shipping-slower-smr-hard-drives-including-wd-red-nas/?shh)
 * [GPT-3: Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 * [Stoke – A stochastic superoptimizer and program synthesizer](http://stoke.stanford.edu/)
 * [OpenSSL 3.0](https://wiki.openssl.org/index.php/OpenSSL_3.0)
-* [Idea Generation](https://blog.samaltman.com/idea-generation)
-* [How the Startup Slice Got Their First 1000 Customers](https://first1000.substack.com/p/-slice)
+* [How the Startup Slice Got Their First 1k Customers](https://first1000.substack.com/p/-slice)
 * [1989 California Medfly Attack](https://en.wikipedia.org/wiki/1989_California_medfly_attack)
 * [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
 * [Show HN: I built a free forms service for static websites](https://www.formking.io)
@@ -21,23 +19,25 @@ layout: default
 * [Guitar Decomposed: 5. Mutating the Third](https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/)
 * [Parsing Series of Integers with SIMD (2018)](http://0x80.pl/articles/simd-parsing-int-sequences.html)
 * [Most-streamed track of the day by country](https://www.worldspotify.com/)
-* [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 * [Trilium Notes: Markdown autoformat personal knowledge base](https://github.com/zadam/trilium)
-* [Deno Is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
 * [How many people did it take to build the Great Pyramid?](https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid)
 * [What's in a Parser Combinator? (2016)](https://remusao.github.io/posts/whats-in-a-parser-combinator.html)
+* [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 * [Tools for Better Thinking](https://untools.co)
 * [AudioMass – free, open source, web-based Audio and Waveform editor](https://audiomass.co/)
+* [Linux Sucks 2020](https://lbry.tv/@Lunduke:e/LinuxSucks2020:b)
 * [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
+* [Deno Is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
+* [Idea Generation](https://blog.samaltman.com/idea-generation)
 * [Show HN: RoughNotation – create and animate hand-drawn annotations on a web page](https://roughnotation.com/)
+* [Western Digital Lawsuit for Shipping Slower SMR Hard Drives Including WD Red NAS](https://www.hattislaw.com/cases/investigations/western-digital-lawsuit-for-shipping-slower-smr-hard-drives-including-wd-red-nas/?shh)
 * [Relationship between psychedelics, the brain, well-being, and creativity](https://mythirdbrain.substack.com/p/what-psychedelics-teach-us-about)
 * [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-* [Linux Sucks 2020](https://lbry.tv/@Lunduke:e/LinuxSucks2020:b)
 * [Why we have so many problems with our teeth](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/)
 * [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
 * [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
-* [Dangerous SHA-1 crypto function is about to die in SSH](https://arstechnica.com/information-technology/2020/05/dangerous-sha-1-crypto-function-is-about-to-die-in-ssh/)
 * [U.K. Plans Citizenship for Hong Kong Residents in Row with China](https://www.bloomberg.com/news/articles/2020-05-28/u-k-plans-citizenship-for-hong-kong-residents-in-row-with-china)
+* [Dangerous SHA-1 crypto function is about to die in SSH](https://arstechnica.com/information-technology/2020/05/dangerous-sha-1-crypto-function-is-about-to-die-in-ssh/)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [National Guard Called as Minneapolis Erupts in Solidarity for George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-minneapolis-protests.html)
 * [7 People Shot at Louisville Protest Over the Death of Breonna Taylor](https://www.nytimes.com/2020/05/29/us/louisville-protest-shooting-breonna-taylor.html)
 * [Twitter Places Warning on Trump Minneapolis Tweet, Saying It Glorified Violence](https://www.nytimes.com/2020/05/29/technology/trump-twitter-minneapolis-george-floyd.html)
-* [The President Versus the Mods](https://www.nytimes.com/2020/05/29/technology/trump-twitter.html)
+* [The President Versus Twitter and Social Media](https://www.nytimes.com/2020/05/29/technology/trump-twitter.html)
 * [Why President Trump's Order on Social Media Could Harm Him](https://www.nytimes.com/2020/05/28/us/politics/trump-jack-dorsey.html)
 * [Live Coronavirus US News Updates](https://www.nytimes.com/2020/05/29/us/coronavirus-us-usa.html)
 * [Border Wall Land Grabs Accelerate as Owners Shelter From Pandemic](https://www.nytimes.com/2020/05/29/us/politics/border-wall-coronavirus.html)
@@ -83,19 +83,19 @@ layout: default
 * [Why Amy Cooper’s Use of ‘African-American’ Stung](https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html)
 * [China Pressures Hong Kong to Support Security Law](https://www.nytimes.com/2020/05/29/world/asia/hong-kong-china-national-security-law.html)
 * [Who Should Bear the Financial Brunt of the Coronavirus in Baseball?](https://www.nytimes.com/2020/05/28/sports/baseball/coronavirus-baseball-mlb.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
 * [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Practicing Architecture in a Pandemic](https://www.nytimes.com/2020/05/28/arts/design/elizabeth-diller-architecture-virus.html)
 * [The Woman at the Heart of Beethoven’s ‘Moonlight’ Sonata](https://www.nytimes.com/2020/05/27/arts/music/beethoven-moonlight-sonata.html)
 * [‘Space Force’ Review: Steve Carell, in a Familiar Orbit on Netflix](https://www.nytimes.com/2020/05/27/arts/television/space-force-netflix-review.html)
 * [For One Theater, a ‘Marvelous’ Way to Perform in Lockdown](https://www.nytimes.com/2020/05/28/theater/lockdown-musical-new-hampshire.html)
 * [6 Things to Do at Home This Weekend](https://www.nytimes.com/2020/05/28/arts/things-to-do-weekend-coronavirus.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
 * [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Trump’s ‘Horrifying Lies’ About Lori Klausutis May Cross a Legal Line](https://www.nytimes.com/2020/05/28/opinion/twitter-trump-scarborough.html)
 * [Pamela Anderson’s Garden of Eden](https://www.nytimes.com/2020/05/28/style/pamela-anderson-webcam.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
+* [Piora avaliação de como Bolsonaro conduz país em meio à pandemia do novo coronavírus, diz Datafolha](https://oglobo.globo.com/brasil/piora-avaliacao-de-como-bolsonaro-conduz-pais-em-meio-pandemia-do-novo-coronavirus-diz-datafolha-1-24451912)
+* [Militares apoiam Bolsonaro em críticas ao STF](https://epoca.globo.com/brasil/militares-apoiam-bolsonaro-em-criticas-ao-stf-24451942)
 * [Ricky Martin: 'Se a pandemia nos pegou de surpresa, vou lançar um disco de surpresa'](https://oglobo.globo.com/cultura/musica/ricky-martin-se-pandemia-nos-pegou-de-surpresa-vou-lancar-um-disco-de-surpresa-24451909)
-* [Câmara aprova MP 936, que permite redução de jornada. Entenda as mudanças](https://oglobo.globo.com/economia/camara-aprova-mp-936-que-permite-reducao-de-jornada-entenda-as-mudancas-24451894)
-* [Piora avaliação de como Bolsonaro conduz país em meio à pandemia do novo coronavírus, diz Datafolha](https://oglobo.globo.com/brasil/piora-avaliacao-de-como-bolsonaro-conduz-pais-em-meio-pandemia-do-novo-coronavirus-diz-datafolha-24451912)
 * [Polícia faz buscas na casa de Pezão em operação que apura fraude no Arco Metropolitano](https://oglobo.globo.com/rio/policia-faz-buscas-na-casa-de-pezao-em-operacao-que-apura-fraude-no-arco-metropolitano-1-24451893)
-* [Alcione: 'Você acha que é qualquer Covid que vai tirar minha alegria?'](https://oglobo.globo.com/cultura/alcione-voce-acha-que-qualquer-covid-que-vai-tirar-minha-alegria-24449490)
+* ['Poderíamos ter tido um terço das mortes' por Covid-19, afirma epidemiologista Paulo Lotufo](https://oglobo.globo.com/sociedade/poderiamos-ter-tido-um-terco-das-mortes-por-covid-19-afirma-epidemiologista-paulo-lotufo-24451927)
+* [Câmara aprova MP 936, que permite redução de jornada. Entenda as mudanças](https://oglobo.globo.com/economia/camara-aprova-mp-936-que-permite-reducao-de-jornada-entenda-as-mudancas-24451894)
 * [Análise: A China está cada vez mais determinada a desafiar os EUA](https://oglobo.globo.com/mundo/analise-china-esta-cada-vez-mais-determinada-desafiar-os-eua-24451612)
 * [Nomeação de não médicos para comandar hospitais incomoda no Exército](https://epoca.globo.com/guilherme-amado/nomeacao-de-nao-medicos-para-comandar-hospitais-incomoda-no-exercito-24451573)
-* [Sem parecer com orientações para educação na pandemia homologado, MEC deixa instituições à deriva](https://oglobo.globo.com/sociedade/sem-parecer-com-orientacoes-para-educacao-na-pandemia-homologado-mec-deixa-instituicoes-deriva-24451222)
-* [Industriais nordestinos precisam de mais ajuda, aponta pesquisa](https://epoca.globo.com/guilherme-amado/industriais-nordestinos-precisam-de-mais-ajuda-aponta-pesquisa-24451524)
 * ['Não há gestão cultural no país', diz o ator Marcelo Serrado](https://oglobo.globo.com/cultura/nao-ha-gestao-cultural-no-pais-diz-ator-marcelo-serrado-24442021)
+* ['Nove anos depois e as pessoas ainda amam o Crô', diz Marcelo Serrado](https://oglobo.globo.com/cultura/nove-anos-depois-as-pessoas-ainda-amam-cro-diz-marcelo-serrado-24451041)

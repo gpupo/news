@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/05/2020 06:10:07 UTC
+# indexed at 29/05/2020 06:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [GPT-3: Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 * [OpenSSL 3.0](https://wiki.openssl.org/index.php/OpenSSL_3.0)
-* [1989 California Medfly Attack](https://en.wikipedia.org/wiki/1989_California_medfly_attack)
 * [Tools for Better Thinking](https://untools.co)
+* [1989 California Medfly Attack](https://en.wikipedia.org/wiki/1989_California_medfly_attack)
 * [Show HN: RoughNotation – create and animate hand-drawn annotations on a web page](https://roughnotation.com/)
 * [Idea Generation](https://blog.samaltman.com/idea-generation)
 * [What's in a Parser Combinator? (2016)](https://remusao.github.io/posts/whats-in-a-parser-combinator.html)
+* [Deno Is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
 * [Guitar Decomposed: 5. Mutating the Third](https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/)
 * [Most-streamed track of the day by country](https://www.worldspotify.com/)
-* [Deno Is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
 * [How many people did it take to build the Great Pyramid?](https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid)
-* [The PEPs of Python 3.9](https://lwn.net/Articles/819853/)
-* [Remote work has its perks, until you want a promotion](https://www.wired.com/story/remote-work-perks-until-want-promotion/)
-* [Trilium Notes: Markdown autoformat personal knowledge base](https://github.com/zadam/trilium)
 * [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
+* [Trilium Notes: Markdown autoformat personal knowledge base](https://github.com/zadam/trilium)
 * [Why remote work is hard and how it can be fixed](https://www.newyorker.com/culture/annals-of-inquiry/can-remote-work-be-fixed)
 * [AudioMass – free, open source, web-based Audio and Waveform editor](https://audiomass.co/)
 * [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
-* [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
-* [Maigret’s Room](https://www.lrb.co.uk/the-paper/v42/n11/john-lanchester/maigret-s-room)
 * [Relationship between psychedelics, the brain, well-being, and creativity](https://mythirdbrain.substack.com/p/what-psychedelics-teach-us-about)
+* [U.K. Plans Citizenship for Hong Kong Residents in Row with China](https://www.bloomberg.com/news/articles/2020-05-28/u-k-plans-citizenship-for-hong-kong-residents-in-row-with-china)
+* [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
 * [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
 * [Why we have so many problems with our teeth](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/)
 * [Dangerous SHA-1 crypto function is about to die in SSH](https://arstechnica.com/information-technology/2020/05/dangerous-sha-1-crypto-function-is-about-to-die-in-ssh/)
 * [The Writings of Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
-* [Spanish schedules are downright weird (2016)](https://english.elpais.com/elpais/2016/03/28/inenglish/1459165488_731020.html)
+* [Maigret’s Room](https://www.lrb.co.uk/the-paper/v42/n11/john-lanchester/maigret-s-room)
 * [History of Unix Manpages (2011)](https://manpages.bsd.lv/history.html)
 * [Uber is destroying thousands of electric bikes and scooters following Jump sale](https://www.bbc.com/news/technology-52832791)
+* [Show HN: Redux with a UseState Hook](https://hooked-on-redux.js.org)
+* [Spanish schedules are downright weird (2016)](https://english.elpais.com/elpais/2016/03/28/inenglish/1459165488_731020.html)
 * [Show HN: PageMarker – Organize, annotate and revisit your bookmarks](https://www.pagemarker.io/?ref=hackernews)
 ## nytimes.com
 
@@ -80,11 +80,10 @@ layout: default
 * [Andrew Lewis Had Coronavirus. Nobody Told Democrats Exposed to Him.](https://www.nytimes.com/2020/05/28/us/politics/andrew-lewis-brian-sims-pa-house-coronavirus.html)
 * [Italians Flock to Beaches, Hoping Tourists Will Follow](https://www.nytimes.com/2020/05/27/world/europe/italy-beaches-coronavirus-reopening.html)
 * [Proud of Your Lockdown Baking? This Man Built a Giant Kookaburra](https://www.nytimes.com/2020/05/28/world/australia/kookaburra-quarantine.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
-* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [How to Stay Optimistic When Everything Seems Wrong](https://www.nytimes.com/2020/04/29/smarter-living/coronavirus-how-to-stay-optimistic-.html)
+* [401(k) Rollover F.A.Q.: What You Need to Know](https://www.nytimes.com/2020/05/10/business/401k-rollover-faq.html)
+* [Kids Are Grieving, Too](https://www.nytimes.com/2020/05/13/parenting/kids-death-coronavirus-grieving.html)
 * [‘Ramy’ and the New American Muslims of TV](https://www.nytimes.com/2020/05/28/arts/television/ramy-youssef-season-2-hasan-minhaj.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/05/28/arts/design/art-accounts-instagram.html)
 * [‘On the Record’ Review: A Black Woman Says ‘#MeToo’](https://www.nytimes.com/2020/05/27/movies/on-the-record-russell-simmons-review.html)

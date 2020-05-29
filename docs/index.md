@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/05/2020 21:09:07 UTC
+# indexed at 29/05/2020 21:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -19,25 +19,25 @@ layout: default
 * [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
 * [Mosquitoes kill more than 700k people every year](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
 * [Designing an Authentication System: A Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html)
+* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
 * [Show HN: An API to store balances and transactions](https://news.ycombinator.com/item?id=23353970)
 * [What Do You Do with a Stolen van Gogh?](https://www.nytimes.com/2020/05/27/arts/design/van-gogh-stolen.html)
 * [Software bug made Bombardier planes turn the wrong way](https://www.theregister.co.uk/2020/05/29/bombardier_missed_approach_bug/)
 * [Launch an App](https://danielgauthier.me/launch-an-app/)
 * [A Visual Guide to React Mental Models: UseState, UseEffect and Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
-* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
 * [US customs and border protection is flying a surveillance drone over Minneapolis](https://www.vice.com/en_us/article/5dzbe3/customs-and-border-protection-predator-drone-minneapolis-george-floyd)
 * [The tiniest C sort function? (2008)](https://www.cs.dartmouth.edu/~doug/tinysort.html)
+* [Twitter hides Donald Trump tweet for “glorifying violence”](https://twitter.com/bjoewolf/status/1266268435647852553)
 * [Insider Build of VSCode for Windows/ARM64](https://github.com/microsoft/vscode/issues/33620#issuecomment-635367046)
 * [Room 641A](https://en.wikipedia.org/wiki/Room_641A)
 * [Colleges face student lawsuits seeking refunds after coronavirus closures](https://www.npr.org/2020/05/29/863804342/colleges-face-student-lawsuits-seeking-refunds-after-coronavirus-closures)
-* [Twitter hides Donald Trump tweet for “glorifying violence”](https://twitter.com/bjoewolf/status/1266268435647852553)
 * [Stoke – A stochastic superoptimizer and program synthesizer](http://stoke.stanford.edu/)
 * [Introduction to Apache Airflow](https://bhavaniravi.com/blog/apache-airflow-introduction)
 * [Make your 404s into 302s](https://4042302.org/)
+* [Emulate legacy printer drivers for CUPS with QEMU](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
 * [Hijacking the Verified Knowledge Panel](https://yvoschaap.com/weblog/another_mass_hijack_attempt_of_the_google_search_results)
 * [You Can Pay Credit Suisse Not to Work There](https://www.bloomberg.com/opinion/articles/2020-05-29/you-can-pay-credit-suisse-not-to-work-there)
-* [Emulate legacy printer drivers for CUPS with QEMU](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
-* [Things we learned about sums](https://questdb.io/blog/2020/05/12/interesting-things-we-learned-about-sums)
+* [Type Safety with Native JavaScript](https://mmikowski.github.io/typecast-02/)
 ## nytimes.com
 
 
@@ -75,28 +75,28 @@ layout: default
 * [Is It Safe to Keep Employing a Cleaner? Wrong Question, Lady](https://www.nytimes.com/2020/05/29/business/roxane-gay-work-friend.html)
 * [These Athletes Had the Coronavirus. Will They Ever Be the Same?](https://www.nytimes.com/2020/05/29/sports/coronavirus-survivors-athletes.html)
 * [Charges Recommended Against 3 Officers Involved in Violent N.Y. Arrest](https://www.nytimes.com/2020/05/29/nyregion/nypd-officers-charged-social-distancing-arrest.html)
+* [Army Withdraws Nomination for Officer Involved in Deadly Niger Ambush](https://www.nytimes.com/2020/05/29/us/politics/army-nomination-niger-ambush.html)
 * [Congress Calls State Dept. Officials for Interviews in Expanded Pompeo Inquiry](https://www.nytimes.com/2020/05/29/us/politics/mike-pompeo-inspector-general-congress.html)
 * [Knights of Columbus Founder, Who Died in a Pandemic, Moves Closer to Sainthood](https://www.nytimes.com/2020/05/28/nyregion/father-mcgivney-sainthood-coronavirus.html)
-* [Margaret Maughan, Medal-Winning Wheelchair Athlete, Dies at 91](https://www.nytimes.com/2020/05/28/sports/olympics/margaret-maughan-dead.html)
 * [Germany Wants E.U. to Sanction Head of Russian Military Intelligence](https://www.nytimes.com/2020/05/28/world/europe/germany-russia-cyberattack-sanctions.html)
 * [Older Italians Warily Eye Young Crowds, Fearing 2nd Coronavirus Wave](https://www.nytimes.com/2020/05/29/world/europe/italy-young-people-coronavirus.html)
 * [Hydrogen as Fuel? An Italian Pasta Factory Shows How It Could Work](https://www.nytimes.com/2020/05/27/business/hydrogen-fuel-climate-change.html)
 * [Bank Regulator’s Battle With Anti-Redlining Law Comes to an End](https://www.nytimes.com/2020/05/28/business/economy/community-reinvestment-act-joseph-otting.html)
 * [The TV Commercial, Once Advertising’s Main Event, Suffers in the Pandemic](https://www.nytimes.com/2020/05/28/business/media/coronavirus-advertising.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [No Touch, No Hands-On Learning, for Now, as Museums Try to Reopen](https://www.nytimes.com/2020/05/29/arts/design/museums-interactive-coronavirus.html)
 * [Whether You’re Making a Meal or Cleaning an Oil Spill, There’s a Fungus for That](https://www.nytimes.com/2020/05/27/books/review-entangled-life-fungi-merlin-sheldrake.html)
 * [‘Circumstantial Pleasures’ Review: The Lyrical Junkman Cometh](https://www.nytimes.com/2020/05/28/movies/circumstantial-pleasures-review.html)
 * [Richard Herd, a Baffled Boss on ‘Seinfeld,’ Is Dead at 87](https://www.nytimes.com/2020/05/28/arts/television/richard-herd-dead.html)
 * [‘You’ll Never Walk Alone’: From Broadway Tear-Jerker to Covid-Era Anthem](https://www.nytimes.com/2020/05/27/arts/music/youll-never-walk-alone-carousel-coronavirus.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
-* [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
 * [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
+* [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
 * [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Why Amy Cooper’s Use of ‘African-American’ Stung](https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html)
 * [Trump’s ‘Horrifying Lies’ About Lori Klausutis May Cross a Legal Line](https://www.nytimes.com/2020/05/28/opinion/twitter-trump-scarborough.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Manifesto expõe resistência à postura de Aras à frente da Procuradoria-Geral da República](https://oglobo.globo.com/brasil/manifesto-expoe-resistencia-postura-de-aras-frente-da-procuradoria-geral-da-republica-24453207)
+* [Botafogo só voltará aos treinos no fim de junho, diz Montenegro: 'São 250 mortes por dia'](https://oglobo.globo.com/esportes/botafogo-so-voltara-aos-treinos-no-fim-de-junho-diz-montenegro-sao-250-mortes-por-dia-24453321)
+* [Justiça Federal determina que União, Caixa e Dataprev resolvam problemas do auxílio emergencial](https://oglobo.globo.com/economia/justica-federal-determina-que-uniao-caixa-dataprev-resolvam-problemas-do-auxilio-emergencial-24453286)
+* [Entidades da Zona Leste de SP vão ao MP pedir hospital de campanha para coronavírus](https://oglobo.globo.com/sociedade/entidades-da-zona-leste-de-sp-vao-ao-mp-pedir-hospital-de-campanha-para-coronavirus-24453269)
+* [Manifesto de procuradores expõe resistência à postura de Aras à frente da PGR](https://oglobo.globo.com/brasil/manifesto-de-procuradores-expoe-resistencia-postura-de-aras-frente-da-pgr-24453207)
+* [Zona Franca de Manaus pode amargar pior crise em décadas por pandemia](https://oglobo.globo.com/economia/zona-franca-de-manaus-pode-amargar-pior-crise-em-decadas-por-pandemia-24453219)
+* [Os argumentos de Trump para anunciar rompimento dos EUA com a OMS](https://epoca.globo.com/mundo/os-argumentos-de-trump-para-anunciar-rompimento-dos-eua-com-oms-1-24453235)
+* [Barroso critica possibilidade de reconduzir PGR ou de nomeá-lo ministro do STF](https://oglobo.globo.com/brasil/barroso-critica-possibilidade-de-reconduzir-pgr-ou-de-nomea-lo-ministro-do-stf-24453216)
 * [Rio ultrapassa marca de 5 mil mortes por Covid-19 e chega a quase 48 mil casos](https://oglobo.globo.com/rio/rio-ultrapassa-marca-de-5-mil-mortes-por-covid-19-chega-quase-48-mil-casos-24453199)
 * [Mansueto descarta aumento de impostos em meio à crise](https://oglobo.globo.com/economia/mansueto-descarta-aumento-de-impostos-em-meio-crise-24453158)
-* [Militares americanos são enviados à Colômbia em operação antidrogas que tem Maduro como alvo](https://oglobo.globo.com/mundo/militares-americanos-sao-enviados-colombia-em-operacao-antidrogas-que-tem-maduro-como-alvo-24452820)
 * [Para combater a Covid-19, Colômbia estende quarentena até 1º de julho](https://oglobo.globo.com/mundo/para-combater-covid-19-colombia-estende-quarentena-ate-1-de-julho-1-24453079)
-* [TSE abre prazo para Bolsonaro e Mourão se manifestarem sobre inquérito das fake news](https://oglobo.globo.com/brasil/tse-abre-prazo-para-bolsonaro-mourao-se-manifestarem-sobre-inquerito-das-fake-news-1-24453044)
-* [Governo estende restrição de pagamento de lucros para dirigentes de bancos até o final do ano](https://oglobo.globo.com/economia/governo-estende-restricao-de-pagamento-de-lucros-para-dirigentes-de-bancos-ate-final-do-ano-1-24452978)
-* [Deputado investigado por fake news ministra palestra virtual sobre inquérito do STF: 'Perseguição e censura'](https://oglobo.globo.com/brasil/deputado-investigado-por-fake-news-ministra-palestra-virtual-sobre-inquerito-do-stf-perseguicao-censura-24452972)
-* [PSG feminino renova contrato da brasileira Luana até 2021](https://oglobo.globo.com/esportes/psg-feminino-renova-contrato-da-brasileira-luana-ate-2021-24452962)
-* [É #FAKE foto que mostra Carlos Bolsonaro em frente a uma mesa cheia de celulares](https://oglobo.globo.com/fato-ou-fake/e-fake-foto-que-mostra-carlos-bolsonaro-em-frente-uma-mesa-cheia-de-celulares-24452966)

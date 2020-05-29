@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/05/2020 01:34:22 UTC
+# indexed at 29/05/2020 02:09:44 UTC
 
 
 ## news.ycombinator.com
 
 
+* [GPT-3: Language Models Are Few-Shot Learners](https://github.com/openai/gpt-3)
+* [“GPT-3: Language Models Are Few-Shot Learners”, Brown et al. 2020 (OpenAI)](https://arxiv.org/abs/2005.14165)
 * [AudioMass – free, open source, web-based Audio and Waveform editor](https://audiomass.co/)
 * [Show HN: RoughNotation – create and animate hand-drawn annotations on a web page](https://roughnotation.com/)
 * [Idea Generation](https://blog.samaltman.com/idea-generation)
 * [Tools for Better Thinking](https://untools.co)
 * [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-* [Most-streamed track of the day by country](https://www.worldspotify.com/)
 * [How Many People Did It Take to Build the Great Pyramid?](https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid)
+* [Most-streamed track of the day by country](https://www.worldspotify.com/)
 * [The Epic Games Primer](https://www.matthewball.vc/all/epicgamesprimermaster)
+* [1989 California Medfly Attack](https://en.wikipedia.org/wiki/1989_California_medfly_attack)
 * [The PEPs of Python 3.9](https://lwn.net/Articles/819853/)
-* [Trilium Notes – Markdown autoformat (WYSIWYG) personal knowledge base](https://github.com/zadam/trilium)
 * [Remote work has its perks, until you want a promotion](https://www.wired.com/story/remote-work-perks-until-want-promotion/)
+* [Trilium Notes – Markdown autoformat (WYSIWYG) personal knowledge base](https://github.com/zadam/trilium)
+* [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
 * [Mux (YC W16) is hiring engineers to work on cloud video infrastructure](https://mux.com/jobs/)
-* [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
-* [Framework Benchmarks Round 19](https://www.techempower.com/blog/2020/05/28/framework-benchmarks-round-19/)
-* [Show HN: PageMarker – Organize, annotate and revisit your bookmarks](https://www.pagemarker.io/?ref=hackernews)
-* [History of Unix Manpages (2011)](https://manpages.bsd.lv/history.html)
-* [Swarm satellites probe weakening of Earth’s magnetic field](https://www.esa.int/Applications/Observing_the_Earth/Swarm/Swarm_probes_weakening_of_Earth_s_magnetic_field)
-* [New fuzzing tool finds USB bugs in Linux, Windows, macOS, and FreeBSD](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
-* [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
-* [Why remote work is hard and how it can be fixed](https://www.newyorker.com/culture/annals-of-inquiry/can-remote-work-be-fixed)
-* [The Writings of Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
-* [Uber is destroying thousands of electric bikes and scooters following Jump sale](https://www.bbc.com/news/technology-52832791)
-* [Good idea bad implementation crosstalk](https://flak.tedunangst.com/post/good-idea-bad-implementation-crosstalk)
-* [Practical privacy tips for your business](https://blog.simpleanalytics.com/practical-privacy-tips-for-your-business)
-* [The chart that proves that Spanish schedules are downright weird (2016)](https://english.elpais.com/elpais/2016/03/28/inenglish/1459165488_731020.html)
 * [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
-* [Resuming SameSite Cookie Changes in July](https://blog.chromium.org/2020/05/resuming-samesite-cookie-changes-in-july.html)
+* [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
+* [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
 * [Deno Is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
-* [Functional Programming in Python](https://github.com/dry-python/returns)
-* [Useless Use of Cat Award](http://porkmail.org/era/unix/award.html)
+* [Why remote work is hard and how it can be fixed](https://www.newyorker.com/culture/annals-of-inquiry/can-remote-work-be-fixed)
+* [Framework Benchmarks Round 19](https://www.techempower.com/blog/2020/05/28/framework-benchmarks-round-19/)
+* [The Writings of Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
+* [Show HN: PageMarker – Organize, annotate and revisit your bookmarks](https://www.pagemarker.io/?ref=hackernews)
+* [Why we have so many problems with our teeth](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/)
+* [The chart that proves that Spanish schedules are downright weird (2016)](https://english.elpais.com/elpais/2016/03/28/inenglish/1459165488_731020.html)
+* [History of Unix Manpages (2011)](https://manpages.bsd.lv/history.html)
+* [Dangerous SHA-1 crypto function is about to die in SSH](https://arstechnica.com/information-technology/2020/05/dangerous-sha-1-crypto-function-is-about-to-die-in-ssh/)
+* [OpenSSL 3.0](https://wiki.openssl.org/index.php/OpenSSL_3.0)
+* [New fuzzing tool finds USB bugs in Linux, Windows, macOS, and FreeBSD](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Italians Flock to Beaches, Hoping Tourists Will Follow](https://www.nytimes.com/2020/05/27/world/europe/italy-beaches-coronavirus-reopening.html)
 * [Boston Marathon Canceled for the First Time](https://www.nytimes.com/2020/05/28/sports/boston-marathon-canceled.html)
 * [Proud of Your Lockdown Baking? This Man Built a Giant Kookaburra](https://www.nytimes.com/2020/05/28/world/australia/kookaburra-quarantine.html)
-* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
 * [‘Ramy’ and the New American Muslims of TV](https://www.nytimes.com/2020/05/28/arts/television/ramy-youssef-season-2-hasan-minhaj.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/05/28/arts/design/art-accounts-instagram.html)
 * [‘On the Record’ Review: A Black Woman Says ‘#MeToo’](https://www.nytimes.com/2020/05/27/movies/on-the-record-russell-simmons-review.html)
@@ -104,6 +104,7 @@ layout: default
 
 
 * [Insatisfeito, Witzel exonera secretários da Casa Civil e da Fazenda](https://oglobo.globo.com/rio/insatisfeito-witzel-exonera-secretarios-da-casa-civil-da-fazenda-24451659)
+* [Coronavírus: Niterói vai abrir dois pontos de testagem rápida no modelo drive thru](https://oglobo.globo.com/rio/bairros/coronavirus-niteroi-vai-abrir-dois-pontos-de-testagem-rapida-no-modelo-drive-thru-24451683)
 * [Nicola Di Luccio, tradicional mecânico do Rio (1926-2020)](https://oglobo.globo.com/economia/carros/nicola-di-luccio-tradicional-mecanico-do-rio-1926-2020-24451597)
 * [Bolsonaro diz que atuação de Aras é 'excepcional' e sugere indicação ao STF caso surja uma vaga além das já previstas até 2022](https://oglobo.globo.com/brasil/bolsonaro-diz-que-atuacao-de-aras-excepcional-sugere-indicacao-ao-stf-caso-surja-uma-vaga-alem-das-ja-previstas-ate-2022-24451567)
 * [Eduardo Bolsonaro diz que Forças Armadas podem 'colocar pano quente' no conflito entre Poderes](https://oglobo.globo.com/brasil/eduardo-bolsonaro-diz-que-forcas-armadas-podem-colocar-pano-quente-no-conflito-entre-poderes-24451621)
@@ -112,4 +113,3 @@ layout: default
 * [Senado aprova projeto que prevê R$ 5 bi em linha de crédito para profissionais liberais](https://oglobo.globo.com/economia/senado-aprova-projeto-que-preve-5-bi-em-linha-de-credito-para-profissionais-liberais-24451609)
 * [Final da Liga dos Campeões pode mudar de sede devido à pandemia, e Lisboa é a mais cotada](https://oglobo.globo.com/esportes/final-da-liga-dos-campeoes-pode-mudar-de-sede-devido-pandemia-lisboa-a-mais-cotada-24451584)
 * [Câmara aprova proposta que reduz correção de débitos trabalhistas](https://oglobo.globo.com/economia/camara-aprova-proposta-que-reduz-correcao-de-debitos-trabalhistas-24451578)
-* [Um dia após anunciar plano de reabertura do comércio, SP tem recorde de casos da Covid](https://oglobo.globo.com/sociedade/um-dia-apos-anunciar-plano-de-reabertura-do-comercio-sp-tem-recorde-de-casos-da-covid-24451531)

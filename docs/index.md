@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/05/2020 00:25:07 UTC
+# indexed at 29/05/2020 00:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -11,10 +11,9 @@ layout: default
 * [AudioMass – free, open source, web-based Audio and Waveform editor](https://audiomass.co/)
 * [Show HN: RoughNotation – create and animate hand-drawn annotations on a web page](https://roughnotation.com/)
 * [Idea Generation](https://blog.samaltman.com/idea-generation)
-* [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [Tools for Better Thinking](https://untools.co)
+* [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [Spotify Most streamed track of the day by Country](https://www.worldspotify.com/)
-* [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
 * [How Many People Did It Take to Build the Great Pyramid?](https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid)
 * [The PEPs of Python 3.9](https://lwn.net/Articles/819853/)
 * [Trilium Notes – Markdown autoformat (WYSIWYG) personal knowledge base](https://github.com/zadam/trilium)
@@ -22,22 +21,23 @@ layout: default
 * [Android Studio 4.0](https://android-developers.googleblog.com/2020/05/android-studio-4.html)
 * [Framework Benchmarks Round 19](https://www.techempower.com/blog/2020/05/28/framework-benchmarks-round-19/)
 * [PowerPC Solaris on the RS/6000](https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/)
-* [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/)
+* [The Writings of Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
+* [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
+* [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
 * [Show HN: PageMarker – Organize, annotate and revisit your bookmarks](https://www.pagemarker.io/?ref=hackernews)
 * [History of Unix Manpages (2011)](https://manpages.bsd.lv/history.html)
 * [Swarm satellites probe weakening of Earth’s magnetic field](https://www.esa.int/Applications/Observing_the_Earth/Swarm/Swarm_probes_weakening_of_Earth_s_magnetic_field)
 * [New fuzzing tool finds USB bugs in Linux, Windows, macOS, and FreeBSD](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
+* [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/)
 * [Uber is destroying thousands of electric bikes and scooters following Jump sale](https://www.bbc.com/news/technology-52832791)
-* [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
-* [Why remote work is hard and how it can be fixed](https://www.newyorker.com/culture/annals-of-inquiry/can-remote-work-be-fixed)
 * [Practical privacy tips for your business](https://blog.simpleanalytics.com/practical-privacy-tips-for-your-business)
 * [Good idea bad implementation crosstalk](https://flak.tedunangst.com/post/good-idea-bad-implementation-crosstalk)
-* [The chart that proves that Spanish schedules are downright weird (2016)](https://english.elpais.com/elpais/2016/03/28/inenglish/1459165488_731020.html)
+* [Why remote work is hard and how it can be fixed](https://www.newyorker.com/culture/annals-of-inquiry/can-remote-work-be-fixed)
 * [Resuming SameSite Cookie Changes in July](https://blog.chromium.org/2020/05/resuming-samesite-cookie-changes-in-july.html)
-* [Statement by FCC Commissioner Starks on Section 230 Executive Order](https://www.fcc.gov/document/statement-commissioner-starks-section-230-executive-order)
-* [Dover (YC S19) is hiring a third engineer to build a modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
+* [The chart that proves that Spanish schedules are downright weird (2016)](https://english.elpais.com/elpais/2016/03/28/inenglish/1459165488_731020.html)
 * [Functional Programming in Python](https://github.com/dry-python/returns)
 * [Useless Use of Cat Award](http://porkmail.org/era/unix/award.html)
+* [Dover (YC S19) is hiring a third engineer to build a modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 ## nytimes.com
 
 
@@ -80,19 +80,19 @@ layout: default
 * [Italians Flock to Beaches, Hoping Tourists Will Follow](https://www.nytimes.com/2020/05/27/world/europe/italy-beaches-coronavirus-reopening.html)
 * [Boston Marathon Canceled for the First Time](https://www.nytimes.com/2020/05/28/sports/boston-marathon-canceled.html)
 * [Proud of Your Lockdown Baking? This Man Built a Giant Kookaburra](https://www.nytimes.com/2020/05/28/world/australia/kookaburra-quarantine.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [‘Ramy’ and the New American Muslims of TV](https://www.nytimes.com/2020/05/28/arts/television/ramy-youssef-season-2-hasan-minhaj.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/05/28/arts/design/art-accounts-instagram.html)
 * [‘On the Record’ Review: A Black Woman Says ‘#MeToo’](https://www.nytimes.com/2020/05/27/movies/on-the-record-russell-simmons-review.html)
 * [Gabriel Bacquier, 95, Dies; Set Standard for French Baritones](https://www.nytimes.com/2020/05/27/arts/music/gabriel-bacquier-dead.html)
 * [Leslie Odom Jr. Raises a Glass to Billie Holiday and New York City](https://www.nytimes.com/2020/05/28/arts/television/leslie-odom-jr-quarantine.html)
+* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
 * [A New Entry in the Race for a Coronavirus Vaccine: Hope](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccines.html)
 * [A Possible Remedy for Pandemic Stress: Exercise](https://www.nytimes.com/2020/05/27/well/move/coronavirus-exercise-stress-mental-health-depression-mood-resilience.html)
-* [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html)
 * [Moderna Vaccine Trial: How Upbeat Coronavirus News Fueled a Stock Surge](https://www.nytimes.com/2020/05/23/health/coronavirus-vaccine-moderna.html)
 * [Attacks on Joe Scarborough Draw Criticism From Trump's Media Allies](https://www.nytimes.com/2020/05/27/business/media/trump-joe-scarborough-conservative-media.html)
 * [Christian Cooper on Amy Cooper's Fate and Central Park Birdwatching](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Relatório da Fiocruz mostra que casos de síndrome respiratória seguem crescendo](https://oglobo.globo.com/sociedade/coronavirus/relatorio-da-fiocruz-mostra-que-casos-de-sindrome-respiratoria-seguem-crescendo-24451070)
+* [Bolsonaro diz que atuação de Aras é 'excepcional' e sugere indicação ao STF caso surja uma vaga além das já previstas até 2022](https://oglobo.globo.com/brasil/bolsonaro-diz-que-atuacao-de-aras-excepcional-sugere-indicacao-ao-stf-caso-surja-uma-vaga-alem-das-ja-previstas-ate-2022-24451567)
 * [Um dia após anunciar plano de reabertura do comércio, SP tem recorde de casos](https://oglobo.globo.com/sociedade/um-dia-apos-anunciar-plano-de-reabertura-do-comercio-sp-tem-recorde-de-casos-1-24451531)
 * [Após Fachin votar contra bloqueio de WhatsApp por juízes, Moraes pede vista e julgamento é suspenso](https://oglobo.globo.com/brasil/apos-fachin-votar-contra-bloqueio-de-whatsapp-por-juizes-moraes-pede-vista-julgamento-suspenso-24451526)
 * [Governo Trump aperta cerco a Cuba e limita voos fretados para a ilha](https://oglobo.globo.com/mundo/governo-trump-aperta-cerco-cuba-limita-voos-fretados-para-ilha-24451484)
 * [Trump contra o Twitter](https://oglobo.globo.com/economia/trump-contra-twitter-24451492)
 * [Coronavírus: Brasil tem 438.238 casos confirmados e 26.754 mortes](https://oglobo.globo.com/sociedade/coronavirus-brasil-tem-438238-casos-confirmados-26754-mortes-24451425)
 * [Bolsonaro acena com vaga no STF para Aras, que o investiga](https://epoca.globo.com/guilherme-amado/bolsonaro-acena-com-vaga-no-stf-para-aras-que-investiga-24451486)
-* [Relatório da Fiocruz mostra que casos de síndrome respiratória seguem crescendo](https://oglobo.globo.com/sociedade/coronavirus/relatorio-da-fiocruz-mostra-que-casos-de-sindrome-respiratoria-seguem-crescendo-24451070)
 * [Celso de Mello envia à PGR pedido de impeachment contra Augusto Heleno](https://oglobo.globo.com/brasil/celso-de-mello-envia-pgr-pedido-de-impeachment-contra-augusto-heleno-1-24451367)
-* [Investigado por desvios na saúde, Edmar Santos deixa o governo Witzel](https://oglobo.globo.com/rio/investigado-por-desvios-na-saude-edmar-santos-deixa-governo-witzel-1-24451325)
 * [Redes de saúde públicas e particulares investem em ações de acolhimento](https://oglobo.globo.com/rio/bairros/redes-de-saude-publicas-particulares-investem-em-acoes-de-acolhimento-24451354)

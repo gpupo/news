@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 06:10:09 UTC
+# indexed at 30/05/2020 06:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [SQLite Turns 20](https://www.sqlite.org/src/thisdayinhistory?today=2020-05-29)
 * [Oldest 'nearly complete' HIV genome found in forgotten tissue sample from 1966](https://www.livescience.com/oldest-hiv-genome.html)
 * [Why is Kubernetes getting so popular?](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/)
-* [Frameworkless Movement](http://frameworklessmovement.org/)
 * [What is emergence?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
 * [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
 * [World's deepest octopus captured on camera](https://www.bbc.com/news/science-environment-52839678)
-* [Amazon sellers marking products as collectible to get around price gouging rules](https://www.theverge.com/21273383/amazon-price-gouging-collectible-loophole-dumbbells-hot-tub)
-* [Meander: a procedural system for generating maps of rivers that never existed](http://roberthodgin.com/project/meander)
-* [Blood of recovered Covid-19 patients is becoming a hot commodity](https://www.wsj.com/articles/blood-of-recovered-covid-19-patients-is-becoming-a-hot-commodity-11590744600)
-* [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
-* [How does the Gmail unsubscribe button work?](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/)
-* [Solar Orbiter to pass through the tails of Comet ATLAS](http://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_to_pass_through_the_tails_of_Comet_ATLAS)
 * [Startups Shouldn't Raise Money](https://ensorial.com/2020/dont-raise-money/)
-* [Simplifier](https://simplifier.neocities.org/)
-* [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
+* [Amazon sellers marking products as collectible to get around price gouging rules](https://www.theverge.com/21273383/amazon-price-gouging-collectible-loophole-dumbbells-hot-tub)
+* [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
+* [Meander: a procedural system for generating maps of rivers that never existed](http://roberthodgin.com/project/meander)
+* [How does the Gmail unsubscribe button work?](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/)
+* [Frameworkless Movement](http://frameworklessmovement.org/)
+* [Matrix Calculus for Deeplearning Part2](https://kirankamath.netlify.app/blog/matrix-calculus-for-deeplearning-part2/)
+* [Blood of recovered Covid-19 patients is becoming a hot commodity](https://www.wsj.com/articles/blood-of-recovered-covid-19-patients-is-becoming-a-hot-commodity-11590744600)
 * [Seven-year-olds as hackers, and why we should imitate them](https://herebeseaswines.net/essays/2020-05-29-seven-year-olds-as-hackers-and-why-we-should-imitate-them)
+* [Simplifier](https://simplifier.neocities.org/)
+* [Solar Orbiter to pass through the tails of Comet ATLAS](http://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_to_pass_through_the_tails_of_Comet_ATLAS)
+* [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
 * [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
 * [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
 * [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
 * [1,700-Year-Old Board Game Found in Norwegian Burial Mound](https://www.lifeinnorway.net/archaeologists-find-roman-iron-age-board-game-in-norway/)
-* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
 * [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/)
+* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
 * [The Nightmare That Colleges Face This Fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
 * [Thermoelectric Stoves vs. Solar Panels](https://www.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
 * [Show HN: Awesomeblog.club – self-hostable directory for small blogs and links](https://awesomeblog.club)
-* [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 * [A Visual Guide to React Mental Models: UseState, UseEffect and Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
+* [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 * [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
-* [Software bug made Bombardier planes turn the wrong way](https://www.theregister.co.uk/2020/05/29/bombardier_missed_approach_bug/)
 ## nytimes.com
 
 
@@ -95,10 +95,10 @@ layout: default
 * [QuarantineChat Brings Back Spontaneity (and Distraction)](https://www.nytimes.com/2020/05/27/arts/quarantinechat-virus.html)
 * [Life Advice From a Dead Grandmother Who’s Returned as a Bird](https://www.nytimes.com/2020/05/29/books/review/parakeet-marie-helene-bertino.html)
 * [Viewing Party! Let’s All Watch ‘Some Like It Hot’!](https://www.nytimes.com/2020/05/28/movies/some-like-it-hot-marilyn-monroe.html)
+* [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
-* [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
 * [Protests Continue to Rage After Death of George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-national-guard.html)
 * [Gladys Cortes, ‘Miracle Baby’ Moved to Help Others, Dies at 48](https://www.nytimes.com/2020/05/29/nyregion/gladys-cortes-dead-coronavirus.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

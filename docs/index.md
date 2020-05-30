@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 05:08:47 UTC
+# indexed at 30/05/2020 05:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Oldest 'nearly complete' HIV genome found in forgotten tissue sample from 1966](https://www.livescience.com/oldest-hiv-genome.html)
 * [Why is Kubernetes getting so popular?](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/)
 * [What is emergence?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
-* [Frameworkless Movement](http://frameworklessmovement.org/)
 * [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
+* [Frameworkless Movement](http://frameworklessmovement.org/)
 * [World's deepest octopus captured on camera](https://www.bbc.com/news/science-environment-52839678)
-* [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
+* [Blood of recovered Covid-19 patients is becoming a hot commodity](https://www.wsj.com/articles/blood-of-recovered-covid-19-patients-is-becoming-a-hot-commodity-11590744600)
 * [Meander: a procedural system for generating maps of rivers that never existed](http://roberthodgin.com/project/meander)
+* [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [Amazon sellers marking products as collectible to get around price gouging rules](https://www.theverge.com/21273383/amazon-price-gouging-collectible-loophole-dumbbells-hot-tub)
 * [How does the Gmail unsubscribe button work?](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/)
 * [Solar Orbiter to pass through the tails of Comet ATLAS](http://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_to_pass_through_the_tails_of_Comet_ATLAS)
 * [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
 * [Simplifier](https://simplifier.neocities.org/)
-* [Blood of recovered Covid-19 patients is becoming a hot commodity](https://www.wsj.com/articles/blood-of-recovered-covid-19-patients-is-becoming-a-hot-commodity-11590744600)
-* [1,700-Year-Old Board Game Found in Norwegian Burial Mound](https://www.lifeinnorway.net/archaeologists-find-roman-iron-age-board-game-in-norway/)
 * [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
+* [1,700-Year-Old Board Game Found in Norwegian Burial Mound](https://www.lifeinnorway.net/archaeologists-find-roman-iron-age-board-game-in-norway/)
 * [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
-* [The Nightmare That Colleges Face This Fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
 * [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
+* [The Nightmare That Colleges Face This Fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
+* [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/)
+* [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
 * [Thermoelectric Stoves vs. Solar Panels](https://www.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
 * [Show HN: Awesomeblog.club – self-hostable directory for small blogs and links](https://awesomeblog.club)
-* [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
-* [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/)
 * [A Visual Guide to React Mental Models: UseState, UseEffect and Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
 * [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
-* [Designing an Authentication System: A Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html)
 * [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
+* [Software bug made Bombardier planes turn the wrong way](https://www.theregister.co.uk/2020/05/29/bombardier_missed_approach_bug/)
+* [Designing an Authentication System: A Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html)
 * [Show HN: An API to store balances and transactions](https://news.ycombinator.com/item?id=23353970)
 * [What Do You Do with a Stolen van Gogh?](https://www.nytimes.com/2020/05/27/arts/design/van-gogh-stolen.html)
-* [But no, 80-column terminals in 2020 isn't “reasonable” any more](https://lkml.org/lkml/2020/5/29/1038)
 ## nytimes.com
 
 
@@ -85,11 +85,11 @@ layout: default
 * [In Brazil, Bolsonaro Lashes Out at Investigators](https://www.nytimes.com/2020/05/29/world/americas/brazil-bolsonaro-supreme-court.html)
 * [Hydrogen as Fuel? An Italian Pasta Factory Shows How It Could Work](https://www.nytimes.com/2020/05/27/business/hydrogen-fuel-climate-change.html)
 * [A Son’s Long Struggle to Clear His Family’s Name Is Only Half Won](https://www.nytimes.com/2020/05/29/world/asia/south-korea-prisoner-of-war.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Emma Amos, Painter Who Challenged Racism and Sexism, Dies at 83](https://www.nytimes.com/2020/05/29/arts/emma-amos-dead.html)
 * [Some Japanese Whiskies Aren’t From Japan. Some Aren’t Even Whisky.](https://www.nytimes.com/2020/05/29/dining/japanese-whisky.html)
 * [QuarantineChat Brings Back Spontaneity (and Distraction)](https://www.nytimes.com/2020/05/27/arts/quarantinechat-virus.html)
@@ -97,8 +97,8 @@ layout: default
 * [Viewing Party! Let’s All Watch ‘Some Like It Hot’!](https://www.nytimes.com/2020/05/28/movies/some-like-it-hot-marilyn-monroe.html)
 * [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
-* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Protests Continue to Rage After Death of George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-national-guard.html)
 * [Why Amy Cooper’s Use of ‘African-American’ Stung](https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

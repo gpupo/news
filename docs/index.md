@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 10:09:18 UTC
+# indexed at 30/05/2020 10:34:18 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Google postpones Android 11 unveiling amid U.S. protests](https://www.reuters.com/article/us-minneapolis-police-google-android/google-postpones-android-11-unveiling-amid-u-s-protests-idUSKBN2360AS)
 * [Oldest 'nearly complete' HIV genome found in forgotten tissue sample from 1966](https://www.livescience.com/oldest-hiv-genome.html)
-* [Why is Kubernetes getting so popular?](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/)
 * [Mist Showers: Sustainable Decadence?](https://solar.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html)
 * [The deepest ever sighting of an octopus, by cameras on the Indian Ocean floor](https://www.bbc.com/news/science-environment-52839678)
 * [Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/)
-* [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
 * [The Hard Part of Learning a Language](https://www.hillelwayne.com/post/learning-a-language/)
 * [Meander: a procedural system for generating maps of rivers that never existed](http://roberthodgin.com/project/meander)
 * [What is emergence?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
 * [Huawei builds up 2-year reserve of 'most important' US chips](https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-builds-up-2-year-reserve-of-most-important-US-chips)
 * [The Subtle Dangers of the Comma Operator (C++)](https://humanreadablemag.com/issues/3/articles/the-subtle-dangers-of-the-comma-operator)
 * [Circle Packing](https://en.wikipedia.org/wiki/Circle_packing)
+* [Why is Kubernetes getting so popular?](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/)
 * [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
-* [Seven-year-olds as hackers, and why we should imitate them](https://herebeseaswines.net/essays/2020-05-29-seven-year-olds-as-hackers-and-why-we-should-imitate-them)
 * [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
+* [Seven-year-olds as hackers, and why we should imitate them](https://herebeseaswines.net/essays/2020-05-29-seven-year-olds-as-hackers-and-why-we-should-imitate-them)
+* [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers)
 * [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
+* [The nightmare that colleges face this fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
 * [Solar Orbiter to pass through the tails of Comet ATLAS](http://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_to_pass_through_the_tails_of_Comet_ATLAS)
 * [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/)
-* [The nightmare that colleges face this fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
 * [Matrix calculus for deep learning part 2](https://kirankamath.netlify.app/blog/matrix-calculus-for-deeplearning-part2/)
-* [Trash, leather, sleaze: how Gary Green shot New York's punk scene](https://www.theguardian.com/artanddesign/2020/may/28/gary-green-photograph-new-york-punk-scene)
-* [Taking Lessons from a Bloody Masterpiece](https://www.nytimes.com/interactive/2020/05/28/arts/design/thomas-eakins-gross-clinic.html)
 * [Zoom Plans to Roll Out Strong Encryption for Paying Customers Only](https://www.reuters.com/article/us-zoom-encryption-exclusive/exclusive-zoom-plans-to-roll-out-strong-encryption-for-paying-customers-only-idUSKBN23600L)
-* [Show HN: Awesomeblog.club – self-hostable directory for small blogs and links](https://awesomeblog.club)
-* [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
-* [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers)
-* [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
-* [Thermoelectric Stoves vs. Solar Panels](https://www.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
 * [Letters of a Radio-Engineer to His Son (1922)](https://www.gutenberg.org/files/30688/30688-h/30688-h.htm)
+* [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
+* [Trash, leather, sleaze: how Gary Green shot New York's punk scene](https://www.theguardian.com/artanddesign/2020/may/28/gary-green-photograph-new-york-punk-scene)
+* [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
+* [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
+* [Show HN: Awesomeblog.club – self-hostable directory for small blogs and links](https://awesomeblog.club)
+* [Taking Lessons from a Bloody Masterpiece](https://www.nytimes.com/interactive/2020/05/28/arts/design/thomas-eakins-gross-clinic.html)
+* [Thermoelectric Stoves vs. Solar Panels](https://www.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
 ## nytimes.com
 
 
@@ -78,15 +78,15 @@ layout: default
 * [Congress Plans Hearings on Racial Violence and Use of Force by the Police](https://www.nytimes.com/2020/05/29/us/politics/congress-hearings-racial-violence-police-force.html)
 * [Battered by Coronavirus Outbreak, NYC Finally Moves Toward Reopening](https://www.nytimes.com/2020/05/29/nyregion/coronavirus-nyc-reopening-dates.html)
 * [Fund for Jeffrey Epstein’s Accusers Gets Attorney General’s Approval](https://www.nytimes.com/2020/05/29/business/jeffrey-epstein-victim-fund.html)
-* [Older Italians Warily Eye Young Crowds, Fearing 2nd Coronavirus Wave](https://www.nytimes.com/2020/05/29/world/europe/italy-young-people-coronavirus.html)
+* [Coronavirus Slams Broken, Embattled Yemen](https://www.nytimes.com/2020/05/30/world/middleeast/virus-yemen.html)
 * [What Time Is the SpaceX Launch? How to Watch](https://www.nytimes.com/2020/05/30/science/what-time-spacex-launch.html)
 * [The Central Park Video and #LivingWhileBlack in New York City](https://www.nytimes.com/2020/05/30/nyregion/central-park-video.html)
 * [Testing Is Key to Beating Coronavirus, Right? Japan Has Other Ideas](https://www.nytimes.com/2020/05/29/world/asia/japan-coronavirus.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [What Tracee Ellis Ross Worried About in ‘High Note’ (It Wasn’t Her Mom)](https://www.nytimes.com/2020/05/29/movies/tracee-ellis-ross-high-note.html)
 * [Returning, and Awakening, to the Beauty of Rural Alabama](https://www.nytimes.com/2020/05/28/travel/coronavirus-alabama-overlooked-beauty.html)
 * [The N+1 Candidate](https://www.nytimes.com/2020/05/28/style/nikil-saval-philadelphia-bernie-sanders.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Três erros mais comuns quando se aplica máscara capilar no chuveiro](https://oglobo.globo.com/ela/beleza/cabelo/tres-erros-mais-comuns-quando-se-aplica-mascara-capilar-no-chuveiro-24454401)
 * [Quarentena: Esportistas criam rede de cooperação em Niterói para manter rotina de treinos em casa](https://oglobo.globo.com/rio/bairros/quarentena-esportistas-criam-rede-de-cooperacao-em-niteroi-para-manter-rotina-de-treinos-em-casa-1-24453409)
 * [Contaminação a partir de pronto-socorro faz município do interior ter a mais alta taxa de Covid-19 na Bahia](https://epoca.globo.com/brasil/contaminacao-partir-de-pronto-socorro-faz-municipio-do-interior-ter-mais-alta-taxa-de-covid-19-na-bahia-24452263)
-* ['Vivo cenas de filme de terror', diz médica blogueira que atua na linha de frente contra a Covid-19 no Acre](https://epoca.globo.com/sociedade/vivo-cenas-de-filme-de-terror-diz-medica-blogueira-que-atua-na-linha-de-frente-contra-covid-19-no-acre-24451048)
 * [Um amigo sempre ajuda: adoção de animais aumenta na quarentena](https://oglobo.globo.com/rio/bairros/um-amigo-sempre-ajuda-adocao-de-animais-aumenta-na-quarentena-24453820)
 * [BNDES dá pontapé nas privatizações de saneamento com licitação de água e esgoto em Alagoas](https://oglobo.globo.com/economia/bndes-da-pontape-nas-privatizacoes-de-saneamento-com-licitacao-de-agua-esgoto-em-alagoas-24454044)
+* [Brasil já tem 27% dos shoppings reabertos](https://epoca.globo.com/guilherme-amado/brasil-ja-tem-27-dos-shoppings-reabertos-24453812)
 * [Planalto emprega mulher de acusado de integrar 'gabinete do ódio'](https://epoca.globo.com/guilherme-amado/planalto-emprega-mulher-de-acusado-de-integrar-gabinete-do-odio-24453673)
 * [Crítica | 'Sete dias em maio' (2019), de Affonso Uchoa, a vida militarizada e o maio de todos nós](https://epoca.globo.com/thiago-b-mendonca/critica-sete-dias-em-maio-2019-de-affonso-uchoa-vida-militarizada-o-maio-de-todos-nos-24449207)
 * [Comportamentos compulsivos e vícios podem surgir durante o isolamento social. Ou piorar](https://oglobo.globo.com/rio/bairros/comportamentos-compulsivos-vicios-podem-surgir-durante-isolamento-social-ou-piorar-1-24453086)
-* [Livro exalta a história de mulheres que deixaram sua marca na cidade de São Paulo](https://oglobo.globo.com/celina/livro-exalta-historia-de-mulheres-que-deixaram-sua-marca-na-cidade-de-sao-paulo-24452638)
 * [Saúde muda comunicação e tenta ressaltar dados 'positivos' do novo coronavírus](https://oglobo.globo.com/sociedade/saude-muda-comunicacao-tenta-ressaltar-dados-positivos-do-novo-coronavirus-24449501)

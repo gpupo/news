@@ -2,35 +2,35 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 14:08:56 UTC
+# indexed at 30/05/2020 14:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
 * [A simple way to get more value from metrics](https://danluu.com/metrics-analytics/)
-* [Oldest 'nearly complete' HIV genome found in forgotten tissue sample from 1966](https://www.livescience.com/oldest-hiv-genome.html)
-* [Why does OpenBSD still include Perl in its base installation?](https://marc.info/?l=openbsd-misc&m=159041121804486&w=2)
+* [Half of the Twitter accounts calling for reopening are bots](https://www.marketwatch.com/story/about-half-of-the-twitter-accounts-calling-for-reopening-america-are-probably-bots-report-2020-05-26)
+* [GPT-3: A Disappointing Paper](https://www.greaterwrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper)
+* [Files Discredit Accusation That Democrats Tried to Hack the Georgia Election](https://www.propublica.org/article/law-enforcement-files-discredit-brian-kemps-accusation-that-democrats-tried-to-hack-the-george-election)
 * [Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/)
 * [Meander: a procedural system for generating maps of rivers that never existed](http://roberthodgin.com/project/meander)
-* [The deepest ever sighting of an octopus, by cameras on the Indian Ocean floor](https://www.bbc.com/news/science-environment-52839678)
 * [Circle Packing](https://en.wikipedia.org/wiki/Circle_packing)
-* [GPT-3: A Disappointing Paper](https://www.greaterwrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper)
-* [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers)
+* [The deepest ever sighting of an octopus, by cameras on the Indian Ocean floor](https://www.bbc.com/news/science-environment-52839678)
 * [The Six Levels of Interaction with a System](https://www.charlieharrington.com/the-six-levels-of-interaction-with-a-system)
+* [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers)
 * [The Hard Part of Learning a Language](https://www.hillelwayne.com/post/learning-a-language/)
-* [Half of the Twitter accounts calling for reopening are bots](https://www.marketwatch.com/story/about-half-of-the-twitter-accounts-calling-for-reopening-america-are-probably-bots-report-2020-05-26)
 * [What is emergence?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
 * [Letters of a Radio-Engineer to His Son (1922)](https://www.gutenberg.org/files/30688/30688-h/30688-h.htm)
+* [Why does OpenBSD still include Perl in its base installation?](https://marc.info/?l=openbsd-misc&m=159041121804486&w=2)
+* [Oldest 'nearly complete' HIV genome found in forgotten tissue sample from 1966](https://www.livescience.com/oldest-hiv-genome.html)
 * [Why is Kubernetes getting so popular?](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/)
 * [Apple Mail randomly becomes the frontmost application in macOS](https://annoying.technology/posts/cd82d56f98e75afc/)
 * [Seven-year-olds as hackers, and why we should imitate them](https://herebeseaswines.net/essays/2020-05-29-seven-year-olds-as-hackers-and-why-we-should-imitate-them)
 * [Trash, leather, sleaze: how Gary Green shot New York's punk scene](https://www.theguardian.com/artanddesign/2020/may/28/gary-green-photograph-new-york-punk-scene)
-* [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/)
 * [Solar Orbiter to pass through the tails of Comet ATLAS](http://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_to_pass_through_the_tails_of_Comet_ATLAS)
-* [Mist Showers: Sustainable Decadence? (2019)](https://solar.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html)
-* [Astree – Optical ray tracing and design software](http://edeforas.free.fr/?p=305)
 * [Zoom Plans to Roll Out Strong Encryption for Paying Customers Only](https://www.reuters.com/article/us-zoom-encryption-exclusive/exclusive-zoom-plans-to-roll-out-strong-encryption-for-paying-customers-only-idUSKBN23600L)
+* [Astree – Optical ray tracing and design software](http://edeforas.free.fr/?p=305)
+* [Mist Showers: Sustainable Decadence? (2019)](https://solar.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html)
 * [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
 * [Frameworkless Movement](http://frameworklessmovement.org/)
 * [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
@@ -41,7 +41,7 @@ layout: default
 ## nytimes.com
 
 
-* [George Floyd Updates: ‘Absolute Chaos’ in Minneapolis as Protests Grow Across U.S.](https://www.nytimes.com/2020/05/29/us/floyd-protests-usa.html)
+* [George Floyd and Minneapolis Protests: Live Updates](https://www.nytimes.com/2020/05/30/us/george-floyd-minneapolis.html)
 * [Atlanta Protesters Clash With Police as Mayor Warns ‘You Are Disgracing Our City’](https://www.nytimes.com/2020/05/29/us/atlanta-protest-cnn-george-floyd.html)
 * [George Floyd Protests in N.Y.C.: Unrest in Brooklyn as de Blasio Appeals for Calm](https://www.nytimes.com/2020/05/30/nyregion/nyc-protests-george-floyd.html)
 * [Sprawling Protest Movement Treads Line Between Justice Agenda and Chaos](https://www.nytimes.com/2020/05/30/us/george-floyd-protest-minneapolis.html)
@@ -50,7 +50,7 @@ layout: default
 * [Twitter Had Been Drawing a Line for Months When Trump Crossed It](https://www.nytimes.com/2020/05/30/technology/twitter-trump-dorsey.html)
 * [While Twitter Confronts Trump, Zuckerberg Keeps Facebook Out of It](https://www.nytimes.com/2020/05/29/technology/twitter-facebook-zuckerberg-trump.html)
 * [Supreme Court, in 5-4 Decision, Rejects Church’s Challenge to Shutdown Order](https://www.nytimes.com/2020/05/30/us/supreme-court-churches-coronavirus.html)
-* [Live Coronavirus Pandemic World Updates](https://www.nytimes.com/2020/05/30/world/coronavirus-news-update.html)
+* [Live Coronavirus Pandemic Updates: Lake of the Ozarks, W.H.O., India](https://www.nytimes.com/2020/05/30/world/coronavirus-news-update.html)
 * [Trump Says U.S. Will Leave the W.H.O., Moves to Strip Hong Kong of Special U.S. Relationship](https://www.nytimes.com/2020/05/29/us/politics/trump-hong-kong-china-WHO.html)
 * [Hong Kong's Protest Movement, Faced with Beijing's Security Push, is In Crisis](https://www.nytimes.com/2020/05/29/world/asia/hong-kong-protest-future-china.html)
 * [In Hong Kong, Anxiety and Defiance Over Trump’s Move to Cut Ties](https://www.nytimes.com/2020/05/30/world/asia/hong-kong-trump-china.html)
@@ -80,23 +80,23 @@ layout: default
 * [Congress Plans Hearings on Racial Violence and Use of Force by the Police](https://www.nytimes.com/2020/05/29/us/politics/congress-hearings-racial-violence-police-force.html)
 * [Fund for Jeffrey Epstein’s Accusers Gets Attorney General’s Approval](https://www.nytimes.com/2020/05/29/business/jeffrey-epstein-victim-fund.html)
 * [Coronavirus Slams Broken, Embattled Yemen](https://www.nytimes.com/2020/05/30/world/middleeast/virus-yemen.html)
-* [What Time Is the SpaceX Launch? How to Watch](https://www.nytimes.com/2020/05/30/science/what-time-spacex-launch.html)
+* [Live SpaceX NASA Launch Updates](https://www.nytimes.com/2020/05/30/science/spacex-launch-nasa.html)
 * [The Central Park Video and #LivingWhileBlack in New York City](https://www.nytimes.com/2020/05/30/nyregion/central-park-video.html)
 * [Testing Is Key to Beating Coronavirus, Right? Japan Has Other Ideas](https://www.nytimes.com/2020/05/29/world/asia/japan-coronavirus.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [What Tracee Ellis Ross Worried About in ‘High Note’ (It Wasn’t Her Mom)](https://www.nytimes.com/2020/05/29/movies/tracee-ellis-ross-high-note.html)
 * [Returning, and Awakening, to the Beauty of Rural Alabama](https://www.nytimes.com/2020/05/28/travel/coronavirus-alabama-overlooked-beauty.html)
 * [The N+1 Candidate](https://www.nytimes.com/2020/05/28/style/nikil-saval-philadelphia-bernie-sanders.html)
 * [‘Soup’ So Vibrant, It’s Called ‘the Elixir of Life’](https://www.nytimes.com/2020/05/27/magazine/soup-so-vibrant-its-called-the-elixir-of-life.html)
 * [Mark Morris Gives Video Dances a Whirl](https://www.nytimes.com/2020/05/29/arts/dance/mark-morris-zoom-dance.html)
-* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
-* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
+* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
+* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Protests Continue to Rage After Death of George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-national-guard.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -104,12 +104,12 @@ layout: default
 ## globo.com
 
 
+* [Manifestante e policial morrem em protestos nos EUA contra morte de homem negro](https://oglobo.globo.com/mundo/manifestante-policial-morrem-em-protestos-nos-eua-contra-morte-de-homem-negro-1-24454455)
+* [Secretário de Polícia Civil pede demissão dias após Witzel ser alvo de operação da PF](https://oglobo.globo.com/rio/secretario-de-policia-civil-pede-demissao-dias-apos-witzel-ser-alvo-de-operacao-da-pf-24454490)
 * [Polícia Civil indicia três pessoas por ataques em manifestação de enfermeiros em Brasília](https://oglobo.globo.com/brasil/policia-civil-indicia-tres-pessoas-por-ataques-em-manifestacao-de-enfermeiros-em-brasilia-24454451)
-* [Secretário de Estado de Polícia Civil pede exoneração do cargo](https://oglobo.globo.com/rio/secretario-de-estado-de-policia-civil-pede-exoneracao-do-cargo-1-24454490)
 * [Cadê aquela live? Pesquisa aponta que 95% de toda a produção digital no mundo em 2020 será jogada fora](https://oglobo.globo.com/cultura/cade-aquela-live-pesquisa-aponta-que-95-de-toda-producao-digital-no-mundo-em-2020-sera-jogada-fora-24454459)
 * [Coronavírus: Medalhista no Pan é detido por surfar no Peru](https://oglobo.globo.com/esportes/coronavirus-medalhista-no-pan-detido-por-surfar-no-peru-24454463)
 * [Guarda municipal do Rio que completaria 20 anos na corporação morre por Covid](https://oglobo.globo.com/rio/guarda-municipal-do-rio-que-completaria-20-anos-na-corporacao-morre-por-covid-24454484)
-* [Manifestante e policial morrem em protestos nos EUA contra morte de homem negro](https://oglobo.globo.com/mundo/manifestante-policial-morrem-em-protestos-nos-eua-contra-morte-de-homem-negro-1-24454455)
 * [Governo alemão e Comissão Europeia fecham acordo sobre resgate da Lufthansa](https://oglobo.globo.com/economia/governo-alemao-comissao-europeia-fecham-acordo-sobre-resgate-da-lufthansa-24454446)
 * [Markinhos Moura: 'Artistas periféricos como eu continuam tendo que matar leões e mamutes todo dia'](https://oglobo.globo.com/cultura/markinhos-moura-artistas-perifericos-como-eu-continuam-tendo-que-matar-leoes-mamutes-todo-dia-24453241)
 * [Latam registra perdas de US$ 2,1 bilhões no primeiro trimestre, diante da pandemia da Covid-19](https://oglobo.globo.com/economia/latam-registra-perdas-de-us-21-bilhoes-no-primeiro-trimestre-diante-da-pandemia-da-covid-19-24454453)

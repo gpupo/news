@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 00:24:54 UTC
+# indexed at 30/05/2020 00:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [How does the Gmail unsubscribe button work?](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/)
 * [Mosquitoes kill more than 700k people every year](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
 * [Simplifier](https://simplifier.neocities.org/)
+* [1,700-Year-Old Board Game Found in Norwegian Burial Mound](https://www.lifeinnorway.net/archaeologists-find-roman-iron-age-board-game-in-norway/)
+* [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
 * [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
 * [Thermoelectric Stoves vs. Solar Panels](https://www.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
-* [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
-* [1,700-Year-Old Board Game Found in Norwegian Burial Mound](https://www.lifeinnorway.net/archaeologists-find-roman-iron-age-board-game-in-norway/)
 * [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
 * [Show HN: Awesomeblog.club – self-hostable directory for small blogs and links](https://awesomeblog.club)
-* [The surprising persistence of RSA keys in SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/SSHRSAKeysPersistence)
-* [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 * [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
-* [Designing an Authentication System: A Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html)
+* [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
+* [The surprising persistence of RSA keys in SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/SSHRSAKeysPersistence)
 * [A Visual Guide to React Mental Models: UseState, UseEffect and Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
+* [Designing an Authentication System: A Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html)
 * [What Do You Do with a Stolen van Gogh?](https://www.nytimes.com/2020/05/27/arts/design/van-gogh-stolen.html)
 * [Show HN: An API to store balances and transactions](https://news.ycombinator.com/item?id=23353970)
 * [Launch an App](https://danielgauthier.me/launch-an-app/)
-* [Software bug made Bombardier planes turn the wrong way](https://www.theregister.co.uk/2020/05/29/bombardier_missed_approach_bug/)
-* [Flexport is hiring software engineers](https://www.flexport.com/careers/department/engineering)
 * [US customs and border protection is flying a surveillance drone over Minneapolis](https://www.vice.com/en_us/article/5dzbe3/customs-and-border-protection-predator-drone-minneapolis-george-floyd)
 * [The tiniest C sort function? (2008)](https://www.cs.dartmouth.edu/~doug/tinysort.html)
+* [Flexport is hiring software engineers](https://www.flexport.com/careers/department/engineering)
+* [Software bug made Bombardier planes turn the wrong way](https://www.theregister.co.uk/2020/05/29/bombardier_missed_approach_bug/)
 * [Room 641A](https://en.wikipedia.org/wiki/Room_641A)
+* [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
 * [Colleges face student lawsuits seeking refunds after coronavirus closures](https://www.npr.org/2020/05/29/863804342/colleges-face-student-lawsuits-seeking-refunds-after-coronavirus-closures)
 * [Stoke – A stochastic superoptimizer and program synthesizer](http://stoke.stanford.edu/)
 * [Emulate legacy printer drivers for CUPS with QEMU](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
-* [Insider Build of VSCode for Windows/ARM64](https://github.com/microsoft/vscode/issues/33620#issuecomment-635367046)
 ## nytimes.com
 
 
@@ -85,19 +85,19 @@ layout: default
 * [Hydrogen as Fuel? An Italian Pasta Factory Shows How It Could Work](https://www.nytimes.com/2020/05/27/business/hydrogen-fuel-climate-change.html)
 * [The TV Commercial, Once Advertising’s Main Event, Suffers in the Pandemic](https://www.nytimes.com/2020/05/28/business/media/coronavirus-advertising.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Emma Amos, Painter Who Challenged Racism and Sexism, Dies at 83](https://www.nytimes.com/2020/05/29/arts/emma-amos-dead.html)
 * [Some Japanese Whiskies Aren’t From Japan. Some Aren’t Even Whisky.](https://www.nytimes.com/2020/05/29/dining/japanese-whisky.html)
 * [QuarantineChat Brings Back Spontaneity (and Distraction)](https://www.nytimes.com/2020/05/27/arts/quarantinechat-virus.html)
 * [Life Advice From a Dead Grandmother Who’s Returned as a Bird](https://www.nytimes.com/2020/05/29/books/review/parakeet-marie-helene-bertino.html)
 * [Viewing Party! Let’s All Watch ‘Some Like It Hot’!](https://www.nytimes.com/2020/05/28/movies/some-like-it-hot-marilyn-monroe.html)
-* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
-* [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
 * [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
+* [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
 * [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Why Amy Cooper’s Use of ‘African-American’ Stung](https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html)
 * [If We Had a Real Leader](https://www.nytimes.com/2020/05/28/opinion/coronavirus-trump.html)
 * [Trump’s ‘Horrifying Lies’ About Lori Klausutis May Cross a Legal Line](https://www.nytimes.com/2020/05/28/opinion/twitter-trump-scarborough.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 03:09:16 UTC
+# indexed at 30/05/2020 03:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -21,23 +21,23 @@ layout: default
 * [Simplifier](https://simplifier.neocities.org/)
 * [Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
 * [1,700-Year-Old Board Game Found in Norwegian Burial Mound](https://www.lifeinnorway.net/archaeologists-find-roman-iron-age-board-game-in-norway/)
+* [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
 * [Show HN: Awesomeblog.club – self-hostable directory for small blogs and links](https://awesomeblog.club)
+* [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
 * [Thermoelectric Stoves vs. Solar Panels](https://www.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
 * [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
-* [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
-* [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
 * [A Visual Guide to React Mental Models: UseState, UseEffect and Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
 * [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 * [Designing an Authentication System: A Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html)
 * [Show HN: An API to store balances and transactions](https://news.ycombinator.com/item?id=23353970)
 * [What Do You Do with a Stolen van Gogh?](https://www.nytimes.com/2020/05/27/arts/design/van-gogh-stolen.html)
-* [The surprising persistence of RSA keys in SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/SSHRSAKeysPersistence)
-* [Launch an App](https://danielgauthier.me/launch-an-app/)
 * [Software bug made Bombardier planes turn the wrong way](https://www.theregister.co.uk/2020/05/29/bombardier_missed_approach_bug/)
-* [Licenses in a Subscription World](https://wch.io/writing/startups-and-licenses)
+* [Launch an App](https://danielgauthier.me/launch-an-app/)
 * [US customs and border protection is flying a surveillance drone over Minneapolis](https://www.vice.com/en_us/article/5dzbe3/customs-and-border-protection-predator-drone-minneapolis-george-floyd)
-* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
+* [Licenses in a Subscription World](https://wch.io/writing/startups-and-licenses)
+* [Room 641A](https://en.wikipedia.org/wiki/Room_641A)
 * [The tiniest C sort function? (2008)](https://www.cs.dartmouth.edu/~doug/tinysort.html)
+* [Colleges face student lawsuits seeking refunds after coronavirus closures](https://www.npr.org/2020/05/29/863804342/colleges-face-student-lawsuits-seeking-refunds-after-coronavirus-closures)
 ## nytimes.com
 
 
@@ -48,7 +48,8 @@ layout: default
 * [How Trump's Twitter Remarks Escalate Growing Crisis in Minneapolis](https://www.nytimes.com/2020/05/29/us/politics/trump-looting-shooting.html)
 * [Twitter Places Warning on Trump Minneapolis Tweet, Saying It Glorified Violence](https://www.nytimes.com/2020/05/29/technology/trump-twitter-minneapolis-george-floyd.html)
 * [Trump Says U.S. Will Leave the W.H.O., Moves to Strip Hong Kong of Special U.S. Relationship](https://www.nytimes.com/2020/05/29/us/politics/trump-hong-kong-china-WHO.html)
-* [Coronavirus Live Updates: Sparring and Schedules Offer Window Into Pandemic’s Partisan Lens](https://www.nytimes.com/2020/05/29/us/coronavirus-us-usa.html)
+* [Hong Kong's Protest Movement, Faced with Beijing's Security Push, is In Crisis](https://www.nytimes.com/2020/05/29/world/asia/hong-kong-protest-future-china.html)
+* [Coronavirus Live Updates: Sparring and Schedules Offer Glimpse of Pandemic’s Partisan Lens](https://www.nytimes.com/2020/05/29/us/coronavirus-us-usa.html)
 * [Battered by Coronavirus Outbreak, NYC Finally Moves Toward Reopening](https://www.nytimes.com/2020/05/29/nyregion/coronavirus-nyc-reopening-dates.html)
 * [Blaming China for Pandemic, Trump Says U.S. Will Leave the W.H.O.](https://www.nytimes.com/2020/05/29/health/virus-who.html)
 * [‘The Pain Is Too Intense’: Joe Biden Challenges White Americans](https://www.nytimes.com/2020/05/29/us/politics/joe-biden-george-floyd.html)
@@ -84,20 +85,20 @@ layout: default
 * [In Brazil, Bolsonaro Lashes Out at Investigators](https://www.nytimes.com/2020/05/29/world/americas/brazil-bolsonaro-supreme-court.html)
 * [Hydrogen as Fuel? An Italian Pasta Factory Shows How It Could Work](https://www.nytimes.com/2020/05/27/business/hydrogen-fuel-climate-change.html)
 * [A Son’s Long Struggle to Clear His Family’s Name Is Only Half Won](https://www.nytimes.com/2020/05/29/world/asia/south-korea-prisoner-of-war.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Emma Amos, Painter Who Challenged Racism and Sexism, Dies at 83](https://www.nytimes.com/2020/05/29/arts/emma-amos-dead.html)
 * [Some Japanese Whiskies Aren’t From Japan. Some Aren’t Even Whisky.](https://www.nytimes.com/2020/05/29/dining/japanese-whisky.html)
 * [QuarantineChat Brings Back Spontaneity (and Distraction)](https://www.nytimes.com/2020/05/27/arts/quarantinechat-virus.html)
 * [Life Advice From a Dead Grandmother Who’s Returned as a Bird](https://www.nytimes.com/2020/05/29/books/review/parakeet-marie-helene-bertino.html)
 * [Viewing Party! Let’s All Watch ‘Some Like It Hot’!](https://www.nytimes.com/2020/05/28/movies/some-like-it-hot-marilyn-monroe.html)
-* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
-* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
-* [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
 * [Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts](https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
+* [Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says](https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html)
+* [When Coral’s Colorful Show Is a Sign That It’s Sick](https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html)
 * [Why Amy Cooper’s Use of ‘African-American’ Stung](https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html)
 * [If We Had a Real Leader](https://www.nytimes.com/2020/05/28/opinion/coronavirus-trump.html)
 * [Trump’s ‘Horrifying Lies’ About Lori Klausutis May Cross a Legal Line](https://www.nytimes.com/2020/05/28/opinion/twitter-trump-scarborough.html)

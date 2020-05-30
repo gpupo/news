@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/05/2020 12:11:56 UTC
+# indexed at 30/05/2020 12:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Why does OpenBSD still include Perl in its base installation?](https://marc.info/?l=openbsd-misc&m=159041121804486&w=2)
 * [Why is Apple Mail randomly becoming the frontmost app](https://annoying.technology/posts/cd82d56f98e75afc/)
 * [Oldest 'nearly complete' HIV genome found in forgotten tissue sample from 1966](https://www.livescience.com/oldest-hiv-genome.html)
+* [Riot Medicine](https://riotmedicine.net/)
 * [The Hard Part of Learning a Language](https://www.hillelwayne.com/post/learning-a-language/)
 * [Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/)
 * [The deepest ever sighting of an octopus, by cameras on the Indian Ocean floor](https://www.bbc.com/news/science-environment-52839678)
 * [Meander: a procedural system for generating maps of rivers that never existed](http://roberthodgin.com/project/meander)
 * [Circle Packing](https://en.wikipedia.org/wiki/Circle_packing)
 * [What is emergence?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
-* [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
 * [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers)
-* [Huawei builds up 2-year reserve of 'most important' US chips](https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-builds-up-2-year-reserve-of-most-important-US-chips)
-* [The Subtle Dangers of the Comma Operator (C++)](https://humanreadablemag.com/issues/3/articles/the-subtle-dangers-of-the-comma-operator)
+* [SpaceX Starship SN4 launch vehicle prototype explodes after static engine test](https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/)
 * [Why is Kubernetes getting so popular?](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/)
-* [Riot Medicine, a public domain book to help street medics](https://riotmedicine.net/)
+* [The Subtle Dangers of the Comma Operator (C++)](https://humanreadablemag.com/issues/3/articles/the-subtle-dangers-of-the-comma-operator)
 * [Surveillance tools used by the Minneapolis Police Department](https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology)
-* [The nightmare that colleges face this fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
 * [Solar Orbiter to pass through the tails of Comet ATLAS](http://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_to_pass_through_the_tails_of_Comet_ATLAS)
-* [Taking Lessons from a Bloody Masterpiece](https://www.nytimes.com/interactive/2020/05/28/arts/design/thomas-eakins-gross-clinic.html)
+* [The nightmare that colleges face this fall](https://www.theatlantic.com/politics/archive/2020/05/will-college-campuses-reopen/611794/)
+* [Huawei builds up 2-year reserve of 'most important' US chips](https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-builds-up-2-year-reserve-of-most-important-US-chips)
 * [Seven-year-olds as hackers, and why we should imitate them](https://herebeseaswines.net/essays/2020-05-29-seven-year-olds-as-hackers-and-why-we-should-imitate-them)
-* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
-* [Trash, leather, sleaze: how Gary Green shot New York's punk scene](https://www.theguardian.com/artanddesign/2020/may/28/gary-green-photograph-new-york-punk-scene)
-* [Zoom Plans to Roll Out Strong Encryption for Paying Customers Only](https://www.reuters.com/article/us-zoom-encryption-exclusive/exclusive-zoom-plans-to-roll-out-strong-encryption-for-paying-customers-only-idUSKBN23600L)
 * [Letters of a Radio-Engineer to His Son (1922)](https://www.gutenberg.org/files/30688/30688-h/30688-h.htm)
-* [Astree 1.22 – optical ray tracing and design software](http://edeforas.free.fr/?p=305)
-* [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
+* [Zoom Plans to Roll Out Strong Encryption for Paying Customers Only](https://www.reuters.com/article/us-zoom-encryption-exclusive/exclusive-zoom-plans-to-roll-out-strong-encryption-for-paying-customers-only-idUSKBN23600L)
+* [Career Choice Tip: Cybercrime Is Mostly Boring](https://krebsonsecurity.com/2020/05/career-choice-tip-cybercrime-is-mostly-boring/)
+* [Taking Lessons from a Bloody Masterpiece](https://www.nytimes.com/interactive/2020/05/28/arts/design/thomas-eakins-gross-clinic.html)
+* [Trash, leather, sleaze: how Gary Green shot New York's punk scene](https://www.theguardian.com/artanddesign/2020/may/28/gary-green-photograph-new-york-punk-scene)
 * [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/)
-* [Frameworkless Movement](http://frameworklessmovement.org/)
+* [Mist Showers: Sustainable Decadence? (2019)](https://solar.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html)
+* [Godot Editor running in a web browser](https://godotengine.org/article/godot-editor-running-web-browser)
+* [Astree – Optical ray tracing and design software](http://edeforas.free.fr/?p=305)
 * [ECMAScript 4: The Missing Version](https://evertpot.com/ecmascript-4-the-missing-version/)
-* [Matrix calculus for deep learning part 2](https://kirankamath.netlify.app/blog/matrix-calculus-for-deeplearning-part2/)
+* [Frameworkless Movement](http://frameworklessmovement.org/)
 ## nytimes.com
 
 
@@ -83,17 +83,17 @@ layout: default
 * [The Central Park Video and #LivingWhileBlack in New York City](https://www.nytimes.com/2020/05/30/nyregion/central-park-video.html)
 * [Testing Is Key to Beating Coronavirus, Right? Japan Has Other Ideas](https://www.nytimes.com/2020/05/29/world/asia/japan-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [What Tracee Ellis Ross Worried About in ‘High Note’ (It Wasn’t Her Mom)](https://www.nytimes.com/2020/05/29/movies/tracee-ellis-ross-high-note.html)
 * [Returning, and Awakening, to the Beauty of Rural Alabama](https://www.nytimes.com/2020/05/28/travel/coronavirus-alabama-overlooked-beauty.html)
 * [The N+1 Candidate](https://www.nytimes.com/2020/05/28/style/nikil-saval-philadelphia-bernie-sanders.html)
 * [‘Soup’ So Vibrant, It’s Called ‘the Elixir of Life’](https://www.nytimes.com/2020/05/27/magazine/soup-so-vibrant-its-called-the-elixir-of-life.html)
 * [Mark Morris Gives Video Dances a Whirl](https://www.nytimes.com/2020/05/29/arts/dance/mark-morris-zoom-dance.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [Protests Continue to Rage After Death of George Floyd](https://www.nytimes.com/2020/05/28/us/george-floyd-national-guard.html)
@@ -103,12 +103,12 @@ layout: default
 ## globo.com
 
 
+* [Polícia Civil indicia três pessoas por ataques em manifestação de enfermeiros em Brasília](https://oglobo.globo.com/brasil/policia-civil-indicia-tres-pessoas-por-ataques-em-manifestacao-de-enfermeiros-em-brasilia-24454451)
 * ['A única maneira de conseguirmos o que realmente queremos é através da não-violência', diz Bernice King sobre protestos nos EUA](https://oglobo.globo.com/mundo/a-unica-maneira-de-conseguirmos-que-realmente-queremos-atraves-da-nao-violencia-diz-bernice-king-sobre-protestos-nos-eua-24454424)
 * [Berlim e Bruxelas fecham acordo sobre condições de resgate da Lufthansa](https://oglobo.globo.com/economia/berlim-bruxelas-fecham-acordo-sobre-condicoes-de-resgate-da-lufthansa-24454446)
 * [Datafolha: 67% reprovam e 20% aprovam aproximação de Bolsonaro com o Centrão](https://oglobo.globo.com/brasil/datafolha-67-reprovam-20-aprovam-aproximacao-de-bolsonaro-com-centrao-24454440)
 * [Revista Forbes diz que Kylie Jenner forjou documentos para entrar em lista de bilionários](https://oglobo.globo.com/ela/gente/revista-forbes-diz-que-kylie-jenner-forjou-documentos-para-entrar-em-lista-de-bilionarios-24454417)
 * [Com pandemia, governo federal decide acelerar digitalização dos serviços](https://oglobo.globo.com/economia/com-pandemia-governo-federal-decide-acelerar-digitalizacao-dos-servicos-24454416)
-* [Três erros mais comuns quando se aplica máscara capilar no chuveiro](https://oglobo.globo.com/ela/beleza/cabelo/tres-erros-mais-comuns-quando-se-aplica-mascara-capilar-no-chuveiro-24454401)
 * [Defensoria pede que Justiça retire tornozeleira eletrônica de suposto hacker da Vaza Jato](https://epoca.globo.com/guilherme-amado/defensoria-pede-que-justica-retire-tornozeleira-eletronica-de-suposto-hacker-da-vaza-jato-24453861)
 * [Entrevista | 'Voltamos para o humor combativo da época da ditadura', diz Arnaldo Branco](https://epoca.globo.com/colunistas/entrevista-voltamos-para-humor-combativo-da-epoca-da-ditadura-diz-arnaldo-branco-24452209)
 * [COLUNA | Bolsonaro nos convida à humanidade zumbi](https://epoca.globo.com/coluna-bolsonaro-nos-convida-humanidade-zumbi-24452585)

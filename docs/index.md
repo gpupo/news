@@ -2,27 +2,29 @@
 layout: default
 ---
 
-# indexed at 31/05/2020 10:34:44 UTC
+# indexed at 31/05/2020 11:08:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [UK Gov using Signal's disappearing messages to evade FOI](https://www.private-eye.co.uk/issue-1522/news)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
 * [Major Linux Problems on the Desktop, 2020 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
-* [Google Gave Away Our Business Listing to a Competitor, Our Fight to Get It Back](https://www.parkcityluxuryrealestate.com/blog/google-gave-our-our-business-listing-to-a-competitor-and-our-fight-to-get-it-back.html)
 * [Show HN: Go Micro – A distributed systems development framework](https://go-micro.dev?new)
+* [Google Gave Away Our Business Listing to a Competitor, Our Fight to Get It Back](https://www.parkcityluxuryrealestate.com/blog/google-gave-our-our-business-listing-to-a-competitor-and-our-fight-to-get-it-back.html)
+* [UK government MPs are using Signal’s automatic deletion feature](https://www.private-eye.co.uk/issue-1522/news)
+* [Detecting a 2.4 GHz transmission for under 1 EUR](https://www.chzsoft.de/site/hardware/detecting-a-2.4-ghz-transmission-for-under-1-eur/)
+* [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
 * [Making a SNES game in 2020 using modern tools](https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020)
 * [Show HN: I made a simple PDF text editor](https://simpdf.com/)
-* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
-* [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
+* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
 * [Show HN: Findyour.blog – Get your blog rated and reviewed by authors/readers](https://www.findyour.blog/)
 * [In marginal decisions, favour action over inaction](https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction)
 * [Finding secrets by decompiling Python bytecode in public repositories](https://blog.jse.li/posts/pyc/)
 * [Dragon capsule runs on Linux, C++, Chromium UIs](https://space.stackexchange.com/a/9446)
 * [Unity MMORPG Boilerplate - Multiplayer in Unity Made Easy](https://github.com/valkyrienyanko/Unity-MMORPG-Boilerplate)
+* [Featherweight Go](https://arxiv.org/abs/2005.11710)
 * [Show HN: Open GIF Search](http://opengif.net)
 * [The Myers diff algorithm that is used in Git (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 * [A more efficient matching engine for HTTPS Everywhere](https://remusao.github.io/posts/efficient-https-everywhere-engine.html)
@@ -30,14 +32,12 @@ layout: default
 * [Nukemap](https://nuclearsecrecy.com/nukemap/)
 * [How to Safely and Ethically Film Police Misconduct](https://www.teenvogue.com/story/how-to-film-police-safely)
 * [Show HN: Caldera – Phoenix LiveView for Node and React](https://github.com/calderajs/caldera-react)
-* [How to write an Amstrad CPC emulator](http://www.irespa.eu/daan/lib/howtoCPCemu.htm)
-* [8-Bit Spirituals](http://blog.fogus.me/2020/05/20/8-bit-spirituals/)
-* [Show HN: `fzf` * `Git` done right](https://github.com/bigH/git-fuzzy)
 * [Why Artificial Brains Need Sleep](https://www.discovermagazine.com/technology/why-artificial-brains-need-sleep)
+* [Show HN: `fzf` * `Git` done right](https://github.com/bigH/git-fuzzy)
+* [How to write an Amstrad CPC emulator](http://www.irespa.eu/daan/lib/howtoCPCemu.htm)
 * [The Unix Operating System (1982) [video]](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 * [My Messy Analytics Breakup](https://www.digitalinklingsblog.com/my-messy-analytics-breakup/)
-* [Beekeeper Studio is a free and open source SQL editor and database manager](https://github.com/beekeeper-studio/beekeeper-studio)
-* [Show HN: Ratemydorm.com](https://ratemydorm.com/)
+* [8-Bit Spirituals](http://blog.fogus.me/2020/05/20/8-bit-spirituals/)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [Kris Kobach Is Back, and a Kansas Senate Seat May Be Up for Grabs](https://www.nytimes.com/2020/05/30/us/politics/kansas-senate-kobach.html)
 * [Western Countries Leave Children of ISIS in Syrian Camps](https://www.nytimes.com/2020/05/31/world/middleeast/isis-children-syria-camps.html)
 * [‘They’re Just Doing Whatever They Want’: Few Masks Are Seen as Beach Town Reopens](https://www.nytimes.com/2020/05/30/us/politics/ocean-city-maryland-masks-virus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [An Artist Who Delights in the Minor Key](https://www.nytimes.com/2020/05/29/t-magazine/moyra-davey.html)
 * [Comedy Tonight: ‘S.N.L.’ Then and Now](https://www.nytimes.com/2020/05/29/books/review/a-very-punchable-face-colin-jost.html)
 * [Feminist Rap Group in Iceland Looks Abroad After Making a Stir at Home](https://www.nytimes.com/2020/05/29/arts/music/daughters-of-reykjavik.html)
 * [The Perseverance of André Watts](https://www.nytimes.com/2020/05/28/well/live/the-perseverance-of-andre-watts.html)
 * [15 Summer TV Shows We’re Looking Forward To](https://www.nytimes.com/2020/05/27/arts/television/summer-tv-shows.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [What Top Conservatives Are Saying About George Floyd and Police Brutality](https://www.nytimes.com/2020/05/30/us/politics/george-floyd-tucker-carlson-rush-limbaugh.html)
 * [President Trump Is a Doughnut](https://www.nytimes.com/2020/05/29/opinion/trump-2020-election.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Quinta noite de protestos nos EUA tem uma morte e toque de recolher](https://oglobo.globo.com/mundo/quinta-noite-de-protestos-nos-eua-tem-uma-morte-toque-de-recolher-24455226)
 * [Cauã Reymond prepara série sobre bastidores do mundo do futebol](https://epoca.globo.com/guilherme-amado/caua-reymond-prepara-serie-sobre-bastidores-do-mundo-do-futebol-1-24453982)
 * [Alvo da PF, blogueiro bolsonarista também é investigado por injúria na Justiça de São Paulo](https://epoca.globo.com/guilherme-amado/alvo-da-pf-blogueiro-bolsonarista-tambem-investigado-por-injuria-na-justica-de-sao-paulo-24453948)
 * [Justiça nega pedido da Fogo de Chão para sigilo em ação indenizatória por demissão em massa](https://epoca.globo.com/guilherme-amado/justica-nega-pedido-da-fogo-de-chao-para-sigilo-em-acao-indenizatoria-por-demissao-em-massa-1-24455112)
 * [62% dos brasileiros acreditam que atrasarão contas na pandemia](https://epoca.globo.com/guilherme-amado/62-dos-brasileiros-acreditam-que-atrasarao-contas-na-pandemia-1-24453932)
-* [Brasil 1-7 Alemanha: por que vale a pena rever uma derrota como o Mineirazo](https://oglobo.globo.com/esportes/brasil-1-7-alemanha-por-que-vale-pena-rever-uma-derrota-como-mineirazo-1-24455117)
-* [BrazilFoundation arrecada R$ 7,8 milhões em campanha global contra Covid-19 no país](https://epoca.globo.com/sociedade/brazilfoundation-arrecada-78-milhoes-em-campanha-global-contra-covid-19-no-pais-24453328)
 * [Conservatório de Música de Niterói em ritmo virtual](https://oglobo.globo.com/rio/bairros/conservatorio-de-musica-de-niteroi-em-ritmo-virtual-1-24453890)
 * [ARTIGO | Comida simples é poesia em tempos de isolamento social](https://epoca.globo.com/artigo-comida-simples-poesia-em-tempos-de-isolamento-social-24452457)
+* [Artigo | Costa Rica: O novo rico da América Latina](https://epoca.globo.com/colunistas/artigo-costa-rica-novo-rico-da-america-latina-24452670)
 * [Telemedicina: alternativa para evitar riscos em tempos de coronavírus](https://oglobo.globo.com/rio/bairros/telemedicina-alternativa-para-evitar-riscos-em-tempos-de-coronavirus-24453619)
 * [Covid-19: Niterói vai lançar site para dar transparência ao plano de transição](https://oglobo.globo.com/rio/bairros/covid-19-niteroi-vai-lancar-site-para-dar-transparencia-ao-plano-de-transicao-24453690)

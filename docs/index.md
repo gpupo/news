@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/05/2020 18:10:06 UTC
+# indexed at 31/05/2020 18:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -10,7 +10,7 @@ layout: default
 
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
 * [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
-* [(Very) Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
+* [Basic Intro to Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
 * [Xfce switches to GitLab](https://simon.shimmerproject.org/2020/04/30/xfce-switches-to-gitlab/)
 * [Autism severity can change substantially during early childhood, study suggests](https://health.ucdavis.edu/health-news/contenthub/autism-severity-can-change-substantially-during-early-childhood/2020/05)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
@@ -18,26 +18,26 @@ layout: default
 * [The rise of React](https://increment.com/frontend/the-rise-of-react/)
 * [Measuring keyboard-to-photon latency with a light sensor](https://thume.ca/2020/05/20/making-a-latency-tester/)
 * [Google gave our business listing to a competitor](https://www.parkcityluxuryrealestate.com/blog/google-gave-our-our-business-listing-to-a-competitor-and-our-fight-to-get-it-back.html)
+* [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
 * [Featherweight Go](https://arxiv.org/abs/2005.11710)
 * [Crew Dragon Docks with ISS](https://spacenews.com/crew-dragon-docks-with-iss-2/)
 * [Introduction to K-nearest neighbour algorithm using Sklear](https://ranvir.xyz/blog/k-nearest-neighbor-algorithm-using-sklearn-distance-metric/)
 * [Chemical analysis and origin of the smell of line-dried laundry](https://www.publish.csiro.au/en/EN19206)
-* [Vibe: Video Human Pose Estimation](https://github.com/mkocabas/VIBE)
-* [Rootless Containers](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
+* [Would you buy an $800 Sushi Box?](https://thelandofrandom.substack.com/p/-the-800-sushi-box-btc-battle-royale)
 * [Kindly Stop Saying the Efficient Market Hypothesis Is Dead](https://thedeepdish.org/efficient-market-hypothesis-is-not-dead/)
-* [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
+* [Rootless Containers](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
 * [CI/CD on a budget for open source projects](https://danmunro.com/posts/ci-cd-on-a-budget-for-open-source-projects/)
+* [Vibe: Video Human Pose Estimation](https://github.com/mkocabas/VIBE)
 * [What computer and software is used by the Falcon 9?](https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Detecting a 2.4 GHz transmission for under 1 EUR](https://www.chzsoft.de/site/hardware/detecting-a-2.4-ghz-transmission-for-under-1-eur/)
+* [Liquid Cities: Japanese architecture and science fiction](https://placesjournal.org/article/liquid-cities)
 * [In marginal decisions, favour action over inaction](https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction)
-* [Lost London venues that helped launch Hendrix, Winehouse and punk](https://www.theguardian.com/artanddesign/2020/may/31/tracing-the-lost-london-venues-that-helped-launch-amy-winehouse-hendrix-and-punk)
 * [Court OKs Barring High IQs for Cops (2000)](https://abcnews.go.com/US/court-oks-barring-high-iqs-cops/story?id=95836)
-* [The God Trick: ‘In the Shadow of Justice’](https://www.commonwealmagazine.org/god-trick)
+* [Lost London venues that helped launch Hendrix, Winehouse and punk](https://www.theguardian.com/artanddesign/2020/may/31/tracing-the-lost-london-venues-that-helped-launch-amy-winehouse-hendrix-and-punk)
 * [Review: Lamy Safari (2008)](https://www.penaddict.com/blog/2008/11/24/review-lamy-safari.html)
+* [The God Trick: ‘In the Shadow of Justice’](https://www.commonwealmagazine.org/god-trick)
 * [Show HN: Go Micro – A distributed systems development framework](https://go-micro.dev?new)
-* [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
-* [Show HN: Findyour.blog – Get your blog rated and reviewed by authors/readers](https://www.findyour.blog/)
 ## nytimes.com
 
 
@@ -80,21 +80,21 @@ layout: default
 * [Mexico’s President Says Most Domestic Violence Calls Are ‘Fake’](https://www.nytimes.com/2020/05/31/world/americas/violence-women-mexico-president.html)
 * [Resisting Lockdown, Nicaragua Becomes a Place of Midnight Burials](https://www.nytimes.com/2020/05/31/world/americas/coronavirus-nicaragua-burials.html)
 * [Herb Stempel, Quiz Show Whistle-Blower, Is Dead at 93](https://www.nytimes.com/2020/05/31/us/herbert-stempel-dead.html)
-* [Russians Are Angry, but Putin’s Foes Struggle to Seize the Moment](https://www.nytimes.com/2020/05/29/world/europe/russia-navalny-putin-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [Risky Strategy by Many Private Colleges Leaves Them Exposed](https://www.nytimes.com/2020/05/26/upshot/virus-colleges-risky-strategy.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How the Manager of a Massive Housing Complex Spends His Sundays](https://www.nytimes.com/2020/05/29/nyregion/coronavirus-Stuyvesant-Town-Peter-Cooper-Village-NYC.html)
 * [The World in a Jewelry Box](https://www.nytimes.com/2020/05/29/travel/the-world-in-a-jewelry-box.html)
 * [Review: ‘Quiz’ Has a Big Question but No Final Answer](https://www.nytimes.com/2020/05/29/arts/television/review-quiz.html)
 * [Keep These Recipes](https://www.nytimes.com/2020/05/29/dining/keep-these-recipes.html)
 * [How to Organize Your Closet](https://www.nytimes.com/2020/05/30/style/how-to-organize-your-closet.html)
+* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
-* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [Loving the Lockdown](https://www.nytimes.com/2020/05/29/realestate/coronavirus-lockdown-coping.html)
 * [Don’t Save Those Old Bananas for Banana Bread. Make Scones Instead.](https://www.nytimes.com/2020/05/29/dining/banana-bread-scones-coronavirus.html)
 * [What Top Conservatives Are Saying About George Floyd and Police Brutality](https://www.nytimes.com/2020/05/30/us/politics/george-floyd-tucker-carlson-rush-limbaugh.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Manifestações pró-democracia têm confronto entre torcedores, bolsonaristas e policiais em São Paulo e no Rio](https://oglobo.globo.com/brasil/manifestacoes-pro-democracia-tem-confronto-entre-torcedores-bolsonaristas-policiais-em-sao-paulo-no-rio-24455456)
+* [Veja recordes e marcas históricas que Fred pode quebrar no retorno ao Fluminense](https://oglobo.globo.com/esportes/fluminense/veja-recordes-marcas-historicas-que-fred-pode-quebrar-no-retorno-ao-fluminense-24455181)
+* [Embraer deve obter financiamento de BNDES e bancos privados de US$600 mi em junho, diz agência](https://oglobo.globo.com/economia/embraer-deve-obter-financiamento-de-bndes-bancos-privados-de-us600-mi-em-junho-diz-agencia-24455472)
+* [Fluminense anuncia a volta de Fred, que ganhará dois salários mínimos até o Brasileirão](https://oglobo.globo.com/esportes/fluminense/fluminense-anuncia-volta-de-fred-que-ganhara-dois-salarios-minimos-ate-brasileirao-24454659)
+* [Manifestações têm confronto entre torcedores, bolsonaristas e policiais em São Paulo e no Rio](https://oglobo.globo.com/brasil/manifestacoes-tem-confronto-entre-torcedores-bolsonaristas-policiais-em-sao-paulo-no-rio-24455456)
+* [Sociedade se move contra a barbárie, mas ‘mercado’ ainda sustenta Bolsonaro](https://epoca.globo.com/sociedade-se-move-contra-barbarie-mas-mercado-ainda-sustenta-bolsonaro-24455471)
 * [Torcidas organizadas saem às ruas em defesa da democracia em São Paulo, Minas e Rio](https://oglobo.globo.com/brasil/torcidas-organizadas-saem-as-ruas-em-defesa-da-democracia-em-sao-paulo-minas-rio-24455430)
 * [Médico de Parintins relata reinfecção pelo coronavírus](https://oglobo.globo.com/sociedade/medico-de-parintins-relata-reinfeccao-pelo-coronavirus-1-24455416)
 * [Trump adia encontro do G7 e quer adicionar países à lista de convidados](https://oglobo.globo.com/economia/trump-adia-encontro-do-g7-quer-adicionar-paises-lista-de-convidados-24455431)
 * [Cinco homens morrem baleados durante perseguição policial em Niterói](https://oglobo.globo.com/rio/cinco-homens-morrem-baleados-durante-perseguicao-policial-em-niteroi-1-24455399)
 * [Video: Câmera do STF mostra que manifestação dos '300' não reuniu nem 30](https://epoca.globo.com/guilherme-amado/video-camera-do-stf-mostra-que-manifestacao-dos-300-nao-reuniu-nem-30-24455417)
-* [Barcelona ofereceu Coutinho ao Tottenham, mas Mourinho desaprovou, diz jornal](https://oglobo.globo.com/esportes/barcelona-ofereceu-coutinho-ao-tottenham-mas-mourinho-desaprovou-diz-jornal-24455359)
-* [Papa retoma bênção diante dos fiéis e manifesta preocupação com povos da Amazônia](https://oglobo.globo.com/sociedade/religiao/papa-retoma-bencao-diante-dos-fieis-manifesta-preocupacao-com-povos-da-amazonia-24455345)
-* [Policiais israelenses matam palestino com transtorno mental por engano](https://oglobo.globo.com/mundo/policiais-israelenses-matam-palestino-com-transtorno-mental-por-engano-24455381)
-* [Os 10 maiores surfistas da história do Brasil; veja o ranking](https://oglobo.globo.com/esportes/os-10-maiores-surfistas-da-historia-do-brasil-veja-ranking-1-24446731)

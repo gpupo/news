@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/05/2020 09:09:10 UTC
+# indexed at 31/05/2020 09:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
 * [Google Gave Away Our Business Listing to a Competitor, Our Fight to Get It Back](https://www.parkcityluxuryrealestate.com/blog/google-gave-our-our-business-listing-to-a-competitor-and-our-fight-to-get-it-back.html)
 * [Show HN: I made a simple PDF text editor](https://simpdf.com/)
-* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
 * [Making a SNES game in 2020 using modern tools](https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020)
+* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
+* [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Finding secrets by decompiling Python bytecode in public repositories](https://blog.jse.li/posts/pyc/)
+* [Show HN: Findyour.blog – Get your blog rated and reviewed by authors/readers](https://www.findyour.blog/)
 * [Unity MMORPG Boilerplate - Multiplayer in Unity Made Easy](https://github.com/valkyrienyanko/Unity-MMORPG-Boilerplate)
 * [Show HN: Open GIF Search](http://opengif.net)
 * [The Myers diff algorithm that is used in Git (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
-* [All-electric Cessna Grand Caravan makes maiden flight](https://www.flightglobal.com/airframers/all-electric-grand-caravan-makes-maiden-flight/138600.article)
-* [Show HN: Findyour.blog – Get your blog rated and reviewed by authors/readers](https://www.findyour.blog/)
 * [A more efficient matching engine for HTTPS Everywhere](https://remusao.github.io/posts/efficient-https-everywhere-engine.html)
+* [All-electric Cessna Grand Caravan makes maiden flight](https://www.flightglobal.com/airframers/all-electric-grand-caravan-makes-maiden-flight/138600.article)
 * [Nukemap](https://nuclearsecrecy.com/nukemap/)
-* [Beekeeper Studio is a free and open source SQL editor and database manager](https://github.com/beekeeper-studio/beekeeper-studio)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
-* [Show HN: Caldera – Phoenix LiveView for Node and React](https://github.com/calderajs/caldera-react)
-* [How to write an Amstrad CPC emulator](http://www.irespa.eu/daan/lib/howtoCPCemu.htm)
 * [How to Safely and Ethically Film Police Misconduct](https://www.teenvogue.com/story/how-to-film-police-safely)
+* [Beekeeper Studio is a free and open source SQL editor and database manager](https://github.com/beekeeper-studio/beekeeper-studio)
+* [Show HN: Caldera – Phoenix LiveView for Node and React](https://github.com/calderajs/caldera-react)
 * [Show HN: `fzf` * `Git` done right](https://github.com/bigH/git-fuzzy)
-* [My Messy Analytics Breakup](https://www.digitalinklingsblog.com/my-messy-analytics-breakup/)
+* [How to write an Amstrad CPC emulator](http://www.irespa.eu/daan/lib/howtoCPCemu.htm)
 * [Dragon capsule runs on Linux, C++, Chromium UIs](https://space.stackexchange.com/a/9446)
 * [Why Artificial Brains Need Sleep](https://www.discovermagazine.com/technology/why-artificial-brains-need-sleep)
-* [Fuchsia overview](https://fuchsia.dev/fuchsia-src/concepts)
-* [Show HN: Ratemydorm.com](https://ratemydorm.com/)
 * [The Unix Operating System (1982) [video]](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-* [Rust: Dropping heavy things in another thread can make your code 10000x faster](https://abramov.io/rust-dropping-things-in-another-thread)
+* [Fuchsia overview](https://fuchsia.dev/fuchsia-src/concepts)
+* [My Messy Analytics Breakup](https://www.digitalinklingsblog.com/my-messy-analytics-breakup/)
+* [Show HN: Ratemydorm.com](https://ratemydorm.com/)
 * [I wrote a beginners guide to Kubernetes](https://www.learncloudnative.com/blog/2020-05-26-getting-started-with-kubernetes-part-1/)
+* [Rust: Dropping heavy things in another thread can make your code 10000x faster](https://abramov.io/rust-dropping-things-in-another-thread)
 * [Why do C to Z80 compilers produce poor code? (2018)](https://retrocomputing.stackexchange.com/questions/6095/why-do-c-to-z80-compilers-produce-poor-code)
-* [StoneCutter: A Very High Level Instruction Set Design Language](https://doi.org/10.1145/3387902.3394029)
 ## nytimes.com
 
 
@@ -81,19 +81,19 @@ layout: default
 * [China and India Brawl at 14,000 Feet Along the Border](https://www.nytimes.com/2020/05/30/world/asia/india-china-border.html)
 * [She Accused a Coach of Abuse. Then More Than 30 Gymnasts Backed Her Up.](https://www.nytimes.com/2020/05/29/sports/gymnastics-emotional-abuse-chelsea-piers.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [An Artist Who Delights in the Minor Key](https://www.nytimes.com/2020/05/29/t-magazine/moyra-davey.html)
 * [Comedy Tonight: ‘S.N.L.’ Then and Now](https://www.nytimes.com/2020/05/29/books/review/a-very-punchable-face-colin-jost.html)
 * [Feminist Rap Group in Iceland Looks Abroad After Making a Stir at Home](https://www.nytimes.com/2020/05/29/arts/music/daughters-of-reykjavik.html)
 * [The Perseverance of André Watts](https://www.nytimes.com/2020/05/28/well/live/the-perseverance-of-andre-watts.html)
 * [15 Summer TV Shows We’re Looking Forward To](https://www.nytimes.com/2020/05/27/arts/television/summer-tv-shows.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
-* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
+* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [President Trump Is a Doughnut](https://www.nytimes.com/2020/05/29/opinion/trump-2020-election.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Volta às aulas em debate: propostas vão de 'apagar' primeiro semestre a corte de carga horária](https://oglobo.globo.com/sociedade/volta-as-aulas-em-debate-propostas-vao-de-apagar-primeiro-semestre-corte-de-carga-horaria-1-24454377)
 * [Bartenders se reinventam e apostam em serviço de delivery de drinques no Rio](https://oglobo.globo.com/rio/bartenders-se-reinventam-apostam-em-servico-de-delivery-de-drinques-no-rio-24455184)
 * [Sem espetáculos, circenses dependem de doação de alimentos para sobreviver](https://epoca.globo.com/sociedade/sem-espetaculos-circenses-dependem-de-doacao-de-alimentos-para-sobreviver-24449098)
 * [Lewandowski abre vantagem sobre Cristiano Ronaldo e Messi na disputa pela Chuteira de Ouro](https://oglobo.globo.com/esportes/lewandowski-abre-vantagem-sobre-cristiano-ronaldo-messi-na-disputa-pela-chuteira-de-ouro-24455051)
 * [Primeira-dama do RJ diz que clientes afirmavam não ter contrato com governo estadual](https://epoca.globo.com/guilherme-amado/primeira-dama-do-rj-diz-que-clientes-afirmavam-nao-ter-contrato-com-governo-estadual-24455132)
 * [Brasil 1-7 Alemanha: por que vale a pena rever uma derrota como o Mineirazo](https://oglobo.globo.com/esportes/brasil-1-7-alemanha-por-que-vale-pena-rever-uma-derrota-como-mineirazo-1-24455117)
 * [Bruno Astuto: Nunca é tarde para a 'Mulher Maravilha'](https://oglobo.globo.com/ela/bruno-astuto-nunca-tarde-para-mulher-maravilha-24454465)
+* [BrazilFoundation arrecada R$ 7,8 milhões em campanha global contra Covid-19 no país](https://epoca.globo.com/sociedade/brazilfoundation-arrecada-78-milhoes-em-campanha-global-contra-covid-19-no-pais-24453328)
 * [Na política do Rio, os governadores mudam mas um enredo se repete](https://oglobo.globo.com/analitico/na-politica-do-rio-os-governadores-mudam-mas-um-enredo-se-repete-24453334)
 * [Avós aprendem a construir painéis de energia solar e iluminam vilarejo em Madagascar](https://oglobo.globo.com/celina/avos-aprendem-construir-paineis-de-energia-solar-iluminam-vilarejo-em-madagascar-24450486)
 * [Banda 'As bahias e a cozinha mineira' estreita relações com o pop e lança EP inteiramente produzido na quarentena](https://oglobo.globo.com/ela/gente/banda-as-bahias-a-cozinha-mineira-estreita-relacoes-com-pop-lanca-ep-inteiramente-produzido-na-quarentena-1-24450550)

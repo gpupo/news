@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/05/2020 00:26:02 UTC
+# indexed at 31/05/2020 00:35:05 UTC
 
 
 ## news.ycombinator.com
@@ -10,30 +10,30 @@ layout: default
 
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
-* [Rust: Dropping heavy things in another thread can make your code 10000x faster](https://abramov.io/rust-dropping-things-in-another-thread)
 * [All-electric Cessna Grand Caravan makes maiden flight](https://www.flightglobal.com/airframers/all-electric-grand-caravan-makes-maiden-flight/138600.article)
 * [CA Root expired on 30 May 2020](https://support.sectigo.com/articles/Knowledge/Sectigo-AddTrust-External-CA-Root-Expiring-May-30-2020)
+* [Rust: Dropping heavy things in another thread can make your code 10000x faster](https://abramov.io/rust-dropping-things-in-another-thread)
 * [Show HN: `fzf` * `Git` done right](https://github.com/bigH/git-fuzzy)
 * [Why do C to Z80 compilers produce poor code? (2018)](https://retrocomputing.stackexchange.com/questions/6095/why-do-c-to-z80-compilers-produce-poor-code)
-* [Ask HN: I'd like to learn vocals, any suggestion on how I can do this?](https://news.ycombinator.com/item?id=23359096)
 * [A simple way to get more value from metrics](https://danluu.com/metrics-analytics/)
+* [Ask HN: I'd like to learn vocals, any suggestion on how I can do this?](https://news.ycombinator.com/item?id=23359096)
 * [Hoare’s Rebuttal and Bubble Sort’s Comeback](https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html)
 * [Die analysis of the 8087 math coprocessor's fast bit shifter](http://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html)
 * [Fuchsia overview](https://fuchsia.dev/fuchsia-src/concepts)
 * [ScorSer – Search System for Musicians](http://scorser.com)
 * [Ask HN: Best books under 200 pages for developers](https://news.ycombinator.com/item?id=23363595)
-* [Programming is boring art](https://ahsmart.com/pub/programming-is-boring-art/)
 * [A couple’s elastic dance in Brutalist Berlin [video]](https://youtube.com/watch?v=5WwTQikJI7U)
+* [Programming is boring art](https://ahsmart.com/pub/programming-is-boring-art/)
 * [K9s – Manage Your Kubernetes Clusters in Style](https://k9scli.io/)
 * [Accurate Vision-Based Manipulation Through Contact Reasoning](https://arxiv.org/abs/1911.03112)
-* [Powers of Two (2017)](https://www.benrady.com/2017/12/powers-of-two.html)
-* [Show HN: Visualizing Maps in R^3](https://topovis.iambeef.com)
 * [Show HN: Calculate how long your website/API can be down](https://tryhexadecimal.com/sla-uptime-calculator)
+* [Show HN: Visualizing Maps in R^3](https://topovis.iambeef.com)
+* [Powers of Two (2017)](https://www.benrady.com/2017/12/powers-of-two.html)
 * [On Marketing Haskell](https://www.stephendiehl.com/posts/marketing.html)
 * [Why T.S. Eliot still matters](https://standpointmag.co.uk/issues/may-june-2020/why-t-s-eliot-still-matters/)
 * [Algol 60 implementation (1964) [pdf]](http://www.softwarepreservation.org/projects/ALGOL/book/Randell_ALGOL_60_Implementation_1964.pdf)
-* [Jimmy’s Audio Player](https://opensheetmusicdisplay.org/showcase/community-audio-player/)
 * [GPT-3: A Disappointing Paper?](https://www.greaterwrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper)
+* [Jimmy’s Audio Player](https://opensheetmusicdisplay.org/showcase/community-audio-player/)
 * [Show HN: CState – open-source Hugo powered status page](https://github.com/cstate/cstate)
 * [The Battle of Boca Chica (2014)](https://www.texasmonthly.com/politics/the-battle-of-boca-chica/)
 * [Well-known web sites that port-scan their visitors](https://www.bleepingcomputer.com/news/security/list-of-well-known-web-sites-that-port-scan-their-visitors/)
@@ -81,18 +81,18 @@ layout: default
 * [China and India Brawl at 14,000 Feet Along the Border](https://www.nytimes.com/2020/05/30/world/asia/india-china-border.html)
 * [The White Dog Walker and #LivingWhileBlack in New York City](https://www.nytimes.com/2020/05/30/nyregion/central-park-video.html)
 * [She Accused a Coach of Abuse. Then More Than 30 Gymnasts Backed Her Up.](https://www.nytimes.com/2020/05/29/sports/gymnastics-emotional-abuse-chelsea-piers.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [An Artist Who Delights in the Minor Key](https://www.nytimes.com/2020/05/29/t-magazine/moyra-davey.html)
 * [Comedy Tonight: ‘S.N.L.’ Then and Now](https://www.nytimes.com/2020/05/29/books/review/a-very-punchable-face-colin-jost.html)
 * [Feminist Rap Group in Iceland Looks Abroad After Making a Stir at Home](https://www.nytimes.com/2020/05/29/arts/music/daughters-of-reykjavik.html)
 * [The Perseverance of André Watts](https://www.nytimes.com/2020/05/28/well/live/the-perseverance-of-andre-watts.html)
 * [15 Summer TV Shows We’re Looking Forward To](https://www.nytimes.com/2020/05/27/arts/television/summer-tv-shows.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [What’s the Risk of Catching Coronavirus From a Surface?](https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html)
@@ -103,6 +103,7 @@ layout: default
 ## globo.com
 
 
+* [Protestos contra morte de negro pela polícia chegam à Trump Tower e Nova York](https://oglobo.globo.com/mundo/protestos-contra-morte-de-negro-pela-policia-chegam-trump-tower-nova-york-24455071)
 * [Laudo da perícia pode causar reviravolta na investigação da morte de modelo em SP](https://epoca.globo.com/laudo-da-pericia-pode-causar-reviravolta-na-investigacao-da-morte-de-modelo-em-sp-24455070)
 * [Jurista Manoel Valente lança livro sobre segurança jurídica e propriedade privada na perspectiva da dignidade humana](https://oglobo.globo.com/cultura/livros/jurista-manoel-valente-lanca-livro-sobre-seguranca-juridica-propriedade-privada-na-perspectiva-da-dignidade-humana-24454620)
 * [Covid-19: Estado do Rio tem 198 mortes e 4,4 mil novos casos da doença registrados em 24h](https://oglobo.globo.com/rio/covid-19-estado-do-rio-tem-198-mortes-44-mil-novos-casos-da-doenca-registrados-em-24h-24454888)
@@ -112,4 +113,3 @@ layout: default
 * [Morte de jovem baleado na Tijuca provoca manifestação de moradores do Morro do Borel](https://oglobo.globo.com/rio/morte-de-jovem-baleado-na-tijuca-provoca-manifestacao-de-moradores-do-morro-do-borel-1-24454920)
 * [Sucesso da SpaceX abre nova fronteira de investimento espacial em Wall Street](https://oglobo.globo.com/economia/sucesso-da-spacex-abre-nova-fronteira-de-investimento-espacial-em-wall-street-24454893)
 * [Em dia de sol, isolamento social aumenta, mas orla tem movimentação de banhistas e surfistas](https://oglobo.globo.com/rio/em-dia-de-sol-isolamento-social-aumenta-mas-orla-tem-movimentacao-de-banhistas-surfistas-24454881)
-* ['Tudo aponta para uma crise', afirma Bolsonaro ao citar ações do Judiciário](https://oglobo.globo.com/brasil/tudo-aponta-para-uma-crise-afirma-bolsonaro-ao-citar-acoes-do-judiciario-1-24454843)

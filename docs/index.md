@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/05/2020 14:34:35 UTC
+# indexed at 31/05/2020 15:09:14 UTC
 
 
 ## news.ycombinator.com
@@ -10,22 +10,25 @@ layout: default
 
 * [1/48 scale SpaceX Falcon Heavy model rocket with thrust vector control](https://bps.space/falcon-heavy)
 * [Xfce switches to GitLab](https://simon.shimmerproject.org/2020/04/30/xfce-switches-to-gitlab/)
+* [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
 * [Featherweight Go](https://arxiv.org/abs/2005.11710)
+* [Crew Dragon Docks with ISS](https://spacenews.com/crew-dragon-docks-with-iss-2/)
 * [Chemical analysis and origin of the smell of line-dried laundry](https://www.publish.csiro.au/en/EN19206)
-* [Rootless Containers](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
 * [Google Gave Away Our Business Listing to a Competitor, Our Fight to Get It Back](https://www.parkcityluxuryrealestate.com/blog/google-gave-our-our-business-listing-to-a-competitor-and-our-fight-to-get-it-back.html)
+* [Rootless Containers](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
 * [Detecting a 2.4 GHz transmission for under 1 EUR](https://www.chzsoft.de/site/hardware/detecting-a-2.4-ghz-transmission-for-under-1-eur/)
 * [Show HN: Go Micro – A distributed systems development framework](https://go-micro.dev?new)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
-* [Show HN: I made a simple PDF text editor](https://simpdf.com/)
-* [Making a SNES game in 2020 using modern tools](https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020)
-* [In marginal decisions, favour action over inaction](https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction)
 * [Lost London venues that helped launch Hendrix, Winehouse and punk](https://www.theguardian.com/artanddesign/2020/may/31/tracing-the-lost-london-venues-that-helped-launch-amy-winehouse-hendrix-and-punk)
+* [In marginal decisions, favour action over inaction](https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction)
+* [Making a SNES game in 2020 using modern tools](https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020)
+* [Show HN: I made a simple PDF text editor](https://simpdf.com/)
+* [Vibe: Video Human Pose Estimation](https://github.com/mkocabas/VIBE)
 * [Show HN: OmSave – Safari Extension for OmniFocus on macOS](https://apps.apple.com/us/app/omsave/id1514795049)
+* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
 * [Show HN: Findyour.blog – Get your blog rated and reviewed by authors/readers](https://www.findyour.blog/)
 * [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year)
-* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
 * [UK government MPs are using Signal’s automatic deletion feature](https://www.private-eye.co.uk/issue-1522/news)
 * [Finding secrets by decompiling Python bytecode in public repositories](https://blog.jse.li/posts/pyc/)
 * [Unity MMORPG Boilerplate - Multiplayer in Unity Made Easy](https://github.com/valkyrienyanko/Unity-MMORPG-Boilerplate)
@@ -33,11 +36,8 @@ layout: default
 * [Dragon capsule runs on Linux, C++, Chromium UIs](https://space.stackexchange.com/a/9446)
 * [How to Safely and Ethically Film Police Misconduct](https://www.teenvogue.com/story/how-to-film-police-safely)
 * [The Myers diff algorithm that is used in Git (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
-* [A more efficient matching engine for HTTPS Everywhere](https://remusao.github.io/posts/efficient-https-everywhere-engine.html)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
-* [Show HN: Open GIF Search](http://opengif.net)
-* [Why Artificial Brains Need Sleep](https://www.discovermagazine.com/technology/why-artificial-brains-need-sleep)
-* [Nukemap](https://nuclearsecrecy.com/nukemap/)
+* [A more efficient matching engine for HTTPS Everywhere](https://remusao.github.io/posts/efficient-https-everywhere-engine.html)
 ## nytimes.com
 
 
@@ -49,7 +49,7 @@ layout: default
 * [In Days of Discord, President Trump Fans the Flames](https://www.nytimes.com/2020/05/30/us/politics/trump-george-floyd-protests.html)
 * [SpaceX Docking at the Space Station: Latest Updates](https://www.nytimes.com/2020/05/31/science/spacex-astronauts-arrival.html)
 * [SpaceX Lifts NASA Astronauts to Orbit, Launching New Era of Spaceflight](https://www.nytimes.com/2020/05/30/science/spacex-nasa-astronauts.html)
-* [Coronavirus Live Updates: Parallel Plagues Ravage the U.S.](https://www.nytimes.com/2020/05/31/world/coronavirus-news.html)
+* [Coronavirus Live Updates: U.S. Protests Raise Fears of New Outbreaks](https://www.nytimes.com/2020/05/31/world/coronavirus-news.html)
 * [Tenants Stay Current on Rent, for Now](https://www.nytimes.com/2020/05/31/business/economy/coronavirus-rent-landlords-tenants.html)
 * [The Drive-In Theater: Keeping Drama Alive During the Lockdown](https://www.nytimes.com/2020/05/31/world/europe/prague-coronavirus-europe-reopening.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/05/29/briefing/11-of-our-best-weekend-reads.html)
@@ -80,18 +80,18 @@ layout: default
 * [Kris Kobach Is Back, and a Kansas Senate Seat May Be Up for Grabs](https://www.nytimes.com/2020/05/30/us/politics/kansas-senate-kobach.html)
 * [Western Countries Leave Children of ISIS in Syrian Camps](https://www.nytimes.com/2020/05/31/world/middleeast/isis-children-syria-camps.html)
 * [‘They’re Just Doing Whatever They Want’: Few Masks Are Seen as Beach Town Reopens](https://www.nytimes.com/2020/05/30/us/politics/ocean-city-maryland-masks-virus.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [Three Stretches to Tend to the Aches and Pains of Working From Home](https://www.nytimes.com/2020/05/19/well/three-stretches-to-tend-to-the-aches-and-pains-of-working-from-home.html)
-* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
-* [When Your Tween Acts Up on Lockdown](https://www.nytimes.com/2020/05/06/well/family/coronavirus-tween-conflict-lockdown-parenting.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How the Manager of a Massive Housing Complex Spends His Sundays](https://www.nytimes.com/2020/05/29/nyregion/coronavirus-Stuyvesant-Town-Peter-Cooper-Village-NYC.html)
 * [The World in a Jewelry Box](https://www.nytimes.com/2020/05/29/travel/the-world-in-a-jewelry-box.html)
 * [Review: ‘Quiz’ Has a Big Question but No Final Answer](https://www.nytimes.com/2020/05/29/arts/television/review-quiz.html)
 * [Keep These Recipes](https://www.nytimes.com/2020/05/29/dining/keep-these-recipes.html)
 * [How to Organize Your Closet](https://www.nytimes.com/2020/05/30/style/how-to-organize-your-closet.html)
-* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
+* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [What Top Conservatives Are Saying About George Floyd and Police Brutality](https://www.nytimes.com/2020/05/30/us/politics/george-floyd-tucker-carlson-rush-limbaugh.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Assista: Space X chega à Estação Espacial Internacional (ISS)](https://oglobo.globo.com/sociedade/ciencia/assista-space-chega-estacao-espacial-internacional-iss-24455288)
+* [Eleições americanas: Biden lidera Trump em pesquisa feita por jornal](https://oglobo.globo.com/mundo/eleicoes-americanas-biden-lidera-trump-em-pesquisa-feita-por-jornal-24455308)
+* [Datafolha: 72% discordam da frase de Bolsonaro sobre armar a população](https://oglobo.globo.com/brasil/datafolha-72-discordam-da-frase-de-bolsonaro-sobre-armar-populacao-24455278)
 * [Manifestantes fazem críticas ao STF e ao Congresso em Brasília](https://oglobo.globo.com/brasil/manifestantes-fazem-criticas-ao-stf-ao-congresso-em-brasilia-24455291)
 * [Elton John demite funcionários e colegas de banda depois de ter turnê cancelada](https://oglobo.globo.com/ela/elton-john-demite-funcionarios-colegas-de-banda-depois-de-ter-turne-cancelada-24455270)
-* [Assista ao vivo: Space X chega à Estação Espacial na manhã deste domingo](https://oglobo.globo.com/sociedade/ciencia/assista-ao-vivo-space-chega-estacao-espacial-na-manha-deste-domingo-24455288)
 * [Joe Biden volta a comentar onda de protestos nos EUA: 'Não devemos permitir que essa dor nos destrua'](https://oglobo.globo.com/mundo/joe-biden-volta-comentar-onda-de-protestos-nos-eua-nao-devemos-permitir-que-essa-dor-nos-destrua-24455277)
-* [Quinta noite de protestos nos EUA tem uma morte e toque de recolher em 25 cidades](https://oglobo.globo.com/mundo/quinta-noite-de-protestos-nos-eua-tem-uma-morte-toque-de-recolher-em-25-cidades-24455226)
 * [Coronavírus: Inquilinos são despejados por desrespeito ao isolamento](https://oglobo.globo.com/economia/coronavirus-inquilinos-sao-despejados-por-desrespeito-ao-isolamento-24455266)
-* [Cinco minutos de fama: poeta mineira ganha 600 seguidores em live de Teresa Cristina](https://oglobo.globo.com/rioshow/cinco-minutos-de-fama-poeta-mineira-ganha-600-seguidores-em-live-de-teresa-cristina-24455233)
 * [Padre faz sepultamentos virtuais para vítimas de Covid-19: 'Como dizer a um filho que não pode ir ao funeral do pai?'](https://oglobo.globo.com/cultura/padre-faz-sepultamentos-virtuais-para-vitimas-de-covid-19-como-dizer-um-filho-que-nao-pode-ir-ao-funeral-do-pai-24455253)
 * [Negacionistas estão vivendo crise de suas crenças, diz psicanalista](https://epoca.globo.com/guilherme-amado/negacionistas-estao-vivendo-crise-de-suas-crencas-diz-psicanalista-24455146)
 * [Elisama Santos, que prega educação sem gritos, será a próxima entrevistada ao vivo de ÉPOCA](https://epoca.globo.com/guilherme-amado/elisama-santos-que-prega-educacao-sem-gritos-sera-proxima-entrevistada-ao-vivo-de-epoca-24453542)

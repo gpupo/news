@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/05/2020 07:09:33 UTC
+# indexed at 31/05/2020 07:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
-* [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Google Gave Away Our Business Listing to a Competitor, Our Fight to Get It Back](https://www.parkcityluxuryrealestate.com/blog/google-gave-our-our-business-listing-to-a-competitor-and-our-fight-to-get-it-back.html)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
 * [Show HN: I made a simple PDF text editor](https://simpdf.com/)
 * [Making a SNES game in 2020 using modern tools](https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020)
-* [Finding secrets by decompiling Python bytecode in public repositories](https://blog.jse.li/posts/pyc/)
+* [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Unity MMORPG Boilerplate - Multiplayer in Unity Made Easy](https://github.com/valkyrienyanko/Unity-MMORPG-Boilerplate)
-* [Show HN: Open GIF Search](http://opengif.net)
+* [Finding secrets by decompiling Python bytecode in public repositories](https://blog.jse.li/posts/pyc/)
+* [Bootable minesweeper game in a 512-byte boot sector](https://github.com/io12/bootmine)
 * [Rust: Dropping heavy things in another thread can make your code 10000x faster](https://abramov.io/rust-dropping-things-in-another-thread)
 * [A more efficient matching engine for HTTPS Everywhere](https://remusao.github.io/posts/efficient-https-everywhere-engine.html)
+* [Show HN: Open GIF Search](http://opengif.net)
 * [All-electric Cessna Grand Caravan makes maiden flight](https://www.flightglobal.com/airframers/all-electric-grand-caravan-makes-maiden-flight/138600.article)
 * [Nukemap](https://nuclearsecrecy.com/nukemap/)
 * [The Myers diff algorithm that is used in Git (2017)](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
-* [How to write an Amstrad CPC emulator](http://www.irespa.eu/daan/lib/howtoCPCemu.htm)
 * [Fuchsia overview](https://fuchsia.dev/fuchsia-src/concepts)
-* [Why Artificial Brains Need Sleep](https://www.discovermagazine.com/technology/why-artificial-brains-need-sleep)
+* [How to write an Amstrad CPC emulator](http://www.irespa.eu/daan/lib/howtoCPCemu.htm)
 * [Show HN: Caldera – Phoenix LiveView for Node and React](https://github.com/calderajs/caldera-react)
+* [Why Artificial Brains Need Sleep](https://www.discovermagazine.com/technology/why-artificial-brains-need-sleep)
 * [CA Root expired on 30 May 2020](https://support.sectigo.com/articles/Knowledge/Sectigo-AddTrust-External-CA-Root-Expiring-May-30-2020)
+* [Beekeeper Studio is a free and open source SQL editor and database manager](https://github.com/beekeeper-studio/beekeeper-studio)
 * [The Unix Operating System (1982) [video]](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 * [Show HN: `fzf` * `Git` done right](https://github.com/bigH/git-fuzzy)
-* [Beekeeper Studio is a free and open source SQL editor and database manager](https://github.com/beekeeper-studio/beekeeper-studio)
 * [Ask HN: I'd like to learn vocals, any suggestion on how I can do this?](https://news.ycombinator.com/item?id=23359096)
 * [StoneCutter: A Very High Level Instruction Set Design Language](https://doi.org/10.1145/3387902.3394029)
-* [After 100K Covid-19 cases, it’s clearer where Californians are getting infected](https://www.eastbaytimes.com/2020/05/30/after-100000-coronavirus-cases-its-clearer-where-californians-are-getting-infected/)
-* [Why do C to Z80 compilers produce poor code? (2018)](https://retrocomputing.stackexchange.com/questions/6095/why-do-c-to-z80-compilers-produce-poor-code)
 * [My Messy Analytics Breakup](https://www.digitalinklingsblog.com/my-messy-analytics-breakup/)
+* [Why do C to Z80 compilers produce poor code? (2018)](https://retrocomputing.stackexchange.com/questions/6095/why-do-c-to-z80-compilers-produce-poor-code)
 * [Programming is boring art](https://ahsmart.com/pub/programming-is-boring-art/)
-* [Die analysis of the 8087 math coprocessor's fast bit shifter](http://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html)
-* [Show HN: Ratemydorm.com](https://ratemydorm.com/)
+* [After 100K Covid-19 cases, it’s clearer where Californians are getting infected](https://www.eastbaytimes.com/2020/05/30/after-100000-coronavirus-cases-its-clearer-where-californians-are-getting-infected/)
+* [The U.S. Military Is Monitoring Protests in Seven States](https://www.thenation.com/article/society/national-guard-defense-department-protests/)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [China and India Brawl at 14,000 Feet Along the Border](https://www.nytimes.com/2020/05/30/world/asia/india-china-border.html)
 * [She Accused a Coach of Abuse. Then More Than 30 Gymnasts Backed Her Up.](https://www.nytimes.com/2020/05/29/sports/gymnastics-emotional-abuse-chelsea-piers.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [An Artist Who Delights in the Minor Key](https://www.nytimes.com/2020/05/29/t-magazine/moyra-davey.html)
 * [Comedy Tonight: ‘S.N.L.’ Then and Now](https://www.nytimes.com/2020/05/29/books/review/a-very-punchable-face-colin-jost.html)
 * [Feminist Rap Group in Iceland Looks Abroad After Making a Stir at Home](https://www.nytimes.com/2020/05/29/arts/music/daughters-of-reykjavik.html)
@@ -92,18 +92,20 @@ layout: default
 * [15 Summer TV Shows We’re Looking Forward To](https://www.nytimes.com/2020/05/27/arts/television/summer-tv-shows.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Read the Criminal Complaint Against Derek Chauvin](https://www.nytimes.com/2020/05/29/us/derek-chauvin-criminal-complaint.html)
 * [President Trump Is a Doughnut](https://www.nytimes.com/2020/05/29/opinion/trump-2020-election.html)
+* [Supreme Court, in 5-4 Decision, Rejects Church’s Challenge to Shutdown Order](https://www.nytimes.com/2020/05/30/us/supreme-court-churches-coronavirus.html)
+* [‘Soup’ So Vibrant, It’s Called ‘the Elixir of Life’](https://www.nytimes.com/2020/05/27/magazine/soup-so-vibrant-its-called-the-elixir-of-life.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Thiago Neves elogia Fred e lembra título brasileiro de 2012: 'Devia isso ao Fluminense'](https://oglobo.globo.com/esportes/fluminense/thiago-neves-elogia-fred-lembra-titulo-brasileiro-de-2012-devia-isso-ao-fluminense-24453226)
 * [Xodó, Wellington Nem recorda título brasileiro com Fluminense: 'Éramos uma família'](https://oglobo.globo.com/esportes/fluminense/xodo-wellington-nem-recorda-titulo-brasileiro-com-fluminense-eramos-uma-familia-24450845)
+* [Thiago Neves elogia Fred e lembra título brasileiro de 2012: 'Devia isso ao Fluminense'](https://oglobo.globo.com/esportes/fluminense/thiago-neves-elogia-fred-lembra-titulo-brasileiro-de-2012-devia-isso-ao-fluminense-24453226)
 * [Marcelo Barreto: junho é o mês da virada no 'Fla-Flu' pela volta do futebol brasileiro](https://oglobo.globo.com/esportes/marcelo-barreto-junho-o-mes-da-virada-no-fla-flu-pela-volta-do-futebol-brasileiro-24454876)
 * [Fluminense x Palmeiras 2012: medo e alívio nos bastidores do voo do título brasileiro](https://oglobo.globo.com/esportes/fluminense-palmeiras-2012-medo-alivio-nos-bastidores-do-voo-do-titulo-brasileiro-1-24454895)
 * [Matemática ajuda governos e hospitais nas estratégias contra a Covid-19](https://oglobo.globo.com/sociedade/matematica-ajuda-governos-hospitais-nas-estrategias-contra-covid-19-24454387)

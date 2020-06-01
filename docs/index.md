@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 06:10:21 UTC
+# indexed at 01/06/2020 06:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -17,7 +17,6 @@ layout: default
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
 * [Janus WebRTC Server](https://janus.conf.meetecho.com/)
 * [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
-* [Basic Intro to Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
 * [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 * [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
 * [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
@@ -25,19 +24,20 @@ layout: default
 * [An Idiot’s guide to Support vector machines (2003) [pdf]](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
 * [Christo has died](https://www.theguardian.com/artanddesign/2020/may/31/christo-artist-who-wrapped-the-reichstag-dies-aged-84)
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
-* [Strikingly (YC W13) is hiring product designers and engineers in Shanghai](http://www.strikingly.com/s/careers)
 * [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
-* [Brex Lays Off 62 Employees](https://www.thesfnews.com/local-startup-brex-lays-off-62-employees/56172)
 * [Autism severity can change substantially during early childhood, study suggests](https://health.ucdavis.edu/health-news/contenthub/autism-severity-can-change-substantially-during-early-childhood/2020/05)
+* [Brex Lays Off 62 Employees](https://www.thesfnews.com/local-startup-brex-lays-off-62-employees/56172)
+* [Strikingly (YC W13) is hiring product designers and engineers in Shanghai](http://www.strikingly.com/s/careers)
 * [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
 * [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
-* [Mimir – A Near-Infrared Wide-Field Imager, Spectrometer and Polarimeter](http://people.bu.edu/clemens/mimir/)
-* [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
+* [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
+* [Mimir – A Near-Infrared Wide-Field Imager, Spectrometer and Polarimeter](http://people.bu.edu/clemens/mimir/)
 * [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
 * [Did the Italians Teach the French the Art of the Vinaigrette?](https://lithub.com/did-the-italians-actually-teach-the-french-the-art-of-the-vinaigrette/)
 * [Liquid Cities: Japanese architecture and science fiction](https://placesjournal.org/article/liquid-cities)
 * [Hacker News Security](https://news.ycombinator.com/security.html)
+* [Basic Intro to Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
 ## nytimes.com
 
 
@@ -72,28 +72,28 @@ layout: default
 * [The Rich Love India’s Lockdown. For the Poor It’s Another Story.](https://www.nytimes.com/2020/05/30/opinion/sunday/india-coronavirus-lockdown-inequality.html)
 * [David Frum Rethinks Conservatism](https://www.nytimes.com/2020/05/26/books/review/trumpocalypse-david-frum.html)
 * [What Is New York Without New York Bars?](https://www.nytimes.com/2020/05/21/nyregion/nyc-bars-coronavirus.html)
-* [Lawyer Colinford Mattis Accused in Molotov Cocktail Attack on Police](https://www.nytimes.com/2020/05/31/nyregion/nyc-protests-lawyer-molotov-cocktail.html)
+* [Abused Woman Who Killed Husband Is Granted the Family’s U.K. Estate](https://www.nytimes.com/2020/06/01/world/europe/sally-challen-domestic-abuse-uk.html)
 * [Target Temporarily Closing or Shortening Hours at 200 Stores](https://www.nytimes.com/2020/05/31/business/target-closing-or-cutting-hours-George-Floyd.html)
-* [Father of School Shooting Victim Takes On Smith & Wesson](https://www.nytimes.com/2020/05/31/business/media/smith-wesson-marketing-lawsuit.html)
+* [Lawyer Colinford Mattis Accused in Molotov Cocktail Attack on Police](https://www.nytimes.com/2020/05/31/nyregion/nyc-protests-lawyer-molotov-cocktail.html)
 * [Despite Warnings, Races Continue at a N. Carolina Speedway](https://www.nytimes.com/2020/05/31/sports/ace-speedway-north-carolina-coronavirus.html)
-* [John E. Randall, Ichthyologist Extraordinaire, Dies at 95](https://www.nytimes.com/2020/05/29/science/john-e-randall-dead.html)
+* [Father of School Shooting Victim Takes On Smith & Wesson](https://www.nytimes.com/2020/05/31/business/media/smith-wesson-marketing-lawsuit.html)
 * [Astronauts Dock With Space Station After Historic SpaceX Launch](https://www.nytimes.com/2020/05/31/science/spacex-astronauts-arrival.html)
 * [Mexico’s President Says Most Domestic Violence Calls Are ‘Fake’](https://www.nytimes.com/2020/05/31/world/americas/violence-women-mexico-president.html)
 * [Herb Stempel, Quiz Show Whistle-Blower, Is Dead at 93](https://www.nytimes.com/2020/05/31/us/herbert-stempel-dead.html)
 * [Risky Strategy by Many Private Colleges Leaves Them Exposed](https://www.nytimes.com/2020/05/26/upshot/virus-colleges-risky-strategy.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [A London Home Goes From Georgian to Modern, With a Detour](https://www.nytimes.com/2020/05/31/style/london-renovation-historic-townhouse.html)
 * [Domestic Rites](https://www.nytimes.com/2020/05/29/arts/jillian-tamaki-diary-project.html)
 * [Dance Companies Take Baby Steps Back to Rehearsal](https://www.nytimes.com/2020/05/28/arts/dance/ballet-rehearsals-coronavirus.html)
 * [I Love You, Kid, but Please Get Off Me](https://www.nytimes.com/2020/05/27/parenting/virus-clingy-kids-in-lockdown.html)
 * [‘I Just Let Myself Go’: Igor Levit on Surviving a Satie Marathon](https://www.nytimes.com/2020/05/31/arts/music/igor-levit-vexations.html)
+* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
-* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

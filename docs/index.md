@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 07:09:41 UTC
+# indexed at 01/06/2020 07:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -11,14 +11,15 @@ layout: default
 * [UVB radiation was the Devonian-Carboniferous extinction kill mechanism](https://advances.sciencemag.org/content/6/22/eaba0768)
 * [Programming as Theory Building (1985)](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com)
-* [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
 * [O.J., Accounting Fraud, Icahn: The Story of Hertz Going Bust](https://www.bloomberg.com/news/articles/2020-05-24/o-j-accounting-fraud-and-icahn-the-story-of-hertz-going-bust)
+* [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
 * [Rethinking of CGI as a selfhosted lambda server](https://trusted-cgi.reddec.net/)
 * [Prowords](https://en.wikipedia.org/wiki/Procedure_word)
 * [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 * [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
 * [Janus WebRTC Server](https://janus.conf.meetecho.com/)
+* [Qt Could Go Proprietary, KDE Relationship and Qt-Based Free Software in Jeopardy](https://linuxreviews.org/Qt_Could_Go_Proprietary,_KDE_Relationship_And_Qt-Based_Free_Software_In_Jeopardy)
 * [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
 * [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
 * [An Idiot’s guide to Support vector machines (2003) [pdf]](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
@@ -28,16 +29,15 @@ layout: default
 * [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
 * [Christo has died](https://www.theguardian.com/artanddesign/2020/may/31/christo-artist-who-wrapped-the-reichstag-dies-aged-84)
 * [Autism severity can change substantially during early childhood, study suggests](https://health.ucdavis.edu/health-news/contenthub/autism-severity-can-change-substantially-during-early-childhood/2020/05)
-* [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
-* [Brex Lays Off 62 Employees](https://www.thesfnews.com/local-startup-brex-lays-off-62-employees/56172)
-* [The Trolley Problem Problem](https://aeon.co/essays/what-is-the-problem-with-ethical-trolley-problems)
 * [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
+* [The Trolley Problem Problem](https://aeon.co/essays/what-is-the-problem-with-ethical-trolley-problems)
+* [Brex Lays Off 62 Employees](https://www.thesfnews.com/local-startup-brex-lays-off-62-employees/56172)
+* [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
+* [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Strikingly (YC W13) is hiring product designers and engineers in Shanghai](http://www.strikingly.com/s/careers)
-* [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
 * [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
 * [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
-* [Mimir – A Near-Infrared Wide-Field Imager, Spectrometer and Polarimeter](http://people.bu.edu/clemens/mimir/)
 ## nytimes.com
 
 
@@ -81,20 +81,19 @@ layout: default
 * [Mexico’s President Says Most Domestic Violence Calls Are ‘Fake’](https://www.nytimes.com/2020/05/31/world/americas/violence-women-mexico-president.html)
 * [Herb Stempel, Quiz Show Whistle-Blower, Is Dead at 93](https://www.nytimes.com/2020/05/31/us/herbert-stempel-dead.html)
 * [Risky Strategy by Many Private Colleges Leaves Them Exposed](https://www.nytimes.com/2020/05/26/upshot/virus-colleges-risky-strategy.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [A London Home Goes From Georgian to Modern, With a Detour](https://www.nytimes.com/2020/05/31/style/london-renovation-historic-townhouse.html)
 * [Domestic Rites](https://www.nytimes.com/2020/05/29/arts/jillian-tamaki-diary-project.html)
 * [Dance Companies Take Baby Steps Back to Rehearsal](https://www.nytimes.com/2020/05/28/arts/dance/ballet-rehearsals-coronavirus.html)
 * [I Love You, Kid, but Please Get Off Me](https://www.nytimes.com/2020/05/27/parenting/virus-clingy-kids-in-lockdown.html)
 * [‘I Just Let Myself Go’: Igor Levit on Surviving a Satie Marathon](https://www.nytimes.com/2020/05/31/arts/music/igor-levit-vexations.html)
-* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
-* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
+* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

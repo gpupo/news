@@ -2,34 +2,35 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 11:08:56 UTC
+# indexed at 01/06/2020 11:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Extra salty sodium battery performs on par with lithium](https://newatlas.com/energy/sodium-battery-alternative-lithium/)
-* [UVB radiation was the Devonian-Carboniferous extinction kill mechanism](https://advances.sciencemag.org/content/6/22/eaba0768)
+* [Twitter, Reddit File Challenge of U.S. Social Media Registration Requirement](https://knightcolumbia.org/content/twitter-reddit-file-in-support-of-lawsuit-challenging-us-governments-social-media-registration-requirement-for-visa-applicants)
 * [Is Facebook even safe anymore?](https://privacytips.jimdofree.com/is-facebook-safe/)
+* [UVB radiation was the Devonian-Carboniferous extinction kill mechanism](https://advances.sciencemag.org/content/6/22/eaba0768)
+* [Extra salty sodium battery performs on par with lithium](https://newatlas.com/energy/sodium-battery-alternative-lithium/)
+* [How to Become a Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
 * [O.J., Accounting Fraud, Icahn: The Story of Hertz Going Bust](https://www.bloomberg.com/news/articles/2020-05-24/o-j-accounting-fraud-and-icahn-the-story-of-hertz-going-bust)
 * [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com)
 * [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
 * [Programming as Theory Building (1985)](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
-* [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 * [Prowords](https://en.wikipedia.org/wiki/Procedure_word)
-* [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
-* [Twitter, Reddit File Challenge of U.S. Social Media Registration Requirement](https://knightcolumbia.org/content/twitter-reddit-file-in-support-of-lawsuit-challenging-us-governments-social-media-registration-requirement-for-visa-applicants)
+* [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
+* [Linux 5.7](https://lore.kernel.org/lkml/CAHk-=wiZGrCkiBB1V7bxp8NZH6yWi9mPM4ptMW16OzOiNprBFA@mail.gmail.com/T/#u)
 * [Rethinking of CGI as a selfhosted lambda server](https://trusted-cgi.reddec.net/)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
-* [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
+* [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
 * [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
+* [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
 * [Does Transparency in Moderation Matter? [pdf]](https://dl.acm.org/doi/pdf/10.1145/3359252)
-* [What is the best and right way to open-source packages from a company monorepo?](https://news.ycombinator.com/item?id=23377012)
 * [An Idiot’s guide to Support vector machines (2003) [pdf]](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
+* [What is the best and right way to open-source packages from a company monorepo?](https://news.ycombinator.com/item?id=23377012)
 * [This DX7 Cartridge Does Not Exist](https://www.thisdx7cartdoesnotexist.com/)
-* [40 uses for Germanium Diodes [pdf]](https://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf)
-* [Linux 5.7](https://lore.kernel.org/lkml/CAHk-=wiZGrCkiBB1V7bxp8NZH6yWi9mPM4ptMW16OzOiNprBFA@mail.gmail.com/T/#u)
 * [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
+* [40 uses for Germanium Diodes [pdf]](https://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf)
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
 * [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
 * [Christo has died](https://www.theguardian.com/artanddesign/2020/may/31/christo-artist-who-wrapped-the-reichstag-dies-aged-84)
@@ -37,7 +38,6 @@ layout: default
 * [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
 * [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
 * [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
-* [Qt Could Go Proprietary, KDE Relationship and Qt-Based Free Software in Jeopardy](https://linuxreviews.org/Qt_Could_Go_Proprietary,_KDE_Relationship_And_Qt-Based_Free_Software_In_Jeopardy)
 ## nytimes.com
 
 
@@ -58,7 +58,7 @@ layout: default
 * [The Virus Ravaged Parents at P.S. 315. They Found a Way to Fight Back.](https://www.nytimes.com/2020/06/01/nyregion/nyc-coronavirus-flatbush-brooklyn.html)
 * [As Virus Toll Preoccupies U.S., Rivals Test Limits of American Influence](https://www.nytimes.com/2020/06/01/us/politics/coronavirus-global-competition-russia-china-iran-north-korea.html)
 * [Poor Countries Face a Debt Crisis ‘Unlike Anything We Have Seen’](https://www.nytimes.com/2020/06/01/business/coronavirus-poor-countries-debt.html)
-* [Stock Markets Rise Despite U.S. Violence: Live Updates](https://www.nytimes.com/2020/06/01/business/stock-market-today-coronavirus.html)
+* [Wall Street Set to Open Lower: Live Market Updates](https://www.nytimes.com/2020/06/01/business/stock-market-today-coronavirus.html)
 * [William Barr’s State of Emergency](https://www.nytimes.com/2020/06/01/magazine/william-barr-attorney-general.html)
 * [‘The Minnesota Paradox’](https://www.nytimes.com/2020/06/01/briefing/minneapolis-coronavirus-tara-reader-your-monday-briefing.html)
 * [Protests in N.Y.C.: Latest Updates](https://www.nytimes.com/2020/06/01/nyregion/protests-nyc.html)
@@ -86,11 +86,11 @@ layout: default
 * [Record Ratings and Record Chaos on Cable News](https://www.nytimes.com/2020/05/31/business/media/cable-news-fox-msnbc-cnn.html)
 * [Nazi or Hero? Historian Looks at the Stories a German Consultant Told of His Father](https://www.nytimes.com/2020/05/31/business/roland-berger-father-nazi-historian.html)
 * [Campaign Funds for Judges Warps Criminal Justice, Study Finds](https://www.nytimes.com/2020/06/01/us/campaign-finance-criminal-justice-judges.html)
-* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [Live From New York, It’s Jazz at a Distance](https://www.nytimes.com/2020/05/31/arts/music/jazz-smalls-coronavirus-concerts.html)
 * [Navigating the Wilds of Maternal Love](https://www.nytimes.com/2020/05/29/well/family/navigating-the-wilds-of-maternal-love.html)
 * [Finding the Sweet, Stinging Salt in Plays of Confinement](https://www.nytimes.com/2020/05/31/theater/confinement-plays-beckett.html)
@@ -98,8 +98,8 @@ layout: default
 * [Norman Lamm, 92, Dies; Rescued Yeshiva U. From Brink of Bankruptcy](https://www.nytimes.com/2020/05/31/obituaries/Norman-Lamm-Dead.html)
 * [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
-* [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
+* [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
 * [Coronavirus Showed How Globalization Broke the World](https://www.nytimes.com/2020/05/30/opinion/sunday/coronavirus-globalization.html)
 * [Keep These Recipes](https://www.nytimes.com/2020/05/29/dining/keep-these-recipes.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -108,13 +108,13 @@ layout: default
 ## globo.com
 
 
+* [Infectologista da UFRJ teme explosão de casos de Covid com retomada de atividades](https://oglobo.globo.com/rio/infectologista-da-ufrj-teme-explosao-de-casos-de-covid-com-retomada-de-atividades-24455966)
 * [EUA veem sexta noite de protestos com Casa Branca às escuras e confrontos entre policiais e manifestantes](https://oglobo.globo.com/mundo/eua-veem-sexta-noite-de-protestos-com-casa-branca-as-escuras-confrontos-entre-policiais-manifestantes-24455932)
-* [A vacina para a Covid-19 vai chegar, mas as pessoas negras vão continuar esperando uma cura para o racismo](https://oglobo.globo.com/celina/a-vacina-para-covid-19-vai-chegar-mas-as-pessoas-negras-vao-continuar-esperando-uma-cura-para-racismo-24455676)
+* ['A perspectiva de gênero está em tudo', diz militar brasileira premiada na ONU](https://oglobo.globo.com/mundo/celina/a-perspectiva-de-genero-esta-em-tudo-diz-militar-brasileira-premiada-na-onu-24453317)
+* [Empresa de biotecnologia de SP busca recursos para concluir vacina da Covid-19 no primeiro semestre de 2021](https://epoca.globo.com/sociedade/empresa-de-biotecnologia-de-sp-busca-recursos-para-concluir-vacina-da-covid-19-no-primeiro-semestre-de-2021-24450256)
 * [Gabriel Medina comemora escolha como maior surfista da história do Brasil](https://oglobo.globo.com/esportes/gabriel-medina-comemora-escolha-como-maior-surfista-da-historia-do-brasil-24455031)
-* ['A perspectiva de gênero está em tudo', diz militar brasileira premiada na ONU](https://oglobo.globo.com/celina/a-perspectiva-de-genero-esta-em-tudo-diz-militar-brasileira-premiada-na-onu-1-24453317)
 * [Donos de academias propõem mudar decreto que regula reabertura em Niterói](https://oglobo.globo.com/rio/bairros/donos-de-academias-propoem-mudar-decreto-que-regula-reabertura-em-niteroi-24455360)
 * [Site alvo do Sleeping Giants tem três condenações e outros processos](https://epoca.globo.com/guilherme-amado/site-alvo-do-sleeping-giants-tem-tres-condenacoes-outros-processos-24453963)
-* [O pico de pressão de Helena Witzel](https://epoca.globo.com/guilherme-amado/o-pico-de-pressao-de-helena-witzel-24454191)
 * [54% dos brasileiros seguirão comprando online após o isolamento](https://epoca.globo.com/guilherme-amado/54-dos-brasileiros-seguirao-comprando-online-apos-isolamento-24454018)
 * [Sono: rotina é fundamental para evitar problemas](https://oglobo.globo.com/rio/bairros/sono-rotina-fundamental-para-evitar-problemas-1-24452942)
 * [Depressão, ansiedade, insônia: saiba como a alimentação pode ajudar a aliviar a quarentena](https://oglobo.globo.com/rio/bairros/depressao-ansiedade-insonia-saiba-como-alimentacao-pode-ajudar-aliviar-quarentena-24451298)

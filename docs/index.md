@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 10:09:33 UTC
+# indexed at 01/06/2020 10:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
 * [UVB radiation was the Devonian-Carboniferous extinction kill mechanism](https://advances.sciencemag.org/content/6/22/eaba0768)
-* [Mapping Police Violence](https://mappingpoliceviolence.org/)
+* [Extra salty sodium battery performs on par with lithium](https://newatlas.com/energy/sodium-battery-alternative-lithium/)
 * [O.J., Accounting Fraud, Icahn: The Story of Hertz Going Bust](https://www.bloomberg.com/news/articles/2020-05-24/o-j-accounting-fraud-and-icahn-the-story-of-hertz-going-bust)
+* [Mapping Police Violence](https://mappingpoliceviolence.org/)
 * [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com)
-* [Programming as Theory Building (1985)](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
+* [Programming as Theory Building (1985)](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [Prowords](https://en.wikipedia.org/wiki/Procedure_word)
 * [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 * [Rethinking of CGI as a selfhosted lambda server](https://trusted-cgi.reddec.net/)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
 * [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
-* [Qt Could Go Proprietary, KDE Relationship and Qt-Based Free Software in Jeopardy](https://linuxreviews.org/Qt_Could_Go_Proprietary,_KDE_Relationship_And_Qt-Based_Free_Software_In_Jeopardy)
 * [Does Transparency in Moderation Matter? [pdf]](https://dl.acm.org/doi/pdf/10.1145/3359252)
 * [Janus WebRTC Server](https://janus.conf.meetecho.com/)
 * [An Idiot’s guide to Support vector machines (2003) [pdf]](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
-* [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+* [Is Facebook even safe anymore?](https://privacytips.jimdofree.com/is-facebook-safe/)
 * [This DX7 Cartridge Does Not Exist](https://www.thisdx7cartdoesnotexist.com/)
+* [Qt Could Go Proprietary, KDE Relationship and Qt-Based Free Software in Jeopardy](https://linuxreviews.org/Qt_Could_Go_Proprietary,_KDE_Relationship_And_Qt-Based_Free_Software_In_Jeopardy)
 * [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
 * [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
 * [Christo has died](https://www.theguardian.com/artanddesign/2020/may/31/christo-artist-who-wrapped-the-reichstag-dies-aged-84)
 * [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
-* [40 uses for Germanium Diodes [pdf]](https://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Eugène Atget's Paris, 100 years later](https://www.nytimes.com/2020/05/27/world/europe/paris-atget-coronavirus.html)
-* [The Trolley Problem Problem](https://aeon.co/essays/what-is-the-problem-with-ethical-trolley-problems)
 * [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
+* [The Trolley Problem Problem](https://aeon.co/essays/what-is-the-problem-with-ethical-trolley-problems)
 * [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
-* [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
+* [40 uses for Germanium Diodes [pdf]](https://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf)
 ## nytimes.com
 
 
@@ -61,7 +61,7 @@ layout: default
 * [Stock Markets Rise Despite U.S. Violence: Live Updates](https://www.nytimes.com/2020/06/01/business/stock-market-today-coronavirus.html)
 * [William Barr’s State of Emergency](https://www.nytimes.com/2020/06/01/magazine/william-barr-attorney-general.html)
 * [Protests in N.Y.C.: Latest Updates](https://www.nytimes.com/2020/06/01/nyregion/protests-nyc.html)
-* [Special Episode: The Latest From Minneapolis](https://www.nytimes.com/2020/05/29/podcasts/the-daily/george-floyd-minneapolis.html)
+* [A Weekend of Pain and Protest](https://www.nytimes.com/2020/06/01/podcasts/the-daily/george-floyd-protests.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [Sign Up: ‘Coronavirus Briefing’](https://www.nytimes.com/newsletters/coronavirus-briefing)
 * [Destructive Power of Despair](https://www.nytimes.com/2020/05/31/opinion/george-floyd-protests.html)
@@ -71,9 +71,9 @@ layout: default
 * [Safetyism Isn’t the Problem In the Coronavirus Debate](https://www.nytimes.com/2020/06/01/opinion/safetyism-coronavirus-reopening.html)
 * [How Colleges Can Keep the Coronavirus Off Campus](https://www.nytimes.com/2020/06/01/opinion/coronavirus-colleges-reopen-safely.html)
 * [A Village Ignored by the Coronavirus](https://www.nytimes.com/2020/06/01/opinion/france-coronavirus.html)
-* [The G.O.P. Tosses Steve King Overboard](https://www.nytimes.com/2020/06/01/opinion/steve-king-iowa-republican.html)
 * [Chris Cooper Is My Brother. Here’s Why I Posted His Video.](https://www.nytimes.com/2020/05/31/opinion/chris-cooper-central-park.html)
 * [As Waves of Protest Surge Across America](https://www.nytimes.com/2020/05/31/opinion/letters/unrest-minnesota-george-floyd.html)
+* [The G.O.P. Tosses Steve King Overboard](https://www.nytimes.com/2020/06/01/opinion/steve-king-iowa-republican.html)
 * [In Lockdown, a Neighborhood Opens Up](https://www.nytimes.com/2020/05/30/technology/bernal-heights.html)
 * [Fall Is Now Jam-Packed for Book Publishers. That Could Be a Problem.](https://www.nytimes.com/2020/06/01/books/coronavirus-books-publishing-dates.html)
 * [Abused Woman Who Killed Husband Is Granted the Family’s U.K. Estate](https://www.nytimes.com/2020/06/01/world/europe/sally-challen-domestic-abuse-uk.html)
@@ -85,20 +85,20 @@ layout: default
 * [Record Ratings and Record Chaos on Cable News](https://www.nytimes.com/2020/05/31/business/media/cable-news-fox-msnbc-cnn.html)
 * [Nazi or Hero? Historian Looks at the Stories a German Consultant Told of His Father](https://www.nytimes.com/2020/05/31/business/roland-berger-father-nazi-historian.html)
 * [Campaign Funds for Judges Warps Criminal Justice, Study Finds](https://www.nytimes.com/2020/06/01/us/campaign-finance-criminal-justice-judges.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [A London Home Goes From Georgian to Modern, With a Detour](https://www.nytimes.com/2020/05/31/style/london-renovation-historic-townhouse.html)
 * [Domestic Rites](https://www.nytimes.com/2020/05/29/arts/jillian-tamaki-diary-project.html)
 * [Dance Companies Take Baby Steps Back to Rehearsal](https://www.nytimes.com/2020/05/28/arts/dance/ballet-rehearsals-coronavirus.html)
 * [I Love You, Kid, but Please Get Off Me](https://www.nytimes.com/2020/05/27/parenting/virus-clingy-kids-in-lockdown.html)
 * [‘I Just Let Myself Go’: Igor Levit on Surviving a Satie Marathon](https://www.nytimes.com/2020/05/31/arts/music/igor-levit-vexations.html)
 * [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
-* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
-* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
 * [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
+* [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
+* [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
 * [Coronavirus Showed How Globalization Broke the World](https://www.nytimes.com/2020/05/30/opinion/sunday/coronavirus-globalization.html)
 * [Keep These Recipes](https://www.nytimes.com/2020/05/29/dining/keep-these-recipes.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -107,8 +107,8 @@ layout: default
 ## globo.com
 
 
+* [Lentidão nas respostas e incertezas nas garantias, as dificuldades dos pequenos negócios para obter crédito](https://oglobo.globo.com/economia/lentidao-nas-respostas-incertezas-nas-garantias-as-dificuldades-dos-pequenos-negocios-para-obter-credito-24455799)
 * [EUA veem sexta noite de protestos com Casa Branca às escuras e confrontos entre policiais e manifestantes](https://oglobo.globo.com/mundo/eua-veem-sexta-noite-de-protestos-com-casa-branca-as-escuras-confrontos-entre-policiais-manifestantes-24455932)
-* [As dificuldades de micro e pequenos negócios para obter empréstimo](https://oglobo.globo.com/economia/as-dificuldades-de-micro-pequenos-negocios-para-obter-emprestimo-24455799)
 * [Projeto de Lei que suspende Profut permite mudança no regulamento de estaduais](https://oglobo.globo.com/esportes/projeto-de-lei-que-suspende-profut-permite-mudanca-no-regulamento-de-estaduais-1-24455897)
 * [A vacina para a Covid-19 vai chegar, mas as pessoas negras vão continuar esperando uma cura para o racismo](https://oglobo.globo.com/celina/a-vacina-para-covid-19-vai-chegar-mas-as-pessoas-negras-vao-continuar-esperando-uma-cura-para-racismo-24455676)
 * [Gabriel Medina comemora escolha como maior surfista da história do Brasil](https://oglobo.globo.com/esportes/gabriel-medina-comemora-escolha-como-maior-surfista-da-historia-do-brasil-24455031)

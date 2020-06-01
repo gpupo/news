@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 00:26:41 UTC
+# indexed at 01/06/2020 00:35:43 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
 * [Janus WebRTC Server](https://janus.conf.meetecho.com/)
-* [This DX7 Cartridge Does Not Exist](https://www.thisdx7cartdoesnotexist.com/)
 * [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
 * [Christo has died](https://www.theguardian.com/artanddesign/2020/may/31/christo-artist-who-wrapped-the-reichstag-dies-aged-84)
+* [This DX7 Cartridge Does Not Exist](https://www.thisdx7cartdoesnotexist.com/)
 * [Basic Intro to Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
-* [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
 * [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
+* [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
 * [The Trolley Problem Problem](https://aeon.co/essays/what-is-the-problem-with-ethical-trolley-problems)
 * [Autism severity can change substantially during early childhood, study suggests](https://health.ucdavis.edu/health-news/contenthub/autism-severity-can-change-substantially-during-early-childhood/2020/05)
 * [Hacker News Security](https://news.ycombinator.com/security.html)
+* [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
 * [Crew Dragon Docks with ISS](https://spacenews.com/crew-dragon-docks-with-iss-2/)
 * [UK government MPs are using Signal’s automatic deletion feature](https://www.private-eye.co.uk/issue-1522/news)
 * [Liquid Cities: Japanese architecture and science fiction](https://placesjournal.org/article/liquid-cities)
-* [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
 * [Sonder: E-Ink Keyboard](https://sonderdesign.com/keyboard/)
-* [Did the Italians Teach the French the Art of the Vinaigrette?](https://lithub.com/did-the-italians-actually-teach-the-french-the-art-of-the-vinaigrette/)
-* [Accretor Cellular Automata](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
-* [Pinebook Pro, First Impressions](https://bentsukun.ch/posts/pinebook-pro/)
-* [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
-* [Chemical analysis and origin of the smell of line-dried laundry](https://www.publish.csiro.au/en/EN19206)
-* [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
-* [The rise of React](https://increment.com/frontend/the-rise-of-react/)
+* [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
 * [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
+* [Chemical analysis and origin of the smell of line-dried laundry](https://www.publish.csiro.au/en/EN19206)
+* [Accretor Cellular Automata](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
+* [Did the Italians Teach the French the Art of the Vinaigrette?](https://lithub.com/did-the-italians-actually-teach-the-french-the-art-of-the-vinaigrette/)
+* [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
+* [Pinebook Pro, First Impressions](https://bentsukun.ch/posts/pinebook-pro/)
 * [Featherweight Go](https://arxiv.org/abs/2005.11710)
+* [The rise of React](https://increment.com/frontend/the-rise-of-react/)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [Measuring keyboard-to-photon latency with a light sensor](https://thume.ca/2020/05/20/making-a-latency-tester/)
-* [Xfce switches to GitLab](https://simon.shimmerproject.org/2020/04/30/xfce-switches-to-gitlab/)
+* [Vibe: Video Human Pose Estimation](https://github.com/mkocabas/VIBE)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [Mexico’s President Says Most Domestic Violence Calls Are ‘Fake’](https://www.nytimes.com/2020/05/31/world/americas/violence-women-mexico-president.html)
 * [Herb Stempel, Quiz Show Whistle-Blower, Is Dead at 93](https://www.nytimes.com/2020/05/31/us/herbert-stempel-dead.html)
 * [Risky Strategy by Many Private Colleges Leaves Them Exposed](https://www.nytimes.com/2020/05/26/upshot/virus-colleges-risky-strategy.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [A London Home Goes From Georgian to Modern, With a Detour](https://www.nytimes.com/2020/05/31/style/london-renovation-historic-townhouse.html)
 * [Domestic Rites](https://www.nytimes.com/2020/05/29/arts/jillian-tamaki-diary-project.html)
 * [Dance Companies Take Baby Steps Back to Rehearsal](https://www.nytimes.com/2020/05/28/arts/dance/ballet-rehearsals-coronavirus.html)

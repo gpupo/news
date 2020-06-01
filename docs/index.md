@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 05:09:09 UTC
+# indexed at 01/06/2020 05:34:42 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Programming as Theory Building (1985)](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
-* [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
 * [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com)
 * [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
-* [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
-* [Prowords](https://en.wikipedia.org/wiki/Procedure_word)
-* [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
 * [Rethinking of CGI as a selfhosted lambda server](https://trusted-cgi.reddec.net/)
+* [Prowords](https://en.wikipedia.org/wiki/Procedure_word)
+* [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
+* [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
+* [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
 * [Janus WebRTC Server](https://janus.conf.meetecho.com/)
-* [Strikingly (YC W13) is hiring product designers and engineers in Shanghai](http://www.strikingly.com/s/careers)
 * [This DX7 Cartridge Does Not Exist](https://www.thisdx7cartdoesnotexist.com/)
 * [Basic Intro to Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
 * [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
-* [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+* [Strikingly (YC W13) is hiring product designers and engineers in Shanghai](http://www.strikingly.com/s/careers)
 * [An Idiot’s guide to Support vector machines (2003) [pdf]](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
+* [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Christo has died](https://www.theguardian.com/artanddesign/2020/may/31/christo-artist-who-wrapped-the-reichstag-dies-aged-84)
-* [Brex Lays Off 62 Employees](https://www.thesfnews.com/local-startup-brex-lays-off-62-employees/56172)
-* [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
+* [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
+* [Brex Lays Off 62 Employees](https://www.thesfnews.com/local-startup-brex-lays-off-62-employees/56172)
 * [Autism severity can change substantially during early childhood, study suggests](https://health.ucdavis.edu/health-news/contenthub/autism-severity-can-change-substantially-during-early-childhood/2020/05)
+* [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 * [Crew Dragon Docks with ISS](https://spacenews.com/crew-dragon-docks-with-iss-2/)
-* [Microsoft copied new Windows Package Manager from rival AppGet, claims developer](https://www.theverge.com/2020/5/28/21272964/microsoft-winget-windows-package-manager-appget-copied)
-* [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
 * [Show HN: Print a WiFi Login Card](https://wifi.dev.bdw.to)
-* [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
+* [Mimir – A Near-Infrared Wide-Field Imager, Spectrometer and Polarimeter](http://people.bu.edu/clemens/mimir/)
+* [Ask HN: I'm an incoming freshman to college for a CS major, what should I know?](https://news.ycombinator.com/item?id=23371530)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
+* [Show HN: k3sup ('ketchup') – bootstrap Kubernetes with k3s over SSH](https://github.com/alexellis/k3sup)
 * [Hacker News Security](https://news.ycombinator.com/security.html)
 * [Did the Italians Teach the French the Art of the Vinaigrette?](https://lithub.com/did-the-italians-actually-teach-the-french-the-art-of-the-vinaigrette/)
-* [Liquid Cities: Japanese architecture and science fiction](https://placesjournal.org/article/liquid-cities)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [Mexico’s President Says Most Domestic Violence Calls Are ‘Fake’](https://www.nytimes.com/2020/05/31/world/americas/violence-women-mexico-president.html)
 * [Herb Stempel, Quiz Show Whistle-Blower, Is Dead at 93](https://www.nytimes.com/2020/05/31/us/herbert-stempel-dead.html)
 * [Risky Strategy by Many Private Colleges Leaves Them Exposed](https://www.nytimes.com/2020/05/26/upshot/virus-colleges-risky-strategy.html)
-* [So You Had a Bad Day …](https://www.nytimes.com/2020/05/12/smarter-living/coronavirus-bad-day.html)
-* [A Guide for First-Time Pet Owners During the Pandemic](https://www.nytimes.com/2020/05/06/smarter-living/a-guide-for-first-time-pet-owners-during-the-pandemic.html)
-* [Burnt Out on Home Schooling?](https://www.nytimes.com/2020/05/13/parenting/coronavirus-remote-learning-burn-out.html)
-* [How to Rethink Your Wedding](https://www.nytimes.com/2020/05/11/style/self-care/rethink-your-wedding-coronavirus.html)
-* [Three Stretches to Tend to the Aches and Pains of Working From Home](https://www.nytimes.com/2020/05/19/well/three-stretches-to-tend-to-the-aches-and-pains-of-working-from-home.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [A London Home Goes From Georgian to Modern, With a Detour](https://www.nytimes.com/2020/05/31/style/london-renovation-historic-townhouse.html)
 * [Domestic Rites](https://www.nytimes.com/2020/05/29/arts/jillian-tamaki-diary-project.html)
 * [Dance Companies Take Baby Steps Back to Rehearsal](https://www.nytimes.com/2020/05/28/arts/dance/ballet-rehearsals-coronavirus.html)
 * [I Love You, Kid, but Please Get Off Me](https://www.nytimes.com/2020/05/27/parenting/virus-clingy-kids-in-lockdown.html)
 * [‘I Just Let Myself Go’: Igor Levit on Surviving a Satie Marathon](https://www.nytimes.com/2020/05/31/arts/music/igor-levit-vexations.html)
-* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
-* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Long Limbs Helped Propel T. Rex Up the Dinosaur Food Chain](https://www.nytimes.com/2020/05/23/science/tyrannosaurus-rex-legs.html)
+* [How to Improve and Protect Nursing Homes From Outbreaks](https://www.nytimes.com/2020/05/22/health/coronavirus-nursing-homes.html)
 * [Trump Administration Coronavirus Testing Strategy Draws Concerns: 'This Isn't the Hunger Games'](https://www.nytimes.com/2020/05/25/health/coronavirus-testing-trump.html)
+* [Scientists Question Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 * [Keep These Recipes](https://www.nytimes.com/2020/05/29/dining/keep-these-recipes.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,7 +102,7 @@ layout: default
 ## globo.com
 
 
-* [Polícia investiga a presença de símbolo neonazista em protesto na Avenida Paulista](https://oglobo.globo.com/brasil/policia-investiga-presenca-de-simbolo-neonazista-em-protesto-na-avenida-paulista-24455777)
+* [Jorge Jesus faz um ano de Flamengo com idolatria, frases marcantes e mais títulos que derrotas](https://oglobo.globo.com/esportes/flamengo/jorge-jesus-faz-um-ano-de-flamengo-com-idolatria-frases-marcantes-mais-titulos-que-derrotas-24455914)
 * [Criminosos foragidos recebem o auxílio emergencial de R$ 600](https://oglobo.globo.com/economia/criminosos-foragidos-recebem-auxilio-emergencial-de-600-1-24455815)
 * [Morre o juiz Nicolau dos Santos Neto](https://oglobo.globo.com/brasil/morre-juiz-nicolau-dos-santos-neto-24455812)
 * [Hora de concertação](https://oglobo.globo.com/opiniao/hora-de-concertacao-24454114)

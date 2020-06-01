@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/06/2020 14:09:21 UTC
+# indexed at 01/06/2020 14:34:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [How to Become a Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
-* [Linux 5.7](https://lore.kernel.org/lkml/CAHk-=wiZGrCkiBB1V7bxp8NZH6yWi9mPM4ptMW16OzOiNprBFA@mail.gmail.com/T/#u)
 * [Microsoft credits maker of package manager it 'copied', but offers no apology](https://www.zdnet.com/article/microsoft-credits-maker-of-package-manager-it-copied-for-windows-10-but-offers-no-apology/)
+* [We ditched Google Analytics](https://missiveapp.com/blog/privacy-first-analytics)
 * [UVB radiation was the Devonian-Carboniferous extinction kill mechanism](https://advances.sciencemag.org/content/6/22/eaba0768)
 * [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
 * [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com)
 * [Twitter, Reddit support challenge of visa applicant social media reg requirement](https://knightcolumbia.org/content/twitter-reddit-file-in-support-of-lawsuit-challenging-us-governments-social-media-registration-requirement-for-visa-applicants)
-* [Extra salty sodium battery performs on par with lithium](https://newatlas.com/energy/sodium-battery-alternative-lithium/)
-* [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 * [O.J., Accounting Fraud, Icahn: The Story of Hertz Going Bust](https://www.bloomberg.com/news/articles/2020-05-24/o-j-accounting-fraud-and-icahn-the-story-of-hertz-going-bust)
+* [Solid – A declarative JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
+* [Extra salty sodium battery performs on par with lithium](https://newatlas.com/energy/sodium-battery-alternative-lithium/)
+* [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
 * [Programming as Theory Building (1985)](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [Prowords](https://en.wikipedia.org/wiki/Procedure_word)
 * [Ask HN: Am I the longest-serving programmer – 57 years and counting?](https://news.ycombinator.com/item?id=23366546)
+* [San Francisco faces fiscal chaos](https://wolfstreet.com/2020/05/31/san-francisco-epitome-of-everything-bubble-faces-fiscal-chaos-boom-and-bust-always/)
 * [Rethinking of CGI as a selfhosted lambda server](https://trusted-cgi.reddec.net/)
-* [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
 * [An Idiot’s guide to Support vector machines (2003) [pdf]](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
 * [You Could Probably Hibernate](https://www.theatlantic.com/health/archive/2020/01/human-hibernation-real-possibility/605071/)
 * [Does Transparency in Moderation Matter? [pdf]](https://dl.acm.org/doi/pdf/10.1145/3359252)
-* [The EU is beginning to believe the UK wants Brexit trade talks to fail](https://www.businessinsider.com/brexit-trade-talks-eu-uk-negotiations-fail-transition-period-2020-5)
-* [Mark Zuckerberg faces employee blowback over ruling on Trump comments](https://www.reuters.com/article/us-facebook-trump-employee-criticism/facebooks-zuckerberg-faces-employee-blowback-over-ruling-on-trump-comments-idUSKBN2382D0)
 * [40 uses for Germanium Diodes [pdf]](https://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf)
 * [SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships](https://github.com/a1studmuffin/SpaceshipGenerator)
-* [This DX7 Cartridge Does Not Exist](https://www.thisdx7cartdoesnotexist.com/)
+* [Australia to refund $720m in Centrelink ‘debts’ calculated by unlawful algorithm](https://tech.newstatesman.com/public-sector/australia-to-refund-centrelink-debts)
 * [SpaceX successfully launches two humans into orbit](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon)
 * [A 1/48 scale model of the SpaceX Falcon Heavy rocket](https://bps.space/falcon-heavy)
-* [The 5.7 kernel is out](https://lwn.net/Articles/821829/)
-* [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
-* [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
+* [Apple Doubles the Price of RAM Upgrade on Entry-Level 13-Inch MacBook Pro](https://www.macrumors.com/2020/05/30/13-inch-macbook-pro-ram-upgrade-doubled/)
 * [What is the best and right way to open-source packages from a company monorepo?](https://news.ycombinator.com/item?id=23377012)
-* [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
+* [America’s Never-Ending Battle Against Flesh-Eating Worms](https://www.theatlantic.com/science/archive/2020/05/flesh-eating-worms-disease-containment-america-panama/611026/)
+* [Image Scrubber: tool for anonymizing photographs taken at protests](https://everestpipkin.github.io/image-scrubber/)
+* [Zynga to buy Peak Games for $1.8B](https://www.businessinsider.com/zynga-acquires-peak-gaming-1-8-billion-2020-6)
+* [The Battle of Helm’s Deep, Part V: Ladders Are Chaos](https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos/)
 ## nytimes.com
 
 
@@ -87,19 +87,19 @@ layout: default
 * [Nazi or Hero? Historian Looks at the Stories a German Consultant Told of His Father](https://www.nytimes.com/2020/05/31/business/roland-berger-father-nazi-historian.html)
 * [Campaign Funds for Judges Warp Criminal Justice, Study Finds](https://www.nytimes.com/2020/06/01/us/campaign-finance-criminal-justice-judges.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
 * [Live From New York, It’s Jazz at a Distance](https://www.nytimes.com/2020/05/31/arts/music/jazz-smalls-coronavirus-concerts.html)
 * [Navigating the Wilds of Maternal Love](https://www.nytimes.com/2020/05/29/well/family/navigating-the-wilds-of-maternal-love.html)
 * [Finding the Sweet, Stinging Salt in Plays of Confinement](https://www.nytimes.com/2020/05/31/theater/confinement-plays-beckett.html)
 * [Take a Virtual Tour of the Financial District and the Battery](https://www.nytimes.com/2020/05/29/arts/design/manhattan-virtual-tour-virus.html)
 * [Norman Lamm, 92, Dies; Rescued Yeshiva U. From Brink of Bankruptcy](https://www.nytimes.com/2020/05/31/obituaries/Norman-Lamm-Dead.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
-* [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
-* [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
+* [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
+* [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
 * [Coronavirus Showed How Globalization Broke the World](https://www.nytimes.com/2020/05/30/opinion/sunday/coronavirus-globalization.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
-* [Corpo técnico e Ministério Público sugerem rejeição das contas do governador do Rio, Wilson Witzel](https://oglobo.globo.com/rio/corpo-tecnico-ministerio-publico-sugerem-rejeicao-das-contas-do-governador-do-rio-wilson-witzel-2-24456306)
+* [Spike Lee lança curta-metragem comparando morte de George Floyd a de personagem de 'Faça a coisa certa'](https://oglobo.globo.com/cultura/filmes/spike-lee-lanca-curta-metragem-comparando-morte-de-george-floyd-de-personagem-de-faca-coisa-certa-24456186)
+* ['Black Out Tuesday': Indústria da música promete 'apagão' na terça-feira em apoio a protestos por George Floyd](https://oglobo.globo.com/cultura/musica/black-out-tuesday-industria-da-musica-promete-apagao-na-terca-feira-em-apoio-protestos-por-george-floyd-24456320)
+* [Coronavírus: pandemia altera maior missão científica no Ártico](https://oglobo.globo.com/sociedade/coronavirus-pandemia-altera-maior-missao-cientifica-no-artico-24456311)
+* [Mercado inicia semana de olho em tensões entre China e EUA; Bolsa recua e dólar sobe a R$ 5,34](https://oglobo.globo.com/economia/mercado-inicia-semana-de-olho-em-tensoes-entre-china-eua-bolsa-recua-dolar-sobe-r-534-24456343)
+* [Corpo técnico do TCE e Ministério Público sugerem rejeição das contas de Witzel de 2019](https://oglobo.globo.com/rio/corpo-tecnico-do-tce-ministerio-publico-sugerem-rejeicao-das-contas-de-witzel-de-2019-24456306)
 * [Especialista diz que volta às aulas após o fim do isolamento 'vai ser um grande problema'](https://oglobo.globo.com/rio/especialista-diz-que-volta-as-aulas-apos-fim-do-isolamento-vai-ser-um-grande-problema-1-24456253)
 * [Pandemia e fim da parceria com a Boeing levam Embraer a um prejuízo de R$ 1,2 bilhão](https://oglobo.globo.com/economia/pandemia-fim-da-parceria-com-boeing-levam-embraer-um-prejuizo-de-12-bilhao-24456288)
 * [Mercado vê queda de mais de 6% do PIB em 2020, após resultado do primeiro trimestre](https://oglobo.globo.com/economia/mercado-ve-queda-de-mais-de-6-do-pib-em-2020-apos-resultado-do-primeiro-trimestre-24456254)
 * [Moro agiu de forma 'covarde' e defendia 'outra ideologia', diz Bolsonaro](https://oglobo.globo.com/brasil/moro-agiu-de-forma-covarde-defendia-outra-ideologia-diz-bolsonaro-24456271)
-* [Spike Lee lança curta-metragem comparado morte de George Floyd e de persomagem de 'Faça a coisa certa'](https://oglobo.globo.com/cultura/filmes/spike-lee-lanca-curta-metragem-comparado-morte-de-george-floyd-de-persomagem-de-faca-coisa-certa-24456186)
-* [Príncipe Harry já teve conta no Facebook usando pseudônimo Spike Wells](https://oglobo.globo.com/ela/gente/principe-harry-ja-teve-conta-no-facebook-usando-pseudonimo-spike-wells-24456233)
 * [Bolsonaro recomenda a apoiadores não realizarem manifestação no domingo para evitar confronto](https://oglobo.globo.com/brasil/bolsonaro-recomenda-apoiadores-nao-realizarem-manifestacao-no-domingo-para-evitar-confronto-24456237)
-* [Coronavírus: Como cidade na fronteira com Brasil se tornou a líder de casos de covid-19 na Colômbia](https://epoca.globo.com/mundo/coronavirus-como-cidade-na-fronteira-com-brasil-se-tornou-lider-de-casos-de-covid-19-na-colombia-1-24456214)
-* [Agências pressionam atores para receber percentual mensal de contratos](https://epoca.globo.com/guilherme-amado/agencias-pressionam-atores-para-receber-percentual-mensal-de-contratos-24454023)

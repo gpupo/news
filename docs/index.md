@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/06/2020 01:34:30 UTC
+# indexed at 02/06/2020 02:09:46 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
 * [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
 * [Apple patches CVE-2020-9859 (unc0ver)](https://support.apple.com/en-us/HT211214)
-* [Reconstructing a lost NES game from 30-year-old source code disks](https://gamehistory.org/days-of-thunder-nes-unreleased/)
-* [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
 * [Protests become fertile ground for online disinformation](https://www.npr.org/2020/06/01/867137863/none-of-this-is-true-protests-become-fertile-ground-for-online-disinformation)
+* [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
+* [Reconstructing a lost NES game from 30-year-old source code disks](https://gamehistory.org/days-of-thunder-nes-unreleased/)
 * [America has more new spaceships on the way](https://arstechnica.com/science/2020/06/after-dragons-historic-docking-america-has-more-new-spaceships-on-the-way/)
-* [Norimaki Synthesizer: Taste Display Using Ion Electrophoresis in Five Gels](https://research.miyashita.com/papers/I42)
-* [How to Become a Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
 * [Tesla Model 3 Drives into Overturned Truck in Apparent Autopilot Failure](https://jalopnik.com/tesla-model-3-drives-straight-into-overturned-truck-in-1843827507)
+* [Norimaki Synthesizer: Taste Display Using Ion Electrophoresis in Five Gels](https://research.miyashita.com/papers/I42)
+* [As Qualified Immunity Takes Center Stage, More Delay from SCOTUS](https://www.unlawfulshield.com/2020/06/as-qualified-immunity-takes-center-stage-more-delay-from-scotus/)
+* [C Internals](http://www.avabodh.com/cin/cin.html)
+* [Publishers File Suit Against Internet Archive](https://publishers.org/news/publishers-file-suit-against-internet-archive-for-systematic-mass-scanning-and-distribution-of-literary-works/)
 * [Researchers create active material out of microscopic spinning particles](https://phys.org/news/2020-05-material-microscopic-particles.html)
 * [Google Is Not God of the Web](https://bilge.world/google-page-experience)
-* [As Qualified Immunity Takes Center Stage, More Delay from SCOTUS](https://www.unlawfulshield.com/2020/06/as-qualified-immunity-takes-center-stage-more-delay-from-scotus/)
-* [The Aesthetics of Science Fiction Spaceship Design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935)
-* [Publishers File Suit Against Internet Archive](https://publishers.org/news/publishers-file-suit-against-internet-archive-for-systematic-mass-scanning-and-distribution-of-literary-works/)
 * [Ask HN: Who wants to be hired? (June 2020)](https://news.ycombinator.com/item?id=23379194)
+* [The Aesthetics of Science Fiction Spaceship Design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935)
 * [How Eduardo Saverin sold Facebook ads in 2004 (2012)](https://digiday.com/media/how-eduardo-saverin-sold-facebook-ads-in-2004/)
+* [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
 * [Show HN: Ballparq – a small PaaS for Godot games](https://ballparq.games)
 * [How to Make this Moment the Turning Point for Real Change](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067)
-* [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
-* [BuildZoom (General Contractor Marketplace) Is Hiring Sales Reps and Engineers](https://jobs.lever.co/buildzoom)
 * [mDNS, Avahi and Docker non-root containers](https://gnaneshkunal.github.io/avahi-docker-non-root.html)
 * [Ask HN: Can you discuss CS in your native language?](https://news.ycombinator.com/item?id=23377270)
+* [San Francisco, Silicon Valley rents plunge amid downturn](https://www.sfchronicle.com/business/article/San-Francisco-Silicon-Valley-rents-saw-sharp-15307118.php)
 ## nytimes.com
 
 
@@ -50,7 +50,6 @@ layout: default
 * [Shattered Glass in SoHo as Looters Ransack Lower Manhattan](https://www.nytimes.com/2020/06/01/nyregion/nyc-looting-protests.html)
 * [Police Target Journalists as Trump Blames ‘Lamestream Media’ for Protests](https://www.nytimes.com/2020/06/01/business/media/reporters-protests-george-floyd.html)
 * [Misinformation About George Floyd Protests Surges on Social Media](https://www.nytimes.com/2020/06/01/technology/george-floyd-misinformation-online.html)
-* [Facebook Employees Stage Virtual Walkout to Protest Trump Posts](https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/06/01/world/coronavirus-world-news.html)
 * [Is America’s Pandemic Waning or Raging? Yes](https://www.nytimes.com/2020/06/01/us/coronavirus-united-states.html)
 * [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
@@ -82,11 +81,11 @@ layout: default
 * [Netanyahu’s Annexation Plans Meet Surprise Opponent: Israeli Settlers](https://www.nytimes.com/2020/06/01/world/middleeast/israel-annex-netanyahu-westbank.html)
 * [After Reality Star’s Death, Japan Vows to Rip the Mask Off Online Hate](https://www.nytimes.com/2020/06/01/business/hana-kimura-terrace-house.html)
 * [Karen Blumenthal, 61, Dies; Journalist Turned Young-Adult Author](https://www.nytimes.com/2020/05/31/books/karen-blumenthal-dead.html)
-* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
+* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Loving the Lockdown](https://www.nytimes.com/2020/05/29/realestate/coronavirus-lockdown-coping.html)
 * [Everyone Is Mad at Virgil Abloh Over the George Floyd Protests](https://www.nytimes.com/2020/06/01/style/virgil-abloh-george-floyd-protests.html)
 * [Gay Couples Can Teach Straight People a Thing or Two About Arguing](https://www.nytimes.com/2020/06/01/parenting/relationship-advice-gay-straight.html)
@@ -94,8 +93,8 @@ layout: default
 * ['The Plague' and 'Dekalog' Show Innovation in German-Language Theater](https://www.nytimes.com/2020/05/28/theater/plague-dekalog-theater-german.html)
 * [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
 * [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
-* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
+* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Gladys Cortes, ‘Miracle Baby’ Moved to Help Others, Dies at 48](https://www.nytimes.com/2020/05/29/nyregion/gladys-cortes-dead-coronavirus.html)
 * [Tara Reade’s Tumultuous Journey to the 2020 Campaign](https://www.nytimes.com/2020/05/31/us/politics/tara-reade-joe-biden.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -104,8 +103,9 @@ layout: default
 ## globo.com
 
 
+* [Trump promete acionar Forças Armadas para conter tumultos em protestos](https://epoca.globo.com/mundo/trump-promete-acionar-forcas-armadas-para-conter-tumultos-em-protestos-24457787)
+* [Defesa diz que não há indícios para que Witzel figure como investigado e pede que apuração siga para primeira instância](https://oglobo.globo.com/rio/defesa-diz-que-nao-ha-indicios-para-que-witzel-figure-como-investigado-pede-que-apuracao-siga-para-primeira-instancia-24457754)
 * [Imagens mostram agressões relatadas por médica após 'festa do corona' no Grajaú](https://oglobo.globo.com/rio/imagens-mostram-agressoes-relatadas-por-medica-apos-festa-do-corona-no-grajau-24457684)
-* [ANS mantém prazos estendidos para atendimentos não emergenciais pelos planos de saúde até 9 de junho](https://oglobo.globo.com/economia/ans-mantem-prazos-estendidos-para-atendimentos-nao-emergenciais-pelos-planos-de-saude-ate-9-de-junho-1-24457528)
 * [Victor Ribas, Silvana Lima, Phil Rajzman: ausências na lista dos 10 maiores surfistas](https://oglobo.globo.com/esportes/victor-ribas-silvana-lima-phil-rajzman-ausencias-na-lista-dos-10-maiores-surfistas-24457702)
 * [Marcelo Benevenuto, do Botafogo, acusa Maxi López de racismo: 'Preto de m...'](https://oglobo.globo.com/esportes/marcelo-benevenuto-do-botafogo-acusa-maxi-lopez-de-racismo-preto-de-m-24457653)
 * [Argentina adia para 12 de junho prazo final para renegociação de US$ 65 bi em dívidas](https://oglobo.globo.com/economia/argentina-adia-para-12-de-junho-prazo-final-para-renegociacao-de-us-65-bi-em-dividas-24457660)
@@ -113,4 +113,3 @@ layout: default
 * [Cientistas buscam locais críticos da pandemia em corrida para testar vacinas contra a Covid-19](https://oglobo.globo.com/sociedade/coronavirus/cientistas-buscam-locais-criticos-da-pandemia-em-corrida-para-testar-vacinascontra-covid-19-1-24457511)
 * [Rede privada analisa juridicamente assumir hospitais de campanha do Rio](https://oglobo.globo.com/rio/rede-privada-analisa-juridicamente-assumir-hospitais-de-campanha-do-rio-24457569)
 * [Palácio Guanabara tenso com temor de nova operação da PF esta semana](https://epoca.globo.com/guilherme-amado/palacio-guanabara-tenso-com-temor-de-nova-operacao-da-pf-esta-semana-24457536)
-* [Casos de feminicídio crescem 22,2% no Brasil durante a quarentena para conter novo coronavírus](https://oglobo.globo.com/celina/casos-de-feminicidio-crescem-222-no-brasil-durante-quarentena-para-conter-novo-coronavirus-24457356)

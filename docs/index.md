@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/06/2020 08:34:40 UTC
+# indexed at 02/06/2020 09:09:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Guide to Python Debugging](https://martinheinz.dev/blog/24)
-* [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
 * [C Internals](http://www.avabodh.com/cin/cin.html)
+* [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
 * [Understanding Latency Hiding on GPUs (2016) [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf)
+* [What Did Bach Sound Like to Bach?](https://www.neh.gov/article/what-did-bach-sound-bach)
 * [A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
-* [Debian Handbook for Debian 10 Buster](https://debian-handbook.info/browse/stable/)
 * [Modern Portfolio Theory: A Case Study on Turnips](https://www.shawenyao.com/Modern-Portfolio-Theory-a-Case-Study-on-Turnips/)
+* [Show HN: FontEdit – A desktop app to develop fonts for embedded systems displays](https://github.com/ayoy/fontedit)
 * ['Dord': A Ghost Word](https://www.merriam-webster.com/words-at-play/dord-a-ghost-word)
 * [De-Escalation Keeps Protesters and Police Safer](https://fivethirtyeight.com/features/de-escalation-keeps-protesters-and-police-safer-heres-why-departments-respond-with-force-anyway/)
-* [Show HN: FontEdit – A desktop app to develop fonts for embedded systems displays](https://github.com/ayoy/fontedit)
 * [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
 * [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
 * [Some coronavirus patients haven't gotten their senses of smell or taste back yet](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
-* [What Did Bach Sound Like to Bach?](https://www.neh.gov/article/what-did-bach-sound-bach)
 * [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
-* [White nationalist group posing as antifa called for violence on Twitter](https://www.nbcnews.com/tech/security/twitter-takes-down-washington-protest-disinformation-bot-behavior-n1221456)
 * [Climate change has setnetters worried about Alaska’s sockeye](https://www.hcn.org/issues/52.6/north-climate-change-has-setnetters-worried-about-alaskas-sockeye)
 * [Apple patches CVE-2020-9859 (unc0ver)](https://support.apple.com/en-us/HT211214)
-* [Stitch Fix to Lay off About 1,400 Employees in California](https://www.wsj.com/articles/stitch-fix-to-lay-off-about-1-400-employees-in-california-11591053525)
-* [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
 * [Soviet Posters](https://www.sovietposters.com/)
+* [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
 * [Tesla Model 3 Drives into Overturned Truck in Apparent Autopilot Failure](https://jalopnik.com/tesla-model-3-drives-straight-into-overturned-truck-in-1843827507)
-* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
+* [Stitch Fix to Lay off About 1,400 Employees in California](https://www.wsj.com/articles/stitch-fix-to-lay-off-about-1-400-employees-in-california-11591053525)
 * [Norimaki Synthesizer: Taste Display Using Ion Electrophoresis in Five Gels](https://research.miyashita.com/papers/I42)
-* [Google Is Not God of the Web](https://bilge.world/google-page-experience)
+* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
+* [White nationalist group posing as antifa called for violence on Twitter](https://www.nbcnews.com/tech/security/twitter-takes-down-washington-protest-disinformation-bot-behavior-n1221456)
 * [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
-* [What Is The Insurrection Act?](https://www.npr.org/2020/06/01/867467714/what-is-the-insurrection-act-that-trump-is-threatening-to-invoke#umm)
+* [Torvalds Blasts “Beyond Stupid” Flushing L1d on Context Switches](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Blasts-L1d-Flushing)
+* [Google Is Not God of the Web](https://bilge.world/google-page-experience)
+* [Debian Handbook for Debian 10 Buster](https://debian-handbook.info/browse/stable/)
 * [How Eduardo Saverin sold Facebook ads in 2004 (2012)](https://digiday.com/media/how-eduardo-saverin-sold-facebook-ads-in-2004/)
-* [Hundreds of Facebook employees walk out as Zuckerberg plans town hall tomorrow](https://www.cnbc.com/2020/06/01/facebook-employees-stage-virtual-walkout-over-trump-post-moderation.html)
 * [Researchers create active material out of microscopic spinning particles](https://phys.org/news/2020-05-material-microscopic-particles.html)
+* [Show HN: Ballparq – a small PaaS for Godot games](https://ballparq.games)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [They Fled Asia as Refugees. Now They Are Caught in the Middle of Minneapolis.](https://www.nytimes.com/2020/06/01/us/hmong-americans-minneapolis-george-floyd.html)
 * [Trump and Putin Discuss Russia’s Attendance at G7, but Allies Are Wary](https://www.nytimes.com/2020/06/01/us/politics/trump-putin-g7.html)
 * [After Reality Star’s Death, Japan Vows to Rip the Mask Off Online Hate](https://www.nytimes.com/2020/06/01/business/hana-kimura-terrace-house.html)
-* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
+* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Loving the Lockdown](https://www.nytimes.com/2020/05/29/realestate/coronavirus-lockdown-coping.html)
 * [Everyone Is Mad at Virgil Abloh Over the George Floyd Protests](https://www.nytimes.com/2020/06/01/style/virgil-abloh-george-floyd-protests.html)
 * [Gay Couples Can Teach Straight People a Thing or Two About Arguing](https://www.nytimes.com/2020/06/01/parenting/relationship-advice-gay-straight.html)
 * [Celebrating Pride on Film](https://www.nytimes.com/2020/06/01/movies/pride-parade-movies-virus.html)
 * ['The Plague' and 'Dekalog' Show Innovation in German-Language Theater](https://www.nytimes.com/2020/05/28/theater/plague-dekalog-theater-german.html)
-* [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
+* [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
-* [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
+* [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [Chiara de Blasio Arrest: Police Union Disclosed Information in Privacy Breach](https://www.nytimes.com/2020/06/01/nyregion/chiara-de-blasio-arrest.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Como atos antirracistas viraram uma crise política nos EUA?](https://oglobo.globo.com/podcast/como-atos-antirracistas-viraram-uma-crise-politica-nos-eua-24457882)
 * [‘A gente não pode deixar prosperar excessos’, diz líder do governo sobre crise com o STF e Congresso](https://oglobo.globo.com/brasil/a-gente-nao-pode-deixar-prosperar-excessos-diz-lider-do-governo-sobre-crise-com-stf-congresso-24457817)
 * [Alvo de inquérito do STF, deputado ‘youtuber’ cita intervenção militar e avisa que anda armado](https://oglobo.globo.com/brasil/alvo-de-inquerito-do-stf-deputado-youtuber-cita-intervencao-militar-avisa-que-anda-armado-24457706)
-* [Coronavírus: Pesquisa recomenda distanciamento de 2 metros ou mais de pessoas infectadas](https://oglobo.globo.com/sociedade/coronavirus/coronavirus-pesquisa-recomenda-distanciamento-de-2-metros-ou-mais-de-pessoas-infectadas-1-24457761)
 * [Após passar por modificações, senadores votam nesta terça-feira o PL das Fake News](https://oglobo.globo.com/brasil/apos-passar-por-modificacoes-senadores-votam-nesta-terca-feira-pl-das-fake-news-24457762)
-* [Yusuf, ex-Cat Stevens, cria novas versões para sucessos como 'Wild world' e planeja animação inspirada no Rio](https://oglobo.globo.com/cultura/yusuf-ex-cat-stevens-cria-novas-versoes-para-sucessos-como-wild-world-planeja-animacao-inspirada-no-rio-24447216)
 * [Centrão prepara nova rodada de pedidos ao governo](https://oglobo.globo.com/brasil/centrao-prepara-nova-rodada-de-pedidos-ao-governo-24457552)
-* [Faça você mesmo: restaurantes vendem ingredientes a quem quer dar seu toque de chef em casa](https://oglobo.globo.com/economia/faca-voce-mesmo-restaurantes-vendem-ingredientes-quem-quer-dar-seu-toque-de-chef-em-casa-24457709)
+* [Pesquisa revela pessimismo entre médicos sobre pico de casos de coronavírus](https://epoca.globo.com/sociedade/pesquisa-revela-pessimismo-entre-medicos-sobre-pico-de-casos-de-coronavirus-24456622)
 * [Como torcidas de futebol tentam retomar história de participação política](https://oglobo.globo.com/esportes/como-torcidas-de-futebol-tentam-retomar-historia-de-participacao-politica-24457718)
 * [Que os infectados nos clubes do Rio se recuperem logo, mas, antes, os dirigentes precisam recobrar a consciência](https://oglobo.globo.com/esportes/que-os-infectados-nos-clubes-do-rio-se-recuperem-logo-mas-antes-os-dirigentes-precisam-recobrar-consciencia-24457583)
 * [Covid-19: Índia estende quarentena até junho, mas apenas para parte do país](https://oglobo.globo.com/mundo/covid-19-india-estende-quarentena-ate-junho-mas-apenas-para-parte-do-pais-24457539)
+* [Quarentena pode agravar transtornos alimentares. Saiba como identificá-los e o que fazer](https://oglobo.globo.com/celina/quarentena-pode-agravar-transtornos-alimentares-saiba-como-identifica-los-o-que-fazer-24452847)

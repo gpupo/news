@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 02/06/2020 12:12:01 UTC
+# indexed at 02/06/2020 12:34:49 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Le fardier de Cugnot: Replica of the first automobile](http://www.lefardierdecugnot.fr/Accueil%20en%20anglais.htm)
-* [Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [Why Our Intuition About Sea-Level Rise Is Wrong](http://oceans.nautil.us/feature/564/why-our-intuition-about-sea-level-rise-is-wrong)
+* [Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [Russia’s Elbrus 8CB Microarchitecture: 8-Core VLIW on TSMC 28nm](https://www.anandtech.com/show/15823/russias-elbrus-8cb-microarchitecture-8core-vliw-on-tsmc-28nm)
 * [Kuesa 3D 1.2](https://www.kdab.com/kuesa-3d-1-2-release/)
 * [C Internals](http://www.avabodh.com/cin/cin.html)
@@ -26,17 +26,17 @@ layout: default
 * [Some coronavirus patients haven't gotten their senses of smell or taste back yet](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
 * [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
 * [IP-in-IP protocol routes arbitrary traffic by default](https://kb.cert.org/vuls/id/636397)
-* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
 * [Stitch Fix to Lay off About 1,400 Employees in California](https://www.wsj.com/articles/stitch-fix-to-lay-off-about-1-400-employees-in-california-11591053525)
+* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
 * [Climate change has setnetters worried about Alaska’s sockeye](https://www.hcn.org/issues/52.6/north-climate-change-has-setnetters-worried-about-alaskas-sockeye)
 * [Pencil Leaners](https://sydneyreviewofbooks.com/essay/sparrow-pencil-leaners/)
+* [Penrose: From mathematical notation to beautiful diagrams](http://penrose.ink/siggraph20)
 * [Debian Handbook for Debian 10 Buster](https://debian-handbook.info/browse/stable/)
-* [The Dream of a Lifetime (2005)](https://www.technologyreview.com/s/404497/the-dream-of-a-lifetime/)
 * [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
-* [Seven years later, I bought a new MacBook. For the first time, I don't love it](https://cfenollosa.com/blog/seven-years-later-i-bought-a-new-macbook-for-the-first-time-i-dont-love-it.html)
+* [The Dream of a Lifetime (2005)](https://www.technologyreview.com/s/404497/the-dream-of-a-lifetime/)
 * [Researchers create active material out of microscopic spinning particles](https://phys.org/news/2020-05-material-microscopic-particles.html)
 * ['Dord': A Ghost Word](https://www.merriam-webster.com/words-at-play/dord-a-ghost-word)
-* [Penrose: From mathematical notation to beautiful diagrams](http://penrose.ink/siggraph20)
+* [Seven years later, I bought a new MacBook. For the first time, I don't love it](https://cfenollosa.com/blog/seven-years-later-i-bought-a-new-macbook-for-the-first-time-i-dont-love-it.html)
 * [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
 ## nytimes.com
 
@@ -60,6 +60,7 @@ layout: default
 * [Judge Asks Court Not to ‘Short Circuit’ His Review of Flynn Case](https://www.nytimes.com/2020/06/01/us/politics/emmet-sullivan-michael-flynn-appeals-court.html)
 * [What Pennsylvania’s ‘Dry Run’ Election Could Reveal About November](https://www.nytimes.com/2020/06/02/us/politics/pennsylvania-primary-election.html)
 * [Republicans Fear Trump’s Criticism of Mail Voting Will Hurt Them](https://www.nytimes.com/2020/06/02/us/politics/republicans-mail-voting-trump.html)
+* [8 States and Washington, D.C., Hold Primaries: What to Watch For](https://www.nytimes.com/2020/06/02/us/politics/2020-primary-elections-today.html)
 * [Voices From the Protests](https://www.nytimes.com/2020/06/02/briefing/protests-coronavirus-primary-election-your-tuesday-briefing.html)
 * [Protests in N.Y.C.: Latest Updates](https://www.nytimes.com/2020/06/02/nyregion/protests-nyc.html)
 * [The Systems That Protect the Police](https://www.nytimes.com/2020/06/02/podcasts/the-daily/george-floyd-protests.html)
@@ -88,20 +89,20 @@ layout: default
 * [In Egypt, Images From American Protests Evoke a Lost Revolution](https://www.nytimes.com/2020/06/02/world/middleeast/protests-egypt-floyd-arab-spring.html)
 * [At Drive-in Disco, It ‘Feels like Saturday Again,’ Even Without a Dance Floor](https://www.nytimes.com/2020/06/02/world/europe/europe-germany-coronavirus-reopening.html)
 * [What New York’s Trash Reveals About Life Under Lockdown](https://www.nytimes.com/2020/06/02/nyregion/nyc-garbage-pickup-coronavirus.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Christo’s Billowy Visions, Fleeting but Unforgettable](https://www.nytimes.com/2020/06/01/arts/design/christo-appraisal-gates.html)
 * [Lessons From Robert Gober, Anxious Homebody](https://www.nytimes.com/2020/05/31/arts/design/robert-gober.html)
 * [Can I Tell My Uncle That His Gay Daughter Is Struggling?](https://www.nytimes.com/2020/06/02/magazine/can-i-tell-my-uncle-that-his-gay-daughter-is-struggling.html)
 * [Late Night Doesn’t Feel Much Like Laughing](https://www.nytimes.com/2020/06/02/arts/television/late-night-george-floyd-protests.html)
 * [America Is Obsessed With Cuba. But What Do We Know About Its Citizens?](https://www.nytimes.com/2020/05/26/books/review/the-cubans-anthony-depalma.html)
+* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
+* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
-* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [What It’s Like to Wear a Mask in the South](https://www.nytimes.com/2020/06/01/opinion/coronavirus-face-mask-south.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -109,13 +110,13 @@ layout: default
 ## globo.com
 
 
+* [Covid-19: Cartilha do Conselho Regional de Química ensina a higienizar os alimentos](https://oglobo.globo.com/sociedade/coronavirus-servico/covid-19-cartilha-do-conselho-regional-de-quimica-ensina-higienizar-os-alimentos-24458097)
+* ['Não pretendo apoiar prefeito em lugar nenhum', diz Bolsonaro sobre eleições municipais](https://oglobo.globo.com/brasil/nao-pretendo-apoiar-prefeito-em-lugar-nenhum-diz-bolsonaro-sobre-eleicoes-municipais-24458099)
+* [Polícia do Amazonas investiga empresários acusados de extrair 9 mil árvores centenárias](https://oglobo.globo.com/sociedade/policia-do-amazonas-investiga-empresarios-acusados-de-extrair-9-mil-arvores-centenarias-24458054)
+* [Coronavírus: o site que mostra se você mora em área de risco de covid-19](https://epoca.globo.com/sociedade/coronavirus-site-que-mostra-se-voce-mora-em-area-de-risco-de-covid-19-1-24458075)
 * [Coronavírus: Rádio catalã diz que Barcelona escondeu 5 testes positivos em jogadores](https://oglobo.globo.com/esportes/coronavirus-radio-catala-diz-que-barcelona-escondeu-5-testes-positivos-em-jogadores-24458024)
 * [Noel Gallagher nega antigo boato de affair com Rihanna: 'Gostaria que fosse verdade'](https://oglobo.globo.com/ela/gente/noel-gallagher-nega-antigo-boato-de-affair-com-rihanna-gostaria-que-fosse-verdade-24458051)
 * [Caixa libera saque de 2ª parcela do auxílio emergencial para nascidos em março nesta terça](https://oglobo.globo.com/economia/caixa-libera-saque-de-2-parcela-do-auxilio-emergencial-para-nascidos-em-marco-nesta-terca-24458057)
-* [Polícia do Amazonas investiga empresários acusados de extrair 9 mil árvores centenárias](https://oglobo.globo.com/sociedade/policia-do-amazonas-investiga-empresarios-acusados-de-extrair-9-mil-arvores-centenarias-24458054)
 * [Delta avalia o que fazer com 2.327 pilotos que estão sobrando](https://oglobo.globo.com/economia/delta-avalia-que-fazer-com-2327-pilotos-que-estao-sobrando-24457902)
 * [Senado vota hoje PL das Fake News, alvo de críticas de bolsonaristas a organizações de direito digital; entenda](https://epoca.globo.com/brasil/senado-vota-hoje-pl-das-fake-news-alvo-de-criticas-de-bolsonaristas-organizacoes-de-direito-digital-entenda-24457998)
-* [Veja o impacto até agora das principais medidas de crédito anunciadas pelo governo](https://oglobo.globo.com/economia/veja-impacto-ate-agora-das-principais-medidas-de-credito-anunciadas-pelo-governo-1-24455962)
-* [Exportadores dos EUA vendem soja à China apesar de tensões com a Casa Branca](https://oglobo.globo.com/economia/exportadores-dos-eua-vendem-soja-china-apesar-de-tensoes-com-casa-branca-24457973)
-* [STF não vai brigar publicamente com Bolsonaro: 'Vamos mantê-los ocupados com ações'](https://epoca.globo.com/guilherme-amado/stf-nao-vai-brigar-publicamente-com-bolsonaro-vamos-mante-los-ocupados-com-acoes-1-24457687)
 * [Educadora propõe mudanças na criação durante quarentena: 'Temos de abrir espaço para isso'](https://epoca.globo.com/guilherme-amado/educadora-propoe-mudancas-na-criacao-durante-quarentena-temos-de-abrir-espaco-para-isso-24457594)

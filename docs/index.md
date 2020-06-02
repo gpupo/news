@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/06/2020 00:34:38 UTC
+# indexed at 02/06/2020 01:10:00 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
+* [Protests become fertile ground for online disinformation](https://www.npr.org/2020/06/01/867137863/none-of-this-is-true-protests-become-fertile-ground-for-online-disinformation)
 * [Debian Handbook for Debian 10 Buster](https://debian-handbook.info/browse/stable/)
+* [Modern Portfolio Theory: A Case Study on Turnips](https://www.shawenyao.com/Modern-Portfolio-Theory-a-Case-Study-on-Turnips/)
 * [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
 * ['Dord': A Ghost Word](https://www.merriam-webster.com/words-at-play/dord-a-ghost-word)
-* [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
-* [Modern Portfolio Theory: A Case Study on Turnips](https://www.shawenyao.com/Modern-Portfolio-Theory-a-Case-Study-on-Turnips/)
+* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
+* [Some coronavirus patients haven't gotten their senses of smell or taste back yet](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
 * [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
+* [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
+* [De-Escalation Keeps Protesters and Police Safer](https://fivethirtyeight.com/features/de-escalation-keeps-protesters-and-police-safer-heres-why-departments-respond-with-force-anyway/)
 * [Apple patches CVE-2020-9859 (unc0ver)](https://support.apple.com/en-us/HT211214)
-* [Coronavirus Patients Sometimes Don't Get Back Taste, Smell Senses](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
-* [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
 * [Reconstructing a lost NES game from 30-year-old source code disks](https://gamehistory.org/days-of-thunder-nes-unreleased/)
-* [Google Is Not God of the Web](https://bilge.world/google-page-experience)
-* [Norimaki Synthesizer: Taste Display Using Ion Electrophoresis in Five Gels](https://research.miyashita.com/papers/I42)
-* [Tesla Model 3 Drives into Overturned Truck in Apparent Autopilot Failure](https://jalopnik.com/tesla-model-3-drives-straight-into-overturned-truck-in-1843827507)
+* [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
 * [America has more new spaceships on the way](https://arstechnica.com/science/2020/06/after-dragons-historic-docking-america-has-more-new-spaceships-on-the-way/)
+* [Norimaki Synthesizer: Taste Display Using Ion Electrophoresis in Five Gels](https://research.miyashita.com/papers/I42)
+* [Google Is Not God of the Web](https://bilge.world/google-page-experience)
 * [How to Become a Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
+* [Tesla Model 3 Drives into Overturned Truck in Apparent Autopilot Failure](https://jalopnik.com/tesla-model-3-drives-straight-into-overturned-truck-in-1843827507)
+* [Researchers create active material out of microscopic spinning particles](https://phys.org/news/2020-05-material-microscopic-particles.html)
+* [List of killings by law enforcement officers by country (Wikipedia)](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_by_country)
 * [As Qualified Immunity Takes Center Stage, More Delay from SCOTUS](https://www.unlawfulshield.com/2020/06/as-qualified-immunity-takes-center-stage-more-delay-from-scotus/)
+* [The Aesthetics of Science Fiction Spaceship Design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935)
 * [Publishers File Suit Against Internet Archive](https://publishers.org/news/publishers-file-suit-against-internet-archive-for-systematic-mass-scanning-and-distribution-of-literary-works/)
 * [Ask HN: Who wants to be hired? (June 2020)](https://news.ycombinator.com/item?id=23379194)
 * [Show HN: Ballparq – a small PaaS for Godot games](https://ballparq.games)
 * [BuildZoom (General Contractor Marketplace) Is Hiring Sales Reps and Engineers](https://jobs.lever.co/buildzoom)
-* [An American Uprising](https://www.newyorker.com/news/daily-comment/an-american-uprising-george-floyd-minneapolis-protests)
 * [How Eduardo Saverin sold Facebook ads in 2004 (2012)](https://digiday.com/media/how-eduardo-saverin-sold-facebook-ads-in-2004/)
 * [How to Make this Moment the Turning Point for Real Change](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067)
 * [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
 * [Ask HN: Can you discuss CS in your native language?](https://news.ycombinator.com/item?id=23377270)
-* [The Aesthetics of Science Fiction Spaceship Design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935)
-* [mDNS, Avahi and Docker non-root containers](https://gnaneshkunal.github.io/avahi-docker-non-root.html)
-* [MPWTest: Reducing Test Friction by Going Beyond the XUnit Model](https://blog.metaobject.com/2020/05/mpwtest-reducing-test-friction-by-going.html)
-* [San Francisco, Silicon Valley rents plunge amid downturn](https://www.sfchronicle.com/business/article/San-Francisco-Silicon-Valley-rents-saw-sharp-15307118.php)
 ## nytimes.com
 
 
@@ -84,11 +84,11 @@ layout: default
 * [Netanyahu’s Annexation Plans Meet Surprise Opponent: Israeli Settlers](https://www.nytimes.com/2020/06/01/world/middleeast/israel-annex-netanyahu-westbank.html)
 * [After Reality Star’s Death, Japan Vows to Rip the Mask Off Online Hate](https://www.nytimes.com/2020/06/01/business/hana-kimura-terrace-house.html)
 * [Karen Blumenthal, 61, Dies; Journalist Turned Young-Adult Author](https://www.nytimes.com/2020/05/31/books/karen-blumenthal-dead.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Loving the Lockdown](https://www.nytimes.com/2020/05/29/realestate/coronavirus-lockdown-coping.html)
 * [Everyone Is Mad at Virgil Abloh Over the George Floyd Protests](https://www.nytimes.com/2020/06/01/style/virgil-abloh-george-floyd-protests.html)
 * [Gay Couples Can Teach Straight People a Thing or Two About Arguing](https://www.nytimes.com/2020/06/01/parenting/relationship-advice-gay-straight.html)
@@ -98,12 +98,16 @@ layout: default
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
+* [Gladys Cortes, ‘Miracle Baby’ Moved to Help Others, Dies at 48](https://www.nytimes.com/2020/05/29/nyregion/gladys-cortes-dead-coronavirus.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Marcelo Benevenuto, do Botafogo, acusa Maxi López de racismo: 'Preto de m...'](https://oglobo.globo.com/esportes/marcelo-benevenuto-do-botafogo-acusa-maxi-lopez-de-racismo-preto-de-m-24457653)
+* [Argentina adia para 12 de junho prazo final para renegociação de US$ 65 bi em dívidas](https://oglobo.globo.com/economia/argentina-adia-para-12-de-junho-prazo-final-para-renegociacao-de-us-65-bi-em-dividas-24457660)
+* [Imagens mostram agressões relatadas por médica no Grajaú](https://oglobo.globo.com/rio/imagens-mostram-agressoes-relatadas-por-medica-no-grajau-24457684)
 * [Trump mobiliza Exército em Washington e ameaça enviar tropas contra protestos nos estados](https://oglobo.globo.com/mundo/trump-mobiliza-exercito-em-washington-ameaca-enviar-tropas-contra-protestos-nos-estados-1-24457482)
 * [ANS mantém prazos estendidos para atendimentos não emergenciais pelos planos de saúde até 9 de junho](https://oglobo.globo.com/economia/ans-mantem-prazos-estendidos-para-atendimentos-nao-emergenciais-pelos-planos-de-saude-ate-9-de-junho-1-24457528)
 * [Partidos de oposição pedem investigação e afastamento de Ricardo Salles](https://oglobo.globo.com/brasil/partidos-de-oposicao-pedem-investigacao-afastamento-de-ricardo-salles-1-24457533)
@@ -111,6 +115,3 @@ layout: default
 * [Rede privada analisa juridicamente assumir hospitais de campanha do Rio](https://oglobo.globo.com/rio/rede-privada-analisa-juridicamente-assumir-hospitais-de-campanha-do-rio-24457569)
 * [Palácio Guanabara tenso com temor de nova operação da PF esta semana](https://epoca.globo.com/guilherme-amado/palacio-guanabara-tenso-com-temor-de-nova-operacao-da-pf-esta-semana-24457536)
 * [Casos de feminicídio crescem 22,2% no Brasil durante a quarentena para conter novo coronavírus](https://oglobo.globo.com/celina/casos-de-feminicidio-crescem-222-no-brasil-durante-quarentena-para-conter-novo-coronavirus-24457356)
-* [Governo aumenta limite para empréstimos de estados](https://oglobo.globo.com/economia/governo-aumenta-limite-para-emprestimos-de-estados-24457419)
-* [Reabertura de escolas gera polêmica entre especialistas no Reino Unido](https://oglobo.globo.com/sociedade/coronavirus/reabertura-de-escolas-gera-polemica-entre-especialistas-no-reino-unido-24457290)
-* [Coronavírus: Brasil tem 526.447 casos confirmados e 29.937 mortes](https://oglobo.globo.com/sociedade/coronavirus/coronavirus-brasil-tem-526447-casos-confirmados-29937-mortes-24457336)

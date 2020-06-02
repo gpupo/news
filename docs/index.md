@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/06/2020 04:34:19 UTC
+# indexed at 02/06/2020 05:09:09 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
-* [De-Escalation Keeps Protesters and Police Safer](https://fivethirtyeight.com/features/de-escalation-keeps-protesters-and-police-safer-heres-why-departments-respond-with-force-anyway/)
 * [Stitch Fix to Lay off 1,400 Employees in California](https://www.wsj.com/articles/stitch-fix-to-lay-off-about-1-400-employees-in-california-11591053525)
+* [De-Escalation Keeps Protesters and Police Safer](https://fivethirtyeight.com/features/de-escalation-keeps-protesters-and-police-safer-heres-why-departments-respond-with-force-anyway/)
 * [Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [C Internals](http://www.avabodh.com/cin/cin.html)
+* [Climate change has setnetters worried about Alaska’s sockeye](https://www.hcn.org/issues/52.6/north-climate-change-has-setnetters-worried-about-alaskas-sockeye)
 * [Modern Portfolio Theory: A Case Study on Turnips](https://www.shawenyao.com/Modern-Portfolio-Theory-a-Case-Study-on-Turnips/)
 * [A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
-* [Climate change has setnetters worried about Alaska’s sockeye](https://www.hcn.org/issues/52.6/north-climate-change-has-setnetters-worried-about-alaskas-sockeye)
 * [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
 * [Debian Handbook for Debian 10 Buster](https://debian-handbook.info/browse/stable/)
-* [Fuzzbuzz (YC W19) Is Hiring a Full Stack Engineer (TypeScript/Go) in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
 * ['Dord': A Ghost Word](https://www.merriam-webster.com/words-at-play/dord-a-ghost-word)
 * [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
 * [Some coronavirus patients haven't gotten their senses of smell or taste back yet](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
 * [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
+* [Fuzzbuzz (YC W19) Is Hiring a Full Stack Engineer (TypeScript/Go) in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
+* [Soviet Posters](https://www.sovietposters.com/)
 * [Apple patches CVE-2020-9859 (unc0ver)](https://support.apple.com/en-us/HT211214)
 * [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
-* [Soviet Posters](https://www.sovietposters.com/)
 * [Reconstructing a lost NES game from 30-year-old source code disks](https://gamehistory.org/days-of-thunder-nes-unreleased/)
-* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
 * [America has more new spaceships on the way](https://arstechnica.com/science/2020/06/after-dragons-historic-docking-america-has-more-new-spaceships-on-the-way/)
+* [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
 * [Norimaki Synthesizer: Taste Display Using Ion Electrophoresis in Five Gels](https://research.miyashita.com/papers/I42)
 * [Tesla Model 3 Drives into Overturned Truck in Apparent Autopilot Failure](https://jalopnik.com/tesla-model-3-drives-straight-into-overturned-truck-in-1843827507)
-* [The Dream of a Lifetime (2005)](https://www.technologyreview.com/s/404497/the-dream-of-a-lifetime/)
 * [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
+* [Hundreds of Facebook employees walk out as Zuckerberg plans town hall tomorrow](https://www.cnbc.com/2020/06/01/facebook-employees-stage-virtual-walkout-over-trump-post-moderation.html)
 * [As Qualified Immunity Takes Center Stage, More Delay from SCOTUS](https://www.unlawfulshield.com/2020/06/as-qualified-immunity-takes-center-stage-more-delay-from-scotus/)
 * [Google Is Not God of the Web](https://bilge.world/google-page-experience)
+* [x86 Instruction Listings](https://en.wikipedia.org/wiki/X86_instruction_listings)
 * [Publishers File Suit Against Internet Archive](https://publishers.org/news/publishers-file-suit-against-internet-archive-for-systematic-mass-scanning-and-distribution-of-literary-works/)
-* [Researchers create active material out of microscopic spinning particles](https://phys.org/news/2020-05-material-microscopic-particles.html)
-* [The Aesthetics of Science Fiction Spaceship Design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935)
+* [The Dream of a Lifetime (2005)](https://www.technologyreview.com/s/404497/the-dream-of-a-lifetime/)
 ## nytimes.com
 
 
@@ -82,20 +82,20 @@ layout: default
 * [They Fled Asia as Refugees. Now They Are Caught in the Middle of Minneapolis.](https://www.nytimes.com/2020/06/01/us/hmong-americans-minneapolis-george-floyd.html)
 * [Trump and Putin Discuss Russia’s Attendance at G7, but Allies Are Wary](https://www.nytimes.com/2020/06/01/us/politics/trump-putin-g7.html)
 * [After Reality Star’s Death, Japan Vows to Rip the Mask Off Online Hate](https://www.nytimes.com/2020/06/01/business/hana-kimura-terrace-house.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
-* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
 * [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
 * [Loving the Lockdown](https://www.nytimes.com/2020/05/29/realestate/coronavirus-lockdown-coping.html)
 * [Everyone Is Mad at Virgil Abloh Over the George Floyd Protests](https://www.nytimes.com/2020/06/01/style/virgil-abloh-george-floyd-protests.html)
 * [Gay Couples Can Teach Straight People a Thing or Two About Arguing](https://www.nytimes.com/2020/06/01/parenting/relationship-advice-gay-straight.html)
 * [Celebrating Pride on Film](https://www.nytimes.com/2020/06/01/movies/pride-parade-movies-virus.html)
 * ['The Plague' and 'Dekalog' Show Innovation in German-Language Theater](https://www.nytimes.com/2020/05/28/theater/plague-dekalog-theater-german.html)
-* [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
-* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
-* [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
 * [After Coronavirus, Office Workers Might Face Unexpected Health Threats](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
+* [A Virus-Hunter Falls Prey to a Virus He Underestimated](https://www.nytimes.com/2020/05/26/health/coronavirus-peter-piot.html)
+* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
+* [‘Straight-Up Fire’ in His Veins: Teen Battles New Coronavirus Syndrome](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
 * [Chiara de Blasio Arrest: Police Union Disclosed Information in Privacy Breach](https://www.nytimes.com/2020/06/01/nyregion/chiara-de-blasio-arrest.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,9 +103,9 @@ layout: default
 ## globo.com
 
 
-* [Celso de Mello nega pedido de apreensão de celular de Bolsonaro](https://epoca.globo.com/guilherme-amado/celso-de-mello-nega-pedido-de-apreensao-de-celular-de-bolsonaro-24457894)
+* [Celso de Mello nega pedido de apreensão de celular de Bolsonaro](https://epoca.globo.com/guilherme-amado/celso-de-mello-nega-pedido-de-apreensao-de-celular-de-bolsonaro-1-24457894)
+* [Celso de Mello arquiva pedido de apreensão de celular de Jair Bolsonaro](https://oglobo.globo.com/brasil/celso-de-mello-arquiva-pedido-de-apreensao-de-celular-de-jair-bolsonaro-24457910)
 * [Alexandre de Moraes rebate defesa de investigados e diz que deu acesso aos autos a todos](https://epoca.globo.com/guilherme-amado/alexandre-de-moraes-rebate-defesa-de-investigados-diz-que-deu-acesso-aos-autos-todos-24457726)
-* [A busca por uma ampla defesa das instituições](https://oglobo.globo.com/opiniao/a-busca-por-uma-ampla-defesa-das-instituicoes-24457505)
 * [Lives de hoje: Maria Cecília e Rodolfo são o destaque desta terça-feira](https://oglobo.globo.com/cultura/lives-de-hoje-maria-cecilia-rodolfo-sao-destaque-desta-terca-feira-24457190)
 * [Flexibilização precoce poderá levar a um aumento de casos de Covid-19](https://oglobo.globo.com/opiniao/flexibilizacao-precoce-podera-levar-um-aumento-de-casos-de-covid-19-1-24456851)
 * [Investigação no Planalto](https://oglobo.globo.com/opiniao/investigacao-no-planalto-24457193)

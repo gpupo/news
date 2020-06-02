@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/06/2020 11:09:13 UTC
+# indexed at 02/06/2020 11:36:29 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Why Our Intuition About Sea-Level Rise Is Wrong](http://oceans.nautil.us/feature/564/why-our-intuition-about-sea-level-rise-is-wrong)
+* [Le fardier de Cugnot: replica of the first automobile](http://www.lefardierdecugnot.fr/Accueil%20en%20anglais.htm)
 * [Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [C Internals](http://www.avabodh.com/cin/cin.html)
 * [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
 * [What Did Bach Sound Like to Bach?](https://www.neh.gov/article/what-did-bach-sound-bach)
-* [Seven years later, I bought a new MacBook. For the first time, I don't love it](https://cfenollosa.com/blog/seven-years-later-i-bought-a-new-macbook-for-the-first-time-i-dont-love-it.html)
-* [Understanding Latency Hiding on GPUs (2016) [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf)
+* [Russia’s Elbrus 8CB Microarchitecture: 8-Core VLIW on TSMC 28nm](https://www.anandtech.com/show/15823/russias-elbrus-8cb-microarchitecture-8core-vliw-on-tsmc-28nm)
+* [Microsoft finally gives AppGet developer the credit he deserves](https://www.theverge.com/2020/6/2/21277863/microsoft-winget-windows-package-manager-appget-response-credit-comment)
 * [Show HN: FontEdit – A desktop app to develop fonts for embedded systems displays](https://github.com/ayoy/fontedit)
+* [Understanding Latency Hiding on GPUs (2016) [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf)
 * [Modern Portfolio Theory: A Case Study on Turnips](https://www.shawenyao.com/Modern-Portfolio-Theory-a-Case-Study-on-Turnips/)
 * [A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
 * [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
 * [De-Escalation Keeps Protesters and Police Safer](https://fivethirtyeight.com/features/de-escalation-keeps-protesters-and-police-safer-heres-why-departments-respond-with-force-anyway/)
-* [IP-in-IP protocol routes arbitrary traffic by default](https://kb.cert.org/vuls/id/636397)
-* [Some coronavirus patients haven't gotten their senses of smell or taste back yet](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
-* [Soviet Posters](https://www.sovietposters.com/)
-* [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
 * [Climate change has setnetters worried about Alaska’s sockeye](https://www.hcn.org/issues/52.6/north-climate-change-has-setnetters-worried-about-alaskas-sockeye)
+* [Soviet Posters](https://www.sovietposters.com/)
+* [Some coronavirus patients haven't gotten their senses of smell or taste back yet](https://www.wsj.com/articles/coronavirus-patients-lose-senses-of-taste-smelland-havent-gotten-them-back-11591007522)
+* [Ask HN: Who is hiring? (June 2020)](https://news.ycombinator.com/item?id=23379196)
+* [IP-in-IP protocol routes arbitrary traffic by default](https://kb.cert.org/vuls/id/636397)
 * [Pencil Leaners](https://sydneyreviewofbooks.com/essay/sparrow-pencil-leaners/)
 * [Stitch Fix to Lay off About 1,400 Employees in California](https://www.wsj.com/articles/stitch-fix-to-lay-off-about-1-400-employees-in-california-11591053525)
 * [The Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
-* [The Dream of a Lifetime (2005)](https://www.technologyreview.com/s/404497/the-dream-of-a-lifetime/)
 * [Google Is Not God of the Web](https://bilge.world/google-page-experience)
+* [The Dream of a Lifetime (2005)](https://www.technologyreview.com/s/404497/the-dream-of-a-lifetime/)
 * [MindSpore WebAssembly Backend](https://github.com/leonwanghui/ms-backend-wasm)
 * [Debian Handbook for Debian 10 Buster](https://debian-handbook.info/browse/stable/)
+* [Seven years later, I bought a new MacBook. For the first time, I don't love it](https://cfenollosa.com/blog/seven-years-later-i-bought-a-new-macbook-for-the-first-time-i-dont-love-it.html)
 * ['Dord': A Ghost Word](https://www.merriam-webster.com/words-at-play/dord-a-ghost-word)
 * [Researchers create active material out of microscopic spinning particles](https://phys.org/news/2020-05-material-microscopic-particles.html)
 * [Analysing the alleged Minneapolis police department “hack”](https://www.troyhunt.com/analysing-the-alleged-minneapolis-police-department-hack/)
-* [America has more new spaceships on the way](https://arstechnica.com/science/2020/06/after-dragons-historic-docking-america-has-more-new-spaceships-on-the-way/)
-* [ClimaCell Weather API: fully customizable hyper-local API](https://www.climacell.co/weather-api/)
-* [How to Become a Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
-* [Reconstructing a lost NES game from 30-year-old source code disks](https://gamehistory.org/days-of-thunder-nes-unreleased/)
 ## nytimes.com
 
 
@@ -88,20 +88,20 @@ layout: default
 * [In Egypt, Images From American Protests Evoke a Lost Revolution](https://www.nytimes.com/2020/06/02/world/middleeast/protests-egypt-floyd-arab-spring.html)
 * [At Drive-in Disco, It ‘Feels like Saturday Again,’ Even Without a Dance Floor](https://www.nytimes.com/2020/06/02/world/europe/europe-germany-coronavirus-reopening.html)
 * [What New York’s Trash Reveals About Life Under Lockdown](https://www.nytimes.com/2020/06/02/nyregion/nyc-garbage-pickup-coronavirus.html)
-* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
 * [Is The News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
+* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Christo’s Billowy Visions, Fleeting but Unforgettable](https://www.nytimes.com/2020/06/01/arts/design/christo-appraisal-gates.html)
 * [Lessons From Robert Gober, Anxious Homebody](https://www.nytimes.com/2020/05/31/arts/design/robert-gober.html)
 * [Can I Tell My Uncle That His Gay Daughter Is Struggling?](https://www.nytimes.com/2020/06/02/magazine/can-i-tell-my-uncle-that-his-gay-daughter-is-struggling.html)
 * [Late Night Doesn’t Feel Much Like Laughing](https://www.nytimes.com/2020/06/02/arts/television/late-night-george-floyd-protests.html)
 * [America Is Obsessed With Cuba. But What Do We Know About Its Citizens?](https://www.nytimes.com/2020/05/26/books/review/the-cubans-anthony-depalma.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
+* [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
-* [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [What It’s Like to Wear a Mask in the South](https://www.nytimes.com/2020/06/01/opinion/coronavirus-face-mask-south.html)
 * [Chiara de Blasio Arrest: Police Union Disclosed Information in Privacy Breach](https://www.nytimes.com/2020/06/01/nyregion/chiara-de-blasio-arrest.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -110,13 +110,13 @@ layout: default
 ## globo.com
 
 
+* [Delta avalia o que fazer com 2.327 pilotos que estão sobrando](https://oglobo.globo.com/economia/delta-avalia-que-fazer-com-2327-pilotos-que-estao-sobrando-24457902)
+* [Senado vota hoje PL das Fake News, alvo de críticas de bolsonaristas a organizações de direito digital; entenda](https://epoca.globo.com/brasil/senado-vota-hoje-pl-das-fake-news-alvo-de-criticas-de-bolsonaristas-organizacoes-de-direito-digital-entenda-24457998)
+* [EUA ingressam em seu oitavo dia de protestos, mesmo com toques de recolher e com Guarda Nacional](https://oglobo.globo.com/mundo/eua-ingressam-em-seu-oitavo-dia-de-protestos-mesmo-com-toques-de-recolher-com-guarda-nacional-24457963)
 * [Top plus size Rita Carreira posa nua e fala sobre 'dobrinhas nas costas': 'Nunca deixei de fazer nada por causa delas'](https://oglobo.globo.com/ela/gente/top-plus-size-rita-carreira-posa-nua-fala-sobre-dobrinhas-nas-costas-nunca-deixei-de-fazer-nada-por-causa-delas-24457982)
 * [Veja o impacto até agora das principais medidas de crédito anunciadas pelo governo](https://oglobo.globo.com/economia/veja-impacto-ate-agora-das-principais-medidas-de-credito-anunciadas-pelo-governo-1-24455962)
-* [EUA ingressam no oitavo dia de protestos, mesmo com toques de recolher e com Guarda Nacional](https://oglobo.globo.com/mundo/eua-ingressam-no-oitavo-dia-de-protestos-mesmo-com-toques-de-recolher-com-guarda-nacional-24457963)
 * [Exportadores dos EUA vendem soja à China apesar de tensões com a Casa Branca](https://oglobo.globo.com/economia/exportadores-dos-eua-vendem-soja-china-apesar-de-tensoes-com-casa-branca-24457973)
 * [É #FAKE que foto de grupo queimando bandeira do Brasil seja de protesto pró-democracia no último domingo](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-de-grupo-queimando-bandeira-do-brasil-seja-de-protesto-pro-democracia-no-ultimo-domingo-24457485)
 * [STF não vai brigar publicamente com Bolsonaro: 'Vamos mantê-los ocupados com ações'](https://epoca.globo.com/guilherme-amado/stf-nao-vai-brigar-publicamente-com-bolsonaro-vamos-mante-los-ocupados-com-acoes-1-24457687)
 * [PUC-Rio avalia aulas presenciais só em 2021](https://epoca.globo.com/guilherme-amado/puc-rio-avalia-aulas-presenciais-so-em-2021-24457691)
-* [No consultório: profissionais da saúde atendem emergências presencialmente, com cuidados redobrados](https://oglobo.globo.com/rio/bairros/no-consultorio-profissionais-da-saude-atendem-emergencias-presencialmente-com-cuidados-redobrados-24453867)
-* [Pandemia: passeios virtuais e exercícios ajudam a manter a saúde dos idosos em dia](https://oglobo.globo.com/rio/bairros/pandemia-passeios-virtuais-exercicios-ajudam-manter-saude-dos-idosos-em-dia-2-24453641)
 * [Visitas virtuais e corredor de aplausos: hospitais investem no acolhimento de pacientes internados com Covid-19](https://oglobo.globo.com/rio/bairros/visitas-virtuais-corredor-de-aplausos-hospitais-investem-no-acolhimento-de-pacientes-internados-com-covid-19-1-24451354)

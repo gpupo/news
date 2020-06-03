@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 00:25:46 UTC
+# indexed at 03/06/2020 00:34:54 UTC
 
 
 ## news.ycombinator.com
@@ -10,22 +10,22 @@ layout: default
 
 * [P2P Matrix](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
 * [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
-* [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
-* [Choosing between democracy and party, Americans will chose party over democracy](https://www.cambridge.org/core/journals/american-political-science-review/article/democracy-in-america-partisanship-polarization-and-the-robustness-of-support-for-democracy-in-the-united-states/C7C72745B1AD1FF9E363BBFBA9E18867)
 * [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
+* [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
 * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
 * [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
 * [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
+* [How to Write a (Toy) JVM](https://zserge.com/posts/jvm/)
+* [Choosing between democracy and party, Americans will chose party over democracy](https://www.cambridge.org/core/journals/american-political-science-review/article/democracy-in-america-partisanship-polarization-and-the-robustness-of-support-for-democracy-in-the-united-states/C7C72745B1AD1FF9E363BBFBA9E18867)
 * [Thousands are monitoring police scanners during the George Floyd protests](https://www.vice.com/en_us/article/pkybn8/police-radio-scanner-apps-george-floyd-protests)
 * [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
 * [Papers with Code](https://paperswithcode.com/)
 * [Browse Y Combinator's jobs directory to find your next engineering role](https://www.workatastartup.com/jobs?utm_source=hn_jobs)
 * [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
-* [Forward Transformer TTS – a non-autoregressive Transformer for text to speech](https://as-ideas.github.io/TransformerTTS/)
-* [How to Write a (Toy) JVM](https://zserge.com/posts/jvm/)
 * [Understanding Programs Using Graphs](https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs)
-* [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
+* [Forward Transformer TTS – a non-autoregressive Transformer for text to speech](https://as-ideas.github.io/TransformerTTS/)
 * [Simplifying Board Games](https://www.jefftk.com/p/simplifying-board-games)
+* [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
 * [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Science without Validation in a World without Meaning](https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/)
 * [Cannabis and Frankincense at the Judahite Shrine of Arad](https://www.tandfonline.com/doi/full/10.1080/03344355.2020.1732046)
@@ -35,8 +35,8 @@ layout: default
 * [Show HN: Street View Simple – Explore Street View Data in a Browser](https://callumprentice.github.io/apps/street_cloud_simple/)
 * [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
 * [Microsoft Defender SmartScreen is hurting independent developers](https://getimageview.net/2020/06/02/microsoft-defender-smartscreen-is-hurting-independent-developers/)
-* [Semantic image synthesis and learning a generative model from a single image](https://theaisummer.com/gan-computer-vision-semantic-synthesis/)
 * [Tor Browser 9.5](https://blog.torproject.org/new-release-tor-browser-95)
+* [Semantic image synthesis and learning a generative model from a single image](https://theaisummer.com/gan-computer-vision-semantic-synthesis/)
 * [Lawmakers begin bipartisan push to cut off police access to military-style gear](https://www.nytimes.com/2020/06/01/us/politics/police-military-gear.html)
 ## nytimes.com
 
@@ -46,7 +46,7 @@ layout: default
 * [Trump's Bible Photo: What Democracy Scholars Thought](https://www.nytimes.com/2020/06/02/us/politics/trump-holds-bible-photo.html)
 * [Joe Biden Philadelphia Speech: Trump Is Fanning 'the Flames of Hate'](https://www.nytimes.com/2020/06/02/us/politics/joe-biden-philadelphia-protests.html)
 * [Trump’s Response to Protests Draws Bipartisan Rebuke in Congress](https://www.nytimes.com/2020/06/02/us/politics/trump-congress-protesters-tear-gas.html)
-* [N.Y.C. Protests Stay Peaceful as Earlier Curfew Takes Effect: Live Updates](https://www.nytimes.com/2020/06/02/nyregion/nyc-protests-george-floyd.html)
+* [Peaceful Protests in N.Y.C. Before Earlier Curfew Takes Effect: Live Updates](https://www.nytimes.com/2020/06/02/nyregion/nyc-protests-george-floyd.html)
 * [NYPD and De Blasio Faulted Over Looting at Macy’s and Across Midtown](https://www.nytimes.com/2020/06/02/nyregion/nyc-looting-protests-nypd.html)
 * [Here’s What Led to N.Y.C.’s First Curfew in 75 Years](https://www.nytimes.com/2020/06/02/nyregion/curfew-new-york-city.html)
 * [Was That a Firecracker or a Gunshot? Unpredictability on America’s Streets](https://www.nytimes.com/2020/06/02/us/george-floyd-protests-minneapolis.html)
@@ -84,20 +84,20 @@ layout: default
 * [Zuckerberg Defends Approach to Trump's Facebook Posts](https://www.nytimes.com/2020/06/02/technology/zuckerberg-defends-facebook-trump-posts.html)
 * [Restaurants Nourish Protesters With Food, Supplies and Donations](https://www.nytimes.com/2020/06/02/dining/restaurant-response-floyd-protests.html)
 * [​‘Tell Me Who My Mother Is’: A Korean Adoptee Seeks Her Roots](https://www.nytimes.com/2020/06/02/world/asia/south-korea-adoptions.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Alicia Silverstone Wants Us to Eat Our Fruits and Vegetables](https://www.nytimes.com/2020/05/31/style/alicia-silverstone-clueless-25-years.html)
 * [A Dance About the State of Emergency We’re In](https://www.nytimes.com/2020/06/02/arts/dance/jamar-roberts-cooped-coronavirus.html)
 * [An M.L.B. Rookie Works on His Timing](https://www.nytimes.com/2020/06/02/sports/baseball/kyle-lewis-seattle-mariners.html)
 * [10 Things That Keep Norah Jones Grounded](https://www.nytimes.com/2020/06/02/arts/music/norah-jones-favorites.html)
 * [How to Make a Dish Towel Tote Bag, With Rodarte](https://www.nytimes.com/2020/06/02/style/do-it-yourself-how-to-make-a-dish-towel-tote-bag-with-rodarte.html)
-* [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
+* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
+* [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
 * [Trump Takes Us to the Brink](https://www.nytimes.com/2020/06/01/opinion/trump-george-floyd-police-brutality.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
+* [Em áudio de reunião, presidente da Fundação Palmares se refere ao movimento negro como 'escória maldita'](https://oglobo.globo.com/brasil/em-audio-de-reuniao-presidente-da-fundacao-palmares-se-refere-ao-movimento-negro-como-escoria-maldita-24459484)
+* [Alexandre de Moraes autoriza que advogados de investigados tenham acesso a inquérito das fake news](https://oglobo.globo.com/brasil/alexandre-de-moraes-autoriza-que-advogados-de-investigados-tenham-acesso-inquerito-das-fake-news-24459485)
+* [Manifestantes voltam às ruas pelo oitavo dia enquanto aumentam críticas a Trump](https://oglobo.globo.com/mundo/manifestantes-voltam-as-ruas-pelo-oitavo-dia-enquanto-aumentam-criticas-trump-24459382)
+* [Segundo OAB, Constituição não autoriza intervenção militar para equilibrar os Três Poderes](https://oglobo.globo.com/brasil/segundo-oab-constituicao-nao-autoriza-intervencao-militar-para-equilibrar-os-tres-poderes-1-24459439)
 * [Em documento encaminhado ao STJ, defesa de Witzel faz críticas à atuação da Procuradoria-Geral da República](https://oglobo.globo.com/rio/em-documento-encaminhado-ao-stj-defesa-de-witzel-faz-criticas-atuacao-da-procuradoria-geral-da-republica-24459471)
 * [Pentágono prevê vacina contra Covid-19 nos EUA até o fim do ano](https://oglobo.globo.com/sociedade/coronavirus/pentagonopreve-vacina-contra-covid-19-nos-eua-ate-fim-do-ano-24459447)
 * [Senado proíbe reajuste nos preços dos remédios por 60 dias](https://oglobo.globo.com/economia/senado-proibe-reajuste-nos-precos-dos-remedios-por-60-dias-24459459)
 * [Após troca de secretário, Polícia Civil tem mudanças em cargos do primeiro escalão](https://oglobo.globo.com/rio/apos-troca-de-secretario-policia-civil-tem-mudancas-em-cargos-do-primeiro-escalao-24459456)
-* [Manifestantes voltam às ruas pelo oitavo dia enquanto aumentam críticas a Trump](https://oglobo.globo.com/mundo/manifestantes-voltam-as-ruas-pelo-oitavo-dia-enquanto-aumentam-criticas-trump-24459382)
-* [Segundo OAB, Constituição não autoriza intervenção militar para equilibrar os Três Poderes](https://oglobo.globo.com/brasil/segundo-oab-constituicao-nao-autoriza-intervencao-militar-para-equilibrar-os-tres-poderes-1-24459439)
 * [É #FAKE que foto mostre manifestante em carro da polícia virado durante ato pró-democracia em SP](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-manifestante-em-carro-da-policia-virado-durante-ato-pro-democracia-em-sp-24459442)
-* [Fachin nega pedido da Rede para retirar ação contra inquérito das fake news](https://oglobo.globo.com/brasil/fachin-nega-pedido-da-rede-para-retirar-acao-contra-inquerito-das-fake-news-24459368)
 * [Sem Fluminense, Ferj e clubes avançam rumo à redação final do protocolo de volta às partidas](https://oglobo.globo.com/esportes/sem-fluminense-ferj-clubes-avancam-rumo-redacao-final-do-protocolo-de-volta-as-partidas-24459394)
-* [Revista médica questiona validade de estudo contrário à cloroquina](https://oglobo.globo.com/sociedade/coronavirus/revista-medica-questiona-validade-de-estudo-contrario-cloroquina-24459189)

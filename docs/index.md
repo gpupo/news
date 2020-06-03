@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 03:09:15 UTC
+# indexed at 03/06/2020 03:34:21 UTC
 
 
 ## news.ycombinator.com
@@ -10,9 +10,10 @@ layout: default
 
 * [Never-before-seen “black nitrogen” plugs puzzle in periodic table](https://newatlas.com/materials/black-nitrogen-allotrope-periodic-table/)
 * [P2P Matrix](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
-* [How to write a toy JVM](https://zserge.com/posts/jvm/)
-* [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
 * [Sharedrop: HTML5 clone of Apple's AirDrop – easy P2P file transfer powered by W](https://github.com/cowbell/sharedrop)
+* [How to write a toy JVM](https://zserge.com/posts/jvm/)
+* [Bell, Telus to use Nokia and Ericsson, not Huawei, in building their 5G networks](https://www.cbc.ca/news/business/bce-5g-ericsson-1.5594601)
+* [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
 * [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
 * [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
 * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
@@ -26,18 +27,17 @@ layout: default
 * [Simplifying Board Games](https://www.jefftk.com/p/simplifying-board-games)
 * [Understanding Programs Using Graphs](https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs)
 * [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [Writing to the Framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 * [Science without Validation in a World without Meaning](https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/)
-* [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
-* [Ask HN: How does your company manage its encryption keys?](https://news.ycombinator.com/item?id=23390966)
+* [Photos: The Works of Christo](https://www.theatlantic.com/photo/2020/06/photos-works-of-christo/612484/)
 * [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
-* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
+* [Ask HN: How does your company manage its encryption keys?](https://news.ycombinator.com/item?id=23390966)
+* [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Cannabis and Frankincense at the Judahite Shrine of Arad](https://www.tandfonline.com/doi/full/10.1080/03344355.2020.1732046)
 * [Die photos and analysis of the revolutionary 8008 microprocessor (2016)](http://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
-* [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
 * [Show HN: Street View Simple – Explore Street View Data in a Browser](https://callumprentice.github.io/apps/street_cloud_simple/)
-* [Browse Y Combinator's jobs directory to find your next engineering role](https://www.workatastartup.com/jobs?utm_source=hn_jobs)
-* [Microsoft Defender SmartScreen is hurting independent developers](https://getimageview.net/2020/06/02/microsoft-defender-smartscreen-is-hurting-independent-developers/)
+* [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
 ## nytimes.com
 
 
@@ -78,25 +78,26 @@ layout: default
 * [College Board Scraps Plans for SAT at Home](https://www.nytimes.com/2020/06/02/us/at-home-sat-coronavirus.html)
 * [Regulators May Punish Deutsche Bank for Its Jeffrey Epstein Ties](https://www.nytimes.com/2020/06/02/business/jeffrey-epstein-deutsche-bank.html)
 * [Senate Confirms Inspector General to Oversee Virus Bailout Funds](https://www.nytimes.com/2020/06/02/us/politics/virus-bailout-inspector-general.html)
+* [Suit Claims Google’s Tracking Violates Federal Wiretap Law](https://www.nytimes.com/2020/06/02/technology/google-sued-wiretap-privacy.html)
 * [Eliot Engel’s Hot Mic Moment: ‘If I Didn’t Have a Primary, I Wouldn’t Care’](https://www.nytimes.com/2020/06/02/us/politics/eliot-engel-new-york.html)
 * [A Latter-Day Rip Van Winkle Emerges, Blinking, Into the Post-Virus World](https://www.nytimes.com/2020/06/02/us/coronavirus-meditation.html)
 * [Zuckerberg Defends Approach to Trump's Facebook Posts](https://www.nytimes.com/2020/06/02/technology/zuckerberg-defends-facebook-trump-posts.html)
 * [Restaurants Nourish Protesters With Food, Supplies and Donations](https://www.nytimes.com/2020/06/02/dining/restaurant-response-floyd-protests.html)
 * [‘We Need Help’: Coronavirus Fuels Racism Against Black Americans in China](https://www.nytimes.com/2020/06/02/us/politics/african-americans-china-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
 * [Alicia Silverstone Wants Us to Eat Our Fruits and Vegetables](https://www.nytimes.com/2020/05/31/style/alicia-silverstone-clueless-25-years.html)
 * [How Blackout Tuesday Became a Social Media Moment](https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html)
 * [Crowds Define Opera. They’re Also Keeping It From Returning.](https://www.nytimes.com/2020/06/02/arts/music/met-opera-fall-canceled-coronavirus.html)
 * [Tiny Love Stories: ‘Why Aren’t You Happy?’](https://www.nytimes.com/2020/06/02/style/tiny-modern-love-stories-coronavirus-why-arent-you-happy.html)
 * [Bugs Bunny Is Back, and So Is the ‘Looney Tunes’ Mayhem](https://www.nytimes.com/2020/05/29/arts/television/looney-tunes-hbo-max.html)
-* [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
+* [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
+* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Airlines Say It’s Safe to Travel. But Is It?](https://www.nytimes.com/2020/06/01/business/coronavirus-airports-airlines.html)
 * [Relaxing the Rules of Social Distancing](https://www.nytimes.com/2020/06/02/realestate/virus-social-distancing-etiquette-rules.html)
 * [Trump Takes Us to the Brink](https://www.nytimes.com/2020/06/01/opinion/trump-george-floyd-police-brutality.html)

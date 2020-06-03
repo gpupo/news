@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 02:09:54 UTC
+# indexed at 03/06/2020 02:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -10,40 +10,40 @@ layout: default
 
 * [Never-before-seen “black nitrogen” plugs puzzle in periodic table](https://newatlas.com/materials/black-nitrogen-allotrope-periodic-table/)
 * [P2P Matrix](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
+* [How to write a toy JVM](https://zserge.com/posts/jvm/)
 * [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
-* [Choosing between democracy and party, Americans will chose party over democracy](https://www.cambridge.org/core/journals/american-political-science-review/article/democracy-in-america-partisanship-polarization-and-the-robustness-of-support-for-democracy-in-the-united-states/C7C72745B1AD1FF9E363BBFBA9E18867)
 * [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
 * [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
-* [How to Write a (Toy) JVM](https://zserge.com/posts/jvm/)
-* [Air Force B-21 stealth bomber runs Kubernetes](https://independenteagle.com/new-air-force-b-21-stealth-bomber-takes-key-technology-step-toward-war-readiness/)
 * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
+* [Sharedrop: HTML5 clone of Apple's AirDrop – easy P2P file transfer powered by W](https://github.com/cowbell/sharedrop)
 * [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
 * [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
 * [Thousands are monitoring police scanners during the George Floyd protests](https://www.vice.com/en_us/article/pkybn8/police-radio-scanner-apps-george-floyd-protests)
-* [Sharedrop: HTML5 clone of Apple's AirDrop – easy P2P file transfer powered by W](https://github.com/cowbell/sharedrop)
 * [Papers with Code](https://paperswithcode.com/)
 * [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
+* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 * [Understanding Programs Using Graphs](https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs)
 * [Simplifying Board Games](https://www.jefftk.com/p/simplifying-board-games)
-* [Pinebook Pro Six Months In](https://wiki.alopex.li/PinebookProSixMonthsIn)
+* [Acme – A framework for distributed reinforcement learning](https://github.com/deepmind/acme)
+* [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+* [Minneapolis City Council looking into disbanding police department](https://threadreaderapp.com/thread/1267891869691850754.html)
 * [Science without Validation in a World without Meaning](https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/)
-* [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Writing to the Framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
+* [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Ask HN: How does your company manage its encryption keys?](https://news.ycombinator.com/item?id=23390966)
-* [Cannabis and Frankincense at the Judahite Shrine of Arad](https://www.tandfonline.com/doi/full/10.1080/03344355.2020.1732046)
-* [Browse Y Combinator's jobs directory to find your next engineering role](https://www.workatastartup.com/jobs?utm_source=hn_jobs)
-* [Die photos and analysis of the revolutionary 8008 microprocessor (2016)](http://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
 * [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
+* [Cannabis and Frankincense at the Judahite Shrine of Arad](https://www.tandfonline.com/doi/full/10.1080/03344355.2020.1732046)
+* [Die photos and analysis of the revolutionary 8008 microprocessor (2016)](http://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
+* [Browse Y Combinator's jobs directory to find your next engineering role](https://www.workatastartup.com/jobs?utm_source=hn_jobs)
 * [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
-* [Microsoft Defender SmartScreen is hurting independent developers](https://getimageview.net/2020/06/02/microsoft-defender-smartscreen-is-hurting-independent-developers/)
-* [Semantic image synthesis and learning a generative model from a single image](https://theaisummer.com/gan-computer-vision-semantic-synthesis/)
+* [Show HN: Street View Simple – Explore Street View Data in a Browser](https://callumprentice.github.io/apps/street_cloud_simple/)
 ## nytimes.com
 
 
 * [Cities Across the Country Remain on Edge](https://www.nytimes.com/live/2020/protests-george-floyd-police-06-02)
 * [George Floyd Protests Tonight: Live Nationwide Updates and Video](https://www.nytimes.com/2020/06/02/us/george-floyd-video-autopsy-protests.html)
-* [A Walk Meant to Convey Grit Evokes Trump’s Dark Side Instead](https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html)
+* [How Trump’s Idea for a Photo Op Led to Havoc in a Park](https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html)
 * [Trump's Bible Photo: What Democracy Scholars Thought](https://www.nytimes.com/2020/06/02/us/politics/trump-holds-bible-photo.html)
 * [Joe Biden Philadelphia Speech: Trump Is Fanning 'the Flames of Hate'](https://www.nytimes.com/2020/06/02/us/politics/joe-biden-philadelphia-protests.html)
 * [Hundreds Still Marching in N.Y.C. After Earlier Curfew Starts: Live Updates](https://www.nytimes.com/2020/06/02/nyregion/nyc-protests-george-floyd.html)
@@ -83,11 +83,11 @@ layout: default
 * [Zuckerberg Defends Approach to Trump's Facebook Posts](https://www.nytimes.com/2020/06/02/technology/zuckerberg-defends-facebook-trump-posts.html)
 * [Restaurants Nourish Protesters With Food, Supplies and Donations](https://www.nytimes.com/2020/06/02/dining/restaurant-response-floyd-protests.html)
 * [‘We Need Help’: Coronavirus Fuels Racism Against Black Americans in China](https://www.nytimes.com/2020/06/02/us/politics/african-americans-china-coronavirus.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
-* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Alicia Silverstone Wants Us to Eat Our Fruits and Vegetables](https://www.nytimes.com/2020/05/31/style/alicia-silverstone-clueless-25-years.html)
 * [A Dance About the State of Emergency We’re In](https://www.nytimes.com/2020/06/02/arts/dance/jamar-roberts-cooped-coronavirus.html)
 * [An M.L.B. Rookie Works on His Timing](https://www.nytimes.com/2020/06/02/sports/baseball/kyle-lewis-seattle-mariners.html)
@@ -95,8 +95,8 @@ layout: default
 * [How to Make a Dish Towel Tote Bag, With Rodarte](https://www.nytimes.com/2020/06/02/style/do-it-yourself-how-to-make-a-dish-towel-tote-bag-with-rodarte.html)
 * [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
+* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Relaxing the Rules of Social Distancing](https://www.nytimes.com/2020/06/02/realestate/virus-social-distancing-etiquette-rules.html)
 * [Trump Takes Us to the Brink](https://www.nytimes.com/2020/06/01/opinion/trump-george-floyd-police-brutality.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
+* [Em áudio de reunião, presidente da Fundação Palmares se refere ao movimento negro como 'escória maldita'](https://oglobo.globo.com/brasil/em-audio-de-reuniao-presidente-da-fundacao-palmares-se-refere-ao-movimento-negro-como-escoria-maldita-24459484)
+* [Em documento encaminhado ao STJ, defesa de Witzel faz críticas à atuação da Procuradoria-Geral da República](https://oglobo.globo.com/rio/em-documento-encaminhado-ao-stj-defesa-de-witzel-faz-criticas-atuacao-da-procuradoria-geral-da-republica-24459471)
 * [Nego do Borel faz live beneficente em prol de comunidades do Rio](https://oglobo.globo.com/rio/bairros/nego-do-borel-faz-live-beneficente-em-prol-de-comunidades-do-rio-24459300)
 * [Maduro e Guaidó chegam a acordo para buscar recursos contra coronavírus na Venezuela](https://oglobo.globo.com/mundo/maduro-guaido-chegam-acordo-para-buscar-recursos-contra-coronavirus-na-venezuela-24459549)
 * [Após troca de secretário, Polícia Civil tem mudanças em cargos do primeiro escalão](https://oglobo.globo.com/rio/apos-troca-de-secretario-policia-civil-tem-mudancas-em-cargos-do-primeiro-escalao-24459456)
-* [Em documento encaminhado ao STJ, defesa de Witzel faz críticas à atuação da Procuradoria-Geral da República](https://oglobo.globo.com/rio/em-documento-encaminhado-ao-stj-defesa-de-witzel-faz-criticas-atuacao-da-procuradoria-geral-da-republica-24459471)
 * [MPRJ requer aplicação de multa a Crivella por descumprir decisão que proíbe flexibilização do isolamento social](https://oglobo.globo.com/rio/mprj-requer-aplicacao-de-multa-crivella-por-descumprir-decisao-que-proibe-flexibilizacao-do-isolamento-social-24459504)
 * [Roberto Jefferson nega à PF ser financiado e diz que defende 'amigo' Bolsonaro espontaneamente](https://epoca.globo.com/guilherme-amado/roberto-jefferson-nega-pf-ser-financiado-diz-que-defende-amigo-bolsonaro-espontaneamente-24459495)
-* [Em áudio de reunião, presidente da Fundação Palmares se refere ao movimento negro como 'escória maldita'](https://oglobo.globo.com/brasil/em-audio-de-reuniao-presidente-da-fundacao-palmares-se-refere-ao-movimento-negro-como-escoria-maldita-24459484)
 * [Alexandre de Moraes autoriza que advogados de investigados tenham acesso a inquérito das fake news](https://oglobo.globo.com/brasil/alexandre-de-moraes-autoriza-que-advogados-de-investigados-tenham-acesso-inquerito-das-fake-news-24459485)
 * [Pentágono prevê vacina contra Covid-19 nos EUA até o fim do ano](https://oglobo.globo.com/sociedade/coronavirus/pentagonopreve-vacina-contra-covid-19-nos-eua-ate-fim-do-ano-24459447)
 * [Senado proíbe reajuste nos preços dos remédios por 60 dias](https://oglobo.globo.com/economia/senado-proibe-reajuste-nos-precos-dos-remedios-por-60-dias-24459459)

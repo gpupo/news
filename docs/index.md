@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 05:34:25 UTC
+# indexed at 03/06/2020 06:10:12 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Bell, Telus to use Nokia and Ericsson, not Huawei, in building their 5G networks](https://www.cbc.ca/news/business/bce-5g-ericsson-1.5594601)
-* [Last Person to Receive Civil War-Era Pension Dies](https://www.wsj.com/articles/last-person-to-receive-a-civil-war-era-pension-dies-11591141193)
-* [A Git Repo to Document Police Brutality During the 2020 George Floyd Protests](https://github.com/2020PB/police-brutality)
+* [Zoom’s CEO says he won’t encrypt free calls so Zoom can work more with the FBI](https://www.bloomberg.com/news/articles/2020-06-02/zoom-transforms-hype-into-huge-jump-in-sales-customers)
 * [Never-before-seen “black nitrogen” plugs puzzle in periodic table](https://newatlas.com/materials/black-nitrogen-allotrope-periodic-table/)
 * [P2P Matrix](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
 * [How to write a toy JVM](https://zserge.com/posts/jvm/)
+* [Last Person to Receive Civil War-Era Pension Dies](https://www.wsj.com/articles/last-person-to-receive-a-civil-war-era-pension-dies-11591141193)
 * [Sharedrop: HTML5 clone of Apple's AirDrop – easy P2P file transfer powered by W](https://github.com/cowbell/sharedrop)
+* [Bell, Telus to use Nokia and Ericsson, not Huawei, in building their 5G networks](https://www.cbc.ca/news/business/bce-5g-ericsson-1.5594601)
+* [A Git Repo to Document Police Brutality During the 2020 George Floyd Protests](https://github.com/2020PB/police-brutality)
 * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
-* [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
-* [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
 * [Thousands are monitoring police scanners during the George Floyd protests](https://www.vice.com/en_us/article/pkybn8/police-radio-scanner-apps-george-floyd-protests)
-* [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
-* [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
-* [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
-* [Interpreter for the original Xerox Smalltalk-80 virtual image (C++/Qt)](https://github.com/rochus-keller/Smalltalk#a-smalltalk-80-interpreted-virtual-machine)
-* [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
 * [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+* [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
+* [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
+* [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
+* [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
+* [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
+* [Interpreter for the original Xerox Smalltalk-80 virtual image (C++/Qt)](https://github.com/rochus-keller/Smalltalk#a-smalltalk-80-interpreted-virtual-machine)
+* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [Papers with Code](https://paperswithcode.com/)
 * [Acme – A framework for distributed reinforcement learning](https://github.com/deepmind/acme)
-* [Uplift or a Process to Create Useful Usenet Newsgroups (2008)](http://blog.koehntopp.info/2008/07/23/inhaltliche-und-kulturelle-steuerung-von-foren.html)
 * [Understanding Programs Using Graphs](https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs)
 * [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 * [Writing to the Framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 * [Science without Validation in a World without Meaning](https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/)
-* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
 * [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Cannabis and Frankincense at the Judahite Shrine of Arad](https://www.tandfonline.com/doi/full/10.1080/03344355.2020.1732046)
 * [Die photos and analysis of the revolutionary 8008 microprocessor (2016)](http://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
+* [Uplift or a Process to Create Useful Usenet Newsgroups (2008)](http://blog.koehntopp.info/2008/07/23/inhaltliche-und-kulturelle-steuerung-von-foren.html)
 * [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
 ## nytimes.com
 
@@ -74,7 +74,7 @@ layout: default
 * [Wallace Stegner and the Conflicted Soul of the West](https://www.nytimes.com/2020/06/01/books/review/wallace-stegner-west-angle-of-repose-big-rock-candy-mountain-crossing-to-safety.html)
 * [The Hardest Part of Having a Nonbinary Kid Is Other People](https://www.nytimes.com/2020/06/01/parenting/non-binary-children-support.html)
 * [Ella Jones Is Elected First Black Mayor of Ferguson](https://www.nytimes.com/2020/06/03/us/politics/ella-jones-ferguson-mayor.html)
-* [Regulators May Punish Deutsche Bank for Its Jeffrey Epstein Ties](https://www.nytimes.com/2020/06/02/business/jeffrey-epstein-deutsche-bank.html)
+* [Police Fatally Shoot Armed Man After Standoff in Brooklyn](https://www.nytimes.com/2020/06/03/nyregion/police-shooting-nypd-brooklyn.html)
 * [College Board Scraps Plans for SAT at Home](https://www.nytimes.com/2020/06/02/us/at-home-sat-coronavirus.html)
 * [Suit Claims Google’s Tracking Violates Federal Wiretap Law](https://www.nytimes.com/2020/06/02/technology/google-sued-wiretap-privacy.html)
 * [Eliot Engel’s Hot Mic Moment: ‘If I Didn’t Have a Primary, I Wouldn’t Care’](https://www.nytimes.com/2020/06/02/us/politics/eliot-engel-new-york.html)
@@ -82,10 +82,11 @@ layout: default
 * [Zuckerberg Defends Approach to Trump's Facebook Posts](https://www.nytimes.com/2020/06/02/technology/zuckerberg-defends-facebook-trump-posts.html)
 * [Restaurants Nourish Protesters With Food, Supplies and Donations](https://www.nytimes.com/2020/06/02/dining/restaurant-response-floyd-protests.html)
 * [‘We Need Help’: Coronavirus Fuels Racism Against Black Americans in China](https://www.nytimes.com/2020/06/02/us/politics/african-americans-china-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
-* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [How to Compost, Step by Step](https://www.nytimes.com/2020/05/27/realestate/how-to-compost-composting-food-waste.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [Alicia Silverstone Wants Us to Eat Our Fruits and Vegetables](https://www.nytimes.com/2020/05/31/style/alicia-silverstone-clueless-25-years.html)
 * [How Blackout Tuesday Became a Social Media Moment](https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html)
 * [Crowds Define Opera. They’re Also Keeping It From Returning.](https://www.nytimes.com/2020/06/02/arts/music/met-opera-fall-canceled-coronavirus.html)

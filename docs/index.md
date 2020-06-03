@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 04:10:07 UTC
+# indexed at 03/06/2020 04:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Bell, Telus to use Nokia and Ericsson, not Huawei, in building their 5G networks](https://www.cbc.ca/news/business/bce-5g-ericsson-1.5594601)
-* [Never-before-seen “black nitrogen” plugs puzzle in periodic table](https://newatlas.com/materials/black-nitrogen-allotrope-periodic-table/)
 * [Last Person to Receive Civil War-Era Pension Dies](https://www.wsj.com/articles/last-person-to-receive-a-civil-war-era-pension-dies-11591141193)
+* [Never-before-seen “black nitrogen” plugs puzzle in periodic table](https://newatlas.com/materials/black-nitrogen-allotrope-periodic-table/)
+* [A Git Repo to Document Police Brutality During the 2020 George Floyd Protests](https://github.com/2020PB/police-brutality)
 * [P2P Matrix](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
 * [Sharedrop: HTML5 clone of Apple's AirDrop – easy P2P file transfer powered by W](https://github.com/cowbell/sharedrop)
 * [How to write a toy JVM](https://zserge.com/posts/jvm/)
 * [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
-* [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
 * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
 * [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
-* [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
+* [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
 * [Thousands are monitoring police scanners during the George Floyd protests](https://www.vice.com/en_us/article/pkybn8/police-radio-scanner-apps-george-floyd-protests)
+* [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
 * [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
 * [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
+* [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
 * [Papers with Code](https://paperswithcode.com/)
 * [Acme – A framework for distributed reinforcement learning](https://github.com/deepmind/acme)
-* [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+* [Interpreter for the original Xerox Smalltalk-80 virtual image (C++/Qt)](https://github.com/rochus-keller/Smalltalk#a-smalltalk-80-interpreted-virtual-machine)
 * [Understanding Programs Using Graphs](https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs)
-* [Simplifying Board Games](https://www.jefftk.com/p/simplifying-board-games)
 * [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
-* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [Writing to the Framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 * [Science without Validation in a World without Meaning](https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/)
 * [Ask HN: How does your company manage its encryption keys?](https://news.ycombinator.com/item?id=23390966)
-* [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
+* [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
+* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [Cannabis and Frankincense at the Judahite Shrine of Arad](https://www.tandfonline.com/doi/full/10.1080/03344355.2020.1732046)
 * [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
 * [Die photos and analysis of the revolutionary 8008 microprocessor (2016)](http://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
-* [Show HN: Street View Simple – Explore Street View Data in a Browser](https://callumprentice.github.io/apps/street_cloud_simple/)
 ## nytimes.com
 
 
@@ -53,11 +53,10 @@ layout: default
 * [Was That a Firecracker or a Gunshot? Unpredictability on America’s Streets](https://www.nytimes.com/2020/06/02/us/george-floyd-protests-minneapolis.html)
 * [Beverly Hills, Buckhead, SoHo: The New Sites of Urban Unrest](https://www.nytimes.com/2020/06/02/upshot/george-floyd-protest-cities-inequality.html)
 * [March Peacefully or ‘Take the Streets’? Protesters Debate What Comes Next](https://www.nytimes.com/2020/06/02/us/minneapolis-protests-conflict-discord.html)
+* [Pandemic, Protests and Police: An Election Like No Other](https://www.nytimes.com/2020/06/02/us/politics/june-2-primary-election-day-voting.html)
 * [Coronavirus World News: Live Updates](https://www.nytimes.com/2020/06/02/world/live-coronavirus.html)
 * [Republican Convention Feud Escalates as Officials Weigh New Site](https://www.nytimes.com/2020/06/02/us/politics/convention-charlotte-virus-republicans.html)
 * [15 West Point Cadets Test Positive for Coronavirus](https://www.nytimes.com/2020/06/02/us/politics/west-point-graduation-virus-trump.html)
-* [Pandemic, Protests and Police: An Election Like No Other](https://www.nytimes.com/2020/06/02/us/politics/june-2-primary-election-day-voting.html)
-* [A Basketball Brotherhood Calls Timeout](https://www.nytimes.com/2020/06/01/sports/pickup-basketball-new-york.html)
 * [William Barr, George Floyd Protests, Birdsongs: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/06/02/briefing/william-barr-george-floyd-protests-birdsongs.html)
 * [The Systems That Protect the Police](https://www.nytimes.com/2020/06/02/podcasts/the-daily/george-floyd-protests.html)
 * [A Manhunt on the 17th Century’s High Seas](https://www.nytimes.com/2020/05/29/books/review/podcast-enemy-of-all-mankind-piracy-steven-johnson-stephen-king-gilbert-cruz.html)
@@ -85,20 +84,20 @@ layout: default
 * [Zuckerberg Defends Approach to Trump's Facebook Posts](https://www.nytimes.com/2020/06/02/technology/zuckerberg-defends-facebook-trump-posts.html)
 * [Restaurants Nourish Protesters With Food, Supplies and Donations](https://www.nytimes.com/2020/06/02/dining/restaurant-response-floyd-protests.html)
 * [‘We Need Help’: Coronavirus Fuels Racism Against Black Americans in China](https://www.nytimes.com/2020/06/02/us/politics/african-americans-china-coronavirus.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [Alicia Silverstone Wants Us to Eat Our Fruits and Vegetables](https://www.nytimes.com/2020/05/31/style/alicia-silverstone-clueless-25-years.html)
 * [How Blackout Tuesday Became a Social Media Moment](https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html)
 * [Crowds Define Opera. They’re Also Keeping It From Returning.](https://www.nytimes.com/2020/06/02/arts/music/met-opera-fall-canceled-coronavirus.html)
 * [Tiny Love Stories: ‘Why Aren’t You Happy?’](https://www.nytimes.com/2020/06/02/style/tiny-modern-love-stories-coronavirus-why-arent-you-happy.html)
 * [Bugs Bunny Is Back, and So Is the ‘Looney Tunes’ Mayhem](https://www.nytimes.com/2020/05/29/arts/television/looney-tunes-hbo-max.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
-* [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
+* [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
+* [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
 * [Ferran Adrià’s Potato Chip Omelet Delights Beyond Expectation](https://www.nytimes.com/2020/06/01/dining/ferran-adria-potato-chip-omelet-recipe.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Airlines Say It’s Safe to Travel. But Is It?](https://www.nytimes.com/2020/06/01/business/coronavirus-airports-airlines.html)
@@ -108,11 +107,11 @@ layout: default
 ## globo.com
 
 
+* [Radicalismo antiambiental estimula lobby contra o acordo Mercosul-UE](https://oglobo.globo.com/opiniao/radicalismo-antiambiental-estimula-lobby-contra-acordo-mercosul-ue-24459425)
+* [A violência é inimiga da democracia](https://oglobo.globo.com/opiniao/a-violencia-inimiga-da-democracia-24459431)
 * [Prefeitura do Rio prorroga suspensão das aulas até julho, mas autoriza retomada de exames ambulatoriais](https://oglobo.globo.com/rio/prefeitura-do-rio-prorroga-suspensao-das-aulas-ate-julho-mas-autoriza-retomada-de-exames-ambulatoriais-24459731)
 * [Nego do Borel faz live beneficente em prol de comunidades do Rio](https://oglobo.globo.com/rio/bairros/nego-do-borel-faz-live-beneficente-em-prol-de-comunidades-do-rio-24459300)
 * [Maduro e Guaidó chegam a acordo para buscar recursos contra coronavírus na Venezuela](https://oglobo.globo.com/mundo/maduro-guaido-chegam-acordo-para-buscar-recursos-contra-coronavirus-na-venezuela-24459549)
-* [MPRJ requer aplicação de multa a Crivella por descumprir decisão que proíbe flexibilização do isolamento social](https://oglobo.globo.com/rio/mprj-requer-aplicacao-de-multa-crivella-por-descumprir-decisao-que-proibe-flexibilizacao-do-isolamento-social-24459504)
-* [Roberto Jefferson nega à PF ser financiado e diz que defende 'amigo' Bolsonaro espontaneamente](https://epoca.globo.com/guilherme-amado/roberto-jefferson-nega-pf-ser-financiado-diz-que-defende-amigo-bolsonaro-espontaneamente-24459495)
 * ['Não consigo respirar'](https://oglobo.globo.com/opiniao/nao-consigo-respirar-24459031)
 * [De Mussolini@edu para Jair@gov](https://oglobo.globo.com/opiniao/de-mussoliniedu-para-jairgov-24459107)
 * [Em defesa da democracia](https://oglobo.globo.com/opiniao/em-defesa-da-democracia-24459160)

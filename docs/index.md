@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 08:10:21 UTC
+# indexed at 03/06/2020 08:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -14,29 +14,29 @@ layout: default
 * [Atom-Thin Switches Could Route 5G and 6G Radio Signals](https://spectrum.ieee.org/nanoclast/semiconductors/devices/atomthin-switches-5g-6g-radio-signals)
 * [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
 * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
+* [CareRev (YC S16) Is Hiring a Head of Operations](https://grnh.se/1d8f22c93us)
 * [Bell, Telus to use Nokia and Ericsson, not Huawei, in building their 5G networks](https://www.cbc.ca/news/business/bce-5g-ericsson-1.5594601)
+* [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
 * [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
 * [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
-* [Last Person to Receive Civil War-Era Pension Dies](https://www.wsj.com/articles/last-person-to-receive-a-civil-war-era-pension-dies-11591141193)
-* [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
 * [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
+* [Last Person to Receive Civil War-Era Pension Dies](https://www.wsj.com/articles/last-person-to-receive-a-civil-war-era-pension-dies-11591141193)
 * [Interpreter for the original Xerox Smalltalk-80 virtual image (C++/Qt)](https://github.com/rochus-keller/Smalltalk#a-smalltalk-80-interpreted-virtual-machine)
 * [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
-* [Vortex Lasers May Be a Boon for Data](https://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/vortex-laser)
 * [World's first liquid cooled 5G base station deployed in Finland](https://metropolitan.fi/entry/world-s-first-liquid-cooled-5g-base-station-deployed-in-finland)
+* [Vortex Lasers May Be a Boon for Data](https://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/vortex-laser)
+* [Show HN: CubeWeaver, a collaborative multidimensional web-based spreadsheet](https://cubeweaver.com/)
 * [Acme – A framework for distributed reinforcement learning](https://github.com/deepmind/acme)
 * [Understanding Programs Using Graphs](https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs)
+* [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
 * [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [Science without Validation in a World without Meaning](https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/)
-* [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
-* [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 * [Police attacks against journalists across the U.S. since May 28](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country)
 * [Man behind Sweden’s controversial virus strategy admits mistakes](https://www.bloomberg.com/news/articles/2020-06-03/man-behind-sweden-s-virus-strategy-says-he-got-some-things-wrong)
 * [Building binary deb packages: a practical guide](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)
 * [Die photos and analysis of the revolutionary 8008 microprocessor (2016)](http://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
 * [Thousands are monitoring police scanners during the George Floyd protests](https://www.vice.com/en_us/article/pkybn8/police-radio-scanner-apps-george-floyd-protests)
 * [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
-* [Zoom decides against encrypting calls of free users to aid in state surveillance](https://twitter.com/nicoagrant/status/1268020841054269440)
 * [Show HN: Street View Simple – Explore Street View Data in a Browser](https://callumprentice.github.io/apps/street_cloud_simple/)
 ## nytimes.com
 
@@ -82,9 +82,9 @@ layout: default
 * [Restaurants Nourish Protesters With Food, Supplies and Donations](https://www.nytimes.com/2020/06/02/dining/restaurant-response-floyd-protests.html)
 * [‘We Need Help’: Coronavirus Fuels Racism Against Black Americans in China](https://www.nytimes.com/2020/06/02/us/politics/african-americans-china-coronavirus.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
-* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
 * [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Alicia Silverstone Wants Us to Eat Our Fruits and Vegetables](https://www.nytimes.com/2020/05/31/style/alicia-silverstone-clueless-25-years.html)
 * [How Blackout Tuesday Became a Social Media Moment](https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html)
@@ -92,9 +92,9 @@ layout: default
 * [Tiny Love Stories: ‘Why Aren’t You Happy?’](https://www.nytimes.com/2020/06/02/style/tiny-modern-love-stories-coronavirus-why-arent-you-happy.html)
 * [Bugs Bunny Is Back, and So Is the ‘Looney Tunes’ Mayhem](https://www.nytimes.com/2020/05/29/arts/television/looney-tunes-hbo-max.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
-* [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [Elephants Really Can’t Hold Their Liquor](https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html)
+* [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
+* [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
 * [Ferran Adrià’s Potato Chip Omelet Delights Beyond Expectation](https://www.nytimes.com/2020/06/01/dining/ferran-adria-potato-chip-omelet-recipe.html)
 * [Trump’s Visits to Church and Shrine Draw Fierce Rebukes From D.C. Clergy](https://www.nytimes.com/2020/06/02/us/politics/trump-church.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -103,11 +103,11 @@ layout: default
 ## globo.com
 
 
+* [No primeiro dia de reabertura, Botafogo e Jacarepaguá registram maior queda no isolamento social do Rio](https://oglobo.globo.com/rio/no-primeiro-dia-de-reabertura-botafogo-jacarepagua-registram-maior-queda-no-isolamento-social-do-rio-24459648)
 * [Passado como número dois de Moraes no Ministério da Justiça desgasta novo AGU](https://oglobo.globo.com/brasil/passado-como-numero-dois-de-moraes-no-ministerio-da-justica-desgasta-novo-agu-24459540)
 * [Procuradora do MP do Rio pede suspensão das investigações sobre Flávio Bolsonaro](https://oglobo.globo.com/brasil/procuradora-do-mp-do-rio-pede-suspensao-das-investigacoes-sobre-flavio-bolsonaro-1-24459357)
 * [Aras retoma delação que atinge amigo de Moro](https://oglobo.globo.com/brasil/aras-retoma-delacao-que-atinge-amigo-de-moro-24459725)
 * [Quando Felipe Neto e Anitta falam de política, qual é a força deles nas redes?](https://oglobo.globo.com/podcast/quando-felipe-neto-anitta-falam-de-politica-qual-a-forca-deles-nas-redes-24459751)
-* ['Não há esperança em qualquer discurso que não seja o científico', diz Ann Druyan, viúva de Carl Sagan](https://oglobo.globo.com/cultura/nao-ha-esperanca-em-qualquer-discurso-que-nao-seja-cientifico-diz-ann-druyan-viuva-de-carl-sagan-24459548)
 * [Diante da pressão da Alerj, Witzel promete a deputados exonerar secretário Lucas Tristão](https://oglobo.globo.com/rio/diante-da-pressao-da-alerj-witzel-promete-deputados-exonerar-secretario-lucas-tristao-1-24459603)
 * [Histórias por trás dos números: Família, Botafogo e pelada no Leme eram as paixões de Caetano](https://oglobo.globo.com/sociedade/historias-por-tras-dos-numeros-familia-botafogo-pelada-no-leme-eram-as-paixoes-de-caetano-24459523)
 * [Policial investigado por morte de João Pedro ficou com material apreendido na operação](https://oglobo.globo.com/rio/policial-investigado-por-morte-de-joao-pedro-ficou-com-material-apreendido-na-operacao-24459719)

@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# indexed at 03/06/2020 12:12:35 UTC
+# indexed at 03/06/2020 12:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Weirdos in the Great Depression](https://blog.plover.com/book/weirdos.html)
-* [Google faces $5B lawsuit in U.S. for tracking 'private' internet use](https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit/google-faces-5-billion-lawsuit-in-u-s-for-tracking-private-internet-use-idUSKBN23933H)
+* [Weirdos in the depression](https://blog.plover.com/book/weirdos.html)
+* [U.S. Press Freedom Tracker](https://pressfreedomtracker.us/)
 * [Never-before-seen “black nitrogen” plugs puzzle in periodic table](https://newatlas.com/materials/black-nitrogen-allotrope-periodic-table/)
 * [Reinventing the Wheel: Discovering the Optimal Rolling Shape with PyTorch (2019)](https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html)
 * [Thoughts on cameras in the age of excellent cell phone photos](https://whatever.scalzi.com/2020/05/05/thoughts-on-cameras-in-the-age-of-excellent-cell-phone-photos/)
@@ -17,13 +17,12 @@ layout: default
 * [How to write a toy JVM](https://zserge.com/posts/jvm/)
 * [Show HN: CubeWeaver, a collaborative multidimensional web-based spreadsheet](https://cubeweaver.com/)
 * [Atom-Thin Switches Could Route 5G and 6G Radio Signals](https://spectrum.ieee.org/nanoclast/semiconductors/devices/atomthin-switches-5g-6g-radio-signals)
-* [Lenovo to Certify ThinkPad and ThinkStation Workstation Portfolio for Linux](https://news.lenovo.com/pressroom/press-releases/lenovo-brings-linux-certification-to-thinkpad-and-thinkstation-workstation-portfolio-easing-deployment-for-developers-data-scientists/)
 * [Sharedrop – Easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop)
-* [Show HN: Basic.css – Classless CSS Starter File](https://github.com/vladocar/Basic.css)
-* [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+* [Lenovo to Certify ThinkPad and ThinkStation Workstation Portfolio for Linux](https://news.lenovo.com/pressroom/press-releases/lenovo-brings-linux-certification-to-thinkpad-and-thinkstation-workstation-portfolio-easing-deployment-for-developers-data-scientists/)
 * [Systematically Improving Espresso: Insights from Mathematical Modeling [pdf]](https://pages.uoregon.edu/chendon/publications/2020/74.%20Matter,%20Espresso%20extraction.pdf)
 * [Germany's Covid contact tracing app is Open Source](https://github.com/corona-warn-app/cwa-documentation)
-* [Times New Roman alternatives: You can do better (2013)](https://practicaltypography.com/times-new-roman-alternatives.html)
+* [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+* [Show HN: Basic.css – Classless CSS Starter File](https://github.com/vladocar/Basic.css)
 * [Refactor vs. Rewrite](https://remesh.blog/refactor-vs-rewrite-7b260e80277a)
 * [The Italian Covid contact-tracing app is now developed in open source](https://github.com/immuni-app/immuni-documentation)
 * [People think they're calling restaurants directly but Grubhub is getting a fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
@@ -33,11 +32,12 @@ layout: default
 * [DEA authorized to conduct surveillance on protestors](https://www.buzzfeednews.com/article/jasonleopold/george-floyd-police-brutality-protests-government)
 * [Last Person to Receive Civil War-Era Pension Dies](https://www.wsj.com/articles/last-person-to-receive-a-civil-war-era-pension-dies-11591141193)
 * [Acme – A framework for distributed reinforcement learning](https://github.com/deepmind/acme)
-* [Ask HN: When is it time to give up on a side project SaaS?](https://news.ycombinator.com/item?id=23399979)
-* [Vortex Lasers May Be a Boon for Data](https://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/vortex-laser)
-* [CareRev (YC S16) Is Hiring a Head of Operations](https://grnh.se/1d8f22c93us)
-* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
 * [AWS SDKs include endpoints for secret region partitions](https://github.com/aws/aws-sdk-js-v3/blob/c96f35f972c44706a391bb07e0a897e73b8d6dfe/clients/client-cloudfront/endpoints.ts#L4)
+* [Vortex Lasers May Be a Boon for Data](https://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/vortex-laser)
+* [How to ensure that your program does not run under Windows 95 (1995) [pdf]](https://ptgmedia.pearsoncmg.com/images/9780321440303/samplechapter/Chen_bonus_ch02.pdf)
+* [CareRev (YC S16) Is Hiring a Head of Operations](https://grnh.se/1d8f22c93us)
+* [Thousands are monitoring police scanners during the George Floyd protests](https://www.vice.com/en_us/article/pkybn8/police-radio-scanner-apps-george-floyd-protests)
+* [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
 ## nytimes.com
 
 
@@ -57,7 +57,7 @@ layout: default
 * [College Board Scraps Plans for SAT at Home](https://www.nytimes.com/2020/06/02/us/at-home-sat-coronavirus.html)
 * [When Jail Becomes Normal](https://www.nytimes.com/2020/06/03/briefing/protests-steve-king-coronavirus-your-wednesday-briefing.html)
 * [Protests in N.Y.C.: Latest Updates](https://www.nytimes.com/2020/06/03/nyregion/protests-nyc.html)
-* [An Interview with the Mayor of Minneapolis](https://www.nytimes.com/2020/06/03/podcasts/the-daily/jacob-frey-george-floyd-protests-minneapolis.html)
+* [An Interview With the Mayor of Minneapolis](https://www.nytimes.com/2020/06/03/podcasts/the-daily/jacob-frey-george-floyd-protests-minneapolis.html)
 * [A Manhunt on the 17th Century’s High Seas](https://www.nytimes.com/2020/05/29/books/review/podcast-enemy-of-all-mankind-piracy-steven-johnson-stephen-king-gilbert-cruz.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [At George Floyd Protests, Police Attacks on the First Amendment](https://www.nytimes.com/2020/06/02/opinion/george-floyd-protests-first-amendment.html)
@@ -82,20 +82,20 @@ layout: default
 * [What Will It Take to Reopen the World to Travel?](https://www.nytimes.com/2020/06/03/world/australia/coronavirus-travel-bubble.html)
 * [Hoping to Buy an Aboveground Pool to Salvage Summer? It May Be Too Late](https://www.nytimes.com/2020/06/03/nyregion/coronavirus-above-ground-pools.html)
 * [Amsterdam’s Red Light Zone Stays Shut as Rest of City Edges Open](https://www.nytimes.com/2020/06/03/world/europe/amsterdam-red-light-coronavirus.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
-* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
 * [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
 * [Newly Minted Work by a Change Artist](https://www.nytimes.com/2020/05/31/arts/johnny-swing-coin-artist.html)
 * [How Blackout Tuesday Became a Social Media Moment](https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html)
 * [Crowds Define Opera. They’re Also Keeping It From Returning.](https://www.nytimes.com/2020/06/02/arts/music/met-opera-fall-canceled-coronavirus.html)
 * [Seth Meyers Critiques Trump’s Photo Op](https://www.nytimes.com/2020/06/03/arts/television/late-night-trump-photo-op.html)
 * [Patricia Reed Scott, Who Cast New York as Hollywood East, Dies at 86](https://www.nytimes.com/2020/06/02/nyregion/patricia-reed-scott-who-cast-new-york-as-hollywood-east-dies-at-86.html)
-* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
-* [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
-* [Medical Workers Should Use Respirator Masks, Not Surgical Masks](https://www.nytimes.com/2020/06/01/health/masks-surgical-N95-coronavirus.html)
 * [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
+* [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
+* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Medical Workers Should Use Respirator Masks, Not Surgical Masks](https://www.nytimes.com/2020/06/01/health/masks-surgical-N95-coronavirus.html)
 * [Ferran Adrià’s Potato Chip Omelet Delights Beyond Expectation](https://www.nytimes.com/2020/06/01/dining/ferran-adria-potato-chip-omelet-recipe.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Citada como exemplo por Bolsonaro, Suécia admite que deveria ter adotado medidas de restrição mais duras contra Covid-19](https://oglobo.globo.com/mundo/citada-como-exemplo-por-bolsonaro-suecia-admite-que-deveria-ter-adotado-medidas-de-restricao-mais-duras-contra-covid-19-24459890)
-* [Governo oficializa general Pazuello como ministro interino da Saúde](https://oglobo.globo.com/sociedade/governo-oficializa-general-pazuello-como-ministro-interino-da-saude-24459898)
-* [Indústria brasileira despenca 18,8% em abril e tem maior queda mensal em 18 anos](https://oglobo.globo.com/economia/industria-brasileira-despenca-188-em-abril-tem-maior-queda-mensal-em-18-anos-24459854)
-* [Secretário estadual de Saúde do Rio diz que carrinhos de anestesia no lugar de respiradores foi a gota d'água para a saída do Iabas](https://oglobo.globo.com/rio/secretario-estadual-de-saude-do-rio-diz-que-carrinhos-de-anestesia-no-lugar-de-respiradores-foi-gota-dagua-para-saida-do-iabas-24459886)
+* [Indústria brasileira despenca 18,8% em abril, a maior queda histórica do setor](https://oglobo.globo.com/economia/industria-brasileira-despenca-188-em-abril-maior-queda-historica-do-setor-24459854)
 * ['Não vou conversar com Witzel. Até porque brevemente já sabe onde ele deve estar', diz Bolsonaro](https://oglobo.globo.com/rio/nao-vou-conversar-com-witzel-ate-porque-brevemente-ja-sabe-onde-ele-deve-estar-diz-bolsonaro-1-24459900)
-* [Quem são as celebridades que têm feito doações para pagar fiança de manifestantes presos nos EUA](https://oglobo.globo.com/ela/gente/quem-sao-as-celebridades-que-tem-feito-doacoes-para-pagar-fianca-de-manifestantes-presos-nos-eua-24459870)
+* [Secretário estadual de Saúde do Rio diz que carrinhos de anestesia no lugar de respiradores foi a gota d'água para a saída do Iabas](https://oglobo.globo.com/rio/secretario-estadual-de-saude-do-rio-diz-que-carrinhos-de-anestesia-no-lugar-de-respiradores-foi-gota-dagua-para-saida-do-iabas-1-24459886)
+* [Dólar mantém queda e é negociado abaixo de R$ 5,20, com mercado monitorando reabertura da economias](https://oglobo.globo.com/economia/dolar-mantem-queda-e-negociado-abaixo-de-520-com-mercado-monitorando-reabertura-da-economias-24459943)
+* [Governo oficializa general Pazuello como ministro interino da Saúde](https://oglobo.globo.com/sociedade/governo-oficializa-general-pazuello-como-ministro-interino-da-saude-24459898)
+* [Citada como exemplo por Bolsonaro, Suécia admite que deveria ter adotado medidas de restrição mais duras contra Covid-19](https://oglobo.globo.com/mundo/citada-como-exemplo-por-bolsonaro-suecia-admite-que-deveria-ter-adotado-medidas-de-restricao-mais-duras-contra-covid-19-24459890)
+* [Em meio à pandemia, lucro da Zoom cresce mais de 1.000%, somando US$ 27,1 milhões no primeiro trimestre](https://oglobo.globo.com/economia/em-meio-pandemia-lucro-da-zoom-cresce-mais-de-1000-somando-us-271-milhoes-no-primeiro-trimestre-24459873)
+* [Ex-apresentador do 'Globo de Ouro', Jimmy Raw morre aos 58 anos de Covid-19](https://oglobo.globo.com/rio/ex-apresentador-do-globo-de-ouro-jimmy-raw-morre-aos-58-anos-de-covid-19-24459910)
 * [Papa considera intolerável qualquer forma de racismo em mensagem aos americanos](https://oglobo.globo.com/mundo/papa-considera-intoleravel-qualquer-forma-de-racismo-em-mensagem-aos-americanos-24459887)
-* [Após decreto, Iabas é afastado da construção e da gestão dos hospitais de campanha no Rio](https://oglobo.globo.com/rio/apos-decreto-iabas-afastado-da-construcao-da-gestao-dos-hospitais-de-campanha-no-rio-24459849)
-* [Artigo: Não basta ser contra o racismo. É preciso ser antirracista](https://oglobo.globo.com/mundo/artigo-nao-basta-ser-contra-racismo-preciso-ser-antirracista-24458692)
 * [Governo paga indevidamente R$ 123 milhões ao ano para aposentados, aponta CGU](https://epoca.globo.com/guilherme-amado/governo-paga-indevidamente-123-milhoes-ao-ano-para-aposentados-aponta-cgu-24457580)

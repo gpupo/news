@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/06/2020 18:09:58 UTC
+# indexed at 04/06/2020 18:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [A History of Clojure – Rich Hickey](https://clojure.org/about/history)
-* [Anxiety in product development](https://andreschweighofer.com/agile/anxiety-in-product-development/)
-* [Show HN: Learn coding to become a software engineer](https://www.c0d3.com)
-* [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
 * [macOS in a Docker Container](https://github.com/sickcodes/Docker-OSX)
+* [Anxiety in product development](https://andreschweighofer.com/agile/anxiety-in-product-development/)
+* [Show HN: interviewing.io is out of beta and open to engineers of all exp levels](http://blog.interviewing.io/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all/)
+* [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
+* [A Civil Rights Expert Explains the Social Science of Police Racism](https://www.scientificamerican.com/article/a-civil-rights-expert-explains-the-social-science-of-police-racism/)
 * [Researcher questions years of work with reexamination of fMRI data](https://today.duke.edu/2020/06/studies-brain-activity-aren%E2%80%99t-useful-scientists-thought)
 * [Decoding radio telemetry heard on news helicopter video footage with GNU Radio](https://www.rtl-sdr.com/decoding-radio-telemetry-heard-on-news-helicopter-video-footage-with-gnu-radio/)
-* [Sterblue (YC S18) Is Hiring a Senior Front-End Engineer](https://www.sterblue.com/jobs#rt-jobs-1)
-* [Show HN: interviewing.io is out of beta and open to engineers of all exp levels](http://blog.interviewing.io/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all/)
 * [HFT in My Backyard (2014)](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/)
 * [Personal Wiki for Vim](https://github.com/vimwiki/vimwiki)
+* [Sterblue (YC S18) Is Hiring a Senior Front-End Engineer](https://www.sterblue.com/jobs#rt-jobs-1)
 * [Cryo-electron microscopy technique sees individual atoms for first time](https://www.nature.com/articles/d41586-020-01658-1)
 * [GitHub Classroom](https://classroom.github.com/)
-* [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
-* [On a caravan, with one of the Sahara's last European explorers](https://phys.org/news/2020-06-caravan-sahara-european-explorers.html)
-* [Stanford lab envisions delivery drones that save energy by taking the bus](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/)
 * [Germany bans digital doppelganger passport photos](https://www.reuters.com/article/us-germany-tech-morphing/germany-bans-digital-doppelganger-passport-photos-idUSKBN23A1YM)
+* [On a caravan, with one of the Sahara's last European explorers](https://phys.org/news/2020-06-caravan-sahara-european-explorers.html)
+* [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
+* [Stanford lab envisions delivery drones that save energy by taking the bus](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/)
 * [Clang-11.0.0 Miscompiled SQLite](https://sqlite.org/forum/forumpost/e7e828bb6f)
 * [Show HN: TitleRun – The game that only exists in your title bar](https://titlerun.xyz/)
 * [GM plans electric van for business users](https://www.reuters.com/article/us-autos-electric-vans-exclusive/exclusive-gm-plans-electric-van-for-business-users-in-bid-to-pre-empt-tesla-idUSKBN23B1G1)
+* [Show HN: Learn coding to become a software engineer](https://www.c0d3.com)
 * [Who Smeared Richard Feynman? (2014)](http://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
+* [SpaceX launches 60 more Starlink satellites](https://techcrunch.com/2020/06/03/spacex-launches-60-more-starlink-satellites-and-records-a-reusability-record-for-a-falcon-9-booster/)
 * [Kraftwerk played live with an astronaut on the ISS (2018)](https://cdm.link/2018/07/watch-kraftwerk-jam-with-the-iss-and-esa-astronaut-alexander-gerst/)
 * [Understanding Epidemiology Models](https://arstechnica.com/science/2020/06/understanding-epidemiology-models/)
-* [SpaceX launches 60 more Starlink satellites](https://techcrunch.com/2020/06/03/spacex-launches-60-more-starlink-satellites-and-records-a-reusability-record-for-a-falcon-9-booster/)
 * [Show HN: Zyro – AI Powered Website Builder](https://zyro.com/)
 * [The 180th Meridian (2016)](https://macwright.org/2016/09/26/the-180th-meridian.html)
-* [Huawei propose to replace TCP/IP at ITU](https://www.europarl.europa.eu/doceo/document/E-9-2020-002042-ASW_EN.html)
 * [SpaceX Starlink is now its own ASN and present at the Seattle Internet Exchange](https://www.peeringdb.com/net/18747)
 * [Show HN: Virus Cafe – Make a friend in 2 minutes](https://virus.cafe)
-* [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm)
+* [Study finds political bias skews perceptions of verifiable fact](https://news.harvard.edu/gazette/story/2020/06/study-finds-political-bias-skews-perceptions-of-verifiable-fact/)
 ## nytimes.com
 
 
@@ -88,19 +88,19 @@ layout: default
 * [A Would-Be Netanyahu Nemesis Snipes From the Sidelines](https://www.nytimes.com/2020/06/04/world/middleeast/israel-liberman-netanyahu-annexation-west-bank.html)
 * [M.L.B. Took 9 Days to Address George Floyd. Was It Too Late?](https://www.nytimes.com/2020/06/03/sports/baseball/george-floyd-protests-baseball-mlb.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
 * [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [‘The Baby-Sitters Club’ Is Back: Help Yourself to the Fridge](https://www.nytimes.com/2020/05/27/arts/television/the-baby-sitters-club-netflix.html)
 * [E-Bikes Are Having Their Moment. They Deserve It.](https://www.nytimes.com/2020/06/03/technology/personaltech/e-bikes-are-having-their-moment-they-deserve-it.html)
 * [‘Shirley’ Review: A Writer as Scary as Her Stories](https://www.nytimes.com/2020/06/03/movies/shirley-review.html)
 * [Rafael Nadal Not Yet Ready to Travel for U.S. Open](https://www.nytimes.com/2020/06/04/sports/rafael-nadal.html)
 * [White Person to White Person? You’re Doing It Wrong](https://www.nytimes.com/2020/06/04/style/white-ally-black-neighbor.html)
-* [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
-* [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
-* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
+* [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
+* [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
 * [Trudeau’s 21-Second Pause Becomes the Story in Canada](https://www.nytimes.com/2020/06/03/world/canada/trudeau-canada-george-floyd-protests.html)
 * [Trump Campaign Looks at Electoral Map and Doesn’t Like What It Sees](https://www.nytimes.com/2020/06/03/us/politics/trump-campaign-virus-protests-polls.html)
 * [Black Voters Are Coming for Trump](https://www.nytimes.com/2020/06/03/opinion/biden-black-vote-trump.html)
@@ -110,13 +110,13 @@ layout: default
 ## globo.com
 
 
-* [Vacina de Oxford contra coronavírus terá metade das doses para países em desenvolvimento](https://oglobo.globo.com/sociedade/vacina-de-oxford-contra-coronavirus-tera-metade-das-doses-para-paises-em-desenvolvimento-24462416)
+* [Suécia flexibiliza restrições para viagens internas, apesar do aumento de casos](https://oglobo.globo.com/mundo/suecia-flexibiliza-restricoes-para-viagens-internas-apesar-do-aumento-de-casos-24462612)
+* [Assembleia Legislativa do Rio terá outro encontro com a Lava Jato](https://epoca.globo.com/guilherme-amado/assembleia-legislativa-do-rio-tera-outro-encontro-com-lava-jato-24462607)
+* [Funcionários da Amazon em Nova York abrem processo contra empresa por exposição ao coronavírus](https://oglobo.globo.com/economia/funcionarios-da-amazon-em-nova-york-abrem-processo-contra-empresa-por-exposicao-ao-coronavirus-1-24462582)
 * [Inspiração de Sara Winter, filme '300' foi criticado por estética fascista desde o lançamento](https://oglobo.globo.com/cultura/filmes/inspiracao-de-sara-winter-filme-300-foi-criticado-por-estetica-fascista-desde-lancamento-24462396)
 * [Fortunas de bilionários dos EUA aumentam em meio trilhão de dólares com pandemia](https://oglobo.globo.com/economia/fortunas-de-bilionarios-dos-eua-aumentam-em-meio-trilhao-de-dolares-com-pandemia-24462568)
 * [Hackers vazam dados de 4 mil militares no Rio em protesto por morte de João Pedro](https://oglobo.globo.com/brasil/hackers-vazam-dados-de-4-mil-militares-no-rio-em-protesto-por-morte-de-joao-pedro-24462560)
 * [Por conta do coronavírus, Banco Central projeta alta de 7,8% no crédito em 2020](https://oglobo.globo.com/economia/por-conta-do-coronavirus-banco-central-projeta-alta-de-78-no-credito-em-2020-24462555)
-* [Concentração cai, mas cinco maiores bancos ainda detêm 83,7% do mercado de crédito](https://oglobo.globo.com/economia/concentracao-cai-mas-cinco-maiores-bancos-ainda-detem-837-do-mercado-de-credito-24462504)
 * [Hospital Federal de Bonsucesso recebe doação de 4 mil aventais e 2 mil máscaras](https://oglobo.globo.com/rio/hospital-federal-de-bonsucesso-recebe-doacao-de-4-mil-aventais-2-mil-mascaras-24462535)
 * [Vacina italiana contra o coronavírus será testada em voluntários a partir de setembro](https://epoca.globo.com/sociedade/vacina-italiana-contra-coronavirus-sera-testada-em-voluntarios-partir-de-setembro-24462455)
 * [MPF detecta rota marítima de tráfico de cocaína de Pernambuco para a Espanha](https://oglobo.globo.com/brasil/mpf-detecta-rota-maritima-de-trafico-de-cocaina-de-pernambuco-para-espanha-24462514)
-* [Boulos defende protestos: 'Se normalizarmos AI-5 e agressões, daqui a pouco não teremos condições de dar as caras'](https://epoca.globo.com/guilherme-amado/boulos-defende-protestos-se-normalizarmos-ai-5-agressoes-daqui-pouco-nao-teremos-condicoes-de-dar-as-caras-24462498)

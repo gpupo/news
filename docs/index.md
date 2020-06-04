@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/06/2020 06:10:18 UTC
+# indexed at 04/06/2020 06:34:18 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Clang-11.0.0 Miscompiled SQLite](https://sqlite.org/forum/forumpost/e7e828bb6f)
+* [SoftBank launches $100m minorities startup fund](https://www.reuters.com/article/us-softbank-group-investments/softbank-launches-100-million-fund-investing-in-people-of-color-idUSKBN23A1RK)
 * [GitHub Classroom](https://classroom.github.com/)
 * [iMessage for Windows: A labor of love that will never see light of day (2018)](https://neosmart.net/blog/2018/imessage-for-windows/)
 * [SpaceX Starlink is now its own ASN and present at the Seattle Internet Exchange](https://www.peeringdb.com/net/18747)
 * [Analytics Without Google](https://www.justbartek.ca/analytics-without-google/)
 * [F-117s had an air-to-air capability with secondary mission to shoot Soviet AWACS](https://theaviationist.com/2020/06/03/f-117s-had-an-air-to-air-capability-with-secondary-mission-to-shoot-down-soviet-awacs-former-stealth-pilot-says/)
-* [Workman Keyboard Layout](https://workmanlayout.org/)
 * [Show HN: Daily non-commercial blog posts which didn't reach HN's front page](https://hnblogs.substack.com)
 * [Nand2Tetris Hack assembler implemented in Rust](https://github.com/tamuhey/hack-assembler-rust)
-* [Show HN: Virus Cafe – Make a friend in 2 minutes](https://virus.cafe)
+* [Workman Keyboard Layout](https://workmanlayout.org/)
 * [Recognizing non-programming open source contributors](https://allcontributors.org)
+* [Show HN: Virus Cafe – Make a friend in 2 minutes](https://virus.cafe)
 * [A photo is crashing some Android phones](https://www.bbc.com/news/technology-52891650)
 * [OBS (macOS) Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam)
 * [Those Win9x Crashes on Fast Machines](http://www.os2museum.com/wp/those-win9x-crashes-on-fast-machines/)
 * [Hacking the Planet With Notcurses: A Guide to TUIs and Character Graphics [pdf]](https://nick-black.com/htp-notcurses.pdf)
-* [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm)
 * [Anders Tegnell defends Sweden's virus approach](https://www.startribune.com/scientist-admits-sweden-could-have-battled-virus-better/570980492/)
-* [Automated Work Recordings with OBS Studio and TaskWarrior and TimeWarrior](https://cristian.io/post/auto-screencasts/)
-* [There’s No Fire Alarm for Artificial General Intelligence (2017)](https://intelligence.org/2017/10/13/fire-alarm/)
 * [In Mathematics, It Often Takes a Good Map to Find Answers](https://www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/)
+* [Automated Work Recordings with OBS Studio and TaskWarrior and TimeWarrior](https://cristian.io/post/auto-screencasts/)
+* [GPT-3 and Scaling Trends](https://nostalgebraist.tumblr.com/post/619672884731904000/gpt-3-and-scaling-trends)
+* [There’s No Fire Alarm for Artificial General Intelligence (2017)](https://intelligence.org/2017/10/13/fire-alarm/)
+* [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm)
 * [Millions of Americans skipping payments as wave of defaults and evictions looms](https://www.npr.org/2020/06/03/867856602/millions-of-americans-skipping-payments-as-tidal-wave-of-defaults-and-evictions-)
-* [Australian researchers set record for carbon dioxide capture](https://phys.org/news/2020-06-australian-carbon-dioxide-capture.html)
 * [The Contagion of Concern: Game theory of how anxiety spreads](https://www.adamjuliangoldstein.com/blog/contagion-of-concern/)
+* [Australian researchers set record for carbon dioxide capture](https://phys.org/news/2020-06-australian-carbon-dioxide-capture.html)
 * [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
 * [What the Hell Is a Deno?](https://breadth.substack.com/p/what-the-hell-is-a-deno)
-* [Show HN: Stock Performance of US Senators](https://www.govtrades.com/)
 * [Altair – A declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
-* [Show HN: Squawk – Walkie Talkie for Teams](https://www.squawk.to)
-* [Mindset Health (YC S19) raises $1.1M to develop hypnosis apps](https://techcrunch.com/2020/05/15/hypnosis-for-health-investors-have-placed-a-1-1-million-bet-on-mindset-health-that-it-can-work/)
-* [How much do we need the police?](https://www.npr.org/sections/codeswitch/2020/06/03/457251670/how-much-do-we-need-the-police)
+* [Show HN: Stock Performance of US Senators](https://www.govtrades.com/)
+* [A study out of thin air](https://www.medicineuncensored.com/a-study-out-of-thin-air)
 ## nytimes.com
 
 
@@ -45,8 +45,8 @@ layout: default
 * [Mattis Harshly Criticizes Trump’s Leadership](https://www.nytimes.com/live/2020/george-floyd-protests-photos-videos-06-03)
 * [N.Y.C. Sees Peaceful Protests and Less Looting After Earlier Curfew: Live Updates](https://www.nytimes.com/2020/06/03/nyregion/nyc-protests-george-floyd.html)
 * [Mark Esper Breaks With Trump on Using Troops Against Protestors](https://www.nytimes.com/2020/06/03/us/politics/esper-milley-trump-protest.html)
-* [Another Man Who Said ‘I Can’t Breathe’ Died in Custody. An Autopsy Calls It Homicide.](https://www.nytimes.com/2020/06/03/us/manuel-ellis-tacoma-police-homicide.html)
 * [Virginia Governor Plans to Order Robert E. Lee Statue Removed](https://www.nytimes.com/2020/06/03/us/robert-e-lee-statue-richmond.html)
+* [Another Man Who Said ‘I Can’t Breathe’ Died in Custody. An Autopsy Calls It Homicide.](https://www.nytimes.com/2020/06/03/us/manuel-ellis-tacoma-police-homicide.html)
 * [Obama Voices Support for George Floyd Protesters and Calls for Police Reform](https://www.nytimes.com/2020/06/03/us/politics/obama-speech-town-hall.html)
 * [Trudeau’s 21-Second Pause Becomes the Story in Canada](https://www.nytimes.com/2020/06/03/world/canada/trudeau-canada-george-floyd-protests.html)
 * [Live Coronavirus Updates](https://www.nytimes.com/2020/06/03/world/coronavirus-live.html)
@@ -84,9 +84,9 @@ layout: default
 * [Ousted Watchdog Says State Dept. Official Pressured Him to End Inquiry Into Pompeo](https://www.nytimes.com/2020/06/03/us/politics/steve-linick-mike-pompeo-inspector-general.html)
 * [Bruce Jay Friedman, 90, Author With a Darkly Comic Worldview, Dies](https://www.nytimes.com/2020/06/03/books/bruce-jay-friedman-90-author-with-a-darkly-comic-worldview-dies.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
-* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [Breaking Glass and Gloomy Skies Inspire This Artist](https://www.nytimes.com/2020/05/31/style/rui-sasakaint-glass-corning-museum.html)
 * [A Documentary for the #MeToo Era](https://www.nytimes.com/2020/06/03/movies/metoo-documentary-russell-simmons.html)
@@ -94,9 +94,9 @@ layout: default
 * [In ‘Exciting Times,’ Echoes of Sally Rooney, but With a Queer Twist](https://www.nytimes.com/2020/06/02/books/review/exciting-times-naoise-dolan.html)
 * [Stream These 15 Great Titles Before They Leave Netflix This Month](https://www.nytimes.com/2020/06/03/arts/television/leaving-netflix-june.html)
 * [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
-* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [Medical Workers Should Use Respirator Masks, Not Surgical Masks](https://www.nytimes.com/2020/06/01/health/masks-surgical-N95-coronavirus.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

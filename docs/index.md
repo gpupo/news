@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/06/2020 03:09:39 UTC
+# indexed at 04/06/2020 03:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [iMessage for Windows: A labor of love that will never see light of day (2018)](https://neosmart.net/blog/2018/imessage-for-windows/)
 * [SpaceX Starlink is now its own ASN and present at the Seattle Internet Exchange](https://www.peeringdb.com/net/18747)
+* [iMessage for Windows: A labor of love that will never see light of day (2018)](https://neosmart.net/blog/2018/imessage-for-windows/)
 * [What the Hell Is a Deno?](https://breadth.substack.com/p/what-the-hell-is-a-deno)
-* [Toki Pona – An attempt to understand the meaning of life in 120 words](https://en.wikipedia.org/wiki/Toki_Pona)
 * [F-117s had an air-to-air capability with secondary mission to shoot Soviet AWACS](https://theaviationist.com/2020/06/03/f-117s-had-an-air-to-air-capability-with-secondary-mission-to-shoot-down-soviet-awacs-former-stealth-pilot-says/)
+* [Toki Pona – An attempt to understand the meaning of life in 120 words](https://en.wikipedia.org/wiki/Toki_Pona)
 * [Show HN: Daily non-commercial blog posts which didn't reach HN's front page](https://hnblogs.substack.com)
-* [Anders Tegnell on Sweden's (no)lockdown: “We still believe our strategy is good”](https://www.startribune.com/scientist-admits-sweden-could-have-battled-virus-better/570980492/)
 * [Workman Keyboard Layout](https://workmanlayout.org/)
 * [Analytics Without Google](https://www.justbartek.ca/analytics-without-google/)
 * [Those Win9x Crashes on Fast Machines](http://www.os2museum.com/wp/those-win9x-crashes-on-fast-machines/)
 * [OBS (macOS) Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam)
 * [A photo is crashing some Android phones](https://www.bbc.com/news/technology-52891650)
 * [Automated Work Recordings with OBS Studio and TaskWarrior and TimeWarrior](https://cristian.io/post/auto-screencasts/)
-* [Millions of Americans Skipping Payments as Wave of Defaults and Evictions Looms](https://www.npr.org/2020/06/03/867856602/millions-of-americans-skipping-payments-as-tidal-wave-of-defaults-and-evictions-)
 * [In Mathematics, It Often Takes a Good Map to Find Answers](https://www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/)
+* [Millions of Americans Skipping Payments as Wave of Defaults and Evictions Looms](https://www.npr.org/2020/06/03/867856602/millions-of-americans-skipping-payments-as-tidal-wave-of-defaults-and-evictions-)
+* [There’s No Fire Alarm for Artificial General Intelligence (2017)](https://intelligence.org/2017/10/13/fire-alarm/)
 * [The Contagion of Concern: Game theory of how anxiety spreads](https://www.adamjuliangoldstein.com/blog/contagion-of-concern/)
-* [Mindset Health (YC S19) raises $1.1M to develop hypnosis apps](https://techcrunch.com/2020/05/15/hypnosis-for-health-investors-have-placed-a-1-1-million-bet-on-mindset-health-that-it-can-work/)
 * [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
 * [ACLU sues Minnesota for police violence against the press](https://www.aclu.org/news/free-speech/police-are-attacking-journalists-at-protests-were-suing/)
-* [Show HN: Stock Performance of US Senators](https://www.govtrades.com/)
 * [Things from leaked audio of Mark Zuckerberg and his employees](https://www.theverge.com/interface/2020/6/3/21278233/mark-zuckerberg-facebook-walkout-employee-meeting-leaked-audio)
 * [Hacking the Planet (With Notcurses) A Guide to TUIs and Character Graphics [pdf]](https://nick-black.com/htp-notcurses.pdf)
-* [How much do we need the police?](https://www.npr.org/sections/codeswitch/2020/06/03/457251670/how-much-do-we-need-the-police)
+* [Mindset Health (YC S19) raises $1.1M to develop hypnosis apps](https://techcrunch.com/2020/05/15/hypnosis-for-health-investors-have-placed-a-1-1-million-bet-on-mindset-health-that-it-can-work/)
 * [Australian researchers set record for carbon dioxide capture](https://phys.org/news/2020-06-australian-carbon-dioxide-capture.html)
+* [Show HN: Stock Performance of US Senators](https://www.govtrades.com/)
 * [Show HN: Squawk – Walkie Talkie for Teams](https://www.squawk.to)
-* [Optical Baking: CO2 Laser Browning of Dough [pdf]](https://peterchencyc.com/files/co2/1-s2.0-S1466856418304284-main.pdf)
-* [Outside Plato's Cave episode 1](https://outsideplatoscave.substack.com/p/outside-platos-cave-episode-1-02062020?r=5xuid&utm_campaign=post&utm_medium=web&utm_source=hackernews)
-* [Oumuamua may be a hydrogen iceberg](https://news.yale.edu/2020/05/29/ahoy-oumuamua-may-be-hydrogen-iceberg)
 * [Paper Notes (2019)](https://macwright.org/2019/01/02/paper-notes.html)
+* [How much do we need the police?](https://www.npr.org/sections/codeswitch/2020/06/03/457251670/how-much-do-we-need-the-police)
+* [Oumuamua may be a hydrogen iceberg](https://news.yale.edu/2020/05/29/ahoy-oumuamua-may-be-hydrogen-iceberg)
+* [Optical Baking: CO2 Laser Browning of Dough [pdf]](https://peterchencyc.com/files/co2/1-s2.0-S1466856418304284-main.pdf)
 * [Shodan Dojo – Learning Shodan through katas](https://github.com/ninoseki/shodan-dojo)
+* [Dirichlet Process Mixture Models in Pyro](https://pyro.ai/examples/dirichlet_process_mixture.html)
 ## nytimes.com
 
 
@@ -62,6 +62,7 @@ layout: default
 * [An Interview With the Mayor of Minneapolis](https://www.nytimes.com/2020/06/03/podcasts/the-daily/jacob-frey-george-floyd-protests-minneapolis.html)
 * [Talking to Kids About Racism, Early and Often](https://www.nytimes.com/2020/06/03/parenting/kids-books-racism.html)
 * [Trump Uses the Military to Prove His Manhood](https://www.nytimes.com/2020/06/03/opinion/trump-military-protest.html)
+* [No More Lynching!](https://www.nytimes.com/2020/06/03/opinion/united-states-protests-lynching.html)
 * [Trump's Use of the Insurrection Act May Be a Final Straw for the Military](https://www.nytimes.com/2020/06/03/opinion/trump-army-insurrection-act.html)
 * [Trump’s Magic Word](https://www.nytimes.com/2020/06/03/opinion/trump-dominate.html)
 * [Zuckerberg’s Free Speech Bubble](https://www.nytimes.com/2020/06/03/opinion/facebook-trump-free-speech.html)
@@ -69,7 +70,6 @@ layout: default
 * [Please Stop Showing the Video of George Floyd’s Death](https://www.nytimes.com/2020/06/03/opinion/george-floyd-video-social-media.html)
 * [There’s No Home Remedy for Coronavirus Lies](https://www.nytimes.com/2020/06/03/opinion/coronavirus-misinformation-somalis.html)
 * [The Police Report to Me, but I Knew I Couldn’t Protect My Son](https://www.nytimes.com/2020/06/03/opinion/police-protests-atlanta-keisha-bottoms.html)
-* [Cameras Didn't Save George Floyd. They Can't Stop Police Brutality.](https://www.nytimes.com/2020/06/03/opinion/george-floyd-video-police.html)
 * [Tom Cotton: Send In the Military](https://www.nytimes.com/2020/06/03/opinion/tom-cotton-protests-military.html)
 * [The Videos That Rocked America. The Song That Knows Our Rage.](https://www.nytimes.com/2020/06/03/arts/george-floyd-video-racism.html)
 * [As Baseball Squabbles Over Money, It Risks a ‘Disastrous’ Outcome](https://www.nytimes.com/2020/06/03/sports/baseball/MLB-return-costas-coronavirus.html)
@@ -83,26 +83,27 @@ layout: default
 * [Venice Glimpses a Future With Fewer Tourists, and Likes What It Sees](https://www.nytimes.com/2020/06/03/world/europe/coronavirus-venice-tourists.html)
 * [Embattled at Home, Trump Finds Himself Isolated Abroad, Too](https://www.nytimes.com/2020/06/02/world/europe/trump-merkel-allies.html)
 * [Bruce Jay Friedman, 90, Author With a Darkly Comic Worldview, Dies](https://www.nytimes.com/2020/06/03/books/bruce-jay-friedman-90-author-with-a-darkly-comic-worldview-dies.html)
-* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
 * [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Breaking Glass and Gloomy Skies Inspire This Artist](https://www.nytimes.com/2020/05/31/style/rui-sasakaint-glass-corning-museum.html)
 * [A Documentary for the #MeToo Era](https://www.nytimes.com/2020/06/03/movies/metoo-documentary-russell-simmons.html)
 * [2 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/06/03/arts/design/virtual-art-shows.html)
 * [In ‘Exciting Times,’ Echoes of Sally Rooney, but With a Queer Twist](https://www.nytimes.com/2020/06/02/books/review/exciting-times-naoise-dolan.html)
 * [Stream These 15 Great Titles Before They Leave Netflix This Month](https://www.nytimes.com/2020/06/03/arts/television/leaving-netflix-june.html)
-* [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
-* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
 * [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [Medical Workers Should Use Respirator Masks, Not Surgical Masks](https://www.nytimes.com/2020/06/01/health/masks-surgical-N95-coronavirus.html)
+* [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
+* [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Jornalistas negros debatem questão racial em programa histórico na GloboNews](https://oglobo.globo.com/celina/jornalistas-negros-debatem-questao-racial-em-programa-historico-na-globonews-24461765)
 * [Coronavírus: Niterói volta a bloquear os acessos às praias da Região Oceânica](https://oglobo.globo.com/rio/bairros/coronavirus-niteroi-volta-bloquear-os-acessos-as-praias-da-regiao-oceanica-24461699)
 * [Defensoria Pública da União entra com pedido de urgência no STJ para tirar presidente da Fundação Palmares](https://oglobo.globo.com/cultura/defensoria-publica-da-uniao-entra-com-pedido-de-urgencia-no-stj-para-tirar-presidente-da-fundacao-palmares-24461563)
 * [Celso de Mello nega a Weintraub privilégio de marcar dia, hora e lugar de depoimento](https://epoca.globo.com/guilherme-amado/celso-de-mello-nega-weintraub-privilegio-de-marcar-dia-hora-lugar-de-depoimento-24461617)
@@ -110,6 +111,5 @@ layout: default
 * [Com novo recorde, Brasil tem 584.016 casos confirmados e 32.548 mortes por Covid-19](https://oglobo.globo.com/sociedade/coronavirus/com-novo-recorde-brasil-tem-584016-casos-confirmados-32548-mortes-por-covid-19-1-24461236)
 * [Niterói prorroga pagamento para MEIs e Empresa Cidadã](https://oglobo.globo.com/rio/bairros/niteroi-prorroga-pagamento-para-meis-empresa-cidada-24461550)
 * [Senado aprova projeto sobre violência doméstica na pandemia](https://oglobo.globo.com/sociedade/senado-aprova-projeto-sobre-violencia-domestica-na-pandemia-24461509)
-* [Brasileiro bate recorde de busca por ‘ansiedade’ no Google](https://epoca.globo.com/guilherme-amado/brasileiro-bate-recorde-de-busca-por-ansiedade-no-google-24461493)
 * [Bolsonaro não pode se eximir de responsabilidade nas mortes](https://oglobo.globo.com/opiniao/bolsonaro-nao-pode-se-eximir-de-responsabilidade-nas-mortes-24461098)
 * [Racismo é uma das causas das tensões americanas](https://oglobo.globo.com/opiniao/racismo-uma-das-causas-das-tensoes-americanas-1-24461063)

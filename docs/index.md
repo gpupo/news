@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/06/2020 00:25:44 UTC
+# indexed at 04/06/2020 00:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,40 @@ layout: default
 
 * [SpaceX Starlink is now its own ASN and present at the Seattle Internet Exchange](https://www.peeringdb.com/net/18747)
 * [Show HN: Daily non-commercial blog posts which didn't reach HN's front page](https://hnblogs.substack.com)
-* [Millions of Americans Skipping Payments as Wave of Defaults and Evictions Looms](https://www.npr.org/2020/06/03/867856602/millions-of-americans-skipping-payments-as-tidal-wave-of-defaults-and-evictions-)
 * [Those Win9x Crashes on Fast Machines](http://www.os2museum.com/wp/those-win9x-crashes-on-fast-machines/)
 * [OBS (macOS) Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam)
+* [Millions of Americans Skipping Payments as Wave of Defaults and Evictions Looms](https://www.npr.org/2020/06/03/867856602/millions-of-americans-skipping-payments-as-tidal-wave-of-defaults-and-evictions-)
 * [A photo is crashing some Android phones](https://www.bbc.com/news/technology-52891650)
 * [In Mathematics, It Often Takes a Good Map to Find Answers](https://www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/)
-* [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
 * [The Contagion of Concern: Game theory of how anxiety spreads](https://www.adamjuliangoldstein.com/blog/contagion-of-concern/)
+* [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
 * [Show HN: Stock Performance of US Senators](https://www.govtrades.com/)
 * [ACLU sues Minnesota for police violence against the press](https://www.aclu.org/news/free-speech/police-are-attacking-journalists-at-protests-were-suing/)
 * [Things from leaked audio of Mark Zuckerberg and his employees](https://www.theverge.com/interface/2020/6/3/21278233/mark-zuckerberg-facebook-walkout-employee-meeting-leaked-audio)
 * [Oumuamua may be a hydrogen iceberg](https://news.yale.edu/2020/05/29/ahoy-oumuamua-may-be-hydrogen-iceberg)
 * [Show HN: Squawk – Walkie Talkie for Teams](https://www.squawk.to)
+* [Paper Notes (2019)](https://macwright.org/2019/01/02/paper-notes.html)
 * [Dirichlet Process Mixture Models in Pyro](https://pyro.ai/examples/dirichlet_process_mixture.html)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/69f5ed72-9a51-404d-9db1-20aedb329798)
 * [The Fearless Invention of One of L.A.’S Greatest Poets](https://www.newyorker.com/magazine/2020/05/18/the-fearless-invention-of-one-of-las-greatest-poets)
 * [Shodan Dojo – Learning Shodan through katas](https://github.com/ninoseki/shodan-dojo)
 * [How We Automated 99% of Our Newsletter Business](https://thetechonomics.com/2020/06/03/how-we-automated-99-of-our-newsletter-business/)
-* [Paper Notes (2019)](https://macwright.org/2019/01/02/paper-notes.html)
 * [Effect of bean origin and temperature on grinding roasted coffee (2016)](https://www.nature.com/articles/srep24483)
-* [Huawei hid business operation in Iran after Reuters reported links to CFO](https://www.reuters.com/article/us-huawei-iran-probe-exclusive/exclusive-huawei-hid-business-operation-in-iran-after-reuters-reported-links-to-cfo-idUSKBN23A19B)
 * [A mysterious company’s Covid-19 papers in top medical journals may be unraveling](https://www.sciencemag.org/news/2020/06/mysterious-company-s-coronavirus-papers-top-medical-journals-may-be-unraveling)
+* [SeatGeek no longer supports signing up with or logging in with Facebook](https://support.seatgeek.com/hc/en-us/articles/360044786153-Why-can-t-I-sign-in-with-Facebook-anymore-#:~:text=As%20of%20April%202020%2C%20SeatGeek,details%20and%20add%20a%20password.)
+* [Huawei hid business operation in Iran after Reuters reported links to CFO](https://www.reuters.com/article/us-huawei-iran-probe-exclusive/exclusive-huawei-hid-business-operation-in-iran-after-reuters-reported-links-to-cfo-idUSKBN23A19B)
 * [Software Engineering Within SpaceX](https://yasoob.me/posts/software_engineering_within_spacex_launch/)
 * [Zero Knowledge Proofs applied to Auctions (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/18-doNascimento-Kumari-Ganesan.pdf)
 * [Show HN: Basic.css – Classless CSS Starter File](https://github.com/vladocar/Basic.css)
 * [Is a trillion dollars’ worth of programming lying on the ground?](https://blog.cerebralab.com/Is_a_trillion-dollar_worth_of_programming_lying_on_the_ground)
 * [Ask HN: How do you organise your files and folders?](https://news.ycombinator.com/item?id=23404900)
 * [The Dyson Battery Electric Vehicle](https://www.dyson.co.uk/newsroom/overview/features/june-2020/dyson-battery-electric-vehicle.html)
-* [Weirdos in the depression](https://blog.plover.com/book/weirdos.html)
 ## nytimes.com
 
 
 * [Mattis Harshly Criticizes Trump’s Leadership](https://www.nytimes.com/live/2020/george-floyd-protests-photos-videos-06-03)
 * [3 Other Officers Charged; Chauvin Murder Charge Upgraded: Live Updates](https://www.nytimes.com/2020/06/03/us/live-george-floyd-protests-today.html)
+* [Esper Breaks With Trump on Using Troops Against Protesters](https://www.nytimes.com/2020/06/03/us/politics/esper-milley-trump-protest.html)
 * [N.Y.C. Sees Peaceful Protests and Less Looting After Earlier Curfew: Live Updates](https://www.nytimes.com/2020/06/03/nyregion/nyc-protests-george-floyd.html)
 * [The Virus Closed His Bronx Jewelry Store. Then Looters Broke In.](https://www.nytimes.com/2020/06/03/nyregion/george-floyd-bronx-protests-looting.html)
 * [For Police Officers, Demonstrations Take a Toll and Test Duty](https://www.nytimes.com/2020/06/02/us/police-officers-minneapolis-protest.html)
@@ -82,20 +83,20 @@ layout: default
 * [Venice Glimpses a Future With Fewer Tourists, and Likes What It Sees](https://www.nytimes.com/2020/06/03/world/europe/coronavirus-venice-tourists.html)
 * [Embattled at Home, Trump Finds Himself Isolated Abroad, Too](https://www.nytimes.com/2020/06/02/world/europe/trump-merkel-allies.html)
 * [Bruce Jay Friedman, 90, Author With a Darkly Comic Worldview, Dies](https://www.nytimes.com/2020/06/03/books/bruce-jay-friedman-90-author-with-a-darkly-comic-worldview-dies.html)
-* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
+* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
 * [Breaking Glass and Gloomy Skies Inspire This Artist](https://www.nytimes.com/2020/05/31/style/rui-sasakaint-glass-corning-museum.html)
 * [A Documentary for the #MeToo Era](https://www.nytimes.com/2020/06/03/movies/metoo-documentary-russell-simmons.html)
 * [2 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/06/03/arts/design/virtual-art-shows.html)
 * [In ‘Exciting Times,’ Echoes of Sally Rooney, but With a Queer Twist](https://www.nytimes.com/2020/06/02/books/review/exciting-times-naoise-dolan.html)
 * [Stream These 15 Great Titles Before They Leave Netflix This Month](https://www.nytimes.com/2020/06/03/arts/television/leaving-netflix-june.html)
-* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [Black Coronavirus Patients Land in Hospitals More Often, Study Finds](https://www.nytimes.com/2020/05/23/health/coronavirus-black-patients.html)
-* [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
 * [Medical Workers Should Use Respirator Masks, Not Surgical Masks](https://www.nytimes.com/2020/06/01/health/masks-surgical-N95-coronavirus.html)
+* [Scientists Question Medical Data Used in Second Coronavirus Study](https://www.nytimes.com/2020/06/02/health/coronavirus-study.html)
+* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [How Trump’s Idea for a Photo Op Led to Havoc in a Park](https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,6 +104,7 @@ layout: default
 ## globo.com
 
 
+* [Senado aprova obrigatoriedade de planos cobrirem quimioterapia oral](https://oglobo.globo.com/sociedade/senado-aprova-obrigatoriedade-de-planos-cobrirem-quimioterapia-oral-24461387)
 * [Neta de Marco Aurélio invade sessão do Supremo: 'vovô!'](https://oglobo.globo.com/brasil/neta-de-marco-aurelio-invade-sessao-do-supremo-vovo-24461391)
 * [É #FAKE que general Braga Netto seja autor de áudio que defende intervenção militar](https://oglobo.globo.com/fato-ou-fake/e-fake-que-general-braga-netto-seja-autor-de-audio-que-defende-intervencao-militar-24461424)
 * [Câmara de Niterói revoga doação de R$ 45 milhões para hospital de campanha de São Gonçalo](https://oglobo.globo.com/rio/bairros/camara-de-niteroi-revoga-doacao-de-45-milhoes-para-hospital-de-campanha-de-sao-goncalo-24461227)
@@ -112,4 +114,3 @@ layout: default
 * [Governo capta US$ 3,5 bi em primeira emissão externa do ano](https://oglobo.globo.com/economia/governo-capta-us-35-bi-em-primeira-emissao-externa-do-ano-24461287)
 * [Covid: Com novo recorde de mortes registradas em 24 horas, Rio ultrapassa a marca de seis mil óbitos](https://oglobo.globo.com/rio/covid-com-novo-recorde-de-mortes-registradas-em-24-horas-rio-ultrapassa-marca-de-seis-mil-obitos-24461266)
 * [Mãe de santo presta queixa na polícia após ser xingada por presidente da Fundação Palmares](https://oglobo.globo.com/cultura/mae-de-santo-presta-queixa-na-policia-apos-ser-xingada-por-presidente-da-fundacao-palmares-24461277)
-* [Alexandre de Moraes lamenta fake news contra juízes e diz que Judiciário é independente](https://oglobo.globo.com/brasil/alexandre-de-moraes-lamenta-fake-news-contra-juizes-diz-que-judiciario-independente-1-24461231)

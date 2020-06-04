@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/06/2020 21:09:25 UTC
+# indexed at 04/06/2020 21:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Apple crushes one-man repair shop in Norway’s Supreme Court](https://repair.eu/news/apple-crushes-one-man-repair-shop/)
 * [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * [A History of Clojure [pdf]](https://clojure.org/about/history)
-* [Apple crushes one-man repair shop in Norway’s Supreme Court](https://repair.eu/news/apple-crushes-one-man-repair-shop/)
 * [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [Show HN: Grid.js – Advanced table library that works everywhere](https://gridjs.io/?hn)
+* [Smarking (YC W15) is hiring Multiple roles to scale mobility digital infr](https://www.smarking.com/careers)
 * [Germany bans digital doppelganger passport photos](https://www.reuters.com/article/us-germany-tech-morphing/germany-bans-digital-doppelganger-passport-photos-idUSKBN23A1YM)
 * [Anxiety in product development](https://andreschweighofer.com/agile/anxiety-in-product-development/)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
-* [Show HN: C0D3 – A free, interactive site to learn coding](https://www.c0d3.com)
-* [More than half of American retailers didn't pay their rent in April and May](https://www.businessinsider.com/retailers-didnt-pay-rent-may-upset-the-entire-economy-2020-6)
 * [Nicolas Bourbaki: The greatest mathematician who never was](https://theconversation.com/nicolas-bourbaki-the-greatest-mathematician-who-never-was-122845)
+* [More than half of American retailers didn't pay their rent in April and May](https://www.businessinsider.com/retailers-didnt-pay-rent-may-upset-the-entire-economy-2020-6)
+* [Show HN: C0D3 – A free, interactive site to learn coding](https://www.c0d3.com)
 * [Decoding radio telemetry heard on news helicopter video footage with GNU Radio](https://www.rtl-sdr.com/decoding-radio-telemetry-heard-on-news-helicopter-video-footage-with-gnu-radio/)
 * [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
 * [Researcher questions years of work with reexamination of fMRI data](https://today.duke.edu/2020/06/studies-brain-activity-aren%E2%80%99t-useful-scientists-thought)
-* [BlackRock Is Bailing Out Its ETFs with Fed Money and Taxpayers Eating Losses](https://wallstreetonparade.com/2020/06/blackrock-is-bailing-out-its-etfs-with-fed-money-and-taxpayers-eating-losses-its-also-the-sole-manager-for-335-billion-of-federal-employees-retirement-funds/)
 * [Facebook will block ads from state-controlled media outlets](https://www.cnbc.com/2020/06/04/facebook-will-block-ads-from-state-controlled-media-outlets.html)
 * [Emacs as Email Client – Part I](http://www.mycpu.org/read-email-in-emacs/)
-* [HFT in My Backyard (2014)](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/)
 * [On a caravan, with one of the Sahara's last European explorers](https://phys.org/news/2020-06-caravan-sahara-european-explorers.html)
-* [Cryo-electron microscopy technique sees individual atoms for first time](https://www.nature.com/articles/d41586-020-01658-1)
 * [Google Domains blocking all Gitbook URLS: post-mortem](https://blog.gitbook.com/tech/post-mortems/06-20-gitbook-domains-blocked-by-registrar)
+* [HFT in My Backyard (2014)](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/)
+* [The Lancet retracts study on hydroxychloroquine and chloroquine](https://www.thelancet.com/lancet/article/s0140673620313246)
+* [Cryo-electron microscopy technique sees individual atoms for first time](https://www.nature.com/articles/d41586-020-01658-1)
+* [CVE-2020-12398: Security downgrade with IMAP STARTTLS leads to information leaka](https://www.mozilla.org/en-US/security/advisories/mfsa2020-22/#CVE-2020-12398)
 * [Personal Wiki for Vim](https://github.com/vimwiki/vimwiki)
+* [BlackRock Is Bailing Out Its ETFs with Fed Money and Taxpayers Eating Losses](https://wallstreetonparade.com/2020/06/blackrock-is-bailing-out-its-etfs-with-fed-money-and-taxpayers-eating-losses-its-also-the-sole-manager-for-335-billion-of-federal-employees-retirement-funds/)
 * [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
-* [C64 Kernal API Reference](https://www.pagetable.com/?p=1401)
 * [Show HN: TitleRun – The game that only exists in your title bar](https://titlerun.xyz/)
 * [Stanford lab envisions delivery drones that save energy by taking the bus](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/)
-* [Show HN: interviewing.io is out of beta and open to engineers of all levels](http://blog.interviewing.io/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all/)
 * [The Road Less Traveled to Fusion Energy?](http://nautil.us/issue/86/energy/the-road-less-traveled-to-fusion-energy)
-* [Sterblue (YC S18) Is Hiring a Senior Front-End Engineer](https://www.sterblue.com/jobs#rt-jobs-1)
-* [Study finds political bias skews perceptions of verifiable fact](https://news.harvard.edu/gazette/story/2020/06/study-finds-political-bias-skews-perceptions-of-verifiable-fact/)
+* [Show HN: interviewing.io is out of beta and open to engineers of all levels](http://blog.interviewing.io/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all/)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [A Would-Be Netanyahu Nemesis Snipes From the Sidelines](https://www.nytimes.com/2020/06/04/world/middleeast/israel-liberman-netanyahu-annexation-west-bank.html)
 * [M.L.B. Took 9 Days to Address George Floyd. Was It Too Late?](https://www.nytimes.com/2020/06/03/sports/baseball/george-floyd-protests-baseball-mlb.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
 * [‘The Baby-Sitters Club’ Is Back: Help Yourself to the Fridge](https://www.nytimes.com/2020/05/27/arts/television/the-baby-sitters-club-netflix.html)
 * [E-Bikes Are Having Their Moment. They Deserve It.](https://www.nytimes.com/2020/06/03/technology/personaltech/e-bikes-are-having-their-moment-they-deserve-it.html)
 * [‘Shirley’ Review: A Writer as Scary as Her Stories](https://www.nytimes.com/2020/06/03/movies/shirley-review.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Minneapolis se despede de George Floyd: ‘Chegou a hora de a polícia prestar contas neste país'](https://oglobo.globo.com/mundo/minneapolis-se-despede-de-george-floyd-chegou-hora-de-policia-prestar-contas-neste-pais-24462872)
+* ['Na Floresta Amazônica, existem milhares de vírus como este, escondidos', diz o físico Paulo Artaxo](https://oglobo.globo.com/sociedade/na-floresta-amazonica-existem-milhares-de-virus-como-este-escondidos-diz-fisico-paulo-artaxo-24462930)
+* [Escolas estaduais serão reabertas na segunda-feira para dar merenda aos alunos](https://oglobo.globo.com/rio/escolas-estaduais-serao-reabertas-na-segunda-feira-para-dar-merenda-aos-alunos-24462996)
+* [Senado aprova uso obrigatório de máscara em todo o país](https://oglobo.globo.com/sociedade/senado-aprova-uso-obrigatorio-de-mascara-em-todo-pais-24462993)
+* [Facebook, Twitter e a ira de Trump](https://oglobo.globo.com/economia/facebook-twitter-a-ira-de-trump-24463003)
 * [Livros sobre racismo viram best-sellers em meio a protestos nos EUA](https://oglobo.globo.com/cultura/livros-sobre-racismo-viram-best-sellers-em-meio-protestos-nos-eua-24462925)
 * [Marcos Palmeira comemora alta de produtos orgânicos durante pandemia](https://epoca.globo.com/sociedade/marcos-palmeira-comemora-alta-de-produtos-organicos-durante-pandemia-24462625)
 * [Em mês de quarentena, dispensers de álcool em gel são furtados da SuperVia; flagrante é registrado em vídeo](https://oglobo.globo.com/rio/em-mes-de-quarentena-dispensers-de-alcool-em-gel-sao-furtados-da-supervia-flagrante-registrado-em-video-24462969)
-* [Marina Silva, Sebastião Salgado e o físico Paulo Artaxo participam do debate virtual 'O meio ambiente no pós-pandemia', mediado por Míram Leitão](https://oglobo.globo.com/sociedade/marina-silva-sebastiao-salgado-o-fisico-paulo-artaxo-participam-do-debate-virtual-meio-ambiente-no-pos-pandemia-mediado-por-miram-leitao-24462930)
-* [Governo transfere 83,9 milhões do Bolsa Família para comunicação institucional](https://oglobo.globo.com/brasil/governo-transfere-839-milhoes-do-bolsa-familia-para-comunicacao-institucional-24462902)
 * [Florianópolis registra um mês sem mortes por Covid-19 mas teme a chegada do inverno](https://oglobo.globo.com/sociedade/florianopolis-registra-um-mes-sem-mortes-por-covid-19-mas-teme-chegada-do-inverno-24462769)
 * [Dois dias após ampliação de limite, estados e municípios pedem R$ 1,3 bi emprestado à Caixa](https://oglobo.globo.com/economia/dois-dias-apos-ampliacao-de-limite-estados-municipios-pedem-13-bi-emprestado-caixa-24462923)
-* [Ressaca abre nova cratera no calçadão da Praia da Macumba; veja vídeo](https://oglobo.globo.com/rio/bairros/ressaca-abre-nova-cratera-no-calcadao-da-praia-da-macumba-veja-video-1-24462776)
 * [‘Bolsonaro quer dar um golpe. Democratas devem se unir’, diz Arthur Virgílio](https://epoca.globo.com/guilherme-amado/bolsonaro-quer-dar-um-golpe-democratas-devem-se-unir-diz-arthur-virgilio-24462870)

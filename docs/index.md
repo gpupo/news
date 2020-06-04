@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/06/2020 11:08:55 UTC
+# indexed at 04/06/2020 11:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
-* [GitHub Classroom](https://classroom.github.com/)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
+* [GitHub Classroom](https://classroom.github.com/)
 * [SpaceX Starlink is now its own ASN and present at the Seattle Internet Exchange](https://www.peeringdb.com/net/18747)
+* [Bangalore has 12M residents and only 385 Covid-19 cases](https://www.thequint.com/news/india/coronavirus-for-a-population-of-12-crore-why-bengaluru-has-only-300-covid-cases)
 * [iMessage for Windows: A labor of love that will never see light of day (2018)](https://neosmart.net/blog/2018/imessage-for-windows/)
 * [Kraftwerk played live with an astronaut on the ISS (2018)](https://cdm.link/2018/07/watch-kraftwerk-jam-with-the-iss-and-esa-astronaut-alexander-gerst/)
+* [Stanford lab envisions delivery drones that save energy by taking the bus](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/)
 * [IMAP Email Backup](https://smalldata.tech/blog/2020/04/07/imap-email-backup)
 * [Show HN: Daily non-commercial blog posts which didn't reach HN's front page](https://hnblogs.substack.com)
 * [Workman Keyboard Layout (2010)](https://workmanlayout.org/)
-* [GPT-3 and Scaling Trends](https://nostalgebraist.tumblr.com/post/619672884731904000/gpt-3-and-scaling-trends)
-* [Stanford lab envisions delivery drones that save energy by taking the bus](https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/)
 * [F-117s had an air-to-air capability with secondary mission to shoot Soviet AWACS](https://theaviationist.com/2020/06/03/f-117s-had-an-air-to-air-capability-with-secondary-mission-to-shoot-down-soviet-awacs-former-stealth-pilot-says/)
-* [Bangalore has 12M residents and only 385 Covid-19 cases](https://www.thequint.com/news/india/coronavirus-for-a-population-of-12-crore-why-bengaluru-has-only-300-covid-cases)
-* [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm)
+* [GPT-3 and Scaling Trends](https://nostalgebraist.tumblr.com/post/619672884731904000/gpt-3-and-scaling-trends)
 * [Show HN: Virus Cafe – Make a friend in 2 minutes](https://virus.cafe)
 * [Nand2Tetris Hack assembler implemented in Rust](https://github.com/tamuhey/hack-assembler-rust)
-* [Ancient DNA is offering clues to puzzle of Dead Sea scrolls, say experts](https://www.theguardian.com/science/2020/jun/02/ancient-dna-helps-experts-tackle-puzzle-of-dead-sea-scrolls)
+* [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm)
 * [Anders Tegnell defends Sweden's virus approach](https://www.startribune.com/scientist-admits-sweden-could-have-battled-virus-better/570980492/)
-* [Rare miniature rock art found in Australia](https://arstechnica.com/science/2020/06/rare-miniature-rock-art-found-in-australia/)
+* [Ancient DNA is offering clues to puzzle of Dead Sea scrolls, say experts](https://www.theguardian.com/science/2020/jun/02/ancient-dna-helps-experts-tackle-puzzle-of-dead-sea-scrolls)
+* [Fyifv: A Microsoft Urban Legend](https://web.archive.org/web/20051228022236/http://www.kuro5hin.org/story/2001/7/16/13635/2730)
+* [U.S. trails most developed countries in voter turnout (2018)](https://www.pewresearch.org/fact-tank/2018/05/21/u-s-voter-turnout-trails-most-developed-countries/)
 * [Australian researchers set record for carbon dioxide capture](https://phys.org/news/2020-06-australian-carbon-dioxide-capture.html)
 * [Altair – A declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
+* [Rare miniature rock art found in Australia](https://arstechnica.com/science/2020/06/rare-miniature-rock-art-found-in-australia/)
+* [Show HN: Jumpfiles – get more done with fewer keystrokes](https://github.com/hofstadter-io/jumpfiles/blob/master/README.md)
 * [The Pitchforks Are Coming For Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014)
 * [Clang-11.0.0 Miscompiled SQLite](https://sqlite.org/forum/forumpost/e7e828bb6f)
-* [Postmodernism and Its Impact (2017)](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
 * [Analytics Without Google](https://www.justbartek.ca/analytics-without-google/)
-* [Amazon is sued over warehouses after New York worker brings coronavirus home](https://www.reuters.com/article/us-health-coronavirus-amazon-com-lawsuit/amazon-is-sued-over-warehouses-after-new-york-worker-brings-coronavirus-home-cousin-dies-idUSKBN23A3FI)
-* [Show HN: Jumpfiles – get more done with fewer keystrokes](https://github.com/hofstadter-io/jumpfiles/blob/master/README.md)
-* [Hacking the Planet With Notcurses: A Guide to TUIs and Character Graphics [pdf]](https://nick-black.com/htp-notcurses.pdf)
 * [Automated Work Recordings with OBS Studio and TaskWarrior and TimeWarrior](https://cristian.io/post/auto-screencasts/)
+* [Hacking the Planet With Notcurses: A Guide to TUIs and Character Graphics [pdf]](https://nick-black.com/htp-notcurses.pdf)
+* [Amazon is sued over warehouses after New York worker brings coronavirus home](https://www.reuters.com/article/us-health-coronavirus-amazon-com-lawsuit/amazon-is-sued-over-warehouses-after-new-york-worker-brings-coronavirus-home-cousin-dies-idUSKBN23A3FI)
 * [A study out of thin air](https://www.medicineuncensored.com/a-study-out-of-thin-air)
-* [U.S. trails most developed countries in voter turnout 2018)](https://www.pewresearch.org/fact-tank/2018/05/21/u-s-voter-turnout-trails-most-developed-countries/)
 ## nytimes.com
 
 
@@ -83,10 +83,11 @@ layout: default
 * [Confederate Statue Debate Is Reignited by George Floyd Protests](https://www.nytimes.com/2020/06/03/us/confederate-statues-george-floyd.html)
 * [Danish Church Takes Over Heavy Metal Venue: From ‘Copenhell’ to ‘Copenheaven’](https://www.nytimes.com/2020/06/04/world/europe/copenhagen-church-coronavirus-reopening.html)
 * [New Yorkers Are Getting Antibody Test Results. And They Are Anxious.](https://www.nytimes.com/2020/06/04/nyregion/coronavirus-antibodies-nyc.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
-* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [401(k) Rollover F.A.Q.: What You Need to Know](https://www.nytimes.com/2020/05/10/business/401k-rollover-faq.html)
+* [Mothers Don’t Have to Be Martyrs](https://www.nytimes.com/2020/05/05/parenting/mothers-not-martyrs.html)
+* [The Extra Burden for Parents of Children With Special Needs](https://www.nytimes.com/2020/05/13/well/family/coronavirus-shutdowns-children-special-needs-adhd-autism.html)
+* [When Can Child Care Resume?](https://www.nytimes.com/2020/05/04/parenting/child-care-resume-questions.html)
+* [How Not to Apologize in Quarantine](https://www.nytimes.com/2020/05/08/smarter-living/how-not-to-apologize-in-quarantine.html)
 * [11 Great Alternatives to the Top National Parks](https://www.nytimes.com/2020/06/04/travel/national-parks-social-distancing-coronavirus.html)
 * [The Brilliant Astronomer Who Devised New Tactics to Fight Anti-Gay Bias](https://www.nytimes.com/2020/06/02/books/review/deviants-war-eric-cervini.html)
 * [With Caution and Creativity, Day Cares Prepare to Reopen](https://www.nytimes.com/2020/06/02/parenting/coronavirus-day-cares-reopening.html)
@@ -97,17 +98,18 @@ layout: default
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
 * [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Black Voters Are Coming for Trump](https://www.nytimes.com/2020/06/03/opinion/biden-black-vote-trump.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Autópsia revela que George Floyd tinha sido contaminado pelo coronavírus](https://oglobo.globo.com/mundo/autopsia-revela-que-george-floyd-tinha-sido-contaminado-pelo-coronavirus-24461902)
+* [Prazo para ter desconto no IPTU termina sexta-feira: cariocas que já pagaram não têm direito](https://oglobo.globo.com/rio/prazo-para-ter-desconto-no-iptu-termina-sexta-feira-cariocas-que-ja-pagaram-nao-tem-direito-24461896)
 * [Coronavírus: o velório de bebê indígena morto com covid-19 que pode ter espalhado o vírus em aldeias de MT](https://epoca.globo.com/brasil/coronavirus-velorio-de-bebe-indigena-morto-com-covid-19-que-pode-ter-espalhado-virus-em-aldeias-de-mt-24461880)
 * [Protestos por George Floyd: em seis áreas, a desigualdade racial no Brasil e nos EUA](https://epoca.globo.com/mundo/protestos-por-george-floyd-em-seis-areas-desigualdade-racial-no-brasil-nos-eua-24461854)
 * [Fechado desde março, Zazá Bistrô fará edição especial de entregas para o Dia dos Namorados](https://oglobo.globo.com/ela/gastronomia/fechado-desde-marco-zaza-bistro-fara-edicao-especial-de-entregas-para-dia-dos-namorados-24461846)
-* [Após ataques, Bolsonaro poupa Moraes, mas inflama sua militância](https://oglobo.globo.com/brasil/apos-ataques-bolsonaro-poupa-moraes-mas-inflama-sua-militancia-24461741)
-* [Vice-líder do governo defende entrega de cargos ao centrão 'sem passar a mão na cabeça de quem cometer desvio'](https://oglobo.globo.com/brasil/vice-lider-do-governo-defende-entrega-de-cargos-ao-centrao-sem-passar-mao-na-cabeca-de-quem-cometer-desvio-24461760)
 * [O jornalismo de que Heleno gosta](https://epoca.globo.com/guilherme-amado/o-jornalismo-de-que-heleno-gosta-24461571)
 * [Santos Cruz e o artigo 142: 'O Poder Moderador no Brasil é a Constituição'](https://epoca.globo.com/guilherme-amado/santos-cruz-o-artigo-142-poder-moderador-no-brasil-a-constituicao-24461561)
 * [Plataforma cria loja on-line de forma simples e gratuita para comerciantes de Niterói venderem durante a pandemia](https://oglobo.globo.com/rio/bairros/plataforma-cria-loja-on-line-de-forma-simples-gratuita-para-comerciantes-de-niteroi-venderem-durante-pandemia-24461219)

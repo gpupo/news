@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/06/2020 00:26:25 UTC
+# indexed at 05/06/2020 00:35:35 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Qualified Immunity: Explained](https://theappeal.org/qualified-immunity-explained/)
 * [A History of Clojure [pdf]](https://clojure.org/about/history)
 * [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
+* [Show HN: Create a Deep Fake Video from Any Image](https://myvoiceyourface.com)
 * [Show HN: Grid.js – Advanced table library that works everywhere](https://gridjs.io/?hn)
 * [Hands-On Scala Programming](http://handsonscala.com)
-* [Show HN: Create a Deep Fake Video from Any Image](https://myvoiceyourface.com)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
+* [Trump to Sign Executive Order Waiving Key Environmental Laws](https://e360.yale.edu/digest/president-trump-to-sign-executive-order-waiving-key-environmental-laws)
 * [Germany bans digital doppelganger passport photos](https://www.reuters.com/article/us-germany-tech-morphing/germany-bans-digital-doppelganger-passport-photos-idUSKBN23A1YM)
 * [Nicolas Bourbaki: The greatest mathematician who never was](https://theconversation.com/nicolas-bourbaki-the-greatest-mathematician-who-never-was-122845)
 * [Anxiety in product development](https://andreschweighofer.com/agile/anxiety-in-product-development/)
-* [Trump to Sign Executive Order Waiving Key Environmental Laws](https://e360.yale.edu/digest/president-trump-to-sign-executive-order-waiving-key-environmental-laws)
-* [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
+* [Archaeologists Identify Traces Cannabis in Ancient Jewish Shrines](https://www.smithsonianmag.com/smart-news/cannabis-found-altar-ancient-israeli-shrine-180975016/)
 * [Show HN: C0D3 – A free, interactive site to learn coding](https://www.c0d3.com)
+* [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
 * [Germany will require all petrol stations to provide electric car charging](https://www.reuters.com/article/us-health-coronavirus-germany-autos/germany-forces-all-petrol-stations-to-provide-electric-car-charging-idUSKBN23B1WU)
 * [Google Domains blocking all Gitbook URLS: post-mortem](https://blog.gitbook.com/tech/post-mortems/06-20-gitbook-domains-blocked-by-registrar)
 * [Decoding radio telemetry heard on news helicopter video footage with GNU Radio](https://www.rtl-sdr.com/decoding-radio-telemetry-heard-on-news-helicopter-video-footage-with-gnu-radio/)
-* [Archaeologists Identify Traces Cannabis in Ancient Jewish Shrines](https://www.smithsonianmag.com/smart-news/cannabis-found-altar-ancient-israeli-shrine-180975016/)
 * [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
 * [Researcher questions years of work with reexamination of fMRI data](https://today.duke.edu/2020/06/studies-brain-activity-aren%E2%80%99t-useful-scientists-thought)
-* [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
 * [Three authors retract study on hydroxychloroquine and chloroquine](https://www.thelancet.com/lancet/article/s0140673620313246)
+* [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
 * [Cryo-electron microscopy technique sees individual atoms for first time](https://www.nature.com/articles/d41586-020-01658-1)
 * [HFT in My Backyard (2014)](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/)
 * [Personal Wiki for Vim](https://github.com/vimwiki/vimwiki)
 * [On a caravan, with one of the Sahara's last European explorers](https://phys.org/news/2020-06-caravan-sahara-european-explorers.html)
-* [Why Is the NYPD So Powerful?](https://rossbarkan.substack.com/p/why-is-the-nypd-so-powerful)
-* [Smarking (YC W15) is hiring Multiple roles to scale mobility digital infr](https://www.smarking.com/careers)
-* [Words in the world (that don't translate into English)](https://www.theguardian.com/world/2018/jul/27/10-of-the-best-words-in-the-world-that-dont-translate-into-english)
+* [Court overturns EPA approval of popular herbicide made by Monsanto](https://www.theguardian.com/us-news/2020/jun/04/monsanto-herbicide-court-overrules-epa)
 * [CVE-2020-12398: Security downgrade with IMAP STARTTLS leads to information leaka](https://www.mozilla.org/en-US/security/advisories/mfsa2020-22/#CVE-2020-12398)
+* [Smarking (YC W15) is hiring Multiple roles to scale mobility digital infr](https://www.smarking.com/careers)
+* [Show HN: TitleRun – The game that only exists in your title bar](https://titlerun.xyz/)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [Mattis Harshly Criticizes Trump’s Leadership](https://www.nytimes.com/live/2020/george-floyd-protests-photos-videos-06-04)
 * [Mourners Gather to Remember George Floyd in Minneapolis Memorial](https://www.nytimes.com/2020/06/04/us/floyd-memorial-funeral.html)
 * [How Protests Have Made the City Feel Like New York Again](https://www.nytimes.com/2020/06/04/nyregion/floyd-nyc-protests.html)
-* [De Blasio Is Met With Jeers at a George Floyd Memorial: Live Updates](https://www.nytimes.com/2020/06/04/nyregion/nyc-protests-george-floyd.html)
+* [Protesters Defy Curfew Again, Setting Up Potential Confrontations: Live Updates](https://www.nytimes.com/2020/06/04/nyregion/nyc-protests-george-floyd.html)
 * [Live Coronavirus News Updates](https://www.nytimes.com/2020/06/04/world/coronavirus-us-update.html)
 * [Coronavirus Rips Into Regions Previously Spared](https://www.nytimes.com/2020/06/04/world/middleeast/coronavirus-egypt-america-africa-asia.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
@@ -85,9 +85,10 @@ layout: default
 * [For Some Minority-Owned Businesses, Their Lenders Are Now Their Defenders](https://www.nytimes.com/2020/06/04/business/minority-businesses-damage-lenders.html)
 * [N.B.A. Owners Set a July 31 Restart, All in Florida](https://www.nytimes.com/2020/06/04/sports/basketball/coronavirus-nba-disney-world-restart.html)
 * [Russian-Backed Libyan Commander Retreats From Tripoli](https://www.nytimes.com/2020/06/04/world/middleeast/libya-hifter-retreat-russia.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [2,000 Free Meals a Night, Seasoned by Silicon Valley Chefs](https://www.nytimes.com/2020/06/04/health/coronavirus-hunger-unemployment.html)
 * [The French Artist Who Saw the Pandemic Coming](https://www.nytimes.com/2020/06/04/arts/design/neil-beloufa-art-review-virus.html)
@@ -107,13 +108,13 @@ layout: default
 ## globo.com
 
 
+* [Ministério da Saúde anuncia recursos para centros de atendimento de Covid-19 em favelas](https://oglobo.globo.com/sociedade/ministerio-da-saude-anuncia-recursos-para-centros-de-atendimento-de-covid-19-em-favelas-24463418)
+* [Leia a íntegra do depoimento em que Sérgio Camargo, da Fundação Palmares, chama movimento negro de 'escória'](https://oglobo.globo.com/cultura/leia-integra-do-depoimento-em-que-sergio-camargo-da-fundacao-palmares-chama-movimento-negro-de-escoria-24462253)
 * [Mau cheiro e gosto ruim da água da Cedae não foram causados pela geosmina, afirma estudo da UFRJ](https://oglobo.globo.com/rio/mau-cheiro-gosto-ruim-da-agua-da-cedae-nao-foram-causados-pela-geosmina-afirma-estudo-da-ufrj-24463310)
 * [Bolsonaro volta a chamar manifestantes pró-democracia de 'terroristas' e pede para seus apoiadores não irem às ruas no domingo](https://oglobo.globo.com/brasil/bolsonaro-volta-chamar-manifestantes-pro-democracia-de-terroristas-pede-para-seus-apoiadores-nao-irem-as-ruas-no-domingo-24463325)
 * [Rio pagou por respiradores que não servem para Covid-19 no dia em que dono de empresa suspeita foi preso](https://oglobo.globo.com/rio/rio-pagou-por-respiradores-que-nao-servem-para-covid-19-no-dia-em-que-dono-de-empresa-suspeita-foi-preso-24463319)
 * [Em novo gesto ao STF, ministro do Planalto se reúne com Rosa Weber](https://oglobo.globo.com/brasil/em-novo-gesto-ao-stf-ministro-do-planalto-se-reune-com-rosa-weber-24463365)
-* [Senado aprova Lei Aldir Blanc, que prevê socorro de R$ 3 bilhões para a cultura](https://oglobo.globo.com/cultura/senado-aprova-lei-aldir-blanc-que-preve-socorro-de-3-bilhoes-para-cultura-24463134)
 * [Senado aprova auxílio de até R$ 160 milhões para instituições que abrigam idosos](https://oglobo.globo.com/sociedade/senado-aprova-auxilio-de-ate-160-milhoes-para-instituicoes-que-abrigam-idosos-24463326)
-* [Governo autoriza R$ 60 bi para estados, mas dinheiro só sai na semana que vem](https://oglobo.globo.com/economia/governo-autoriza-60-bi-para-estados-mas-dinheiro-so-sai-na-semana-que-vem-1-24463159)
 * [Multa para quem não usar máscara no estado do Rio pode chegar até R$ 1700](https://oglobo.globo.com/rio/multa-para-quem-nao-usar-mascara-no-estado-do-rio-pode-chegar-ate-1700-24463217)
 * [Estado do Rio passa dos 60 mil casos confirmados de Covid-19](https://oglobo.globo.com/rio/estado-do-rio-passa-dos-60-mil-casos-confirmados-de-covid-19-24463210)
 * [O que se sabe sobre o Avifavir, antiviral que a Rússia aponta como esperança no combate à Covid-19](https://oglobo.globo.com/sociedade/o-que-se-sabe-sobre-avifavir-antiviral-que-russia-aponta-como-esperanca-no-combate-covid-19-24463061)

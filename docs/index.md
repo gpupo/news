@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/06/2020 12:12:22 UTC
+# indexed at 05/06/2020 12:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [People try to do right by each other, no matter the motivation, study finds](https://phys.org/news/2020-06-people.html)
 * [A History of Clojure [pdf]](https://clojure.org/about/history)
 * [Germany, France launch Gaia-X platform in bid for ‘tech sovereignty’](https://www.politico.eu/article/germany-france-gaia-x-cloud-platform-eu-tech-sovereignty/)
+* [Julia as a CLI Calculator](https://krasjet.com/rnd.wlk/julia/)
 * [DeepFaceDrawing Generates Photorealistic Portraits from Freehand Sketches](https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/)
 * [The Go Compiler Needs to Be Smarter](https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/)
-* [Julia as a CLI Calculator](https://krasjet.com/rnd.wlk/julia/)
+* [Ask HN: Are my expectations on code quality and professionalism too high?](https://news.ycombinator.com/item?id=23426574)
 * [Unker Non-Linear Writing System](https://s.ai/nlws/)
 * [Signal app downloads spike as US protesters seek message encryption](https://qz.com/1864846/signal-app-downloads-spike-as-us-protesters-seek-message-encryption/)
-* [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * [Synthetic red blood cells mimic natural ones, and have new abilities](https://www.acs.org/content/acs/en/pressroom/presspacs/2020/acs-presspac-june-3-2020/synthetic-red-blood-cells-mimic-natural-ones-and-have-new-abilities.html)
-* [Ask HN: Are my expectations on code quality and professionalism too high?](https://news.ycombinator.com/item?id=23426574)
-* [Homoiconicity Revisited](https://www.expressionsofchange.org/homoiconicity-revisited/)
+* [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * [555 timer teardown: inside the most popular IC (2016)](http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html)
+* [Homoiconicity Revisited](https://www.expressionsofchange.org/homoiconicity-revisited/)
 * [Ask HN: Have you ever gone without a computer or phone for an extended period?](https://news.ycombinator.com/item?id=23414896)
 * [Why Sleep Deprivation Kills](https://www.quantamagazine.org/why-sleep-deprivation-kills-20200604/)
-* [The Illiac IV Computer](https://en.wikipedia.org/wiki/ILLIAC_IV)
-* [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
-* [Cryo-electron microscopy breaks a key barrier](https://www.nature.com/articles/d41586-020-01658-1)
-* [Words that don't translate into English](https://www.theguardian.com/world/2018/jul/27/10-of-the-best-words-in-the-world-that-dont-translate-into-english)
 * [Kids and Time](https://www.jefftk.com/p/kids-and-time)
+* [The Illiac IV Computer](https://en.wikipedia.org/wiki/ILLIAC_IV)
+* [Words that don't translate into English](https://www.theguardian.com/world/2018/jul/27/10-of-the-best-words-in-the-world-that-dont-translate-into-english)
+* [Cryo-electron microscopy breaks a key barrier](https://www.nature.com/articles/d41586-020-01658-1)
+* [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [Containers from first principles](https://fzakaria.com/2020/05/31/containers-from-first-principles.html)
-* [Emacs as Email Client](http://www.mycpu.org/read-email-in-emacs/)
 * [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
+* [Emacs as Email Client](http://www.mycpu.org/read-email-in-emacs/)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
-* [Breaking Logjams in Knowledge Work (2018)](https://sloanreview.mit.edu/article/breaking-logjams-in-knowledge-work/)
-* [Show HN: Create a Deep Fake Video from Any Image](https://myvoiceyourface.com/?1)
 * [Show HN: Grid.js – Advanced table library that works everywhere](https://gridjs.io/?hn)
+* [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
+* [The case for declaring armed and fully autonomous drone swarms as WMD](https://mwi.usma.edu/swarms-mass-destruction-case-declaring-armed-fully-autonomous-drone-swarms-wmd/)
 ## nytimes.com
 
 
@@ -78,18 +78,18 @@ layout: default
 * [My Quarantine Boyfriend Lost Everything (but Found Me)](https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html)
 * [Trump, Citing Pandemic, Moves to Weaken Two Key Environmental Protections](https://www.nytimes.com/2020/06/04/climate/trump-environment-coronavirus.html)
 * [University to Investigate Professor Who Tweeted About ‘Black Privilege’](https://www.nytimes.com/2020/06/05/us/ucf-professor-charles-negy-race.html)
-* [N.B.A. Owners Set a July 31 Restart, All in Florida](https://www.nytimes.com/2020/06/04/sports/basketball/coronavirus-nba-disney-world-restart.html)
+* [7 People Dead in Alabama Shooting, Police Say](https://www.nytimes.com/2020/06/05/us/morgan-county-alabama-shooting.html)
 * [With Broad Subpoena Power, Republicans Seek to Undercut Russia Inquiry](https://www.nytimes.com/2020/06/04/us/politics/republicans-senate-trump-russia.html)
 * [New York Times Says Senator’s Op-Ed Did Not Meet Standards](https://www.nytimes.com/2020/06/04/business/new-york-times-op-ed-cotton.html)
 * [How a City Besieged by the Virus Turned Out to Be Heard](https://www.nytimes.com/2020/06/04/nyregion/floyd-nyc-protests.html)
 * [With Fewer People in the Way, Transportation Projects Speed Ahead](https://www.nytimes.com/2020/06/05/nyregion/coronavirus-ny-transportation-work.html)
 * [Russia Jumps on George Floyd Killing as Proof of U.S. Hypocrisy](https://www.nytimes.com/2020/06/04/world/europe/russia-reaction-floyd-protests.html)
 * [Tenants’ Troubles Put Stress on Commercial Real Estate](https://www.nytimes.com/2020/06/05/business/economy/coronavirus-commercial-real-estate.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Italians Rediscover Their Museums, With No Tourists in Sight](https://www.nytimes.com/2020/06/03/arts/design/italy-museums-reopening.html)
 * [When a Close Friend Has Doubts About Vaccinations](https://www.nytimes.com/2020/05/28/parenting/coronavirus-vaccine-parents.html)
 * [‘Not Just for Gays’: The Year the Tonys Dared to Go There](https://www.nytimes.com/2020/06/04/theater/tony-awards-history.html)
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
+* [Latam pode demitir 700 pilotos no Brasil, e Gol fecha acordo para corte de jornada](https://oglobo.globo.com/economia/latam-pode-demitir-700-pilotos-no-brasil-gol-fecha-acordo-para-corte-de-jornada-1-24463979)
+* [Presidente da Fiocruz será entrevistada neste sábado ao vivo por ÉPOCA](https://epoca.globo.com/presidente-da-fiocruz-sera-entrevistada-neste-sabado-ao-vivo-por-epoca-24463974)
 * [Com o debate sobre racismo em evidência, saiba como falar sobre o tema com crianças e adolescentes em casa](https://oglobo.globo.com/sociedade/com-debate-sobre-racismo-em-evidencia-saiba-como-falar-sobre-tema-com-criancas-adolescentes-em-casa-1-24463851)
 * [Racismo: com o debate em evidência, saiba como falar sobre o tema com crianças e adolescentes em casa](https://oglobo.globo.com/sociedade/racismo-com-debate-em-evidencia-saiba-como-falar-sobre-tema-com-criancas-adolescentes-em-casa-24463861)
 * [Estúdios de Abbey Road reabrem após hiato da Covid-19](https://oglobo.globo.com/cultura/estudios-de-abbey-road-reabrem-apos-hiato-da-covid-19-24463990)
-* [Latam pode demitir 700 pilotos no Brasil, e Gol fecha acordo para corte de jornada](https://oglobo.globo.com/economia/latam-pode-demitir-700-pilotos-no-brasil-gol-fecha-acordo-para-corte-de-jornada-1-24463979)
 * [PL indica delatado da Odebrecht para presidir Banco do Nordeste](https://oglobo.globo.com/brasil/pl-indica-delatado-da-odebrecht-para-presidir-banco-do-nordeste-24463972)
 * [Rainha Elizabeth tem sua própria filial do McDonald's no Reino Unido](https://oglobo.globo.com/ela/gente/rainha-elizabeth-tem-sua-propria-filial-do-mcdonalds-no-reino-unido-24463976)
 * [Detran retoma gradualmente os serviços a partir de segunda-feira](https://oglobo.globo.com/rio/detran-retoma-gradualmente-os-servicos-partir-de-segunda-feira-24463959)
-* [Secretário estadual de Educação do Rio critica ação que resultou na reabertura de escolas para distribuição de merenda](https://oglobo.globo.com/rio/secretario-estadual-de-educacao-do-rio-critica-acao-que-resultou-na-reabertura-de-escolas-para-distribuicao-de-merenda-24463951)
 * [Cineastas recorrem à Justiça para forçar Anvisa a analisar filmes](https://epoca.globo.com/guilherme-amado/cineastas-recorrem-justica-para-forcar-anvisa-analisar-filmes-24463801)
 * [Mourão aceitaria governar com limites que democracia impõe, analisa cientista político](https://epoca.globo.com/guilherme-amado/mourao-aceitaria-governar-com-limites-que-democracia-impoe-analisa-cientista-politico-24463789)

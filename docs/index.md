@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/06/2020 08:11:11 UTC
+# indexed at 05/06/2020 08:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [SimRefinery Recovered](https://obscuritory.com/sim/simrefinery-recovered/)
 * [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
-* [Why Sleep Deprivation Kills? A Gut-Level Problem](https://www.quantamagazine.org/why-sleep-deprivation-kills-20200604/)
 * [First photo of HS2 tunnel boring machines](https://www.ianvisits.co.uk/blog/2020/06/04/first-photo-of-hs2-tunnel-boring-machines/)
 * [A History of Clojure [pdf]](https://clojure.org/about/history)
 * [DeepFaceDrawing Generates Photorealistic Portraits from Freehand Sketches](https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/)
 * [Signal app downloads spike as US protesters seek message encryption](https://qz.com/1864846/signal-app-downloads-spike-as-us-protesters-seek-message-encryption/)
-* [Synthetic red blood cells mimic natural ones, and have new abilities](https://www.acs.org/content/acs/en/pressroom/presspacs/2020/acs-presspac-june-3-2020/synthetic-red-blood-cells-mimic-natural-ones-and-have-new-abilities.html)
 * [Show HN: Grid.js – Advanced table library that works everywhere](https://gridjs.io/?hn)
-* [The Illiac IV Computer](https://en.wikipedia.org/wiki/ILLIAC_IV)
+* [Synthetic red blood cells mimic natural ones, and have new abilities](https://www.acs.org/content/acs/en/pressroom/presspacs/2020/acs-presspac-june-3-2020/synthetic-red-blood-cells-mimic-natural-ones-and-have-new-abilities.html)
 * [Unker Non-Linear Writing System](https://s.ai/nlws/)
+* [The Illiac IV Computer](https://en.wikipedia.org/wiki/ILLIAC_IV)
+* [Why Sleep Deprivation Kills](https://www.quantamagazine.org/why-sleep-deprivation-kills-20200604/)
 * [The Go Compiler Needs to Be Smarter](https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/)
 * [Decoding radio telemetry heard on news helicopter video footage with GNU Radio](https://www.rtl-sdr.com/decoding-radio-telemetry-heard-on-news-helicopter-video-footage-with-gnu-radio/)
 * [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
 * [Nicolas Bourbaki: The greatest mathematician who never was (2019)](https://theconversation.com/nicolas-bourbaki-the-greatest-mathematician-who-never-was-122845)
 * [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [555 timer teardown: inside the most popular IC (2016)](http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html)
+* [Germany, France launch Gaia-X platform in bid for ‘tech sovereignty’](https://www.politico.eu/article/germany-france-gaia-x-cloud-platform-eu-tech-sovereignty/)
 * [Cryo-electron microscopy breaks a key barrier](https://www.nature.com/articles/d41586-020-01658-1)
 * [Breaking Logjams in Knowledge Work (2018)](https://sloanreview.mit.edu/article/breaking-logjams-in-knowledge-work/)
-* [Homoiconicity Revisited](https://www.expressionsofchange.org/homoiconicity-revisited/)
 * [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
 * [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
+* [Homoiconicity Revisited](https://www.expressionsofchange.org/homoiconicity-revisited/)
 * [Emacs as Email Client](http://www.mycpu.org/read-email-in-emacs/)
 * [Show HN: Create a Deep Fake Video from Any Image](https://myvoiceyourface.com/?1)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
-* [The case for declaring armed and fully autonomous drone swarms as WMD](https://mwi.usma.edu/swarms-mass-destruction-case-declaring-armed-fully-autonomous-drone-swarms-wmd/)
 * [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
+* [The case for declaring armed and fully autonomous drone swarms as WMD](https://mwi.usma.edu/swarms-mass-destruction-case-declaring-armed-fully-autonomous-drone-swarms-wmd/)
 * [Hands-On Scala Programming](http://handsonscala.com)
 * [Anxiety in product development](https://andreschweighofer.com/agile/anxiety-in-product-development/)
-* [Google Domains blocking all Gitbook URLS: post-mortem](https://blog.gitbook.com/tech/post-mortems/06-20-gitbook-domains-blocked-by-registrar)
 ## nytimes.com
 
 
@@ -85,19 +85,19 @@ layout: default
 * [N.B.A. Owners Set a July 31 Restart, All in Florida](https://www.nytimes.com/2020/06/04/sports/basketball/coronavirus-nba-disney-world-restart.html)
 * [Russian-Backed Libyan Commander Retreats From Tripoli](https://www.nytimes.com/2020/06/04/world/middleeast/libya-hifter-retreat-russia.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [2,000 Free Meals a Night, Seasoned by Silicon Valley Chefs](https://www.nytimes.com/2020/06/04/health/coronavirus-hunger-unemployment.html)
 * [The French Artist Who Saw the Pandemic Coming](https://www.nytimes.com/2020/06/04/arts/design/neil-beloufa-art-review-virus.html)
 * [When She Hears a Crying Bride, ‘It’s All Over’](https://www.nytimes.com/2020/06/04/fashion/weddings/when-she-hears-a-crying-bride-its-all-over.html)
 * [11 Great Alternatives to the Top National Parks](https://www.nytimes.com/2020/06/04/travel/national-parks-social-distancing-coronavirus.html)
 * [When the Price of Freedom Is Detention, Frostbite and Amputation](https://www.nytimes.com/2020/06/02/books/review/between-everything-and-nothing-joe-meno.html)
-* [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
 * [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
 * [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
+* [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Trudeau’s 21-Second Pause Becomes the Story in Canada](https://www.nytimes.com/2020/06/03/world/canada/trudeau-canada-george-floyd-protests.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,7 +105,13 @@ layout: default
 ## globo.com
 
 
+* [O que está em jogo no projeto de lei das fake news?](https://oglobo.globo.com/podcast/o-que-esta-em-jogo-no-projeto-de-lei-das-fake-news-24463555)
+* ['Como vocês vão viver sem floresta?': Dário Kopenawa pede apoio para tirar garimpo ilegal da terra Yanomami](https://oglobo.globo.com/sociedade/como-voces-vao-viver-sem-floresta-dario-kopenawa-pede-apoio-para-tirar-garimpo-ilegal-da-terra-yanomami-1-24462983)
+* [STF deve ter maioria para investigar fake news](https://oglobo.globo.com/brasil/stf-deve-ter-maioria-para-investigar-fake-news-1-24463835)
 * [Após negativas, Witzel completa uma semana sem líder de governo na Alerj](https://oglobo.globo.com/rio/apos-negativas-witzel-completa-uma-semana-sem-lider-de-governo-na-alerj-1-24463543)
-* [Carta do Comitê da Câmara dos EUA sobre governo Bolsonaro praticamente liquida chances de acordo com Brasil](https://oglobo.globo.com/economia/carta-do-comite-da-camara-dos-eua-sobre-governo-bolsonaro-praticamente-liquida-chances-de-acordo-com-brasil-24463721)
-* [PT decide lançar Benedita da Silva para prefeitura do Rio](https://oglobo.globo.com/brasil/pt-decide-lancar-benedita-da-silva-para-prefeitura-do-rio-24463820)
 * [Três meses de coronavírus no Rio: veja como a Covid-19 mudou o Rio e o que se aprendeu com a pandemia no estado](https://oglobo.globo.com/rio/tres-meses-de-coronavirus-no-rio-veja-como-covid-19-mudou-rio-o-que-se-aprendeu-com-pandemia-no-estado-24463222)
+* [Auxílio emergencial: país deve usar cadastro para políticas sociais, dizem especialistas](https://oglobo.globo.com/economia/auxilio-emergencial-pais-deve-usar-cadastro-para-politicas-sociais-dizem-especialistas-24463382)
+* [Na segunda etapa do casamento com Jesus, Flamengo deveria priorizar a construção de um legado](https://oglobo.globo.com/esportes/na-segunda-etapa-do-casamento-com-jesus-flamengo-deveria-priorizar-construcao-de-um-legado-24463683)
+* [Análise: Trump testa o papel de homem forte que ele sempre admirou](https://oglobo.globo.com/mundo/analise-trump-testa-papel-de-homem-forte-que-ele-sempre-admirou-24462554)
+* [Botafogo: o sentido das saídas de Carli e Bochecha em meio à crise](https://oglobo.globo.com/esportes/botafogo-sentido-das-saidas-de-carli-bochecha-em-meio-crise-24463590)
+* [Anastácia celebra 80 anos com EP produzido por Zeca Baleiro: 'Virei a vovó do forró'](https://oglobo.globo.com/cultura/anastacia-celebra-80-anos-com-ep-produzido-por-zeca-baleiro-virei-vovo-do-forro-24453359)

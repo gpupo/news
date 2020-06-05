@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/06/2020 08:34:44 UTC
+# indexed at 05/06/2020 09:09:26 UTC
 
 
 ## news.ycombinator.com
 
 
 * [SimRefinery Recovered](https://obscuritory.com/sim/simrefinery-recovered/)
-* [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * [First photo of HS2 tunnel boring machines](https://www.ianvisits.co.uk/blog/2020/06/04/first-photo-of-hs2-tunnel-boring-machines/)
+* [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
+* [Mental Wealth](https://jjbeshara.com/2020/06/04/mental-wealth/)
 * [A History of Clojure [pdf]](https://clojure.org/about/history)
 * [DeepFaceDrawing Generates Photorealistic Portraits from Freehand Sketches](https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/)
 * [Signal app downloads spike as US protesters seek message encryption](https://qz.com/1864846/signal-app-downloads-spike-as-us-protesters-seek-message-encryption/)
 * [Show HN: Grid.js – Advanced table library that works everywhere](https://gridjs.io/?hn)
+* [Why Sleep Deprivation Kills](https://www.quantamagazine.org/why-sleep-deprivation-kills-20200604/)
 * [Synthetic red blood cells mimic natural ones, and have new abilities](https://www.acs.org/content/acs/en/pressroom/presspacs/2020/acs-presspac-june-3-2020/synthetic-red-blood-cells-mimic-natural-ones-and-have-new-abilities.html)
 * [Unker Non-Linear Writing System](https://s.ai/nlws/)
-* [The Illiac IV Computer](https://en.wikipedia.org/wiki/ILLIAC_IV)
-* [Why Sleep Deprivation Kills](https://www.quantamagazine.org/why-sleep-deprivation-kills-20200604/)
+* [Germany, France launch Gaia-X platform in bid for ‘tech sovereignty’](https://www.politico.eu/article/germany-france-gaia-x-cloud-platform-eu-tech-sovereignty/)
 * [The Go Compiler Needs to Be Smarter](https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/)
-* [Decoding radio telemetry heard on news helicopter video footage with GNU Radio](https://www.rtl-sdr.com/decoding-radio-telemetry-heard-on-news-helicopter-video-footage-with-gnu-radio/)
+* [The Illiac IV Computer](https://en.wikipedia.org/wiki/ILLIAC_IV)
+* [Homoiconicity Revisited](https://www.expressionsofchange.org/homoiconicity-revisited/)
 * [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
 * [Nicolas Bourbaki: The greatest mathematician who never was (2019)](https://theconversation.com/nicolas-bourbaki-the-greatest-mathematician-who-never-was-122845)
 * [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [555 timer teardown: inside the most popular IC (2016)](http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html)
-* [Germany, France launch Gaia-X platform in bid for ‘tech sovereignty’](https://www.politico.eu/article/germany-france-gaia-x-cloud-platform-eu-tech-sovereignty/)
+* [Kids and Time](https://www.jefftk.com/p/kids-and-time)
 * [Cryo-electron microscopy breaks a key barrier](https://www.nature.com/articles/d41586-020-01658-1)
-* [Breaking Logjams in Knowledge Work (2018)](https://sloanreview.mit.edu/article/breaking-logjams-in-knowledge-work/)
 * [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
 * [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
-* [Homoiconicity Revisited](https://www.expressionsofchange.org/homoiconicity-revisited/)
-* [Emacs as Email Client](http://www.mycpu.org/read-email-in-emacs/)
+* [Breaking Logjams in Knowledge Work (2018)](https://sloanreview.mit.edu/article/breaking-logjams-in-knowledge-work/)
+* [Words that don't translate into English](https://www.theguardian.com/world/2018/jul/27/10-of-the-best-words-in-the-world-that-dont-translate-into-english)
 * [Show HN: Create a Deep Fake Video from Any Image](https://myvoiceyourface.com/?1)
+* [Emacs as Email Client](http://www.mycpu.org/read-email-in-emacs/)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
-* [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
 * [The case for declaring armed and fully autonomous drone swarms as WMD](https://mwi.usma.edu/swarms-mass-destruction-case-declaring-armed-fully-autonomous-drone-swarms-wmd/)
-* [Hands-On Scala Programming](http://handsonscala.com)
-* [Anxiety in product development](https://andreschweighofer.com/agile/anxiety-in-product-development/)
+* [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
 ## nytimes.com
 
 
@@ -84,19 +84,19 @@ layout: default
 * [‘Europe Finally Got the Message’: Leaders Act Together on Stimulus](https://www.nytimes.com/2020/06/04/business/europe-coronavirus-economic-support.html)
 * [N.B.A. Owners Set a July 31 Restart, All in Florida](https://www.nytimes.com/2020/06/04/sports/basketball/coronavirus-nba-disney-world-restart.html)
 * [Russian-Backed Libyan Commander Retreats From Tripoli](https://www.nytimes.com/2020/06/04/world/middleeast/libya-hifter-retreat-russia.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [2,000 Free Meals a Night, Seasoned by Silicon Valley Chefs](https://www.nytimes.com/2020/06/04/health/coronavirus-hunger-unemployment.html)
 * [The French Artist Who Saw the Pandemic Coming](https://www.nytimes.com/2020/06/04/arts/design/neil-beloufa-art-review-virus.html)
 * [When She Hears a Crying Bride, ‘It’s All Over’](https://www.nytimes.com/2020/06/04/fashion/weddings/when-she-hears-a-crying-bride-its-all-over.html)
 * [11 Great Alternatives to the Top National Parks](https://www.nytimes.com/2020/06/04/travel/national-parks-social-distancing-coronavirus.html)
 * [When the Price of Freedom Is Detention, Frostbite and Amputation](https://www.nytimes.com/2020/06/02/books/review/between-everything-and-nothing-joe-meno.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
-* [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
 * [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
+* [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Trudeau’s 21-Second Pause Becomes the Story in Canada](https://www.nytimes.com/2020/06/03/world/canada/trudeau-canada-george-floyd-protests.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

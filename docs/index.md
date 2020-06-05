@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/06/2020 05:09:16 UTC
+# indexed at 05/06/2020 05:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -10,6 +10,7 @@ layout: default
 
 * [SimRefinery Recovered](https://obscuritory.com/sim/simrefinery-recovered/)
 * [The Beauty of Unix Pipelines](https://prithu.xyz/posts/unix-pipeline/)
+* [To Fall Out of Love, Do This (2015)](http://www.newyorker.com/magazine/2015/01/26/fall-love)
 * [A History of Clojure [pdf]](https://clojure.org/about/history)
 * [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [DeepFaceDrawing Generates Photorealistic Portraits from Freehand Sketches](https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/)
@@ -23,29 +24,28 @@ layout: default
 * [Nicolas Bourbaki: The greatest mathematician who never was (2019)](https://theconversation.com/nicolas-bourbaki-the-greatest-mathematician-who-never-was-122845)
 * [Show HN: C0D3 – A free, interactive site to learn coding](https://www.c0d3.com)
 * [Breaking Logjams in Knowledge Work (2018)](https://sloanreview.mit.edu/article/breaking-logjams-in-knowledge-work/)
-* [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
+* [Show HN: Useful Links for JavaScript Developers](https://github.com/yuandongzhong/useful-links-for-javascript)
 * [Cryo-electron microscopy breaks a key barrier](https://www.nature.com/articles/d41586-020-01658-1)
+* [Show HN: A Commodore Amiga Workbench Style Smart Watch with Mod and Say Support](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10)
+* [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
+* [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
 * [Unker Non-Linear Writing System](https://s.ai/nlws/)
 * [Timer teardown: inside the most popular IC (2016)](http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html)
-* [In a photo of a black hole, a possible key to mysteries](https://news.harvard.edu/gazette/story/2020/04/black-hole-imaging/)
-* [Akira Kurosawa’s Record of a Living Being](https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/)
 * [Decoding radio telemetry heard on news helicopter video footage with GNU Radio](https://www.rtl-sdr.com/decoding-radio-telemetry-heard-on-news-helicopter-video-footage-with-gnu-radio/)
 * [The case for declaring armed and fully autonomous drone swarms as WMD](https://mwi.usma.edu/swarms-mass-destruction-case-declaring-armed-fully-autonomous-drone-swarms-wmd/)
 * [Emacs as Email Client](http://www.mycpu.org/read-email-in-emacs/)
-* [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
 * [Blur Tools for Signal](https://signal.org/blog/blur-tools/)
+* [How to Avoid Equidistant HSV Colors (2011)](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
 * [On a caravan, with one of the Sahara's last European explorers](https://phys.org/news/2020-06-caravan-sahara-european-explorers.html)
-* [Show HN: Create a Deep Fake Video from Any Image](https://myvoiceyourface.com/?1)
 * [HFT in My Backyard (2014)](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/)
-* [Show HN: Useful Links for JavaScript Developers](https://github.com/yuandongzhong/useful-links-for-javascript)
 ## nytimes.com
 
 
 * [George Floyd Updates: 10th Night of Protest Follows Somber Memorial](https://www.nytimes.com/2020/06/04/us/george-floyd-video-funeral.html)
 * [Mattis Harshly Criticizes Trump’s Leadership](https://www.nytimes.com/live/2020/george-floyd-protests-photos-videos-06-04)
 * [At George Floyd Memorial, an Anguished Call for Change](https://www.nytimes.com/2020/06/04/us/floyd-memorial-funeral.html)
-* [A Popular Louisville Restaurant Owner Was Killed by the Police. What Happened?](https://www.nytimes.com/2020/06/04/us/louisville-unrest-david-mcatee.html)
 * [Buffalo Police Officers Suspended After Shoving 75-Year-Old Protester](https://www.nytimes.com/2020/06/05/us/buffalo-police-shove-protester-unrest.html)
+* [A Popular Louisville Restaurant Owner Was Killed by the Police. What Happened?](https://www.nytimes.com/2020/06/04/us/louisville-unrest-david-mcatee.html)
 * [How a City Besieged by the Virus Turned Out to Be Heard](https://www.nytimes.com/2020/06/04/nyregion/floyd-nyc-protests.html)
 * [Trump and the Military: A Mutual Embrace Might Dissolve on America’s Streets](https://www.nytimes.com/2020/06/04/us/politics/trump-military-protests.html)
 * [Trump Agrees to Send Home Troops From Washington, Easing Tensions With the Pentagon](https://www.nytimes.com/2020/06/04/us/politics/trump-troops-washington-pentagon.html)
@@ -85,10 +85,11 @@ layout: default
 * [‘Europe Finally Got the Message’: Leaders Act Together on Stimulus](https://www.nytimes.com/2020/06/04/business/europe-coronavirus-economic-support.html)
 * [N.B.A. Owners Set a July 31 Restart, All in Florida](https://www.nytimes.com/2020/06/04/sports/basketball/coronavirus-nba-disney-world-restart.html)
 * [Russian-Backed Libyan Commander Retreats From Tripoli](https://www.nytimes.com/2020/06/04/world/middleeast/libya-hifter-retreat-russia.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [2,000 Free Meals a Night, Seasoned by Silicon Valley Chefs](https://www.nytimes.com/2020/06/04/health/coronavirus-hunger-unemployment.html)
 * [The French Artist Who Saw the Pandemic Coming](https://www.nytimes.com/2020/06/04/arts/design/neil-beloufa-art-review-virus.html)
 * [When She Hears a Crying Bride, ‘It’s All Over’](https://www.nytimes.com/2020/06/04/fashion/weddings/when-she-hears-a-crying-bride-its-all-over.html)

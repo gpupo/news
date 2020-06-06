@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 11:34:33 UTC
+# indexed at 06/06/2020 12:12:43 UTC
 
 
 ## news.ycombinator.com
 
 
+* [I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
 * [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
-* [Avoiding the Global Lobotomy](https://www.meta-nomad.net/avoiding-the-global-lobotomy/)
+* [We’ve built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 * [eBay is port scanning visitors to their website](https://blog.nem.ec/2020/05/24/ebay-port-scanning/)
-* [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
-* [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
 * [Python+FontForge+Org: I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+* [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
 * [Unicode-based scientific plotting for working in the terminal](https://github.com/Evizero/UnicodePlots.jl)
+* [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
+* [Avoiding the Global Lobotomy](https://www.meta-nomad.net/avoiding-the-global-lobotomy/)
+* [Wirecard offices searched as prosecutors probe management board](https://www-ft-com.ezproxy.babson.edu/content/049d7f17-a99c-465d-8062-5e07fd9315b1)
 * [Sol – a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine)
 * [Helium shortage has ended, at least for now](https://physicstoday.scitation.org/do/10.1063/PT.6.2.20200605a/full/)
+* [PANDAcap: A framework for streamlining the capture of PANDA execution traces](https://github.com/vusec/pandacap)
 * [Peer-to-Peer Communications with WebRTC](https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC)
-* [Light turned into exotic Laughlin matter](https://www.nature.com/articles/d41586-020-01567-3)
-* [Show HN: Jqview, a simple native GUI for inspecting JSON with jq](https://github.com/fiatjaf/jqview)
 * [Starting Many Things](https://jetholt.com/micro/starting-many-things/)
+* [Light turned into exotic Laughlin matter](https://www.nature.com/articles/d41586-020-01567-3)
+* [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/)
+* [Show HN: Jqview, a simple native GUI for inspecting JSON with jq](https://github.com/fiatjaf/jqview)
 * [Looking back at how Signal works](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
 * [Special.fish](https://special.fish/)
+* [A lightweight dynamic instrumentation library](https://github.com/googleprojectzero/TinyInst)
 * [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
-* [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork/)
 * [Current use of Linux in spacecraft flight software (2017)](https://www.researchgate.net/publication/321788741_Current_use_of_linux_in_spacecraft_flight_software)
+* [Four million parts, 30 countries: How an Airbus A380 comes together (2018)](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)
+* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
+* [Genetic Drawing](https://github.com/anopara/genetic-drawing)
 * [How we raised $3M for an open source project](https://posthog.com/blog/raising-3m-for-os)
 * [IoT on QuestDB](https://davidgs.com/2020/iot-on-questdb/)
 * [QStringView Diaries: Zero-Allocation String Splitting](https://www.kdab.com/qstringview-diaries-zero-allocation-string-splitting/)
-* [Genetic Drawing](https://github.com/anopara/genetic-drawing)
-* [Why the developers who use Rust love it so much](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)
-* [Four million parts, 30 countries: How an Airbus A380 comes together (2018)](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)
-* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
-* [Fitful nightly sleep linked to chronic inflammation, hardened arteries](https://news.berkeley.edu/2020/06/04/fitful-nightly-sleep-linked-to-chronic-inflammation-hardened-arteries/)
 * [JavaScript: The First 20 Years](https://zenodo.org/record/3707008#.XtoRR-TEklQ)
-* [How to Write a Video Player in Less Than 1000 Lines (2015)](http://dranger.com/ffmpeg/ffmpeg.html)
-* [So You Want to Build an End-to-End Encrypted Web App](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/)
-* [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Is the Party Over on Fire Island?](https://www.nytimes.com/2020/06/06/style/is-the-party-over-on-fire-island.html)
 * [On Tribal Lands, a Time to Make Art for Solace and Survival](https://www.nytimes.com/2020/06/05/arts/design/native-americans-art-coronavirus.html)
 * [Unseen Script Offers New Evidence of a Radical Lorraine Hansberry](https://www.nytimes.com/2020/06/03/theater/lorraine-hansberry-marrow.html)
@@ -95,20 +95,19 @@ layout: default
 * [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
-* [Trump’s Approval Slips Where He Can’t Afford to Lose It: Among Evangelicals](https://www.nytimes.com/2020/06/04/us/politics/trump-polls-christians-evangelicals.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Plano de reabertura de Witzel determina funcionamento de estabelecimentos por horários; confira](https://oglobo.globo.com/rio/plano-de-reabertura-de-witzel-determina-funcionamento-de-estabelecimentos-por-horarios-confira-24466348)
 * [EUA se preparam para nova onda de protestos neste sábado](https://oglobo.globo.com/mundo/eua-se-preparam-para-nova-onda-de-protestos-neste-sabado-24466416)
+* [Um pouco mais de oxigênio](https://oglobo.globo.com/cultura/um-pouco-mais-de-oxigenio-1-24466454)
+* [Austrália e Ásia iniciam protestos pela morte de Geoge Floyd que devem se espalhar pelo mundo neste sábado](https://oglobo.globo.com/mundo/australia-asia-iniciam-protestos-pela-morte-de-geoge-floyd-que-devem-se-espalhar-pelo-mundo-neste-sabado-24466444)
+* ['Perdemos o direito de respirar', diz Silvio de Almeida](https://oglobo.globo.com/cultura/perdemos-direito-de-respirar-diz-silvio-de-almeida-24466447)
+* [MP obriga Prefeitura do Rio a adotar medidas de proteção a profissionais de saúde durante Covid](https://epoca.globo.com/guilherme-amado/mp-obriga-prefeitura-do-rio-adotar-medidas-de-protecao-profissionais-de-saude-durante-covid-24466438)
+* [Série de contos de F. Scott Fitzgerald retrata os bastidores de Hollywood](https://oglobo.globo.com/cultura/serie-de-contos-de-scott-fitzgerald-retrata-os-bastidores-de-hollywood-1-24466435)
 * [‘O governo finalmente terá uma base’, diz líder do governo no Senado sobre aliança com o centrão](https://oglobo.globo.com/brasil/o-governo-finalmente-tera-uma-base-diz-lider-do-governo-no-senado-sobre-alianca-com-centrao-24466422)
-* [Governo já entregou 325 cargos a indicações políticas](https://oglobo.globo.com/brasil/governo-ja-entregou-325-cargos-indicacoes-politicas-24466413)
-* [Ex-participante do Masterchef Júnior afirma ter sido vítima de racismo no programa](https://epoca.globo.com/guilherme-amado/ex-participante-do-masterchef-junior-afirma-ter-sido-vitima-de-racismo-no-programa-1-24463225)
-* [Por Bolsonaro, Alcolumbre evita reabrir Senado](https://epoca.globo.com/guilherme-amado/por-bolsonaro-alcolumbre-evita-reabrir-senado-24466266)
 * [Denunciado por Aras, Lira era só elogios ao PGR](https://epoca.globo.com/guilherme-amado/denunciado-por-aras-lira-era-so-elogios-ao-pgr-24465923)
-* [Em depoimento, delegado baleado por modelo diz que briga começou por ciúmes](https://epoca.globo.com/brasil/em-depoimento-delegado-baleado-por-modelo-diz-que-briga-comecou-por-ciumes-1-24465610)
 * [Trump e os militares: o apoio mútuo pode se dissolver nas ruas dos Estados Unidos](https://oglobo.globo.com/mundo/trump-os-militares-apoio-mutuo-pode-se-dissolver-nas-ruas-dos-estados-unidos-24465680)
 * [Coluna | Livros da quarentena: obras que ajudam a atravessar o período da pandemia](https://epoca.globo.com/cultura/coluna-livros-da-quarentena-obras-que-ajudam-atravessar-periodo-da-pandemia-24465298)

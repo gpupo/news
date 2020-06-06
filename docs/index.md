@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 01:10:09 UTC
+# indexed at 06/06/2020 01:34:16 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Show HN: Jqview, a simple native GUI for inspecting JSON with jq](https://github.com/fiatjaf/jqview)
 * [CMU’s ‘Penrose’ Turns Complex Math Notations into Illustrative Diagrams](https://syncedreview.com/2020/06/05/cmus-penrose-turns-complex-math-notations-into-illustrative-diagrams/)
 * [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/)
-* [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
-* [Ruby vs. Crystal Performance](https://ptimofeev.com/ruby-vs-crystal-performance/)
 * [List of rules to follow while writing (corporate?) presentations](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
-* [Where Do People Draw Lines?](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
+* [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
+* [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 * [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/)
+* [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork/)
+* [Ruby vs. Crystal Performance](https://ptimofeev.com/ruby-vs-crystal-performance/)
 * [The Shareware Scene, Part 4: Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-4-doom/)
 * [U.S. states lean toward breaking up Google's ad tech business](https://www.cnbc.com/2020/06/05/states-lean-toward-pushing-to-break-up-googles-ad-tech-business.html)
-* [Why I don’t usually meet startups in person (2019)](https://elizabethyin.com/2019/03/08/why-i-dont-usually-meet-startups-in-person/)
+* [JavaScript: The First 20 Years](https://zenodo.org/record/3707008#.XtoRR-TEklQ)
 * [Akira Kurosawa’s hand-painted storyboards](https://faroutmagazine.co.uk/akira-kurosawa-hand-painted-film-storyboards/)
+* [Why I don’t usually meet startups in person (2019)](https://elizabethyin.com/2019/03/08/why-i-dont-usually-meet-startups-in-person/)
+* [Show HN: Water Cooler – Always-available chat for teams](https://watercooler.work)
 * [Fitful nightly sleep linked to chronic inflammation, hardened arteries](https://news.berkeley.edu/2020/06/04/fitful-nightly-sleep-linked-to-chronic-inflammation-hardened-arteries/)
 * [How we raised $3M for an open source project](https://posthog.com/blog/raising-3m-for-os)
-* [Show HN: Water Cooler – Always-available chat for teams](https://watercooler.work)
 * [So You Want to Build an End-to-End Encrypted Web App](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/)
-* [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork/)
 * [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
-* [V002 Camera Live – Zoom with Your DSLR as a Webcam via USB](https://github.com/v002/v002-Camera-Live)
 * [SimRefinery Recovered](https://obscuritory.com/sim/simrefinery-recovered/)
+* [V002 Camera Live – Zoom with Your DSLR as a Webcam via USB](https://github.com/v002/v002-Camera-Live)
 * [Black holes are like a hologram](https://earthsky.org/space/black-holes-are-like-a-hologram)
-* [The Evolution of Mass Cell Suicide in Bacterial Warfare](https://www.sciencedirect.com/science/article/pii/S0960982220306461)
 * [Perchlorate, used in rocket fuels, may be more hazardous than previously thought](https://www.hopkinsmedicine.org/news/newsroom/news-releases/research-story-tip-something-in-the-water-environmental-pollutant-may-be-more-hazardous-than-previously-thought)
-* [Zuckerberg: I just shared the following note with our employees](https://facebook.com/zuck/posts/10111985969467901)
+* [Show HN: High Resolution Terrain Maps of Cascade Volcanoes](https://ramblemaps.com/cascade-volcanoes)
 * [Mental Wealth](https://jjbeshara.com/2020/06/04/mental-wealth/)
 * [Flexport is hiring software engineers](https://www.flexport.com/careers/department/engineering)
-* [Show HN: High Resolution Terrain Maps of Cascade Volcanoes](https://ramblemaps.com/cascade-volcanoes)
+* [Every Computer System Is a State Machine](https://blog.the-pans.com/state-machine/)
 * [Government finally publishes NHS contracts with Palantir, Faculty and big tech](https://tech.newstatesman.com/coronavirus/nhs-contracts-palantir-faculty-microsoft-google)
 ## nytimes.com
 
@@ -76,15 +76,15 @@ layout: default
 * [The Eerie Sound of Sports Without Fans](https://www.nytimes.com/2020/06/04/magazine/the-eerie-sound-of-sports-without-fans.html)
 * [Cristobal Threatens Gulf Coast From Louisiana to Florida](https://www.nytimes.com/2020/06/05/us/tropical-storm-cristobal-louisiana.html)
 * [Joe Biden Warns Trump Against Declaring the Economic Crisis Over](https://www.nytimes.com/2020/06/05/us/politics/joe-biden-trump-economy-george-floyd.html)
-* [Louis Sheldon, Anti-Gay Minister With Political Clout, Dies at 85](https://www.nytimes.com/2020/06/05/us/politics/louis-sheldon-anti-gay-dead.html)
-* [German Prosecutors Dash Hopes of Finding Madeleine McCann Alive](https://www.nytimes.com/2020/06/04/world/europe/german-madeleine-mccann-murder-christian.html)
-* [‘Like Trash in a Landfill’: Carbon Dioxide Keeps Piling Up in the Atmosphere](https://www.nytimes.com/2020/06/04/climate/carbon-dioxide-record-climate-change.html)
+* [Buffalo Police Officers Suspended After Shoving 75-Year-Old Protester](https://www.nytimes.com/2020/06/05/us/buffalo-police-shove-protester-unrest.html)
+* [Appeals Court Blocks White House From Suspending Reporter’s Press Pass](https://www.nytimes.com/2020/06/05/us/politics/brian-karem-press-pass-white-house.html)
+* [Robert Ford Jr., an Early Force in Hip-Hop, Is Dead at 70](https://www.nytimes.com/2020/06/05/arts/music/robert-ford-jr-dead.html)
 * [To Reach a Single A.T.M., a Line of Unemployed Stretches a Block](https://www.nytimes.com/2020/06/05/nyregion/keybank-nyc-coronavirus.html)
 * [Before the Death of Manuel Ellis, a Witness Told the Police: ‘Stop Hitting Him’](https://www.nytimes.com/2020/06/05/us/manuel-ellis-tacoma-video-unrest.html)
 * [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [Elephants, Long Endangered by Thai Crowds, Reclaim a National Park](https://www.nytimes.com/2020/06/05/world/asia/thailand-elephants-coronavirus.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
@@ -95,8 +95,8 @@ layout: default
 * [Oregon Chardonnay Escapes the Buttery Clichés](https://www.nytimes.com/2020/06/04/dining/drinks/wine-school-chardonnay-oregon.html)
 * [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
-* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Trudeau’s 21-Second Pause Becomes the Story in Canada](https://www.nytimes.com/2020/06/03/world/canada/trudeau-canada-george-floyd-protests.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -105,10 +105,10 @@ layout: default
 ## globo.com
 
 
-* [Bolsonaro defende arquivamento de inquéritos das fake news no STF](https://oglobo.globo.com/brasil/bolsonaro-defende-arquivamento-de-inqueritos-das-fake-news-no-stf-24465971)
-* [Coronavírus: Brasil tem 35.026 mortes e 645.771 casos confirmados](https://oglobo.globo.com/sociedade/coronavirus-brasil-tem-35026-mortes-645771-casos-confirmados-24465063)
 * [Produtoras acionam a Justiça para Ancine liberar verbas aprovadas](https://oglobo.globo.com/cultura/produtoras-acionam-justica-para-ancine-liberar-verbas-aprovadas-24465793)
+* [Coronavírus: Brasil tem 35.026 mortes e 645.771 casos confirmados](https://oglobo.globo.com/sociedade/coronavirus-brasil-tem-35026-mortes-645771-casos-confirmados-24465063)
 * [Arthur Lira nega acusações de recebimento de propina e fala em 'ato de vingança'](https://oglobo.globo.com/brasil/arthur-lira-nega-acusacoes-de-recebimento-de-propina-fala-em-ato-de-vinganca-1-24465847)
+* [Bolsonaro defende arquivamento de inquéritos das fake news no STF](https://oglobo.globo.com/brasil/bolsonaro-defende-arquivamento-de-inqueritos-das-fake-news-no-stf-24465971)
 * [Oposição vai ao STF contra afastamento de professor de Colégio Militar](https://epoca.globo.com/guilherme-amado/oposicao-vai-ao-stf-contra-afastamento-de-professor-de-colegio-militar-24465930)
 * [TV Globo anuncia que informará números da Covid-19 assim que eles sejam publicados](https://oglobo.globo.com/sociedade/tv-globo-anuncia-que-informara-numeros-da-covid-19-assim-que-eles-sejam-publicados-24465843)
 * [Auxílio emergencial: Região Sudeste concentra a maior parte dos recebimentos do benefício](https://oglobo.globo.com/economia/auxilio-emergencial-regiao-sudeste-concentra-maior-parte-dos-recebimentos-do-beneficio-24465744)

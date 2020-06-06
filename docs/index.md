@@ -2,48 +2,48 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 04:04:25 UTC
+# indexed at 06/06/2020 04:10:22 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
-* [Looking back at how Signal works, as the world moves forward](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
 * [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
 * [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
 * [Peer-to-Peer Communications with WebRTC](https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC)
+* [Looking back at how Signal works](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
+* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
 * [CMU’s ‘Penrose’ Turns Complex Math Notations into Illustrative Diagrams](https://syncedreview.com/2020/06/05/cmus-penrose-turns-complex-math-notations-into-illustrative-diagrams/)
 * [Show HN: Jqview, a simple native GUI for inspecting JSON with jq](https://github.com/fiatjaf/jqview)
 * [Mathematics Anonymous Support Group](https://mathsgee.com/courses/the-mathematical-genius-in-you/)
 * [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
-* [List of rules to follow while writing (corporate?) presentations](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
 * [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork/)
+* [List of rules to follow while writing (corporate?) presentations](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
 * [Four million parts, 30 countries: How an Airbus A380 comes together (2018)](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)
-* [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/)
 * [How we raised $3M for an open source project](https://posthog.com/blog/raising-3m-for-os)
+* [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/)
 * [Akira Kurosawa’s hand-painted storyboards](https://faroutmagazine.co.uk/akira-kurosawa-hand-painted-film-storyboards/)
 * [U.S. states lean toward breaking up Google's ad tech business](https://www.cnbc.com/2020/06/05/states-lean-toward-pushing-to-break-up-googles-ad-tech-business.html)
-* [JavaScript: The First 20 Years](https://zenodo.org/record/3707008#.XtoRR-TEklQ)
 * [The Shareware Scene, Part 4: Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-4-doom/)
+* [JavaScript: The First 20 Years](https://zenodo.org/record/3707008#.XtoRR-TEklQ)
 * [Fitful nightly sleep linked to chronic inflammation, hardened arteries](https://news.berkeley.edu/2020/06/04/fitful-nightly-sleep-linked-to-chronic-inflammation-hardened-arteries/)
 * [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing)
+* [So You Want to Build an End-to-End Encrypted Web App](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/)
 * [Ruby vs. Crystal Performance](https://ptimofeev.com/ruby-vs-crystal-performance/)
 * [Current use of Linux in spacecraft flight software (2017)](https://www.researchgate.net/publication/321788741_Current_use_of_linux_in_spacecraft_flight_software)
-* [So You Want to Build an End-to-End Encrypted Web App](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/)
 * [Show HN: Water Cooler – Always-available chat for teams](https://watercooler.work)
-* [The May jobs report had “misclassification error,” underreported by 3 points](https://www.washingtonpost.com/business/2020/06/05/may-2020-jobs-report-misclassification-error/)
 * [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
+* [The May jobs report had “misclassification error,” underreported by 3 points](https://www.washingtonpost.com/business/2020/06/05/may-2020-jobs-report-misclassification-error/)
 * [Why I don’t usually meet startups in person (2019)](https://elizabethyin.com/2019/03/08/why-i-dont-usually-meet-startups-in-person/)
 ## nytimes.com
 
 
 * [Cities Ask if It’s Time to Defund Police and ‘Reimagine’ Public Safety](https://www.nytimes.com/2020/06/05/us/defund-police-floyd-protests.html)
 * [George Floyd Protests: Live News and Updates](https://www.nytimes.com/2020/06/05/us/george-floyd-protests.html)
-* [Some N.Y.C. Protesters Melt Away at Curfew. Others Persist: Live Updates](https://www.nytimes.com/2020/06/05/nyregion/nyc-protests-george-floyd.html)
+* [Some N.Y.C. Protests Ended Quietly. Others Ended in Arrests.](https://www.nytimes.com/2020/06/05/nyregion/nyc-protests-george-floyd.html)
 * [Live Coronavirus Updates](https://www.nytimes.com/2020/06/05/world/coronavirus-updates.html)
 * [Research Shows Students Falling Months Behind During Virus Disruptions](https://www.nytimes.com/2020/06/05/us/coronavirus-education-lost-learning.html)
 * [As N.B.A. Mulled Return, Financial Needs Emerged as Central](https://www.nytimes.com/2020/06/05/sports/basketball/coronavirus-nba-orlando.html)
@@ -82,10 +82,10 @@ layout: default
 * [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [Elephants, Long Endangered by Thai Crowds, Reclaim a National Park](https://www.nytimes.com/2020/06/05/world/asia/thailand-elephants-coronavirus.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [The Sheku Effect: A Classical Music Star Rises](https://www.nytimes.com/2020/06/04/arts/music/sheku-kanneh-mason-cello.html)
 * [Illustration: Police Have High-Dollar Gear, but Resistance Is Priceless](https://www.nytimes.com/2020/06/05/business/police-tactical-gear-cost.html)
 * [Reading Recommendations From Black Cultural Figures](https://www.nytimes.com/2020/06/04/t-magazine/black-culture-writers-books.html)
@@ -103,9 +103,9 @@ layout: default
 
 
 * [Witzel afrouxa medidas de isolamento e libera abertura de shoppings, bares e restaurantes](https://oglobo.globo.com/rio/witzel-afrouxa-medidas-de-isolamento-libera-abertura-de-shoppings-bares-restaurantes-24465602)
-* [Artigo: Qual o trabalho que você leva para casa?](https://oglobo.globo.com/opiniao/artigo-qual-trabalho-que-voce-leva-para-casa-24464412)
 * [Lives de hoje: Jota Quest, festa junina de Bell Marques e pagode da Mangueira são destaques](https://oglobo.globo.com/cultura/lives-de-hoje-jota-quest-festa-junina-de-bell-marques-pagode-da-mangueira-sao-destaques-24465969)
 * [Concessionárias se mostram otimistas na reabertura](https://oglobo.globo.com/economia/carros/concessionarias-se-mostram-otimistas-na-reabertura-24466294)
+* [Ministro do TCU quer obrigar governo a divulgar dados de Covid às 18h](https://epoca.globo.com/guilherme-amado/ministro-do-tcu-quer-obrigar-governo-divulgar-dados-de-covid-as-18h-24466135)
 * [Festa junina em casa: chefs compartilham quitutes, truques e até drinque com cravo e canela](https://oglobo.globo.com/rioshow/festa-junina-em-casa-chefs-compartilham-quitutes-truques-ate-drinque-com-cravo-canela-24464501)
 * [Supremo deve firmar seu peso constitucional](https://oglobo.globo.com/opiniao/supremo-deve-firmar-seu-peso-constitucional-24465527)
 * [O valor da Amazônia](https://oglobo.globo.com/opiniao/o-valor-da-amazonia-24465026)

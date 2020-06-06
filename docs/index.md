@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 21:09:16 UTC
+# indexed at 06/06/2020 21:34:20 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
 * [Let's make a Teeny Tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
+* [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
 * [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
+* [The Brave web browser is hijacking links, and inserting affiliate codes](https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/)
 * [USB-C is still a mess](https://www.androidauthority.com/state-of-usb-c-870996/)
+* [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
 * [A List of Hacker News's Undocumented Features and Behaviors (2018)](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
-* [The Brave web browser is hijacking links, and inserting affiliate codes](https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/)
 * [Using Enumerated Types in Python](https://johnlekberg.com/blog/2020-06-06-enum.html)
-* [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
+* [Articles about Electricity](http://amasci.com/ele-edu.html)
 * [A Future Without MPEG](https://blog.chiariglione.org/a-future-without-mpeg/)
+* [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
 * [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
 * [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
-* [Breaking the Solidity compiler with a fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
 * [I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
-* [MIT: If chips can't get smaller, then coders have to get smarter](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
+* [Breaking the Solidity compiler with a fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
+* [SketchUp Goes Subscription-Only](https://blog.sketchup.com/home/same-sketchup-you-love-a-new-way-to-buy)
 * [Free user space for non-graphics drivers](https://lwn.net/SubscriberLink/821817/d2e8e5c253b68ce6/)
-* [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
 * [Facebook Novi and Surveillance Finance](https://www.stephendiehl.com/posts/novi.html)
 * [The ghost factories: histories of automata and artificial life](https://www.tandfonline.com/doi/full/10.1080/07341512.2020.1757972)
 * [Unicode-based scientific plotting for working in the terminal](https://github.com/Evizero/UnicodePlots.jl)
-* [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
 * [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=23438930)
+* [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
+* [The nightmare that is selling on eBay](https://news.ycombinator.com/item?id=23441950)
 * [13,500 Vivo Smartphones found running on same IMEI number](https://androidrookies.com/a-whopping-13500-vivo-smartphones-found-running-on-same-imei-number/)
 * [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/)
-* [We’ve built a towering pile of shite](http://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 * [Snaps are an anti-pattern on Ubuntu](https://techtudor.blogspot.com/2020/06/four-reasons-why-snaps-are-anti-pattern.html)
-* [Bob, PML's Second “Primary” Coordinate Measuring Machine (2016)](https://www.nist.gov/news-events/news/2016/09/meet-bob-pmls-second-primary-coordinate-measuring-machine)
-* [Show HN: An ASCII art music video animated with JavaScript](https://clad.band/)
-* [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [We’ve built a towering pile of shite](http://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 ## nytimes.com
 
 
@@ -79,18 +79,18 @@ layout: default
 * [The Class of 2020 Is Missing Out, and So Are Politicians](https://www.nytimes.com/2020/06/06/us/politics/graduation-speech-2020-obama.html)
 * [Amazon Deforestation Soars as Pandemic Hobbles Enforcement](https://www.nytimes.com/2020/06/06/world/americas/amazon-deforestation-brazil.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [Is the Party Over on Fire Island?](https://www.nytimes.com/2020/06/06/style/is-the-party-over-on-fire-island.html)
 * [On Tribal Lands, a Time to Make Art for Solace and Survival](https://www.nytimes.com/2020/06/05/arts/design/native-americans-art-coronavirus.html)
 * [Unseen Script Offers New Evidence of a Radical Lorraine Hansberry](https://www.nytimes.com/2020/06/03/theater/lorraine-hansberry-marrow.html)
 * [On Being a Trans Woman, and Giving Up Makeup](https://www.nytimes.com/2020/05/26/opinion/sunday/trans-femininity.html)
 * [BookExpo Proves You Can Have a Trade Show in a Pandemic, Virtually](https://www.nytimes.com/2020/06/05/books/bookexpo-online-during-pandemic.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
 * [Cyclist Charged With Assaulting Teenagers Who Posted Fliers Against Police Brutality](https://www.nytimes.com/2020/06/06/us/-maryland-cyclist-assault-anthony-brennan.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [‘Não informar significa o estado ser mais nocivo que a doença’, diz Mandetta](https://oglobo.globo.com/sociedade/nao-informar-significa-estado-ser-mais-nocivo-que-doenca-diz-mandetta-24466902)
-* [Portal da covid-19 volta ao ar, mas sem total de casos e mortes e sem planilha com dados detalhados](https://oglobo.globo.com/sociedade/portal-da-covid-19-volta-ao-ar-mas-sem-total-de-casos-mortes-sem-planilha-com-dados-detalhados-24466899)
-* [Comerciantes do Rio ficam confusos sobre normas de flexibilização](https://oglobo.globo.com/rio/comerciantes-do-rio-ficam-confusos-sobre-normas-de-flexibilizacao-24466891)
+* [Governo do Rio determina normas para a retomada gradual do turismo](https://oglobo.globo.com/rio/governo-do-rio-determina-normas-para-retomada-gradual-do-turismo-1-24466921)
+* [‘Não informar significa o estado ser mais nocivo que a doença’, diz Mandetta](https://oglobo.globo.com/sociedade/nao-informar-significa-estado-ser-mais-nocivo-que-doenca-diz-mandetta-1-24466902)
+* [Portal da covid-19 volta ao ar, mas sem total de casos e mortes e sem planilha com dados detalhados](https://oglobo.globo.com/sociedade/portal-da-covid-19-volta-ao-ar-mas-sem-total-de-casos-mortes-sem-planilha-com-dados-detalhados-1-24466899)
 * [USP desenvolve vacina por spray nasal contra o coronavírus](https://oglobo.globo.com/sociedade/coronavirus/usp-desenvolve-vacina-por-spray-nasal-contra-coronavirus-24466895)
+* [Comerciantes do Rio ficam confusos sobre normas de flexibilização](https://oglobo.globo.com/rio/comerciantes-do-rio-ficam-confusos-sobre-normas-de-flexibilizacao-24466891)
 * [Referência global sobre Covid-19, Universidade Johns Hopkins interrompe contagem de dados do Brasil](https://oglobo.globo.com/sociedade/referencia-global-sobre-covid-19-universidade-johns-hopkins-interrompe-contagem-de-dados-do-brasil-24466845)
 * [Luta contra o racismo e pela democracia passa por dar voz aos atletas negros](https://oglobo.globo.com/esportes/luta-contra-racismo-pela-democracia-passa-por-dar-voz-aos-atletas-negros-24466871)
 * [Multidões vão às ruas nos Estados Unidos em mais um fim de semana de protestos](https://oglobo.globo.com/mundo/multidoes-vao-as-ruas-nos-estados-unidos-em-mais-um-fim-de-semana-de-protestos-24466853)
-* [Crivella diz que flexibilização do isolamento ainda não é válida na cidade do Rio de Janeiro](https://oglobo.globo.com/rio/crivella-diz-que-flexibilizacao-do-isolamento-ainda-nao-valida-na-cidade-do-rio-de-janeiro-24466817)
 * [Ainda é cedo para aliviar o isolamento no Rio, seja estado ou capital, dizem especialistas](https://oglobo.globo.com/rio/ainda-cedo-para-aliviar-isolamento-no-rio-seja-estado-ou-capital-dizem-especialistas-1-24466837)
 * [Médico Fábio Gontijo alerta para a importância do uso do protetor solar mesmo no home oficce](https://oglobo.globo.com/sociedade/saude/medico-fabio-gontijo-alerta-para-importancia-do-uso-do-protetor-solar-mesmo-no-home-oficce-24466831)

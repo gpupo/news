@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 04:34:27 UTC
+# indexed at 06/06/2020 05:09:22 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
 * [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
 * [Peer-to-Peer Communications with WebRTC](https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC)
 * [Looking back at how Signal works](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
-* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
 * [CMU’s ‘Penrose’ Turns Complex Math Notations into Illustrative Diagrams](https://syncedreview.com/2020/06/05/cmus-penrose-turns-complex-math-notations-into-illustrative-diagrams/)
 * [Show HN: Jqview, a simple native GUI for inspecting JSON with jq](https://github.com/fiatjaf/jqview)
+* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
+* [Helium shortage has ended, at least for now](https://physicstoday.scitation.org/do/10.1063/PT.6.2.20200605a/full/)
 * [Mathematics Anonymous Support Group](https://mathsgee.com/courses/the-mathematical-genius-in-you/)
-* [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/)
-* [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork/)
 * [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
-* [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
+* [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork/)
+* [Ask HN: Which is that site which gives learning path for learning algorithms](https://news.ycombinator.com/item?id=23427516)
 * [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/)
-* [Four million parts, 30 countries: How an Airbus A380 comes together (2018)](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)
 * [How we raised $3M for an open source project](https://posthog.com/blog/raising-3m-for-os)
-* [JavaScript: The First 20 Years](https://zenodo.org/record/3707008#.XtoRR-TEklQ)
+* [Four million parts, 30 countries: How an Airbus A380 comes together (2018)](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)
+* [Current use of Linux in spacecraft flight software (2017)](https://www.researchgate.net/publication/321788741_Current_use_of_linux_in_spacecraft_flight_software)
+* [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
 * [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Akira Kurosawa’s hand-painted storyboards](https://faroutmagazine.co.uk/akira-kurosawa-hand-painted-film-storyboards/)
+* [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
+* [JavaScript: The First 20 Years](https://zenodo.org/record/3707008#.XtoRR-TEklQ)
 * [The Shareware Scene, Part 4: Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-4-doom/)
-* [Twitter removes Trump campaign tribute to Floyd claiming copyright complaint](https://thehill.com/homenews/campaign/501270-twitter-removes-trump-campaign-tribute-to-george-floyd-claiming-copyright)
-* [U.S. states lean toward breaking up Google's ad tech business](https://www.cnbc.com/2020/06/05/states-lean-toward-pushing-to-break-up-googles-ad-tech-business.html)
-* [Fitful nightly sleep linked to chronic inflammation, hardened arteries](https://news.berkeley.edu/2020/06/04/fitful-nightly-sleep-linked-to-chronic-inflammation-hardened-arteries/)
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing)
-* [Current use of Linux in spacecraft flight software (2017)](https://www.researchgate.net/publication/321788741_Current_use_of_linux_in_spacecraft_flight_software)
-* [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
-* [Ask HN: Which is that site which gives learning path for learning algorithms](https://news.ycombinator.com/item?id=23427516)
-* [Ruby vs. Crystal Performance](https://ptimofeev.com/ruby-vs-crystal-performance/)
 * [The May jobs report had “misclassification error,” underreported by 3 points](https://www.washingtonpost.com/business/2020/06/05/may-2020-jobs-report-misclassification-error/)
+* [U.S. states lean toward breaking up Google's ad tech business](https://www.cnbc.com/2020/06/05/states-lean-toward-pushing-to-break-up-googles-ad-tech-business.html)
+* [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
+* [Fitful nightly sleep linked to chronic inflammation, hardened arteries](https://news.berkeley.edu/2020/06/04/fitful-nightly-sleep-linked-to-chronic-inflammation-hardened-arteries/)
 * [So You Want to Build an End-to-End Encrypted Web App](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/)
 * [Show HN: Water Cooler – Always-available chat for teams](https://watercooler.work)
+* [Ruby vs. Crystal Performance](https://ptimofeev.com/ruby-vs-crystal-performance/)
+* [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/)
 ## nytimes.com
 
 
@@ -81,9 +81,11 @@ layout: default
 * [Before the Death of Manuel Ellis, a Witness Told the Police: ‘Stop Hitting Him’](https://www.nytimes.com/2020/06/05/us/manuel-ellis-tacoma-video-unrest.html)
 * [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [Elephants, Long Endangered by Thai Crowds, Reclaim a National Park](https://www.nytimes.com/2020/06/05/world/asia/thailand-elephants-coronavirus.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
-* [Three Stretches to Tend to the Aches and Pains of Working From Home](https://www.nytimes.com/2020/05/19/well/three-stretches-to-tend-to-the-aches-and-pains-of-working-from-home.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [The Sheku Effect: A Classical Music Star Rises](https://www.nytimes.com/2020/06/04/arts/music/sheku-kanneh-mason-cello.html)
 * [Illustration: Police Have High-Dollar Gear, but Resistance Is Priceless](https://www.nytimes.com/2020/06/05/business/police-tactical-gear-cost.html)
 * [Reading Recommendations From Black Cultural Figures](https://www.nytimes.com/2020/06/04/t-magazine/black-culture-writers-books.html)
@@ -91,8 +93,8 @@ layout: default
 * [Oregon Chardonnay Escapes the Buttery Clichés](https://www.nytimes.com/2020/06/04/dining/drinks/wine-school-chardonnay-oregon.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Wild Cockatoos Are Just as Smart as Lab-Raised Ones](https://www.nytimes.com/2020/05/26/science/cockatoos-intelligence.html)
-* [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
 * [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
+* [Do Runners Need to Wear Masks?](https://www.nytimes.com/2020/05/30/health/running-exercising-masks-coronavirus.html)
 * [Late Night Asks Why the Orange Chicken Crossed the Road](https://www.nytimes.com/2020/06/04/arts/television/late-night-trump-orange-chicken.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

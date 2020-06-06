@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 20:10:58 UTC
+# indexed at 06/06/2020 20:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
-* [A List of Hacker News's Undocumented Features and Behaviors (2018)](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
-* [Law Enforcement’s “Warrior” Problem](https://harvardlawreview.org/2015/04/law-enforcements-warrior-problem/)
-* [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
-* [Facebook Novi and Surveillance Finance](https://www.stephendiehl.com/posts/novi.html)
-* [Using Enumerated Types in Python](https://johnlekberg.com/blog/2020-06-06-enum.html)
+* [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
+* [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
+* [Let's make a Teeny Tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 * [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
+* [A List of Hacker News's Undocumented Features and Behaviors (2018)](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+* [Using Enumerated Types in Python](https://johnlekberg.com/blog/2020-06-06-enum.html)
 * [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
-* [Breaking the Solidity Compiler with a Fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
+* [Breaking the Solidity compiler with a fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
 * [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
-* [Free user space for non-graphics drivers](https://lwn.net/SubscriberLink/821817/d2e8e5c253b68ce6/)
 * [I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
-* [We Use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
-* [The ghost factories: histories of automata and artificial life](https://www.tandfonline.com/doi/full/10.1080/07341512.2020.1757972)
+* [Facebook Novi and Surveillance Finance](https://www.stephendiehl.com/posts/novi.html)
+* [Free user space for non-graphics drivers](https://lwn.net/SubscriberLink/821817/d2e8e5c253b68ce6/)
 * [Unicode-based scientific plotting for working in the terminal](https://github.com/Evizero/UnicodePlots.jl)
+* [The ghost factories: histories of automata and artificial life](https://www.tandfonline.com/doi/full/10.1080/07341512.2020.1757972)
 * [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
 * [13,500 Vivo Smartphones found running on same IMEI number](https://androidrookies.com/a-whopping-13500-vivo-smartphones-found-running-on-same-imei-number/)
 * [Patent on displaying SQL data in HTML, granted to IBM in 1998](https://patents.google.com/patent/US5737592A/)
-* [Outside Plato's Cave #4 – Explaining why 5G is not dangerous](https://outsideplatoscave.substack.com/p/outside-platos-cave-4?r=5xuid&utm_campaign=post&utm_medium=web&utm_source=hackernews)
-* [Ecommerce Is Eating the World – Join EasyPost](https://www.easypost.com/careers)
+* [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/)
 * [eBay is port scanning visitors to their website](https://blog.nem.ec/2020/05/24/ebay-port-scanning/)
-* [Bob, PML's Second “Primary” Coordinate Measuring Machine (2016)](https://www.nist.gov/news-events/news/2016/09/meet-bob-pmls-second-primary-coordinate-measuring-machine)
+* [Outside Plato's Cave #4 – Explaining why 5G is not dangerous](https://outsideplatoscave.substack.com/p/outside-platos-cave-4?r=5xuid&utm_campaign=post&utm_medium=web&utm_source=hackernews)
 * [Starting Many Things](https://jetholt.com/micro/starting-many-things/)
+* [Ecommerce Is Eating the World – Join EasyPost](https://www.easypost.com/careers)
+* [Bob, PML's Second “Primary” Coordinate Measuring Machine (2016)](https://www.nist.gov/news-events/news/2016/09/meet-bob-pmls-second-primary-coordinate-measuring-machine)
+* [USB-C is still a mess](https://www.androidauthority.com/state-of-usb-c-870996/)
+* [Law Enforcement’s “Warrior” Problem (2015)](https://harvardlawreview.org/2015/04/law-enforcements-warrior-problem/)
 * [Sol – a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine)
 * [Show HN: An ASCII art music video animated with JavaScript](https://github.com/bejd/clad-ascii)
 * [Light turned into exotic Laughlin matter](https://www.nature.com/articles/d41586-020-01567-3)
 * [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
-* [Avoiding the Global Lobotomy](https://www.meta-nomad.net/avoiding-the-global-lobotomy/)
-* [Add a “contrib” directory to your projects](https://drewdevault.com/2020/06/06/Add-a-contrib-directory.html)
-* [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 ## nytimes.com
 
 
@@ -79,20 +79,20 @@ layout: default
 * [The Class of 2020 Is Missing Out, and So Are Politicians](https://www.nytimes.com/2020/06/06/us/politics/graduation-speech-2020-obama.html)
 * [Amazon Deforestation Soars as Pandemic Hobbles Enforcement](https://www.nytimes.com/2020/06/06/world/americas/amazon-deforestation-brazil.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Is the Party Over on Fire Island?](https://www.nytimes.com/2020/06/06/style/is-the-party-over-on-fire-island.html)
 * [On Tribal Lands, a Time to Make Art for Solace and Survival](https://www.nytimes.com/2020/06/05/arts/design/native-americans-art-coronavirus.html)
 * [Unseen Script Offers New Evidence of a Radical Lorraine Hansberry](https://www.nytimes.com/2020/06/03/theater/lorraine-hansberry-marrow.html)
 * [On Being a Trans Woman, and Giving Up Makeup](https://www.nytimes.com/2020/05/26/opinion/sunday/trans-femininity.html)
 * [BookExpo Proves You Can Have a Trade Show in a Pandemic, Virtually](https://www.nytimes.com/2020/06/05/books/bookexpo-online-during-pandemic.html)
+* [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
 * [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
-* [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [Quarantined in a Museum](https://www.nytimes.com/2020/06/05/realestate/historic-house-caretaker-coronavirus.html)
 * [How Much Watching Time Do You Have This Weekend?](https://www.nytimes.com/2020/06/04/arts/television/queer-eye-sesame-street-cnn-town-hall-bruce-lee.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -101,11 +101,11 @@ layout: default
 ## globo.com
 
 
-* [Ainda é cedo para aliviar o isolamento no Rio, seja estado ou capital, dizem especialistas](https://oglobo.globo.com/rio/ainda-cedo-para-aliviar-isolamento-no-rio-seja-estado-ou-capital-dizem-especialistas-1-24466837)
-* [Dados sobre Covid-19 no Brasil somem de painel da Universidade Johns Hopkins, referência global sobre a doença](https://oglobo.globo.com/sociedade/dados-sobre-covid-19-no-brasil-somem-de-painel-da-universidade-johns-hopkins-referencia-global-sobre-doenca-24466845)
 * [Crivella diz que flexibilização do isolamento ainda não é válida na cidade do Rio de Janeiro](https://oglobo.globo.com/rio/crivella-diz-que-flexibilizacao-do-isolamento-ainda-nao-valida-na-cidade-do-rio-de-janeiro-24466817)
+* [Referência global sobre Covid-19, Universidade Johns Hopkins interrompe contagem de dados do Brasil](https://oglobo.globo.com/sociedade/referencia-global-sobre-covid-19-universidade-johns-hopkins-interrompe-contagem-de-dados-do-brasil-24466845)
+* [Multidões vão às ruas nos Estados Unidos em mais um fim de semana de protestos](https://oglobo.globo.com/mundo/multidoes-vao-as-ruas-nos-estados-unidos-em-mais-um-fim-de-semana-de-protestos-24466853)
+* [Ainda é cedo para aliviar o isolamento no Rio, seja estado ou capital, dizem especialistas](https://oglobo.globo.com/rio/ainda-cedo-para-aliviar-isolamento-no-rio-seja-estado-ou-capital-dizem-especialistas-1-24466837)
 * [Médico Fábio Gontijo alerta para a importância do uso do protetor solar mesmo no home oficce](https://oglobo.globo.com/sociedade/saude/medico-fabio-gontijo-alerta-para-importancia-do-uso-do-protetor-solar-mesmo-no-home-oficce-24466831)
-* [OPEP e Rússia estenderão cortes na produção de petróleo até fim de julho, segundo a Reuters](https://oglobo.globo.com/economia/opep-russia-estenderao-cortes-na-producao-de-petroleo-ate-fim-de-julho-segundo-reuters-24466703)
 * [Covid-19: oposição reclama de falta de transparência e pede convocação de ministro da Saúde](https://oglobo.globo.com/sociedade/covid-19-oposicao-reclama-de-falta-de-transparencia-pede-convocacao-de-ministro-da-saude-1-24466779)
 * [Especialista em finanças André Antunes dá dicas para não se abalar na pandemia](https://oglobo.globo.com/economia/tecnologia/especialista-em-financas-andre-antunes-da-dicas-para-nao-se-abalar-na-pandemia-24466806)
 * [Mãe de menino Miguel pede para que encerrem vaquinhas virtuais: 'Só orem para que eu possa fazer justiça'](https://oglobo.globo.com/brasil/mae-de-menino-miguel-pede-para-que-encerrem-vaquinhas-virtuais-so-orem-para-que-eu-possa-fazer-justica-1-24466742)

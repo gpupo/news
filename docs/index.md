@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 14:09:19 UTC
+# indexed at 06/06/2020 14:34:18 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
 * [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
-* [eBay is port scanning visitors to their website](https://blog.nem.ec/2020/05/24/ebay-port-scanning/)
 * [I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+* [eBay is port scanning visitors to their website](https://blog.nem.ec/2020/05/24/ebay-port-scanning/)
+* [Ask HN: Side projects that are making money, but you'd not talk about them](https://news.ycombinator.com/item?id=23438930)
 * [Unicode-based scientific plotting for working in the terminal](https://github.com/Evizero/UnicodePlots.jl)
 * [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
 * [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
-* [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
 * [Wirecard offices searched as prosecutors probe management board](https://www-ft-com.ezproxy.babson.edu/content/049d7f17-a99c-465d-8062-5e07fd9315b1)
-* [Ask HN: Side projects that are making money, but you'd not talk about them](https://news.ycombinator.com/item?id=23438930)
 * [Patent on displaying SQL data in HTML, granted to IBM in 1998](https://patents.google.com/patent/US5737592A/)
-* [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 * [Sol – a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine)
+* [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
+* [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
 * [Peer-to-Peer Communications with WebRTC](https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC)
 * [Helium shortage has ended, at least for now](https://physicstoday.scitation.org/do/10.1063/PT.6.2.20200605a/full/)
-* [Show HN: An ASCII art music video animated with JavaScript](https://github.com/bejd/clad-ascii)
 * [Starting Many Things](https://jetholt.com/micro/starting-many-things/)
-* [We’ve built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
+* [Show HN: An ASCII art music video animated with JavaScript](https://github.com/bejd/clad-ascii)
 * [Light turned into exotic Laughlin matter](https://www.nature.com/articles/d41586-020-01567-3)
-* [PANDAcap: A framework for streamlining the capture of PANDA execution traces](https://github.com/vusec/pandacap)
-* [A lightweight dynamic instrumentation library](https://github.com/googleprojectzero/TinyInst)
-* [Looking back at how Signal works](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
 * [Avoiding the Global Lobotomy](https://www.meta-nomad.net/avoiding-the-global-lobotomy/)
-* [Special.fish](https://special.fish/)
+* [We’ve built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 * [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/)
-* [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
+* [Looking back at how Signal works](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
+* [Special.fish](https://special.fish/)
+* [Why Snaps are an anti-pattern on Ubuntu](https://techtudor.blogspot.com/2020/06/four-reasons-why-snaps-are-anti-pattern.html)
+* [A lightweight dynamic instrumentation library](https://github.com/googleprojectzero/TinyInst)
+* [PANDAcap: A framework for streamlining the capture of PANDA execution traces](https://github.com/vusec/pandacap)
 * [Current use of Linux in spacecraft flight software (2017)](https://www.researchgate.net/publication/321788741_Current_use_of_linux_in_spacecraft_flight_software)
+* [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing)
 * [Humanities aren't a science and shouldn't be treated like one (2012)](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
-* [IoT on QuestDB](https://davidgs.com/2020/iot-on-questdb/)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Louisville Barbecue Owner Killed in Police Shooting Fed a Food Desert](https://www.nytimes.com/2020/06/05/dining/unrest-louisville-david-mcatee.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [Is the Party Over on Fire Island?](https://www.nytimes.com/2020/06/06/style/is-the-party-over-on-fire-island.html)
 * [On Tribal Lands, a Time to Make Art for Solace and Survival](https://www.nytimes.com/2020/06/05/arts/design/native-americans-art-coronavirus.html)
 * [Unseen Script Offers New Evidence of a Radical Lorraine Hansberry](https://www.nytimes.com/2020/06/03/theater/lorraine-hansberry-marrow.html)
@@ -101,8 +101,8 @@ layout: default
 ## globo.com
 
 
+* [Carioca promove barzar on-line solidário para o Dia dos Namorados](https://oglobo.globo.com/rio/bairros/carioca-promove-barzar-on-line-solidario-para-dia-dos-namorados-24466542)
 * [Isabel Fillardis fala sobre racismo: 'Sofri em diversos momentos na TV e na moda'](https://oglobo.globo.com/ela/gente/isabel-fillardis-fala-sobre-racismo-sofri-em-diversos-momentos-na-tv-na-moda-24466521)
-* [Flexibilização do isolamento: 'municípios podem adotar ou não', explica secretário estadual](https://oglobo.globo.com/rio/flexibilizacao-do-isolamento-municipios-podem-adotar-ou-nao-explica-secretario-estadual-24466468)
 * [Artigo | Lula e Ciro acham feio o que não é espelho](https://epoca.globo.com/colunistas/artigo-lula-ciro-acham-feio-que-nao-espelho-24466460)
 * [Governo do Rio autoriza volta do futebol sem público no estado](https://oglobo.globo.com/esportes/governo-do-rio-autoriza-volta-do-futebol-sem-publico-no-estado-24466525)
 * ['Selma: uma luta pela igualdade' foi desprezado no Oscar após protesto contra violência policial, diz ator](https://oglobo.globo.com/cultura/selma-uma-luta-pela-igualdade-foi-desprezado-no-oscar-apos-protesto-contra-violencia-policial-diz-ator-1-24466512)

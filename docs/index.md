@@ -2,25 +2,25 @@
 layout: default
 ---
 
-# indexed at 06/06/2020 13:11:31 UTC
+# indexed at 06/06/2020 13:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
-* [We’ve built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
-* [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
 * [Patent on displaying SQL data in HTML, granted to IBM in 1998](https://patents.google.com/patent/US5737592A/)
-* [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
-* [Python+FontForge+Org: I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
-* [eBay is port scanning visitors to their website](https://blog.nem.ec/2020/05/24/ebay-port-scanning/)
+* [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
 * [Avoiding the Global Lobotomy](https://www.meta-nomad.net/avoiding-the-global-lobotomy/)
+* [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
+* [eBay is port scanning visitors to their website](https://blog.nem.ec/2020/05/24/ebay-port-scanning/)
+* [Python+FontForge+Org: I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 * [Unicode-based scientific plotting for working in the terminal](https://github.com/Evizero/UnicodePlots.jl)
 * [IBM Releases Fully Homomorphic Encryption Toolkit for macOS and iOS](https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/)
 * [Jurassic Park Dinosaurs Illustrated with Modern Science](https://jurassicparkterror.net/jurassic-park-dinosaurs/)
-* [Wirecard offices searched as prosecutors probe management board](https://www-ft-com.ezproxy.babson.edu/content/049d7f17-a99c-465d-8062-5e07fd9315b1)
 * [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
+* [Wirecard offices searched as prosecutors probe management board](https://www-ft-com.ezproxy.babson.edu/content/049d7f17-a99c-465d-8062-5e07fd9315b1)
+* [We’ve built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 * [Sol – a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine)
 * [Peer-to-Peer Communications with WebRTC](https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC)
 * [Helium shortage has ended, at least for now](https://physicstoday.scitation.org/do/10.1063/PT.6.2.20200605a/full/)
@@ -30,14 +30,14 @@ layout: default
 * [Show HN: Jqview, a simple native GUI for inspecting JSON with jq](https://github.com/fiatjaf/jqview)
 * [Looking back at how Signal works](https://signal.org/blog/looking-back-as-the-world-moves-forward/)
 * [Special.fish](https://special.fish/)
+* [A lightweight dynamic instrumentation library](https://github.com/googleprojectzero/TinyInst)
 * [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/)
 * [Current use of Linux in spacecraft flight software (2017)](https://www.researchgate.net/publication/321788741_Current_use_of_linux_in_spacecraft_flight_software)
 * [How we raised $3M for an open source project](https://posthog.com/blog/raising-3m-for-os)
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing)
-* [A lightweight dynamic instrumentation library](https://github.com/googleprojectzero/TinyInst)
-* [Humanities aren't a science and shouldn't be treated like one](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
-* [IoT on QuestDB](https://davidgs.com/2020/iot-on-questdb/)
+* [Four million parts, 30 countries: How an Airbus A380 comes together (2018)](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)
+* [Humanities aren't a science and shouldn't be treated like one (2012)](https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/)
 ## nytimes.com
 
 
@@ -80,33 +80,32 @@ layout: default
 * [The Complex Debate Over Silicon Valley’s Embrace of Content Moderation](https://www.nytimes.com/2020/06/05/technology/twitter-trump-facebook-moderation.html)
 * [Louisville Barbecue Owner Killed in Police Shooting Fed a Food Desert](https://www.nytimes.com/2020/06/05/dining/unrest-louisville-david-mcatee.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [Mothers Don’t Have to Be Martyrs](https://www.nytimes.com/2020/05/05/parenting/mothers-not-martyrs.html)
+* [Is the News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
 * [Is the Party Over on Fire Island?](https://www.nytimes.com/2020/06/06/style/is-the-party-over-on-fire-island.html)
 * [On Tribal Lands, a Time to Make Art for Solace and Survival](https://www.nytimes.com/2020/06/05/arts/design/native-americans-art-coronavirus.html)
 * [Unseen Script Offers New Evidence of a Radical Lorraine Hansberry](https://www.nytimes.com/2020/06/03/theater/lorraine-hansberry-marrow.html)
 * [On Being a Trans Woman, and Giving Up Makeup](https://www.nytimes.com/2020/05/26/opinion/sunday/trans-femininity.html)
 * [BookExpo Proves You Can Have a Trade Show in a Pandemic, Virtually](https://www.nytimes.com/2020/06/05/books/bookexpo-online-during-pandemic.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
-* [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
-* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
+* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Bolsonaro comenta mudanças na divulgação dos números da Covid-19: 'Evitar subnotificação e inconsistências'](https://oglobo.globo.com/sociedade/bolsonaro-comenta-mudancas-na-divulgacao-dos-numeros-da-covid-19-evitar-subnotificacao-inconsistencias-24466505)
+* [Em carta, patroa pede perdão à mãe do menino Miguel](https://oglobo.globo.com/brasil/em-carta-patroa-pede-perdao-mae-do-menino-miguel-24466509)
+* [Dois homens são presos no Rio de Janeiro em operação que mira superfaturamento na compra de respiradores](https://oglobo.globo.com/rio/dois-homens-sao-presos-no-rio-de-janeiro-em-operacao-que-mira-superfaturamento-na-compra-de-respiradores-24466506)
 * [Hollywood poderá retomar produções de séries e filmes a partir de 12 de junho](https://oglobo.globo.com/cultura/hollywood-podera-retomar-producoes-de-series-filmes-partir-de-12-de-junho-24466491)
 * [Flexibilização do isolamento: 'municípios podem adotar ou não', explica secretário estadual](https://oglobo.globo.com/rio/flexibilizacao-do-isolamento-municipios-podem-adotar-ou-nao-explica-secretario-estadual-24466468)
 * [Coronavírus: por que OMS agora recomenda uso de máscara em público contra covid-19](https://epoca.globo.com/sociedade/coronavirus-por-que-oms-agora-recomenda-uso-de-mascara-em-publico-contra-covid-19-1-24466466)
 * [Austrália e Ásia iniciam protestos pela morte de George Floyd que devem se espalhar pelo mundo neste sábado](https://oglobo.globo.com/mundo/australia-asia-iniciam-protestos-pela-morte-de-george-floyd-que-devem-se-espalhar-pelo-mundo-neste-sabado-24466444)
 * [Um pouco mais de oxigênio](https://oglobo.globo.com/cultura/um-pouco-mais-de-oxigenio-1-24466454)
 * ['Perdemos o direito de respirar', diz Silvio de Almeida](https://oglobo.globo.com/cultura/perdemos-direito-de-respirar-diz-silvio-de-almeida-24466447)
-* [MP obriga Prefeitura do Rio a adotar medidas de proteção a profissionais de saúde durante Covid](https://epoca.globo.com/guilherme-amado/mp-obriga-prefeitura-do-rio-adotar-medidas-de-protecao-profissionais-de-saude-durante-covid-24466438)
-* [Série de contos de F. Scott Fitzgerald retrata os bastidores de Hollywood](https://oglobo.globo.com/cultura/serie-de-contos-de-scott-fitzgerald-retrata-os-bastidores-de-hollywood-1-24466435)
-* [‘O governo finalmente terá uma base’, diz líder do governo no Senado sobre aliança com o centrão](https://oglobo.globo.com/brasil/o-governo-finalmente-tera-uma-base-diz-lider-do-governo-no-senado-sobre-alianca-com-centrao-24466422)
 * [Quem será o diretor da peça de Cláudia Abreu sobre Virginia Woolf](https://epoca.globo.com/guilherme-amado/quem-sera-diretor-da-peca-de-claudia-abreu-sobre-virginia-woolf-1-24463612)

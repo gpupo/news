@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 01:34:39 UTC
+# indexed at 07/06/2020 02:10:01 UTC
 
 
 ## news.ycombinator.com
 
 
+* [5G and Shannon’s Law](https://www.waveform.com/blogs/main/5g-and-shannons-law)
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
 * [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
 * [Let's make a Teeny Tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
-* [5G and Shannon’s Law](https://www.waveform.com/blogs/main/5g-and-shannons-law)
 * [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [Americans' perceptions of police drop significantly in one week](https://www.usatoday.com/story/news/politics/2020/06/06/americans-views-police-drop-significantly-amid-protests-survey/3159072001/)
 * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
 * [The BBC Microcomputer User Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html)
+* [Chan Zuckerberg Initiative scientists: FB’s practices ‘antithetical’ to mission](https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/)
 * [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
+* [Larder.io – Bookmarking for Developers](https://larder.io/)
 * [Blender 2.83 LTS](https://www.blender.org/download/releases/2-83/)
 * [Articles about Electricity](http://amasci.com/ele-edu.html)
-* [Chan Zuckerberg Initiative scientists: FB’s practices ‘antithetical’ to mission](https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/)
-* [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
-* [Larder.io – Bookmarking for Developers](https://larder.io/)
-* [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
 * [A List of Hacker News's Undocumented Features and Behaviors (2018)](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+* [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
 * [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
-* [Plotting](https://mitxela.com/projects/plotting)
 * [How the ‘Sunset Route’ Railroad Helped Diversify California](https://www.atlasobscura.com/articles/sunset-route-railroad-los-angeles)
-* [A Future Without MPEG](https://blog.chiariglione.org/a-future-without-mpeg/)
+* [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
 * [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
+* [Plotting](https://mitxela.com/projects/plotting)
 * [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
 * [Breaking the Solidity compiler with a fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
-* [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
 * [The Brave web browser is hijacking links, and inserting affiliate codes](https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/)
 * [Free user space for non-graphics drivers](https://lwn.net/SubscriberLink/821817/d2e8e5c253b68ce6/)
 * [We Solved the Worst Minigame in Zelda's History](https://www.youtube.com/watch?v=1hs451PfFzQ)
-* [Jonathan Dowling (1955-2020)](https://www.scottaaronson.com/blog/?p=4839)
-* [Using Enumerated Types in Python](https://johnlekberg.com/blog/2020-06-06-enum.html)
+* [The ghost factories: histories of automata and artificial life](https://www.tandfonline.com/doi/full/10.1080/07341512.2020.1757972)
 * [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=23438930)
+* [Jonathan Dowling (1955-2020)](https://www.scottaaronson.com/blog/?p=4839)
+* [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
+* [Facebook Novi and Surveillance Finance](https://www.stephendiehl.com/posts/novi.html)
 ## nytimes.com
 
 
@@ -74,30 +74,30 @@ layout: default
 * [Georgia Plane Crash Kills 5, Including Two Children](https://www.nytimes.com/2020/06/06/us/plane-crash-georgia.html)
 * [Libyan Commander Backed by Russia Says He’s Ready for Talks to End War](https://www.nytimes.com/2020/06/06/world/middleeast/libya-hifter.html)
 * [Japan's Coronavirus Numbers Are Low. Are Masks the Reason?](https://www.nytimes.com/2020/06/06/world/asia/japan-coronavirus-masks.html)
-* [The Class of 2020 Is Missing Out, and So Are Politicians](https://www.nytimes.com/2020/06/06/us/politics/graduation-speech-2020-obama.html)
+* [Stacey Milbern, a Warrior for Disability Justice, Dies at 33](https://www.nytimes.com/2020/06/06/us/stacey-milbern-dead.html)
 * [Brooks Bros., ‘Made in America’ Since 1818, May Soon Need a New Calling Card](https://www.nytimes.com/2020/06/05/business/brooks-brothers-factory-closings.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [At Belmont’s Backstretch, Caring for Horses During the Shutdown](https://www.nytimes.com/2020/06/04/sports/horse-racing/belmont-park-backstretch.html)
 * [And in the Next Zoom Room, a Rat Doing a Striptease](https://www.nytimes.com/2020/06/05/theater/eschaton-immersive-nightclub.html)
 * [After 25 Years, San Francisco’s Maverick Conductor Moves On](https://www.nytimes.com/2020/06/05/arts/music/san-francisco-symphony-michael-tilson-thomas-mtt.html)
 * [Breaking Down ‘Those Color Lines’ in a Music Industry That Drew Them](https://www.nytimes.com/2020/06/04/arts/music/ed-eckstine-blackout-tuesday-music.html)
 * [Henry Wadsworth Longfellow: America’s No. 1 Literary Celebrity](https://www.nytimes.com/2020/06/04/books/review/cross-of-snow-a-life-of-henry-wadsworth-longfellow-nicholas-a-basbanes.html)
+* [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
 * [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
-* [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
-* [These Brownies Are as Sweet as Candy](https://www.nytimes.com/2020/06/05/dining/butterscotch-brownies-recipe-coronavirus.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Órgão da PGR abre investigação sobre exclusão de dados sobre Covid-19 em plataforma do Ministério da Saúde](https://oglobo.globo.com/sociedade/orgao-da-pgr-abre-investigacao-sobre-exclusao-de-dados-sobre-covid-19-em-plataforma-do-ministerio-da-saude-24467331)
 * [Coronavírus: Brasil registra 35.930 mortes e 672.846 casos confirmados](https://oglobo.globo.com/sociedade/coronavirus-brasil-registra-35930-mortes-672846-casos-confirmados-1-24467282)
 * [Intervenção das Forças Armadas é golpe de estado, diz Consultoria do Senado](https://oglobo.globo.com/brasil/intervencao-das-forcas-armadas-golpe-de-estado-diz-consultoria-do-senado-24467248)
 * [Mundo Verde, de Carlos Wizard, tenta se afastar de imagem negativa de empresário](https://epoca.globo.com/guilherme-amado/mundo-verde-de-carlos-wizard-tenta-se-afastar-de-imagem-negativa-de-empresario-24467309)
@@ -107,4 +107,3 @@ layout: default
 * ['Transparência em dados de Covid-19 é vital como vacina', diz presidente da Fiocruz](https://epoca.globo.com/guilherme-amado/transparencia-em-dados-de-covid-19-vital-como-vacina-diz-presidente-da-fiocruz-24467190)
 * [Covid-19: deputado do PT pede que Justiça obrigue governo a divulgar dados até as 19h](https://oglobo.globo.com/sociedade/covid-19-deputado-do-pt-pede-que-justica-obrigue-governo-divulgar-dados-ate-as-19h-24467110)
 * [Especialistas discutem uso dos hospitais de campanha](https://oglobo.globo.com/rio/especialistas-discutem-uso-dos-hospitais-de-campanha-24467160)
-* [STF condena Paulinho da Força a dez anos e dois meses de prisão](https://oglobo.globo.com/brasil/stf-condena-paulinho-da-forca-dez-anos-dois-meses-de-prisao-24467020)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 00:27:16 UTC
+# indexed at 07/06/2020 00:36:17 UTC
 
 
 ## news.ycombinator.com
@@ -11,25 +11,24 @@ layout: default
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
 * [Let's make a Teeny Tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 * [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
-* [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
 * [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
-* [Larder.io – Bookmarking for Developers](https://larder.io/)
+* [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
 * [The BBC Microcomputer User Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html)
 * [Articles about Electricity](http://amasci.com/ele-edu.html)
+* [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
 * [Blender 2.83 LTS](https://www.blender.org/download/releases/2-83/)
 * [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
-* [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
+* [Larder.io – Bookmarking for Developers](https://larder.io/)
 * [A List of Hacker News's Undocumented Features and Behaviors (2018)](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
+* [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
 * [How the ‘Sunset Route’ Railroad Helped Diversify California](https://www.atlasobscura.com/articles/sunset-route-railroad-los-angeles)
 * [A Future Without MPEG](https://blog.chiariglione.org/a-future-without-mpeg/)
 * [Plotting](https://mitxela.com/projects/plotting)
 * [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
-* [Cingulata: Run C++ code over encrypted data with fully homomorphic encryption](https://github.com/CEA-LIST/Cingulata)
-* [I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 * [Chan Zuckerberg Initiative scientists: FB’s practices ‘antithetical’ to mission](https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/)
+* [I made a font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 * [All-in-One DNS block list](https://github.com/EnergizedProtection/block)
-* [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
 * [Breaking the Solidity compiler with a fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
 * [The Brave web browser is hijacking links, and inserting affiliate codes](https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/)
 * [Using Enumerated Types in Python](https://johnlekberg.com/blog/2020-06-06-enum.html)
@@ -38,6 +37,7 @@ layout: default
 * [Facebook Novi and Surveillance Finance](https://www.stephendiehl.com/posts/novi.html)
 * [The ghost factories: histories of automata and artificial life](https://www.tandfonline.com/doi/full/10.1080/07341512.2020.1757972)
 * [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=23438930)
+* [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/)
 ## nytimes.com
 
 
@@ -70,17 +70,17 @@ layout: default
 * [His Family Fled Syria. He Didn’t Cry Until He Heard About His Sisters.](https://www.nytimes.com/2020/06/02/magazine/syrian-refugee-europe.html)
 * [Child Pornography Ring Is Broken Up in Germany, Police Say](https://www.nytimes.com/2020/06/06/world/europe/germany-child-pornography.html)
 * [Temecula Mayor Resigns Amid Uproar Over Email About Police Killings](https://www.nytimes.com/2020/06/05/us/temecula-mayor-email-james-stewart.html)
-* [Voters in Taiwan Oust a Pro-China Mayor](https://www.nytimes.com/2020/06/06/world/asia/taiwan-recall-mayor.html)
+* [Georgia Plane Crash Kills 5, Including Two Children](https://www.nytimes.com/2020/06/06/us/plane-crash-georgia.html)
 * [Libyan Commander Backed by Russia Says He’s Ready for Talks to End War](https://www.nytimes.com/2020/06/06/world/middleeast/libya-hifter.html)
 * [Frustration and Fury as Rand Paul Holds Up Anti-Lynching Bill in Senate](https://www.nytimes.com/2020/06/05/us/politics/rand-paul-anti-lynching-bill-senate.html)
-* [He Was Philando Castile’s Friend. Now He’s Running for Office.](https://www.nytimes.com/video/us/100000007168058/john-thompson-george-floyd-protests.html)
+* [Japan's Coronavirus Numbers Are Low. Are Masks the Reason?](https://www.nytimes.com/2020/06/06/world/asia/japan-coronavirus-masks.html)
 * [The Class of 2020 Is Missing Out, and So Are Politicians](https://www.nytimes.com/2020/06/06/us/politics/graduation-speech-2020-obama.html)
-* [Amazon Deforestation Soars as Pandemic Hobbles Enforcement](https://www.nytimes.com/2020/06/06/world/americas/amazon-deforestation-brazil.html)
+* [Brooks Bros., ‘Made in America’ Since 1818, May Soon Need a New Calling Card](https://www.nytimes.com/2020/06/05/business/brooks-brothers-factory-closings.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [At Belmont’s Backstretch, Caring for Horses During the Shutdown](https://www.nytimes.com/2020/06/04/sports/horse-racing/belmont-park-backstretch.html)
 * [And in the Next Zoom Room, a Rat Doing a Striptease](https://www.nytimes.com/2020/06/05/theater/eschaton-immersive-nightclub.html)
@@ -88,9 +88,9 @@ layout: default
 * [Breaking Down ‘Those Color Lines’ in a Music Industry That Drew Them](https://www.nytimes.com/2020/06/04/arts/music/ed-eckstine-blackout-tuesday-music.html)
 * [Henry Wadsworth Longfellow: America’s No. 1 Literary Celebrity](https://www.nytimes.com/2020/06/04/books/review/cross-of-snow-a-life-of-henry-wadsworth-longfellow-nicholas-a-basbanes.html)
 * [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Cyclist Charged With Assaulting Teenagers Who Posted Fliers Against Police Brutality](https://www.nytimes.com/2020/06/06/us/-maryland-cyclist-assault-anthony-brennan.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -98,8 +98,8 @@ layout: default
 ## globo.com
 
 
-* [Intervenção das Forças Armadas é golpe de estado, diz Consultoria do Senado](https://oglobo.globo.com/brasil/intervencao-das-forcas-armadas-golpe-de-estado-diz-consultoria-do-senado-24467248)
 * ['Manipulação de estatísticas é manobra de regimes totalitários', afirma Gilmar Mendes sobre dados de Covid-19](https://oglobo.globo.com/brasil/manipulacao-de-estatisticas-manobra-de-regimes-totalitarios-afirma-gilmar-mendes-sobre-dados-de-covid-19-1-24467156)
+* [Intervenção das Forças Armadas é golpe de estado, diz Consultoria do Senado](https://oglobo.globo.com/brasil/intervencao-das-forcas-armadas-golpe-de-estado-diz-consultoria-do-senado-24467248)
 * [Witzel diz que medidas de flexibilização de isolamento no estado do Rio serão avaliadas '24 horas por dia'](https://oglobo.globo.com/rio/witzel-diz-que-medidas-de-flexibilizacao-de-isolamento-no-estado-do-rio-serao-avaliadas-24-horas-por-dia-1-24467146)
 * ['Transparência em dados de Covid-19 é vital como vacina', diz presidente da Fiocruz](https://epoca.globo.com/guilherme-amado/transparencia-em-dados-de-covid-19-vital-como-vacina-diz-presidente-da-fiocruz-24467190)
 * [Covid-19: deputado do PT pede que Justiça obrigue governo a divulgar dados até as 19h](https://oglobo.globo.com/sociedade/covid-19-deputado-do-pt-pede-que-justica-obrigue-governo-divulgar-dados-ate-as-19h-24467110)

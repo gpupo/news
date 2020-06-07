@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 11:34:25 UTC
+# indexed at 07/06/2020 12:12:41 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Zipline – Vital, On-Demand Delivery for the World](https://flyzipline.com/)
 * [Helvetica, a documentary on typography, graphic design and global visual culture](https://www.hustwit.com/helvetica)
 * [Two vulnerabilities in Zoom could lead to code execution](https://blog.talosintelligence.com/2020/06/vuln-spotlight-zoom-code-execution-june-2020.html)
-* [Show HN: Some Bookmarklets, I Use](https://www.ph-uhl.com/0010-Bookmarklets/)
 * [Google Chromium, sans integration with Google](https://github.com/Eloston/ungoogled-chromium)
+* [Show HN: Some Bookmarklets, I Use](https://www.ph-uhl.com/0010-Bookmarklets/)
 * [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
 * [Deciding to do morally risky work (2019)](http://joeroussos.org/2019/02/13/deciding-to-do-morally-risky-work-management-consulting-and-the-military/)
-* [Show HN: Choose: An alternative to cut and (sometimes) Awk](https://github.com/theryangeary/choose)
 * [Casual Shadertoy Path Tracing 2: Image Improvement and Glossy Reflections](https://blog.demofox.org/2020/06/06/casual-shadertoy-path-tracing-2-image-improvement-and-glossy-reflections)
-* [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
+* [Show HN: Choose: An alternative to cut and (sometimes) Awk](https://github.com/theryangeary/choose)
 * [A new project: multi-track audio editing (2005)](http://www.1014.org/index.php?article=283)
+* [How To Write fanfiction: 10 ficwriting rules](https://readandwrite.today/essay/10-ficwriting-rules.html)
 * [Death of a Typeface](https://ilovetypography.com/2020/06/06/robert-granjon-civilite-death-of-a-typeface/)
 * [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
+* [The Dactyl-ManuForm Keyboard](https://github.com/abstracthat/dactyl-manuform)
 * [Solving Jepsen with OpenCensus Distributed Tracing](https://dgraph.io/blog/post/solving-jepsen-with-opencensus/)
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
-* [How To Write fanfiction: 10 ficwriting rules](https://readandwrite.today/essay/10-ficwriting-rules.html)
 * [Richard Feynman Computer Heuristics Lecture (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
-* [WhatsApp Phone Numbers Pop Up in Google Search Results](https://threatpost.com/whatsapp-phone-numbers-google-search-results/156141/)
-* [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
 * [Using React, Redux and SSR to acommodate users without JavaScript](https://blog.klungo.no/2020/05/28/using-react-and-redux-to-acommodate-users-without-javascript/)
 * [The BBC Microcomputer User Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html)
-* [Larder.io – Bookmarking for Developers](https://larder.io/)
-* [Gaia-X: Technical Architecture [pdf]](https://www.heise.de/downloads/18/2/9/0/6/1/1/7/gaia-x-technical-architecture.pdf)
-* [A Medieval British Anti-Counterfeiting System: Split Tally Sticks (2017)](https://www.core77.com/posts/67600/A-Medieval-British-Anti-Counterfeiting-System-Split-Tally-Sticks)
+* [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
 * [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
-* [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
 * [Fidelity chief warns of global corporate solvency crisis](https://www.ft.com/content/d6fd7d11-c06e-4e88-82a7-87465c84a120)
+* [A Medieval British Anti-Counterfeiting System: Split Tally Sticks (2017)](https://www.core77.com/posts/67600/A-Medieval-British-Anti-Counterfeiting-System-Split-Tally-Sticks)
+* [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
+* [Gaia-X: Technical Architecture [pdf]](https://www.heise.de/downloads/18/2/9/0/6/1/1/7/gaia-x-technical-architecture.pdf)
+* [Blender 2.83 LTS](https://www.blender.org/download/releases/2-83/)
+* [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
 ## nytimes.com
 
 
@@ -81,9 +81,9 @@ layout: default
 * [Japan's Coronavirus Numbers Are Low. Are Masks the Reason?](https://www.nytimes.com/2020/06/06/world/asia/japan-coronavirus-masks.html)
 * [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
 * [Sellers of Sex Toys Capitalized on All That Alone Time](https://www.nytimes.com/2020/06/07/style/sellers-of-sex-toys-capitalized-on-all-that-alone-time.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [Their Wedding Day Was ‘Divinely Appointed’](https://www.nytimes.com/2020/06/05/style/their-wedding-day-was-divinely-appointed.html)
@@ -91,10 +91,10 @@ layout: default
 * [Coronavirus Testing for Summer Camp Kids](https://www.nytimes.com/2020/06/05/style/is-camp-safe.html)
 * [Review: Michaela Coel Is Riveting in ‘I May Destroy You’](https://www.nytimes.com/2020/06/04/arts/television/review-i-may-destroy-you.html)
 * [You’ll Put This on Everything](https://www.nytimes.com/2020/06/03/magazine/youll-put-this-on-everything.html)
-* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
 * [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
+* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Has ‘America First’ Become ‘Trump First’? Germans Wonder](https://www.nytimes.com/2020/06/06/world/europe/germany-troop-withdrawal-america.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Coronavírus: Discordância quanto à data do retorno pode levar Carioca aos tribunais](https://oglobo.globo.com/esportes/coronavirus-discordancia-quanto-data-do-retorno-pode-levar-carioca-aos-tribunais-24467416)
+* [Morte de George Floyd: a pergunta simples com que uma professora pôs em evidência o racismo nos EUA](https://epoca.globo.com/mundo/morte-de-george-floyd-pergunta-simples-com-que-uma-professora-pos-em-evidencia-racismo-nos-eua-24467430)
 * [Coronavírus: o que é a imunidade cruzada e por que ela pode ser a chave no combate à Covid-19](https://epoca.globo.com/sociedade/coronavirus-que-a-imunidade-cruzada-por-que-ela-pode-ser-chave-no-combate-covid-19-24467425)
-* [Blogueira e namorado foram mortos com tiros de pistolas, fuzil e espingarda, mostra perícia](https://epoca.globo.com/brasil/blogueira-namorado-foram-mortos-com-tiros-de-pistolas-fuzil-espingarda-mostra-pericia-24467385)
+* [Coronavírus: Discordância quanto à data do retorno pode levar Carioca aos tribunais](https://oglobo.globo.com/esportes/coronavirus-discordancia-quanto-data-do-retorno-pode-levar-carioca-aos-tribunais-24467416)
 * [Universidades privadas devem ter onda de fusões e aquisições com alta em inadimplência e menos alunos](https://oglobo.globo.com/economia/universidades-privadas-devem-ter-onda-de-fusoes-aquisicoes-com-alta-em-inadimplencia-menos-alunos-24467325)
 * [Construtoras apostam em drone e 'live' para vender imóveis na pandemia](https://oglobo.globo.com/economia/construtoras-apostam-em-drone-live-para-vender-imoveis-na-pandemia-24467216)
-* [Brasileira ganha prêmio internacional de promoção da paz com ONG que ajuda jovens a desconstruir discursos de ódio](https://oglobo.globo.com/ela/gente/brasileira-ganha-premio-internacional-de-promocao-da-paz-com-ong-que-ajuda-jovens-desconstruir-discursos-de-odio-24467398)
 * [Rio Gastronomia promove o Festival Delivery Rio](https://oglobo.globo.com/rioshow/rio-gastronomia-promove-festival-delivery-rio-1-24465520)
+* [Carla Zambelli será entrevistada nesta segunda ao vivo por Época](https://epoca.globo.com/guilherme-amado/carla-zambelli-sera-entrevistada-nesta-segunda-ao-vivo-por-epoca-1-24466308)
 * [Sob Bolsonaro, Correios zeram investimentos em projetos culturais via Lei Rouanet](https://epoca.globo.com/guilherme-amado/sob-bolsonaro-correios-zeram-investimentos-em-projetos-culturais-via-lei-rouanet-24466160)
-* [Projeto adapta quiosques da orla do Rio à realidade da pandemia](https://oglobo.globo.com/rio/bairros/projeto-adapta-quiosques-da-orla-do-rio-realidade-da-pandemia-1-24464788)
+* [Economista criticada por Bolsonaro volta com e-book sobre a relação entre Estado e Covid](https://epoca.globo.com/guilherme-amado/economista-criticada-por-bolsonaro-volta-com-book-sobre-relacao-entre-estado-covid-24466127)
 * [Coluna | Antirracismo é prática diária e exige revisão da nossa história](https://epoca.globo.com/colunistas/coluna-antirracismo-pratica-diaria-exige-revisao-da-nossa-historia-24465292)

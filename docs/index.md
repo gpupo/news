@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 08:10:33 UTC
+# indexed at 07/06/2020 08:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -10,16 +10,19 @@ layout: default
 
 * [Helvetica, a documentary on typography, graphic design and global visual culture](https://www.hustwit.com/helvetica)
 * [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
+* [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe)
 * [Google Chromium, sans integration with Google](https://github.com/Eloston/ungoogled-chromium)
-* [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
 * [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
+* [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
 * [A new project: multi-track audio editing (2005)](http://www.1014.org/index.php?article=283)
 * [Solving Jepsen with OpenCensus Distributed Tracing](https://dgraph.io/blog/post/solving-jepsen-with-opencensus/)
 * [Let's make a Teeny Tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
-* [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
-* [Gaia-X: Technical Architecture [pdf]](https://www.heise.de/downloads/18/2/9/0/6/1/1/7/gaia-x-technical-architecture.pdf)
+* [Death of a Typeface](https://ilovetypography.com/2020/06/06/robert-granjon-civilite-death-of-a-typeface/)
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
 * [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
+* [Gaia-X: Technical Architecture [pdf]](https://www.heise.de/downloads/18/2/9/0/6/1/1/7/gaia-x-technical-architecture.pdf)
+* [Show HN: Choose: An alternative to cut and (sometimes) Awk](https://github.com/theryangeary/choose)
+* [A Medieval British Anti-Counterfeiting System: Split Tally Sticks](https://www.core77.com/posts/67600/A-Medieval-British-Anti-Counterfeiting-System-Split-Tally-Sticks)
 * [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
 * [Using React, Redux and SSR to acommodate users without JavaScript](https://blog.klungo.no/2020/05/28/using-react-and-redux-to-acommodate-users-without-javascript/)
 * [Larder.io – Bookmarking for Developers](https://larder.io/)
@@ -28,16 +31,13 @@ layout: default
 * [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
 * [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
 * [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
-* [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
 * [Blender 2.83 LTS](https://www.blender.org/download/releases/2-83/)
+* [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
+* [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
 * [All the symmetrical watch faces and code to generate them](https://blog.jgc.org/2020/06/all-symmetrical-watch-faces-and-code-to.html)
 * [Plotting](https://mitxela.com/projects/plotting)
-* [Ask HN: Is it too late to start creating content on YouTube?](https://news.ycombinator.com/item?id=23444750)
 * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
-* [Play NES Games in 3D](http://www.geodstudio.net/)
-* [How the ‘Sunset Route’ Railroad Helped Diversify California](https://www.atlasobscura.com/articles/sunset-route-railroad-los-angeles)
-* [USB-C is still a mess](https://www.androidauthority.com/state-of-usb-c-870996/)
 ## nytimes.com
 
 
@@ -79,18 +79,18 @@ layout: default
 * [Brooks Bros., ‘Made in America’ Since 1818, May Soon Need a New Calling Card](https://www.nytimes.com/2020/06/05/business/brooks-brothers-factory-closings.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [At Belmont’s Backstretch, Caring for Horses During the Shutdown](https://www.nytimes.com/2020/06/04/sports/horse-racing/belmont-park-backstretch.html)
 * [And in the Next Zoom Room, a Rat Doing a Striptease](https://www.nytimes.com/2020/06/05/theater/eschaton-immersive-nightclub.html)
 * [After 25 Years, San Francisco’s Maverick Conductor Moves On](https://www.nytimes.com/2020/06/05/arts/music/san-francisco-symphony-michael-tilson-thomas-mtt.html)
 * [Breaking Down ‘Those Color Lines’ in a Music Industry That Drew Them](https://www.nytimes.com/2020/06/04/arts/music/ed-eckstine-blackout-tuesday-music.html)
 * [Henry Wadsworth Longfellow: America’s No. 1 Literary Celebrity](https://www.nytimes.com/2020/06/04/books/review/cross-of-snow-a-life-of-henry-wadsworth-longfellow-nicholas-a-basbanes.html)
-* [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
-* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
+* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [Disordered Eating in a Disordered Time](https://www.nytimes.com/2020/06/05/health/eating-disorders-coronavirus.html)
 * [The Boy Slumped to the Floor. Could These Be Seizures?](https://www.nytimes.com/2020/06/03/magazine/the-boy-slumped-to-the-floor-could-these-be-seizures.html)
 * [This Isn’t Strawberry Shortcake as You Know It](https://www.nytimes.com/2020/06/05/dining/strawberry-shortcake-recipe.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,9 +100,9 @@ layout: default
 
 
 * [Negros não podem apenas ser; é preciso parecer](https://oglobo.globo.com/sociedade/negros-nao-podem-apenas-ser-preciso-parecer-24466961)
-* [Preto no branco: 9 visões sobre onde está o racismo estrutural](https://oglobo.globo.com/sociedade/preto-no-branco-9-visoes-sobre-onde-esta-racismo-estrutural-24466876)
-* [Witzel escala vice-governador para conquistar aliados e evitar afastamento](https://oglobo.globo.com/rio/witzel-escala-vice-governador-para-conquistar-aliados-evitar-afastamento-24467299)
-* [Conto inédito de Etgar Keret: 'Esposa de pedra'](https://oglobo.globo.com/cultura/conto-inedito-de-etgar-keret-esposa-de-pedra-24466975)
+* [Com aumento da inadimplência e perda de alunos, universidades devem ter nova onda de fusões e aquisições](https://oglobo.globo.com/economia/com-aumento-da-inadimplencia-perda-de-alunos-universidades-devem-ter-nova-onda-de-fusoes-aquisicoes-24467118)
+* [‘Teremos opção de suspender 100% do pagamento da mensalidade por um período’, diz presidente da Kroton](https://oglobo.globo.com/economia/teremos-opcao-de-suspender-100-do-pagamento-da-mensalidade-por-um-periodo-diz-presidente-da-kroton-1-24467127)
+* [Pandemia atrasa avanço do acordo Mercosul-União Europeia, que teve negociação concluída há um ano](https://oglobo.globo.com/economia/pandemia-atrasa-avanco-do-acordo-mercosul-uniao-europeia-que-teve-negociacao-concluida-ha-um-ano-1-24467184)
 * [Em carta, Cafu celebra 50 anos e fala pela primeira vez da morte do filho](https://oglobo.globo.com/esportes/em-carta-cafu-celebra-50-anos-fala-pela-primeira-vez-da-morte-do-filho-1-24466722)
 * [Ainda polêmico, artigo 142 da Constituição não foi elaborado para permitir ação contra Poderes](https://oglobo.globo.com/brasil/ainda-polemico-artigo-142-da-constituicao-nao-foi-elaborado-para-permitir-acao-contra-poderes-24466751)
 * [Do Central Park a Alphaville](https://oglobo.globo.com/brasil/do-central-park-alphaville-24466724)

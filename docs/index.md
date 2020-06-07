@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 19:09:04 UTC
+# indexed at 07/06/2020 19:34:49 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Puree: A memory-hard full-disk encryption framework with an encrypted header](http://puree.cc/)
+* [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
+* [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
 * [Microservices Considered Harmful (2019)](https://blog.matthieud.me/2019/microservices-considered-harmful/)
-* [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
-* [America Is Giving Up on the Pandemic](https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/)
-* [Grid – A Lua Game Engine](https://github.com/Planimeter/grid-sdk)
 * [Manned fighter to face autonomous drone next year](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
 * [Zettelkasten note-taking in 10 minutes](https://blog.viktomas.com/posts/slip-box/)
-* [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe)
-* [What is the most dangerous drug? (2019)](https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug)
 * [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173)
+* [What is the most dangerous drug? (2019)](https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug)
+* [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe)
 * [Tiny Mites Spark Big Battle over Imports of French Cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
-* [Two vulnerabilities in Zoom could lead to code execution](https://blog.talosintelligence.com/2020/06/vuln-spotlight-zoom-code-execution-june-2020.html)
 * [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
+* [Two vulnerabilities in Zoom could lead to code execution](https://blog.talosintelligence.com/2020/06/vuln-spotlight-zoom-code-execution-june-2020.html)
+* [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
 * [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
 * [Intel and ARM Performance Characteristics for S3 Compatible Object Storage](https://blog.min.io/intel_vs_gravitron/)
 * [Zipline – Vital, On-Demand Delivery for the World](https://flyzipline.com/)
+* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
+* [Global Data Locality – Why and How](https://blog.the-pans.com/cache-locality/)
 * [Ideas That Changed My Life](https://www.perell.com/blog/50-ideas-that-changed-my-life)
 * [Helvetica, a documentary on typography, graphic design and global visual culture](https://www.hustwit.com/helvetica)
-* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
 * [Bookmarklets I Use](https://www.ph-uhl.com/0010-Bookmarklets/)
-* [How Gorillaz could dominate a post-Covid world](https://reframing.substack.com/p/how-gorillaz-could-thrive-in-a-post)
-* [Tracking solar collector without electronics (2011) [video]](https://www.youtube.com/watch?v=WrMltEp-dcw)
 * [Rage Against the God Machine](https://buttondown.email/hillelwayne/archive/rage-against-the-god-machine/)
+* [How Gorillaz could dominate a post-Covid world](https://reframing.substack.com/p/how-gorillaz-could-thrive-in-a-post)
 * [Show HN: TheKnob – sound volume control knob made of concrete and RGB lights](https://theknob.co/)
+* [Tracking solar collector without electronics (2011) [video]](https://www.youtube.com/watch?v=WrMltEp-dcw)
+* [America Is Giving Up on the Pandemic](https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/)
 * [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
 * [Laplace’s Theories of Cognitive Illusions, Heuristics and Biases](https://statmodeling.stat.columbia.edu/2020/06/05/laplaces-theories-of-cognitive-illusions-heuristics-and-biases/)
-* [CVE-2020-13254 Information Exposure Vulnerability with Django and Memcached](https://danpalmer.me/2020-06-07-django-memcache-vulnerability/)
+* [Why did post-8008 CPUs not keep the on-chip stack idea?](https://retrocomputing.stackexchange.com/questions/15078/why-did-post-8008-cpus-not-keep-the-on-chip-stack-idea)
 * [Death of a Typeface](https://ilovetypography.com/2020/06/06/robert-granjon-civilite-death-of-a-typeface/)
 * [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
-* [Show HN: Choose: An alternative to cut and (sometimes) Awk](https://github.com/theryangeary/choose)
 ## nytimes.com
 
 
@@ -83,20 +83,20 @@ layout: default
 * [Why Many Athletes Will Be Left Out When Olympic Training Centers Reopen](https://www.nytimes.com/2020/06/06/sports/olympics/coronavirus-olympic-training-tokyo.html)
 * [Stacey Milbern, a Warrior for Disability Justice, Dies at 33](https://www.nytimes.com/2020/06/06/us/stacey-milbern-dead.html)
 * [Contact Tracing With Your Phone: It’s Easier but There Are Tradeoffs](https://www.nytimes.com/2020/06/03/health/coronavirus-contact-tracing-apps.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [Their Wedding Day Was ‘Divinely Appointed’](https://www.nytimes.com/2020/06/05/style/their-wedding-day-was-divinely-appointed.html)
 * [How a Suicide Prevention Team Leader Spends His Sundays](https://www.nytimes.com/2020/06/05/nyregion/coronavirus-suicide-prevention-Samaritans.html)
 * [Coronavirus Testing for Summer Camp Kids](https://www.nytimes.com/2020/06/05/style/is-camp-safe.html)
 * [Review: Michaela Coel Is Riveting in ‘I May Destroy You’](https://www.nytimes.com/2020/06/04/arts/television/review-i-may-destroy-you.html)
 * [You’ll Put This on Everything](https://www.nytimes.com/2020/06/03/magazine/youll-put-this-on-everything.html)
-* [Doctors Heavily Overprescribed Antibiotics Early in the Pandemic](https://www.nytimes.com/2020/06/04/health/coronavirus-antibiotics-drugs.html)
 * [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
-* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
+* [Doctors Heavily Overprescribed Antibiotics Early in the Pandemic](https://www.nytimes.com/2020/06/04/health/coronavirus-antibiotics-drugs.html)
 * [George Floyd Protests Add New Front Line for Coronavirus Doctors](https://www.nytimes.com/2020/06/07/health/doctors-george-floyd-coronavirus.html)
+* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -104,6 +104,7 @@ layout: default
 
 
 * [Em dia de atos nas ruas, capitais registram 'panelaços' contra Bolsonaro](https://oglobo.globo.com/brasil/em-dia-de-atos-nas-ruas-capitais-registram-panelacos-contra-bolsonaro-24467622)
+* [Em editorial, Financial Times diz que Bolsonaro levanta temores sobre a democracia brasileira](https://oglobo.globo.com/brasil/em-editorial-financial-times-diz-que-bolsonaro-levanta-temores-sobre-democracia-brasileira-24467626)
 * [Milhares protestam contra o racismo em Londres, e estátua de mercador de escravos é derrubada em Bristol](https://oglobo.globo.com/mundo/milhares-protestam-contra-racismo-em-londres-estatua-de-mercador-de-escravos-derrubada-em-bristol-24467556)
 * [Festival de Brasília é cancelado por falta de dinheiro](https://oglobo.globo.com/cultura/festival-de-brasilia-cancelado-por-falta-de-dinheiro-24467611)
 * [Filho mata a mãe em condomínio da Barra da Tijuca e é preso em flagrante](https://oglobo.globo.com/rio/filho-mata-mae-em-condominio-da-barra-da-tijuca-e-preso-em-flagrante-24467572)
@@ -112,4 +113,3 @@ layout: default
 * [Primeiro-ministro de Israel chama de 'tragédia' morte de palestino autista por polícia israelense](https://oglobo.globo.com/mundo/primeiro-ministro-de-israel-chama-de-tragedia-morte-de-palestino-autista-por-policia-israelense-1-24467565)
 * [Filha de Regina Duarte cobra transparência do Ministério da Saúde: 'Triste'](https://epoca.globo.com/guilherme-amado/filha-de-regina-duarte-cobra-transparencia-do-ministerio-da-saude-triste-24467560)
 * [Justiça proíbe a reabertura de escolas estaduais para distribuição de alimentos a estudantes](https://oglobo.globo.com/rio/justica-proibe-reabertura-de-escolas-estaduais-para-distribuicao-de-alimentos-estudantes-24467542)
-* [Rio tem previsão de chuva fraca para este domingo](https://oglobo.globo.com/rio/rio-tem-previsao-de-chuva-fraca-para-este-domingo-24467531)

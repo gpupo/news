@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 18:10:17 UTC
+# indexed at 07/06/2020 18:34:16 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
+* [Puree: A memory-hard full-disk encryption framework with an encrypted header](http://puree.cc/)
 * [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
-* [Puree: The first full-disk encryption framework with an encrypted header](http://puree.cc/)
 * [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173)
+* [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
 * [Zettelkasten note-taking in 10 minutes](https://blog.viktomas.com/posts/slip-box/)
 * [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe)
 * [Tiny Mites Spark Big Battle over Imports of French Cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
@@ -19,24 +19,24 @@ layout: default
 * [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 * [Intel and ARM Performance Characteristics for S3 Compatible Object Storage](https://blog.min.io/intel_vs_gravitron/)
 * [Zipline – Vital, On-Demand Delivery for the World](https://flyzipline.com/)
-* [Helvetica, a documentary on typography, graphic design and global visual culture](https://www.hustwit.com/helvetica)
+* [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
 * [Ideas That Changed My Life](https://www.perell.com/blog/50-ideas-that-changed-my-life)
+* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
+* [Helvetica, a documentary on typography, graphic design and global visual culture](https://www.hustwit.com/helvetica)
 * [How Gorillaz could dominate a post-Covid world](https://reframing.substack.com/p/how-gorillaz-could-thrive-in-a-post)
 * [Rage Against the God Machine](https://buttondown.email/hillelwayne/archive/rage-against-the-god-machine/)
-* [CVE-2020-13254 Information Exposure Vulnerability with Django and Memcached](https://danpalmer.me/2020-06-07-django-memcache-vulnerability/)
 * [Tracking solar collector without electronics (2011) [video]](https://www.youtube.com/watch?v=WrMltEp-dcw)
-* [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
-* [Show HN: TheKnob – sound volume control knob made of concrete and RGB lights](https://theknob.co/)
-* [Show HN: Some Bookmarklets, I Use](https://www.ph-uhl.com/0010-Bookmarklets/)
 * [A New Cold War Has Begun](https://foreignpolicy.com/2019/01/07/a-new-cold-war-has-begun/)
-* [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
-* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
+* [CVE-2020-13254 Information Exposure Vulnerability with Django and Memcached](https://danpalmer.me/2020-06-07-django-memcache-vulnerability/)
+* [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
+* [Show HN: Some Bookmarklets, I Use](https://www.ph-uhl.com/0010-Bookmarklets/)
+* [Show HN: TheKnob – sound volume control knob made of concrete and RGB lights](https://theknob.co/)
 * [Death of a Typeface](https://ilovetypography.com/2020/06/06/robert-granjon-civilite-death-of-a-typeface/)
 * [Laplace’s Theories of Cognitive Illusions, Heuristics and Biases](https://statmodeling.stat.columbia.edu/2020/06/05/laplaces-theories-of-cognitive-illusions-heuristics-and-biases/)
 * [Einstein’s Lost Hypothesis (2013)](http://nautil.us/issue/86/energy/einsteins-lost-hypothesis)
-* [Show HN: Choose: An alternative to cut and (sometimes) Awk](https://github.com/theryangeary/choose)
 * [The Dactyl-ManuForm Keyboard](https://github.com/abstracthat/dactyl-manuform)
 * [Ask HN: How bad should the code be in a startup?](https://news.ycombinator.com/item?id=23446627)
+* [A new project: multi-track audio editing (2005)](http://www.1014.org/index.php?article=283)
 * [Google Chromium, sans integration with Google](https://github.com/Eloston/ungoogled-chromium)
 ## nytimes.com
 
@@ -83,11 +83,11 @@ layout: default
 * [Why Many Athletes Will Be Left Out When Olympic Training Centers Reopen](https://www.nytimes.com/2020/06/06/sports/olympics/coronavirus-olympic-training-tokyo.html)
 * [Stacey Milbern, a Warrior for Disability Justice, Dies at 33](https://www.nytimes.com/2020/06/06/us/stacey-milbern-dead.html)
 * [Contact Tracing With Your Phone: It’s Easier but There Are Tradeoffs](https://www.nytimes.com/2020/06/03/health/coronavirus-contact-tracing-apps.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [Their Wedding Day Was ‘Divinely Appointed’](https://www.nytimes.com/2020/06/05/style/their-wedding-day-was-divinely-appointed.html)
 * [How a Suicide Prevention Team Leader Spends His Sundays](https://www.nytimes.com/2020/06/05/nyregion/coronavirus-suicide-prevention-Samaritans.html)
 * [Coronavirus Testing for Summer Camp Kids](https://www.nytimes.com/2020/06/05/style/is-camp-safe.html)
@@ -95,8 +95,8 @@ layout: default
 * [You’ll Put This on Everything](https://www.nytimes.com/2020/06/03/magazine/youll-put-this-on-everything.html)
 * [Doctors Heavily Overprescribed Antibiotics Early in the Pandemic](https://www.nytimes.com/2020/06/04/health/coronavirus-antibiotics-drugs.html)
 * [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
-* [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
 * [George Floyd Protests Add New Front Line for Coronavirus Doctors](https://www.nytimes.com/2020/06/07/health/doctors-george-floyd-coronavirus.html)
+* [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
 * [Donald Trump Is Our National Catastrophe](https://www.nytimes.com/2020/06/05/opinion/donald-trump.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Domingo com orla movimentada e dúvida sobre decretos municipal e estadual](https://oglobo.globo.com/rio/domingo-com-orla-movimentada-duvida-sobre-decretos-municipal-estadual-24467601)
+* [Nova York suspende toque de recolher imposto por causa dos protestos contra racismo](https://oglobo.globo.com/mundo/nova-york-suspende-toque-de-recolher-imposto-por-causa-dos-protestos-contra-racismo-24467545)
 * [Filho mata a mãe em condomínio da Barra da Tijuca e é preso em flagrante](https://oglobo.globo.com/rio/filho-mata-mae-em-condominio-da-barra-da-tijuca-e-preso-em-flagrante-24467572)
 * [Milhares protestam contra o racismo em Londres, e estátua de mercador de escravos é derrubada em Bristol](https://oglobo.globo.com/mundo/milhares-protestam-contra-racismo-em-londres-estatua-de-mercador-de-escravos-derrubada-em-bristol-24467556)
 * [Primeiro-ministro de Israel chama de 'tragédia' morte de palestino autista por polícia israelense](https://oglobo.globo.com/mundo/primeiro-ministro-de-israel-chama-de-tragedia-morte-de-palestino-autista-por-policia-israelense-1-24467565)
 * [Índia e China querem resolver 'pacificamente' confronto na fronteira](https://oglobo.globo.com/mundo/india-china-querem-resolver-pacificamente-confronto-na-fronteira-24467525)
-* [Nova York suspende toque de recolher imposto por causa dos protestos contra racismo](https://oglobo.globo.com/mundo/nova-york-suspende-toque-de-recolher-imposto-por-causa-dos-protestos-contra-racismo-24467545)
 * [Filha de Regina Duarte cobra transparência do Ministério da Saúde: 'Triste'](https://epoca.globo.com/guilherme-amado/filha-de-regina-duarte-cobra-transparencia-do-ministerio-da-saude-triste-24467560)
 * [Justiça proíbe a reabertura de escolas estaduais para distribuição de alimentos a estudantes](https://oglobo.globo.com/rio/justica-proibe-reabertura-de-escolas-estaduais-para-distribuicao-de-alimentos-estudantes-24467542)
 * [Rio tem previsão de chuva fraca para este domingo](https://oglobo.globo.com/rio/rio-tem-previsao-de-chuva-fraca-para-este-domingo-24467531)
-* [Brasil se une a Coreia do Norte e Venezuela ao omitir dados da Covid-19](https://epoca.globo.com/mundo/brasil-se-une-coreia-do-norte-venezuela-ao-omitir-dados-da-covid-19-24467486)
 * [Novo AGU dá cavalo de pau jurídico e passa a defender texto que atacava](https://epoca.globo.com/guilherme-amado/novo-agu-da-cavalo-de-pau-juridico-passa-defender-texto-que-atacava-24466075)

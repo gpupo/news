@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 07:34:19 UTC
+# indexed at 07/06/2020 08:10:33 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 * [Helvetica, a documentary on typography, graphic design and global visual culture](https://www.hustwit.com/helvetica)
+* [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 * [Google Chromium, sans integration with Google](https://github.com/Eloston/ungoogled-chromium)
-* [The Dactyl-ManuForm Keyboard](https://github.com/abstracthat/dactyl-manuform)
 * [Mad magazine legend Al Jaffee retires at age 99](https://www.washingtonpost.com/arts-entertainment/2020/06/06/al-jaffee-mad-magazine-retires/)
+* [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
 * [A new project: multi-track audio editing (2005)](http://www.1014.org/index.php?article=283)
+* [Solving Jepsen with OpenCensus Distributed Tracing](https://dgraph.io/blog/post/solving-jepsen-with-opencensus/)
 * [Let's make a Teeny Tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 * [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
+* [Gaia-X: Technical Architecture [pdf]](https://www.heise.de/downloads/18/2/9/0/6/1/1/7/gaia-x-technical-architecture.pdf)
 * [New slats make the Golden Gate Bridge sound like a David Lynch movie](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now)
-* [Solving Jepsen with OpenCensus Distributed Tracing](https://dgraph.io/blog/post/solving-jepsen-with-opencensus/)
 * [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
-* [Using React, Redux and SSR to acommodate users without JavaScript](https://blog.klungo.no/2020/05/28/using-react-and-redux-to-acommodate-users-without-javascript/)
 * [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
-* [SQLancer, a tool to automatically test DBMSs to find logic bugs](https://github.com/sqlancer/sqlancer)
+* [Using React, Redux and SSR to acommodate users without JavaScript](https://blog.klungo.no/2020/05/28/using-react-and-redux-to-acommodate-users-without-javascript/)
 * [Larder.io – Bookmarking for Developers](https://larder.io/)
-* [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
-* [Ask HN: Is it too late to start creating content on YouTube?](https://news.ycombinator.com/item?id=23444750)
-* [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
-* [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
 * [The BBC Microcomputer User Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html)
-* [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
-* [Where Does My Main Battery Go?](https://acoup.blog/2019/11/29/collections-where-does-my-main-battery-go/)
-* [Blender 2.83 LTS](https://www.blender.org/download/releases/2-83/)
 * [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
+* [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
+* [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
+* [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
+* [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
+* [Blender 2.83 LTS](https://www.blender.org/download/releases/2-83/)
+* [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
 * [All the symmetrical watch faces and code to generate them](https://blog.jgc.org/2020/06/all-symmetrical-watch-faces-and-code-to.html)
 * [Plotting](https://mitxela.com/projects/plotting)
-* [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
+* [Ask HN: Is it too late to start creating content on YouTube?](https://news.ycombinator.com/item?id=23444750)
 * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
 * [Play NES Games in 3D](http://www.geodstudio.net/)
 * [How the ‘Sunset Route’ Railroad Helped Diversify California](https://www.atlasobscura.com/articles/sunset-route-railroad-los-angeles)
+* [USB-C is still a mess](https://www.androidauthority.com/state-of-usb-c-870996/)
 ## nytimes.com
 
 
-* [Protests Today: Live Updates and Video](https://www.nytimes.com/2020/06/06/us/protests-today-police-george-floyd.html)
+* [Protests Swell in U.S. and Beyond as George Floyd Is Mourned Near His Birthplace](https://www.nytimes.com/2020/06/06/us/protests-today-police-george-floyd.html)
 * [N.Y. Protesters Defy Curfew, but 10th Night of Marches Ends Peacefully](https://www.nytimes.com/2020/06/06/nyregion/nyc-protests-george-floyd.html)
 * [How Police Unions Became Such Powerful Opponents to Reform Efforts](https://www.nytimes.com/2020/06/06/us/police-unions-minneapolis-kroll.html)
 * [For Mayor Jacob Frey of Minneapolis, a Walk of Shame](https://www.nytimes.com/2020/06/07/us/minneapolis-mayor-jacob-frey-walk-of-shame.html)
@@ -50,7 +50,7 @@ layout: default
 * [Vote for Trump? These Republican Leaders Aren’t on the Bandwagon](https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html)
 * [How Trump’s Demands for a Full House in Charlotte Derailed a Convention](https://www.nytimes.com/2020/06/06/us/politics/republican-convention-charlotte-2020.html)
 * [Pentagon Ordered National Guard Helicopters’ Aggressive Response in D.C.](https://www.nytimes.com/2020/06/06/us/politics/protests-trump-helicopters-national-guard.html)
-* [Face Masks May Have Helped Japan Battle Virus](https://www.nytimes.com/2020/06/06/world/coronavirus-update-us-usa.html)
+* [China Defends Its Coronavirus Response](https://www.nytimes.com/2020/06/06/world/coronavirus-update-us-usa.html)
 * [Coronavirus Depletes the Keepers of Europe’s Memory](https://www.nytimes.com/2020/06/06/world/europe/coronavirus-europe-italy-elderly-deaths.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/06/05/briefing/11-of-our-best-weekend-reads.html)
 * [Eight: ‘We Go All’](https://www.nytimes.com/2020/06/04/podcasts/rabbit-hole-qanon-youtube-tiktok-virus.html)
@@ -78,11 +78,11 @@ layout: default
 * [Stacey Milbern, a Warrior for Disability Justice, Dies at 33](https://www.nytimes.com/2020/06/06/us/stacey-milbern-dead.html)
 * [Brooks Bros., ‘Made in America’ Since 1818, May Soon Need a New Calling Card](https://www.nytimes.com/2020/06/05/business/brooks-brothers-factory-closings.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
-* [How Not to Apologize in Quarantine](https://www.nytimes.com/2020/05/08/smarter-living/how-not-to-apologize-in-quarantine.html)
-* [4 Ways to Help if Your Kid Is Depressed](https://www.nytimes.com/2020/06/02/parenting/virus-children-depression-signs.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
-* [This Summer, Consider Camping in Your Own Backyard](https://www.nytimes.com/2020/05/15/smarter-living/this-summer-consider-camping-in-your-own-backyard.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [At Belmont’s Backstretch, Caring for Horses During the Shutdown](https://www.nytimes.com/2020/06/04/sports/horse-racing/belmont-park-backstretch.html)
 * [And in the Next Zoom Room, a Rat Doing a Striptease](https://www.nytimes.com/2020/06/05/theater/eschaton-immersive-nightclub.html)
 * [After 25 Years, San Francisco’s Maverick Conductor Moves On](https://www.nytimes.com/2020/06/05/arts/music/san-francisco-symphony-michael-tilson-thomas-mtt.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Dinheiro é poder de decisão, mas não está em mãos pretas](https://oglobo.globo.com/sociedade/dinheiro-poder-de-decisao-mas-nao-esta-em-maos-pretas-24467002)
-* [Um passaporte limitado para o Brasil com direito de ‘ir e vir’](https://oglobo.globo.com/sociedade/um-passaporte-limitado-para-brasil-com-direito-de-ir-vir-24466976)
 * [Negros não podem apenas ser; é preciso parecer](https://oglobo.globo.com/sociedade/negros-nao-podem-apenas-ser-preciso-parecer-24466961)
 * [Preto no branco: 9 visões sobre onde está o racismo estrutural](https://oglobo.globo.com/sociedade/preto-no-branco-9-visoes-sobre-onde-esta-racismo-estrutural-24466876)
 * [Witzel escala vice-governador para conquistar aliados e evitar afastamento](https://oglobo.globo.com/rio/witzel-escala-vice-governador-para-conquistar-aliados-evitar-afastamento-24467299)
 * [Conto inédito de Etgar Keret: 'Esposa de pedra'](https://oglobo.globo.com/cultura/conto-inedito-de-etgar-keret-esposa-de-pedra-24466975)
+* [Em carta, Cafu celebra 50 anos e fala pela primeira vez da morte do filho](https://oglobo.globo.com/esportes/em-carta-cafu-celebra-50-anos-fala-pela-primeira-vez-da-morte-do-filho-1-24466722)
 * [Ainda polêmico, artigo 142 da Constituição não foi elaborado para permitir ação contra Poderes](https://oglobo.globo.com/brasil/ainda-polemico-artigo-142-da-constituicao-nao-foi-elaborado-para-permitir-acao-contra-poderes-24466751)
 * [Do Central Park a Alphaville](https://oglobo.globo.com/brasil/do-central-park-alphaville-24466724)
 * [Chipre promete pagar despesas a turista que pegar Covid-19 na ilha](https://oglobo.globo.com/boa-viagem/chipre-promete-pagar-despesas-turista-que-pegar-covid-19-na-ilha-24466382)
+* [Médicos recém-formados relatam drama na linha de frente da Covid-19](https://oglobo.globo.com/sociedade/medicos-recem-formados-relatam-drama-na-linha-de-frente-da-covid-19-24466353)
 * [Martha Medeiros: Precisamos respirar](https://oglobo.globo.com/ela/martha-medeiros-precisamos-respirar-24460894)

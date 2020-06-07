@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/06/2020 04:10:06 UTC
+# indexed at 07/06/2020 04:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -15,11 +15,11 @@ layout: default
 * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad)
 * [There’s plenty of room at the Top: computer performance after Moore’s law](https://www.techrepublic.com/article/mit-if-chips-cant-get-smaller-then-coders-have-to-get-smarter/)
 * [5G and Shannon’s Law](https://www.waveform.com/blogs/main/5g-and-shannons-law)
+* [Where Does My Main Battery Go?](https://acoup.blog/2019/11/29/collections-where-does-my-main-battery-go/)
 * [ReCAPTCHA Dataset](https://deathlyface.tech/2020/06/06/recaptcha-dataset/)
 * [Larder.io – Bookmarking for Developers](https://larder.io/)
-* [Where Does My Main Battery Go?](https://acoup.blog/2019/11/29/collections-where-does-my-main-battery-go/)
-* [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
 * [How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
+* [What is Electricity? (1996)](http://amasci.com/miscon/whatis.html)
 * [A List of Hacker News's Undocumented Features and Behaviors (2018)](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [Chance of finding young Earth-like planets higher than previously thought](https://phys.org/news/2020-06-chance-young-earth-like-planets-higher.html)
 * [The BBC Microcomputer User Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html)
@@ -28,16 +28,16 @@ layout: default
 * [What makes a character memorable?](https://readandwrite.today/essay/what-makes-a-character-memorable.html)
 * [Xs: a concatenative array language inspired by kdb+ and FORTH](https://cryptm.org/xs/)
 * [How the ‘Sunset Route’ Railroad Helped Diversify California](https://www.atlasobscura.com/articles/sunset-route-railroad-los-angeles)
+* [Using React, Redux and SSR to acommodate users without JavaScript](https://blog.klungo.no/2020/05/28/using-react-and-redux-to-acommodate-users-without-javascript/)
 * [Breaking the Solidity compiler with a fuzzer](https://blog.trailofbits.com/2020/06/05/breaking-the-solidity-compiler-with-a-fuzzer/)
 * [Free user space for non-graphics drivers](https://lwn.net/SubscriberLink/821817/d2e8e5c253b68ce6/)
 * [The Brave web browser is hijacking links, and inserting affiliate codes](https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/)
 * [Play NES Games in 3D](http://www.geodstudio.net/)
 * [The ghost factories: histories of automata and artificial life](https://www.tandfonline.com/doi/full/10.1080/07341512.2020.1757972)
 * [How We Solved the Worst Minigame in Zelda's History [video]](https://www.youtube.com/watch?v=1hs451PfFzQ)
-* [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=23438930)
+* [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
 * [USB-C is still a mess](https://www.androidauthority.com/state-of-usb-c-870996/)
 * [Facebook Novi and Surveillance Finance](https://www.stephendiehl.com/posts/novi.html)
-* [Jonathan Dowling (1955-2020)](https://www.scottaaronson.com/blog/?p=4839)
 ## nytimes.com
 
 
@@ -78,8 +78,8 @@ layout: default
 * [Stacey Milbern, a Warrior for Disability Justice, Dies at 33](https://www.nytimes.com/2020/06/06/us/stacey-milbern-dead.html)
 * [Brooks Bros., ‘Made in America’ Since 1818, May Soon Need a New Calling Card](https://www.nytimes.com/2020/06/05/business/brooks-brothers-factory-closings.html)
 * [Milley, America’s Top General, Walks Into a Political Battle](https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)

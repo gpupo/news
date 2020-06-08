@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 00:26:43 UTC
+# indexed at 08/06/2020 00:35:48 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Cloudflare TV](https://cloudflare.tv/live)
 * [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
-* [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+* [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
 * [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
 * [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
-* [Math Invariants Helped Lisa Piccirillo Solve Conway Knot Problem](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)
-* [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
-* [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
-* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
-* [Manned fighter to face autonomous drone next year](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
 * [$1M treasure in Rocky Mountains has been found, says Forrest Fenn](https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found)
+* [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
+* [Math Invariants Helped Lisa Piccirillo Solve Conway Knot Problem](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)
+* [Manned fighter to face autonomous drone next year](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
+* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
+* [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
 * [Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
-* [Ideas That Changed My Life](https://www.perell.com/blog/50-ideas-that-changed-my-life)
-* [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
 * [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
+* [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
 * [Show HN: Offset – Credit card powered by trust between people](https://www.offsetcredit.org)
 * [Intel and ARM Performance Characteristics for S3 Compatible Object Storage](https://blog.min.io/intel_vs_gravitron/)
 * [Tiny mites spark big battle over imports of French cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
 * [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
 * [America is giving up on the pandemic?](https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/)
 * [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
-* [Zipline: Drone delivery of medical supplies](https://flyzipline.com/)
 * [Microservices Considered Harmful (2019)](https://blog.matthieud.me/2019/microservices-considered-harmful/)
 * [VS Code without Micosoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
 * [Casual Shadertoy Path Tracing 2: Image Improvement and Glossy Reflections](https://blog.demofox.org/2020/06/06/casual-shadertoy-path-tracing-2-image-improvement-and-glossy-reflections)
-* [Show HN: TheKnob – sound volume control knob made of concrete and RGB lights](https://theknob.co/)
-* [Minneapolis City Council members announce intent to disband police department](https://theappeal.org/minneapolis-city-council-members-announce-intent-to-disband-the-police-department-invest-in-proven-community-led-public-safety/)
-* [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173)
 * [Laplace’s Theories of Cognitive Illusions, Heuristics and Biases](https://statmodeling.stat.columbia.edu/2020/06/05/laplaces-theories-of-cognitive-illusions-heuristics-and-biases/)
+* [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173)
+* [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
+* [Minneapolis City Council members announce intent to disband police department](https://theappeal.org/minneapolis-city-council-members-announce-intent-to-disband-the-police-department-invest-in-proven-community-led-public-safety/)
+* [Dante’s Exile](https://www.laphamsquarterly.org/roundtable/dantes-exile)
+* [Tracking solar collector without electronics (2011) [video]](https://www.youtube.com/watch?v=WrMltEp-dcw)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Don’t Lose the Thread. The Economy Is Experiencing an Epic Collapse of Demand.](https://www.nytimes.com/2020/06/06/upshot/coronavirus-economic-crisis.html)
 * [China Vowed to Keep Wildlife Off the Menu, a Tough Promise to Keep](https://www.nytimes.com/2020/06/07/world/asia/china-coronavirus-wildlife-ban.html)
 * [Student Editor Honored for Investigating Racial Disparities in Suspensions](https://www.nytimes.com/2020/06/07/us/Little-hawk-iowa-city-Black-students.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [Burnt Out on Home Schooling?](https://www.nytimes.com/2020/05/13/parenting/coronavirus-remote-learning-burn-out.html)
+* [How to Rethink Your Wedding](https://www.nytimes.com/2020/05/11/style/self-care/rethink-your-wedding-coronavirus.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [A New Museum Director’s First Challenge: Which Exhibits to Give Back](https://www.nytimes.com/2020/06/05/arts/design/emmanuel-kasarherou-quai-branly-museum.html)
 * [When Dickens Died, America Mourned. Our Archives Tell the Story.](https://www.nytimes.com/2020/06/07/books/charles-dickens-death-anniversary-150-years.html)
 * [Why Many Athletes Will Be Left Out When Olympic Training Centers Reopen](https://www.nytimes.com/2020/06/06/sports/olympics/coronavirus-olympic-training-tokyo.html)
@@ -103,6 +103,7 @@ layout: default
 ## globo.com
 
 
+* [Crivella afirma que município não irá aderir ao decreto de Witzel e segue com plano de reabertura gradual em seis fases](https://oglobo.globo.com/rio/crivella-afirma-que-municipio-nao-ira-aderir-ao-decreto-de-witzel-segue-com-plano-de-reabertura-gradual-em-seis-fases-24467731)
 * [Brasil tem 685.427 casos confirmados de Covid-19 e 37.312 mortes causadas pela doença](https://oglobo.globo.com/sociedade/brasil-tem-685427-casos-confirmados-de-covid-19-37312-mortes-causadas-pela-doenca-24467762)
 * [Rio registra 3,2 mil casos de Covid-19 em 24h; capital diz que não há mais fila por leitos de UTI, enquanto no estado ocupação é de 93%](https://oglobo.globo.com/rio/rio-registra-32-mil-casos-de-covid-19-em-24h-capital-diz-que-nao-ha-mais-fila-por-leitos-de-uti-enquanto-no-estado-ocupacao-de-93-24467691)
 * [PM dispersa com bombas e gás lacrimogênio manifestação contra Bolsonaro em São Paulo](https://oglobo.globo.com/brasil/pm-dispersa-com-bombas-gas-lacrimogenio-manifestacao-contra-bolsonaro-em-sao-paulo-24467733)
@@ -111,5 +112,4 @@ layout: default
 * [Chile revisa número de mortos pela Covid-19 e óbitos aumentam para 2.290](https://oglobo.globo.com/mundo/chile-revisa-numero-de-mortos-pela-covid-19-obitos-aumentam-para-2290-24467736)
 * [União de povos indígenas de região do Amazonas pede socorro contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/uniao-de-povos-indigenas-de-regiao-do-amazonas-pede-socorro-contra-covid-19-24467747)
 * [Associações científicas criticam governo por ocultação de dados da Covid-19](https://oglobo.globo.com/sociedade/associacoes-cientificas-criticam-governo-por-ocultacao-de-dados-da-covid-19-24467732)
-* [Crivella afirma que município não irá aderir ao decreto de Witzel e segue com plano de reabertura gradual em seis fases](https://oglobo.globo.com/rio/crivella-afirma-que-municipio-nao-ira-aderir-ao-decreto-de-witzel-segue-com-plano-de-reabertura-gradual-em-seis-fases-24467731)
 * [Campeonato Alemão tem disputa emocionante nas partes de cima e de baixo](https://oglobo.globo.com/esportes/campeonato-alemao-tem-disputa-emocionante-nas-partes-de-cima-de-baixo-24467690)

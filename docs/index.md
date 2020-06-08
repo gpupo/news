@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 04:10:30 UTC
+# indexed at 08/06/2020 04:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Cloudflare TV](https://cloudflare.tv/live)
 * [How to Design, Build and Test Small Liquid-Fuel Rocket Engines](http://www.risacher.org/rocket/)
-* [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
-* [Prologue: Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
 * [Gamow’s cyclist: a new look at relativistic measurements for binocular observer](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0703)
+* [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
 * [Python Wheels Crosses 90%](https://pythonwheels.com/)
+* [Prologue: Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
 * [In Defense of Bad Ideas](https://surjan.substack.com/p/12-in-defense-of-bad-ideas)
 * [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
 * [I got a Ph.D. at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
 * [$1M treasure in Rocky Mountains has been found, says Forrest Fenn](https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
-* [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
 * [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
-* [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
-* [Recovering the Lost Apollo 10 LM Software [video]](https://www.youtube.com/watch?v=-JTa1RQxU04)
+* [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
 * [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
+* [Recovering the Lost Apollo 10 LM Software [video]](https://www.youtube.com/watch?v=-JTa1RQxU04)
+* [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
 * [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
 * [Math Invariants Helped Lisa Piccirillo Solve Conway Knot Problem](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)
-* [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
 * [Manned fighter to face autonomous drone next year](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
 * [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
+* [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
+* [Review of The Mystery of Charles Dickens by AN Wilson](https://www.theguardian.com/books/2020/jun/03/the-mystery-of-charles-dickens-by-an-wilson-review-a-great-writers-dark-side)
 * [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
-* [Show HN: Offset – Credit card powered by trust between people](https://www.offsetcredit.org)
 * [VS Code without Micosoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
+* [Show HN: Offset – Credit card powered by trust between people](https://www.offsetcredit.org)
 * [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
-* [Tiny mites spark big battle over imports of French cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
 * [America is giving up on the pandemic?](https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/)
+* [Tiny mites spark big battle over imports of French cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
 * [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
 * [Microservices Considered Harmful (2019)](https://blog.matthieud.me/2019/microservices-considered-harmful/)
-* [Show HN: TheKnob – sound volume control knob made of concrete and RGB lights](https://theknob.co/)
 ## nytimes.com
 
 
@@ -80,20 +80,20 @@ layout: default
 * [Don’t Lose the Thread. The Economy Is Experiencing an Epic Collapse of Demand.](https://www.nytimes.com/2020/06/06/upshot/coronavirus-economic-crisis.html)
 * [China Vowed to Keep Wildlife Off the Menu, a Tough Promise to Keep](https://www.nytimes.com/2020/06/07/world/asia/china-coronavirus-wildlife-ban.html)
 * [Student Editor Honored for Investigating Racial Disparities in Suspensions](https://www.nytimes.com/2020/06/07/us/Little-hawk-iowa-city-Black-students.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [A New Museum Director’s First Challenge: Which Exhibits to Give Back](https://www.nytimes.com/2020/06/05/arts/design/emmanuel-kasarherou-quai-branly-museum.html)
 * [When Dickens Died, America Mourned. Our Archives Tell the Story.](https://www.nytimes.com/2020/06/07/books/charles-dickens-death-anniversary-150-years.html)
 * [Why Many Athletes Will Be Left Out When Olympic Training Centers Reopen](https://www.nytimes.com/2020/06/06/sports/olympics/coronavirus-olympic-training-tokyo.html)
 * [Five Artists for This Moment](https://www.nytimes.com/2020/06/01/t-magazine/black-artists.html)
 * [For a Trailblazing Female Composer, a Prestigious Recording](https://www.nytimes.com/2020/06/07/arts/music/amy-beach-takacs-ohlsson.html)
+* [Doctors Heavily Overprescribed Antibiotics Early in the Pandemic](https://www.nytimes.com/2020/06/04/health/coronavirus-antibiotics-drugs.html)
+* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
 * [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
 * [George Floyd Protests Add New Front Line for Coronavirus Doctors](https://www.nytimes.com/2020/06/07/health/doctors-george-floyd-coronavirus.html)
-* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
-* [Doctors Heavily Overprescribed Antibiotics Early in the Pandemic](https://www.nytimes.com/2020/06/04/health/coronavirus-antibiotics-drugs.html)
 * [Take Care of Yourself and Others](https://www.nytimes.com/2020/06/05/dining/take-care-of-yourself-and-others.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

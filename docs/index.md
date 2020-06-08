@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 11:09:16 UTC
+# indexed at 08/06/2020 11:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -12,37 +12,37 @@ layout: default
 * [With only free software, a Mali G31 chip can now run GNOME and more](https://www.collabora.com/news-and-blog/blog/2020/06/05/bifrost-meets-gnome-onward-upward-zero-graphics-blobs/)
 * [Cloudflare TV](https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/)
 * [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
+* [The Pain Points of Haskell: A Practical Summary](https://dixonary.co.uk/blog/haskell/pain)
 * [Tensorflow.js: Machine Learning in JavaScript](https://www.tensorflow.org/js/)
 * [How to Design, Build and Test Small Liquid-Fuel Rocket Engines (1967)](http://www.risacher.org/rocket/)
+* [Rubyists, we must do better](https://timriley.info/writing/2020/06/08/rubyists-we-must-do-better/)
 * [Python Wheels Crosses 90%](https://pythonwheels.com/)
 * [Prologue: Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
-* [We put Western Digital’s dreaded SMR Red drive to the test](https://arstechnica.com/gadgets/2020/06/western-digitals-smr-disks-arent-great-but-theyre-not-garbage/)
+* [Chardetng: A More Compact Character Encoding Detector for the Legacy Web](https://hsivonen.fi/chardetng/)
+* [Western Digital’s SMR disks won’t work for ZFS, but they’re okay for most NASes](https://arstechnica.com/gadgets/2020/06/western-digitals-smr-disks-arent-great-but-theyre-not-garbage/)
 * [Recovering the Lost Apollo 10 LM Software [video]](https://www.youtube.com/watch?v=-JTa1RQxU04)
 * [Strapi – Open-source Node.js Headless CMS](https://strapi.io/)
 * [In Defense of Bad Ideas](https://surjan.substack.com/p/12-in-defense-of-bad-ideas)
-* [I got a Ph.D. at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
 * [$1M treasure in Rocky Mountains has been found, says Forrest Fenn](https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found)
+* [I got a Ph.D. at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
 * [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+* [NoDesign.dev – Tools and resources for non artistic developers](https://nodesign.dev/)
 * [Math Invariants Helped Lisa Piccirillo Solve Conway Knot Problem](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)
 * [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
-* [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
 * [Gamow’s cyclist: a new look at relativistic measurements for binocular observer](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0703)
-* [86-DOS](https://en.wikipedia.org/wiki/86-DOS#HEX2BIN)
 * [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
+* [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
 * [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
+* [86-DOS](https://en.wikipedia.org/wiki/86-DOS)
 * [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
 * [The Mystery of Charles Dickens](https://www.theguardian.com/books/2020/jun/03/the-mystery-of-charles-dickens-by-an-wilson-review-a-great-writers-dark-side)
 * [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
-* [VS Code without Microsoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
-* [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
-* [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
-* [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
 ## nytimes.com
 
 
 * [New York City Begins Reopening After 3 Months of Outbreak and Hardship](https://www.nytimes.com/2020/06/07/nyregion/new-york-reopening-coronavirus.html)
-* [Live Coronavirus Updates: New York City Reopens](https://www.nytimes.com/2020/06/08/world/coronavirus-live-updates.html)
+* [Live Coronavirus Updates: Bailed-Out Hospitals Laid Off Staff](https://www.nytimes.com/2020/06/08/world/coronavirus-live-updates.html)
 * [Returning to Work on the Subway? Here’s What You Need to Know.](https://www.nytimes.com/2020/06/08/nyregion/mta-subway-riding-health-coronavirus.html)
 * [‘Cruise Ships on Land’: As Las Vegas Reopens, a Huge Test for Casinos](https://www.nytimes.com/2020/06/08/us/las-vegas-coronavirus-casinos.html)
 * [When the Office Is Like a Biohazard Lab](https://www.nytimes.com/2020/06/07/business/coronavirus-offices-cdc-guidelines.html)
@@ -90,10 +90,10 @@ layout: default
 * [What’s the Future of Group Exercise Classes?](https://www.nytimes.com/2020/06/03/well/coronavirus-gym-exercise-classes-group-fitness.html)
 * [Will Work for Room](https://www.nytimes.com/2020/06/08/realestate/will-work-for-room.html)
 * [Ferran Adrià’s Potato Chip Omelet Delights Beyond Expectation](https://www.nytimes.com/2020/06/01/dining/ferran-adria-potato-chip-omelet-recipe.html)
-* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
+* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [James Bennet Resigns as New York Times Opinion Editor](https://www.nytimes.com/2020/06/07/business/media/james-bennet-resigns-nytimes-op-ed.html)
 * [Bush, Romney and Colin Powell Won't Support Trump Re-Election](https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Fiat e GM negociam tomar R$ 1 bi cada com BNDES em plano de socorro às montadoras](https://oglobo.globo.com/economia/fiat-gm-negociam-tomar-1-bi-cada-com-bndes-em-plano-de-socorro-as-montadoras-24467974)
+* [Congestionamento no Rio mais que quadruplica na manhã desta segunda-feira](https://oglobo.globo.com/rio/congestionamento-no-rio-mais-que-quadruplica-na-manha-desta-segunda-feira-24468048)
 * [Rio lança edital de concessão da Cedae nesta segunda-feira: leilão é considerado o maior do tipo no país](https://oglobo.globo.com/rio/rio-lanca-edital-de-concessao-da-cedae-nesta-segunda-feira-leilao-considerado-maior-do-tipo-no-pais-24468034)
 * [Efeito colateral da Covid-19: Mais de dez mil cirurgias eletivas foram adiadas no Rio durante pandemia](https://oglobo.globo.com/rio/efeito-colateral-da-covid-19-mais-de-dez-mil-cirurgias-eletivas-foram-adiadas-no-rio-durante-pandemia-24468008)
 * [Região da Colômbia onde quem fura quarentena é preso pelo pé tem primeiro caso de Covid-19](https://epoca.globo.com/mundo/regiao-da-colombia-onde-quem-fura-quarentena-preso-pelo-pe-tem-primeiro-caso-de-covid-19-24467537)
-* [Fiat e GM negociam tomar R$ 1 bi cada com BNDES em plano de socorro às montadoras](https://oglobo.globo.com/economia/fiat-gm-negociam-tomar-1-bi-cada-com-bndes-em-plano-de-socorro-as-montadoras-24467974)
 * [Artigo: Bolsonaro dinamita a credibilidade do Ministério da Saúde](https://oglobo.globo.com/sociedade/artigo-bolsonaro-dinamita-credibilidade-do-ministerio-da-saude-24467911)
 * [Carro de som e mensagens musicadas fazem sucesso no Dia dos Namorados da pandemia: só dá Roberto Carlos](https://oglobo.globo.com/rio/bairros/carro-de-som-mensagens-musicadas-fazem-sucesso-no-dia-dos-namorados-da-pandemia-so-da-roberto-carlos-24462154)
 * [CGU concordou com tentativa de Bolsonaro de isentar agentes públicos por erros durante pandemia](https://epoca.globo.com/guilherme-amado/cgu-concordou-com-tentativa-de-bolsonaro-de-isentar-agentes-publicos-por-erros-durante-pandemia-24463630)
 * [A quarentena de Santos Cruz](https://epoca.globo.com/guilherme-amado/a-quarentena-de-santos-cruz-24461232)
-* [De licença-maternidade e em meio à pandemia, ela decidiu impulsionar os negócios de mulheres negras](https://oglobo.globo.com/celina/de-licenca-maternidade-em-meio-pandemia-ela-decidiu-impulsionar-os-negocios-de-mulheres-negras-24464835)
 * [Dia dos Namorados: praticidade de caixas e kits em alta](https://oglobo.globo.com/rio/bairros/dia-dos-namorados-praticidade-de-caixas-kits-em-alta-1-24465317)

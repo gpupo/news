@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 01:10:54 UTC
+# indexed at 08/06/2020 01:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Cloudflare TV](https://cloudflare.tv/live)
-* [The End of Policing is available as a free Ebook](https://www.versobooks.com/books/2426-the-end-of-policing)
 * [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
 * [Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
 * [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 * [$1M treasure in Rocky Mountains has been found, says Forrest Fenn](https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found)
-* [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
 * [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
-* [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
+* [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
 * [Manned fighter to face autonomous drone next year](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
+* [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
 * [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
 * [Math Invariants Helped Lisa Piccirillo Solve Conway Knot Problem](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)
 * [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
 * [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
+* [Intel and ARM Performance Characteristics for S3 Compatible Object Storage](https://blog.min.io/intel_vs_gravitron/)
 * [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
 * [Show HN: Offset – Credit card powered by trust between people](https://www.offsetcredit.org)
-* [Intel and ARM Performance Characteristics for S3 Compatible Object Storage](https://blog.min.io/intel_vs_gravitron/)
 * [Tiny mites spark big battle over imports of French cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
 * [America is giving up on the pandemic?](https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/)
 * [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
+* [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
 * [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
 * [Microservices Considered Harmful (2019)](https://blog.matthieud.me/2019/microservices-considered-harmful/)
+* [Problems with Remote Learning](https://www.wsj.com/articles/schools-coronavirus-remote-learning-lockdown-tech-11591375078)
+* [VS Code without Micosoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
 * [Casual Shadertoy Path Tracing 2: Image Improvement and Glossy Reflections](https://blog.demofox.org/2020/06/06/casual-shadertoy-path-tracing-2-image-improvement-and-glossy-reflections)
 * [Laplace’s Theories of Cognitive Illusions, Heuristics and Biases](https://statmodeling.stat.columbia.edu/2020/06/05/laplaces-theories-of-cognitive-illusions-heuristics-and-biases/)
-* [Minneapolis City Council members announce intent to disband police department](https://theappeal.org/minneapolis-city-council-members-announce-intent-to-disband-the-police-department-invest-in-proven-community-led-public-safety/)
-* [Dante’s Exile](https://www.laphamsquarterly.org/roundtable/dantes-exile)
 * [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
-* [VS Code without Micosoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
+* [Dante’s Exile](https://www.laphamsquarterly.org/roundtable/dantes-exile)
 * [Tracking solar collector without electronics (2011) [video]](https://www.youtube.com/watch?v=WrMltEp-dcw)
 ## nytimes.com
 
@@ -44,8 +44,8 @@ layout: default
 * [Protests Today: Live Updates and Video](https://www.nytimes.com/2020/06/07/us/protests-today-george-floyd-video.html)
 * [Trump Orders Troops to Leave D.C. as Former Military Leaders Sound Warning](https://www.nytimes.com/2020/06/07/us/politics/trump-military-troops-protests.html)
 * [Peaceful Marchers Roam a City Without Curfew: Live Updates](https://www.nytimes.com/2020/06/07/nyregion/nyc-protests-george-floyd.html)
+* [Other Protests Flare and Fade. Why This Movement Already Seems Different.](https://www.nytimes.com/2020/06/07/us/unrest-protests-minneapolis-ending.html)
 * [The 2 Lawyers, the Anti-Police Protests and the Molotov Cocktail Attack](https://www.nytimes.com/2020/06/07/nyregion/molotov-cocktail-lawyers-nyc.html)
-* [‘Corporate America Has Failed Black America’](https://www.nytimes.com/2020/06/06/business/corporate-america-has-failed-black-america.html)
 * [Amid Pandemic and Upheaval, New Cyber Risks to the Presidential Election](https://www.nytimes.com/2020/06/07/us/politics/remote-voting-hacking-coronavirus.html)
 * [Joe Biden to Meet With George Floyd’s Family Ahead of Funeral](https://www.nytimes.com/2020/06/07/us/politics/joe-biden-george-floyd-funeral.html)
 * [New York City Begins Reopening After 3 Months of Outbreak and Hardship](https://www.nytimes.com/2020/06/07/nyregion/new-york-reopening-coronavirus.html)
@@ -80,10 +80,10 @@ layout: default
 * [Don’t Lose the Thread. The Economy Is Experiencing an Epic Collapse of Demand.](https://www.nytimes.com/2020/06/06/upshot/coronavirus-economic-crisis.html)
 * [China Vowed to Keep Wildlife Off the Menu, a Tough Promise to Keep](https://www.nytimes.com/2020/06/07/world/asia/china-coronavirus-wildlife-ban.html)
 * [Student Editor Honored for Investigating Racial Disparities in Suspensions](https://www.nytimes.com/2020/06/07/us/Little-hawk-iowa-city-Black-students.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [A New Museum Director’s First Challenge: Which Exhibits to Give Back](https://www.nytimes.com/2020/06/05/arts/design/emmanuel-kasarherou-quai-branly-museum.html)
 * [When Dickens Died, America Mourned. Our Archives Tell the Story.](https://www.nytimes.com/2020/06/07/books/charles-dickens-death-anniversary-150-years.html)

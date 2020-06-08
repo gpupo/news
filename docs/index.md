@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 14:10:07 UTC
+# indexed at 08/06/2020 14:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Discret 11, the French TV encryption of the 80s](https://fabiensanglard.net/discret11/index.html)
 * [NoDesign.dev – Tools and resources for non artistic developers](https://nodesign.dev/)
 * [The Impending Doom of Expiring Root CAs and Legacy Clients](https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/)
-* [Human-Level Intelligence or Animal-Like Abilities?](https://cacm.acm.org/magazines/2018/10/231373-human-level-intelligence-or-animal-like-abilities/fulltext)
+* [Human-Level Intelligence or Animal-Like Abilities? (2018)](https://cacm.acm.org/magazines/2018/10/231373-human-level-intelligence-or-animal-like-abilities/fulltext)
 * [The Pain Points of Haskell: A Practical Summary](https://dixonary.co.uk/blog/haskell/pain)
 * [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [Tensorflow.js: Machine Learning in JavaScript](https://www.tensorflow.org/js/)
 * [A deeper introduction in Unix DC](https://ben165.github.io/unix_dc/index.html)
 * [Mysterious deep-space flashes repeat every 157 days](https://www.space.com/mysterious-fast-radio-burst-repeater.html)
-* [Chardetng: A More Compact Character Encoding Detector for the Legacy Web](https://hsivonen.fi/chardetng/)
 * [Python Wheels Crosses 90%](https://pythonwheels.com/)
+* [Chardetng: A More Compact Character Encoding Detector for the Legacy Web](https://hsivonen.fi/chardetng/)
 * [How to Design, Build and Test Small Liquid-Fuel Rocket Engines (1967)](http://www.risacher.org/rocket/)
-* [Prologue: Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
+* [Ask HN: My boss ask I take my emails while on vacation](https://news.ycombinator.com/item?id=23456680)
 * [Ask HN: What is the ideal developer experience in 2020?](https://news.ycombinator.com/item?id=23455741)
+* [Prologue: Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
 * [Cloudflare TV](https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/)
 * [In Defense of Bad Ideas](https://surjan.substack.com/p/12-in-defense-of-bad-ideas)
 * [Western Digital’s SMR disks won’t work for ZFS, but they’re okay for most NASes](https://arstechnica.com/gadgets/2020/06/western-digitals-smr-disks-arent-great-but-theyre-not-garbage/)
 * [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
-* [Strapi – Open-source Node.js Headless CMS](https://strapi.io/)
 * [Recovering the Lost Apollo 10 LM Software [video]](https://www.youtube.com/watch?v=-JTa1RQxU04)
+* [Pentagon War Game Scenario for Military Response to Domestic GenZ Rebellion](https://theintercept.com/2020/06/05/pentagon-war-game-gen-z/)
 * [I got a Ph.D. at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
 * [GenExpr: The Codebox Operator](https://docs.cycling74.com/max8/vignettes/gen_genexpr)
-* [Hundreds join massive line at NYC ATM to access unemployment benefits](https://nypost.com/2020/05/30/hundreds-join-massive-line-at-nyc-atm-for-unemployment-benefits/)
 * [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
-* [The Mystery of Charles Dickens](https://www.theguardian.com/books/2020/jun/03/the-mystery-of-charles-dickens-by-an-wilson-review-a-great-writers-dark-side)
 * [Gamow’s cyclist: a new look at relativistic measurements for binocular observer](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0703)
+* [The Mystery of Charles Dickens](https://www.theguardian.com/books/2020/jun/03/the-mystery-of-charles-dickens-by-an-wilson-review-a-great-writers-dark-side)
 * [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
+* [Hundreds join massive line at NYC ATM to access unemployment benefits](https://nypost.com/2020/05/30/hundreds-join-massive-line-at-nyc-atm-for-unemployment-benefits/)
 * [Show HN: NanoNews – A simple aggregated news feed based on specific key words](https://nanonews.app/)
-* [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
 ## nytimes.com
 
 
@@ -81,20 +81,18 @@ layout: default
 * [Inside the Revolts Erupting in America’s Big Newsrooms](https://www.nytimes.com/2020/06/07/business/media/new-york-times-washington-post-protests.html)
 * [The Idea: Build It, and They Can Find Coronavirus Tests](https://www.nytimes.com/2020/06/08/technology/coronavirus-test-sites-startups.html)
 * [Home Prices Are Rising, Along With Post-Lockdown Demand](https://www.nytimes.com/2020/06/05/your-money/houses-prices-coronavirus.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [So You Had a Bad Day …](https://www.nytimes.com/2020/05/12/smarter-living/coronavirus-bad-day.html)
 * [Quarantined in a Museum](https://www.nytimes.com/2020/06/05/realestate/historic-house-caretaker-coronavirus.html)
 * [When Cleaning Is the Only Option](https://www.nytimes.com/2020/06/05/well/family/cleaning-essential-workers-coronavirus.html)
 * [What’s the Future of Group Exercise Classes?](https://www.nytimes.com/2020/06/03/well/coronavirus-gym-exercise-classes-group-fitness.html)
 * [Will Work for Room](https://www.nytimes.com/2020/06/08/realestate/will-work-for-room.html)
 * [Ferran Adrià’s Potato Chip Omelet Delights Beyond Expectation](https://www.nytimes.com/2020/06/01/dining/ferran-adria-potato-chip-omelet-recipe.html)
+* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
-* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [James Bennet Resigns as New York Times Opinion Editor](https://www.nytimes.com/2020/06/07/business/media/james-bennet-resigns-nytimes-op-ed.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Novo estudo contradiz auditoria da OEA que indicou fraude na eleição na Bolívia](https://oglobo.globo.com/mundo/novo-estudo-contradiz-auditoria-da-oea-que-indicou-fraude-na-eleicao-na-bolivia-24468312)
+* [Bolsonaro diz que função do governo na pandemia de coronavírus é apenas repassar bilhões aos estados e que alguns governadores 'ainda desviam' recursos](https://oglobo.globo.com/brasil/bolsonaro-diz-que-funcao-do-governo-na-pandemia-de-coronavirus-apenas-repassar-bilhoes-aos-estados-que-alguns-governadores-ainda-desviam-recursos-24468329)
+* [México planeja indicar sucessor de brasileiro à frente da OMC](https://oglobo.globo.com/economia/mexico-planeja-indicar-sucessor-de-brasileiro-frente-da-omc-24468325)
 * [Na Alemanha, jogador culpa estádio vazio por pênalti perdido](https://oglobo.globo.com/esportes/na-alemanha-jogador-culpa-estadio-vazio-por-penalti-perdido-24468311)
-* [BNDES vai permitir que estados e municípios suspendam R$ 3,9 bi em pagamento de crédito](https://oglobo.globo.com/economia/bndes-vai-permitir-que-estados-municipios-suspendam-39-bi-em-pagamento-de-credito-24468199)
+* [Novo estudo contradiz auditoria da OEA que indicou fraude na eleição na Bolívia](https://oglobo.globo.com/mundo/novo-estudo-contradiz-auditoria-da-oea-que-indicou-fraude-na-eleicao-na-bolivia-24468312)
+* [XP Invetimentos compra participação majoritária na fintech Fliper](https://oglobo.globo.com/economia/xp-invetimentos-compra-participacao-majoritaria-na-fintech-fliper-24468309)
 * [Coronavírus: a operação de choque em Buenos Aires para isolar favelas contra espalhamento da covid-19](https://epoca.globo.com/mundo/coronavirus-operacao-de-choque-em-buenos-aires-para-isolar-favelas-contra-espalhamento-da-covid-19-1-24468287)
 * [Em meio à pandemia do novo coronavírus, Chanel apresenta coleção Cruise 2021 virtualmente](https://oglobo.globo.com/ela/moda/em-meio-pandemia-do-novo-coronavirus-chanel-apresenta-colecao-cruise-2021-virtualmente-24468277)
 * [Suspeito de espancar a mãe até a morte na Barra tinha deixado a cadeia dias antes do crime](https://oglobo.globo.com/rio/suspeito-de-espancar-mae-ate-morte-na-barra-tinha-deixado-cadeia-dias-antes-do-crime-24468280)
 * [Weintraub nomeia médico defensor da cloroquina para Conselho da Capes](https://epoca.globo.com/guilherme-amado/weintraub-nomeia-medico-defensor-da-cloroquina-para-conselho-da-capes-24468278)
 * [Jogador ganês fica preso em aeroporto por 72 dias durante pandemia](https://oglobo.globo.com/esportes/jogador-ganes-fica-preso-em-aeroporto-por-72-dias-durante-pandemia-24468239)
-* [Mercado vê queda de mais de 5% para indústria em 2020](https://oglobo.globo.com/economia/mercado-ve-queda-de-mais-de-5-para-industria-em-2020-24468208)
-* ['Revolta' contra Aras une diferentes grupos do MPF em momento de disputa na corporação](https://epoca.globo.com/brasil/revolta-contra-aras-une-diferentes-grupos-do-mpf-em-momento-de-disputa-na-corporacao-24468210)

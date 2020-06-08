@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 02:34:27 UTC
+# indexed at 08/06/2020 03:09:41 UTC
 
 
 ## news.ycombinator.com
 
 
+* [It's never too late to stretch your wings: Why I got a PhD at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
 * [Cloudflare TV](https://cloudflare.tv/live)
 * [Full-Stack Web Framework Written in Nim](https://github.com/planety/prologue)
 * [Python Wheels Crosses 90%](https://pythonwheels.com/)
+* [In Defense of Bad Ideas](https://surjan.substack.com/p/12-in-defense-of-bad-ideas)
 * [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
-* [$1M treasure in Rocky Mountains has been found, says Forrest Fenn](https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+* [$1M treasure in Rocky Mountains has been found, says Forrest Fenn](https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found)
 * [Show HN: Puree – Password-based Uniform-Random-Equivalent Encryption](http://puree.cc/)
 * [Math Invariants Helped Lisa Piccirillo Solve Conway Knot Problem](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)
 * [Show HN: Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
 * [Manned fighter to face autonomous drone next year](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
 * [Reminder of Complexity](https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/)
-* [In Defense of Bad Ideas](https://surjan.substack.com/p/12-in-defense-of-bad-ideas)
 * [Grid – A Lua Game Engine](https://www.planimeter.org/grid-sdk/)
-* [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
-* [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
-* [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
 * [Recovering the Lost Apollo 10 LM Software [video]](https://www.youtube.com/watch?v=-JTa1RQxU04)
+* [Quantum Dots Shift Sunlight's Spectrum to Speed Plant Growth](https://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth)
+* [What the bees know and what they do not know (1964) [pdf]](https://projecteuclid.org/download/pdf_1/euclid.bams/1183526078)
+* [Parenscript compiles a Common Lisp subset to JavaScript](https://common-lisp.net/project/parenscript/)
 * [Largest Known Maya Structure Found](https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old)
+* [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [Show HN: Offset – Credit card powered by trust between people](https://www.offsetcredit.org)
-* [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
+* [VS Code without Micosoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
 * [Tiny mites spark big battle over imports of French cheese (2013)](https://www.npr.org/sections/thesalt/2013/05/11/180570160/tiny-mites-spark-big-battle-over-imports-of-french-cheese)
 * [America is giving up on the pandemic?](https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/)
 * [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
 * [Hummingbird: Compile trained ML models into tensor computation](https://github.com/microsoft/hummingbird)
-* [VS Code without Micosoft branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
+* [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
 * [Microservices Considered Harmful (2019)](https://blog.matthieud.me/2019/microservices-considered-harmful/)
-* [Laplace’s Theories of Cognitive Illusions, Heuristics and Biases](https://statmodeling.stat.columbia.edu/2020/06/05/laplaces-theories-of-cognitive-illusions-heuristics-and-biases/)
 * [Casual Shadertoy Path Tracing 2: Image Improvement and Glossy Reflections](https://blog.demofox.org/2020/06/06/casual-shadertoy-path-tracing-2-image-improvement-and-glossy-reflections)
 * [Problems with Remote Learning](https://www.wsj.com/articles/schools-coronavirus-remote-learning-lockdown-tech-11591375078)
-* [Dante’s Exile](https://www.laphamsquarterly.org/roundtable/dantes-exile)
 ## nytimes.com
 
 
@@ -74,17 +74,17 @@ layout: default
 * [Tropical Storm Cristobal Makes Landfall in Louisiana](https://www.nytimes.com/2020/06/07/us/cristobal-storm.html)
 * [Ivanka Trump Blames ‘Cancel Culture’ for Pulled Speech. College Says It Took a Stand.](https://www.nytimes.com/2020/06/07/us/politics/ivanka-trump-speech-protests.html)
 * [Kurt Thomas, Trailblazing Champion Gymnast, Dies at 64](https://www.nytimes.com/2020/06/07/sports/kurt-thomas-dead.html)
+* [10 Racehorses Killed in Fiery Crash on New Jersey Turnpike](https://www.nytimes.com/2020/06/07/nyregion/horses-killed-nj-turnpike.html)
 * [J.K. Rowling Tweets Seen as Anti-Transgender Prompt Backlash](https://www.nytimes.com/2020/06/07/arts/Jk-Rowling-controversy.html)
-* [Prague Says Ricin Plot Was a Hoax, and Moves to Expel 2 Russians](https://www.nytimes.com/2020/06/05/world/europe/czech-republic-russia-ricin.html)
 * [A Bitter Election. Accusations of Fraud. And Now Second Thoughts.](https://www.nytimes.com/2020/06/07/world/americas/bolivia-election-evo-morales.html)
 * [Don’t Lose the Thread. The Economy Is Experiencing an Epic Collapse of Demand.](https://www.nytimes.com/2020/06/06/upshot/coronavirus-economic-crisis.html)
 * [China Vowed to Keep Wildlife Off the Menu, a Tough Promise to Keep](https://www.nytimes.com/2020/06/07/world/asia/china-coronavirus-wildlife-ban.html)
 * [Student Editor Honored for Investigating Racial Disparities in Suspensions](https://www.nytimes.com/2020/06/07/us/Little-hawk-iowa-city-Black-students.html)
-* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
-* [So You Had a Bad Day …](https://www.nytimes.com/2020/05/12/smarter-living/coronavirus-bad-day.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [Three Stretches to Tend to the Aches and Pains of Working From Home](https://www.nytimes.com/2020/05/19/well/three-stretches-to-tend-to-the-aches-and-pains-of-working-from-home.html)
-* [Is the News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [A New Museum Director’s First Challenge: Which Exhibits to Give Back](https://www.nytimes.com/2020/06/05/arts/design/emmanuel-kasarherou-quai-branly-museum.html)
 * [When Dickens Died, America Mourned. Our Archives Tell the Story.](https://www.nytimes.com/2020/06/07/books/charles-dickens-death-anniversary-150-years.html)
 * [Why Many Athletes Will Be Left Out When Olympic Training Centers Reopen](https://www.nytimes.com/2020/06/06/sports/olympics/coronavirus-olympic-training-tokyo.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Crivella afirma que município não irá aderir de imediato ao decreto de Witzel e segue com plano de reabertura gradual](https://oglobo.globo.com/rio/crivella-afirma-que-municipio-nao-ira-aderir-de-imediato-ao-decreto-de-witzel-segue-com-plano-de-reabertura-gradual-24467731)
+* [É grave a decisão de ocultar dados sobre a Covid-19](https://oglobo.globo.com/opiniao/e-grave-decisao-de-ocultar-dados-sobre-covid-19-1-24467491)
 * [Em poucas horas, ministério divulga dados conflitantes de casos e mortos por Covid-19](https://oglobo.globo.com/sociedade/em-poucas-horas-ministerio-divulga-dados-conflitantes-de-casos-mortos-por-covid-19-24467762)
 * [Oposição pedirá que PGR investigue se Olavo ameaça Bolsonaro](https://epoca.globo.com/guilherme-amado/oposicao-pedira-que-pgr-investigue-se-olavo-ameaca-bolsonaro-24467814)
 * [Subnotificação deve ser maior que 12 vezes o número de casos confirmados, diz ex-secretário de Vigilância Sanitária](https://oglobo.globo.com/sociedade/coronavirus/subnotificacao-deve-ser-maior-que-12-vezes-numero-de-casos-confirmados-diz-ex-secretario-de-vigilancia-sanitaria-24467777)
-* [PM dispersa com bombas e gás lacrimogênio manifestação contra Bolsonaro em São Paulo](https://oglobo.globo.com/brasil/pm-dispersa-com-bombas-gas-lacrimogenio-manifestacao-contra-bolsonaro-em-sao-paulo-24467733)
+* [Auxílio emergencial: governo anuncia cronograma da 3ª parcela nesta segunda-feira](https://oglobo.globo.com/economia/auxilio-emergencial-governo-anuncia-cronograma-da-3-parcela-nesta-segunda-feira-24467758)
 * [Após falar em recontagem de mortos, Carlos Wizard diz que recusou convite para integrar Ministério da Saúde](https://oglobo.globo.com/sociedade/coronavirus/apos-falar-em-recontagem-de-mortos-carlos-wizard-diz-que-recusou-convite-para-integrar-ministerio-da-saude-24467754)
 * [Secretários estaduais lançam contagem própria sobre covid-19: nas últimas 24h, foram registradas 1.113 mortes](https://oglobo.globo.com/sociedade/secretarios-estaduais-lancam-contagem-propria-sobre-covid-19-nas-ultimas-24h-foram-registradas-1113-mortes-24467748)
 * [Chile revisa número de mortos pela Covid-19 e óbitos aumentam para 2.290](https://oglobo.globo.com/mundo/chile-revisa-numero-de-mortos-pela-covid-19-obitos-aumentam-para-2290-24467736)
 * [União de povos indígenas de região do Amazonas pede socorro contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/uniao-de-povos-indigenas-de-regiao-do-amazonas-pede-socorro-contra-covid-19-24467747)
-* [Associações científicas criticam governo por ocultação de dados da Covid-19](https://oglobo.globo.com/sociedade/associacoes-cientificas-criticam-governo-por-ocultacao-de-dados-da-covid-19-24467732)
+* [Inépcia do governo deixa milhões de empresas na fila à espera de ajuda](https://oglobo.globo.com/opiniao/inepcia-do-governo-deixa-milhoes-de-empresas-na-fila-espera-de-ajuda-24465134)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/06/2020 15:09:32 UTC
+# indexed at 08/06/2020 15:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Discret 11, the French TV encryption of the 80s](https://fabiensanglard.net/discret11/index.html)
 * [NoDesign.dev – Tools and resources for non artistic developers](https://nodesign.dev/)
+* [Prime After Prime](http://bit-player.org/2016/prime-after-prime)
 * [Human-Level Intelligence or Animal-Like Abilities? (2018)](https://cacm.acm.org/magazines/2018/10/231373-human-level-intelligence-or-animal-like-abilities/fulltext)
+* [Japanese rules for writing your ABCs are surprisingly strict](https://soranews24.com/2020/06/08/can-you-write-the-alphabet-properly-according-to-japanese-teachers-probably-not/)
+* [Database “sharding” came from UO? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [The Impending Doom of Expiring Root CAs and Legacy Clients](https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/)
+* [To Save the Climate, Look to the Oceans](https://blogs.scientificamerican.com/observations/to-save-the-climate-look-to-the-oceans/)
 * [With only free software, a Mali G31 chip can now run GNOME and more](https://www.collabora.com/news-and-blog/blog/2020/06/05/bifrost-meets-gnome-onward-upward-zero-graphics-blobs/)
 * [The Pain Points of Haskell: A Practical Summary](https://dixonary.co.uk/blog/haskell/pain)
+* [Toto’s “Africa” Played on Tesla Coils](https://nerdist.com/article/africa-toto-played-by-tesla-coils/)
 * [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [Tensorflow.js: Machine Learning in JavaScript](https://www.tensorflow.org/js/)
-* [Database “sharding” came from UO? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-* [Toto’s “Africa” Played on Tesla Coils](https://nerdist.com/article/africa-toto-played-by-tesla-coils/)
+* [For experts who study coronaviruses, a grim vindication](https://undark.org/2020/06/08/for-experts-who-study-coronaviruses-a-grim-vindication/)
 * [Mysterious deep-space flashes repeat every 157 days](https://www.space.com/mysterious-fast-radio-burst-repeater.html)
-* [Chardetng: A More Compact Character Encoding Detector for the Legacy Web](https://hsivonen.fi/chardetng/)
 * [A deeper introduction in Unix DC](https://ben165.github.io/unix_dc/index.html)
+* [Chardetng: A More Compact Character Encoding Detector for the Legacy Web](https://hsivonen.fi/chardetng/)
 * [Python Wheels Crosses 90%](https://pythonwheels.com/)
 * [How to Design, Build and Test Small Liquid-Fuel Rocket Engines (1967)](http://www.risacher.org/rocket/)
-* [For Experts Who Study Coronaviruses, a Grim Vindication](https://undark.org/2020/06/08/for-experts-who-study-coronaviruses-a-grim-vindication/)
-* [Cloudflare TV](https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/)
 * [In Defense of Bad Ideas](https://surjan.substack.com/p/12-in-defense-of-bad-ideas)
+* [Cloudflare TV](https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/)
 * [Strapi – Open-source Node.js Headless CMS](https://strapi.io/)
 * [Recovering the Lost Apollo 10 LM Software [video]](https://www.youtube.com/watch?v=-JTa1RQxU04)
-* [Ask HN: My boss ask I take my emails while on vacation](https://news.ycombinator.com/item?id=23456680)
-* [Western Digital’s SMR disks won’t work for ZFS, but they’re okay for most NASes](https://arstechnica.com/gadgets/2020/06/western-digitals-smr-disks-arent-great-but-theyre-not-garbage/)
 * [Running Linux on My MacBook](https://djhworld.github.io/post/2020/06/07/running-linux-on-my-macbook/)
-* [I got a Ph.D. at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
 * [Discovery of ancient super-eruptions indicates the Yellowstone hotspot may be](https://www.sciencedaily.com/releases/2020/06/200603132516.htm)
+* [I got a Ph.D. at age 66 (2018)](https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66)
+* [Western Digital’s SMR disks won’t work for ZFS, but they’re okay for most NASes](https://arstechnica.com/gadgets/2020/06/western-digitals-smr-disks-arent-great-but-theyre-not-garbage/)
 * [GenExpr: The Codebox Operator](https://docs.cycling74.com/max8/vignettes/gen_genexpr)
-* [Collapse OS – Why Forth?](https://collapseos.org/forth.html)
-* [The Mystery of Charles Dickens](https://www.theguardian.com/books/2020/jun/03/the-mystery-of-charles-dickens-by-an-wilson-review-a-great-writers-dark-side)
-* [Gamow’s cyclist: a new look at relativistic measurements for binocular observer](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0703)
 * [Show HN: NanoNews – A simple aggregated news feed based on specific key words](https://nanonews.app/)
+* [The Mystery of Charles Dickens](https://www.theguardian.com/books/2020/jun/03/the-mystery-of-charles-dickens-by-an-wilson-review-a-great-writers-dark-side)
 ## nytimes.com
 
 
@@ -80,20 +80,20 @@ layout: default
 * [Inside the Revolts Erupting in America’s Big Newsrooms](https://www.nytimes.com/2020/06/07/business/media/new-york-times-washington-post-protests.html)
 * [The Idea: Build It, and They Can Find Coronavirus Tests](https://www.nytimes.com/2020/06/08/technology/coronavirus-test-sites-startups.html)
 * [Home Prices Are Rising, Along With Post-Lockdown Demand](https://www.nytimes.com/2020/06/05/your-money/houses-prices-coronavirus.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
 * [Quarantined in a Museum](https://www.nytimes.com/2020/06/05/realestate/historic-house-caretaker-coronavirus.html)
 * [When Cleaning Is the Only Option](https://www.nytimes.com/2020/06/05/well/family/cleaning-essential-workers-coronavirus.html)
 * [What’s the Future of Group Exercise Classes?](https://www.nytimes.com/2020/06/03/well/coronavirus-gym-exercise-classes-group-fitness.html)
 * [Will Work for Room](https://www.nytimes.com/2020/06/08/realestate/will-work-for-room.html)
 * [Ferran Adrià’s Potato Chip Omelet Delights Beyond Expectation](https://www.nytimes.com/2020/06/01/dining/ferran-adria-potato-chip-omelet-recipe.html)
-* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [James Bennet Resigns as New York Times Opinion Editor](https://www.nytimes.com/2020/06/07/business/media/james-bennet-resigns-nytimes-op-ed.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Novo estudo contradiz auditoria da OEA que indicou fraude na eleição na Bolívia](https://oglobo.globo.com/mundo/novo-estudo-contradiz-auditoria-da-oea-que-indicou-fraude-na-eleicao-na-bolivia-24468312)
+* [Isabel Allende: 'Um novo mundo precisa do fim do patriarcado, do fim desses machos brutos que dirigem tudo'](https://oglobo.globo.com/celina/isabel-allende-um-novo-mundo-precisa-do-fim-do-patriarcado-do-fim-desses-machos-brutos-que-dirigem-tudo-24468440)
+* [Estátua de traficantes de escravos derrubada em Bristol vai para o museu, diz prefeito](https://oglobo.globo.com/mundo/estatua-de-traficantes-de-escravos-derrubada-em-bristol-vai-para-museu-diz-prefeito-24468425)
+* [BNDES diz que negocia com Latam mesmo após pedido de recuperação no exterior](https://oglobo.globo.com/economia/bndes-diz-que-negocia-com-latam-mesmo-apos-pedido-de-recuperacao-no-exterior-24468419)
+* [Cidade do Rio poderá suspender pagamento de R$ 625 milhões ao BNDES até o fim do ano](https://oglobo.globo.com/economia/cidade-do-rio-podera-suspender-pagamento-de-625-milhoes-ao-bndes-ate-fim-do-ano-24468193)
 * [Banco Mundial prevê queda de 8% da economia brasileira em 2020](https://oglobo.globo.com/economia/banco-mundial-preve-queda-de-8-da-economia-brasileira-em-2020-24468387)
 * [Inea vai instalar quatro ecobarreiras em rios que deságuam nas lagoas da Barra e de Jacarepaguá até o fim de julho](https://oglobo.globo.com/rio/inea-vai-instalar-quatro-ecobarreiras-em-rios-que-desaguam-nas-lagoas-da-barra-de-jacarepagua-ate-fim-de-julho-24468293)
-* [Cidade do Rio poderá suspender pagamento de R$ 625 milhões ao BNDES até o fim do ano](https://oglobo.globo.com/economia/cidade-do-rio-podera-suspender-pagamento-de-625-milhoes-ao-bndes-ate-fim-do-ano-24468193)
 * [México planeja indicar sucessor de brasileiro à frente da OMC](https://oglobo.globo.com/economia/mexico-planeja-indicar-sucessor-de-brasileiro-frente-da-omc-1-24468325)
 * ['Brincar com a morte é perverso', diz Maia sobre omissão de dados da Covid-19 no Brasil](https://oglobo.globo.com/sociedade/brincar-com-morte-perverso-diz-maia-sobre-omissao-de-dados-da-covid-19-no-brasil-24468366)
 * [Bolsonaro diz que função do governo na pandemia de coronavírus é apenas repassar bilhões aos estados e que alguns governadores 'ainda desviam' recursos](https://oglobo.globo.com/brasil/bolsonaro-diz-que-funcao-do-governo-na-pandemia-de-coronavirus-apenas-repassar-bilhoes-aos-estados-que-alguns-governadores-ainda-desviam-recursos-24468329)
-* [Na Alemanha, jogador culpa estádio vazio por pênalti perdido](https://oglobo.globo.com/esportes/na-alemanha-jogador-culpa-estadio-vazio-por-penalti-perdido-24468311)
-* [XP Invetimentos compra participação majoritária na fintech Fliper](https://oglobo.globo.com/economia/xp-invetimentos-compra-participacao-majoritaria-na-fintech-fliper-24468309)
 * [A indústria de brinquedos no STJ](https://epoca.globo.com/guilherme-amado/a-industria-de-brinquedos-no-stj-1-24466122)

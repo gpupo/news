@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/06/2020 11:09:11 UTC
+# indexed at 09/06/2020 11:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Build your own PaaS in minutes](https://caprover.com/)
 * [GnuTLS: TLS 1.3 session resumption works without master key, allowing MITM](https://gitlab.com/gnutls/gnutls/-/issues/1011)
+* [Scaling and Developer Productivity at Coinbase](https://blog.coinbase.com/scaling-developer-productivity-d23ce491f869)
 * [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology)
+* [Apple Plans to Announce Move to Its Own Mac Chips at WWDC](https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc)
+* [A Peek Inside the Erlang Compiler (2012)](https://prog21.dadgum.com/127.html)
 * [Faster than radix sort: Kirkpatrick-Reisch sorting](https://sortingsearching.com/2020/06/06/kirkpatrick-reisch.html)
+* [Pycopy – a minimalist and memory-efficient Python implementation](https://github.com/pfalcon/pycopy)
 * [How to Reverse-Engineer a Satellite TV Smart Card (2008)](https://www.wired.com/2008/05/tarnovsky/)
 * [Metafont (1984)](http://tug.ctan.org/systems/knuth/dist/mf/mf.web)
-* [Pycopy – a minimalist and memory-efficient Python implementation](https://github.com/pfalcon/pycopy)
 * [Potential organized fraud in ACM/IEEE computer architecture conferences](https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d)
-* [Repetition and Learning – misconceptions about effective studying](https://theeffortfuleducator.com/2020/06/08/repetition-and-learning/)
 * [Text for Proofing Fonts: A Farewell to the Quick Brown Fox](https://www.typography.com/blog/text-for-proofing-fonts)
 * [Container technologies at Coinbase: Why Kubernetes is not part of our stack](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c)
-* [Israeli Startups Unique Engine Bringing Power to a Remote Philippine Island](https://www.bloombergquint.com/markets/a-unique-engine-is-bringing-power-to-a-remote-philippine-island)
-* [How the Magic: The Gathering Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
+* [Repetition and Learning – misconceptions about effective studying](https://theeffortfuleducator.com/2020/06/08/repetition-and-learning/)
 * [IBM no longer offers general purpose facial recognition or analysis software](https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/)
 * [Coordination Problems: What It Takes to Change the World](https://fs.blog/2020/06/coordination-problems/)
+* [How the Magic: The Gathering Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
 * [Show HN: A library to add a command promp (and telnet) to your programs](https://github.com/buserror/libmish)
 * [Show HN: Watch what files any Linux process accesses](https://github.com/spieglt/whatfiles)
 * [Bill Thurston's answer to “What's a mathematician to do?” (2010)](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213)
-* [Apple Plans to Announce Move to Its Own Mac Chips at WWDC](https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc)
 * [The Al Jaffee / Mad Magazine Fold-In Effect in CSS](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
 * [Questions Answered by Donald E. Knuth (2001) [video]](https://www.youtube.com/watch?v=zbJdgKATZEU)
 * [Rich-markdown-editor: react Dropbox Paper clone](https://github.com/outline/rich-markdown-editor)
-* [The “Majority Illusion” in Social Networks (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147617)
 * [“Pain Is the Only School-Teacher”](https://www.gwern.net/Backstop#pain-is-the-only-school-teacher)
+* [Israeli Startups Unique Engine Bringing Power to a Remote Philippine Island](https://www.bloombergquint.com/markets/a-unique-engine-is-bringing-power-to-a-remote-philippine-island)
+* [The “Majority Illusion” in Social Networks (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147617)
 * [Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/)
+* [How I Sold My Company to Twitter, Went to Facebook, and Screwed My Co-Founders](https://www.wired.com/2016/06/how-i-sold-my-company-to-twitter-went-to-facebook-and-screwed-my-co-founders/)
 * [Tesorio is hiring Managers and Engineers. Join our distributed engineering team](https://www.tesorio.com/careers#job-openings)
 * [The path toward mastery: How to become an expert in a field](https://iuliangulea.com/blog/the-path-toward-mastery-how-to-become-an-expert/)
-* [Transcribed police scanners in real-time](https://murph.live/)
-* [NoDesign.dev – Tools and resources for non-artistic developers](https://nodesign.dev/)
-* [Forced social isolation causes neural craving similar to hunger](https://blogs.scientificamerican.com/beautiful-minds/forced-social-isolation-causes-neural-craving-similar-to-hunger/)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [Police Misconduct Records Are Secret. Protests May Finally Change That.](https://www.nytimes.com/2020/06/05/nyregion/police-records-50a.html)
 * [Live Coronavirus Updates: A Warning From the W.H.O.](https://www.nytimes.com/2020/06/09/world/coronavirus-updates.html)
 * [Testing Nursing Home Workers Can Help Stop Coronavirus. But Who Should Pay?](https://www.nytimes.com/2020/06/09/health/testing-coronavirus-nursing-homes-workers.html)
-* [Stock Markets in Europe Fall. Wall Street May Follow.](https://www.nytimes.com/2020/06/09/business/stock-market-today-coronavirus.html)
+* [Stock Markets in Europe Are Slipping, and Wall Street May Follow: Live Updates](https://www.nytimes.com/2020/06/09/business/stock-market-today-coronavirus.html)
 * [As Diners Flock to Delivery Apps, Restaurants Fear for Their Future](https://www.nytimes.com/2020/06/09/technology/delivery-apps-restaurants-fees-virus.html)
 * [Boxed Lunches and Plexiglass Will Welcome Back Wall Street’s Workers](https://www.nytimes.com/2020/06/08/business/wall-street-virus-reopen.html)
 * [Behind China’s Twitter Campaign, a Murky Supporting Chorus](https://www.nytimes.com/2020/06/08/technology/china-twitter-disinformation.html)
@@ -83,9 +83,9 @@ layout: default
 * [Child Abuse Cases Drop 51 Percent. The Authorities Are Very Worried.](https://www.nytimes.com/2020/06/09/nyregion/coronavirus-nyc-child-abuse.html)
 * [Falwell’s Blackface Tweet Brings Racial Dissent to Liberty University](https://www.nytimes.com/2020/06/08/us/politics/jerry-falwell-blackface.html)
 * [Hong Kong Protests, One Year Later](https://www.nytimes.com/2020/06/09/world/asia/hong-kong-protests-one-year-later.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
 * [How to End Pandemic Fights With Your Partner](https://www.nytimes.com/2020/06/08/well/family/marriage-relationships-fighting-couples-quarantine.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [Floyd Case Forces Arts Groups to Enter the Fray](https://www.nytimes.com/2020/06/07/arts/museums-theaters-protests.html)
@@ -93,8 +93,8 @@ layout: default
 * [This Isn’t Strawberry Shortcake as You Know It](https://www.nytimes.com/2020/06/05/dining/strawberry-shortcake-recipe.html)
 * [Late Night Is Waiting for Colin Kaepernick to Get a Call](https://www.nytimes.com/2020/06/09/arts/television/late-night-protests-colin-kaepernick-nfl.html)
 * [The Big Ten’s New Boss Wants Players Talking About Big Issues](https://www.nytimes.com/2020/06/06/sports/ncaafootball/big-ten-kevin-warren-ncaa.html)
-* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Will Trump Lose in November? Some Signs Say Yes](https://www.nytimes.com/2020/06/07/opinion/trump-mattis-polls.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Auxílio emergencial: saiba como fazer o cadastro em uma agência dos Correios para receber o benefício](https://oglobo.globo.com/economia/auxilio-emergencial-saiba-como-fazer-cadastro-em-uma-agencia-dos-correios-para-receber-beneficio-24469901)
+* [TSE cobra R$ 27 milhões de partidos por mau uso do Fundo Partidário](https://epoca.globo.com/carolina-brigido/tse-cobra-27-milhoes-de-partidos-por-mau-uso-do-fundo-partidario-24469925)
+* [Prefeitura de Niterói quer antecipar datas e criar feriadão a partir desta quinta-feira](https://oglobo.globo.com/rio/prefeitura-de-niteroi-quer-antecipar-datas-criar-feriadao-partir-desta-quinta-feira-24469924)
+* [Brasil tem 37.359 mortes por Covid-19, aponta consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/brasil-tem-37359-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-24469923)
+* [Manhã do segundo dia de retorno dos transportes intermunicipais no estado tem terminais vazios e fiscalização na Baixada](https://oglobo.globo.com/rio/manha-do-segundo-dia-de-retorno-dos-transportes-intermunicipais-no-estado-tem-terminais-vazios-fiscalizacao-na-baixada-24469917)
+* [Contra coronavírus, índios decretam lockdown em aldeias](https://epoca.globo.com/sociedade/contra-coronavirus-indios-decretam-lockdown-em-aldeias-24469135)
 * [Hambúrguer teria motivado filho a matar a mãe espancada na Barra da Tijuca](https://oglobo.globo.com/rio/hamburguer-teria-motivado-filho-matar-mae-espancada-na-barra-da-tijuca-24469891)
-* [Irã vai executar 'espião' que teria dado informações para assassinato do general Soleimani](https://oglobo.globo.com/mundo/ira-vai-executar-espiao-que-teria-dado-informacoes-para-assassinato-do-general-soleimani-24469876)
-* [Por que o governo quer mudar registros de mortes por Covid?](https://oglobo.globo.com/podcast/por-que-governo-quer-mudar-registros-de-mortes-por-covid-24469842)
-* [Os títulos de Jorge Jesus agora lhe rendem elogios, mas seu futebol foi compreendido?](https://oglobo.globo.com/esportes/os-titulos-de-jorge-jesus-agora-lhe-rendem-elogios-mas-seu-futebol-foi-compreendido-24469671)
-* [Grupo de brasileiros afirma ter sido abandonado pelo Itamaraty em Bangladesh](https://epoca.globo.com/guilherme-amado/grupo-de-brasileiros-afirma-ter-sido-abandonado-pelo-itamaraty-em-bangladesh-24469667)
-* [Eduardo Pazuello depõe hoje no Congresso](https://epoca.globo.com/guilherme-amado/eduardo-pazuello-depoe-hoje-no-congresso-24469609)
-* [Prefeitura quer vender terreno ocupado pelo centro esportivo Didi, no Recreio](https://oglobo.globo.com/rio/bairros/prefeitura-quer-vender-terreno-ocupado-pelo-centro-esportivo-didi-no-recreio-1-24469130)
-* [Deputado bolsonarista paga R$ 110 mil em dinheiro por consultoria, mas omite comprovação do trabalho](https://epoca.globo.com/guilherme-amado/deputado-bolsonarista-paga-110-mil-em-dinheiro-por-consultoria-mas-omite-comprovacao-do-trabalho-24469193)
-* [Coronavírus: casais inventam novas formas de estar juntos no Dia dos Namorados](https://oglobo.globo.com/rio/bairros/coronavirus-casais-inventam-novas-formas-de-estar-juntos-no-dia-dos-namorados-24462078)
-* [Obras de condomínio do Minha Casa Minha Vida são retomadas no Sapê, em Niterói](https://oglobo.globo.com/rio/bairros/obras-de-condominio-do-minha-casa-minha-vida-sao-retomadas-no-sape-em-niteroi-1-24465400)
+* [A hora mais difícil da oposição venezuelana, entre a quarentena e a frustração](https://oglobo.globo.com/mundo/a-hora-mais-dificil-da-oposicao-venezuelana-entre-quarentena-a-frustracao-24469615)
+* [Novo teste chega a São Paulo prometendo resultado em seis horas](https://epoca.globo.com/guilherme-amado/novo-teste-chega-sao-paulo-prometendo-resultado-em-seis-horas-24469458)
+* [Museus e centros culturais estão fechados, mas não parados](https://oglobo.globo.com/rio/bairros/museus-centros-culturais-estao-fechados-mas-nao-parados-24465470)

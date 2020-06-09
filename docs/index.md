@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/06/2020 02:10:16 UTC
+# indexed at 09/06/2020 02:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Encrypt Your Face: Signal Messenger](https://signal.org/blog/encrypt-your-face/)
 * [Container technologies at Coinbase: Why Kubernetes is not part of our stack](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c)
-* [MasterClass Is Building a Media Giant on Software, Camera Crews and Celebrities](https://builtin.com/operations/masterclass-behind-scenes-coo)
 * [The Al Jaffee / Mad Magazine Fold-In Effect in CSS](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
-* [Potential organized fraud in ACM/IEEE computer architecture conferences](https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d)
 * [How the Magic: The Gathering Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
+* [Potential organized fraud in ACM/IEEE computer architecture conferences](https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d)
+* [Use JavaScript Instead of TypeScript for Internal Deno Code](https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit#heading=h.cx5nx247bag)
+* [IBM ends all facial recognition work as CEO calls out bias and inequality](https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/)
 * [Bill Thurston's answer to “What's a mathematician to do?” (2010)](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213)
 * [Text for Proofing Fonts: A Farewell to the Quick Brown Fox](https://www.typography.com/blog/text-for-proofing-fonts)
-* [IBM ends all facial recognition work as CEO calls out bias and inequality](https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/)
 * [Forced social isolation causes neural craving similar to hunger](https://blogs.scientificamerican.com/beautiful-minds/forced-social-isolation-causes-neural-craving-similar-to-hunger/)
 * [Wuhan hospital traffic, search engine data indicate virus activity in Fall 2019](https://dash.harvard.edu/handle/1/42669767)
 * [The “Majority Illusion” in Social Networks (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147617)
-* [Use JavaScript Instead of TypeScript for Internal Deno Code](https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit#heading=h.cx5nx247bag)
 * [Lemonade files S1](https://www.sec.gov/Archives/edgar/data/1691421/000104746920003416/a2241721zs-1.htm#bg40510a_main_toc)
-* [Encrypt Your Face: Signal Messenger](https://signal.org/blog/encrypt-your-face/)
 * [Transcribed police scanners in real-time](https://murph.live/)
-* [“Pain Is the Only School-Teacher”](https://www.gwern.net/Backstop#pain-is-the-only-school-teacher)
 * [Formalizing Text Editors in Coq](https://arxiv.org/abs/2006.03525)
 * [Amazon’s New Competitive Advantage: Putting Its Own Products First](https://www.propublica.org/article/amazons-new-competitive-advantage-putting-its-own-products-first)
+* [“Pain Is the Only School-Teacher”](https://www.gwern.net/Backstop#pain-is-the-only-school-teacher)
+* [US States where it’s legal for cops to have sex with prisoners in custody](https://www.buzzfeednews.com/article/albertsamaha/this-teenager-accused-two-on-duty-cops-of-rape-she-had-no)
 * [The Return of the Milkman](https://modernfarmer.com/2020/06/the-return-of-the-milkman/)
-* [Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/)
-* [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
-* [Daily.co is hiring WebRTC video systems engineers](https://www.notion.so/WebRTC-Video-Systems-Engineer-288dbcdb38504286b32148d0b55f6e94)
 * [Massachusetts calls for classrooms with no more than 10 students this fall](https://boston.cbslocal.com/2020/06/08/massachusetts-schools-fall-reopening-guidance-safety-masks-class-size/)
+* [Faster than radix sort: Kirkpatrick-Reisch sorting](https://sortingsearching.com/2020/06/06/kirkpatrick-reisch.html)
+* [Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/)
 * [Database “sharding” came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-* [John Hunter’s World Peace Game, Roger Ebert, and the PLATO System](https://medium.com/@brianstorms/the-story-of-john-hunters-world-peace-game-roger-ebert-and-the-plato-system-4b3bb571fa2)
+* [Rich-markdown-editor: react Dropbox Paper clone](https://github.com/outline/rich-markdown-editor)
 * [A Meta for Computers](https://notebook.drmaciver.com/posts/2020-06-07-09:33.html)
+* [Daily.co is hiring WebRTC video systems engineers](https://www.notion.so/WebRTC-Video-Systems-Engineer-288dbcdb38504286b32148d0b55f6e94)
+* [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [Pioneers of web cryptography on the future of authentication](https://spectrum.ieee.org/tech-talk/telecom/security/pioneers-web-cryptography-future-authentication)
 * [Questions Answered by Donald E. Knuth (2001) [video]](https://www.youtube.com/watch?v=zbJdgKATZEU)
-* [Old Code Gets Younger Every Year](https://medium.com/@bellmar/old-code-gets-younger-every-year-3bd24c7f2262)
-* [Show HN: Neuropod – Uber ATG's open source deep learning inference engine](https://github.com/uber/neuropod)
+* [John Hunter’s World Peace Game, Roger Ebert, and the PLATO System](https://medium.com/@brianstorms/the-story-of-john-hunters-world-peace-game-roger-ebert-and-the-plato-system-4b3bb571fa2)
 ## nytimes.com
 
 
@@ -81,19 +81,20 @@ layout: default
 * [#PublishingPaidMe and a Day of Action Reveal an Industry Reckoning](https://www.nytimes.com/2020/06/08/books/publishingpaidme-publishing-day-of-action.html)
 * [Astronaut Kathy Sullivan Becomes First Woman to Reach Challenger Deep](https://www.nytimes.com/2020/06/08/science/challenger-deep-kathy-sullivan-astronaut.html)
 * [For Decades, This Radio Station Named the Dead. Few Still Listen.](https://www.nytimes.com/2020/06/08/world/asia/for-decades-this-radio-station-named-the-dead-few-still-listen.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
-* [How to End Pandemic Fights With Your Partner](https://www.nytimes.com/2020/06/08/well/family/marriage-relationships-fighting-couples-quarantine.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [Parents Are Relying on Melatonin to Help Their Kids Sleep. Should They?](https://www.nytimes.com/2020/05/18/parenting/melatonin-sleep-kids.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [An Underdog Adopts an Unusual Rallying Cry: ‘We Have No Chance’](https://www.nytimes.com/2020/06/08/sports/german-cup-saarbrucken.html)
 * [Beyond the Instagram Black Square](https://www.nytimes.com/2020/06/06/style/fashion-racism-actions.html)
+* [How to End Pandemic Fights With Your Partner](https://www.nytimes.com/2020/06/08/well/family/marriage-relationships-fighting-couples-quarantine.html)
 * [This Pantry Pasta Is Sure to Be a Family Favorite](https://www.nytimes.com/2020/06/03/dining/breadcrumb-pasta-recipe-coronavirus.html)
 * [10 Great Movies on HBO Max](https://www.nytimes.com/2020/06/05/movies/best-movies-hbo-max.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
-* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
-* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [What to Cook This Week](https://www.nytimes.com/2020/06/07/dining/what-to-cook-this-week.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,7 +102,7 @@ layout: default
 ## globo.com
 
 
-* [Morte de menino de 4 anos na própria festa de aniversário gera comoção; pai impediu fuga do homem que atirou](https://oglobo.globo.com/rio/morte-de-menino-de-4-anos-na-propria-festa-de-aniversario-gera-comocao-pai-impediu-fuga-do-homem-que-atirou-24469725)
+* [Morte de menino de 4 anos na própria festa de aniversário gera comoção; pai impediu fuga do homem que atirou](https://oglobo.globo.com/rio/morte-de-menino-de-4-anos-na-propria-festa-de-aniversario-gera-comocao-pai-impediu-fuga-do-homem-que-atirou-1-24469725)
 * [Iniciativa de veículos de imprensa na divulgação de números do coronavírus é celebrada por associações e especialistas](https://oglobo.globo.com/sociedade/coronavirus/iniciativa-de-veiculos-de-imprensa-na-divulgacao-de-numeros-do-coronavirus-celebrada-por-associacoes-especialistas-24469445)
 * [Flamengo chega a acordo com mais uma família de vítima do incêndio do Ninho do Urubu](https://oglobo.globo.com/esportes/flamengo/flamengo-chega-acordo-com-mais-uma-familia-de-vitima-do-incendio-do-ninho-do-urubu-24469715)
 * [Governo argentino expropria empresa que foi maior doadora da campanha de Macri e faliu](https://oglobo.globo.com/mundo/governo-argentino-expropria-empresa-que-foi-maior-doadora-da-campanha-de-macri-faliu-24469508)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/06/2020 05:34:42 UTC
+# indexed at 09/06/2020 06:10:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Container technologies at Coinbase: Why Kubernetes is not part of our stack](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c)
+* [Ask HN: Moving from a startup to a big co, what should I be aware of?](https://news.ycombinator.com/item?id=23455415)
 * [How the Magic: The Gathering Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
 * [The Al Jaffee / Mad Magazine Fold-In Effect in CSS](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
-* [Analysts Say Apple Should Buy DuckDuckGo Search Engine](https://baseread.com/analysts-say-apple-should-buy-duckduckgo-search-engine/)
 * [Faster than radix sort: Kirkpatrick-Reisch sorting](https://sortingsearching.com/2020/06/06/kirkpatrick-reisch.html)
 * [IBM no longer offers general purpose facial recognition or analysis software](https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/)
 * [The Path Toward Mastery–How to Become an Expert in Your Field](https://iuliangulea.com/blog/the-path-toward-mastery-how-to-become-an-expert/)
 * [Potential organized fraud in ACM/IEEE computer architecture conferences](https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d)
-* [Ask HN: Moving from a startup to a big co, what should I be aware of?](https://news.ycombinator.com/item?id=23455415)
 * [Text for Proofing Fonts: A Farewell to the Quick Brown Fox](https://www.typography.com/blog/text-for-proofing-fonts)
 * [Show HN: A library to add a command promp (and telnet) to your programs](https://github.com/buserror/libmish)
+* [Analysts Say Apple Should Buy DuckDuckGo Search Engine](https://baseread.com/analysts-say-apple-should-buy-duckduckgo-search-engine/)
 * [Forced social isolation causes neural craving similar to hunger](https://blogs.scientificamerican.com/beautiful-minds/forced-social-isolation-causes-neural-craving-similar-to-hunger/)
-* [Design Doc: Use JavaScript instead of TypeScript for internal Deno Code](https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit#heading=h.cx5nx247bag)
-* [Wuhan hospital traffic, search engine data indicate virus activity in Fall 2019](https://dash.harvard.edu/handle/1/42669767)
-* [Bill Thurston's answer to “What's a mathematician to do?” (2010)](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213)
 * [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+* [Wuhan hospital traffic, search engine data indicate virus activity in Fall 2019](https://dash.harvard.edu/handle/1/42669767)
 * [The “Majority Illusion” in Social Networks (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147617)
+* [Bill Thurston's answer to “What's a mathematician to do?” (2010)](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213)
 * [Lemonade files S1](https://www.sec.gov/Archives/edgar/data/1691421/000104746920003416/a2241721zs-1.htm#bg40510a_main_toc)
 * [Formalizing Text Editors in Coq](https://arxiv.org/abs/2006.03525)
 * [Amazon’s New Competitive Advantage: Putting Its Own Products First](https://www.propublica.org/article/amazons-new-competitive-advantage-putting-its-own-products-first)
-* [Transcribed police scanners in real-time](https://murph.live/)
-* [“Pain Is the Only School-Teacher”](https://www.gwern.net/Backstop#pain-is-the-only-school-teacher)
-* [Repetition and Learning – misconceptions about effective studying](https://theeffortfuleducator.com/2020/06/08/repetition-and-learning/)
-* [Bonsai (YC W16) Hiring an SEO Manager / Specialist (Remote)](https://bonsai.vervoe.net/job-page/seo-manager-45/1591644765)
-* [Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/)
-* [Rich-markdown-editor: react Dropbox Paper clone](https://github.com/outline/rich-markdown-editor)
-* [Pioneers of web cryptography on the future of authentication](https://spectrum.ieee.org/tech-talk/telecom/security/pioneers-web-cryptography-future-authentication)
-* [A Meta for Computers](https://notebook.drmaciver.com/posts/2020-06-07-09:33.html)
+* [Design Doc: Use JavaScript instead of TypeScript for internal Deno Code](https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit#heading=h.cx5nx247bag)
 * [An interview code submission that wasn’t even submitted changed our process](https://stackoverflow.blog/2020/06/08/how-an-interview-code-submission-that-wasnt-even-submitted-changed-our-process/?cb=1)
-* [John Hunter’s World Peace Game, Roger Ebert, and the PLATO System](https://medium.com/@brianstorms/the-story-of-john-hunters-world-peace-game-roger-ebert-and-the-plato-system-4b3bb571fa2)
+* [Transcribed police scanners in real-time](https://murph.live/)
+* [Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/)
+* [“Pain Is the Only School-Teacher”](https://www.gwern.net/Backstop#pain-is-the-only-school-teacher)
+* [Evidence that blood type plays a role in COVID-19](https://blog.23andme.com/23andme-research/23andme-finds-evidence-that-blood-type-plays-a-role-in-covid-19/)
+* [Rich-markdown-editor: react Dropbox Paper clone](https://github.com/outline/rich-markdown-editor)
+* [Bonsai (YC W16) Hiring an SEO Manager / Specialist (Remote)](https://bonsai.vervoe.net/job-page/seo-manager-45/1591644765)
+* [Repetition and Learning – misconceptions about effective studying](https://theeffortfuleducator.com/2020/06/08/repetition-and-learning/)
+* [A Meta for Computers](https://notebook.drmaciver.com/posts/2020-06-07-09:33.html)
+* [Pioneers of web cryptography on the future of authentication](https://spectrum.ieee.org/tech-talk/telecom/security/pioneers-web-cryptography-future-authentication)
 ## nytimes.com
 
 
@@ -81,17 +81,17 @@ layout: default
 * [#PublishingPaidMe and a Day of Action Reveal an Industry Reckoning](https://www.nytimes.com/2020/06/08/books/publishingpaidme-publishing-day-of-action.html)
 * [Astronaut Kathy Sullivan Becomes First Woman to Reach Challenger Deep](https://www.nytimes.com/2020/06/08/science/challenger-deep-kathy-sullivan-astronaut.html)
 * [‘Get Rid of Them’: A Statue Falls as Britain Confronts Its Racist History](https://www.nytimes.com/2020/06/08/world/europe/edward-colston-statue-britain-racism.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
 * [How to End Pandemic Fights With Your Partner](https://www.nytimes.com/2020/06/08/well/family/marriage-relationships-fighting-couples-quarantine.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [An Underdog Adopts an Unusual Rallying Cry: ‘We Have No Chance’](https://www.nytimes.com/2020/06/08/sports/german-cup-saarbrucken.html)
 * [Beyond the Instagram Black Square](https://www.nytimes.com/2020/06/06/style/fashion-racism-actions.html)
 * [This Pantry Pasta Is Sure to Be a Family Favorite](https://www.nytimes.com/2020/06/03/dining/breadcrumb-pasta-recipe-coronavirus.html)
 * [10 Great Movies on HBO Max](https://www.nytimes.com/2020/06/05/movies/best-movies-hbo-max.html)
-* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
 * [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Tinned Fish, Three Ways](https://www.nytimes.com/2020/06/08/dining/canned-fish-recipes.html)

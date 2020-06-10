@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/06/2020 02:09:55 UTC
+# indexed at 10/06/2020 02:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Pentagon Has Tested a Suicide Drone That Gets to Its Target Area at Hypersonic](https://www.thedrive.com/the-war-zone/33934/pentagon-has-tested-a-suicide-drone-that-gets-to-its-target-area-at-hypersonic-speed)
-* [Haiku R1/beta2 has been released](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/)
 * [No Recent Automation Revolution](http://www.overcomingbias.com/2020/06/no-recent-automation-revolution.html)
+* [Haiku R1/beta2 has been released](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/)
 * [Windows Privacy Dashboard: GUI for Windows 10 Privacy Settings](https://wpd.app/)
 * [New inline assembly syntax available in Rust nightly](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html)
-* [LogDNA (YC W15) – Hiring Senior Back End Engineer (Node.js/Rust/K8s) (Remote)](https://boards.greenhouse.io/logdna/jobs/4703358002)
 * [Unsupervised translation of programming languages](https://arxiv.org/abs/2006.03511)
-* [IBM Cloud was down, as well as their status page](https://cloud.ibm.com/status)
+* [U.S. Army Vintage Racer Concept Suggests Hypersonic Entry For Loitering UAS](https://www.thedrive.com/the-war-zone/33934/pentagon-has-tested-a-suicide-drone-that-gets-to-its-target-area-at-hypersonic-speed)
+* [From Chaos to Free Will](https://aeon.co/essays/heres-why-so-many-physicists-are-wrong-about-free-will)
+* [How Google Meet's noise cancellation works](https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/)
+* [LogDNA (YC W15) – Hiring Senior Back End Engineer (Node.js/Rust/K8s) (Remote)](https://boards.greenhouse.io/logdna/jobs/4703358002)
 * [Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93)
+* [How dinosaurs Shrank and Became Birds](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
 * [Quotebacks – Quote the Web](https://quotebacks.net/)
 * [Playing around with the Fuchsia operating system](https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html)
-* [How Google Meet's noise cancellation works](https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/)
+* [IBM Cloud was down, as well as their status page](https://cloud.ibm.com/status)
 * [Shan, Shui: Procedurally generated Chinese landscape painting](https://github.com/LingDong-/shan-shui-inf)
-* [Dinosaurs Shrank and Became Birds](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
-* [Ask HN: I find writing difficult, how do I make it easy?](https://news.ycombinator.com/item?id=23465908)
-* [Beyond Meat: Scaling ethical consumerism](https://4thquadrant.io/exclusive/beyond-meat-scaling-ethical-consumerism/)
-* [How SGX Fails in Practice](https://sgaxe.com/)
 * [New hints of volcanism under the heart of northern Europe](https://ras.ac.uk/news-and-press/research-highlights/new-hints-volcanism-under-heart-northern-europe)
+* [How SGX Fails in Practice](https://sgaxe.com/)
 * [Britain has gone two months without burning coal to generate power](https://www.bbc.com/news/science-environment-52973089)
+* [Show HN: XgeneCloud – Instant REST and GraphQL APIs on Any SQL Database](https://github.com/xgenecloud/xgenecloud)
 * [Show HN: An assembler for the LC-3 fictitious computer](https://github.com/pepaslabs/lc3as.py)
 * [Snabb: 100 Gbit/s pure software switching using Lua](https://github.com/snabbco/snabb)
-* [Trump Orders Coast Guard to Look into Building Nuclear-Powered Icebreakers](https://www.thedrive.com/the-war-zone/33971/trump-orders-coast-guard-to-look-into-building-nuclear-powered-icebreakers-like-russia)
 * [The Poetics of CLI Command Names](https://smallstep.com/blog/the-poetics-of-cli-command-names/)
+* [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
 * [Show HN: Top, but for Nginx](https://github.com/gsquire/topngx)
 * [Learn to read Middle English](https://blog.plover.com/lang/middle-english.html)
 * [Thank HN: My startup was born here and is now 10 years old](https://news.ycombinator.com/item?id=23466470)
 * [Receiving images of Earth from satellites with software defined radio](https://l-o-o-s-e-d.net/signs-of-life)
-* [Babylon Health admits GP app suffered a data breach](https://www.bbc.co.uk/news/technology-52986629)
 * [Gravity: An embeddable programming language without any external dependencies](http://gravity-lang.org/)
-* [Rediscovering One of the Wittiest Books Ever Written](https://www.newyorker.com/books/second-read/rediscovering-one-of-the-wittiest-books-ever-written)
+* [Babylon Health admits GP app suffered a data breach](https://www.bbc.co.uk/news/technology-52986629)
+* [Show HN: I made an app for large group video calls where people shuffle around](https://mixaba.com)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [CrossFit Founder Steps Down Amid Black Lives Matter Furor](https://www.nytimes.com/2020/06/09/style/crossfit-gyms-founder-protests.html)
 * [Facebook Mom Groups Blow Up Over Black Lives Matter](https://www.nytimes.com/2020/06/09/style/ues-mommas-facebook-group-racism-censorship.html)
 * [Trump Administration Revives Banned Hunting Techniques in Alaska](https://www.nytimes.com/2020/06/09/climate/trump-bear-hunting.html)
-* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
 * [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
+* [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
 * [The Quotidian and the Surreal](https://www.nytimes.com/2020/06/09/arts/movement-quarantine-photographs.html)
 * [A Poet of Found Language Who Finds Her Language in Archives](https://www.nytimes.com/2020/06/08/books/review/concordance-susan-howe.html)
 * [Larry Fitzgerald Jr.: This Is Not the Minneapolis of My Youth](https://www.nytimes.com/2020/06/07/sports/football/george-floyd-nfl-players-fitzgerald.html)
 * [Tiny Love Stories: ‘My Mother Has Been a Nanny for Six Families’](https://www.nytimes.com/2020/06/09/style/tiny-modern-love-stories-coronavirus-nanny-for-six-families.html)
 * [The Roles Are L.G.B.T.Q., but the Movies Are Not About Self-Discovery](https://www.nytimes.com/2020/06/09/movies/lgbt-movies-characters.html)
-* [After 6 Months, Important Mysteries About Coronavirus Endure](https://www.nytimes.com/2020/06/01/health/coronavirus-mysteries.html)
-* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [A New Weapon Against Climate Change May Float](https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html)
+* [After 6 Months, Important Mysteries About Coronavirus Endure](https://www.nytimes.com/2020/06/01/health/coronavirus-mysteries.html)
 * [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
+* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [Falwell’s Blackface Tweet Brings Racial Dissent to Liberty University](https://www.nytimes.com/2020/06/08/us/politics/jerry-falwell-blackface.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,6 +102,7 @@ layout: default
 ## globo.com
 
 
+* [Polícia prende comerciantes por venderem produtos médicos roubados](https://oglobo.globo.com/rio/policia-prende-comerciantes-por-venderem-produtos-medicos-roubados-24471884)
 * [Desmatamento na Amazônia superou 10 mil km² entre agosto de 2018 e julho de 2019](https://oglobo.globo.com/sociedade/desmatamento-na-amazonia-superou-10-mil-km-entre-agosto-de-2018-julho-de-2019-1-24471507)
 * [Filho de Cabral cobra Paes sobre minimizar relação com seu pai: 'Deu 40 jantares para ele'](https://epoca.globo.com/guilherme-amado/filho-de-cabral-cobra-paes-sobre-minimizar-relacao-com-seu-pai-deu-40-jantares-para-ele-24471634)
 * [Viola Davis, Billy Porter e outros astros assinam carta pedindo fim do racismo no teatro americano](https://oglobo.globo.com/cultura/viola-davis-billy-porter-outros-astros-assinam-carta-pedindo-fim-do-racismo-no-teatro-americano-24471723)
@@ -111,4 +112,3 @@ layout: default
 * [Toffoli afirma que Forças Armadas não são 'poder moderador'](https://oglobo.globo.com/brasil/toffoli-afirma-que-forcas-armadas-nao-sao-poder-moderador-24471584)
 * [ANS autoriza retomada de cirurgias eletivas](https://oglobo.globo.com/economia/ans-autoriza-retomada-de-cirurgias-eletivas-24471442)
 * [Ataque terrorista deixa 69 mortos no Norte da Nigéria](https://oglobo.globo.com/mundo/ataque-terrorista-deixa-69-mortos-no-norte-da-nigeria-24471522)
-* [Detran retoma plano para a volta gradual de serviços na segunda-feira](https://oglobo.globo.com/rio/detran-retoma-plano-para-volta-gradual-de-servicos-na-segunda-feira-24471378)

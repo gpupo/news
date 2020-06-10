@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/06/2020 03:09:47 UTC
+# indexed at 10/06/2020 03:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -17,39 +17,38 @@ layout: default
 * [New inline assembly syntax available in Rust nightly](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html)
 * [Unsupervised translation of programming languages](https://arxiv.org/abs/2006.03511)
 * [From Chaos to Free Will](https://aeon.co/essays/heres-why-so-many-physicists-are-wrong-about-free-will)
+* [Writing a full-text search engine using Bloom filters](https://www.stavros.io/posts/bloom-filter-search-engine/)
 * [Pharaoh Ramesses VI Tomb](https://my.matterport.com/show/?m=NeiMEZa9d93)
 * [How Google Meet's noise cancellation works](https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/)
-* [How dinosaurs Shrank and Became Birds](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
 * [Playing around with the Fuchsia operating system](https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html)
-* [LogDNA (YC W15) – Hiring Senior Back End Engineer (Node.js/Rust/K8s) (Remote)](https://boards.greenhouse.io/logdna/jobs/4703358002)
-* [Quotebacks – Quote the Web](https://quotebacks.net/)
 * [Shan, Shui: Procedurally generated Chinese landscape painting](https://github.com/LingDong-/shan-shui-inf)
+* [Quotebacks – Quote the Web](https://quotebacks.net/)
+* [How dinosaurs Shrank and Became Birds](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
+* [LogDNA (YC W15) – Hiring Senior Back End Engineer (Node.js/Rust/K8s) (Remote)](https://boards.greenhouse.io/logdna/jobs/4703358002)
 * [What Is There to Love About Longfellow?](https://www.newyorker.com/magazine/2020/06/08/what-is-there-to-love-about-longfellow)
+* [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
 * [IBM Cloud was down, as well as their status page](https://cloud.ibm.com/status)
 * [New hints of volcanism under the heart of northern Europe](https://ras.ac.uk/news-and-press/research-highlights/new-hints-volcanism-under-heart-northern-europe)
-* [How SGX Fails in Practice](https://sgaxe.com/)
 * [The Poetics of CLI Command Names](https://smallstep.com/blog/the-poetics-of-cli-command-names/)
-* [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
 * [Snabb: 100 Gbit/s pure software switching using Lua](https://github.com/snabbco/snabb)
-* [Britain has gone two months without burning coal to generate power](https://www.bbc.com/news/science-environment-52973089)
+* [How SGX Fails in Practice](https://sgaxe.com/)
 * [Show HN: XgeneCloud – Instant REST and GraphQL APIs on Any SQL Database](https://github.com/xgenecloud/xgenecloud)
-* [Show HN: An assembler for the LC-3 fictitious computer](https://github.com/pepaslabs/lc3as.py)
+* [Britain has gone two months without burning coal to generate power](https://www.bbc.com/news/science-environment-52973089)
 * [Show HN: Top, but for Nginx](https://github.com/gsquire/topngx)
 * [Learn to read Middle English](https://blog.plover.com/lang/middle-english.html)
-* [Thank HN: My startup was born here and is now 10 years old](https://news.ycombinator.com/item?id=23466470)
-* [Receiving images of Earth from satellites with software defined radio](https://l-o-o-s-e-d.net/signs-of-life)
+* [Large-Scale Transactional Data Lake at Uber Using Apache Hudi](https://eng.uber.com/apache-hudi-graduation/)
+* [Show HN: An assembler for the LC-3 fictitious computer](https://github.com/pepaslabs/lc3as.py)
 ## nytimes.com
 
 
 * [G.O.P. Scrambles to Respond to Public Demands for Police Overhaul](https://www.nytimes.com/2020/06/09/us/politics/republicans-police-reform.html)
 * [Houston Bids Goodbye to George Floyd, Whose Killing Galvanized a Movement](https://www.nytimes.com/2020/06/09/us/george-floyd-funeral-houston-unrest.html)
-* [George Floyd Funeral and Protests: Live Updates](https://www.nytimes.com/2020/06/09/us/george-floyd-funeral-protests.html)
+* [White Counterprotesters in Franklinville, N.J., Mock George Floyd's Killing](https://www.nytimes.com/2020/06/09/nyregion/george-floyd-protest-franklinville-nj.html)
 * [Trump Falsely Targets Buffalo Protester, Martin Gugino, as ‘Antifa Provocateur’](https://www.nytimes.com/2020/06/09/nyregion/who-is-martin-gugino-buffalo-police.html)
 * [That Trump Tweet? Republicans Prefer Not to See It](https://www.nytimes.com/2020/06/09/us/politics/trump-twitter.html)
 * [One America News [OANN], The Network That Spreads Conspiracies to the West Wing](https://www.nytimes.com/article/oann-trump.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/06/09/world/coronavirus-us-usa.html)
 * [In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)
-* [Wall Street Retreats After Monday’s Rally: Live Updates](https://www.nytimes.com/2020/06/09/business/stock-market-today-coronavirus.html)
 * [The World Reopens, Despite Skyrocketing Coronavirus Cases](https://www.nytimes.com/2020/06/09/world/coronavirus-reopenings.html)
 * [AMC Says ‘Almost All’ U.S. Theaters Will Reopen in July](https://www.nytimes.com/2020/06/09/business/coronavirus-amc-movie-theaters-reopening.html)
 * [Georgia Voting Meltdown Leads to Uproar: ‘I Refuse Not to Be Heard’](https://www.nytimes.com/2020/06/09/us/politics/atlanta-voting-georgia-primary.html)
@@ -81,20 +80,20 @@ layout: default
 * [CrossFit Founder Steps Down Amid Black Lives Matter Furor](https://www.nytimes.com/2020/06/09/style/crossfit-gyms-founder-protests.html)
 * [Facebook Mom Groups Blow Up Over Black Lives Matter](https://www.nytimes.com/2020/06/09/style/ues-mommas-facebook-group-racism-censorship.html)
 * [Trump Administration Revives Banned Hunting Techniques in Alaska](https://www.nytimes.com/2020/06/09/climate/trump-bear-hunting.html)
+* [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
 * [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
-* [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
 * [The Quotidian and the Surreal](https://www.nytimes.com/2020/06/09/arts/movement-quarantine-photographs.html)
 * [A Poet of Found Language Who Finds Her Language in Archives](https://www.nytimes.com/2020/06/08/books/review/concordance-susan-howe.html)
 * [Larry Fitzgerald Jr.: This Is Not the Minneapolis of My Youth](https://www.nytimes.com/2020/06/07/sports/football/george-floyd-nfl-players-fitzgerald.html)
 * [Tiny Love Stories: ‘My Mother Has Been a Nanny for Six Families’](https://www.nytimes.com/2020/06/09/style/tiny-modern-love-stories-coronavirus-nanny-for-six-families.html)
 * [The Roles Are L.G.B.T.Q., but the Movies Are Not About Self-Discovery](https://www.nytimes.com/2020/06/09/movies/lgbt-movies-characters.html)
 * [A New Weapon Against Climate Change May Float](https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html)
+* [After 6 Months, Important Mysteries About Coronavirus Endure](https://www.nytimes.com/2020/06/01/health/coronavirus-mysteries.html)
 * [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
 * [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
-* [After 6 Months, Important Mysteries About Coronavirus Endure](https://www.nytimes.com/2020/06/01/health/coronavirus-mysteries.html)
 * [Falwell’s Blackface Tweet Brings Racial Dissent to Liberty University](https://www.nytimes.com/2020/06/08/us/politics/jerry-falwell-blackface.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,7 +101,8 @@ layout: default
 ## globo.com
 
 
-* [Hospitalizações por Covid-19 crescem acentuadamente em vários estados americanos após o Memorial Day](https://oglobo.globo.com/mundo/hospitalizacoes-por-covid-19-crescem-acentuadamente-em-varios-estados-americanos-apos-memorial-day-24471929)
+* [Hospitalizações por Covid-19 crescem em vários estados americanos após o Memorial Day](https://oglobo.globo.com/mundo/hospitalizacoes-por-covid-19-crescem-em-varios-estados-americanos-apos-memorial-day-24471929)
+* [Lives de hoje têm de Latino e Luiza Possi a Dave Matthews](https://oglobo.globo.com/rioshow/lives-de-hoje-tem-de-latino-luiza-possi-dave-matthews-1-24470431)
 * [Polícia prende comerciantes por venderem produtos médicos roubados](https://oglobo.globo.com/rio/policia-prende-comerciantes-por-venderem-produtos-medicos-roubados-1-24471884)
 * [Desmatamento na Amazônia superou 10 mil km² entre agosto de 2018 e julho de 2019](https://oglobo.globo.com/sociedade/desmatamento-na-amazonia-superou-10-mil-km-entre-agosto-de-2018-julho-de-2019-1-24471507)
 * [Filho de Cabral cobra Paes sobre minimizar relação com seu pai: 'Deu 40 jantares para ele'](https://epoca.globo.com/guilherme-amado/filho-de-cabral-cobra-paes-sobre-minimizar-relacao-com-seu-pai-deu-40-jantares-para-ele-24471634)
@@ -111,4 +111,3 @@ layout: default
 * [Fluminense é cobrado na Fifa: por que esse tipo de dívida pode ser perigoso](https://oglobo.globo.com/esportes/fluminense-cobrado-na-fifa-por-que-esse-tipo-de-divida-pode-ser-perigoso-24471623)
 * [Depois de Fachin sugerir novas investigações, TSE interrompe julgamento de cassação de Bolsonaro e Mourão](https://oglobo.globo.com/brasil/depois-de-fachin-sugerir-novas-investigacoes-tse-interrompe-julgamento-de-cassacao-de-bolsonaro-mourao-24471581)
 * [Toffoli afirma que Forças Armadas não são 'poder moderador'](https://oglobo.globo.com/brasil/toffoli-afirma-que-forcas-armadas-nao-sao-poder-moderador-24471584)
-* [Lives de hoje tem de Latino e Luiza Possi a Dave Matthews](https://oglobo.globo.com/rioshow/lives-de-hoje-tem-de-latino-luiza-possi-dave-matthews-1-24470431)

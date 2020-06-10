@@ -2,24 +2,24 @@
 layout: default
 ---
 
-# indexed at 10/06/2020 08:10:39 UTC
+# indexed at 10/06/2020 08:34:52 UTC
 
 
 ## news.ycombinator.com
 
 
 * [First U.S. woman to walk in space dives to deepest point in the ocean](https://www.npr.org/2020/06/09/873194201/first-u-s-woman-to-walk-in-space-dives-to-deepest-point-in-the-ocean)
-* [A tiny, static, full-text search engine using Rust and WebAssembly (2019)](https://endler.dev/2019/tinysearch/)
+* [A tiny static full-text search engine using Rust and WebAssembly (2019)](https://endler.dev/2019/tinysearch/)
 * [SeL4 is verified on RISC-V](https://microkerneldude.wordpress.com/2020/06/09/sel4-is-verified-on-risc-v/)
 * [Logic.ly – Digital logic simulator for teaching logic gates and digital circuits](https://logic.ly/demo)
 * [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/)
 * [Teaching my MIT classes with only free/libre software](https://www.gnu.org/education/teaching-my-mit-classes-with-only-free-libre-software.html)
 * [All Roger Ebert's Great Movies That You Can Watch on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
 * [No Recent Automation Revolution](http://www.overcomingbias.com/2020/06/no-recent-automation-revolution.html)
-* [The ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
 * [Haiku R1/beta2 has been released](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/)
-* [Way to keep your cool running a Raspberry Pi 4](https://www.jeffgeerling.com/blog/2019/best-way-keep-your-cool-running-raspberry-pi-4)
+* [The ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
 * [Stanford Class on Deep Multi-Task and Meta-Learning](https://cs330.stanford.edu/)
+* [Way to keep your cool running a Raspberry Pi 4](https://www.jeffgeerling.com/blog/2019/best-way-keep-your-cool-running-raspberry-pi-4)
 * [Windows Privacy Dashboard: GUI for Windows 10 Privacy Settings](https://wpd.app/)
 * [Test Anything Protocol](http://testanything.org/)
 * [Unsupervised translation of programming languages](https://arxiv.org/abs/2006.03511)
@@ -27,14 +27,14 @@ layout: default
 * [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
 * [How Birds Evolved From Dinosaurs (2015)](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
 * [Large-Scale Transactional Data Lake at Uber Using Apache Hudi](https://eng.uber.com/apache-hudi-graduation/)
-* [Quotebacks – Quote the Web](https://quotebacks.net/)
 * [Snabb: 100 Gbit/s pure software switching using Lua (2019)](https://github.com/snabbco/snabb)
-* [From chaos to free will](https://aeon.co/essays/heres-why-so-many-physicists-are-wrong-about-free-will)
-* [Let Game Theory Tell You When It’s Time to Go Shopping](http://nautil.us/blog/let-game-theory-tell-you-when-its-time-to-go-shopping)
-* [How SGX Fails in Practice](https://sgaxe.com/)
-* [Lazy Lantern (YC S19) is hiring a staff back end engineer in Paris](https://angel.co/company/lazylantern/jobs/670071-staff-backend-engineer)
+* [Quotebacks – Quote the Web](https://quotebacks.net/)
 * [A Guide to Unbundling Reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit)
+* [From chaos to free will](https://aeon.co/essays/heres-why-so-many-physicists-are-wrong-about-free-will)
+* [How SGX Fails in Practice](https://sgaxe.com/)
+* [Let Game Theory Tell You When It’s Time to Go Shopping](http://nautil.us/blog/let-game-theory-tell-you-when-its-time-to-go-shopping)
 * [New hints of volcanism under the heart of northern Europe](https://ras.ac.uk/news-and-press/research-highlights/new-hints-volcanism-under-heart-northern-europe)
+* [Lazy Lantern (YC S19) is hiring a staff back end engineer in Paris](https://angel.co/company/lazylantern/jobs/670071-staff-backend-engineer)
 * [Show HN: XgeneCloud – Instant REST and GraphQL APIs on Any SQL Database](https://github.com/xgenecloud/xgenecloud)
 * [IBM Cloud was down, as well as their status page](https://cloud.ibm.com/status)
 * [New inline assembly syntax available in Rust nightly](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html)
@@ -79,11 +79,11 @@ layout: default
 * [CrossFit Founder Steps Down Amid Black Lives Matter Furor](https://www.nytimes.com/2020/06/09/style/crossfit-gyms-founder-protests.html)
 * [Facebook Mom Groups Blow Up Over Black Lives Matter](https://www.nytimes.com/2020/06/09/style/ues-mommas-facebook-group-racism-censorship.html)
 * [Where Protesters Go, Street Medics Follow](https://www.nytimes.com/2020/06/09/health/unrest-protests-street-medics.html)
-* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
+* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
 * [The Quotidian and the Surreal](https://www.nytimes.com/2020/06/09/arts/movement-quarantine-photographs.html)
 * [A Poet of Found Language Who Finds Her Language in Archives](https://www.nytimes.com/2020/06/08/books/review/concordance-susan-howe.html)
 * [Larry Fitzgerald Jr.: This Is Not the Minneapolis of My Youth](https://www.nytimes.com/2020/06/07/sports/football/george-floyd-nfl-players-fitzgerald.html)
@@ -91,8 +91,8 @@ layout: default
 * [The Roles Are L.G.B.T.Q., but the Movies Are Not About Self-Discovery](https://www.nytimes.com/2020/06/09/movies/lgbt-movies-characters.html)
 * [After 6 Months, Important Mysteries About Coronavirus Endure](https://www.nytimes.com/2020/06/01/health/coronavirus-mysteries.html)
 * [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
-* [A New Weapon Against Climate Change May Float](https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html)
 * [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
+* [A New Weapon Against Climate Change May Float](https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html)
 * [Police Officer Shared Nude Photos of Student Before She Was Murdered, Lawsuit Says](https://www.nytimes.com/2020/06/08/us/lauren-mccluskey-utah-lawsuit.html)
 * [Wave of New Polling Suggests an Erosion of Trump’s Support](https://www.nytimes.com/2020/06/09/upshot/polling-trump-erosion-support.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

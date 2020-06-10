@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/06/2020 07:34:43 UTC
+# indexed at 10/06/2020 08:10:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [First U.S. woman to walk in space dives to deepest point in the ocean](https://www.npr.org/2020/06/09/873194201/first-u-s-woman-to-walk-in-space-dives-to-deepest-point-in-the-ocean)
 * [A tiny, static, full-text search engine using Rust and WebAssembly (2019)](https://endler.dev/2019/tinysearch/)
-* [Logic.ly – Digital logic simulator for teaching logic gates and digital circuits](https://logic.ly/demo)
 * [SeL4 is verified on RISC-V](https://microkerneldude.wordpress.com/2020/06/09/sel4-is-verified-on-risc-v/)
+* [Logic.ly – Digital logic simulator for teaching logic gates and digital circuits](https://logic.ly/demo)
 * [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/)
 * [Teaching my MIT classes with only free/libre software](https://www.gnu.org/education/teaching-my-mit-classes-with-only-free-libre-software.html)
 * [All Roger Ebert's Great Movies That You Can Watch on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
 * [No Recent Automation Revolution](http://www.overcomingbias.com/2020/06/no-recent-automation-revolution.html)
-* [Haiku R1/beta2 has been released](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/)
 * [The ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
+* [Haiku R1/beta2 has been released](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/)
+* [Way to keep your cool running a Raspberry Pi 4](https://www.jeffgeerling.com/blog/2019/best-way-keep-your-cool-running-raspberry-pi-4)
+* [Stanford Class on Deep Multi-Task and Meta-Learning](https://cs330.stanford.edu/)
 * [Windows Privacy Dashboard: GUI for Windows 10 Privacy Settings](https://wpd.app/)
 * [Test Anything Protocol](http://testanything.org/)
-* [Way to keep your cool running a Raspberry Pi 4](https://www.jeffgeerling.com/blog/2019/best-way-keep-your-cool-running-raspberry-pi-4)
-* [How Google Meet's noise cancellation works](https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/)
 * [Unsupervised translation of programming languages](https://arxiv.org/abs/2006.03511)
-* [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
 * [Shan, Shui: Procedurally generated Chinese landscape painting](https://github.com/LingDong-/shan-shui-inf)
+* [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
 * [How Birds Evolved From Dinosaurs (2015)](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
 * [Large-Scale Transactional Data Lake at Uber Using Apache Hudi](https://eng.uber.com/apache-hudi-graduation/)
-* [Lazy Lantern (YC S19) is hiring a staff back end engineer in Paris](https://angel.co/company/lazylantern/jobs/670071-staff-backend-engineer)
 * [Quotebacks – Quote the Web](https://quotebacks.net/)
 * [Snabb: 100 Gbit/s pure software switching using Lua (2019)](https://github.com/snabbco/snabb)
 * [From chaos to free will](https://aeon.co/essays/heres-why-so-many-physicists-are-wrong-about-free-will)
+* [Let Game Theory Tell You When It’s Time to Go Shopping](http://nautil.us/blog/let-game-theory-tell-you-when-its-time-to-go-shopping)
 * [How SGX Fails in Practice](https://sgaxe.com/)
-* [Ask HN: What is the current state of Google Stadia?](https://news.ycombinator.com/item?id=23474208)
+* [Lazy Lantern (YC S19) is hiring a staff back end engineer in Paris](https://angel.co/company/lazylantern/jobs/670071-staff-backend-engineer)
+* [A Guide to Unbundling Reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit)
 * [New hints of volcanism under the heart of northern Europe](https://ras.ac.uk/news-and-press/research-highlights/new-hints-volcanism-under-heart-northern-europe)
 * [Show HN: XgeneCloud – Instant REST and GraphQL APIs on Any SQL Database](https://github.com/xgenecloud/xgenecloud)
 * [IBM Cloud was down, as well as their status page](https://cloud.ibm.com/status)
-* [What Is There to Love About Longfellow?](https://www.newyorker.com/magazine/2020/06/08/what-is-there-to-love-about-longfellow)
 * [New inline assembly syntax available in Rust nightly](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html)
 ## nytimes.com
 
@@ -79,9 +79,9 @@ layout: default
 * [CrossFit Founder Steps Down Amid Black Lives Matter Furor](https://www.nytimes.com/2020/06/09/style/crossfit-gyms-founder-protests.html)
 * [Facebook Mom Groups Blow Up Over Black Lives Matter](https://www.nytimes.com/2020/06/09/style/ues-mommas-facebook-group-racism-censorship.html)
 * [Where Protesters Go, Street Medics Follow](https://www.nytimes.com/2020/06/09/health/unrest-protests-street-medics.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
 * [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
 * [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
 * [The Quotidian and the Surreal](https://www.nytimes.com/2020/06/09/arts/movement-quarantine-photographs.html)
@@ -90,9 +90,9 @@ layout: default
 * [Tiny Love Stories: ‘My Mother Has Been a Nanny for Six Families’](https://www.nytimes.com/2020/06/09/style/tiny-modern-love-stories-coronavirus-nanny-for-six-families.html)
 * [The Roles Are L.G.B.T.Q., but the Movies Are Not About Self-Discovery](https://www.nytimes.com/2020/06/09/movies/lgbt-movies-characters.html)
 * [After 6 Months, Important Mysteries About Coronavirus Endure](https://www.nytimes.com/2020/06/01/health/coronavirus-mysteries.html)
-* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
-* [A New Weapon Against Climate Change May Float](https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html)
 * [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
+* [A New Weapon Against Climate Change May Float](https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html)
+* [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html)
 * [Police Officer Shared Nude Photos of Student Before She Was Murdered, Lawsuit Says](https://www.nytimes.com/2020/06/08/us/lauren-mccluskey-utah-lawsuit.html)
 * [Wave of New Polling Suggests an Erosion of Trump’s Support](https://www.nytimes.com/2020/06/09/upshot/polling-trump-erosion-support.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Governo Bolsonaro publica exoneração de Regina Duarte](https://oglobo.globo.com/brasil/governo-bolsonaro-publica-exoneracao-de-regina-duarte-1-24471989)
-* [Flamengo conversa com Fiorentina para estender prazo de pagamento por Pedro](https://oglobo.globo.com/esportes/flamengo/flamengo-conversa-com-fiorentina-para-estender-prazo-de-pagamento-por-pedro-24471609)
-* [Maracanã 70 anos: 'A ideia do estádio inclusivo foi sepultada', afirma Luiz Antonio Simas](https://oglobo.globo.com/esportes/maracana-70-anos-ideia-do-estadio-inclusivo-foi-sepultada-afirma-luiz-antonio-simas-1-24471902)
-* [Maracanã 70 anos: 'A ideia do estádio inclusivo foi sepultada', afirma Luiz Antonio Simas](https://oglobo.globo.com/esportes/maracana-70-anos-ideia-do-estadio-inclusivo-foi-sepultada-afirma-luiz-antonio-simas-24470782)
-* [Assembleia do Rio de Janeiro votará nesta quarta-feira abertura de impeachment de Witzel](https://epoca.globo.com/guilherme-amado/assembleia-do-rio-de-janeiro-votara-nesta-quarta-feira-abertura-de-impeachment-de-witzel-24471728)
-* [O risco do bolsonarismo chavista](https://oglobo.globo.com/opiniao/o-risco-do-bolsonarismo-chavista-24471223)
-* [Temporada de reveses](https://oglobo.globo.com/opiniao/temporada-de-reveses-24471193)
-* [Um regime decadente](https://oglobo.globo.com/opiniao/um-regime-decadente-24470930)
-* [Eu não consigo respirar](https://oglobo.globo.com/opiniao/eu-nao-consigo-respirar-24470821)
-* [Desabafos](https://oglobo.globo.com/opiniao/desabafos-24471239)
+* [Como uma fala da OMS virou arma contra o isolamento social](https://oglobo.globo.com/podcast/como-uma-fala-da-oms-virou-arma-contra-isolamento-social-24471899)
+* [Toyota Hilux estreia na Tailândia as novidades que chegarão ao Brasil ainda neste ano](https://oglobo.globo.com/economia/carros/toyota-hilux-estreia-na-tailandia-as-novidades-que-chegarao-ao-brasil-ainda-neste-ano-24471881)
+* [Especialistas criticam falta de coordenação entre prefeitura e estado na flexibilização do isolamento social](https://oglobo.globo.com/rio/especialistas-criticam-falta-de-coordenacao-entre-prefeitura-estado-na-flexibilizacao-do-isolamento-social-1-24471757)
+* [Receita vai avisar microempresas sobre empréstimo contra a crise](https://oglobo.globo.com/economia/receita-vai-avisar-microempresas-sobre-emprestimo-contra-crise-24471771)
+* [Protestos dão força a propostas de reforma das polícias nos EUA](https://oglobo.globo.com/mundo/protestos-dao-forca-propostas-de-reforma-das-policias-nos-eua-24470909)
+* [Mercado cobra explicações da Ancine, após nota que levantou suspeita de 'rombo' no Fundo Setorial](https://oglobo.globo.com/cultura/mercado-cobra-explicacoes-da-ancine-apos-nota-que-levantou-suspeita-de-rombo-no-fundo-setorial-24471606)
+* [Pelo segundo ano consecutivo, Brasil cai 10 posições em ranking que mede a paz no planeta](https://oglobo.globo.com/mundo/pelo-segundo-ano-consecutivo-brasil-cai-10-posicoes-em-ranking-que-mede-paz-no-planeta-1-24469509)
+* [Da ficção para a vida real: robôs ganham mais espaço no mundo pós-Covid-19](https://oglobo.globo.com/cultura/da-ficcao-para-vida-real-robos-ganham-mais-espaco-no-mundo-pos-covid-19-24471334)
+* [Uma aula de História inesquecível](https://oglobo.globo.com/cultura/uma-aula-de-historia-inesquecivel-1-24470726)
+* [Modelos denunciam práticas racistas de estilistas e exigem inclusão, reconhecimento e valorização da indústria](https://oglobo.globo.com/ela/gente/modelos-denunciam-praticas-racistas-de-estilistas-exigem-inclusao-reconhecimento-valorizacao-da-industria-24470570)

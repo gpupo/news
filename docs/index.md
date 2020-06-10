@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/06/2020 12:12:25 UTC
+# indexed at 10/06/2020 12:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [SeL4 is verified on RISC-V](https://microkerneldude.wordpress.com/2020/06/09/sel4-is-verified-on-risc-v/)
 * [Stanford Class on Deep Multi-Task and Meta-Learning](https://cs330.stanford.edu/)
 * [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/)
-* [Logic.ly – Digital logic simulator for teaching logic gates and digital circuits](https://logic.ly/demo)
 * [The Fundamental Attribution Error: When People Underestimate Situational Factors](https://effectiviology.com/fundamental-attribution-error/)
+* [Logic.ly – Digital logic simulator for teaching logic gates and digital circuits](https://logic.ly/demo)
 * [Teaching my MIT classes with only free/libre software](https://www.gnu.org/education/teaching-my-mit-classes-with-only-free-libre-software.html)
-* [Welcome to the 21st Century: How to Plan for the Post-Covid Future](https://www.oreilly.com/tim/21stcentury/)
 * [No Recent Automation Revolution](http://www.overcomingbias.com/2020/06/no-recent-automation-revolution.html)
+* [Welcome to the 21st Century: How to Plan for the Post-Covid Future](https://www.oreilly.com/tim/21stcentury/)
 * [A ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
 * [First U.S. woman to walk in space dives to deepest point in the ocean](https://www.npr.org/2020/06/09/873194201/first-u-s-woman-to-walk-in-space-dives-to-deepest-point-in-the-ocean)
 * [Scraping Roger Ebert’s reviews and finding his favorite movies on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
 * [After 10 Years in Tech Isolation, I’m Now Outsider to Things I Once Had Mastered](https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/)
 * [Windows Privacy Dashboard: GUI for Windows 10 Privacy Settings](https://wpd.app/)
 * [A tiny static full-text search engine using Rust and WebAssembly (2019)](https://endler.dev/2019/tinysearch/)
-* [Test Anything Protocol](http://testanything.org/)
 * [DeepMind introduces ‘EATS’: adversarial, end-to-end approach to text-to-speech](https://syncedreview.com/2020/06/09/deepmind-introduces-eats-an-adversarial-end-to-end-approach-to-tts/)
+* [Test Anything Protocol](http://testanything.org/)
 * [Large-Scale Transactional Data Lake at Uber Using Apache Hudi](https://eng.uber.com/apache-hudi-graduation/)
-* [Whistler (Radio)](https://en.wikipedia.org/wiki/Whistler_(radio))
 * [Quotebacks – Quote the Web](https://quotebacks.net/)
 * [How Birds Evolved From Dinosaurs (2015)](https://www.quantamagazine.org/how-birds-evolved-from-dinosaurs-20150602)
+* [Whistler (Radio)](https://en.wikipedia.org/wiki/Whistler_(radio))
 * [From chaos to free will](https://aeon.co/essays/heres-why-so-many-physicists-are-wrong-about-free-will)
 * [New hints of volcanism under the heart of northern Europe](https://ras.ac.uk/news-and-press/research-highlights/new-hints-volcanism-under-heart-northern-europe)
 * [Haiku R1/beta2 has been released](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/)
 * [Let Game Theory Tell You When It’s Time to Go Shopping](http://nautil.us/blog/let-game-theory-tell-you-when-its-time-to-go-shopping)
 * [New inline assembly syntax available in Rust nightly](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html)
 * [The Poetics of CLI Command Names](https://smallstep.com/blog/the-poetics-of-cli-command-names/)
-* [Browse hundreds of jobs at actively hiring YC companies with Work at a Startup](https://www.workatastartup.com/jobs?utm_source=hn_jobs)
 * [IBM Cloud was down, as well as their status page](https://cloud.ibm.com/status)
+* [Browse hundreds of jobs at actively hiring YC companies with Work at a Startup](https://www.workatastartup.com/jobs?utm_source=hn_jobs)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [Coup Threats Rattle Brazil as Virus Deaths Surge](https://www.nytimes.com/2020/06/10/world/americas/bolsonaro-coup-coronavirus-brazil.html)
 * [The World Reopens, Despite Skyrocketing Coronavirus Cases](https://www.nytimes.com/2020/06/09/world/coronavirus-reopenings.html)
 * [Farewell to Gummy Bear Jars: Tech Offices Get a Virus Safety Makeover](https://www.nytimes.com/2020/06/10/technology/salesforce-tech-office-coronavirus.html)
-* [White Counterprotesters in Franklinville, N.J., Mock George Floyd's Killing](https://www.nytimes.com/2020/06/09/nyregion/george-floyd-protest-franklinville-nj.html)
+* [White Counterprotesters in Franklinville, N.J., Mock George Floyd's Killing](https://www.nytimes.com/2020/06/09/nyregion/james-demarco-franklinville-george-floyd-protest.html)
 * [The Stark Racial Inequity of Personal Finances in America](https://www.nytimes.com/2020/06/09/your-money/race-income-equality.html)
 * [That Trump Tweet? Republicans Prefer Not to See It](https://www.nytimes.com/2020/06/09/us/politics/trump-twitter.html)
 * [G.O.P. Scrambles to Respond to Public Demands for Police Overhaul](https://www.nytimes.com/2020/06/09/us/politics/republicans-police-reform.html)
@@ -80,19 +80,19 @@ layout: default
 * [CrossFit Gyms Founder Resigns Amid Black Lives Matter Furor](https://www.nytimes.com/2020/06/09/style/crossfit-gyms-founder-protests.html)
 * [Inside the Newly Spotless Subway: ‘I’ve Never Seen It Like This’](https://www.nytimes.com/2020/06/10/nyregion/mta-subway-coronavirus.html)
 * [For Indian Women, the Coronavirus Economy Is a Devastating Setback](https://www.nytimes.com/2020/06/09/world/asia/india-coronavirus-women-economy.html)
-* [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
-* [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
 * [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
 * [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
+* [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
+* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
+* [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html)
 * [When the Dancers Have to Miss the Last Dance](https://www.nytimes.com/2020/06/10/arts/dance/alvin-ailey-retirements-coronavirus.html)
 * [Joyce Carol Oates Takes On Racism and Grief in Her New Novel](https://www.nytimes.com/2020/06/09/books/review/joyce-carol-oates-night-sleep-death-stars.html)
 * [Is It OK to Dump Him Because of His Medical Condition?](https://www.nytimes.com/2020/06/09/magazine/is-it-ok-to-dump-him-because-of-his-medical-condition.html)
 * [Late Night Knocks Down Trump’s Tweet About Buffalo Protester](https://www.nytimes.com/2020/06/10/arts/television/late-night-trump-buffalo-tweet.html)
 * [A Para-Swimmer Is Using the Gap Year to Dominate Cycling](https://www.nytimes.com/2020/06/09/sports/olympics/paralympics-swimming-cycling.html)
-* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
 * [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
 * [First-Time Gun Owners at Risk for Suicide, Major Study Confirms](https://www.nytimes.com/2020/06/03/health/suicide-guns-firearms.html)
 * [Trump Falsely Targets Buffalo Protester, Martin Gugino, as ‘Antifa Provocateur’](https://www.nytimes.com/2020/06/09/nyregion/who-is-martin-gugino-buffalo-police.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Veja o que vale no Rio após queda de liminar que suspendia plano de flexibilização](https://oglobo.globo.com/rio/veja-que-vale-no-rio-apos-queda-de-liminar-que-suspendia-plano-de-flexibilizacao-1-24472115)
-* [Brasil registra deflação de 0,38% em maio, influenciada pela queda no preço dos combustíveis](https://oglobo.globo.com/economia/brasil-registra-deflacao-de-038-em-maio-influenciada-pela-queda-no-preco-dos-combustiveis-24470999)
-* [Governador do Pará Helder Barbalho é alvo de ação da PF por fraude na compra de respiradores no combate ao coronavírus](https://oglobo.globo.com/brasil/governador-do-para-helder-barbalho-alvo-de-acao-da-pf-por-fraude-na-compra-de-respiradores-no-combate-ao-coronavirus-24472070)
-* [MP dá a Weintraub poder para escolher sem consulta reitores de federais durante pandemia](https://oglobo.globo.com/sociedade/mp-da-weintraub-poder-para-escolher-sem-consulta-reitores-de-federais-durante-pandemia-24472094)
-* [Filho quer Ferrari que virou sucata: 'Última lembrança que tenho do meu pai'](https://epoca.globo.com/sociedade/filho-quer-ferrari-que-virou-sucata-ultima-lembranca-que-tenho-do-meu-pai-24470488)
+* [Brasil registra deflação de 0,38% em maio, menor índice desde agosto de 1998](https://oglobo.globo.com/economia/brasil-registra-deflacao-de-038-em-maio-menor-indice-desde-agosto-de-1998-24470999)
+* [Dicionário de referência nos EUA vai modificar sua definição de racismo](https://oglobo.globo.com/mundo/dicionario-de-referencia-nos-eua-vai-modificar-sua-definicao-de-racismo-24472128)
+* [OCDE vê maior contração global em tempos de paz em um século; com pandemia, Brasil deve encolher 7,4% em 2020](https://oglobo.globo.com/economia/ocde-ve-maior-contracao-global-em-tempos-de-paz-em-um-seculo-com-pandemia-brasil-deve-encolher-74-em-2020-24472083)
 * ['Deu-se! Ufa', diz Regina Duarte após sua exoneração da Secretaria Especial da Cultura](https://oglobo.globo.com/cultura/deu-se-ufa-diz-regina-duarte-apos-sua-exoneracao-da-secretaria-especial-da-cultura-24472073)
+* [MP dá a Weintraub poder para escolher sem consulta reitores de federais durante pandemia](https://oglobo.globo.com/sociedade/mp-da-weintraub-poder-para-escolher-sem-consulta-reitores-de-federais-durante-pandemia-1-24472094)
+* [Veja o que vale no Rio após queda de liminar que suspendia plano de flexibilização](https://oglobo.globo.com/rio/veja-que-vale-no-rio-apos-queda-de-liminar-que-suspendia-plano-de-flexibilizacao-1-24472115)
+* [Filho quer Ferrari que virou sucata: 'Última lembrança que tenho do meu pai'](https://epoca.globo.com/sociedade/filho-quer-ferrari-que-virou-sucata-ultima-lembranca-que-tenho-do-meu-pai-24470488)
 * [Príncipe Philip comemora 99 anos isolado com a rainha Elizabeth e fazendo videochamadas com filhos e netos](https://oglobo.globo.com/ela/gente/principe-philip-comemora-99-anos-isolado-com-rainha-elizabeth-fazendo-videochamadas-com-filhos-netos-24472080)
 * [Analistas dizem que ideia do Renda Brasil vai na direção contrária das políticas propostas pelo governo](https://oglobo.globo.com/economia/analistas-dizem-que-ideia-do-renda-brasil-vai-na-direcao-contraria-das-politicas-propostas-pelo-governo-24472050)
-* [Estudo da USP mostra que nenhum bairro de São Paulo 'escapou' da Covid-19](https://oglobo.globo.com/sociedade/estudo-da-usp-mostra-que-nenhum-bairro-de-sao-paulo-escapou-da-covid-19-24471481)
 * [A biografia de Luiz Melodia](https://epoca.globo.com/guilherme-amado/a-biografia-de-luiz-melodia-24471511)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 09:09:51 UTC
+# indexed at 11/06/2020 09:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -12,7 +12,6 @@ layout: default
 * [Woodworking for Engineers](https://woodgears.ca/)
 * [NRF52 Firmware Readout and Reverse-Engineering Now Possible](https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/)
 * [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
-* [My mission to (almost) eliminate code comments](http://www.davejsaunders.com/2020/06/10/eliminating-code-comments.html)
 * [How and why GraphQL will influence the Sourcehut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/)
 * [AWS CodeArtifact: A fully managed software artifact repository service](https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/)
 * [How SSD Controllers Maximize SSD Life (2012)](https://thessdguy.com/how-controllers-maximize-ssd-life/)
@@ -21,23 +20,24 @@ layout: default
 * [Blosc – A high performance compressor optimized for binary data](https://blosc.org/pages/blosc-in-depth/)
 * [Online Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
 * [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [GE Fridge DRM Workaround](https://gefiltergate.com/)
 * [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
 * [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
-* [Speeding up a Git monorepo](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)
+* [Wikipedia became a battleground for racial justice](https://slate.com/technology/2020/06/wikipedia-george-floyd-neutrality.html)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
+* [Who builds a house without drawing blueprints? (2015)](https://dl.acm.org/doi/fullHtml/10.1145/2736348)
 * [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
 * [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
 * [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
-* [Who builds a house without drawing blueprints? (2015)](https://dl.acm.org/doi/fullHtml/10.1145/2736348)
 * [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
 * [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
+* [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 * [YOLOv5: State-of-the-art object detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
 * [Just Eat Takeaway to acquire Grubhub for $7.3B](https://www.nytimes.com/2020/06/10/technology/uber-grubhub-just-eat.html)
-* [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 * [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
+* [Police have been spying on black reporters and activists for years](https://www.niemanlab.org/2020/06/police-have-been-spying-on-black-reporters-and-activists-for-years-i-know-because-im-one-of-them)
 ## nytimes.com
 
 
@@ -55,6 +55,7 @@ layout: default
 * [‘Cops’ Is Off the Air. But Will We Ever Get It Out of Our Heads?](https://www.nytimes.com/2020/06/10/arts/television/cops-canceled.html)
 * [Michael Flynn Case a 'Gross Abuse' of Power, Says Former Federal Judge](https://www.nytimes.com/2020/06/10/us/politics/john-gleeson-michael-flynn.html)
 * [Solicitor General Noel Francisco Expected to Step Down](https://www.nytimes.com/2020/06/11/us/politics/justice-department-francisco.html)
+* [Protests in N.Y.C.: Police Officers Without Face Masks](https://www.nytimes.com/2020/06/11/nyregion/nyc-protests.html)
 * [Modern Love Podcast: Lorraine Toussaint Reads ‘Race Wasn’t an Issue to Him, Which Was an Issue to Me’](https://www.nytimes.com/2020/06/10/style/modern-love-podcast-lorraine-toussant-updated-poscript.html)
 * [Why Restaurants Are Fed Up With Apps](https://www.nytimes.com/2020/06/10/technology/food-delivery-apps.html)
 * [A.O. Scott on the Work of Wallace Stegner](https://www.nytimes.com/2020/06/05/books/review/podcast-a-o-scott-wallace-stegner-sunny-days-david-kamp.html)
@@ -69,8 +70,9 @@ layout: default
 * [Two Flags Over Maine (and America)](https://www.nytimes.com/2020/06/10/opinion/maine-flag-day-america.html)
 * [The Floyd Protests Show That Twitter Is Real Life](https://www.nytimes.com/2020/06/10/opinion/twitter-protest-politics.html)
 * [How Much Is America Changing?](https://www.nytimes.com/2020/06/10/opinion/george-floyd-protests-trump.html)
-* [Meet the ‘Grandmother of Street Medics’](https://www.nytimes.com/2020/06/10/style/protest-street-medics.html)
-* [The Debate Over the Word Fascism Takes a New Turn](https://www.nytimes.com/2020/06/10/books/fascism-debate-donald-trump.html)
+* [Four Black Artists on How Racism Corrodes the Theater World](https://www.nytimes.com/2020/06/10/theater/systemic-racism-theater.html)
+* [The Protests Come for 'Paw Patrol' and Other 'Good Cops' in Media](https://www.nytimes.com/2020/06/10/arts/television/protests-fictional-cops.html)
+* [Message for Graduates: 'Be Brave. Be Kind.'](https://www.nytimes.com/2020/06/11/nyregion/el-doctorow-graduation-speech-bronx-science.html)
 * [Jon Ossoff Wins Democratic Senate Primary in Georgia](https://www.nytimes.com/2020/06/10/us/politics/jon-ossoff-georgia-senate.html)
 * [Protesters Topple Statue of Jefferson Davis on Richmond’s Monument Avenue](https://www.nytimes.com/2020/06/11/us/Jefferson-Davis-Statue-Richmond.html)
 * [LeBron James and Other Stars Form a Voting Rights Group](https://www.nytimes.com/2020/06/10/us/politics/lebron-james-voting-rights.html)
@@ -80,9 +82,9 @@ layout: default
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [As Prime Minister, Boris Johnson Struggles to Find His Voice](https://www.nytimes.com/2020/06/10/world/europe/britain-boris-johnson-racism.html)
 * [In Town Where Madeleine McCann Vanished, Residents Weary of the Case](https://www.nytimes.com/2020/06/10/world/europe/madeleine-mccann-portugal.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [How to Get Involved, Politically](https://www.nytimes.com/2020/06/09/smarter-living/how-to-get-involved-politically.html)
 * [Dancing Bodies That Proclaim: Black Lives Matter](https://www.nytimes.com/2020/06/09/arts/dance/dancing-protests-george-floyd.html)
@@ -90,10 +92,10 @@ layout: default
 * [A Teenager Plays With Fire and Family Secrets in ‘The Margot Affair’](https://www.nytimes.com/2020/06/09/books/review-margot-affair-sanae-lemoine.html)
 * [Albert Memmi, a ‘Jewish Arab’ Intellectual, Dies at 99](https://www.nytimes.com/2020/06/10/books/albert-memmi-a-jewish-arab-intellectual-dies-at-99.html)
 * [2 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/06/10/arts/design/art-galleries-from-home.html)
-* [First-Time Gun Owners at Risk for Suicide, Major Study Confirms](https://www.nytimes.com/2020/06/03/health/suicide-guns-firearms.html)
-* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
 * [Coronavirus Reopenings as a Marshmallow Test for Society](https://www.nytimes.com/2020/06/09/opinion/coronavirus-reopening-marshmallow-test.html)
 * [That Trump Tweet? Republicans Prefer Not to See It](https://www.nytimes.com/2020/06/09/us/politics/trump-twitter.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

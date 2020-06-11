@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 05:10:14 UTC
+# indexed at 11/06/2020 05:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
 * [Woodworking for Engineers](https://woodgears.ca/)
+* [How and why GraphQL will influence the Sourcehut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/)
 * [AWS CodeArtifact: A fully managed software artifact repository service](https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/)
 * [Zoom closes account of U.S.-based Chinese activist after Tiananmen event](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)
 * [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
-* [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
 * [Blosc – A high performance compressor optimized for binary data](https://blosc.org/pages/blosc-in-depth/)
+* [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
 * [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
-* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
 * [Online Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
+* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
+* [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
 * [YOLOv5: State-of-the-art object detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
-* [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
-* [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
 * [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
+* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
+* [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
+* [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
 * [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
 * [Used EV Batteries Could Power Tomorrow's Solar Farms](https://spectrum.ieee.org/energywise/energy/batteries-storage/used-ev-batteries-could-power-tomorrows-solar-farms)
+* [Speeding up a Git monorepo](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)
 * [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
+* [Mail Handlers Used to Poke Holes in Envelopes to Battle Germs and Viruses](https://www.smithsonianmag.com/smithsonian-institution/mail-handlers-used-poke-holes-envelopes-battle-germs-and-viruses-180975020/)
 * [You can bypass YouTube ads by adding a dot after the domain](https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/)
 * [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
-* [Speeding up a Git monorepo](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)
-* [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 * [If it ain't broke: Share your oldest working gadgets](https://www.bbc.co.uk/news/technology-52965974)
+* [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 * [Just Eat Takeaway to acquire Grubhub for $7.3B](https://www.nytimes.com/2020/06/10/technology/uber-grubhub-just-eat.html)
-* [Static Analysis](https://nim-lang.org/blog/2020/06/08/static-analysis.html)
 * [Police have been spying on black reporters and activists for years](https://www.niemanlab.org/2020/06/police-have-been-spying-on-black-reporters-and-activists-for-years-i-know-because-im-one-of-them)
-* [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
-* [A Guide to Unbundling Reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit)
-* [Pinetab – 10.1″ Linux Tablet with Detached Backlit Keyboard](https://store.pine64.org/?product=pinetab-10-1-linux-tablet-with-detached-backlit-keyboard)
-* [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
-* [Intel Discloses Lakefield CPUs Specifications](https://www.anandtech.com/show/15841/intel-discloses-lakefield-cpus-specifications-64-execution-units-up-to-30-ghz-7-w)
+* [Louisville police release the Breonna Taylor incident report. It's nearly blank](https://eu.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
+* [Static Analysis](https://nim-lang.org/blog/2020/06/08/static-analysis.html)
 ## nytimes.com
 
 
@@ -81,9 +81,9 @@ layout: default
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [As Prime Minister, Boris Johnson Struggles to Find His Voice](https://www.nytimes.com/2020/06/10/world/europe/britain-boris-johnson-racism.html)
 * [In Town Where Madeleine McCann Vanished, Residents Weary of the Case](https://www.nytimes.com/2020/06/10/world/europe/madeleine-mccann-portugal.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [How to Get Involved, Politically](https://www.nytimes.com/2020/06/09/smarter-living/how-to-get-involved-politically.html)
 * [Dancing Bodies That Proclaim: Black Lives Matter](https://www.nytimes.com/2020/06/09/arts/dance/dancing-protests-george-floyd.html)
@@ -91,10 +91,10 @@ layout: default
 * [A Teenager Plays With Fire and Family Secrets in ‘The Margot Affair’](https://www.nytimes.com/2020/06/09/books/review-margot-affair-sanae-lemoine.html)
 * [Albert Memmi, a ‘Jewish Arab’ Intellectual, Dies at 99](https://www.nytimes.com/2020/06/10/books/albert-memmi-a-jewish-arab-intellectual-dies-at-99.html)
 * [2 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/06/10/arts/design/art-galleries-from-home.html)
-* [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
-* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
-* [Going Viral, or Not, in the Milky Way](https://www.nytimes.com/2020/06/02/science/coronavirus-space-travel-colonization.html)
-* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
+* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
+* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [First-Time Gun Owners at Risk for Suicide, Major Study Confirms](https://www.nytimes.com/2020/06/03/health/suicide-guns-firearms.html)
+* [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
 * [Shearing Sheep, and Hewing to Tradition, on an Island in Maine](https://www.nytimes.com/2020/06/08/travel/lens-sheep-island-maine.html)
 * [Coronavirus Reopenings as a Marshmallow Test for Society](https://www.nytimes.com/2020/06/09/opinion/coronavirus-reopening-marshmallow-test.html)
 * [That Trump Tweet? Republicans Prefer Not to See It](https://www.nytimes.com/2020/06/09/us/politics/trump-twitter.html)

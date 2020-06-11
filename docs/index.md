@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 10:09:46 UTC
+# indexed at 11/06/2020 10:34:23 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Woodworking for Engineers](https://woodgears.ca/)
 * [Finally, I Closed My LinkedIn](https://www.pcmaffey.com/finally-i-closed-my-linkedin/)
+* [Woodworking for Engineers](https://woodgears.ca/)
 * [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
 * [NRF52 Firmware Readout and Reverse-Engineering Now Possible](https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/)
-* [How much did AlphaGo Zero cost?](https://www.yuzeh.com/data/agz-cost.html)
 * [How and why GraphQL will influence the Sourcehut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/)
+* [How much did AlphaGo Zero cost?](https://www.yuzeh.com/data/agz-cost.html)
 * [AWS CodeArtifact: A fully managed software artifact repository service](https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/)
-* [Zoom closes account of U.S.-based Chinese activist after Tiananmen event](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)
+* [Removing “Annoying” Windows 10 Features Is a DMCA Violation, Microsoft Says](https://torrentfreak.com/removing-annoying-windows-10-features-is-a-dmca-violation-microsoft-says-200611/)
 * [How SSD Controllers Maximize SSD Life (2012)](https://thessdguy.com/how-controllers-maximize-ssd-life/)
 * [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
 * [Blosc – A high performance compressor optimized for binary data](https://blosc.org/pages/blosc-in-depth/)
 * [Online Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
-* [Removing “Annoying” Windows 10 Features Is a DMCA Violation, Microsoft Says](https://torrentfreak.com/removing-annoying-windows-10-features-is-a-dmca-violation-microsoft-says-200611/)
 * [GE Fridge DRM Workaround](https://gefiltergate.com/)
 * [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
-* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
-* [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
 * [Who builds a house without drawing blueprints? (2015)](https://dl.acm.org/doi/fullHtml/10.1145/2736348)
+* [Wikipedia became a battleground for racial justice](https://slate.com/technology/2020/06/wikipedia-george-floyd-neutrality.html)
+* [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
+* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
+* [Bloom Language](http://bloom-lang.net/)
 * [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [Wikipedia became a battleground for racial justice](https://slate.com/technology/2020/06/wikipedia-george-floyd-neutrality.html)
-* [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
-* [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
+* [Zoom closes account of U.S.-based Chinese activist after Tiananmen event](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)
 * [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
+* [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
 * [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
+* [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
 * [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
 * [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 * [YOLOv5: State-of-the-art object detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
-* [Just Eat Takeaway to acquire Grubhub for $7.3B](https://www.nytimes.com/2020/06/10/technology/uber-grubhub-just-eat.html)
 ## nytimes.com
 
 
@@ -56,7 +56,7 @@ layout: default
 * [Joe Biden, Emissary of Grief](https://www.nytimes.com/2020/06/11/us/politics/joe-biden-funeral-speech.html)
 * [Biden’s Brain Trust on the Economy: Liberal and Sworn to Silence](https://www.nytimes.com/2020/06/11/us/politics/bidens-campaign-economy.html)
 * [Protests in N.Y.C.: Police Officers Without Face Masks](https://www.nytimes.com/2020/06/11/nyregion/nyc-protests.html)
-* [Modern Love Podcast: Lorraine Toussaint Reads ‘Race Wasn’t an Issue to Him, Which Was an Issue to Me’](https://www.nytimes.com/2020/06/10/style/modern-love-podcast-lorraine-toussant-updated-poscript.html)
+* [Georgia’s Primary and the Presidential Election](https://www.nytimes.com/2020/06/11/podcasts/the-daily/georgia-general-election.html)
 * [Why Restaurants Are Fed Up With Apps](https://www.nytimes.com/2020/06/10/technology/food-delivery-apps.html)
 * [A.O. Scott on the Work of Wallace Stegner](https://www.nytimes.com/2020/06/05/books/review/podcast-a-o-scott-wallace-stegner-sunny-days-david-kamp.html)
 * [Why Does Trump Lie?](https://www.nytimes.com/2020/06/11/opinion/trump-lies.html)
@@ -81,8 +81,8 @@ layout: default
 * [Indonesia’s New Coronavirus Concern: A Post-Pandemic Baby Boom](https://www.nytimes.com/2020/06/10/world/asia/indonesia-coronvirus-baby-boom.html)
 * [ISIS Attacks Surge in Iraq Amid Debate on U.S. Troop Levels](https://www.nytimes.com/2020/06/10/world/middleeast/iraq-isis-strategic-dialogue-troops.html)
 * [As Italy Reopens, Tour Guides Plead for More Aid, and Tourists](https://www.nytimes.com/2020/06/10/world/europe/italy-coronavirus-tourism.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [How to Get Involved, Politically](https://www.nytimes.com/2020/06/09/smarter-living/how-to-get-involved-politically.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Decisões de Moraes voltam a incomodar Planalto, mas governo quer evitar embate público](https://oglobo.globo.com/brasil/decisoes-de-moraes-voltam-incomodar-planalto-mas-governo-quer-evitar-embate-publico-24473981)
+* [A rotina no cercadinho do Alvorada depois da saída dos jornalistas](https://epoca.globo.com/a-rotina-no-cercadinho-do-alvorada-depois-da-saida-dos-jornalistas-24474196)
+* [Coronavírus: os riscos de contágio em shoppings centers, que começam a reabrir durante pandemia](https://epoca.globo.com/sociedade/coronavirus-os-riscos-de-contagio-em-shoppings-centers-que-comecam-reabrir-durante-pandemia-24474217)
+* [Caso Marielle: bombeiro preso teria que trabalhar três anos para comprar carro apreendido em sua casa](https://oglobo.globo.com/rio/caso-marielle-bombeiro-preso-teria-que-trabalhar-tres-anos-para-comprar-carro-apreendido-em-sua-casa-24474211)
+* [Coronavírus: Brasil pode se tornar país com mais mortos em 29/7 se nada mudar, diz projeção usada pela Casa Branca](https://epoca.globo.com/sociedade/coronavirus-brasil-pode-se-tornar-pais-com-mais-mortos-em-297-se-nada-mudar-diz-projecao-usada-pela-casa-branca-24474207)
 * [Deputado bolsonarista contratou consultoria um dia antes de ela ser fundada](https://epoca.globo.com/guilherme-amado/deputado-bolsonarista-contratou-consultoria-um-dia-antes-de-ela-ser-fundada-1-24474150)
-* [Maracanã 70 anos: Como Cabañas recuperou a lembrança do dia em que calou o estádio](https://oglobo.globo.com/esportes/maracana-70-anos-como-cabanas-recuperou-lembranca-do-dia-em-que-calou-estadio-24474063)
-* [Maracanã 70 anos: De Ghiggia a Götze, os gringos que brilharam no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-de-ghiggia-gotze-os-gringos-que-brilharam-no-estadio-1-24473135)
+* [Cúpula da PF incomodada com ‘previsões’ de Carla Zambelli](https://epoca.globo.com/guilherme-amado/cupula-da-pf-incomodada-com-previsoes-de-carla-zambelli-24474096)
 * [Entorno de Witzel faz pente-fino na vida do vice-governador](https://epoca.globo.com/guilherme-amado/entorno-de-witzel-faz-pente-fino-na-vida-do-vice-governador-24474083)
-* [O que pode mudar no Bolsa Família com novo Renda Brasil?](https://oglobo.globo.com/podcast/o-que-pode-mudar-no-bolsa-familia-com-novo-renda-brasil-24473813)
 * [Maracanã 70 anos: de Julinho Botelho aos redimidos do Flamengo, as vaias no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-de-julinho-botelho-aos-redimidos-do-flamengo-as-vaias-no-estadio-24473408)
 * [Ritmo de festa: advogado ignora isolamento e promove aglomeração de aniversário](https://epoca.globo.com/brasil/ritmo-de-festa-advogado-ignora-isolamento-promove-aglomeracao-de-aniversario-24473654)
 * [Shoppings da Barra reabrem com 'regras de ouro' e outras medidas, como câmeras que medem temperatura](https://oglobo.globo.com/rio/bairros/shoppings-da-barra-reabrem-com-regras-de-ouro-outras-medidas-como-cameras-que-medem-temperatura-24473372)
-* [Mulheres criam coletivo para lidar com casos de assédio e abuso na gastronomia](https://oglobo.globo.com/celina/mulheres-criam-coletivo-para-lidar-com-casos-de-assedio-abuso-na-gastronomia-24472420)

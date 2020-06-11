@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 08:10:37 UTC
+# indexed at 11/06/2020 08:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Alpha Go cost 36M to retrain from scratch](https://www.yuzeh.com/data/agz-cost.html)
 * [Woodworking for Engineers](https://woodgears.ca/)
-* [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
 * [NRF52 Firmware Readout and Reverse-Engineering Now Possible](https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/)
+* [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
+* [J.K. Rowling Writes about Her Reasons for Speaking Out on Sex and Gender Issues](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
 * [AWS CodeArtifact: A fully managed software artifact repository service](https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/)
 * [How SSD Controllers Maximize SSD Life (2012)](https://thessdguy.com/how-controllers-maximize-ssd-life/)
+* [My mission to (almost) eliminate code comments](http://www.davejsaunders.com/2020/06/10/eliminating-code-comments.html)
 * [Zoom closes account of U.S.-based Chinese activist after Tiananmen event](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [My mission to (almost) eliminate code comments](http://www.davejsaunders.com/2020/06/10/eliminating-code-comments.html)
 * [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
 * [Blosc – A high performance compressor optimized for binary data](https://blosc.org/pages/blosc-in-depth/)
 * [Online Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
 * [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
+* [GE Fridge DRM Workaround](https://gefiltergate.com/)
 * [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
 * [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
-* [GE Fridge DRM Workaround](https://gefiltergate.com/)
 * [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
 * [Speeding up a Git monorepo](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)
-* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
+* [Who builds a house without drawing blueprints? (2015)](https://dl.acm.org/doi/fullHtml/10.1145/2736348)
 * [You can bypass YouTube ads by adding a dot after the domain](https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/)
-* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
-* [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
+* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
-* [Ask HN: What, in your opinion, are the greatest and most useful textbooks?](https://news.ycombinator.com/item?id=23485477)
-* [Reproducible Distributed Random Number Generation in Spark](https://able.bio/patrickcording/reproducible-distributed-random-number-generation-in-spark--03tcnko)
 * [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
+* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
 * [Static Analysis](https://nim-lang.org/blog/2020/06/08/static-analysis.html)
-* [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
+* [Reproducible Distributed Random Number Generation in Spark](https://able.bio/patrickcording/reproducible-distributed-random-number-generation-in-spark--03tcnko)
 * [Just Eat Takeaway to acquire Grubhub for $7.3B](https://www.nytimes.com/2020/06/10/technology/uber-grubhub-just-eat.html)
-* [YOLOv5: State-of-the-art object detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
+* [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 ## nytimes.com
 
 
@@ -49,8 +49,8 @@ layout: default
 * [$130 Billion in Small-Business Aid Still Hasn’t Been Used](https://www.nytimes.com/2020/06/10/business/Small-business-loans-ppp.html)
 * [Aggressive Tactics by National Guard, Ordered to Appease Trump, Wounded the Military, Too](https://www.nytimes.com/2020/06/10/us/politics/national-guard-protests.html)
 * [Trump Rejects Renaming Military Bases Named After Confederate Generals](https://www.nytimes.com/2020/06/10/us/politics/trump-rejects-renaming-military-bases.html)
-* [‘Take Back Your City’ From Protesters, Trump Tells Seattle Mayor](https://www.nytimes.com/2020/06/11/us/capitol-hill-autonomous-zone-seattle-trump.html)
-* [Amazon Facial Recognition Moratorium](https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html)
+* [Trump Tells Seattle Mayor to 'Take Back Your City'](https://www.nytimes.com/2020/06/11/us/capitol-hill-autonomous-zone-seattle-trump.html)
+* [Amazon Puts Moratorium on Facial Recognition Software by Police](https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html)
 * [George Floyd and Black Lives Matter Protests: Live Updates](https://www.nytimes.com/2020/06/10/us/protests-black-lives-matter-george-floyd.html)
 * [‘Cops’ Is Off the Air. But Will We Ever Get It Out of Our Heads?](https://www.nytimes.com/2020/06/10/arts/television/cops-canceled.html)
 * [Michael Flynn Case a 'Gross Abuse' of Power, Says Former Federal Judge](https://www.nytimes.com/2020/06/10/us/politics/john-gleeson-michael-flynn.html)
@@ -80,11 +80,11 @@ layout: default
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [As Prime Minister, Boris Johnson Struggles to Find His Voice](https://www.nytimes.com/2020/06/10/world/europe/britain-boris-johnson-racism.html)
 * [In Town Where Madeleine McCann Vanished, Residents Weary of the Case](https://www.nytimes.com/2020/06/10/world/europe/madeleine-mccann-portugal.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
-* [How to Get Involved, Politically](https://www.nytimes.com/2020/06/09/smarter-living/how-to-get-involved-politically.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [Kids Are Grieving, Too](https://www.nytimes.com/2020/05/13/parenting/kids-death-coronavirus-grieving.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
+* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
 * [Dancing Bodies That Proclaim: Black Lives Matter](https://www.nytimes.com/2020/06/09/arts/dance/dancing-protests-george-floyd.html)
 * [What Is Elite TikTok?](https://www.nytimes.com/2020/06/10/style/elite-tiktok.html)
 * [A Teenager Plays With Fire and Family Secrets in ‘The Margot Affair’](https://www.nytimes.com/2020/06/09/books/review-margot-affair-sanae-lemoine.html)

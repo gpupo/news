@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 23:09:24 UTC
+# indexed at 11/06/2020 23:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
+* [Why Skylake CPUs Are Sometimes 50% Slower – How Intel Has Broken Existing Code](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [What do executives do, anyway?](https://apenwarr.ca/log/?m=201909)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
-* [What do executives do, anyway?](https://apenwarr.ca/log/?m=201909)
 * [OpenAI API](https://beta.openai.com/)
-* [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
+* [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
-* [Why Skylake CPUs Are Sometimes 50% Slower – How Intel Has Broken Existing Code](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
-* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
-* [GutHib](http://guthib.com/)
+* [Why Are There So Many Humans?](https://www.sapiens.org/evolution/human-population-evolution/)
 * [Cantor function, a.k.a. devil's staircase: increasing function with 0 derivative](https://en.wikipedia.org/wiki/Cantor_function)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
-* [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
 * [Quantum Matter Orbits Earth](https://www.nature.com/articles/d41586-020-01653-6)
+* [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
 * [FBI warns hackers are targeting mobile banking apps](https://thehill.com/policy/cybersecurity/502148-fbi-warns-hackers-are-targeting-mobile-banking-apps)
 * [The Hamler Programming Language](https://www.hamler-lang.org/)
+* [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
 * [The Lisp 2 Project (2018)](https://mcjones.org/dustydecks/archives/2018/01/31/981/)
-* [Why Are There So Many Humans?](https://www.sapiens.org/evolution/human-population-evolution/)
-* [A tech stack should be a well-balanced portfolio](https://staysaasy.com/engineering/2020/05/30/Picking-Your-Tech-Stack.html)
+* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [The hunt for Dinosaur proteins (2017)](https://www.sciencemag.org/news/2017/09/i-don-t-care-what-they-say-about-me-paleontologist-stares-down-critics-her-hunt)
+* [A tech stack should be a well-balanced portfolio](https://staysaasy.com/engineering/2020/05/30/Picking-Your-Tech-Stack.html)
 * [Show HN: Kretes – Build full-stack applications in TypeScript and PostgreSQL](https://kretes.dev/)
 * [Red Lion: Archaeologists 'find London's earliest theatre'](https://www.bbc.com/news/uk-england-london-52983008)
 * [Gimp 2.10.20](https://www.gimp.org/news/2020/06/11/gimp-2-10-20-released/)
 * [The Rise, Fall, and Rise of the Home Office](https://www.citylab.com/design/2020/06/home-office-setup-design-history-remote-work-furniture/612889/)
-* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
+* [The social obligation to be bad at things](https://notebook.drmaciver.com/posts/2020-02-29-10:30.html)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [Where’s Airborne Plastic? Everywhere, Scientists Find.](https://www.nytimes.com/2020/06/11/climate/airborne-plastic-pollution.html)
 * [Protests Upend N.Y.C. Mayor’s Race, and Eyes Turn to Jumaane Williams](https://www.nytimes.com/2020/06/11/nyregion/jumaane-williams-mayor-2021.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [A Juneteenth of Joy and Resistance](https://www.nytimes.com/article/juneteenth-food-black-chefs.html)
 * [George Floyd Had a 'Twin.' He's a Former N.B.A. Player Leading Demonstrations in Minneapolis](https://www.nytimes.com/2020/06/11/sports/basketball/stephen-jackson-george-floyd-protests.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Brasil passa de 800 mil casos de Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-800-mil-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24474997)
+* [Percentual da população com anticorpos para o coronavírus aumentou em 50% em duas semanas no Brasil](https://oglobo.globo.com/sociedade/coronavirus/percentual-da-populacao-com-anticorpos-para-coronavirus-aumentou-em-50-em-duas-semanas-no-brasil-24475137)
+* [Shoppings de SP reabrem com expectativa de vendas até 60% menores](https://oglobo.globo.com/economia/shoppings-de-sp-reabrem-com-expectativa-de-vendas-ate-60-menores-24475168)
+* [Eike Batista é condenado a oito anos de prisão por enganar mercado de capitais a respeito da existência de petróleo](https://oglobo.globo.com/economia/eike-batista-condenado-oito-anos-de-prisao-por-enganar-mercado-de-capitais-respeito-da-existencia-de-petroleo-1-24475128)
+* [Campanha de Trump exige que público de comícios fechados não a processe se pegar Covid-19](https://oglobo.globo.com/mundo/campanha-de-trump-exige-que-publico-de-comicios-fechados-nao-processe-se-pegar-covid-19-24475177)
 * [Marcos Pontes diz que ficou sabendo de divisão na própria pasta no dia do anúncio](https://oglobo.globo.com/brasil/marcos-pontes-diz-que-ficou-sabendo-de-divisao-na-propria-pasta-no-dia-do-anuncio-24475151)
+* [Brasil passa de 800 mil casos de Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-800-mil-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24474997)
 * [Bolsonaro diz que processo no TSE é 'tapetão' e pede arquivamento](https://oglobo.globo.com/brasil/bolsonaro-diz-que-processo-no-tse-tapetao-pede-arquivamento-24475115)
-* ['Um desrespeito com meu filho', desabafa pai de vítima da Covid-19, que recolocou cruzes arrancadas durante ato; vídeo](https://oglobo.globo.com/rio/um-desrespeito-com-meu-filho-desabafa-pai-de-vitima-da-covid-19-que-recolocou-cruzes-arrancadas-durante-ato-video-1-24475047)
 * [Itaú Cultural lança edital de emergência para o audiovisual](https://oglobo.globo.com/cultura/itau-cultural-lanca-edital-de-emergencia-para-audiovisual-1-24475111)
 * [Coreia do Norte diz que EUA são ‘ameaça a longo prazo’ e promete aumentar gastos militares](https://oglobo.globo.com/mundo/coreia-do-norte-diz-que-eua-sao-ameaca-longo-prazo-promete-aumentar-gastos-militares-24475103)
-* [Lojas de celulares registram aglomeração na reabertura dos shoppings em SP](https://oglobo.globo.com/economia/lojas-de-celulares-registram-aglomeracao-na-reabertura-dos-shoppings-em-sp-24475079)
-* [Moro diz que aceitou ser padrinho de Zambelli por 'constrangimento', e deputada rebate: 'Há os mentirosos e os cínicos'](https://epoca.globo.com/brasil/moro-diz-que-aceitou-ser-padrinho-de-zambelli-por-constrangimento-deputada-rebate-ha-os-mentirosos-os-cinicos-24475004)
 * [Sevilla vence o Betis por 2 a 0 na retomada do Campeonato Espanhol](https://oglobo.globo.com/esportes/sevilla-vence-betis-por-2-0-na-retomada-do-campeonato-espanhol-24475092)
-* [Lava-Jato: Bretas condena ex-secretário de obras de Paes por vantagem indevida no BRT](https://oglobo.globo.com/rio/lava-jato-bretas-condena-ex-secretario-de-obras-de-paes-por-vantagem-indevida-no-brt-24475062)

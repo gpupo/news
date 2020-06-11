@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 12:12:47 UTC
+# indexed at 11/06/2020 12:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [How much did AlphaGo Zero cost?](https://www.yuzeh.com/data/agz-cost.html)
 * [How and why GraphQL will influence the Sourcehut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/)
 * [AWS CodeArtifact: A fully managed software artifact repository service](https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/)
+* [Personality Vectors (2019)](https://www.yangvincent.com/resources/personality-vectors/)
 * [How Controllers Maximize SSD Life (2012)](https://thessdguy.com/how-controllers-maximize-ssd-life/)
 * [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
-* [Removing “Annoying” Windows 10 Features Is a DMCA Violation, Microsoft Says](https://torrentfreak.com/removing-annoying-windows-10-features-is-a-dmca-violation-microsoft-says-200611/)
 * [GE Fridge DRM Workaround](https://gefiltergate.com/)
 * [Blosc – A high performance compressor optimized for binary data](https://blosc.org/pages/blosc-in-depth/)
 * [Online Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
-* [Personality Vectors (2019)](https://www.yangvincent.com/resources/personality-vectors/)
+* [Removing “Annoying” Windows 10 Features Is a DMCA Violation, Microsoft Says](https://torrentfreak.com/removing-annoying-windows-10-features-is-a-dmca-violation-microsoft-says-200611/)
 * [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
+* [Spherical Solar Cells Soak Up Scattered Sunlight](https://spectrum.ieee.org/energywise/energy/renewables/spherical-solar-cells-soak-up-scattered-sunlight)
 * [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
 * [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
 * [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
 * [Zoom closes account of U.S.-based Chinese activist after Tiananmen event](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)
 * [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
-* [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
 * [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
 * [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
-* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
 * [YOLOv5: State-of-the-art object detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
 * [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [Just Eat Takeaway to acquire Grubhub for $7.3B](https://www.nytimes.com/2020/06/10/technology/uber-grubhub-just-eat.html)
-* [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
+* [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 ## nytimes.com
 
 
@@ -83,20 +83,19 @@ layout: default
 * [Indonesia’s New Coronavirus Concern: A Post-Pandemic Baby Boom](https://www.nytimes.com/2020/06/10/world/asia/indonesia-coronvirus-baby-boom.html)
 * [ISIS Attacks Surge in Iraq Amid Debate on U.S. Troop Levels](https://www.nytimes.com/2020/06/10/world/middleeast/iraq-isis-strategic-dialogue-troops.html)
 * [As Italy Reopens, Tour Guides Plead for More Aid, and Tourists](https://www.nytimes.com/2020/06/10/world/europe/italy-coronavirus-tourism.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
-* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
-* [Burnt Out on Home Schooling?](https://www.nytimes.com/2020/05/13/parenting/coronavirus-remote-learning-burn-out.html)
-* [Zoom Fatigue: How to Politely Decline a Call During Quarantine](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-zoom-facetime-fatigue.html)
-* [Growing Up Alongside a Sibling With a Disability](https://www.nytimes.com/2020/05/11/parenting/children-sibling-disability.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Art That Might Make You Want to Go to La Guardia](https://www.nytimes.com/2020/06/10/arts/design/laguardia-terminal-b-artists.html)
 * [‘Da 5 Bloods’ Review: Black Lives Mattered in Vietnam, Too](https://www.nytimes.com/2020/06/10/movies/da-5-bloods-review.html)
 * [The Gentle, Brilliant Bros of French Baroque Music](https://www.nytimes.com/2020/06/09/arts/music/thomas-dunford-jean-rondeau.html)
 * [Georgia ‘Tests Negative for Voting,’ Stephen Colbert Says](https://www.nytimes.com/2020/06/11/arts/television/late-night-georgia-voting-problems.html)
 * [Discussions About Black Lives, and Pride Online: New Livestreams to Watch](https://www.nytimes.com/2020/06/11/arts/livestreaming-coronavirus.html)
-* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
-* [First-Time Gun Owners at Risk for Suicide, Major Study Confirms](https://www.nytimes.com/2020/06/03/health/suicide-guns-firearms.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [How Line-Dried Laundry Gets That Fresh Smell](https://www.nytimes.com/2020/05/29/science/laundry-smell-line.html)
-* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [Managing the Majestic Jumbo Flying Squid](https://www.nytimes.com/2020/06/04/climate/jumbo-flying-squid-fishing.html)
 * [The ‘Invisible’ Garden of Scent](https://www.nytimes.com/2020/06/10/realestate/the-invisible-garden-of-scent.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -104,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Zoom admite ter encerrado conta de ativistas chineses que lembravam aniversário de repressão na Praça Tiananmen](https://oglobo.globo.com/mundo/zoom-admite-ter-encerrado-conta-de-ativistas-chineses-que-lembravam-aniversario-de-repressao-na-praca-tiananmen-24474238)
+* [Zoom admite ter encerrado conta de ativistas chineses que lembravam aniversário do massacre da Praça da Paz Celestial](https://oglobo.globo.com/mundo/zoom-admite-ter-encerrado-conta-de-ativistas-chineses-que-lembravam-aniversario-do-massacre-da-praca-da-paz-celestial-24474238)
+* [Regina Duarte faz vídeo sobre saída da Secretaria da Cultura: 'Tive inseguranças, crises, lágrimas'](https://oglobo.globo.com/cultura/regina-duarte-faz-video-sobre-saida-da-secretaria-da-cultura-tive-insegurancas-crises-lagrimas-1-24474261)
 * [Acidente de carro deixa mulher e criança mortas no Andaraí](https://oglobo.globo.com/rio/acidente-de-carro-deixa-mulher-crianca-mortas-no-andarai-24474247)
 * [Kate Middleton divulga algumas fotos de seu projeto criado durante a pandemia: 'imagens surpreendentes'](https://oglobo.globo.com/ela/gente/kate-middleton-divulga-algumas-fotos-de-seu-projeto-criado-durante-pandemia-imagens-surpreendentes-24474249)
 * [Coronavírus: número de calouros em cursos superiores a distância vai superar o de presenciais em 2022](https://epoca.globo.com/coronavirus-numero-de-calouros-em-cursos-superiores-distancia-vai-superar-de-presenciais-em-2022-24472451)
 * [Professora viraliza gravando aula em casa com ajuda de saco de feijão](https://epoca.globo.com/sociedade/professora-viraliza-gravando-aula-em-casa-com-ajuda-de-saco-de-feijao-24473169)
 * [Coronavírus e outras peculiaridades marcam próximas eleições](https://epoca.globo.com/brasil/coronavirus-outras-peculiaridades-marcam-proximas-eleicoes-24473263)
-* ['A irrupção de um processo epidêmico exacerba a possibilidade de extinção de povos indígenas', diz a médica sanitarista e antropóloga Maria Luiza Garnelo Pereira](https://oglobo.globo.com/sociedade/coronavirus/a-irrupcao-de-um-processo-epidemico-exacerba-possibilidade-de-extincao-de-povos-indigenas-diz-medica-sanitarista-antropologa-maria-luiza-garnelo-pereira-24474228)
 * [Ancine recebe enxurrada de liminares mandando analisar projetos](https://epoca.globo.com/guilherme-amado/ancine-recebe-enxurrada-de-liminares-mandando-analisar-projetos-24474031)
 * [Coluna | Uma investigação sobre tortura na ditadura Pinochet](https://epoca.globo.com/coluna-uma-investigacao-sobre-tortura-na-ditadura-pinochet-24472963)
 * [Mobilização a favor do Brasil](https://oglobo.globo.com/economia/cnc-noticias/mobilizacao-favor-do-brasil-24472660)

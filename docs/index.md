@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 11/06/2020 05:34:40 UTC
+# indexed at 11/06/2020 06:10:30 UTC
 
 
 ## news.ycombinator.com
 
 
-* [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
 * [Woodworking for Engineers](https://woodgears.ca/)
+* [A one-year moratorium on police use of Rekognition](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition)
 * [How and why GraphQL will influence the Sourcehut alpha](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/)
 * [AWS CodeArtifact: A fully managed software artifact repository service](https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/)
 * [Zoom closes account of U.S.-based Chinese activist after Tiananmen event](https://www.axios.com/zoom-closes-chinese-user-account-tiananmen-square-f218fed1-69af-4bdd-aac4-7eaf67f34084.html)
-* [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
 * [Blosc – A high performance compressor optimized for binary data](https://blosc.org/pages/blosc-in-depth/)
+* [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
 * [Reddit Welcomes Michael Seibel to Board of Directors](https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/)
+* [I'm Married to an ER Doc in NYC](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
 * [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
 * [Online Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
-* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
-* [Activists rally to save Internet Archive as lawsuit threatens site](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
 * [YOLOv5: State-of-the-art object detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
+* [Ask HN: What, in your opinion, are the greatest and most useful textbooks?](https://news.ycombinator.com/item?id=23485477)
 * [BHP to destroy at least 40 Aboriginal sites, up to 15K years old, to expand mine](https://www.theguardian.com/business/2020/jun/11/bhp-to-destroy-at-least-40-aboriginal-sites-up-to-15000-years-old-to-expand-pilbara-mine)
-* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [Early electric fans](https://earlyfans.blogspot.com/2011/10/robbins-myers-list-1404-desk-fans-1911.html)
+* [Breonna Taylor case: Louisville police nearly blank incident report](https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
 * [How dice changed over 2k years to be more fair (2018)](https://www.sciencedaily.com/releases/2018/01/180130140246.htm)
-* [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
-* [Used EV Batteries Could Power Tomorrow's Solar Farms](https://spectrum.ieee.org/energywise/energy/batteries-storage/used-ev-batteries-could-power-tomorrows-solar-farms)
 * [Speeding up a Git monorepo](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)
-* [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
+* [Used EV Batteries Could Power Tomorrow's Solar Farms](https://spectrum.ieee.org/energywise/energy/batteries-storage/used-ev-batteries-could-power-tomorrows-solar-farms)
+* [The GUI should be a lot better [video]](https://www.youtube.com/watch?v=AItTqnTsVjA)
 * [Mail Handlers Used to Poke Holes in Envelopes to Battle Germs and Viruses](https://www.smithsonianmag.com/smithsonian-institution/mail-handlers-used-poke-holes-envelopes-battle-germs-and-viruses-180975020/)
+* [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
+* [U.S. states accuse 26 drugmakers of generic drug price fixing lawsuit](https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR)
 * [You can bypass YouTube ads by adding a dot after the domain](https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/)
-* [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
 * [If it ain't broke: Share your oldest working gadgets](https://www.bbc.co.uk/news/technology-52965974)
+* [Show HN: My first Android App – order-taker for family company that sells wood](https://github.com/MaherDeeb/take_orders_app)
 * [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
 * [Just Eat Takeaway to acquire Grubhub for $7.3B](https://www.nytimes.com/2020/06/10/technology/uber-grubhub-just-eat.html)
-* [Police have been spying on black reporters and activists for years](https://www.niemanlab.org/2020/06/police-have-been-spying-on-black-reporters-and-activists-for-years-i-know-because-im-one-of-them)
-* [Louisville police release the Breonna Taylor incident report. It's nearly blank](https://eu.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/)
+* [A Guide to Unbundling Reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit)
 * [Static Analysis](https://nim-lang.org/blog/2020/06/08/static-analysis.html)
 ## nytimes.com
 
@@ -94,7 +94,7 @@ layout: default
 * [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
 * [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
 * [First-Time Gun Owners at Risk for Suicide, Major Study Confirms](https://www.nytimes.com/2020/06/03/health/suicide-guns-firearms.html)
-* [How to Navigate Your Community Reopening? Remember the Four C’s](https://www.nytimes.com/2020/06/06/health/virus-reopenings.html)
+* [Fear of Covid-19 Leads Other Patients to Decline Critical Treatment](https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html)
 * [Shearing Sheep, and Hewing to Tradition, on an Island in Maine](https://www.nytimes.com/2020/06/08/travel/lens-sheep-island-maine.html)
 * [Coronavirus Reopenings as a Marshmallow Test for Society](https://www.nytimes.com/2020/06/09/opinion/coronavirus-reopening-marshmallow-test.html)
 * [That Trump Tweet? Republicans Prefer Not to See It](https://www.nytimes.com/2020/06/09/us/politics/trump-twitter.html)

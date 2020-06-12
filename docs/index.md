@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 02:10:10 UTC
+# indexed at 12/06/2020 02:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [How to Implement Search by Color When All You Have Is a Good Coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
+* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
+* [OpenAI API](https://beta.openai.com/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
-* [OpenAI API](https://beta.openai.com/)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
-* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
-* [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
-* [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
-* [How to Implement Search by Color When All You Have Is a Good Coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
-* [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
+* [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
+* [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
+* [The Utilitarian Pleasures of Playing Board Games by Yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
-* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
-* [Quantum Matter Orbits Earth](https://www.nature.com/articles/d41586-020-01653-6)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
+* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
+* [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
 * [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
+* [Quantum Matter Orbits Earth](https://www.nature.com/articles/d41586-020-01653-6)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
 * [Analysis of New Malloc Protections on Singly Linked Lists](https://maxwelldulin.com/BlogPost?post=5445977088)
 * [The Hamler Programming Language](https://www.hamler-lang.org/)
 * [The Rise, Fall, and Rise of the Home Office](https://www.citylab.com/design/2020/06/home-office-setup-design-history-remote-work-furniture/612889/)
-* [A tech stack should be a well-balanced portfolio](https://staysaasy.com/engineering/2020/05/30/Picking-Your-Tech-Stack.html)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
 * [Protests Upend N.Y.C. Mayor’s Race, and Eyes Turn to Jumaane Williams](https://www.nytimes.com/2020/06/11/nyregion/jumaane-williams-mayor-2021.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/11/arts/design/art-accounts-to-follow-on-instagram.html)
 * [Will Miami Be Around in 2067?](https://www.nytimes.com/2020/06/09/books/review/disposable-city-miami-climate-change-mario-alejandro-ariza.html)
 * [Pete Rademacher, 1956 Olympic Boxing Champion, Dies at 91](https://www.nytimes.com/2020/06/11/sports/pete-rademacher-1956-olympic-boxing-champion-dies-at-91.html)
-* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Kamala Harris Is Done Explaining Racism](https://www.nytimes.com/2020/06/10/us/politics/kamala-harris-racism-police.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -103,9 +103,9 @@ layout: default
 ## globo.com
 
 
-* [Auxílio emergencial: Bolsonaro diz que vai vetar prorrogação se Congresso fixar valor em R$ 600](https://oglobo.globo.com/economia/auxilio-emergencial-bolsonaro-diz-que-vai-vetar-prorrogacao-se-congresso-fixar-valor-em-600-24475418)
-* [Percentual da população com anticorpos para o coronavírus aumentou em 53% em duas semanas no Brasil](https://oglobo.globo.com/sociedade/coronavirus/percentual-da-populacao-com-anticorpos-para-coronavirus-aumentou-em-53-em-duas-semanas-no-brasil-24475137)
+* [Auxílio emergencial: Bolsonaro diz que vai vetar prorrogação se Congresso fixar valor em R$ 600](https://oglobo.globo.com/economia/auxilio-emergencial-bolsonaro-diz-que-vai-vetar-prorrogacao-se-congresso-fixar-valor-em-600-1-24475418)
 * [Bolsonaro pede a apoiadores que entrem em hospitais para filmar leitos](https://oglobo.globo.com/sociedade/coronavirus/bolsonaro-pede-apoiadores-que-entrem-em-hospitais-para-filmar-leitos-24475348)
+* [Percentual da população com anticorpos para o coronavírus aumentou em 53% em duas semanas no Brasil](https://oglobo.globo.com/sociedade/coronavirus/percentual-da-populacao-com-anticorpos-para-coronavirus-aumentou-em-53-em-duas-semanas-no-brasil-24475137)
 * [Campanha de Trump exige que público de comícios fechados não a processe se pegar Covid-19](https://oglobo.globo.com/mundo/campanha-de-trump-exige-que-publico-de-comicios-fechados-nao-processe-se-pegar-covid-19-24475177)
 * [Eike Batista é condenado a oito anos de prisão por enganar mercado de capitais a respeito da existência de petróleo](https://oglobo.globo.com/economia/eike-batista-condenado-oito-anos-de-prisao-por-enganar-mercado-de-capitais-respeito-da-existencia-de-petroleo-1-24475128)
 * [Del Toro, Iñárritu e Salma Hayek unem forças em fundo de apoio a trabalhadores do audiovisual mexicano](https://oglobo.globo.com/cultura/del-toro-inarritu-salma-hayek-unem-forcas-em-fundo-de-apoio-trabalhadores-do-audiovisual-mexicano-24475308)

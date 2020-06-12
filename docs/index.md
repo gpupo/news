@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 03:09:56 UTC
+# indexed at 12/06/2020 03:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
-* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [OpenAI API](https://beta.openai.com/)
+* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
-* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
-* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
-* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
-* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
+* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
+* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
+* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
 * [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
+* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
-* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
-* [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
+* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
+* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 * [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
-* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
-* [Ask HN: Why do you use Rust, when D is available?](https://news.ycombinator.com/item?id=23494490)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
+* [Ask HN: Why do you use Rust, when D is available?](https://news.ycombinator.com/item?id=23494490)
+* [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
-* [Quantum Matter Orbits Earth](https://www.nature.com/articles/d41586-020-01653-6)
 ## nytimes.com
 
 
@@ -48,7 +48,6 @@ layout: default
 * [Trump Defends Police, but Says He’ll Sign Order Encouraging Better Practices](https://www.nytimes.com/2020/06/11/us/politics/trump-biden-police.html)
 * [Investors, No Longer in Denial About Grim Outlook, Drive Market Down](https://www.nytimes.com/2020/06/11/business/market-drop-coronavirus.html)
 * [Coronavirus Live Updates: Stocks Dropping Sharply](https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html)
-* [1.5 Million Filed State Unemployment Claims Last Week](https://www.nytimes.com/2020/06/11/business/economy/unemployment-claims-coronavirus.html)
 * [George Floyd, Police and BLM Protests Today: Live Updates](https://www.nytimes.com/2020/06/11/us/george-floyd-protests.html)
 * [Federal Arrests Show No Sign That Antifa Plotted Protests](https://www.nytimes.com/2020/06/11/us/antifa-protests-george-floyd.html)
 * [Joe Biden, Emissary of Grief](https://www.nytimes.com/2020/06/11/us/politics/joe-biden-funeral-speech.html)
@@ -91,10 +90,10 @@ layout: default
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/11/arts/design/art-accounts-to-follow-on-instagram.html)
 * [Will Miami Be Around in 2067?](https://www.nytimes.com/2020/06/09/books/review/disposable-city-miami-climate-change-mario-alejandro-ariza.html)
 * [Pete Rademacher, 1956 Olympic Boxing Champion, Dies at 91](https://www.nytimes.com/2020/06/11/sports/pete-rademacher-1956-olympic-boxing-champion-dies-at-91.html)
+* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
-* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

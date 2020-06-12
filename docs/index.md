@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 04:10:20 UTC
+# indexed at 12/06/2020 04:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [We are in a period of extended turmoil that might be called the “omni-crisis”](https://aelkus.github.io/void/2020/06/01/opening)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
-* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [OpenAI API](https://beta.openai.com/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
-* [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
-* [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
-* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
-* [We are in a period of extended turmoil that might be called the “omni-crisis”](https://aelkus.github.io/void/2020/06/01/opening)
+* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
+* [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
+* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
-* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
+* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
 * [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
 * [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
-* [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
+* [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
-* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
-* [Ask HN: Why do you use Rust, when D is available?](https://news.ycombinator.com/item?id=23494490)
+* [Bird figurine is earliest Chinese artwork ever discovered, say experts](https://www.theguardian.com/world/2020/jun/10/bird-figurine-earliest-chinese-artwork)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
-* [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
+* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
+* [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
 ## nytimes.com
 
 
@@ -46,9 +46,10 @@ layout: default
 * [As Americans Shift on Racism, Trump Digs In](https://www.nytimes.com/2020/06/11/us/politics/trump-on-race.html)
 * [General Milley Apologizes for Trump Photo Op Role](https://www.nytimes.com/2020/06/11/us/politics/trump-milley-military-protests-lafayette-square.html)
 * [Trump Defends Police, but Says He’ll Sign Order Encouraging Better Practices](https://www.nytimes.com/2020/06/11/us/politics/trump-biden-police.html)
-* [George Floyd, Police and BLM Protests Today: Live Updates](https://www.nytimes.com/2020/06/11/us/george-floyd-protests.html)
+* [Seattle Mayor Defies Trump](https://www.nytimes.com/2020/06/11/us/george-floyd-protests.html)
 * [Investors, No Longer in Denial About Grim Outlook, Drive Market Down](https://www.nytimes.com/2020/06/11/business/market-drop-coronavirus.html)
 * [Coronavirus Live Updates: Stocks Dropping Sharply](https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html)
+* [Live Stock Market Tracker and Economy Updates](https://www.nytimes.com/2020/06/12/business/stock-market-today-coronavirus.html)
 * [Joe Biden, Emissary of Grief](https://www.nytimes.com/2020/06/11/us/politics/joe-biden-funeral-speech.html)
 * [Georgia Havoc Raises New Doubts on Pricey Voting Machines](https://www.nytimes.com/2020/06/11/us/politics/georgia-voting-machines.html)
 * [Trump Will Give Republican Convention Speech in Jacksonville](https://www.nytimes.com/2020/06/11/us/politics/trump-jacksonville-rnc-speech.html)
@@ -79,9 +80,9 @@ layout: default
 * [Protests Upend N.Y.C. Mayor’s Race, and Eyes Turn to Jumaane Williams](https://www.nytimes.com/2020/06/11/nyregion/jumaane-williams-mayor-2021.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
@@ -92,6 +93,7 @@ layout: default
 * [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
+* [Silver Lining to the Mask? Not Having to Smile](https://www.nytimes.com/2020/06/10/style/face-masks-women.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

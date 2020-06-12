@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 05:09:42 UTC
+# indexed at 12/06/2020 05:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
-* [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
-* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
-* [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [OpenAI API](https://beta.openai.com/)
+* [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
-* [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
+* [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
+* [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
-* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
-* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
-* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
+* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
 * [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
+* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
-* [Bird figurine is earliest Chinese artwork ever discovered, say experts](https://www.theguardian.com/world/2020/jun/10/bird-figurine-earliest-chinese-artwork)
-* [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
+* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
+* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [The Hamler Programming Language](https://www.hamler-lang.org/)
 ## nytimes.com
 
@@ -79,10 +79,10 @@ layout: default
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
 * [Protests Upend N.Y.C. Mayor’s Race, and Eyes Turn to Jumaane Williams](https://www.nytimes.com/2020/06/11/nyregion/jumaane-williams-mayor-2021.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)

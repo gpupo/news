@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 07:34:24 UTC
+# indexed at 12/06/2020 08:11:12 UTC
 
 
 ## news.ycombinator.com
 
 
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
-* [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
-* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
-* [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
-* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
-* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
-* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
-* [The yuan has been one of the world’s most stable major currencies](https://www.economist.com/finance-and-economics/2020/06/13/the-yuan-has-been-one-of-the-worlds-most-stable-major-currencies)
-* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
+* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
+* [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
+* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
+* [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
+* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
+* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
-* [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
-* [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
+* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
+* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
-* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
-* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
-* [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
 * [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
+* [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
 * [OpenAI API](https://beta.openai.com/)
 * [The Hamler Programming Language](https://www.hamler-lang.org/)
+* [The Rise, Fall, and Rise of the Home Office](https://www.citylab.com/design/2020/06/home-office-setup-design-history-remote-work-furniture/612889/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Korean Adoptee Wins Landmark Case in Search for Birth Parents](https://www.nytimes.com/2020/06/12/world/asia/south-korea-adoption-Kara-Bos.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
-* [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
+* [The Poems That Poets Turn to in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/11/arts/design/art-accounts-to-follow-on-instagram.html)
 * [Will Miami Be Around in 2067?](https://www.nytimes.com/2020/06/09/books/review/disposable-city-miami-climate-change-mario-alejandro-ariza.html)
@@ -101,11 +101,11 @@ layout: default
 
 * [Maracanã 70 anos: o gosto de ser campeão na torcida visitante contra Flamengo e Botafogo](https://oglobo.globo.com/esportes/maracana-70-anos-gosto-de-ser-campeao-na-torcida-visitante-contra-flamengo-botafogo-24475884)
 * [Com auxílio emergencial, número de beneficiários de transferência de renda dobra no país](https://oglobo.globo.com/economia/com-auxilio-emergencial-numero-de-beneficiarios-de-transferencia-de-renda-dobra-no-pais-24475483)
-* [Impeachment: Witzel quer conversar com deputados e admite a assessores ceder cargos](https://oglobo.globo.com/rio/impeachment-witzel-quer-conversar-com-deputados-admite-assessores-ceder-cargos-24475395)
-* [Inquérito eleitoral que investiga lavagem de dinheiro de Flávio Bolsonaro passa para as mãos do MPF](https://oglobo.globo.com/brasil/inquerito-eleitoral-que-investiga-lavagem-de-dinheiro-de-flavio-bolsonaro-passa-para-as-maos-do-mpf-24475457)
 * [Covid-19: 'Desconheço a razão técnica pela qual estamos reabrindo os shoppings', diz infectologista](https://oglobo.globo.com/rio/covid-19-desconheco-razao-tecnica-pela-qual-estamos-reabrindo-os-shoppings-diz-infectologista-24475433)
+* [Guga Chacra: 'Na foto de hoje, Trump não é favorito à reeleição'](https://oglobo.globo.com/podcast/guga-chacra-na-foto-de-hoje-trump-nao-favorito-reeleicao-24475356)
 * [Contrariando Trump, investigações não encontram sinais de que Antifa planejaram protestos](https://oglobo.globo.com/mundo/contrariando-trump-investigacoes-nao-encontram-sinais-de-que-antifa-planejaram-protestos-24475383)
-* [Em novo ministério, Fábio Faria comandará orçamento de R$ 2,3 bi, estatais e publicidade oficial](https://oglobo.globo.com/brasil/em-novo-ministerio-fabio-faria-comandara-orcamento-de-23-bi-estatais-publicidade-oficial-1-24475394)
 * [Jim Carrey é apresentador infantil em luto na série 'Kidding', que estreia no streaming](https://oglobo.globo.com/cultura/jim-carrey-apresentador-infantil-em-luto-na-serie-kidding-que-estreia-no-streaming-24475182)
+* [Novo auxiliar de Guardiola passou uma semana no Flamengo](https://oglobo.globo.com/esportes/novo-auxiliar-de-guardiola-passou-uma-semana-no-flamengo-24475221)
 * [Ônibus 174: 20 anos depois, José Padilha e Bruno Barreto relembram o sequestro que inspirou seus filmes](https://oglobo.globo.com/cultura/onibus-174-20-anos-depois-jose-padilha-bruno-barreto-relembram-sequestro-que-inspirou-seus-filmes-24472791)
+* [Os ensinamentos que o mentor de Guardiola deixou no Flamengo](https://oglobo.globo.com/esportes/os-ensinamentos-que-mentor-de-guardiola-deixou-no-flamengo-24475196)
 * [Mais de mil torneiras para ligar: como é tomar conta de um hotel vazio na pandemia](https://oglobo.globo.com/boa-viagem/mais-de-mil-torneiras-para-ligar-como-tomar-conta-de-um-hotel-vazio-na-pandemia-24471960)

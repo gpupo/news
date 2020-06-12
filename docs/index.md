@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 07:09:51 UTC
+# indexed at 12/06/2020 07:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
-* [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
-* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
+* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
-* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
 * [The yuan has been one of the world’s most stable major currencies](https://www.economist.com/finance-and-economics/2020/06/13/the-yuan-has-been-one-of-the-worlds-most-stable-major-currencies)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
+* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
+* [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
-* [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
-* [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
-* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
+* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
-* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
-* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
+* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [OpenAI API](https://beta.openai.com/)
 * [The Hamler Programming Language](https://www.hamler-lang.org/)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
 * [Korean Adoptee Wins Landmark Case in Search for Birth Parents](https://www.nytimes.com/2020/06/12/world/asia/south-korea-adoption-Kara-Bos.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
@@ -93,20 +93,19 @@ layout: default
 * [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
-* [Ohio Lawmaker Asks Racist Question About Black People and Hand-Washing](https://www.nytimes.com/2020/06/11/us/politics/steve-huffman-african-americans-coronavirus.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Maracanã 70 anos: capitão do Santo André vê título contra Flamengo como 'segundo Maracanazo'](https://oglobo.globo.com/esportes/maracana-70-anos-capitao-do-santo-andre-ve-titulo-contra-flamengo-como-segundo-maracanazo-24472690)
-* [Volta do futebol no Rio: entenda os argumentos dos médicos dos clubes favoráveis e contrários](https://oglobo.globo.com/esportes/volta-do-futebol-no-rio-entenda-os-argumentos-dos-medicos-dos-clubes-favoraveis-contrarios-24471098)
-* [Os fiéis, os críticos e os arrependidos: pesquisa mostra como pensa hoje quem votou em Bolsonaro em 2018](https://epoca.globo.com/guilherme-amado/os-fieis-os-criticos-os-arrependidos-pesquisa-mostra-como-pensa-hoje-quem-votou-em-bolsonaro-em-2018-24474318)
-* [Top-70 Maracanã, do 41° ao 50°: títulos de Fla, Bota e Vasco e zebras na Copa do Brasil](https://oglobo.globo.com/esportes/top-70-maracana-do-41-ao-50-titulos-de-fla-bota-vasco-zebras-na-copa-do-brasil-24472716)
-* [Nove perguntas para Tasso Jereissati](https://epoca.globo.com/brasil/nove-perguntas-para-tasso-jereissati-24474825)
-* [Muito além da cloroquina: o que mais se estuda como alternativa ao medicamento](https://epoca.globo.com/sociedade/muito-alem-da-cloroquina-que-mais-se-estuda-como-alternativa-ao-medicamento-24474608)
-* [Os aprendizados com a pandemia na visão de nove pensadores](https://epoca.globo.com/sociedade/os-aprendizados-com-pandemia-na-visao-de-nove-pensadores-24474426)
-* [Uma narrativa assustadoramente real — e irresistível](https://epoca.globo.com/helio-gurovitz/uma-narrativa-assustadoramente-real-e-irresistivel-1-24474354)
-* [Uma epidemia do barulho](https://epoca.globo.com/brasil/uma-epidemia-do-barulho-24474293)
-* [Tri com o Fluminense, Muricy recorda 'fico' e sonho com Telê que 'previu' título](https://oglobo.globo.com/esportes/fluminense/tri-com-fluminense-muricy-recorda-fico-sonho-com-tele-que-previu-titulo-24474280)
+* [Maracanã 70 anos: o gosto de ser campeão na torcida visitante contra Flamengo e Botafogo](https://oglobo.globo.com/esportes/maracana-70-anos-gosto-de-ser-campeao-na-torcida-visitante-contra-flamengo-botafogo-24475884)
+* [Com auxílio emergencial, número de beneficiários de transferência de renda dobra no país](https://oglobo.globo.com/economia/com-auxilio-emergencial-numero-de-beneficiarios-de-transferencia-de-renda-dobra-no-pais-24475483)
+* [Impeachment: Witzel quer conversar com deputados e admite a assessores ceder cargos](https://oglobo.globo.com/rio/impeachment-witzel-quer-conversar-com-deputados-admite-assessores-ceder-cargos-24475395)
+* [Inquérito eleitoral que investiga lavagem de dinheiro de Flávio Bolsonaro passa para as mãos do MPF](https://oglobo.globo.com/brasil/inquerito-eleitoral-que-investiga-lavagem-de-dinheiro-de-flavio-bolsonaro-passa-para-as-maos-do-mpf-24475457)
+* [Covid-19: 'Desconheço a razão técnica pela qual estamos reabrindo os shoppings', diz infectologista](https://oglobo.globo.com/rio/covid-19-desconheco-razao-tecnica-pela-qual-estamos-reabrindo-os-shoppings-diz-infectologista-24475433)
+* [Contrariando Trump, investigações não encontram sinais de que Antifa planejaram protestos](https://oglobo.globo.com/mundo/contrariando-trump-investigacoes-nao-encontram-sinais-de-que-antifa-planejaram-protestos-24475383)
+* [Em novo ministério, Fábio Faria comandará orçamento de R$ 2,3 bi, estatais e publicidade oficial](https://oglobo.globo.com/brasil/em-novo-ministerio-fabio-faria-comandara-orcamento-de-23-bi-estatais-publicidade-oficial-1-24475394)
+* [Jim Carrey é apresentador infantil em luto na série 'Kidding', que estreia no streaming](https://oglobo.globo.com/cultura/jim-carrey-apresentador-infantil-em-luto-na-serie-kidding-que-estreia-no-streaming-24475182)
+* [Ônibus 174: 20 anos depois, José Padilha e Bruno Barreto relembram o sequestro que inspirou seus filmes](https://oglobo.globo.com/cultura/onibus-174-20-anos-depois-jose-padilha-bruno-barreto-relembram-sequestro-que-inspirou-seus-filmes-24472791)
+* [Mais de mil torneiras para ligar: como é tomar conta de um hotel vazio na pandemia](https://oglobo.globo.com/boa-viagem/mais-de-mil-torneiras-para-ligar-como-tomar-conta-de-um-hotel-vazio-na-pandemia-24471960)

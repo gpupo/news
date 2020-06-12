@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 06:10:37 UTC
+# indexed at 12/06/2020 06:34:49 UTC
 
 
 ## news.ycombinator.com
 
 
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
-* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
-* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
+* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
-* [OpenAI API](https://beta.openai.com/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
+* [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
 * [The yuan has been one of the world’s most stable major currencies](https://www.economist.com/finance-and-economics/2020/06/13/the-yuan-has-been-one-of-the-worlds-most-stable-major-currencies)
-* [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
-* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
+* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
+* [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
+* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
+* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
-* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
-* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
-* [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
+* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
-* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
+* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
-* [Go 1.15 – Draft release notes](https://tip.golang.org/doc/go1.15)
-* [GDPR – Postman collects HTTP request payload and sends them to their servers](https://news.ycombinator.com/item?id=23496090)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
+* [OpenAI API](https://beta.openai.com/)
 ## nytimes.com
 
 
@@ -79,20 +79,20 @@ layout: default
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
 * [Korean Adoptee Wins Landmark Case in Search for Birth Parents](https://www.nytimes.com/2020/06/12/world/asia/south-korea-adoption-Kara-Bos.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/11/arts/design/art-accounts-to-follow-on-instagram.html)
 * [Will Miami Be Around in 2067?](https://www.nytimes.com/2020/06/09/books/review/disposable-city-miami-climate-change-mario-alejandro-ariza.html)
 * [Pete Rademacher, 1956 Olympic Boxing Champion, Dies at 91](https://www.nytimes.com/2020/06/11/sports/pete-rademacher-1956-olympic-boxing-champion-dies-at-91.html)
-* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
 * [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Silver Lining to the Mask? Not Having to Smile](https://www.nytimes.com/2020/06/10/style/face-masks-women.html)
 * [Ohio Lawmaker Asks Racist Question About Black People and Hand-Washing](https://www.nytimes.com/2020/06/11/us/politics/steve-huffman-african-americans-coronavirus.html)
@@ -102,8 +102,8 @@ layout: default
 ## globo.com
 
 
+* [Volta do futebol no Rio: entenda os argumentos dos médicos dos clubes favoráveis e contrários](https://oglobo.globo.com/esportes/volta-do-futebol-no-rio-entenda-os-argumentos-dos-medicos-dos-clubes-favoraveis-contrarios-24471098)
 * [Os fiéis, os críticos e os arrependidos: pesquisa mostra como pensa hoje quem votou em Bolsonaro em 2018](https://epoca.globo.com/guilherme-amado/os-fieis-os-criticos-os-arrependidos-pesquisa-mostra-como-pensa-hoje-quem-votou-em-bolsonaro-em-2018-24474318)
-* [A semana em que os dados da pandemia no Brasil sofreram um apagão](https://epoca.globo.com/sociedade/a-semana-em-que-os-dados-da-pandemia-no-brasil-sofreram-um-apagao-24474898)
 * [Murilo Cleto e Ale Santos discutem a derrubada de estátuas de figuras históricas](https://epoca.globo.com/cultura/murilo-cleto-ale-santos-discutem-derrubada-de-estatuas-de-figuras-historicas-24474860)
 * [Nove perguntas para Tasso Jereissati](https://epoca.globo.com/brasil/nove-perguntas-para-tasso-jereissati-24474825)
 * [A reabertura pós-quarentena do Café de Flore, o café dos artistas](https://epoca.globo.com/mundo/a-reabertura-pos-quarentena-do-cafe-de-flore-cafe-dos-artistas-24474782)

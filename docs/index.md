@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 15:09:42 UTC
+# indexed at 12/06/2020 15:34:17 UTC
 
 
 ## news.ycombinator.com
@@ -17,26 +17,26 @@ layout: default
 * [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
 * [Why Was Benjamin Franklin’s Basement Filled with Skeletons? (2013)](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
 * [Voices of Music](https://voicesofmusic.org/donate.html)
+* [Probing a Cloud of the Fifth State of Matter (Bose-Einstein Condensate) on ISS](https://www.sciencealert.com/we-ve-now-been-able-to-probe-a-cloud-of-the-fifth-state-of-matter-in-space)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 * [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
-* [Probing a Cloud of the Fifth State of Matter (Bose-Einstein Condensate) on ISS](https://www.sciencealert.com/we-ve-now-been-able-to-probe-a-cloud-of-the-fifth-state-of-matter-in-space)
 * [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
 * [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [Show HN: A free educational live stream platform for kids](https://dexter.live/)
-* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
+* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
+* [An empirical study of obsolete answers on Stack Overflow [pdf]](https://arxiv.org/abs/1903.12282)
 * [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
-* [We could see an orbital launch of SpaceX’s Starship this year](https://www.universetoday.com/146472/once-starship-prototypes-are-done-exploding-we-could-see-an-orbital-launch-this-year/)
-* [Tim Bray told a union meeting Amazon should be broken up](https://www.businessinsider.com/former-amazon-engineer-tim-bray-calls-for-antitrust-breakup-2020-6)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
-* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
+* [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)
 * [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
 ## nytimes.com
 
@@ -83,18 +83,18 @@ layout: default
 * [Coronavirus Can Set Off a ‘Cytokine Storm.’ These Drugs May Calm It.](https://www.nytimes.com/2020/06/11/health/coronavirus-cytokine-storm.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
 * [Faith Ringgold Will Keep Fighting Back](https://www.nytimes.com/2020/06/11/arts/design/faith-ringgold-art.html)
 * [For Online Learning, Business Has Never Been Better](https://www.nytimes.com/2020/06/12/business/chegg-dan-rosensweig-corner-office.html)
 * [Top International Players Uneasy on U.S. Open Plan as Decision Nears](https://www.nytimes.com/2020/06/11/sports/tennis/us-open-2020-plans.html)
 * [Jimmy Fallon Asks Trump to Reconsider His ‘Cough-a-palooza’ Rally](https://www.nytimes.com/2020/06/12/arts/television/late-night-trump-juneteenth-tulsa-racist-violence.html)
 * [6 Things to Do at Home This Weekend](https://www.nytimes.com/2020/06/11/arts/things-to-do-weekend-coronavirus.html)
 * [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
-* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
-* [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
+* [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+* [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Reino Unido blinda estátua de Churchill contra manifestantes, e Boris lamenta 'vergonha'](https://oglobo.globo.com/mundo/reino-unido-blinda-estatua-de-churchill-contra-manifestantes-boris-lamenta-vergonha-1-24476367)
+* [Marisa Monte lança estúdio virtual recheado de materiais inéditos](https://oglobo.globo.com/ela/marisa-monte-lanca-estudio-virtual-recheado-de-materiais-ineditos-1-24476410)
+* [Empresário acusado de fraudes na Saúde pede transferência de UPA de Bangu para hospital particular](https://oglobo.globo.com/rio/empresario-acusado-de-fraudes-na-saude-pede-transferencia-de-upa-de-bangu-para-hospital-particular-24476373)
 * [Neozelandeses criticam governo por permitir retorno da equipe de filmagem de 'Avatar 2'](https://oglobo.globo.com/cultura/neozelandeses-criticam-governo-por-permitir-retorno-da-equipe-de-filmagem-de-avatar-2-24476302)
-* [Reino Unido blinda estátua de Churchill contra manifestantes, e Boris lamenta 'vergonha'](https://oglobo.globo.com/mundo/reino-unido-blinda-estatua-de-churchill-contra-manifestantes-boris-lamenta-vergonha-24476367)
 * [Lembra da Hello Kitty? Empresa que criou a gatinha terá presidente mais jovem que a personagem](https://oglobo.globo.com/economia/lembra-da-hello-kitty-empresa-que-criou-gatinha-tera-presidente-mais-jovem-que-personagem-1-24476333)
 * [Polícia francesa protesta contra acusações de racismo e violência](https://oglobo.globo.com/mundo/policia-francesa-protesta-contra-acusacoes-de-racismo-violencia-24476335)
-* [Empresário acusado de fraudes na Saúde pede transferência de UPA para hospital particular](https://oglobo.globo.com/brasil/empresario-acusado-de-fraudes-na-saude-pede-transferencia-de-upa-para-hospital-particular-24476373)
 * [Ministro Ramos rechaça golpe e diz não crer em afastamento de Bolsonaro pelo TSE e Congresso](https://oglobo.globo.com/brasil/ministro-ramos-rechaca-golpe-diz-nao-crer-em-afastamento-de-bolsonaro-pelo-tse-congresso-24476314)
 * [O desafino dos dois aniversariantes do dia](https://epoca.globo.com/guilherme-amado/o-desafino-dos-dois-aniversariantes-do-dia-24476364)
 * [Caso Miguel joga luz sobre as perdas do Brasil em descuidar das crianças mais vulneráveis](https://epoca.globo.com/brasil/caso-miguel-joga-luz-sobre-as-perdas-do-brasil-em-descuidar-das-criancas-mais-vulneraveis-24476357)
 * [Paes sonda Fernando Gabeira para vice](https://epoca.globo.com/guilherme-amado/paes-sonda-fernando-gabeira-para-vice-24476330)
-* [Fachin nega pedido para tirar Weintraub do inquérito das fake news](https://oglobo.globo.com/brasil/fachin-nega-pedido-para-tirar-weintraub-do-inquerito-das-fake-news-24476310)

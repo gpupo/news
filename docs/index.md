@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 12:12:33 UTC
+# indexed at 12/06/2020 12:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
-* [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
+* [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
+* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
 * [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
 * [Show HN: A free educational live stream platform for kids](https://dexter.live/)
 * [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
-* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
-* [The Book of Shaders](https://thebookofshaders.com/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
-* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
+* [Bicycles from Sketches](http://www.gianlucagimini.it/prototypes/velocipedia.html)
+* [The Book of Shaders](https://thebookofshaders.com/)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
+* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
-* [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
-* [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 ## nytimes.com
 
 
@@ -73,17 +73,17 @@ layout: default
 * [2020 Is the Summer of the Road Trip. Unless You’re Black.](https://www.nytimes.com/2020/06/10/travel/road-trip-black.html)
 * [How a Virus Triage Tent Became a Serene Oasis for Health Care Workers](https://www.nytimes.com/2020/06/12/nyregion/coronavirus-doctors-mental-health.html)
 * [Ambush Suspect Is Killed After Wounding 3 Officers in a Standoff, Sheriff Says](https://www.nytimes.com/2020/06/11/us/paso-robles-shooting.html)
+* [Both Candidates Are Widely Disliked (Again). This Time, Biden Could Benefit.](https://www.nytimes.com/2020/06/12/us/politics/polls-trump-biden.html)
 * [Twitter Removes Chinese Misinformation Campaign](https://www.nytimes.com/2020/06/11/technology/twitter-chinese-misinformation.html)
 * [Lady Antebellum, Hit Country Trio, Changes Its Name in Wake of Protests](https://www.nytimes.com/2020/06/11/arts/music/lady-antebellum-name-change-lady-a.html)
-* [North Korea Vows to Boost Nuclear Program, Saying U.S. Diplomacy Failed](https://www.nytimes.com/2020/06/11/world/asia/north-korea-nuclear-trump.html)
 * [Korean Adoptee Wins Landmark Case in Search for Birth Parents](https://www.nytimes.com/2020/06/12/world/asia/south-korea-adoption-Kara-Bos.html)
 * [Can Anna Wintour Survive the Social Justice Movement?](https://www.nytimes.com/2020/06/11/nyregion/anna-wintour-conde-nast-racism.html)
 * [Trump Administration Moves to Solidify Restrictive Immigration Policies](https://www.nytimes.com/2020/06/12/us/politics/coronavirus-trump-immigration-policies.html)
-* [Georgia Havoc Raises New Doubts on Pricey Voting Machines](https://www.nytimes.com/2020/06/11/us/politics/georgia-voting-machines.html)
+* [Lebanon’s Currency Plunges, and Protesters Surge Into Streets](https://www.nytimes.com/2020/06/11/world/middleeast/lebanon-protests.html)
 * [Coronavirus Can Set Off a ‘Cytokine Storm.’ These Drugs May Calm It.](https://www.nytimes.com/2020/06/11/health/coronavirus-cytokine-storm.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [Faith Ringgold Will Keep Fighting Back](https://www.nytimes.com/2020/06/11/arts/design/faith-ringgold-art.html)
@@ -91,9 +91,9 @@ layout: default
 * [Top International Players Uneasy on U.S. Open Plan as Decision Nears](https://www.nytimes.com/2020/06/11/sports/tennis/us-open-2020-plans.html)
 * [Jimmy Fallon Asks Trump to Reconsider His ‘Cough-a-palooza’ Rally](https://www.nytimes.com/2020/06/12/arts/television/late-night-trump-juneteenth-tulsa-racist-violence.html)
 * [6 Things to Do at Home This Weekend](https://www.nytimes.com/2020/06/11/arts/things-to-do-weekend-coronavirus.html)
+* [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Black and Latino Churches Offer Prayers, Hope and Coronavirus Testing](https://www.nytimes.com/2020/06/10/health/coronavirus-testing-churches.html)
 * [U.S. and Chinese Scientists Trace Evolution of Coronaviruses in Bats](https://www.nytimes.com/2020/06/01/science/coronavirus-bats-wuhan.html)
-* [For a Day, Scientists Pause Science to Confront Racism](https://www.nytimes.com/2020/06/10/science/science-diversity-racism-protests.html)
 * [Monster or Machine? A Profile of the Coronavirus at 6 Months](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Especialista critica flexibilização de isolamento e, apesar de declínio na epidemia, alerta para recrudescimento da Covid-19](https://oglobo.globo.com/rio/especialista-critica-flexibilizacao-de-isolamento-apesar-de-declinio-na-epidemia-alerta-para-recrudescimento-da-covid-19-24475936)
+* [Especialista critica flexibilização de isolamento e, apesar de declínio nos números, alerta para recrudescimento da Covid-19](https://oglobo.globo.com/rio/especialista-critica-flexibilizacao-de-isolamento-apesar-de-declinio-nos-numeros-alerta-para-recrudescimento-da-covid-19-24475936)
+* [Índia registra recorde de novos casos e expectativa de nova quarentena ganha força](https://oglobo.globo.com/mundo/india-registra-recorde-de-novos-casos-expectativa-de-nova-quarentena-ganha-forca-24476140)
+* [Em meio à pandemia de Covid-19, economia britânica encolhe 20% em abril e anula quase 18 anos de crescimento](https://oglobo.globo.com/economia/em-meio-pandemia-de-covid-19-economia-britanica-encolhe-20-em-abril-anula-quase-18-anos-de-crescimento-24476133)
+* [Dólar é negociado acima de R$ 5, com mercado avaliando risco de segunda onda de contaminações de Covid-19](https://oglobo.globo.com/economia/dolar-negociado-acima-de-5-com-mercado-avaliando-risco-de-segunda-onda-de-contaminacoes-de-covid-19-24476142)
+* [Maracanã 70 anos: artilheiro da Conmebol, Sinval recorda final do Botafogo contra Peñarol](https://oglobo.globo.com/esportes/maracana-70-anos-artilheiro-da-conmebol-sinval-recorda-final-do-botafogo-contra-penarol-1-24475278)
 * [Jornal revela os dez itens que a rainha Elizabeth sempre carrega na bolsa](https://oglobo.globo.com/ela/gente/jornal-revela-os-dez-itens-que-rainha-elizabeth-sempre-carrega-na-bolsa-24476042)
-* [Bolsas europeias abrem em alta, um dia após derrocada do mercado americano; Tóquio e Hong Kong recuam](https://oglobo.globo.com/economia/bolsas-europeias-abrem-em-alta-um-dia-apos-derrocada-do-mercado-americano-toquio-hong-kong-recuam-1-24475906)
 * [Brasil tem 805.682 casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-805682-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24475923)
 * [Caso Marielle: Bombeiro, amigo de Lessa, deu sumiço ao celular pessoal antes de ser preso pela Polícia Civil](https://oglobo.globo.com/rio/caso-marielle-bombeiro-amigo-de-lessa-deu-sumico-ao-celular-pessoal-antes-de-ser-preso-pela-policia-civil-24475172)
-* [É dura a vida do bailarino: professor que superou preconceitos pode desistir da profissão por causa da pandemia](https://oglobo.globo.com/rio/bairros/e-dura-vida-do-bailarino-professor-que-superou-preconceitos-pode-desistir-da-profissao-por-causa-da-pandemia-24472328)
-* [Maracanã 70 anos: artilheiro da Conmebol, Sinval recorda final do Botafogo contra Peñarol](https://oglobo.globo.com/esportes/maracana-70-anos-artilheiro-da-conmebol-sinval-recorda-final-do-botafogo-contra-penarol-1-24475278)
 * [Quatro em cada dez brasileiros acreditam que economia só se recupera da pandemia após dois anos](https://oglobo.globo.com/economia/quatro-em-cada-dez-brasileiros-acreditam-que-economia-so-se-recupera-da-pandemia-apos-dois-anos-24475289)
-* [Quem convenceu os Witzel a demitir o homem-forte do governo](https://epoca.globo.com/guilherme-amado/quem-convenceu-os-witzel-demitir-homem-forte-do-governo-24474134)
 * [Leilão solidário pela Covid terá obras de Eduardo Kobra, Rivellino e Gabigol](https://epoca.globo.com/guilherme-amado/leilao-solidario-pela-covid-tera-obras-de-eduardo-kobra-rivellino-gabigol-24474066)

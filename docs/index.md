@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 01:11:02 UTC
+# indexed at 12/06/2020 01:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [Go 1.15 Beta 1 is released](https://groups.google.com/d/msg/golang-announce/A0frTIl9W6Y/mTgsOVCnAQAJ)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
-* [Go 1.15 Beta 1 is released](https://groups.google.com/d/msg/golang-announce/A0frTIl9W6Y/mTgsOVCnAQAJ)
-* [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
-* [OpenAI API](https://beta.openai.com/)
-* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [Why are there so many humans?](https://www.sapiens.org/evolution/human-population-evolution/)
+* [OpenAI API](https://beta.openai.com/)
+* [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Fatness and Thinness in the Middle Ages](https://www.medievalists.net/2020/06/fatness-thinness-middle-ages/)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
+* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
-* [Cantor function, a.k.a. devil's staircase: increasing function with 0 derivative](https://en.wikipedia.org/wiki/Cantor_function)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
-* [Quantum Matter Orbits Earth](https://www.nature.com/articles/d41586-020-01653-6)
+* [Cantor function, a.k.a. devil's staircase: increasing function with 0 derivative](https://en.wikipedia.org/wiki/Cantor_function)
 * [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare?](https://news.ycombinator.com/item?id=23490115)
-* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [FBI warns hackers are targeting mobile banking apps](https://thehill.com/policy/cybersecurity/502148-fbi-warns-hackers-are-targeting-mobile-banking-apps)
+* [Quantum Matter Orbits Earth](https://www.nature.com/articles/d41586-020-01653-6)
+* [Spatio-Temporal Handwriting Imitation](https://lme.tf.fau.de/pattern-recognition-blog/spatio-temporal-handwriting-imitation/)
 * [Analysis of New Malloc Protections on Singly Linked Lists](https://maxwelldulin.com/BlogPost?post=5445977088)
-* [The hunt for Dinosaur proteins (2017)](https://www.sciencemag.org/news/2017/09/i-don-t-care-what-they-say-about-me-paleontologist-stares-down-critics-her-hunt)
-* [The Hamler Programming Language](https://www.hamler-lang.org/)
 * [The Rise, Fall, and Rise of the Home Office](https://www.citylab.com/design/2020/06/home-office-setup-design-history-remote-work-furniture/612889/)
-* [Show HN: Kretes – Build full-stack applications in TypeScript and PostgreSQL](https://kretes.dev/)
+* [The Hamler Programming Language](https://www.hamler-lang.org/)
+* [A tech stack should be a well-balanced portfolio](https://staysaasy.com/engineering/2020/05/30/Picking-Your-Tech-Stack.html)
 ## nytimes.com
 
 
@@ -61,8 +61,8 @@ layout: default
 * [Did Washington Get in Uber’s Way?](https://www.nytimes.com/2020/06/11/business/dealbook/grubhub-uber-just-eat.html)
 * [A.O. Scott on the Work of Wallace Stegner](https://www.nytimes.com/2020/06/05/books/review/podcast-a-o-scott-wallace-stegner-sunny-days-david-kamp.html)
 * [Coronavirus Could Make America’s Gun Problem Even Deadlier](https://www.nytimes.com/2020/06/11/opinion/coronavirus-gun-deaths-suicide.html)
-* [Reactionaries Are Having a Bad Month](https://www.nytimes.com/2020/06/11/opinion/trump-confederate-flag-military-bases.html)
 * [Trump's Tulsa Rally Is Just More Racist Trolling](https://www.nytimes.com/2020/06/11/opinion/trump-rally-tulsa.html)
+* [Reactionaries Are Having a Bad Month](https://www.nytimes.com/2020/06/11/opinion/trump-confederate-flag-military-bases.html)
 * [Why Joe Biden Should Look to His Left](https://www.nytimes.com/2020/06/11/opinion/biden-progressive-agenda.html)
 * [Ritchie Torres for Congress in the Bronx](https://www.nytimes.com/2020/06/11/opinion/ritchie-torres-congress-bronx.html)
 * [Detroit. New Orleans. D.C. Predatory Cities Are on the Rise.](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html)
@@ -82,10 +82,10 @@ layout: default
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
 * [Protests Upend N.Y.C. Mayor’s Race, and Eyes Turn to Jumaane Williams](https://www.nytimes.com/2020/06/11/nyregion/jumaane-williams-mayor-2021.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn To in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro pede a apoiadores que entrem em hospitais para filmar leitos](https://oglobo.globo.com/sociedade/coronavirus/bolsonaro-pede-apoiadores-que-entrem-em-hospitais-para-filmar-leitos-24475348)
+* [Campanha de Trump exige que público de comícios fechados não a processe se pegar Covid-19](https://oglobo.globo.com/mundo/campanha-de-trump-exige-que-publico-de-comicios-fechados-nao-processe-se-pegar-covid-19-24475177)
 * [Eike Batista é condenado a oito anos de prisão por enganar mercado de capitais a respeito da existência de petróleo](https://oglobo.globo.com/economia/eike-batista-condenado-oito-anos-de-prisao-por-enganar-mercado-de-capitais-respeito-da-existencia-de-petroleo-1-24475128)
 * [Del Toro, Iñárritu e Salma Hayek unem forças em fundo de apoio a trabalhadores do audiovisual mexicano](https://oglobo.globo.com/cultura/del-toro-inarritu-salma-hayek-unem-forcas-em-fundo-de-apoio-trabalhadores-do-audiovisual-mexicano-24475308)
 * [Zoom: teste para o Vale do Silício](https://oglobo.globo.com/economia/zoom-teste-para-vale-do-silicio-24475233)
 * [Ricardo Darin diz que após quarentena viajará para Paquetá em busca de ex-namorada brasileira, Sueli; vídeo](https://oglobo.globo.com/rio/ricardo-darin-diz-que-apos-quarentena-viajara-para-paqueta-em-busca-de-ex-namorada-brasileira-sueli-video-24475227)
 * [Congestionamento na Ponte Rio-Niterói indica que muitos cariocas viajaram no feriadão](https://oglobo.globo.com/rio/congestionamento-na-ponte-rio-niteroi-indica-que-muitos-cariocas-viajaram-no-feriadao-24475205)
 * [Shoppings de SP reabrem com expectativa de vendas até 60% menores](https://oglobo.globo.com/economia/shoppings-de-sp-reabrem-com-expectativa-de-vendas-ate-60-menores-24475168)
-* [Campanha de Trump exige que público de comícios fechados não a processe se pegar Covid-19](https://oglobo.globo.com/mundo/campanha-de-trump-exige-que-publico-de-comicios-fechados-nao-processe-se-pegar-covid-19-24475177)
 * [Percentual da população com anticorpos para o coronavírus aumentou em 53% em duas semanas no Brasil](https://oglobo.globo.com/sociedade/coronavirus/percentual-da-populacao-com-anticorpos-para-coronavirus-aumentou-em-53-em-duas-semanas-no-brasil-24475137)
 * [Brasil passa de 800 mil casos de Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-800-mil-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24474997)
-* [Marcos Pontes diz que ficou sabendo de divisão na própria pasta no dia do anúncio](https://oglobo.globo.com/brasil/marcos-pontes-diz-que-ficou-sabendo-de-divisao-na-propria-pasta-no-dia-do-anuncio-24475151)

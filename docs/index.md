@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 08:11:12 UTC
+# indexed at 12/06/2020 08:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -19,16 +19,17 @@ layout: default
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
-* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [Xrdp: An open source RDP server](https://github.com/neutrinolabs/xrdp)
-* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
+* [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [Global air pollution maps by the European Space Agency](http://www.esa.int/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available)
 * [The antitrust case against Google](https://insights.som.yale.edu/insights/the-antitrust-case-against-google)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
+* [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
-* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
+* [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [The Center of the Pixel is (0.5, 0.5)](http://www.realtimerendering.com/blog/the-center-of-the-pixel-is-0-50-5/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
@@ -37,7 +38,6 @@ layout: default
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
 * [OpenAI API](https://beta.openai.com/)
 * [The Hamler Programming Language](https://www.hamler-lang.org/)
-* [The Rise, Fall, and Rise of the Home Office](https://www.citylab.com/design/2020/06/home-office-setup-design-history-remote-work-furniture/612889/)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair](https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html)
 * [Korean Adoptee Wins Landmark Case in Search for Birth Parents](https://www.nytimes.com/2020/06/12/world/asia/south-korea-adoption-Kara-Bos.html)
 * [From ‘Disgraceful’ to ‘Breathtaking’: La Guardia’s $4 Billion Makeover](https://www.nytimes.com/2020/06/10/nyregion/new-la-guardia-airport-terminal.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [The Poems That Poets Turn to in a Time of Strife](https://www.nytimes.com/2020/06/11/books/poetry-poets-recommendations.html)
 * [‘The King of Staten Island’ Review: Pete Davidson Gets (Even More) Personal](https://www.nytimes.com/2020/06/11/movies/the-king-of-staten-island-review.html)
@@ -101,7 +101,6 @@ layout: default
 
 * [Maracanã 70 anos: o gosto de ser campeão na torcida visitante contra Flamengo e Botafogo](https://oglobo.globo.com/esportes/maracana-70-anos-gosto-de-ser-campeao-na-torcida-visitante-contra-flamengo-botafogo-24475884)
 * [Com auxílio emergencial, número de beneficiários de transferência de renda dobra no país](https://oglobo.globo.com/economia/com-auxilio-emergencial-numero-de-beneficiarios-de-transferencia-de-renda-dobra-no-pais-24475483)
-* [Covid-19: 'Desconheço a razão técnica pela qual estamos reabrindo os shoppings', diz infectologista](https://oglobo.globo.com/rio/covid-19-desconheco-razao-tecnica-pela-qual-estamos-reabrindo-os-shoppings-diz-infectologista-24475433)
 * [Guga Chacra: 'Na foto de hoje, Trump não é favorito à reeleição'](https://oglobo.globo.com/podcast/guga-chacra-na-foto-de-hoje-trump-nao-favorito-reeleicao-24475356)
 * [Contrariando Trump, investigações não encontram sinais de que Antifa planejaram protestos](https://oglobo.globo.com/mundo/contrariando-trump-investigacoes-nao-encontram-sinais-de-que-antifa-planejaram-protestos-24475383)
 * [Jim Carrey é apresentador infantil em luto na série 'Kidding', que estreia no streaming](https://oglobo.globo.com/cultura/jim-carrey-apresentador-infantil-em-luto-na-serie-kidding-que-estreia-no-streaming-24475182)
@@ -109,3 +108,4 @@ layout: default
 * [Ônibus 174: 20 anos depois, José Padilha e Bruno Barreto relembram o sequestro que inspirou seus filmes](https://oglobo.globo.com/cultura/onibus-174-20-anos-depois-jose-padilha-bruno-barreto-relembram-sequestro-que-inspirou-seus-filmes-24472791)
 * [Os ensinamentos que o mentor de Guardiola deixou no Flamengo](https://oglobo.globo.com/esportes/os-ensinamentos-que-mentor-de-guardiola-deixou-no-flamengo-24475196)
 * [Mais de mil torneiras para ligar: como é tomar conta de um hotel vazio na pandemia](https://oglobo.globo.com/boa-viagem/mais-de-mil-torneiras-para-ligar-como-tomar-conta-de-um-hotel-vazio-na-pandemia-24471960)
+* ['As pessoas não conhecem o lado bem-humorado do Roberto Carlos', diz Liah Soares, que gravou dueto com o Rei](https://oglobo.globo.com/ela/gente/as-pessoas-nao-conhecem-lado-bem-humorado-do-roberto-carlos-diz-liah-soares-que-gravou-dueto-com-rei-24473069)

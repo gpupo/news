@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 13:09:24 UTC
+# indexed at 12/06/2020 13:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -12,39 +12,39 @@ layout: default
 * [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
-* [Fears Grow of an Eviction Apocalypse](https://www.axios.com/eviction-crisis-coronavirus-351bb693-a04f-4ea1-a27d-dceb5163af14.html)
 * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
 * [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [Bicycles from Sketches](http://www.gianlucagimini.it/prototypes/velocipedia.html)
-* [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
-* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
-* [Show HN: A free educational live stream platform for kids](https://dexter.live/)
-* [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
-* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
+* [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
 * [The Book of Shaders](https://thebookofshaders.com/)
-* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
+* [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
+* [Once Starship Prototypes stop Exploding we could see an Orbital Launch this Year](https://www.universetoday.com/146472/once-starship-prototypes-are-done-exploding-we-could-see-an-orbital-launch-this-year/)
+* [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+* [Show HN: A free educational live stream platform for kids](https://dexter.live/)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
-* [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
+* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
 * [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
+* [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
+* [Probing a Cloud of the Fifth State of Matter (Bose-Einstein Condensate) on ISS](https://www.sciencealert.com/we-ve-now-been-able-to-probe-a-cloud-of-the-fifth-state-of-matter-in-space)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
+* [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [Capitol Hill Autonomous Zone](https://capitolhillautonomous.zone/)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
-* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
-* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 ## nytimes.com
 
 
 * [On the Future, Americans Can Agree: It Doesn’t Look Good](https://www.nytimes.com/2020/06/12/us/politics/election-coronavirus-protests-unemployment.html)
 * [As Americans Shift on Racism, Trump Digs In](https://www.nytimes.com/2020/06/11/us/politics/trump-on-race.html)
 * [George Floyd Protests Inspire Fresh Scrutiny of Policing in Europe, Too](https://www.nytimes.com/2020/06/12/world/europe/george-floyd-protests-europe-police.html)
-* [Live Coronavirus Updates: Rule for Trump Rally Highlights Continued Threat](https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html)
 * [‘Corona Cycleways’ Become the New Post-Confinement Commute](https://www.nytimes.com/2020/06/12/business/paris-bicycles-commute-coronavirus.html)
 * [Live Stock Market Tracker and Economy Updates](https://www.nytimes.com/2020/06/12/business/stock-market-today-coronavirus.html)
 * [For George Floyd’s Mourners, What Does ‘Justice’ Mean?](https://www.nytimes.com/2020/06/12/us/politics/george-floyd-racial-justice.html)
@@ -73,7 +73,7 @@ layout: default
 * [Together.](https://www.nytimes.com/2020/06/12/style/modern-love-coronavirus-living-together.html)
 * [2020 Is the Summer of the Road Trip. Unless You’re Black.](https://www.nytimes.com/2020/06/10/travel/road-trip-black.html)
 * [How a Virus Triage Tent Became a Serene Oasis for Health Care Workers](https://www.nytimes.com/2020/06/12/nyregion/coronavirus-doctors-mental-health.html)
-* [Ambush Suspect Is Killed After Wounding 3 Officers in a Standoff, Sheriff Says](https://www.nytimes.com/2020/06/11/us/paso-robles-shooting.html)
+* [Arab Envoy Warns Israelis That Annexation Threatens Warming Ties](https://www.nytimes.com/2020/06/12/world/middleeast/west-bank-annexation-israel-uae.html)
 * [Both Candidates Are Widely Disliked (Again). This Time, Biden Could Benefit.](https://www.nytimes.com/2020/06/12/us/politics/polls-trump-biden.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Lady Antebellum, Hit Country Trio, Changes Its Name in Wake of Protests](https://www.nytimes.com/2020/06/11/arts/music/lady-antebellum-name-change-lady-a.html)
@@ -82,10 +82,10 @@ layout: default
 * [Trump Administration Moves to Solidify Restrictive Immigration Policies](https://www.nytimes.com/2020/06/12/us/politics/coronavirus-trump-immigration-policies.html)
 * [Lebanon’s Currency Plunges, and Protesters Surge Into Streets](https://www.nytimes.com/2020/06/11/world/middleeast/lebanon-protests.html)
 * [Coronavirus Can Set Off a ‘Cytokine Storm.’ These Drugs May Calm It.](https://www.nytimes.com/2020/06/11/health/coronavirus-cytokine-storm.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [Faith Ringgold Will Keep Fighting Back](https://www.nytimes.com/2020/06/11/arts/design/faith-ringgold-art.html)
 * [For Online Learning, Business Has Never Been Better](https://www.nytimes.com/2020/06/12/business/chegg-dan-rosensweig-corner-office.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Dólar é negociado acima de R$ 5, com risco de segunda onda de Covid-19 nos EUA](https://oglobo.globo.com/economia/dolar-negociado-acima-de-5-com-risco-de-segunda-onda-de-covid-19-nos-eua-24476142)
+* [IR 2020: Faltam 20 dias para a entrega da declaração. Tire suas dúvidas.](https://oglobo.globo.com/economia/ir-2020-faltam-20-dias-para-entrega-da-declaracao-tire-suas-duvidas-24472254)
+* [Dólar é negociado acima de R$ 5, com risco de segunda onda de Covid-19 nos EUA; Bolsa recua](https://oglobo.globo.com/economia/dolar-negociado-acima-de-5-com-risco-de-segunda-onda-de-covid-19-nos-eua-bolsa-recua-24476142)
+* [Covid-19 deve criar onda de mortes por câncer e doenças cardíacas, diz médica da USP](https://epoca.globo.com/sociedade/covid-19-deve-criar-onda-de-mortes-por-cancer-doencas-cardiacas-diz-medica-da-usp-24476135)
+* [Em meio a polêmica sobre estátuas de escravagistas, busto de ator negro é vandalizado com alvejante na Inglaterra](https://epoca.globo.com/mundo/em-meio-polemica-sobre-estatuas-de-escravagistas-busto-de-ator-negro-vandalizado-com-alvejante-na-inglaterra-1-24476200)
 * [Lulu Santos: 'Não consigo deixar de ver a vida melhor no futuro'](https://oglobo.globo.com/cultura/lulu-santos-nao-consigo-deixar-de-ver-vida-melhor-no-futuro-1-24470890)
 * [PS5: Como é o novo PlayStation 5 e o que a Sony revelou sobre seu próximo lançamento](https://epoca.globo.com/sociedade/ps5-como-o-novo-playstation-5-o-que-sony-revelou-sobre-seu-proximo-lancamento-24476184)
 * [Índia registra recorde de novos casos e expectativa de volta à quarentena ganha força](https://oglobo.globo.com/mundo/india-registra-recorde-de-novos-casos-expectativa-de-volta-quarentena-ganha-forca-24476140)
 * [Em meio à pandemia de Covid-19, economia britânica encolhe 20% em abril e anula quase 18 anos de crescimento](https://oglobo.globo.com/economia/em-meio-pandemia-de-covid-19-economia-britanica-encolhe-20-em-abril-anula-quase-18-anos-de-crescimento-24476133)
-* [Especialista critica flexibilização de isolamento e, apesar de declínio nos números, alerta para recrudescimento da Covid-19](https://oglobo.globo.com/rio/especialista-critica-flexibilizacao-de-isolamento-apesar-de-declinio-nos-numeros-alerta-para-recrudescimento-da-covid-19-24475936)
-* [Jornal revela os dez itens que a rainha Elizabeth sempre carrega na bolsa](https://oglobo.globo.com/ela/gente/jornal-revela-os-dez-itens-que-rainha-elizabeth-sempre-carrega-na-bolsa-24476042)
-* [Quatro em cada dez brasileiros acreditam que economia só se recupera da pandemia após dois anos](https://oglobo.globo.com/economia/quatro-em-cada-dez-brasileiros-acreditam-que-economia-so-se-recupera-da-pandemia-apos-dois-anos-24475289)
 * [Leilão solidário pela Covid terá obras de Eduardo Kobra, Rivellino e Gabigol](https://epoca.globo.com/guilherme-amado/leilao-solidario-pela-covid-tera-obras-de-eduardo-kobra-rivellino-gabigol-24474066)
 * [O próximo capítulo da abertura do mercado de gás no Amazonas](https://epoca.globo.com/guilherme-amado/o-proximo-capitulo-da-abertura-do-mercado-de-gas-no-amazonas-24473767)

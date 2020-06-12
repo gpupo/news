@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 10:10:14 UTC
+# indexed at 12/06/2020 10:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 * [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
 * [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
+* [Show HN: A free educational live stream platform for kids](https://dexter.live/)
 * [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
-* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
-* [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
+* [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+* [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
-* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
-* [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
-* [Show HN: A free educational live stream platform for kids](https://dexter.live/)
+* [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
+* [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 * [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
-* [OpenAI API](https://beta.openai.com/)
 ## nytimes.com
 
 
@@ -54,7 +54,7 @@ layout: default
 * [An N.Y. Street Is Named for Robert E. Lee. Officials Want That Changed.](https://www.nytimes.com/2020/06/11/nyregion/general-lee-avenue-fort-hamilton-brooklyn.html)
 * [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)
 * [N.Y.C. Protests: Teenager’s Injuries Under Investigation](https://www.nytimes.com/2020/06/12/nyregion/nyc-protests.html)
-* [Georgia’s Election Meltdown](https://www.nytimes.com/2020/06/11/podcasts/the-daily/georgia-general-election.html)
+* [The Struggle to Teach From Afar](https://www.nytimes.com/2020/06/12/podcasts/the-daily/teaching-coronavirus.html)
 * [Did Washington Get in Uber’s Way?](https://www.nytimes.com/2020/06/11/business/dealbook/grubhub-uber-just-eat.html)
 * [A.O. Scott on the Work of Wallace Stegner](https://www.nytimes.com/2020/06/05/books/review/podcast-a-o-scott-wallace-stegner-sunny-days-david-kamp.html)
 * [Coronavirus Could Make America’s Gun Problem Even Deadlier](https://www.nytimes.com/2020/06/11/opinion/coronavirus-gun-deaths-suicide.html)
@@ -81,9 +81,9 @@ layout: default
 * [Georgia Havoc Raises New Doubts on Pricey Voting Machines](https://www.nytimes.com/2020/06/11/us/politics/georgia-voting-machines.html)
 * [Coronavirus Can Set Off a ‘Cytokine Storm.’ These Drugs May Calm It.](https://www.nytimes.com/2020/06/11/health/coronavirus-cytokine-storm.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [Faith Ringgold Will Keep Fighting Back](https://www.nytimes.com/2020/06/11/arts/design/faith-ringgold-art.html)
 * [For Online Learning, Business Has Never Been Better](https://www.nytimes.com/2020/06/12/business/chegg-dan-rosensweig-corner-office.html)

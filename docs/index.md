@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 11:34:46 UTC
+# indexed at 12/06/2020 12:12:33 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
-* [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
 * [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
+* [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
 * [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 * [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
-* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
-* [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
-* [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
-* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Show HN: A free educational live stream platform for kids](https://dexter.live/)
+* [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
+* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
+* [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
-* [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
+* [The Book of Shaders](https://thebookofshaders.com/)
 * [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
+* [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [MIT Ends Elsevier Negotiations](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [Show HN: Marple – Visualising millions of datapoints for engineers](https://getmarple.io/)
 * [New research helps unravel how vast amounts of plastic particles travel](https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/)
 * [Why whales sing: it’s a question of culture](https://www.spectator.co.uk/article/why-whales-sing-it-s-a-question-of-culture)
-* [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
+* [The utilitarian pleasures of playing board games by yourself](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
-* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
+* [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
-* [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
 ## nytimes.com
 
 
@@ -82,9 +82,9 @@ layout: default
 * [Georgia Havoc Raises New Doubts on Pricey Voting Machines](https://www.nytimes.com/2020/06/11/us/politics/georgia-voting-machines.html)
 * [Coronavirus Can Set Off a ‘Cytokine Storm.’ These Drugs May Calm It.](https://www.nytimes.com/2020/06/11/health/coronavirus-cytokine-storm.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [Faith Ringgold Will Keep Fighting Back](https://www.nytimes.com/2020/06/11/arts/design/faith-ringgold-art.html)
 * [For Online Learning, Business Has Never Been Better](https://www.nytimes.com/2020/06/12/business/chegg-dan-rosensweig-corner-office.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Especialista critica flexibilização de isolamento e, apesar de declínio na epidemia, alerta para recrudescimento da Covid-19](https://oglobo.globo.com/rio/especialista-critica-flexibilizacao-de-isolamento-apesar-de-declinio-na-epidemia-alerta-para-recrudescimento-da-covid-19-24475936)
+* [Jornal revela os dez itens que a rainha Elizabeth sempre carrega na bolsa](https://oglobo.globo.com/ela/gente/jornal-revela-os-dez-itens-que-rainha-elizabeth-sempre-carrega-na-bolsa-24476042)
 * [Bolsas europeias abrem em alta, um dia após derrocada do mercado americano; Tóquio e Hong Kong recuam](https://oglobo.globo.com/economia/bolsas-europeias-abrem-em-alta-um-dia-apos-derrocada-do-mercado-americano-toquio-hong-kong-recuam-1-24475906)
 * [Brasil tem 805.682 casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-805682-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24475923)
 * [Caso Marielle: Bombeiro, amigo de Lessa, deu sumiço ao celular pessoal antes de ser preso pela Polícia Civil](https://oglobo.globo.com/rio/caso-marielle-bombeiro-amigo-de-lessa-deu-sumico-ao-celular-pessoal-antes-de-ser-preso-pela-policia-civil-24475172)
 * [É dura a vida do bailarino: professor que superou preconceitos pode desistir da profissão por causa da pandemia](https://oglobo.globo.com/rio/bairros/e-dura-vida-do-bailarino-professor-que-superou-preconceitos-pode-desistir-da-profissao-por-causa-da-pandemia-24472328)
 * [Maracanã 70 anos: artilheiro da Conmebol, Sinval recorda final do Botafogo contra Peñarol](https://oglobo.globo.com/esportes/maracana-70-anos-artilheiro-da-conmebol-sinval-recorda-final-do-botafogo-contra-penarol-1-24475278)
-* [Maracanã 70 anos: Mike Tyson, o maqueiro vascaíno que se rendeu a Zico](https://oglobo.globo.com/esportes/maracana-70-anos-mike-tyson-maqueiro-vascaino-que-se-rendeu-zico-1-24474714)
-* [Novo epicentro da pandemia de Covid-19, América Latina vê números de violência doméstica e feminicídios dispararem](https://oglobo.globo.com/celina/novo-epicentro-da-pandemia-de-covid-19-america-latina-ve-numeros-de-violencia-domestica-feminicidios-dispararem-24472846)
-* [Pesquisa aponta filhos e truculência como fator de arrependimento no voto em Bolsonaro](https://epoca.globo.com/guilherme-amado/pesquisa-aponta-filhos-truculencia-como-fator-de-arrependimento-no-voto-em-bolsonaro-1-24474000)
+* [Quatro em cada dez brasileiros acreditam que economia só se recupera da pandemia após dois anos](https://oglobo.globo.com/economia/quatro-em-cada-dez-brasileiros-acreditam-que-economia-so-se-recupera-da-pandemia-apos-dois-anos-24475289)
 * [Quem convenceu os Witzel a demitir o homem-forte do governo](https://epoca.globo.com/guilherme-amado/quem-convenceu-os-witzel-demitir-homem-forte-do-governo-24474134)
-* ['As pessoas não conhecem o lado bem-humorado do Roberto Carlos', diz Liah Soares, que gravou dueto com o Rei](https://oglobo.globo.com/ela/gente/as-pessoas-nao-conhecem-lado-bem-humorado-do-roberto-carlos-diz-liah-soares-que-gravou-dueto-com-rei-24473069)
+* [Leilão solidário pela Covid terá obras de Eduardo Kobra, Rivellino e Gabigol](https://epoca.globo.com/guilherme-amado/leilao-solidario-pela-covid-tera-obras-de-eduardo-kobra-rivellino-gabigol-24474066)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 11:09:11 UTC
+# indexed at 12/06/2020 11:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -12,15 +12,16 @@ layout: default
 * [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [University of the People: Tuition-Free, Accredited Online Degree Programs](https://www.uopeople.edu/)
 * [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
+* [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
 * [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
-* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
 * [Is Dark Mode Such a Good Idea?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 * [New Facebook Tool Allows Employers to Suppress “Unionize” in Workplace Chat](https://theintercept.com/2020/06/11/facebook-workplace-unionize/)
+* [Windows Explorer Through the Years](https://gekk.info/articles/explorer.html)
 * [Kronecker Product in Circuits](https://leimao.github.io/blog/Kronecker-Product-In-Circuits/)
-* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+* [How to implement search-by-color when all you have is a good coffee](https://www.mikealche.com/software-development/how-to-implement-search-by-color-when-all-you-have-is-a-good-coffee)
 * [Show HN: A free educational live stream platform for kids](https://dexter.live/)
 * [Disclosing networks of state-linked information operations we’ve removed](https://blog.twitter.com/en_us/topics/company/2020/information-operations-june-2020.html)
 * [A Facebook crawler was making 7M requests per day to my stupid website](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
@@ -33,11 +34,10 @@ layout: default
 * [Dexplot: Python library for data visualization](https://www.dexplo.org/dexplot/)
 * [Show HN: Download Hi-Res Public Domain Art, Posters and Illustrations](https://artvee.com/)
 * [SatNOGS: Open-Source Ground Station Network](https://satnogs.org/)
-* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [Spark joy by running fewer tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
+* [GitLab acquires Peach Tech and Fuzzit](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html)
 * [Bigger v. Facebook, Inc.](https://harvardlawreview.org/2020/06/bigger-v-facebook/)
 * [Cantor function, a.k.a. devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
-* [Why Skylake CPUs Are Sometimes 50% Slower (2018)](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/)
 ## nytimes.com
 
 
@@ -81,10 +81,11 @@ layout: default
 * [Trump Administration Moves to Solidify Restrictive Immigration Policies](https://www.nytimes.com/2020/06/12/us/politics/coronavirus-trump-immigration-policies.html)
 * [Georgia Havoc Raises New Doubts on Pricey Voting Machines](https://www.nytimes.com/2020/06/11/us/politics/georgia-voting-machines.html)
 * [Coronavirus Can Set Off a ‘Cytokine Storm.’ These Drugs May Calm It.](https://www.nytimes.com/2020/06/11/health/coronavirus-cytokine-storm.html)
-* [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
-* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
-* [This Summer, Consider Camping in Your Own Backyard](https://www.nytimes.com/2020/05/15/smarter-living/this-summer-consider-camping-in-your-own-backyard.html)
-* [Growing Up Alongside a Sibling With a Disability](https://www.nytimes.com/2020/05/11/parenting/children-sibling-disability.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [The Dos and Don’ts of ‘Quarantine Pods’](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [Faith Ringgold Will Keep Fighting Back](https://www.nytimes.com/2020/06/11/arts/design/faith-ringgold-art.html)
 * [For Online Learning, Business Has Never Been Better](https://www.nytimes.com/2020/06/12/business/chegg-dan-rosensweig-corner-office.html)
 * [Top International Players Uneasy on U.S. Open Plan as Decision Nears](https://www.nytimes.com/2020/06/11/sports/tennis/us-open-2020-plans.html)
@@ -102,11 +103,11 @@ layout: default
 ## globo.com
 
 
+* [Bolsas europeias abrem em alta, um dia após derrocada do mercado americano; Tóquio e Hong Kong recuam](https://oglobo.globo.com/economia/bolsas-europeias-abrem-em-alta-um-dia-apos-derrocada-do-mercado-americano-toquio-hong-kong-recuam-1-24475906)
+* [Brasil tem 805.682 casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-805682-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24475923)
 * [Caso Marielle: Bombeiro, amigo de Lessa, deu sumiço ao celular pessoal antes de ser preso pela Polícia Civil](https://oglobo.globo.com/rio/caso-marielle-bombeiro-amigo-de-lessa-deu-sumico-ao-celular-pessoal-antes-de-ser-preso-pela-policia-civil-24475172)
-* [Bolsas europeias abrem em alta, um dia após derrocada do mercado americano; Tóquio e Hong Kong recuam](https://oglobo.globo.com/economia/bolsas-europeias-abrem-em-alta-um-dia-apos-derrocada-do-mercado-americano-toquio-hong-kong-recuam-24475906)
 * [É dura a vida do bailarino: professor que superou preconceitos pode desistir da profissão por causa da pandemia](https://oglobo.globo.com/rio/bairros/e-dura-vida-do-bailarino-professor-que-superou-preconceitos-pode-desistir-da-profissao-por-causa-da-pandemia-24472328)
 * [Maracanã 70 anos: artilheiro da Conmebol, Sinval recorda final do Botafogo contra Peñarol](https://oglobo.globo.com/esportes/maracana-70-anos-artilheiro-da-conmebol-sinval-recorda-final-do-botafogo-contra-penarol-1-24475278)
-* [Guga Chacra: 'Na foto de hoje, Trump não é favorito à reeleição'](https://oglobo.globo.com/podcast/guga-chacra-na-foto-de-hoje-trump-nao-favorito-reeleicao-24475356)
 * [Maracanã 70 anos: Mike Tyson, o maqueiro vascaíno que se rendeu a Zico](https://oglobo.globo.com/esportes/maracana-70-anos-mike-tyson-maqueiro-vascaino-que-se-rendeu-zico-1-24474714)
 * [Novo epicentro da pandemia de Covid-19, América Latina vê números de violência doméstica e feminicídios dispararem](https://oglobo.globo.com/celina/novo-epicentro-da-pandemia-de-covid-19-america-latina-ve-numeros-de-violencia-domestica-feminicidios-dispararem-24472846)
 * [Pesquisa aponta filhos e truculência como fator de arrependimento no voto em Bolsonaro](https://epoca.globo.com/guilherme-amado/pesquisa-aponta-filhos-truculencia-como-fator-de-arrependimento-no-voto-em-bolsonaro-1-24474000)

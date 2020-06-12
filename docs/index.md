@@ -2,37 +2,37 @@
 layout: default
 ---
 
-# indexed at 12/06/2020 19:09:32 UTC
+# indexed at 12/06/2020 19:35:22 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Young U.S. men having a lot less sex in the 21st century, study shows](https://www.reuters.com/article/us-usa-health-sex/young-u-s-men-having-a-lot-less-sex-in-the-21st-century-study-shows-idUSKBN23J2LI)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [How I made $3,300 on a short niche philosophy book](https://theotherlifenow.com/how-i-made-3300-on-a-short-niche-philosophy-book/)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
 * [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
-* [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
-* [An empirical study of obsolete answers on Stack Overflow [pdf]](https://arxiv.org/abs/1903.12282)
-* [The Book of Shaders](https://thebookofshaders.com/)
-* [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
-* [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
-* [Bicycles from Sketches](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
+* [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
 * [Show HN: ProsperStack – Use Stripe to automatically prevent cancellations](https://prosperstack.com/)
+* [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
+* [The Book of Shaders](https://thebookofshaders.com/)
+* [Bicycles from Sketches](http://www.gianlucagimini.it/prototypes/velocipedia.html)
+* [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
 * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
-* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
-* [Pine64 launches the cheapest Linux Tablet ever priced at just $99.99](https://androidrookies.com/pine64-launches-the-cheapest-linux-tablet-ever-priced-at-just-99-99/)
 * [Extracting Structured Data from Templatic Documents](http://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
-* [Redefining the Scale of Social Problems [pdf]](https://homepages.se.edu/cvonbergen/files/2013/01/Small-Wins_Redefining-the-Scale-of-Social-Problems.pdf)
+* [Jim Keller Resigns from Intel, Effective Immediately](https://www.anandtech.com/show/15846/jim-keller-resigns-from-intel-effective-immediately)
+* [An empirical study of obsolete answers on Stack Overflow [pdf]](https://arxiv.org/abs/1903.12282)
 * [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
-* [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
+* [Pine64 launches the cheapest Linux Tablet ever priced at just $99.99](https://androidrookies.com/pine64-launches-the-cheapest-linux-tablet-ever-priced-at-just-99-99/)
+* [Redefining the Scale of Social Problems [pdf]](https://homepages.se.edu/cvonbergen/files/2013/01/Small-Wins_Redefining-the-Scale-of-Social-Problems.pdf)
 * [Generating MPEG-Dash Streams for Open Source Adaptive Streaming with GStreamer](https://www.collabora.com/news-and-blog/blog/2020/06/12/generating-mpeg-dash-streams-for-open-source-adaptive-streaming-with-gstreamer/)
-* [Tara AI hiring a Senior Back-end engineer to help create a smart Jira alternative](https://tara.ai/about/careers/)
 * [A New RegExp Engine in SpiderMonkey](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/)
 * [A survey of recent iOS kernel exploits](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html)
+* [Tara AI hiring a Senior Back-end engineer to help create a smart Jira alternative](https://tara.ai/about/careers/)
 * [The Mathematics of Music [pdf]](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf)
 * [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 * [Probing a Cloud of the Fifth State of Matter (Bose-Einstein Condensate) on ISS](https://www.sciencealert.com/we-ve-now-been-able-to-probe-a-cloud-of-the-fifth-state-of-matter-in-space)
@@ -41,10 +41,10 @@ layout: default
 ## nytimes.com
 
 
-* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html)
+* [Coronavirus Updates and Live News](https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html)
 * [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Live Stock Market Tracker and Economy Updates](https://www.nytimes.com/2020/06/12/business/stock-market-today-coronavirus.html)
-* [Live Updates on George Floyd Protests: Minnesota Tackles Police Overhaul](https://www.nytimes.com/2020/06/12/us/george-floyd-protests.html)
+* [Live Updates on George Floyd Protests: Cuomo Signs Police Misconduct Bills](https://www.nytimes.com/2020/06/12/us/george-floyd-protests.html)
 * [Trump’s Actions Rattle the Military World: ‘I Can’t Support the Man’](https://www.nytimes.com/2020/06/12/us/politics/trump-polls-military-approval.html)
 * [Rubber Bullets and Beanbag Rounds Can Cause Devastating Injuries](https://www.nytimes.com/2020/06/12/health/protests-rubber-bullets-beanbag.html)
 * [Court Seems Open to Allowing Judge to Scrutinize Bid to Drop Flynn Case](https://www.nytimes.com/2020/06/12/us/politics/michael-flynn-appeals-court.html)
@@ -78,10 +78,9 @@ layout: default
 * [Amazon, Pushing Fashion, Opened Photo Studio as a ‘Warehouse’ Exemption](https://www.nytimes.com/2020/06/12/technology/amazon-brooklyn-studio.html)
 * [In Bitter Kentucky G.O.P. Primary, Thomas Massie and Todd McMurtry Trade Charges of Racism](https://www.nytimes.com/2020/06/12/us/politics/kentucky-republican-primary-racism.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
 * [Your 2020 Virtual Pride Event Guide](https://www.nytimes.com/2020/06/12/arts/gay-pride-events-online.html)
 * [Leading the Van Gogh Museum Through a Future With No Tourists](https://www.nytimes.com/2020/06/12/arts/design/van-gogh-museum-emilie-gordenker.html)
 * [The Valet and Drifter Helping Me Get Through Quarantine](https://www.nytimes.com/2020/06/09/magazine/the-valet-and-drifter-helping-me-get-through-quarantine.html)
@@ -98,13 +97,13 @@ layout: default
 ## globo.com
 
 
-* [APAIXONADOS POR CAFÉ: Dia dos Namorados compartilhando experiências e frete grátis*](https://oglobo.globo.com/cultura/apaixonados-por-cafe-dia-dos-namorados-compartilhando-experiencias-frete-gratis-24476779)
+* [Argentina estende até 19 de junho prazo para negociar dívida de US$ 65 bilhões](https://oglobo.globo.com/economia/argentina-estende-ate-19-de-junho-prazo-para-negociar-divida-de-us-65-bilhoes-24476938)
+* [Ministério da Justiça notifica Tixan Ypê por publicidade contra o coronavírus](https://oglobo.globo.com/economia/ministerio-da-justica-notifica-tixan-ype-por-publicidade-contra-coronavirus-24476912)
+* [Bolsonaro precisa 'aprimorar o seu filtro’, diz Gilmar Mendes sobre medida provisória devolvida por Alcolumbre](https://oglobo.globo.com/brasil/bolsonaro-precisa-aprimorar-seu-filtro-diz-gilmar-mendes-sobre-medida-provisoria-devolvida-por-alcolumbre-24476964)
+* [Quem foi Joaquim Pereira Marinho, o traficante de escravos que virou estátua na capital mais negra do Brasil](https://epoca.globo.com/sociedade/quem-foi-joaquim-pereira-marinho-traficante-de-escravos-que-virou-estatua-na-capital-mais-negra-do-brasil-24476966)
+* [Em três dias, 53 mil se oferecem a pagar inscrições de jovens negros no Enem](https://epoca.globo.com/guilherme-amado/em-tres-dias-53-mil-se-oferecem-pagar-inscricoes-de-jovens-negros-no-enem-24476698)
 * [Conta de Witzel para reverter o 69 a zero e se salvar de impeachment não fecha](https://oglobo.globo.com/analitico/conta-de-witzel-para-reverter-69-zero-se-salvar-de-impeachment-nao-fecha-24476756)
+* [Maioria dos municípios paulistas sem Covid-19 tem menos de 5 mil habitantes](https://oglobo.globo.com/sociedade/maioria-dos-municipios-paulistas-sem-covid-19-tem-menos-de-5-mil-habitantes-24476926)
+* [APAIXONADOS POR CAFÉ: Dia dos Namorados compartilhando experiências e frete grátis*](https://oglobo.globo.com/cultura/apaixonados-por-cafe-dia-dos-namorados-compartilhando-experiencias-frete-gratis-24476779)
 * [Ascânio Seleme: Humilhado e ridicularizado](https://oglobo.globo.com/brasil/ascanio-seleme-humilhado-ridicularizado-24476860)
 * [Em ato simbólico, Bolsonaro revoga medida provisória devolvida por Alcolumbre](https://oglobo.globo.com/sociedade/em-ato-simbolico-bolsonaro-revoga-medida-provisoria-devolvida-por-alcolumbre-1-24476819)
-* [Dia de Santo Antônio: aberta a temporada de delícias juninas](https://oglobo.globo.com/rio/bairros/dia-de-santo-antonio-aberta-temporada-de-delicias-juninas-24473728)
-* [Coronavírus: novo protocolo da Fórmula 1 veta cerimônia de pódio](https://oglobo.globo.com/esportes/coronavirus-novo-protocolo-da-formula-1-veta-cerimonia-de-podio-24476794)
-* [Oscar terá dez filmes indicados à categoria principal a partir de 2022](https://oglobo.globo.com/cultura/oscar-tera-dez-filmes-indicados-categoria-principal-partir-de-2022-24476803)
-* [Monica De Bolle é a próxima entrevistada ao vivo de ÉPOCA](https://epoca.globo.com/monica-de-bolle-a-proxima-entrevistada-ao-vivo-de-epoca-24476782)
-* [Brasil tem 402 pesquisas científicas em andamento sobre o novo coronavírus](https://epoca.globo.com/sociedade/brasil-tem-402-pesquisas-cientificas-em-andamento-sobre-novo-coronavirus-24476676)
-* [Em três dias, 53 mil se oferecem a pagar inscrições de joves negros no Enem](https://epoca.globo.com/guilherme-amado/em-tres-dias-53-mil-se-oferecem-pagar-inscricoes-de-joves-negros-no-enem-24476698)

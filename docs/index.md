@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 03:09:43 UTC
+# indexed at 13/06/2020 03:34:18 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [The relationship between mindset and age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
-* [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
-* [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
+* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
+* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
+* [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
+* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
+* [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
-* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
-* [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
 * [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
-* [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
+* [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
 * [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
 * [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
 * [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
+* [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
 * [Apple WWDC20](https://developer.apple.com/wwdc20/)
 * [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
-* [Apple’s Mac Chip Switch Is Double Trouble for Intel](https://www.bloomberg.com/opinion/articles/2020-06-09/apple-s-mac-chip-switch-is-double-trouble-for-intel)
 * [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
+* [Apple’s Mac Chip Switch Is Double Trouble for Intel](https://www.bloomberg.com/opinion/articles/2020-06-09/apple-s-mac-chip-switch-is-double-trouble-for-intel)
+* [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
 * [Officer of China’s People’s Liberation Army Arrested at LAX](https://www.justice.gov/usao-ndca/pr/officer-china-s-people-s-liberation-army-arrested-los-angeles-international-airport)
 * [Flexport is hiring people who want to help companies navigate Brexit in London](https://www.flexport.com/careers)
-* [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
 * [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
-* [Extracting Structured Data from Templatic Documents](http://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
 ## nytimes.com
 
 
@@ -80,20 +80,20 @@ layout: default
 * [‘You’re Exposed Now’: Why Black Supporters Are Deserting de Blasio](https://www.nytimes.com/2020/06/12/nyregion/de-blasio-blacks-protest.html)
 * [After Virtual Graduation, Protesting for Black Lives](https://www.nytimes.com/2020/06/12/us/high-school-graduates-protests-black-lives-matter.html)
 * [In Bitter Kentucky G.O.P. Primary, Thomas Massie and Todd McMurtry Trade Charges of Racism](https://www.nytimes.com/2020/06/12/us/politics/kentucky-republican-primary-racism.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
 * [A Grand History of Small Operas](https://www.nytimes.com/2020/06/12/arts/music/micro-operas.html)
 * [For Pride Month, Eight Stories About Queer Power and Defiance](https://www.nytimes.com/2020/06/10/t-magazine/pride-month-reading-list.html)
+* [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Second Woman to Make Challenger Deep Ocean Dive](https://www.nytimes.com/2020/06/10/science/vescovo-obrien-challenger-deep-ocean.html)
 * [In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
-* [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

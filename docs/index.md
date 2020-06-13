@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 12:12:25 UTC
+# indexed at 13/06/2020 12:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Math-as-Code (2019)](https://github.com/Jam3/math-as-code)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [Math-as-Code (2019)](https://github.com/Jam3/math-as-code)
 * [Hermes](https://acha.ninja/blog/introducing_hermes/)
 * [Fountain pen ink properties](https://crlf.site/log/notes/200430-inks/)
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
@@ -17,26 +17,26 @@ layout: default
 * [“Huh” is a word that is shared by all human languages – research](https://thelanguagenerds.com/this-is-the-one-word-that-exists-in-all-human-languages-according-to-research/)
 * [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
-* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
 * [Apple is building an operating system for health](https://divinations.substack.com/p/healthos)
-* [In search of the original Fortran compiler (2017)](https://mcjones.org/dustydecks/archives/2017/07/14/968/)
+* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
-* [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
 * [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [The relationship between mindset and age (2017)](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
+* [In search of the original Fortran compiler (2017)](https://mcjones.org/dustydecks/archives/2017/07/14/968/)
 * [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
+* [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
-* [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
+* [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
 * [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
-* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
+* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
 ## nytimes.com
 
@@ -51,7 +51,7 @@ layout: default
 * [Trump Administration Erases Transgender Civil Rights Protections in Health Care](https://www.nytimes.com/2020/06/12/us/politics/trump-transgender-rights.html)
 * [Graduating West Point Cadets Isolate for Two Weeks Ahead of Trump Speech](https://www.nytimes.com/2020/06/12/us/politics/trump-west-point.html)
 * [Latest Crop of West Point Graduates Includes First Observant Sikh Cadet](https://www.nytimes.com/2020/06/12/us/politics/west-point-sikh-anmol-narang.html)
-* [Inside Biden’s Vice-Presidential Search: Who’s on the List and Where It Stands](https://www.nytimes.com/2020/06/13/us/politics/joe-biden-vice-president.html)
+* [Biden’s Vice-Presidential Search: Who’s on the List and Where It Stands](https://www.nytimes.com/2020/06/13/us/politics/joe-biden-vice-president.html)
 * [Faced With Crisis and Re-election, Senate Republicans Blame China](https://www.nytimes.com/2020/06/13/us/politics/faced-with-crisis-and-re-election-senate-republicans-blame-china.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/06/12/briefing/11-of-our-best-weekend-reads.html)
 * [Special Episode: The Song That Found Me](https://www.nytimes.com/2020/06/12/podcasts/the-daily/patti-labelle-protests.html)
@@ -79,19 +79,19 @@ layout: default
 * [As Energy Prices Tumble, Developing Countries Trim Subsidies](https://www.nytimes.com/2020/06/11/business/energy-environment/countries-slash-energy-subsidies-coronavirus.html)
 * [The Economy Is Reeling. The Tech Giants Spy Opportunity.](https://www.nytimes.com/2020/06/13/technology/facebook-amazon-apple-google-microsoft-tech-pandemic-opportunity.html)
 * [Prime Minister Boris Johnson Stirs Culture War Over Churchill Statue](https://www.nytimes.com/2020/06/12/world/europe/boris-johnson-Churchill-statue.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Worried About Social Distancing When Traveling? Join the Crowd and Rent an R.V.](https://www.nytimes.com/2020/06/11/travel/recreational-vehicles-RV-pandemic.html)
 * [Party Planners on Pause, Awaiting Revelry’s Return](https://www.nytimes.com/2020/06/11/style/party-planners.html)
 * [As Playgrounds Start to Reopen, Here’s How to Keep Kids Safe](https://www.nytimes.com/2020/06/11/parenting/playgrounds-reopen-safety-coronavirus.html)
 * [After Two Rounds, Jordan Spieth Shows No Signs of Rust](https://www.nytimes.com/2020/06/12/sports/golf/jordan-spieth-charles-schwab-challenge.html)
 * [How to Create a Fragrant Garden](https://www.nytimes.com/2020/06/10/realestate/create-fragrant-garden-nice-smelling-plants.html)
-* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
-* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
+* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
+* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Migration Numbers Plunge for the Red Knot, a Threatened Shore Bird](https://www.nytimes.com/2020/06/11/science/migration-red-knot.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Casal encontra dente de tubarão com 5 milhões de anos em passeio pela margem de rio em Carolina do Sul, posta no Tik Tok e viraliza](https://oglobo.globo.com/ela/turismo/casal-encontra-dente-de-tubarao-com-5-milhoes-de-anos-em-passeio-pela-margem-de-rio-em-carolina-do-sul-posta-no-tik-tok-viraliza-24478338)
+* [O significado da roupa azul clara usada hoje pela rainha Elizabeth, durante o 'Trooping the Color' 2020](https://oglobo.globo.com/ela/gente/o-significado-da-roupa-azul-clara-usada-hoje-pela-rainha-elizabeth-durante-trooping-the-color-2020-1-24478347)
+* [Exu será enredo da Grande Rio no carnaval 2021](https://oglobo.globo.com/rio/carnaval/exu-sera-enredo-da-grande-rio-no-carnaval-2021-24478341)
 * [Caixa libera hoje saque em dinheiro da 2ª parcela do auxílio emergencial para nascidos em dezembro](https://oglobo.globo.com/economia/caixa-libera-hoje-saque-em-dinheiro-da-2-parcela-do-auxilio-emergencial-para-nascidos-em-dezembro-24478332)
+* [Casal encontra dente de tubarão com 5 milhões de anos em passeio pela margem de rio em Carolina do Sul, posta no Tik Tok e viraliza](https://oglobo.globo.com/ela/turismo/casal-encontra-dente-de-tubarao-com-5-milhoes-de-anos-em-passeio-pela-margem-de-rio-em-carolina-do-sul-posta-no-tik-tok-viraliza-24478338)
 * [Meghan Markle recebe elogios em seu primeiro trabalho fora da família real: 'absolutamente envolvida'](https://oglobo.globo.com/ela/gente/meghan-markle-recebe-elogios-em-seu-primeiro-trabalho-fora-da-familia-real-absolutamente-envolvida-24478326)
 * [Brasil tem 831.064 casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-831064-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24478311)
 * [Omissão de dados da pandemia subestima inteligência da população, diz presidente da Transparência Internacional](https://epoca.globo.com/brasil/omissao-de-dados-da-pandemia-subestima-inteligencia-da-populacao-diz-presidente-da-transparencia-internacional-24478317)
 * [Com Tour do Fred, atacante do Flu foi o jogador que mais causou reações em redes sociais na quarentena; veja ranking](https://epoca.globo.com/esportes/com-tour-do-fred-atacante-do-flu-foi-jogador-que-mais-causou-reacoes-em-redes-sociais-na-quarentena-veja-ranking-24477046)
-* [Maracanã 70 anos: Andrade revive jogo que o consagrou também como técnico e diz que estádio sempre foi 'sua casa'](https://oglobo.globo.com/esportes/maracana-70-anos-andrade-revive-jogo-que-consagrou-tambem-como-tecnico-diz-que-estadio-sempre-foi-sua-casa-24478276)
 * [Ricardo Lísias e o diário do governo Bolsonaro](https://epoca.globo.com/guilherme-amado/ricardo-lisias-o-diario-do-governo-bolsonaro-24477765)
-* [Sociedade civil do Peru tenta substituir Estado, que não entrega ajuda, oxigênio nem equipamentos médicos](https://oglobo.globo.com/mundo/sociedade-civil-do-peru-tenta-substituir-estado-que-nao-entrega-ajuda-oxigenio-nem-equipamentos-medicos-24476580)
 * [Troca de gentilezas entre vizinhos ajuda a tornar a quarentena mais leve](https://oglobo.globo.com/rio/bairros/troca-de-gentilezas-entre-vizinhos-ajuda-tornar-quarentena-mais-leve-1-24473512)

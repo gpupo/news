@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 01:10:40 UTC
+# indexed at 13/06/2020 01:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Wil Shipley: Every year I fill out this survey from Apple, for Apple developers](https://medianatives.blogspot.com/2020/06/wil-shipley-every-year-i-fill-out-this.html)
+* [Apple WWDC20](https://developer.apple.com/wwdc20/)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [The relationship between mindset and age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
-* [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
-* [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
+* [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
+* [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
 * [Facebook fires employee who protested its inaction on Trump tweets](https://www.reuters.com/article/us-facebook-protests-firing/facebook-fires-employee-who-protested-its-inaction-on-trump-tweets-idUSKBN23J35Y)
-* [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
+* [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
+* [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
+* [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
 * [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
 * [Flexport is hiring people who want to help companies navigate Brexit in London](https://www.flexport.com/careers)
 * [The Book of Shaders](https://thebookofshaders.com/)
-* [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
 * [Officer of China’s People’s Liberation Army Arrested at Lax](https://www.justice.gov/usao-ndca/pr/officer-china-s-people-s-liberation-army-arrested-los-angeles-international-airport)
+* [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
 * [Venmo and Paypal Are Stalling Urgent Efforts to Bail People Out of Jail](https://www.vice.com/en_us/article/k7qbnz/venmo-paypal-freeze-transfer-limits-bail-funds)
-* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
-* [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * [Bicycles from Sketches (2016)](http://www.gianlucagimini.it/prototypes/velocipedia.html)
+* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
 * [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
 * [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
 * [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
 * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
-* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Show HN: ProsperStack – Use Stripe to automatically prevent cancellations](https://prosperstack.com/)
-* [Disney almost bought Twitter in 2016](https://daringfireball.net/linked/2020/06/12/disney-twitter-bob-iger)
-* [Extracting Structured Data from Templatic Documents](http://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
-* [Redefining the Scale of Social Problems [pdf]](https://homepages.se.edu/cvonbergen/files/2013/01/Small-Wins_Redefining-the-Scale-of-Social-Problems.pdf)
+* [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [I Replaced My MacBook Pro with a Raspberry Pi 4 8GB for a Day](https://www.jeffgeerling.com/blog/2020/i-replaced-my-macbook-pro-raspberry-pi-4-8gb-day)
+* [Extracting Structured Data from Templatic Documents](http://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
 ## nytimes.com
 
 
 * [N.Y. Bans Chokeholds and Approves Other Measures to Rein In Police](https://www.nytimes.com/2020/06/12/nyregion/50a-repeal-police-floyd.html)
-* [Calls for Change Run Into Realities of Governing in Minnesota](https://www.nytimes.com/2020/06/12/us/minneapolis-police-defunding.html)
+* [Calls for Transforming Police Run Into Realities of Governing in Minnesota](https://www.nytimes.com/2020/06/12/us/minneapolis-police-defunding.html)
 * [Protests Today Live Updates: George Floyd, Police and BLM](https://www.nytimes.com/2020/06/12/us/protests-george-floyd-black-lives-matter.html)
 * [Live Coronavirus News](https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html)
 * [C.D.C. Calls for Face Masks at Large Gatherings, Warning of Crowd Risks](https://www.nytimes.com/2020/06/12/health/coronavirus-cdc-masks-gatherings.html)
@@ -80,20 +80,20 @@ layout: default
 * [After Virtual Graduation, Protesting for Black Lives](https://www.nytimes.com/2020/06/12/us/high-school-graduates-protests-black-lives-matter.html)
 * [Amazon, Pushing Fashion, Opened Photo Studio as a ‘Warehouse’ Exemption](https://www.nytimes.com/2020/06/12/technology/amazon-brooklyn-studio.html)
 * [In Bitter Kentucky G.O.P. Primary, Thomas Massie and Todd McMurtry Trade Charges of Racism](https://www.nytimes.com/2020/06/12/us/politics/kentucky-republican-primary-racism.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
 * [A Grand History of Small Operas](https://www.nytimes.com/2020/06/12/arts/music/micro-operas.html)
 * [For Pride Month, Eight Stories About Queer Power and Defiance](https://www.nytimes.com/2020/06/10/t-magazine/pride-month-reading-list.html)
-* [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Second Woman to Make Challenger Deep Ocean Dive](https://www.nytimes.com/2020/06/10/science/vescovo-obrien-challenger-deep-ocean.html)
 * [In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
+* [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,8 +101,8 @@ layout: default
 ## globo.com
 
 
-* [OAB repudia a decisão do ministério de Damares de retirar dados sobre violência policial de relatório sobre direitos humanos](https://oglobo.globo.com/sociedade/oab-repudia-decisao-do-ministerio-de-damares-de-retirar-dados-sobre-violencia-policial-de-relatorio-sobre-direitos-humanos-24477898)
 * [Forças Armadas não aceitam tentativas de tomada de poder, diz Bolsonaro ao comentar decisão de Fux](https://oglobo.globo.com/brasil/forcas-armadas-nao-aceitam-tentativas-de-tomada-de-poder-diz-bolsonaro-ao-comentar-decisao-de-fux-24477908)
+* [OAB repudia a decisão do ministério de Damares de retirar dados sobre violência policial de relatório sobre direitos humanos](https://oglobo.globo.com/sociedade/oab-repudia-decisao-do-ministerio-de-damares-de-retirar-dados-sobre-violencia-policial-de-relatorio-sobre-direitos-humanos-24477898)
 * [Longevidade da pandemia pode isolar o Brasil do resto do mundo, diz infectologista](https://oglobo.globo.com/sociedade/longevidade-da-pandemia-pode-isolar-brasil-do-resto-do-mundo-diz-infectologista-24477710)
 * ['Ele está incentivando a baderna': o desabafo de enfermeira após Bolsonaro pedir que seguidores invadam hospitais](https://epoca.globo.com/sociedade/ele-esta-incentivando-baderna-desabafo-de-enfermeira-apos-bolsonaro-pedir-que-seguidores-invadam-hospitais-24477843)
 * [Bob Dylan sobre novo álbum: 'As canções parecem se escrever sozinhas'](https://oglobo.globo.com/cultura/bob-dylan-sobre-novo-album-as-cancoes-parecem-se-escrever-sozinhas-24477818)

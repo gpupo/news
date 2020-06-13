@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 08:34:45 UTC
+# indexed at 13/06/2020 09:09:28 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Apple is building an OS for health](https://divinations.substack.com/p/healthos)
+* [The word that exists in all human languages, according to research](https://thelanguagenerds.com/this-is-the-one-word-that-exists-in-all-human-languages-according-to-research/)
+* [Math-as-Code](https://github.com/Jam3/math-as-code)
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
 * [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
-* [Math-as-Code](https://github.com/Jam3/math-as-code)
 * [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
 * [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
+* [Fountain Pen Ink Properties](https://crlf.site/log/notes/200430-inks/)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
-* [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
-* [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
-* [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
-* [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
 * [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
+* [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
+* [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
+* [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [The relationship between mindset and age (2017)](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
-* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
+* [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
 * [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
+* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
-* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
 * [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
+* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
+* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
-* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
 * [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
-* [Apple WWDC20](https://developer.apple.com/wwdc20/)
-* [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
 ## nytimes.com
 
 
@@ -73,17 +73,17 @@ layout: default
 * [Court Seems Open to Allowing Judge to Scrutinize Bid to Drop Flynn Case](https://www.nytimes.com/2020/06/12/us/politics/michael-flynn-appeals-court.html)
 * [French Police Push Back Against Proposed Reforms](https://www.nytimes.com/2020/06/12/world/europe/france-police-opposition-proposed-reforms.html)
 * [Amazon Said to Be Under Scrutiny in 2 States for Abuse of Power](https://www.nytimes.com/2020/06/12/technology/state-inquiry-antitrust-amazon.html)
-* [‘Tenet,’ Expected to Signal Hollywood’s Return, Is Pushed Back](https://www.nytimes.com/2020/06/12/business/media/tenet-release-delayed.html)
+* [8 Are Shot in San Antonio by Man Claiming to Be U.F.C. Fighter](https://www.nytimes.com/2020/06/13/us/san-antonio-shooting-ufc-fighter.html)
 * [Book Says Melania Trump Delayed Washington Move as Negotiating Tack](https://www.nytimes.com/2020/06/12/us/politics/melania-trump-prenuptial-agreement.html)
 * [Businesses Want Virus Legal Protection. Workers Are Worried.](https://www.nytimes.com/2020/06/12/business/economy/coronavirus-liability-shield.html)
 * [‘You’re Exposed Now’: Why Black Supporters Are Deserting de Blasio](https://www.nytimes.com/2020/06/12/nyregion/de-blasio-blacks-protest.html)
 * [Prime Minister Boris Johnson Stirs Culture War Over Churchill Statue](https://www.nytimes.com/2020/06/12/world/europe/boris-johnson-Churchill-statue.html)
 * [How French Soccer Fell Apart](https://www.nytimes.com/2020/06/12/sports/soccer/france-ligue-1-soccer.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
@@ -100,6 +100,7 @@ layout: default
 ## globo.com
 
 
+* [Maracanã 70 anos: Dinamite lembra volta ao Vasco em jogo com cinco gols](https://oglobo.globo.com/esportes/maracana-70-anos-dinamite-lembra-volta-ao-vasco-em-jogo-com-cinco-gols-24478268)
 * [Coronavírus: Com as ruas do Rio cheias, prefeitura diz que vai ampliar fiscalização em praias e shoppings](https://oglobo.globo.com/rio/coronavirus-com-as-ruas-do-rio-cheias-prefeitura-diz-que-vai-ampliar-fiscalizacao-em-praias-shoppings-24478149)
 * [O golpe impossível](https://oglobo.globo.com/brasil/o-golpe-impossivel-24478058)
 * [Testemunhas contradizem relatos de policiais investigados pelo homicídio de João Pedro](https://oglobo.globo.com/rio/testemunhas-contradizem-relatos-de-policiais-investigados-pelo-homicidio-de-joao-pedro-24477934)
@@ -108,5 +109,4 @@ layout: default
 * [Secretário de Saúde de Witzel é convocado por comissão fiscalizadora da Alerj](https://oglobo.globo.com/rio/secretario-de-saude-de-witzel-convocado-por-comissao-fiscalizadora-da-alerj-24477557)
 * [O esporte pode fazer mais contra o racismo](https://oglobo.globo.com/esportes/o-esporte-pode-fazer-mais-contra-racismo-24477845)
 * [Como avaliar a dívida dos clubes e por que o Flamengo não paga tudo de uma vez só](https://oglobo.globo.com/esportes/como-avaliar-divida-dos-clubes-por-que-flamengo-nao-paga-tudo-de-uma-vez-so-1-24477396)
-* [Obra de Sandra Cisneros é fundamental no panorama literário das últimas décadas](https://oglobo.globo.com/cultura/livros/obra-de-sandra-cisneros-fundamental-no-panorama-literario-das-ultimas-decadas-1-24477382)
 * [Maracanã 70 anos: da proibição à medalha de ouro, seleção feminina viveu alegrias e tristezas no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-da-proibicao-medalha-de-ouro-selecao-feminina-viveu-alegrias-tristezas-no-estadio-24477337)

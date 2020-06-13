@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 06:34:24 UTC
+# indexed at 13/06/2020 07:10:15 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
+* [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
 * [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
 * [The relationship between mindset and age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
-* [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
+* [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
+* [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
 * [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
-* [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
-* [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
-* [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
-* [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
-* [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
 * [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
+* [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
+* [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
+* [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
+* [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
-* [Apple WWDC20](https://developer.apple.com/wwdc20/)
 * [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
-* [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
-* [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
+* [Apple WWDC20](https://developer.apple.com/wwdc20/)
 * [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
+* [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
+* [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
-* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
 ## nytimes.com
 
 
@@ -54,7 +54,6 @@ layout: default
 * [Rubber Bullets and Beanbag Rounds Can Cause Devastating Injuries](https://www.nytimes.com/2020/06/12/health/protests-rubber-bullets-beanbag.html)
 * [One Big Difference About George Floyd Protests: Many White Faces](https://www.nytimes.com/2020/06/12/us/george-floyd-white-protesters.html)
 * [Pentagon Denies Spying on Americans Protesting Police Killings](https://www.nytimes.com/2020/06/12/us/politics/pentagon-spying-protests.html)
-* [Police Reform, Peru, Bob Dylan: Your Friday Evening Briefing](https://www.nytimes.com/2020/06/12/briefing/police-reform-peru-bob-dylan.html)
 * [Special Episode: The Song That Found Me](https://www.nytimes.com/2020/06/12/podcasts/the-daily/patti-labelle-protests.html)
 * [The Real Dangers of Surveillance](https://www.nytimes.com/2020/06/12/technology/surveillance-protests-hong-kong.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
@@ -80,11 +79,11 @@ layout: default
 * [‘You’re Exposed Now’: Why Black Supporters Are Deserting de Blasio](https://www.nytimes.com/2020/06/12/nyregion/de-blasio-blacks-protest.html)
 * [After Virtual Graduation, Protesting for Black Lives](https://www.nytimes.com/2020/06/12/us/high-school-graduates-protests-black-lives-matter.html)
 * [How French Soccer Fell Apart](https://www.nytimes.com/2020/06/12/sports/soccer/france-ligue-1-soccer.html)
-* [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
-* [Three Stretches to Tend to the Aches and Pains of Working From Home](https://www.nytimes.com/2020/05/19/well/three-stretches-to-tend-to-the-aches-and-pains-of-working-from-home.html)
-* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
-* [Space Out and Explore the Universe Without Leaving Home](https://www.nytimes.com/2020/05/27/technology/personaltech/techtip-nasa-apps.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
@@ -103,9 +102,9 @@ layout: default
 
 * [Criminalização da homofobia facilitou apoio a vítimas](https://oglobo.globo.com/sociedade/criminalizacao-da-homofobia-facilitou-apoio-vitimas-1-24478264)
 * [OAB repudia a decisão do ministério de Damares de retirar dados sobre violência policial de relatório sobre direitos humanos](https://oglobo.globo.com/sociedade/oab-repudia-decisao-do-ministerio-de-damares-de-retirar-dados-sobre-violencia-policial-de-relatorio-sobre-direitos-humanos-24477898)
-* [Forças Armadas não aceitam tentativas de tomada de poder, diz Bolsonaro ao comentar decisão de Fux](https://oglobo.globo.com/brasil/forcas-armadas-nao-aceitam-tentativas-de-tomada-de-poder-diz-bolsonaro-ao-comentar-decisao-de-fux-24477908)
 * [Centrão aumenta perigo fiscal das pautas-bomba](https://oglobo.globo.com/opiniao/centrao-aumenta-perigo-fiscal-das-pautas-bomba-1-24477545)
 * [Congresso precisa decidir logo sobre prisão em segunda instância](https://oglobo.globo.com/opiniao/congresso-precisa-decidir-logo-sobre-prisao-em-segunda-instancia-1-24476415)
+* [Top-70 Maracanã, do 31° ao 40°: espetáculo de Dinamite e ápice da seleção feminina](https://oglobo.globo.com/esportes/top-70-maracana-do-31-ao-40-espetaculo-de-dinamite-apice-da-selecao-feminina-1-24472717)
 * [Lives de hoje tem Frejat e Martinho com os filhos, Elba Ramalho e Carlinhos Brown](https://oglobo.globo.com/rioshow/lives-de-hoje-tem-frejat-martinho-com-os-filhos-elba-ramalho-carlinhos-brown-24476394)
 * [O custo da mobilidade urbana na pandemia](https://oglobo.globo.com/opiniao/o-custo-da-mobilidade-urbana-na-pandemia-24474870)
 * [Um governo em cuecas](https://oglobo.globo.com/opiniao/um-governo-em-cuecas-24476858)

@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 05:34:26 UTC
+# indexed at 13/06/2020 06:10:47 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
+* [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
 * [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
-* [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
+* [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
 * [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
-* [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [The relationship between mindset and age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
@@ -23,21 +23,21 @@ layout: default
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
-* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
+* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
-* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
-* [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
+* [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
-* [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
-* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
+* [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
 * [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
+* ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
+* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
+* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
+* [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
 * [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
 * [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
-* [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
-* [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
 ## nytimes.com
 
 
@@ -72,7 +72,7 @@ layout: default
 * [There’s No Reason for an Architect to Design a Death Chamber](https://www.nytimes.com/2020/06/12/arts/design/architects-prison-death-chamber.html)
 * [What Do I Do if My Employer Does Something I Can’t Abide?](https://www.nytimes.com/2020/06/12/business/taking-a-stand-in-workplace.html)
 * [Court Seems Open to Allowing Judge to Scrutinize Bid to Drop Flynn Case](https://www.nytimes.com/2020/06/12/us/politics/michael-flynn-appeals-court.html)
-* [A Tennessee Man Called Police for Help, Then Died in Their Custody](https://www.nytimes.com/2020/06/12/us/sterling-higgins-obion-county-tennessee-lawsuit-police.html)
+* [French Police Push Back Against Proposed Reforms](https://www.nytimes.com/2020/06/12/world/europe/france-police-opposition-proposed-reforms.html)
 * [Amazon Said to Be Under Scrutiny in 2 States for Abuse of Power](https://www.nytimes.com/2020/06/12/technology/state-inquiry-antitrust-amazon.html)
 * [‘Tenet,’ Expected to Signal Hollywood’s Return, Is Pushed Back](https://www.nytimes.com/2020/06/12/business/media/tenet-release-delayed.html)
 * [Book Says Melania Trump Delayed Washington Move as Negotiating Tack](https://www.nytimes.com/2020/06/12/us/politics/melania-trump-prenuptial-agreement.html)
@@ -81,19 +81,19 @@ layout: default
 * [After Virtual Graduation, Protesting for Black Lives](https://www.nytimes.com/2020/06/12/us/high-school-graduates-protests-black-lives-matter.html)
 * [How French Soccer Fell Apart](https://www.nytimes.com/2020/06/12/sports/soccer/france-ligue-1-soccer.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
 * [A Grand History of Small Operas](https://www.nytimes.com/2020/06/12/arts/music/micro-operas.html)
 * [For Pride Month, Eight Stories About Queer Power and Defiance](https://www.nytimes.com/2020/06/10/t-magazine/pride-month-reading-list.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
-* [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
 * [Second Woman to Make Challenger Deep Ocean Dive](https://www.nytimes.com/2020/06/10/science/vescovo-obrien-challenger-deep-ocean.html)
 * [In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
+* [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

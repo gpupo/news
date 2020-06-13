@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 07:34:32 UTC
+# indexed at 13/06/2020 08:10:36 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
-* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
+* [Apple is building an OS for health](https://divinations.substack.com/p/healthos)
 * [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
-* [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
+* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
-* [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
+* [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
 * [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
-* [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
+* [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [The relationship between mindset and age (2017)](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
-* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
-* ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
-* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
-* [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
+* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
+* ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
+* [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
+* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
+* [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
+* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
-* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
+* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
 * [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
-* [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
 * [Apple WWDC20](https://developer.apple.com/wwdc20/)
-* [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
-* [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
+* [Exploring Rulial Space: The Case of Turing Machines](https://writings.stephenwolfram.com/2020/06/exploring-rulial-space-the-case-of-turing-machines/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [‘You’re Exposed Now’: Why Black Supporters Are Deserting de Blasio](https://www.nytimes.com/2020/06/12/nyregion/de-blasio-blacks-protest.html)
 * [Prime Minister Boris Johnson Stirs Culture War Over Churchill Statue](https://www.nytimes.com/2020/06/12/world/europe/boris-johnson-Churchill-statue.html)
 * [How French Soccer Fell Apart](https://www.nytimes.com/2020/06/12/sports/soccer/france-ligue-1-soccer.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Criminalização da homofobia facilitou apoio a vítimas](https://oglobo.globo.com/sociedade/criminalizacao-da-homofobia-facilitou-apoio-vitimas-1-24478264)
-* [OAB repudia a decisão do ministério de Damares de retirar dados sobre violência policial de relatório sobre direitos humanos](https://oglobo.globo.com/sociedade/oab-repudia-decisao-do-ministerio-de-damares-de-retirar-dados-sobre-violencia-policial-de-relatorio-sobre-direitos-humanos-24477898)
-* [Centrão aumenta perigo fiscal das pautas-bomba](https://oglobo.globo.com/opiniao/centrao-aumenta-perigo-fiscal-das-pautas-bomba-1-24477545)
-* [Congresso precisa decidir logo sobre prisão em segunda instância](https://oglobo.globo.com/opiniao/congresso-precisa-decidir-logo-sobre-prisao-em-segunda-instancia-1-24476415)
-* [Top-70 Maracanã, do 31° ao 40°: espetáculo de Dinamite e ápice da seleção feminina](https://oglobo.globo.com/esportes/top-70-maracana-do-31-ao-40-espetaculo-de-dinamite-apice-da-selecao-feminina-1-24472717)
-* [Lives de hoje tem Frejat e Martinho com os filhos, Elba Ramalho e Carlinhos Brown](https://oglobo.globo.com/rioshow/lives-de-hoje-tem-frejat-martinho-com-os-filhos-elba-ramalho-carlinhos-brown-24476394)
-* [O custo da mobilidade urbana na pandemia](https://oglobo.globo.com/opiniao/o-custo-da-mobilidade-urbana-na-pandemia-24474870)
-* [Um governo em cuecas](https://oglobo.globo.com/opiniao/um-governo-em-cuecas-24476858)
-* [Um exímio juiz constitucional](https://oglobo.globo.com/opiniao/um-eximio-juiz-constitucional-24476826)
-* [As sobras da história](https://oglobo.globo.com/opiniao/as-sobras-da-historia-24476785)
+* ['A gente vai sangrar por muito tempo, com níveis altos de mortalidade', diz médico pesquisador sobre o Brasil em segundo lugar em mortes por Covid-19 no mundo](https://oglobo.globo.com/sociedade/a-gente-vai-sangrar-por-muito-tempo-com-niveis-altos-de-mortalidade-diz-medico-pesquisador-sobre-brasil-em-segundo-lugar-em-mortes-por-covid-19-no-mundo-24478176)
+* [Coronavírus: governo gastou menos de 40% do previsto em ajuda, mas nem tudo chegou a quem precisa](https://oglobo.globo.com/economia/coronavirus-governo-gastou-menos-de-40-do-previsto-em-ajuda-mas-nem-tudo-chegou-quem-precisa-24477852)
+* [Análise: Enquanto americanos dão uma virada em relação ao racismo, Trump volta no tempo](https://oglobo.globo.com/mundo/analise-enquanto-americanos-dao-uma-virada-em-relacao-ao-racismo-trump-volta-no-tempo-1-24478004)
+* [Escolas do Rio planejam cuidados para o retorno às aulas, ainda sem data](https://oglobo.globo.com/rio/escolas-do-rio-planejam-cuidados-para-retorno-as-aulas-ainda-sem-data-24477986)
+* [Com teatros fechados e sem previsão de volta, espetáculos via internet abrem nova janela entre atores e público](https://oglobo.globo.com/cultura/com-teatros-fechados-sem-previsao-de-volta-espetaculos-via-internet-abrem-nova-janela-entre-atores-publico-24477850)
+* [O esporte pode fazer mais contra o racismo](https://oglobo.globo.com/esportes/o-esporte-pode-fazer-mais-contra-racismo-24477845)
+* ['Tenho escutado muito Lady Gaga e Dua Lipa', diz Luan Santana](https://oglobo.globo.com/cultura/tenho-escutado-muito-lady-gaga-dua-lipa-diz-luan-santana-24477688)
+* [Ana Branco idealiza projeto 'Lente de contato', em que registra amigos à distância](https://oglobo.globo.com/ela/gente/ana-branco-idealiza-projeto-lente-de-contato-em-que-registra-amigos-distancia-24476420)
+* [Obra de Sandra Cisneros é fundamental no panorama literário das últimas décadas](https://oglobo.globo.com/cultura/livros/obra-de-sandra-cisneros-fundamental-no-panorama-literario-das-ultimas-decadas-1-24477382)
+* [Maracanã 70 anos: da proibição à medalha de ouro, seleção feminina viveu alegrias e tristezas no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-da-proibicao-medalha-de-ouro-selecao-feminina-viveu-alegrias-tristezas-no-estadio-24477337)

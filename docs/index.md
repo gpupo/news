@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 11:09:24 UTC
+# indexed at 13/06/2020 11:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Math-as-Code](https://github.com/Jam3/math-as-code)
-* [Hermes](https://acha.ninja/blog/introducing_hermes/)
 * [Fountain Pen Ink Properties](https://crlf.site/log/notes/200430-inks/)
-* [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
-* [Apple is building an OS for health](https://divinations.substack.com/p/healthos)
-* [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
-* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
-* [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
-* [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
 * [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [Hermes](https://acha.ninja/blog/introducing_hermes/)
+* [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
+* [How the Antifa Fantasy Spread in Small Towns Across the US](https://www.buzzfeednews.com/article/annehelenpetersen/antifa-rumors-george-floyd-protests)
+* [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
+* [Apple is building an OS for health](https://divinations.substack.com/p/healthos)
+* [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
+* [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
+* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
 * [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [The relationship between mindset and age (2017)](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
-* [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
 * [Rainway forces signing up to Discord in order to delete your account](https://rainway.com/support/account-and-privacy/how-do-i-delete-my-account/)
+* [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
 * [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
-* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
-* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
+* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
+* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
-* [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
 ## nytimes.com
 
 
@@ -81,7 +81,6 @@ layout: default
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Worried About Social Distancing When Traveling? Join the Crowd and Rent an R.V.](https://www.nytimes.com/2020/06/11/travel/recreational-vehicles-RV-pandemic.html)
 * [Party Planners on Pause, Awaiting Revelry’s Return](https://www.nytimes.com/2020/06/11/style/party-planners.html)
@@ -89,9 +88,9 @@ layout: default
 * [After Two Rounds, Jordan Spieth Shows No Signs of Rust](https://www.nytimes.com/2020/06/12/sports/golf/jordan-spieth-charles-schwab-challenge.html)
 * [How to Create a Fragrant Garden](https://www.nytimes.com/2020/06/10/realestate/create-fragrant-garden-nice-smelling-plants.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
+* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
 * [Migration Numbers Plunge for the Red Knot, a Threatened Shore Bird](https://www.nytimes.com/2020/06/11/science/migration-red-knot.html)
-* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -99,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Brasil tem 831.064 casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-831064-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24478311)
+* [Omissão de dados da pandemia subestima inteligência da população, diz presidente da Transparência Internacional](https://epoca.globo.com/brasil/omissao-de-dados-da-pandemia-subestima-inteligencia-da-populacao-diz-presidente-da-transparencia-internacional-24478317)
+* [Com Tour do Fred, atacante do Flu foi o jogador que mais causou reações em redes sociais na quarentena; veja ranking](https://epoca.globo.com/esportes/com-tour-do-fred-atacante-do-flu-foi-jogador-que-mais-causou-reacoes-em-redes-sociais-na-quarentena-veja-ranking-24477046)
 * ['Ele não escalaria duas muretas e cairia de lá sozinho', diz mãe de menino Miguel](https://epoca.globo.com/sociedade/ele-nao-escalaria-duas-muretas-cairia-de-la-sozinho-diz-mae-de-menino-miguel-24476878)
 * [Quatro meses após morte do pai, nasce o filho de médico chinês que alertou o mundo sobre coronavírus](https://epoca.globo.com/mundo/quatro-meses-apos-morte-do-pai-nasce-filho-de-medico-chines-que-alertou-mundo-sobre-coronavirus-24476984)
 * ['Ele não merecia morrer por menos de US$ 20': As frases da semana](https://epoca.globo.com/ele-nao-merecia-morrer-por-menos-de-us-20-as-frases-da-semana-24477076)
 * ['Recebemos mensagens de americanos, brasileiros e colombianos', diz prefeito de 'Covid free village' na Itália](https://epoca.globo.com/mundo/recebemos-mensagens-de-americanos-brasileiros-colombianos-diz-prefeito-de-covid-free-village-na-italia-24477205)
-* [Neymar, Marcelo e Daniel Alves: craques brasileiros aumentam audiência na quarentena](https://epoca.globo.com/esportes/neymar-marcelo-daniel-alves-craques-brasileiros-aumentam-audiencia-na-quarentena-24477895)
 * [Maracanã 70 anos: Andrade revive jogo que o consagrou também como técnico e diz que estádio sempre foi 'sua casa'](https://oglobo.globo.com/esportes/maracana-70-anos-andrade-revive-jogo-que-consagrou-tambem-como-tecnico-diz-que-estadio-sempre-foi-sua-casa-24478276)
-* [Bolsonaro bloqueia influenciador de 15 anos](https://epoca.globo.com/guilherme-amado/bolsonaro-bloqueia-influenciador-de-15-anos-24477904)
-* [Regina Duarte propôs a Bolsonaro criar Juizado da Cultura](https://epoca.globo.com/guilherme-amado/regina-duarte-propos-bolsonaro-criar-juizado-da-cultura-24477740)
 * [Sociedade civil do Peru tenta substituir Estado, que não entrega ajuda, oxigênio nem equipamentos médicos](https://oglobo.globo.com/mundo/sociedade-civil-do-peru-tenta-substituir-estado-que-nao-entrega-ajuda-oxigenio-nem-equipamentos-medicos-24476580)
 * [Troca de gentilezas entre vizinhos ajuda a tornar a quarentena mais leve](https://oglobo.globo.com/rio/bairros/troca-de-gentilezas-entre-vizinhos-ajuda-tornar-quarentena-mais-leve-1-24473512)

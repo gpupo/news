@@ -2,21 +2,22 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 09:09:28 UTC
+# indexed at 13/06/2020 09:34:36 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple is building an OS for health](https://divinations.substack.com/p/healthos)
 * [The word that exists in all human languages, according to research](https://thelanguagenerds.com/this-is-the-one-word-that-exists-in-all-human-languages-according-to-research/)
+* [Rainway forces signing up to Discord in order to delete your account](https://rainway.com/support/account-and-privacy/how-do-i-delete-my-account/)
 * [Math-as-Code](https://github.com/Jam3/math-as-code)
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
+* [Apple is building an OS for health](https://divinations.substack.com/p/healthos)
 * [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
+* [Fountain Pen Ink Properties](https://crlf.site/log/notes/200430-inks/)
 * [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
 * [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
-* [Fountain Pen Ink Properties](https://crlf.site/log/notes/200430-inks/)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
 * [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
@@ -25,19 +26,18 @@ layout: default
 * [The relationship between mindset and age (2017)](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [Bertrand Russell’s infinite sock drawer](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20200527a/full/)
 * [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
-* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
-* ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
+* [Never-Ending Niches](https://stratechery.com/2020/never-ending-niches/)
 * [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
-* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
+* ['Enigmatic' footprints reveal prehistoric crocodile that walked on two legs](https://edition.cnn.com/2020/06/11/world/footprints-ancient-two-legged-crocodile-scn/index.html)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
+* [Map of Computing Architectures for AWS](https://moca.computingarchitectures.com/en/~hello-world/)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
 * [Conifer – collect and revisit web pages](https://conifer.rhizome.org/)
 * [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
-* [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [‘You’re Exposed Now’: Why Black Supporters Are Deserting de Blasio](https://www.nytimes.com/2020/06/12/nyregion/de-blasio-blacks-protest.html)
 * [Prime Minister Boris Johnson Stirs Culture War Over Churchill Statue](https://www.nytimes.com/2020/06/12/world/europe/boris-johnson-Churchill-statue.html)
 * [How French Soccer Fell Apart](https://www.nytimes.com/2020/06/12/sports/soccer/france-ligue-1-soccer.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
@@ -101,12 +101,12 @@ layout: default
 
 
 * [Maracanã 70 anos: Dinamite lembra volta ao Vasco em jogo com cinco gols](https://oglobo.globo.com/esportes/maracana-70-anos-dinamite-lembra-volta-ao-vasco-em-jogo-com-cinco-gols-24478268)
+* [Deputado bolsonarista pagou consultoria para apresentar projeto com trechos idênticos a outros já apresentados](https://epoca.globo.com/guilherme-amado/deputado-bolsonarista-pagou-consultoria-para-apresentar-projeto-com-trechos-identicos-outros-ja-apresentados-24477839)
 * [Coronavírus: Com as ruas do Rio cheias, prefeitura diz que vai ampliar fiscalização em praias e shoppings](https://oglobo.globo.com/rio/coronavirus-com-as-ruas-do-rio-cheias-prefeitura-diz-que-vai-ampliar-fiscalizacao-em-praias-shoppings-24478149)
 * [O golpe impossível](https://oglobo.globo.com/brasil/o-golpe-impossivel-24478058)
-* [Testemunhas contradizem relatos de policiais investigados pelo homicídio de João Pedro](https://oglobo.globo.com/rio/testemunhas-contradizem-relatos-de-policiais-investigados-pelo-homicidio-de-joao-pedro-24477934)
 * [Nomeação de Fábio Faria para o Ministério das Comunicações aumenta apetite do centrão](https://oglobo.globo.com/brasil/nomeacao-de-fabio-faria-para-ministerio-das-comunicacoes-aumenta-apetite-do-centrao-24477997)
 * [Tráfico anuncia cobrança de taxa de segurança em carta a moradores de São Gonçalo](https://oglobo.globo.com/rio/trafico-anuncia-cobranca-de-taxa-de-seguranca-em-carta-moradores-de-sao-goncalo-24477992)
+* [Maracanã 70 anos: Cristiane vê ouro no Pan de 2007 como 'marca para o futebol feminino'](https://oglobo.globo.com/esportes/maracana-70-anos-cristiane-ve-ouro-no-pan-de-2007-como-marca-para-futebol-feminino-24474413)
 * [Secretário de Saúde de Witzel é convocado por comissão fiscalizadora da Alerj](https://oglobo.globo.com/rio/secretario-de-saude-de-witzel-convocado-por-comissao-fiscalizadora-da-alerj-24477557)
-* [O esporte pode fazer mais contra o racismo](https://oglobo.globo.com/esportes/o-esporte-pode-fazer-mais-contra-racismo-24477845)
-* [Como avaliar a dívida dos clubes e por que o Flamengo não paga tudo de uma vez só](https://oglobo.globo.com/esportes/como-avaliar-divida-dos-clubes-por-que-flamengo-nao-paga-tudo-de-uma-vez-so-1-24477396)
-* [Maracanã 70 anos: da proibição à medalha de ouro, seleção feminina viveu alegrias e tristezas no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-da-proibicao-medalha-de-ouro-selecao-feminina-viveu-alegrias-tristezas-no-estadio-24477337)
+* [Primeira mulher americana a caminhar no espaço atinge o ponto mais profundo do oceano](https://oglobo.globo.com/celina/primeira-mulher-americana-caminhar-no-espaco-atinge-ponto-mais-profundo-do-oceano-1-24472969)
+* [Maracanã 70 anos: Projeto político, estádio já nasce marcado por atrasos, rombo no orçamento e disputas](https://oglobo.globo.com/esportes/maracana-70-anos-projeto-politico-estadio-ja-nasce-marcado-por-atrasos-rombo-no-orcamento-disputas-1-24476489)

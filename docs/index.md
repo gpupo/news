@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 18:10:17 UTC
+# indexed at 13/06/2020 18:34:20 UTC
 
 
 ## news.ycombinator.com
 
 
+* [SageMath is a free open-source mathematics software system](https://www.sagemath.org/)
 * [SQLite as an Application File Format](https://sqlite.org/appfileformat.html)
 * [Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html)
+* [FB News is filled with stories that are too mainstream for the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
 * [Select Code_execution from * Using SQLite;](https://media.ccc.de/v/36c3-10701-select_code_execution_from_using_sqlite)
 * [Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming](https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/)
-* [The Minimized Life: The legacy of Donald Judd in a time of quarantine](https://newrepublic.com/article/157541/donald-judd-moma-coronavirus-minimalism-marfa)
 * [Flow – a new, clean-sheet browser – just passed ACID3 test](https://www.ekioh.com/devblog/acid)
+* [The Minimized Life: The legacy of Donald Judd in a time of quarantine](https://newrepublic.com/article/157541/donald-judd-moma-coronavirus-minimalism-marfa)
+* [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
 * [“Huh” exists in all human languages, according to research (2019)](https://thelanguagenerds.com/this-is-the-one-word-that-exists-in-all-human-languages-according-to-research/)
+* [Transmeta Crusoe](https://en.wikipedia.org/wiki/Transmeta_Crusoe)
 * [The Rolling, Lurching, Vomit-Inducing Road to a Seasickness Cure](https://www.hakaimagazine.com/features/the-rolling-lurching-vomit-inducing-road-to-a-seasickness-cure/)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-* [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
-* [Transmeta Crusoe](https://en.wikipedia.org/wiki/Transmeta_Crusoe)
-* [Fountain pen ink properties](https://crlf.site/log/notes/200430-inks/)
-* [After-Meditation: Wordsworth's political turn](https://www.lrb.co.uk/the-paper/v42/n12/thomas-keymer/after-meditation)
+* [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
 * [Hermes](https://acha.ninja/blog/introducing_hermes/)
+* [Fountain pen ink properties](https://crlf.site/log/notes/200430-inks/)
 * [Math-as-Code (2019)](https://github.com/Jam3/math-as-code)
+* [After-Meditation: Wordsworth's political turn](https://www.lrb.co.uk/the-paper/v42/n12/thomas-keymer/after-meditation)
+* [High doses of ketamine can temporarily switch off the brain, say researchers](https://www.cam.ac.uk/research/news/high-doses-of-ketamine-can-temporarily-switch-off-the-brain-say-researchers)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
 * [New Fonts on macOS Catalina](https://typography.guru/journal/awesome-catalina-fonts/)
-* [Show HN: A multi-markup reader in less than 100 lines of Python code](https://gist.github.com/miraculixx/900a28a94c375b7259b1f711b93417d3)
 * [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
+* [Show HN: A multi-markup reader in less than 100 lines of Python code](https://gist.github.com/miraculixx/900a28a94c375b7259b1f711b93417d3)
 * [Ray Tracing Gems (Open Access Textbook)](https://link.springer.com/book/10.1007/978-1-4842-4427-2)
-* [Procedurally generated Chinese landscape painting](http://shan-shui-inf.lingdong.works)
 * [Apple is building an operating system for health](https://divinations.substack.com/p/healthos)
 * [Crowdfunding for Amiga Book: 25 Years of Copyright Chaos and Technology Triumphs](https://www.kickstarter.com/projects/469255657/from-vultures-to-vampires)
+* [Procedurally generated Chinese landscape painting](http://shan-shui-inf.lingdong.works)
 * [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
 * [Maths Around the Clock (2018)](https://plus.maths.org/content/maths-around-clock)
-* [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
-* [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
-* [In search of the original Fortran compiler (2017)](https://mcjones.org/dustydecks/archives/2017/07/14/968/)
-* [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 ## nytimes.com
 
 
@@ -78,8 +78,8 @@ layout: default
 * [In Every Corner of Bangkok, Spirits Need a Home and Maybe a Strawberry Fanta](https://www.nytimes.com/2020/06/13/world/asia/bangkok-spirit-houses.html)
 * [New York Police Will Stop Enforcing Street-Vendor Laws, but Questions Linger](https://www.nytimes.com/2020/06/12/dining/nypd-street-vendors.html)
 * [Young New Yorkers Want You to Know Why They’re Marching](https://www.nytimes.com/2020/06/13/nyregion/nyc-protests-george-floyd.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
@@ -101,8 +101,8 @@ layout: default
 ## globo.com
 
 
+* [Supremo recebe com cautela nota conjunta do Planalto](https://oglobo.globo.com/brasil/supremo-recebe-com-cautela-nota-conjunta-do-planalto-24478567)
 * [No primeiro fim de semana após flexibilização, shoppings e praias ficam movimentados](https://oglobo.globo.com/rio/no-primeiro-fim-de-semana-apos-flexibilizacao-shoppings-praias-ficam-movimentados-24478521)
-* [Sepultamentos no Rio retomaram média normal, garante Marcelo Crivella](https://oglobo.globo.com/rio/sepultamentos-no-rio-retomaram-media-normal-garante-marcelo-crivella-24478416)
 * [Governo publica medida provisória autorizando criação de contas digitais para novo saque do FGTS](https://oglobo.globo.com/economia/governo-publica-medida-provisoria-autorizando-criacao-de-contas-digitais-para-novo-saque-do-fgts-24478500)
 * [Motorista avança sinal na Avenida das Américas ferindo dois agentes do Barra Presente](https://oglobo.globo.com/rio/motorista-avanca-sinal-na-avenida-das-americas-ferindo-dois-agentes-do-barra-presente-24478538)
 * [Navio chega para dar um gás em Porto do Açu](https://oglobo.globo.com/economia/navio-chega-para-dar-um-gas-em-porto-do-acu-24478516)

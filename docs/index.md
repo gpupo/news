@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 00:26:50 UTC
+# indexed at 13/06/2020 00:35:55 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [The relationship between mindset and age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
-* [Stripe Outage](https://dashboard.stripe.com/login)
-* [Flexport is hiring people who want to help companies navigate Brexit in London](https://www.flexport.com/careers)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
+* [Facebook fires employee who protested its inaction on Trump tweets](https://www.reuters.com/article/us-facebook-protests-firing/facebook-fires-employee-who-protested-its-inaction-on-trump-tweets-idUSKBN23J35Y)
+* [Flexport is hiring people who want to help companies navigate Brexit in London](https://www.flexport.com/careers)
 * [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
 * [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
-* [Facebook fires employee who protested its inaction on Trump tweets](https://www.reuters.com/article/us-facebook-protests-firing/facebook-fires-employee-who-protested-its-inaction-on-trump-tweets-idUSKBN23J35Y)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
-* [Bankrupt Hertz targets Robinhood traders in plot to dump $1B in stock](https://whatsnew2day.com/bankrupt-hertz-targets-robinhood-traders-in-plot-to-dump-1-billion-in-stock/)
+* [Why Robespierre Chose Terror (2006)](https://www.city-journal.org/html/why-robespierre-chose-terror-12935.html)
 * [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
 * [The Book of Shaders](https://thebookofshaders.com/)
 * [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
-* [Why Robespierre Chose Terror (2006)](https://www.city-journal.org/html/why-robespierre-chose-terror-12935.html)
+* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
 * [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
 * [Bicycles from Sketches (2016)](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 * [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
-* [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
-* [I Replaced My MacBook Pro with a Raspberry Pi 4 8GB for a Day](https://www.jeffgeerling.com/blog/2020/i-replaced-my-macbook-pro-raspberry-pi-4-8gb-day)
 * [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
+* [I Replaced My MacBook Pro with a Raspberry Pi 4 8GB for a Day](https://www.jeffgeerling.com/blog/2020/i-replaced-my-macbook-pro-raspberry-pi-4-8gb-day)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
 * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/)
-* [Understanding JavaScript Execution Context like never before](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
-* [Venmo and Paypal Are Stalling Urgent Efforts to Bail People Out of Jail](https://www.vice.com/en_us/article/k7qbnz/venmo-paypal-freeze-transfer-limits-bail-funds)
 * [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Show HN: ProsperStack – Use Stripe to automatically prevent cancellations](https://prosperstack.com/)
-* [Redefining the Scale of Social Problems [pdf]](https://homepages.se.edu/cvonbergen/files/2013/01/Small-Wins_Redefining-the-Scale-of-Social-Problems.pdf)
 * [Extracting Structured Data from Templatic Documents](http://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
+* [Venmo and Paypal Are Stalling Urgent Efforts to Bail People Out of Jail](https://www.vice.com/en_us/article/k7qbnz/venmo-paypal-freeze-transfer-limits-bail-funds)
+* [Redefining the Scale of Social Problems [pdf]](https://homepages.se.edu/cvonbergen/files/2013/01/Small-Wins_Redefining-the-Scale-of-Social-Problems.pdf)
+* [Disney almost bought Twitter in 2016](https://daringfireball.net/linked/2020/06/12/disney-twitter-bob-iger)
+* [Pine64 launches the cheapest Linux Tablet ever priced at just $99.99](https://androidrookies.com/pine64-launches-the-cheapest-linux-tablet-ever-priced-at-just-99-99/)
+* [Node.jsScan: A semantic aware static code analysis tool for Node.js applications](https://github.com/ajinabraham/nodejsscan)
 ## nytimes.com
 
 
@@ -78,20 +78,20 @@ layout: default
 * [After Virtual Graduation, Protesting for Their Lives](https://www.nytimes.com/2020/06/12/us/high-school-graduates-protests-black-lives-matter.html)
 * [Amazon, Pushing Fashion, Opened Photo Studio as a ‘Warehouse’ Exemption](https://www.nytimes.com/2020/06/12/technology/amazon-brooklyn-studio.html)
 * [In Bitter Kentucky G.O.P. Primary, Thomas Massie and Todd McMurtry Trade Charges of Racism](https://www.nytimes.com/2020/06/12/us/politics/kentucky-republican-primary-racism.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)
 * [A Grand History of Small Operas](https://www.nytimes.com/2020/06/12/arts/music/micro-operas.html)
 * [For Pride Month, Eight Stories About Queer Power and Defiance](https://www.nytimes.com/2020/06/10/t-magazine/pride-month-reading-list.html)
 * [With an Internet of Animals, Scientists Aim to Track and Save Wildlife](https://www.nytimes.com/2020/06/09/science/space-station-wildlife.html)
+* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Second Woman to Make Challenger Deep Ocean Dive](https://www.nytimes.com/2020/06/10/science/vescovo-obrien-challenger-deep-ocean.html)
 * [In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)
-* [Navigating Home Care During the Pandemic](https://www.nytimes.com/2020/06/06/health/coronavirus-home-care-nursing.html)
 * [Fox News Host Tucker Carlson Loses More Advertisers](https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html)
 * [Trump Trembles: Mitt Romney Is on the Move](https://www.nytimes.com/2020/06/10/opinion/trump-romney-murkowski.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,12 +100,12 @@ layout: default
 ## globo.com
 
 
+* [Brasil registra 843 novos óbitos e se torna o segundo país com mais mortes por Covid-19, indica consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus-servico/brasil-registra-843-novos-obitos-se-torna-segundo-pais-com-mais-mortes-por-covid-19-indica-consorcio-de-veiculos-de-imprensa-24477364)
 * [Longevidade da pandemia pode isolar o Brasil do resto do mundo, diz infectologista](https://oglobo.globo.com/sociedade/longevidade-da-pandemia-pode-isolar-brasil-do-resto-do-mundo-diz-infectologista-24477710)
 * ['Ele está incentivando a baderna': o desabafo de enfermeira após Bolsonaro pedir que seguidores invadam hospitais](https://epoca.globo.com/sociedade/ele-esta-incentivando-baderna-desabafo-de-enfermeira-apos-bolsonaro-pedir-que-seguidores-invadam-hospitais-24477843)
 * [Bob Dylan sobre novo álbum: 'As canções parecem se escrever sozinhas'](https://oglobo.globo.com/cultura/bob-dylan-sobre-novo-album-as-cancoes-parecem-se-escrever-sozinhas-24477818)
 * [É #FAKE que Secretaria da Saúde de Pernambuco distribuiu álcool em gel com areia a hospitais](https://oglobo.globo.com/fato-ou-fake/e-fake-que-secretaria-da-saude-de-pernambuco-distribuiu-alcool-em-gel-com-areia-hospitais-24477812)
 * [Coronavírus se alastra pelo Alto Xingu e faz aldeias cancelarem o kuarup, festa em homenagem aos mortos](https://oglobo.globo.com/sociedade/coronavirus-se-alastra-pelo-alto-xingu-faz-aldeias-cancelarem-kuarup-festa-em-homenagem-aos-mortos-24477324)
-* [Brasil registra 843 novos óbitos e se torna o segundo país com mais mortes por Covid-19, indica consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus-servico/brasil-registra-843-novos-obitos-se-torna-segundo-pais-com-mais-mortes-por-covid-19-indica-consorcio-de-veiculos-de-imprensa-24477364)
 * [Brasil ultrapassa Reino Unido e se torna o segundo país com mais mortes por Covid-19](https://oglobo.globo.com/sociedade/brasil-ultrapassa-reino-unido-se-torna-segundo-pais-com-mais-mortes-por-covid-19-1-24476468)
 * [NBA: Promessa do San Antonio Spurs revela ter sido abusado sexualmente na infância](https://oglobo.globo.com/esportes/nba-promessa-do-san-antonio-spurs-revela-ter-sido-abusado-sexualmente-na-infancia-24477720)
 * [É #FAKE que carro pegou fogo em Belém após motorista passar álcool em gel na chave](https://oglobo.globo.com/fato-ou-fake/e-fake-que-carro-pegou-fogo-em-belem-apos-motorista-passar-alcool-em-gel-na-chave-24477695)

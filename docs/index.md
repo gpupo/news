@@ -2,38 +2,38 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 02:09:57 UTC
+# indexed at 13/06/2020 02:35:09 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple WWDC20](https://developer.apple.com/wwdc20/)
+* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
 * [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
-* [Storage Matters: Why Xbox and Playstation SSDs Usher in a New Era of Gaming](https://www.anandtech.com/show/15848/storage-matters-xbox-ps5-new-era-of-gaming/)
 * [The relationship between mindset and age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
-* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
+* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [Twilio Super Sim – Public Beta](https://www.twilio.com/docs/iot/supersim)
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
-* [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
-* [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
-* [Facebook fires employee who protested inaction on Trump posts](https://www.reuters.com/article/us-facebook-protests-firing/facebook-fires-employee-who-protested-its-inaction-on-trump-tweets-idUSKBN23J35Y)
-* [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
+* [Forth implemented in Rust trait system](https://github.com/Ashymad/fortraith)
+* [Every year I fill out this survey from Apple, for Apple developers](https://twitter.com/wilshipley/status/1271185023744397312)
 * [Design electronics like it is 70s at CERN – Google Photos](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
-* [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
-* [Flexport is hiring people who want to help companies navigate Brexit in London](https://www.flexport.com/careers)
+* [Crux: Open-source document database with bi-temporal graph queries](https://opencrux.com/)
 * [How to Build a Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick](https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm)
+* [Best practices for managing and storing secrets like API keys and credentials](https://blog.gitguardian.com/secrets-api-management/)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
-* [Officer of China’s People’s Liberation Army Arrested at Lax](https://www.justice.gov/usao-ndca/pr/officer-china-s-people-s-liberation-army-arrested-los-angeles-international-airport)
 * [Venmo and Paypal Are Stalling Urgent Efforts to Bail People Out of Jail](https://www.vice.com/en_us/article/k7qbnz/venmo-paypal-freeze-transfer-limits-bail-funds)
+* [Apple WWDC20](https://developer.apple.com/wwdc20/)
+* [Officer of China’s People’s Liberation Army Arrested at Lax](https://www.justice.gov/usao-ndca/pr/officer-china-s-people-s-liberation-army-arrested-los-angeles-international-airport)
+* [Flexport is hiring people who want to help companies navigate Brexit in London](https://www.flexport.com/careers)
 * [The Map Is Not the Territory (2015)](https://fs.blog/2015/11/map-and-territory/)
-* [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
 * [Play Counter-Strike 1.6 in your browser](http://cs-online.club)
+* [Expresso: A simple expressions language with polymorphic extensible row types](https://github.com/willtim/Expresso)
+* [Is there still room for debate?](https://nymag.com/intelligencer/2020/06/andrew-sullivan-is-there-still-room-for-debate.html)
 * [Show HN: Koyeb – Simple serverless processing workflows, on any cloud](https://www.koyeb.com/)
 * [EUA Authorized Serology Test Performance](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
 * [Extracting Structured Data from Templatic Documents](http://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
@@ -81,10 +81,10 @@ layout: default
 * [After Virtual Graduation, Protesting for Black Lives](https://www.nytimes.com/2020/06/12/us/high-school-graduates-protests-black-lives-matter.html)
 * [In Bitter Kentucky G.O.P. Primary, Thomas Massie and Todd McMurtry Trade Charges of Racism](https://www.nytimes.com/2020/06/12/us/politics/kentucky-republican-primary-racism.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Mike Birbiglia Talks About Fatherhood in His New Book](https://www.nytimes.com/2020/06/12/parenting/baby/birbiglia-sleep.html)
 * [When Is Fashion Week?](https://www.nytimes.com/article/fashion-week-trends-2020.html)
 * [Netflix and Cinemax Go to South Africa for Real](https://www.nytimes.com/2020/06/12/arts/television/netflix-blood-and-water-trackers-cinemax.html)

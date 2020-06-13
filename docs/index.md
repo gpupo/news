@@ -2,32 +2,31 @@
 layout: default
 ---
 
-# indexed at 13/06/2020 13:09:15 UTC
+# indexed at 13/06/2020 13:34:16 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [Flow – a new, clean-sheet browser — just passed ACID3 test](https://www.ekioh.com/devblog/acid)
+* [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [Math-as-Code (2019)](https://github.com/Jam3/math-as-code)
+* [“Huh” is a word that is shared by all human languages – research](https://thelanguagenerds.com/this-is-the-one-word-that-exists-in-all-human-languages-according-to-research/)
 * [Fountain pen ink properties](https://crlf.site/log/notes/200430-inks/)
+* [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
 * [Hermes](https://acha.ninja/blog/introducing_hermes/)
 * [Zoom Acknowledges It Suspended Activists' Accounts at China's Request](https://www.npr.org/2020/06/12/876351501/zoom-acknowledges-it-suspended-activists-accounts-at-china-s-request)
-* [“Huh” is a word that is shared by all human languages – research](https://thelanguagenerds.com/this-is-the-one-word-that-exists-in-all-human-languages-according-to-research/)
-* [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
+* [Maths Around the Clock](https://plus.maths.org/content/maths-around-clock)
+* [Show HN: A multi-markup reader in less than 100 lines of Python code](https://gist.github.com/miraculixx/900a28a94c375b7259b1f711b93417d3)
 * [Ask HN: Is there any work being done in speech-to-code with deep learning?](https://news.ycombinator.com/item?id=23497756)
 * [Design electronics like it is 70s at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
-* [Show HN: A multi-markup reader in less than 100 lines of Python code](https://gist.github.com/miraculixx/900a28a94c375b7259b1f711b93417d3)
 * [Bicycle Geometry Terms](https://99spokes.com/bicycle-geometry-terms)
-* [Maths Around the Clock](https://plus.maths.org/content/maths-around-clock)
-* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
+* [Forecast, don't guesstimate your software projects](https://www.reaktor.com/blog/forecasting-method/)
 * [Apple is building an operating system for health](https://divinations.substack.com/p/healthos)
-* [World Master List of Resources on How to Dismantle Systemic Racism](http://pfw.guide/)
 * [Ansible Alternatives in Python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
-* [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [In search of the original Fortran compiler (2017)](https://mcjones.org/dustydecks/archives/2017/07/14/968/)
+* [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://www.nassiben.com/lamphone)
 * [Show HN: Code Notes – A Gatsby theme for publishing code-related notes](https://zander.wtf/blog/code-notes-release)
 * [The relationship between mindset and age (2017)](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
 * [The Early History of F# [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386325)
@@ -36,15 +35,16 @@ layout: default
 * [Pgsodium: Modern cryptography for PostgreSQL using libsodium](https://github.com/michelp/pgsodium)
 * [Ask HN: Tips for students before starting their first job](https://news.ycombinator.com/item?id=23497026)
 * [The blissfully escapist comic novels of PG Wodehouse](https://www.bbc.com/culture/article/20200602-the-man-who-wrote-the-most-perfect-sentences-ever-written)
-* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 * [The Mathematician and the Mystic: André and Simone Weil](https://www.thenewatlantis.com/publications/the-mathematician-and-the-mystic)
+* [Jepsen: PostgreSQL 12.3](http://jepsen.io/analyses/postgresql-12.3)
+* [Let's Decode a VST](http://adamkulidjian.com/decode-scream4.html)
 ## nytimes.com
 
 
-* [Live Coronavirus News Updates](https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html)
+* [Coronavirus World News and Live Updates](https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html)
 * [Virus Exposes Weak Links in Peru’s Success Story](https://www.nytimes.com/2020/06/12/world/americas/coronavirus-peru-inequality-corruption.html)
 * [Too Close for Comfort, and the Virus, in Russia’s Communal Apartments](https://www.nytimes.com/2020/06/13/world/europe/coronavirus-russia-communal.html)
-* [N.Y. Bans Chokeholds and Approves Other Measures to Restrict Police](https://www.nytimes.com/2020/06/12/nyregion/50a-repeal-police-floyd.html)
+* [Rage and Promises Followed Ferguson, but Little Changed](https://www.nytimes.com/2020/06/13/us/unrest-ferguson-police-reform.html)
 * [Calls for Transforming Police Run Into Realities of Governing in Minnesota](https://www.nytimes.com/2020/06/12/us/minneapolis-police-defunding.html)
 * [Trump Moves Tulsa Rally Date 'Out of Respect' for Juneteenth](https://www.nytimes.com/2020/06/12/us/politics/trump-tulsa-rally-juneteenth.html)
 * [What is Juneteenth Day?](https://www.nytimes.com/article/juneteenth-day-celebration.html)
@@ -57,16 +57,15 @@ layout: default
 * [Special Episode: The Song That Found Me](https://www.nytimes.com/2020/06/12/podcasts/the-daily/patti-labelle-protests.html)
 * [The Real Dangers of Surveillance](https://www.nytimes.com/2020/06/12/technology/surveillance-protests-hong-kong.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
-* [I’m a Black American. I Had to Get Out.](https://www.nytimes.com/2020/06/12/opinion/sunday/black-america-racism-refugee.html)
 * [Yes, We Mean Literally Abolish the Police](https://www.nytimes.com/2020/06/12/opinion/sunday/floyd-abolish-defund-police.html)
+* [I’m a Black American. I Had to Get Out.](https://www.nytimes.com/2020/06/12/opinion/sunday/black-america-racism-refugee.html)
+* [The New York Times's Endorsements for New York's Congressional Primary](https://www.nytimes.com/2020/06/12/opinion/new-york-congress-endorsements.html)
 * [Edward Colston's Toppled Statue Glorified Slavery](https://www.nytimes.com/2020/06/12/opinion/edward-colston-statue-racism.html)
 * [The Post-Coronavirus Global Hunger Crisis](https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html)
 * [A Flag for All in Mississippi](https://www.nytimes.com/2020/06/12/opinion/mississippi-flag-confederate.html)
-* [Target, Don’t Tell Me You ‘Stand With Black Families’](https://www.nytimes.com/2020/06/12/opinion/target-police-racism.html)
 * [To Overturn Trump, We Need to Overturn White Supremacy](https://www.nytimes.com/2020/06/12/opinion/floyd-protests-white-supremacy.html)
-* [Trump's Tulsa Rally Is Just More Racist Trolling](https://www.nytimes.com/2020/06/11/opinion/trump-rally-tulsa.html)
-* [The New York Times's Endorsements for New York's Congressional Primary](https://www.nytimes.com/2020/06/12/opinion/new-york-congress-endorsements.html)
 * [Roger Cohen: The Outcry Over ‘Both Sides’ Journalism](https://www.nytimes.com/2020/06/12/opinion/journalism-debate.html)
+* [Target, Don’t Tell Me You ‘Stand With Black Families’](https://www.nytimes.com/2020/06/12/opinion/target-police-racism.html)
 * [Hotels Transformed New York’s Social Life. Now What?](https://www.nytimes.com/2020/06/11/style/hotels.html)
 * [J.K. Rowling's Fans Imagine Harry Potter World Without Her](https://www.nytimes.com/2020/06/12/style/jk-rowling-transgender-fans.html)
 * [5 Books to Read About Race and the Police](https://www.nytimes.com/interactive/2020/06/10/burst/books-policing-race.html)
@@ -79,11 +78,10 @@ layout: default
 * [As Energy Prices Tumble, Developing Countries Trim Subsidies](https://www.nytimes.com/2020/06/11/business/energy-environment/countries-slash-energy-subsidies-coronavirus.html)
 * [The Economy Is Reeling. The Tech Giants Spy Opportunity.](https://www.nytimes.com/2020/06/13/technology/facebook-amazon-apple-google-microsoft-tech-pandemic-opportunity.html)
 * [Prime Minister Boris Johnson Stirs Culture War Over Churchill Statue](https://www.nytimes.com/2020/06/12/world/europe/boris-johnson-Churchill-statue.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [How to Prepare Your Dog to Be Left at Home Alone (Again)](https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html)
+* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
 * [Worried About Social Distancing When Traveling? Join the Crowd and Rent an R.V.](https://www.nytimes.com/2020/06/11/travel/recreational-vehicles-RV-pandemic.html)
 * [Party Planners on Pause, Awaiting Revelry’s Return](https://www.nytimes.com/2020/06/11/style/party-planners.html)
 * [As Playgrounds Start to Reopen, Here’s How to Keep Kids Safe](https://www.nytimes.com/2020/06/11/parenting/playgrounds-reopen-safety-coronavirus.html)
@@ -100,8 +98,8 @@ layout: default
 ## globo.com
 
 
+* [O significado da roupa azul clara usada hoje pela rainha Elizabeth, durante o Trooping the Colour 2020](https://oglobo.globo.com/ela/gente/o-significado-da-roupa-azul-clara-usada-hoje-pela-rainha-elizabeth-durante-trooping-the-colour-2020-24478347)
 * [Rivalidade entre MBL e bolsonaristas se intensifica com ataques ao presidente](https://epoca.globo.com/brasil/rivalidade-entre-mbl-bolsonaristas-se-intensifica-com-ataques-ao-presidente-24476746)
-* [O significado da roupa azul clara usada hoje pela rainha Elizabeth, durante o 'Trooping the Color' 2020](https://oglobo.globo.com/ela/gente/o-significado-da-roupa-azul-clara-usada-hoje-pela-rainha-elizabeth-durante-trooping-the-color-2020-1-24478347)
 * [Exu será enredo da Grande Rio no carnaval 2021](https://oglobo.globo.com/rio/carnaval/exu-sera-enredo-da-grande-rio-no-carnaval-2021-24478341)
 * [Caixa libera hoje saque em dinheiro da 2ª parcela do auxílio emergencial para nascidos em dezembro](https://oglobo.globo.com/economia/caixa-libera-hoje-saque-em-dinheiro-da-2-parcela-do-auxilio-emergencial-para-nascidos-em-dezembro-24478332)
 * [Casal encontra dente de tubarão com 5 milhões de anos em passeio pela margem de rio em Carolina do Sul, posta no Tik Tok e viraliza](https://oglobo.globo.com/ela/turismo/casal-encontra-dente-de-tubarao-com-5-milhoes-de-anos-em-passeio-pela-margem-de-rio-em-carolina-do-sul-posta-no-tik-tok-viraliza-24478338)

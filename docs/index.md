@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 21:09:24 UTC
+# indexed at 14/06/2020 21:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -16,16 +16,17 @@ layout: default
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
 * [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
 * [APL Since 1978 [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386319)
-* [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
 * [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
+* [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
 * [Show HN: Instant search of 200K+ SVG logos from 100 sources](https://logosear.ch/search.html)
+* [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
 * [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
+* [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
+* [Forgotten Movie Royalty](https://lareviewofbooks.org/article/forgotten-movie-royalty/)
 * [Seismic waves reveal giant structures deep beneath Earth's surface](https://www.newscientist.com/article/2245939-seismic-waves-reveal-giant-structures-deep-beneath-earths-surface/)
 * [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
-* [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
 * [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
 * [Storytelling Tips for Technical Interviews](https://stanete.com/storytelling-tips-technical-interviews)
-* [Responding to the Controversy about YOLOv5](https://blog.roboflow.ai/yolov4-versus-yolov5/)
 * [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html)
 * [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Performance/Avoid SQLite in Your Next Firefox Feature](https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature)
@@ -33,18 +34,17 @@ layout: default
 * [Third-Party Audit of Rustls](http://jbp.io/2020/06/14/rustls-audit.html)
 * [Serverless LAMP stack](https://aws.amazon.com/blogs/compute/introducing-the-new-serverless-lamp-stack/)
 * [Marc Andreessen interview](https://www.theobservereffect.org/marc.html)
-* [Google adds experimental setting to hide full URLs in Chrome 85 address bar](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
+* [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
 * [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
+* [Google adds experimental setting to hide full URLs in Chrome 85 address bar](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
-* [One word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
-* [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
 ## nytimes.com
 
 
 * [Atlanta Police Shooting of Rayshard Brooks: Protests Live Updates](https://www.nytimes.com/2020/06/14/us/atlanta-police-protests-today.html)
 * [Video Investigation: How Rayshard Brooks Was Fatally Shot by Atlanta Police](https://www.nytimes.com/2020/06/14/us/videos-rayshard-brooks-shooting-atlanta-police.html)
 * [Atlanta Police Chief Resigns After Officer Shoots and Kills a Black Man](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-rayshard-brooks.html)
-* [Racial Justice Groups Flooded With Millions in Donations in Wake of Floyd Death](https://www.nytimes.com/2020/06/14/us/politics/black-lives-matter-racism-donations.html)
+* [Black Lives Matter and Other Groups Flooded With Millions in Donations](https://www.nytimes.com/2020/06/14/us/politics/black-lives-matter-racism-donations.html)
 * [Coronavirus Cases Spike Across Sun Belt as Economy Lurches into Motion](https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html)
 * [Coronavirus Live News Updates and Analysis](https://www.nytimes.com/2020/06/14/world/coronavirus-updates.html)
 * [Trading Sportsbooks for Brokerages, Bored Bettors Wager on Stocks](https://www.nytimes.com/2020/06/14/business/sports-gamblers-stocks-virus.html)
@@ -70,7 +70,7 @@ layout: default
 * [To Overturn Trump, We Need to Overturn White Supremacy](https://www.nytimes.com/2020/06/12/opinion/sunday/floyd-protests-white-supremacy.html)
 * [We Went Inside a Sports ‘Bubble.’ Here’s What We Saw.](https://www.nytimes.com/2020/06/14/sports/coronavirus-las-vegas-boxing.html)
 * [A New Book Brings Melania Trump Into (Slightly) Better Focus](https://www.nytimes.com/2020/06/14/books/review-art-of-her-deal-melania-trump-mary-jordan.html)
-* [G.O.P. Congressman Is Ousted From Right After Officiating at Same-Sex Wedding](https://www.nytimes.com/2020/06/14/us/politics/denver-riggleman-virginia-primary-bob-good.html)
+* [Virginia Republican Ousted After Officiating at Same-Sex Wedding](https://www.nytimes.com/2020/06/14/us/politics/denver-riggleman-virginia-primary-bob-good.html)
 * [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
 * [Sushant Singh Rajput, Bollywood Star, Dies at 34](https://www.nytimes.com/2020/06/14/obituaries/sushant-singh-rajput-death.html)
 * [Tanker Truck Blast on China Highway Kills 19](https://www.nytimes.com/2020/06/13/world/asia/china-tanker-truck-explosion.html)
@@ -79,8 +79,8 @@ layout: default
 * [Fears for Volvo Expose Sour Turn in Sweden’s Ties With China](https://www.nytimes.com/2020/06/14/world/europe/sweden-china-volvo.html)
 * [Eva Konrad Hawkins, Marine Scientist Who Fled Hungary, Dies at 90](https://www.nytimes.com/2020/06/11/obituaries/eva-konrad-hawkins-dead-coronavirus.html)
 * [After More Proposals, Players Tell M.L.B.: ‘Tell Us When and Where’](https://www.nytimes.com/2020/06/14/sports/baseball/mlb-2020-season-schedule.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
@@ -90,9 +90,9 @@ layout: default
 * [Low Effort, High Reward](https://www.nytimes.com/2020/06/12/dining/low-effort-high-reward.html)
 * [What Are Fintechs and How Can They Help Small Business?](https://www.nytimes.com/2020/06/10/business/economy/fintechs-loan-small-business.html)
 * [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
-* [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
 * [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
 * [Family of Black Man Found Hanging From Tree Dispute Suicide Finding](https://www.nytimes.com/2020/06/13/us/robert-fuller-death-palmdale.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Macron diz que França é 'zona verde' da Covid e defende que Europa seja menos dependente dos EUA e da China](https://oglobo.globo.com/mundo/macron-diz-que-franca-zona-verde-da-covid-defende-que-europa-seja-menos-dependente-dos-eua-da-china-24479362)
-* [MPF vai investigar protesto em que manifestantes soltaram fogos de artifício em direção ao STF](https://oglobo.globo.com/brasil/mpf-vai-investigar-protesto-em-que-manifestantes-soltaram-fogos-de-artificio-em-direcao-ao-stf-24479479)
-* [Toffoli e Moraes reagem após manifestantes soltarem fogos de artifício em direção ao STF](https://oglobo.globo.com/brasil/toffoli-moraes-reagem-apos-manifestantes-soltarem-fogos-de-artificio-em-direcao-ao-stf-24479443)
-* [Com Paulinho na reta final, Bayer Leverkusen busca empate com Schalke 04](https://oglobo.globo.com/esportes/com-paulinho-na-reta-final-bayer-leverkusen-busca-empate-com-schalke-04-24479471)
+* [Toffoli, Moraes e Barroso reagem após manifestantes soltarem fogos de artifício em direção ao STF](https://oglobo.globo.com/brasil/toffoli-moraes-barroso-reagem-apos-manifestantes-soltarem-fogos-de-artificio-em-direcao-ao-stf-24479443)
 * [PGR pede que Ministério Público estadual investigue invasão de hospitais](https://oglobo.globo.com/sociedade/pgr-pede-que-ministerio-publico-estadual-investigue-invasao-de-hospitais-24479399)
+* [Secretário do Tesouro, Mansueto Almeida, está perto de deixar o governo](https://oglobo.globo.com/economia/secretario-do-tesouro-mansueto-almeida-esta-perto-de-deixar-governo-24479481)
+* [MPF vai investigar protesto em que manifestantes soltaram fogos de artifício em direção ao STF](https://oglobo.globo.com/brasil/mpf-vai-investigar-protesto-em-que-manifestantes-soltaram-fogos-de-artificio-em-direcao-ao-stf-24479479)
+* [Macron diz que França é 'zona verde' da Covid e defende que Europa seja menos dependente dos EUA e da China](https://oglobo.globo.com/mundo/macron-diz-que-franca-zona-verde-da-covid-defende-que-europa-seja-menos-dependente-dos-eua-da-china-24479362)
+* [Com Paulinho na reta final, Bayer Leverkusen busca empate com Schalke 04](https://oglobo.globo.com/esportes/com-paulinho-na-reta-final-bayer-leverkusen-busca-empate-com-schalke-04-24479471)
 * [Benzema, o atacante completo, comanda a vitória do Real Madrid pelo Espanhol](https://oglobo.globo.com/esportes/benzema-atacante-completo-comanda-vitoria-do-real-madrid-pelo-espanhol-24479415)
 * [Falta de medicamentos atrasa inauguração de Hospitais de Campanha de São Gonçalo e Nova Iguaçu](https://oglobo.globo.com/rio/falta-de-medicamentos-atrasa-inauguracao-de-hospitais-de-campanha-de-sao-goncalo-nova-iguacu-24479419)
 * ['Nossa Senhora veio me visitar', disse padre de Rio das Pedras, que morreu neste domingo, vítima da Covid-19](https://oglobo.globo.com/rio/nossa-senhora-veio-me-visitar-disse-padre-de-rio-das-pedras-que-morreu-neste-domingo-vitima-da-covid-19-24479388)
 * [Spike Lee pede desculpa após defender Woody Allen](https://oglobo.globo.com/cultura/spike-lee-pede-desculpa-apos-defender-woody-allen-24479357)
-* [Desembargadora ré por difamar Marielle publica desculpas por ofensa a Jean Wyllys](https://epoca.globo.com/guilherme-amado/desembargadora-re-por-difamar-marielle-publica-desculpas-por-ofensa-jean-wyllys-24479346)

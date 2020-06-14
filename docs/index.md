@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 15:09:31 UTC
+# indexed at 14/06/2020 15:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -12,11 +12,10 @@ layout: default
 * [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
 * [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
 * [Marc Andreessen interview](https://www.theobservereffect.org/marc.html)
-* [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
 * [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
+* [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
 * [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Ultra-dense optical data transmission over standard fibre with a single chip](https://www.nature.com/articles/s41467-020-16265-x)
-* [JavaScript Growing Pains: From 0 to 13,000 Dependencies](https://pragmaticpineapple.com/javascript-growing-pains-from-0-to-13000-dependencies/)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
 * [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
 * [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
@@ -28,15 +27,16 @@ layout: default
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
 * [Music Grid](https://music-grid.surge.sh)
-* [Microsoft's latest Windows 10 updates come with nasty printer bugs](https://www.engadget.com/microsofts-windows-10-updates-printer-bugs-000112943.html)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [Microsoft's latest Windows 10 updates come with nasty printer bugs](https://www.engadget.com/microsofts-windows-10-updates-printer-bugs-000112943.html)
+* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
 * [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
-* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
-* [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
+* [It’s time to end China’s ‘United Front’ operations inside the United States](https://www.washingtonpost.com/opinions/2020/06/10/its-time-end-chinas-united-front-operations-inside-united-states/)
+* [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
 * [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
 ## nytimes.com
 
@@ -76,11 +76,11 @@ layout: default
 * [Guaranteed Ingredient in Any Coronavirus Vaccine? Thousands of Volunteers](https://www.nytimes.com/2020/06/13/science/vaccine-coronavirus-inovio.html)
 * [A Stimulus Backlash Delivers a Global Warning: Value Female Workers](https://www.nytimes.com/2020/06/14/world/australia/coronavirus-stimulus-childcare-women.html)
 * [You Now Get Almost Nothing for Your Money, but It Could Be Worse](https://www.nytimes.com/2020/06/12/business/emergency-fund-money-market.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [A Date to Remember](https://www.nytimes.com/2020/06/12/fashion/weddings/a-date-to-remember.html)
 * [How a New Yorker Cartoonist Spends Her Sundays](https://www.nytimes.com/2020/06/13/nyregion/coronavirus-liana-finck.html)
 * [The Swinging, Jamming Musical Charms of 1940s Soundies](https://www.nytimes.com/2020/06/11/movies/soundies-duke-ellington.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Mel B foi 'bombardeada' de mensagens de ódio racistas ao comprar mansão na Inglaterra](https://oglobo.globo.com/ela/gente/mel-foi-bombardeada-de-mensagens-de-odio-racistas-ao-comprar-mansao-na-inglaterra-24479227)
+* [Grupo de 30 pessoas contraria proibição e realiza protesto pró-Bolsonaro em Brasília](https://oglobo.globo.com/brasil/grupo-de-30-pessoas-contraria-proibicao-realiza-protesto-pro-bolsonaro-em-brasilia-24479234)
 * [Imagem de homem negro carregando manifestante da extrema-direita ferido viraliza após confrontos em Londres](https://oglobo.globo.com/mundo/imagem-de-homem-negro-carregando-manifestante-da-extrema-direita-ferido-viraliza-apos-confrontos-em-londres-24479219)
+* [Espanha anuncia pacote bilionário para socorrer o setor automotivo](https://oglobo.globo.com/economia/espanha-anuncia-pacote-bilionario-para-socorrer-setor-automotivo-24479229)
 * [Crianças na UTI: Covid-19 severa nos mais jovens é ainda menos compreendida](https://oglobo.globo.com/sociedade/criancas-na-uti-covid-19-severa-nos-mais-jovens-ainda-menos-compreendida-24479225)
 * [Após calor recorde e dias seguidos de sol, frente fria muda a cara do Rio neste domingo](https://oglobo.globo.com/rio/bairros/apos-calor-recorde-dias-seguidos-de-sol-frente-fria-muda-cara-do-rio-neste-domingo-1-24479193)
 * [Gilmar critica pedido de Bolsonaro para apoiadores inavadirem hospitais: ‘É crime’](https://epoca.globo.com/guilherme-amado/gilmar-critica-pedido-de-bolsonaro-para-apoiadores-inavadirem-hospitais-crime-24479215)
 * [Crianças na UTI: Covid-19 severa nos mais jovens é ainda menos compreendida](https://oglobo.globo.com/sociedade/criancas-na-uti-covid-19-severa-nos-mais-jovens-ainda-menos-compreendida-24479210)
-* [Claude Troisgros sobre restaurantes pós-pandemia: 'Menu em chip para colocar no celular e garçons de máscara'](https://oglobo.globo.com/cultura/claude-troisgros-sobre-restaurantes-pos-pandemia-menu-em-chip-para-colocar-no-celular-garcons-de-mascara-24477043)
 * [Em Tóquio, manifestantes voltam às ruas contra o racismo](https://oglobo.globo.com/mundo/em-toquio-manifestantes-voltam-as-ruas-contra-racismo-24479197)
-* [Escritora diz que relação de Meghan Markle com família real começou a desandar três dias depois do casamento](https://oglobo.globo.com/ela/gente/escritora-diz-que-relacao-de-meghan-markle-com-familia-real-comecou-desandar-tres-dias-depois-do-casamento-24479195)
-* [Manifestantes jogam fogos de artifício contra STF](https://oglobo.globo.com/brasil/manifestantes-jogam-fogos-de-artificio-contra-stf-24479185)
 * [A composição da comissão de impeachment de Wilson Witzel](https://epoca.globo.com/guilherme-amado/a-composicao-da-comissao-de-impeachment-de-wilson-witzel-24478042)

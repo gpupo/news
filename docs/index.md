@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 09:09:41 UTC
+# indexed at 14/06/2020 09:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Google resumes senseless attack on URL bar, hides full addresses on Chrome 85](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
-* [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
 * [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
+* [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
+* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
 * [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
-* [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
 * [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
+* [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
 * [Music Grid](https://music-grid.surge.sh)
 * [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
 * [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
-* [Show HN: Math to Code – Interactive NumPy tutorial for engineers](https://mathtocode.com)
 * [Illustrated Notes for “Building a Second Brain”](https://maggieappleton.com/basb)
-* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
+* [Fox News publishes altered and misleading images of Seattle demonstrations](https://edition.cnn.com/2020/06/13/media/seattle-fox-news-autonomous-zone-protest/index.html)
+* [Show HN: Math to Code – Interactive NumPy tutorial for engineers](https://mathtocode.com)
 * [Chakra UI – Modular and accessible UI components for React apps](https://chakra-ui.com)
 * [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
-* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
 * [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
+* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
 * [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
-* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
 * [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
 * [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
-* [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
+* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
 * [TwilioQuest – A RPG game to help learn JavaScript](https://www.twilio.com/quest)
+* [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
-* [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
 ## nytimes.com
 
 
@@ -64,9 +64,8 @@ layout: default
 * [Don’t Leave the W.H.O. Strengthen It.](https://www.nytimes.com/2020/06/13/opinion/sunday/trump-world-health-organization-who.html)
 * [Trump Has Made Alternative Facts a Way of Life](https://www.nytimes.com/2020/06/13/opinion/trump-has-made-alternative-facts-a-way-of-life.html)
 * [How Can a Small Town Talk About Race?](https://www.nytimes.com/2018/06/19/opinion/police-black-lives-matter.html)
-* [A Reckoning at Condé Nast](https://www.nytimes.com/2020/06/13/business/media/conde-nast-racial.html)
-* [Why I Took My Young Son to Protest](https://www.nytimes.com/2020/06/12/parenting/protests-bringing-kids.html)
-* [The Remorseless Confessions of a Champion Underbidder](https://www.nytimes.com/2020/06/11/style/spades-card-games.html)
+* [Museums Are Finally Taking a Stand. But Can They Find Their Footing?](https://www.nytimes.com/2020/06/11/arts/design/museums-protests-race-smithsonian.html)
+* [A New Book Brings Melania Trump Into (Slightly) Better Focus](https://www.nytimes.com/2020/06/14/books/review-art-of-her-deal-melania-trump-mary-jordan.html)
 * [A St. John’s Fencing Coach Is Fired After Making Racist Remarks](https://www.nytimes.com/2020/06/13/sports/st-johns-fencing-coach-fired.html)
 * [Fox News Removes a Digitally Altered Image of Seattle Protests](https://www.nytimes.com/2020/06/13/business/media/fox-news-george-floyd-protests-seattle.html)
 * [Family of Black Man Found Hanging From Tree Dispute Suicide Finding](https://www.nytimes.com/2020/06/13/us/robert-fuller-death-palmdale.html)
@@ -76,10 +75,10 @@ layout: default
 * [G.O.P. Congressman Faces Primary After Officiating Same-Sex Wedding](https://www.nytimes.com/2020/06/13/us/politics/denver-riggleman-primary-virginia-good.html)
 * [A Stimulus Backlash Delivers a Global Warning: Value Female Workers](https://www.nytimes.com/2020/06/14/world/australia/coronavirus-stimulus-childcare-women.html)
 * [Jersey Shore Rebellion Erupts Over State’s Slow Reopening](https://www.nytimes.com/2020/06/12/nyregion/nj-reopening-asbury-park.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [‘It’s Something I Wanted to Carry With Me’: Marking a Movement in Ink](https://www.nytimes.com/2020/06/13/us/george-floyd-protests-tattoos.html)
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)

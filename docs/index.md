@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 08:34:25 UTC
+# indexed at 14/06/2020 09:09:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
+* [Google resumes senseless attack on URL bar, hides full addresses on Chrome 85](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
 * [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
-* [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
-* [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
-* [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
-* [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
+* [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
+* [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
+* [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
+* [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [Music Grid](https://music-grid.surge.sh)
 * [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
-* [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
-* [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
 * [Show HN: Math to Code – Interactive NumPy tutorial for engineers](https://mathtocode.com)
 * [Illustrated Notes for “Building a Second Brain”](https://maggieappleton.com/basb)
+* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Chakra UI – Modular and accessible UI components for React apps](https://chakra-ui.com)
-* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
-* [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
-* [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
+* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
+* [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
+* [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
+* [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
-* [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
 * [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
-* [TwilioQuest – A RPG game to help learn JavaScript](https://www.twilio.com/quest)
+* [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
+* [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
+* [TwilioQuest – A RPG game to help learn JavaScript](https://www.twilio.com/quest)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
 * [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
-* [The New Old Home](https://www.yakcollective.org/projects/the-new-old-home)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [G.O.P. Congressman Faces Primary After Officiating Same-Sex Wedding](https://www.nytimes.com/2020/06/13/us/politics/denver-riggleman-primary-virginia-good.html)
 * [A Stimulus Backlash Delivers a Global Warning: Value Female Workers](https://www.nytimes.com/2020/06/14/world/australia/coronavirus-stimulus-childcare-women.html)
 * [Jersey Shore Rebellion Erupts Over State’s Slow Reopening](https://www.nytimes.com/2020/06/12/nyregion/nj-reopening-asbury-park.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [‘It’s Something I Wanted to Carry With Me’: Marking a Movement in Ink](https://www.nytimes.com/2020/06/13/us/george-floyd-protests-tattoos.html)
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)
 * [A Barware Company for the Pros Adds Amateurs to the Mix](https://www.nytimes.com/2020/06/12/business/cocktail-kingdom-barware-pandemic.html)
@@ -94,13 +94,13 @@ layout: default
 ## globo.com
 
 
-* ['Reage, Rio!' coloca em debate o futuro do negócio local](https://oglobo.globo.com/rio/reage-rio-coloca-em-debate-futuro-do-negocio-local-24479077)
-* [Pandemia diminui fiscalização e faz crescer construções irregulares no Rio](https://oglobo.globo.com/rio/pandemia-diminui-fiscalizacao-faz-crescer-construcoes-irregulares-no-rio-24479005)
-* [Após quase 80 dias de quarentena, biólogo encontra espécies raras em mergulho na Baía de Guanabara](https://oglobo.globo.com/rio/apos-quase-80-dias-de-quarentena-biologo-encontra-especies-raras-em-mergulho-na-baia-de-guanabara-24479019)
-* [Maracanã 70 anos: rivalidade entre Flamengo e Botafogo resume sensação de aplicar goleada no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-rivalidade-entre-flamengo-botafogo-resume-sensacao-de-aplicar-goleada-no-estadio-24476879)
-* ['Rough and rowdy ways', de Bob Dylan, é um disco para se ouvir como um romance](https://oglobo.globo.com/cultura/rough-and-rowdy-ways-de-bob-dylan-um-disco-para-se-ouvir-como-um-romance-24478596)
-* [‘Reage, Rio!’ debate a situação do comércio local durante pandemia, nesta segunda](https://oglobo.globo.com/rio/reage-rio-debate-situacao-do-comercio-local-durante-pandemia-nesta-segunda-24478054)
-* [Na última fronteira da Amazônia, povos indígenas têm uma sucessão de 'positivos' para o novo coronavírus](https://oglobo.globo.com/sociedade/coronavirus/na-ultima-fronteira-da-amazonia-povos-indigenas-tem-uma-sucessao-de-positivos-para-novo-coronavirus-24478221)
-* [Curiosidade ou mau gosto? Suécia tem 'passeio guiado da peste' durante pandemia](https://oglobo.globo.com/boa-viagem/curiosidade-ou-mau-gosto-suecia-tem-passeio-guiado-da-peste-durante-pandemia-24478263)
-* [Debate sobre impeachment deu peso maior à cadeira de presidente da Câmara](https://oglobo.globo.com/analitico/debate-sobre-impeachment-deu-peso-maior-cadeira-de-presidente-da-camara-24477383)
-* [Giancarlo Esposito sobre racismo: 'Não tem um dia em que pegue meu carro sem temer ser parado pela polícia'](https://oglobo.globo.com/cultura/revista-da-tv/giancarlo-esposito-sobre-racismo-nao-tem-um-dia-em-que-pegue-meu-carro-sem-temer-ser-parado-pela-policia-1-24474710)
+* [Coronavírus pautará pleitos municipais, dizem especialistas](https://oglobo.globo.com/brasil/coronavirus-pautara-pleitos-municipais-dizem-especialistas-24479068)
+* [Eleições: Campanhas preparam estratégias para conquistar votos em um cenário de distanciamento dos eleitores](https://oglobo.globo.com/brasil/eleicoes-campanhas-preparam-estrategias-para-conquistar-votos-em-um-cenario-de-distanciamento-dos-eleitores-24479065)
+* [Disputa pelo comando da Câmara já divide deputados do centrão](https://oglobo.globo.com/brasil/disputa-pelo-comando-da-camara-ja-divide-deputados-do-centrao-24479049)
+* [Adiamento das eleições gera incertezas no pleito](https://oglobo.globo.com/brasil/adiamento-das-eleicoes-gera-incertezas-no-pleito-24479053)
+* [Problemas com entregas dos Correios saltam na pandemia](https://oglobo.globo.com/economia/problemas-com-entregas-dos-correios-saltam-na-pandemia-24478890)
+* [Maracanã 70 anos: Dodô recorda 'atmosfera linda' em final de Libertadores e 'sonho de criança' de atuar no estádio](https://oglobo.globo.com/esportes/maracana-70-anos-dodo-recorda-atmosfera-linda-em-final-de-libertadores-sonho-de-crianca-de-atuar-no-estadio-24476680)
+* [Presidente da Ponte Preta, único negro das Séries A, B e C, tenta levar racismo para centro das discussões no futebol](https://oglobo.globo.com/esportes/presidente-da-ponte-preta-unico-negro-das-series-b-c-tenta-levar-racismo-para-centro-das-discussoes-no-futebol-24478727)
+* [Maracanã 70 anos: como o estádio virou a casa do 'Rei do Futebol'](https://oglobo.globo.com/esportes/maracana-70-anos-como-estadio-virou-casa-do-rei-do-futebol-24478423)
+* [Bolsonaro mandou empregar amigo no PSL do Rio](https://epoca.globo.com/guilherme-amado/bolsonaro-mandou-empregar-amigo-no-psl-do-rio-1-24477942)
+* [Sem poder ocupar Avenida Paulista, Parada do Orgulho LGBT+ de São Paulo terá primeira edição virtual neste domingo](https://oglobo.globo.com/celina/sem-poder-ocupar-avenida-paulista-parada-do-orgulho-lgbt-de-sao-paulo-tera-primeira-edicao-virtual-neste-domingo-24477102)

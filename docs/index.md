@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 13:10:36 UTC
+# indexed at 14/06/2020 13:50:42 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
 * [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
 * [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
+* [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html)
 * [Ultra-dense optical data transmission over standard fibre with a single chip](https://www.nature.com/articles/s41467-020-16265-x)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
-* [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
 * [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
 * [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [Illustrated Notes for “Building a Second Brain”](https://maggieappleton.com/basb)
-* [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
-* [Google hides full addresses in URL bar on Chrome 85](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
 * [Show HN: Math to Code – Interactive NumPy tutorial for engineers](https://mathtocode.com)
+* [Google hides full addresses in URL bar on Chrome 85](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
 * [Which cyclist hill descent position is superior? (2017)](https://www.linkedin.com/pulse/which-cyclist-hill-descent-position-really-superior-froome-blocken)
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
-* [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
 * [Music Grid](https://music-grid.surge.sh)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
+* [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
+* [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
-* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
+* [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
+* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
 * [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
-* [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
+* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
 * [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
-* [Chakra UI – Modular and accessible UI components for React apps](https://chakra-ui.com)
 ## nytimes.com
 
 
@@ -75,20 +75,20 @@ layout: default
 * [Guaranteed Ingredient in Any Coronavirus Vaccine? Thousands of Volunteers](https://www.nytimes.com/2020/06/13/science/vaccine-coronavirus-inovio.html)
 * [A Stimulus Backlash Delivers a Global Warning: Value Female Workers](https://www.nytimes.com/2020/06/14/world/australia/coronavirus-stimulus-childcare-women.html)
 * [You Now Get Almost Nothing for Your Money, but It Could Be Worse](https://www.nytimes.com/2020/06/12/business/emergency-fund-money-market.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [A Date to Remember](https://www.nytimes.com/2020/06/12/fashion/weddings/a-date-to-remember.html)
 * [How a New Yorker Cartoonist Spends Her Sundays](https://www.nytimes.com/2020/06/13/nyregion/coronavirus-liana-finck.html)
 * [The Swinging, Jamming Musical Charms of 1940s Soundies](https://www.nytimes.com/2020/06/11/movies/soundies-duke-ellington.html)
 * [Low Effort, High Reward](https://www.nytimes.com/2020/06/12/dining/low-effort-high-reward.html)
 * [What Are Fintechs and How Can They Help Small Business?](https://www.nytimes.com/2020/06/10/business/economy/fintechs-loan-small-business.html)
-* [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
 * [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
-* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
 * [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
+* [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [Biden’s Vice-Presidential Search: Who’s on the List and Where It Stands](https://www.nytimes.com/2020/06/13/us/politics/joe-biden-vice-president.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -96,13 +96,13 @@ layout: default
 ## globo.com
 
 
-* [Claude Troisgros sobre restaurantes pós-pandemia: 'Menu em chip para colocar no celular e garçons de máscara'](https://oglobo.globo.com/cultura/claude-troisgros-sobre-restaurantes-pos-pandemia-menu-em-chip-para-colocar-no-celular-garcons-de-mascara-24477043)
+* [Em Tóquio, manifestantes voltam às ruas contra o racismo](https://oglobo.globo.com/mundo/em-toquio-manifestantes-voltam-as-ruas-contra-racismo-24479197)
+* [Escritora diz que relação de Meghan Markle com família real começou a desandar três dias depois do casamento](https://oglobo.globo.com/ela/gente/escritora-diz-que-relacao-de-meghan-markle-com-familia-real-comecou-desandar-tres-dias-depois-do-casamento-24479195)
 * [Manifestantes jogam fogos de artifício contra STF](https://oglobo.globo.com/brasil/manifestantes-jogam-fogos-de-artificio-contra-stf-24479185)
+* [Claude Troisgros sobre restaurantes pós-pandemia: 'Menu em chip para colocar no celular e garçons de máscara'](https://oglobo.globo.com/cultura/claude-troisgros-sobre-restaurantes-pos-pandemia-menu-em-chip-para-colocar-no-celular-garcons-de-mascara-24477043)
 * [China registra maior número diário de casos de Covid-19 desde abril](https://oglobo.globo.com/mundo/china-registra-maior-numero-diario-de-casos-de-covid-19-desde-abril-1-24479146)
-* [Morte de homem negro durante prisão, em Atlanta, engrossa protestos contra racismo](https://oglobo.globo.com/mundo/morte-de-homem-negro-durante-prisao-em-atlanta-engrossa-protestos-contra-racismo-1-24479145)
 * [As fake news do amor](https://oglobo.globo.com/ela/as-fake-news-do-amor-24479170)
 * [Como a estratégia de Trump para conter protestos pode ter comprometido seus planos de reeleição](https://epoca.globo.com/mundo/como-estrategia-de-trump-para-conter-protestos-pode-ter-comprometido-seus-planos-de-reeleicao-24479169)
 * [Sobre empatia](https://oglobo.globo.com/ela/sobre-empatia-24479162)
 * [Divida o microfone agora](https://oglobo.globo.com/ela/divida-microfone-agora-24479153)
-* [Coronavírus: Pequim teme segunda onda de Covid-19 após surto em mercado](https://epoca.globo.com/mundo/coronavirus-pequim-teme-segunda-onda-de-covid-19-apos-surto-em-mercado-24479144)
 * [Livro analisa o governo Bolsonaro na pandemia](https://epoca.globo.com/guilherme-amado/livro-analisa-governo-bolsonaro-na-pandemia-24477994)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 10:09:53 UTC
+# indexed at 14/06/2020 10:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
 * [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
-* [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
-* [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
-* [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
 * [Ultra-dense optical data transmission over standard fibre with a single chip](https://www.nature.com/articles/s41467-020-16265-x)
+* [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
+* [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [Music Grid](https://music-grid.surge.sh)
-* [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
+* [Hot-swapping Python 3 code](https://github.com/say4n/hotreload)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
+* [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [Illustrated Notes for “Building a Second Brain”](https://maggieappleton.com/basb)
 * [Show HN: Math to Code – Interactive NumPy tutorial for engineers](https://mathtocode.com)
 * [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
-* [Chakra UI – Modular and accessible UI components for React apps](https://chakra-ui.com)
-* [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
 * [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
-* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
+* [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
+* [Linux Sucks 2020](https://m.youtube.com/watch?v=cZN5n6C9gM4)
 * [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
-* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
+* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
 * [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
 * [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
-* [Fox News publishes altered and misleading images of Seattle demonstrations](https://edition.cnn.com/2020/06/13/media/seattle-fox-news-autonomous-zone-protest/index.html)
-* [Linux Sucks 2020](https://m.youtube.com/watch?v=cZN5n6C9gM4)
+* [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
+* [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
 ## nytimes.com
 
 
@@ -77,10 +77,10 @@ layout: default
 * [A Stimulus Backlash Delivers a Global Warning: Value Female Workers](https://www.nytimes.com/2020/06/14/world/australia/coronavirus-stimulus-childcare-women.html)
 * [You Now Get Almost Nothing for Your Money, but It Could Be Worse](https://www.nytimes.com/2020/06/12/business/emergency-fund-money-market.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [‘It’s Something I Wanted to Carry With Me’: Marking a Movement in Ink](https://www.nytimes.com/2020/06/13/us/george-floyd-protests-tattoos.html)
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)
 * [A Barware Company for the Pros Adds Amateurs to the Mix](https://www.nytimes.com/2020/06/12/business/cocktail-kingdom-barware-pandemic.html)
@@ -96,11 +96,11 @@ layout: default
 
 
 * [Maracanã 70 anos: na relação com a Libertadores, falta coroar título de time brasileiro](https://oglobo.globo.com/esportes/maracana-70-anos-na-relacao-com-libertadores-falta-coroar-titulo-de-time-brasileiro-24479097)
-* [Adiamento das eleições gera incertezas no pleito](https://oglobo.globo.com/brasil/adiamento-das-eleicoes-gera-incertezas-no-pleito-24479053)
 * [A nova casa: conheça as tendências na arquitetura e no design trazidas pela pandemia](https://oglobo.globo.com/rio/bairros/a-nova-casa-conheca-as-tendencias-na-arquitetura-no-design-trazidas-pela-pandemia-24477051)
 * [Maracanã 70 anos: Oscar lembra de título contra 'futebol mais bonito do mundo' e gol deitado de Fred](https://oglobo.globo.com/esportes/maracana-70-anos-oscar-lembra-de-titulo-contra-futebol-mais-bonito-do-mundo-gol-deitado-de-fred-24476739)
 * [Presidente da Ponte Preta, único negro das Séries A, B e C, tenta levar racismo para centro das discussões no futebol](https://oglobo.globo.com/esportes/presidente-da-ponte-preta-unico-negro-das-series-b-c-tenta-levar-racismo-para-centro-das-discussoes-no-futebol-24478727)
 * [Maracanã 70 anos: como o estádio virou a casa do 'Rei do Futebol'](https://oglobo.globo.com/esportes/maracana-70-anos-como-estadio-virou-casa-do-rei-do-futebol-24478423)
+* [Suspeito de ataque ao Porta dos Fundos quer ser vereador](https://epoca.globo.com/guilherme-amado/suspeito-de-ataque-ao-porta-dos-fundos-quer-ser-vereador-1-24477990)
 * [Bolsonaro mandou empregar amigo no PSL do Rio](https://epoca.globo.com/guilherme-amado/bolsonaro-mandou-empregar-amigo-no-psl-do-rio-1-24477942)
 * [Presos de alta periculosidade sem Covid até hoje](https://epoca.globo.com/guilherme-amado/presos-de-alta-periculosidade-sem-covid-ate-hoje-24477977)
 * [Roberto Jefferson é investigado no STF por crimes contra a honra e contra segurança nacional](https://epoca.globo.com/guilherme-amado/roberto-jefferson-investigado-no-stf-por-crimes-contra-honra-contra-seguranca-nacional-24477959)

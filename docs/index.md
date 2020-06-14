@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 01:10:40 UTC
+# indexed at 14/06/2020 01:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
-* [Music Grid](https://music-grid.surge.sh)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
+* [Music Grid](https://music-grid.surge.sh)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
 * [Chakra UI – Simple, Modular and Accessible UI Components for Your React Apps](https://chakra-ui.com)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
 * [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
-* [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
-* [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
 * [Show HN: Math to Code (interactive NumPy tutorial for engineers)](https://mathtocode.com)
-* [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
+* [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
 * [Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html)
+* [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
 * [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
 * [Install Linux from a running Windows system, without need for a live USB](https://github.com/mikeslattery/tunic)
+* [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
 * [Just Use Your Thinking Pump](https://www.nybooks.com/articles/2020/07/02/just-use-your-thinking-pump/)
 * [Who should own the copyright of AI-generated art?](https://aimade.art/blogs/news/who-should-own-the-copyright-of-ai-generated-art)
-* [Julian Assange in Limbo](https://www.lrb.co.uk/the-paper/v42/n12/patrick-cockburn/julian-assange-in-limbo)
-* [Select Code_execution from * Using SQLite;](https://media.ccc.de/v/36c3-10701-select_code_execution_from_using_sqlite)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [Julian Assange in Limbo](https://www.lrb.co.uk/the-paper/v42/n12/patrick-cockburn/julian-assange-in-limbo)
 * [How to Angel Invest, Part 2](https://nav.al/angel-2)
 * [A Guide to Pic Microcontroller Paging](https://jetholt.com/micro/a-guide-to-pic-paging/)
 * [The American Press Is Destroying Itself](https://taibbi.substack.com/p/the-news-media-is-destroying-itself?r=2&utm_campaign=post&utm_medium=web&utm_source=hackernews)
+* [Select Code_execution from * Using SQLite;](https://media.ccc.de/v/36c3-10701-select_code_execution_from_using_sqlite)
 * [Weird Keyboards, Programmable Keyboards](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html?m=1)
-* [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
 * [Transmeta Crusoe](https://en.wikipedia.org/wiki/Transmeta_Crusoe)
+* [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
 * [Developers are your users too – a defence of 'View Source'](https://medium.com/@jasoncartwright/developers-are-your-users-too-73e186dc8fd2)
-* [New Fonts on macOS Catalina](https://typography.guru/journal/awesome-catalina-fonts/)
+* [High doses of ketamine can temporarily switch off the brain, say researchers](https://www.cam.ac.uk/research/news/high-doses-of-ketamine-can-temporarily-switch-off-the-brain-say-researchers)
 * [The Minimized Life: The legacy of Donald Judd in a time of quarantine](https://newrepublic.com/article/157541/donald-judd-moma-coronavirus-minimalism-marfa)
 ## nytimes.com
 
@@ -46,8 +46,7 @@ layout: default
 * [From Cosmetics to NASCAR, Calls for Racial Justice Are Spreading](https://www.nytimes.com/2020/06/13/us/george-floyd-racism-america.html)
 * [Rage and Promises Followed Ferguson, but Little Changed](https://www.nytimes.com/2020/06/13/us/unrest-ferguson-police-reform.html)
 * [Live Coronavirus News Updates: Chile, Florida and NY](https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html)
-* [Too Close for Comfort, and the Virus, in Russia’s Communal Apartments](https://www.nytimes.com/2020/06/13/world/europe/coronavirus-russia-communal.html)
-* [The Economy Is Reeling. The Tech Giants Spy Opportunity.](https://www.nytimes.com/2020/06/13/technology/facebook-amazon-apple-google-microsoft-tech-pandemic-opportunity.html)
+* [Brazil President Embraces Unproven ‘Cure’ as Pandemic Surges](https://www.nytimes.com/2020/06/13/world/americas/virus-brazil-bolsonaro-chloroquine.html)
 * [Biden’s Vice-Presidential Search: Who’s on the List and Where It Stands](https://www.nytimes.com/2020/06/13/us/politics/joe-biden-vice-president.html)
 * [Trump Speaks at West Point Graduation Amid Tensions With Military Leaders](https://www.nytimes.com/2020/06/13/us/politics/trump-west-point-graduation.html)
 * [Trump Made Inaccurate Claims About the Military During His West Point Speech](https://www.nytimes.com/2020/06/13/us/politics/fact-check-trump-military-west-point-speech.html)
@@ -77,11 +76,11 @@ layout: default
 * [G.O.P. Congressman Faces Primary After Officiating Same-Sex Wedding](https://www.nytimes.com/2020/06/13/us/politics/denver-riggleman-primary-virginia-good.html)
 * [Health Care Advocates Push Back Against Trump’s Erasure of Transgender Rights](https://www.nytimes.com/2020/06/13/health/trump-health-care-transgender-rights.html)
 * [Jersey Shore Rebellion Erupts Over State’s Slow Reopening](https://www.nytimes.com/2020/06/12/nyregion/nj-reopening-asbury-park.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [‘It’s Something I Wanted to Carry With Me’: Marking a Movement in Ink](https://www.nytimes.com/2020/06/13/us/george-floyd-protests-tattoos.html)
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)
 * [A Barware Company for the Pros Adds Amateurs to the Mix](https://www.nytimes.com/2020/06/12/business/cocktail-kingdom-barware-pandemic.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 00:27:56 UTC
+# indexed at 14/06/2020 00:36:56 UTC
 
 
 ## news.ycombinator.com
@@ -11,20 +11,22 @@ layout: default
 * [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [Music Grid](https://music-grid.surge.sh)
-* [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
 * [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
+* [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
 * [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
 * [Chakra UI – Simple, Modular and Accessible UI Components for Your React Apps](https://chakra-ui.com)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
+* [Show HN: Math to Code (interactive NumPy tutorial for engineers)](https://mathtocode.com)
 * [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
-* [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
-* [Show HN: Math to Code (interactive NumPy tutorial for engineers)](https://mathtocode.com)
 * [Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html)
+* [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
 * [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
+* [Google Support: Winston Churchill’s Image Removed in UK/US Search Results](https://support.google.com/websearch/thread/53297714)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
-* [Julian Assange in Limbo](https://www.lrb.co.uk/the-paper/v42/n12/patrick-cockburn/julian-assange-in-limbo)
+* [Who should own the copyright of AI-generated art?](https://aimade.art/blogs/news/who-should-own-the-copyright-of-ai-generated-art)
 * [Install Linux from a running Windows system, without need for a live USB](https://github.com/mikeslattery/tunic)
+* [Julian Assange in Limbo](https://www.lrb.co.uk/the-paper/v42/n12/patrick-cockburn/julian-assange-in-limbo)
 * [Just Use Your Thinking Pump](https://www.nybooks.com/articles/2020/07/02/just-use-your-thinking-pump/)
 * [Select Code_execution from * Using SQLite;](https://media.ccc.de/v/36c3-10701-select_code_execution_from_using_sqlite)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
@@ -36,8 +38,6 @@ layout: default
 * [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
 * [Transmeta Crusoe](https://en.wikipedia.org/wiki/Transmeta_Crusoe)
 * [The Minimized Life: The legacy of Donald Judd in a time of quarantine](https://newrepublic.com/article/157541/donald-judd-moma-coronavirus-minimalism-marfa)
-* [New Fonts on macOS Catalina](https://typography.guru/journal/awesome-catalina-fonts/)
-* [High doses of ketamine can temporarily switch off the brain, say researchers](https://www.cam.ac.uk/research/news/high-doses-of-ketamine-can-temporarily-switch-off-the-brain-say-researchers)
 ## nytimes.com
 
 
@@ -77,17 +77,17 @@ layout: default
 * [G.O.P. Congressman Faces Primary After Officiating Same-Sex Wedding](https://www.nytimes.com/2020/06/13/us/politics/denver-riggleman-primary-virginia-good.html)
 * [Health Care Advocates Push Back Against Trump’s Erasure of Transgender Rights](https://www.nytimes.com/2020/06/13/health/trump-health-care-transgender-rights.html)
 * [Jersey Shore Rebellion Erupts Over State’s Slow Reopening](https://www.nytimes.com/2020/06/12/nyregion/nj-reopening-asbury-park.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [‘It’s Something I Wanted to Carry With Me’: Marking a Movement in Ink](https://www.nytimes.com/2020/06/13/us/george-floyd-protests-tattoos.html)
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)
 * [A Barware Company for the Pros Adds Amateurs to the Mix](https://www.nytimes.com/2020/06/12/business/cocktail-kingdom-barware-pandemic.html)
-* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
+* [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Migration Numbers Plunge for the Red Knot, a Threatened Shore Bird](https://www.nytimes.com/2020/06/11/science/migration-red-knot.html)
 * [Melania Trump's Prenuptial Agreement Detailed in New Book](https://www.nytimes.com/2020/06/12/us/politics/melania-trump-prenuptial-agreement.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

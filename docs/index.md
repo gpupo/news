@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 20:11:17 UTC
+# indexed at 14/06/2020 20:34:36 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
+* [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
 * [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
+* [ZFS Removes References to Slavery](https://github.com/openzfs/zfs/pull/10435)
+* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
+* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
 * [APL Since 1978 [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386319)
 * [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
-* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
 * [Show HN: Instant search of 200K+ SVG logos from 100 sources](https://logosear.ch/search.html)
 * [Seismic waves reveal giant structures deep beneath Earth's surface](https://www.newscientist.com/article/2245939-seismic-waves-reveal-giant-structures-deep-beneath-earths-surface/)
 * [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
+* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
-* [Responding to the Controversy about YOLOv5](https://blog.roboflow.ai/yolov4-versus-yolov5/)
-* [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html)
 * [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
-* [Storytelling Tips for Technical Interviews](https://stanete.com/storytelling-tips-technical-interviews)
-* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
+* [Responding to the Controversy about YOLOv5](https://blog.roboflow.ai/yolov4-versus-yolov5/)
+* [Storytelling Tips for Technical Interviews](https://stanete.com/storytelling-tips-technical-interviews)
+* [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html)
+* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Ultra-dense optical data transmission over standard fibre with a single chip](https://www.nature.com/articles/s41467-020-16265-x)
 * [Serverless LAMP stack](https://aws.amazon.com/blogs/compute/introducing-the-new-serverless-lamp-stack/)
 * [Google adds experimental setting to hide full URLs in Chrome 85 address bar](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
-* [Third-Party Audit of Rustls](http://jbp.io/2020/06/14/rustls-audit.html)
-* [Marc Andreessen interview](https://www.theobservereffect.org/marc.html)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
+* [Third-Party Audit of Rustls](http://jbp.io/2020/06/14/rustls-audit.html)
 * [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
-* [One word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
+* [Marc Andreessen interview](https://www.theobservereffect.org/marc.html)
 * [Performance/Avoid SQLite in Your Next Firefox Feature](https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature)
-* [Scientists have lost their jobs after NIH probe into foreign ties](https://www.sciencemag.org/news/2020/06/fifty-four-scientists-have-lost-their-jobs-result-nih-probe-foreign-ties)
-* [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
-* [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [One word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 ## nytimes.com
 
 
@@ -58,12 +58,12 @@ layout: default
 * [The Real Dangers of Surveillance](https://www.nytimes.com/2020/06/12/technology/surveillance-protests-hong-kong.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [I’m a Black American. I Had to Get Out.](https://www.nytimes.com/2020/06/12/opinion/sunday/black-america-racism-refugee.html)
-* [The End of Black Politics](https://www.nytimes.com/2020/06/13/opinion/sunday/black-politicians-george-floyd-protests.html)
 * [Are Nations Safer From the Coronavirus When Women Lead?](https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html)
 * [What the Bible Has to Say About the George Floyd Protests](https://www.nytimes.com/2020/06/14/opinion/george-floyd-psalms-bible.html)
-* [Don’t Leave the W.H.O. Strengthen It.](https://www.nytimes.com/2020/06/13/opinion/sunday/trump-world-health-organization-who.html)
-* [An Anti-Trump Slam Dunk](https://www.nytimes.com/2020/06/13/opinion/sunday/gregg-popovich-trump-nba-protests.html)
 * [Even in a Pandemic, Protest Can Be a Cure](https://www.nytimes.com/2020/06/14/opinion/coronavirus-george-floyd-protests.html)
+* [An Anti-Trump Slam Dunk](https://www.nytimes.com/2020/06/13/opinion/sunday/gregg-popovich-trump-nba-protests.html)
+* [The End of Black Politics](https://www.nytimes.com/2020/06/13/opinion/sunday/black-politicians-george-floyd-protests.html)
+* [Don’t Leave the W.H.O. Strengthen It.](https://www.nytimes.com/2020/06/13/opinion/sunday/trump-world-health-organization-who.html)
 * [Yes, We Mean Literally Abolish the Police](https://www.nytimes.com/2020/06/12/opinion/sunday/floyd-abolish-defund-police.html)
 * [It’s Trump’s Revolution](https://www.nytimes.com/2020/06/13/opinion/sunday/trump-presidency.html)
 * [Trump Has Made Alternative Facts a Way of Life](https://www.nytimes.com/2020/06/13/opinion/trump-has-made-alternative-facts-a-way-of-life.html)
@@ -79,11 +79,11 @@ layout: default
 * [Fears for Volvo Expose Sour Turn in Sweden’s Ties With China](https://www.nytimes.com/2020/06/14/world/europe/sweden-china-volvo.html)
 * [Eva Konrad Hawkins, Marine Scientist Who Fled Hungary, Dies at 90](https://www.nytimes.com/2020/06/11/obituaries/eva-konrad-hawkins-dead-coronavirus.html)
 * [After More Proposals, Players Tell M.L.B.: ‘Tell Us When and Where’](https://www.nytimes.com/2020/06/14/sports/baseball/mlb-2020-season-schedule.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [A Date to Remember](https://www.nytimes.com/2020/06/12/fashion/weddings/a-date-to-remember.html)
 * [How a New Yorker Cartoonist Spends Her Sundays](https://www.nytimes.com/2020/06/13/nyregion/coronavirus-liana-finck.html)
 * [The Swinging, Jamming Musical Charms of 1940s Soundies](https://www.nytimes.com/2020/06/11/movies/soundies-duke-ellington.html)
@@ -100,11 +100,11 @@ layout: default
 ## globo.com
 
 
-* [SP tem novas manifestações contra e a favor de Bolsonaro](https://oglobo.globo.com/brasil/sp-tem-novas-manifestacoes-contra-a-favor-de-bolsonaro-24479321)
+* [Toffoli e Moraes reagem após manifestantes soltarem fogos de artifício em direção ao STF](https://oglobo.globo.com/brasil/toffoli-moraes-reagem-apos-manifestantes-soltarem-fogos-de-artificio-em-direcao-ao-stf-24479443)
+* [PGR pede que Ministério Público estadual investigue invasão de hospitais](https://oglobo.globo.com/sociedade/pgr-pede-que-ministerio-publico-estadual-investigue-invasao-de-hospitais-24479399)
 * [Macron diz que França é 'zona verde' da Covid e defende que Europa seja menos dependente dos EUA e da China](https://oglobo.globo.com/mundo/macron-diz-que-franca-zona-verde-da-covid-defende-que-europa-seja-menos-dependente-dos-eua-da-china-24479362)
 * [Benzema, o atacante completo, comanda a vitória do Real Madrid pelo Espanhol](https://oglobo.globo.com/esportes/benzema-atacante-completo-comanda-vitoria-do-real-madrid-pelo-espanhol-24479415)
 * [Falta de medicamentos atrasa inauguração de Hospitais de Campanha de São Gonçalo e Nova Iguaçu](https://oglobo.globo.com/rio/falta-de-medicamentos-atrasa-inauguracao-de-hospitais-de-campanha-de-sao-goncalo-nova-iguacu-24479419)
-* [PGR pede que Ministério Público estadual investigue invasão de hospitais](https://oglobo.globo.com/sociedade/pgr-pede-que-ministerio-publico-estadual-investigue-invasao-de-hospitais-24479399)
 * ['Nossa Senhora veio me visitar', disse padre de Rio das Pedras, que morreu neste domingo, vítima da Covid-19](https://oglobo.globo.com/rio/nossa-senhora-veio-me-visitar-disse-padre-de-rio-das-pedras-que-morreu-neste-domingo-vitima-da-covid-19-24479388)
 * [Trio é preso após tentar comprar R$3500 em remédios com cartão clonado](https://oglobo.globo.com/rio/trio-preso-apos-tentar-comprar-r3500-em-remedios-com-cartao-clonado-24479344)
 * [Spike Lee pede desculpa após defender Woody Allen](https://oglobo.globo.com/cultura/spike-lee-pede-desculpa-apos-defender-woody-allen-24479357)

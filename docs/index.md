@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 04:34:37 UTC
+# indexed at 14/06/2020 05:09:37 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Collected Notes a note-taking blogging app I made](https://collectednotes.com/)
 * [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
+* [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 * [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [A File Format Led to a Crossword Scandal (2019) [video]](https://www.youtube.com/watch?v=9aHfK8EUIzg)
-* [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 * [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [TwilioQuest – A RPG game to help learn JavaScript](https://www.twilio.com/quest)
-* [Show HN: Math to Code (interactive NumPy tutorial for engineers)](https://mathtocode.com)
-* [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
-* [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
-* [Illustrated Notes for “Building a Second Brain”](https://maggieappleton.com/basb)
 * [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
+* [Show HN: Math to Code (interactive NumPy tutorial for engineers)](https://mathtocode.com)
+* [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
+* [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
+* [Illustrated Notes for “Building a Second Brain”](https://maggieappleton.com/basb)
 * [Chakra UI – Simple, Modular and Accessible UI Components for Your React Apps](https://chakra-ui.com)
-* [Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html)
-* [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
-* [Music Grid](https://music-grid.surge.sh)
-* [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
 * [Intermittent fasting works – not only for weight loss but also for heart health](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html)
+* [Music Grid](https://music-grid.surge.sh)
+* [Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html)
+* [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
+* [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [Install Linux from a running Windows system, without need for a live USB](https://github.com/mikeslattery/tunic)
+* [The New Old Home](https://www.yakcollective.org/projects/the-new-old-home)
 * [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
-* [The Trouble with the View from Above (2010)](https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above)
 * [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
-* [H1-B visa holders no longer allowed to enter USA](https://twitter.com/FHaskaraman/status/1271831352355192835)
 * [Ask HN: Is it bad if I only have experience working in my startup?](https://news.ycombinator.com/item?id=23514857)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
-* [Proof Checking: Not Line by Line](https://rjlipton.wordpress.com/2020/06/13/proof-checking-not-line-by-line/)
-* [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
+* [The Trouble with the View from Above (2010)](https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above)
 * [Who should own the copyright of AI-generated art?](https://aimade.art/blogs/news/who-should-own-the-copyright-of-ai-generated-art)
+* [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
+* [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [G.O.P. Congressman Faces Primary After Officiating Same-Sex Wedding](https://www.nytimes.com/2020/06/13/us/politics/denver-riggleman-primary-virginia-good.html)
 * [Health Care Advocates Push Back Against Trump’s Erasure of Transgender Rights](https://www.nytimes.com/2020/06/13/health/trump-health-care-transgender-rights.html)
 * [Jersey Shore Rebellion Erupts Over State’s Slow Reopening](https://www.nytimes.com/2020/06/12/nyregion/nj-reopening-asbury-park.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [‘It’s Something I Wanted to Carry With Me’: Marking a Movement in Ink](https://www.nytimes.com/2020/06/13/us/george-floyd-protests-tattoos.html)
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)
 * [A Barware Company for the Pros Adds Amateurs to the Mix](https://www.nytimes.com/2020/06/12/business/cocktail-kingdom-barware-pandemic.html)
@@ -89,7 +89,6 @@ layout: default
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
 * [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
 * [Together.](https://www.nytimes.com/2020/06/12/style/modern-love-coronavirus-living-together.html)
-* [Comfort Viewing: 3 Reasons I Love ‘Red Oaks’](https://www.nytimes.com/2020/06/12/arts/television/comfort-viewing-3-reasons-i-love-red-oaks.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

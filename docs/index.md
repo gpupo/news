@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 02:10:03 UTC
+# indexed at 14/06/2020 02:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -12,37 +12,37 @@ layout: default
 * [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
-* [Music Grid](https://music-grid.surge.sh)
-* [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
-* [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
-* [Chakra UI – Simple, Modular and Accessible UI Components for Your React Apps](https://chakra-ui.com)
 * [Show HN: Math to Code (interactive NumPy tutorial for engineers)](https://mathtocode.com)
+* [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
+* [Music Grid](https://music-grid.surge.sh)
+* [Chakra UI – Simple, Modular and Accessible UI Components for Your React Apps](https://chakra-ui.com)
+* [Facebook News is filled with stories too mainstream to do well on the rest of FB](https://www.niemanlab.org/2020/06/the-new-facebook-news-is-filled-with-stories-that-are-way-too-mainstream-to-do-well-on-the-rest-of-facebook/)
+* [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
 * [How x86_64 Addresses Memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html)
 * [The Sickness in Our Food Supply](https://www.nybooks.com/articles/2020/06/11/covid-19-sickness-food-supply/)
-* [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
-* [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
 * [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
-* [Tesla’s U.S.-made Model 3 vehicles now come equipped with wireless charging](https://techcrunch.com/2020/06/13/teslas-u-s-made-model-3-vehicles-now-come-equipped-with-wireless-charging-usb-c-ports/)
+* [Rav1e, an AV1 encoder written in Rust and assembly](https://github.com/xiph/rav1e)
 * [Install Linux from a running Windows system, without need for a live USB](https://github.com/mikeslattery/tunic)
 * [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
+* [Just Use Your Thinking Pump](https://www.nybooks.com/articles/2020/07/02/just-use-your-thinking-pump/)
 * [Who should own the copyright of AI-generated art?](https://aimade.art/blogs/news/who-should-own-the-copyright-of-ai-generated-art)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-* [Just Use Your Thinking Pump](https://www.nybooks.com/articles/2020/07/02/just-use-your-thinking-pump/)
-* [How to Angel Invest, Part 2](https://nav.al/angel-2)
 * [Select Code_execution from * Using SQLite;](https://media.ccc.de/v/36c3-10701-select_code_execution_from_using_sqlite)
 * [The American Press Is Destroying Itself](https://taibbi.substack.com/p/the-news-media-is-destroying-itself?r=2&utm_campaign=post&utm_medium=web&utm_source=hackernews)
+* [How to Angel Invest, Part 2](https://nav.al/angel-2)
 * [A Guide to Pic Microcontroller Paging](https://jetholt.com/micro/a-guide-to-pic-paging/)
-* [Julian Assange in Limbo](https://www.lrb.co.uk/the-paper/v42/n12/patrick-cockburn/julian-assange-in-limbo)
-* [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
 * [Transmeta Crusoe](https://en.wikipedia.org/wiki/Transmeta_Crusoe)
+* [Universities Targeted by NetWalker Ransomware](https://www.insidehighered.com/news/2020/06/11/colleges-face-evolving-cyber-extortion-threat)
+* [Julian Assange in Limbo](https://www.lrb.co.uk/the-paper/v42/n12/patrick-cockburn/julian-assange-in-limbo)
 * [High doses of ketamine can temporarily switch off the brain, say researchers](https://www.cam.ac.uk/research/news/high-doses-of-ketamine-can-temporarily-switch-off-the-brain-say-researchers)
 * [The Minimized Life: The legacy of Donald Judd in a time of quarantine](https://newrepublic.com/article/157541/donald-judd-moma-coronavirus-minimalism-marfa)
+* [Developers are your users too – a defence of 'View Source'](https://medium.com/@jasoncartwright/developers-are-your-users-too-73e186dc8fd2)
 ## nytimes.com
 
 
 * [Atlanta Police Chief Resigns After Officer Shoots and Kills a Black Man](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-rayshard-brooks.html)
-* [Live Atlanta Police Shooting Updates](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-chief-brooks.html)
+* [Live Updates on George Floyd Protests: Family of Atlanta Shooting Victim Disputes Police Account](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-chief-brooks.html)
 * [From Cosmetics to NASCAR, Calls for Racial Justice Are Spreading](https://www.nytimes.com/2020/06/13/us/george-floyd-racism-america.html)
 * [Rage and Promises Followed Ferguson, but Little Changed](https://www.nytimes.com/2020/06/13/us/unrest-ferguson-police-reform.html)
 * [Live Coronavirus News Updates: Chile, Florida and NY](https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html)
@@ -76,8 +76,8 @@ layout: default
 * [G.O.P. Congressman Faces Primary After Officiating Same-Sex Wedding](https://www.nytimes.com/2020/06/13/us/politics/denver-riggleman-primary-virginia-good.html)
 * [Health Care Advocates Push Back Against Trump’s Erasure of Transgender Rights](https://www.nytimes.com/2020/06/13/health/trump-health-care-transgender-rights.html)
 * [Jersey Shore Rebellion Erupts Over State’s Slow Reopening](https://www.nytimes.com/2020/06/12/nyregion/nj-reopening-asbury-park.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
@@ -85,8 +85,8 @@ layout: default
 * [How Do We Wrap Our Heads Around Something This Big?](https://www.nytimes.com/2020/06/12/arts/anders-nilsen-diary.html)
 * [A Barware Company for the Pros Adds Amateurs to the Mix](https://www.nytimes.com/2020/06/12/business/cocktail-kingdom-barware-pandemic.html)
 * [Tests for Coronavirus Vaccine Need This Ingredient: Horseshoe Crabs](https://www.nytimes.com/2020/06/03/science/coronavirus-vaccine-horseshoe-crabs.html)
-* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
 * [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
+* [Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms](https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html)
 * [Migration Numbers Plunge for the Red Knot, a Threatened Shore Bird](https://www.nytimes.com/2020/06/11/science/migration-red-knot.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Red Oaks’](https://www.nytimes.com/2020/06/12/arts/television/comfort-viewing-3-reasons-i-love-red-oaks.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

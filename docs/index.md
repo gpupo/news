@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# indexed at 14/06/2020 14:34:20 UTC
+# indexed at 14/06/2020 15:09:31 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Marc Andreessen interview](https://www.theobservereffect.org/marc.html)
-* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
-* [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
 * [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html)
 * [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
+* [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
+* [Marc Andreessen interview](https://www.theobservereffect.org/marc.html)
 * [Show HN: Collected Notes – A note-taking blogging app I made](https://collectednotes.com/)
 * [Readings in Database Systems, 5th Edition (2015)](http://www.redbook.io/)
+* [Never Hertz to Ask](https://alexdanco.com/2020/06/14/never-hertz-to-ask/)
 * [Ultra-dense optical data transmission over standard fibre with a single chip](https://www.nature.com/articles/s41467-020-16265-x)
 * [JavaScript Growing Pains: From 0 to 13,000 Dependencies](https://pragmaticpineapple.com/javascript-growing-pains-from-0-to-13000-dependencies/)
 * [Show HN: WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams)
@@ -24,19 +24,19 @@ layout: default
 * [High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [Google hides full addresses in URL bar on Chrome 85](https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
 * [Which cyclist hill descent position is superior? (2017)](https://www.linkedin.com/pulse/which-cyclist-hill-descent-position-really-superior-froome-blocken)
-* [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [Three people with inherited diseases successfully treated with CRISPR](https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr)
+* [SageMath – Open-Source Mathematical Software System](https://www.sagemath.org/)
 * [SQLite as an Application File Format (2014)](https://sqlite.org/appfileformat.html)
 * [Music Grid](https://music-grid.surge.sh)
-* [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
+* [Microsoft's latest Windows 10 updates come with nasty printer bugs](https://www.engadget.com/microsofts-windows-10-updates-printer-bugs-000112943.html)
 * [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/)
 * [Fast 2D Rendering on GPU](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
+* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
 * [The rise of embarrassingly parallel serverless compute](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
 * [Flow browser passes the Acid tests](https://www.ekioh.com/devblog/acid)
-* [Microsoft's latest Windows 10 updates come with nasty printer bugs](https://www.engadget.com/microsofts-windows-10-updates-printer-bugs-000112943.html)
-* [The Holy Men of India](https://realization.org/p/misc/jung.holy-men-of-india.html)
-* [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [12 Billion-year-old signal from the end of the universe's 'dark age'](https://phys.org/news/2020-06-scientists-billion-year-old-universe-dark-age.html)
+* [Dream Homes from the Past Century](https://www.bbc.com/culture/article/20190521-10-dream-homes-from-the-past-century)
 * [Minlzma – Minimal LZMA Project](https://github.com/ionescu007/minlzma)
 ## nytimes.com
 
@@ -48,7 +48,7 @@ layout: default
 * [Racial Justice Groups Flooded With Millions in Donations in Wake of Floyd Death](https://www.nytimes.com/2020/06/14/us/politics/black-lives-matter-racism-donations.html)
 * [Coronavirus Cases Spike Across Sun Belt as Economy Lurches into Motion](https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html)
 * [Coronavirus ‘Ripped A Hole’ In N.Y.C.’s Black Community. This Funeral Director Knows.](https://www.nytimes.com/video/nyregion/100000007156203/coronavirus-black-community-deaths.html)
-* [Live Coronavirus News Updates and Analysis](https://www.nytimes.com/2020/06/14/world/coronavirus-updates.html)
+* [Coronavirus Live News Updates and Analysis](https://www.nytimes.com/2020/06/14/world/coronavirus-updates.html)
 * [A Reckoning at Condé Nast](https://www.nytimes.com/2020/06/13/business/media/conde-nast-racial.html)
 * [Chris Wallace, Insider and Outlier at Fox News](https://www.nytimes.com/2020/06/14/business/media/chris-wallace-fox-news.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/06/12/briefing/11-of-our-best-weekend-reads.html)
@@ -76,20 +76,20 @@ layout: default
 * [Guaranteed Ingredient in Any Coronavirus Vaccine? Thousands of Volunteers](https://www.nytimes.com/2020/06/13/science/vaccine-coronavirus-inovio.html)
 * [A Stimulus Backlash Delivers a Global Warning: Value Female Workers](https://www.nytimes.com/2020/06/14/world/australia/coronavirus-stimulus-childcare-women.html)
 * [You Now Get Almost Nothing for Your Money, but It Could Be Worse](https://www.nytimes.com/2020/06/12/business/emergency-fund-money-market.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [A Date to Remember](https://www.nytimes.com/2020/06/12/fashion/weddings/a-date-to-remember.html)
 * [How a New Yorker Cartoonist Spends Her Sundays](https://www.nytimes.com/2020/06/13/nyregion/coronavirus-liana-finck.html)
 * [The Swinging, Jamming Musical Charms of 1940s Soundies](https://www.nytimes.com/2020/06/11/movies/soundies-duke-ellington.html)
 * [Low Effort, High Reward](https://www.nytimes.com/2020/06/12/dining/low-effort-high-reward.html)
 * [What Are Fintechs and How Can They Help Small Business?](https://www.nytimes.com/2020/06/10/business/economy/fintechs-loan-small-business.html)
-* [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
 * [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
-* [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
+* [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
 * [Biden’s Vice-Presidential Search: Who’s on the List and Where It Stands](https://www.nytimes.com/2020/06/13/us/politics/joe-biden-vice-president.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Imagem de homem negro carregando manifestante da extrema-direita ferido viraliza após confrontos em Londres](https://oglobo.globo.com/mundo/imagem-de-homem-negro-carregando-manifestante-da-extrema-direita-ferido-viraliza-apos-confrontos-em-londres-24479219)
+* [Crianças na UTI: Covid-19 severa nos mais jovens é ainda menos compreendida](https://oglobo.globo.com/sociedade/criancas-na-uti-covid-19-severa-nos-mais-jovens-ainda-menos-compreendida-24479225)
 * [Após calor recorde e dias seguidos de sol, frente fria muda a cara do Rio neste domingo](https://oglobo.globo.com/rio/bairros/apos-calor-recorde-dias-seguidos-de-sol-frente-fria-muda-cara-do-rio-neste-domingo-1-24479193)
+* [Gilmar critica pedido de Bolsonaro para apoiadores inavadirem hospitais: ‘É crime’](https://epoca.globo.com/guilherme-amado/gilmar-critica-pedido-de-bolsonaro-para-apoiadores-inavadirem-hospitais-crime-24479215)
+* [Crianças na UTI: Covid-19 severa nos mais jovens é ainda menos compreendida](https://oglobo.globo.com/sociedade/criancas-na-uti-covid-19-severa-nos-mais-jovens-ainda-menos-compreendida-24479210)
+* [Claude Troisgros sobre restaurantes pós-pandemia: 'Menu em chip para colocar no celular e garçons de máscara'](https://oglobo.globo.com/cultura/claude-troisgros-sobre-restaurantes-pos-pandemia-menu-em-chip-para-colocar-no-celular-garcons-de-mascara-24477043)
 * [Em Tóquio, manifestantes voltam às ruas contra o racismo](https://oglobo.globo.com/mundo/em-toquio-manifestantes-voltam-as-ruas-contra-racismo-24479197)
 * [Escritora diz que relação de Meghan Markle com família real começou a desandar três dias depois do casamento](https://oglobo.globo.com/ela/gente/escritora-diz-que-relacao-de-meghan-markle-com-familia-real-comecou-desandar-tres-dias-depois-do-casamento-24479195)
 * [Manifestantes jogam fogos de artifício contra STF](https://oglobo.globo.com/brasil/manifestantes-jogam-fogos-de-artificio-contra-stf-24479185)
-* [Claude Troisgros sobre restaurantes pós-pandemia: 'Menu em chip para colocar no celular e garçons de máscara'](https://oglobo.globo.com/cultura/claude-troisgros-sobre-restaurantes-pos-pandemia-menu-em-chip-para-colocar-no-celular-garcons-de-mascara-24477043)
-* [China registra maior número diário de casos de Covid-19 desde abril](https://oglobo.globo.com/mundo/china-registra-maior-numero-diario-de-casos-de-covid-19-desde-abril-1-24479146)
-* [As fake news do amor](https://oglobo.globo.com/ela/as-fake-news-do-amor-24479170)
-* [Como a estratégia de Trump para conter protestos pode ter comprometido seus planos de reeleição](https://epoca.globo.com/mundo/como-estrategia-de-trump-para-conter-protestos-pode-ter-comprometido-seus-planos-de-reeleicao-24479169)
-* [Sobre empatia](https://oglobo.globo.com/ela/sobre-empatia-24479162)
-* [Livro analisa o governo Bolsonaro na pandemia](https://epoca.globo.com/guilherme-amado/livro-analisa-governo-bolsonaro-na-pandemia-24477994)
+* [A composição da comissão de impeachment de Wilson Witzel](https://epoca.globo.com/guilherme-amado/a-composicao-da-comissao-de-impeachment-de-wilson-witzel-24478042)

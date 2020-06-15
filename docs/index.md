@@ -2,39 +2,39 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 06:10:57 UTC
+# indexed at 15/06/2020 06:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [How to create a video call application with WebRTC](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/)
-* [Aging Problems at 5nm and Below](https://semiengineering.com/aging-problems-at-5nm-and-below/)
 * [Build Yourself a Weather Station](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
-* [A simple GUI Notepad using C++ natively made in my high school in 2015](https://github.com/vibhoothiiaanand/CNotepad)
+* [Aging Problems at 5nm and Below](https://semiengineering.com/aging-problems-at-5nm-and-below/)
+* [Show HN: A simple GUI Notepad using C++ natively made in my high school in 2015](https://github.com/vibhoothiiaanand/CNotepad)
+* [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
 * [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
 * [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
-* [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
+* [We found 85,000 cops who’ve been investigated for misconduct](https://www.knoxnews.com/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/)
 * [Facebook rejects calls to share advertising revenue with Australian media](https://asiatimes.com/2020/06/facebook-refuses-to-pay-revenue-to-australian-media/)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
-* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
-* [We found 85,000 cops who’ve been investigated for misconduct](https://www.knoxnews.com/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/)
-* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
 * [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
 * [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
-* [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
-* [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
+* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
+* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
 * [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
-* [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
+* [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
 * [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
+* [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
+* [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
 * [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
 * [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
+* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
 * [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
-* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
 * [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
 * [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
@@ -76,9 +76,9 @@ layout: default
 * [The Woman Who Took Down a Confederate Flag on What Came Next](https://www.nytimes.com/2020/06/14/us/politics/bree-newsome-bass-confederate-flag.html)
 * [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [In an English City, an Early Benefactor Is Now ‘a Toxic Brand’](https://www.nytimes.com/2020/06/14/world/europe/Bristol-Colston-statue-slavery.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)

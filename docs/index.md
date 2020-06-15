@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 00:27:05 UTC
+# indexed at 15/06/2020 00:36:00 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
-* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
-* [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
 * [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
+* [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
 * [Flatpak – A Security Nightmare](http://flatkill.org/)
+* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
+* [Spreadsheet Documents 400 Police Brutality Videos Re: George Floyd Protests](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
+* [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
 * [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
 * [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
-* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
 * [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
 * [APL Since 1978 [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386319)
-* [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
+* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
 * [Show HN: Instant search of 200K+ SVG logos from 100 sources](https://logosear.ch/search.html)
-* [Astronauts say riding Falcon 9 rocket was different from space shuttle](https://spaceflightnow.com/2020/06/12/astronauts-say-riding-falcon-9-rocket-was-totally-different-from-the-space-shuttle/)
+* [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
 * [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
+* [Astronauts say riding Falcon 9 rocket was different from space shuttle](https://spaceflightnow.com/2020/06/12/astronauts-say-riding-falcon-9-rocket-was-totally-different-from-the-space-shuttle/)
 * [TornadoVM: Accelerating Java with GPUs and FPGAs](https://www.infoq.com/articles/tornadovm-java-gpu-fpga/)
-* [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
 * [Show HN: Vocable – open-source app that helps those who can't speak](https://github.com/willowtreeapps/vocable-android)
 * [Storytelling Tips for Technical Interviews](https://stanete.com/storytelling-tips-technical-interviews)
 * [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
 * [Seismic waves reveal giant structures deep beneath Earth's surface](https://www.newscientist.com/article/2245939-seismic-waves-reveal-giant-structures-deep-beneath-earths-surface/)
 * [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
-* [Forgotten Movie Royalty](https://lareviewofbooks.org/article/forgotten-movie-royalty/)
 ## nytimes.com
 
 
@@ -77,9 +77,9 @@ layout: default
 * [Covid-19 Changed How We Vote. It Could Also Change Who Votes.](https://www.nytimes.com/2020/06/14/us/voter-registration-coronavirus-2020-election.html)
 * [Fears for Volvo Expose Sour Turn in Sweden’s Ties With China](https://www.nytimes.com/2020/06/14/world/europe/sweden-china-volvo.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)
 * [Finally, a Wedding. It Was About Time.](https://www.nytimes.com/2020/06/13/fashion/weddings/finally-a-wedding-it-was-about-time.html)
@@ -96,6 +96,7 @@ layout: default
 ## globo.com
 
 
+* [Sem desfile, mas com festa: Parada LGBT tem evento virtual e projeção de luzes em SP](https://oglobo.globo.com/sociedade/sem-desfile-mas-com-festa-parada-lgbt-tem-evento-virtual-projecao-de-luzes-em-sp-24479523)
 * [Próximo secretário vai defender o ajuste fiscal, ‘ou não sobrevive um dia’, diz Mansueto, que está deixando o Tesouro](https://oglobo.globo.com/economia/proximo-secretario-vai-defender-ajuste-fiscal-ou-nao-sobrevive-um-dia-diz-mansueto-que-esta-deixando-tesouro-24479554)
 * [Toffoli pede que manifestantes sejam investigados no STF e pela PGR, Polícia Federal e Secretaria de Segurança Pública](https://oglobo.globo.com/brasil/toffoli-pede-que-manifestantes-sejam-investigados-no-stf-pela-pgr-policia-federal-secretaria-de-seguranca-publica-24479534)
 * [Ministros do STF reagem após manifestantes soltarem fogos de artifício em direção à Corte](https://oglobo.globo.com/brasil/ministros-do-stf-reagem-apos-manifestantes-soltarem-fogos-de-artificio-em-direcao-corte-24479443)
@@ -105,4 +106,3 @@ layout: default
 * [Secretário do Tesouro, Mansueto Almeida decide deixar o governo](https://oglobo.globo.com/economia/secretario-do-tesouro-mansueto-almeida-decide-deixar-governo-24479481)
 * [MPF vai investigar protesto em que manifestantes soltaram fogos de artifício em direção ao STF](https://oglobo.globo.com/brasil/mpf-vai-investigar-protesto-em-que-manifestantes-soltaram-fogos-de-artificio-em-direcao-ao-stf-24479479)
 * [Com Paulinho na reta final, Bayer Leverkusen busca empate com Schalke 04](https://oglobo.globo.com/esportes/com-paulinho-na-reta-final-bayer-leverkusen-busca-empate-com-schalke-04-24479471)
-* [Falta de medicamentos atrasa inauguração de Hospitais de Campanha de São Gonçalo e Nova Iguaçu](https://oglobo.globo.com/rio/falta-de-medicamentos-atrasa-inauguracao-de-hospitais-de-campanha-de-sao-goncalo-nova-iguacu-24479419)

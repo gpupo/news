@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 06:34:34 UTC
+# indexed at 15/06/2020 07:10:17 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Build Yourself a Weather Station](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
 * [Aging Problems at 5nm and Below](https://semiengineering.com/aging-problems-at-5nm-and-below/)
 * [Show HN: A simple GUI Notepad using C++ natively made in my high school in 2015](https://github.com/vibhoothiiaanand/CNotepad)
-* [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
 * [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
 * [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
-* [We found 85,000 cops who’ve been investigated for misconduct](https://www.knoxnews.com/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/)
-* [Facebook rejects calls to share advertising revenue with Australian media](https://asiatimes.com/2020/06/facebook-refuses-to-pay-revenue-to-australian-media/)
+* [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
+* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
 * [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
 * [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
-* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
-* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
-* [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
-* [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
 * [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
 * [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
+* [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
 * [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
+* [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
+* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
+* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
 * [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
 * [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
-* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
+* [The file system of an integrated local network – Apollo File System (1985)](https://dl.acm.org/doi/abs/10.1145/320599.320696)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
-* [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
-* [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
+* [Facebook rejects calls to share advertising revenue with Australian media](https://asiatimes.com/2020/06/facebook-refuses-to-pay-revenue-to-australian-media/)
 * [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
+* [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
+* [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
 ## nytimes.com
 
 
@@ -76,20 +76,19 @@ layout: default
 * [The Woman Who Took Down a Confederate Flag on What Came Next](https://www.nytimes.com/2020/06/14/us/politics/bree-newsome-bass-confederate-flag.html)
 * [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [In an English City, an Early Benefactor Is Now ‘a Toxic Brand’](https://www.nytimes.com/2020/06/14/world/europe/Bristol-Colston-statue-slavery.html)
+* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)
 * [Finally, a Wedding. It Was About Time.](https://www.nytimes.com/2020/06/13/fashion/weddings/finally-a-wedding-it-was-about-time.html)
 * [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)
 * [My Favorite String Quartet](https://www.nytimes.com/2020/06/14/arts/music/alban-berg-string-quartet.html)
 * [Anxious About Family Mealtimes? Serve a Buffet](https://www.nytimes.com/2020/06/09/parenting/family-style-meals-children.html)
 * [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
-* [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
-* [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
+* [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
+* [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
 * [A Weeknight Salmon That Feels Like a Dinner Party](https://www.nytimes.com/2020/06/12/dining/miso-salmon-recipe.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -97,6 +96,7 @@ layout: default
 ## globo.com
 
 
+* [Top-70 Maracanã, do 11° ao 20°: Gols de Pet e Rondinelli, Invasão Corinthiana e tragédia de 1992](https://oglobo.globo.com/esportes/top-70-maracana-do-11-ao-20-gols-de-pet-rondinelli-invasao-corinthiana-tragedia-de-1992-2-24472720)
 * [Segunda sem carne: chef compartilha receita de conchiglione com ricota, espinafre e castanha do Pará](https://oglobo.globo.com/rioshow/segunda-sem-carne-chef-compartilha-receita-de-conchiglione-com-ricota-espinafre-castanha-do-para-24474396)
 * [Engenheiros do caos](https://oglobo.globo.com/opiniao/engenheiros-do-caos-24477758)
 * [Da pandemia à crise: a falta que faz a boa política](https://oglobo.globo.com/opiniao/da-pandemia-crise-falta-que-faz-boa-politica-24475006)
@@ -104,6 +104,5 @@ layout: default
 * [Palavras ao vento](https://oglobo.globo.com/opiniao/palavras-ao-vento-24477272)
 * [Só a luta amada evita a ditadura](https://oglobo.globo.com/opiniao/so-luta-amada-evita-ditadura-24477250)
 * [Compromisso com a vida](https://oglobo.globo.com/opiniao/compromisso-com-vida-24477081)
-* [Governo pode cortar salários para custear auxílio aos pobres na crise](https://oglobo.globo.com/opiniao/governo-pode-cortar-salarios-para-custear-auxilio-aos-pobres-na-crise-24476917)
 * [Democratas rejeitam acordo com Bolsonaro](https://oglobo.globo.com/opiniao/democratas-rejeitam-acordo-com-bolsonaro-24476845)
 * [IR 2020: Faltam 15 dias para a entrega da declaração. Tire suas dúvidas](https://oglobo.globo.com/economia/ir-2020-faltam-15-dias-para-entrega-da-declaracao-tire-suas-duvidas-24472254)

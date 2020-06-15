@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 07:10:17 UTC
+# indexed at 15/06/2020 07:34:22 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
 * [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
+* [Proof of work algorithm in Monero based on random code execution](https://github.com/tevador/RandomX)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
+* [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
 * [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
-* [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
-* [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
 * [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
-* [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
-* [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
-* [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
-* [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
-* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
-* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
-* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
-* [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
+* [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
 * [The file system of an integrated local network – Apollo File System (1985)](https://dl.acm.org/doi/abs/10.1145/320599.320696)
+* [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
+* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
+* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
+* [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
+* [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
+* [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
+* [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
-* [Facebook rejects calls to share advertising revenue with Australian media](https://asiatimes.com/2020/06/facebook-refuses-to-pay-revenue-to-australian-media/)
-* [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
-* [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
+* [No Code](https://vas3k.com/blog/nocode/)
 * [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
+* [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
+* [APL Since 1978 [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386319)
 ## nytimes.com
 
 
@@ -76,10 +76,11 @@ layout: default
 * [The Woman Who Took Down a Confederate Flag on What Came Next](https://www.nytimes.com/2020/06/14/us/politics/bree-newsome-bass-confederate-flag.html)
 * [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [In an English City, an Early Benefactor Is Now ‘a Toxic Brand’](https://www.nytimes.com/2020/06/14/world/europe/Bristol-Colston-statue-slavery.html)
-* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)
 * [Finally, a Wedding. It Was About Time.](https://www.nytimes.com/2020/06/13/fashion/weddings/finally-a-wedding-it-was-about-time.html)
 * [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)

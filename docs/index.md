@@ -2,23 +2,23 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 00:36:00 UTC
+# indexed at 15/06/2020 01:11:05 UTC
 
 
 ## news.ycombinator.com
 
 
+* [How to create a video call application with WebRTC](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/)
 * [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
 * [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
+* [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
-* [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
-* [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
 * [Flatpak – A Security Nightmare](http://flatkill.org/)
-* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
+* [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
+* [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
-* [Spreadsheet Documents 400 Police Brutality Videos Re: George Floyd Protests](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
-* [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
+* [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
 * [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
 * [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
@@ -26,25 +26,25 @@ layout: default
 * [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
 * [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
 * [APL Since 1978 [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386319)
-* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
+* [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
 * [Show HN: Instant search of 200K+ SVG logos from 100 sources](https://logosear.ch/search.html)
+* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
 * [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
 * [Astronauts say riding Falcon 9 rocket was different from space shuttle](https://spaceflightnow.com/2020/06/12/astronauts-say-riding-falcon-9-rocket-was-totally-different-from-the-space-shuttle/)
-* [TornadoVM: Accelerating Java with GPUs and FPGAs](https://www.infoq.com/articles/tornadovm-java-gpu-fpga/)
-* [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
 * [Show HN: Vocable – open-source app that helps those who can't speak](https://github.com/willowtreeapps/vocable-android)
+* [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
+* [TornadoVM: Accelerating Java with GPUs and FPGAs](https://www.infoq.com/articles/tornadovm-java-gpu-fpga/)
 * [Storytelling Tips for Technical Interviews](https://stanete.com/storytelling-tips-technical-interviews)
-* [The origins of Objective-C at PPI/Stepstone and its evolution at NeXT](https://dl.acm.org/doi/10.1145/3386332)
-* [Seismic waves reveal giant structures deep beneath Earth's surface](https://www.newscientist.com/article/2245939-seismic-waves-reveal-giant-structures-deep-beneath-earths-surface/)
 * [Amazon added a non-compete after the employee entered the U.S. on an L1B visa](https://twitter.com/dvassallo/status/1157729616259235840)
+* [Seismic waves reveal giant structures deep beneath Earth's surface](https://www.newscientist.com/article/2245939-seismic-waves-reveal-giant-structures-deep-beneath-earths-surface/)
 ## nytimes.com
 
 
-* [Atlanta Police Shooting of Rayshard Brooks: Protests Live Updates](https://www.nytimes.com/2020/06/14/us/atlanta-police-protests-today.html)
+* [Police Killings Prompt Evaluation of Laws Allowing Deadly Force](https://www.nytimes.com/2020/06/14/us/rayshard-brooks-Garrett-Rolfe-atlanta.html)
 * [Video Investigation: How Rayshard Brooks Was Fatally Shot by Atlanta Police](https://www.nytimes.com/2020/06/14/us/videos-rayshard-brooks-shooting-atlanta-police.html)
 * [Tasers: Are These Police Tools Effective and Are They Dangerous?](https://www.nytimes.com/2020/06/14/us/police-tasers.html)
-* [Black Lives Matter and Other Groups Flooded With Millions in Donations](https://www.nytimes.com/2020/06/14/us/politics/black-lives-matter-racism-donations.html)
+* [Details of Shooting in Atlanta Fuel Debate on Police Use of Force](https://www.nytimes.com/2020/06/14/us/atlanta-police-protests-today.html)
 * [Coronavirus Live News Updates and Analysis](https://www.nytimes.com/2020/06/14/world/coronavirus-updates.html)
 * [Trump Rally Is the ‘Perfect Storm Setup,’ for Viral Spread, Disease Expert Says](https://www.nytimes.com/2020/06/14/health/coronavirus-summer-spread.html)
 * [Trading Sportsbooks for Brokerages, Bored Bettors Wager on Stocks](https://www.nytimes.com/2020/06/14/business/sports-gamblers-stocks-virus.html)
@@ -74,13 +74,13 @@ layout: default
 * [Tanker Truck Blast on China Highway Kills 19](https://www.nytimes.com/2020/06/13/world/asia/china-tanker-truck-explosion.html)
 * [In an English City, an Early Benefactor Is Now ‘a Toxic Brand’](https://www.nytimes.com/2020/06/14/world/europe/Bristol-Colston-statue-slavery.html)
 * [The Woman Who Took Down a Confederate Flag on What Came Next](https://www.nytimes.com/2020/06/14/us/politics/bree-newsome-bass-confederate-flag.html)
+* [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [Covid-19 Changed How We Vote. It Could Also Change Who Votes.](https://www.nytimes.com/2020/06/14/us/voter-registration-coronavirus-2020-election.html)
-* [Fears for Volvo Expose Sour Turn in Sweden’s Ties With China](https://www.nytimes.com/2020/06/14/world/europe/sweden-china-volvo.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
+* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
+* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [How to Recover From Covid-19 at Home](https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)
 * [Finally, a Wedding. It Was About Time.](https://www.nytimes.com/2020/06/13/fashion/weddings/finally-a-wedding-it-was-about-time.html)
 * [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)
@@ -98,8 +98,8 @@ layout: default
 
 * [Sem desfile, mas com festa: Parada LGBT tem evento virtual e projeção de luzes em SP](https://oglobo.globo.com/sociedade/sem-desfile-mas-com-festa-parada-lgbt-tem-evento-virtual-projecao-de-luzes-em-sp-24479523)
 * [Próximo secretário vai defender o ajuste fiscal, ‘ou não sobrevive um dia’, diz Mansueto, que está deixando o Tesouro](https://oglobo.globo.com/economia/proximo-secretario-vai-defender-ajuste-fiscal-ou-nao-sobrevive-um-dia-diz-mansueto-que-esta-deixando-tesouro-24479554)
+* [Flamengo tem sinal verde da prefeitura do Rio e aguarda Ferj para reabrir Carioca na quinta](https://oglobo.globo.com/esportes/flamengo-tem-sinal-verde-da-prefeitura-do-rio-aguarda-ferj-para-reabrir-carioca-na-quinta-24479579)
 * [Toffoli pede que manifestantes sejam investigados no STF e pela PGR, Polícia Federal e Secretaria de Segurança Pública](https://oglobo.globo.com/brasil/toffoli-pede-que-manifestantes-sejam-investigados-no-stf-pela-pgr-policia-federal-secretaria-de-seguranca-publica-24479534)
-* [Ministros do STF reagem após manifestantes soltarem fogos de artifício em direção à Corte](https://oglobo.globo.com/brasil/ministros-do-stf-reagem-apos-manifestantes-soltarem-fogos-de-artificio-em-direcao-corte-24479443)
 * [Brasil tem 867.882 casos de Covid-19 e 43.389 óbitos, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-867882-casos-de-covid-19-43389-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24479529)
 * [Cidade do Rio ultrapassa a marca de 5 mil mortes por Covid-19 neste domingo](https://oglobo.globo.com/rio/cidade-do-rio-ultrapassa-marca-de-5-mil-mortes-por-covid-19-neste-domingo-24479473)
 * [Ministro da Justiça pede autocrítica e defende respeito ao 'voto popular' e às 'instituições democráticas'](https://oglobo.globo.com/brasil/ministro-da-justica-pede-autocritica-defende-respeito-ao-voto-popular-as-instituicoes-democraticas-1-24479510)

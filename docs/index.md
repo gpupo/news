@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 05:09:43 UTC
+# indexed at 15/06/2020 05:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
-* [Flatpak – A Security Nightmare](http://flatkill.org/)
-* [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
 * [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
-* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
 * [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
-* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
-* [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
-* [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
+* [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
 * [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
-* [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
-* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
+* [Night owls have more grey matter in their brains than early birds](https://phys.org/news/2020-06-night-owls-grey-brains-early.html)
+* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
+* [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
+* [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
+* [The privilege of boredom: How philosophy can happen in isolation](https://www.the-tls.co.uk/articles/privilege-boredom-philosophy-isolation-anil-gomes/)
+* [Trivia quiz about energy sources and electricity generation around the world](https://lowcarbonpower.org/quiz)
 * [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
+* [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [From scratch: reverse-mode automatic differentiation (in Python)](https://sidsite.com/posts/autodiff/)
-* [With Musical Cryptography, Composers Can Hide Messages in Their Melodies](https://www.atlasobscura.com/articles/musical-cryptography-codes.html)
 * [Questions to help people decide what to learn](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/)
-* [The Violin Thief (2016)](http://www.washingtonpost.com/sf/style/2016/03/17/the-violin-thief/)
+* [With Musical Cryptography, Composers Can Hide Messages in Their Melodies](https://www.atlasobscura.com/articles/musical-cryptography-codes.html)
+* [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
 * [TLS Encrypted Client Hello (formerly ESNI) Enters Draft Status](https://tools.ietf.org/html/draft-ietf-tls-esni-07)
 * [APL Since 1978 [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386319)
-* [Nintendo's washable playing cards from 1953](http://blog.beforemario.com/2020/06/nintendos-washable-playing-cards-from.html)
-* [WikiLeaks 9/11 Files](https://github.com/tbragg0/wikileaks-9-11-files)
+* [The Violin Thief (2016)](http://www.washingtonpost.com/sf/style/2016/03/17/the-violin-thief/)
+* [No Code](https://vas3k.com/blog/nocode/)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [The Woman Who Took Down a Confederate Flag on What Came Next](https://www.nytimes.com/2020/06/14/us/politics/bree-newsome-bass-confederate-flag.html)
 * [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [Covid-19 Changed How We Vote. It Could Also Change Who Votes.](https://www.nytimes.com/2020/06/14/us/voter-registration-coronavirus-2020-election.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)
 * [Finally, a Wedding. It Was About Time.](https://www.nytimes.com/2020/06/13/fashion/weddings/finally-a-wedding-it-was-about-time.html)
 * [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)
@@ -91,9 +91,6 @@ layout: default
 * [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [A Weeknight Salmon That Feels Like a Dinner Party](https://www.nytimes.com/2020/06/12/dining/miso-salmon-recipe.html)
-* [Low Effort, High Reward](https://www.nytimes.com/2020/06/12/dining/low-effort-high-reward.html)
-* [Atlanta Police Chief Resigns After Officer Shoots and Kills a Black Man](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-rayshard-brooks.html)
-* [Police Officer Shared Nude Photos of Student Before She Was Murdered, Lawsuit Says](https://www.nytimes.com/2020/06/08/us/lauren-mccluskey-utah-lawsuit.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

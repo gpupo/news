@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 10:09:57 UTC
+# indexed at 15/06/2020 10:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Facebook, Kaggle face backlash after disqualifying “Deepfake Detection” winners](https://syncedreview.com/2020/06/14/facebook-and-kaggle-face-backlash-after-disqualifying-apparent-deepfake-detection-challenge-winner/)
-* [Woman makes $420k by buying insurance on flights she predicted would get delayed](https://mothership.sg/2020/06/woman-china-scam-insurance-delayed-flights/)
 * [How to create a video call application with WebRTC](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/)
 * [Build yourself a weather station](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
 * [Aging Problems at 5nm and Below](https://semiengineering.com/aging-problems-at-5nm-and-below/)
+* [Show HN: Collection of animated algorithms and data structures](https://www.chrislaux.com/)
+* [MuseScore 4. Moving from notation software to composition software](https://musescore.org/en/MuseScore4)
 * [Proof of work algorithm in Monero based on random code execution](https://github.com/tevador/RandomX)
 * [Emotional Blocks as Obstacles to Learning](https://acesounderglass.com/2020/06/12/emotional-blocks-as-obstacles-to-learning/)
+* [Bypass kernel lockdown/UEFI secure boot on Ubuntu 18.04 with ACPI SSDT injection](https://git.zx2c4.com/american-unsigned-language/tree/american-unsigned-language.sh)
 * [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
 * [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
-* [Bypass kernel lockdown/UEFI secure boot on Ubuntu 18.04 with ACPI SSDT injection](https://git.zx2c4.com/american-unsigned-language/tree/american-unsigned-language.sh)
 * [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
 * [Show HN: A simple GUI Notepad using C++ natively made in my high school in 2015](https://github.com/vibhoothiiaanand/CNotepad)
-* [Show HN: Collection of animated algorithms and data structures](https://www.chrislaux.com/)
+* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
+* [Woman makes $420k by buying insurance on flights she predicted would get delayed](https://mothership.sg/2020/06/woman-china-scam-insurance-delayed-flights/)
 * [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
 * [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
-* [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
 * [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
+* [I built an IPFS crawler with libp2p](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler)
 * [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
-* [Letters to a Young Poet (1903)](http://www.carrothers.com/rilke1.htm)
 * [Thracian Ritual Pits Discovered in Bulgaria](https://www.archaeology.org/news/8795-200612-bulgaria-ritual-pits)
 * [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
-* [Engineers find neat way to turn waste carbon dioxide into useful material](https://newsroom.unsw.edu.au/news/science-tech/engineers-find-neat-way-turn-waste-carbon-dioxide-useful-material)
+* [Letters to a Young Poet (1903)](http://www.carrothers.com/rilke1.htm)
 * [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
 * [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
+* [Osborning the Mac, or not](https://mondaynote.com/osborning-the-mac-or-not-f0bbf4c319f0)
 * [The file system of an integrated local network – Apollo File System (1985)](https://dl.acm.org/doi/abs/10.1145/320599.320696)
-* [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
 * [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
-* [Temporary National Emergency Library to close 2 weeks early](https://blog.archive.org/2020/06/10/temporary-national-emergency-library-to-close-2-weeks-early-returning-to-traditional-controlled-digital-lending/)
 ## nytimes.com
 
 
@@ -78,20 +78,20 @@ layout: default
 * [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
 * [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [She Survived the Coronavirus. Then She Got a $400,000 Medical Bill.](https://www.nytimes.com/2020/06/14/nyregion/coronavirus-billing-nyc.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [Playing the Paper](https://www.nytimes.com/2020/06/12/at-home/newspaper-tile-game.html)
 * [Finally, a Wedding. It Was About Time.](https://www.nytimes.com/2020/06/13/fashion/weddings/finally-a-wedding-it-was-about-time.html)
 * [Bob Dylan Has a Lot on His Mind](https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html)
 * [My Favorite String Quartet](https://www.nytimes.com/2020/06/14/arts/music/alban-berg-string-quartet.html)
 * [Anxious About Family Mealtimes? Serve a Buffet](https://www.nytimes.com/2020/06/09/parenting/family-style-meals-children.html)
-* [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
 * [The Sea’s Weirdest Creatures, Now in ‘Staggering’ Detail](https://www.nytimes.com/2020/06/05/science/ocean-biology-larvaceans-lasers.html)
 * [Exploring the Links Between Coronavirus and Vitamin D](https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html)
 * [What We’re Learning About Online Learning](https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html)
+* [A Living Library Filled With Killer Bacteria](https://www.nytimes.com/2020/06/08/science/bacteria-library-nctc.html)
 * [An Anti-Trump Slam Dunk](https://www.nytimes.com/2020/06/13/opinion/sunday/gregg-popovich-trump-nba-protests.html)
 * [Chris Wallace, Insider and Outlier at Fox News](https://www.nytimes.com/2020/06/14/business/media/chris-wallace-fox-news.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,8 +100,8 @@ layout: default
 ## globo.com
 
 
+* [Militante bolsonarista Sara Winter é alvo de investigação por improbidade administrativa](https://oglobo.globo.com/brasil/militante-bolsonaristasarawintere-alvo-de-investigacao-por-improbidade-administrativa-1-24479585)
 * [Medidas contra o coronavírus atrapalham combate global a outras doenças](https://oglobo.globo.com/sociedade/coronavirus/medidas-contra-coronavirus-atrapalham-combate-global-outras-doencas-24479820)
-* [Uso de plasma contra Covid-19 é restrito a poucos](https://oglobo.globo.com/sociedade/coronavirus/uso-de-plasma-contra-covid-19-restrito-poucos-1-24479725)
 * [Maracanã 70 anos: Por trás da nostalgia e dos números, uma bomba-relógio](https://oglobo.globo.com/esportes/maracana-70-anos-por-tras-da-nostalgia-dos-numeros-uma-bomba-relogio-24479645)
 * [Maracanã 70 anos: um estádio com sotaque paulista](https://oglobo.globo.com/esportes/maracana-70-anos-um-estadio-com-sotaque-paulista-1-24479318)
 * [Árvore na Tijuca ameaça cair e preocupa moradores](https://oglobo.globo.com/rio/bairros/arvore-na-tijuca-ameaca-cair-preocupa-moradores-24474166)

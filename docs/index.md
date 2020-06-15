@@ -2,25 +2,24 @@
 layout: default
 ---
 
-# indexed at 15/06/2020 11:09:19 UTC
+# indexed at 15/06/2020 11:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Facebook, Kaggle face backlash after disqualifying “Deepfake Detection” winners](https://syncedreview.com/2020/06/14/facebook-and-kaggle-face-backlash-after-disqualifying-apparent-deepfake-detection-challenge-winner/)
 * [MuseScore 4. Moving from notation software to composition software](https://musescore.org/en/MuseScore4)
 * [Show HN: Collection of animated algorithms and data structures](https://www.chrislaux.com/)
+* [The Anatomy of a Dev Team](https://www.rookout.com/blog/the-anatomy-of-a-dev-team)
 * [How to create a video call application with WebRTC](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/)
 * [Build yourself a weather station](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
-* [Aging Problems at 5nm and Below](https://semiengineering.com/aging-problems-at-5nm-and-below/)
-* [Proof of work algorithm in Monero based on random code execution](https://github.com/tevador/RandomX)
 * [Emotional Blocks as Obstacles to Learning](https://acesounderglass.com/2020/06/12/emotional-blocks-as-obstacles-to-learning/)
 * [Bypass kernel lockdown/UEFI secure boot on Ubuntu 18.04 with ACPI SSDT injection](https://git.zx2c4.com/american-unsigned-language/tree/american-unsigned-language.sh)
-* [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Anonymous, secure, modern, open source WebRTC group video chat and bg blur](https://brie.fi/ng?ref=hn)
+* [Aging Problems at 5nm and Below](https://semiengineering.com/aging-problems-at-5nm-and-below/)
+* [Facebook, Kaggle face backlash after disqualifying “Deepfake Detection” winners](https://syncedreview.com/2020/06/14/facebook-and-kaggle-face-backlash-after-disqualifying-apparent-deepfake-detection-challenge-winner/)
+* [Accurate N64 emulation gets resolution upscaling powered by Vulkan (RetroArch)](https://www.libretro.com/index.php/coming-soon-parallel-n64-rdp-resolution-upscaling-video-demonstration/)
 * [Show HN: A simple GUI Notepad using C++ natively made in my high school in 2015](https://github.com/vibhoothiiaanand/CNotepad)
-* [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
 * [Woman makes $420k by buying insurance on flights she predicted would get delayed](https://mothership.sg/2020/06/woman-china-scam-insurance-delayed-flights/)
 * [Ask HN: A way to adblock “we're using cookies” popups?](https://news.ycombinator.com/item?id=23521399)
 * [Does Tweeting Improve Citations? One-Year Results from a Randomized Trial](https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30860-2/pdf)
@@ -28,16 +27,17 @@ layout: default
 * [Letters to a Young Poet (1903)](http://www.carrothers.com/rilke1.htm)
 * [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html)
 * [Authenticating Shared Web Caches](https://jamey.thesharps.us/2020/06/13/authenticating-shared-web-caches/)
-* [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
 * [Free Textbooks from Springer, Categorised](https://hnarayanan.github.io/springer-books/)
-* [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
+* [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds](https://www.vidarholen.net/contents/blog/?p=878)
 * [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://eng.uber.com/piranha/)
-* [Osborning the Mac, or not](https://mondaynote.com/osborning-the-mac-or-not-f0bbf4c319f0)
-* [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
 * [The file system of an integrated local network – Apollo File System (1985)](https://dl.acm.org/doi/abs/10.1145/320599.320696)
-* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
+* [Show HN: My daughter and I made a site to explore the photos from the ISS](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0)
+* [George Floyd Protest – police brutality videos on Twitter](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA)
 * [50 years since the New Alchemy Institute created its ‘living machine’ (2019)](https://www.theguardian.com/lifeandstyle/ng-interactive/2019/sep/29/the-new-alchemists-could-the-past-hold-the-key-to-sustainable-living)
-* [Flatpak – A Security Nightmare (2018)](http://flatkill.org/)
+* [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
+* [Proof of work algorithm in Monero based on random code execution](https://github.com/tevador/RandomX)
+* [Osborning the Mac, or not](https://mondaynote.com/osborning-the-mac-or-not-f0bbf4c319f0)
+* [RusTLS Formal Audit [pdf]](https://github.com/ctz/rustls/blob/master/audit/TLS-01-report.pdf)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
 * [Newsrooms Are in Revolt. The Bosses Are in Their Country Houses.](https://www.nytimes.com/2020/06/14/business/media/media-executives-hamptons.html)
 * [She Survived the Coronavirus. Then She Got a $400,000 Medical Bill.](https://www.nytimes.com/2020/06/14/nyregion/coronavirus-billing-nyc.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
+* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
+* [What Will Greetings Look Like in a Post-Coronavirus World?](https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html)
 * [The Italian Cafe Where New Yorkers Sample La Dolce Vita](https://www.nytimes.com/2020/06/12/t-magazine/caffe-dante-nyc.html)
 * [Making Stories of Struggle a Thing of the Past](https://www.nytimes.com/2020/06/13/well/family/family-stories-race-lgbtq.html)
 * [Pandemic Paid Leave Is Available: Why Some Parents Aren’t Taking It](https://www.nytimes.com/2020/06/10/parenting/pandemic-paid-leave.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Taxistas que fizeram mais corridas por aplicativo serão testados para o coronavírus pela prefeitura](https://oglobo.globo.com/rio/taxistas-que-fizeram-mais-corridas-por-aplicativo-serao-testados-para-coronavirus-pela-prefeitura-24479878)
+* [Militante bolsonarista Sara Winter é alvo de investigação sobre prestação de contas](https://oglobo.globo.com/brasil/militante-bolsonaristasarawintere-alvo-de-investigacao-sobre-prestacao-de-contas-24479585)
+* [Artigo | Por trás da morte do menino João Pedro está a omissão de Witzel](https://epoca.globo.com/brasil/artigo-por-tras-da-morte-do-menino-joao-pedro-esta-omissao-de-witzel-24479882)
 * [Brasil tem 869.956 casos de Covid-19 e 43.396 óbitos, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-869956-casos-de-covid-19-43396-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24479869)
 * [A politização dos quartéis já se reflete no alto-comando do Exército](https://epoca.globo.com/brasil/a-politizacao-dos-quarteis-ja-se-reflete-no-alto-comando-do-exercito-24479865)
-* [Militante bolsonarista Sara Winter é alvo de investigação por improbidade administrativa](https://oglobo.globo.com/brasil/militante-bolsonaristasarawintere-alvo-de-investigacao-por-improbidade-administrativa-1-24479585)
-* [Maracanã 70 anos: Por trás da nostalgia e dos números, uma bomba-relógio](https://oglobo.globo.com/esportes/maracana-70-anos-por-tras-da-nostalgia-dos-numeros-uma-bomba-relogio-24479645)
+* [Maracanã 70 anos: Júnior lembra quando, aos 38 anos, foi peça-chave do título brasileiro do Flamengo](https://oglobo.globo.com/esportes/maracana-70-anos-junior-lembra-quando-aos-38-anos-foi-peca-chave-do-titulo-brasileiro-do-flamengo-24479748)
 * [Árvore na Tijuca ameaça cair e preocupa moradores](https://oglobo.globo.com/rio/bairros/arvore-na-tijuca-ameaca-cair-preocupa-moradores-24474166)
 * [Um ano após desocupação, prédio interditado da Avenida Amaral Peixoto, em Niterói, sequer foi inspecionado](https://oglobo.globo.com/rio/bairros/um-ano-apos-desocupacao-predio-interditado-da-avenida-amaral-peixoto-em-niteroi-sequer-foi-inspecionado-24477157)
-* [À frente de projetos do Rock in Rio, arquiteto João Uchôa lança livro nesta terça](https://oglobo.globo.com/rio/bairros/a-frente-de-projetos-do-rock-in-rio-arquiteto-joao-uchoa-lanca-livro-nesta-terca-24473465)
 * [Partido propõe ação civil para Paes pagar por festas para Cabral](https://epoca.globo.com/guilherme-amado/partido-propoe-acao-civil-para-paes-pagar-por-festas-para-cabral-24478088)
 * [Filha de Olavo de Carvalho é voluntária no movimento Mulheres Derrubam Bolsonaro](https://epoca.globo.com/guilherme-amado/filha-de-olavo-de-carvalho-voluntaria-no-movimento-mulheres-derrubam-bolsonaro-24478079)
-* ['Me sinto livre': mulheres aproveitam a quarentena para fazer a transição capilar](https://oglobo.globo.com/celina/me-sinto-livre-mulheres-aproveitam-quarentena-para-fazer-transicao-capilar-24472860)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 02:10:10 UTC
+# indexed at 16/06/2020 02:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
-* [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
-* [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
-* [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
+* [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
+* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
+* [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
+* [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
 * [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
-* [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
+* [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
 * [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
 * [The Sun seen through the Earth in “neutrino light” (2007)](http://strangepaths.com/the-sun-seen-through-the-earth-in-neutrino-light/2007/01/06/en/)
 * [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
+* [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
+* [Ask HN: How do you read long PDFs?](https://news.ycombinator.com/item?id=23535060)
 * [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
-* [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
 * [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
-* [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
 * [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
+* [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
+* [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
 * [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
 * [Gated Linear Networks](https://arxiv.org/abs/1910.01526)
 * [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
-* [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
-* [Ask HN: How do you read long PDFs?](https://news.ycombinator.com/item?id=23535060)
-* [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
+* [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
 * [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
-* [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
 * [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala)
-* [Show HN: Correct Horse Battery Staple password generator](https://correcthorse.pw/)
+* [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
 * [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
 * [Remembering Windows 2000](https://www.howtogeek.com/676095/remembering-windows-2000-microsofts-forgotten-masterpiece/)
+* [Generation of diagrams and flowcharts from text in a similar manner as markdown](https://mermaid-js.github.io/mermaid/)
 ## nytimes.com
 
 
@@ -76,7 +76,7 @@ layout: default
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
 * [Arrested for Waving Rainbow Flag, a Gay Egyptian Takes Her Life](https://www.nytimes.com/2020/06/15/world/middleeast/egypt-gay-suicide-sarah-hegazi.html)
 * [Ex-eBay Workers Sent Critics Live Roaches and a Mask of a Bloody Pig Face, U.S. Says](https://www.nytimes.com/2020/06/15/technology/ebay-cyberstalking-with-cockroaches-and-bloody-pig-face.html)
-* [To Gain Public’s Trust, Should Members of Congress Stop Trading Stock?](https://www.nytimes.com/2020/06/15/us/politics/congress-trading-stock-loeffler-burr.html)
+* [The PGA Tour’s Return Offered a How-to Guide for Other Leagues](https://www.nytimes.com/2020/06/15/sports/golf/pga-tour-coronavirus.html)
 * [At 99, Al Jaffee Says Goodbye to Mad Magazine](https://www.nytimes.com/2020/06/15/business/media/al-jaffee-mad-magazine.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
@@ -90,11 +90,11 @@ layout: default
 * [A Pop-Culture Glossary for ‘Da 5 Bloods’](https://www.nytimes.com/2020/06/14/movies/da-5-bloods-explainer.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
-* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Where Jaguars Are Killed, New Common Factor Emerges: Chinese Investment](https://www.nytimes.com/2020/06/11/science/jaguars-poaching-china.html)
-* [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
+* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
-* [How 2 Lives Collided in Central Park, Rattling the Nation](https://www.nytimes.com/2020/06/14/nyregion/central-park-amy-cooper-christian-racism.html)
+* [A Weeknight Salmon That Feels Like a Dinner Party](https://www.nytimes.com/2020/06/12/dining/miso-salmon-recipe.html)
+* [Atlanta Police Chief Resigns After Officer Shoots and Kills a Black Man](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-rayshard-brooks.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

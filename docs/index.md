@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 04:34:30 UTC
+# indexed at 16/06/2020 05:09:26 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Hacker Dosed with LSD While Restoring Historical Synth (2019)](https://hackaday.com/2019/05/28/hacker-dosed-with-lsd-while-restoring-historical-synth/)
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
 * [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
+* [Why did you rename master to main? #113](https://github.com/pmmmwh/react-refresh-webpack-plugin/issues/113)
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 * [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
-* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
+* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
+* [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 * [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
-* [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
+* [Feynman Lectures on the Strong Interactions](https://www.math.columbia.edu/~woit/wordpress/?p=11782)
 * [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
+* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
+* [Shadertoy Path Tracing: Fresnel, Rough Refraction and Absorption, Orbit Camera](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
 * [The Sun seen through the Earth in “neutrino light” (2007)](http://strangepaths.com/the-sun-seen-through-the-earth-in-neutrino-light/2007/01/06/en/)
 * [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
-* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
-* [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
+* [Other Structures in Other Words](https://shonfeder.github.io/logs/recurse-center/day-25.html)
 * [A sort-middle architecture for 2D graphics](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
+* [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
 * [Harvard University Won’t Require Sat, Act for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
-* [Shadertoy Path Tracing: Fresnel, Rough Refraction and Absorption, Orbit Camera](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
-* [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
 * [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
-* [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
+* [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
 * [“Massive DDoS attack” just T-Mobile error](https://twitter.com/eastdakota/status/1272678168638500864)
+* [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
 * [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
 * [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
 * [Gated Linear Networks](https://arxiv.org/abs/1910.01526)
 * [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
 * [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
-* [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
-* [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
-* [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
 ## nytimes.com
 
 
@@ -80,28 +80,28 @@ layout: default
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [When Pyer Moss Brought Police Brutality to the Runway](https://www.nytimes.com/2020/06/15/fashion/when-pyer-moss-brought-police-brutality-to-the-runway.html)
 * [Therapy as a Party Game? Yes, With Fewer Fights Than Monopoly](https://www.nytimes.com/2020/06/11/style/group-therapy-board-game-party.html)
 * [Breanna Stewart Pushes for Change on and Off the Court](https://www.nytimes.com/2020/06/14/sports/basketball/breanna-stewart-wnba-protest.html)
 * [Portraits of Families in Protest](https://www.nytimes.com/2020/06/15/parenting/families-protest-dc.html)
 * [A Pop-Culture Glossary for ‘Da 5 Bloods’](https://www.nytimes.com/2020/06/14/movies/da-5-bloods-explainer.html)
-* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
-* [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Where Jaguars Are Killed, New Common Factor Emerges: Chinese Investment](https://www.nytimes.com/2020/06/11/science/jaguars-poaching-china.html)
-* [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
+* [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
+* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
 * [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
+* [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Arbitral encaminha Flamengo x Bangu para quinta, mas é interrompido sem acordo com Fluminense](https://oglobo.globo.com/esportes/arbitral-encaminha-flamengo-bangu-para-quinta-mas-interrompido-sem-acordo-com-fluminense-24481071)
+* [Carioca: Arbitral encaminha Flamengo x Bangu para quinta, mas é suspenso sem acordo com Fluminense e Botafogo](https://oglobo.globo.com/esportes/carioca-arbitral-encaminha-flamengo-bangu-para-quinta-mas-suspenso-sem-acordo-com-fluminense-botafogo-24481071)
 * ['Forças Armadas não podem se identificar com o governo', diz Barroso](https://oglobo.globo.com/brasil/forcas-armadas-nao-podem-se-identificar-com-governo-diz-barroso-24481570)
 * [Brasil tem mais de 190 enfermeiros mortos por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-mais-de-190-enfermeiros-mortos-por-covid-19-24480835)
 * [Nada dúbio](https://oglobo.globo.com/opiniao/nada-dubio-1-24481107)

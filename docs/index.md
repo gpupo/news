@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 12:12:59 UTC
+# indexed at 16/06/2020 12:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
-* [There's a reason we procrastinate and it's not laziness](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433)
-* [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
 * [Hunting in savanna-like landscapes may have poured jet fuel on brain evolution](https://phys.org/news/2020-06-savanna-like-landscapes-jet-fuel-brain.html)
-* [Fast Crispr on Demand](https://science.sciencemag.org/content/368/6496/1265)
+* [Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
+* [Very fast CRISPR on demand](https://science.sciencemag.org/content/368/6496/1265)
+* [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
 * [Random Search Wired into Animals May Help Them Hunt](https://www.quantamagazine.org/random-search-wired-into-animals-may-help-them-hunt-20200611/)
-* [Why Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
+* [Procrastination is driven by our desire to avoid difficult emotions, says expert](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433)
 * [They Write the Right Stuff (1996)](https://www.fastcompany.com/28121/they-write-right-stuff)
+* [How the most popular Chrome extensions affect browser performance](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
-* [1000 Most popular Chrome extensions impact on browser performance](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
 * [Architects have designed a Martian city for the desert outside Dubai](https://edition.cnn.com/style/article/mars-science-city-design-spc-scn/index.html)
 * [Show HN: Kumologica – Low-Code Integration Toolkit for Serverless Compute](https://kumologica.com)
-* [Source code of Germanys official covid-19 contact tracing app](https://github.com/corona-warn-app)
-* [A Short History of Computational Complexity (2002) [pdf]](http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
-* [Open Source Media Service CCTV/Video Recording/Object Detection](https://github.com/fastogt/fastocloud/)
+* [Geany – The Flyweight IDE](https://www.geany.org/)
 * [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch?ref=hn)
+* [A Short History of Computational Complexity (2002) [pdf]](http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 * [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
-* [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
+* [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
 * [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [Facebook Helped Develop a Tails Exploit](https://www.schneier.com/blog/archives/2020/06/facebook_helped.html)
 * [Feynman Lectures on the Strong Interactions](https://www.math.columbia.edu/~woit/wordpress/?p=11782)
 * [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
-* [Open source process design kit for usage with SkyWater Foundry's 130nm node](https://github.com/google/skywater-pdk)
-* [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
 * [Shadertoy Path Tracing: Fresnel, Rough Refraction and Absorption, Orbit Camera](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
+* [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
+* [Open source process design kit for usage with SkyWater Foundry's 130nm node](https://github.com/google/skywater-pdk)
 * [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
 * [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
 * [Show HN: Givemeguid.com – CLI/curl friendly GUIDs](http://givemeguid.com)
-* [IRS programming mystery continues](https://federalnewsnetwork.com/tom-temin-commentary/2020/01/irs-programming-mystery-continues/)
+* [EU opens Apple antitrust investigations into App Store and Apple Pay practices](https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay)
+* [Open Source Media Service CCTV/Video Recording/Object Detection](https://github.com/fastogt/fastocloud/)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [A Half-Century On, an Unexpected Milestone for L.G.B.T.Q. Rights](https://www.nytimes.com/2020/06/15/us/politics/supreme-court-lgbtq-rights.html)
 * [Supreme Court Expansion of Transgender Rights Undercuts Trump Restrictions](https://www.nytimes.com/2020/06/15/upshot/transgender-rights-trump.html)
 * [When Rich New Yorkers Fled, These Workers Kept the City Running](https://www.nytimes.com/2020/06/16/nyregion/mount-hope-bronx-coronavirus-essential-workers.html)
-* [U.S. Stock Futures Rally Ahead of Retail Sales Data: Live Updates](https://www.nytimes.com/2020/06/16/business/stock-market-today-coronavirus.html)
+* [U.S. Stock Futures Rally as Retail Sales Rebound: Live Updates](https://www.nytimes.com/2020/06/16/business/stock-market-today-coronavirus.html)
 * [As Meat Plants Stayed Open to Feed Americans, Exports to China Surged](https://www.nytimes.com/2020/06/16/business/meat-industry-china-pork.html)
 * [Cup Foods, a Minneapolis Corner Store Forever Tied to the Death of George Floyd](https://www.nytimes.com/2020/06/15/us/cup-foods-minneapolis-george-floyd.html)
 * [Mayor Bottoms Tightens Rules on Atlanta Police's Use of Force](https://www.nytimes.com/2020/06/15/us/rayshard-brooks-keisha-bottoms-atlanta.html)
@@ -91,10 +91,10 @@ layout: default
 * [Review: ‘Frontline’ Traces the Footsteps of Covid-19](https://www.nytimes.com/2020/06/15/arts/television/review-frontline.html)
 * [Late Night Waits for Trump to Finish Descending the Ramp](https://www.nytimes.com/2020/06/16/arts/television/late-night-trump-ramp-west-point.html)
 * [After A.L.S. Diagnosis, Rebecca Luker Is ‘Proud I Can Still Sing’](https://www.nytimes.com/2020/06/15/theater/rebecca-luker-als.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
-* [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
 * [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Dólar volta a operar em queda, na faixa de R$ 5,10, com nova atuação do BC americano](https://oglobo.globo.com/economia/dolar-volta-operar-em-queda-na-faixa-de-510-com-nova-atuacao-do-bc-americano-24481765)
+* [Caixa libera 1ª parcela do auxílio emergencial a 2,4 milhões que estavam na fila](https://oglobo.globo.com/economia/caixa-libera-1-parcela-do-auxilio-emergencial-24-milhoes-que-estavam-na-fila-24481690)
+* [Uso massivo de máscaras pode 'impedir segunda onda de covid-19', diz estudo](https://epoca.globo.com/sociedade/uso-massivo-de-mascaras-pode-impedir-segunda-onda-de-covid-19-diz-estudo-24481754)
+* [Ministro do Turismo define nova estrutura do comitê gestor do Fundo Setorial do Audiovisual](https://oglobo.globo.com/cultura/ministro-do-turismo-define-nova-estrutura-do-comite-gestor-do-fundo-setorial-do-audiovisual-24481685)
+* [Casal é preso com quase 50kg de pasta base de cocaína em Mangaratiba](https://oglobo.globo.com/rio/casal-preso-com-quase-50kg-de-pasta-base-de-cocaina-em-mangaratiba-1-24481750)
+* [Cientista político Christian Lynch diz que ‘Bolsonaro usa militares contra as instituições’](https://oglobo.globo.com/brasil/cientista-politico-christian-lynch-diz-que-bolsonaro-usa-militares-contra-as-instituicoes-24481764)
 * [Vendas no varejo desabam 16,8% em abril, a maior queda em 20 anos](https://oglobo.globo.com/economia/vendas-no-varejo-desabam-168-em-abril-maior-queda-em-20-anos-24481702)
-* [Especialistas dizem que é preciso cautela antes de antecipar novas etapas de reabertura de atividades no Rio](https://oglobo.globo.com/rio/especialistas-dizem-que-preciso-cautela-antes-de-antecipar-novas-etapas-de-reabertura-de-atividades-no-rio-1-24481382)
-* [Caixa libera hoje 1ª parcela do auxílio emergencial para 2,4 milhões de trabalhadores nascidos de janeiro a junho](https://oglobo.globo.com/economia/caixa-libera-hoje-1-parcela-do-auxilio-emergencial-para-24-milhoes-de-trabalhadores-nascidos-de-janeiro-junho-24481690)
+* [Pagamento via WhatsApp exige cuidados para evitar clonagem da conta; veja como se proteger](https://oglobo.globo.com/economia/pagamento-via-whatsapp-exige-cuidados-para-evitar-clonagem-da-conta-veja-como-se-proteger-1-24481719)
 * [Séries, programas de música e telejornais são os favoritos na TV](https://epoca.globo.com/guilherme-amado/series-programas-de-musica-telejornais-sao-os-favoritos-na-tv-1-24480935)
-* [Incêndio atinge imóvel em Copacabana, na Zona Sul do Rio](https://oglobo.globo.com/rio/incendio-atinge-imovel-em-copacabana-na-zona-sul-do-rio-24481664)
-* [EUA têm plano de US$ 1 trilhão para estimular projetos de infraestrutura](https://oglobo.globo.com/economia/eua-tem-plano-de-us-1-trilhao-para-estimular-projetos-de-infraestrutura-1-24481650)
-* [Brasil tem 891.896 casos de Covid-19 e 44.148 óbitos, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-891896-casos-de-covid-19-44148-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-1-24481651)
-* [Procurador do MPF no Rio aponta 'fortes indícios' de lavagem de dinheiro em bens de Flávio Bolsonaro](https://oglobo.globo.com/brasil/procurador-do-mpf-no-rio-aponta-fortes-indicios-de-lavagem-de-dinheiro-em-bens-de-flavio-bolsonaro-24481660)
 * [Cuidadora de animais cria campanha em prol de cães e gatos abandonados](https://oglobo.globo.com/rio/bairros/cuidadora-de-animais-cria-campanha-em-prol-de-caes-gatos-abandonados-24481265)
-* [Israel constrói anel viário que ligará assentamentos em território onde palestinos sonham com capital](https://oglobo.globo.com/mundo/israel-constroi-anel-viario-que-ligara-assentamentos-em-territorio-onde-palestinos-sonham-com-capital-1-24481267)

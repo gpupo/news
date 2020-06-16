@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 02:34:27 UTC
+# indexed at 16/06/2020 03:10:08 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
 * [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
-* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 * [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
+* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
-* [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
+* [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 * [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
-* [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
+* [Hacker Dosed with LSD While Restoring Historical Synth](https://hackaday.com/2019/05/28/hacker-dosed-with-lsd-while-restoring-historical-synth/)
 * [The Sun seen through the Earth in “neutrino light” (2007)](http://strangepaths.com/the-sun-seen-through-the-earth-in-neutrino-light/2007/01/06/en/)
+* [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
 * [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
 * [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
-* [Ask HN: How do you read long PDFs?](https://news.ycombinator.com/item?id=23535060)
-* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
 * [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
-* [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
+* [Ask HN: How do you read long PDFs?](https://news.ycombinator.com/item?id=23535060)
+* [A sort-middle architecture for 2D graphics](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
 * [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
+* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
 * [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
-* [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
 * [Gated Linear Networks](https://arxiv.org/abs/1910.01526)
-* [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
+* [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
 * [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
-* [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
-* [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala)
-* [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
+* [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
 * [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
-* [Remembering Windows 2000](https://www.howtogeek.com/676095/remembering-windows-2000-microsofts-forgotten-masterpiece/)
-* [Generation of diagrams and flowcharts from text in a similar manner as markdown](https://mermaid-js.github.io/mermaid/)
+* [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
+* [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
+* [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala)
+* [Harvard University Won’t Require Sat, Act for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
 ## nytimes.com
 
 
@@ -81,8 +81,8 @@ layout: default
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [When Pyer Moss Brought Police Brutality to the Runway](https://www.nytimes.com/2020/06/15/fashion/when-pyer-moss-brought-police-brutality-to-the-runway.html)
 * [Therapy as a Party Game? Yes, With Fewer Fights Than Monopoly](https://www.nytimes.com/2020/06/11/style/group-therapy-board-game-party.html)
 * [Breanna Stewart Pushes for Change on and Off the Court](https://www.nytimes.com/2020/06/14/sports/basketball/breanna-stewart-wnba-protest.html)
@@ -92,22 +92,22 @@ layout: default
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [Where Jaguars Are Killed, New Common Factor Emerges: Chinese Investment](https://www.nytimes.com/2020/06/11/science/jaguars-poaching-china.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
+* [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
+* [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
-* [A Weeknight Salmon That Feels Like a Dinner Party](https://www.nytimes.com/2020/06/12/dining/miso-salmon-recipe.html)
-* [Atlanta Police Chief Resigns After Officer Shoots and Kills a Black Man](https://www.nytimes.com/2020/06/13/us/atlanta-police-shooting-rayshard-brooks.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Brasil tem mais de 190 enfermeiros mortos por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-mais-de-190-enfermeiros-mortos-por-covid-19-24480835)
 * [Oito policiais são presos por espancar homem na Zona Norte de SP](https://oglobo.globo.com/brasil/oito-policiais-sao-presos-por-espancar-homem-na-zona-norte-de-sp-24481394)
 * [Denúncias de violência contra idosos quintuplicaram durante a pandemia, apontam dados do Disque 100](https://oglobo.globo.com/sociedade/denuncias-de-violencia-contra-idosos-quintuplicaram-durante-pandemia-apontam-dados-do-disque-100-24480857)
-* [Brasil tem 891.556 casos de Covid-19 e 44.118 óbitos, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-891556-casos-de-covid-19-44118-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24480895)
 * [Ministério da Saúde orienta hemocentros a permitir doação de sangue por homens gays](https://oglobo.globo.com/sociedade/ministerio-da-saude-orienta-hemocentros-permitir-doacao-de-sangue-por-homens-gays-1-24481249)
-* [Número de casos da Covid-19 no mundo chega a 8 milhões](https://oglobo.globo.com/mundo/numero-de-casos-da-covid-19-no-mundo-chega-8-milhoes-24481151)
 * [Vinicius Junior acerta com mesma agência de Pelé para explorar sua imagem comercialmente](https://oglobo.globo.com/esportes/vinicius-junior-acerta-com-mesma-agencia-de-pele-para-explorar-sua-imagem-comercialmente-24481160)
 * [Covid-19: adesão à quarentena cai e Rio tem pior segunda-feira com isolamento social em junho](https://oglobo.globo.com/rio/covid-19-adesao-quarentena-cai-rio-tem-pior-segunda-feira-com-isolamento-social-em-junho-24480932)
-* [Vasco confirma venda de Marrony para o Atlético-MG](https://oglobo.globo.com/esportes/vasco-confirma-venda-de-marrony-para-atletico-mg-24481153)
-* [Entenda o gesto contra o racismo de Marcelo, do Real Madrid, que se popularizou na NFL e virou polêmica](https://oglobo.globo.com/esportes/entenda-gesto-contra-racismo-de-marcelo-do-real-madrid-que-se-popularizou-na-nfl-virou-polemica-24481103)
-* [Governo perde com a saída de Mansueto da secretaria do Tesouro, avaliam especialistas](https://oglobo.globo.com/economia/governo-perde-com-saida-de-mansueto-da-secretaria-do-tesouro-avaliam-especialistas-24481084)
+* [Receitas de inverno: chefs compartilham dicas de caldos e sopas para esquentar o frio](https://oglobo.globo.com/rioshow/receitas-de-inverno-chefs-compartilham-dicas-de-caldos-sopas-para-esquentar-frio-24480744)
+* [Ataque à democracia não pode ficar impune](https://oglobo.globo.com/opiniao/ataque-democracia-nao-pode-ficar-impune-24481064)
+* [É preciso impedir que a milícia acelere construções na pandemia](https://oglobo.globo.com/opiniao/e-preciso-impedir-que-milicia-acelere-construcoes-na-pandemia-24480900)
+* [Lives de hoje: Ivan Lins, Pepeu Gomes e tributo a Cazuza com o duo Flausino e Sideral](https://oglobo.globo.com/rioshow/lives-de-hoje-ivan-lins-pepeu-gomes-tributo-cazuza-com-duo-flausino-sideral-24480611)

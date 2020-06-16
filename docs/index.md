@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 13:09:52 UTC
+# indexed at 16/06/2020 13:34:19 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Weizsäcker's speech on 40th anniversary of WW2's end (1985)](http://www.bundespraesident.de/SharedDocs/Downloads/DE/Reden/2015/02/150202-RvW-Rede-8-Mai-1985-englisch.pdf;jsessionid=9BC204670EC73ACE845085C27F5A7DC6.2_cid285?__blob=publicationFile)
+* [The Two Forms of Mathematical Beauty](https://www.quantamagazine.org/how-is-math-beautiful-20200616/)
 * [Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
-* [Random Search Wired into Animals May Help Them Hunt](https://www.quantamagazine.org/random-search-wired-into-animals-may-help-them-hunt-20200611/)
 * [Procrastination is driven by our desire to avoid difficult emotions, says expert](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433)
 * [Geany – The Flyweight IDE](https://www.geany.org/)
+* [Random Search Wired into Animals May Help Them Hunt](https://www.quantamagazine.org/random-search-wired-into-animals-may-help-them-hunt-20200611/)
+* [Dexamethasone is a life-saving coronavirus drug](https://www.bbc.com/news/health-53061281)
 * [They Write the Right Stuff (1996)](https://www.fastcompany.com/28121/they-write-right-stuff)
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
-* [Dexamethasone is a life-saving coronavirus drug](https://www.bbc.com/news/health-53061281)
 * [Architects have designed a Martian city for the desert outside Dubai](https://edition.cnn.com/style/article/mars-science-city-design-spc-scn/index.html)
+* [How the most popular Chrome extensions affect browser performance](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
 * [Hunting in savanna-like landscapes may have poured jet fuel on brain evolution](https://phys.org/news/2020-06-savanna-like-landscapes-jet-fuel-brain.html)
 * [Show HN: Kumologica – Low-Code Integration Toolkit for Serverless Compute](https://kumologica.com)
-* [Harvard University Won’t Require SAT, ACT for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
-* [Very fast CRISPR on demand](https://science.sciencemag.org/content/368/6496/1265)
 * [EU opens Apple antitrust investigations into App Store and Apple Pay practices](https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay)
+* [Harvard University Won’t Require SAT, ACT for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
+* [The First Woman PhD in Computer Science Was a Nun](https://www.mentalfloss.com/article/53178/first-woman-earn-phd-computer-science-was-nun)
+* [Very fast CRISPR on demand](https://science.sciencemag.org/content/368/6496/1265)
 * [A Short History of Computational Complexity (2002) [pdf]](http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 * [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
-* [How the most popular Chrome extensions affect browser performance](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
+* [Netgear 0-day Vulnerability Analysis and Exploit for 79 devices](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html?m=1)
 * [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
 * [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
 * [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
-* [Netgear 0-day Vulnerability Analysis and Exploit for 79 devices](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html?m=1)
 * [Facebook Helped Develop a Tails Exploit](https://www.schneier.com/blog/archives/2020/06/facebook_helped.html)
 * [Feynman Lectures on the Strong Interactions](https://www.math.columbia.edu/~woit/wordpress/?p=11782)
 * [Shadertoy Path Tracing: Fresnel, Rough Refraction and Absorption, Orbit Camera](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
 * [Open source process design kit for usage with SkyWater Foundry's 130nm node](https://github.com/google/skywater-pdk)
-* [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
-* [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
-* [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch?ref=hn)
 ## nytimes.com
 
 
@@ -71,7 +71,7 @@ layout: default
 * [This Country Fought Ebola. It May Beat Another Disease.](https://www.nytimes.com/2020/06/16/opinion/poor-countries-coronavirus.html)
 * [Why Rich Students Are Getting More Aid Than Poor Ones](https://www.nytimes.com/2020/06/16/opinion/coronavirus-college-rich-kids.html)
 * [Riding Out Quarantine With a Chatbot Friend: ‘I Feel Very Connected’](https://www.nytimes.com/2020/06/16/technology/chatbots-quarantine-coronavirus.html)
-* [We Hope Your Cheers for This Article Are for Real](https://www.nytimes.com/2020/06/16/sports/coronavirus-stadium-fans-crowd-noise.html)
+* [Fake Crowd Noise at Sports Events Divides Fans](https://www.nytimes.com/2020/06/16/sports/coronavirus-stadium-fans-crowd-noise.html)
 * [‘Weather’](https://www.nytimes.com/2020/06/15/books/review/claudia-rankine-weather-poem-coronavirus.html)
 * [3 Indian Soldiers Killed in First Deadly Clash on Chinese Border in Decades](https://www.nytimes.com/2020/06/16/world/asia/indian-china-border-clash.html)
 * [NOAA Chief Violated Ethics Code in Furor Over Trump Tweet, Agency Says](https://www.nytimes.com/2020/06/15/climate/noaa-sharpiegate-ethics-violation.html)
@@ -84,8 +84,8 @@ layout: default
 * [In Europe, Travel Returns, but Not Confidence About What Comes Next](https://www.nytimes.com/2020/06/15/world/europe/coronavirus-europe-borders-reopen.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [The Statues Were Toppled. What Happens to Them Now?](https://www.nytimes.com/2020/06/15/arts/design/fallen-statues-what-next.html)
 * [When a Cemetery Wedding Was Used to End the Spanish Flu](https://www.nytimes.com/2020/06/13/nyregion/spanish-flu-coronavirus-black-wedding.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
+* [Covid-19: Estudo de Oxford afirma que corticoide disponível no mercado reduz risco de morte de pacientes graves](https://oglobo.globo.com/sociedade/covid-19-estudo-de-oxford-afirma-que-corticoide-disponivel-no-mercado-reduz-risco-de-morte-de-pacientes-graves-1-24481846)
 * [Morte de dois homens negros, encontrados pendurados em árvores, geram protestos e FBI vai auxiliar nas investigações](https://oglobo.globo.com/mundo/morte-de-dois-homens-negros-encontrados-pendurados-em-arvores-geram-protestos-fbi-vai-auxiliar-nas-investigacoes-24481732)
+* [Polícia apura vazamento de informações em ação contra suspeitos de envolvimento com o jogo do bicho](https://oglobo.globo.com/rio/policia-apura-vazamento-de-informacoes-em-acao-contra-suspeitos-de-envolvimento-com-jogo-do-bicho-24481859)
+* [Maracanã 70 anos: entre finais de 1950 e 2014, estádio reflete mudanças no futebol e no Rio](https://oglobo.globo.com/esportes/maracana-70-anos-entre-finais-de-1950-2014-estadio-reflete-mudancas-no-futebol-no-rio-1-24481505)
 * [Governo britânico prolonga almoços grátis em escolas após apelo de Rashford, do United](https://oglobo.globo.com/esportes/governo-britanico-prolonga-almocos-gratis-em-escolas-apos-apelo-de-rashford-do-united-24481827)
 * [SebraeRio é garantidor de crédito para empreendedores em tempos de Covid-19](https://oglobo.globo.com/economia/sebraerio-garantidor-de-credito-para-empreendedores-em-tempos-de-covid-19-24481792)
-* [Dólar volta a operar em queda, abaixo de R$ 5,10, com nova atuação do BC americano](https://oglobo.globo.com/economia/dolar-volta-operar-em-queda-abaixo-de-510-com-nova-atuacao-do-bc-americano-24481765)
 * [Petrobras paralisa 50% da capacidade da Reduc após incêndio, mas garante que não haverá impacto ao mercado](https://oglobo.globo.com/economia/petrobras-paralisa-50-da-capacidade-da-reduc-apos-incendio-mas-garante-que-nao-havera-impacto-ao-mercado-24481791)
 * [Coronavírus: o menino de 5 anos que ficou cego e outros efeitos trágicos das informações falsas sobre a Covid-19](https://epoca.globo.com/mundo/coronavirus-menino-de-5-anos-que-ficou-cego-outros-efeitos-tragicos-das-informacoes-falsas-sobre-covid-19-1-24481777)
-* [Uso massivo de máscaras pode 'impedir segunda onda de covid-19', diz estudo](https://epoca.globo.com/sociedade/uso-massivo-de-mascaras-pode-impedir-segunda-onda-de-covid-19-diz-estudo-24481754)
 * [No Rio, mortes por Covid-19 demoram até um mês e meio para serem confirmadas](https://oglobo.globo.com/rio/no-rio-mortes-por-covid-19-demoram-ate-um-mes-meio-para-serem-confirmadas-24481667)
-* [Cientista político Christian Lynch diz que ‘Bolsonaro usa militares contra as instituições’](https://oglobo.globo.com/brasil/cientista-politico-christian-lynch-diz-que-bolsonaro-usa-militares-contra-as-instituicoes-24481764)
 * [Mudança no teto de gastos é inevitável, diz economista Monica de Bolle](https://epoca.globo.com/guilherme-amado/mudanca-no-teto-de-gastos-inevitavel-diz-economista-monica-de-bolle-1-24480714)

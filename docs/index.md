@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 03:34:42 UTC
+# indexed at 16/06/2020 04:10:24 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Hacker Dosed with LSD While Restoring Historical Synth](https://hackaday.com/2019/05/28/hacker-dosed-with-lsd-while-restoring-historical-synth/)
+* [Hacker Dosed with LSD While Restoring Historical Synth (2019)](https://hackaday.com/2019/05/28/hacker-dosed-with-lsd-while-restoring-historical-synth/)
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
 * [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 * [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
 * [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
-* [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
-* [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
+* [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 * [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
+* [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
+* [A sort-middle architecture for 2D graphics](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
+* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
 * [The Sun seen through the Earth in “neutrino light” (2007)](http://strangepaths.com/the-sun-seen-through-the-earth-in-neutrino-light/2007/01/06/en/)
 * [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
-* [A sort-middle architecture for 2D graphics](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
+* [Harvard University Won’t Require Sat, Act for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
+* [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
 * [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
-* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
 * [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
+* [Shadertoy Path Tracing: Fresnel, Rough Refraction and Absorption, Orbit Camera](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
 * [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
 * [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
-* [Harvard University Won’t Require Sat, Act for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
-* [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
+* [“Massive DDoS attack” just T-Mobile error](https://twitter.com/eastdakota/status/1272678168638500864)
 * [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
 * [Gated Linear Networks](https://arxiv.org/abs/1910.01526)
+* [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
 * [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
 * [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
 * [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
 * [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
-* [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala)
-* [“Massive DDoS attack” just T-Mobile error](https://twitter.com/eastdakota/status/1272678168638500864)
-* [Generation of diagrams and flowcharts from text in a similar manner as markdown](https://mermaid-js.github.io/mermaid/)
 ## nytimes.com
 
 
@@ -51,7 +51,6 @@ layout: default
 * [With New Policies, Cities Seek a ‘Seismic Shift’ in Policing](https://www.nytimes.com/2020/06/15/us/rayshard-brooks-george-floyd-video.html)
 * [Man Is Shot at Protest Over Statue of New Mexico’s Conquistador](https://www.nytimes.com/2020/06/15/us/conquistador-onate-albuquerque-new-mexico-unrest.html)
 * [Syria’s Economy Collapses Even as Civil War Winds to a Close](https://www.nytimes.com/2020/06/15/world/middleeast/syria-economy-assad-makhlouf.html)
-* [Trying to Parent My Black Teenagers Through Protest and Pandemic](https://www.nytimes.com/2020/06/15/magazine/parenting-black-teens.html)
 * [Gay Rights, Hydroxychloroquine, Atlanta: Your Monday Evening Briefing](https://www.nytimes.com/2020/06/15/briefing/gay-rights-hydroxychloroquine-atlanta.html)
 * [What We’ve Learned About the Coronavirus](https://www.nytimes.com/2020/06/15/podcasts/the-daily/coronavirus-pandemic.html)
 * [One Restaurant’s Survival Guide](https://www.nytimes.com/2020/06/15/technology/restaurants-coronavirus.html)
@@ -89,26 +88,26 @@ layout: default
 * [Portraits of Families in Protest](https://www.nytimes.com/2020/06/15/parenting/families-protest-dc.html)
 * [A Pop-Culture Glossary for ‘Da 5 Bloods’](https://www.nytimes.com/2020/06/14/movies/da-5-bloods-explainer.html)
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
-* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Where Jaguars Are Killed, New Common Factor Emerges: Chinese Investment](https://www.nytimes.com/2020/06/11/science/jaguars-poaching-china.html)
+* [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
-* [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
+* [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* ['Forças Armadas não podem se identificar com o governo', diz Barroso](https://oglobo.globo.com/brasil/forcas-armadas-nao-podem-se-identificar-com-governo-diz-barroso-24481570)
 * [Brasil tem mais de 190 enfermeiros mortos por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-mais-de-190-enfermeiros-mortos-por-covid-19-24480835)
-* [Oito policiais são presos por espancar homem na Zona Norte de SP](https://oglobo.globo.com/brasil/oito-policiais-sao-presos-por-espancar-homem-na-zona-norte-de-sp-24481394)
-* [Denúncias de violência contra idosos quintuplicaram durante a pandemia, apontam dados do Disque 100](https://oglobo.globo.com/sociedade/denuncias-de-violencia-contra-idosos-quintuplicaram-durante-pandemia-apontam-dados-do-disque-100-24480857)
-* [Ministério da Saúde orienta hemocentros a permitir doação de sangue por homens gays](https://oglobo.globo.com/sociedade/ministerio-da-saude-orienta-hemocentros-permitir-doacao-de-sangue-por-homens-gays-1-24481249)
-* [Vinicius Junior acerta com mesma agência de Pelé para explorar sua imagem comercialmente](https://oglobo.globo.com/esportes/vinicius-junior-acerta-com-mesma-agencia-de-pele-para-explorar-sua-imagem-comercialmente-24481160)
-* [Covid-19: adesão à quarentena cai e Rio tem pior segunda-feira com isolamento social em junho](https://oglobo.globo.com/rio/covid-19-adesao-quarentena-cai-rio-tem-pior-segunda-feira-com-isolamento-social-em-junho-24480932)
+* [Nada dúbio](https://oglobo.globo.com/opiniao/nada-dubio-1-24481107)
+* [O espetáculo da pobreza](https://oglobo.globo.com/opiniao/o-espetaculo-da-pobreza-24481120)
+* [O trauma da  pandemia](https://oglobo.globo.com/opiniao/o-trauma-da-pandemia-24480742)
+* [Cooperativismo financeiro, alternativa na pandemia](https://oglobo.globo.com/opiniao/cooperativismo-financeiro-alternativa-na-pandemia-24480890)
+* [Fake news e ameaças à democracia agridem liberdade de expressão](https://oglobo.globo.com/opiniao/fake-news-ameacas-democracia-agridem-liberdade-de-expressao-24481127)
 * [Receitas de inverno: chefs compartilham dicas de caldos e sopas para esquentar o frio](https://oglobo.globo.com/rioshow/receitas-de-inverno-chefs-compartilham-dicas-de-caldos-sopas-para-esquentar-frio-24480744)
-* [Ataque à democracia não pode ficar impune](https://oglobo.globo.com/opiniao/ataque-democracia-nao-pode-ficar-impune-24481064)
 * [É preciso impedir que a milícia acelere construções na pandemia](https://oglobo.globo.com/opiniao/e-preciso-impedir-que-milicia-acelere-construcoes-na-pandemia-24480900)
 * [Lives de hoje: Ivan Lins, Pepeu Gomes e tributo a Cazuza com o duo Flausino e Sideral](https://oglobo.globo.com/rioshow/lives-de-hoje-ivan-lins-pepeu-gomes-tributo-cazuza-com-duo-flausino-sideral-24480611)

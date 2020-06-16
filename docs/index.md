@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 16:10:25 UTC
+# indexed at 16/06/2020 16:34:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
-* [Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
+* [FFmpeg 4.3 Released](http://ffmpeg.org/download.html#release_4.3)
 * [Apple, ARM, and Intel](https://stratechery.com/2020/apple-arm-and-intel/?href=)
+* [A Jupyter Kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
+* [Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
 * [Weizsäcker's speech on 40th anniversary of WW2's end (1985)](http://www.bundespraesident.de/SharedDocs/Downloads/DE/Reden/2015/02/150202-RvW-Rede-8-Mai-1985-englisch.pdf;jsessionid=9BC204670EC73ACE845085C27F5A7DC6.2_cid285?__blob=publicationFile)
-* [The Two Forms of Mathematical Beauty](https://www.quantamagazine.org/how-is-math-beautiful-20200616/)
-* [Dexamethasone is a life-saving coronavirus drug](https://www.bbc.com/news/health-53061281)
 * [Do Not Follow JavaScript Trends](https://pragmaticpineapple.com/do-not-follow-javascript-trends/)
-* [Procrastination is driven by our desire to avoid difficult emotions, says expert](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433)
+* [Dexamethasone is a life-saving coronavirus drug](https://www.bbc.com/news/health-53061281)
+* [The Two Forms of Mathematical Beauty](https://www.quantamagazine.org/how-is-math-beautiful-20200616/)
 * [How the most popular Chrome extensions affect browser performance](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
+* [Procrastination is driven by our desire to avoid difficult emotions, says expert](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433)
 * [The First Woman PhD in Computer Science Was a Nun](https://www.mentalfloss.com/article/53178/first-woman-earn-phd-computer-science-was-nun)
 * [Netgear 0-day Vulnerability Analysis and Exploit for 79 devices](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html?m=1)
 * [Random Search Wired into Animals May Help Them Hunt](https://www.quantamagazine.org/random-search-wired-into-animals-may-help-them-hunt-20200611/)
-* [A Jupyter Kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
-* [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
-* [They Write the Right Stuff (1996)](https://www.fastcompany.com/28121/they-write-right-stuff)
 * [Computers as I used to love them](https://tonsky.me/blog/syncthing/)
+* [They Write the Right Stuff (1996)](https://www.fastcompany.com/28121/they-write-right-stuff)
 * [EU opens Apple antitrust investigations into App Store and Apple Pay practices](https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay)
 * [Harvard University Won’t Require SAT, ACT for Admissions Next Year](https://www.wsj.com/articles/harvard-university-wont-require-sat-act-for-admissions-next-year-11592272825)
-* [How to Topple a Statue Using Science](https://www.popularmechanics.com/science/a32870657/remove-statue-science/)
-* [Very fast CRISPR on demand](https://science.sciencemag.org/content/368/6496/1265)
-* [Reasoning by Lego: The wrong way to think about cryptography](https://www.cryptofails.com/post/121201011592/reasoning-by-lego-the-wrong-way-to-think-about)
-* [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
+* [Notes on The Timeless Way of Building (2018)](https://lethain.com/timeless-way-of-building/)
 * [Elite CIA unit that developed hacking tools failed to secure its own systems](https://www.washingtonpost.com/national-security/elite-cia-unit-that-developed-hacking-tools-failed-to-secure-its-own-systems-allowing-massive-leak-an-internal-report-found/2020/06/15/502e3456-ae9d-11ea-8f56-63f38c990077_story.html)
+* [Reasoning by Lego: The wrong way to think about cryptography](https://www.cryptofails.com/post/121201011592/reasoning-by-lego-the-wrong-way-to-think-about)
+* [Very fast CRISPR on demand](https://science.sciencemag.org/content/368/6496/1265)
+* [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
-* [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 * [A Short History of Computational Complexity (2002) [pdf]](http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
+* [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
+* [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
+* [Facebook Helped Develop a Tails Exploit](https://www.schneier.com/blog/archives/2020/06/facebook_helped.html)
 * [Architects have designed a Martian city for the desert outside Dubai](https://edition.cnn.com/style/article/mars-science-city-design-spc-scn/index.html)
 * [Open source process design kit for usage with SkyWater Foundry's 130nm node](https://github.com/google/skywater-pdk)
-* [Facebook Helped Develop a Tails Exploit](https://www.schneier.com/blog/archives/2020/06/facebook_helped.html)
-* [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [Conservative Christians See ‘Seismic Implications’ in Supreme Court Ruling](https://www.nytimes.com/2020/06/15/us/lgbtq-supreme-court-religious-freedom.html)
 * [Supreme Court LGBTQ Ruling Pushes Workplace Dynamic Already in Motion](https://www.nytimes.com/2020/06/15/business/economy/lgbtq-supreme-court-workforce.html)
 * [Supreme Court Expansion of Transgender Rights Undercuts Trump Restrictions](https://www.nytimes.com/2020/06/15/upshot/transgender-rights-trump.html)
-* [Wall Street Rallies as Retail Sales Rebound: Live Updates](https://www.nytimes.com/2020/06/16/business/stock-market-today-coronavirus.html)
+* [Wall Street Rallies as Retail Sales Rebound by 17.7 Percent: Live Updates](https://www.nytimes.com/2020/06/16/business/stock-market-today-coronavirus.html)
 * [When Rich New Yorkers Fled, These Workers Kept the City Running](https://www.nytimes.com/2020/06/16/nyregion/mount-hope-bronx-coronavirus-essential-workers.html)
 * [As Meat Plants Stayed Open to Feed Americans, Exports to China Surged](https://www.nytimes.com/2020/06/16/business/meat-industry-china-pork.html)
 * [Live Updates and Video of Black Lives Matters Protests Across the US](https://www.nytimes.com/2020/06/16/us/black-lives-matter-protests-live.html)
@@ -83,8 +83,8 @@ layout: default
 * [Coronavirus Accelerates Across Africa](https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html)
 * [In Europe, Travel Returns, but Not Confidence About What Comes Next](https://www.nytimes.com/2020/06/15/world/europe/coronavirus-europe-borders-reopen.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [The Statues Were Toppled. What Happens to Them Now?](https://www.nytimes.com/2020/06/15/arts/design/fallen-statues-what-next.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Após novo surto de coronavírus, situação de Pequim é 'extremamente grave', diz prefeitura](https://oglobo.globo.com/mundo/apos-novo-surto-de-coronavirus-situacao-de-pequim-extremamente-grave-diz-prefeitura-1-24482086)
-* [Após ameaças contra bispo, governador do DF manda fechar Esplanada por dois dias](https://oglobo.globo.com/brasil/apos-ameacas-contra-bispo-governador-do-df-manda-fechar-esplanada-por-dois-dias-24482089)
+* [Após cobrança de alunos, Weintraub afirma que Sisu será aberto em julho, com quase um mês de atraso](https://oglobo.globo.com/sociedade/educacao/apos-cobranca-de-alunos-weintraub-afirma-que-sisu-sera-aberto-em-julho-com-quase-um-mes-de-atraso-24482155)
+* [MPF do Rio diz que policial que pagou boleto para Flávio movimentou quantias 'incompatíveis em espécie' com renda](https://oglobo.globo.com/brasil/mpf-do-rio-diz-que-policial-que-pagou-boleto-para-flavio-movimentou-quantias-incompativeis-em-especie-com-renda-24482163)
+* [Em situação 'extremamente grave' por coronavírus, Pequim ordena quarentena para grupos de risco e fecha escolas](https://oglobo.globo.com/mundo/em-situacao-extremamente-grave-por-coronavirus-pequim-ordena-quarentena-para-grupos-de-risco-fecha-escolas-24482086)
+* [MPF diz que policial que pagou boleto para Flávio movimentou quantias 'incompatíveis' com renda](https://oglobo.globo.com/brasil/mpf-diz-que-policial-que-pagou-boleto-para-flavio-movimentou-quantias-incompativeis-com-renda-24481990)
 * [Brasil tem 904.734 casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-904734-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-13h-24482014)
 * [Brasil tem 891.896 casos de Covid-19 e 44.148 óbitos, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-891896-casos-de-covid-19-44148-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-1-24481651)
+* [Maracanã 70 anos: expressão 'Maracanazo' só foi usada no Brasil quase 30 anos após derrota para Uruguai](https://oglobo.globo.com/esportes/maracana-70-anos-expressao-maracanazo-so-foi-usada-no-brasil-quase-30-anos-apos-derrota-para-uruguai-1-24481230)
+* [Após ameaças contra bispo, governador do DF manda fechar Esplanada por dois dias](https://oglobo.globo.com/brasil/apos-ameacas-contra-bispo-governador-do-df-manda-fechar-esplanada-por-dois-dias-24482089)
 * [Liminar suspende lei que determinava descontos em mensalidades de escolas no Rio](https://oglobo.globo.com/economia/defesa-do-consumidor/liminar-suspende-lei-que-determinava-descontos-em-mensalidades-de-escolas-no-rio-24482111)
 * [Suspeito é detido com pistola e granada na Linha Vermelha, e artefato estoura na mão dele](https://oglobo.globo.com/rio/suspeito-detido-com-pistola-granada-na-linha-vermelha-artefato-estoura-na-mao-dele-24482091)
-* [Depois da Covid-19, Veneza vislumbra um futuro com menos turistas](https://oglobo.globo.com/boa-viagem/depois-da-covid-19-veneza-vislumbra-um-futuro-com-menos-turistas-24482085)
-* [Latam e Azul anunciam acordo para compartilhamento de voos e do programa de fidelidade](https://oglobo.globo.com/economia/latam-azul-anunciam-acordo-para-compartilhamento-de-voos-do-programa-de-fidelidade-24482079)
-* [Os sinais diversos de que o caminho da reeleição de Trump ficou mais estreito](https://oglobo.globo.com/analitico/os-sinais-diversos-de-que-caminho-da-reeleicao-de-trump-ficou-mais-estreito-24482055)
-* [Maracanã 70 anos: expressão 'Maracanazo' só foi usada no Brasil quase 30 anos após derrota para Uruguai](https://oglobo.globo.com/esportes/maracana-70-anos-expressao-maracanazo-so-foi-usada-no-brasil-quase-30-anos-apos-derrota-para-uruguai-24481230)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 10:09:58 UTC
+# indexed at 16/06/2020 10:34:43 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
 * [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
+* [Source code of Germanys official covid-19 contact tracing app](https://github.com/corona-warn-app)
 * [Show HN: Kumologica – Low-Code Integration Toolkit for Serverless Compute](https://kumologica.com)
-* [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
 * [Open Source Media Service CCTV/Video Recording/Object Detection](https://github.com/fastogt/fastocloud/)
+* [A Short History of Computational Complexity (2002) [pdf]](http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [Adobe to remove Flash Player from web site after December 2020](https://www.adobe.com/products/flashplayer/end-of-life.html)
 * [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
-* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
-* [A Short History of Computational Complexity (2002) [pdf]](http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 * [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch?ref=hn)
+* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [Feynman Lectures on the Strong Interactions](https://www.math.columbia.edu/~woit/wordpress/?p=11782)
 * [Facebook Helped Develop a Tails Exploit](https://www.schneier.com/blog/archives/2020/06/facebook_helped.html)
 * [Open source process design kit for usage with SkyWater Foundry's 130nm node](https://github.com/google/skywater-pdk)
-* [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
 * [Show HN: Givemeguid.com – CLI/curl friendly GUIDs](http://givemeguid.com)
-* [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
+* [How doing too much made a $6k MR business shut down](https://phoenixdown.co/focusing-many-fronts-business-shutdown/)
+* [NetBSD Code Study](http://silas.net.br/codereading/netbsd-code.html)
 * [Shadertoy Path Tracing: Fresnel, Rough Refraction and Absorption, Orbit Camera](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
 * [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
+* [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
+* [Recently minted database technologies that I find intriguing](https://lucperkins.dev/blog/new-db-tech-1/)
 * [IRS programming mystery continues](https://federalnewsnetwork.com/tom-temin-commentary/2020/01/irs-programming-mystery-continues/)
-* [How doing too much made a $6k MR business shut down](https://phoenixdown.co/focusing-many-fronts-business-shutdown/)
 * [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
-* [Liverpool’s Slave Trade Legacy](https://www.historytoday.com/history-matters/liverpool’s-slave-trade-legacy)
-* [How Japanese Americans Built a ‘Useful American Life’ in 1940s Chicago](https://www.zocalopublicsquare.org/2020/06/03/japanese-americans-world-war-ii-manzanar-incarceration-wartime-prisons-relocation-chicago-community/ideas/essay/)
 * [UNM researchers document the first use of maize in Mesoamerica](http://news.unm.edu/news/releases-20200601-6803126)
+* [How Japanese Americans Built a ‘Useful American Life’ in 1940s Chicago](https://www.zocalopublicsquare.org/2020/06/03/japanese-americans-world-war-ii-manzanar-incarceration-wartime-prisons-relocation-chicago-community/ideas/essay/)
 * [“Massive DDoS attack” just T-Mobile error?](https://twitter.com/eastdakota/status/1272678168638500864)
-* [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
-* [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 * [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
+* [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 ## nytimes.com
 
 
@@ -54,7 +54,7 @@ layout: default
 * [Mayor Bottoms Tightens Rules on Atlanta Police's Use of Force](https://www.nytimes.com/2020/06/15/us/rayshard-brooks-keisha-bottoms-atlanta.html)
 * [​North Korea Blows Up Liaison Office Shared With South Korea](https://www.nytimes.com/2020/06/16/world/asia/north-korea-explosion-liaison-office.html)
 * [New Yorkers Are Backsliding on Social Distancing](https://www.nytimes.com/2020/06/16/nyregion/nyc-social-distancing.html)
-* [What We’ve Learned About the Coronavirus](https://www.nytimes.com/2020/06/15/podcasts/the-daily/coronavirus-pandemic.html)
+* [A Landmark Supreme Court Ruling](https://www.nytimes.com/2020/06/16/podcasts/the-daily/supreme-court-lgbtq.html)
 * [One Restaurant’s Survival Guide](https://www.nytimes.com/2020/06/15/technology/restaurants-coronavirus.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [Surprise! Justice on L.G.B.T. Rights From a Trump Judge](https://www.nytimes.com/2020/06/15/opinion/lgbt-supreme-court-gorsuch.html)
@@ -81,19 +81,19 @@ layout: default
 * [Coronavirus Accelerates Across Africa](https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html)
 * [In Europe, Travel Returns, but Not Confidence About What Comes Next](https://www.nytimes.com/2020/06/15/world/europe/coronavirus-europe-borders-reopen.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [When Pyer Moss Brought Police Brutality to the Runway](https://www.nytimes.com/2020/06/15/fashion/when-pyer-moss-brought-police-brutality-to-the-runway.html)
 * [Therapy as a Party Game? Yes, With Fewer Fights Than Monopoly](https://www.nytimes.com/2020/06/11/style/group-therapy-board-game-party.html)
 * [Breanna Stewart Pushes for Change on and Off the Court](https://www.nytimes.com/2020/06/14/sports/basketball/breanna-stewart-wnba-protest.html)
 * [Portraits of Families in Protest](https://www.nytimes.com/2020/06/15/parenting/families-protest-dc.html)
 * [A Pop-Culture Glossary for ‘Da 5 Bloods’](https://www.nytimes.com/2020/06/14/movies/da-5-bloods-explainer.html)
+* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
 * [Where Jaguars Are Killed, New Common Factor Emerges: Chinese Investment](https://www.nytimes.com/2020/06/11/science/jaguars-poaching-china.html)
-* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
 * [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [STJ rejeita ação para afastar Sérgio Camargo da Fundação Palmares](https://oglobo.globo.com/cultura/stj-rejeita-acao-para-afastar-sergio-camargo-da-fundacao-palmares-24481627)
+* [Policiais se impressionam com luxo de casa de empresário suspeito de envolvimento com jogo do bicho](https://oglobo.globo.com/rio/policiais-se-impressionam-com-luxo-de-casa-de-empresario-suspeito-de-envolvimento-com-jogo-do-bicho-24481628)
 * [Operação da Polícia Civil e do MP mira empresário ligado ao jogo do bicho e PMs](https://oglobo.globo.com/rio/operacao-da-policia-civil-do-mp-mira-empresario-ligado-ao-jogo-do-bicho-pms-24481606)
 * ['Reage, Rio!' levanta debate sobre os caminhos para o comércio local na pandemia](https://epoca.globo.com/sociedade/reage-rio-levanta-debate-sobre-os-caminhos-para-comercio-local-na-pandemia-24481610)
 * [Quatro países europeus garantem doses da futura vacina contra Covid-19 por 750 milhões de euros](https://epoca.globo.com/mundo/quatro-paises-europeus-garantem-doses-da-futura-vacina-contra-covid-19-por-750-milhoes-de-euros-24480904)
 * [Após sobreviver à Covid-19, paciente recebe conta de R$ 2 milhões de hospital nos EUA](https://epoca.globo.com/mundo/apos-sobreviver-covid-19-paciente-recebe-conta-de-2-milhoes-de-hospital-nos-eua-24480752)
 * [China aciona 'circuit-breaker' da aviação pela primeira vez em voo com coronavírus](https://epoca.globo.com/mundo/china-aciona-circuit-breaker-da-aviacao-pela-primeira-vez-em-voo-com-coronavirus-1-24480704)
 * [Coronavírus cancela São João: o estrago em cidades do Nordeste onde muitos fazem 'pé de meia para resto do ano' em festa](https://epoca.globo.com/brasil/coronavirus-cancela-sao-joao-estrago-em-cidades-do-nordeste-onde-muitos-fazem-pe-de-meia-para-resto-do-ano-em-festa-24481593)
-* [Família Bolsonaro se assusta com crescimento de Weintraub em sua base](https://epoca.globo.com/guilherme-amado/familia-bolsonaro-se-assusta-com-crescimento-de-weintraub-em-sua-base-24481348)
-* [Teste sorológico é passaporte de imunidade contra Covid-19?](https://oglobo.globo.com/podcast/teste-sorologico-passaporte-de-imunidade-contra-covid-19-24481057)
-* [Thainá Duarte, atriz da série 'Aruanas', cria projeto para ajudar mulheres vítimas de violência doméstica](https://oglobo.globo.com/celina/thaina-duarte-atriz-da-serie-aruanas-cria-projeto-para-ajudar-mulheres-vitimas-de-violencia-domestica-24480702)
+* [O que pesou para o governo demitir Emanuel Rego](https://epoca.globo.com/guilherme-amado/o-que-pesou-para-governo-demitir-emanuel-rego-24481573)
 * [Doe alegria: projeto dá máscaras com sorrisos estampados a voluntários de projetos sociais](https://oglobo.globo.com/rio/bairros/doe-alegria-projeto-da-mascaras-com-sorrisos-estampados-voluntarios-de-projetos-sociais-1-24473366)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 00:27:01 UTC
+# indexed at 16/06/2020 00:36:04 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [How many of you know that the team is working on something that no-one wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 * [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
 * [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
-* [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
 * [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
+* [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
 * [The Sun seen through the Earth in “neutrino light” (2007)](http://strangepaths.com/the-sun-seen-through-the-earth-in-neutrino-light/2007/01/06/en/)
 * [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
 * [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
+* [Model S Long Range Plus: Building the First 400-Mile Electric Vehicle](https://www.tesla.com/blog/model-s-long-range-plus-building-first-400-mile-electric-vehicle)
 * [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
-* [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
+* [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
 * [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
+* [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [MuseScore 4: Moving from notation software to composition software](https://musescore.org/en/MuseScore4)
 * [Gated Linear Networks](https://arxiv.org/abs/1910.01526)
+* [Widespread outages reported by US telecom, likely not a DDoS](https://www.datacenterdynamics.com/en/news/t-mobiles-us-network-goes-down-impacting-verizon-att-and-other-carriers/)
 * [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
-* [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
 * [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
+* [A Guy Named Craig May Soon Have Control over a Large Swath of Utah](https://www.newyorker.com/news/daily-comment/a-guy-named-craig-may-soon-have-control-over-a-large-swath-of-utah)
 * [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
 * [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala)
-* [What does Unicode support actually mean?](https://boyter.org/posts/unicode-support-what-does-that-actually-mean/)
 * [Installing FreeNAS on my QNAP TS-459](https://humaidq.ae/blog/qnap/)
 * [Remembering Windows 2000](https://www.howtogeek.com/676095/remembering-windows-2000-microsofts-forgotten-masterpiece/)
+* [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
 * [Show HN: Correct Horse Battery Staple password generator](https://correcthorse.pw/)
-* [Generation of diagrams and flowcharts from text in a similar manner as markdown](https://mermaid-js.github.io/mermaid/)
-* [Files by Name (Minix 3 Filesystem)](https://blog.stephenmarz.com/2020/06/08/files-by-name/)
-* [Understanding Certificate Pinning](https://littlemaninmyhead.wordpress.com/2020/06/08/understanding-certificate-pinning/)
 ## nytimes.com
 
 
@@ -78,11 +78,10 @@ layout: default
 * [Ex-eBay Workers Sent Critics Live Roaches and a Mask of a Bloody Pig Face, U.S. Says](https://www.nytimes.com/2020/06/15/technology/ebay-cyberstalking-with-cockroaches-and-bloody-pig-face.html)
 * [To Gain Public’s Trust, Should Members of Congress Stop Trading Stock?](https://www.nytimes.com/2020/06/15/us/politics/congress-trading-stock-loeffler-burr.html)
 * [At 99, Al Jaffee Says Goodbye to Mad Magazine](https://www.nytimes.com/2020/06/15/business/media/al-jaffee-mad-magazine.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [Here’s What to Trim (and What Not to Touch) From Your Budget Right Now](https://www.nytimes.com/2020/04/28/smarter-living/heres-what-to-trim-and-what-not-to-touch-from-your-budget-right-now.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
 * [When Pyer Moss Brought Police Brutality to the Runway](https://www.nytimes.com/2020/06/15/fashion/when-pyer-moss-brought-police-brutality-to-the-runway.html)
 * [Therapy as a Party Game? Yes, With Fewer Fights Than Monopoly](https://www.nytimes.com/2020/06/11/style/group-therapy-board-game-party.html)
 * [Breanna Stewart Pushes for Change on and Off the Court](https://www.nytimes.com/2020/06/14/sports/basketball/breanna-stewart-wnba-protest.html)
@@ -100,12 +99,12 @@ layout: default
 ## globo.com
 
 
-* [Número de casos da Covid-19 no mundo chega a 8 milhões](https://oglobo.globo.com/mundo/numero-de-casos-da-covid-19-no-mundo-chega-8-milhoes-24481151)
 * [Ministério da Saúde orienta hemocentros a permitir doação de sangue por homens gays](https://oglobo.globo.com/sociedade/ministerio-da-saude-orienta-hemocentros-permitir-doacao-de-sangue-por-homens-gays-1-24481249)
+* [Brasil tem 891.556 casos de Covid-19 e 44.118 óbitos, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-891556-casos-de-covid-19-44118-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24480895)
+* [Número de casos da Covid-19 no mundo chega a 8 milhões](https://oglobo.globo.com/mundo/numero-de-casos-da-covid-19-no-mundo-chega-8-milhoes-24481151)
 * [Vinicius Junior acerta com mesma agência de Pelé para explorar sua imagem comercialmente](https://oglobo.globo.com/esportes/vinicius-junior-acerta-com-mesma-agencia-de-pele-para-explorar-sua-imagem-comercialmente-24481160)
 * [Denúncias de violência contra idosos quintuplicaram durante a pandemia, apontam dados do Disque 100](https://oglobo.globo.com/sociedade/denuncias-de-violencia-contra-idosos-quintuplicaram-durante-pandemia-apontam-dados-do-disque-100-24480857)
 * [Covid-19: adesão à quarentena cai e Rio tem pior segunda-feira com isolamento social em junho](https://oglobo.globo.com/rio/covid-19-adesao-quarentena-cai-rio-tem-pior-segunda-feira-com-isolamento-social-em-junho-24480932)
-* [Brasil tem 891.556 casos de Covid-19 e 44.118 óbitos, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-891556-casos-de-covid-19-44118-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24480895)
 * [Vasco confirma venda de Marrony para o Atlético-MG](https://oglobo.globo.com/esportes/vasco-confirma-venda-de-marrony-para-atletico-mg-24481153)
 * [Entenda o gesto contra o racismo de Marcelo, do Real Madrid, que se popularizou na NFL e virou polêmica](https://oglobo.globo.com/esportes/entenda-gesto-contra-racismo-de-marcelo-do-real-madrid-que-se-popularizou-na-nfl-virou-polemica-24481103)
 * [Ministro da Justiça pede investigação de charge que associa Bolsonaro ao nazismo e cita Lei de Segurança Nacional](https://oglobo.globo.com/brasil/ministro-da-justica-pede-investigacao-de-charge-que-associa-bolsonaro-ao-nazismo-cita-lei-de-seguranca-nacional-1-24480814)

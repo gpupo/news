@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/06/2020 01:10:27 UTC
+# indexed at 16/06/2020 01:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [An exploratory statistical analysis of Akira and Ghost in the Shell](https://nibnalin.me/dust-nib/shadows-of-stained-glass.html)
 * [Basics of Pneumatic Logic](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic)
 * [Looking Back at Postgres](https://arxiv.org/abs/1901.01973)
-* [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
 * [AWS’s Share of Amazon’s Profit](https://www.tbray.org/ongoing/When/202x/2020/06/14/Amazon-profit-from-AWS)
-* [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
+* [WD Red DM-SMR Update: 3 Vendors Bail and WD Knew of ZFS Issues](https://www.servethehome.com/wd-red-dm-smr-update-3-vendors-bail-and-wd-knew-of-zfs-issues/)
 * [The Sun seen through the Earth in “neutrino light” (2007)](http://strangepaths.com/the-sun-seen-through-the-earth-in-neutrino-light/2007/01/06/en/)
 * [New Lego Mindstorms Robot Inventor](https://www.lego.com/en-us/aboutus/news/2020/june/lego-mindstorms-robot-inventor/)
-* [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
+* [Zeltini Z-Triton](https://zeltini.com/en/product/z-triton/)
 * [T-Mobile, Verizon and AT&T phone calls are failing across the US](https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers)
 * [Solving Online Events](https://www.ben-evans.com/benedictevans/2020/6/4/solving-online-events)
-* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
 * [Destruction of Nuclear Bombs Using Ultra-High Energy Neutrino Beam (2003)](https://arxiv.org/abs/hep-ph/0305062)
-* [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
-* [The Problem of Scale and the Case for Cybernetic Communism [pdf]](http://www.its.caltech.edu/~matilde/ScaleAnarchy.pdf)
+* [Guilded (YC S17) is hiring engineers to connect gaming communities (Remote)](https://www.guilded.gg/jobs)
 * [Stanford JavaScript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
-* [MuseScore 4: Moving from notation software to composition software](https://musescore.org/en/MuseScore4)
-* [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
+* [Intel’s port 7 AGU blunder (2019)](https://blogs.fau.de/hager/archives/8683)
+* [Ask HN: What are your go to SaaS products for startups/MVPs?](https://news.ycombinator.com/item?id=23525456)
 * [Gated Linear Networks](https://arxiv.org/abs/1910.01526)
+* [PinePhone: PostmarketOS Community Edition](https://postmarketos.org/blog/2020/06/15/pinephone-postmarketos-community-edition/)
 * [The Curious Case of Copy and Paste](https://research.securitum.com/the-curious-case-of-copy-paste/)
 * [Six eBay executives and employees charged over alleged cyberstalking campaign](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/)
 * [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala)
-* [A Guy Named Craig May Soon Have Control over a Large Swath of Utah](https://www.newyorker.com/news/daily-comment/a-guy-named-craig-may-soon-have-control-over-a-large-swath-of-utah)
 * [Show HN: Find journalists, bloggers and webmasters covering your niche](https://postbag.co/)
-* [Installing FreeNAS on my QNAP TS-459](https://humaidq.ae/blog/qnap/)
+* [A Guy Named Craig May Soon Have Control over a Large Swath of Utah](https://www.newyorker.com/news/daily-comment/a-guy-named-craig-may-soon-have-control-over-a-large-swath-of-utah)
 * [Show HN: Correct Horse Battery Staple password generator](https://correcthorse.pw/)
+* [Installing FreeNAS on my QNAP TS-459](https://humaidq.ae/blog/qnap/)
+* [Remembering Windows 2000](https://www.howtogeek.com/676095/remembering-windows-2000-microsofts-forgotten-masterpiece/)
+* [Generation of diagrams and flowcharts from text in a similar manner as markdown](https://mermaid-js.github.io/mermaid/)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [To Gain Public’s Trust, Should Members of Congress Stop Trading Stock?](https://www.nytimes.com/2020/06/15/us/politics/congress-trading-stock-loeffler-burr.html)
 * [At 99, Al Jaffee Says Goodbye to Mad Magazine](https://www.nytimes.com/2020/06/15/business/media/al-jaffee-mad-magazine.html)
 * [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [kids children social distance coronavirus](https://www.nytimes.com/2020/06/13/style/how-to-get-your-kids-to-stay-6-feet-away-from-everything.html)
 * [When Parents Get Parented](https://www.nytimes.com/2020/06/10/parenting/multigenerational-homes-virus.html)
 * [When Pyer Moss Brought Police Brutality to the Runway](https://www.nytimes.com/2020/06/15/fashion/when-pyer-moss-brought-police-brutality-to-the-runway.html)
 * [Therapy as a Party Game? Yes, With Fewer Fights Than Monopoly](https://www.nytimes.com/2020/06/11/style/group-therapy-board-game-party.html)
 * [Breanna Stewart Pushes for Change on and Off the Court](https://www.nytimes.com/2020/06/14/sports/basketball/breanna-stewart-wnba-protest.html)
 * [Portraits of Families in Protest](https://www.nytimes.com/2020/06/15/parenting/families-protest-dc.html)
 * [A Pop-Culture Glossary for ‘Da 5 Bloods’](https://www.nytimes.com/2020/06/14/movies/da-5-bloods-explainer.html)
-* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Culprit for Mass Extinction 445 Million Years Ago? Global Warming](https://www.nytimes.com/2020/06/10/science/global-warming-ordovician-extinction.html)
 * [Where Jaguars Are Killed, New Common Factor Emerges: Chinese Investment](https://www.nytimes.com/2020/06/11/science/jaguars-poaching-china.html)
 * [How Do You Decide if Children Can Play Together Again?](https://www.nytimes.com/2020/06/01/well/family/coronavirus-reopening-children-parents-play-dates.html)
+* [Genes May Leave Some People More Vulnerable to Severe Covid-19](https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html)
 * [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
 * [How 2 Lives Collided in Central Park, Rattling the Nation](https://www.nytimes.com/2020/06/14/nyregion/central-park-amy-cooper-christian-racism.html)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,6 +100,7 @@ layout: default
 ## globo.com
 
 
+* [Oito policiais são presos por espancar homem na Zona Norte de SP](https://oglobo.globo.com/brasil/oito-policiais-sao-presos-por-espancar-homem-na-zona-norte-de-sp-24481394)
 * [Denúncias de violência contra idosos quintuplicaram durante a pandemia, apontam dados do Disque 100](https://oglobo.globo.com/sociedade/denuncias-de-violencia-contra-idosos-quintuplicaram-durante-pandemia-apontam-dados-do-disque-100-24480857)
 * [Brasil tem 891.556 casos de Covid-19 e 44.118 óbitos, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-891556-casos-de-covid-19-44118-obitos-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24480895)
 * [Ministério da Saúde orienta hemocentros a permitir doação de sangue por homens gays](https://oglobo.globo.com/sociedade/ministerio-da-saude-orienta-hemocentros-permitir-doacao-de-sangue-por-homens-gays-1-24481249)
@@ -108,5 +109,4 @@ layout: default
 * [Covid-19: adesão à quarentena cai e Rio tem pior segunda-feira com isolamento social em junho](https://oglobo.globo.com/rio/covid-19-adesao-quarentena-cai-rio-tem-pior-segunda-feira-com-isolamento-social-em-junho-24480932)
 * [Vasco confirma venda de Marrony para o Atlético-MG](https://oglobo.globo.com/esportes/vasco-confirma-venda-de-marrony-para-atletico-mg-24481153)
 * [Entenda o gesto contra o racismo de Marcelo, do Real Madrid, que se popularizou na NFL e virou polêmica](https://oglobo.globo.com/esportes/entenda-gesto-contra-racismo-de-marcelo-do-real-madrid-que-se-popularizou-na-nfl-virou-polemica-24481103)
-* [Ministro da Justiça pede investigação de charge que associa Bolsonaro ao nazismo e cita Lei de Segurança Nacional](https://oglobo.globo.com/brasil/ministro-da-justica-pede-investigacao-de-charge-que-associa-bolsonaro-ao-nazismo-cita-lei-de-seguranca-nacional-1-24480814)
 * [Governo perde com a saída de Mansueto da secretaria do Tesouro, avaliam especialistas](https://oglobo.globo.com/economia/governo-perde-com-saida-de-mansueto-da-secretaria-do-tesouro-avaliam-especialistas-24481084)

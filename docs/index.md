@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 20:11:42 UTC
+# indexed at 17/06/2020 20:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
+* [Rents are dropping across the US](https://edition.cnn.com/2020/06/16/success/rents-are-dropping-us-cities-coronavirus/index.html)
 * [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
 * [YC's Startup School Relaunching as Continuous Program](https://blog.ycombinator.com/startup-school-relaunch)
-* [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
 * [Time to Upgrade Your Monitor](https://tonsky.me/blog/monitors/)
-* [Rents are dropping across the US](https://edition.cnn.com/2020/06/16/success/rents-are-dropping-us-cities-coronavirus/index.html)
 * [Image GPT](https://openai.com/blog/image-gpt/)
+* [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
-* [Apollo – Funding for Moonshots](https://apolloprojects.com/)
 * [Postbank to replace 12M bank cards after employees steal 'master key'](https://www.timeslive.co.za/sunday-times/news/2020-06-14-postbank-forced-to-replace-12-million-bank-cards-after-employees-steal-master-key/)
 * [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
+* [Apollo – Funding for Moonshots](https://apolloprojects.com/)
+* [Springer Nature open access agreement and Elsevier update](https://evcp.berkeley.edu/news/springer-nature-open-access-agreement-and-elsevier-update)
 * [Facebook to let users turn off political adverts](https://www.bbc.co.uk/news/business-53074995)
 * [Microsoft pitched facial recognition to the DEA](https://www.buzzfeednews.com/article/ryanmac/microsoft-pitched-facial-recognition-dea-drug-enforcement)
-* [A grandmaster who got Twitch hooked on chess](https://www.wired.com/story/hikaru-nakamura-twitch-chess)
 * [Browser Permissions on Android: What No One Is Talking About](https://snapsearch.online/general/browser-permissions-on-android/)
+* [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
+* [A grandmaster who got Twitch hooked on chess](https://www.wired.com/story/hikaru-nakamura-twitch-chess)
 * [Smarking (YC W15) is hiring to scale mobility digital infrastructure](https://www.smarking.com/careers)
 * [Initially dismissed, representation theory is now central to much of mathematics](http://abstractions.nautil.us/article/571/the-useless-perspective-that-transformed-mathematics)
-* [Springer Nature open access agreement and Elsevier update](https://evcp.berkeley.edu/news/springer-nature-open-access-agreement-and-elsevier-update)
-* [Millions of abandoned oil wells are leaking methane, a climate menace](https://www.reuters.com/article/us-usa-drilling-abandoned-specialreport/special-report-millions-of-abandoned-oil-wells-are-leaking-methane-a-climate-menace-idUSKBN23N1NL)
-* [Siggo: A terminal GUI for signal-CLI, written in Go](https://github.com/derricw/siggo)
 * [Deep JavaScript: Theory and Techniques](https://exploringjs.com/deep-js/)
+* [Millions of abandoned oil wells are leaking methane, a climate menace](https://www.reuters.com/article/us-usa-drilling-abandoned-specialreport/special-report-millions-of-abandoned-oil-wells-are-leaking-methane-a-climate-menace-idUSKBN23N1NL)
 * [The Saturation Effect in Fuzzing](https://blog.regehr.org/archives/1796)
+* [Siggo: A terminal GUI for signal-CLI, written in Go](https://github.com/derricw/siggo)
 * [Imec Demonstrates FinFET Devices with Integrated Tungsten Buried Power Rails](https://www.imec-int.com/drupal/en/articles/imec-demonstrates-excellent-performance-of-si-finfet-cmos-devices-with-integrated-tungsten-buried-power-rails)
 * [Hashcat 6.0](https://hashcat.net/forum/thread-9303.html)
-* [Zoom End-to-End Encryption Whitepaper](https://github.com/zoom/zoom-e2e-whitepaper)
 * [Announce bad news without lying to your team](https://deliverydoubled.com/announce-bad-news-without-lying-to-your-team-avoid-my-damaging-rookie-mistakes/)
+* [The New 95 (2017)](https://www.1517fund.com/post/the-new-95)
 * [Justice Department to propose limiting internet firms’ Section 230 protections](https://www.wsj.com/articles/justice-department-to-propose-limiting-internet-firms-protections-11592391602)
+* [Zoom End-to-End Encryption Whitepaper](https://github.com/zoom/zoom-e2e-whitepaper)
 * [Robpike/Lisp: Toy Lisp 1.5 interpreter in Go](https://github.com/robpike/lisp)
-* [WhatsApp has introduced a feature that allows users to send and receive money](https://www.iafrikan.com/2020/06/17/facebook-whatsapp-payments-chat/)
-* [AWS said it mitigated a 2.3 Tbps DDoS attack, the largest ever](https://www.zdnet.com/article/aws-said-it-mitigated-a-2-3-tbps-ddos-attack-the-largest-ever/)
 ## nytimes.com
 
 
-* [George Floyd, Protests and Police Defunding: Live Updates](https://www.nytimes.com/2020/06/17/us/protests-today.html)
+* [Live Updates on Black Lives Matters Protests Globally](https://www.nytimes.com/2020/06/17/us/black-lives-matter-george-floyd-police.html)
 * [How 7 Civil Rights Activists View The George Floyd Protests](https://www.nytimes.com/2020/06/17/us/george-floyd-protests.html)
 * [Quaker to Change Aunt Jemima Name and Image Over ‘Racial Stereotype’](https://www.nytimes.com/2020/06/17/business/aunt-jemima-racial-stereotype.html)
 * [Bolton's Book Says Trump Impeachment Inquiry Missed Other Troubling Actions](https://www.nytimes.com/2020/06/17/us/politics/bolton-book-trump-impeached.html)
@@ -75,11 +75,11 @@ layout: default
 * [A Trump Tax Break Is Not Spurring Job Creation, Study Finds](https://www.nytimes.com/2020/06/17/business/trump-opportunity-zone-jobs.html)
 * [The Minnesota Freedom Fund Crisis: $30 Million and an Arbitration](https://www.nytimes.com/2020/06/16/style/minnesota-freedom-fund-donations.html)
 * [The Tech I.P.O. Comes Roaring Back in the Pandemic](https://www.nytimes.com/2020/06/17/technology/ipo-pandemic.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [My Journey to Writing an Opera About Police Violence](https://www.nytimes.com/2020/06/17/arts/music/blue-opera-police-violence.html)
 * [Fighting the Coronavirus With Innovative Tech](https://www.nytimes.com/2020/06/16/business/fighting-covid-19-innovative-tech.html)
 * [Maskne Is the New Acne, and Here’s What Is Causing It](https://www.nytimes.com/article/maskne-acne.html)
@@ -96,13 +96,13 @@ layout: default
 ## globo.com
 
 
-* [Sargento da PM é suspeito de participar da morte de garoto de 15 anos em SP](https://oglobo.globo.com/brasil/sargento-da-pm-suspeito-de-participar-da-morte-de-garoto-de-15-anos-em-sp-24484419)
-* [Ao contrário do que disse Bolsonaro, diversos parlamentares já tiveram seu sigilo bancário quebrado](https://oglobo.globo.com/brasil/ao-contrario-do-que-disse-bolsonaro-diversos-parlamentares-ja-tiveram-seu-sigilo-bancario-quebrado-1-24484507)
 * [Polícia americana registra alto número de pedidos de demissão após morte de George Floyd](https://oglobo.globo.com/mundo/policia-americana-registra-alto-numero-de-pedidos-de-demissao-apos-morte-de-george-floyd-24484505)
+* [Como mudou no STF a opinião sobre o inquérito das fake news](https://oglobo.globo.com/analitico/como-mudou-no-stf-opiniao-sobre-inquerito-das-fake-news-24484511)
+* [PSL abre processo de expulsão de deputado investigado por atos antidemocráticos](https://epoca.globo.com/guilherme-amado/psl-abre-processo-de-expulsao-de-deputado-investigado-por-atos-antidemocraticos-24484529)
+* [Governo lança programa para parcelar dívidas tributárias de empresas atingidas pelo coronavírus](https://oglobo.globo.com/economia/governo-lanca-programa-para-parcelar-dividas-tributarias-de-empresas-atingidas-pelo-coronavirus-24484523)
+* [Ao contrário do que disse Bolsonaro, diversos parlamentares já tiveram seu sigilo bancário quebrado](https://oglobo.globo.com/brasil/ao-contrario-do-que-disse-bolsonaro-diversos-parlamentares-ja-tiveram-seu-sigilo-bancario-quebrado-1-24484507)
 * [Coronavírus: o que é a dexametasona e por que não pode ser tomada sem indicação médica](https://epoca.globo.com/sociedade/coronavirus-que-a-dexametasona-por-que-nao-pode-ser-tomada-sem-indicacao-medica-24484490)
 * [Após EUA anunciarem nome próprio ao BID, Brasil afirma que apoia candidatura americana](https://oglobo.globo.com/economia/apos-eua-anunciarem-nome-proprio-ao-bid-brasil-afirma-que-apoia-candidatura-americana-24484475)
 * [Maioria do STF vota para manter aberto inquérito das fake news](https://oglobo.globo.com/brasil/maioria-do-stf-vota-para-manter-aberto-inquerito-das-fake-news-24484447)
-* [Polícia Federal transfere Sara Giromini para penitenciária feminina](https://oglobo.globo.com/brasil/policia-federal-transfere-sara-giromini-para-penitenciaria-feminina-1-24484428)
 * [Coronavírus: OMS volta a suspender testes com hidroxicloroquina](https://epoca.globo.com/mundo/coronavirus-oms-volta-suspender-testes-com-hidroxicloroquina-24484436)
 * [Latam anuncia encerramento das operações na Argentina](https://oglobo.globo.com/economia/latam-anuncia-encerramento-das-operacoes-na-argentina-24484450)
-* [Paulinho Payakan, líder indígena Kaiapó, morre de Covid-19 no Pará](https://oglobo.globo.com/sociedade/paulinho-payakan-lider-indigena-kaiapo-morre-de-covid-19-no-para-1-24484389)

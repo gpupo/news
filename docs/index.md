@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 00:26:59 UTC
+# indexed at 17/06/2020 00:36:13 UTC
 
 
 ## news.ycombinator.com
@@ -17,24 +17,24 @@ layout: default
 * [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
 * [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
 * [A Jupyter Kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
-* [Show HN: 100% offline Shamir's Secret Sharing GUI](https://simon-frey.com/s4/)
 * [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595)
+* [Show HN: 100% offline Shamir's Secret Sharing GUI](https://simon-frey.com/s4/)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
 * [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
-* [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
 * [CIA hacking unit failed to protect its systems, allowing Vault 7 disclosure](https://www.washingtonpost.com/national-security/elite-cia-unit-that-developed-hacking-tools-failed-to-secure-its-own-systems-allowing-massive-leak-an-internal-report-found/2020/06/15/502e3456-ae9d-11ea-8f56-63f38c990077_story.html)
+* [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
 * [Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
 * [How the most popular Chrome extensions affect browser performance](https://www.debugbear.com/blog/2020-chrome-extension-performance-report)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
 * [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
-* [Ingredients for life appear in stellar nurseries long before stars are born](https://phys.org/news/2020-06-ingredients-life-stellar-nurseries-stars.html)
 * [3K, 60fps, 130ms: achieving it with Rust](https://blog.tonari.no/why-we-love-rust)
-* [Prenda (YC S19) is hiring leaders and engineers–build the future of kids' education](https://prendaschool.com/jobs)
+* [Ingredients for life appear in stellar nurseries long before stars are born](https://phys.org/news/2020-06-ingredients-life-stellar-nurseries-stars.html)
 * [Project Covalence](https://blog.samaltman.com/project-covalence)
-* [Chargen: Good Intentions on the Old-Timey Internet](https://somanymachines.com/tx/character-generator-protocol/)
+* [Prenda (YC S19) is hiring leaders and engineers–build the future of kids' education](https://prendaschool.com/jobs)
 * [Procrastination is driven by our desire to avoid difficult emotions, says expert](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433)
-* [AI vs. AI](https://cacm.acm.org/news/245531-ai-vs-ai/fulltext)
+* [Chargen: Good Intentions on the Old-Timey Internet](https://somanymachines.com/tx/character-generator-protocol/)
 * [Show HN: Findka – Personalized recommendations for any type of content](https://findka.com)
+* [AI vs. AI](https://cacm.acm.org/news/245531-ai-vs-ai/fulltext)
 * [Geany – A flyweight IDE](https://www.geany.org/)
 * [Dating Apps Exposed 845 GB of Explicit Photos, Chats, and More](https://www.wired.com/story/dating-apps-leak-explicit-photos-screenshots/)
 * [The first woman PhD in computer science was a nun (2013)](https://www.mentalfloss.com/article/53178/first-woman-earn-phd-computer-science-was-nun)
@@ -79,19 +79,19 @@ layout: default
 * [Arizona Wildfires Force Hundreds to Evacuate as Coronavirus Cases Surge](https://www.nytimes.com/2020/06/16/us/arizona-bush-fire-coronavirus.html)
 * [​North Korea’s Wrecking of Liaison Office a ‘Death Knell’ for Ties With the South](https://www.nytimes.com/2020/06/16/world/asia/north-korea-explosion-liaison-office.html)
 * [The Artist’s Caretaker: Once He Controlled Everything. No More.](https://www.nytimes.com/2020/06/14/arts/robert-indiana-caretaker.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [So You Want to Be a Socially Distanced Orchestra](https://www.nytimes.com/2020/06/16/arts/music/classical-music-social-distancing-virus.html)
 * [A Playful Masterpiece That Expanded the Novel’s Possibilities](https://www.nytimes.com/2020/06/16/books/review-posthumous-memoirs-bras-cubas-machado-de-assis.html)
 * [The Only West End Show Still Standing](https://www.nytimes.com/2020/06/15/theater/west-end-coronavirus-horrible-histories.html)
 * [The Unexpected Beauty of ‘Dog Vomit’ and Other Slime](https://www.nytimes.com/2020/06/16/magazine/the-unexpected-beauty-of-dog-vomit-and-other-slime.html)
 * [Tiny Love Stories: ‘A Tipsy, Celebratory State of Bliss’](https://www.nytimes.com/2020/06/16/style/tiny-modern-love-stories-coronavirus-a-tipsy-celebratory-state-of-bliss.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
-* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
+* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
 * [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
@@ -102,10 +102,10 @@ layout: default
 ## globo.com
 
 
+* [Hospital de campanha de São Gonçalo será entregue na próxima quinta-feira, garante Secretaria de Saúde](https://oglobo.globo.com/rio/hospital-de-campanha-de-sao-goncalo-sera-entregue-na-proxima-quinta-feira-garante-secretaria-de-saude-24483090)
 * [Brasil tem 1.338 óbitos por coronavírus em 24 horas; total chega a 45.456, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus-servico/brasil-tem-1338-obitos-por-coronavirus-em-24-horas-total-chega-45456-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24482895)
 * [Depois de destruir escritório de relações com o Sul, Coreia do Norte rejeita oferta de negociação](https://oglobo.globo.com/mundo/depois-de-destruir-escritorio-de-relacoes-com-sul-coreia-do-norte-rejeita-oferta-de-negociacao-24483174)
 * [Consumo de gás natural canalizado cai 25% em abril](https://oglobo.globo.com/economia/consumo-de-gas-natural-canalizado-cai-25-em-abril-24483099)
-* [Hospital de campanha de São Gonçalo será entregue na próxima quinta-feira, garante Secretaria de Saúde](https://oglobo.globo.com/rio/hospital-de-campanha-de-sao-goncalo-sera-entregue-na-proxima-quinta-feira-garante-secretaria-de-saude-24483090)
 * [Botafogo tem parcial de cinco testes positivos para coronavírus e deve voltar a treinar sábado](https://oglobo.globo.com/esportes/botafogo-tem-parcial-de-cinco-testes-positivos-para-coronavirus-deve-voltar-treinar-sabado-24483059)
 * [Mesmo presa, Sara Geromini segue com redes à toda](https://epoca.globo.com/guilherme-amado/mesmo-presa-sara-geromini-segue-com-redes-toda-24483085)
 * [Estado do Rio registra 239 mortes por coronavírus em 24 horas, maior número em doze dias](https://oglobo.globo.com/rio/estado-do-rio-registra-239-mortes-por-coronavirus-em-24-horas-maior-numero-em-doze-dias-24483047)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 04:10:25 UTC
+# indexed at 17/06/2020 04:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
 * [Polyphasic Sleep Is Unsustainable](https://trickle.app/drip/24112-polyphasic-sleep-takes-napping-to-the-extreme/)
-* [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
 * [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
-* [GitHub Isn't Fun Anymore](https://jaredpalmer.com/github-isnt-fun-anymore)
+* [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
 * [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
 * [How normie minimalism and farmhouse chic took over contemporary design](https://hyperallergic.com/566183/how-normie-minimalism-and-farmhouse-chic-took-over-contemporary-design/)
-* [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
 * [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
 * [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
 * [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
 * [Show HN: 100% offline Shamir's Secret Sharing GUI](https://simon-frey.com/s4/)
 * [A Jupyter Kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
 * [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595)
-* [CIA hacking unit failed to protect its systems, allowing Vault 7 disclosure](https://www.washingtonpost.com/national-security/elite-cia-unit-that-developed-hacking-tools-failed-to-secure-its-own-systems-allowing-massive-leak-an-internal-report-found/2020/06/15/502e3456-ae9d-11ea-8f56-63f38c990077_story.html)
-* [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [A plan to turn the atmosphere into one, enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
 * [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
-* [The Perfect Wave Is Coming (2016)](http://oceans.nautil.us/feature/572/the-perfect-wave-is-coming)
 * [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
+* [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
-* [Google bans ZeroHedge and The Federalist from its ad platform](https://www.cnbc.com/2020/06/16/google-bans-zerohedge-and-the-federalist-from-its-ad-platform.html)
 * [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
+* [The Perfect Wave Is Coming (2016)](http://oceans.nautil.us/feature/572/the-perfect-wave-is-coming)
+* [Google bans ZeroHedge and The Federalist from its ad platform](https://www.cnbc.com/2020/06/16/google-bans-zerohedge-and-the-federalist-from-its-ad-platform.html)
+* [Venezuela is a testing ground for digital dollarization, Zelle doesn’t like it](https://www.coindesk.com/venezuela-is-a-testing-ground-for-digital-dollarization-and-zelle-doesnt-like-it)
+* [3K, 60fps, 130ms: achieving it with Rust](https://blog.tonari.no/why-we-love-rust)
+* [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
 ## nytimes.com
 
 
@@ -89,13 +89,12 @@ layout: default
 * [The Only West End Show Still Standing](https://www.nytimes.com/2020/06/15/theater/west-end-coronavirus-horrible-histories.html)
 * [The Unexpected Beauty of ‘Dog Vomit’ and Other Slime](https://www.nytimes.com/2020/06/16/magazine/the-unexpected-beauty-of-dog-vomit-and-other-slime.html)
 * [Tiny Love Stories: ‘A Tipsy, Celebratory State of Bliss’](https://www.nytimes.com/2020/06/16/style/tiny-modern-love-stories-coronavirus-a-tipsy-celebratory-state-of-bliss.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
-* [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
-* [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
-* [Civil Rights Law Protects L.G.B.T. Workers, Supreme Court Rules](https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html)
+* [A Strawberry Cake That's a Combination of Spoonbread and Pudding Cake](https://www.nytimes.com/2020/06/15/dining/strawberry-spoon-cake.html)
+* [Virginia Republican Ousted After Officiating at Same-Sex Wedding](https://www.nytimes.com/2020/06/14/us/politics/denver-riggleman-virginia-primary-bob-good.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 11:34:32 UTC
+# indexed at 17/06/2020 12:13:12 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
 * [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
-* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
+* [Mutant garden (cartesian genetic programming)](https://mutant.garden/)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
-* [A gentle introduction to pointers using the C programming language](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
+* [Announce bad news without lying to your team](https://deliverydoubled.com/announce-bad-news-without-lying-to-your-team-avoid-my-damaging-rookie-mistakes/)
+* [A gentle introduction to pointers using C (2019)](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 * [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
 * [The Next Step for Generics](https://blog.golang.org/generics-next-step)
+* [Justice Department to Propose Limiting Internet Firms’ Protections](https://www.wsj.com/articles/justice-department-to-propose-limiting-internet-firms-protections-11592391602)
+* [The Rust compiler isn't slow; we are](https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
+* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
 * [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
-* [The Rust compiler isn't slow; we are](https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html)
 * [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
-* [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [My First Homemade Pedalboard](https://0ut3r.space/2020/06/16/handmade-pedalboard/)
-* [Anteater: DevOps Security Framework](https://anteater.github.io/)
+* [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
 * [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
-* [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
+* [Anteater: DevOps Security Framework](https://anteater.github.io/)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
-* [The Fed's Paycheck Protection Program Gave a Tiny NJ Bank $5.3B](https://wallstreetonparade.com/2020/06/the-feds-paycheck-protection-program-gave-a-tiny-nj-bank-5-3-billion-9-percent-of-all-the-money-its-spent-thus-far/)
+* [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
-* [The first intuitive programming language for quantum computers](https://www.sciencedaily.com/releases/2020/06/200615115820.htm)
-* [A plan to turn the atmosphere into an enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
 ## nytimes.com
 
 
@@ -45,13 +45,13 @@ layout: default
 * [Activists Who Marched With Dr. King Offer Lessons for Those Marching for George Floyd](https://www.nytimes.com/2020/06/17/us/civil-rights-protest-black-lives-matter.html)
 * [How Black N.Y.P.D. Officers Really Feel About the Floyd Protesters](https://www.nytimes.com/2020/06/17/nyregion/black-hispanic-officers-nypd-protests.html)
 * [Coronavirus Live Updates: Millions of Doses of Malaria Drugs in Limbo](https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html)
-* [As Coronavirus Returns to Beijing, Schools Shut and Flights Are Halted](https://www.nytimes.com/2020/06/17/world/asia/coronavirus-beijing-china.html)
+* [Trump Hydroxychloroquine Push Secured Millions of Likely Useless Coronavirus Pills](https://www.nytimes.com/2020/06/16/us/politics/trump-hydroxychloroquine-coronavirus.html)
 * [China Is Collecting DNA From Tens of Millions of Men and Boys, Using U.S. Gear](https://www.nytimes.com/2020/06/17/world/asia/China-DNA-surveillance.html)
 * [Trump Administration Sues to Try to Delay Publication of Bolton’s Book](https://www.nytimes.com/2020/06/16/us/politics/john-bolton-book-publication.html)
 * [Trump Administration to Push for ‘Reset’ of Global Tariffs](https://www.nytimes.com/2020/06/16/business/economy/trump-trade-tariffs.html)
 * [Trump Administration’s Nominee for Development Bank Chief Breaks With Protocol](https://www.nytimes.com/2020/06/17/business/Mauricio-claver-Carone-inter-american-bank.html)
 * [Trump and de Blasio, Political Opposites, Have Similar Flaws and Challenges](https://www.nytimes.com/2020/06/17/us/politics/trump-bill-de-blasio-new-york.html)
-* [The Most Vulnerable House Democrat Is Right Here in New York](https://www.nytimes.com/2020/06/17/nyregion/eliot-engel-jamaal-bowman-primary.html)
+* [Can the Most Vulnerable House Democrat Withstand a Progressive Challenger?](https://www.nytimes.com/2020/06/17/nyregion/eliot-engel-jamaal-bowman-primary.html)
 * [Europe vs. the U.S.](https://www.nytimes.com/2020/06/17/briefing/dexamethasone-india-china-john-bolton-your-wednesday-briefing.html)
 * [N.Y.C. Protests: Barclays Center’s New Identity](https://www.nytimes.com/2020/06/17/nyregion/nyc-protests.html)
 * [The Killing of Rayshard Brooks](https://www.nytimes.com/2020/06/17/podcasts/the-daily/rayshard-brooks-atlanta-killing.html)
@@ -79,9 +79,9 @@ layout: default
 * [‘When Am I Coming Home?’: A Tough Month Inside a Virus Recovery Unit](https://www.nytimes.com/2020/06/17/nyregion/coronavirus-recovery-hospital.html)
 * [Why Protest Movements Are ‘Civil’ Only in Retrospect](https://www.nytimes.com/2020/06/16/us/politics/us-protests-history-george-floyd.html)
 * [Swabs and Sensors: Memos Offer Details of Life in N.B.A. ‘Bubble’](https://www.nytimes.com/2020/06/16/sports/basketball/nba-bubble-coronavirus-disney-world.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [In N.Y.C., Bars Are Open on the Sidewalk](https://www.nytimes.com/2020/06/16/dining/drinks/outdoor-bars-nyc-coronavirus.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Copa de 1970: Brasil 1 x 0 Inglaterra, a constelação de craques em um dos grandes clássicos da história](https://oglobo.globo.com/esportes/copa-de-1970-brasil-1-0-inglaterra-constelacao-de-craques-em-um-dos-grandes-classicos-da-historia-24483396)
+* [Tiroteio entre PMs e bandidos no Complexo da Maré deixa um ferido](https://oglobo.globo.com/rio/tiroteio-entre-pms-bandidos-no-complexo-da-mare-deixa-um-ferido-24483660)
+* [Com coronavírus, setor de serviços recua 11,7% em abril](https://oglobo.globo.com/economia/com-coronavirus-setor-de-servicos-recua-117-em-abril-24483651)
+* [Volta de jovens adultos para a casa dos pais torna-se realidade em várias de famílias brasileiras com a pandemia](https://oglobo.globo.com/ela/volta-de-jovens-adultos-para-casa-dos-pais-torna-se-realidade-em-varias-de-familias-brasileiras-com-pandemia-1-24482105)
+* [Coronavírus avança no interior do Brasil: em 11 dias, número de mortes por Covid-19 dobra em Sobral](https://epoca.globo.com/brasil/coronavirus-avanca-no-interior-do-brasil-em-11-dias-numero-de-mortes-por-covid-19-dobra-em-sobral-24481794)
+* [Morre aos 28 anos Yohan, do grupo de K-pop Top Secret; causa não é revelada](https://oglobo.globo.com/cultura/morre-aos-28-anos-yohan-do-grupo-de-pop-top-secret-causa-nao-revelada-24483632)
+* [Covid já matou sete grávidas e 12 mulheres em fase pós-parto em São Paulo](https://epoca.globo.com/sociedade/covid-ja-matou-sete-gravidas-12-mulheres-em-fase-pos-parto-em-sao-paulo-24482864)
 * [Para fazer caixa, Guedes quer privatizar Correios e Eletrobras ainda este ano](https://oglobo.globo.com/economia/para-fazer-caixa-guedes-quer-privatizar-correios-eletrobras-ainda-este-ano-24483618)
-* [Presidente de Honduras testa positivo para o novo coronavírus](https://oglobo.globo.com/mundo/presidente-de-honduras-testa-positivo-para-novo-coronavirus-24483573)
-* [Coronavírus: superintendente de Orçamento da Saúde é preso em operação contra desvio de dinheiro público](https://oglobo.globo.com/rio/coronavirus-superintendente-de-orcamento-da-saude-preso-em-operacao-contra-desvio-de-dinheiro-publico-24483585)
-* [Filho de Flordelis diz à polícia que mãe tinha taco de beisebol ‘para bater nos outros’](https://oglobo.globo.com/rio/filho-de-flordelis-diz-policia-que-mae-tinha-taco-de-beisebol-para-bater-nos-outros-24483610)
-* [Brasil tem 45.467 mortes e 929.149 casos de Covid-19, aponta consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-45467-mortes-929149-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24483611)
-* [Linha 2 do Metrô volta a funcionar totalmente após descarrilamento de veículo de manutenção](https://oglobo.globo.com/rio/linha-2-do-metro-volta-funcionar-totalmente-apos-descarrilamento-de-veiculo-de-manutencao-24483596)
 * [Imigrantes latinos fizeram os Estados Unidos funcionar durante a pandemia da Covid-19](https://oglobo.globo.com/mundo/imigrantes-latinos-fizeram-os-estados-unidos-funcionar-durante-pandemia-da-covid-19-24483081)
-* [Quebra de sigilo de deputado bolsonarista mostrará se houve saques de R$ 10 mil](https://epoca.globo.com/guilherme-amado/quebra-de-sigilo-de-deputado-bolsonarista-mostrara-se-houve-saques-de-10-mil-24483161)
-* [Posse de Fábio Faria terá presença de integrantes do SBT](https://epoca.globo.com/guilherme-amado/posse-de-fabio-faria-tera-presenca-de-integrantes-do-sbt-24483048)
 * [No Itamaraty, política externa de Bolsonaro causa desânimo e temor](https://oglobo.globo.com/analitico/no-itamaraty-politica-externa-de-bolsonaro-causa-desanimo-temor-24482501)

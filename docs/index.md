@@ -2,29 +2,30 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 09:09:58 UTC
+# indexed at 17/06/2020 09:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Robpike/Lisp: Toy Lisp 1.5 interpreter in Go](https://github.com/robpike/lisp)
-* [No Paint](https://nopaint.art)
-* [The Next Step for Generics](https://blog.golang.org/generics-next-step)
-* [GitHub isn't fun anymore](https://jaredpalmer.com/github-isnt-fun-anymore)
 * [Hashcat 6.0](https://hashcat.net/forum/thread-9303.html)
+* [No Paint](https://nopaint.art)
+* [GitHub isn't fun anymore](https://jaredpalmer.com/github-isnt-fun-anymore)
+* [The Next Step for Generics](https://blog.golang.org/generics-next-step)
+* [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
-* [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
 * [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [Pyrrhic Victory](https://granolashotgun.com/2020/06/16/pyrrhic-victory/)
+* [Facebook to let users turn off political adverts](https://www.bbc.co.uk/news/business-53074995)
 * [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
-* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
-* [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
+* [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
+* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
 * [The Rust compiler isn't slow; we are](https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html)
-* [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
 * [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
+* [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
 * [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [Anteater: DevOps Security Framework](https://anteater.github.io/)
 * [Show HN: 100% offline Shamir's Secret Sharing GUI](https://simon-frey.com/s4/)
@@ -34,14 +35,13 @@ layout: default
 * [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
 * [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
-* [Show HN: A WebAssembly System Interface Implementation for Deno](https://github.com/caspervonb/deno-wasi)
+* [Study Exposes Russia Disinformation Campaign That Operated for 6 Years](https://www.npr.org/2020/06/16/878169027/study-exposes-russia-disinformation-campaign-that-operated-in-the-shadows-for-6-)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
 * [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
-* [A plan to turn the atmosphere into an enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
 ## nytimes.com
 
 
-* [Live Coronavirus Updates](https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html)
+* [Honduran President Tests Positive](https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html)
 * [Trump Hydroxychloroquine Push Secured Millions of Likely Useless Coronavirus Pills](https://www.nytimes.com/2020/06/16/us/politics/trump-hydroxychloroquine-coronavirus.html)
 * [Dexamethasone Reduces Coronavirus Deaths, Scientists Say](https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html)
 * [Reconsidering the Past, One Statue at a Time](https://www.nytimes.com/2020/06/16/us/protests-statues-reckoning.html)
@@ -52,6 +52,7 @@ layout: default
 * [Why People Are Still Avoiding the Doctor (It’s Not the Virus)](https://www.nytimes.com/2020/06/16/health/coronavirus-insurance-healthcare.html)
 * [Worst Clash in Decades on Disputed India-China Border Kills 20 Indian Troops](https://www.nytimes.com/2020/06/16/world/asia/indian-china-border-clash.html)
 * [What Is the 'Line of Actual Control' Border Between India and China?](https://www.nytimes.com/2020/06/16/world/asia/india-china-border.html)
+* [N.Y.C. Protests: Barclays Center’s New Identity](https://www.nytimes.com/2020/06/17/nyregion/nyc-protests.html)
 * [A Landmark Supreme Court Ruling](https://www.nytimes.com/2020/06/16/podcasts/the-daily/supreme-court-lgbtq.html)
 * [Conviction in the Philippines Reveals Facebook’s Dangers](https://www.nytimes.com/2020/06/16/technology/facebook-philippines.html)
 * [Stephen Fry on Reimagining the Greek Myths](https://www.nytimes.com/2020/06/12/books/review/podcast-stephen-fry-heroes-greek-myths.html)
@@ -78,20 +79,20 @@ layout: default
 * [Europe Rolls Out Contact Tracing Apps, With Hope and Trepidation](https://www.nytimes.com/2020/06/16/world/europe/contact-tracing-apps-europe-coronavirus.html)
 * [Now You Can Opt Out of Seeing Political Ads on Facebook](https://www.nytimes.com/2020/06/16/technology/opt-out-political-ads-facebook.html)
 * [The ‘Poisoned’ Shake Shack Milkshakes and an N.Y.P.D. on Edge](https://www.nytimes.com/2020/06/16/nyregion/shake-shack-police-nypd.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [So You Want to Be a Socially Distanced Orchestra](https://www.nytimes.com/2020/06/16/arts/music/classical-music-social-distancing-virus.html)
 * [A Playful Masterpiece That Expanded the Novel’s Possibilities](https://www.nytimes.com/2020/06/16/books/review-posthumous-memoirs-bras-cubas-machado-de-assis.html)
 * [The Only West End Show Still Standing](https://www.nytimes.com/2020/06/15/theater/west-end-coronavirus-horrible-histories.html)
 * [The Unexpected Beauty of ‘Dog Vomit’ and Other Slime](https://www.nytimes.com/2020/06/16/magazine/the-unexpected-beauty-of-dog-vomit-and-other-slime.html)
 * [Tiny Love Stories: ‘A Tipsy, Celebratory State of Bliss’](https://www.nytimes.com/2020/06/16/style/tiny-modern-love-stories-coronavirus-a-tipsy-celebratory-state-of-bliss.html)
-* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
-* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
 * [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
+* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [A Strawberry Cake That's a Combination of Spoonbread and Pudding Cake](https://www.nytimes.com/2020/06/15/dining/strawberry-spoon-cake.html)
 * [Families Challenge Suicide in Deaths of Black Men Found Hanging From Trees](https://www.nytimes.com/2020/06/14/us/robert-fuller-malcolm-harsch-deaths.html)
 * [Conservative Christians See ‘Seismic Implications’ in Supreme Court Ruling](https://www.nytimes.com/2020/06/15/us/lgbtq-supreme-court-religious-freedom.html)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Veículo do metrô descarrila, e linha 2 tem funcionamento parcial](https://oglobo.globo.com/rio/veiculo-do-metro-descarrila-linha-2-tem-funcionamento-parcial-24483556)
 * [Por que o Flamengo ainda não anunciou o seu novo patrocinador master](https://oglobo.globo.com/esportes/por-que-flamengo-ainda-nao-anunciou-seu-novo-patrocinador-master-24482772)
 * [Veja como fica a MP 936, que permite suspensão de contrato e redução de jornada](https://oglobo.globo.com/economia/veja-como-fica-mp-936-que-permite-suspensao-de-contrato-reducao-de-jornada-24483379)
 * [Nissan registra as patentes do híbrido que fará em Resende](https://oglobo.globo.com/economia/carros/nissan-registra-as-patentes-do-hibrido-que-fara-em-resende-24483402)
 * [Coronavírus: confira o que volta a ser permitido hoje na 2ª fase de flexibilização da quarentena do Rio](https://oglobo.globo.com/rio/coronavirus-confira-que-volta-ser-permitido-hoje-na-2-fase-de-flexibilizacao-da-quarentena-do-rio-1-24483377)
 * [A força que segura Weintraub no governo Bolsonaro](https://oglobo.globo.com/podcast/a-forca-que-segura-weintraub-no-governo-bolsonaro-1-24483297)
-* [Análise: Frustrado com falta de resultados, Kim Jong-un tenta fabricar uma crise, mas riscos são grandes](https://oglobo.globo.com/mundo/analise-frustrado-com-falta-de-resultados-kim-jong-un-tenta-fabricar-uma-crise-mas-riscos-sao-grandes-24482898)
 * [Alvos bolsonaristas miram no STF, mas PGR avalizou operação](https://epoca.globo.com/guilherme-amado/alvos-bolsonaristas-miram-no-stf-mas-pgr-avalizou-operacao-1-24483126)
-* [Pesquisa internacional: Como a crise da Covid-19 afetou você?](https://oglobo.globo.com/sociedade/coronavirus-servico/pesquisa-internacional-como-crise-da-covid-19-afetou-voce-24482936)
+* [Demanda por voos domésticos cai 91% em maio](https://epoca.globo.com/guilherme-amado/demanda-por-voos-domesticos-cai-91-em-maio-24482995)
 * [Volta de jovens adultos para a casa dos pais torna-se realidade em várias de famílias brasileiras com a pandemia](https://oglobo.globo.com/ela/volta-de-jovens-adultos-para-casa-dos-pais-torna-se-realidade-em-varias-de-familias-brasileiras-com-pandemia-1-24482105)
 * [Kyra Gracie: 'Busco inspirar mulheres e mostrar que qualquer uma pode aprender a se defender'](https://oglobo.globo.com/celina/kyra-gracie-busco-inspirar-mulheres-mostrar-que-qualquer-uma-pode-aprender-se-defender-24464784)

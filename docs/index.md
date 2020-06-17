@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 06:10:56 UTC
+# indexed at 17/06/2020 06:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [No Paint](https://nopaint.art)
 * [The Next Step for Generics](https://blog.golang.org/generics-next-step)
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
+* [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
 * [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
-* [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
-* [Hiring and the Market for Lemons (2016)](http://danluu.com/hiring-lemons/)
 * [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
-* [Polyphasic Sleep Is Unsustainable](https://trickle.app/drip/24112-polyphasic-sleep-takes-napping-to-the-extreme/)
+* [Hiring and the Market for Lemons (2016)](http://danluu.com/hiring-lemons/)
 * [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
-* [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
+* [Polyphasic Sleep Is Unsustainable](https://trickle.app/drip/24112-polyphasic-sleep-takes-napping-to-the-extreme/)
+* [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
-* [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
 * [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
+* [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
+* [Apple’s Rejection of Hey from the App Store for Not Using In-App Purchases](https://daringfireball.net/2020/06/hey_app_store_rejection_flimsiness?df)
 * [Show HN: 100% offline Shamir's Secret Sharing GUI](https://simon-frey.com/s4/)
 * [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595)
 * [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
-* [Apple’s Rejection of Hey from the App Store for Not Using In-App Purchases](https://daringfireball.net/2020/06/hey_app_store_rejection_flimsiness?df)
 * [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
+* [A plan to turn the atmosphere into an enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
+* [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
-* [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
-* [A plan to turn the atmosphere into an enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
 * [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
+* ['Quake III Arena' Bots Decide to Stop Fighting After 4-Year Match (2013)](https://www.forbes.com/sites/erikkain/2013/07/02/quake-iii-arena-bots-reportedly-stop-fighting-after-4-year-match/#5aab55076233)
 * [The Perfect Wave Is Coming (2016)](http://oceans.nautil.us/feature/572/the-perfect-wave-is-coming)
-* [Google bans ZeroHedge and The Federalist from its ad platform](https://www.cnbc.com/2020/06/16/google-bans-zerohedge-and-the-federalist-from-its-ad-platform.html)
-* [Venezuela is a testing ground for digital dollarization, Zelle doesn’t like it](https://www.coindesk.com/venezuela-is-a-testing-ground-for-digital-dollarization-and-zelle-doesnt-like-it)
 * [3K, 60fps, 130ms: achieving it with Rust](https://blog.tonari.no/why-we-love-rust)
+* [Google bans ZeroHedge and The Federalist from its ad platform](https://www.cnbc.com/2020/06/16/google-bans-zerohedge-and-the-federalist-from-its-ad-platform.html)
 ## nytimes.com
 
 
@@ -79,20 +79,20 @@ layout: default
 * [Europe Rolls Out Contact Tracing Apps, With Hope and Trepidation](https://www.nytimes.com/2020/06/16/world/europe/contact-tracing-apps-europe-coronavirus.html)
 * [Now You Can Opt Out of Seeing Political Ads on Facebook](https://www.nytimes.com/2020/06/16/technology/opt-out-political-ads-facebook.html)
 * [The ‘Poisoned’ Shake Shack Milkshakes and an N.Y.P.D. on Edge](https://www.nytimes.com/2020/06/16/nyregion/shake-shack-police-nypd.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [So You Want to Be a Socially Distanced Orchestra](https://www.nytimes.com/2020/06/16/arts/music/classical-music-social-distancing-virus.html)
 * [A Playful Masterpiece That Expanded the Novel’s Possibilities](https://www.nytimes.com/2020/06/16/books/review-posthumous-memoirs-bras-cubas-machado-de-assis.html)
 * [The Only West End Show Still Standing](https://www.nytimes.com/2020/06/15/theater/west-end-coronavirus-horrible-histories.html)
 * [The Unexpected Beauty of ‘Dog Vomit’ and Other Slime](https://www.nytimes.com/2020/06/16/magazine/the-unexpected-beauty-of-dog-vomit-and-other-slime.html)
 * [Tiny Love Stories: ‘A Tipsy, Celebratory State of Bliss’](https://www.nytimes.com/2020/06/16/style/tiny-modern-love-stories-coronavirus-a-tipsy-celebratory-state-of-bliss.html)
-* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
-* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
+* [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
+* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [A Strawberry Cake That's a Combination of Spoonbread and Pudding Cake](https://www.nytimes.com/2020/06/15/dining/strawberry-spoon-cake.html)
 * [Conservative Christians See ‘Seismic Implications’ in Supreme Court Ruling](https://www.nytimes.com/2020/06/15/us/lgbtq-supreme-court-religious-freedom.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,7 +102,7 @@ layout: default
 
 
 * [Arbitral mantém datas e acaba sem acordo com Fluminense e Botafogo; Carioca tende a parar na Justiça](https://oglobo.globo.com/esportes/arbitral-mantem-datas-acaba-sem-acordo-com-fluminense-botafogo-carioca-tende-parar-na-justica-24483448)
-* [Bolsonaro diz que governo tem reagido com ‘cautela’ diante de 'ataques concretos'](https://oglobo.globo.com/brasil/bolsonaro-diz-que-governo-tem-reagido-com-cautela-diante-de-ataques-concretos-1-24483477)
+* [Como o Flamengo prepara o Maracanã para volta do Carioca](https://oglobo.globo.com/esportes/como-flamengo-prepara-maracana-para-volta-do-carioca-24483006)
 * [Um sanatório chamado Maracanã](https://oglobo.globo.com/opiniao/umsanatoriochamadomaracana-24482522)
 * [Tabu quebrado](https://oglobo.globo.com/opiniao/tabu-quebrado-24481072)
 * [A chance afinal do saneamento básico](https://oglobo.globo.com/opiniao/a-chance-afinal-do-saneamento-basico-24483150)

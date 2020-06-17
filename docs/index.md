@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 02:34:46 UTC
+# indexed at 17/06/2020 03:09:56 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Next Step for Generics](https://blog.golang.org/generics-next-step)
+* [No Paint](https://nopaint.art)
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
-* [No Paint](https://nopaint.art)
-* [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
-* [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
-* [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
 * [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
+* [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
 * [How normie minimalism and farmhouse chic took over contemporary design](https://hyperallergic.com/566183/how-normie-minimalism-and-farmhouse-chic-took-over-contemporary-design/)
+* [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
+* [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
 * [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
 * [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
@@ -25,19 +25,19 @@ layout: default
 * [A Jupyter Kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
 * [CIA hacking unit failed to protect its systems, allowing Vault 7 disclosure](https://www.washingtonpost.com/national-security/elite-cia-unit-that-developed-hacking-tools-failed-to-secure-its-own-systems-allowing-massive-leak-an-internal-report-found/2020/06/15/502e3456-ae9d-11ea-8f56-63f38c990077_story.html)
 * [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
-* [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
-* [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
+* [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
+* [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
 * [Google bans ZeroHedge and The Federalist from its ad platform](https://www.cnbc.com/2020/06/16/google-bans-zerohedge-and-the-federalist-from-its-ad-platform.html)
+* [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
+* [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
+* [A plan to turn the atmosphere into one, enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
+* [Polyphasic Sleep Is Unsustainable](https://trickle.app/drip/24112-polyphasic-sleep-takes-napping-to-the-extreme/)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
+* [Political groups use “deeply spooky” protester location data, report finds](https://arstechnica.com/tech-policy/2020/06/political-groups-use-deeply-spooky-protester-location-data-report-finds/)
 * [Avro Arrow – The record-breaking jet which still haunts a country](https://www.bbc.com/future/article/20200615-the-record-breaking-jet-which-still-haunts-a-country)
 * [Venezuela is a testing ground for digital dollarization, Zelle doesn’t like it](https://www.coindesk.com/venezuela-is-a-testing-ground-for-digital-dollarization-and-zelle-doesnt-like-it)
 * [3K, 60fps, 130ms: achieving it with Rust](https://blog.tonari.no/why-we-love-rust)
-* [My First Homemade Pedalboard](https://0ut3r.space/2020/06/16/handmade-pedalboard/)
-* [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
 * [Project Covalence](https://blog.samaltman.com/project-covalence)
-* [Ingredients for life appear in stellar nurseries long before stars are born](https://phys.org/news/2020-06-ingredients-life-stellar-nurseries-stars.html)
-* [Show HN: Findka – Personalized recommendations for any type of content](https://findka.com)
-* [Chargen: Good Intentions on the Old-Timey Internet](https://somanymachines.com/tx/character-generator-protocol/)
 ## nytimes.com
 
 
@@ -72,28 +72,28 @@ layout: default
 * [How a BMW and a Truck Full of Leather Shoes Helped Me Get to America](https://www.nytimes.com/2020/06/09/magazine/how-a-bmw-and-a-truck-full-of-leather-shoes-helped-me-get-to-america.html)
 * [BIPOC: What Does It Mean?](https://www.nytimes.com/article/what-is-bipoc.html)
 * [PG&E Pleads Guilty to 84 Counts of Manslaughter in Camp Fire Case](https://www.nytimes.com/2020/06/16/business/energy-environment/pge-camp-fire-california-wildfires.html)
-* [Schools Shut in Beijing as Coronavirus Flares](https://www.nytimes.com/2020/06/16/world/asia/Beijing-coronavirus-flareup.html)
+* [Justice Dept. Official to Exit, Signaling Third Departure in Recent Days](https://www.nytimes.com/2020/06/16/us/politics/justice-department-jody-hunt.html)
 * [Man Charged With Sending Racist Threats to Philadelphia Police Leader](https://www.nytimes.com/2020/06/16/us/danielle-outlaw-peter-fratus-threats.html)
-* [Iowa Governor Will Restore Voting Rights to Paroled Felons](https://www.nytimes.com/2020/06/16/us/politics/iowa-felons-voting-rights.html)
+* [Schools Shut in Beijing as Coronavirus Flares](https://www.nytimes.com/2020/06/16/world/asia/Beijing-coronavirus-flareup.html)
 * [Oklahoma State’s Gundy Apologizes for Wearing Shirt of Right-Wing Channel](https://www.nytimes.com/2020/06/16/sports/ncaafootball/mike-gundy-apologizes-oklahoma-state.html)
 * [Fat Rice Employees Say the Chef Abe Conlon Created a Hostile Work Environment](https://www.nytimes.com/2020/06/16/dining/fat-rice-chicago-abe-conlon-racism.html)
 * [Arizona Wildfires Force Hundreds to Evacuate as Coronavirus Cases Surge](https://www.nytimes.com/2020/06/16/us/arizona-bush-fire-coronavirus.html)
 * [Now You Can Opt Out of Seeing Political Ads on Facebook](https://www.nytimes.com/2020/06/16/technology/opt-out-political-ads-facebook.html)
 * [The ‘Poisoned’ Shake Shack Milkshakes and an N.Y.P.D. on Edge](https://www.nytimes.com/2020/06/16/nyregion/shake-shack-police-nypd.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
+* [It’s Not Too Late to Get a Virtual Internship](https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [How to Have a Safer Pandemic Memorial Day](https://www.nytimes.com/2020/05/22/well/live/coronavirus-pandemic-memorial-day-picnics-bbqs.html)
+* [Parents Are Relying on Melatonin to Help Their Kids Sleep. Should They?](https://www.nytimes.com/2020/05/18/parenting/melatonin-sleep-kids.html)
 * [So You Want to Be a Socially Distanced Orchestra](https://www.nytimes.com/2020/06/16/arts/music/classical-music-social-distancing-virus.html)
 * [A Playful Masterpiece That Expanded the Novel’s Possibilities](https://www.nytimes.com/2020/06/16/books/review-posthumous-memoirs-bras-cubas-machado-de-assis.html)
 * [The Only West End Show Still Standing](https://www.nytimes.com/2020/06/15/theater/west-end-coronavirus-horrible-histories.html)
 * [The Unexpected Beauty of ‘Dog Vomit’ and Other Slime](https://www.nytimes.com/2020/06/16/magazine/the-unexpected-beauty-of-dog-vomit-and-other-slime.html)
 * [Tiny Love Stories: ‘A Tipsy, Celebratory State of Bliss’](https://www.nytimes.com/2020/06/16/style/tiny-modern-love-stories-coronavirus-a-tipsy-celebratory-state-of-bliss.html)
-* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
-* [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
-* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Watch This Black Hole Blow Bubbles](https://www.nytimes.com/2020/06/05/science/black-hole-astronomy.html)
+* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
+* [How to Think About Pregnancy Risks](https://www.nytimes.com/2020/06/15/upshot/pregnancy-babies-risks.html)
+* [Mass Extinctions Are Accelerating, Scientists Report](https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html)
 * [Trump’s Niece, Mary Trump, to Publish Book With ‘Harrowing’ Revelations](https://www.nytimes.com/2020/06/15/books/mary-trump-book.html)
 * [Trump's Walk Down Ramp at West Point Raises Health Questions](https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,6 +102,8 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro diz que governo tem reagido com ‘cautela’ diante de 'ataques concretos'](https://oglobo.globo.com/brasil/bolsonaro-diz-que-governo-tem-reagido-com-cautela-diante-de-ataques-concretos-1-24483477)
+* [Rio envia proposta de R$ 1,7 bilhão para tentar salvar ajuste fiscal do estado](https://oglobo.globo.com/rio/rio-envia-proposta-de-17-bilhao-para-tentar-salvar-ajuste-fiscal-do-estado-24483474)
 * [Proposta de nova metodologia promete baratear e ampliar testagem para Covid-19](https://oglobo.globo.com/sociedade/proposta-de-nova-metodologia-promete-baratear-ampliar-testagem-para-covid-19-24483200)
 * [Anitta fará live nesta quarta-feira: saiba o tema](https://epoca.globo.com/guilherme-amado/anitta-fara-live-nesta-quarta-feira-saiba-tema-24483295)
 * [Depois de explodir escritório de relações com o Sul, Coreia do Norte rejeita oferta de negociação](https://oglobo.globo.com/mundo/depois-de-explodir-escritorio-de-relacoes-com-sul-coreia-do-norte-rejeita-oferta-de-negociacao-24483174)
@@ -109,6 +111,4 @@ layout: default
 * [Senado aprova proposta que obriga governo a fornecer UTI e testes rápidos a índios e quilombolas](https://oglobo.globo.com/sociedade/senado-aprova-proposta-que-obriga-governo-fornecer-uti-testes-rapidos-indios-quilombolas-1-24483184)
 * [Hospital de campanha de São Gonçalo será entregue na próxima quinta-feira, garante Secretaria de Saúde](https://oglobo.globo.com/rio/hospital-de-campanha-de-sao-goncalo-sera-entregue-na-proxima-quinta-feira-garante-secretaria-de-saude-24483090)
 * [Consumo de gás natural canalizado cai 25% em abril](https://oglobo.globo.com/economia/consumo-de-gas-natural-canalizado-cai-25-em-abril-24483099)
-* [Mesmo presa, Sara Geromini segue com redes à toda](https://epoca.globo.com/guilherme-amado/mesmo-presa-sara-geromini-segue-com-redes-toda-24483085)
-* [Estado do Rio registra 239 mortes por coronavírus em 24 horas, maior número em doze dias](https://oglobo.globo.com/rio/estado-do-rio-registra-239-mortes-por-coronavirus-em-24-horas-maior-numero-em-doze-dias-24483047)
-* [Pandemia atinge teste do pezinho, que pode evitar sequelas e mortes de bebês; quedas são alarmantes, diz especialista](https://oglobo.globo.com/sociedade/pandemia-atinge-teste-do-pezinho-que-pode-evitar-sequelas-mortes-de-bebes-quedas-sao-alarmantes-diz-especialista-24483051)
+* [Lives de hoje: Chitãozinho & Xororó, Sepultura e Vitor Kley](https://oglobo.globo.com/rioshow/lives-de-hoje-chitaozinho-xororo-sepultura-vitor-kley-24482292)

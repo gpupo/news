@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 08:11:13 UTC
+# indexed at 17/06/2020 08:34:42 UTC
 
 
 ## news.ycombinator.com
 
 
-* [No Paint](https://nopaint.art)
 * [Robpike/Lisp: Toy Lisp 1.5 interpreter in Go](https://github.com/robpike/lisp)
+* [No Paint](https://nopaint.art)
 * [The Next Step for Generics](https://blog.golang.org/generics-next-step)
-* [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
 * [GitHub isn't fun anymore](https://jaredpalmer.com/github-isnt-fun-anymore)
+* [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
 * [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
+* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
 * [Pyrrhic Victory](https://granolashotgun.com/2020/06/16/pyrrhic-victory/)
 * [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
-* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
-* [Apple’s Rejection of Hey from the App Store for Not Using In-App Purchases](https://daringfireball.net/2020/06/hey_app_store_rejection_flimsiness?df)
-* [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
 * [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
+* [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
 * [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
 * [Anteater: DevOps Security Framework](https://anteater.github.io/)
 * [Show HN: 100% offline Shamir's Secret Sharing GUI](https://simon-frey.com/s4/)
 * [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595)
 * [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
-* [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
 * [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
+* [FreeBSD 11.4](https://www.freebsd.org/releases/11.4R/announce.html)
 * [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
 * [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
 * [Functional Programming for Array-Based Parallelism](https://www.infoq.com/presentations/functional-programming-parallelism/)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
-* [A plan to turn the atmosphere into an enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
 * [Polyphasic sleep takes napping to the extreme](https://trickle.app/drip/24112-polyphasic-sleep-takes-napping-to-the-extreme/)
+* [A plan to turn the atmosphere into an enormous sensor](https://www.economist.com/science-and-technology/2020/06/11/a-plan-to-turn-the-atmosphere-into-one-enormous-sensor)
 * [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+* [Google bans ZeroHedge and The Federalist from its ad platform](https://www.cnbc.com/2020/06/16/google-bans-zerohedge-and-the-federalist-from-its-ad-platform.html)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Europe Rolls Out Contact Tracing Apps, With Hope and Trepidation](https://www.nytimes.com/2020/06/16/world/europe/contact-tracing-apps-europe-coronavirus.html)
 * [Now You Can Opt Out of Seeing Political Ads on Facebook](https://www.nytimes.com/2020/06/16/technology/opt-out-political-ads-facebook.html)
 * [The ‘Poisoned’ Shake Shack Milkshakes and an N.Y.P.D. on Edge](https://www.nytimes.com/2020/06/16/nyregion/shake-shack-police-nypd.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
+* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [So You Want to Be a Socially Distanced Orchestra](https://www.nytimes.com/2020/06/16/arts/music/classical-music-social-distancing-virus.html)
 * [A Playful Masterpiece That Expanded the Novel’s Possibilities](https://www.nytimes.com/2020/06/16/books/review-posthumous-memoirs-bras-cubas-machado-de-assis.html)
 * [The Only West End Show Still Standing](https://www.nytimes.com/2020/06/15/theater/west-end-coronavirus-horrible-histories.html)
@@ -100,9 +100,9 @@ layout: default
 ## globo.com
 
 
+* [Por que o Flamengo ainda não anunciou o seu novo patrocinador master](https://oglobo.globo.com/esportes/por-que-flamengo-ainda-nao-anunciou-seu-novo-patrocinador-master-24482772)
 * [Veja como fica a MP 936, que permite suspensão de contrato e redução de jornada](https://oglobo.globo.com/economia/veja-como-fica-mp-936-que-permite-suspensao-de-contrato-reducao-de-jornada-24483379)
 * [Nissan registra as patentes do híbrido que fará em Resende](https://oglobo.globo.com/economia/carros/nissan-registra-as-patentes-do-hibrido-que-fara-em-resende-24483402)
-* [Para fazer caixa, Guedes quer quatro privatizações para 2020. Correios e Eletrobras estão na lista](https://oglobo.globo.com/economia/para-fazer-caixa-guedes-quer-quatro-privatizacoes-para-2020-correios-eletrobras-estao-na-lista-24483205)
 * [Saiba como e quando será a reabertura de Machu Picchu, no Peru, aos turistas](https://oglobo.globo.com/boa-viagem/saiba-como-quando-sera-reabertura-de-machu-picchu-no-peru-aos-turistas-24483537)
 * [Coronavírus: confira o que volta a ser permitido hoje na 2ª fase de flexibilização da quarentena do Rio](https://oglobo.globo.com/rio/coronavirus-confira-que-volta-ser-permitido-hoje-na-2-fase-de-flexibilizacao-da-quarentena-do-rio-1-24483377)
 * [A força que segura Weintraub no governo Bolsonaro](https://oglobo.globo.com/podcast/a-forca-que-segura-weintraub-no-governo-bolsonaro-1-24483297)

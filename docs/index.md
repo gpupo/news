@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/06/2020 12:13:12 UTC
+# indexed at 17/06/2020 12:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [No Paint](https://nopaint.art)
 * [Pyrrhic Victory](https://granolashotgun.com/2020/06/16/pyrrhic-victory/)
 * [Operating a Tor Relay](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html)
+* [Mutant garden (cartesian genetic programming)](https://mutant.garden/)
+* [A gentle introduction to pointers using C (2019)](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 * [Fighting poverty accidentally stopped deforestation](https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation)
 * [Shopify goes after Amazon with new Walmart deal](https://www.axios.com/shopify-amazon-deal-walmart-c5a76abf-5d5f-44eb-88ad-9d1c5e6428ad.html)
-* [Mutant garden (cartesian genetic programming)](https://mutant.garden/)
+* [Justice Department to Propose Limiting Internet Firms’ Protections](https://www.wsj.com/articles/justice-department-to-propose-limiting-internet-firms-protections-11592391602)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [Announce bad news without lying to your team](https://deliverydoubled.com/announce-bad-news-without-lying-to-your-team-avoid-my-damaging-rookie-mistakes/)
-* [A gentle introduction to pointers using C (2019)](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 * [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.researchgate.net/publication/232271307_A_difficult_case_Diagnosis_made_by_hallucinatory_voices)
 * [The Next Step for Generics](https://blog.golang.org/generics-next-step)
-* [Justice Department to Propose Limiting Internet Firms’ Protections](https://www.wsj.com/articles/justice-department-to-propose-limiting-internet-firms-protections-11592391602)
-* [The Rust compiler isn't slow; we are](https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html)
+* [Show HN: I am trying to start a webring for geeks](https://geekring.net/)
 * [Drive through cities in the browser while listening to local radio stations](https://driveandlisten.herokuapp.com/)
 * [Bootstrap 5 alpha](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
-* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
 * [Body by Victoria (2009)](http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html)
-* [A shared file system for  lambda functions](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
 * [My First Homemade Pedalboard](https://0ut3r.space/2020/06/16/handmade-pedalboard/)
 * [Canada extends financial aid for millions for two more months](https://www.cbc.ca/news/politics/cerb-extended-trudeau-1.5613782)
-* [For black CEOs in Silicon Valley, humiliation is a part of doing business](https://www.bloomberg.com/news/articles/2020-06-16/black-lives-matter-highlights-adversity-facing-black-tech-ceos)
-* [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
 * [Anteater: DevOps Security Framework](https://anteater.github.io/)
-* [Trying something again](https://blog.cynically.moe/blog/tech_thoughts/trying_something_again.md)
+* [FFmpeg 4.3](http://ffmpeg.org/download.html#release_4.3)
+* [Dear Apple: Here’s How to Stop the Antitrust Investigations](https://astropad.com/dear-apple/)
 * [Discovering How the Brain Works Through Computation](https://engineering.columbia.edu/press-releases/discovering-how-brain-works-through-computation)
 * [Nested Transactions in CockroachDB 20.1](https://www.cockroachlabs.com/blog/nested-transactions-in-cockroachdb-20-1/)
+* [The Rust compiler isn't slow; we are](https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html)
+* [Show HN: A WebAssembly System Interface Implementation for Deno](https://github.com/caspervonb/deno-wasi)
+* [Paper Airplane Designs](https://www.foldnfly.com/index.html#/1-1-1-1-1-1-1-1-2)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [‘When Am I Coming Home?’: A Tough Month Inside a Virus Recovery Unit](https://www.nytimes.com/2020/06/17/nyregion/coronavirus-recovery-hospital.html)
 * [Why Protest Movements Are ‘Civil’ Only in Retrospect](https://www.nytimes.com/2020/06/16/us/politics/us-protests-history-george-floyd.html)
 * [Swabs and Sensors: Memos Offer Details of Life in N.B.A. ‘Bubble’](https://www.nytimes.com/2020/06/16/sports/basketball/nba-bubble-coronavirus-disney-world.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [In N.Y.C., Bars Are Open on the Sidewalk](https://www.nytimes.com/2020/06/16/dining/drinks/outdoor-bars-nyc-coronavirus.html)
 * [The Premier League Is Back. England’s Griping About It Never Stopped.](https://www.nytimes.com/2020/06/17/sports/soccer/premier-league-return.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [5 perguntas sobre o mercado bilionário por trás de função de pagamentos do WhatsApp](https://epoca.globo.com/economia/5-perguntas-sobre-mercado-bilionario-por-tras-de-funcao-de-pagamentos-do-whatsapp-24483692)
+* ['Está chegando a hora de tudo ser colocado no devido lugar', diz Bolsonaro](https://oglobo.globo.com/brasil/esta-chegando-hora-de-tudo-ser-colocado-no-devido-lugar-diz-bolsonaro-24483690)
+* [Com coronavírus, setor de serviços recua 11,7% em abril](https://oglobo.globo.com/economia/com-coronavirus-setor-de-servicos-recua-117-em-abril-24483651)
+* [Dólar recua, negociado na faixa de R$ 5,20, à espera de decisão sobre juros no Brasil](https://oglobo.globo.com/economia/dolar-recua-negociado-na-faixa-de-520-espera-de-decisao-sobre-juros-no-brasil-24483681)
+* [Horas após fiscal ser alvo de operação, Witzel decide demiti-lo, desengavetando pedido feito em fevereiro](https://oglobo.globo.com/rio/horas-apos-fiscal-ser-alvo-de-operacao-witzel-decide-demiti-lo-desengavetando-pedido-feito-em-fevereiro-24483668)
 * [Copa de 1970: Brasil 1 x 0 Inglaterra, a constelação de craques em um dos grandes clássicos da história](https://oglobo.globo.com/esportes/copa-de-1970-brasil-1-0-inglaterra-constelacao-de-craques-em-um-dos-grandes-classicos-da-historia-24483396)
 * [Tiroteio entre PMs e bandidos no Complexo da Maré deixa um ferido](https://oglobo.globo.com/rio/tiroteio-entre-pms-bandidos-no-complexo-da-mare-deixa-um-ferido-24483660)
-* [Com coronavírus, setor de serviços recua 11,7% em abril](https://oglobo.globo.com/economia/com-coronavirus-setor-de-servicos-recua-117-em-abril-24483651)
 * [Volta de jovens adultos para a casa dos pais torna-se realidade em várias de famílias brasileiras com a pandemia](https://oglobo.globo.com/ela/volta-de-jovens-adultos-para-casa-dos-pais-torna-se-realidade-em-varias-de-familias-brasileiras-com-pandemia-1-24482105)
 * [Coronavírus avança no interior do Brasil: em 11 dias, número de mortes por Covid-19 dobra em Sobral](https://epoca.globo.com/brasil/coronavirus-avanca-no-interior-do-brasil-em-11-dias-numero-de-mortes-por-covid-19-dobra-em-sobral-24481794)
 * [Morre aos 28 anos Yohan, do grupo de K-pop Top Secret; causa não é revelada](https://oglobo.globo.com/cultura/morre-aos-28-anos-yohan-do-grupo-de-pop-top-secret-causa-nao-revelada-24483632)
-* [Covid já matou sete grávidas e 12 mulheres em fase pós-parto em São Paulo](https://epoca.globo.com/sociedade/covid-ja-matou-sete-gravidas-12-mulheres-em-fase-pos-parto-em-sao-paulo-24482864)
-* [Para fazer caixa, Guedes quer privatizar Correios e Eletrobras ainda este ano](https://oglobo.globo.com/economia/para-fazer-caixa-guedes-quer-privatizar-correios-eletrobras-ainda-este-ano-24483618)
-* [Imigrantes latinos fizeram os Estados Unidos funcionar durante a pandemia da Covid-19](https://oglobo.globo.com/mundo/imigrantes-latinos-fizeram-os-estados-unidos-funcionar-durante-pandemia-da-covid-19-24483081)
-* [No Itamaraty, política externa de Bolsonaro causa desânimo e temor](https://oglobo.globo.com/analitico/no-itamaraty-politica-externa-de-bolsonaro-causa-desanimo-temor-24482501)

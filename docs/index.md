@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 05:09:35 UTC
+# indexed at 18/06/2020 05:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Who the Hell Is This Joyce (1928)](https://www.theparisreview.org/blog/2016/09/21/who-the-hell-is-this-joyce/)
 * [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
 * [YC's Startup School Relaunching as Continuous Program](https://blog.ycombinator.com/startup-school-relaunch/)
-* [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
 * [Image GPT](https://openai.com/blog/image-gpt/)
+* [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
+* [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
 * [Farewell Etaoin Shrdlu (1980) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
 * [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
 * [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
-* [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
 * [Postbank to replace 12M bank cards after employees steal 'master key'](https://www.timeslive.co.za/sunday-times/news/2020-06-14-postbank-forced-to-replace-12-million-bank-cards-after-employees-steal-master-key/)
 * [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
-* [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
+* [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
 * [Where Is the DNS Headed?](https://www.potaroo.net/ispcol/2020-06/row.html)
 * [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
 * [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
-* [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
 * [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
-* [Apollo – Funding for Moonshots](https://apolloprojects.com/)
 * [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
+* [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
+* [Apollo – Funding for Moonshots](https://apolloprojects.com/)
+* [PyPy: A Faster Python Implementation](https://www.pypy.org/index.html)
 * [State of Linux Desktop Security](https://bjornpagen.com/blog/linux-security)
 * [Deep JavaScript: Theory and Techniques](https://exploringjs.com/deep-js/)
 * [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
-* [PyPy: A Faster Python Implementation](https://www.pypy.org/index.html)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [5 Years After Charleston Church Massacre, City Says Calhoun Statue Will Go](https://www.nytimes.com/2020/06/17/us/charleston-sc-shooting-calhoun-statue.html)
 * [As Kim Jong-un Turns Hostile to South Korea, His Sister Does the Talking](https://www.nytimes.com/2020/06/17/world/asia/north-korea-kim-yo-jong.html)
 * [Before Crash That Killed Kobe Bryant, Helicopter Service Raised Weather Concerns](https://www.nytimes.com/2020/06/17/us/kobe-bryant-crash-weather-concerns.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
+* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [As London Bookstores Reopen, Eager Readers Return](https://www.nytimes.com/2020/06/17/books/london-bookstores-reopen-coronavirus.html)
 * [How Should I Think About Race When Considering a Sperm Donor?](https://www.nytimes.com/2020/06/16/magazine/how-should-i-think-about-race-when-considering-a-sperm-donor.html)
 * [‘The Bureau’ Is an International Hit. Why Did Its Creator Hand It Off?](https://www.nytimes.com/2020/06/17/arts/television/the-bureau-season-5-jacques-audiard.html)

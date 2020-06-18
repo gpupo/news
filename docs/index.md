@@ -2,24 +2,25 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 07:10:21 UTC
+# indexed at 18/06/2020 07:34:43 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO)
+* [The CNIL publishes a GDPR guide for developers](https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers)
 * [The Magnetic Amplifier – A Lost Technology of the 1950s](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier)
 * [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
 * [Reverse Engineering Snapchat: Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
 * [LibriVox: Free Public Domain Audiobooks](https://librivox.org/)
-* [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
+* [A Graphical Introduction to Lattices](https://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [Who the Hell Is This Joyce (1928)](https://www.theparisreview.org/blog/2016/09/21/who-the-hell-is-this-joyce/)
+* [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
 * [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
 * [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
 * [Image GPT](https://openai.com/blog/image-gpt/)
 * [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
-* [A Graphical Introduction to Lattices](https://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
 * [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
 * [State of Linux Desktop Security](https://bjornpagen.com/blog/linux-security)
@@ -34,10 +35,9 @@ layout: default
 * [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
 * [Apollo – Funding for Moonshots](https://apolloprojects.com/)
 * [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
-* [Patchmap: Memory Efficient Hash Tables and Pseudorandom Ordering](https://1ykos.github.io/patchmap/)
 * [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
 * [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
-* [PyPy: A Faster Python Implementation](https://www.pypy.org/index.html)
+* [Patchmap: Memory Efficient Hash Tables and Pseudorandom Ordering](https://1ykos.github.io/patchmap/)
 ## nytimes.com
 
 
@@ -47,9 +47,9 @@ layout: default
 * [Officer Charged With Murder in Rayshard Brooks Killing](https://www.nytimes.com/2020/06/17/us/black-lives-matter-george-floyd-police.html)
 * [Uncle Ben and Mrs. Butterworth Feel the Heat Following Aunt Jemima Announcement](https://www.nytimes.com/2020/06/17/business/aunt-jemima-mrs-butterworth-uncle-ben.html)
 * [De Blasio, Pressured on Policing, Acts to Toughen Discipline](https://www.nytimes.com/2020/06/17/nyregion/police-reform-nypd.html)
+* [England’s ‘World Beating’ System to Track Coronavirus Is Anything But](https://www.nytimes.com/2020/06/17/world/europe/uk-contact-tracing-coronavirus.html)
 * [With the Federal Health Megaphone Silent, States Struggle With a Shifting Pandemic](https://www.nytimes.com/2020/06/17/us/politics/coronavirus-pandemic-federal-response.html)
-* [Beijing’s Partial Lockdown a Sign of the World’s New Normal](https://www.nytimes.com/2020/06/17/world/asia/coronavirus-beijing-china.html)
-* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html)
+* [Coronavirus Fears in China Find a New Target: Salmon](https://www.nytimes.com/2020/06/18/world/asia/coronavirus-china-salmon.html)
 * [Does Trump Want to Fight to Win 2020 Election? His Aides Are Worried.](https://www.nytimes.com/2020/06/17/us/politics/trump-2020-election.html)
 * [Tulsa Braces for Trump Rally’s Health Threat as Virus Cases Rise](https://www.nytimes.com/2020/06/17/us/politics/tulsa-rally-trump.html)
 * [On L.G.B.T.Q. Rights, a Gulf Between Trump and Many Republican Voters](https://www.nytimes.com/2020/06/17/us/politics/lgbtq-supreme-court-trump-republicans.html)
@@ -77,19 +77,19 @@ layout: default
 * [5 Years After Charleston Church Massacre, City Says Calhoun Statue Will Go](https://www.nytimes.com/2020/06/17/us/charleston-sc-shooting-calhoun-statue.html)
 * [As Kim Jong-un Turns Hostile to South Korea, His Sister Does the Talking](https://www.nytimes.com/2020/06/17/world/asia/north-korea-kim-yo-jong.html)
 * [Before Crash That Killed Kobe Bryant, Helicopter Service Raised Weather Concerns](https://www.nytimes.com/2020/06/17/us/kobe-bryant-crash-weather-concerns.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [As London Bookstores Reopen, Eager Readers Return](https://www.nytimes.com/2020/06/17/books/london-bookstores-reopen-coronavirus.html)
 * [How Should I Think About Race When Considering a Sperm Donor?](https://www.nytimes.com/2020/06/16/magazine/how-should-i-think-about-race-when-considering-a-sperm-donor.html)
 * [‘The Bureau’ Is an International Hit. Why Did Its Creator Hand It Off?](https://www.nytimes.com/2020/06/17/arts/television/the-bureau-season-5-jacques-audiard.html)
 * [2 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/06/17/arts/design/2-art-gallery-shows-to-explore-from-home.html)
 * [12 Hidden Gems to Play on the Nintendo Switch](https://www.nytimes.com/2020/06/17/arts/nintendo-switch-recommendations.html)
+* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
 * [Where Protesters Go, Street Medics Follow](https://www.nytimes.com/2020/06/09/health/unrest-protests-street-medics.html)
 * [The Return of the Platypuses](https://www.nytimes.com/2020/06/16/science/platypuses-australia-wildfires.html)
-* [A Single Session of Exercise Alters 9,815 Molecules in Our Blood](https://www.nytimes.com/2020/06/10/well/move/a-single-session-of-exercise-alters-9815-molecules-in-our-blood.html)
 * [Flushing the Toilet May Fling Coronavirus Aerosols All Over](https://www.nytimes.com/2020/06/16/health/coronavirus-toilets-flushing.html)
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
 * [Eleanor Carol Leavell Barr, Wife of Rep. Andy Barr, Dies at 39](https://www.nytimes.com/2020/06/17/us/politics/carol-barr-dead.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Mais limpeza, flexibilidade e privacidade: como será o Airbnb depois da pandemia](https://oglobo.globo.com/boa-viagem/mais-limpeza-flexibilidade-privacidade-como-sera-airbnb-depois-da-pandemia-24484482)
-* [Américas se tornam maior destino de refugiados do mundo, aponta relatório da ONU](https://oglobo.globo.com/mundo/americas-se-tornam-maior-destino-de-refugiados-do-mundo-aponta-relatorio-da-onu-1-24485225)
-* [Volta do futebol é mais um ato do desastroso Brasil 2020](https://oglobo.globo.com/esportes/volta-do-futebol-mais-um-ato-do-desastroso-brasil-2020-24485035)
-* [Colunistas do GLOBO analisam retorno do Campeonato Carioca em meio à pandemia da Covid-19](https://oglobo.globo.com/esportes/colunistas-do-globo-analisam-retorno-do-campeonato-carioca-em-meio-pandemia-da-covid-19-24484634)
-* [Festlip ganha edição virtual e reúne atrações culturais, artísticas e gastronômica dos nove países lusófonos](https://oglobo.globo.com/rioshow/festlip-ganha-edicao-virtual-reune-atracoes-culturais-artisticas-gastronomica-dos-nove-paises-lusofonos-1-24484354)
-* [Pilar del Río participa de live sobre os dez anos de morte de José Saramago](https://oglobo.globo.com/rioshow/pilar-del-rio-participa-de-live-sobre-os-dez-anos-de-morte-de-jose-saramago-24484709)
-* [Lives de hoje: Tom Zé, Daniela Mercury e Mauricio de Sousa](https://oglobo.globo.com/rioshow/lives-de-hoje-tom-ze-daniela-mercury-mauricio-de-sousa-24484206)
-* [Flamengo x Bangu marca o retorno do Carioca; veja situação e objetivos do seu time](https://oglobo.globo.com/esportes/flamengo-bangu-marca-retorno-do-carioca-veja-situacao-objetivos-do-seu-time-24484217)
-* [Perpectivas do mercado de seguros pós-Covid-19](https://oglobo.globo.com/opiniao/perpectivas-do-mercado-de-seguros-pos-covid-19-24482685)
-* [Lei de Lenz e bolsonarismo](https://oglobo.globo.com/opiniao/lei-de-lenz-bolsonarismo-24482792)
+* [Firjan propõe concessões, PPPs e incentivos fiscais para recuperação pós-pandemia](https://oglobo.globo.com/economia/firjan-propoe-concessoes-ppps-incentivos-fiscais-para-recuperacao-pos-pandemia-24485360)
+* [Stonehenge, na Inglaterra, vai transmitir solstício de verão pela internet; veja como acompanhar](https://oglobo.globo.com/boa-viagem/stonehenge-na-inglaterra-vai-transmitir-solsticio-de-verao-pela-internet-veja-como-acompanhar-24485204)
+* [Preso por suspeita de desvio de verbas, superintendente de Finanças da Saúde do RJ ganhava R$ 39,4 mil no cargo](https://oglobo.globo.com/rio/preso-por-suspeita-de-desvio-de-verbas-superintendente-de-financas-da-saude-do-rj-ganhava-394-mil-no-cargo-24485310)
+* [Arroubos de Bolsonaro testam democracia e limite entre Poderes, afirmam cientistas políticos](https://oglobo.globo.com/brasil/arroubos-de-bolsonaro-testam-democracia-limite-entre-poderes-afirmam-cientistas-politicos-24485246)
+* [Na vida pós-coronavírus, pacientes precisam reaprender o essencial, como respirar sem máquina e se virar na cama](https://oglobo.globo.com/sociedade/coronavirus/na-vida-pos-coronavirus-pacientes-precisam-reaprender-essencial-como-respirar-sem-maquina-se-virar-na-cama-24485275)
+* [Como funciona a longa jornada de recuperação de pacientes após a alta da Covid-19](https://oglobo.globo.com/sociedade/coronavirus/como-funciona-longa-jornada-de-recuperacao-de-pacientes-apos-alta-da-covid-19-24485250)
+* [Ex-ministros pedem exame de denúncias de 'potenciais crimes de responsabilidade' cometidos por Ricardo Salles](https://oglobo.globo.com/sociedade/ex-ministros-pedem-exame-de-denuncias-de-potenciais-crimes-de-responsabilidade-cometidos-por-ricardo-salles-24485081)
+* [Elza Soares, 90 anos: 'É a minha raça que estou vendo ser destruída, é preciso dar um grito de basta'](https://oglobo.globo.com/cultura/elza-soares-90-anos-a-minha-raca-que-estou-vendo-ser-destruida-preciso-dar-um-grito-de-basta-24483268)
+* [Ainda há humanos entre nós](https://oglobo.globo.com/cultura/ainda-ha-humanos-entre-nos-24484784)
+* [Arte com aura: conheça Gustavo Francesconi, que faz obras de arte a partir de estudos cromáticos](https://oglobo.globo.com/ela/gente/arte-com-aura-conheca-gustavo-francesconi-que-faz-obras-de-arte-partir-de-estudos-cromaticos-24474451)

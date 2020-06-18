@@ -2,14 +2,12 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 10:34:40 UTC
+# indexed at 18/06/2020 11:09:20 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple is threatening to terminate my developer account with no clear reason](https://www.andyibanez.com/posts/please-help-apple-threatening-terminate-apple-developer-account/)
-* [Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [The Magnetic Amplifier – A Lost Technology of the 1950s](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier)
 * [Reverse Engineering Snapchat: Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
@@ -18,31 +16,33 @@ layout: default
 * [Who the Hell Is This Joyce (1928)](https://www.theparisreview.org/blog/2016/09/21/who-the-hell-is-this-joyce/)
 * [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
 * [A Graphical Introduction to Lattices](https://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
-* [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [Ask HN: How do you divide time between engaging with users and development?](https://news.ycombinator.com/item?id=23549804)
-* [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
+* [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
-* [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
+* [Apple is threatening to terminate my developer account with no clear reason](https://www.andyibanez.com/posts/please-help-apple-threatening-terminate-apple-developer-account/)
+* [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
+* [The Psychology of Security (2008)](https://www.schneier.com/essays/archives/2008/01/the_psychology_of_se.html)
+* [Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO)
 * [Time to Upgrade Your Monitor](https://tonsky.me/blog/monitors/)
-* [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
+* [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
 * [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
+* [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
 * [Modularizing SQL? (2007)](http://lambda-the-ultimate.org/node/2440)
+* [NASA rushing to do Mars launch with helo before planet moves out of range](https://www.washingtonpost.com/technology/2020/06/17/mars-rover-nasa-launch/)
 * [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
 * [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
 * [Where is the DNS headed?](https://www.potaroo.net/ispcol/2020-06/row.html)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
-* [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
 * [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
-* [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
+* [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
+* [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [YC's Startup School Relaunching as Continuous Program](https://blog.ycombinator.com/startup-school-relaunch/)
-* [Building a reactive calculator in Haskell](https://keera.co.uk/2020/05/28/building-a-reactive-calculator-in-haskell-1-5/)
-* [Facebook to let users turn off political adverts](https://www.bbc.co.uk/news/business-53074995)
+* [Patchmap: Memory Efficient Hash Tables and Pseudorandom Ordering](https://1ykos.github.io/patchmap/)
 ## nytimes.com
 
 
-* [Five Takeaways From John Bolton’s Memoir](https://www.nytimes.com/2020/06/18/us/politics/john-bolton-memoir-takeaways.html)
 * [Justice Dept. Escalates Legal Fight With Bolton Over Book](https://www.nytimes.com/2020/06/17/us/politics/john-bolton-lawsuit.html)
+* [Five Takeaways From John Bolton’s Memoir](https://www.nytimes.com/2020/06/18/us/politics/john-bolton-memoir-takeaways.html)
 * [Does Trump Want to Fight to Win 2020 Election? His Aides Are Worried.](https://www.nytimes.com/2020/06/17/us/politics/trump-2020-election.html)
 * [Coronavirus Live Updates: Mixed Messages From Washington](https://www.nytimes.com/2020/06/18/world/coronavirus-updates.html)
 * [The Pandemic Isn’t Over. New Yorkers Are Acting as if It Were.](https://www.nytimes.com/2020/06/18/nyregion/coronavirus-ny-social-distancing.html)
@@ -54,6 +54,7 @@ layout: default
 * [Second Stimulus Check, Unemployment, Stocks and More During Coronavirus Pandemic](https://www.nytimes.com/article/coronavirus-money-unemployment.html)
 * [Fans Wants Sports. Sports Want Fans. But It’s Not That Simple.](https://www.nytimes.com/2020/06/18/sports/baseball/coronavirus-fans-return.html)
 * [Locker Rooms Are Petri Dishes. Can the N.F.L. Clean Up Before Training Camp?](https://www.nytimes.com/2020/06/16/sports/football/nfl-player-coronavirus-training-camp.html)
+* [A College Reality Check](https://www.nytimes.com/2020/06/18/briefing/john-bolton-coronavirus-danny-masterson.html)
 * [N.Y.C. Is on Track to Enter Phase 2 of Reopening](https://www.nytimes.com/2020/06/18/nyregion/coronavirus-nyc-phase-2.html)
 * [Who Will Joe Biden Pick as His Running Mate?](https://www.nytimes.com/2020/06/18/podcasts/the-daily/joe-biden-vice-president-running-mate.html)
 * [A Four-Point Plan for Fixing the Economy](https://www.nytimes.com/2020/06/17/business/dealbook/economy-recovery-reopening.html)
@@ -79,11 +80,11 @@ layout: default
 * [‘Power to the People’: Detroit Students Preserve This Moment in Paint](https://www.nytimes.com/2020/06/18/us/politics/detroit-protests-mural.html)
 * [How Two Russians Got Caught Up in Libya’s War, Now an Action Movie](https://www.nytimes.com/2020/06/18/world/middleeast/russia-libya-maksim-Shugalei.html)
 * [For-Profit Colleges, Long Troubled, See Surge Amid Pandemic](https://www.nytimes.com/2020/06/17/business/coronavirus-for-profit-colleges.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [Portraits of Everyday Life in the Indian State of Gujarat](https://www.nytimes.com/2020/06/15/travel/gujarat-india-portraits.html)
 * [Roy Cohn Got Her Grandparents Executed. She Made a Film About Him.](https://www.nytimes.com/2020/06/17/arts/television/roy-cohn-documentary-hbo.html)
 * [Why More Children’s Books Are Tackling Sexual Harassment and Abuse](https://www.nytimes.com/2020/06/17/books/childrens-books-middle-grade-metoo-sexual-abuse.html)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Ex-assessor de Flávio Bolsonaro, Fabrício Queiroz é preso em São Paulo](https://oglobo.globo.com/brasil/ex-assessor-de-flavio-bolsonaro-fabricio-queiroz-preso-em-sao-paulo-24485380)
+* [TJ do Rio autoriza prisão de mulher de Fabrício Queiroz](https://oglobo.globo.com/brasil/tj-do-rio-autoriza-prisao-de-mulher-de-fabricio-queiroz-24485432)
+* [Brasil tem 46.679 mortes e 960.640 casos de Covid-19, aponta consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-46679-mortes-960640-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24485425)
 * [Flávio dizia não saber paradeiro de Queiroz, preso hoje na casa de seu advogado](https://epoca.globo.com/guilherme-amado/flavio-dizia-nao-saber-paradeiro-de-queiroz-preso-hoje-na-casa-de-seu-advogado-1-24485390)
+* [Entenda quais são as suspeitas que pairam sobre Fabrício Queiroz e Flávio Bolsonaro](https://oglobo.globo.com/brasil/entenda-quais-sao-as-suspeitas-que-pairam-sobre-fabricio-queiroz-flavio-bolsonaro-24485419)
+* [A prisão de Queiroz e a maldição dos sítios em Atibaia](https://epoca.globo.com/guilherme-amado/a-prisao-de-queiroz-a-maldicao-dos-sitios-em-atibaia-24485421)
 * [Os limites da reação de Bolsonaro](https://oglobo.globo.com/analitico/os-limites-da-reacao-de-bolsonaro-24485228)
 * [Copa de 1970: Brasil 3 x 2 Romênia, um massacre de 25 minutos](https://oglobo.globo.com/esportes/copa-de-1970-brasil-3-2-romenia-um-massacre-de-25-minutos-24485224)
-* [Violoncelista negro que tocou no casamento de Harry e Meghan se consolida como estrela da música clássica](https://oglobo.globo.com/celina/violoncelista-negro-que-tocou-no-casamento-de-harry-meghan-se-consolida-como-estrela-da-musica-classica-24482648)
-* [Produção de cloroquina do Exército aumentou 84 vezes na pandemia](https://epoca.globo.com/guilherme-amado/producao-de-cloroquina-do-exercito-aumentou-84-vezes-na-pandemia-24484805)
 * [Biblioteca comunitária oferece oficinas de leitura virtuais gratuitas](https://oglobo.globo.com/rio/bairros/biblioteca-comunitaria-oferece-oficinas-de-leitura-virtuais-gratuitas-24484854)
 * [Pandemia: Covid-19 aumenta risco de má circulação em idosos](https://oglobo.globo.com/rio/bairros/pandemia-covid-19-aumenta-risco-de-ma-circulacao-em-idosos-24472264)
 * [75% dos shoppings brasileiros já estão reabertos](https://epoca.globo.com/guilherme-amado/75-dos-shoppings-brasileiros-ja-estao-reabertos-24484837)
-* [Fotógrafa usa drone para clicar artistas em casa durante a quarentena; veja imagens](https://oglobo.globo.com/cultura/fotografa-usa-drone-para-clicar-artistas-em-casa-durante-quarentena-veja-imagens-24484528)

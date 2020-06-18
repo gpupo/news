@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 12:12:49 UTC
+# indexed at 18/06/2020 12:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [The Magnetic Amplifier – A Lost Technology of the 1950s](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier)
 * [Reverse Engineering Snapchat: Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
-* [Into Thin Error: Mountaineer Ed Viesturs on Making Mistakes (2010)](https://slate.com/news-and-politics/2010/06/into-thin-error-mountaineer-ed-viesturs-on-making-mistakes.html)
-* [LibriVox: Free Public Domain Audiobooks](https://librivox.org/)
 * [Ask HN: How do you divide time between engaging with users and development?](https://news.ycombinator.com/item?id=23549804)
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country/)
+* [LibriVox: Free Public Domain Audiobooks](https://librivox.org/)
+* [Into Thin Error: Mountaineer Ed Viesturs on Making Mistakes (2010)](https://slate.com/news-and-politics/2010/06/into-thin-error-mountaineer-ed-viesturs-on-making-mistakes.html)
+* [How to get people to work on your project (2007)](https://www.somethingsimilar.com/2007/08/06/how-to-get-your-project-moving-or-my-ego-is-massive-and-you-should-listen-to-me./)
 * [Who the Hell Is This Joyce (1928)](https://www.theparisreview.org/blog/2016/09/21/who-the-hell-is-this-joyce/)
 * [A Graphical Introduction to Lattices](https://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
-* [How to get people to work on your project (2007)](https://www.somethingsimilar.com/2007/08/06/how-to-get-your-project-moving-or-my-ego-is-massive-and-you-should-listen-to-me./)
+* [Ask HN: What are some good resources to learn how electricity works?](https://news.ycombinator.com/item?id=23562181)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
 * [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
-* [Apple is threatening to terminate my developer account with no clear reason](https://www.andyibanez.com/posts/please-help-apple-threatening-terminate-apple-developer-account/)
 * [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
 * [Time to Upgrade Your Monitor](https://tonsky.me/blog/monitors/)
+* [Why is there a “V” in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 * [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
+* [Apple is threatening to terminate my developer account with no clear reason](https://www.andyibanez.com/posts/please-help-apple-threatening-terminate-apple-developer-account/)
 * [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
 * [Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO)
-* [Modularizing SQL? (2007)](http://lambda-the-ultimate.org/node/2440)
 * [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
-* [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
+* [Modularizing SQL? (2007)](http://lambda-the-ultimate.org/node/2440)
 * [Where is the DNS headed?](https://www.potaroo.net/ispcol/2020-06/row.html)
-* [The Psychology of Security (2008)](https://www.schneier.com/essays/archives/2008/01/the_psychology_of_se.html)
-* [NASA rushing to complete Mars launch before planet moves out of range](https://www.washingtonpost.com/technology/2020/06/17/mars-rover-nasa-launch/)
-* [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
+* [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
 * [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
+* [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
+* [NASA rushing to complete Mars launch before planet moves out of range](https://www.washingtonpost.com/technology/2020/06/17/mars-rover-nasa-launch/)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [YC's Startup School Relaunching as Continuous Program](https://blog.ycombinator.com/startup-school-relaunch/)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [‘Power to the People’: Detroit Students Preserve This Moment in Paint](https://www.nytimes.com/2020/06/18/us/politics/detroit-protests-mural.html)
 * [How Two Russians Got Caught Up in Libya’s War, Now an Action Movie](https://www.nytimes.com/2020/06/18/world/middleeast/russia-libya-maksim-Shugalei.html)
 * [For-Profit Colleges, Long Troubled, See Surge Amid Pandemic](https://www.nytimes.com/2020/06/17/business/coronavirus-for-profit-colleges.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [Portraits of Everyday Life in the Indian State of Gujarat](https://www.nytimes.com/2020/06/15/travel/gujarat-india-portraits.html)
 * [Roy Cohn Got Her Grandparents Executed. She Made a Film About Him.](https://www.nytimes.com/2020/06/17/arts/television/roy-cohn-documentary-hbo.html)
 * [Why More Children’s Books Are Tackling Sexual Harassment and Abuse](https://www.nytimes.com/2020/06/17/books/childrens-books-middle-grade-metoo-sexual-abuse.html)
@@ -104,12 +104,12 @@ layout: default
 
 
 * [Com impacto da pandemia, prévia do PIB tem queda de 9,7% em abril, diz Banco Central](https://oglobo.globo.com/economia/com-impacto-da-pandemia-previa-do-pib-tem-queda-de-97-em-abril-diz-banco-central-24485488)
-* [China diz que não tem intenção de interferir nas eleições americanas após revelação de Bolton](https://oglobo.globo.com/mundo/china-diz-que-nao-tem-intencao-de-interferir-nas-eleicoes-americanas-apos-revelacao-de-bolton-24485470)
+* [Dólar sobe, negociado acima de R$ 5,30, após corte nos juros e de olho no exterior](https://oglobo.globo.com/economia/dolar-sobe-negociado-acima-de-530-apos-corte-nos-juros-de-olho-no-exterior-24485520)
+* [Lava Jato bloqueia R$ 17 mi e cumpre 12 mandados no Rio relativos a desvios na Petrobras](https://oglobo.globo.com/brasil/lava-jato-bloqueia-17-mi-cumpre-12-mandados-no-rio-relativos-desvios-na-petrobras-24485522)
+* [Bombril retira 'krespinha' do mercado: acusações de racismo fazem marcas reformularem ou descontinuarem produtos](https://epoca.globo.com/sociedade/bombril-retira-krespinha-do-mercado-acusacoes-de-racismo-fazem-marcas-reformularem-ou-descontinuarem-produtos-1-24485501)
+* [Teatro na Espanha promove concerto só para plantas em sua reabertura pós-lockdown](https://epoca.globo.com/mundo/teatro-na-espanha-promove-concerto-so-para-plantas-em-sua-reabertura-pos-lockdown-24484339)
+* [Demanda por luvas médicas fez novos bilionários na Malásia](https://epoca.globo.com/mundo/demanda-por-luvas-medicas-fez-novos-bilionarios-na-malasia-24484629)
 * [Petrobras planeja vender fatia na BR Distribuidora no segundo semestre, diz Reuters](https://oglobo.globo.com/economia/petrobras-planeja-vender-fatia-na-br-distribuidora-no-segundo-semestre-diz-reuters-24485273)
-* [Como Queiroz se tornou amigo da família Bolsonaro](https://epoca.globo.com/brasil/como-queiroz-se-tornou-amigo-da-familia-bolsonaro-24485465)
 * [Mindful eating: entenda os benefícios e confira dicas para praticar](https://oglobo.globo.com/ela/beleza/bem-estar/mindful-eating-entenda-os-beneficios-confira-dicas-para-praticar-24485483)
-* ['Anjo': Apelido de advogado de Flávio Bolsonaro deu nome para a operação](https://oglobo.globo.com/brasil/anjo-apelido-de-advogado-de-flavio-bolsonaro-deu-nome-para-operacao-24485466)
-* [Pergunta 'onde está Queiroz' é respondida com Bolsonaro acuado](https://oglobo.globo.com/analitico/pergunta-onde-esta-queiroz-respondida-com-bolsonaro-acuado-1-24485453)
-* [Corrida de cavalo é o que deixa rainha Elizabeth mais nervosa, diz biógrafo real](https://oglobo.globo.com/ela/gente/corrida-de-cavalo-o-que-deixa-rainha-elizabeth-mais-nervosa-diz-biografo-real-24485452)
 * [As composições de Caetano Veloso durante o isolamento](https://epoca.globo.com/guilherme-amado/as-composicoes-de-caetano-veloso-durante-isolamento-24485361)
 * [Fernández sempre disse que um país só não se recupera dos mortos, relata infectologista do governo argentino sobre Covid-19](https://oglobo.globo.com/mundo/fernandez-sempre-disse-que-um-pais-so-nao-se-recupera-dos-mortos-relata-infectologista-do-governo-argentino-sobre-covid-19-1-24485268)

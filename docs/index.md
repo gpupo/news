@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 00:26:56 UTC
+# indexed at 18/06/2020 00:35:51 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Reverse Engineering Snapchat: Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
 * [Time to Upgrade Your Monitor](https://tonsky.me/blog/monitors/)
 * [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
-* [Image GPT](https://openai.com/blog/image-gpt/)
+* [Use of nuclear technology gets green light in Rwanda](https://www.newtimes.co.rw/news/use-nuclear-technology-gets-green-light-rwanda)
 * [FBI used Etsy, LinkedIn to make arrest in torching of Philadelphia police cars](https://6abc.com/fbi-etsy-linkedin-used-to-make-arrest-in-police-car-arson/6252215/)
+* [Image GPT](https://openai.com/blog/image-gpt/)
 * [YC's Startup School Relaunching as Continuous Program](https://blog.ycombinator.com/startup-school-relaunch/)
 * [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
-* [Use of nuclear technology gets green light in Rwanda](https://www.newtimes.co.rw/news/use-nuclear-technology-gets-green-light-rwanda)
 * [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
 * [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
 * [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
 * [Postbank to replace 12M bank cards after employees steal 'master key'](https://www.timeslive.co.za/sunday-times/news/2020-06-14-postbank-forced-to-replace-12-million-bank-cards-after-employees-steal-master-key/)
-* [Facebook to let users turn off political adverts](https://www.bbc.co.uk/news/business-53074995)
 * [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
+* [Facebook to let users turn off political adverts](https://www.bbc.co.uk/news/business-53074995)
 * [Apollo – Funding for Moonshots](https://apolloprojects.com/)
 * [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
+* [A Nearly Extinct Bootlegger's Corn Gets a Second Shot](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
 * [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
 * [A grandmaster who got Twitch hooked on chess](https://www.wired.com/story/hikaru-nakamura-twitch-chess)
 * [Springer Nature open access agreement and Elsevier update](https://evcp.berkeley.edu/news/springer-nature-open-access-agreement-and-elsevier-update)
-* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/?utm_source=hn_jobs)
-* [Rents are dropping across the US](https://edition.cnn.com/2020/06/16/success/rents-are-dropping-us-cities-coronavirus/index.html)
 * [Diluting blood plasma rejuvenates tissue, reverses aging in mice](https://news.berkeley.edu/2020/06/15/diluting-blood-plasma-rejuvenates-tissue-reverses-aging-in-mice/)
+* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/?utm_source=hn_jobs)
 * [Microsoft pitched facial recognition to the DEA](https://www.buzzfeednews.com/article/ryanmac/microsoft-pitched-facial-recognition-dea-drug-enforcement)
 * [Deep JavaScript: Theory and Techniques](https://exploringjs.com/deep-js/)
+* [Rents are dropping across the US](https://edition.cnn.com/2020/06/16/success/rents-are-dropping-us-cities-coronavirus/index.html)
 * [Memory Consistency Models (2016)](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
-* [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
 * [Show HN: I am trying to start a webring for geeks](https://geekring.net/)
-* [Siggo: A terminal GUI for signal-CLI, written in Go](https://github.com/derricw/siggo)
+* [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
 ## nytimes.com
 
 
@@ -46,9 +46,9 @@ layout: default
 * [Live Updates: Protests, Aunt Jemima, Rayshard Brooks](https://www.nytimes.com/2020/06/17/us/black-lives-matter-george-floyd-police.html)
 * [Quaker to Change Aunt Jemima Name and Image Over ‘Racial Stereotype’](https://www.nytimes.com/2020/06/17/business/aunt-jemima-racial-stereotype.html)
 * [De Blasio, Pressured on Policing, Acts to Toughen Discipline](https://www.nytimes.com/2020/06/17/nyregion/police-reform-nypd.html)
-* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html)
-* [The Rich Cut Their Spending. That Has Hurt All the Workers Who Count on It.](https://www.nytimes.com/2020/06/17/upshot/coronavirus-spending-rich-poor.html)
+* [With the Federal Health Megaphone Silent, States Struggle With a Shifting Pandemic](https://www.nytimes.com/2020/06/17/us/politics/coronavirus-pandemic-federal-response.html)
 * [Beijing’s Partial Lockdown a Sign of the World’s New Normal](https://www.nytimes.com/2020/06/17/world/asia/coronavirus-beijing-china.html)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html)
 * [Does Trump Want to Fight to Win 2020 Election? His Aides Are Worried.](https://www.nytimes.com/2020/06/17/us/politics/trump-2020-election.html)
 * [Tulsa Braces for Trump Rally’s Health Threat as Virus Cases Rise](https://www.nytimes.com/2020/06/17/us/politics/tulsa-rally-trump.html)
 * [On L.G.B.T.Q. Rights, a Gulf Between Trump and Many Republican Voters](https://www.nytimes.com/2020/06/17/us/politics/lgbtq-supreme-court-trump-republicans.html)
@@ -77,10 +77,10 @@ layout: default
 * [5 Years After Charleston Church Massacre, City Says Calhoun Statue Will Go](https://www.nytimes.com/2020/06/17/us/charleston-sc-shooting-calhoun-statue.html)
 * [As Kim Jong-un Turns Hostile to South Korea, His Sister Does the Talking](https://www.nytimes.com/2020/06/17/world/asia/north-korea-kim-yo-jong.html)
 * [Boy Scouts Announce Diversity Merit Badge and Support for Black Lives Matter](https://www.nytimes.com/2020/06/17/us/boy-scouts-diversity-inclusion-eagle.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [As London Bookstores Reopen, Eager Readers Return](https://www.nytimes.com/2020/06/17/books/london-bookstores-reopen-coronavirus.html)
 * [How Should I Think About Race When Considering a Sperm Donor?](https://www.nytimes.com/2020/06/16/magazine/how-should-i-think-about-race-when-considering-a-sperm-donor.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Representante comercial dos EUA diz que não há negociação de acordo de livre comércio com o Brasil](https://oglobo.globo.com/economia/representante-comercial-dos-eua-diz-que-nao-ha-negociacao-de-acordo-de-livre-comercio-com-brasil-24485032)
+* [Governo assedia, e ala não bolsonarista do PSL perde força](https://oglobo.globo.com/brasil/governo-assedia-ala-nao-bolsonarista-do-psl-perde-forca-24485183)
+* [Princesa Diana será interpretada por Kristen Stewart em filme de Pablo Larraín](https://oglobo.globo.com/cultura/princesa-diana-sera-interpretada-por-kristen-stewart-em-filme-de-pablo-larrain-1-24485074)
 * [Mais de R$ 56 milhões do Fundo Eleitoral mudam de partido com novo cálculo do TSE](https://oglobo.globo.com/brasil/mais-de-56-milhoes-do-fundo-eleitoral-mudam-de-partido-com-novo-calculo-do-tse-1-24485077)
 * [Peru tem mais de 240 mil casos do novo coronavírus e ultrapassa Itália](https://oglobo.globo.com/mundo/peru-tem-mais-de-240-mil-casos-do-novo-coronavirus-ultrapassa-italia-24485045)
 * [Mega-Sena acumula; e próximo concurso pode pagar R$ 37 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-concurso-pode-pagar-37-milhoes-24485084)
 * [Secretário estadual de Saúde diz que, 'como cidadão', acredita que há lama nos contratos da gestão anterior, investigada](https://oglobo.globo.com/rio/secretario-estadual-de-saude-diz-que-como-cidadao-acredita-que-ha-lama-nos-contratos-da-gestao-anterior-investigada-24485026)
 * [Câmara aprova texto-base de projeto que suspende pagamento do Profut](https://oglobo.globo.com/esportes/camara-aprova-texto-base-de-projeto-que-suspende-pagamento-do-profut-24485040)
-* [Representante comercial dos EUA diz que não há negociação de acordo de livre comércio com o Brasil](https://oglobo.globo.com/economia/representante-comercial-dos-eua-diz-que-nao-ha-negociacao-de-acordo-de-livre-comercio-com-brasil-24485032)
-* [Alberto Fernández vai ficar em isolamento devido aumento de casos da Covid-19 na Argentina](https://oglobo.globo.com/mundo/alberto-fernandez-vai-ficar-em-isolamento-devido-aumento-de-casos-da-covid-19-na-argentina-24484991)
 * [Universidade de São Carlos desenvolve tecido capaz de eliminar o novo coronavírus por contato](https://oglobo.globo.com/sociedade/universidade-de-sao-carlos-desenvolve-tecido-capaz-de-eliminar-novo-coronavirus-por-contato-24484658)
 * [É #FAKE que foto mostre o ministro do STF Marco Aurélio Mello com Fidel Castro](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-ministro-do-stf-marco-aurelio-mello-com-fidel-castro-24485008)
-* [Brasil tem 1.209 óbitos por coronavírus em 24 horas; total chega a 46.665, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-1209-obitos-por-coronavirus-em-24-horas-total-chega-46665-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24484840)

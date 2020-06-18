@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 03:34:30 UTC
+# indexed at 18/06/2020 04:10:42 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
 * [Reverse Engineering Snapchat: Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
 * [LibriVox: Free Public Domain Audiobooks](https://librivox.org/)
+* [The Magnetic Amplifier –– A Lost Technology of the 1950s, anyone can build it](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier)
 * [Time to Upgrade Your Monitor](https://tonsky.me/blog/monitors/)
 * [Who the Hell Is This Joyce (1928)](https://www.theparisreview.org/blog/2016/09/21/who-the-hell-is-this-joyce/)
+* [Fuzzbuzz (YC W19) Is Hiring a Full Stack (Back End Focused) Engineer in SF Bay Area](https://angel.co/company/fuzzbuzz/jobs/853711-full-stack-engineer-typescript-go)
 * [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
 * [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
-* [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
-* [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
+* [Farewell Etaoin Shrdlu (1980) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [YC's Startup School Relaunching as Continuous Program](https://blog.ycombinator.com/startup-school-relaunch/)
 * [Image GPT](https://openai.com/blog/image-gpt/)
-* [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
+* [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
+* [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
 * [Airbnb Is Moving Off of React Native (2018)](https://softwareengineeringdaily.com/2018/09/24/show-summary-react-native-at-airbnb/)
 * [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
-* [Farewell Etaoin Shrdlu (1980) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
+* [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
 * [Postbank to replace 12M bank cards after employees steal 'master key'](https://www.timeslive.co.za/sunday-times/news/2020-06-14-postbank-forced-to-replace-12-million-bank-cards-after-employees-steal-master-key/)
-* [Use of nuclear technology gets green light in Rwanda](https://www.newtimes.co.rw/news/use-nuclear-technology-gets-green-light-rwanda)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
-* [The Magnetic Amplifier –– A Lost Technology of the 1950s, anyone can build it](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier)
-* [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
+* [Use of nuclear technology gets green light in Rwanda](https://www.newtimes.co.rw/news/use-nuclear-technology-gets-green-light-rwanda)
 * [State of Linux Desktop Security](https://bjornpagen.com/blog/linux-security)
 * [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
 * [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
-* [Apollo – Funding for Moonshots](https://apolloprojects.com/)
+* [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
+* [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
 * [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
 * [Where Is the DNS Headed?](https://www.potaroo.net/ispcol/2020-06/row.html)
-* [FBI used Etsy, LinkedIn to make arrest in torching of Philadelphia police cars](https://6abc.com/fbi-etsy-linkedin-used-to-make-arrest-in-police-car-arson/6252215/)
-* [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
+* [Apollo – Funding for Moonshots](https://apolloprojects.com/)
 * [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
-* [Deep JavaScript: Theory and Techniques](https://exploringjs.com/deep-js/)
+* [FBI used Etsy, LinkedIn to make arrest in torching of Philadelphia police cars](https://6abc.com/fbi-etsy-linkedin-used-to-make-arrest-in-police-car-arson/6252215/)
 ## nytimes.com
 
 
@@ -72,16 +72,16 @@ layout: default
 * [N.Y.C., Facing Pandemic Fallout, Freezes Rent for 2 Million Tenants for a Year](https://www.nytimes.com/2020/06/17/nyregion/nyc-rent-guidelines-board-freeze.html)
 * [‘That ’70s Show’ Actor Danny Masterson Charged With Raping 3 Women](https://www.nytimes.com/2020/06/17/arts/television/danny-masterson-rape-charged.html)
 * [Eleanor Carol Leavell Barr, Wife of Rep. Andy Barr, Dies at 39](https://www.nytimes.com/2020/06/17/us/politics/carol-barr-dead.html)
-* [Virginia Sheriff Apologizes for Arrest of Black Pastor Who Called 911](https://www.nytimes.com/2020/06/17/us/pastor-leon-mccray-shenandoah-county-va-arrest.html)
+* [Arthur Ashe Statue in Virginia Vandalized With ‘White Lives Matter’](https://www.nytimes.com/2020/06/17/us/arthur-ashe-statue-vandalized.html)
 * [Republican Leaders Condemn a G.O.P. Congressional Candidate’s Racist Facebook Videos](https://www.nytimes.com/2020/06/17/us/marjorie-taylor-greene-georgia.html)
 * [On China-India Border, Xi and Modi Have Little Room to Give](https://www.nytimes.com/2020/06/17/world/asia/china-india-border.html)
 * [5 Years After Charleston Church Massacre, City Says Calhoun Statue Will Go](https://www.nytimes.com/2020/06/17/us/charleston-sc-shooting-calhoun-statue.html)
 * [As Kim Jong-un Turns Hostile to South Korea, His Sister Does the Talking](https://www.nytimes.com/2020/06/17/world/asia/north-korea-kim-yo-jong.html)
 * [Before Crash That Killed Kobe Bryant, Helicopter Service Raised Weather Concerns](https://www.nytimes.com/2020/06/17/us/kobe-bryant-crash-weather-concerns.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [As London Bookstores Reopen, Eager Readers Return](https://www.nytimes.com/2020/06/17/books/london-bookstores-reopen-coronavirus.html)
 * [How Should I Think About Race When Considering a Sperm Donor?](https://www.nytimes.com/2020/06/16/magazine/how-should-i-think-about-race-when-considering-a-sperm-donor.html)
@@ -92,6 +92,7 @@ layout: default
 * [Where Protesters Go, Street Medics Follow](https://www.nytimes.com/2020/06/09/health/unrest-protests-street-medics.html)
 * [The Return of the Platypuses](https://www.nytimes.com/2020/06/16/science/platypuses-australia-wildfires.html)
 * [Flushing the Toilet May Fling Coronavirus Aerosols All Over](https://www.nytimes.com/2020/06/16/health/coronavirus-toilets-flushing.html)
+* [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -99,8 +100,6 @@ layout: default
 
 
 * [Algumas observações](https://oglobo.globo.com/opiniao/algumas-observacoes-1-24484541)
-* [Eduardo debocha de doença de Joice: 'Não sabia que coronavírus dava em porco'](https://epoca.globo.com/guilherme-amado/eduardo-debocha-de-doenca-de-joice-nao-sabia-que-coronavirus-dava-em-porco-24485248)
-* [Bolsonaro reage ao Judiciário independente](https://oglobo.globo.com/opiniao/bolsonaro-reage-ao-judiciario-independente-1-24484890)
 * [Festlip ganha edição virtual e reúne atrações culturais, artísticas e gastronômica dos nove países lusófonos](https://oglobo.globo.com/rioshow/festlip-ganha-edicao-virtual-reune-atracoes-culturais-artisticas-gastronomica-dos-nove-paises-lusofonos-1-24484354)
 * [Pilar del Río participa de live sobre os dez anos de morte de José Saramago](https://oglobo.globo.com/rioshow/pilar-del-rio-participa-de-live-sobre-os-dez-anos-de-morte-de-jose-saramago-24484709)
 * [Gestão da saúde no estado foi contagiada pelo vírus da corrupção](https://oglobo.globo.com/opiniao/gestao-da-saude-no-estado-foi-contagiada-pelo-virus-da-corrupcao-24484259)
@@ -108,3 +107,5 @@ layout: default
 * [Entre a recuperação e a segunda onda](https://oglobo.globo.com/opiniao/entre-recuperacao-a-segunda-onda-24484665)
 * [O vermelho e o negro](https://oglobo.globo.com/opiniao/o-vermelho-o-negro-24483852)
 * [Estudo triplo-cego](https://oglobo.globo.com/opiniao/estudo-triplo-cego-24483822)
+* [Perpectivas do mercado de seguros pós-Covid-19](https://oglobo.globo.com/opiniao/perpectivas-do-mercado-de-seguros-pos-covid-19-24482685)
+* [Lei de Lenz e bolsonarismo](https://oglobo.globo.com/opiniao/lei-de-lenz-bolsonarismo-24482792)

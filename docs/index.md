@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/06/2020 08:34:45 UTC
+# indexed at 18/06/2020 09:09:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO)
+* [Please help apple threatening terminate apple developer account](https://www.andyibanez.com/posts/please-help-apple-threatening-terminate-apple-developer-account/)
 * [The Magnetic Amplifier – A Lost Technology of the 1950s](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier)
 * [Reverse Engineering Snapchat: Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
-* [LibriVox: Free Public Domain Audiobooks](https://librivox.org/)
 * [A Graphical Introduction to Lattices](https://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
+* [LibriVox: Free Public Domain Audiobooks](https://librivox.org/)
+* [Into Thin Error: Mountaineer Ed Viesturs on Making Mistakes](https://slate.com/news-and-politics/2010/06/into-thin-error-mountaineer-ed-viesturs-on-making-mistakes.html)
 * [On the Folly of Rewarding A, While Hoping for B (1975) [pdf]](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf)
 * [Who the Hell Is This Joyce (1928)](https://www.theparisreview.org/blog/2016/09/21/who-the-hell-is-this-joyce/)
-* [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
-* [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [GDPR guide for developers](https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers)
+* [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [Image GPT](https://openai.com/blog/image-gpt/)
 * [Go generics draft design: building a hashtable](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [Zoom to bring end-to-end encryption to all users, including non-paying](https://blog.zoom.us/wordpress/2020/06/17/end-to-end-encryption-update/)
 * [Doug Engelbart’s 1968 demo](https://www.dougengelbart.org/content/view/374/464/)
-* [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
 * [A Nearly Extinct Bootlegger's Corn Gets a Second Shot (2018)](https://www.npr.org/sections/thesalt/2018/01/02/574367086/from-hooch-to-haute-cuisine-a-nearly-extinct-bootleggers-corn-gets-a-second-shot)
+* [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [Loglo: Experimental spreadsheet and stack language for vector graphics](https://loglo.app/)
 * [Booting embedded Linux in 0.37 seconds on an ARMv7-A CPU at 528 MHz](https://github.com/eerimoq/monolinux-jiffy#boot-time)
-* [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
 * [Time to Upgrade Your Monitor](https://tonsky.me/blog/monitors/)
-* [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
 * [Modularizing SQL? (2007)](http://lambda-the-ultimate.org/node/2440)
-* [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
+* [Covid-19: The T Cell Story](https://berthub.eu/articles/posts/covid-19-t-cells/)
+* [Gocker: Docker implemented in 1.3k lines of Go](http://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
+* [Using Lua as a Serialization Format](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html)
 * [Getting the most out of YubiKeys for your business](https://blog.congruentlabs.co/getting-the-most-out-of-yubikeys-for-your-business/)
 * [Where Is the DNS Headed?](https://www.potaroo.net/ispcol/2020-06/row.html)
 * [Apollo – Funding for Moonshots](https://apolloprojects.com/)
 * [When Security Takes a Backseat to Productivity](https://krebsonsecurity.com/2020/06/when-security-takes-a-backseat-to-productivity/)
-* [Realtime Starlink Satellite Map](https://satellitemap.space/indexA.html)
-* [Patchmap: Memory Efficient Hash Tables and Pseudorandom Ordering](https://1ykos.github.io/patchmap/)
+* [AWS Snowcone](https://aws.amazon.com/blogs/aws/introducing-aws-snowcone-small-lightweight-edge-storage-and-processing/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [5 Years After Charleston Church Massacre, City Says Calhoun Statue Will Go](https://www.nytimes.com/2020/06/17/us/charleston-sc-shooting-calhoun-statue.html)
 * [As Kim Jong-un Turns Hostile to South Korea, His Sister Does the Talking](https://www.nytimes.com/2020/06/17/world/asia/north-korea-kim-yo-jong.html)
 * [Before Crash That Killed Kobe Bryant, Helicopter Service Raised Weather Concerns](https://www.nytimes.com/2020/06/17/us/kobe-bryant-crash-weather-concerns.html)
-* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
+* [How to Donate Blood](https://www.nytimes.com/article/how-to-donate-blood.html)
 * [As London Bookstores Reopen, Eager Readers Return](https://www.nytimes.com/2020/06/17/books/london-bookstores-reopen-coronavirus.html)
 * [How Should I Think About Race When Considering a Sperm Donor?](https://www.nytimes.com/2020/06/16/magazine/how-should-i-think-about-race-when-considering-a-sperm-donor.html)
 * [‘The Bureau’ Is an International Hit. Why Did Its Creator Hand It Off?](https://www.nytimes.com/2020/06/17/arts/television/the-bureau-season-5-jacques-audiard.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Firjan propõe concessões, PPPs e incentivos fiscais para recuperação pós-pandemia](https://oglobo.globo.com/economia/firjan-propoe-concessoes-ppps-incentivos-fiscais-para-recuperacao-pos-pandemia-24485360)
 * [É viável privatizar os Correios e a Eletrobras ainda em 2020?](https://oglobo.globo.com/podcast/e-viavel-privatizar-os-correios-a-eletrobras-ainda-em-2020-1-24485094)
 * [Stonehenge, na Inglaterra, vai transmitir solstício de verão pela internet; veja como acompanhar](https://oglobo.globo.com/boa-viagem/stonehenge-na-inglaterra-vai-transmitir-solsticio-de-verao-pela-internet-veja-como-acompanhar-24485204)
-* [Preso por suspeita de desvio de verbas, superintendente de Finanças da Saúde do RJ ganhava R$ 39,4 mil no cargo](https://oglobo.globo.com/rio/preso-por-suspeita-de-desvio-de-verbas-superintendente-de-financas-da-saude-do-rj-ganhava-394-mil-no-cargo-24485310)
 * [Arroubos de Bolsonaro testam democracia e limite entre Poderes, afirmam cientistas políticos](https://oglobo.globo.com/brasil/arroubos-de-bolsonaro-testam-democracia-limite-entre-poderes-afirmam-cientistas-politicos-24485246)
 * [Como funciona a longa jornada de recuperação de pacientes após a alta da Covid-19](https://oglobo.globo.com/sociedade/coronavirus/como-funciona-longa-jornada-de-recuperacao-de-pacientes-apos-alta-da-covid-19-24485250)
 * [Ex-ministros pedem exame de denúncias de 'potenciais crimes de responsabilidade' cometidos por Ricardo Salles](https://oglobo.globo.com/sociedade/ex-ministros-pedem-exame-de-denuncias-de-potenciais-crimes-de-responsabilidade-cometidos-por-ricardo-salles-24485081)
 * [Elza Soares, 90 anos: 'É a minha raça que estou vendo ser destruída, é preciso dar um grito de basta'](https://oglobo.globo.com/cultura/elza-soares-90-anos-a-minha-raca-que-estou-vendo-ser-destruida-preciso-dar-um-grito-de-basta-24483268)
+* [Violoncelista negro que tocou no casamento de Harry e Meghan se consolida como estrela da música clássica](https://oglobo.globo.com/celina/violoncelista-negro-que-tocou-no-casamento-de-harry-meghan-se-consolida-como-estrela-da-musica-classica-24482648)
+* [Produção de cloroquina do Exército aumentou 84 vezes na pandemia](https://epoca.globo.com/guilherme-amado/producao-de-cloroquina-do-exercito-aumentou-84-vezes-na-pandemia-24484805)
 * [Ainda há humanos entre nós](https://oglobo.globo.com/cultura/ainda-ha-humanos-entre-nos-24484784)
 * [Arte com aura: conheça Gustavo Francesconi, que faz obras de arte a partir de estudos cromáticos](https://oglobo.globo.com/ela/gente/arte-com-aura-conheca-gustavo-francesconi-que-faz-obras-de-arte-partir-de-estudos-cromaticos-24474451)

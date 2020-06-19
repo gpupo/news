@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 09:09:58 UTC
+# indexed at 19/06/2020 09:34:28 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Silicon Oligarchy](https://themargins.substack.com/p/the-silicon-oligarchy?token=eyJ1c2VyX2lkIjoxMDYwNDE2NCwicG9zdF9pZCI6NTQzOTE1LCJfIjoieFFrWkoiLCJpYXQiOjE1OTI1NTU0NzcsImV4cCI6MTU5MjU1OTA3NywiaXNzIjoicHViLTY2ODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LnUmkJ5oBydiuAjz5ljbHGRHeqaIezIo8S4oni7nHMo)
+* [Friendly Feudalism: The Tibet Myth (2003)](http://www.swans.com/library/art9/mparen01.html)
 * [Breakthrough in inverse Laplace transform procedures](http://inverselaplace.org/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
-* [Hash: A free, online platform for modeling](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/)
+* [The Silicon Oligarchy](https://themargins.substack.com/p/the-silicon-oligarchy?token=eyJ1c2VyX2lkIjoxMDYwNDE2NCwicG9zdF9pZCI6NTQzOTE1LCJfIjoieFFrWkoiLCJpYXQiOjE1OTI1NTU0NzcsImV4cCI6MTU5MjU1OTA3NywiaXNzIjoicHViLTY2ODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LnUmkJ5oBydiuAjz5ljbHGRHeqaIezIo8S4oni7nHMo)
 * [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
-* [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
-* [Friendly Feudalism: The Tibet Myth (2003)](http://www.swans.com/library/art9/mparen01.html)
+* [Hash: A free, online platform for modeling](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
+* [Amazon’s Enforcement Failures Leave Open a Back Door to Banned Goods](https://themarkup.org/banned-bounty/2020/06/18/amazons-enforcement-failures-leave-open-a-back-door)
 * [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
-* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [Bessemer Ventures Anti-Portfolio](https://www.bvp.com/anti-portfolio)
+* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
+* [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
-* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
 * [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
 * [Consistency Models (2018)](https://jepsen.io/consistency)
-* [Paleolithic French didn’t let their dead rest peacefully](https://arstechnica.com/science/2020/06/paleolithic-french-didnt-let-their-dead-rest-peacefully/)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
+* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
+* [Paleolithic French didn’t let their dead rest peacefully](https://arstechnica.com/science/2020/06/paleolithic-french-didnt-let-their-dead-rest-peacefully/)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
-* [Amazon’s Enforcement Failures Leave Open a Back Door to Banned Goods](https://themarkup.org/banned-bounty/2020/06/18/amazons-enforcement-failures-leave-open-a-back-door)
 * [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
-* [Node.js Overload](https://www.thoughtworks.com/radar/platforms?blipid=202005026)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
+* [Node.js Overload](https://www.thoughtworks.com/radar/platforms?blipid=202005026)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Advertisers Are Fleeing Tucker Carlson. Fox News Viewers Have Stayed.](https://www.nytimes.com/2020/06/18/business/media/tucker-carlson-advertisers-ratings.html)
 * [Chapin, Brearley and Spence Schools Accused of Racist Culture by Alumni](https://www.nytimes.com/2020/06/17/nyregion/nyc-private-girls-schools-chapin-brearley-spence-racism.html)
 * [American Airlines Bans Conservative Activist Who Refused to Wear a Mask](https://www.nytimes.com/2020/06/18/us/american-airlines-mask-brandon-straka.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)
@@ -108,7 +108,7 @@ layout: default
 * [Como a prisão de Queiroz afeta o governo de Jair Bolsonaro?](https://oglobo.globo.com/podcast/como-prisao-de-queiroz-afeta-governo-de-jair-bolsonaro-24487440)
 * [Favelas poderiam ter problemas de habitação resolvidos em 20 anos por valor 300 vezes menor que o custo da crise da Covid-19 ao Rio](https://oglobo.globo.com/rio/favelas-poderiam-ter-problemas-de-habitacao-resolvidos-em-20-anos-por-valor-300-vezes-menor-que-custo-da-crise-da-covid-19-ao-rio-24487439)
 * [Leilões de imóveis crescem 25% no ano com juro baixo e crise econômica](https://oglobo.globo.com/economia/leiloes-de-imoveis-crescem-25-no-ano-com-juro-baixo-crise-economica-24487400)
-* [Novo estudo denuncia que outra campanha de desinformação russa utilizou mais de 300 plataformas durante 6 anos](https://oglobo.globo.com/mundo/novo-estudo-denuncia-que-outra-campanha-de-desinformacao-russa-utilizou-mais-de-300-plataformas-durante-6-anos-24486941)
+* [Sociedade civil pressiona Banco Mundial a vetar Weintraub como diretor](https://epoca.globo.com/guilherme-amado/sociedade-civil-pressiona-banco-mundial-vetar-weintraub-como-diretor-24487298)
 * [Canal Curta! exibe às 22h 'O mês que não terminou', sobre as manifestações de junho de 2013 e seus efeitos](https://oglobo.globo.com/cultura/canal-curta-exibe-as-22h-mes-que-nao-terminou-sobre-as-manifestacoes-de-junho-de-2013-seus-efeitos-24486674)
 * [Foragida, mulher de Queiroz entra no radar da Interpol](https://epoca.globo.com/guilherme-amado/foragida-mulher-de-queiroz-entra-no-radar-da-interpol-24487207)
 * [Saúde mental: mulheres têm mais risco de apresentar sofrimento psicológico relacionado à Covid-19](https://oglobo.globo.com/celina/saude-mental-mulheres-tem-mais-risco-de-apresentar-sofrimento-psicologico-relacionado-covid-19-24485689)

@@ -2,22 +2,24 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 10:34:22 UTC
+# indexed at 19/06/2020 11:09:31 UTC
 
 
 ## news.ycombinator.com
 
 
+* [From Zero to Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 * [Breakthrough in inverse Laplace transform procedures](http://inverselaplace.org/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 * [Friendly Feudalism: The Tibet Myth (2003)](http://www.swans.com/library/art9/mparen01.html)
-* [The Silicon Oligarchy](https://themargins.substack.com/p/the-silicon-oligarchy?token=eyJ1c2VyX2lkIjoxMDYwNDE2NCwicG9zdF9pZCI6NTQzOTE1LCJfIjoieFFrWkoiLCJpYXQiOjE1OTI1NTU0NzcsImV4cCI6MTU5MjU1OTA3NywiaXNzIjoicHViLTY2ODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LnUmkJ5oBydiuAjz5ljbHGRHeqaIezIo8S4oni7nHMo)
 * [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [Hash: A free, online platform for modeling](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [Amazon’s Enforcement Failures Leave Open a Back Door to Banned Goods](https://themarkup.org/banned-bounty/2020/06/18/amazons-enforcement-failures-leave-open-a-back-door)
 * [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
+* [Dogs' Eyes Have Changed Since Humans Befriended Them (2019)](https://www.theatlantic.com/science/archive/2019/06/domestication-gave-dogs-two-new-eye-muscles/591868/)
+* [The Silicon Oligarchy](https://themargins.substack.com/p/the-silicon-oligarchy?token=eyJ1c2VyX2lkIjoxMDYwNDE2NCwicG9zdF9pZCI6NTQzOTE1LCJfIjoieFFrWkoiLCJpYXQiOjE1OTI1NTU0NzcsImV4cCI6MTU5MjU1OTA3NywiaXNzIjoicHViLTY2ODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LnUmkJ5oBydiuAjz5ljbHGRHeqaIezIo8S4oni7nHMo)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
@@ -26,18 +28,16 @@ layout: default
 * [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
-* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
-* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
-* [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
+* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
+* [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
 * [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
-* [Paleolithic French didn’t let their dead rest peacefully](https://arstechnica.com/science/2020/06/paleolithic-french-didnt-let-their-dead-rest-peacefully/)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
-* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
+* [Paleolithic French didn’t let their dead rest peacefully](https://arstechnica.com/science/2020/06/paleolithic-french-didnt-let-their-dead-rest-peacefully/)
 ## nytimes.com
 
 
@@ -51,6 +51,7 @@ layout: default
 * [The Pandemic Sent Young New Yorkers Packing. Will They Return?](https://www.nytimes.com/2020/06/19/nyregion/nyc-coronavirus-young-people.html)
 * [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [Rising Seas Threaten an American Institution: The 30-Year Mortgage](https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html)
+* [DACA Lives On](https://www.nytimes.com/2020/06/19/briefing/dreamers-tulsa-juneteenth-your-friday-briefing.html)
 * [How to Celebrate Juneteenth in N.Y.C.](https://www.nytimes.com/2020/06/19/nyregion/nyc-juneteenth-celebrations.html)
 * [The History and Meaning of Juneteenth](https://www.nytimes.com/2020/06/19/podcasts/the-daily/juneteenth-emancipation-day-black-lives-matter.html)
 * [What Should Companies Do on Juneteenth?](https://www.nytimes.com/2020/06/18/business/dealbook/juneteenth-company-holiday.html)
@@ -76,11 +77,11 @@ layout: default
 * [Setback on Immigration Policy Goal Leaves Trump Fuming Over Makeup of Courts](https://www.nytimes.com/2020/06/18/us/politics/trump-daca-conservative-courts.html)
 * [Bernie Sanders Predicted Revolution, Just Not This One](https://www.nytimes.com/2020/06/19/us/politics/bernie-sanders-protests.html)
 * [Will India Side With the West Against China? A Test Is at Hand](https://www.nytimes.com/2020/06/19/world/asia/india-china-border.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
-* [Neighbors Not Practicing Social Distancing? Here’s What to Do](https://www.nytimes.com/2020/04/17/smarter-living/neighbors-not-practicing-social-distancing-heres-what-to-do.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [Soaring Sales for $4,500 Puzzles? In a Lockdown, It All Fits](https://www.nytimes.com/2020/06/19/nyregion/par-jigsaw-puzzles-lockdown.html)
 * [Kept Out of the Library, a School District Tries Summer Reading by Drone](https://www.nytimes.com/2020/06/17/us/google-wing-drones-virginia-books.html)
 * [‘Mr. Jones’ Review: Bearing Witness to Stalin’s Evil](https://www.nytimes.com/2020/06/18/movies/mr-jones-review.html)
@@ -99,10 +100,10 @@ layout: default
 ## globo.com
 
 
-* [MP diz que mulher de Queiroz encontrou mãe de miliciano para discutir plano de fuga](https://oglobo.globo.com/brasil/mp-diz-que-mulher-de-queiroz-encontrou-mae-de-miliciano-para-discutir-plano-de-fuga-24487536)
-* [Covid-19: único hospital para presos do Rio tem novos respiradores fora de uso há quase um mês](https://oglobo.globo.com/rio/covid-19-unico-hospital-para-presos-do-rio-tem-novos-respiradores-fora-de-uso-ha-quase-um-mes-24486927)
-* [Mansur: Numa das mais deprimentes noites da história do Maracanã, o futebol foi detalhe](https://oglobo.globo.com/esportes/mansur-numa-das-mais-deprimentes-noites-da-historia-do-maracana-futebol-foi-detalhe-24487502)
+* [Brasil tem 47.897 mortes e 984.315 casos de Covid-19, aponta consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-47897-mortes-984315-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24487580)
+* [Mulher de Queiroz encontrou mãe de miliciano para discutir plano de fuga, diz MP](https://oglobo.globo.com/brasil/mulher-de-queiroz-encontrou-mae-de-miliciano-para-discutir-plano-de-fuga-diz-mp-24487536)
 * [Como a prisão de Queiroz afeta o governo de Jair Bolsonaro?](https://oglobo.globo.com/podcast/como-prisao-de-queiroz-afeta-governo-de-jair-bolsonaro-24487440)
+* [Quem paga a defesa de Queiroz?](https://epoca.globo.com/guilherme-amado/quem-paga-defesa-de-queiroz-24487327)
 * [Barroso: General na política é político](https://epoca.globo.com/guilherme-amado/barroso-general-na-politica-politico-24487311)
 * [Sociedade civil pressiona Banco Mundial a vetar Weintraub como diretor](https://epoca.globo.com/guilherme-amado/sociedade-civil-pressiona-banco-mundial-vetar-weintraub-como-diretor-24487298)
 * [Com Covid, deputado questionou isolamento, médicos e OMS](https://epoca.globo.com/guilherme-amado/com-covid-deputado-questionou-isolamento-medicos-oms-24487291)

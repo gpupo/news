@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 00:27:50 UTC
+# indexed at 19/06/2020 00:36:55 UTC
 
 
 ## news.ycombinator.com
@@ -10,8 +10,8 @@ layout: default
 
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
-* [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [Australian Government and businesses hit by state-based cyber attack, PM says](https://www.news.com.au/technology/online/hacking/australian-government-and-private-sector-reportedly-hit-by-massive-cyber-attack/news-story/b570a8ab68574f42f553fc901fa7d1e9)
+* [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
@@ -21,19 +21,19 @@ layout: default
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
 * [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
-* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
+* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
-* [Consistency Models (2018)](https://jepsen.io/consistency)
 * [Russia lifts ban on Telegram](https://apnews.com/1da061ce00eb531291b143ace0eed1c9)
+* [Consistency Models (2018)](https://jepsen.io/consistency)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
 * [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
-* [Show HN: A Political Non-Profit to End Mass Surveillance](https://everytwoyears.org/)
-* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [Why is there a “V” in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
+* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
 * [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
+* [Apple Rejects Appeal of Email App That Blasted Store Rules](https://www.bloomberg.com/news/articles/2020-06-18/apple-rejects-appeal-of-email-app-that-criticized-app-store-rule)
 * [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
 * [Portugal finally recognises consul who saved thousands from Holocaust](https://www.bbc.com/news/world-europe-53006790)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
@@ -105,7 +105,6 @@ layout: default
 
 * [Advogado de Flávio liga aos berros para advogada de Bolsonaro, a quem disse ontem não saber de Queiroz](https://epoca.globo.com/guilherme-amado/advogado-de-flavio-liga-aos-berrospara-advogada-de-bolsonaro-quem-disse-ontem-nao-saber-de-queiroz-24487004)
 * [Eletrobras precisa ser privatizada, ou o Brasil fica para trás, diz Montezano](https://oglobo.globo.com/economia/eletrobras-precisa-ser-privatizada-ou-brasil-fica-para-tras-diz-montezano-24487060)
-* [Ativista antecipou paradeiro de Queiroz após ter informação da filha de Olavo de Carvalho](https://oglobo.globo.com/brasil/ativista-antecipou-paradeiro-de-queiroz-apos-ter-informacao-da-filha-de-olavo-de-carvalho-24486999)
 * [Leia todas as notícias sobre a prisão de Fabrício Queiroz em Atibaia nesta quinta-feira](https://oglobo.globo.com/brasil/leia-todas-as-noticias-sobre-prisao-de-fabricio-queiroz-em-atibaia-nesta-quinta-feira-24486826)
 * [Senado aprova suspensão de pagamentos de consignados para aposentados pensionistas e trabalhadores](https://oglobo.globo.com/economia/senado-aprova-suspensao-de-pagamentos-de-consignados-para-aposentados-pensionistas-trabalhadores-24486983)
 * [Com atraso, tomógrafo da prefeitura instalado na Universal da Rocinha só ficará pronto na próxima segunda-feira](https://oglobo.globo.com/rio/com-atraso-tomografo-da-prefeitura-instalado-na-universal-da-rocinha-so-ficara-pronto-na-proxima-segunda-feira-24486952)
@@ -113,3 +112,4 @@ layout: default
 * [Botafogo e Fluminense irão recorrer ao STJD e aguardam momento certo para acionar Justiça comum](https://oglobo.globo.com/esportes/botafogo-fluminense-irao-recorrer-ao-stjd-aguardam-momento-certo-para-acionar-justica-comum-24486908)
 * [Câmara aprova teleatendimento para fisioterapia e terapia ocupacional durante a pandemia](https://oglobo.globo.com/sociedade/camara-aprova-teleatendimento-para-fisioterapia-terapia-ocupacional-durante-pandemia-24486966)
 * [Bolsonaro pede abertura 'racional' e 'responsável' do comércio](https://oglobo.globo.com/sociedade/bolsonaro-pede-abertura-racional-responsavel-do-comercio-24486905)
+* [Weintraub terá de assumir agenda progressista ao entrar no Banco Mundial](https://oglobo.globo.com/brasil/weintraub-tera-de-assumir-agenda-progressista-ao-entrar-no-banco-mundial-24486846)

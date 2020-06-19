@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 08:11:01 UTC
+# indexed at 19/06/2020 08:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
 * [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
-* [Apple’s App Store fees are ‘highway robbery’ – House antitrust committee chair](https://www.theverge.com/2020/6/18/21295778/apple-app-store-hey-email-fees-policies-antitrust-wwdc-2020)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
-* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
 * [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
+* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
 * [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
-* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
-* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
+* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
 * [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
 * [Consistency Models (2018)](https://jepsen.io/consistency)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [The Intelligence of Earthworms](https://www.historytoday.com/archive/natural-histories/intelligence-earthworms)
+* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
-* [Node.js Overload](https://www.thoughtworks.com/radar/platforms?blipid=202005026)
 * [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
+* [Bessemer Ventures Anti-Portfolio](https://www.bvp.com/anti-portfolio)
+* [Node.js Overload](https://www.thoughtworks.com/radar/platforms?blipid=202005026)
 ## nytimes.com
 
 
@@ -83,18 +83,18 @@ layout: default
 * [American Airlines Bans Conservative Activist Who Refused to Wear a Mask](https://www.nytimes.com/2020/06/18/us/american-airlines-mask-brandon-straka.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)
 * [A Critic Moves Between Literature and Film](https://www.nytimes.com/2020/06/17/insider/a-critic-moves-between-literature-and-film.html)
 * [‘A Sports Car That You Can Wear Into a Bar’](https://www.nytimes.com/2020/06/18/business/wristwatches-racecars.html)
+* [Tracks Hint at a Crocodile Ancestor That Walked on 2 Legs](https://www.nytimes.com/2020/06/17/science/crocodile-two-legs-tracks.html)
 * [Coronavirus Study: 1 in 5 People Worldwide at Risk](https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html)
 * [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
 * [On Social Media, Who's a Bot? Who's Not?](https://www.nytimes.com/2020/06/16/science/social-media-bots-kazemi.html)
-* [Tracks Hint at a Crocodile Ancestor That Walked on 2 Legs](https://www.nytimes.com/2020/06/17/science/crocodile-two-legs-tracks.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

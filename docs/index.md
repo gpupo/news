@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 19:09:29 UTC
+# indexed at 19/06/2020 19:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
 * [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
+* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
 * [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
-* [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
 * [CERN makes push to build €21B super-collider](https://www.nature.com/articles/d41586-020-01866-9)
+* [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
 * [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
 * [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
-* [Visualizing the Ongoing Drug War](https://tryplainjane.com/visualizing-the-ongoing-drug-war/)
 * [Private Equity Investing Now Allowed in 401(k) Retirement Funds](https://news.bloomberglaw.com/employee-benefits/benefits-overseer-oks-private-equity-investing-by-401k-holders)
 * [Micromort](https://en.wikipedia.org/wiki/Micromort)
 * [Controlling the terminal from Common Lisp (part 2)](https://turtleware.eu/posts/Charming-CLIM-tutorial-part-2--Rethinking-The-Output.html)
 * [Coin Flip Decides Material’s Fate](https://physics.aps.org/articles/v13/s81)
+* [A Critique of ANSI SQL Isolation Levels (1995) [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+* [Show HN: OBS-web – Control OBS from the browser](https://github.com/Niek/obs-web)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
-* ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
-* [Show HN: OBS-web, control OBS from the browser](https://github.com/Niek/obs-web)
 * [BBR v2: Model-based Congestion Control Performance Optimizations [slides]](https://datatracker.ietf.org/meeting/106/materials/slides-106-iccrg-update-on-bbrv2)
-* [Oracle’s BlueKai tracks you across the web. That data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
-* [Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
-* [A Critique of ANSI SQL Isolation Levels [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+* [Oracle’s BlueKai tracks people across the web – that data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
+* ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
 * [Breakthrough in inverse Laplace transform procedures](http://inverselaplace.org/)
+* [Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 * [Google quietly launches an AI-powered Pinterest rival named Keen](https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning)
-* [Ask HN: Good articles/courses for understanding mathematical notation?](https://news.ycombinator.com/item?id=23575296)
 * [Are planets with oceans common in the galaxy? It's likely, NASA scientists find](https://phys.org/news/2020-06-planets-oceans-common-galaxy-nasa.html)
+* [Ask HN: Good articles/courses for understanding mathematical notation?](https://news.ycombinator.com/item?id=23575296)
 * [Microsoft calls for a closer look at app stores](https://www.theverge.com/2020/6/19/21296657/microsoft-apple-app-store-antitrust-comments)
-* [Wirecard CEO quits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
+* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
 ## nytimes.com
 
 
@@ -45,13 +45,12 @@ layout: default
 * [Why NASCAR's Only Top Black Driver Finally Took On the Confederate Flag](https://www.nytimes.com/2020/06/19/sports/autoracing/bubba-wallace-nascar-black-lives-matter-confederate-flag.html)
 * [In California, Hanging Deaths of Two Black Men Summon a Dark History and F.B.I. Scrutiny](https://www.nytimes.com/2020/06/19/us/hanging-deaths-california.html)
 * [Social Media Giants Support Racial Justice. Their Products Undermine It.](https://www.nytimes.com/2020/06/19/technology/facebook-youtube-twitter-black-lives-matter.html)
-* [Coronavirus Live Updates](https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html)
 * [Navy Inquiry Faults Two Top Officers Aboard Roosevelt for Handling of Virus](https://www.nytimes.com/2020/06/19/us/politics/carrier-roosevelt-coronavirus-crozier.html)
 * [Black Tulsans, With a Defiant Juneteenth Celebration, Send a Message to Trump](https://www.nytimes.com/2020/06/19/us/politics/juneteenth-tulsa-trump-rally.html)
 * [Biden Proves an Elusive Target, Adding to Trump’s Frustration](https://www.nytimes.com/2020/06/19/us/politics/donald-trump-joe-biden-coronavirus.html)
 * [Bernie Sanders Predicted Revolution, Just Not This One](https://www.nytimes.com/2020/06/19/us/politics/bernie-sanders-protests.html)
-* [Seizing the Presidency to Suit His Own Needs](https://www.nytimes.com/2020/06/18/us/politics/trump-bolton.html)
-* [Top State Department Aide Resigns Over Trump’s Response to Racial Unrest](https://www.nytimes.com/2020/06/19/us/politics/mary-elizabeth-taylor-state-department-resign.html)
+* [Netanyahu’s Annexation Plans Meet Surprise Opponent: Israeli Settlers](https://www.nytimes.com/2020/06/01/world/middleeast/israel-annex-netanyahu-westbank.html)
 * [In This Pandemic, Personal Echoes of the AIDS Crisis](https://www.nytimes.com/2020/06/18/us/coronavirus-aids-epidemic-lessons.html)
 * [The History and Meaning of Juneteenth](https://www.nytimes.com/2020/06/19/podcasts/the-daily/juneteenth-emancipation-day-black-lives-matter.html)
 * [Which Opinions Are Out of Bounds?](https://www.nytimes.com/2020/06/18/opinion/the-argument-tom-cotton-resignation.html)
@@ -79,10 +78,10 @@ layout: default
 * [Rising Seas Threaten an American Institution: The 30-Year Mortgage](https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html)
 * [Where Black Lives Matter Protesters Stream Live Every Day: Twitch](https://www.nytimes.com/2020/06/18/technology/protesters-live-stream-twitch.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Neighbors Not Practicing Social Distancing? Here’s What to Do](https://www.nytimes.com/2020/04/17/smarter-living/neighbors-not-practicing-social-distancing-heres-what-to-do.html)
 * [LeBron James’s Business Partner Now Wants to Get Out the Vote](https://www.nytimes.com/2020/06/19/business/corner-office-maverick-carter.html)
 * [Belmont Stakes Experts’ Picks and Predictions: Who Will Win?](https://www.nytimes.com/article/belmont-stakes-picks-predictions.html)
 * [Food That’s a Business and a Comfort](https://www.nytimes.com/2020/06/19/business/malaysian-restaurant-azalina-pandemic.html)
@@ -101,7 +100,8 @@ layout: default
 ## globo.com
 
 
-* [Milhares de pessoas marcham pelo Dia da emancipação nos EUA, que ganha força com protestos contra a morte de Floyd](https://oglobo.globo.com/mundo/milhares-de-pessoas-marcham-pelo-dia-da-emancipacao-nos-eua-que-ganha-forca-com-protestos-contra-morte-de-floyd-24488360)
+* [Milhares marcham pelo dia do fim da escravidão nos EUA, e Trump ameaça manifestantes que atrapalharem comício](https://oglobo.globo.com/mundo/milhares-marcham-pelo-dia-do-fim-da-escravidao-nos-eua-trump-ameaca-manifestantes-que-atrapalharem-comicio-24488360)
+* [Aliados aconselham Bolsonaro a substituir Wassef no caso Flávio por advogado com bom trânsito na Justiça](https://oglobo.globo.com/brasil/aliados-aconselham-bolsonaro-substituir-wassef-no-caso-flavio-por-advogado-com-bom-transito-na-justica-24488521)
 * [PF vai tomar depoimento de Queiroz sobre vazamento de investigação para Flávio Bolsonaro](https://oglobo.globo.com/brasil/pf-vai-tomar-depoimento-de-queiroz-sobre-vazamento-de-investigacao-para-flavio-bolsonaro-24488452)
 * [Britânico mais procurado pela polícia do Reino Unido é preso em prédio de luxo em Fortaleza](https://epoca.globo.com/brasil/britanico-mais-procurado-pela-policia-do-reino-unido-preso-em-predio-de-luxo-em-fortaleza-1-24488290)
 * [Amigo de deputado com Covid-19, Silas Malafaia diz que ele viajava bastante pelo Rio e 'vivia no risco'](https://epoca.globo.com/brasil/amigo-de-deputado-com-covid-19-silas-malafaia-diz-que-ele-viajava-bastante-pelo-rio-vivia-no-risco-24487672)
@@ -110,4 +110,3 @@ layout: default
 * [Ford anuncia a venda da fábrica de caminhões em São Bernardo do Campo](https://oglobo.globo.com/economia/ford-anuncia-venda-da-fabrica-de-caminhoes-em-sao-bernardo-do-campo-24488411)
 * [Naomi Campbell relembra decepção por aparecer 'cinza' em revista: 'Só chorei'](https://oglobo.globo.com/ela/moda/naomi-campbell-relembra-decepcao-por-aparecer-cinza-em-revista-so-chorei-24488381)
 * [Google leva multa de € 50 milhões na França por violação de privacidade](https://oglobo.globo.com/economia/google-leva-multa-de-50-milhoes-na-franca-por-violacao-de-privacidade-24488363)
-* [Aras rejeita contestação à Lei de Alienação Parental no STF](https://epoca.globo.com/guilherme-amado/aras-rejeita-contestacao-lei-de-alienacao-parental-no-stf-1-24484873)

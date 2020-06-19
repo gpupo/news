@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 03:09:53 UTC
+# indexed at 19/06/2020 03:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
+* [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
-* [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
 * [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
 * [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
-* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
 * [Russia lifts ban on Telegram](https://apnews.com/1da061ce00eb531291b143ace0eed1c9)
+* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
+* [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
 * [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
-* [Consistency Models (2018)](https://jepsen.io/consistency)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
+* [Consistency Models (2018)](https://jepsen.io/consistency)
 * [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
-* [Why is there a “V” in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
-* [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
 * [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
-* [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
+* [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
-* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
+* [The Intelligence of Earthworms](https://www.historytoday.com/archive/natural-histories/intelligence-earthworms)
+* [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Advertisers Are Fleeing Tucker Carlson. Fox News Viewers Have Stayed.](https://www.nytimes.com/2020/06/18/business/media/tucker-carlson-advertisers-ratings.html)
 * [Park Police Head Had Been Accused of Illegal Searches and Unreliable Testimony](https://www.nytimes.com/2020/06/18/us/politics/park-police-gregory-monahan.html)
 * [Piracy Surges in Gulf of Mexico, Prompting U.S. Warning](https://www.nytimes.com/2020/06/18/world/americas/gulf-mexico-pirates-ships.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
-* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
-* [Neighbors Not Practicing Social Distancing? Here’s What to Do](https://www.nytimes.com/2020/04/17/smarter-living/neighbors-not-practicing-social-distancing-heres-what-to-do.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)

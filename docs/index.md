@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 02:34:35 UTC
+# indexed at 19/06/2020 03:09:53 UTC
 
 
 ## news.ycombinator.com
@@ -12,31 +12,31 @@ layout: default
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 * [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
+* [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
+* [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
 * [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
-* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
+* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
+* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
 * [Russia lifts ban on Telegram](https://apnews.com/1da061ce00eb531291b143ace0eed1c9)
-* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
 * [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
-* [Expose – A fully open-source ngrok alternative written in PHP](https://github.com/beyondcode/expose)
-* [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
-* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [Consistency Models (2018)](https://jepsen.io/consistency)
-* [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
-* [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
+* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
 * [Why is there a “V” in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
 * [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
+* [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
+* [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
 * [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
 ## nytimes.com
 
@@ -45,7 +45,7 @@ layout: default
 * [Setback on Immigration Policy Goal Leaves Trump Fuming Over Makeup of Courts](https://www.nytimes.com/2020/06/18/us/politics/trump-daca-conservative-courts.html)
 * [‘Dreamers’ Get a Reprieve on DACA](https://www.nytimes.com/2020/06/18/us/DACA-dreamers-supreme-court-immigration.html)
 * [Facebook Removes Trump Ads Displaying Symbol Used by Nazis](https://www.nytimes.com/2020/06/18/us/politics/facebook-trump-ads-antifa-red-triangle.html)
-* [Trump's Juneteenth in Tulsa: How a Campaign's Plans Went Awry](https://www.nytimes.com/2020/06/18/us/politics/trump-rally-tulsa-juneteenth.html)
+* [Trump's Juneteenth in Tulsa: How His Campaign Rally Plans Went Awry](https://www.nytimes.com/2020/06/18/us/politics/trump-rally-tulsa-juneteenth.html)
 * [Twitter Labels Trump Tweet About ‘Racist Baby’ as Manipulated Media](https://www.nytimes.com/2020/06/18/technology/trump-tweet-baby-manipulated.html)
 * [Covid-19 Worldwide: Live Updates on Cases and Deaths](https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html)
 * [De Blasio Says NYC Will Enter Phase 2 of Reopening on Monday](https://www.nytimes.com/2020/06/18/nyregion/phase-2-reopening-nyc.html)
@@ -82,11 +82,11 @@ layout: default
 * [Advertisers Are Fleeing Tucker Carlson. Fox News Viewers Have Stayed.](https://www.nytimes.com/2020/06/18/business/media/tucker-carlson-advertisers-ratings.html)
 * [Park Police Head Had Been Accused of Illegal Searches and Unreliable Testimony](https://www.nytimes.com/2020/06/18/us/politics/park-police-gregory-monahan.html)
 * [Piracy Surges in Gulf of Mexico, Prompting U.S. Warning](https://www.nytimes.com/2020/06/18/world/americas/gulf-mexico-pirates-ships.html)
-* [So You Had a Bad Day …](https://www.nytimes.com/2020/05/12/smarter-living/coronavirus-bad-day.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Managing Coronavirus Fears](https://www.nytimes.com/2020/04/13/well/mind/coronavirus-fear-anxiety-health.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [Neighbors Not Practicing Social Distancing? Here’s What to Do](https://www.nytimes.com/2020/04/17/smarter-living/neighbors-not-practicing-social-distancing-heres-what-to-do.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Total de casos diários de Covid-19 no mundo bate recorde, aponta levantamento da universidade americana](https://oglobo.globo.com/sociedade/total-de-casos-diarios-de-covid-19-no-mundo-bate-recorde-aponta-levantamento-da-universidade-americana-24487303)
 * [No novo normal do futebol, Flamengo vence o Bangu por 3 a 0 e está na semifinal da Taça Rio](https://oglobo.globo.com/esportes/flamengo/no-novo-normal-do-futebol-flamengo-vence-bangu-por-3-0-esta-na-semifinal-da-taca-rio-24487392)
 * [Um policial morre e outro é baleado em blitz na Nova Zelândia; corporação faz buscas para encontrar suspeito](https://oglobo.globo.com/mundo/um-policial-morre-outro-baleado-em-blitz-na-nova-zelandia-corporacao-faz-buscas-para-encontrar-suspeito-24487329)
 * [Fluminense tem quatro casos positivos de Covid-19 e um atleta inconclusivo](https://oglobo.globo.com/esportes/fluminense-tem-quatro-casos-positivos-de-covid-19-um-atleta-inconclusivo-24487304)
 * [Após ser transferido para o Rio, Queiroz quis saber se filhas também foram detidas](https://oglobo.globo.com/brasil/apos-ser-transferido-para-rio-queiroz-quis-saber-se-filhas-tambem-foram-detidas-24487272)
 * [Em dia de retorno do futebol, Hospital de Campanha do Maracanã registra duas mortes](https://oglobo.globo.com/esportes/em-dia-de-retorno-do-futebol-hospital-de-campanha-do-maracana-registra-duas-mortes-24487270)
-* [Além do impeachment: Witzel afirma não ter como privatizar Cedae até o fim do ano em conversa com deputados](https://oglobo.globo.com/rio/alem-do-impeachment-witzel-afirma-nao-ter-como-privatizar-cedae-ate-fim-do-ano-em-conversa-com-deputados-24487155)
-* [Missas presenciais serão retomadas em julho no Rio, anuncia arcebispo Dom Orani](https://oglobo.globo.com/rio/missas-presenciais-serao-retomadas-em-julho-no-rio-anuncia-arcebispo-dom-orani-24487234)
-* [Após prisão de Queiroz, panelaços são registrados no Rio e em São Paulo](https://oglobo.globo.com/brasil/apos-prisao-de-queiroz-panelacos-sao-registrados-no-rio-em-sao-paulo-24487195)
-* [Siga o dinheiro](https://oglobo.globo.com/economia/siga-dinheiro-24487148)
-* [Eletrobras precisa ser privatizada, ou o Brasil fica para trás, diz Montezano](https://oglobo.globo.com/economia/eletrobras-precisa-ser-privatizada-ou-brasil-fica-para-tras-diz-montezano-24487060)
+* [Instituições funcionam na prisão de Queiroz](https://oglobo.globo.com/opiniao/instituicoes-funcionam-na-prisao-de-queiroz-1-24486786)
+* [Governo protege Weintraub, acusado de crime contra a segurança nacional](https://oglobo.globo.com/opiniao/governo-protege-weintraub-acusado-de-crime-contra-seguranca-nacional-24486838)
+* [FGTS: Caixa libera hoje consulta do saque emergencial pelo aplicativo. Saiba como baixar e se cadastrar no app](https://oglobo.globo.com/economia/fgts-caixa-libera-hoje-consulta-do-saque-emergencial-pelo-aplicativo-saiba-como-baixar-se-cadastrar-no-app-24485738)
+* [Lives de hoje: Gilberto Gil, Elba Ramalho, Jorge Aragão e Paulinho Serra são destaque](https://oglobo.globo.com/rioshow/lives-de-hoje-gilberto-gil-elba-ramalho-jorge-aragao-paulinho-serra-sao-destaque-24485711)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 05:09:29 UTC
+# indexed at 19/06/2020 05:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
-* [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
 * [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
-* [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
+* [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
+* [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
-* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
-* [Russia lifts ban on Telegram](https://apnews.com/1da061ce00eb531291b143ace0eed1c9)
 * [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
+* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
 * [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
 * [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
+* [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
 * [Consistency Models (2018)](https://jepsen.io/consistency)
+* [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
 * [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
-* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
-* [China charges two detained Canadians with espionage](https://www.reuters.com/article/us-usa-trade-canada-idUSKBN23Q0JI)
+* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
+* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
 * [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
 * [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
-* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
 ## nytimes.com
 
 
@@ -73,19 +73,19 @@ layout: default
 * [Amid Upheaval, Juneteenth Takes the Cultural Spotlight](https://www.nytimes.com/2020/06/18/arts/television/juneteenth-holiday-pop-culture.html)
 * [Bob Dylan Still Bristles on ‘Rough and Rowdy Ways’](https://www.nytimes.com/2020/06/18/arts/music/bob-dylan-rough-and-rowdy-ways-review.html)
 * [Klobuchar Drops Out of Biden’s V.P. Search and Backs Picking a Woman of Color](https://www.nytimes.com/2020/06/18/us/politics/amy-klobuchar-biden-vice-president.html)
-* [Scientists Take Aim at Another Coronavirus Study in a Major Journal](https://www.nytimes.com/2020/06/18/health/coronavirus-retractions-studies.html)
+* [China Indicts 2 Canadians on Spying Charges, Escalating Dispute](https://www.nytimes.com/2020/06/19/world/asia/china-canada-kovrig-spavor.html)
 * [In the Danny Masterson Rape Case, Echoes of a 2019 Lawsuit](https://www.nytimes.com/2020/06/18/arts/television/danny-masterson-70s-show-rape-lawsuit.html)
 * [A Sheriff Who Defied Arizona’s Lockdown Is Infected With the Coronavirus](https://www.nytimes.com/2020/06/18/us/coronavirus-arizona-stay-at-home-mark-lamb.html)
 * [SEC Warns Mississippi Over Confederate Emblem on State Flag](https://www.nytimes.com/2020/06/18/sports/sec-mississippi-state-flag.html)
-* [Chapin, Brearley and Spence Schools Accused of Racist Culture by Alumni](https://www.nytimes.com/2020/06/17/nyregion/nyc-private-girls-schools-chapin-brearley-spence-racism.html)
+* [Will India Side With the West Against China? A Test Is at Hand](https://www.nytimes.com/2020/06/19/world/asia/india-china-border.html)
 * [Advertisers Are Fleeing Tucker Carlson. Fox News Viewers Have Stayed.](https://www.nytimes.com/2020/06/18/business/media/tucker-carlson-advertisers-ratings.html)
-* [Park Police Head Had Been Accused of Illegal Searches and Unreliable Testimony](https://www.nytimes.com/2020/06/18/us/politics/park-police-gregory-monahan.html)
+* [Chapin, Brearley and Spence Schools Accused of Racist Culture by Alumni](https://www.nytimes.com/2020/06/17/nyregion/nyc-private-girls-schools-chapin-brearley-spence-racism.html)
 * [Piracy Surges in Gulf of Mexico, Prompting U.S. Warning](https://www.nytimes.com/2020/06/18/world/americas/gulf-mexico-pirates-ships.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)

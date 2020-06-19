@@ -2,23 +2,23 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 22:09:54 UTC
+# indexed at 19/06/2020 22:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
+* [You download the app and it doesn’t work](https://youdownloadtheappanditdoesntwork.com)
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
-* [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
-* [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
-* [You download the app and it doesn’t work](https://youdownloadtheappanditdoesntwork.com)
-* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
+* [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
+* [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
-* [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
+* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
+* [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
 * [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
 * [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
 * ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
@@ -28,16 +28,16 @@ layout: default
 * [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 * [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
 * [Apple’s secretive AR and VR Headset plans altered by internal differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses)
-* [Controlling the terminal from Common Lisp (part 2)](https://turtleware.eu/posts/Charming-CLIM-tutorial-part-2--Rethinking-The-Output.html)
 * [DiCE Molecules](https://axial.substack.com/p/axial-dice-molecules)
+* [Controlling the terminal from Common Lisp (part 2)](https://turtleware.eu/posts/Charming-CLIM-tutorial-part-2--Rethinking-The-Output.html)
 * [Oracle’s BlueKai tracks people across the web – that data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
 * [Micromort](https://en.wikipedia.org/wiki/Micromort)
 * [Show HN: OBS-web – Control OBS from the browser](https://github.com/Niek/obs-web)
 * [A Critique of ANSI SQL Isolation Levels (1995) [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
 * [CERN makes push to build €21B super-collider](https://www.nature.com/articles/d41586-020-01866-9)
 * [Coin Flip Decides Material’s Fate](https://physics.aps.org/articles/v13/s81)
-* [Evolution of the precise code intel back end](https://about.sourcegraph.com/blog/evolution-of-the-precise-code-intel-backend)
 * [BBR v2: Model-based Congestion Control Performance Optimizations [slides]](https://datatracker.ietf.org/meeting/106/materials/slides-106-iccrg-update-on-bbrv2)
+* [Evolution of the precise code intel back end](https://about.sourcegraph.com/blog/evolution-of-the-precise-code-intel-backend)
 ## nytimes.com
 
 
@@ -67,12 +67,12 @@ layout: default
 * [Aunt Jemima Is Gone, Time to End Other Racist Branding](https://www.nytimes.com/2020/06/19/opinion/aunt-jemima-racist-branding.html)
 * [Tulsa and the Many Sins of Racism](https://www.nytimes.com/2020/06/18/opinion/tulsa-race-massacre-racism.html)
 * [How Moderates Failed Black America](https://www.nytimes.com/2020/06/18/opinion/black-america-education.html)
-* [How to Entertain Your Kids This Summer? Maybe Don’t](https://www.nytimes.com/2020/06/18/arts/kids-summer-activities-virus.html)
-* [How Richard Pryor Changed the Way Comedy Sees Police Brutality](https://www.nytimes.com/2020/06/17/arts/richard-pryor-police-brutality.html)
-* [On a Pennsylvania Farm, ‘Nature Is Not Just Carrying On’](https://www.nytimes.com/2020/06/19/climate/quarantine-coronavirus-covid.html)
-* [Hong Kong’s National Security Law, Explained](https://www.nytimes.com/2020/06/19/world/asia/hong-kong-china-national-security.html)
+* [Missing Those Old Familiar Places](https://www.nytimes.com/2020/06/18/dining/nyc-restaurants-bars-closed-coronavirus.html)
+* [New Woe for a Jittery N.Y.C.: Illegal Fireworks Going Off All Night](https://www.nytimes.com/2020/06/19/nyregion/fireworks-every-night-nyc.html)
+* [We Need to Stop Measuring Black Lives by Their Whiteness](https://www.nytimes.com/2020/06/18/magazine/before-you-call-the-cops-video-tyler-merritt.html)
+* [Mueller Report Redactions on Roger Stone Are Revealed](https://www.nytimes.com/2020/06/19/us/politics/mueller-report-redactions-roger-stone.html)
 * [After 15 Years, Apple Prepares to Break Up With Intel](https://www.nytimes.com/2020/06/19/technology/apple-intel-breakup.html)
-* [Iran Is Accused of Hiding Suspected Nuclear Activity](https://www.nytimes.com/2020/06/19/us/politics/iran-nuclear-iaea.html)
+* [Hong Kong’s National Security Law, Explained](https://www.nytimes.com/2020/06/19/world/asia/hong-kong-china-national-security.html)
 * [Without a ‘Bubble,’ N.F.L. Season Might Not Happen, Fauci Says](https://www.nytimes.com/2020/06/18/sports/anthony-fauci-nfl-bubble-coronavirus.html)
 * [Pelosi Orders Removal of Four Confederate Portraits From the House](https://www.nytimes.com/2020/06/18/us/politics/pelosi-confederate-portraits-house.html)
 * [As Annexation Looms, Israeli Experts Warn of Security Risks](https://www.nytimes.com/2020/06/19/world/middleeast/isael-annexation-west-bank-risks.html)
@@ -80,17 +80,17 @@ layout: default
 * [Rising Seas Threaten an American Institution: The 30-Year Mortgage](https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html)
 * [Businesses Brace for Possible Limits on Foreign Worker Visas](https://www.nytimes.com/2020/06/19/us/foreign-worker-visas-trump-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [LeBron James’s Business Partner Now Wants to Get Out the Vote](https://www.nytimes.com/2020/06/19/business/corner-office-maverick-carter.html)
 * [Belmont Stakes Experts’ Picks and Predictions: Who Will Win?](https://www.nytimes.com/article/belmont-stakes-picks-predictions.html)
 * [Food That’s a Business and a Comfort](https://www.nytimes.com/2020/06/19/business/malaysian-restaurant-azalina-pandemic.html)
 * [Who Is Opal Lee? Her Campaign to Make Juneteenth a Holiday](https://www.nytimes.com/2020/06/18/style/opal-lee-juneteenth.html)
 * [You May Have Antibodies After Coronavirus Infection. But Not for Long.](https://www.nytimes.com/2020/06/18/health/coronavirus-antibodies.html)
-* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
+* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
 * [5 Takeaways From John Bolton’s Book "The Room Where it Happened"](https://www.nytimes.com/2020/06/18/us/politics/john-bolton-memoir-takeaways.html)
 * [Trump Can’t Immediately End DACA, Supreme Court Rules](https://www.nytimes.com/2020/06/18/us/trump-daca-supreme-court.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Rio registra 183 novas mortes por coronavírus e ultrapassa marca de 90 mil casos](https://oglobo.globo.com/rio/rio-registra-183-novas-mortes-por-coronavirus-ultrapassa-marca-de-90-mil-casos-24489067)
+* [Prisão de Queiroz vai apressar denúncia do MP do Rio sobre rachadinha](https://oglobo.globo.com/analitico/prisao-de-queiroz-vai-apressar-denuncia-do-mp-do-rio-sobre-rachadinha-24488922)
+* [No dia em que Brasil ultrapassa 1 milhão de casos, Bolsonaro volta a minimizar a Covid-19](https://oglobo.globo.com/sociedade/no-dia-em-que-brasil-ultrapassa-1-milhao-de-casos-bolsonaro-volta-minimizar-covid-19-24489183)
+* [Atos antidemocráticos: Moraes autoriza que Receita investigue movimentação bancária de parlamentares bolsonaristas](https://oglobo.globo.com/brasil/atos-antidemocraticos-moraes-autoriza-que-receita-investigue-movimentacao-bancaria-de-parlamentares-bolsonaristas-24489096)
+* [Rio registra 183 novas mortes por coronavírus e ultrapassa marca de 90 mil casos confirmados](https://oglobo.globo.com/rio/rio-registra-183-novas-mortes-por-coronavirus-ultrapassa-marca-de-90-mil-casos-confirmados-24489067)
+* [Espanhol: Barcelona tropeça no Sevilla e pode perder a liderança para o Real Madrid](https://oglobo.globo.com/esportes/espanhol-barcelona-tropeca-no-sevilla-pode-perder-lideranca-para-real-madrid-24489179)
+* [Caso João Pedro: Justiça Federal determina custódia e isolamento de helicópteros utilizados na operação](https://oglobo.globo.com/rio/caso-joao-pedro-justica-federal-determina-custodia-isolamento-de-helicopteros-utilizados-na-operacao-24489118)
 * [FGTS: trabalhadores que não quiserem fazer o saque emergencial já devem informar à Caixa](https://oglobo.globo.com/economia/fgts-trabalhadores-que-nao-quiserem-fazer-saque-emergencial-ja-devem-informar-caixa-24489066)
 * [Processos na Justiça crescem na pandemia](https://epoca.globo.com/processos-na-justica-crescem-na-pandemia-24486751)
 * [Busca à Justiça cresce na pandemia](https://oglobo.globo.com/brasil/busca-justica-cresce-na-pandemia-24486744)
 * [Citroën faz uma aposta na revolução elétrica: é o novo C4](https://oglobo.globo.com/economia/carros/citroen-faz-uma-aposta-na-revolucao-eletrica-o-novo-c4-24488947)
-* [Crivella admite chance de nova onda de Covid-19 após flexibilização e não descarta adiar plano ou retroceder etapas](https://oglobo.globo.com/rio/crivella-admite-chance-de-nova-onda-de-covid-19-apos-flexibilizacao-nao-descarta-adiar-plano-ou-retroceder-etapas-24488764)
-* [Defesa de Queiroz pede à Justiça prisão domiciliar para ex-assessor de Flávio Bolsonaro](https://oglobo.globo.com/brasil/defesa-de-queiroz-pede-justica-prisao-domiciliar-para-ex-assessor-de-flavio-bolsonaro-24488907)
-* [A vez do 'Onde está Bolsonaro?'](https://epoca.globo.com/guilherme-amado/a-vez-do-onde-esta-bolsonaro-24488966)
-* [É #FAKE que vacina contra o coronavírus a ser testada no Brasil só foi ministrada em macacos](https://oglobo.globo.com/fato-ou-fake/e-fake-que-vacina-contra-coronavirus-ser-testada-no-brasil-so-foi-ministrada-em-macacos-24488958)
-* [Carta contra Weintraub no Banco Mundial soma 270 assinaturas de empresários, artistas e sociedade civil](https://epoca.globo.com/guilherme-amado/carta-contra-weintraub-no-banco-mundial-soma-270-assinaturas-de-empresarios-artistas-sociedade-civil-24488939)

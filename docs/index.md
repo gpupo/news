@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 05:34:34 UTC
+# indexed at 19/06/2020 06:10:55 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Neil Armstrong's reply to a Moon landing skeptic](https://kottke.org/20/06/teacher-tells-off-neil-armstrong-for-faking-the-moon-landing)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 * [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
-* ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
+* ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
-* [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
-* [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
-* [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
 * [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
+* [Hash: A free, online platform for modeling](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/)
+* [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
+* [Too many academics are now censoring themselves (2016)](https://www.theguardian.com/education/2016/oct/11/censor-lecturers-trigger-warnings-students-distressed)
+* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
+* [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
+* [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
 * [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
-* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
-* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
-* [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
-* [Consistency Models (2018)](https://jepsen.io/consistency)
-* [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
-* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
-* [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
+* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
-* [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
-* [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
-* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
-* [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
-* [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
+* [Consistency Models (2018)](https://jepsen.io/consistency)
+* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
+* [Apple gave me the Hey treatment back in 2014](https://ylukem.com/blog/apple-gave-me-the-hey-treatment-back-in-2014)
+* [Node.js Overload](https://www.thoughtworks.com/radar/platforms?blipid=202005026)
+* [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
+* [The Intelligence of Earthworms](https://www.historytoday.com/archive/natural-histories/intelligence-earthworms)
+* [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [Chapin, Brearley and Spence Schools Accused of Racist Culture by Alumni](https://www.nytimes.com/2020/06/17/nyregion/nyc-private-girls-schools-chapin-brearley-spence-racism.html)
 * [Piracy Surges in Gulf of Mexico, Prompting U.S. Warning](https://www.nytimes.com/2020/06/18/world/americas/gulf-mexico-pirates-ships.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [A pandemia e as novas formas de gestão](https://oglobo.globo.com/opiniao/a-pandemia-as-novas-formas-de-gestao-24485585)
-* [Por que a crise é mais aguda nos estados?](https://oglobo.globo.com/opiniao/por-que-crise-mais-aguda-nos-estados-24485525)
-* [Total de casos diários de Covid-19 no mundo bate recorde, aponta levantamento da universidade americana](https://oglobo.globo.com/sociedade/total-de-casos-diarios-de-covid-19-no-mundo-bate-recorde-aponta-levantamento-da-universidade-americana-24487303)
-* [Instituições funcionam na prisão de Queiroz](https://oglobo.globo.com/opiniao/instituicoes-funcionam-na-prisao-de-queiroz-1-24486786)
-* [Todas as faces da crise](https://oglobo.globo.com/opiniao/todas-as-faces-da-crise-24486933)
-* [Avôs, filhos e netos](https://oglobo.globo.com/opiniao/avos-filhos-netos-24486918)
-* [A mulher do Chopin](https://oglobo.globo.com/opiniao/a-mulher-do-chopin-24486889)
-* [Governo protege Weintraub, acusado de crime contra a segurança nacional](https://oglobo.globo.com/opiniao/governo-protege-weintraub-acusado-de-crime-contra-seguranca-nacional-24486838)
-* [FGTS: Caixa libera hoje consulta do saque emergencial pelo aplicativo. Saiba como baixar e se cadastrar no app](https://oglobo.globo.com/economia/fgts-caixa-libera-hoje-consulta-do-saque-emergencial-pelo-aplicativo-saiba-como-baixar-se-cadastrar-no-app-24485738)
-* [Lives de hoje: Gilberto Gil, Elba Ramalho, Jorge Aragão e Paulinho Serra são destaque](https://oglobo.globo.com/rioshow/lives-de-hoje-gilberto-gil-elba-ramalho-jorge-aragao-paulinho-serra-sao-destaque-24485711)
+* [A dificuldade em recorrer ao valioso auxílio dos dados de redes sociais](https://epoca.globo.com/sociedade/a-dificuldade-em-recorrer-ao-valioso-auxilio-dos-dados-de-redes-sociais-24487334)
+* [A chegada do cometa em Fabrício Queiroz](https://epoca.globo.com/brasil/a-chegada-do-cometa-em-fabricio-queiroz-24487244)
+* [O perigo novamente à porta da Cinemateca Brasileira](https://epoca.globo.com/cultura/o-perigo-novamente-porta-da-cinemateca-brasileira-24487131)
+* [As lições da reabertura no exterior para o Brasil](https://epoca.globo.com/mundo/as-licoes-da-reabertura-no-exterior-para-brasil-24487058)
+* [Os recados bíblicos de Pastor Everaldo a Wilson Witzel](https://epoca.globo.com/rio/os-recados-biblicos-de-pastor-everaldo-wilson-witzel-24486858)
+* [A fuga de fundos trilionários do Brasil por conta da tragédia ambiental](https://epoca.globo.com/economia/a-fuga-de-fundos-trilionarios-do-brasil-por-conta-da-tragedia-ambiental-24486604)
+* [Juízo de valor](https://epoca.globo.com/monica-de-bolle/juizo-de-valor-24486480)
+* [Por que tanta gente boa insiste em negar os fatos](https://epoca.globo.com/helio-gurovitz/por-que-tanta-gente-boa-insiste-em-negar-os-fatos-24486433)
+* [Bolsonaro, o STF e a caserna](https://epoca.globo.com/guilherme-amado/bolsonaro-stf-a-caserna-1-24486374)
+* [Os limites da mentira](https://epoca.globo.com/brasil/os-limites-da-mentira-24486285)

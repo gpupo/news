@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 23:24:19 UTC
+# indexed at 19/06/2020 23:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -21,21 +21,21 @@ layout: default
 * [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
 * [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
-* [SCP – Familiar, Simple, Insecure, and Slow](https://gravitational.com/blog/scp-familiar-simple-insecure-slow/)
 * [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
+* [SCP – Familiar, Simple, Insecure, and Slow](https://gravitational.com/blog/scp-familiar-simple-insecure-slow/)
 * [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
-* [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
-* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 * ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
+* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
+* [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
 * [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
-* [DiCE Molecules](https://axial.substack.com/p/axial-dice-molecules)
 * [Apple’s secretive AR and VR Headset plans altered by internal differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses)
 * [SpaceX applies to offer high-speed internet service to Canadians](https://www.cbc.ca/news/business/spacex-high-speed-internet-1.5618918)
+* [DiCE Molecules](https://axial.substack.com/p/axial-dice-molecules)
 * [Controlling the terminal from Common Lisp (part 2)](https://turtleware.eu/posts/Charming-CLIM-tutorial-part-2--Rethinking-The-Output.html)
 * [Oracle’s BlueKai tracks people across the web – that data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
-* [Micromort](https://en.wikipedia.org/wiki/Micromort)
 * [ASK HN: What’s a big trend we should all be following?](https://news.ycombinator.com/item?id=23579184)
+* [Micromort](https://en.wikipedia.org/wiki/Micromort)
 * [Show HN: OBS-web – Control OBS from the browser](https://github.com/Niek/obs-web)
 * [A Critique of ANSI SQL Isolation Levels (1995) [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
 ## nytimes.com
@@ -57,10 +57,10 @@ layout: default
 * [The History and Meaning of Juneteenth](https://www.nytimes.com/2020/06/19/podcasts/the-daily/juneteenth-emancipation-day-black-lives-matter.html)
 * [Which Opinions Are Out of Bounds?](https://www.nytimes.com/2020/06/18/opinion/the-argument-tom-cotton-resignation.html)
 * [André Leon Talley on ‘The Chiffon Trenches’](https://www.nytimes.com/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html)
-* [Racism Can Be Defeated by a Revolution of the Heart](https://www.nytimes.com/2020/06/19/opinion/floyd-protests-race-america.html)
-* [The Tulsa Race Massacre, Revisited](https://www.nytimes.com/2020/06/19/opinion/tulsa-race-riot-massacre-graves.html)
-* [Why Is the G.O.P. Fighting to Preserve Monuments to Traitors in the Capitol?](https://www.nytimes.com/2020/06/19/opinion/capitol-confederacy-statues.html)
 * [Undercounting Those Killed by the N.Y.P.D.](https://www.nytimes.com/2020/06/19/opinion/police-involved-deaths-new-york-city.html)
+* [Why Is the G.O.P. Fighting to Preserve Monuments to Traitors in the Capitol?](https://www.nytimes.com/2020/06/19/opinion/capitol-confederacy-statues.html)
+* [The Tulsa Race Massacre, Revisited](https://www.nytimes.com/2020/06/19/opinion/tulsa-race-riot-massacre-graves.html)
+* [Racism Can Be Defeated by a Revolution of the Heart](https://www.nytimes.com/2020/06/19/opinion/floyd-protests-race-america.html)
 * [Roberts to Trump: Don’t Take the Supreme Court for Granted](https://www.nytimes.com/2020/06/19/opinion/supreme-court-daca-lgbtq.html)
 * [Why Juneteenth Matters](https://www.nytimes.com/2020/06/18/opinion/juneteenth-slavery-freedom.html)
 * [What John Bolton and His Book Say About Trump’s Washington](https://www.nytimes.com/2020/06/18/opinion/john-bolton-book-trump.html)
@@ -90,10 +90,10 @@ layout: default
 * [Fashion Magazine Editors, Take a Page From Audrey Withers](https://www.nytimes.com/2020/06/18/style/vogue-editor-england-audrey-withers-biography-dressed-for-war.html)
 * [This Year, a London Art Fair Will Happen Everywhere](https://www.nytimes.com/2020/06/18/arts/london-masterpiece-online.html)
 * [Nicole Beharie on ‘Miss Juneteenth’  and 'Sleepy Hollow'](https://www.nytimes.com/2020/06/19/movies/nicole-beharie-miss-juneteenth-sleepy-hollow.html)
-* [You May Have Antibodies After Coronavirus Infection. But Not for Long.](https://www.nytimes.com/2020/06/18/health/coronavirus-antibodies.html)
-* [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
-* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
+* [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
+* [You May Have Antibodies After Coronavirus Infection. But Not for Long.](https://www.nytimes.com/2020/06/18/health/coronavirus-antibodies.html)
+* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [5 Takeaways From John Bolton’s Book "The Room Where it Happened"](https://www.nytimes.com/2020/06/18/us/politics/john-bolton-memoir-takeaways.html)
 * [Trump Can’t Immediately End DACA, Supreme Court Rules](https://www.nytimes.com/2020/06/18/us/trump-daca-supreme-court.html)
@@ -104,7 +104,7 @@ layout: default
 ## globo.com
 
 
-* [Latam não terá voos domésticos neste sábado](https://oglobo.globo.com/economia/latam-nao-tera-voos-domesticos-neste-sabado-24489323)
+* [Latam não vai operar voos domésticos neste sábado](https://oglobo.globo.com/economia/latam-nao-vai-operar-voos-domesticos-neste-sabado-24489323)
 * [Após passar marca de 1 milhão de casos de Covid-19, Brasil chega a 49.090 óbitos, indica consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/apos-passar-marca-de-1-milhao-de-casos-de-covid-19-brasil-chega-49090-obitos-indica-consorcio-de-veiculos-de-imprensa-24488970)
 * [Sem acordo com credores, Argentina estende por mais um mês renegociação da dívida](https://oglobo.globo.com/economia/sem-acordo-com-credores-argentina-estende-por-mais-um-mes-renegociacao-da-divida-24489320)
 * [Relator propõe mudanças no Código Penal e punições às plataformas para evitar fake news na internet](https://oglobo.globo.com/brasil/relator-propoe-mudancas-no-codigo-penal-punicoes-as-plataformas-para-evitar-fake-news-na-internet-24489277)

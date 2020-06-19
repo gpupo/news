@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 12:12:56 UTC
+# indexed at 19/06/2020 12:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [From Zero to Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 * [Show HN: Automatically Rename HEY's 'Imbox' to 'Inbox'](https://chrome.google.com/webstore/detail/hey-typo-fixer/caapeklncafkddgbhdhneelnoamcjkin)
+* [From Zero to Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
+* [Wirecard CEO quits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Breakthrough in inverse Laplace transform procedures](http://inverselaplace.org/)
-* [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
+* [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [Hash: A free, online platform for modeling](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [Dogs' Eyes Have Changed Since Humans Befriended Them (2019)](https://www.theatlantic.com/science/archive/2019/06/domestication-gave-dogs-two-new-eye-muscles/591868/)
-* [Apple sends a letter to Hey: Change your app or get out of the App Store](https://www.protocol.com/apple-hey-rejection-letter)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
@@ -29,15 +29,15 @@ layout: default
 * [Bessemer Ventures Anti-Portfolio](https://www.bvp.com/anti-portfolio)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
-* [The Silicon Oligarchy](https://themargins.substack.com/p/the-silicon-oligarchy?token=eyJ1c2VyX2lkIjoxMDYwNDE2NCwicG9zdF9pZCI6NTQzOTE1LCJfIjoieFFrWkoiLCJpYXQiOjE1OTI1NTU0NzcsImV4cCI6MTU5MjU1OTA3NywiaXNzIjoicHViLTY2ODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LnUmkJ5oBydiuAjz5ljbHGRHeqaIezIo8S4oni7nHMo)
-* [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
-* [Couple Creates Stunning Garden Pub and Everything Inside of It Is Handmade](https://www.boredpanda.com/the-drunken-crab-garden-pub-octavia-chic/?cexp_id=29790&cexp_var=1&_f=featured)
-* [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
+* [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
+* [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
-* [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
 * [Paleolithic French didn’t let their dead rest peacefully](https://arstechnica.com/science/2020/06/paleolithic-french-didnt-let-their-dead-rest-peacefully/)
 * [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
+* [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
+* [Couple Creates Stunning Garden Pub and Everything Inside of It Is Handmade](https://www.boredpanda.com/the-drunken-crab-garden-pub-octavia-chic/?cexp_id=29790&cexp_var=1&_f=featured)
+* [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [Bernie Sanders Predicted Revolution, Just Not This One](https://www.nytimes.com/2020/06/19/us/politics/bernie-sanders-protests.html)
 * [Will India Side With the West Against China? A Test Is at Hand](https://www.nytimes.com/2020/06/19/world/asia/india-china-border.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [Soaring Sales for $4,500 Puzzles? In a Lockdown, It All Fits](https://www.nytimes.com/2020/06/19/nyregion/par-jigsaw-puzzles-lockdown.html)
 * [Kept Out of the Library, a School District Tries Summer Reading by Drone](https://www.nytimes.com/2020/06/17/us/google-wing-drones-virginia-books.html)
 * [‘Mr. Jones’ Review: Bearing Witness to Stalin’s Evil](https://www.nytimes.com/2020/06/18/movies/mr-jones-review.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Surfistas encaram ondas de até quatro metros na Avalanche capixaba](https://oglobo.globo.com/esportes/surfistas-encaram-ondas-de-ate-quatro-metros-na-avalanche-capixaba-24487657)
+* [Neymar é condenado a pagar R$ 40 milhões ao Barcelona](https://oglobo.globo.com/esportes/neymar-condenado-pagar-40-milhoes-ao-barcelona-24487701)
 * [Twitter marca postagem de Trump sobre 'bebê racista' como mídia manipulada](https://oglobo.globo.com/mundo/twitter-marca-postagem-de-trump-sobre-bebe-racista-como-midia-manipulada-24487688)
+* [Viaduto de Mangueira tem retenção no trânsito após carreta enguiçar](https://oglobo.globo.com/rio/viaduto-de-mangueira-tem-retencao-no-transito-apos-carreta-enguicar-24487684)
 * [Copa de 1970: Brasil 4 x 2 Peru, dois gênios se falam pelo olhar na goleada](https://oglobo.globo.com/esportes/copa-de-1970-brasil-4-2-peru-dois-genios-se-falam-pelo-olhar-na-goleada-24487682)
 * [Nos Estados Unidos, o setor aéreo começa a se recuperar com turismo doméstico](https://oglobo.globo.com/boa-viagem/nos-estados-unidos-setor-aereo-comeca-se-recuperar-com-turismo-domestico-24487663)
-* [Surfistas encaram ondas de até quatro metros na Avalanche capixaba](https://oglobo.globo.com/esportes/surfistas-encaram-ondas-de-ate-quatro-metros-na-avalanche-capixaba-24487657)
 * [Moradores relatam manhã de tiroteio e explosões no Vidigal](https://oglobo.globo.com/rio/moradores-relatam-manha-de-tiroteio-explosoes-no-vidigal-1-24487664)
 * [Homenageado, pai de ex-assessora articulou fraude em ponto da Alerj com Queiroz e advogado de Flávio Bolsonaro, diz MP](https://oglobo.globo.com/brasil/homenageado-pai-de-ex-assessora-articulou-fraude-em-ponto-da-alerj-com-queiroz-advogado-de-flavio-bolsonaro-diz-mp-24487645)
-* ['Gosto de cantar sobre aquela menina que é dona de si', diz Pocah](https://oglobo.globo.com/ela/gente/gosto-de-cantar-sobre-aquela-menina-que-dona-de-si-diz-pocah-24487604)
 * [Carlos Ruiz Zafón, autor de 'A sombra do vento', morre aos 55 anos](https://oglobo.globo.com/cultura/carlos-ruiz-zafon-autor-de-sombra-do-vento-morre-aos-55-anos-24487608)
-* [Volta apressada do futebol reflete nossas mazelas enquanto país e coletividade](https://oglobo.globo.com/esportes/volta-apressada-do-futebol-reflete-nossas-mazelas-enquanto-pais-coletividade-24487620)
 * [Live reunirá Gilberto Gil, Adriana Calcanhoto e Brown para ajudar produtores rurais](https://epoca.globo.com/guilherme-amado/live-reunira-gilberto-gil-adriana-calcanhoto-brown-para-ajudar-produtores-rurais-24487343)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 01:34:17 UTC
+# indexed at 19/06/2020 02:10:33 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 * [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+* [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
 * [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
-* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
+* [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
 * [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
-* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
+* [Windows 10 feature will fix Google Chrome’s biggest problem](https://www.windowslatest.com/2020/06/18/google-chrome-will-finally-use-less-memory-on-windows-10/)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
-* [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
-* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
-* [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
+* [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
+* [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
 * [Russia lifts ban on Telegram](https://apnews.com/1da061ce00eb531291b143ace0eed1c9)
+* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
+* [BuildZoom (a better way to remodel) is hiring a growth associate](https://jobs.lever.co/buildzoom/0e86e9ea-a3eb-4f19-8697-425db484942f)
 * [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [Consistency Models (2018)](https://jepsen.io/consistency)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
 * [Apple Music on Android requires its own payment details to avoid Google 30% cut](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/appleid/android-apple-music-account-payment-none.jpg)
-* [Why is there a “V” in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
-* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
+* [Why is there a “V” in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
-* [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
+* [A Twitch channel from which viewers can play with CockroachDB](https://twitch.tv/twitchrunscockroachdb)
+* [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
-* [Portugal finally recognises consul who saved thousands from Holocaust](https://www.bbc.com/news/world-europe-53006790)
-* [The Coming Chip Wars](https://steveblank.com/2020/06/18/the-coming-chip-wars-of-the-21st-century/)
-* [The Intelligence of Earthworms](https://www.historytoday.com/archive/natural-histories/intelligence-earthworms)
+* [Security Bulletin VLC 3.0.11](https://www.videolan.org/security/sb-vlc3011.html)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [Setback on Immigration Policy Goal Leaves Trump Fuming Over Makeup of Courts](https://www.nytimes.com/2020/06/18/us/politics/trump-daca-conservative-courts.html)
 * [‘Dreamers’ Get a Reprieve on DACA](https://www.nytimes.com/2020/06/18/us/DACA-dreamers-supreme-court-immigration.html)
 * [Facebook Removes Trump Ads Displaying Symbol Used by Nazis](https://www.nytimes.com/2020/06/18/us/politics/facebook-trump-ads-antifa-red-triangle.html)
-* [How the Trump Campaign’s Plans for a Triumphant Rally Went Awry](https://www.nytimes.com/2020/06/18/us/politics/trump-rally-tulsa-juneteenth.html)
+* [Trump's Juneteenth in Tulsa: How a Campaign's Plans Went Awry](https://www.nytimes.com/2020/06/18/us/politics/trump-rally-tulsa-juneteenth.html)
 * [Covid-19 Worldwide: Live Updates on Cases and Deaths](https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html)
 * [De Blasio Says NYC Will Enter Phase 2 of Reopening on Monday](https://www.nytimes.com/2020/06/18/nyregion/phase-2-reopening-nyc.html)
 * [Coronavirus Bankruptcies Are Coming](https://www.nytimes.com/2020/06/18/business/corporate-bankruptcy-coronavirus.html)
@@ -53,7 +53,7 @@ layout: default
 * [Bolton Unites Republicans and Democrats in Scorn Over Tell-All Book](https://www.nytimes.com/2020/06/18/us/politics/bolton-book-congress.html)
 * [Police Decisions Are Scrutinized After Rayshard Brooks’s Fatal Encounter](https://www.nytimes.com/2020/06/18/us/rayshard-brooks-police-tactics.html)
 * [Live Updates: Garrett Rolfe Surrenders in Rayshard Brooks Killing](https://www.nytimes.com/2020/06/18/us/rayshard-brooks-garrett-rolfe-video.html)
-* [U.K. Grapples With Its Role in Atlantic Slave Trade](https://www.nytimes.com/2020/06/18/world/europe/uk-slavery-trade-lloyds-greene-king.html)
+* [Lloyd’s of London and Greene King Acknowledge Ties to Slave Trade](https://www.nytimes.com/2020/06/18/world/europe/uk-slavery-trade-lloyds-greene-king.html)
 * [Eric Andre Isn’t a Prankster, He’s a ‘Benevolent Attacker’](https://www.nytimes.com/2020/06/18/movies/eric-andre-netflix.html)
 * [DACA, Unemployment, Space Tourism: Your Thursday Evening Briefing](https://www.nytimes.com/2020/06/18/briefing/daca-unemployment-space-tourism.html)
 * [](https://www.nytimes.com/2020/06/18/podcasts/daca-supreme-court-dreamers.html)
@@ -83,9 +83,9 @@ layout: default
 * [Piracy Surges in Gulf of Mexico, Prompting U.S. Warning](https://www.nytimes.com/2020/06/18/world/americas/gulf-mexico-pirates-ships.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [No novo normal do futebol, Flamengo vence o Bangu por 3 a 0 e está na semifinal da Taça Rio](https://oglobo.globo.com/esportes/flamengo/no-novo-normal-do-futebol-flamengo-vence-bangu-por-3-0-esta-na-semifinal-da-taca-rio-24487392)
+* [Um policial morre e outro é baleado em blitz na Nova Zelândia; corporação faz buscas para encontrar suspeito](https://oglobo.globo.com/mundo/um-policial-morre-outro-baleado-em-blitz-na-nova-zelandia-corporacao-faz-buscas-para-encontrar-suspeito-24487329)
+* [Fluminense tem quatro casos positivos de Covid-19 e um atleta inconclusivo](https://oglobo.globo.com/esportes/fluminense-tem-quatro-casos-positivos-de-covid-19-um-atleta-inconclusivo-24487304)
+* [Após ser transferido para o Rio, Queiroz quis saber se filhas também foram detidas](https://oglobo.globo.com/brasil/apos-ser-transferido-para-rio-queiroz-quis-saber-se-filhas-tambem-foram-detidas-24487272)
 * [Em dia de retorno do futebol, Hospital de Campanha do Maracanã registra duas mortes](https://oglobo.globo.com/esportes/em-dia-de-retorno-do-futebol-hospital-de-campanha-do-maracana-registra-duas-mortes-24487270)
 * [Além do impeachment: Witzel afirma não ter como privatizar Cedae até o fim do ano em conversa com deputados](https://oglobo.globo.com/rio/alem-do-impeachment-witzel-afirma-nao-ter-como-privatizar-cedae-ate-fim-do-ano-em-conversa-com-deputados-24487155)
 * [Missas presenciais serão retomadas em julho no Rio, anuncia arcebispo Dom Orani](https://oglobo.globo.com/rio/missas-presenciais-serao-retomadas-em-julho-no-rio-anuncia-arcebispo-dom-orani-24487234)
 * [Após prisão de Queiroz, panelaços são registrados no Rio e em São Paulo](https://oglobo.globo.com/brasil/apos-prisao-de-queiroz-panelacos-sao-registrados-no-rio-em-sao-paulo-24487195)
 * [Siga o dinheiro](https://oglobo.globo.com/economia/siga-dinheiro-24487148)
-* [Leia todas as notícias sobre a prisão de Fabrício Queiroz em Atibaia nesta quinta-feira](https://oglobo.globo.com/brasil/leia-todas-as-noticias-sobre-prisao-de-fabricio-queiroz-em-atibaia-nesta-quinta-feira-24486826)
-* [Advogado de Flávio liga aos berros para advogada de Bolsonaro, a quem disse ontem não saber de Queiroz](https://epoca.globo.com/guilherme-amado/advogado-de-flavio-liga-aos-berrospara-advogada-de-bolsonaro-quem-disse-ontem-nao-saber-de-queiroz-24487004)
 * [Eletrobras precisa ser privatizada, ou o Brasil fica para trás, diz Montezano](https://oglobo.globo.com/economia/eletrobras-precisa-ser-privatizada-ou-brasil-fica-para-tras-diz-montezano-24487060)
-* [Senado aprova suspensão de pagamentos de consignados para aposentados pensionistas e trabalhadores](https://oglobo.globo.com/economia/senado-aprova-suspensao-de-pagamentos-de-consignados-para-aposentados-pensionistas-trabalhadores-24486983)
-* [É #FAKE que foto mostre Joice Hasselmann sem máscara em hospital após contrair a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-joice-hasselmann-sem-mascara-em-hospital-apos-contrair-covid-19-24486968)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/06/2020 07:34:18 UTC
+# indexed at 19/06/2020 08:11:01 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
-* [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+* [Breakthrough in inverse Laplace transform procedures](http://inverselaplace.org/)
 * [Hash: A free, online platform for modeling](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/)
+* [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 * [536 was ‘the worst year to be alive’ (2018)](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
 * [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html?m=1)
 * [We need to do the math, even on “small” projects](https://www.strongtowns.org/journal/2020/6/16/do-the-math-small-projects)
 * [Caffeine: Livecoding environment for web browsers, Node.js, and WebAssembly](https://caffeine.js.org/)
 * [Procedural Lake Village](https://www.anastasiaopara.com/lakevillage)
+* [Apple’s App Store fees are ‘highway robbery’ – House antitrust committee chair](https://www.theverge.com/2020/6/18/21295778/apple-app-store-hey-email-fees-policies-antitrust-wwdc-2020)
+* [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
 * ["Secret" History of Silicon Valley (2008)](https://steveblank.com/secret-history/)
 * [CUDA on Windows Subsystem for Linux 2](https://devblogs.nvidia.com/announcing-cuda-on-windows-subsystem-for-linux-2/)
-* [Advice to Young Web Developers](https://tumblr.beesbuzz.biz/post/621010836277837824/advice-to-young-web-developers)
 * [Berlin Gold Hat](https://en.wikipedia.org/wiki/Berlin_Gold_Hat)
-* [Apple’s App Store fees are ‘highway robbery’ – House antitrust committee chair](https://www.theverge.com/2020/6/18/21295778/apple-app-store-hey-email-fees-policies-antitrust-wwdc-2020)
 * [Fakecracker: NetBSD as a Function Based MicroVM](https://imil.net/blog/posts/2020/fakecracker-netbsd-as-a-function-based-microvm/)
-* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
-* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [The Navy Electricity and Electronics Training Series (1998)](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
+* [Zombie Satellites Return from the Graveyard](https://spectrum.ieee.org/tech-talk/aerospace/satellites/zombie-satellites-return-from-the-graveyard)
 * [Bees Can Sense the Electric Fields of Flowers (2013)](https://www.nationalgeographic.com/science/phenomena/2013/02/21/bees-can-sense-the-electric-fields-of-flowers/)
 * [GoPlus – The Go+ language for data science](https://www.github.com/qiniu/goplus)
-* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
+* [A lightweight, customizable omnibox in JavaScript](https://github.com/jina-ai/jinabox.js/)
 * [The Healing Power of Birdsong](https://standpointmag.co.uk/issues/may-june-2020/the-healing-power-of-birdsong/)
-* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
+* [FF Sandbox Escape](https://googleprojectzero.blogspot.com/2020/06/ff-sandbox-escape-cve-2020-12388.html?m=1)
 * [Consistency Models (2018)](https://jepsen.io/consistency)
+* [Show HN: Poica – Algebraic data types and type introspection for pure C](https://github.com/Hirrolot/poica)
 * [The Intelligence of Earthworms](https://www.historytoday.com/archive/natural-histories/intelligence-earthworms)
 * [GitHub Super Linter: one linter to rule them all](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [Node.js Overload](https://www.thoughtworks.com/radar/platforms?blipid=202005026)
 * [Micro-front ends in Webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
 * [Lightweight Alternatives to Google Analytics](https://lwn.net/SubscriberLink/822568/61d29096a4012e06/)
-* [Parisian Lives: Samuel Beckett, Simone de Beauvoir and Me – A Memoir](https://www.drb.ie/essays/the-hhard-life)
 ## nytimes.com
 
 
@@ -55,6 +55,7 @@ layout: default
 * [Police Decisions Are Scrutinized After Rayshard Brooks’s Fatal Encounter](https://www.nytimes.com/2020/06/18/us/rayshard-brooks-police-tactics.html)
 * [Atlanta Officer Who Shot Rayshard Brooks Surrenders](https://www.nytimes.com/2020/06/18/us/rayshard-brooks-garrett-rolfe-video.html)
 * [Lloyd’s of London and Greene King Acknowledge Ties to Slave Trade](https://www.nytimes.com/2020/06/18/world/europe/uk-slavery-trade-lloyds-greene-king.html)
+* [How to Celebrate Juneteenth in N.Y.C.](https://www.nytimes.com/2020/06/19/nyregion/nyc-juneteenth-celebrations.html)
 * [](https://www.nytimes.com/2020/06/18/podcasts/daca-supreme-court-dreamers.html)
 * [What Should Companies Do on Juneteenth?](https://www.nytimes.com/2020/06/18/business/dealbook/juneteenth-company-holiday.html)
 * [Which Opinions Are Out of Bounds?](https://www.nytimes.com/2020/06/18/opinion/the-argument-tom-cotton-resignation.html)
@@ -80,20 +81,20 @@ layout: default
 * [Advertisers Are Fleeing Tucker Carlson. Fox News Viewers Have Stayed.](https://www.nytimes.com/2020/06/18/business/media/tucker-carlson-advertisers-ratings.html)
 * [Chapin, Brearley and Spence Schools Accused of Racist Culture by Alumni](https://www.nytimes.com/2020/06/17/nyregion/nyc-private-girls-schools-chapin-brearley-spence-racism.html)
 * [American Airlines Bans Conservative Activist Who Refused to Wear a Mask](https://www.nytimes.com/2020/06/18/us/american-airlines-mask-brandon-straka.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [Padma Lakshmi Finds a New Voice, Amplifying the Voices of Others](https://www.nytimes.com/2020/06/18/dining/padma-lakshmi-taste-the-nation.html)
 * [Images of a Stolen Van Gogh Give Experts Hope It Can Be Recovered](https://www.nytimes.com/2020/06/18/arts/design/stolen-van-gogh-picture.html)
 * [A Critic Moves Between Literature and Film](https://www.nytimes.com/2020/06/17/insider/a-critic-moves-between-literature-and-film.html)
 * [‘A Sports Car That You Can Wear Into a Bar’](https://www.nytimes.com/2020/06/18/business/wristwatches-racecars.html)
+* [Coronavirus Study: 1 in 5 People Worldwide at Risk](https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html)
 * [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
 * [On Social Media, Who's a Bot? Who's Not?](https://www.nytimes.com/2020/06/16/science/social-media-bots-kazemi.html)
 * [Tracks Hint at a Crocodile Ancestor That Walked on 2 Legs](https://www.nytimes.com/2020/06/17/science/crocodile-two-legs-tracks.html)
-* [Coronavirus Study: 1 in 5 People Worldwide at Risk](https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -101,10 +102,10 @@ layout: default
 ## globo.com
 
 
+* [Mansur: Numa das mais deprimentes noites da história do Maracanã, o futebol foi detalhe](https://oglobo.globo.com/esportes/mansur-numa-das-mais-deprimentes-noites-da-historia-do-maracana-futebol-foi-detalhe-24487502)
 * [Primeiro dia de análise do impeachment tem deputado com máscara 'Fora Witzel' e presença do governador](https://oglobo.globo.com/rio/primeiro-dia-de-analise-do-impeachment-tem-deputado-com-mascara-fora-witzel-presenca-do-governador-24487386)
 * [Favelas poderiam ter problemas de habitação resolvidos em 20 anos por valor 300 vezes menor que o custo da crise da Covid-19 ao Rio](https://oglobo.globo.com/rio/favelas-poderiam-ter-problemas-de-habitacao-resolvidos-em-20-anos-por-valor-300-vezes-menor-que-custo-da-crise-da-covid-19-ao-rio-24487439)
 * [Prisão de Queiroz assombra Planalto e deixa Bolsonaro mais acuado, analisam colunistas do GLOBO](https://oglobo.globo.com/brasil/prisao-de-queiroz-assombra-planalto-deixa-bolsonaro-mais-acuado-analisam-colunistas-do-globo-24487398)
-* [PIB de todos os estados do país vai encolher este ano, prevê Santander](https://oglobo.globo.com/economia/pib-de-todos-os-estados-do-pais-vai-encolher-este-ano-preve-santander-24487413)
 * [Leilões de imóveis crescem 25% no ano com juro baixo e crise econômica](https://oglobo.globo.com/economia/leiloes-de-imoveis-crescem-25-no-ano-com-juro-baixo-crise-economica-24487400)
 * [Novo estudo denuncia que outra campanha de desinformação russa utilizou mais de 300 plataformas durante 6 anos](https://oglobo.globo.com/mundo/novo-estudo-denuncia-que-outra-campanha-de-desinformacao-russa-utilizou-mais-de-300-plataformas-durante-6-anos-24486941)
 * [Oposição comemora saída de Weintraub do Ministério da Educação](https://oglobo.globo.com/brasil/oposicao-comemora-saida-de-weintraub-do-ministerio-da-educacao-24487267)

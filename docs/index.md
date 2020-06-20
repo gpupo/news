@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 05:09:36 UTC
+# indexed at 20/06/2020 05:34:30 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
-* [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
-* [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
-* [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
-* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
+* [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
 * [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
+* [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
+* [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
+* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
+* [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
-* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
+* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
-* [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
-* [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
-* [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
 * [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
-* ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
-* [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
+* [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
+* [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
 * [“This resentment runs deep and is stunningly widespread”](https://daringfireball.net/linked/2020/06/19/swisher-app-store-hey)
-* [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
-* [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
-* [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
-* [Blu-ray player keeps cycling on/off whenever plugged in](https://us.community.samsung.com/t5/Home-Theater/Blu-ray-player-BD-JM57C-keeps-cycling-on-off-whenever-plugged-in/td-p/1278935)
-* [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
 * [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
+* [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
+* [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
+* [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
+* [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
+* [Blu-ray player keeps cycling on/off whenever plugged in](https://us.community.samsung.com/t5/Home-Theater/Blu-ray-player-BD-JM57C-keeps-cycling-on-off-whenever-plugged-in/td-p/1278935)
 * [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
 * [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
 * [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
+* [Ask HN: Shopify self hosted e-commerce alternative?](https://news.ycombinator.com/item?id=23581414)
+* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 ## nytimes.com
 
 
@@ -78,19 +78,19 @@ layout: default
 * [Hong Kong Protests: Martin Lee, 'Father of Democracy,' Caught Between Extremes](https://www.nytimes.com/2020/06/19/world/asia/hong-kong-martin-lee-profile.html)
 * [‘Into the Wild’ Bus, Seen as a Danger, Is Airlifted From the Alaskan Wild](https://www.nytimes.com/2020/06/19/us/into-the-wild-bus-removed.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [So You Had a Bad Day …](https://www.nytimes.com/2020/05/12/smarter-living/coronavirus-bad-day.html)
 * [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Two Gamers Played ‘The Last of Us Part II.’ They Were Blown Away.](https://www.nytimes.com/2020/06/19/technology/last-of-us-2-gameplay.html)
 * [Fashion Magazine Editors, Take a Page From Audrey Withers](https://www.nytimes.com/2020/06/18/style/vogue-editor-england-audrey-withers-biography-dressed-for-war.html)
 * [This Year, a London Art Fair Will Happen Everywhere](https://www.nytimes.com/2020/06/18/arts/london-masterpiece-online.html)
 * [Nicole Beharie on ‘Miss Juneteenth’  and 'Sleepy Hollow'](https://www.nytimes.com/2020/06/19/movies/nicole-beharie-miss-juneteenth-sleepy-hollow.html)
-* [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
-* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [You May Have Antibodies After Coronavirus Infection. But Not for Long.](https://www.nytimes.com/2020/06/18/health/coronavirus-antibodies.html)
 * [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
+* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
+* [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
 * [What to Cook This Weekend](https://www.nytimes.com/2020/06/19/dining/what-to-cook-this-weekend.html)
 * [How to Buy a Bike](https://www.nytimes.com/2020/06/18/style/bike-buying-commute-exercise-questions.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -99,10 +99,10 @@ layout: default
 ## globo.com
 
 
+* [Desembargadora nega pedido de prisão domiciliar feito pela defesa de Queiroz](https://oglobo.globo.com/brasil/desembargadora-nega-pedido-de-prisao-domiciliar-feito-pela-defesa-de-queiroz-24490053)
 * [Após Zambelli incitar ataques, deputado recebe ameaça de morte e recorre ao STF; veja print](https://epoca.globo.com/guilherme-amado/apos-zambelli-incitar-ataques-deputado-recebe-ameaca-de-morte-recorre-ao-stf-veja-print-24490038)
 * [Construtora compra fábrica fechada pela Ford no ABC](https://oglobo.globo.com/economia/carros/construtora-compra-fabrica-fechada-pela-ford-no-abc-24489980)
 * [Lives de hoje: Baile do Simonal e Belo são destaques deste sábado](https://oglobo.globo.com/cultura/lives-de-hoje-baile-do-simonal-belo-sao-destaques-deste-sabado-24489085)
-* [Bolsonaro deve se preocupar com o trabalho](https://oglobo.globo.com/opiniao/bolsonaro-deve-se-preocupar-com-trabalho-24489222)
 * [Presunção de culpa](https://oglobo.globo.com/opiniao/presuncao-de-culpa-24488429)
 * [Amanhã há de ser outro dia](https://oglobo.globo.com/opiniao/amanha-ha-de-ser-outro-dia-24488397)
 * [Risco de aprofundar a democracia](https://oglobo.globo.com/opiniao/risco-de-aprofundar-democracia-24488366)

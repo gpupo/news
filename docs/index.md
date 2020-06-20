@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 18:10:38 UTC
+# indexed at 20/06/2020 18:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Australia says it's under nation-state cyberattack](https://thecyberwire.com/newsletters/daily-briefing/9/119)
 * [Hypercritical: The Art of the Possible](https://hypercritical.co/2020/06/20/the-art-of-the-possible)
-* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
+* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
 * [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
-* [A step-by-step guide for your company's Git master to main migration](https://blog.b12.io/migrating-your-default-git-branch-to-main-a0fb706e3668)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [Ask HN: Why can't we solve the app store monopoly problem?](https://news.ycombinator.com/item?id=23585103)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
 * [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
 * [A Technology Preview of Nginx Support for QUIC and HTTP/3](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [The food we buy is shrinking (2018)](https://www.bbc.com/worklife/article/20180510-the-food-you-buy-really-is-shrinking)
-* [How many needless Covid-19 deaths were caused by delays in responding?](https://www.statnews.com/2020/06/19/faster-response-prevented-most-us-covid-19-deaths/)
 * [Anyone Can Build This Open Source, DRM-Free Kindle Alternative](https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative)
+* [Estimating pitch with SPICE and Tensorflow Hub](https://blog.tensorflow.org/2020/06/estimating-pitch-with-spice-and-tensorflow-hub.html)
 * [Better Python 59 Ways](https://github.com/SigmaQuan/Better-Python-59-Ways)
+* [How many needless Covid-19 deaths were caused by delays in responding?](https://www.statnews.com/2020/06/19/faster-response-prevented-most-us-covid-19-deaths/)
+* [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
+* [Trump Expected to Suspend H-1B, Other Visas Until End of Year](https://www.npr.org/2020/06/20/881245867/trump-expected-to-suspend-h-1b-other-visas-until-end-of-year)
 * [Why Apple ditched PowerPC, and what it says about Apple ditching Intel](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/)
+* [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
+* [Understand Lucene to Understand ElasticSearch](https://medium.com/@guilherme.lb/understand-lucene-to-understand-elasticsearch-85037d5b7577#0a2a-6f579ef7ae80)
 * [CityLab has been relaunched under the Bloomberg umbrella](https://www.niemanlab.org/2020/06/citylab-has-been-relaunched-under-the-bloomberg-umbrella/)
 * [Osint Amateur Hour](https://www.secjuice.com/geolocation-osint-amateur-hour/)
 * [Ask HN: Google won't remove my site URL from random business using it on Maps](https://news.ycombinator.com/item?id=23582602)
-* [Making an iPad case for blind to “See” with touch](https://youtu.be/8Au47gnXs0w)
+* [Show HN: Tragopan – Minimal, dependency-free pan/zoom JavaScript library](https://github.com/team-video/tragopan)
+* [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 * [Freud and Faith (2007)](https://www.nytimes.com/2007/09/09/magazine/09wwln-lede-t.html)
 * [Gameloft took down Marvel's SpiderMan trailer (11M views) with a copyright claim](https://www.reddit.com/r/PS5/comments/hcj9hx/gameloft_has_taken_down_marvels_spiderman_miles/)
+* [Show HN: VOTEism – Secure political opinion poll app](https://docs.voteism.org/)
+* [“Upon re-evaluation, we found that your app is not in compliance”](https://twitter.com/keleftheriou/status/1274356729224892416)
+* [Making an iPad case for blind to “See” with touch](https://youtu.be/8Au47gnXs0w)
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
-* [Understand Lucene to Understand ElasticSearch](https://medium.com/@guilherme.lb/understand-lucene-to-understand-elasticsearch-85037d5b7577#0a2a-6f579ef7ae80)
-* [Alex: A ML-enhanced range index](https://github.com/microsoft/ALEX)
-* [Charles Proteus Steinmetz, the Wizard of Schenectady](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/)
-* [BBS and Usenet era Textfiles](http://textfiles.com/)
-* [A comprehensive guide on solar eclipses by The Planetary Society](https://www.planetary.org/blogs/solar-eclipse-guide.html)
-* [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [Pushing for Serbia-Kosovo Peace Deal, U.S. Roils Allies](https://www.nytimes.com/2020/06/20/world/europe/serbia-kosovo-peace-elections.html)
 * [Nikita Price, Homeless Father Turned Advocate for Homeless, Dies at 63](https://www.nytimes.com/2020/06/19/nyregion/nikita-price-dead.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Neighbors Not Practicing Social Distancing? Here’s What to Do](https://www.nytimes.com/2020/04/17/smarter-living/neighbors-not-practicing-social-distancing-heres-what-to-do.html)
+* [Make Ice Cream in a Mason Jar](https://www.nytimes.com/2020/05/09/at-home/virus-make-ice-cream-in-a-mason-jar.html)
+* [Considering Melatonin for Sleep? Here’s a Guide to Help](https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html)
+* [The Man Who Coaches Husbands on How to Avoid Divorce](https://www.nytimes.com/2020/05/18/parenting/marriage-invisible-labor-coach.html)
 * [A Long Night of ‘Flower Flashing’ With Lewis Miller](https://www.nytimes.com/2020/06/20/style/lewis-miller-florist-nyc.html)
 * [For Belmont Jockeys, the Return of a Gig](https://www.nytimes.com/2020/06/18/sports/horse-racing/belmont-stakes-triple-crown-jockeys.html)
 * [Museums Embrace Art Therapy Techniques for Unsettled Times](https://www.nytimes.com/2020/06/15/arts/design/art-therapy-museums-virus.html)
@@ -102,12 +102,12 @@ layout: default
 ## globo.com
 
 
-* [Flordelis e marido frequentavam casa de swing, afirma antiga frequentadora da igreja à polícia](https://oglobo.globo.com/rio/flordelis-marido-frequentavam-casa-de-swing-afirma-antiga-frequentadora-da-igreja-policia-24490367)
-* [Secretário diz que questões legais ou burocráticas travam venda de 16 estatais](https://oglobo.globo.com/economia/secretario-diz-que-questoes-legais-ou-burocraticas-travam-venda-de-16-estatais-24490346)
+* [China pretende criar agência de segurança nacional em Hong Kong](https://oglobo.globo.com/mundo/china-pretende-criar-agencia-de-seguranca-nacional-em-hong-kong-24490238)
 * [Justiça do Trabalho comete 'excessos', mas deve existir, diz Dias Toffoli](https://oglobo.globo.com/economia/justica-do-trabalho-comete-excessos-mas-deve-existir-diz-dias-toffoli-24490361)
+* [Secretário diz que questões legais ou burocráticas travam venda de 16 estatais](https://oglobo.globo.com/economia/secretario-diz-que-questoes-legais-ou-burocraticas-travam-venda-de-16-estatais-24490346)
+* [Flordelis e marido frequentavam casa de swing, afirma antiga frequentadora da igreja à polícia](https://oglobo.globo.com/rio/flordelis-marido-frequentavam-casa-de-swing-afirma-antiga-frequentadora-da-igreja-policia-24490367)
 * [Irmãos Felipe e Luccas Neto pedem R$ 150 mil de indenização a Hélio Bolsonaro](https://epoca.globo.com/guilherme-amado/irmaos-felipe-luccas-neto-pedem-150-mil-de-indenizacao-helio-bolsonaro-1-24489850)
 * [IR 2020: Faltam dez dias para a entrega da declaração; veja dicas de como aumentar sua restituição](https://oglobo.globo.com/economia/ir-2020-faltam-dez-dias-para-entrega-da-declaracao-veja-dicas-de-como-aumentar-sua-restituicao-24481670)
-* [China: agência estatal divulga detalhes do projeto de lei de segurança nacional](https://oglobo.globo.com/mundo/china-agencia-estatal-divulga-detalhes-do-projeto-de-lei-de-seguranca-nacional-24490238)
 * [Brasil tem 1.043.168 casos de Covid-19, informa consórcio de veículos da imprensa em boletins das 13h](https://oglobo.globo.com/sociedade/brasil-tem-1043168-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletins-das-13h-24490279)
 * [MEC não sabe dizer se Weintraub usou passaporte diplomático, mas diz que ele foi em voo comercial](https://epoca.globo.com/guilherme-amado/mec-nao-sabe-dizer-se-weintraub-usou-passaporte-diplomatico-mas-diz-que-ele-foi-em-voo-comercial-24490289)
 * [EUA chamam de 'hipocrisia' resolução da ONU contra racismo e violência policial](https://oglobo.globo.com/mundo/eua-chamam-de-hipocrisia-resolucao-da-onu-contra-racismo-violencia-policial-24490236)

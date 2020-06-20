@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 11:09:18 UTC
+# indexed at 20/06/2020 11:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [It’s time to hear what adolescents think of mindfulness in schools](https://psyche.co/ideas/its-time-to-hear-what-adolescents-think-of-mindfulness-in-schools)
+* [A Technology Preview of Nginx Support for QUIC and HTTP/3](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
 * [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
-* [A Technology Preview of Nginx Support for QUIC and HTTP/3](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
-* [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 * [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
-* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
-* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
-* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
-* [The first first-person shooter (2015)](https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter)
+* [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 * [Ask HN: Google won't remove my site URL from random business using it on Maps](https://news.ycombinator.com/item?id=23582602)
+* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
+* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
+* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
+* [Our deepest view of the X-ray sky](http://www.mpe.mpg.de/7461761/news20200619)
+* [The first first-person shooter (2015)](https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter)
+* [Osint Amateur Hour](https://www.secjuice.com/geolocation-osint-amateur-hour/)
 * [Reyes Rendering on the GPU [pdf]](https://markussteinberger.net/papers/GPUReyes.pdf)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
+* [It’s time to hear what adolescents think of mindfulness in schools](https://psyche.co/ideas/its-time-to-hear-what-adolescents-think-of-mindfulness-in-schools)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
-* [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
-* [Our deepest view of the X-ray sky](http://www.mpe.mpg.de/7461761/news20200619)
 * [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
+* [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
 * [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
 * [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
+* [Tell HN: YouTube fixed the dot after domain ad bypass](https://news.ycombinator.com/item?id=23581118)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
-* [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
-* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 ## nytimes.com
 
 
@@ -52,7 +52,6 @@ layout: default
 * [What Time is Trump's 2020 Campaign Tulsa Rally](https://www.nytimes.com/2020/06/20/us/politics/what-time-is-trump-rally.html)
 * [What to Know About the Tulsa Greenwood Massacre](https://www.nytimes.com/2020/06/20/us/tulsa-greenwood-massacre.html)
 * [U.S. Watched George Floyd Protests in 15 Cities Using Aerial Surveillance](https://www.nytimes.com/2020/06/19/us/politics/george-floyd-protests-surveillance.html)
-* [Court Allows Trump’s Tulsa Rally to Go Ahead](https://www.nytimes.com/2020/06/19/us/juneteenth-2020.html)
 * [Probe of Old Drug Cases Raises Questions About 2004 George Floyd Arrest](https://www.nytimes.com/2020/06/19/us/unrest-george-floyd-houston-goines.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/06/19/arts/11-of-our-best-weekend-reads.html)
 * [The History and Meaning of Juneteenth](https://www.nytimes.com/2020/06/19/podcasts/the-daily/juneteenth-emancipation-day-black-lives-matter.html)
@@ -89,10 +88,10 @@ layout: default
 * [Museums Embrace Art Therapy Techniques for Unsettled Times](https://www.nytimes.com/2020/06/15/arts/design/art-therapy-museums-virus.html)
 * [What It Takes to Raise a Black Woman Up](https://www.nytimes.com/2020/06/19/arts/design/ayana-evans-black-women.html)
 * [Porsche Drive: A Subscription Service With a Menu of Fast Cars](https://www.nytimes.com/2020/06/18/business/porsche-drive-subscription-service.html)
-* [You May Have Antibodies After Coronavirus Infection. But Not for Long.](https://www.nytimes.com/2020/06/18/health/coronavirus-antibodies.html)
-* [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
-* [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
-* [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
+* [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
+* [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
+* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [American Airlines Bans Conservative Activist Who Refused to Wear a Mask](https://www.nytimes.com/2020/06/18/us/american-airlines-mask-brandon-straka.html)
 * [Rising Seas Threaten an American Institution: The 30-Year Mortgage](https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html)
 * [Biden Proves an Elusive Target, Adding to Trump’s Frustration](https://www.nytimes.com/2020/06/19/us/politics/donald-trump-joe-biden-coronavirus.html)
@@ -102,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Rihanna e Beyoncé estão em lista de artistas mais ouvidos durante o sexo](https://oglobo.globo.com/ela/gente/rihanna-beyonce-estao-em-lista-de-artistas-mais-ouvidos-durante-sexo-24490156)
+* [Polícia Civil desarticula ação de depósito onde combustível era furtado em Duque de Caxias](https://oglobo.globo.com/rio/policia-civil-desarticula-acao-de-deposito-onde-combustivel-era-furtado-em-duque-de-caxias-24490157)
 * [Brasil tem 1.039.119 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1039119-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24490127)
 * [Ninguém segura esses bebês: opções de atividades on-line para os bem pequenininhos](https://oglobo.globo.com/rio/bairros/ninguem-segura-esses-bebes-opcoes-de-atividades-on-line-para-os-bem-pequenininhos-1-24490137)
 * [Coluna | Fiquei sabendo onde Queiroz estava mais de um ano atrás](https://epoca.globo.com/denis-r-burgierman/coluna-fiquei-sabendo-onde-queiroz-estava-mais-de-um-ano-atras-24490123)
 * [Ideologia de Gênero, indígenas, China: as contradições entre o que pensam Weintraub e o Banco Mundial](https://epoca.globo.com/sociedade/ideologia-de-genero-indigenas-china-as-contradicoes-entre-que-pensam-weintraub-o-banco-mundial-24490118)
 * [Bolsonaro ‘ignora’ coronavírus em agenda oficial](https://oglobo.globo.com/sociedade/bolsonaro-ignora-coronavirus-em-agenda-oficial-1-24489676)
 * [Polícia fecha 'cartório da falsificação', que vendia certidões, diplomas e até atestados de gravidez em Curitiba](https://epoca.globo.com/brasil/policia-fecha-cartorio-da-falsificacao-que-vendia-certidoes-diplomas-ate-atestados-de-gravidez-em-curitiba-24488731)
-* [Tensões aumentam por controvérsia no uso obrigatório de máscara nos EUA](https://epoca.globo.com/mundo/tensoes-aumentam-por-controversia-no-uso-obrigatorio-de-mascara-nos-eua-24488906)
-* [Mourão afirma que Bolsonaro tende a não colocar olavista no MEC: ‘Tem que entender de gestão’](https://epoca.globo.com/guilherme-amado/mourao-afirma-que-bolsonaro-tende-nao-colocar-olavista-no-mec-tem-que-entender-de-gestao-24490070)
 * [Documentos mostram que governo está perdido sobre o que será o Pró-Brasil](https://epoca.globo.com/guilherme-amado/documentos-mostram-que-governo-esta-perdido-sobre-que-sera-pro-brasil-24489896)
 * [Análise: A Índia irá ficar do lado do Ocidente contra a China?](https://oglobo.globo.com/mundo/analise-india-ira-ficar-do-lado-do-ocidente-contra-china-24488259)

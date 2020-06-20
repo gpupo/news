@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 01:34:33 UTC
+# indexed at 20/06/2020 02:10:24 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
-* [W. E. B. Du Bois's Modernist Data Visualizations of Black Life (2016)](https://hyperallergic.com/306559/w-e-b-du-boiss-modernist-data-visualizations-of-black-life/)
-* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
+* [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
+* [W. E. B. Du Bois's Modernist Data Visualizations of Black Life (2016)](https://hyperallergic.com/306559/w-e-b-du-boiss-modernist-data-visualizations-of-black-life/)
+* [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
-* [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
-* [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
+* [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
+* [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
 * [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
+* [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
+* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
+* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
 * [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
-* [Everything I've learned about solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
-* [Flexport is hiring engineers in Amsterdam](https://Flexport.com)
 * [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
+* [Flexport is hiring engineers in Amsterdam](https://Flexport.com)
 * ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
+* [Blu-ray player keeps cycling on/off whenever plugged in](https://us.community.samsung.com/t5/Home-Theater/Blu-ray-player-BD-JM57C-keeps-cycling-on-off-whenever-plugged-in/td-p/1278935)
+* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
 * [SCP – Familiar, Simple, Insecure, and Slow](https://gravitational.com/blog/scp-familiar-simple-insecure-slow/)
 * [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
-* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
+* [Today’s developers don’t need what the App Store offers](https://capiche.com/e/ecommerce-and-app-store-fees-compared)
+* [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
 * [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
-* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
-* [Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
-* [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
-* [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
-* [Blu-ray player BD-JM57C, keeps cycling on/off whenever plugged in](https://us.community.samsung.com/t5/Home-Theater/Blu-ray-player-BD-JM57C-keeps-cycling-on-off-whenever-plugged-in/td-p/1278935)
-* [Apple’s secretive AR and VR Headset plans altered by internal differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses)
+* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
-* [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
-* [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
+* [Apple’s secretive AR and VR Headset plans altered by internal differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses)
 ## nytimes.com
 
 
@@ -48,9 +48,7 @@ layout: default
 * [The 1865 Handwritten Order Marking Juneteenth Has Been Found](https://www.nytimes.com/2020/06/19/us/juneteenth-order-national-archives.html)
 * [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html)
 * [Navy Inquiry Faults Two Top Officers Aboard Roosevelt for Handling of Virus](https://www.nytimes.com/2020/06/19/us/politics/carrier-roosevelt-coronavirus-crozier.html)
-* [Treasury Dept. Agrees to Release Data on Small-Business Relief](https://www.nytimes.com/2020/06/19/us/politics/treasury-small-business-ppp-loan-disclosure.html)
-* [Social Media Giants Support Racial Justice. Their Products Undermine It.](https://www.nytimes.com/2020/06/19/technology/facebook-youtube-twitter-black-lives-matter.html)
-* [Live Stock Market News During the Coronavirus Pandemic](https://www.nytimes.com/2020/06/19/business/stock-market-today-coronavirus.html)
+* [U.S. Attorney Who Investigated Trump Associates Is Abruptly Replaced](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
 * [Biden Proves an Elusive Target, Adding to Trump’s Frustration](https://www.nytimes.com/2020/06/19/us/politics/donald-trump-joe-biden-coronavirus.html)
 * [Bernie Sanders Predicted Revolution, Just Not This One](https://www.nytimes.com/2020/06/19/us/politics/bernie-sanders-protests.html)
 * [In This Pandemic, Personal Echoes of the AIDS Crisis](https://www.nytimes.com/2020/06/18/us/coronavirus-aids-epidemic-lessons.html)
@@ -71,7 +69,7 @@ layout: default
 * [Missing Those Old Familiar Places](https://www.nytimes.com/2020/06/18/dining/nyc-restaurants-bars-closed-coronavirus.html)
 * [New Woe for a Jittery N.Y.C.: Illegal Fireworks Going Off All Night](https://www.nytimes.com/2020/06/19/nyregion/fireworks-every-night-nyc.html)
 * [We Need to Stop Measuring Black Lives by Their Whiteness](https://www.nytimes.com/2020/06/18/magazine/before-you-call-the-cops-video-tyler-merritt.html)
-* [Mueller Report Redactions on Roger Stone Are Revealed](https://www.nytimes.com/2020/06/19/us/politics/mueller-report-redactions-roger-stone.html)
+* [Mueller Report Details Highlight Trump’s Interest in Emails Damaging to Clinton](https://www.nytimes.com/2020/06/19/us/politics/mueller-report-redactions-roger-stone.html)
 * [Judge Weighs Administration Request to Order Bolton to Try to Pull Back Book](https://www.nytimes.com/2020/06/19/us/politics/john-bolton-book-hearing.html)
 * [Hong Kong’s National Security Law, Explained](https://www.nytimes.com/2020/06/19/world/asia/hong-kong-china-national-security.html)
 * [Without a ‘Bubble,’ N.F.L. Season Might Not Happen, Fauci Says](https://www.nytimes.com/2020/06/18/sports/anthony-fauci-nfl-bubble-coronavirus.html)
@@ -95,7 +93,6 @@ layout: default
 * [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
 * [5 Takeaways From John Bolton’s Book "The Room Where it Happened"](https://www.nytimes.com/2020/06/18/us/politics/john-bolton-memoir-takeaways.html)
-* [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [Trump Can’t Immediately End DACA, Supreme Court Rules](https://www.nytimes.com/2020/06/18/us/trump-daca-supreme-court.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -103,9 +100,9 @@ layout: default
 ## globo.com
 
 
-* [Entenda quais são as suspeitas sobre Flávio Bolsonaro](https://oglobo.globo.com/brasil/entenda-quais-sao-as-suspeitas-sobre-flavio-bolsonaro-24489813)
-* [Governo dos EUA monitorou protestos por morte de George Floyd usando vigilância aérea](https://oglobo.globo.com/mundo/governo-dos-eua-monitorou-protestos-por-morte-de-george-floyd-usando-vigilancia-aerea-24489701)
 * [Bolsonaro nomeia o ator Mario Frias secretário especial da Cultura](https://oglobo.globo.com/cultura/bolsonaro-nomeia-ator-mario-frias-secretario-especial-da-cultura-24489678)
+* [Entenda quais são as suspeitas sobre Flávio Bolsonaro](https://oglobo.globo.com/brasil/entenda-quais-sao-as-suspeitas-sobre-flavio-bolsonaro-1-24489813)
+* [Governo dos EUA monitorou protestos por morte de George Floyd usando vigilância aérea](https://oglobo.globo.com/mundo/governo-dos-eua-monitorou-protestos-por-morte-de-george-floyd-usando-vigilancia-aerea-24489701)
 * [México passa de 20 mil mortes por Covid-19](https://oglobo.globo.com/mundo/mexico-passa-de-20-mil-mortes-por-covid-19-24489683)
 * [North Face anuncia boicote publicitário contra o Facebook](https://oglobo.globo.com/economia/north-face-anuncia-boicote-publicitario-contra-facebook-24489447)
 * [Governo quer 'perfil técnico' no MEC, saiba quem são os cotados](https://oglobo.globo.com/sociedade/governo-quer-perfil-tecnico-no-mec-saiba-quem-sao-os-cotados-24489417)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 20:11:18 UTC
+# indexed at 20/06/2020 20:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Low carb diet leads to “clinical remission” in 3 cases of type 1 diabetes](https://www.diabetes.co.uk/news/2019/jul/low-carb-diet-leads-to-clinical-remission-in-three-case-studies-of-adults-with-type-1-diabetes-99607766.html)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
-* [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
 * [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
+* [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
 * [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
+* [Low carb diet leads to “clinical remission” in 3 cases of type 1 diabetes](https://www.diabetes.co.uk/news/2019/jul/low-carb-diet-leads-to-clinical-remission-in-three-case-studies-of-adults-with-type-1-diabetes-99607766.html)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 * [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
-* [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
 * [Quantum Computing for the very Curious](https://quantum.country/qcvc)
+* [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
+* [Why Are NYPD Cruisers Playing the Ice Cream Truck Jingle?](https://www.atlasobscura.com/articles/nypd-ice-cream-truck-jingle)
 * [A Technology Preview of Nginx Support for QUIC and HTTP/3](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [An Intro to Compilers (2017)](https://nicoleorchard.com/blog/compilers)
+* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
-* [Anyone Can Build This Open Source, DRM-Free Kindle Alternative](https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative)
+* [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
 * [Estimating pitch with SPICE and Tensorflow Hub](https://blog.tensorflow.org/2020/06/estimating-pitch-with-spice-and-tensorflow-hub.html)
-* [My story with App Review](https://twitter.com/keleftheriou/status/1274356729224892416)
+* [Anyone Can Build This Open Source, DRM-Free Kindle Alternative](https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative)
 * [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
-* [Executive order expected to suspend H-1B, other visas until end of year](https://www.npr.org/2020/06/20/881245867/trump-expected-to-suspend-h-1b-other-visas-until-end-of-year)
-* [The most famous loop: the Carnot Cycle](https://alexdanco.com/2020/06/19/the-most-famous-loop/)
-* [Better Python 59 Ways](https://github.com/SigmaQuan/Better-Python-59-Ways)
-* [The Art of the Possible](https://hypercritical.co/2020/06/20/the-art-of-the-possible)
-* [Freud and Faith (2007)](https://www.nytimes.com/2007/09/09/magazine/09wwln-lede-t.html)
-* [Osint Amateur Hour](https://www.secjuice.com/geolocation-osint-amateur-hour/)
-* [Why you hate contemporary architecture (2017)](https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture)
 * [Nextdoor Ends Its Program for Forwarding Suspicions to Police](https://www.bloomberg.com/news/articles/2020-06-19/why-nextdoor-cut-its-forward-to-police-tool)
-* [One dead in early morning shooting at Seattle Capitol Hill protest zone](https://www.seattletimes.com/seattle-news/crime/one-dead-one-critical-in-early-morning-shooting-at-capitol-hill-protest-zone/)
+* [The most famous loop: the Carnot Cycle](https://alexdanco.com/2020/06/19/the-most-famous-loop/)
+* [My story with App Review](https://twitter.com/keleftheriou/status/1274356729224892416)
+* [Why you hate contemporary architecture (2017)](https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture)
+* [The Art of the Possible](https://hypercritical.co/2020/06/20/the-art-of-the-possible)
+* [Better Python 59 Ways](https://github.com/SigmaQuan/Better-Python-59-Ways)
+* [Executive order expected to suspend H-1B, other visas until end of year](https://www.npr.org/2020/06/20/881245867/trump-expected-to-suspend-h-1b-other-visas-until-end-of-year)
+* [Osint Amateur Hour](https://www.secjuice.com/geolocation-osint-amateur-hour/)
+* [Freud and Faith (2007)](https://www.nytimes.com/2007/09/09/magazine/09wwln-lede-t.html)
 * [Show HN: Tragopan – Minimal, dependency-free pan/zoom JavaScript library](https://github.com/team-video/tragopan)
 * [Ask HN: Google won't remove my site URL from random business using it on Maps](https://news.ycombinator.com/item?id=23582602)
 * [Gameloft took down Marvel's SpiderMan trailer (11M views) with a copyright claim](https://www.reddit.com/r/PS5/comments/hcj9hx/gameloft_has_taken_down_marvels_spiderman_miles/)
-* [CityLab has been relaunched under the Bloomberg umbrella](https://www.niemanlab.org/2020/06/citylab-has-been-relaunched-under-the-bloomberg-umbrella/)
 ## nytimes.com
 
 
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Crivella determina suspensão de competições no Rio, e Carioca é paralisado até 25 de junho](https://oglobo.globo.com/esportes/crivella-determina-suspensao-de-competicoes-no-rio-carioca-paralisado-ate-25-de-junho-24490521)
+* [Um dia após nomeação como secretário da Cultura de Bolsonaro, Mario Frias posta: 'Só Deus pode me julgar'](https://oglobo.globo.com/cultura/um-dia-apos-nomeacao-como-secretario-da-cultura-de-bolsonaro-mario-frias-posta-so-deus-pode-me-julgar-1-24490572)
+* [Covid-19: Estados Unidos põem fim aos estudos com hidroxicloroquina](https://oglobo.globo.com/sociedade/covid-19-estados-unidos-poem-fim-aos-estudos-com-hidroxicloroquina-24490562)
+* [Crivella determina suspensão de competições no Rio, e Carioca é paralisado até 25 de junho](https://oglobo.globo.com/esportes/crivella-determina-suspensao-de-competicoes-no-rio-carioca-paralisado-ate-25-de-junho-1-24490521)
+* [Negociação com sindicato emperra, e Latam pode demitir até 2,7 mil pilotos e comissários](https://oglobo.globo.com/economia/negociacao-com-sindicato-emperra-latam-pode-demitir-ate-27-mil-pilotos-comissarios-24490403)
 * [Horas antes de comício, seis funcionários da campanha de Trump são diagnosticados com Covid-19](https://oglobo.globo.com/mundo/horas-antes-de-comicio-seis-funcionarios-da-campanha-de-trump-sao-diagnosticados-com-covid-19-24490507)
 * [Militar morre após paraquedas não abrir durante salto no Campo dos Afonsos](https://oglobo.globo.com/rio/militar-morre-apos-paraquedas-nao-abrir-durante-salto-no-campo-dos-afonsos-24490526)
 * [Chile inclui mortes suspeitas em balanço e óbitos por Covid-19 passam de 7 mil](https://oglobo.globo.com/mundo/chile-inclui-mortes-suspeitas-em-balanco-obitos-por-covid-19-passam-de-7-mil-24490483)
 * ['Sou vítima de um grupo político que tem patrocinado difamação', diz Flávio Bolsonaro](https://oglobo.globo.com/brasil/sou-vitima-de-um-grupo-politico-que-tem-patrocinado-difamacao-diz-flavio-bolsonaro-1-24490470)
 * [Condomínios já testam 'drones terrestres' para entregas. Saiba como funcionam](https://oglobo.globo.com/economia/condominios-ja-testam-drones-terrestres-para-entregas-saiba-como-funcionam-24490396)
-* [Negociação com sindicato emperra e Latam pode dispensar até 2,7 mil tripulantes](https://oglobo.globo.com/economia/negociacao-com-sindicato-emperra-latam-pode-dispensar-ate-27-mil-tripulantes-24490403)
-* [Prefeitura do Rio inicia programa de fiscalização de cartórios e franquias](https://oglobo.globo.com/rio/prefeitura-do-rio-inicia-programa-de-fiscalizacao-de-cartorios-franquias-1-24490412)
-* [Secretário diz que questões legais ou burocráticas travam venda de 16 estatais](https://oglobo.globo.com/economia/secretario-diz-que-questoes-legais-ou-burocraticas-travam-venda-de-16-estatais-24490346)
 * [Mutirão revitaliza varal solidário incendiado no Barreto](https://oglobo.globo.com/rio/bairros/mutirao-revitaliza-varal-solidario-incendiado-no-barreto-1-24490391)

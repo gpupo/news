@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 00:27:16 UTC
+# indexed at 20/06/2020 00:36:35 UTC
 
 
 ## news.ycombinator.com
@@ -14,14 +14,15 @@ layout: default
 * [W. E. B. Du Bois's Modernist Data Visualizations of Black Life](https://hyperallergic.com/306559/w-e-b-du-boiss-modernist-data-visualizations-of-black-life/)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
+* [Flexport is hiring engineers in Amsterdam](https://Flexport.com)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
 * [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
-* [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
 * [SCP – Familiar, Simple, Insecure, and Slow](https://gravitational.com/blog/scp-familiar-simple-insecure-slow/)
+* [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
 * [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 * ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
 * [Towards an Untrepreneurial Economy? Rise of the Veblenian Entrepreneur (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
@@ -29,15 +30,14 @@ layout: default
 * [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
 * [Apple’s secretive AR and VR Headset plans altered by internal differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
-* [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
 * [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
+* [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
 * [Controlling the terminal from Common Lisp (part 2)](https://turtleware.eu/posts/Charming-CLIM-tutorial-part-2--Rethinking-The-Output.html)
 * [SpaceX applies to offer high-speed internet service to Canadians](https://www.cbc.ca/news/business/spacex-high-speed-internet-1.5618918)
 * [Micromort](https://en.wikipedia.org/wiki/Micromort)
-* [DiCE Molecules](https://axial.substack.com/p/axial-dice-molecules)
 * [Oracle’s BlueKai tracks people across the web – that data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
-* [Show HN: OBS-web – Control OBS from the browser](https://github.com/Niek/obs-web)
 * [U.S. Watched George Floyd Protests in 15 Cities Using Aerial Surveillance](https://www.nytimes.com/2020/06/19/us/politics/george-floyd-protests-surveillance.html)
+* [DiCE Molecules](https://axial.substack.com/p/axial-dice-molecules)
 ## nytimes.com
 
 
@@ -95,20 +95,20 @@ layout: default
 * [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
 * [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
 * [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
-* [5 Takeaways From John Bolton’s Book "The Room Where it Happened"](https://www.nytimes.com/2020/06/18/us/politics/john-bolton-memoir-takeaways.html)
 * [Trump Can’t Immediately End DACA, Supreme Court Rules](https://www.nytimes.com/2020/06/18/us/trump-daca-supreme-court.html)
-* [Facebook Removes Trump Ads Displaying Symbol Used by Nazis](https://www.nytimes.com/2020/06/18/us/politics/facebook-trump-ads-antifa-red-triangle.html)
+* [A Sheriff Who Defied Arizona’s Lockdown Is Infected With the Coronavirus](https://www.nytimes.com/2020/06/18/us/coronavirus-arizona-stay-at-home-mark-lamb.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [UFRJ lança aplicativo para autoavaliação de sintomas da Covid-19](https://oglobo.globo.com/sociedade/ufrj-lanca-aplicativo-para-autoavaliacao-de-sintomas-da-covid-19-24489055)
-* [Por falta de participantes, Novartis suspende testes com hidroxicloroquina para os casos de Covid-19](https://oglobo.globo.com/sociedade/por-falta-de-participantes-novartis-suspende-testes-com-hidroxicloroquina-para-os-casos-de-covid-19-24489425)
 * [MPF recorre ao STJ para manter missionário afastado da chefia de índios isolados da Funai](https://oglobo.globo.com/brasil/mpf-recorre-ao-stj-para-manter-missionario-afastado-da-chefia-de-indios-isolados-da-funai-1-24489377)
-* [Flexibilização em Niterói: veja o que pode funcionar e o que ainda permanece proibido a partir de segunda-feira](https://oglobo.globo.com/rio/bairros/flexibilizacao-em-niteroi-veja-que-pode-funcionar-o-que-ainda-permanece-proibido-partir-de-segunda-feira-24488509)
+* [UFRJ lança aplicativo para autoavaliação de sintomas da Covid-19](https://oglobo.globo.com/sociedade/ufrj-lanca-aplicativo-para-autoavaliacao-de-sintomas-da-covid-19-24489055)
 * [Morre Antonio Veciana, ex-espião cubano treinado pela CIA que tentou matar Fidel](https://oglobo.globo.com/mundo/morre-antonio-veciana-ex-espiao-cubano-treinado-pela-cia-que-tentou-matar-fidel-24489366)
+* [Por falta de participantes, Novartis suspende testes com hidroxicloroquina para os casos de Covid-19](https://oglobo.globo.com/sociedade/por-falta-de-participantes-novartis-suspende-testes-com-hidroxicloroquina-para-os-casos-de-covid-19-24489425)
+* [Flexibilização em Niterói: veja o que pode funcionar e o que ainda permanece proibido a partir de segunda-feira](https://oglobo.globo.com/rio/bairros/flexibilizacao-em-niteroi-veja-que-pode-funcionar-o-que-ainda-permanece-proibido-partir-de-segunda-feira-24488509)
 * [Carioca: protocolo prevê, mas técnicos não precisarão usar máscaras na beira do campo](https://oglobo.globo.com/esportes/carioca-protocolo-preve-mas-tecnicos-nao-precisarao-usar-mascaras-na-beira-do-campo-24489424)
 * [Governo quer 'perfil técnico' no MEC, saiba quem são os cotados](https://oglobo.globo.com/sociedade/governo-quer-perfil-tecnico-no-mec-saiba-quem-sao-os-cotados-24489417)
 * [Pela primeira vez, Latam terá um dia sem voos domésticos](https://oglobo.globo.com/economia/pela-primeira-vez-latam-tera-um-dia-sem-voos-domesticos-1-24489323)

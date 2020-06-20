@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 02:34:33 UTC
+# indexed at 20/06/2020 03:09:45 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
 * [MSU Vice President of research & innovation Steve Hsu has been forced to resign](https://infoproc.blogspot.com/2020/06/resignation.html)
 * [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
-* [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
+* [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
+* [Mathematicians urge colleagues to boycott police work in wake of killings](https://www.nature.com/articles/d41586-020-01874-9)
+* [Why Full-Time 9 to 5 Jobs are Risky](https://adambader.com/posts/why-full-time-9-to-5-jobs-are-risky/)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
-* [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
+* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
-* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 * [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
-* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
+* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
+* [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
+* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
 * [Hypothes.is: An Open Annotations Platform](https://web.hypothes.is/)
 * ['Into The Wild' bus removed from Alaska wilderness](https://www.bbc.com/news/world-us-canada-53106441)
 * [Restoring and MIDI-Fying a Baby Grand Piano](https://jacquesmattheij.com/midi-fied-baby-grand-piano/)
-* [W. E. B. Du Bois's Modernist Data Visualizations of Black Life (2016)](https://hyperallergic.com/306559/w-e-b-du-boiss-modernist-data-visualizations-of-black-life/)
-* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
-* [Blu-ray player keeps cycling on/off whenever plugged in](https://us.community.samsung.com/t5/Home-Theater/Blu-ray-player-BD-JM57C-keeps-cycling-on-off-whenever-plugged-in/td-p/1278935)
-* [Flexport is hiring engineers in Amsterdam](https://Flexport.com)
 * [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
+* [Blu-ray player keeps cycling on/off whenever plugged in](https://us.community.samsung.com/t5/Home-Theater/Blu-ray-player-BD-JM57C-keeps-cycling-on-off-whenever-plugged-in/td-p/1278935)
 * [Today’s developers don’t need what the App Store offers](https://capiche.com/e/ecommerce-and-app-store-fees-compared)
+* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
+* [Flexport is hiring engineers in Amsterdam](https://Flexport.com)
 * [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
 * [SCP – Familiar, Simple, Insecure, and Slow](https://gravitational.com/blog/scp-familiar-simple-insecure-slow/)
-* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 * [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
-* [Apple’s secretive AR and VR Headset plans altered by internal differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses)
-* [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
+* [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 ## nytimes.com
 
 
@@ -46,9 +46,9 @@ layout: default
 * [In California, Hanging Deaths of Two Black Men Summon a Dark History and F.B.I. Scrutiny](https://www.nytimes.com/2020/06/19/us/hanging-deaths-california.html)
 * [Black Tulsans, With a Defiant Juneteenth Celebration, Send a Message to Trump](https://www.nytimes.com/2020/06/19/us/politics/juneteenth-tulsa-trump-rally.html)
 * [The 1865 Handwritten Order Marking Juneteenth Has Been Found](https://www.nytimes.com/2020/06/19/us/juneteenth-order-national-archives.html)
-* [U.S. Attorney Who Investigated Trump Associates Is Abruptly Replaced](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
+* [U.S. Attorney Who Investigated Trump Associates Is Abruptly Ousted](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
+* [W.H.O. Warns of ‘Dangerous Phase’ of Pandemic as Outbreaks Widen](https://www.nytimes.com/2020/06/19/us/coronavirus-new-dangerous-phase.html)
 * [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html)
-* [Navy Inquiry Faults Two Top Officers Aboard Roosevelt for Handling of Virus](https://www.nytimes.com/2020/06/19/us/politics/carrier-roosevelt-coronavirus-crozier.html)
 * [Biden Proves an Elusive Target, Adding to Trump’s Frustration](https://www.nytimes.com/2020/06/19/us/politics/donald-trump-joe-biden-coronavirus.html)
 * [Bernie Sanders Predicted Revolution, Just Not This One](https://www.nytimes.com/2020/06/19/us/politics/bernie-sanders-protests.html)
 * [In This Pandemic, Personal Echoes of the AIDS Crisis](https://www.nytimes.com/2020/06/18/us/coronavirus-aids-epidemic-lessons.html)
@@ -78,11 +78,11 @@ layout: default
 * [Top State Department Aide Resigns Over Trump’s Response to Racial Unrest](https://www.nytimes.com/2020/06/19/us/politics/mary-elizabeth-taylor-state-department-resign.html)
 * [Black Cultural Leaders Make a Unified Call: ‘Value Our Work’](https://www.nytimes.com/2020/06/19/arts/black-artists-for-freedom-letter.html)
 * [‘Into the Wild’ Bus, Seen as a Danger, Is Airlifted From the Alaskan Wild](https://www.nytimes.com/2020/06/19/us/into-the-wild-bus-removed.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Two Gamers Played ‘The Last of Us Part II.’ They Were Blown Away.](https://www.nytimes.com/2020/06/19/technology/last-of-us-2-gameplay.html)
 * [Fashion Magazine Editors, Take a Page From Audrey Withers](https://www.nytimes.com/2020/06/18/style/vogue-editor-england-audrey-withers-biography-dressed-for-war.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Lives de hoje: Baile do Simonal e Belo são destaques deste sábado](https://oglobo.globo.com/cultura/lives-de-hoje-baile-do-simonal-belo-sao-destaques-deste-sabado-24489085)
 * [Criada por Pedro Bial, nova série do Globoplay investiga os crimes sexuais de João de Deus](https://oglobo.globo.com/cultura/criada-por-pedro-bial-nova-serie-do-globoplay-investiga-os-crimes-sexuais-de-joao-de-deus-24489914)
 * [Reforma da Previdência: cobrar mais de funcionários públicos é constitucional, diz Barroso do STF](https://oglobo.globo.com/economia/reforma-da-previdencia-cobrar-mais-de-funcionarios-publicos-constitucional-diz-barroso-do-stf-24489890)
 * [Escândalo sexual envolvendo João de Deus é tema da nova série documental do Globoplay](https://oglobo.globo.com/cultura/revista-da-tv/escandalo-sexual-envolvendo-joao-de-deus-tema-da-nova-serie-documental-do-globoplay-24489727)
-* [Bolsonaro nomeia o ator Mario Frias secretário especial da Cultura](https://oglobo.globo.com/cultura/bolsonaro-nomeia-ator-mario-frias-secretario-especial-da-cultura-24489678)
 * [Entenda quais são as suspeitas sobre Flávio Bolsonaro](https://oglobo.globo.com/brasil/entenda-quais-sao-as-suspeitas-sobre-flavio-bolsonaro-1-24489813)
 * [Governo dos EUA monitorou protestos por morte de George Floyd usando vigilância aérea](https://oglobo.globo.com/mundo/governo-dos-eua-monitorou-protestos-por-morte-de-george-floyd-usando-vigilancia-aerea-24489701)
-* [México passa de 20 mil mortes por Covid-19](https://oglobo.globo.com/mundo/mexico-passa-de-20-mil-mortes-por-covid-19-24489683)
-* [North Face anuncia boicote publicitário contra o Facebook](https://oglobo.globo.com/economia/north-face-anuncia-boicote-publicitario-contra-facebook-24489447)
-* [É #FAKE que Senado debate projeto de lei que prevê prisão para religiosos que pregarem em horário noturno](https://oglobo.globo.com/fato-ou-fake/e-fake-que-senado-debate-projeto-de-lei-que-preve-prisao-para-religiosos-que-pregarem-em-horario-noturno-24489644)
-* [UFRJ lança aplicativo para autoavaliação de sintomas da Covid-19](https://oglobo.globo.com/sociedade/ufrj-lanca-aplicativo-para-autoavaliacao-de-sintomas-da-covid-19-24489055)
+* [Aumento de casos de Covid-19 no exterior é alerta para o Brasil](https://oglobo.globo.com/opiniao/aumento-de-casos-de-covid-19-no-exterior-alerta-para-brasil-24489257)
+* [Bolsonaro deve se preocupar com o trabalho](https://oglobo.globo.com/opiniao/bolsonaro-deve-se-preocupar-com-trabalho-24489222)
+* [Receitas fáceis de fondue para o inverno que, enfim, chegou](https://oglobo.globo.com/rioshow/receitas-faceis-de-fondue-para-inverno-que-enfim-chegou-24488118)
+* ['As editoras terão que se reinventar ou desaparecerão', diz Leonardo Tonus, escritor e professor da Sorbonne](https://oglobo.globo.com/rioshow/as-editoras-terao-que-se-reinventar-ou-desaparecerao-diz-leonardo-tonus-escritor-professor-da-sorbonne-24480453)

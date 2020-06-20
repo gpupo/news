@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 07:34:37 UTC
+# indexed at 20/06/2020 08:10:38 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
-* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
-* [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
-* [Use 3990x as a 14x9 Screen](https://www.bilibili.com/video/BV19E41137wj?from=search&seid=703452961587580316)
+* [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
 * [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 * [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
-* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
+* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
-* [Reyes Rendering on the GPU [pdf]](https://markussteinberger.net/papers/GPUReyes.pdf)
-* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
-* [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
-* [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
-* [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
+* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
 * [The first first-person shooter (2015)](https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter)
-* [The Shareware Scene, Part 5: Narratives of Doom](https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/)
+* [Reyes Rendering on the GPU [pdf]](https://markussteinberger.net/papers/GPUReyes.pdf)
+* [Control theory for fun and profit](https://fauna.com/blog/control-theory-for-fun-and-profit)
+* [Europeans vow to pursue digital tax plans after US “provocation”](https://arstechnica.com/tech-policy/2020/06/europeans-vow-to-pursue-digital-tax-plans-after-us-provocation/)
+* [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
+* [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
 * [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
-* [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
+* [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [MakeSpace – Virtual Spatial Chat](https://makespace.fun/)
+* [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
+* [Tell HN: YouTube fixed the dot after domain ad bypass](https://news.ycombinator.com/item?id=23581118)
 * [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
-* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
+* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 ## nytimes.com
 
 
@@ -78,9 +78,9 @@ layout: default
 * [‘Into the Wild’ Bus, Seen as a Danger, Is Airlifted From the Alaskan Wild](https://www.nytimes.com/2020/06/19/us/into-the-wild-bus-removed.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Two Gamers Played ‘The Last of Us Part II.’ They Were Blown Away.](https://www.nytimes.com/2020/06/19/technology/last-of-us-2-gameplay.html)
 * [Fashion Magazine Editors, Take a Page From Audrey Withers](https://www.nytimes.com/2020/06/18/style/vogue-editor-england-audrey-withers-biography-dressed-for-war.html)
@@ -106,6 +106,6 @@ layout: default
 * [Gari denuncia falta de EPI e critica plano de flexibilização da prefeitura do Rio: 'será uma carnificina'; veja vídeo](https://oglobo.globo.com/rio/gari-denuncia-falta-de-epi-critica-plano-de-flexibilizacao-da-prefeitura-do-rio-sera-uma-carnificina-veja-video-1-24489865)
 * [A doce vida de Fabrício Queiroz em Atibaia: bola, cerveja e broncas da mulher](https://oglobo.globo.com/brasil/a-doce-vida-de-fabricio-queiroz-em-atibaia-bola-cerveja-broncas-da-mulher-1-24489845)
 * [Hospitais brasileiros já receitam dexametasona para casos graves](https://oglobo.globo.com/sociedade/hospitais-brasileiros-ja-receitam-dexametasona-para-casos-graves-1-24489806)
-* [Uso de máscaras para se prevenir do coronavírus vira questão política nos EUA](https://oglobo.globo.com/mundo/uso-de-mascaras-para-se-prevenir-do-coronavirus-vira-questao-politica-nos-eua-24488202)
+* [A era do Flamengo.gov.br](https://oglobo.globo.com/esportes/a-era-do-flamengogovbr-24489698)
 * [Mais de um mês depois do fim das quarentenas, Europa mantém pandemia contida](https://oglobo.globo.com/mundo/mais-de-um-mes-depois-do-fim-das-quarentenas-europa-mantem-pandemia-contida-24489428)
 * [Um homem cada vez mais só](https://oglobo.globo.com/brasil/um-homem-cada-vez-mais-so-24489571)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 08:34:29 UTC
+# indexed at 20/06/2020 09:09:38 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
-* [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 * [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
+* [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 * [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
-* [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
 * [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
 * [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
-* [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders)
 * [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
-* [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
 * [The first first-person shooter (2015)](https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter)
-* [Europeans vow to pursue digital tax plans after US “provocation”](https://arstechnica.com/tech-policy/2020/06/europeans-vow-to-pursue-digital-tax-plans-after-us-provocation/)
+* [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
 * [Reyes Rendering on the GPU [pdf]](https://markussteinberger.net/papers/GPUReyes.pdf)
+* [Europeans vow to pursue digital tax plans after US “provocation”](https://arstechnica.com/tech-policy/2020/06/europeans-vow-to-pursue-digital-tax-plans-after-us-provocation/)
+* [Show HN: MediaRecorder Power Up](https://meething.github.io/StreamSwitcher/)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
 * [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
 * [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
 * [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
+* [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
 * [Tell HN: YouTube fixed the dot after domain ad bypass](https://news.ycombinator.com/item?id=23581118)
 * [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
 * [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
-* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
+* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
 ## nytimes.com
 
 
@@ -76,20 +76,20 @@ layout: default
 * [Top State Department Aide Resigns Over Trump’s Response to Racial Unrest](https://www.nytimes.com/2020/06/19/us/politics/mary-elizabeth-taylor-state-department-resign.html)
 * [Hong Kong Protests: Martin Lee, 'Father of Democracy,' Caught Between Extremes](https://www.nytimes.com/2020/06/19/world/asia/hong-kong-martin-lee-profile.html)
 * [‘Into the Wild’ Bus, Seen as a Danger, Is Airlifted From the Alaskan Wild](https://www.nytimes.com/2020/06/19/us/into-the-wild-bus-removed.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Two Gamers Played ‘The Last of Us Part II.’ They Were Blown Away.](https://www.nytimes.com/2020/06/19/technology/last-of-us-2-gameplay.html)
 * [Fashion Magazine Editors, Take a Page From Audrey Withers](https://www.nytimes.com/2020/06/18/style/vogue-editor-england-audrey-withers-biography-dressed-for-war.html)
 * [This Year, a London Art Fair Will Happen Everywhere](https://www.nytimes.com/2020/06/18/arts/london-masterpiece-online.html)
 * [Nicole Beharie on ‘Miss Juneteenth’  and 'Sleepy Hollow'](https://www.nytimes.com/2020/06/19/movies/nicole-beharie-miss-juneteenth-sleepy-hollow.html)
+* [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
 * [You May Have Antibodies After Coronavirus Infection. But Not for Long.](https://www.nytimes.com/2020/06/18/health/coronavirus-antibodies.html)
 * [Yellowstone’s Supervolcano Is a Hot Spot, but It May Be Calming Down](https://www.nytimes.com/2020/06/18/science/yellowstone-supervolcano-eruption.html)
 * [Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.](https://www.nytimes.com/2020/06/19/health/coronavirus-lung-treatment-funding.html)
-* [The Pandemic Claims New Victims: Prestigious Medical Journals](https://www.nytimes.com/2020/06/14/health/virus-journals.html)
 * [What to Cook This Weekend](https://www.nytimes.com/2020/06/19/dining/what-to-cook-this-weekend.html)
 * [Rising Seas Threaten an American Institution: The 30-Year Mortgage](https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html)
 * [American Airlines Bans Conservative Activist Who Refused to Wear a Mask](https://www.nytimes.com/2020/06/18/us/american-airlines-mask-brandon-straka.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Advogado de Flávio era chamado de 'louco de pedra' pela ousadia ao tentar camuflar rachadinha](https://oglobo.globo.com/brasil/advogado-de-flavio-era-chamado-de-louco-de-pedra-pela-ousadia-ao-tentar-camuflar-rachadinha-24489679)
+* [Queiroz teme ser assassinado desde o começo da investigação da rachadinha](https://epoca.globo.com/guilherme-amado/queiroz-teme-ser-assassinado-desde-comeco-da-investigacao-da-rachadinha-24488469)
 * [Associação de hotéis brasileira adota protocolo ecologicamente responsável contra Covid-19](https://oglobo.globo.com/boa-viagem/associacao-de-hoteis-brasileira-adota-protocolo-ecologicamente-responsavel-contra-covid-19-24489971)
+* [Saldo de internação por Covid-19: morte do paciente e conta de R$ 170 mil para a família](https://epoca.globo.com/sociedade/saldo-de-internacao-por-covid-19-morte-do-paciente-conta-de-170-mil-para-familia-24484771)
 * [Renovação do ajuste fiscal: o novo fantasma que ronda o Estado do Rio](https://oglobo.globo.com/rio/renovacao-do-ajuste-fiscal-novo-fantasma-que-ronda-estado-do-rio-24477417)
 * [Minha Casa Minha Vida: divergência entre Caixa e governo dificulta queda de juros do programa](https://oglobo.globo.com/economia/minha-casa-minha-vida-divergencia-entre-caixa-governo-dificulta-queda-de-juros-do-programa-24489821)
 * [Gari denuncia falta de EPI e critica plano de flexibilização da prefeitura do Rio: 'será uma carnificina'; veja vídeo](https://oglobo.globo.com/rio/gari-denuncia-falta-de-epi-critica-plano-de-flexibilizacao-da-prefeitura-do-rio-sera-uma-carnificina-veja-video-1-24489865)
-* [A doce vida de Fabrício Queiroz em Atibaia: bola, cerveja e broncas da mulher](https://oglobo.globo.com/brasil/a-doce-vida-de-fabricio-queiroz-em-atibaia-bola-cerveja-broncas-da-mulher-1-24489845)
 * [Hospitais brasileiros já receitam dexametasona para casos graves](https://oglobo.globo.com/sociedade/hospitais-brasileiros-ja-receitam-dexametasona-para-casos-graves-1-24489806)
 * [A era do Flamengo.gov.br](https://oglobo.globo.com/esportes/a-era-do-flamengogovbr-24489698)
 * [Mais de um mês depois do fim das quarentenas, Europa mantém pandemia contida](https://oglobo.globo.com/mundo/mais-de-um-mes-depois-do-fim-das-quarentenas-europa-mantem-pandemia-contida-24489428)
-* [Um homem cada vez mais só](https://oglobo.globo.com/brasil/um-homem-cada-vez-mais-so-24489571)
+* ['Adelante: a luta das refugiadas venezuelanas no Brasil'](https://oglobo.globo.com/celina/adelante-luta-das-refugiadas-venezuelanas-no-brasil-24289958)

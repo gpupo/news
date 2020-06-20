@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 09:09:38 UTC
+# indexed at 20/06/2020 09:34:19 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
 * [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
+* [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
+* [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
 * [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
-* [Building a Hexagonal Grid in CSS](https://ninjarockstar.dev/css-hex-grids/)
 * [Linear types are merged in GHC](https://www.tweag.io/blog/2020-06-19-linear-types-merged)
 * [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
-* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
 * [The first first-person shooter (2015)](https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter)
+* [Europeans vow to pursue digital tax plans after US “provocation”](https://arstechnica.com/tech-policy/2020/06/europeans-vow-to-pursue-digital-tax-plans-after-us-provocation/)
+* [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
+* [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
 * [Reyes Rendering on the GPU [pdf]](https://markussteinberger.net/papers/GPUReyes.pdf)
-* [Europeans vow to pursue digital tax plans after US “provocation”](https://arstechnica.com/tech-policy/2020/06/europeans-vow-to-pursue-digital-tax-plans-after-us-provocation/)
-* [Show HN: MediaRecorder Power Up](https://meething.github.io/StreamSwitcher/)
 * [BTFS – mount any .torrent file or magnet link as directory](https://github.com/johang/btfs)
+* [Show HN: MediaRecorder Power Up](https://meething.github.io/StreamSwitcher/)
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
 * [Robust APIs Are Weird](https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/)
-* [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
+* [Ask HN: Google won't remove my site URL from random business using it on Maps](https://news.ycombinator.com/item?id=23582602)
+* [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
-* [Tell HN: YouTube fixed the dot after domain ad bypass](https://news.ycombinator.com/item?id=23581118)
 * [Using Frida for Windows Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html)
+* [Tell HN: YouTube fixed the dot after domain ad bypass](https://news.ycombinator.com/item?id=23581118)
 * [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
-* [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
-* [The US can reach 90% clean electricity by 2035 without increasing consumer bills](https://gspp.berkeley.edu/news/news-center/the-us-can-reach-90-percent-clean-electricity-by-2035-dependably-and-without-increasing-consumer-bills)
 ## nytimes.com
 
 
@@ -78,9 +78,9 @@ layout: default
 * [‘Into the Wild’ Bus, Seen as a Danger, Is Airlifted From the Alaskan Wild](https://www.nytimes.com/2020/06/19/us/into-the-wild-bus-removed.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [They Live Alone in Ghost Towns](https://www.nytimes.com/2020/06/15/style/ghost-town-vacations.html)
 * [Two Gamers Played ‘The Last of Us Part II.’ They Were Blown Away.](https://www.nytimes.com/2020/06/19/technology/last-of-us-2-gameplay.html)
 * [Fashion Magazine Editors, Take a Page From Audrey Withers](https://www.nytimes.com/2020/06/18/style/vogue-editor-england-audrey-withers-biography-dressed-for-war.html)

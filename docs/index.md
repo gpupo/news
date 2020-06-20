@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/06/2020 13:09:42 UTC
+# indexed at 20/06/2020 13:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -14,18 +14,19 @@ layout: default
 * [A Technology Preview of Nginx Support for QUIC and HTTP/3](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
 * [Updating the Git protocol for SHA-256](https://lwn.net/SubscriberLink/823352/ea717c1e49390505/)
+* [Alex: A ML-enhanced range index](https://github.com/microsoft/ALEX)
 * [Strike a Solder Joint Behind Enemy Lines](https://hackaday.com/2020/06/19/strike-a-solder-joint-behind-enemy-lines/)
+* [Winamp’s woes: How the greatest MP3 player undid itself (2012)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
 * [Ask HN: Google won't remove my site URL from random business using it on Maps](https://news.ycombinator.com/item?id=23582602)
 * [Mac OS X Leopard and Xcode on iPad Pro](https://twitter.com/jankais3r/status/1274043856821145602)
 * [Osint Amateur Hour](https://www.secjuice.com/geolocation-osint-amateur-hour/)
 * [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 * [Solar storm risk and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
-* [Winamp’s woes: How the greatest MP3 player undid itself (2012)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
 * [Billionaire, Board Game God and Tech's Hidden Disruptor (2019)](https://www.forbes.com/sites/alexkonrad/2019/04/29/meet-matt-calkins-billionaire-board-game-god-and-techs-hidden-disruptor/)
 * [TiDB 4.0 GA Release](https://pingcap.com/blog/tidb-4.0-ga-gearing-you-up-for-an-unpredictable-world-with-real-time-htap-database/)
 * [Let them paste passwords (2017)](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords)
-* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [Reyes Rendering on the GPU [pdf]](https://markussteinberger.net/papers/GPUReyes.pdf)
+* [ForgeFed: A federation protocol for interop between version control services](https://forgefed.peers.community/)
 * [DeCSS Haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
 * [The first first-person shooter (2015)](https://www.polygon.com/features/2015/5/21/8627231/the-first-first-person-shooter)
 * [Our deepest view of the X-ray sky](http://www.mpe.mpg.de/7461761/news20200619)
@@ -33,11 +34,10 @@ layout: default
 * [Launch HN: Mighty Health (YC S19) – Health coaching for people over 50](https://news.ycombinator.com/item?id=23574723)
 * [Turn on MFA Before Crooks Do It for You](https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/)
 * [The Power of Crossed Brain Wires: Synesthesia makes ordinary life marvelous](http://nautil.us/issue/86/energy/the-power-of-crossed-brain-wires)
-* [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [Stamper: An Artboard-Oriented Creative Coding Environment](https://dl.acm.org/doi/pdf/10.1145/3334480.3382994)
+* [The Nova Scotia shooter case has hallmarks of an undercover operation](https://www.macleans.ca/news/canada/the-nova-scotia-shooter-case-has-hallmarks-of-an-undercover-operation/)
 * [Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
 * [Unsubscribe: The $0-budget movie that ‘topped the US box office’](https://www.bbc.co.uk/news/world-us-canada-53099283)
-* [Wirecard CEO exits as search for missing billions hits dead end in Asia](https://www.reuters.com/article/us-wirecard-accounts/wirecard-ceo-quits-as-search-for-missing-billions-hits-dead-end-in-asia-idUSKBN23Q0YA)
 ## nytimes.com
 
 
@@ -52,9 +52,9 @@ layout: default
 * [Trump’s ‘What Do You Have to Lose?’ Presidency Is Rallying Again](https://www.nytimes.com/2020/06/20/us/politics/trump-campaign-rally-tulsa.html)
 * [What Time is Trump's 2020 Campaign Tulsa Rally](https://www.nytimes.com/2020/06/20/us/politics/what-time-is-trump-rally.html)
 * [What to Know About the Tulsa Greenwood Massacre](https://www.nytimes.com/2020/06/20/us/tulsa-greenwood-massacre.html)
+* [Protesters Demanded Police Reform. Minnesota Lawmakers Left Without Passing a Bill.](https://www.nytimes.com/2020/06/20/us/minnesota-police-george-floyd.html)
 * [U.S. Watched George Floyd Protests in 15 Cities Using Aerial Surveillance](https://www.nytimes.com/2020/06/19/us/politics/george-floyd-protests-surveillance.html)
 * [Probe of Old Drug Cases Raises Questions About 2004 George Floyd Arrest](https://www.nytimes.com/2020/06/19/us/unrest-george-floyd-houston-goines.html)
-* [Court Allows Trump’s Tulsa Rally to Go Ahead](https://www.nytimes.com/2020/06/19/us/juneteenth-2020.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/06/19/arts/11-of-our-best-weekend-reads.html)
 * [The History and Meaning of Juneteenth](https://www.nytimes.com/2020/06/19/podcasts/the-daily/juneteenth-emancipation-day-black-lives-matter.html)
 * [Which Opinions Are Out of Bounds?](https://www.nytimes.com/2020/06/18/opinion/the-argument-tom-cotton-resignation.html)
@@ -80,19 +80,19 @@ layout: default
 * [Russians Eat Burgers in Gloves. Should Everyone?](https://www.nytimes.com/2020/06/20/world/europe/burgers-surgical-gloves-russia.html)
 * [Hong Kong Protests: Martin Lee, 'Father of Democracy,' Caught Between Extremes](https://www.nytimes.com/2020/06/19/world/asia/hong-kong-martin-lee-profile.html)
 * [Creating Portfolios That Are ‘Not for the Faint of Heart’](https://www.nytimes.com/2020/06/20/business/retirement-portfolios.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [Voguing for Our Lives. Again.](https://www.nytimes.com/2020/06/20/style/self-care/vogue-trans-black-lives-protest.html)
 * [For Belmont Jockeys, the Return of a Gig](https://www.nytimes.com/2020/06/18/sports/horse-racing/belmont-stakes-triple-crown-jockeys.html)
 * [Museums Embrace Art Therapy Techniques for Unsettled Times](https://www.nytimes.com/2020/06/15/arts/design/art-therapy-museums-virus.html)
 * [What It Takes to Raise a Black Woman Up](https://www.nytimes.com/2020/06/19/arts/design/ayana-evans-black-women.html)
 * [Porsche Drive: A Subscription Service With a Menu of Fast Cars](https://www.nytimes.com/2020/06/18/business/porsche-drive-subscription-service.html)
-* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
-* [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
 * [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
+* [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Mário Frias defende cloroquina, critica Moro, ataca globalismo e questiona STF](https://epoca.globo.com/brasil/mario-frias-defende-cloroquina-critica-moro-ataca-globalismo-questiona-stf-24440671)
+* [Sylvio Capanema, autor da lei do inquilinato, morre vítima da Covid-19](https://oglobo.globo.com/brasil/sylvio-capanema-autor-da-lei-do-inquilinato-morre-vitima-da-covid-19-24490201)
 * [Abraham Weintraub deixou o Brasil e está nos EUA, diz irmão de ex-ministro](https://oglobo.globo.com/brasil/abraham-weintraub-deixou-brasil-esta-nos-eua-diz-irmao-de-ex-ministro-24490210)
 * [Copa de 1970: Brasil 3 x 1 Uruguai, como Clodoaldo abriu a defesa celeste](https://oglobo.globo.com/esportes/copa-de-1970-brasil-3-1-uruguai-como-clodoaldo-abriu-defesa-celeste-24488573)
 * [Polícia civil prende homem responsável por transporte de armas e drogas de facção do Rio](https://oglobo.globo.com/rio/policia-civil-prende-homem-responsavel-por-transporte-de-armas-drogas-de-faccao-do-rio-24490202)
 * [Rihanna e Beyoncé estão em lista de artistas mais ouvidos durante o sexo](https://oglobo.globo.com/ela/gente/rihanna-beyonce-estao-em-lista-de-artistas-mais-ouvidos-durante-sexo-24490156)
-* [Ninguém segura esses bebês: opções de atividades on-line na quarentena para os bem pequenininhos](https://oglobo.globo.com/rio/bairros/ninguem-segura-esses-bebes-opcoes-de-atividades-on-line-na-quarentena-para-os-bem-pequenininhos-24490137)
 * [Crítica: 'Em nome de Deus' é irresistível para quem gosta de um documentário bem construído](https://oglobo.globo.com/cultura/revista-da-tv/critica-em-nome-de-deus-e-irresistivel-para-quem-gosta-de-um-documentario-bem-construido-24490188)
 * [Procurador que investigou aliados de Trump nega ter renunciado ao cargo após comunicado do governo](https://oglobo.globo.com/mundo/procurador-que-investigou-aliados-de-trump-nega-ter-renunciado-ao-cargo-apos-comunicado-do-governo-24490178)
 * [Polícia Civil desarticula ação de depósito onde combustível era furtado em Duque de Caxias](https://oglobo.globo.com/rio/policia-civil-desarticula-acao-de-deposito-onde-combustivel-era-furtado-em-duque-de-caxias-24490157)
 * [Brasil tem 1.039.119 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1039119-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24490127)
-* [Análise: A Índia irá ficar do lado do Ocidente contra a China?](https://oglobo.globo.com/mundo/analise-india-ira-ficar-do-lado-do-ocidente-contra-china-24488259)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 12:13:00 UTC
+# indexed at 21/06/2020 12:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
-* [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
 * [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
-* [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
+* [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
-* [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
-* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
+* [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
 * [Losing the war against surveillance capitalism, we let Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
+* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 * [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
-* [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
+* [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
 * [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
-* [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
-* [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
-* [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
+* [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
 * [NimConf 2020 Videos](https://conf.nim-lang.org/index.html?ref=hn)
 * [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
-* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
-* [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
+* [Why Apple ditched PowerPC, and what it says about Apple ditching Intel](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/)
+* [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
+* [Revenge of the Suburbs](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
+* [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
+* [Announcing Hash](https://hash.ai/about/mission)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [Jay Clayton, Low-Profile Regulator, Is Catapulted Into a Political Fight](https://www.nytimes.com/2020/06/20/business/jay-clayton-sdny-sec.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [Trump Seeks a Cultural Safe Space Amid a Deadly Pandemic](https://www.nytimes.com/2020/06/21/us/politics/trump-rally-supporters.html)
-* [TikTok Teens Claim They Tanked Trump Rally](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
+* [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
 * [NASCAR’s Confederate Flag Ban Faces a Test in Alabama](https://www.nytimes.com/2020/06/20/sports/autoracing/nascar-confederate-flag-ban-talladega.html)
 * [How Do the Police Actually Spend Their Time?](https://www.nytimes.com/2020/06/19/upshot/unrest-police-time-violent-crime.html)
 * [1 Dead and 1 Injured After Gunfire in Seattle’s ‘Autonomous Zone’](https://www.nytimes.com/2020/06/20/us/seattle-chop-shooting.html)
@@ -60,8 +60,8 @@ layout: default
 * [The Tulsa Race Massacre, Revisited](https://www.nytimes.com/2020/06/19/opinion/tulsa-race-riot-massacre-graves.html)
 * [Why Was a Grim Report on Police-Involved Deaths Never Released?](https://www.nytimes.com/2020/06/19/opinion/police-involved-deaths-new-york-city.html)
 * [Ishmael Reed: My Police Misconduct Experiences](https://www.nytimes.com/2020/06/20/opinion/police-racism-miconduct.html)
-* [The Tempting of Neil Gorsuch](https://www.nytimes.com/2020/06/20/opinion/sunday/neil-gorsuch-supreme-court.html)
 * [Good Cops, Bad Cops](https://www.nytimes.com/2020/06/20/opinion/sunday/police-good-cops-fathers-day.html)
+* [The Tempting of Neil Gorsuch](https://www.nytimes.com/2020/06/20/opinion/sunday/neil-gorsuch-supreme-court.html)
 * [China’s Man in Washington, Named Trump](https://www.nytimes.com/2020/06/20/opinion/sunday/trump-china-john-bolton-book.html)
 * [Trump the Troglodyte](https://www.nytimes.com/2020/06/20/opinion/sunday/trump-supreme-court.html)
 * [Black Lives Matter: Is Change Really Coming?](https://www.nytimes.com/2020/06/20/opinion/how-we-fight-racism.html)
@@ -89,10 +89,10 @@ layout: default
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
 * [A Royal Ascot Without the Crowds, but Hats and Frocks on Full Display](https://www.nytimes.com/2020/06/19/world/europe/virtual-royal-ascot-queen-elizabeth.html)
 * [Perry Mason Is Coming to HBO. Here’s What to Know About His History.](https://www.nytimes.com/2020/06/18/arts/television/perry-mason-history.html)
-* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
-* [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
+* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Com falta de diretrizes nacionais, estados assumem protagonismo inédito nos últimos 90 anos](https://oglobo.globo.com/brasil/com-falta-de-diretrizes-nacionais-estados-assumem-protagonismo-inedito-nos-ultimos-90-anos-24491098)
+* [Falha na manutenção levou a incêndio na Reduc, diz sindicato](https://oglobo.globo.com/economia/falha-na-manutencao-levou-incendio-na-reduc-diz-sindicato-24490260)
 * [Ataque a facadas em parque no Reino Unido já é tratado oficialmente como terrorismo, dizem autoridades](https://oglobo.globo.com/mundo/ataque-facadas-em-parque-no-reino-unido-ja-tratado-oficialmente-como-terrorismo-dizem-autoridades-24491081)
+* [Em quarentena agitada, Criolo faz mistério sobre volta ao rap: 'Já, já tem mais. Se assim tiver de ser'](https://oglobo.globo.com/cultura/em-quarentena-agitada-criolo-faz-misterio-sobre-volta-ao-rap-ja-ja-tem-mais-se-assim-tiver-de-ser-24491101)
+* [Com falta de diretrizes nacionais, estados assumem protagonismo inédito nos últimos 90 anos](https://oglobo.globo.com/brasil/com-falta-de-diretrizes-nacionais-estados-assumem-protagonismo-inedito-nos-ultimos-90-anos-24491098)
 * [Artigo | É preciso seguir o dinheiro e chegar aos corpos](https://epoca.globo.com/colunistas/artigo-e-preciso-seguir-dinheiro-chegar-aos-corpos-24491084)
 * [Brasil tem 1.071.085 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1071085-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24491070)
 * [Assessores da família real temem que livro sobre os bastidores do afastamento de Harry e Meghan da família 'pintem William como vilão'](https://oglobo.globo.com/ela/gente/assessores-da-familia-real-temem-que-livro-sobre-os-bastidores-do-afastamento-de-harry-meghan-da-familia-pintem-william-como-vilao-24491079)
 * [Alerta: nem todos os produtos de limpeza têm ação contra coronavírus. Saiba quais são](https://oglobo.globo.com/economia/alerta-nem-todos-os-produtos-de-limpeza-tem-acao-contra-coronavirus-saiba-quais-sao-24490535)
-* [Reportagem mergulha em dados para mostrar tamanho da subnotificação de mortes na pandemia no Brasil](https://oglobo.globo.com/meu-oglobo/reportagem-mergulha-em-dados-para-mostrar-tamanho-da-subnotificacao-de-mortes-na-pandemia-no-brasil-1-24491068)
 * [De sacar dinheiro a andar de elevador, mundo pós-pandemia exigirá tecnologias com menos toques](https://oglobo.globo.com/economia/de-sacar-dinheiro-andar-de-elevador-mundo-pos-pandemia-exigira-tecnologias-com-menos-toques-24490828)
-* ['EUA fazem ataque inaceitável contra independência do Tribunal Penal Internacional', diz promotora-chefe](https://oglobo.globo.com/mundo/eua-fazem-ataque-inaceitavel-contra-independencia-do-tribunal-penal-internacional-diz-promotora-chefe-24488986)
 * [‘Sergio Camargo é usado pela estrutura racista’, aponta dramaturgo negro](https://epoca.globo.com/guilherme-amado/sergio-camargo-usado-pela-estrutura-racista-aponta-dramaturgo-negro-24490058)

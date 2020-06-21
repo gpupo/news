@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 04:10:34 UTC
+# indexed at 21/06/2020 04:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Private Pilot Ground School – MIT OpenCourseWare](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
+* [Remove some offensive/archaic terminology from OpenSSL](https://github.com/openssl/openssl/pull/12089)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
-* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
+* [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
 * [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
 * [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
 * [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 * [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
 * [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
+* [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
 * [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
 * [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
-* [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
+* [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [Charles Proteus Steinmetz, the Wizard of Schenectady (2011)](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/)
 * [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
 * [Nextdoor ends its program for forwarding suspicions to police](https://www.bloomberg.com/news/articles/2020-06-19/why-nextdoor-cut-its-forward-to-police-tool)
-* [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
+* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
 * [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
+* [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
 * [Why Apple ditched PowerPC, and what it says about Apple ditching Intel](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/)
-* [Slo Mo Guys created a great video of the Apple Watch water-ejection system](https://9to5mac.com/2020/06/19/apple-watch-water-ejection-system/)
-* [Open-source, DRM-free Kindle alternative](https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative)
-* [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 ## nytimes.com
 
 
@@ -83,20 +83,20 @@ layout: default
 * [Why Japan’s Jobless Rate Is Just 2.6% While the U.S.’s Has Soared](https://www.nytimes.com/2020/06/20/business/japan-unemployment.html)
 * [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [They Want to Sell Balloon Rides 19 Miles Up. Haven’t We Heard This Before?](https://www.nytimes.com/2020/06/18/science/space-balloon-trips.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [A Long Night of ‘Flower Flashing’ With Lewis Miller](https://www.nytimes.com/2020/06/20/style/lewis-miller-florist-nyc.html)
 * [10 Reasons You Should Give Riesling Another Look](https://www.nytimes.com/2020/06/18/dining/drinks/dry-riesling.html)
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
 * [A Royal Ascot Without the Crowds, but Hats and Frocks on Full Display](https://www.nytimes.com/2020/06/19/world/europe/virtual-royal-ascot-queen-elizabeth.html)
 * [Perry Mason Is Coming to HBO. Here’s What to Know About His History.](https://www.nytimes.com/2020/06/18/arts/television/perry-mason-history.html)
-* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
-* [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
 * [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
+* [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [The Pandemic Sent Young New Yorkers Packing. Will They Return?](https://www.nytimes.com/2020/06/19/nyregion/nyc-coronavirus-young-people.html)
 * [How to Entertain Your Kids This Summer? Maybe Don’t](https://www.nytimes.com/2020/06/18/arts/kids-summer-activities-virus.html)
 * [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
@@ -106,7 +106,7 @@ layout: default
 ## globo.com
 
 
-* [Falta de testes, brigas políticas e quarentenas falhas: sucessão de erros leva Brasil a superar 50 mil mortos](https://oglobo.globo.com/sociedade/falta-de-testes-brigas-politicas-quarentenas-falhas-sucessao-de-erros-leva-brasil-superar-50-mil-mortos-1-24490900)
+* [Durante comício de campanha, Trump chama coronavírus de 'Kung-flu'](https://oglobo.globo.com/mundo/durante-comicio-de-campanha-trump-chama-coronavirus-de-kung-flu-24491047)
 * [Lives de hoje: Michel Teló é o destaque deste domingo](https://oglobo.globo.com/cultura/lives-de-hoje-michel-telo-o-destaque-deste-domingo-24491031)
 * [Ferj adia partida entre Vasco x Macaé; Madureira x Resende também é alterado](https://oglobo.globo.com/esportes/ferj-adia-partida-entre-vasco-macae-madureira-resende-tambem-alterado-24491010)
 * [Defensoria Pública de SP alega superlotação e aciona STJ contra transferência de 6.500 presos para o semiaberto](https://oglobo.globo.com/brasil/defensoria-publica-de-sp-alega-superlotacao-aciona-stj-contra-transferencia-de-6500-presos-para-semiaberto-24490922)

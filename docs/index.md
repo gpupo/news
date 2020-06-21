@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 17:09:32 UTC
+# indexed at 21/06/2020 17:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
-* [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
+* [Source code of “Delores: A Thimbleweed Park mini-adventure”](https://github.com/grumpygamer/DeloresDev)
 * [Show HN: What did you make during lockdown?](https://news.ycombinator.com/item?id=23592788)
+* [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
+* [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
 * [Why is it important for a matrix to be square?](https://math.stackexchange.com/a/2811960/18947)
 * [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
 * [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 * [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
-* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
 * [Losing the war against surveillance capitalism, we let Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
 * [Why Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
+* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
-* [How’s the Economy Doing? Watch the Dentists](https://www.nytimes.com/2020/06/10/upshot/dentists-coronavirus-economic-indicator.html)
 * [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
-* [Ask HN: Pitch your personal newsletter/blog with a one-liner](https://news.ycombinator.com/item?id=23592399)
 * [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
+* [Perl 5.32 Released](https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod)
+* [Ask HN: Pitch your personal newsletter/blog with a one-liner](https://news.ycombinator.com/item?id=23592399)
+* [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Recognizing vs. Generating](https://mlu.red/52622266310.html)
-* [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
+* [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
-* [Show HN: Noact – React-like Virtual DOM library in 70 lines of TypeScript](https://github.com/ms-jpq/noact)
-* [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
+* [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 ## nytimes.com
 
 
@@ -103,8 +103,8 @@ layout: default
 ## globo.com
 
 
-* [Rio tem aglomeração nas praias neste domingo, após flexibilização do isolamento social](https://oglobo.globo.com/rio/rio-tem-aglomeracao-nas-praias-neste-domingo-apos-flexibilizacao-do-isolamento-social-24491199)
 * [Cantor Akon planeja lançar criptomoeda no mês que vem](https://oglobo.globo.com/economia/cantor-akon-planeja-lancar-criptomoeda-no-mes-que-vem-24491041)
+* [Rio tem aglomeração nas praias neste domingo, após flexibilização do isolamento social](https://oglobo.globo.com/rio/rio-tem-aglomeracao-nas-praias-neste-domingo-apos-flexibilizacao-do-isolamento-social-24491199)
 * [‘Prisão de Queiroz é mais do que um sinal amarelo’, diz cientista político Carlos Pereira](https://oglobo.globo.com/brasil/prisao-de-queiroz-mais-do-que-um-sinal-amarelo-diz-cientista-politico-carlos-pereira-24491202)
 * [Em coletiva, Crivella libera jogos deste domingo que já foram adiados pela Ferj](https://oglobo.globo.com/esportes/em-coletiva-crivella-libera-jogos-deste-domingo-que-ja-foram-adiados-pela-ferj-24491172)
 * [Quando será Vasco x Macaé? Entenda o imbróglio e veja novas datas](https://oglobo.globo.com/esportes/quando-sera-vasco-macae-entenda-imbroglio-veja-novas-datas-24491156)

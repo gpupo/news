@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 07:11:08 UTC
+# indexed at 21/06/2020 07:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -12,13 +12,13 @@ layout: default
 * [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
-* [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
+* [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
-* [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
 * [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
+* [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
 * [NimConf 2020 Videos](https://conf.nim-lang.org/index.html?ref=hn)
 * [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 * [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
@@ -26,18 +26,18 @@ layout: default
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
+* [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
 * [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
-* [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
 * [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
 * [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [Revenge of the Suburbs](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
 * [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
-* [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
 * [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
-* [Charles Proteus Steinmetz, the Wizard of Schenectady (2011)](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/)
+* [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
+* [Charles Proteus Steinmetz, the Wizard of Schenectady (2011)](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/)
 ## nytimes.com
 
 
@@ -84,9 +84,9 @@ layout: default
 * [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [They Want to Sell Balloon Rides 19 Miles Up. Haven’t We Heard This Before?](https://www.nytimes.com/2020/06/18/science/space-balloon-trips.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [A Long Night of ‘Flower Flashing’ With Lewis Miller](https://www.nytimes.com/2020/06/20/style/lewis-miller-florist-nyc.html)
 * [10 Reasons You Should Give Riesling Another Look](https://www.nytimes.com/2020/06/18/dining/drinks/dry-riesling.html)
@@ -95,8 +95,8 @@ layout: default
 * [Perry Mason Is Coming to HBO. Here’s What to Know About His History.](https://www.nytimes.com/2020/06/18/arts/television/perry-mason-history.html)
 * [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
-* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
 * [The Pandemic Sent Young New Yorkers Packing. Will They Return?](https://www.nytimes.com/2020/06/19/nyregion/nyc-coronavirus-young-people.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Terremoto atinge Oklahoma; não há relatos sobre vítimas](https://oglobo.globo.com/mundo/terremoto-atinge-oklahoma-nao-ha-relatos-sobre-vitimas-24491054)
-* [Durante comício de campanha, Trump chama coronavírus de 'Kung-flu'](https://oglobo.globo.com/mundo/durante-comicio-de-campanha-trump-chama-coronavirus-de-kung-flu-24491047)
-* [Lives de hoje: Michel Teló é o destaque deste domingo](https://oglobo.globo.com/cultura/lives-de-hoje-michel-telo-o-destaque-deste-domingo-24491031)
-* [Copa de 1970: Jairzinho recorda apelido de Furacão e brinca com Pelé: 'Fui mais decisivo'](https://oglobo.globo.com/esportes/copa-de-1970-jairzinho-recorda-apelido-de-furacao-brinca-com-pele-fui-mais-decisivo-24490496)
-* [Instabilidade na política limita as opções econômicas](https://oglobo.globo.com/opiniao/instabilidade-na-politica-limita-as-opcoes-economicas-1-24488373)
-* [Pandemia, verdade e acesso às informações](https://oglobo.globo.com/opiniao/pandemia-verdade-acesso-as-informacoes-24488536)
-* [Abraço de afogado](https://oglobo.globo.com/opiniao/abraco-de-afogado-24490246)
-* [Dia Mundial do Skate: relembra cenários belos e inusitados do esporte](https://oglobo.globo.com/esportes/dia-mundial-do-skate-relembra-cenarios-belos-inusitados-do-esporte-24489888)
-* [Há limite para a maldade de Bolsonaro?](https://oglobo.globo.com/opiniao/ha-limite-para-maldade-de-bolsonaro-24489071)
-* [Livro de Bolton é sinal da oposição conservadora à reeleição de Trump](https://oglobo.globo.com/opiniao/livro-de-bolton-sinal-da-oposicao-conservadora-reeleicao-de-trump-24488480)
+* [Brasil pode ter 21 mil mortes a mais por Covid-19, aponta levantamento inédito](https://oglobo.globo.com/sociedade/brasil-pode-ter-21-mil-mortes-mais-por-covid-19-aponta-levantamento-inedito-24490964)
+* [Inverno traz 'tempestade perfeita' para Covid-19, diz chefe de laboratório nacional de referência do coronavírus](https://oglobo.globo.com/sociedade/inverno-traz-tempestade-perfeita-para-covid-19-diz-chefe-de-laboratorio-nacional-de-referencia-do-coronavirus-24491029)
+* [Pandemia aumenta procura por notícias, mas plataformas resistem em pagar por conteúdo](https://oglobo.globo.com/economia/pandemia-aumenta-procura-por-noticias-mas-plataformas-resistem-em-pagar-por-conteudo-1-24490950)
+* [Para historiadora, estados estão sobrecarregados por omissão do governo federal](https://oglobo.globo.com/brasil/para-historiadora-estados-estao-sobrecarregados-por-omissao-do-governo-federal-24490580)
+* [Hits do passado, carros de som voltam e animam a quarentena](https://oglobo.globo.com/rio/hits-do-passado-carros-de-som-voltam-animam-quarentena-1-24490925)
+* [Pandemia faz sete milhões de mulheres deixarem o mercado de trabalho na última quinzena de março](https://oglobo.globo.com/economia/celina/pandemia-faz-sete-milhoes-de-mulheres-deixarem-mercado-de-trabalho-na-ultima-quinzena-de-marco-24489196)
+* ['A gente precisa que o governador governe'](https://oglobo.globo.com/rio/a-gente-precisa-que-governador-governe-24489587)
+* [Dos sonhos na África aos pesadelos no Oriente Médio: jovem de Serra Leoa relata abusos sofridos no Líbano](https://oglobo.globo.com/mundo/dos-sonhos-na-africa-aos-pesadelos-no-oriente-medio-jovem-de-serra-leoa-relata-abusos-sofridos-no-libano-24489663)
+* [A blindagem tabajara de Queiroz](https://oglobo.globo.com/brasil/a-blindagem-tabajara-de-queiroz-24490837)
+* [Sucesso no Instagram com dicas de filmes e séries, Vera Fischer fala sobre redes sociais e momento histórico do Brasil: 'Não tem humor'](https://oglobo.globo.com/ela/gente/sucesso-no-instagram-com-dicas-de-filmes-series-vera-fischer-fala-sobre-redes-sociais-momento-historico-do-brasil-nao-tem-humor-24485816)

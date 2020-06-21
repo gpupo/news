@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 18:34:28 UTC
+# indexed at 21/06/2020 19:09:42 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Bye](https://bye.fyi/)
-* [Source code of “Delores: A Thimbleweed Park mini-adventure”](https://github.com/grumpygamer/DeloresDev)
 * [Video Games Are the Future of Education](https://nabeelqu.co/education)
+* [Source code of “Delores: A Thimbleweed Park mini-adventure”](https://github.com/grumpygamer/DeloresDev)
 * [Show HN: What did you make during lockdown?](https://news.ycombinator.com/item?id=23592788)
-* [We bought Walmart’s $140 laptop so you wouldn’t have to](https://arstechnica.com/gadgets/2020/06/we-bought-walmarts-140-laptop-so-you-wouldnt-have-to/)
+* [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
 * [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
 * [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
+* [Uber Open-Sources Tool to Automatically Clean Up Stale Code](https://www.infoq.com/news/2020/06/uber-piranha/)
 * [Why is it important for a matrix to be square?](https://math.stackexchange.com/a/2811960/18947)
 * [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
-* [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
+* [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
+* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
-* [Perl 5.32 Released](https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod)
+* [We bought Walmart’s $140 laptop so you wouldn’t have to](https://arstechnica.com/gadgets/2020/06/we-bought-walmarts-140-laptop-so-you-wouldnt-have-to/)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 * [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
+* [Perl 5.32 Released](https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod)
 * [Losing the war against surveillance capitalism, we let Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
-* [Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
+* [Bye](https://bye.fyi/)
 * [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
-* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
-* [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
-* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
+* [Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
+* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
-* [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
-* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
-* [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
+* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
+* [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 ## nytimes.com
 
@@ -45,7 +45,7 @@ layout: default
 * [‘They Just Dumped Him Like Trash’: Nursing Homes Evict Vulnerable Residents](https://www.nytimes.com/2020/06/21/business/nursing-homes-evictions-discharges-coronavirus.html)
 * [N.Y.C. Hired 3,000 Workers for Contact Tracing. It’s Off to a Slow Start.](https://www.nytimes.com/2020/06/21/nyregion/nyc-contact-tracing.html)
 * [Trump Fires Berman at S.D.N.Y. After Tensions Over Inquiries](https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html)
-* [Jay Clayton, Low-Profile Regulator, Is Catapulted Into a Political Fight](https://www.nytimes.com/2020/06/20/business/jay-clayton-sdny-sec.html)
+* [On North Korea and Iran, Bolton Blames ‘the Split Between Trump and Trump’](https://www.nytimes.com/2020/06/21/us/politics/john-bolton-north-korea-iran-trump.html)
 * [Trump Seeks a Cultural Safe Space Amid a Deadly Pandemic](https://www.nytimes.com/2020/06/21/us/politics/trump-rally-supporters.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
 * [NASCAR’s Confederate Flag Ban Faces a Test in Alabama](https://www.nytimes.com/2020/06/20/sports/autoracing/nascar-confederate-flag-ban-talladega.html)
@@ -103,12 +103,12 @@ layout: default
 ## globo.com
 
 
+* [Final de torneio de exibição de tênis é cancelada após Dimitrov testar positivo para Covid-19](https://oglobo.globo.com/esportes/final-de-torneio-de-exibicao-de-tenis-cancelada-apos-dimitrov-testar-positivo-para-covid-19-24491291)
+* [Argentina chega a 1.000 mortos pelo novo coronavírus](https://oglobo.globo.com/mundo/argentina-chega-1000-mortos-pelo-novo-coronavirus-24491252)
 * [Cantor Akon planeja lançar criptomoeda no mês que vem](https://oglobo.globo.com/economia/cantor-akon-planeja-lancar-criptomoeda-no-mes-que-vem-24491041)
 * [Rio tem aglomeração nas praias neste domingo, após flexibilização do isolamento social](https://oglobo.globo.com/rio/rio-tem-aglomeracao-nas-praias-neste-domingo-apos-flexibilizacao-do-isolamento-social-24491199)
 * [‘Prisão de Queiroz é mais do que um sinal amarelo’, diz cientista político Carlos Pereira](https://oglobo.globo.com/brasil/prisao-de-queiroz-mais-do-que-um-sinal-amarelo-diz-cientista-politico-carlos-pereira-24491202)
 * [Em coletiva, Crivella libera jogos deste domingo que já foram adiados pela Ferj](https://oglobo.globo.com/esportes/em-coletiva-crivella-libera-jogos-deste-domingo-que-ja-foram-adiados-pela-ferj-24491172)
-* [Quando será Vasco x Macaé? Entenda o imbróglio e veja novas datas](https://oglobo.globo.com/esportes/quando-sera-vasco-macae-entenda-imbroglio-veja-novas-datas-24491156)
-* [Separados pela Polícia Militar, manifestantes realizam atos contra e a favor do governo na Esplanada dos Ministérios](https://oglobo.globo.com/brasil/separados-pela-policia-militar-manifestantes-realizam-atos-contra-a-favor-do-governo-na-esplanada-dos-ministerios-24491161)
 * [Brasil chega a 1.073.376 casos de Covid-19, de acordo com boletim do consórcio de veículos da imprensa das 13h](https://oglobo.globo.com/sociedade/brasil-chega-1073376-casos-de-covid-19-de-acordo-com-boletim-do-consorcio-de-veiculos-da-imprensa-das-13h-24491195)
 * [Violão usado por Kurt Cobain na gravação de show acústico é vendido pelo recorde de R$ 30 milhões](https://oglobo.globo.com/economia/violao-usado-por-kurt-cobain-na-gravacao-de-show-acustico-vendido-pelo-recorde-de-30-milhoes-24491166)
 * [Quer viajar para o Camboja? Turistas têm que pagar US$ 3 mil em 'taxa de Covid-19'](https://oglobo.globo.com/boa-viagem/quer-viajar-para-camboja-turistas-tem-que-pagar-us-3-mil-em-taxa-de-covid-19-24491170)

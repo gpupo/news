@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 22:09:42 UTC
+# indexed at 21/06/2020 22:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -21,33 +21,32 @@ layout: default
 * [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
 * [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/a/2811960/18947)
 * [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
+* [Being Alone](https://www.ankit.fyi/being-alone)
 * [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
-* [Regent: A Language for Implicit Dataflow Parallelism](http://regent-lang.org/)
 * [Facebook acquires Mapillary](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html)
 * [Paul Erdős in Madras (2019)](https://www.thehindu.com/society/paul-erds-a-legendary-mathematician-in-madras/article28295095.ece)
+* [Regent: A Language for Implicit Dataflow Parallelism](http://regent-lang.org/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 * [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
-* [Autopen](https://en.wikipedia.org/wiki/Autopen)
-* [FPBase: The Fluorescent Protein Database](http://fpbase.org)
+* [Data-hungry, invasive app is a voter surveillance tool of extraordinary power](https://www.technologyreview.com/2020/06/21/1004228/trumps-data-hungry-invasive-app-is-a-voter-surveillance-tool-of-extraordinary-scope/)
 * [Losing the war against surveillance capitalism letting Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
+* [FPBase: The Fluorescent Protein Database](http://fpbase.org)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
-* [ZeroTrustOps: Securing at Scale](https://blog.sonatype.com/zerotrustops-securing-at-scale)
 * [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
+* [ZeroTrustOps: Securing at Scale](https://blog.sonatype.com/zerotrustops-securing-at-scale)
 * [Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
-* [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 ## nytimes.com
 
 
+* [Vast Federal Aid Has Capped Rise in Poverty, Studies Find](https://www.nytimes.com/2020/06/21/us/politics/coronavirus-poverty.html)
 * [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html)
 * [Public Health Experts Reject President’s View of Fading Pandemic](https://www.nytimes.com/2020/06/21/health/coronavirus-pandemic-spread-trump.html)
-* [‘They Just Dumped Him Like Trash’: Nursing Homes Evict Vulnerable Residents](https://www.nytimes.com/2020/06/21/business/nursing-homes-evictions-discharges-coronavirus.html)
 * [Trump Fires Berman at S.D.N.Y. After Tensions Over Inquiries](https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html)
 * [On North Korea and Iran, Bolton Blames ‘the Split Between Trump and Trump’](https://www.nytimes.com/2020/06/21/us/politics/john-bolton-north-korea-iran-trump.html)
-* [Vast Federal Aid Has Capped Rise in Poverty, Studies Find](https://www.nytimes.com/2020/06/21/us/politics/coronavirus-poverty.html)
-* [New Hope for White-Collar Job Seekers? It Depends on the Job](https://www.nytimes.com/2020/06/21/business/economy/coronavirus-job-hunting.html)
+* [Gaps in Vetting Visas Allowed Saudi Gunman Into U.S. Pilot Training](https://www.nytimes.com/2020/06/21/us/politics/saudi-gunman-vetting.html)
 * [A Racist Attack on Children Was Taped in 1975. We Found Them.](https://www.nytimes.com/2020/06/21/nyregion/racist-video-rosedale-queens.html)
 * [Trump Seeks a Cultural Safe Space Amid a Deadly Pandemic](https://www.nytimes.com/2020/06/21/us/politics/trump-rally-supporters.html)
 * [Roosevelt Statue to Be Removed From Museum of Natural History](https://www.nytimes.com/2020/06/21/arts/design/roosevelt-statue-to-be-removed-from-museum-of-natural-history.html)
@@ -72,20 +71,20 @@ layout: default
 * [Lasting Lessons From My Dad](https://www.nytimes.com/2020/06/19/well/family/fathers-day-lessons.html)
 * [A Run on the Catskills](https://www.nytimes.com/2020/06/17/realestate/a-run-on-the-catskills.html)
 * [‘Say Thank You Say I’m Sorry’](https://www.nytimes.com/2020/06/15/books/review/jericho-brown-say-thank-you-say-im-sorry-poem-coronavirus.html)
+* [Tennessee Newspaper Apologizes for ‘Utterly Indefensible’ Anti-Muslim Ad](https://www.nytimes.com/2020/06/21/business/media/the-tennessean-islam-ad.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
-* [Minneapolis Shooting: 1 Dead and 11 Wounded, Police Say](https://www.nytimes.com/2020/06/21/us/minneapolis-shooting.html)
 * [Stabbing at U.K. Park Is Declared a ‘Terrorist Incident’](https://www.nytimes.com/2020/06/21/world/europe/forbury-gardens-stabbing-reading-terrorism.html)
 * [Professor Who Asked Student to ‘Anglicize’ Her Name Is Put on Leave](https://www.nytimes.com/2020/06/21/us/phuc-bui-diem-nguyen-laney-college.html)
-* [Paolo Giorgio Ferri, Hunter of Looted Antiquities, Dies at 72](https://www.nytimes.com/2020/06/20/arts/paolo-giorgio-dead.html)
+* [Minneapolis Shooting: 1 Dead and 11 Wounded, Police Say](https://www.nytimes.com/2020/06/21/us/minneapolis-shooting.html)
 * [The Summer Without Rodeos](https://www.nytimes.com/2020/06/19/us/coronavirus-rodeos.html)
 * [CrossFit and Sexual Harassment: The Inside Story](https://www.nytimes.com/2020/06/20/style/greg-glassman-crossfit-sexism.html)
 * [They Were Canceled. Should He Have Helped Them Come Back?](https://www.nytimes.com/2020/06/19/nyregion/abraham-foxman-john-galliano-antisemitism-cancel-culture.html)
 * [Bullfighting, Already Ailing in Spain, Is Battered by Lockdown](https://www.nytimes.com/2020/06/21/world/europe/bullfighting-spain-coronavirus.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [Two More Rings for the Home Team](https://www.nytimes.com/2020/06/19/style/two-more-rings-for-the-home-team.html)
 * [How a Cannabis Expert Spends Her Sundays](https://www.nytimes.com/2020/06/19/nyregion/coronavirus-weed-nyc.html)
 * [Review: ‘Perry Mason’ Returns, Hard-Boiled and Warmed Over](https://www.nytimes.com/2020/06/18/arts/television/review-perry-mason-hbo.html)
@@ -103,6 +102,7 @@ layout: default
 ## globo.com
 
 
+* [Taxa de reprodução do coronavírus na Alemanha aumenta, indicando aumento do risco de contágio](https://oglobo.globo.com/mundo/taxa-de-reproducao-do-coronavirus-na-alemanha-aumenta-indicando-aumento-do-risco-de-contagio-24491533)
 * [Ferj adia jogos do Carioca para sexta e sábado](https://oglobo.globo.com/esportes/ferj-adia-jogos-do-carioca-para-sexta-sabado-1-24491474)
 * [Festas durante pandemia são canceladas por denúncias ao Disk Aglomeração](https://oglobo.globo.com/rio/festas-durante-pandemia-sao-canceladas-por-denuncias-ao-disk-aglomeracao-24491509)
 * [Usuários do TikTok e fãs de K-pop dizem ter causado esvaziamento em comício de Trump](https://oglobo.globo.com/mundo/usuarios-do-tiktok-fas-de-pop-dizem-ter-causado-esvaziamento-em-comicio-de-trump-24491400)
@@ -112,4 +112,3 @@ layout: default
 * [Premier League: Liverpool fica só no empate contra o Everton na volta do Inglês](https://oglobo.globo.com/esportes/premier-league-liverpool-fica-so-no-empate-contra-everton-na-volta-do-ingles-24491381)
 * [Apesar dos descontos, Bangu x Flamengo deixa R$ 152 mil de prejuízo](https://oglobo.globo.com/esportes/apesar-dos-descontos-bangu-flamengo-deixa-152-mil-de-prejuizo-24491411)
 * [Detran RJ autoriza funcionamento de autoescolas a partir de quarta-feira](https://oglobo.globo.com/rio/detran-rj-autoriza-funcionamento-de-autoescolas-partir-de-quarta-feira-24491398)
-* [SP registra 12.588 mortes por Covid-19 e quase 220 mil casos](https://oglobo.globo.com/sociedade/sp-registra-12588-mortes-por-covid-19-quase-220-mil-casos-24491394)

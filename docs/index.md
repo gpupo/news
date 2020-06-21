@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 18:10:30 UTC
+# indexed at 21/06/2020 18:34:28 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Bye](https://bye.fyi/)
 * [Source code of “Delores: A Thimbleweed Park mini-adventure”](https://github.com/grumpygamer/DeloresDev)
+* [Video Games Are the Future of Education](https://nabeelqu.co/education)
 * [Show HN: What did you make during lockdown?](https://news.ycombinator.com/item?id=23592788)
+* [We bought Walmart’s $140 laptop so you wouldn’t have to](https://arstechnica.com/gadgets/2020/06/we-bought-walmarts-140-laptop-so-you-wouldnt-have-to/)
 * [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
 * [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
-* [We bought Walmart’s $140 laptop so you wouldn’t have to](https://arstechnica.com/gadgets/2020/06/we-bought-walmarts-140-laptop-so-you-wouldnt-have-to/)
 * [Why is it important for a matrix to be square?](https://math.stackexchange.com/a/2811960/18947)
 * [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
-* [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
 * [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
+* [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
+* [Perl 5.32 Released](https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 * [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
-* [Perl 5.32 Released](https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [Losing the war against surveillance capitalism, we let Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
-* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
-* [Ask HN: Pitch your personal newsletter/blog with a one-liner](https://news.ycombinator.com/item?id=23592399)
-* [Why Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
+* [Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
 * [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
+* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
 * [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
+* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
-* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
-* [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
+* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
+* [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
-* [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [Bullfighting, Already Ailing in Spain, Is Battered by Lockdown](https://www.nytimes.com/2020/06/21/world/europe/bullfighting-spain-coronavirus.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [Two More Rings for the Home Team](https://www.nytimes.com/2020/06/19/style/two-more-rings-for-the-home-team.html)
 * [How a Cannabis Expert Spends Her Sundays](https://www.nytimes.com/2020/06/19/nyregion/coronavirus-weed-nyc.html)
 * [Review: ‘Perry Mason’ Returns, Hard-Boiled and Warmed Over](https://www.nytimes.com/2020/06/18/arts/television/review-perry-mason-hbo.html)

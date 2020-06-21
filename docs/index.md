@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 05:09:27 UTC
+# indexed at 21/06/2020 05:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -20,24 +20,24 @@ layout: default
 * [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
 * [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 * [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
-* [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
 * [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
+* [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
 * [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
-* [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
+* [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
+* [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
 * [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
 * [Charles Proteus Steinmetz, the Wizard of Schenectady (2011)](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/)
-* [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
-* [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
-* [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
+* [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
 * [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
+* [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
 * [Nextdoor ends its program for forwarding suspicions to police](https://www.bloomberg.com/news/articles/2020-06-19/why-nextdoor-cut-its-forward-to-police-tool)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
+* [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
+* [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
 * [Why Apple ditched PowerPC, and what it says about Apple ditching Intel](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/)
-* [Open-source, DRM-free Kindle alternative](https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative)
-* [Announcing Hash](https://hash.ai/about/mission)
 ## nytimes.com
 
 
@@ -75,7 +75,7 @@ layout: default
 * [The Nutcracker Hustle: Why Selling Bootleg Cocktails Just Got Harder](https://www.nytimes.com/2020/06/20/nyregion/coronavirus-nutcrackers-cocktails-nyc.html)
 * [Lessons on Coronavirus Testing From the Adult Film Industry](https://www.nytimes.com/2020/06/18/well/live/coronavirus-testing-travel-covid-database-porn-adult-film.html)
 * [Stabbing at U.K. Park Leaves 3 Dead](https://www.nytimes.com/2020/06/20/world/europe/forbury-gardens-stabbing-reading-uk.html)
-* [Biden’s $80.8 Million Outpaced Trump’s Fund-Raising in May](https://www.nytimes.com/2020/06/20/us/biden-trump-fundraising.html)
+* [TikTok Teens Claim They Tanked Trump Rally](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
 * [The PGA Tour Resumed Last Week. A Golfer Has Now Tested Positive for the Coronavirus.](https://www.nytimes.com/2020/06/20/sports/pga-tour-coronavirus-nick-watney.html)
 * [Carlos Ruiz Zafón, Author of ‘The Shadow of the Wind,’ Dies at 55](https://www.nytimes.com/2020/06/20/books/carlos-ruiz-zafon-dead.html)
 * [Family of Black Man Found Hanging Says Death Was by Suicide](https://www.nytimes.com/2020/06/20/us/malcolm-harsch-death-victorville.html)
@@ -93,10 +93,10 @@ layout: default
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
 * [A Royal Ascot Without the Crowds, but Hats and Frocks on Full Display](https://www.nytimes.com/2020/06/19/world/europe/virtual-royal-ascot-queen-elizabeth.html)
 * [Perry Mason Is Coming to HBO. Here’s What to Know About His History.](https://www.nytimes.com/2020/06/18/arts/television/perry-mason-history.html)
-* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [The Pandemic Sent Young New Yorkers Packing. Will They Return?](https://www.nytimes.com/2020/06/19/nyregion/nyc-coronavirus-young-people.html)
 * [How to Entertain Your Kids This Summer? Maybe Don’t](https://www.nytimes.com/2020/06/18/arts/kids-summer-activities-virus.html)
 * [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)

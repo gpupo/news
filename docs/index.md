@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 04:34:31 UTC
+# indexed at 21/06/2020 05:09:27 UTC
 
 
 ## news.ycombinator.com
@@ -12,39 +12,39 @@ layout: default
 * [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Private Pilot Ground School – MIT OpenCourseWare](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
-* [Remove some offensive/archaic terminology from OpenSSL](https://github.com/openssl/openssl/pull/12089)
-* [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
-* [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
+* [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
+* [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
-* [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
 * [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
 * [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 * [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
-* [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
-* [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 * [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
-* [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
+* [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
 * [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
+* [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
+* [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
 * [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
-* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
 * [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
+* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
 * [Charles Proteus Steinmetz, the Wizard of Schenectady (2011)](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/)
-* [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
-* [Nextdoor ends its program for forwarding suspicions to police](https://www.bloomberg.com/news/articles/2020-06-19/why-nextdoor-cut-its-forward-to-police-tool)
-* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
 * [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
 * [AIM – Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
+* [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
+* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
+* [Nextdoor ends its program for forwarding suspicions to police](https://www.bloomberg.com/news/articles/2020-06-19/why-nextdoor-cut-its-forward-to-police-tool)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
 * [Why Apple ditched PowerPC, and what it says about Apple ditching Intel](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/)
+* [Open-source, DRM-free Kindle alternative](https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative)
+* [Announcing Hash](https://hash.ai/about/mission)
 ## nytimes.com
 
 
 * [Trump Fires Berman at S.D.N.Y. After Tensions Over Inquiries](https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html)
 * [Who Can Fire a Court-Appointed U.S. Attorney? An Abrupt Legal Fight, Explained](https://www.nytimes.com/2020/06/20/us/politics/geoff-berman-who-can-fire.html)
 * [Jay Clayton, Low-Profile Regulator, Is Catapulted Into a Political Fight](https://www.nytimes.com/2020/06/20/business/jay-clayton-sdny-sec.html)
-* [Trump Rally Has Tulsa on Edge](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
+* [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [Crowd Is Sparse as Trump Tries to Reignite Campaign](https://www.nytimes.com/2020/06/20/us/trump-rally-tulsa.html)
 * [Fact-Checking Trump’s Tulsa Rally: Covid-19, Protesters and Biden](https://www.nytimes.com/2020/06/20/us/politics/trump-factcheck-tulsa-rally.html)
 * [Coronavirus Updates: Latest News and Analysis](https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html)
@@ -93,10 +93,10 @@ layout: default
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
 * [A Royal Ascot Without the Crowds, but Hats and Frocks on Full Display](https://www.nytimes.com/2020/06/19/world/europe/virtual-royal-ascot-queen-elizabeth.html)
 * [Perry Mason Is Coming to HBO. Here’s What to Know About His History.](https://www.nytimes.com/2020/06/18/arts/television/perry-mason-history.html)
+* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
-* [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
 * [The Pandemic Sent Young New Yorkers Packing. Will They Return?](https://www.nytimes.com/2020/06/19/nyregion/nyc-coronavirus-young-people.html)
 * [How to Entertain Your Kids This Summer? Maybe Don’t](https://www.nytimes.com/2020/06/18/arts/kids-summer-activities-virus.html)
 * [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)

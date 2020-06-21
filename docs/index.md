@@ -2,48 +2,48 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 15:10:02 UTC
+# indexed at 21/06/2020 15:34:32 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
+* [Why Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
-* [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
 * [Why is it important for a matrix to be square?](https://math.stackexchange.com/a/2811960/18947)
-* [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
+* [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [Losing the war against surveillance capitalism, we let Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
+* [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
+* [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
 * [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
-* [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
 * [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
-* [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
-* [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
+* [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
-* [The Social Codes of the Crazy Rich](https://www.theatlantic.com/magazine/archive/2020/07/kevin-kwan-crazy-rich-asians/612229/)
+* [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
 * [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [Show HN: React” in 70 lines of vanilla TypeScript](https://github.com/ms-jpq/noact)
 * [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
+* [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
 * [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
-* [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
-* [The most famous loop: the Carnot Cycle](https://alexdanco.com/2020/06/19/the-most-famous-loop/)
 * [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
-* [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
-* [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
-* [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
+* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
+* [The most famous loop: the Carnot Cycle](https://alexdanco.com/2020/06/19/the-most-famous-loop/)
+* [The Social Codes of the Crazy Rich](https://www.theatlantic.com/magazine/archive/2020/07/kevin-kwan-crazy-rich-asians/612229/)
 ## nytimes.com
 
 
 * [N.Y.C. Hired 3,000 Workers for Contact Tracing. It’s Not Going Well.](https://www.nytimes.com/2020/06/21/nyregion/nyc-contact-tracing.html)
 * [‘They Just Dumped Him Like Trash’: Nursing Homes Evict Vulnerable Residents](https://www.nytimes.com/2020/06/21/business/nursing-homes-evictions-discharges-coronavirus.html)
-* [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html)
 * [Trump Fires Berman at S.D.N.Y. After Tensions Over Inquiries](https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html)
 * [Jay Clayton, Low-Profile Regulator, Is Catapulted Into a Political Fight](https://www.nytimes.com/2020/06/20/business/jay-clayton-sdny-sec.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
@@ -80,11 +80,11 @@ layout: default
 * [CrossFit and Sexual Harassment: The Inside Story](https://www.nytimes.com/2020/06/20/style/greg-glassman-crossfit-sexism.html)
 * [Tribes in a Battle for Their Share of Virus Stimulus Money](https://www.nytimes.com/2020/06/19/us/politics/tribes-coronavirus-stimulus.html)
 * [‘Exploding Whale’ Park Memorializes Blubber Blast 50 Years Later](https://www.nytimes.com/2020/06/20/us/exploding-whale-memorial-park.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Ready to Sell? Here’s How to Refresh Your Home During Lockdown](https://www.nytimes.com/2020/06/02/realestate/ready-to-sell-heres-how-to-refresh-your-home-during-lockdown.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [Two More Rings for the Home Team](https://www.nytimes.com/2020/06/19/style/two-more-rings-for-the-home-team.html)
 * [How a Cannabis Expert Spends Her Sundays](https://www.nytimes.com/2020/06/19/nyregion/coronavirus-weed-nyc.html)
 * [Review: ‘Perry Mason’ Returns, Hard-Boiled and Warmed Over](https://www.nytimes.com/2020/06/18/arts/television/review-perry-mason-hbo.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Em coletiva, Crivella libera jogos deste domingo que já foram adiados pela Ferj](https://oglobo.globo.com/esportes/em-coletiva-crivella-libera-jogos-deste-domingo-que-ja-foram-adiados-pela-ferj-24491172)
+* [Separados pela Polícia Militar, manifestantes realizam atos contra e a favor do governo na Esplanada dos Ministérios](https://oglobo.globo.com/brasil/separados-pela-policia-militar-manifestantes-realizam-atos-contra-a-favor-do-governo-na-esplanada-dos-ministerios-24491161)
+* [Violão usado por Kurt Cobain na gravação de show acústico é vendido pelo recorde de R$ 30 milhões](https://oglobo.globo.com/economia/violao-usado-por-kurt-cobain-na-gravacao-de-show-acustico-vendido-pelo-recorde-de-30-milhoes-24491166)
 * [Quer viajar para o Camboja? Turistas têm que pagar US$ 3 mil em 'taxa de Covid-19'](https://oglobo.globo.com/boa-viagem/quer-viajar-para-camboja-turistas-tem-que-pagar-us-3-mil-em-taxa-de-covid-19-24491170)
+* [Em coletiva, Crivella libera jogos deste domingo que já foram adiados pela Ferj](https://oglobo.globo.com/esportes/em-coletiva-crivella-libera-jogos-deste-domingo-que-ja-foram-adiados-pela-ferj-24491172)
 * [Espanha reabre suas fronteiras e declara fim do estado de emergência](https://oglobo.globo.com/mundo/espanha-reabre-suas-fronteiras-declara-fim-do-estado-de-emergencia-24491128)
 * [Quando será Vasco x Macaé? Entenda o imbróglio e veja novas datas](https://oglobo.globo.com/esportes/quando-sera-vasco-macae-entenda-imbroglio-veja-novas-datas-24491156)
-* [Separados pela Polícia Militar, manifestantes realizam atos contra e a favor do governo na Esplanada dos Ministérios](https://oglobo.globo.com/brasil/separados-pela-policia-militar-manifestantes-realizam-atos-contra-a-favor-do-governo-na-esplanada-dos-ministerios-24491161)
 * [Polícia apreende fogos de artifício, celulares, facão e cofre em base de grupo bolsonarista](https://oglobo.globo.com/brasil/policia-apreende-fogos-de-artificio-celulares-facao-cofre-em-base-de-grupo-bolsonarista-24491147)
 * [Prefeitura impede realização de festa durante pandemia do novo coronavírus na Zona Oeste do Rio](https://oglobo.globo.com/rio/prefeitura-impede-realizacao-de-festa-durante-pandemia-do-novo-coronavirus-na-zona-oeste-do-rio-24491131)
 * [Quando a plateia atua](https://oglobo.globo.com/ela/quando-plateia-atua-24491148)
 * [Como será o amanhã?](https://oglobo.globo.com/ela/como-sera-amanha-24491137)
-* [Sobre tijolos](https://oglobo.globo.com/ela/sobre-tijolos-24491135)

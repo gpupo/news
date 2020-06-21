@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 10:34:31 UTC
+# indexed at 21/06/2020 11:09:21 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
-* [Scientists’ Warning on Affluence](https://www.nature.com/articles/s41467-020-16941-y)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
+* [Scientists’ Warning on Affluence](https://www.nature.com/articles/s41467-020-16941-y)
 * [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
+* [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
 * [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
 * [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
+* [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
-* [The Hunt for the Death Valley Germans (2012)](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/)
-* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
+* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [NimConf 2020 Videos](https://conf.nim-lang.org/index.html?ref=hn)
 * [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
 * [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
 * [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
-* [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
 * [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
 * [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 * [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
+* [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
-* [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
-* [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
+* [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 ## nytimes.com
 
 
@@ -82,8 +82,8 @@ layout: default
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [A Long Night of ‘Flower Flashing’ With Lewis Miller](https://www.nytimes.com/2020/06/20/style/lewis-miller-florist-nyc.html)
 * [10 Reasons You Should Give Riesling Another Look](https://www.nytimes.com/2020/06/18/dining/drinks/dry-riesling.html)
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Reportagem mergulha em dados para mostrar tamanho da subnotificação de mortes na pandemia no Brasil](https://oglobo.globo.com/meu-oglobo/reportagem-mergulha-em-dados-para-mostrar-tamanho-da-subnotificacao-de-mortes-na-pandemia-no-brasil-1-24491068)
+* [Os 30 países que devem crescer este ano na contramão do mundo, apesar da pandemia de coronavírus](https://epoca.globo.com/mundo/os-30-paises-que-devem-crescer-este-ano-na-contramao-do-mundo-apesar-da-pandemia-de-coronavirus-24491063)
+* [Em Fortaleza, moradores com suspeita de coronavírus são atendidos por ferramenta de vídeo](https://epoca.globo.com/sociedade/em-fortaleza-moradores-com-suspeita-de-coronavirus-sao-atendidos-por-ferramenta-de-video-24486563)
 * [Coluna | Grito antirracista que toma o país revela vozes organizadas nas universidades](https://epoca.globo.com/colunistas/coluna-grito-antirracista-que-toma-pais-revela-vozes-organizadas-nas-universidades-24489309)
-* [Maioria dos estados não tem informação sobre raça das vítimas de Covid-19](https://oglobo.globo.com/sociedade/maioria-dos-estados-nao-tem-informacao-sobre-raca-das-vitimas-de-covid-19-24490499)
-* [Despedida ridícula](https://oglobo.globo.com/cultura/despedida-ridicula-24490978)
+* [Órgãos reguladores alertam que há produtos de limpeza que não têm ação contra o coronavírus](https://oglobo.globo.com/economia/orgaos-reguladores-alertam-que-ha-produtos-de-limpeza-que-nao-tem-acao-contra-coronavirus-24490535)
+* ['EUA fazem ataque inaceitável contra independência do Tribunal Penal Internacional', diz promotora-chefe](https://oglobo.globo.com/mundo/eua-fazem-ataque-inaceitavel-contra-independencia-do-tribunal-penal-internacional-diz-promotora-chefe-24488986)
 * [Viúva de Paulo Freire em festa com saída de Weintraub: 'Legado de como não fazer e como não ser'](https://epoca.globo.com/guilherme-amado/viuva-de-paulo-freire-em-festa-com-saida-de-weintraub-legado-de-como-nao-fazer-como-nao-ser-1-24488561)
-* [Corinthians quadruplica dívida com a União e se torna maior devedor nacional](https://epoca.globo.com/guilherme-amado/corinthians-quadruplica-divida-com-uniao-se-torna-maior-devedor-nacional-24489703)
-* [Ministério da Saúde fechou contrato emergencial de Covid 120% acima do preço de mercado](https://epoca.globo.com/guilherme-amado/ministerio-da-saude-fechou-contrato-emergencial-de-covid-120-acima-do-preco-de-mercado-24489836)
-* [Um em três estudantes não deve ir à faculdade em 2020](https://epoca.globo.com/guilherme-amado/um-em-tres-estudantes-nao-deve-ir-faculdade-em-2020-24489908)
-* [Déa Lúcia, mãe de Paulo Gustavo, dribla o tédio no isolamento. Veja o vídeo](https://oglobo.globo.com/rio/bairros/dea-lucia-mae-de-paulo-gustavo-dribla-tedio-no-isolamento-veja-video-1-24489810)
-* [Troisgros, Fogaça e Kátia Barbosa adaptam seus restaurantes ao pós-pandemia](https://oglobo.globo.com/rio/bairros/troisgros-fogaca-katia-barbosa-adaptam-seus-restaurantes-ao-pos-pandemia-1-24488828)
+* [52% dos brasileiros perceberam piora no atendimento de SACs durante a pandemia](https://epoca.globo.com/guilherme-amado/52-dos-brasileiros-perceberam-piora-no-atendimento-de-sacs-durante-pandemia-1-24488049)
+* [‘Sergio Camargo é usado pela estrutura racista’, aponta dramaturgo negro](https://epoca.globo.com/guilherme-amado/sergio-camargo-usado-pela-estrutura-racista-aponta-dramaturgo-negro-24490058)
 * [Rede de saúde mental de Niterói está desde janeiro sem medicamentos, dizem pacientes](https://oglobo.globo.com/rio/bairros/rede-de-saude-mental-de-niteroi-esta-desde-janeiro-sem-medicamentos-dizem-pacientes-1-24488527)

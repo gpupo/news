@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 08:34:24 UTC
+# indexed at 21/06/2020 09:10:03 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 * [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
-* [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
+* [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
 * [How is NSA breaking so much crypto? (2015)](https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/)
+* [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/)
 * [Cleaning My MacBook After 16800 Hours of Use](https://quanticdev.com/articles/cleaning-macbook-after-16800-hours-of-use)
 * [CindyJS: A framework for interactive mathematical content on the web](https://cindyjs.org/)
-* [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
 * [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [11 Foot 8 – The Can-opener Bridge](http://11foot8.com/)
 * [30 Years Ago, Romania Deprived Thousands of Babies of Human Contact](https://www.theatlantic.com/magazine/archive/2020/07/can-an-unloved-child-learn-to-love/612253/)
 * [NimConf 2020 Videos](https://conf.nim-lang.org/index.html?ref=hn)
-* [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
+* [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
 * [Show HN: gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc)
+* [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
+* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
 * [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
 * [Odds of communicating with 36 other possible intelligent civilizations are small](https://www.cbc.ca/radio/quirks/there-may-be-36-other-intelligent-civilizations-in-the-galaxy-but-odds-of-communicating-with-them-are-small-1.5618194)
 * [Tsunami is a general purpose network security scanner](https://github.com/google/tsunami-security-scanner)
-* [Recognizing vs. Generating](https://mlu.red/52622266310.html)
-* [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
 * [Discovering Dennis Ritchie’s Lost Dissertation](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/)
+* [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
 * [How to reclaim disk space used by Docker volumes, but keep a few important on](https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 * [Reverse-engineering and comparing two Game Boy audio amplifier chips](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
-* [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [Rediscovering the beauty of text on the internet](https://cheapskatesguide.org/articles/beauty-of-text.html)
-* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
-* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-2007/features/8757-maya-clothing-jewelry-body-modification)
+* [A Nvidia Engineer Wrote a Vulkan Driver That Works on Older Raspberry Pi](https://www.phoronix.com/scan.php?page=news_item&px=RPi-VK-Driver)
 * [Representing Graphs by Knuth Trees (1974) [pdf]](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf)
+* [RSS Box – RSS for websites that do not support RSS](https://rssbox.herokuapp.com/)
 ## nytimes.com
 
 
@@ -93,25 +93,25 @@ layout: default
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
 * [A Royal Ascot Without the Crowds, but Hats and Frocks on Full Display](https://www.nytimes.com/2020/06/19/world/europe/virtual-royal-ascot-queen-elizabeth.html)
 * [Perry Mason Is Coming to HBO. Here’s What to Know About His History.](https://www.nytimes.com/2020/06/18/arts/television/perry-mason-history.html)
-* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
-* [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
+* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Summer Solstice 2020 and the Search for Life in the Galaxy](https://www.nytimes.com/article/summer-solstice-meaning-sunset.html)
-* [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
+* [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
 * [Copper Won’t Save You From Coronavirus](https://www.nytimes.com/article/copper-coronavirus-masks.html)
+* [Summer Preview](https://www.nytimes.com/2020/06/19/dining/summer-preview.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Brasil pode ter 21 mil mortes a mais por Covid-19, aponta levantamento inédito](https://oglobo.globo.com/sociedade/brasil-pode-ter-21-mil-mortes-mais-por-covid-19-aponta-levantamento-inedito-24490964)
-* [Enquanto estava em Atibaia, Queiroz veio ao Rio ao menos três vezes para ver o filho jogar futebol](https://oglobo.globo.com/brasil/enquanto-estava-em-atibaia-queiroz-veio-ao-rio-ao-menos-tres-vezes-para-ver-filho-jogar-futebol-24490954)
-* [Pandemia faz sete milhões de mulheres deixarem o mercado de trabalho na última quinzena de março](https://oglobo.globo.com/economia/celina/pandemia-faz-sete-milhoes-de-mulheres-deixarem-mercado-de-trabalho-na-ultima-quinzena-de-marco-24489196)
+* [Despedida ridícula](https://oglobo.globo.com/cultura/despedida-ridicula-24490978)
+* [Criolo participa de festival on-line em defesa dos povos indígenas e abre canal de lives](https://oglobo.globo.com/cultura/criolo-participa-de-festival-on-line-em-defesa-dos-povos-indigenas-abre-canal-de-lives-24490974)
+* [Crítica: 'Wasp Network: rede de espiões' não tem política, mas tem diversão](https://oglobo.globo.com/cultura/critica-wasp-network-rede-de-espioes-nao-tem-politica-mas-tem-diversao-24490955)
+* [100 dias sem palco: com espaços fechados, setor cultural tem usado criatividade para sobreviver](https://oglobo.globo.com/cultura/100-dias-sem-palco-com-espacos-fechados-setor-cultural-tem-usado-criatividade-para-sobreviver-24490884)
 * [Para pesquisadores, volta do futebol é segura para atletas, mas mau exemplo à população](https://oglobo.globo.com/esportes/para-pesquisadores-volta-do-futebol-segura-para-atletas-mas-mau-exemplo-populacao-1-24490044)
+* [100 dias com cultura: artistas e pesquisadores destacam importância do setor durante pandemia](https://oglobo.globo.com/cultura/100-dias-com-cultura-artistas-pesquisadores-destacam-importancia-do-setor-durante-pandemia-1-24489049)
 * [Meio século depois, veja fotos inéditas do tri da seleção brasileira no México-1970](https://oglobo.globo.com/esportes/meio-seculo-depois-veja-fotos-ineditas-do-tri-da-selecao-brasileira-no-mexico-1970-24490908)
-* [Mais que um time, seleção de 70 era o espírito de uma época](https://oglobo.globo.com/esportes/mais-que-um-time-selecao-de-70-era-espirito-de-uma-epoca-24490881)
 * [Americano revela fotos inéditas de Brasil x Itália na final da Copa de 1970; veja imagens](https://oglobo.globo.com/esportes/americano-revela-fotos-ineditas-de-brasil-italia-na-final-da-copa-de-1970-veja-imagens-24490538)
-* ['A gente precisa que o governador governe'](https://oglobo.globo.com/rio/a-gente-precisa-que-governador-governe-24489587)
-* [A blindagem tabajara de Queiroz](https://oglobo.globo.com/brasil/a-blindagem-tabajara-de-queiroz-24490837)
-* [Sucesso no Instagram com dicas de filmes e séries, Vera Fischer fala sobre redes sociais e momento histórico do Brasil: 'Não tem humor'](https://oglobo.globo.com/ela/gente/sucesso-no-instagram-com-dicas-de-filmes-series-vera-fischer-fala-sobre-redes-sociais-momento-historico-do-brasil-nao-tem-humor-24485816)
+* [Novo secretário da Cultura, Mario Frias irá comandar pasta desidratada](https://oglobo.globo.com/cultura/novo-secretario-da-cultura-mario-frias-ira-comandar-pasta-desidratada-24490314)
+* [Ministério da Saúde fechou contrato emergencial de Covid 120% acima do preço de mercado](https://epoca.globo.com/guilherme-amado/ministerio-da-saude-fechou-contrato-emergencial-de-covid-120-acima-do-preco-de-mercado-24489836)

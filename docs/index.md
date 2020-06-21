@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 00:28:49 UTC
+# indexed at 21/06/2020 00:37:45 UTC
 
 
 ## news.ycombinator.com
@@ -15,8 +15,8 @@ layout: default
 * [NimConf 2020 – Live now until 20:45 UTC [video]](https://conf.nim-lang.org/index.html?ref=hn)
 * [NYC passes POST Act, requiring police department to reveal surveillance tech](https://venturebeat.com/2020/06/18/new-york-city-council-passes-law-requiring-nypd-to-reveal-its-surveillance-technologies/)
 * [Why Apple ditched PowerPC, and what it says about Apple ditching Intel](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/)
-* [Revenge of the Suburbs](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
 * [I tried to cancel Virgin Media broadband contract](https://virginmedia-is-evil.com/)
+* [Revenge of the Suburbs](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
 * [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 * [Ghoti](https://en.wikipedia.org/wiki/Ghoti)
 * [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
@@ -44,7 +44,7 @@ layout: default
 * [Trump Fires Berman at S.D.N.Y. After Tensions Over Inquiries](https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html)
 * [Who Can Fire a Court-Appointed U.S. Attorney? An Abrupt Legal Fight, Explained](https://www.nytimes.com/2020/06/20/us/politics/geoff-berman-who-can-fire.html)
 * [Jay Clayton, Low-Profile Regulator, Is Catapulted Into a Political Fight](https://www.nytimes.com/2020/06/20/business/jay-clayton-sdny-sec.html)
-* [Trump Rally Live Updates: President Blames Media for Small Crowd Size](https://www.nytimes.com/2020/06/20/us/trump-rally-tulsa.html)
+* [Trump Rally Live Updates: President Resumes Campaign, But Crowd is Sparse](https://www.nytimes.com/2020/06/20/us/trump-rally-tulsa.html)
 * [Trump Rally Has Tulsa on Edge](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [Waiting for Trump: Hats, Flags, Little Fear of the Virus](https://www.nytimes.com/2020/06/20/us/politics/waiting-for-trump-hats-flags-little-fear-of-the-virus.html)
 * [Coronavirus Updates: Latest News and Analysis](https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html)
@@ -73,7 +73,7 @@ layout: default
 * [The Nutcracker Hustle: Why Selling Bootleg Cocktails Just Got Harder](https://www.nytimes.com/2020/06/20/nyregion/coronavirus-nutcrackers-cocktails-nyc.html)
 * [Lessons on Coronavirus Testing From the Adult Film Industry](https://www.nytimes.com/2020/06/18/well/live/coronavirus-testing-travel-covid-database-porn-adult-film.html)
 * [Stabbing at U.K. Park Injures Several People](https://www.nytimes.com/2020/06/20/world/europe/forbury-gardens-stabbing-reading-uk.html)
-* [PG&E’s Plan to Resolve Bankruptcy Wins Court Approval](https://www.nytimes.com/2020/06/19/business/energy-environment/pge-bankruptcy-court-approval.html)
+* [Biden Raised More Than Trump in May, His First Month Leading the Money Race](https://www.nytimes.com/2020/06/20/us/biden-trump-fundraising.html)
 * [The PGA Tour Resumed Last Week. A Golfer Has Now Tested Positive for the Coronavirus.](https://www.nytimes.com/2020/06/20/sports/pga-tour-coronavirus-nick-watney.html)
 * [Carlos Ruiz Zafón, Author of ‘The Shadow of the Wind,’ Dies at 55](https://www.nytimes.com/2020/06/20/books/carlos-ruiz-zafon-dead.html)
 * [Family of Black Man Found Hanging Says Death Was by Suicide](https://www.nytimes.com/2020/06/20/us/malcolm-harsch-death-victorville.html)
@@ -81,11 +81,11 @@ layout: default
 * [Pandemic Gives S.O.S. a New Meaning for U.K. Cheesemakers: Save Our Stilton](https://www.nytimes.com/2020/06/19/world/europe/stilton-coronavirus.html)
 * [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [They Want to Sell Balloon Rides 19 Miles Up. Haven’t We Heard This Before?](https://www.nytimes.com/2020/06/18/science/space-balloon-trips.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [How to Normalize the College Search Process for Juniors](https://www.nytimes.com/2020/06/03/well/family/college-search-class-of-2021-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [How to Get Your Kids to Care About Social Distancing](https://www.nytimes.com/2020/06/13/style/kids-children-social-distance-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [A Long Night of ‘Flower Flashing’ With Lewis Miller](https://www.nytimes.com/2020/06/20/style/lewis-miller-florist-nyc.html)
 * [10 Reasons You Should Give Riesling Another Look](https://www.nytimes.com/2020/06/18/dining/drinks/dry-riesling.html)
 * [I’m Not a Dad, but I Rock Like One](https://www.nytimes.com/2020/06/18/arts/music/dad-rock.html)
@@ -95,7 +95,8 @@ layout: default
 * [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [She Struggled With Asthma, but It Had Never Been This Bad](https://www.nytimes.com/2020/06/17/magazine/foreign-body-aspiration-diagnosis.html)
 * [Older Adults May Be Left Out of Some Covid-19 Trials](https://www.nytimes.com/2020/06/19/health/vaccine-trials-elderly.html)
-* [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
+* [A Soft-Handed Predator Masquerading in Manliness](https://www.nytimes.com/2020/06/19/opinion/trump-jr.html)
+* [American Airlines Bans Conservative Activist Who Refused to Wear a Mask](https://www.nytimes.com/2020/06/18/us/american-airlines-mask-brandon-straka.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

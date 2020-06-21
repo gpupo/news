@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/06/2020 20:11:35 UTC
+# indexed at 21/06/2020 20:34:42 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Video Games Are the Future of Education](https://nabeelqu.co/education)
-* [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 * [WireGuard Merged into OpenBSD](https://marc.info/?l=openbsd-cvs&m=159274150512676&w=2)
-* [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
+* [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
+* [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
 * [Uber open-sources tool to automatically clean up stale code](https://www.infoq.com/news/2020/06/uber-piranha/)
-* [ZeroTrustOps: Securing at Scale](https://blog.sonatype.com/zerotrustops-securing-at-scale)
 * [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
 * [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
 * [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/a/2811960/18947)
 * [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
-* [Mapillary and Facebook – Combining our open mapping efforts](https://www.openstreetmap.org/user/jesolem/diary/393358)
-* [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
+* [Facebook acquires Mapillary](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html)
+* [Ask HN: Impossible Ideas?](https://news.ycombinator.com/item?id=23594735)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
+* [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
+* [Paul Erdős in Madras (2019)](https://www.thehindu.com/society/paul-erds-a-legendary-mathematician-in-madras/article28295095.ece)
+* [FPBase: The Fluorescent Protein Database](http://fpbase.org)
 * [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
+* [ZeroTrustOps: Securing at Scale](https://blog.sonatype.com/zerotrustops-securing-at-scale)
 * [Autopen](https://en.wikipedia.org/wiki/Autopen)
 * [Losing the war against surveillance capitalism letting Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
-* [Ask HN: Impossible Ideas](https://news.ycombinator.com/item?id=23594735)
-* [Coronavirus protective immunity is short-lasting [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.11.20086439v2.full.pdf)
-* [The History That James Baldwin Wanted America to See](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
+* [The history that James Baldwin wanted America to see](https://www.newyorker.com/books/page-turner/the-history-that-james-baldwin-wanted-america-to-see)
+* [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
+* [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
 * [Deno will stop using TypeScript](https://startfunction.com/deno-will-stop-using-typescript/)
 * [Bye](https://bye.fyi/)
-* [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
-* [A little bit of plain JavaScript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
+* [Mozart’s Infinite Riches](https://standpointmag.co.uk/issues/may-june-2020/mozarts-infinite-riches/)
 * [We bought Walmart’s $140 laptop so you wouldn’t have to](https://arstechnica.com/gadgets/2020/06/we-bought-walmarts-140-laptop-so-you-wouldnt-have-to/)
-* [Jerry (SC17) Is Hiring Full Stack Engineers in Toronto, SF Bay Area](https://apply.workable.com/jerry/j/E627670571/)
-* [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
 ## nytimes.com
 
 
@@ -82,19 +82,19 @@ layout: default
 * [They Were Canceled. Should He Have Helped Them Come Back?](https://www.nytimes.com/2020/06/19/nyregion/abraham-foxman-john-galliano-antisemitism-cancel-culture.html)
 * [Bullfighting, Already Ailing in Spain, Is Battered by Lockdown](https://www.nytimes.com/2020/06/21/world/europe/bullfighting-spain-coronavirus.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [Two More Rings for the Home Team](https://www.nytimes.com/2020/06/19/style/two-more-rings-for-the-home-team.html)
 * [How a Cannabis Expert Spends Her Sundays](https://www.nytimes.com/2020/06/19/nyregion/coronavirus-weed-nyc.html)
 * [Review: ‘Perry Mason’ Returns, Hard-Boiled and Warmed Over](https://www.nytimes.com/2020/06/18/arts/television/review-perry-mason-hbo.html)
 * [Juilliard’s Secret Weapon Keeps Actors on Their Toes](https://www.nytimes.com/2020/06/19/theater/moni-yakim-juilliard-school.html)
 * [Transgender Lives Onscreen: Seen, but Not Always Believable](https://www.nytimes.com/2020/06/19/movies/transgender-lives-onscreen-tv.html)
-* [Happy Father’s Day to All the Fish Dads Underwater](https://www.nytimes.com/article/fathers-day-fish.html)
-* [Copper Won’t Save You From Coronavirus](https://www.nytimes.com/article/copper-coronavirus-masks.html)
-* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [Secrets of the Y Chromosome](https://www.nytimes.com/2018/06/11/health/men-y-chromosome.html)
+* [Copper Won’t Save You From Coronavirus](https://www.nytimes.com/article/copper-coronavirus-masks.html)
+* [Happy Father’s Day to All the Fish Dads Underwater](https://www.nytimes.com/article/fathers-day-fish.html)
+* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [Barr Tries to Fire Berman, S.D.N.Y. U.S. Attorney, but He Won't Go](https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Apesar dos descontos, Bangu x Flamengo deixa R$ 152 mil de prejuízo](https://oglobo.globo.com/esportes/apesar-dos-descontos-bangu-flamengo-deixa-152-mil-de-prejuizo-24491411)
+* [Detran RJ autoriza funcionamento de autoescolas a partir de quarta-feira](https://oglobo.globo.com/rio/detran-rj-autoriza-funcionamento-de-autoescolas-partir-de-quarta-feira-24491398)
+* [SP registra 12.588 mortes por Covid-19 e quase 220 mil casos](https://oglobo.globo.com/sociedade/sp-registra-12588-mortes-por-covid-19-quase-220-mil-casos-24491394)
 * [No Corinthians, 21 dos 27 jogadores testados pegaram coronavírus](https://oglobo.globo.com/esportes/no-corinthians-21-dos-27-jogadores-testados-pegaram-coronavirus-24491396)
-* [SP registra 12.588 mortes por Covid-19 e quase 220 mil casos](https://oglobo.globo.com/brasil/sp-registra-12588-mortes-por-covid-19-quase-220-mil-casos-24491394)
 * [Manifestantes pró-Bolsonaro se reúnem na avenida Paulista, em SP](https://oglobo.globo.com/brasil/manifestantes-pro-bolsonaro-se-reunem-na-avenida-paulista-em-sp-24491393)
 * [Final de torneio de exibição de tênis é cancelada após Dimitrov testar positivo para Covid-19](https://oglobo.globo.com/esportes/final-de-torneio-de-exibicao-de-tenis-cancelada-apos-dimitrov-testar-positivo-para-covid-19-24491291)
 * [Argentina chega a 1.000 mortos pelo novo coronavírus](https://oglobo.globo.com/mundo/argentina-chega-1000-mortos-pelo-novo-coronavirus-24491252)
 * [Cantor Akon planeja lançar criptomoeda no mês que vem](https://oglobo.globo.com/economia/cantor-akon-planeja-lancar-criptomoeda-no-mes-que-vem-24491041)
-* [Rio tem aglomeração nas praias neste domingo, após flexibilização do isolamento social](https://oglobo.globo.com/rio/rio-tem-aglomeracao-nas-praias-neste-domingo-apos-flexibilizacao-do-isolamento-social-24491199)
 * [‘Prisão de Queiroz é mais do que um sinal amarelo’, diz cientista político Carlos Pereira](https://oglobo.globo.com/brasil/prisao-de-queiroz-mais-do-que-um-sinal-amarelo-diz-cientista-politico-carlos-pereira-24491202)
-* [Brasil chega a 1.073.376 casos de Covid-19, de acordo com boletim do consórcio de veículos da imprensa das 13h](https://oglobo.globo.com/sociedade/brasil-chega-1073376-casos-de-covid-19-de-acordo-com-boletim-do-consorcio-de-veiculos-da-imprensa-das-13h-24491195)
 * [Julgamento no TJ do Rio pode anular decisões do juiz do caso Flávio Bolsonaro](https://oglobo.globo.com/brasil/julgamento-no-tj-do-rio-pode-anular-decisoes-do-juiz-do-caso-flavio-bolsonaro-24490983)

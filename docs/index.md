@@ -2,24 +2,24 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 07:10:08 UTC
+# indexed at 22/06/2020 07:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
+* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 * [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
 * [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
 * [Video Games Are the Future of Education](https://nabeelqu.co/education)
-* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
-* [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
 * [The Waypoint NDA](https://waypointnda.com/)
+* [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
+* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Maersk, Me and NotPetya](https://gvnshtn.com/maersk-me-notpetya/)
 * [Being Alone](https://www.ankit.fyi/being-alone)
@@ -34,10 +34,10 @@ layout: default
 * [Uber open-sources tool to automatically clean up stale code](https://www.infoq.com/news/2020/06/uber-piranha/)
 * [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
-* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
+* [Google’s true origin partly lies in gov grants for mass surveillance (2017)](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance/)
 * [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
+* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
 * [What Are Optotypes? (2015)](https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/)
-* [Teach Yourself Computer Science](https://teachyourselfcs.com)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Political Grip Shaky, Belarus Leader Blames Longtime Ally: Russia](https://www.nytimes.com/2020/06/22/world/europe/belarus-lukashenko-russia.html)
 * [Tsunami or Ripple? The Pandemic’s Mental Toll Is an Open Question](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [Jim Kiick, Who Helped the Dolphins Win 2 Super Bowls, Dies at 73](https://www.nytimes.com/2020/06/21/sports/football/jim-kiick-dead.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [Toxic Ghosts](https://www.nytimes.com/2020/06/19/well/live/toxic-ghosts.html)
 * [Spike Lee Saved My Life](https://www.nytimes.com/2020/06/21/movies/spike-lee-police.html)
@@ -95,7 +95,9 @@ layout: default
 * [Secrets of the Y Chromosome](https://www.nytimes.com/2018/06/11/health/men-y-chromosome.html)
 * [Happy Father’s Day to All the Fish Dads Underwater](https://www.nytimes.com/article/fathers-day-fish.html)
 * [Copper Won’t Save You From Coronavirus](https://www.nytimes.com/article/copper-coronavirus-masks.html)
-* [What to Cook This Week](https://www.nytimes.com/2020/06/21/dining/what-to-cook-this-week.html)
+* [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
+* [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
+* [Professor Who Asked Student to ‘Anglicize’ Her Name Is Put on Leave](https://www.nytimes.com/2020/06/21/us/phuc-bui-diem-nguyen-laney-college.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

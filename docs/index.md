@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 15:09:59 UTC
+# indexed at 22/06/2020 15:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Health Effects of Coffee](https://www.mdpi.com/2072-6643/12/6/1842)
-* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
-* [The University Is Like a CD in the Streaming Age](https://www.theatlantic.com/ideas/archive/2020/06/university-like-cd-streaming-age/613291/)
-* [Fast implementation of DeepMind's AlphaZero algorithm in Julia](https://github.com/jonathan-laurent/AlphaZero.jl)
+* [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
 * [Show HN: Generate Visual Sitemap from sitemap.xml, just write URL](https://octopus.do/sitemap/resource/generator)
+* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
+* [Fast implementation of DeepMind's AlphaZero algorithm in Julia](https://github.com/jonathan-laurent/AlphaZero.jl)
+* [The University Is Like a CD in the Streaming Age](https://www.theatlantic.com/ideas/archive/2020/06/university-like-cd-streaming-age/613291/)
 * [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
+* [Health Effects of Coffee](https://www.mdpi.com/2072-6643/12/6/1842)
 * [Show HN: Switchboard – A mDNS based reverse proxy for personal infrastructure](https://github.com/whytheplatypus/switchboard)
 * [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
-* [Saying thanks: testing a new Reactions feature](https://stackoverflow.blog/2020/06/17/saying-thanks-testing-a-new-reactions-feature/)
+* [Data Dividend Project](https://www.datadividendproject.com/)
 * [The Problem with America’s Lab Mice [video]](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
 * [New QGIS 3.14 π got support for vector tiles](https://www.maptiler.com/news/2020/06/vector-tiles-in-qgis-3-14/)
-* [Data Dividend Project](https://www.datadividendproject.com/)
-* [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
 * [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
+* [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
 * [`BlueLeaks’ Exposes Files from Hundreds of Police Departments](https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/)
-* [Deus Ex at 20: The oral history of a pivotal PC game](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
-* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
+* [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
+* [Deus Ex at 20: The oral history of a pivotal PC game](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/)
+* [Saying thanks: testing a new Reactions feature](https://stackoverflow.blog/2020/06/17/saying-thanks-testing-a-new-reactions-feature/)
 * [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
 * [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
-* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
-* [The Waypoint NDA](https://waypointnda.com/)
-* [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
-* [Sugary drink tax models show health gains, cost reductions, but vary by design](https://newsroom.heart.org/news/sugary-drink-tax-models-show-health-gains-cost-reductions-but-vary-by-tax-design?preview=cd61)
 * [Why Forking HTML into a Static Language Doesn't Make Sense](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html)
-* [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
+* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
+* [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
+* [The Waypoint NDA](https://waypointnda.com/)
+* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
+* [Sugary drink tax models show health gains, cost reductions, but vary by design](https://newsroom.heart.org/news/sugary-drink-tax-models-show-health-gains-cost-reductions-but-vary-by-tax-design?preview=cd61)
 * [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
-* [Ask HN: How to learn to create/draw mental models for programming?](https://news.ycombinator.com/item?id=23598783)
-* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
+* [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 ## nytimes.com
 
 
@@ -75,7 +75,7 @@ layout: default
 * [How Will Hudson Yards Survive the Pandemic?](https://www.nytimes.com/2020/06/19/realestate/how-will-hudson-yards-survive-the-pandemic.html)
 * [What’s Gotten Into the Price of Cheese?](https://www.nytimes.com/2020/06/22/business/cheese-cheddar-prices.html)
 * [Noose Found in Bubba Wallace’s Garage](https://www.nytimes.com/2020/06/22/sports/bubba-wallace-noose-talladega.html)
-* [Jail Only Allowed White Staff to Guard Ex-Officer Charged With Killing George Floyd](https://www.nytimes.com/2020/06/21/us/derek-chauvin-detention-police-officers.html)
+* [Japanese Supercomputer Is Crowned World’s Speediest](https://www.nytimes.com/2020/06/22/technology/japanese-supercomputer-fugaku-tops-american-chinese-machines.html)
 * [After Video Shows Apparent Chokehold, N.Y.P.D. Suspends Officer](https://www.nytimes.com/2020/06/21/nyregion/nypd-chokehold-video.html)
 * [Tennessee Newspaper Apologizes for ‘Utterly Indefensible’ Anti-Muslim Ad](https://www.nytimes.com/2020/06/21/business/media/the-tennessean-islam-ad.html)
 * [‘Inappropriate’ Eskimo Pie Name Will Be Retired, Company Says](https://www.nytimes.com/2020/06/20/business/dreyers-eskimo-pie-name-change.html)
@@ -93,10 +93,10 @@ layout: default
 * [Extending a Lifeline to Museums](https://www.nytimes.com/2020/06/18/arts/masterpiece-london-museums.html)
 * [Red Sox Organist Fills Baseball Shutdown Void](https://www.nytimes.com/2020/06/20/sports/baseball/coronavirus-red-sox-organist.html)
 * [How to Shape Your Eyebrows at Home](https://www.nytimes.com/2020/06/18/t-magazine/shape-eyebrows-groom-at-home.html)
-* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
-* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
+* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
+* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
+* [Planos de saúde registram menor uso em quatro anos, com suspensão de cirurgias e exames eletivos](https://oglobo.globo.com/economia/defesa-do-consumidor/planos-de-saude-registram-menor-uso-em-quatro-anos-com-suspensao-de-cirurgias-exames-eletivos-24492195)
+* [Exportações do agronegócio registram recordes, mesmo com pandemia de coronavírus](https://oglobo.globo.com/economia/exportacoes-do-agronegocio-registram-recordes-mesmo-com-pandemia-de-coronavirus-1-24492217)
+* [Após ser pressionada, presidente da Bolívia publica lei que convoca eleições para setembro](https://oglobo.globo.com/mundo/apos-ser-pressionada-presidente-da-bolivia-publica-lei-que-convoca-eleicoes-para-setembro-24492267)
+* [Coronavírus: o padre russo que nega a pandemia e desafia autoridades com tomada de convento](https://epoca.globo.com/mundo/coronavirus-padre-russo-que-nega-pandemia-desafia-autoridades-com-tomada-de-convento-24492293)
+* [MPRJ apura se municípios do Norte Fluminense receberam verbas e não construíram Centros de Triagem da Covid-19](https://oglobo.globo.com/rio/mprj-apura-se-municipios-do-norte-fluminense-receberam-verbas-nao-construiram-centros-de-triagem-da-covid-19-24492266)
+* [Coppe produz proteína em busca de testes de diagnóstico mais precisos da Covid-19](https://oglobo.globo.com/sociedade/coppe-produz-proteina-em-busca-de-testes-de-diagnostico-mais-precisos-da-covid-19-24492280)
+* [Witzel usa as redes, mas não comenta a saída de Fernando Ferry da secretaria de Saúde do Rio](https://oglobo.globo.com/rio/witzel-usa-as-redes-mas-nao-comenta-saida-de-fernando-ferry-da-secretaria-de-saude-do-rio-1-24492246)
 * [Livro de Augusto Cury sobre ansiedade volta aos mais vendidos e inspira curso para a Polícia Federal na pandemia](https://oglobo.globo.com/cultura/livro-de-augusto-cury-sobre-ansiedade-volta-aos-mais-vendidos-inspira-curso-para-policia-federal-na-pandemia-24455708)
 * [Governo inclui apostas esportivas em plano de privatização](https://oglobo.globo.com/economia/governo-inclui-apostas-esportivas-em-plano-de-privatizacao-1-24492259)
-* [Witzel usa as redes, mas não comenta a saída de Fernando Ferry da secretaria de Saúde do Rio](https://oglobo.globo.com/rio/witzel-usa-as-redes-mas-nao-comenta-saida-de-fernando-ferry-da-secretaria-de-saude-do-rio-1-24492246)
-* [Relatório contra abertura de hospitais de campanha pode ser causa para saída de Ferry de Secretaria](https://oglobo.globo.com/rio/relatorio-contra-abertura-de-hospitais-de-campanha-pode-ser-causa-para-saida-de-ferry-de-secretaria-24492170)
-* [Cinema, praia, chope: especialistas avaliam que retomar velhos hábitos pode demorar até um ano](https://oglobo.globo.com/sociedade/cinema-praia-chope-especialistas-avaliam-que-retomar-velhos-habitos-pode-demorar-ate-um-ano-1-24492147)
-* [Planos de saúde registram menor uso em quatro anos, com suspensão de cirurgias e exames eletivos](https://oglobo.globo.com/economia/defesa-do-consumidor/planos-de-saude-registram-menor-uso-em-quatro-anos-com-suspensao-de-cirurgias-exames-eletivos-24492195)
 * [Augusto Cury diz que higiene mental é tão importante quanto higiene física na quarentena](https://oglobo.globo.com/cultura/augusto-cury-diz-que-higiene-mental-tao-importante-quanto-higiene-fisica-na-quarentena-24480096)
-* [Exportações do agronegócio registram recordes, mesmo com pandemia de coronavírus](https://oglobo.globo.com/economia/exportacoes-do-agronegocio-registram-recordes-mesmo-com-pandemia-de-coronavirus-24492217)
-* [Crise econômica devido ao coronavírus atinge especialmente as pessoas trans](https://oglobo.globo.com/celina/crise-economica-devido-ao-coronavirus-atinge-especialmente-as-pessoas-trans-24486402)
-* [Autoridades sul-coreanas dizem que estão enfrentando uma segunda onda de Covid-19 localizada em Seul](https://oglobo.globo.com/mundo/autoridades-sul-coreanas-dizem-que-estao-enfrentando-uma-segunda-onda-de-covid-19-localizada-em-seul-1-24492140)

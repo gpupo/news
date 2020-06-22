@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 21:09:41 UTC
+# indexed at 22/06/2020 21:34:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
-* [macOS Big Sur Preview](https://www.apple.com/macos/big-sur-preview/)
 * [Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features)
+* [macOS Big Sur Preview](https://www.apple.com/macos/big-sur-preview/)
+* [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
 * [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
 * [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
-* [GiveCampus (YC S15) hiring senior software engineers to help schools](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
-* [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
-* [iOS 14 will let you change your default email and web browser apps](https://9to5mac.com/2020/06/22/ios-14-default-apps/)
-* [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
-* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
+* [The Reason Why Some Nations Are Rich and Others Poor](https://panampost.com/jose-azel/2016/09/07/the-real-reason-why-some-nations-are-rich-and-others-poor)
+* [GiveCampus (YC S15) hiring senior software engineers to help schools](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 * [Deep Learning from Scratch Part 3: Generalizing Gradient Descent](https://jdridgeway.com/deep-learning-from-scratch-generalizing-gradient-descent/)
+* [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
+* [iOS 14 will let you change your default email and web browser apps](https://9to5mac.com/2020/06/22/ios-14-default-apps/)
+* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
 * [Gitlab 13.1](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
 * [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
-* [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
 * [Fast implementation of DeepMind's AlphaZero algorithm in Julia](https://github.com/jonathan-laurent/AlphaZero.jl)
-* [Important Things That You Should Take Care When Integrate of Stripe Connect](https://blog.maddevs.io/integration-of-stripe-connect-926daa2978d5)
-* [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [Mathematicians urge colleagues to boycott police work in wake of killings](https://www.nature.com/articles/d41586-020-01874-9)
-* [The World in 2036: Nassim Taleb looks at what will break, and what won't (2010)](https://www.economist.com/news/2010/11/22/nassim-taleb-looks-at-what-will-break-and-what-wont)
+* [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
+* [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+* [Important Things That You Should Take Care When Integrate of Stripe Connect](https://blog.maddevs.io/integration-of-stripe-connect-926daa2978d5)
+* [A-Cloud PR/FAQ](https://www.tbray.org/ongoing/When/202x/2020/06/21/A-Cloud-PR-FAQ)
 * [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
+* [Generative Iris](https://mostlymaths.net/2020/06/iris-sketch.html/)
 * [Andrew Yang's Data Dividend Project is pushing Big Tech to pay users for data](https://www.theverge.com/2020/6/22/21298919/andrew-yang-big-tech-data-dividend-project-facebook-google-ubi)
-* [Apple is Now switching Macs to its own processors starting later this year](https://headlyy.com/post/1592856746310x718742091151946400)
 * [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
 * [macOS 11 Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
+* [The World in 2036: Nassim Taleb looks at what will break, and what won't (2010)](https://www.economist.com/news/2010/11/22/nassim-taleb-looks-at-what-will-break-and-what-wont)
+* [Trump to suspend entry of certain foreign workers despite business opposition](https://www.reuters.com/article/us-usa-immigration-workers/trump-to-suspend-entry-of-certain-foreign-workers-despite-business-group-opposition-idUSKBN23T2ZW)
 * [Apple WWDC Keynote](https://www.youtube.com/watch?v=GEZhD3J89ZE)
 * [Show HN: Generate Visual Sitemap from sitemap.xml, just write URL](https://octopus.do/sitemap/resource/generator)
-* [Stuck at home, scientists discover new insect species](https://www.wired.com/story/stuck-at-home-scientists-discover-9-new-insect-species/)
-* [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Forking HTML into a static language doesn't make sense](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html)
 ## nytimes.com
 
 
@@ -80,18 +80,18 @@ layout: default
 * [New Neolithic Finds Near Stonehenge Site](https://www.nytimes.com/2020/06/22/world/europe/stonehenge-trenches-durrington-walls.html)
 * [New York Tenants Fearful After Moratorium on Evictions Ends](https://www.nytimes.com/2020/06/22/nyregion/nyc-evictions-moratorium-coronavirus.html)
 * [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
 * [Black Gallerists Press Forward Despite a Market That Holds Them Back](https://www.nytimes.com/2020/06/21/arts/design/art-basel-black-owned-galleries.html)
 * [Ottessa Moshfegh’s Latest Is a Murder Mystery, but Where’s the Body?](https://www.nytimes.com/2020/06/19/books/review-death-in-her-hands-ottessa-moshfegh.html)
 * [For Classical Music, Spring Was the Season of Solos](https://www.nytimes.com/2020/06/18/arts/music/classical-music-season-of-solos.html)
 * [A Dish Even the Pickiest Little Ones Will Love](https://www.nytimes.com/2020/06/22/dining/potato-cake-recipe.html)
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
-* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
+* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Filho de Mário Peixoto, empresário Vinícius Ferreira Peixoto é preso acusado de desvios na Saúde do Rio](https://oglobo.globo.com/rio/filho-de-mario-peixoto-empresario-vinicius-ferreira-peixoto-preso-acusado-de-desvios-na-saude-do-rio-24492882)
+* [Globo de Ouro é adiado para 28 de fevereiro, domingo em que ocorreria o Oscar](https://oglobo.globo.com/cultura/globo-de-ouro-adiado-para-28-de-fevereiro-domingo-em-que-ocorreria-oscar-24492973)
 * [Moraes diz haver 'real possibilidade de associação criminosa' em atos antidemocráticos](https://oglobo.globo.com/brasil/moraes-diz-haver-real-possibilidade-de-associacao-criminosa-em-atos-antidemocraticos-24492896)
+* [Maia diz que reforma tributária pode ser votada em agosto na Câmara](https://oglobo.globo.com/economia/maia-diz-que-reforma-tributaria-pode-ser-votada-em-agosto-na-camara-24492961)
 * [Bretas decreta prisão preventiva de Rei Arthur, foragido desde 2017](https://oglobo.globo.com/brasil/bretas-decreta-prisao-preventiva-de-rei-arthur-foragido-desde-2017-24492910)
 * [Após 3 meses de quarentena e controle da Covid-19, cabeleireiros e lojas reabrem em Nova York](https://oglobo.globo.com/mundo/apos-3-meses-de-quarentena-controle-da-covid-19-cabeleireiros-lojas-reabrem-em-nova-york-24492954)
+* [Filho de Mário Peixoto, empresário Vinícius Ferreira Peixoto é preso acusado de desvios na Saúde do Rio](https://oglobo.globo.com/rio/filho-de-mario-peixoto-empresario-vinicius-ferreira-peixoto-preso-acusado-de-desvios-na-saude-do-rio-24492882)
 * [Trump vai suspender emissão de vistos para trabalhadores qualificados](https://oglobo.globo.com/mundo/trump-vai-suspender-emissao-de-vistos-para-trabalhadores-qualificados-24492911)
 * [Relator descarta ampliar voto facultativo para pessoas com mais de 60 anos](https://oglobo.globo.com/brasil/relator-descarta-ampliar-voto-facultativo-para-pessoas-com-mais-de-60-anos-24492881)
 * [O novo livro de cabeceira de Bill Gates chega ao Brasil](https://epoca.globo.com/guilherme-amado/o-novo-livro-de-cabeceira-de-bill-gates-chega-ao-brasil-24492913)
-* [Decreto da prefeitura autoriza ônibus convencionais e BRT a transportarem passageiros em pé](https://oglobo.globo.com/rio/decreto-da-prefeitura-autoriza-onibus-convencionais-brt-transportarem-passageiros-em-pe-1-24492880)
 * [China anuncia que vai aderir ao Tratado da ONU sobre Comércio de Armas](https://oglobo.globo.com/mundo/china-anuncia-que-vai-aderir-ao-tratado-da-onu-sobre-comercio-de-armas-24492868)
-* [Em vídeo, chefe de cartel mexicano ameaça o governo após sua mãe ser presa](https://oglobo.globo.com/mundo/em-video-chefe-de-cartel-mexicano-ameaca-governo-apos-sua-mae-ser-presa-24492855)

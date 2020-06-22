@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 05:34:41 UTC
+# indexed at 22/06/2020 06:10:55 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
+* [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
-* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
-* [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
-* [Video Games Are the Future of Education](https://nabeelqu.co/education)
+* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
+* [Video Games Are the Future of Education](https://nabeelqu.co/education)
+* [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Maersk, Me and NotPetya](https://gvnshtn.com/maersk-me-notpetya/)
 * [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
+* [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 * [Being Alone](https://www.ankit.fyi/being-alone)
-* [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
 * [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
 * [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 * [WireGuard Merged into OpenBSD](https://marc.info/?l=openbsd-cvs&m=159274150512676&w=2)
+* [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
 * [Preliminary Theory of the In-Group Contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
-* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
+* [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
 * [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
 * [The Waypoint NDA](https://waypointnda.com/)
 * [Companies Pitch Shortwave Radio to Shave Milliseconds Off Trades](https://www.bloomberg.com/news/articles/2020-06-17/companies-pitch-shortwave-radio-to-shave-milliseconds-off-trades)
-* [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [Uber open-sources tool to automatically clean up stale code](https://www.infoq.com/news/2020/06/uber-piranha/)
-* [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
+* [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
-* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
+* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
+* [How Does Git Know What a Python Function/Class Definition Looks Like?](https://mobile.twitter.com/simonw/status/1270359803957612545)
 * [What Are Optotypes? (2015)](https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/)
 * [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
-* [Teach Yourself Computer Science](https://teachyourselfcs.com)
-* [Regent: A Language for Implicit Dataflow Parallelism](http://regent-lang.org/)
-* [Returning the “killed” RSS of Reuters from the dead](https://codarium.substack.com/p/returning-the-killed-rss-of-reuters)
 ## nytimes.com
 
 
@@ -91,21 +91,21 @@ layout: default
 * [Elizabeth Alexander on the Spectacle of ‘Black Bodies in Pain’](https://www.nytimes.com/2020/06/19/arts/elizabeth-alexander-george-floyd-video-protests.html)
 * [How to Create Your Own Herbal Tinctures](https://www.nytimes.com/2020/06/17/t-magazine/herbal-tinctures-how-to-make.html)
 * [Comfort Viewing: Why I Still Love ‘Shameless’](https://www.nytimes.com/2020/06/19/arts/television/shameless-showtime.html)
-* [Happy Father’s Day to All the Fish Dads Underwater](https://www.nytimes.com/article/fathers-day-fish.html)
 * [Copper Won’t Save You From Coronavirus](https://www.nytimes.com/article/copper-coronavirus-masks.html)
-* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
+* [Happy Father’s Day to All the Fish Dads Underwater](https://www.nytimes.com/article/fathers-day-fish.html)
 * [Secrets of the Y Chromosome](https://www.nytimes.com/2018/06/11/health/men-y-chromosome.html)
+* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
-* [What to Cook This Week](https://www.nytimes.com/2020/06/21/dining/what-to-cook-this-week.html)
+* [Professor Who Asked Student to ‘Anglicize’ Her Name Is Put on Leave](https://www.nytimes.com/2020/06/21/us/phuc-bui-diem-nguyen-laney-college.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [MP suspeita que advogado de Flávio Bolsonaro coagiu Queiroz, Adriano e outras testemunhas](https://epoca.globo.com/guilherme-amado/mp-suspeita-que-advogado-de-flavio-bolsonaro-coagiu-queiroz-adriano-outras-testemunhas-24491873)
 * [Trump diz que consideraria se encontrar com Maduro e minimiza apoio a Guaidó](https://oglobo.globo.com/mundo/trump-diz-que-consideraria-se-encontrar-com-maduro-minimiza-apoio-guaido-24491856)
-* [OMS registra aumento diário recorde em casos de coronavírus](https://oglobo.globo.com/mundo/oms-registra-aumento-diario-recorde-em-casos-de-coronavirus-24491801)
 * [Da ‘gripezinha’ às 50 mil mortes pela Covid-19](https://oglobo.globo.com/opiniao/da-gripezinha-as-50-mil-mortes-pela-covid-19-1-24491286)
 * [Racismo à brasileira](https://oglobo.globo.com/opiniao/racismo-brasileira-24486313)
 * [Uruguai abre disputa no Mercosul para atrair mais capital externo](https://oglobo.globo.com/opiniao/uruguai-abre-disputa-no-mercosul-para-atrair-mais-capital-externo-1-24488664)

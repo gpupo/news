@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 13:09:49 UTC
+# indexed at 22/06/2020 13:34:17 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [`BlueLeaks’ Exposes Files from Hundreds of Police Departments](https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/)
 * [Sugary drink tax models show health gains, cost reductions, but vary by design](https://newsroom.heart.org/news/sugary-drink-tax-models-show-health-gains-cost-reductions-but-vary-by-tax-design?preview=cd61)
-* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
 * [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
+* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
 * [Saying thanks: testing a new Reactions feature](https://stackoverflow.blog/2020/06/17/saying-thanks-testing-a-new-reactions-feature/)
+* [The University Is Like a CD in the Streaming Age](https://www.theatlantic.com/ideas/archive/2020/06/university-like-cd-streaming-age/613291/)
 * [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
 * [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
-* [The University Is Like a CD in the Streaming Age](https://www.theatlantic.com/ideas/archive/2020/06/university-like-cd-streaming-age/613291/)
 * [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [The Problem with America’s Lab Mice [video]](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
 * [New QGIS 3.14 π got support for vector tiles](https://www.maptiler.com/news/2020/06/vector-tiles-in-qgis-3-14/)
-* [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
+* [Deus Ex at 20: The oral history of a pivotal PC game](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/)
 * [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
+* [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
-* [Deus Ex at 20: The oral history of a pivotal PC game](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/)
-* [The UK’s contact tracing app fiasco is a master class in mismanagement](https://www.technologyreview.com/2020/06/19/1004190/uk-covid-contact-tracing-app-fiasco/)
+* [The failed rollout of Britain's covid-19 app were the result of clear errors](https://www.technologyreview.com/2020/06/19/1004190/uk-covid-contact-tracing-app-fiasco/)
+* [eBay’s former CEO denies any link to the cyberstalking of a blogger](https://www.vox.com/recode/2020/6/18/21295992/ebay-security-stalking-ecommercebytes-cyberstalking-devin-wenig-james-baugh)
 * [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 * [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
 * [The Waypoint NDA](https://waypointnda.com/)
-* [How Doordash got their first 1000 customers](https://first1000.substack.com/p/-doordash)
-* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
+* [Show HN: Switchboard – A mDNS based reverse proxy for personal infrastructure](https://github.com/whytheplatypus/switchboard)
 * [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
+* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
+* [Fixing Apple's Engineering in an Hour [video]](https://www.youtube.com/watch?v=MlOPPuNv4Ec)
+* [How Doordash got their first 1000 customers](https://first1000.substack.com/p/-doordash)
 * [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 * [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
-* [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
 * [Ask HN: How to learn to create/draw mental models for programming?](https://news.ycombinator.com/item?id=23598783)
-* [Why Forking HTML into a Static Language Doesn't Make Sense](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html?m=1)
-* [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
-* [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
+* [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
 ## nytimes.com
 
 
@@ -75,7 +75,7 @@ layout: default
 * [How Will Hudson Yards Survive the Pandemic?](https://www.nytimes.com/2020/06/19/realestate/how-will-hudson-yards-survive-the-pandemic.html)
 * [What’s Gotten Into the Price of Cheese?](https://www.nytimes.com/2020/06/22/business/cheese-cheddar-prices.html)
 * [Noose Found in Bubba Wallace’s Garage](https://www.nytimes.com/2020/06/22/sports/bubba-wallace-noose-talladega.html)
-* [Wall Street Set to Open Higher Despite Rise in New Virus Cases: Live Updates](https://www.nytimes.com/2020/06/22/business/stock-market-today-coronavirus.html)
+* [Live Stock Market Updates: Wall Street Set to Open Higher Despite Rise in New Coronavirus Cases](https://www.nytimes.com/2020/06/22/business/stock-market-today-coronavirus.html)
 * [Shooting in Charlotte Leaves Two Dead and Seven Others Wounded](https://www.nytimes.com/2020/06/22/us/charlotte-north-carolina-shooting.html)
 * [Tennessee Newspaper Apologizes for ‘Utterly Indefensible’ Anti-Muslim Ad](https://www.nytimes.com/2020/06/21/business/media/the-tennessean-islam-ad.html)
 * [North Korea Vows to Dump Millions of Leaflets and Trash on the South](https://www.nytimes.com/2020/06/22/world/asia/north-korea-leaflets-south-korea.html)
@@ -93,10 +93,10 @@ layout: default
 * [Extending a Lifeline to Museums](https://www.nytimes.com/2020/06/18/arts/masterpiece-london-museums.html)
 * [Red Sox Organist Fills Baseball Shutdown Void](https://www.nytimes.com/2020/06/20/sports/baseball/coronavirus-red-sox-organist.html)
 * [How to Shape Your Eyebrows at Home](https://www.nytimes.com/2020/06/18/t-magazine/shape-eyebrows-groom-at-home.html)
+* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
 * [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
-* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Museu de Nova York anuncia retirada de estátua de Theodore Roosevelt por simbologia racista](https://oglobo.globo.com/mundo/museu-de-nova-york-anuncia-retirada-de-estatua-de-theodore-roosevelt-por-simbologia-racista-24491991)
+* [A pandemia de coronavírus foi exacerbada pela politização, afirma OMS](https://oglobo.globo.com/mundo/a-pandemia-de-coronavirus-foi-exacerbada-pela-politizacao-afirma-oms-24492107)
 * [Japão desiste de canditatura para sediar a Copa do Mundo feminina de 2023](https://oglobo.globo.com/esportes/japao-desiste-de-canditatura-para-sediar-copa-do-mundo-feminina-de-2023-24492101)
-* [Evento debate o papel do Judiciário na retomada do país pós-pandemia; assista ao vivo a partir das 10h](https://oglobo.globo.com/brasil/evento-debate-papel-do-judiciario-na-retomada-do-pais-pos-pandemia-assista-ao-vivo-partir-das-10h-1-24492054)
-* [Dólar inicia a semana em queda, negociado abaixo de R$ 5,30](https://oglobo.globo.com/economia/dolar-inicia-semana-em-queda-negociado-abaixo-de-530-24492048)
+* [Niterói inicia nova fase de flexibilização do isolamento nesta segunda-feira](https://oglobo.globo.com/rio/niteroi-inicia-nova-fase-de-flexibilizacao-do-isolamento-nesta-segunda-feira-24492113)
+* [Auxílio emergencial: Caixa paga 3ª parcela a 1,9 milhão de beneficiários do Bolsa Família](https://oglobo.globo.com/economia/auxilio-emergencial-caixa-paga-3-parcela-19-milhao-de-beneficiarios-do-bolsa-familia-24492108)
+* [Evento debate o papel do Judiciário na retomada do país pós-pandemia; assista ao vivo](https://oglobo.globo.com/brasil/evento-debate-papel-do-judiciario-na-retomada-do-pais-pos-pandemia-assista-ao-vivo-24492054)
+* [Anticorpos de pacientes recuperados da Covid-19 diminuem rapidamente em até três meses, diz pesquisa](https://oglobo.globo.com/sociedade/anticorpos-de-pacientes-recuperados-da-covid-19-diminuem-rapidamente-em-ate-tres-meses-diz-pesquisa-1-24492105)
 * [Conselho de William a Harry sobre namoro com Meghan deflagrou briga entre irmãos, diz novo livro](https://oglobo.globo.com/ela/gente/conselho-de-william-harry-sobre-namoro-com-meghan-deflagrou-briga-entre-irmaos-diz-novo-livro-24492057)
 * [Técnica forense revela face de guerreiro germânico do Século IV](https://oglobo.globo.com/sociedade/tecnica-forense-revela-face-de-guerreiro-germanico-do-seculo-iv-1-24486168)
-* [Tenente-coronel médico dos Bombeiros será o novo secretário de Saúde do estado](https://oglobo.globo.com/rio/tenente-coronel-medico-dos-bombeiros-sera-novo-secretario-de-saude-do-estado-24491998)
 * [Gravações revelam como grupos neonazistas atraem adolescentes para movimento internacional](https://epoca.globo.com/mundo/gravacoes-revelam-como-grupos-neonazistas-atraem-adolescentes-para-movimento-internacional-1-24492041)
-* [Para aplacar a fome do centrão, coordenação de Saúde Bucal vai para especialista em eventos](https://oglobo.globo.com/brasil/para-aplacar-fome-do-centrao-coordenacao-de-saude-bucal-vai-para-especialista-em-eventos-1-24491850)
 * [Ricardo Lísias, que lança diário do governo Bolsonaro, será entrevistado hoje ao vivo por ÉPOCA](https://epoca.globo.com/ricardo-lisias-que-lanca-diario-do-governo-bolsonaro-sera-entrevistado-hoje-ao-vivo-por-epoca-24491875)

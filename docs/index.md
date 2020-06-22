@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 00:28:01 UTC
+# indexed at 22/06/2020 00:36:56 UTC
 
 
 ## news.ycombinator.com
@@ -25,9 +25,9 @@ layout: default
 * [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/a/2811960/18947)
 * [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
+* [What Are Optotypes? (2015)](https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/)
 * [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
 * [Paul Erdős in Madras (2019)](https://www.thehindu.com/society/paul-erds-a-legendary-mathematician-in-madras/article28295095.ece)
-* [The Defaults Don't Work](https://moultano.wordpress.com/2020/06/21/the-defaults-dont-work/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
 * [FPBase: The Fluorescent Protein Database](http://fpbase.org)
@@ -35,9 +35,9 @@ layout: default
 * [Losing the war against surveillance capitalism letting Big Tech frame the debate](https://www.salon.com/2020/06/20/were-losing-the-war-against-surveillance-capitalism-because-we-let-big-tech-frame-the-debate/)
 * [Regent: A Language for Implicit Dataflow Parallelism](http://regent-lang.org/)
 * [Wireless Is a Trap](https://www.lesswrong.com/posts/8hxvfZiqH24oqyr6y/wireless-is-a-trap)
-* [Domain-Specific Hardware Accelerators](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext)
+* [Companies Pitch Shortwave Radio to Shave Milliseconds Off Trades](https://www.bloomberg.com/news/articles/2020-06-17/companies-pitch-shortwave-radio-to-shave-milliseconds-off-trades)
 * [Trump’s data-hungry, invasive app](https://www.technologyreview.com/2020/06/21/1004228/trumps-data-hungry-invasive-app-is-a-voter-surveillance-tool-of-extraordinary-scope/)
-* [Facebook acquires Mapillary](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html)
+* [The Defaults Don't Work](https://moultano.wordpress.com/2020/06/21/the-defaults-dont-work/)
 ## nytimes.com
 
 
@@ -68,9 +68,9 @@ layout: default
 * [Cities Should Open Streets to Pedestrians and Cyclists](https://www.nytimes.com/2020/06/20/opinion/pandemic-automobile-cities.html)
 * [The Pandemic Has Reshaped American Fatherhood. Can It Last?](https://www.nytimes.com/2020/06/21/opinion/pandemic-fatherhood-fathers.html)
 * [Why the 'Bad Cop' Theory Won't  Fix Racist Police](https://www.nytimes.com/2020/06/21/opinion/police-violence-racism-reform.html)
-* [Lasting Lessons From My Dad](https://www.nytimes.com/2020/06/19/well/family/fathers-day-lessons.html)
-* [A Run on the Catskills](https://www.nytimes.com/2020/06/17/realestate/a-run-on-the-catskills.html)
-* [‘Say Thank You Say I’m Sorry’](https://www.nytimes.com/2020/06/15/books/review/jericho-brown-say-thank-you-say-im-sorry-poem-coronavirus.html)
+* [When Day Care Closed, a Father Rediscovered His Daughter](https://www.nytimes.com/2020/06/19/parenting/childcare-family-relationships-coronavirus.html)
+* [Free Advice, From Four Therapists’ Couches to Yours](https://www.nytimes.com/2020/06/18/business/coronavirus-free-therapy.html)
+* [‘The Last of Us Part II’ Is a Dark Game for a Dark Time](https://www.nytimes.com/2020/06/19/business/last-of-us-2-review.html)
 * [Tennessee Newspaper Apologizes for ‘Utterly Indefensible’ Anti-Muslim Ad](https://www.nytimes.com/2020/06/21/business/media/the-tennessean-islam-ad.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
 * [After Video Shows Apparent Chokehold, N.Y.P.D. Suspends Officer](https://www.nytimes.com/2020/06/21/nyregion/nypd-chokehold-video.html)
@@ -102,6 +102,7 @@ layout: default
 ## globo.com
 
 
+* [Wassef anuncia que deixará defesa de Flávio Bolsonaro](https://oglobo.globo.com/brasil/wassef-anuncia-que-deixara-defesa-de-flavio-bolsonaro-1-24491706)
 * [Festas durante pandemia são canceladas por denúncias ao Disk Aglomeração](https://oglobo.globo.com/rio/festas-durante-pandemia-sao-canceladas-por-denuncias-ao-disk-aglomeracao-24491509)
 * ['Fiquei horrorizada', diz jornalista que abriu processo contra Regina Duarte por apologia a crimes de tortura](https://oglobo.globo.com/cultura/fiquei-horrorizada-diz-jornalista-que-abriu-processo-contra-regina-duarte-por-apologia-crimes-de-tortura-24491579)
 * [Em livro de Bolton, Brasil é coadjuvante em aventuras hemisféricas dos EUA](https://oglobo.globo.com/mundo/em-livro-de-bolton-brasil-coadjuvante-em-aventuras-hemisfericas-dos-eua-24491578)
@@ -111,4 +112,3 @@ layout: default
 * [Ferj adia jogos do Carioca para sexta e sábado](https://oglobo.globo.com/esportes/ferj-adia-jogos-do-carioca-para-sexta-sabado-1-24491474)
 * [Taxa de reprodução do coronavírus na Alemanha aumenta, indicando risco de contágio](https://oglobo.globo.com/mundo/taxa-de-reproducao-do-coronavirus-na-alemanha-aumenta-indicando-risco-de-contagio-24491533)
 * [Rio registra mais de 96 mil infectados por Covid-19; número de óbitos chega a 8.875](https://oglobo.globo.com/rio/rio-registra-mais-de-96-mil-infectados-por-covid-19-numero-de-obitos-chega-8875-24491460)
-* [Premier League: Liverpool fica só no empate contra o Everton na volta do Inglês](https://oglobo.globo.com/esportes/premier-league-liverpool-fica-so-no-empate-contra-everton-na-volta-do-ingles-24491381)

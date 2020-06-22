@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 10:10:48 UTC
+# indexed at 22/06/2020 10:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -12,8 +12,8 @@ layout: default
 * [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
 * [New QGIS 3.14 π got support for vector tiles](https://www.maptiler.com/news/2020/06/vector-tiles-in-qgis-3-14/)
-* [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
+* [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 * [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
 * [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
@@ -21,8 +21,8 @@ layout: default
 * [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
 * [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 * [Maersk, Me and NotPetya](https://gvnshtn.com/maersk-me-notpetya/)
-* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [Being Alone](https://www.ankit.fyi/being-alone)
+* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
 * [WireGuard Merged into OpenBSD](https://marc.info/?l=openbsd-cvs&m=159274150512676&w=2)
 * [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
@@ -32,12 +32,12 @@ layout: default
 * [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
 * [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
+* [The Problem with America’s Lab Mice and Why It Should Matter to You](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Video Games Are the Future of Education](https://nabeelqu.co/education)
 * [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
-* [Why it's so hard to get unemployment benefits [video]](https://www.youtube.com/watch?v=ualUPur6iks)
-* [What Are Optotypes? (2015)](https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/)
+* [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Why Some State Universities Are Seeing an Influx](https://www.nytimes.com/2020/06/22/us/coronavirus-universities-brain-drain.html)
 * [What’s Facebook’s Deal With Donald Trump?](https://www.nytimes.com/2020/06/21/business/media/facebook-donald-trump-mark-zuckerberg.html)
 * [Political Grip Shaky, Belarus Leader Blames Longtime Ally: Russia](https://www.nytimes.com/2020/06/22/world/europe/belarus-lukashenko-russia.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [How to Protect Kids’ Ears From Constant Headphone Use](https://www.nytimes.com/2020/05/21/parenting/children-headphones-hearing-loss.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Toxic Ghosts](https://www.nytimes.com/2020/06/19/well/live/toxic-ghosts.html)
 * [Spike Lee Saved My Life](https://www.nytimes.com/2020/06/21/movies/spike-lee-police.html)
 * [Elizabeth Alexander on the Spectacle of ‘Black Bodies in Pain’](https://www.nytimes.com/2020/06/19/arts/elizabeth-alexander-george-floyd-video-protests.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Coluna | DW Brasil: a Dick Rowe do jornalismo internacional](https://epoca.globo.com/colunistas/coluna-dw-brasil-dick-rowe-do-jornalismo-internacional-24491900)
+* [Advogados que defenderam militares da ditadura assumem defesa de Flávio Bolsonaro](https://oglobo.globo.com/brasil/advogados-que-defenderam-militares-da-ditadura-assumem-defesa-de-flavio-bolsonaro-24491903)
+* [3 pontos-chave para entender como o Paraguai conseguiu conter a disseminação do coronavírus, apesar de estar no 'epicentro' da pandemia](https://epoca.globo.com/mundo/3-pontos-chave-para-entender-como-paraguai-conseguiu-conter-disseminacao-do-coronavirus-apesar-de-estar-no-epicentro-da-pandemia-24491905)
 * [Fernando Ferry entregará cargo de secretário de saúde do Rio: 'Tentei resolver os graves problemas'](https://oglobo.globo.com/rio/fernando-ferry-entregara-cargo-de-secretario-de-saude-do-rio-tentei-resolver-os-graves-problemas-1-24491884)
+* [Coluna | DW Brasil: a Dick Rowe do jornalismo internacional](https://epoca.globo.com/colunistas/coluna-dw-brasil-dick-rowe-do-jornalismo-internacional-24491900)
+* [Sudeste registra um terço dos acidentes e mortes com caminhões no Brasil](https://epoca.globo.com/guilherme-amado/sudeste-registra-um-terco-dos-acidentes-mortes-com-caminhoes-no-brasil-1-24490068)
 * [Pazuello rebaixa indicados de Flávio Bolsonaro e põe coronel na chefia do Ministério da Saúde no Rio](https://epoca.globo.com/guilherme-amado/pazuello-rebaixa-indicados-de-flavio-bolsonaro-poe-coronel-na-chefia-do-ministerio-da-saude-no-rio-24490078)
 * [O reflexo no país da diretriz de Bolsonaro para combater a Covid](https://oglobo.globo.com/podcast/o-reflexo-no-pais-da-diretriz-de-bolsonaro-para-combater-covid-24491628)
-* [Governo avalia crédito de R$ 10 bi para microempresa e prêmio para 'bom pagador'](https://oglobo.globo.com/economia/governo-avalia-credito-de-10-bi-para-microempresa-premio-para-bom-pagador-24491798)
 * [Preso em Bangu, Fabrício Queiroz pediu livro de autoajuda a operador de propinas de Cabral](https://oglobo.globo.com/brasil/preso-em-bangu-fabricio-queiroz-pediu-livro-de-autoajuda-operador-de-propinas-de-cabral-1-24491760)
-* [Sérgio Pererê canta as memórias da infância e da ancestralidade](https://oglobo.globo.com/cultura/sergio-perere-canta-as-memorias-da-infancia-da-ancestralidade-24479028)
 * [Sedentários podem ter sintomas mais intensos da Covid](https://epoca.globo.com/guilherme-amado/sedentarios-podem-ter-sintomas-mais-intensos-da-covid-24489792)
-* [Com a reabertura das fronteiras, guias italianos pedem mais ajuda e mais turistas](https://oglobo.globo.com/boa-viagem/com-reabertura-das-fronteiras-guias-italianos-pedem-mais-ajuda-mais-turistas-24490011)
 * [Vidas negras importam: lições e alertas de quem marchou ao lado de Martin Luther King](https://oglobo.globo.com/celina/vidas-negras-importam-licoes-alertas-de-quem-marchou-ao-lado-de-martin-luther-king-1-24484783)

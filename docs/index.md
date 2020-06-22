@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 15:34:41 UTC
+# indexed at 22/06/2020 16:10:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
-* [Show HN: Generate Visual Sitemap from sitemap.xml, just write URL](https://octopus.do/sitemap/resource/generator)
-* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
+* [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
 * [Fast implementation of DeepMind's AlphaZero algorithm in Julia](https://github.com/jonathan-laurent/AlphaZero.jl)
+* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
+* [Show HN: Generate Visual Sitemap from sitemap.xml, just write URL](https://octopus.do/sitemap/resource/generator)
 * [The University Is Like a CD in the Streaming Age](https://www.theatlantic.com/ideas/archive/2020/06/university-like-cd-streaming-age/613291/)
-* [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
-* [Health Effects of Coffee](https://www.mdpi.com/2072-6643/12/6/1842)
-* [Show HN: Switchboard – A mDNS based reverse proxy for personal infrastructure](https://github.com/whytheplatypus/switchboard)
-* [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
-* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [Data Dividend Project](https://www.datadividendproject.com/)
+* [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
+* [Patagonia joins growing list of companies boycotting Facebook ads](https://www.cnbc.com/2020/06/22/patagonia-joins-growing-list-of-companies-boycotting-facebook-ads.html)
+* [Andrew Yang is pushing Big Tech to pay users for data](https://www.theverge.com/2020/6/22/21298919/andrew-yang-big-tech-data-dividend-project-facebook-google-ubi)
+* [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
+* [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+* [Show HN: Switchboard – A mDNS based reverse proxy for personal infrastructure](https://github.com/whytheplatypus/switchboard)
+* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
+* [Health Effects of Coffee](https://www.mdpi.com/2072-6643/12/6/1842)
 * [The Problem with America’s Lab Mice [video]](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
 * [New QGIS 3.14 π got support for vector tiles](https://www.maptiler.com/news/2020/06/vector-tiles-in-qgis-3-14/)
-* [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
-* [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
-* [`BlueLeaks’ Exposes Files from Hundreds of Police Departments](https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/)
+* [Stuck at Home, Scientists Discover 9 New Insect Species](https://www.wired.com/story/stuck-at-home-scientists-discover-9-new-insect-species/)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
+* [Saying thanks: testing a new Reactions feature](https://stackoverflow.blog/2020/06/17/saying-thanks-testing-a-new-reactions-feature/)
+* [`BlueLeaks’ Exposes Files from Hundreds of Police Departments](https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/)
 * [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
 * [Deus Ex at 20: The oral history of a pivotal PC game](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/)
-* [Saying thanks: testing a new Reactions feature](https://stackoverflow.blog/2020/06/17/saying-thanks-testing-a-new-reactions-feature/)
-* [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
 * [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
-* [Why Forking HTML into a Static Language Doesn't Make Sense](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html)
+* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
+* [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
+* [Hands-On Linear Programming: Optimization with Python](https://realpython.com/linear-programming-python/)
 * [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
 * [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
 * [The Waypoint NDA](https://waypointnda.com/)
-* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
-* [Sugary drink tax models show health gains, cost reductions, but vary by design](https://newsroom.heart.org/news/sugary-drink-tax-models-show-health-gains-cost-reductions-but-vary-by-tax-design?preview=cd61)
-* [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
-* [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 ## nytimes.com
 
 
@@ -83,11 +83,11 @@ layout: default
 * [Why Some State Universities Are Seeing an Influx](https://www.nytimes.com/2020/06/22/us/coronavirus-universities-brain-drain.html)
 * [Gaps in Vetting Visas Allowed Saudi Gunman Into U.S. Pilot Training](https://www.nytimes.com/2020/06/21/us/politics/saudi-gunman-vetting.html)
 * [Political Grip Shaky, Belarus Leader Blames Longtime Ally: Russia](https://www.nytimes.com/2020/06/22/world/europe/belarus-lukashenko-russia.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
 * [Opera Has Vanished. So Have Their Dream Jobs at the Met.](https://www.nytimes.com/2020/06/19/arts/music/met-opera-orchestra-jobs.html)
 * [Meeting My Father for the First Time](https://www.nytimes.com/2020/06/19/well/family/fathers-day-parents.html)
 * [Extending a Lifeline to Museums](https://www.nytimes.com/2020/06/18/arts/masterpiece-london-museums.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Planos de saúde registram menor uso em quatro anos, com suspensão de cirurgias e exames eletivos](https://oglobo.globo.com/economia/defesa-do-consumidor/planos-de-saude-registram-menor-uso-em-quatro-anos-com-suspensao-de-cirurgias-exames-eletivos-24492195)
-* [Exportações do agronegócio registram recordes, mesmo com pandemia de coronavírus](https://oglobo.globo.com/economia/exportacoes-do-agronegocio-registram-recordes-mesmo-com-pandemia-de-coronavirus-1-24492217)
+* [XP relança braço de educação financeira](https://oglobo.globo.com/economia/xp-relanca-braco-de-educacao-financeira-24492336)
+* [Antes de deixar cargo, Weintraub indicou olavistas para o Conselhou Nacional de Educação](https://oglobo.globo.com/sociedade/antes-de-deixar-cargo-weintraub-indicou-olavistas-para-conselhou-nacional-de-educacao-24492180)
+* [Como evento de Djokovic virou propagador de coronavírus entre tenistas](https://oglobo.globo.com/esportes/como-evento-de-djokovic-virou-propagador-de-coronavirus-entre-tenistas-24492326)
+* [Brasil tem 1.090.349 casos de Covid-19, indica consórcio de veículos da imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1090349-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-no-boletim-das-13h-24492334)
+* [Covid-19: Tailândia inicia testes de vacina contra o coronavírus em macacos](https://oglobo.globo.com/sociedade/covid-19-tailandia-inicia-testes-de-vacina-contra-coronavirus-em-macacos-24492231)
+* [Fux diz que Judiciário deve se preocupar em oferecer segurança jurídica no pós-pandemia](https://oglobo.globo.com/economia/fux-diz-que-judiciario-deve-se-preocupar-em-oferecer-seguranca-juridica-no-pos-pandemia-24492339)
 * [Após ser pressionada, presidente da Bolívia publica lei que convoca eleições para setembro](https://oglobo.globo.com/mundo/apos-ser-pressionada-presidente-da-bolivia-publica-lei-que-convoca-eleicoes-para-setembro-24492267)
 * [Coronavírus: o padre russo que nega a pandemia e desafia autoridades com tomada de convento](https://epoca.globo.com/mundo/coronavirus-padre-russo-que-nega-pandemia-desafia-autoridades-com-tomada-de-convento-24492293)
 * [MPRJ apura se municípios do Norte Fluminense receberam verbas e não construíram Centros de Triagem da Covid-19](https://oglobo.globo.com/rio/mprj-apura-se-municipios-do-norte-fluminense-receberam-verbas-nao-construiram-centros-de-triagem-da-covid-19-24492266)
 * [Coppe produz proteína em busca de testes de diagnóstico mais precisos da Covid-19](https://oglobo.globo.com/sociedade/coppe-produz-proteina-em-busca-de-testes-de-diagnostico-mais-precisos-da-covid-19-24492280)
-* [Witzel usa as redes, mas não comenta a saída de Fernando Ferry da secretaria de Saúde do Rio](https://oglobo.globo.com/rio/witzel-usa-as-redes-mas-nao-comenta-saida-de-fernando-ferry-da-secretaria-de-saude-do-rio-1-24492246)
-* [Livro de Augusto Cury sobre ansiedade volta aos mais vendidos e inspira curso para a Polícia Federal na pandemia](https://oglobo.globo.com/cultura/livro-de-augusto-cury-sobre-ansiedade-volta-aos-mais-vendidos-inspira-curso-para-policia-federal-na-pandemia-24455708)
-* [Governo inclui apostas esportivas em plano de privatização](https://oglobo.globo.com/economia/governo-inclui-apostas-esportivas-em-plano-de-privatizacao-1-24492259)
-* [Augusto Cury diz que higiene mental é tão importante quanto higiene física na quarentena](https://oglobo.globo.com/cultura/augusto-cury-diz-que-higiene-mental-tao-importante-quanto-higiene-fisica-na-quarentena-24480096)

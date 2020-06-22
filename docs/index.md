@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 11:09:24 UTC
+# indexed at 22/06/2020 11:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Wirecard – the “German Enron” & a personal history 2008-2020](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
 * [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
-* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
 * [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [New QGIS 3.14 π got support for vector tiles](https://www.maptiler.com/news/2020/06/vector-tiles-in-qgis-3-14/)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
 * [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
 * [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
-* [The Waypoint NDA](https://waypointnda.com/)
 * [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
-* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
+* [The Waypoint NDA](https://waypointnda.com/)
 * [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
+* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [Maersk, Me and NotPetya](https://gvnshtn.com/maersk-me-notpetya/)
-* [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 * [Being Alone](https://www.ankit.fyi/being-alone)
+* [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
+* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
 * [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
-* [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
-* [Ask HN: Best Video Call Solution for Elderly](https://news.ycombinator.com/item?id=23597931)
 * [Ask HN: How to learn to create/draw mental models for programming?](https://news.ycombinator.com/item?id=23598783)
+* [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
+* [The Problem with America’s Lab Mice and Why It Should Matter to You](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
 * [Google’s true origin partly lies in gov grants for mass surveillance (2017)](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance/)
 * [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
-* [The Problem with America’s Lab Mice and Why It Should Matter to You](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
 * [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
-* [Preliminary Theory of the In-Group Contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
+* [Preliminary Theory of the In-Group Contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
-* [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
 * [Video Games Are the Future of Education](https://nabeelqu.co/education)
+* [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
+* [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 ## nytimes.com
 
 
@@ -67,7 +67,7 @@ layout: default
 * [We Can Find Common Ground on Gay Rights and Religious Liberty](https://www.nytimes.com/2020/06/22/opinion/gay-rights-religious-liberty.html)
 * [The Misunderstood, Maligned Rattlesnake](https://www.nytimes.com/2020/06/22/opinion/rattlesnakes.html)
 * [Trump's 'Law and Order' Talk for 'Blacks and Hippies'](https://www.nytimes.com/2020/06/21/opinion/trump-police-reform.html)
-* [Who Can We Trust With the Nuclear Button? No One.](https://www.nytimes.com/2020/06/22/opinion/nuclear-weapons-trump.html)
+* [Who Can We Trust With the Nuclear Button? No One](https://www.nytimes.com/2020/06/22/opinion/nuclear-weapons-trump.html)
 * [OSHA Needs to Protect Workers From Getting Coronavirus on the Job](https://www.nytimes.com/2020/06/21/opinion/coronavirus-osha-work-safety.html)
 * [Op-Art: See the Sin](https://www.nytimes.com/2020/06/21/opinion/op-art-see-the-sin.html)
 * [Why the 'Bad Cop' Theory Won't  Fix Racist Police](https://www.nytimes.com/2020/06/21/opinion/police-violence-racism-reform.html)
@@ -75,7 +75,7 @@ layout: default
 * [How Will Hudson Yards Survive the Pandemic?](https://www.nytimes.com/2020/06/19/realestate/how-will-hudson-yards-survive-the-pandemic.html)
 * [What’s Gotten Into the Price of Cheese?](https://www.nytimes.com/2020/06/22/business/cheese-cheddar-prices.html)
 * [NASCAR Investigating Noose Found in Bubba Wallace’s Garage](https://www.nytimes.com/2020/06/22/sports/bubba-wallace-noose-talladega.html)
-* [Stock Markets Waver as New Infections Rise: Live Updates](https://www.nytimes.com/2020/06/22/business/stock-market-today-coronavirus.html)
+* [Stock Markets Waver as New Virus Cases Rise: Live Updates](https://www.nytimes.com/2020/06/22/business/stock-market-today-coronavirus.html)
 * [Another Shooting at Seattle's Protest ‘Autonomous Zone’](https://www.nytimes.com/2020/06/22/us/seattle-autonomous-zone-chop-shootings.html)
 * [Tennessee Newspaper Apologizes for ‘Utterly Indefensible’ Anti-Muslim Ad](https://www.nytimes.com/2020/06/21/business/media/the-tennessean-islam-ad.html)
 * [North Korea Vows to Dump Millions of Leaflets and Trash on the South](https://www.nytimes.com/2020/06/22/world/asia/north-korea-leaflets-south-korea.html)
@@ -85,9 +85,9 @@ layout: default
 * [Political Grip Shaky, Belarus Leader Blames Longtime Ally: Russia](https://www.nytimes.com/2020/06/22/world/europe/belarus-lukashenko-russia.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [Opera Has Vanished. So Have Their Dream Jobs at the Met.](https://www.nytimes.com/2020/06/19/arts/music/met-opera-orchestra-jobs.html)
 * [Meeting My Father for the First Time](https://www.nytimes.com/2020/06/19/well/family/fathers-day-parents.html)
 * [Extending a Lifeline to Museums](https://www.nytimes.com/2020/06/18/arts/masterpiece-london-museums.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
-* [Inquérito da PGR acusa parlamentares de usarem dinheiro público para divulgar atos antidemocráticos](https://oglobo.globo.com/brasil/inquerito-da-pgr-acusa-parlamentares-de-usarem-dinheiro-publico-para-divulgar-atos-antidemocraticos-24491957)
+* [Crise na Saúde do Rio: troca de secretários, corrupção e pedido de impeachment de Witzel, confira a linha do tempo](https://oglobo.globo.com/rio/crise-na-saude-do-rio-troca-de-secretarios-corrupcao-pedido-de-impeachment-de-witzel-confira-linha-do-tempo-24491970)
+* [Inquérito da PGR acusa parlamentares de usarem dinheiro público para divulgar atos antidemocráticos](https://oglobo.globo.com/brasil/inquerito-da-pgr-acusa-parlamentares-de-usarem-dinheiro-publico-para-divulgar-atos-antidemocraticos-1-24491957)
+* [Cota parlamentar foi usada para divulgar atos antidemocráticos nas redes, diz inquérito da PGR](https://oglobo.globo.com/brasil/cota-parlamentar-foi-usada-para-divulgar-atos-antidemocraticos-nas-redes-diz-inquerito-da-pgr-24491950)
 * [Brasil tem 1.087.185 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1087185-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24491955)
 * [Coluna | Contra o ódio](https://epoca.globo.com/colunistas/coluna-contra-odio-24491958)
-* [Cota parlamentar foi usada para divulgar atos antidemocráticos nas redes, diz inquérito da PGR](https://oglobo.globo.com/brasil/cota-parlamentar-foi-usada-para-divulgar-atos-antidemocraticos-nas-redes-diz-inquerito-da-pgr-24491950)
 * ['Queremos parar o serviço': o crescente movimento de entregadores que briga por melhorias e protesta contra Bolsonaro](https://epoca.globo.com/brasil/queremos-parar-servico-crescente-movimento-de-entregadores-que-briga-por-melhorias-protesta-contra-bolsonaro-24491942)
 * [Lei de Segurança Nacional: Por que lei criada na ditadura voltou a ser tão usada em 2020](https://epoca.globo.com/sociedade/lei-de-seguranca-nacional-por-que-lei-criada-na-ditadura-voltou-ser-tao-usada-em-2020-24491923)
 * [Cientistas suspeitam que coronavírus pode desencadear diabetes e agravar quadros pré-existentes](https://epoca.globo.com/sociedade/cientistas-suspeitam-que-coronavirus-pode-desencadear-diabetes-agravar-quadros-pre-existentes-24491917)
-* [Sudeste registra um terço dos acidentes e mortes com caminhões no Brasil](https://epoca.globo.com/guilherme-amado/sudeste-registra-um-terco-dos-acidentes-mortes-com-caminhoes-no-brasil-1-24490068)
 * [Onde é o escritório de Wassef afinal?](https://epoca.globo.com/guilherme-amado/onde-o-escritorio-de-wassef-afinal-24490055)
 * [Em Laranjeiras, encosta preocupa os moradores](https://oglobo.globo.com/rio/bairros/em-laranjeiras-encosta-preocupa-os-moradores-1-24489352)

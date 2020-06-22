@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 03:09:59 UTC
+# indexed at 22/06/2020 03:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -12,11 +12,11 @@ layout: default
 * [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
 * [Video Games Are the Future of Education](https://nabeelqu.co/education)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
-* [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Maersk, Me and NotPetya](https://gvnshtn.com/maersk-me-notpetya/)
+* [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
-* [WireGuard Merged into OpenBSD](https://marc.info/?l=openbsd-cvs&m=159274150512676&w=2)
 * [Preliminary Theory of the In-Group Contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
+* [WireGuard Merged into OpenBSD](https://marc.info/?l=openbsd-cvs&m=159274150512676&w=2)
 * [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 * [Being Alone](https://www.ankit.fyi/being-alone)
 * [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
@@ -24,26 +24,26 @@ layout: default
 * [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [Ask HN: How do you take notes when reading a book?](https://news.ycombinator.com/item?id=23596471)
 * [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
-* [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/a/2811960/18947)
 * [Show HN: Random Roads](https://random-roads--edwardcunningh2.repl.co)
 * [Returning the “killed” RSS of Reuters from the dead](https://codarium.substack.com/p/returning-the-killed-rss-of-reuters)
-* [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
-* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [What Are Optotypes? (2015)](https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/)
-* [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
+* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [Sergey Brin has a secret disaster relief charity](https://www.thedailybeast.com/google-co-founder-sergey-brin-has-a-secret-disaster-relief-squad)
+* [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
 * [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
 * [Logic, Before ICs](https://northcoastsynthesis.com/news/logic-before-ics/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
 * [Regent: A Language for Implicit Dataflow Parallelism](http://regent-lang.org/)
-* [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624)
+* [The Defaults Don't Work](https://moultano.wordpress.com/2020/06/21/the-defaults-dont-work/)
+* [FPBase: The Fluorescent Protein Database](http://fpbase.org)
+* [Paul Erdős in Madras (2019)](https://www.thehindu.com/society/paul-erds-a-legendary-mathematician-in-madras/article28295095.ece)
 ## nytimes.com
 
 
 * [Vast Federal Aid Has Capped Rise in Poverty, Studies Find](https://www.nytimes.com/2020/06/21/us/politics/coronavirus-poverty.html)
 * [8 Hospitals in 15 Hours: A Pregnant Woman’s Crisis in the Pandemic](https://www.nytimes.com/2020/06/21/world/asia/coronavirus-india-hospitals-pregnant.html)
-* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html)
+* [Coronavirus Live News: World Updates](https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html)
 * [For Barr, Standoff With Prosecutor Adds to String of Miscues](https://www.nytimes.com/2020/06/21/us/politics/barr-berman.html)
 * [Trump Poses ‘Danger for the Republic’ if Re-elected, John Bolton Charges](https://www.nytimes.com/2020/06/21/us/bolton-trump.html)
 * [What’s Facebook’s Deal With Donald Trump?](https://www.nytimes.com/2020/06/21/business/media/facebook-donald-trump-mark-zuckerberg.html)
@@ -84,17 +84,17 @@ layout: default
 * [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [Toxic Ghosts](https://www.nytimes.com/2020/06/19/well/live/toxic-ghosts.html)
 * [Spike Lee Saved My Life](https://www.nytimes.com/2020/06/21/movies/spike-lee-police.html)
 * [Elizabeth Alexander on the Spectacle of ‘Black Bodies in Pain’](https://www.nytimes.com/2020/06/19/arts/elizabeth-alexander-george-floyd-video-protests.html)
 * [How to Create Your Own Herbal Tinctures](https://www.nytimes.com/2020/06/17/t-magazine/herbal-tinctures-how-to-make.html)
 * [Comfort Viewing: Why I Still Love ‘Shameless’](https://www.nytimes.com/2020/06/19/arts/television/shameless-showtime.html)
-* [Secrets of the Y Chromosome](https://www.nytimes.com/2018/06/11/health/men-y-chromosome.html)
 * [Happy Father’s Day to All the Fish Dads Underwater](https://www.nytimes.com/article/fathers-day-fish.html)
 * [Copper Won’t Save You From Coronavirus](https://www.nytimes.com/article/copper-coronavirus-masks.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
+* [Secrets of the Y Chromosome](https://www.nytimes.com/2018/06/11/health/men-y-chromosome.html)
 * [What to Cook This Week](https://www.nytimes.com/2020/06/21/dining/what-to-cook-this-week.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
 * [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)

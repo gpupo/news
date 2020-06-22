@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 23:09:21 UTC
+# indexed at 22/06/2020 23:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
 * [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
-* [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
 * [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
+* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
 * [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
+* [Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features)
 * [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [Fast implementation of DeepMind's AlphaZero algorithm in Julia](https://github.com/jonathan-laurent/AlphaZero.jl)
-* [A-Cloud PR/FAQ](https://www.tbray.org/ongoing/When/202x/2020/06/21/A-Cloud-PR-FAQ)
 * [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
 * [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
 * [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Generative Iris](https://mostlymaths.net/2020/06/iris-sketch.html/)
-* [Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features)
+* [Hearing Frederick Douglass: His Speech on John Brown](https://blogs.loc.gov/loc/2020/06/hearing-frederick-douglass-his-speech-on-john-brown/)
+* [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Gitlab 13.1](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
-* [GiveCampus (YC S15) is hiring senior software engineers to help schools](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+* [Generative Iris](https://mostlymaths.net/2020/06/iris-sketch.html/)
 * [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
+* [GiveCampus (YC S15) is hiring senior software engineers to help schools](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 * [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
 * [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
-* [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
-* [Mathematicians urge colleagues to boycott police work in wake of killings](https://www.nature.com/articles/d41586-020-01874-9)
-* [The Emperor of Stones](https://www.archaeology.org/issues/388-2007/digs/8773-digs-sweden-runestone)
+* [A-Cloud PR/FAQ](https://www.tbray.org/ongoing/When/202x/2020/06/21/A-Cloud-PR-FAQ)
 * [Andrew Yang's Data Dividend Project is pushing Big Tech to pay users for data](https://www.theverge.com/2020/6/22/21298919/andrew-yang-big-tech-data-dividend-project-facebook-google-ubi)
-* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
 * [Stuck at home, scientists discover new insect species](https://www.wired.com/story/stuck-at-home-scientists-discover-9-new-insect-species/)
+* [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
 ## nytimes.com
 
 
@@ -88,27 +88,26 @@ layout: default
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
 * [Meanwhile, Some People Are Stress-Shopping Diamond Bracelets](https://www.nytimes.com/2020/06/17/style/online-jewelry-auctions.html)
 * [15 Essential Black Liberation Jazz Tracks](https://www.nytimes.com/2020/06/17/arts/music/black-liberation-jazz.html)
-* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
-* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
+* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
+* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
-* [Joe Biden's V.P. Pick: Who's in the Running](https://www.nytimes.com/article/biden-vice-president-2020.html)
-* [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
-* [TikTok Teens Tank Trump Rally in Tulsa, They Say](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html)
+* [Trump Fired Her Boss. Now She’s Taking Cases That Incensed White House.](https://www.nytimes.com/2020/06/21/nyregion/us-attorney-trump-audrey-strauss.html)
+* [6 Movies That Take Place in a Single Location (Mostly)](https://www.nytimes.com/2020/06/21/movies/single-location-movies-7500.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Após abertura de Trump, Maduro diz estar 'disposto' a encontrar presidente americano](https://oglobo.globo.com/mundo/apos-abertura-de-trump-maduro-diz-estar-disposto-encontrar-presidente-americano-24493011)
+* [Brasil chega a 1.111.348 casos de Covid-19, aponta boletim do consórcio de veículos da imprensa das 20h](https://oglobo.globo.com/sociedade/brasil-chega-1111348-casos-de-covid-19-aponta-boletim-do-consorcio-de-veiculos-da-imprensa-das-20h-24493029)
 * [Conselho Fiscal rejeita proposta de compensação do Rio e pode pedir fim de socorro ao estado](https://oglobo.globo.com/rio/conselho-fiscal-rejeita-proposta-de-compensacao-do-rio-pode-pedir-fim-de-socorro-ao-estado-24493019)
 * [Defesa de Queiroz afirma que Ministério Público sabia de sua localização desde dezembro e 'jamais o procurou'](https://oglobo.globo.com/brasil/defesa-de-queiroz-afirma-que-ministerio-publico-sabia-de-sua-localizacao-desde-dezembro-jamais-procurou-24493047)
-* [Brasil chega a 1.111.348 casos de Covid-19, aponta boletim do consórcio de veículos da imprensa das 20h](https://oglobo.globo.com/sociedade/brasil-chega-1111348-casos-de-covid-19-aponta-boletim-do-consorcio-de-veiculos-da-imprensa-das-20h-24493029)
 * [Apple lança iOS 14, novo sistema operacional do iPhone. Para analistas, objetivo é acirrar competição com Android](https://oglobo.globo.com/economia/apple-lanca-ios-14-novo-sistema-operacional-do-iphone-para-analistas-objetivo-acirrar-competicao-com-android-1-24493009)
 * [Saneamento: BNDES diz que não faltará dinheiro para financiar projetos](https://oglobo.globo.com/economia/saneamento-bndes-diz-que-nao-faltara-dinheiro-para-financiar-projetos-24493060)
 * [Fluminense tem um jogador diagnosticado com Covid-19](https://oglobo.globo.com/esportes/fluminense-tem-um-jogador-diagnosticado-com-covid-19-24493054)
 * [Fred Wassef & Saul Goodman](https://epoca.globo.com/guilherme-amado/fred-wassef-saul-goodman-24493058)
-* [Após abertura de Trump, Maduro diz estar 'disposto' a encontrar presidente americano](https://oglobo.globo.com/mundo/apos-abertura-de-trump-maduro-diz-estar-disposto-encontrar-presidente-americano-24493011)
 * [Em seu primeiro dia como secretário, Mario Frias encontra Sérgio Camargo, da Fundação Palmares](https://oglobo.globo.com/cultura/em-seu-primeiro-dia-como-secretario-mario-frias-encontra-sergio-camargo-da-fundacao-palmares-24492975)
 * [Banco Central vai anunciar novas medidas de combate ao coronavírus](https://oglobo.globo.com/economia/banco-central-vai-anunciar-novas-medidas-de-combate-ao-coronavirus-1-24493017)

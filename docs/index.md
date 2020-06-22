@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 12:13:10 UTC
+# indexed at 22/06/2020 12:34:19 UTC
 
 
 ## news.ycombinator.com
 
 
 * [`BlueLeaks’ Exposes Files from Hundreds of Police Departments](https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/)
+* [MIT 6.001 Structure and Implementation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
+* [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
+* [How the Startup Doordash Got Their First 1000 Customers](https://first1000.substack.com/p/-doordash)
 * [ARM Mac Impact on Intel](https://mondaynote.com/arm-mac-impact-on-intel-9641a8e73dca)
 * [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
-* [MIT 6.001 Structure and Implementation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [New QGIS 3.14 π got support for vector tiles](https://www.maptiler.com/news/2020/06/vector-tiles-in-qgis-3-14/)
-* [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
-* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
 * [The Problem with America’s Lab Mice [video]](https://www.youtube.com/watch?v=ve4q-1D_Ajo)
+* [Wirecard – The “German Enron”, and a personal history](https://valueandopportunity.com/2020/06/19/wirecard-the-german-enron-a-very-personal-history-2008-2020/)
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
-* [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 * [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
-* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
+* [Sat solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
+* [The UK’s contact tracing app fiasco is a master class in mismanagement](https://www.technologyreview.com/2020/06/19/1004190/uk-covid-contact-tracing-app-fiasco/)
 * [The Waypoint NDA](https://waypointnda.com/)
+* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
 * [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
-* [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
 * [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [Being Alone](https://www.ankit.fyi/being-alone)
-* [The UK’s contact tracing app fiasco is a master class in mismanagement](https://www.technologyreview.com/2020/06/19/1004190/uk-covid-contact-tracing-app-fiasco/)
 * [Memory in JavaScript – Beyond Leaks (2019)](https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c)
 * [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
-* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
 * [Ask HN: How to learn to create/draw mental models for programming?](https://news.ycombinator.com/item?id=23598783)
 * [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
-* [Google’s true origin partly lies in gov grants for mass surveillance (2017)](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance/)
+* [An LSD Trip “Off-Switch” May Be Coming Soon](https://www.freethink.com/articles/lsd-trip)
+* [Why Forking HTML into a Static Language Doesn't Make Sense](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html?m=1)
 * [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
 * [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
-* [Why Forking HTML into a Static Language Doesn't Make Sense](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html?m=1)
+* [Google’s true origin partly lies in gov grants for mass surveillance (2017)](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance/)
 * [Preliminary Theory of the In-Group Contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
-* [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 ## nytimes.com
 
 
@@ -83,11 +83,11 @@ layout: default
 * [Why Some State Universities Are Seeing an Influx](https://www.nytimes.com/2020/06/22/us/coronavirus-universities-brain-drain.html)
 * [Gaps in Vetting Visas Allowed Saudi Gunman Into U.S. Pilot Training](https://www.nytimes.com/2020/06/21/us/politics/saudi-gunman-vetting.html)
 * [Political Grip Shaky, Belarus Leader Blames Longtime Ally: Russia](https://www.nytimes.com/2020/06/22/world/europe/belarus-lukashenko-russia.html)
-* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
-* [How to Get Involved, Politically](https://www.nytimes.com/2020/06/09/smarter-living/how-to-get-involved-politically.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [Telemedicine for Home Repairs?](https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Celebrate Father's Day On a Budget](https://www.nytimes.com/2020/06/13/at-home/fathers-day-gifts-coronavirus.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Opera Has Vanished. So Have Their Dream Jobs at the Met.](https://www.nytimes.com/2020/06/19/arts/music/met-opera-orchestra-jobs.html)
 * [Meeting My Father for the First Time](https://www.nytimes.com/2020/06/19/well/family/fathers-day-parents.html)
 * [Extending a Lifeline to Museums](https://www.nytimes.com/2020/06/18/arts/masterpiece-london-museums.html)
@@ -107,12 +107,12 @@ layout: default
 
 
 * [Museu de NY anuncia retirada de estátua de Theodore Roosevelt por simbologia racista](https://oglobo.globo.com/mundo/museu-de-ny-anuncia-retirada-de-estatua-de-theodore-roosevelt-por-simbologia-racista-24491991)
+* [Dólar inicia a semana em queda, negociado abaixo de R$ 5,30](https://oglobo.globo.com/economia/dolar-inicia-semana-em-queda-negociado-abaixo-de-530-24492048)
+* [Gravações revelam como grupos neonazistas atraem adolescentes para movimento internacional](https://epoca.globo.com/mundo/gravacoes-revelam-como-grupos-neonazistas-atraem-adolescentes-para-movimento-internacional-1-24492041)
+* [Crise na Saúde do Rio: troca de secretários, corrupção e pedido de impeachment de Witzel, confira a linha do tempo](https://oglobo.globo.com/rio/crise-na-saude-do-rio-troca-de-secretarios-corrupcao-pedido-de-impeachment-de-witzel-confira-linha-do-tempo-24491970)
 * [Tenente-coronel médico dos Bombeiros será o novo secretário de Saúde do estado](https://oglobo.globo.com/rio/tenente-coronel-medico-dos-bombeiros-sera-novo-secretario-de-saude-do-estado-24491998)
 * [Para aplacar a fome do centrão, coordenação de Saúde Bucal vai para especialista em eventos](https://oglobo.globo.com/brasil/para-aplacar-fome-do-centrao-coordenacao-de-saude-bucal-vai-para-especialista-em-eventos-1-24491850)
-* [Crise na Saúde do Rio: troca de secretários, corrupção e pedido de impeachment de Witzel, confira a linha do tempo](https://oglobo.globo.com/rio/crise-na-saude-do-rio-troca-de-secretarios-corrupcao-pedido-de-impeachment-de-witzel-confira-linha-do-tempo-24491970)
 * ['Depois de 12 semanas, continuo sem forças': a síndrome da fadiga crônica causada pelo coronavírus](https://epoca.globo.com/sociedade/depois-de-12-semanas-continuo-sem-forcas-sindrome-da-fadiga-cronica-causada-pelo-coronavirus-24491985)
 * [Inquérito da PGR acusa parlamentares de usarem dinheiro público para divulgar atos antidemocráticos](https://oglobo.globo.com/brasil/inquerito-da-pgr-acusa-parlamentares-de-usarem-dinheiro-publico-para-divulgar-atos-antidemocraticos-1-24491957)
-* [Brasil tem 1.087.185 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1087185-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24491955)
-* [Coluna | Contra o ódio](https://epoca.globo.com/colunistas/coluna-contra-odio-24491958)
 * [Onde é o escritório de Wassef afinal?](https://epoca.globo.com/guilherme-amado/onde-o-escritorio-de-wassef-afinal-24490055)
 * [Em Laranjeiras, encosta preocupa os moradores](https://oglobo.globo.com/rio/bairros/em-laranjeiras-encosta-preocupa-os-moradores-1-24489352)

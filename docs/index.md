@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/06/2020 05:09:38 UTC
+# indexed at 22/06/2020 05:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Reverse Engineering Snapchat (Part II): Debofuscating the Undeobfuscatable](https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html)
-* [Video Games Are the Future of Education](https://nabeelqu.co/education)
+* [The largest cave owner in the U.S.](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
+* [Ethics in Geo](https://macwright.org/2020/06/21/ethics-in-geo.html)
 * [Show HN: Browservice – Browse the modern web on historical browsers](https://github.com/ttalvitie/browservice)
+* [Video Games Are the Future of Education](https://nabeelqu.co/education)
+* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Maersk, Me and NotPetya](https://gvnshtn.com/maersk-me-notpetya/)
-* [Embed AI into Projects with Nvidia’s Jetson Nano](https://spectrum.ieee.org/geek-life/hands-on/quickly-embed-ai-into-your-projects-with-nvidias-jetson-nano)
-* [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
 * [Bugger: Maybe the real state secret is spies aren't good at their jobs (2013)](https://www.bbc.co.uk/blogs/adamcurtis/entries/3662a707-0af9-3149-963f-47bea720b460)
 * [Being Alone](https://www.ankit.fyi/being-alone)
-* [The Cave Kingpin Buying Up America’s Underground](https://www.outsideonline.com/2414888/john-ackerman-caves-minnesota)
+* [My dad launched the quest to find alien intelligence](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/)
+* [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
 * [Source code of “Delores: A Thimbleweed Park mini-adventure” released](https://grumpygamer.com/delores_dev)
 * [WireGuard Merged into OpenBSD](https://marc.info/?l=openbsd-cvs&m=159274150512676&w=2)
 * [Preliminary Theory of the In-Group Contrarian](https://outsidertheory.com/preliminary-theory-of-the-in-group-contrarian/)
-* [The Waypoint NDA](https://waypointnda.com/)
+* [Nginx UI – Access and modify the Nginx configurations files without CLI](https://github.com/schenkd/nginx-ui)
 * [Shor's Quantum Factoring Algorithm (2017)](https://algassert.com/post/1718)
-* [Ethics in open-source geospatial software](https://macwright.org/2020/06/21/ethics-in-geo.html)
-* [Uber open-sources tool to automatically clean up stale code](https://www.infoq.com/news/2020/06/uber-piranha/)
-* [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
-* [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
+* [The Waypoint NDA](https://waypointnda.com/)
+* [Companies Pitch Shortwave Radio to Shave Milliseconds Off Trades](https://www.bloomberg.com/news/articles/2020-06-17/companies-pitch-shortwave-radio-to-shave-milliseconds-off-trades)
 * [Generating weird cooking recipes with TensorFlow](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md)
+* [Uber open-sources tool to automatically clean up stale code](https://www.infoq.com/news/2020/06/uber-piranha/)
+* [One-fifth of Earth's ocean floor is now mapped](https://www.bbc.com/news/science-environment-53119686)
+* [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition)
+* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
 * [Immersive Light Field Video with a Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/)
-* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [What Are Optotypes? (2015)](https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/)
-* [Returning the “killed” RSS of Reuters from the dead](https://codarium.substack.com/p/returning-the-killed-rss-of-reuters)
-* [DikuMUD 3 Is Released](https://github.com/Seifert69/DikuMUD3)
+* [Corrupt, sparse, irregular and ugly: Deep learning on time series](https://www.notion.so/Corrupt-sparse-irregular-and-ugly-Deep-learning-on-time-series-887b823df439417bb8428a3474d939b3)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [Regent: A Language for Implicit Dataflow Parallelism](http://regent-lang.org/)
-* [The Defaults Don't Work](https://moultano.wordpress.com/2020/06/21/the-defaults-dont-work/)
-* [Bringing an Economic Revolution to Chess](https://marginalrevolution.com/marginalrevolution/2020/05/the-new-economics-of-chess.html)
-* [Deciphering Single-Byte XOR Ciphertexts](https://arpitbhayani.me/blogs/decipher-single-xor)
+* [Returning the “killed” RSS of Reuters from the dead](https://codarium.substack.com/p/returning-the-killed-rss-of-reuters)
 ## nytimes.com
 
 

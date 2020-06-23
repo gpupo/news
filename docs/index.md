@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 10:10:11 UTC
+# indexed at 23/06/2020 10:34:21 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
-* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 * [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
+* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [CERN approves plans for a $23B, 62-mile long super-collider](https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html)
 * [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [Former Wirecard CEO Markus Braun arrested](https://www.dw.com/en/former-wirecard-ceo-markus-braun-arrested/a-53905720)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
-* [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
+* [A Quick Intro to CFEngine](https://cfengine.com/company/blog-detail/how-cfengine-stays-ahead-of-the-pack/)
 * [Ask HN: How to Develop a Growth Mindset?](https://news.ycombinator.com/item?id=23605790)
+* [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
 * [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
-* [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
 * [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
-* [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
+* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
+* [Show HN: Antimander – Optimize Congressional Districts with Genetic Algorithms](https://antimander.org/)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
+* [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
 * [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
-* [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
+* [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
-* [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
-* [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
+* [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
-* [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 ## nytimes.com
 
 
@@ -56,7 +56,7 @@ layout: default
 * [Are Companies More Productive in a Pandemic?](https://www.nytimes.com/2020/06/23/business/working-from-home-productivity.html)
 * [Trump Didn’t ‘Send In the Troops.’ They Were Already There.](https://www.nytimes.com/2020/06/23/magazine/la-riots-1992.html)
 * [N.Y.C. Primary 2020: An Election Day Cheat Sheet](https://www.nytimes.com/2020/06/23/nyregion/nyc-primary-election-voting.html)
-* [A Reckoning for the Democratic Party](https://www.nytimes.com/2020/06/23/podcasts/the-daily/kentucky-democratic-primary.html)
+* [The Battle for the Senate’s Future](https://www.nytimes.com/2020/06/23/podcasts/the-daily/kentucky-democratic-primary.html)
 * [Tech Goliaths Act Like Davids](https://www.nytimes.com/2020/06/22/technology/big-tech-underdogs.html)
 * [André Leon Talley on ‘The Chiffon Trenches’](https://www.nytimes.com/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html)
 * [America Is Too Broken to Fight the Coronavirus](https://www.nytimes.com/2020/06/22/opinion/us-coronavirus-trump.html)
@@ -106,11 +106,11 @@ layout: default
 ## globo.com
 
 
+* [Transplantes de órgãos caem mais de 40% durante a pandemia da Covid-19](https://oglobo.globo.com/sociedade/transplantes-de-orgaos-caem-mais-de-40-durante-pandemia-da-covid-19-24492298)
+* [Com sistema de saúde em colapso na Índia, grávida morre após recusa de atendimento em oito hospitais](https://epoca.globo.com/mundo/com-sistema-de-saude-em-colapso-na-india-gravida-morre-apos-recusa-de-atendimento-em-oito-hospitais-24492381)
+* [Grupo de Sara Giromini previa ser preso antes de acampamento, afirma jornalista infiltrada](https://oglobo.globo.com/brasil/grupo-de-sara-giromini-previa-ser-preso-antes-de-acampamento-afirma-jornalista-infiltrada-24493609)
 * [Coronavírus: por que ocupação de UTIs não é melhor termômetro de gravidade da pandemia](https://epoca.globo.com/sociedade/coronavirus-por-que-ocupacao-de-utis-nao-melhor-termometro-de-gravidade-da-pandemia-24493600)
 * [Testemunha relata que crianças apanhavam e eram castigadas com pimenta na boca na casa de Flordelis](https://oglobo.globo.com/rio/testemunha-relata-que-criancas-apanhavam-eram-castigadas-com-pimenta-na-boca-na-casa-de-flordelis-24493588)
-* [MEC revoga portaria que acabava com incentivo de cotas na pós-graduação](https://oglobo.globo.com/sociedade/mec-revoga-portaria-que-acabava-com-incentivo-de-cotas-na-pos-graduacao-24493578)
-* [Sem Wassef, a nova estratégia da defesa de Flávio Bolsonaro](https://oglobo.globo.com/podcast/sem-wassef-nova-estrategia-da-defesa-de-flavio-bolsonaro-24493387)
-* [Transplantes de órgãos cai mais de 40% durante a pandemia da Covid-19](https://oglobo.globo.com/sociedade/transplantes-de-orgaos-cai-mais-de-40-durante-pandemia-da-covid-19-1-24492298)
 * [Agitado e chorando, Wassef desperta preocupação](https://epoca.globo.com/guilherme-amado/agitado-chorando-wassef-desperta-preocupacao-24493296)
 * [PSL abrirá processo de expulsão contra Eduardo Bolsonaro](https://epoca.globo.com/guilherme-amado/psl-abrira-processo-de-expulsao-contra-eduardo-bolsonaro-24493071)
 * [Como um grupo de mulheres expôs décadas de abuso sexual na gisnástica americana](https://oglobo.globo.com/celina/como-um-grupo-de-mulheres-expos-decadas-de-abuso-sexual-na-gisnastica-americana-1-24492633)

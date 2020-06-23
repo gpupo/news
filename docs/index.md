@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 04:10:30 UTC
+# indexed at 23/06/2020 04:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
-* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
+* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
+* [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
 * [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
+* [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
 * [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
-* [Show HN: Tokei 12 – A fast and accurate code analysis tool](https://github.com/XAMPPRocky/tokei/releases/tag/v12.0.0)
-* [Ego Graphs](https://adsp.ai/articles/google-vs-trick/)
-* [A Google for Components](https://www.eejournal.com/article/a-google-for-components/)
+* [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
 * [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
-* [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
-* [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
-* [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
-* [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
+* [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
-* [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
+* [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 * [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
 * [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
+* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
 * [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
-* [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
+* [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 * [Unreal Engine 4 .NET Core integration](https://github.com/nxrighthere/UnrealCLR)
-* [Draftbit (YC W18) Is Hiring Senior Engineers – Reason, GraphQL, React Native](https://draftbit.com/jobs/senior-software-engineer)
+* [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
+* [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
+* [Gitlab 13.1](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
+* [Containers the hard way: Gocker: A mini Docker written in Go](https://github.com/shuveb/containers-the-hard-way)
 ## nytimes.com
 
 
@@ -81,17 +81,17 @@ layout: default
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
 * [Coronavirus Finally Comes to ‘Coronation Street’](https://www.nytimes.com/2020/06/22/world/europe/coronation-street-coronavirus.html)
 * [The Language of Friendship, as Heard in a Dublin Pub](https://www.nytimes.com/2020/06/22/books/review/roddy-doyle-love.html)
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
 * [Meanwhile, Some People Are Stress-Shopping Diamond Bracelets](https://www.nytimes.com/2020/06/17/style/online-jewelry-auctions.html)
 * [15 Essential Black Liberation Jazz Tracks](https://www.nytimes.com/2020/06/17/arts/music/black-liberation-jazz.html)
-* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
-* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
+* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
+* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [Spicy Pork Kebabs, Fast Enough for a Weeknight](https://www.nytimes.com/2020/06/22/dining/pork-kebabs-recipe.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [Joe Biden's V.P. Pick: Who's in the Running](https://www.nytimes.com/article/biden-vice-president-2020.html)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 01:10:49 UTC
+# indexed at 23/06/2020 01:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
-* [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
+* [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
-* [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
+* [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
-* [Draftbit (YC W18) Is Hiring Senior Engineers – Reason, GraphQL, React Native](https://draftbit.com/jobs/senior-software-engineer)
-* [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
-* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
-* [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
 * [Unreal Engine 4 .NET Core integration](https://github.com/nxrighthere/UnrealCLR)
+* [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
+* [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
+* [Draftbit (YC W18) Is Hiring Senior Engineers – Reason, GraphQL, React Native](https://draftbit.com/jobs/senior-software-engineer)
+* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
 * [Fast implementation of DeepMind's AlphaZero algorithm in Julia](https://github.com/jonathan-laurent/AlphaZero.jl)
-* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
-* [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [MIT 6.001 Structure and Interpretation (1986) [video]](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+* [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
+* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
+* [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
 * [Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features)
-* [Japan Captures TOP500 Crown with Arm-Powered Supercomputer](https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/)
+* [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
 * [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
 * [Hearing Frederick Douglass: His Speech on John Brown](https://blogs.loc.gov/loc/2020/06/hearing-frederick-douglass-his-speech-on-john-brown/)
+* [Show HN: VPN with automatic region routing, port-forwarding and custom filtering](https://www.oeck.com)
+* [Rust concurrency: the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
 * [The US military is getting serious about nuclear thermal propulsion](https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/)
 * [Gitlab 13.1](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
 * [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
 * [Stuck at home, scientists discover new insect species](https://www.wired.com/story/stuck-at-home-scientists-discover-9-new-insect-species/)
-* [Andrew Yang's Data Dividend Project is pushing Big Tech to pay users for data](https://www.theverge.com/2020/6/22/21298919/andrew-yang-big-tech-data-dividend-project-facebook-google-ubi)
-* [Porting GW-Basic for the Z80](https://tia.mat.br/posts/2020/06/21/converting-gwbasic-to-z80.html)
 ## nytimes.com
 
 
@@ -80,20 +80,20 @@ layout: default
 * [Why a Rotting Green Bay Boardwalk May Help Solve America’s Jobs Crisis](https://www.nytimes.com/2020/06/22/business/economy/americans-public-works-jobs-coronavirus.html)
 * [Mixed Signals on Israeli Annexation Reflect Split Among Officials](https://www.nytimes.com/2020/06/22/world/middleeast/israel-annexation-trump-kushner.html)
 * [Bill Simmons Plays Defense on Diversity at The Ringer](https://www.nytimes.com/2020/06/22/business/media/bill-simmons-the-ringer-black-employees.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [When Couples Fight About Virus Risks](https://www.nytimes.com/2020/05/26/parenting/coronavirus-risks-activities.html)
-* [How to Tell if It’s More Than Just a Bad Mood](https://www.nytimes.com/2020/05/21/well/coronavirus-depression.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
+* [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
 * [Coronavirus Finally Comes to ‘Coronation Street’](https://www.nytimes.com/2020/06/22/world/europe/coronation-street-coronavirus.html)
 * [The Language of Friendship, as Heard in a Dublin Pub](https://www.nytimes.com/2020/06/22/books/review/roddy-doyle-love.html)
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
 * [Meanwhile, Some People Are Stress-Shopping Diamond Bracelets](https://www.nytimes.com/2020/06/17/style/online-jewelry-auctions.html)
 * [15 Essential Black Liberation Jazz Tracks](https://www.nytimes.com/2020/06/17/arts/music/black-liberation-jazz.html)
-* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
-* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
+* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
+* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [Joe Biden's V.P. Pick: Who's in the Running](https://www.nytimes.com/article/biden-vice-president-2020.html)
 * [Trump’s Tulsa Rally Fizzles as Seats Go Empty](https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html)
@@ -104,7 +104,8 @@ layout: default
 ## globo.com
 
 
-* [Três em cada dez jovens pensam em largar escola após pandemia do coronavírus, diz pesquisa](https://oglobo.globo.com/sociedade/tres-em-cada-dez-jovens-pensam-em-largar-escola-apos-pandemia-do-coronavirus-diz-pesquisa-24493252)
+* [Três em cada dez jovens pensam em largar escola após pandemia do coronavírus, diz pesquisa](https://oglobo.globo.com/sociedade/tres-em-cada-dez-jovens-pensam-em-largar-escola-apos-pandemia-do-coronavirus-diz-pesquisa-1-24493252)
+* [STJD adia decisão sobre pedido de Botafogo e Fluminense para esta terça-feira](https://oglobo.globo.com/esportes/stjd-adia-decisao-sobre-pedido-de-botafogo-fluminense-para-esta-terca-feira-24493353)
 * [Joel Schumacher: onde assistir a 'Um dia de fúria', 'Tempo de matar' e outros sucessos do diretor](https://oglobo.globo.com/rioshow/joel-schumacher-onde-assistir-um-dia-de-furia-tempo-de-matar-outros-sucessos-do-diretor-24493292)
 * [Oito capitais brasileiras não estavam prontas para flexibilizar o isolamento social, aponta pesquisa de Oxford](https://oglobo.globo.com/sociedade/oito-capitais-brasileiras-nao-estavam-prontas-para-flexibilizar-isolamento-social-aponta-pesquisa-de-oxford-24493152)
 * [Advogada Marielle Brito investe em capacitação para vencer a crise com auxílio da tecnologia](https://oglobo.globo.com/economia/tecnologia/advogada-marielle-brito-investe-em-capacitacao-para-vencer-crise-com-auxilio-da-tecnologia-24493274)
@@ -113,4 +114,3 @@ layout: default
 * [Dois seguranças morrem e dois ficam feridos em roubo a centro de distribuição em Caxias](https://oglobo.globo.com/rio/dois-segurancas-morrem-dois-ficam-feridos-em-roubo-centro-de-distribuicao-em-caxias-24493172)
 * [Brasil chega a 1.111.348 casos de Covid-19, aponta boletim do consórcio de veículos da imprensa das 20h](https://oglobo.globo.com/sociedade/brasil-chega-1111348-casos-de-covid-19-aponta-boletim-do-consorcio-de-veiculos-da-imprensa-das-20h-24493029)
 * [Defesa de Queiroz afirma que Ministério Público sabia de sua localização desde dezembro e 'jamais o procurou'](https://oglobo.globo.com/brasil/defesa-de-queiroz-afirma-que-ministerio-publico-sabia-de-sua-localizacao-desde-dezembro-jamais-procurou-24493047)
-* [Saneamento: BNDES diz que não faltará dinheiro para financiar projetos](https://oglobo.globo.com/economia/saneamento-bndes-diz-que-nao-faltara-dinheiro-para-financiar-projetos-24493060)

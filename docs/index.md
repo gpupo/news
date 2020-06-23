@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 15:10:54 UTC
+# indexed at 23/06/2020 15:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [I Just Hit $100k/yr On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
-* [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
+* [Making Blurry Faces Photorealistic Goes Only So Far](https://spectrum.ieee.org/tech-talk/computing/software/making-blurry-faces-photorealistic-goes-only-so-far)
 * [Nanoplastics can accumulate in plants and affect sustainability and food safety](https://sci-hub.tw/10.1038/s41565-020-0707-4)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
+* [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
 * [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
+* [Part II: After 3 years of work, Chrome killed my extension and won’t tell me why](https://blog.lipsurf.com/part-ii-after-3-years-of-work-chrome-killed-my-extension-and-wont-tell-me-why/)
 * [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
 * [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
-* [Part II: After 3 Years of Work, Chrome Killed My Extension and Won’t Tell Me Why](https://blog.lipsurf.com/part-ii-after-3-years-of-work-chrome-killed-my-extension-and-wont-tell-me-why/)
-* [We’ve decided to rename Riot](https://blog.riot.im/the-world-is-changing/)
 * [Show HN: CloudSkew – Draw AWS, Azure, GCP, K8s architecture diagrams](https://www.cloudskew.com/)
+* [Simulating Hydraulic Erosion](https://jobtalle.com/simulating_hydraulic_erosion.html)
+* [Awk-JVM is a toy JVM in Awk](https://github.com/rethab/awk-jvm)
+* [We’ve decided to rename Riot](https://blog.riot.im/the-world-is-changing/)
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
-* [Simulating Hydraulic Erosion](https://jobtalle.com/simulating_hydraulic_erosion.html)
 * [CERN approves plans for a $23B, 62-mile long super-collider](https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [Former Wirecard CEO Markus Braun arrested](https://www.dw.com/en/former-wirecard-ceo-markus-braun-arrested/a-53905720)
 * [Ask HN: How are you holding up?](https://news.ycombinator.com/item?id=23612950)
-* [Awk-JVM is a toy JVM in Awk](https://github.com/rethab/awk-jvm)
-* [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [Superhuman’s email app is overhyped and overpriced](https://www.theverge.com/21299681/superhuman-email-app-review-price-gmail-iphone-mac)
-* [No more system shared libraries in macOS 11](https://twitter.com/mycoliza/status/1275305517066227712)
+* [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [Show HN: Antimander – Optimize Congressional Districts with Genetic Algorithms](https://antimander.org/)
+* [My Family Saw a Police Car Hit a Kid. Then I Learned How NYPD Impunity Works](https://www.propublica.org/article/my-family-saw-a-police-car-hit-a-kid-on-halloween-then-i-learned-how-nypd-impunity-works)
 * [The Digital Maginot Line (2018)](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/)
 * [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
 * [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
 * [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
-* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
-* [Ask HN: How to Develop a Growth Mindset?](https://news.ycombinator.com/item?id=23605790)
+* [No more system shared libraries in macOS 11](https://twitter.com/mycoliza/status/1275305517066227712)
 ## nytimes.com
 
 
@@ -84,11 +84,11 @@ layout: default
 * [Bolton Assaults Trump From the Right, and Takes Fire From All Directions](https://www.nytimes.com/2020/06/23/us/politics/john-bolton-interview-trump.html)
 * [The C.I.A.’s Business Is Secrets, but It Is Recruiting Spies in the Open](https://www.nytimes.com/2020/06/22/us/politics/cia-recruiting-ad.html)
 * [Square, Jack Dorsey’s Pay Service, Is Withholding Money Merchants Say They Need](https://www.nytimes.com/2020/06/23/technology/square-jack-dorsey-pandemic-withholding.html)
-* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [What Can We Learn From Swimmers of a Certain Age?](https://www.nytimes.com/2020/06/22/well/swimming-resilience-aging.html)
-* [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
 * [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
+* [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [What Can We Learn From Swimmers of a Certain Age?](https://www.nytimes.com/2020/06/22/well/swimming-resilience-aging.html)
 * [Theater Kids Trade a Big Stage for Highlight Tapes and Heartache](https://www.nytimes.com/2020/06/17/theater/virtual-international-thespian-festival.html)
 * [Basketball and Barkley Hendricks: The Lesser Known Work of an Influential Artist](https://www.nytimes.com/2020/06/23/sports/Barkley-Hendricks-jack-shainman-gallery.html)
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
+* [Cotado para o MEC se reúne com Bolsonaro e diz que ele é 'estadista'](https://oglobo.globo.com/sociedade/cotado-para-mec-se-reune-com-bolsonaro-diz-que-ele-estadista-24494025)
+* ['30 Rock' tem episódios com blackface tirados do ar, após pedido de Tina Fey](https://oglobo.globo.com/cultura/30-rock-tem-episodios-com-blackface-tirados-do-ar-apos-pedido-de-tina-fey-24494020)
+* [EUA insistem em incluir China em negociação para renovar tratado sobre armas nucleares com Rússia](https://oglobo.globo.com/mundo/eua-insistem-em-incluir-china-em-negociacao-para-renovar-tratado-sobre-armas-nucleares-com-russia-24493947)
+* [Juiz federal desbloqueia bens de empresa do coronel Lima, amigo de Temer alvo de investigação](https://oglobo.globo.com/brasil/juiz-federal-desbloqueia-bens-de-empresa-do-coronel-lima-amigo-de-temer-alvo-de-investigacao-24494016)
+* [MP ajuíza ação por improbidade contra Gabriell Neves e servidoras da secretaria de Saúde do Rio](https://oglobo.globo.com/rio/mp-ajuiza-acao-por-improbidade-contra-gabriell-neves-servidoras-da-secretaria-de-saude-do-rio-1-24493971)
 * [Estudo da prefeitura indica que SP pode ter 10 vezes mais infectados pelo coronavírus](https://oglobo.globo.com/sociedade/estudo-da-prefeitura-indica-que-sp-pode-ter-10-vezes-mais-infectados-pelo-coronavirus-24493988)
-* [MP ajuíza ação por improbidade contra Gabriell Neves e servidoras da secretaria de Saúde do Rio](https://oglobo.globo.com/rio/mp-ajuiza-acao-por-improbidade-contra-gabriell-neves-servidoras-da-secretaria-de-saude-do-rio-24493971)
 * [O que é a 'nuvem de poeira Godzilla', que viaja 10 mil km do Saara para as Américas](https://epoca.globo.com/sociedade/o-que-a-nuvem-de-poeira-godzilla-que-viaja-10-mil-km-do-saara-para-as-americas-24494000)
 * [Militares indianos e chineses concordam em reduzir tensões em região disputada do Himalaia](https://oglobo.globo.com/mundo/militares-indianos-chineses-concordam-em-reduzir-tensoes-em-regiao-disputada-do-himalaia-24493958)
 * [Quase 260 milhões de crianças e jovens não tiveram acesso à educação em 2018, aponta Unesco](https://oglobo.globo.com/sociedade/quase-260-milhoes-de-criancas-jovens-nao-tiveram-acesso-educacao-em-2018-aponta-unesco-24493970)
-* [EUA insistem em incluir China em negociação para renovar tratado sobre armas nucleares com Rússia](https://oglobo.globo.com/mundo/eua-insistem-em-incluir-china-em-negociacao-para-renovar-tratado-sobre-armas-nucleares-com-russia-24493947)
-* [Nissan demite quase 400 trabalhadores em fábrica de Resende](https://oglobo.globo.com/economia/nissan-demite-quase-400-trabalhadores-em-fabrica-de-resende-1-24493907)
 * [Escola onde William e Harry estudaram pede desculpas a escritor nigeriano por racismo sofrido na instituição](https://oglobo.globo.com/celina/escola-onde-william-harry-estudaram-pede-desculpas-escritor-nigeriano-por-racismo-sofrido-na-instituicao-1-24493940)
-* ['É terrível ser velho na Suécia': 88% dos idosos com Covid-19 morreram sem cuidados hospitalares](https://epoca.globo.com/e-terrivel-ser-velho-na-suecia-88-dos-idosos-com-covid-19-morreram-sem-cuidados-hospitalares-24493914)
-* [Planalto se recusa a responder se Wassef já atuou como advogado de Bolsonaro](https://oglobo.globo.com/brasil/planalto-se-recusa-responder-se-wassef-ja-atuou-como-advogado-de-bolsonaro-24493746)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 16:10:25 UTC
+# indexed at 23/06/2020 16:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [I Just Hit $100k/yr On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [Linux Touchpad Like a MacBook update: progress on multitouch](https://bill.harding.blog/2020/06/22/linux-touchpad-project-update-progress-on-multitouch/)
-* [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
+* [Amazon Announces $2B Fund to Invest in Climate Tech Companies](https://press.aboutamazon.com/news-releases/news-release-details/amazon-announces-2-billion-climate-pledge-fund-invest-companies)
 * [Go vs. Crystal Performance](https://ptimofeev.com/go-vs-crystal-perfomance/)
+* [What ‘Less Lethal’ Weapons Do](https://www.scientificamerican.com/article/what-less-lethal-weapons-actually-do/)
+* [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 * [Making Blurry Faces Photorealistic Goes Only So Far](https://spectrum.ieee.org/tech-talk/computing/software/making-blurry-faces-photorealistic-goes-only-so-far)
-* [Part II: After 3 years of work, Chrome killed my extension and won’t tell me why](https://blog.lipsurf.com/part-ii-after-3-years-of-work-chrome-killed-my-extension-and-wont-tell-me-why/)
+* [Andrew Ng: The suspension of H1B is bad for the US and bad for innovation](https://twitter.com/AndrewYNg/status/1275250038898212865)
 * [Nanoplastics can accumulate in plants and affect sustainability and food safety](https://sci-hub.tw/10.1038/s41565-020-0707-4)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
-* [Andrew Ng: The suspension of H1B is bad for the US and bad for innovation](https://twitter.com/AndrewYNg/status/1275250038898212865)
 * [Awk-JVM is a toy JVM in Awk](https://github.com/rethab/awk-jvm)
 * [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
-* [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
-* [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
-* [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
-* [What ‘Less Lethal’ Weapons Do](https://www.scientificamerican.com/article/what-less-lethal-weapons-actually-do/)
-* [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
-* [Dungeon Scrawl – Create old school maps in minutes](https://dungeonscrawl.com/)
+* [Incestuous kings may have built Ireland’s Newgrange passage tomb](https://arstechnica.com/science/2020/06/incestuous-kings-may-have-built-irelands-newgrange-passage-tomb/)
+* [Chrome killed my extension and won’t tell me why](https://blog.lipsurf.com/part-ii-after-3-years-of-work-chrome-killed-my-extension-and-wont-tell-me-why/)
 * [My Family Saw a Police Car Hit a Kid. Then I Learned How NYPD Impunity Works](https://www.propublica.org/article/my-family-saw-a-police-car-hit-a-kid-on-halloween-then-i-learned-how-nypd-impunity-works)
+* [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
+* [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
+* [Dungeon Scrawl – Create old school maps in minutes](https://dungeonscrawl.com/)
+* [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
+* [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
+* [We’ve decided to rename Riot](https://blog.riot.im/the-world-is-changing/)
 * [Show HN: CloudSkew – Draw AWS, Azure, GCP, K8s architecture diagrams](https://www.cloudskew.com/)
 * [Simulating Hydraulic Erosion](https://jobtalle.com/simulating_hydraulic_erosion.html)
-* [We’ve decided to rename Riot](https://blog.riot.im/the-world-is-changing/)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 * [Trump suspends H1B and non-immigrant visas](https://www.nytimes.com/2020/06/22/us/politics/trump-h1b-work-visas.html)
 * [CERN approves plans for a $23B, 62-mile long super-collider](https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html)
 * [Former Wirecard CEO Markus Braun arrested](https://www.dw.com/en/former-wirecard-ceo-markus-braun-arrested/a-53905720)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
-* [Ask HN: How are you holding up?](https://news.ycombinator.com/item?id=23612950)
-* [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [Superhuman’s email app is overhyped and overpriced](https://www.theverge.com/21299681/superhuman-email-app-review-price-gmail-iphone-mac)
 ## nytimes.com
 
@@ -71,7 +71,7 @@ layout: default
 * [Gen Z Will Not Save Us](https://www.nytimes.com/2020/06/22/opinion/trump-protest-gen-z.html)
 * [Sex Does Not Mean Gender. Equating Them Erases Trans Lives.](https://www.nytimes.com/2020/06/23/opinion/trans-gender-language-trump.html)
 * [The States Come Back. The Virus Never Left.](https://www.nytimes.com/2020/06/23/opinion/letters/coronavirus-reopening-states.html)
-* [The U.S. State Department of Racial Discrimination](https://www.nytimes.com/2020/06/23/opinion/state-department-racism-diversity.html)
+* [The State Department Was Designed to Keep African-Americans Out](https://www.nytimes.com/2020/06/23/opinion/state-department-racism-diversity.html)
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
 * [How a Writer With a Ph.D. in Psychology Became a Poker Champ](https://www.nytimes.com/2020/06/23/books/review/maria-konnikova-the-biggest-bluff.html)
 * [Tennessee Newspaper Fires Advertising Manager After Anti-Muslim Ad](https://www.nytimes.com/2020/06/22/business/media/tennessean-ad-manager-fired.html)
@@ -83,11 +83,11 @@ layout: default
 * [Bolton Assaults Trump From the Right, and Takes Fire From All Directions](https://www.nytimes.com/2020/06/23/us/politics/john-bolton-interview-trump.html)
 * [The C.I.A.’s Business Is Secrets, but It Is Recruiting Spies in the Open](https://www.nytimes.com/2020/06/22/us/politics/cia-recruiting-ad.html)
 * [Square, Jack Dorsey’s Pay Service, Is Withholding Money Merchants Say They Need](https://www.nytimes.com/2020/06/23/technology/square-jack-dorsey-pandemic-withholding.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
-* [How to End Pandemic Fights With Your Partner](https://www.nytimes.com/2020/06/08/well/family/marriage-relationships-fighting-couples-quarantine.html)
-* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [In Defense of a Good Cry, and Other Options for ‘Losing It’](https://www.nytimes.com/2020/05/07/smarter-living/coronavirus-losing-control.html)
-* [Making Home Safe for Kids This Summer](https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
+* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
+* [How to Create an Outdoor Room](https://www.nytimes.com/2020/06/23/realestate/how-to-create-an-outdoor-room-california-room-patio.html)
 * [Don’t Forget That Joel Schumacher Briefly Saved Batman](https://www.nytimes.com/2020/06/23/movies/joel-schumacher-batman.html)
 * [Basketball and Barkley Hendricks: The Lesser Known Work of an Influential Artist](https://www.nytimes.com/2020/06/23/sports/Barkley-Hendricks-jack-shainman-gallery.html)
 * [Theater Kids Trade a Big Stage for Highlight Tapes and Heartache](https://www.nytimes.com/2020/06/17/theater/virtual-international-thespian-festival.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
+* [Brasil tem 1.117.430 casos de Covid-19, indica consórcio de veículos da imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-1117430-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-no-boletim-das-13h-24494053)
+* [São Paulo bate novo recorde de mortes por coronavírus: 434 vítimas em 24 horas](https://oglobo.globo.com/sociedade/sao-paulo-bate-novo-recorde-de-mortes-por-coronavirus-434-vitimas-em-24-horas-24494089)
+* [Nova Rota da Seda: como a pandemia de coronavírus ameaça a maior iniciativa de política externa da China](https://epoca.globo.com/mundo/nova-rota-da-seda-como-pandemia-de-coronavirus-ameaca-maior-iniciativa-de-politica-externa-da-china-24494090)
 * [Funcionários de saúde recebem ameaças de morte por recomendar uso de máscaras e isolamento nos EUA](https://oglobo.globo.com/mundo/funcionarios-de-saude-recebem-ameacas-de-morte-por-recomendar-uso-de-mascaras-isolamento-nos-eua-24493840)
+* [Indiano com suspeita de coronavírus morre após família desplugar respirador para ligar ar-condicionado](https://epoca.globo.com/mundo/indiano-com-suspeita-de-coronavirus-morre-apos-familia-desplugar-respirador-para-ligar-ar-condicionado-24494041)
 * [Se a mulher for presa, Queiroz fala?](https://oglobo.globo.com/analitico/se-mulher-for-presa-queiroz-fala-24494031)
 * [Entrevista: Cotado para o MEC se reúne com Bolsonaro e diz que ele é 'estadista'](https://oglobo.globo.com/sociedade/entrevista-cotado-para-mec-se-reune-com-bolsonaro-diz-que-ele-estadista-24494025)
-* [EUA insistem em incluir China em negociação para renovar tratado sobre armas nucleares com Rússia](https://oglobo.globo.com/mundo/eua-insistem-em-incluir-china-em-negociacao-para-renovar-tratado-sobre-armas-nucleares-com-russia-24493947)
 * [Sem festa junina nas praças, restaurantes e pequenos empresários montam kits para 'arraiá' em casa](https://oglobo.globo.com/economia/apoieonegociolocal/sem-festa-junina-nas-pracas-restaurantes-pequenos-empresarios-montam-kits-para-arraia-em-casa-24492039)
 * ['30 Rock' tem episódios com blackface tirados do ar, após pedido de Tina Fey](https://oglobo.globo.com/cultura/30-rock-tem-episodios-com-blackface-tirados-do-ar-apos-pedido-de-tina-fey-24494020)
 * [Juiz federal desbloqueia bens de empresa do coronel Lima, amigo de Temer alvo de investigação](https://oglobo.globo.com/brasil/juiz-federal-desbloqueia-bens-de-empresa-do-coronel-lima-amigo-de-temer-alvo-de-investigacao-24494016)
-* [O que é a 'nuvem de poeira Godzilla', que viaja 10 mil km do Saara para as Américas](https://epoca.globo.com/sociedade/o-que-a-nuvem-de-poeira-godzilla-que-viaja-10-mil-km-do-saara-para-as-americas-24494000)
-* [Militares indianos e chineses concordam em reduzir tensões em região disputada do Himalaia](https://oglobo.globo.com/mundo/militares-indianos-chineses-concordam-em-reduzir-tensoes-em-regiao-disputada-do-himalaia-24493958)
-* [Quase 260 milhões de crianças e jovens não tiveram acesso à educação em 2018, aponta Unesco](https://oglobo.globo.com/sociedade/quase-260-milhoes-de-criancas-jovens-nao-tiveram-acesso-educacao-em-2018-aponta-unesco-24493970)

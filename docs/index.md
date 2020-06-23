@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 18:10:38 UTC
+# indexed at 23/06/2020 18:34:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
+* [The End of OS X](https://stratechery.com/2020/the-end-of-os-x/)
 * [Linux Touchpad Like a MacBook update: progress on multitouch](https://bill.harding.blog/2020/06/22/linux-touchpad-project-update-progress-on-multitouch/)
 * [Goldman Sans](https://design.gs.com/d/story/goldman-sans/)
-* [Go vs. Crystal Performance](https://ptimofeev.com/go-vs-crystal-perfomance/)
-* [Red Hat reports security issue in Linux Kernel which was fixed 17 months prior](https://www.openwall.com/lists/oss-security/2020/06/23/2)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
-* [Dungeon Scrawl – Create old school maps in minutes](https://dungeonscrawl.com/)
-* [Intel to Use Nanowire/Nanoribbon Transistors in Volume ‘In Five Years’](https://www.anandtech.com/show/15865/intel-to-use-nanowirenanoribbon-transistors-in-volume-in-five-years)
-* [Nanoplastics can accumulate in plants and affect sustainability and food safety](https://sci-hub.tw/10.1038/s41565-020-0707-4)
-* [Snapchat adds free phone number verification to its list of SDK perks](https://techcrunch.com/2020/06/23/snapchat-adds-free-phone-number-verification-to-its-list-of-sdk-perks/)
-* [Awk-JVM is a toy JVM in Awk](https://github.com/rethab/awk-jvm)
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
-* [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
-* [My Family Saw a Police Car Hit a Kid. Then I Learned How NYPD Impunity Works](https://www.propublica.org/article/my-family-saw-a-police-car-hit-a-kid-on-halloween-then-i-learned-how-nypd-impunity-works)
-* [Welcoming Safari to the WebExtensions Community](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
-* [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
-* [The End of OS X](https://stratechery.com/2020/the-end-of-os-x/)
+* [Red Hat reports security issue in Linux Kernel which was fixed 17 months prior](https://www.openwall.com/lists/oss-security/2020/06/23/2)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
-* [Making Blurry Faces Photorealistic Goes Only So Far](https://spectrum.ieee.org/tech-talk/computing/software/making-blurry-faces-photorealistic-goes-only-so-far)
-* [Simulating Hydraulic Erosion](https://jobtalle.com/simulating_hydraulic_erosion.html)
-* [Incestuous kings may have built Ireland’s Newgrange passage tomb](https://arstechnica.com/science/2020/06/incestuous-kings-may-have-built-irelands-newgrange-passage-tomb/)
+* [Dungeon Scrawl – Create old school maps in minutes](https://dungeonscrawl.com/)
+* [Go vs. Crystal Performance](https://ptimofeev.com/go-vs-crystal-perfomance/)
+* [Intel to Use Nanowire/Nanoribbon Transistors in Volume ‘In Five Years’](https://www.anandtech.com/show/15865/intel-to-use-nanowirenanoribbon-transistors-in-volume-in-five-years)
+* [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
+* [Nanoplastics can accumulate in plants and affect sustainability and food safety](https://sci-hub.tw/10.1038/s41565-020-0707-4)
+* [On Contact Tracing and Hardware Tokens](https://www.bunniestudios.com/blog/?p=5820)
+* [Awk-JVM is a toy JVM in Awk](https://github.com/rethab/awk-jvm)
+* [Snapchat adds free phone number verification to its list of SDK perks](https://techcrunch.com/2020/06/23/snapchat-adds-free-phone-number-verification-to-its-list-of-sdk-perks/)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
+* [Welcoming Safari to the WebExtensions Community](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
+* [My Family Saw a Police Car Hit a Kid. Then I Learned How NYPD Impunity Works](https://www.propublica.org/article/my-family-saw-a-police-car-hit-a-kid-on-halloween-then-i-learned-how-nypd-impunity-works)
+* [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
+* [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
+* [Simulating Hydraulic Erosion](https://jobtalle.com/simulating_hydraulic_erosion.html)
 * [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
-* [Chrome killed my extension and won’t tell me why](https://blog.lipsurf.com/part-ii-after-3-years-of-work-chrome-killed-my-extension-and-wont-tell-me-why/)
+* [California sets Covid-19 daily record, Bay Area cumulative total passes 20k](https://www.eastbaytimes.com/2020/06/23/coronavirus-california-sets-another-daily-record-as-bay-area-surges-past-20000-cases/)
+* [Incestuous kings may have built Ireland’s Newgrange passage tomb](https://arstechnica.com/science/2020/06/incestuous-kings-may-have-built-irelands-newgrange-passage-tomb/)
 * [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
+* [Chrome killed my extension and won’t tell me why](https://blog.lipsurf.com/part-ii-after-3-years-of-work-chrome-killed-my-extension-and-wont-tell-me-why/)
+* [Making Blurry Faces Photorealistic Goes Only So Far](https://spectrum.ieee.org/tech-talk/computing/software/making-blurry-faces-photorealistic-goes-only-so-far)
 * [Show HN: CloudSkew – Draw AWS, Azure, GCP, K8s architecture diagrams](https://www.cloudskew.com/)
-* [Amazon Announces $2B Fund to Invest in Climate Tech Companies](https://press.aboutamazon.com/news-releases/news-release-details/amazon-announces-2-billion-climate-pledge-fund-invest-companies)
 * [macOS 11: copies of dynamic libraries are no longer present on the file system](https://twitter.com/mycoliza/status/1275305517066227712)
-* [We’ve decided to rename Riot](https://blog.riot.im/the-world-is-changing/)
-* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 ## nytimes.com
 
 
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
-* [Brasileiros serão barrados na Europa por altas taxas de infecção por Covid-19, mostra lista obtida pelo NYT](https://oglobo.globo.com/mundo/brasileiros-serao-barrados-na-europa-por-altas-taxas-de-infeccao-por-covid-19-mostra-lista-obtida-pelo-nyt-24494263)
-* [Senado vota proposta que adia eleições para 15 e 29 de novembro](https://oglobo.globo.com/brasil/senado-vota-proposta-que-adia-eleicoes-para-15-29-de-novembro-24494270)
+* [O que há em comum entre Bolsonaro e Witzel](https://oglobo.globo.com/analitico/o-que-ha-em-comum-entre-bolsonaro-witzel-24494304)
+* ['Jurassic Park' e 'Tubarão' lideram bilheteria nos cinemas americanos](https://oglobo.globo.com/cultura/jurassic-park-tubarao-lideram-bilheteria-nos-cinemas-americanos-24494339)
+* [Senado vota proposta que adia eleições para 15 e 29 de novembro](https://oglobo.globo.com/brasil/senado-vota-proposta-que-adia-eleicoes-para-15-29-de-novembro-1-24494270)
+* [Setor elétrico terá socorro de R$ 16,1 bi, pago nas contas de luz](https://oglobo.globo.com/economia/setor-eletrico-tera-socorro-de-161-bi-pago-nas-contas-de-luz-24494329)
+* [Endividamento das famílias brasileiras na pandemia já é maior do que na crise de 2014](https://oglobo.globo.com/economia/endividamento-das-familias-brasileiras-na-pandemia-ja-maior-do-que-na-crise-de-2014-24494335)
+* [Por que a bolsa sobe se a economia ainda não dá sinais de recuperação?](https://epoca.globo.com/economia/por-que-bolsa-sobe-se-economia-ainda-nao-da-sinais-de-recuperacao-24494324)
+* ['Ele estava vivendo o sonho de criança', diz mãe de paraquedista de 19 anos morto no Rio](https://epoca.globo.com/sociedade/ele-estava-vivendo-sonho-de-crianca-diz-mae-de-paraquedista-de-19-anos-morto-no-rio-24493987)
+* [PSOL pede esclarecimentos ao ministro da Justiça sobre tentativa da PF de cancelar operação contra bolsonaristas](https://oglobo.globo.com/brasil/psol-pede-esclarecimentos-ao-ministro-da-justica-sobre-tentativa-da-pf-de-cancelar-operacao-contra-bolsonaristas-1-24494265)
 * [Pais de alunos da rede estadual reclamam de cestas básicas com oito itens doadas pelas escolas](https://oglobo.globo.com/rio/pais-de-alunos-da-rede-estadual-reclamam-de-cestas-basicas-com-oito-itens-doadas-pelas-escolas-24494291)
-* [Arrecadação de impostos tem pior maio desde 2005 e recua 32,92%](https://oglobo.globo.com/economia/arrecadacao-de-impostos-tem-pior-maio-desde-2005-recua-3292-24494219)
-* [PSOL pede esclarecimentos ao ministro da Justiça sobre tentativa da PF de cancelar operação contra bolsonaristas](https://oglobo.globo.com/brasil/psol-pede-esclarecimentos-ao-ministro-da-justica-sobre-tentativa-da-pf-de-cancelar-operacao-contra-bolsonaristas-24494265)
 * [Ernesto Araújo nomeia especialista em filósofo fascista para banca examinadora do Itamaraty](https://epoca.globo.com/guilherme-amado/ernesto-araujo-nomeia-especialista-em-filosofo-fascista-para-banca-examinadora-do-itamaraty-24494237)
-* [Cotado para substituir Weintraub se reúne com Bolsonaro e diz que presidente é 'estadista'](https://oglobo.globo.com/sociedade/cotado-para-substituir-weintraub-se-reune-com-bolsonaro-diz-que-presidente-estadista-24494230)
-* [Flamengo terá atraso em bonificações após lesão de Marí, mas venda supera R$ 40 mi](https://oglobo.globo.com/esportes/flamengo-tera-atraso-em-bonificacoes-apos-lesao-de-mari-mas-venda-supera-40-mi-24494212)
-* [Enem tem 5,8 milhões inscritos para a edição de 2020](https://oglobo.globo.com/sociedade/enem-tem-58-milhoes-inscritos-para-edicao-de-2020-24494139)
-* [Longe da Covid-19, Conceição de Ibitipoca ainda não sabe quando parque será reaberto](https://oglobo.globo.com/boa-viagem/longe-da-covid-19-conceicao-de-ibitipoca-ainda-nao-sabe-quando-parque-sera-reaberto-24492814)

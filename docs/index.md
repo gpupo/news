@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 06:34:16 UTC
+# indexed at 23/06/2020 07:10:05 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
+* [Show HN: IHP, a modern batteries-included Web Framework](https://ihp.digitallyinduced.com/)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
-* [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
+* [NYT threatens to dox blogger who often gets death threats. He deletes his blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [BBC: Why you should re-read “Paradise Lost” (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
+* [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
 * [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
-* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
-* [Most employees of NYT won’t be required back in physical offices until 2021](https://twitter.com/Sulliview/status/1275074784351543298)
-* [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
 * [Rust's Huge Compilation Units](https://pingcap.com/blog/rust-huge-compilation-units/)
-* [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
-* [NYT threatens to dox blogger who often gets death threats. He deletes his blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
+* [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
+* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
+* [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
-* [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 * [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
-* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
-* [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
-* [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
+* [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 * [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
+* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
+* [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
+* [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 * [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
-* [An Agoraphobic Traveler Wanders the Earth](https://www.atlasobscura.com/articles/agoraphobic-travel)
+* [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
 * [Gitlab 13.1](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
 ## nytimes.com
 
@@ -53,7 +53,6 @@ layout: default
 * [Why Obsessive K-Pop Fans Are Turning Toward Political Activism](https://www.nytimes.com/2020/06/22/arts/music/k-pop-fans-trump-politics.html)
 * [Booker and McGrath Intensify Advertising Blitz in Kentucky](https://www.nytimes.com/2020/06/22/us/politics/charles-booker-amy-mcgrath-kentucky-advertising.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
-* [Foreign Visas, Virus, Seattle: Your Monday Evening Briefing](https://www.nytimes.com/2020/06/22/briefing/foreign-visas-coronavirus-seattle.html)
 * [How Facebook Is Undermining ‘Black Lives Matter’](https://www.nytimes.com/2020/06/22/podcasts/the-daily/facebook-twitter-black-lives-matter-trump.html)
 * [Tech Goliaths Act Like Davids](https://www.nytimes.com/2020/06/22/technology/big-tech-underdogs.html)
 * [André Leon Talley on ‘The Chiffon Trenches’](https://www.nytimes.com/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html)
@@ -79,11 +78,11 @@ layout: default
 * [Owners Vote to Hold M.L.B. Season After Players Reject Latest Offer](https://www.nytimes.com/2020/06/22/sports/baseball/mlb-season-schedule-vote.html)
 * [Why a Rotting Green Bay Boardwalk May Help Solve America’s Jobs Crisis](https://www.nytimes.com/2020/06/22/business/economy/americans-public-works-jobs-coronavirus.html)
 * [Bill Simmons Plays Defense on Diversity at The Ringer](https://www.nytimes.com/2020/06/22/business/media/bill-simmons-the-ringer-black-employees.html)
-* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [Coronavirus Finally Comes to ‘Coronation Street’](https://www.nytimes.com/2020/06/22/world/europe/coronation-street-coronavirus.html)
 * [The Language of Friendship, as Heard in a Dublin Pub](https://www.nytimes.com/2020/06/22/books/review/roddy-doyle-love.html)
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
@@ -95,8 +94,8 @@ layout: default
 * [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [Joe Biden's V.P. Pick: Who's in the Running](https://www.nytimes.com/article/biden-vice-president-2020.html)
-* [Spicy Pork Kebabs, Fast Enough for a Weeknight](https://www.nytimes.com/2020/06/22/dining/pork-kebabs-recipe.html)
 * [Trump Fired Her Boss. Now She’s Taking Cases That Incensed White House.](https://www.nytimes.com/2020/06/21/nyregion/us-attorney-trump-audrey-strauss.html)
+* [Will Trump's Autocratic Tendencies Get Worse, Now That He's Behind in the Polls?](https://www.nytimes.com/2020/06/21/opinion/trump-autocrat-barr.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -104,9 +103,9 @@ layout: default
 
 
 * [Ópera de Barcelona reabre com concerto exclusivo para plantas](https://oglobo.globo.com/cultura/opera-de-barcelona-reabre-com-concerto-exclusivo-para-plantas-24493505)
-* [Covid-19: Prefeitura entra com ação para acolher compulsoriamente moradores de rua](https://oglobo.globo.com/rio/covid-19-prefeitura-entra-com-acao-para-acolher-compulsoriamente-moradores-de-rua-24493382)
 * [IR 2020: Receita abre hoje consulta ao segundo lote de restituição](https://oglobo.globo.com/economia/ir-2020-receita-abre-hoje-consulta-ao-segundo-lote-de-restituicao-24493364)
 * [Estudo indica que remédio para diabetes pode reduzir mortes de mulheres por Covid-19](https://oglobo.globo.com/sociedade/estudo-indica-que-remedio-para-diabetes-pode-reduzir-mortes-de-mulheres-por-covid-19-24492859)
+* [Decisão do STJD e inspeções da Vigilância Sanitária definirão andamento do Carioca nesta terça](https://oglobo.globo.com/esportes/decisao-do-stjd-inspecoes-da-vigilancia-sanitaria-definirao-andamento-do-carioca-nesta-terca-24493294)
 * [Entre parentes e milicianos](https://oglobo.globo.com/opiniao/entre-parentes-milicianos-24493097)
 * [Um golpe que passa do delírio à farsa](https://oglobo.globo.com/opiniao/um-golpe-que-passa-do-delirio-farsa-1-24492593)
 * [Anjo do anjo](https://oglobo.globo.com/opiniao/anjo-do-anjo-24492816)

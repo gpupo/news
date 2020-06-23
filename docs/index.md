@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 07:34:40 UTC
+# indexed at 23/06/2020 08:10:53 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: IHP, a modern batteries-included Web Framework](https://ihp.digitallyinduced.com/)
-* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
+* [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
+* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
-* [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
+* [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
-* [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
-* [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
+* [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
-* [Rust's Huge Compilation Units](https://pingcap.com/blog/rust-huge-compilation-units/)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
+* [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
 * [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
-* [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
+* [Rust's Huge Compilation Units](https://pingcap.com/blog/rust-huge-compilation-units/)
 * [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
+* [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
 * [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
 * [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
+* [How T. Rex conserved energy](http://nautil.us/issue/86/energy/t-rex-was-a-slacker)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
-* [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
+* [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
-* [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 * [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
+* [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 * [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
-* [Gitlab 13.1](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
 ## nytimes.com
 
 
@@ -53,6 +53,7 @@ layout: default
 * [Why Obsessive K-Pop Fans Are Turning Toward Political Activism](https://www.nytimes.com/2020/06/22/arts/music/k-pop-fans-trump-politics.html)
 * [Booker and McGrath Intensify Advertising Blitz in Kentucky](https://www.nytimes.com/2020/06/22/us/politics/charles-booker-amy-mcgrath-kentucky-advertising.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
+* [N.Y.C. Primary 2020: An Election Day Cheat Sheet](https://www.nytimes.com/2020/06/23/nyregion/nyc-primary-election-voting.html)
 * [How Facebook Is Undermining ‘Black Lives Matter’](https://www.nytimes.com/2020/06/22/podcasts/the-daily/facebook-twitter-black-lives-matter-trump.html)
 * [Tech Goliaths Act Like Davids](https://www.nytimes.com/2020/06/22/technology/big-tech-underdogs.html)
 * [André Leon Talley on ‘The Chiffon Trenches’](https://www.nytimes.com/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html)
@@ -88,10 +89,10 @@ layout: default
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
 * [Meanwhile, Some People Are Stress-Shopping Diamond Bracelets](https://www.nytimes.com/2020/06/17/style/online-jewelry-auctions.html)
 * [15 Essential Black Liberation Jazz Tracks](https://www.nytimes.com/2020/06/17/arts/music/black-liberation-jazz.html)
-* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
 * [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
+* [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [Joe Biden's V.P. Pick: Who's in the Running](https://www.nytimes.com/article/biden-vice-president-2020.html)
 * [Trump Fired Her Boss. Now She’s Taking Cases That Incensed White House.](https://www.nytimes.com/2020/06/21/nyregion/us-attorney-trump-audrey-strauss.html)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Governo corre contra o tempo para aprovar MP que permite contratação de temporários](https://oglobo.globo.com/economia/governo-corre-contra-tempo-para-aprovar-mp-que-permite-contratacao-de-temporarios-24493518)
-* [Antes de pedido de exoneração, clima entre Witzel e Ferry já tinha azedado](https://oglobo.globo.com/rio/antes-de-pedido-de-exoneracao-clima-entre-witzel-ferry-ja-tinha-azedado-24493363)
-* [Guarda Municipal multa dez pessoas ao dia por falta de máscara no Rio](https://oglobo.globo.com/rio/guarda-municipal-multa-dez-pessoas-ao-dia-por-falta-de-mascara-no-rio-24493487)
-* [Ameaça ao investimento: gestores que administram US$ 3,75 tri alertam para risco de desmatamento na Amazônia](https://oglobo.globo.com/economia/ameaca-ao-investimento-gestores-que-administram-us-375-tri-alertam-para-risco-de-desmatamento-na-amazonia-24493136)
-* [Grupo de Sara Giromini previa ser preso antes de iniciar acampamento, diz jornalista infiltrada](https://oglobo.globo.com/brasil/grupo-de-sara-giromini-previa-ser-preso-antes-de-iniciar-acampamento-diz-jornalista-infiltrada-24493293)
-* [Área técnica da CGU foi contra decisão que ampliou sigilo de pareceres jurídicos do governo](https://oglobo.globo.com/brasil/area-tecnica-da-cgu-foi-contra-decisao-que-ampliou-sigilo-de-pareceres-juridicos-do-governo-24493253)
-* [Decisão do STJD e inspeções da Vigilância Sanitária definirão andamento do Carioca nesta terça](https://oglobo.globo.com/esportes/decisao-do-stjd-inspecoes-da-vigilancia-sanitaria-definirao-andamento-do-carioca-nesta-terca-24493294)
-* [O cancelamento do Mário. Que Mário?](https://oglobo.globo.com/cultura/o-cancelamento-do-mario-que-mario-1-24492183)
-* [Picolé saudável é receita divertida para fazer com crianças](https://oglobo.globo.com/ela/gastronomia/picole-saudavel-receita-divertida-para-fazer-com-criancas-24492708)
-* [Navio sem capitão na pandemia](https://oglobo.globo.com/opiniao/navio-sem-capitao-na-pandemia-24488830)
+* [Depois de longa espera, reunião nesta quarta-feira decide o futuro do audiovisual brasileiro](https://oglobo.globo.com/cultura/depois-de-longa-espera-reuniao-nesta-quarta-feira-decide-futuro-do-audiovisual-brasileiro-24493231)
+* [João Pedro: testemunha diz que não viu criminosos na casa e acusa delegado de mudar depoimento](https://oglobo.globo.com/rio/joao-pedro-testemunha-diz-que-nao-viu-criminosos-na-casa-acusa-delegado-de-mudar-depoimento-24493514)
+* [Socorro da União aos estados vai cobrir perdas de arrecadação, diz IFI](https://oglobo.globo.com/economia/socorro-da-uniao-aos-estados-vai-cobrir-perdas-de-arrecadacao-diz-ifi-24493502)
+* ['O poço é mais fundo do que pensava', diz Ferry, ex-secretário, sobre crise na Saúde do Rio](https://oglobo.globo.com/rio/o-poco-mais-fundo-do-que-pensava-diz-ferry-ex-secretario-sobre-crise-na-saude-do-rio-24493352)
+* [Crivella entra na Justiça para barrar privatização da Cedae](https://oglobo.globo.com/rio/crivella-entra-najusticaparabarrar-privatizacao-da-cedae-24493261)
+* [Maduro e Guaidó travam disputa jurídica por mais de US$ 1 bilhão em ouro depositados na Inglaterra](https://oglobo.globo.com/mundo/maduro-guaido-travam-disputa-juridica-por-mais-de-us-1-bilhao-em-ouro-depositados-na-inglaterra-24493064)
+* [Cedae: Crivella entra na Justiça para barrar privatização da companhia pelo governo Witzel](https://oglobo.globo.com/rio/cedae-crivella-entra-najusticaparabarrar-privatizacao-da-companhia-pelo-governo-witzel-24493411)
+* [Fã-clubes de k-pop criam ações políticas - e afirmam ter enganado Trump](https://oglobo.globo.com/cultura/fa-clubes-de-pop-criam-acoes-politicasafirmam-ter-enganado-trump-24493289)
+* [Chefs 'entregam' ingredientes de receitas famosas durante a quarentena](https://oglobo.globo.com/ela/gastronomia/chefs-entregam-ingredientes-de-receitas-famosas-durante-quarentena-24493103)
+* [A gestão catastrófica da pandemia e o instinto de sobrevivência do futebol geraram o bizarro torneio da Ferj](https://oglobo.globo.com/esportes/a-gestao-catastrofica-da-pandemia-o-instinto-de-sobrevivencia-do-futebol-geraram-bizarro-torneio-da-ferj-24493069)

@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 13:09:44 UTC
+# indexed at 23/06/2020 13:34:20 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
-* [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
-* [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
 * [The world is changing [Riot Matrix client to be renamed]](https://blog.riot.im/the-world-is-changing/)
+* [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
 * [Nanoplastics can accumulate in plants and affect sustainability and food safety](https://sci-hub.tw/10.1038/s41565-020-0707-4)
+* [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
+* [Ask HN: How are you holding up?](https://news.ycombinator.com/item?id=23612950)
 * [No more system shared libraries in macOS 11](https://twitter.com/mycoliza/status/1275305517066227712)
 * [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
 * [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
-* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
-* [Ask HN: How are you holding up?](https://news.ycombinator.com/item?id=23612950)
-* [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [Show HN: cloudskew.com – draw AWS, Azure, GCP, K8s diagrams for free](https://www.cloudskew.com/)
+* [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
+* [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [CERN approves plans for a $23B, 62-mile long super-collider](https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html)
-* [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [Former Wirecard CEO Markus Braun arrested](https://www.dw.com/en/former-wirecard-ceo-markus-braun-arrested/a-53905720)
+* [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
-* [Show HN: Antimander – Optimize Congressional Districts with Genetic Algorithms](https://antimander.org/)
 * [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/)
+* [Show HN: Antimander – Optimize Congressional Districts with Genetic Algorithms](https://antimander.org/)
 * [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
-* [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
 * [Millions of Americans Can't Afford Water](https://www.consumerreports.org/personal-finance/millions-of-americans-cant-afford-water-as-bills-rise-80-percent-in-a-decade/?EXTKEY=AFLIP)
+* [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
 * [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
+* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
-* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
-* [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
-* [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
+* [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Ask HN: How to Develop a Growth Mindset?](https://news.ycombinator.com/item?id=23605790)
 ## nytimes.com
 
 
-* [Live Global Coronavirus News: Anthony Fauci to Testify](https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html)
+* [Live Global Coronavirus News: Novak Djokovic Tests Positive](https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html)
 * [Bars, Strip Clubs and Churches: U.S. Virus Outbreaks Enter Unwieldy Phase](https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html)
 * [Health Officials Had to Face a Pandemic. Then Came the Death Threats.](https://www.nytimes.com/2020/06/22/us/coronavirus-health-officials.html)
 * [There’s a Reason Trump Is Fighting Hard for Arizona](https://www.nytimes.com/2020/06/23/us/politics/arizona-2020-election-democrats-republicans.html)
@@ -85,9 +85,9 @@ layout: default
 * [Sweden Tries Out a New Status: Pariah State](https://www.nytimes.com/2020/06/22/world/europe/sweden-coronavirus-pariah-scandinavia.html)
 * [Square, Jack Dorsey’s Pay Service, Is Withholding Money Merchants Say They Need](https://www.nytimes.com/2020/06/23/technology/square-jack-dorsey-pandemic-withholding.html)
 * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
 * [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
 * [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
 * [Theater Kids Trade a Big Stage for Highlight Tapes and Heartache](https://www.nytimes.com/2020/06/17/theater/virtual-international-thespian-festival.html)
 * [Basketball and Barkley Hendricks: The Lesser Known Work of an Influential Artist](https://www.nytimes.com/2020/06/23/sports/Barkley-Hendricks-jack-shainman-gallery.html)
@@ -108,13 +108,13 @@ layout: default
 ## globo.com
 
 
-* [Dólar opera em queda de 1,17%, a R$ 5,20](https://oglobo.globo.com/economia/dolar-opera-em-queda-de-117-r-520-24493733)
-* [Cidade alemã volta ao confinamento após surto do novo coronavírus em matadouro](https://oglobo.globo.com/mundo/cidade-alema-volta-ao-confinamento-apos-surto-do-novo-coronavirus-em-matadouro-24493669)
 * [Juiz obriga Bolsonaro a utilizar máscaras em espaços públicos](https://oglobo.globo.com/brasil/juiz-obriga-bolsonaro-utilizar-mascaras-em-espacos-publicos-1-24493761)
-* [Novak Djokovic testa positivo para coronavírus e se desculpa por torneio polêmico](https://oglobo.globo.com/esportes/novak-djokovic-testa-positivo-para-coronavirus-se-desculpa-por-torneio-polemico-1-24493718)
-* [Investigados, assessores da Alerj que ajudaram Queiroz em fraude no ponto são exonerados](https://oglobo.globo.com/brasil/investigados-assessores-da-alerj-que-ajudaram-queiroz-em-fraude-no-ponto-sao-exonerados-24493694)
+* [Trump diz que autorizou prisão por até dez anos de manifestantes que atacarem estátuas nos EUA](https://oglobo.globo.com/mundo/trump-diz-que-autorizou-prisao-por-ate-dez-anos-de-manifestantes-que-atacarem-estatuas-nos-eua-24493839)
+* [Aglomeração em Festa da Música causa indignação na França, que tenta sair da crise da Covid-19](https://epoca.globo.com/mundo/aglomeracao-em-festa-da-musica-causa-indignacao-na-franca-que-tenta-sair-da-crise-da-covid-19-24493809)
 * [Covid-19: Risco de contágio passa de moderado para alto no Rio após flexibilização de Crivella](https://oglobo.globo.com/rio/covid-19-risco-de-contagio-passa-de-moderado-para-alto-no-rio-apos-flexibilizacao-de-crivella-24493737)
-* [Reino Unido anuncia novas medidas de desconfinamento: pubs, museus e cinemas poderão reabrir dia 4 de julho](https://oglobo.globo.com/mundo/reino-unido-anuncia-novas-medidas-de-desconfinamento-pubs-museus-cinemas-poderao-reabrir-dia-4-de-julho-24493707)
+* [Cidade alemã volta ao confinamento após surto do novo coronavírus em matadouro](https://oglobo.globo.com/mundo/cidade-alema-volta-ao-confinamento-apos-surto-do-novo-coronavirus-em-matadouro-24493669)
+* [Bolsonaro é único líder a manter discurso inadequado e 'falta de respeito às vítimas', diz Mandetta](https://epoca.globo.com/brasil/bolsonaro-unico-lider-manter-discurso-inadequado-falta-de-respeito-as-vitimas-diz-mandetta-24493784)
+* [Dólar opera em queda de 1,17%, a R$ 5,20](https://oglobo.globo.com/economia/dolar-opera-em-queda-de-117-r-520-24493733)
+* [Novak Djokovic testa positivo para coronavírus e se desculpa por torneio polêmico](https://oglobo.globo.com/esportes/novak-djokovic-testa-positivo-para-coronavirus-se-desculpa-por-torneio-polemico-1-24493718)
 * [Brasil não deveria deixar OMS, diz ex-ministro da Saúde Nelson Teich](https://epoca.globo.com/brasil/brasil-nao-deveria-deixar-oms-diz-ex-ministro-da-saude-nelson-teich-24493750)
 * [Após apelo, Angela Ro Ro recebe apoio para lives e diz que usará dinheiro doado para pagar empregados](https://oglobo.globo.com/cultura/apos-apelo-angela-ro-ro-recebe-apoio-para-lives-diz-que-usara-dinheiro-doado-para-pagar-empregados-24493740)
-* [Wislawa Szymborska, a biografia](https://epoca.globo.com/guilherme-amado/wislawa-szymborska-biografia-24493304)

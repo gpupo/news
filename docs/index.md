@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 08:34:35 UTC
+# indexed at 23/06/2020 09:10:04 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
-* [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
 * [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
-* [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
 * [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
+* [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
+* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
+* [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
 * [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
-* [My experience with Sarah Jeong, Jason Koebler, and Vice Magazine (2018)](https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-my-experience-with-sarah-jeong-jason-koebler-and-vice-magazine-3f4a32fda9b5)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
 * [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
 * [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
-* [Rust's Huge Compilation Units](https://pingcap.com/blog/rust-huge-compilation-units/)
 * [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
 * [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
-* [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
-* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
+* [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
+* [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
 * [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
-* [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
-* [How T. Rex conserved energy](http://nautil.us/issue/86/energy/t-rex-was-a-slacker)
 * [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
-* [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
-* [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
+* [Brexit will cost the UK more than its total payments to the EU combined](https://www.businessinsider.com/brexit-will-cost-uk-more-than-total-payments-to-eu-2020-1)
+* [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 * [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
+* [How T. Rex conserved energy](http://nautil.us/issue/86/energy/t-rex-was-a-slacker)
 ## nytimes.com
 
 
 * [Bars, Strip Clubs and Churches: U.S. Virus Outbreaks Enter Unwieldy Phase](https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html)
-* [Live Global Coronavirus News](https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html)
+* [University of Michigan to Drop Out as Presidential Debate Host](https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html)
 * [N.Y.’s Legal Limbo: Pandemic Creates Backlog of 39,200 Criminal Cases](https://www.nytimes.com/2020/06/22/nyregion/coronavirus-new-york-courts.html)
 * [Trump Suspends H-1B and Other Visas That Allow Foreigners to Work in the U.S.](https://www.nytimes.com/2020/06/22/us/politics/trump-h1b-work-visas.html)
 * [G.O.P. Faces Risk From Push to Repeal Health Law During Pandemic](https://www.nytimes.com/2020/06/22/us/politics/republicans-health-care-coronavirus.html)
@@ -79,11 +79,11 @@ layout: default
 * [Owners Vote to Hold M.L.B. Season After Players Reject Latest Offer](https://www.nytimes.com/2020/06/22/sports/baseball/mlb-season-schedule-vote.html)
 * [Sweden Tries Out a New Status: Pariah State](https://www.nytimes.com/2020/06/22/world/europe/sweden-coronavirus-pariah-scandinavia.html)
 * [Bill Simmons Plays Defense on Diversity at The Ringer](https://www.nytimes.com/2020/06/22/business/media/bill-simmons-the-ringer-black-employees.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
+* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
 * [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
+* [How to Reduce Your Risk of PTSD in a Post-Covid-19 World](https://www.nytimes.com/2020/05/20/smarter-living/coronavirus-coping-ptsd-mental-health.html)
+* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
 * [Coronavirus Finally Comes to ‘Coronation Street’](https://www.nytimes.com/2020/06/22/world/europe/coronation-street-coronavirus.html)
 * [The Language of Friendship, as Heard in a Dublin Pub](https://www.nytimes.com/2020/06/22/books/review/roddy-doyle-love.html)
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Depois de longa espera, reunião nesta quarta-feira decide o futuro do audiovisual brasileiro](https://oglobo.globo.com/cultura/depois-de-longa-espera-reuniao-nesta-quarta-feira-decide-futuro-do-audiovisual-brasileiro-24493231)
+* [MEC revoga portaria que acabava com incentivo de cotas na pós-graduação](https://oglobo.globo.com/sociedade/mec-revoga-portaria-que-acabava-com-incentivo-de-cotas-na-pos-graduacao-24493578)
+* [Sem Wassef, a nova estratégia da defesa de Flávio Bolsonaro](https://oglobo.globo.com/podcast/sem-wassef-nova-estrategia-da-defesa-de-flavio-bolsonaro-24493387)
 * [João Pedro: testemunha diz que não viu criminosos na casa e acusa delegado de mudar depoimento](https://oglobo.globo.com/rio/joao-pedro-testemunha-diz-que-nao-viu-criminosos-na-casa-acusa-delegado-de-mudar-depoimento-24493514)
 * [Socorro da União aos estados vai cobrir perdas de arrecadação, diz IFI](https://oglobo.globo.com/economia/socorro-da-uniao-aos-estados-vai-cobrir-perdas-de-arrecadacao-diz-ifi-24493502)
-* ['O poço é mais fundo do que pensava', diz Ferry, ex-secretário, sobre crise na Saúde do Rio](https://oglobo.globo.com/rio/o-poco-mais-fundo-do-que-pensava-diz-ferry-ex-secretario-sobre-crise-na-saude-do-rio-24493352)
 * [Crivella entra na Justiça para barrar privatização da Cedae](https://oglobo.globo.com/rio/crivella-entra-najusticaparabarrar-privatizacao-da-cedae-24493261)
-* [Maduro e Guaidó travam disputa jurídica por mais de US$ 1 bilhão em ouro depositados na Inglaterra](https://oglobo.globo.com/mundo/maduro-guaido-travam-disputa-juridica-por-mais-de-us-1-bilhao-em-ouro-depositados-na-inglaterra-24493064)
 * [Cedae: Crivella entra na Justiça para barrar privatização da companhia pelo governo Witzel](https://oglobo.globo.com/rio/cedae-crivella-entra-najusticaparabarrar-privatizacao-da-companhia-pelo-governo-witzel-24493411)
 * [Fã-clubes de k-pop criam ações políticas - e afirmam ter enganado Trump](https://oglobo.globo.com/cultura/fa-clubes-de-pop-criam-acoes-politicasafirmam-ter-enganado-trump-24493289)
-* [Chefs 'entregam' ingredientes de receitas famosas durante a quarentena](https://oglobo.globo.com/ela/gastronomia/chefs-entregam-ingredientes-de-receitas-famosas-durante-quarentena-24493103)
+* [PSL abrirá processo de expulsão contra Eduardo Bolsonaro](https://epoca.globo.com/guilherme-amado/psl-abrira-processo-de-expulsao-contra-eduardo-bolsonaro-24493071)
 * [A gestão catastrófica da pandemia e o instinto de sobrevivência do futebol geraram o bizarro torneio da Ferj](https://oglobo.globo.com/esportes/a-gestao-catastrofica-da-pandemia-o-instinto-de-sobrevivencia-do-futebol-geraram-bizarro-torneio-da-ferj-24493069)
+* [Como um grupo de mulheres expôs décadas de abuso sexual na gisnástica americana](https://oglobo.globo.com/celina/como-um-grupo-de-mulheres-expos-decadas-de-abuso-sexual-na-gisnastica-americana-1-24492633)

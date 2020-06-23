@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 08:10:53 UTC
+# indexed at 23/06/2020 08:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
 * [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
 * [A/B Street: A simulation game to fix Seattle's traffic](https://abstreet.org/)
 * [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
+* [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
 * [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
-* [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
+* [My experience with Sarah Jeong, Jason Koebler, and Vice Magazine (2018)](https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-my-experience-with-sarah-jeong-jason-koebler-and-vice-magazine-3f4a32fda9b5)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
 * [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
-* [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
-* [Rust's Huge Compilation Units](https://pingcap.com/blog/rust-huge-compilation-units/)
 * [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
+* [Rust's Huge Compilation Units](https://pingcap.com/blog/rust-huge-compilation-units/)
 * [Why did Facebook acquire Mapillary?](https://medium.com/@joemorrison/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8)
-* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
+* [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
 * [Stretching the C64 Palette](http://www.krajzewicz.de/blog/stretching-the-c64-palette.php)
+* [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
 * [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
-* [How T. Rex conserved energy](http://nautil.us/issue/86/energy/t-rex-was-a-slacker)
 * [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web)
 * [Show HN: Web3Torrent – Adding Ethereum Micropayments to WebTorrent](https://blog.statechannels.org/introducing-web3torrent/)
+* [How T. Rex conserved energy](http://nautil.us/issue/86/energy/t-rex-was-a-slacker)
 * [Eating Thai Fruit Demands Serious Effort but Delivers Sublime Reward](https://www.nytimes.com/2020/06/22/world/asia/bangkok-thailand-fruit-durian.html)
 * [TSMC officially begins 5 nm production](https://www.notebookcheck.net/TSMC-officially-begins-5-nm-production-Snapdragon-875-SoC-Snapdragon-X60-5G-modem-A14-Bionic-and-a-5-nm-AMD-high-end-GPU-incoming.477119.0.html)
 * [Do-it-Yourself ASICs (2013)](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-95.html)
-* [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 * [Cameo's CEO on how he plans to disrupt Hollywood](https://dot.la/cameo-ceo-on-his-move-to-l-a-and-his-companys-future-2646225672.html)
 ## nytimes.com
 
@@ -89,10 +89,10 @@ layout: default
 * [Fitting a Family of Five Into a One-Bedroom in Brooklyn](https://www.nytimes.com/2020/06/22/realestate/fitting-a-family-of-five-into-a-one-bedroom-in-brooklyn.html)
 * [Meanwhile, Some People Are Stress-Shopping Diamond Bracelets](https://www.nytimes.com/2020/06/17/style/online-jewelry-auctions.html)
 * [15 Essential Black Liberation Jazz Tracks](https://www.nytimes.com/2020/06/17/arts/music/black-liberation-jazz.html)
-* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [As Some Sleepaway Summer Camps Close Down, Others Balance the Risks](https://www.nytimes.com/2020/06/18/health/coronavirus-summer-camp.html)
+* [Mutation Allows Coronavirus to Infect More Cells, Study Finds. Scientists Urge Caution.](https://www.nytimes.com/2020/06/12/science/coronavirus-mutation-genetics-spike.html)
+* [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [Joe Biden's V.P. Pick: Who's in the Running](https://www.nytimes.com/article/biden-vice-president-2020.html)
 * [Trump Fired Her Boss. Now She’s Taking Cases That Incensed White House.](https://www.nytimes.com/2020/06/21/nyregion/us-attorney-trump-audrey-strauss.html)

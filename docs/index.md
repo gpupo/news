@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/06/2020 11:09:40 UTC
+# indexed at 23/06/2020 11:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -11,31 +11,31 @@ layout: default
 * [Fujitsu’s Fugaku and A64FX Take Arm to the Top with 415 PetaFLOPs](https://www.anandtech.com/show/15869/new-1-supercomputer-fujitsus-fugaku-and-a64fx-take-arm-to-the-top-with-415-petaflops)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Show HN: IHP, a batteries-included web framework built on Haskell and Nix](https://ihp.digitallyinduced.com/)
+* [Tasks.org: open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
 * [NPhysics: 2D and 3D Real-Time Physics Engine for Rust](https://nphysics.org/)
 * [Kafka: The Rescue Will Begin in Its Own Time](https://www.newyorker.com/magazine/2020/06/29/the-rescue-will-begin-in-its-own-time)
 * [I Am Deleting the Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/)
 * [A Quick Intro to CFEngine](https://cfengine.com/company/blog-detail/how-cfengine-stays-ahead-of-the-pack/)
+* [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
 * [Ego Graphs – the Google ‘vs’ trick](https://adsp.ai/articles/google-vs-trick/)
 * [Ask HN: How to Develop a Growth Mindset?](https://news.ycombinator.com/item?id=23605790)
-* [Tasks.org: open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
-* [Show HN: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
+* [Former Wirecard CEO Markus Braun arrested](https://www.dw.com/en/former-wirecard-ceo-markus-braun-arrested/a-53905720)
 * [CERN approves plans for a $23B, 62-mile long super-collider](https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html)
 * [Why you should re-read Paradise Lost (2017)](https://www.bbc.com/culture/article/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems)
-* [Former Wirecard CEO Markus Braun arrested](https://www.dw.com/en/former-wirecard-ceo-markus-braun-arrested/a-53905720)
-* [Show HN: Antimander – Optimize Congressional Districts with Genetic Algorithms](https://antimander.org/)
 * [Siberian town in arctic circle hits 101°F (38°C)](https://www.forbes.com/sites/trevornace/2020/06/22/the-arctic-circle-hit-101f-saturday-its-hottest-temperature-ever/#38fff16f4eb6)
+* [Show HN: Antimander – Optimize Congressional Districts with Genetic Algorithms](https://antimander.org/)
 * [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
-* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
 * [nCino S-1](https://www.sec.gov/Archives/edgar/data/1566895/000119312520174870/d828449ds1.htm)
 * [The Antagonism of Human and Nature in Factorio](https://molily.de/antagonism-human-nature/)
-* [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/)
+* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
 * [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html)
 * [Opinions I have formed about the “geospatial industry”](https://twitter.com/mouthofmorrison/status/1265635034939248640)
 * [The Value of Life](http://www.overcomingbias.com/2020/06/the-value-of-life.html)
-* [Crows’ ability to discriminate between languages](https://corvidresearch.blog/2020/06/21/the-crows-are-watching-your-language-literally/)
-* [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
-* [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/)
+* [Sysinternals ProcDump for Linux](https://build5nines.com/sysinternals-procdump-for-linux/)
 * [Frustration project: Automate data entry into PeopleSoft with Selenium](https://github.com/tbensky/selenium-peoplesoft)
+* [Reflections on Being a Female Founder](https://tracy.posthaven.com/reflections-on-being-a-female-founder)
+* [What’s New in macOS Big Sur: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/)
 * [Hardware Floating Point](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/)
 * [Apple announces it will switch to its own processors for future Macs](https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020)
 ## nytimes.com
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
-* [Brasil tem 1.113.606 casos de Covid-19, indica consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1113606-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24493647)
+* [Polícia faz buscas por mulher de Queiroz na casa de parentes do ex-assessor de Flávio Bolsonaro em BH](https://oglobo.globo.com/brasil/policia-faz-buscas-por-mulher-de-queiroz-na-casa-de-parentes-do-ex-assessor-de-flavio-bolsonaro-em-bh-24493664)
+* [Ex de Kardashian deixa comentário em foto e internet fala em volta: 'Façam 2020 melhor'](https://oglobo.globo.com/ela/gente/ex-de-kardashian-deixa-comentario-em-foto-internet-fala-em-volta-facam-2020-melhor-24493665)
+* [Banco Central vê recuperação gradual da economia no terceiro trimestre](https://oglobo.globo.com/economia/banco-central-ve-recuperacao-gradual-da-economia-no-terceiro-trimestre-1-24493670)
 * [Entenda como fãs de K-Pop viraram inimigos de Donald Trump](https://oglobo.globo.com/cultura/entenda-como-fas-de-pop-viraram-inimigos-de-donald-trump-24493645)
+* [Brasil tem 1.113.606 casos de Covid-19, indica consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1113606-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24493647)
 * [De exemplo a colapso: o que levou Curitiba a quintuplicar casos de covid-19 e lotar UTIs](https://epoca.globo.com/brasil/de-exemplo-colapso-que-levou-curitiba-quintuplicar-casos-de-covid-19-lotar-utis-24493631)
-* [Grupo de Sara Giromini previa ser preso antes de acampamento, afirma jornalista infiltrada](https://oglobo.globo.com/brasil/grupo-de-sara-giromini-previa-ser-preso-antes-de-acampamento-afirma-jornalista-infiltrada-24493609)
 * [Novas manchas de óleo são encontradas nas areias de praias do litoral de Pernambuco](https://epoca.globo.com/sociedade/novas-manchas-de-oleo-sao-encontradas-nas-areias-de-praias-do-litoral-de-pernambuco-24492925)
 * [Com sistema de saúde em colapso na Índia, grávida morre após recusa de atendimento em oito hospitais](https://epoca.globo.com/mundo/com-sistema-de-saude-em-colapso-na-india-gravida-morre-apos-recusa-de-atendimento-em-oito-hospitais-24492381)
 * [Gleisi Hoffmann e ACM Neto conversam](https://epoca.globo.com/guilherme-amado/gleisi-hoffmann-acm-neto-conversam-24493318)
 * [Às vésperas de anexações na Cisjordânia, especialistas de Israel alertam para riscos à segurança e impacto internacional](https://oglobo.globo.com/mundo/as-vesperas-de-anexacoes-na-cisjordania-especialistas-de-israel-alertam-para-riscos-seguranca-impacto-internacional-24493199)
-* [Alvaro Assad, do Etc e Tal, comanda lives com diversão garantida e convidados famosos](https://oglobo.globo.com/rio/bairros/alvaro-assad-do-etc-tal-comanda-lives-com-diversao-garantida-convidados-famosos-1-24485804)
-* [Moradores da Freguesia temem desabamento às margens do Rio Sangrador](https://oglobo.globo.com/rio/bairros/moradores-da-freguesia-temem-desabamento-as-margens-do-rio-sangrador-24487023)

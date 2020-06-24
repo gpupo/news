@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 23:09:38 UTC
+# indexed at 24/06/2020 23:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 * [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
-* [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
-* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
+* [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
+* [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
 * [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
 * [Microsoft duplicates data from Firefox without asking](https://old.reddit.com/r/Windows10/comments/hct0mj/are_we_going_to_get_treated_to_spam_popups/)
-* [Smarking (YC W15) is hiring a CS and Biz Ops lead to scale mobility tech](https://jobs.lever.co/smarking/f4535cb3-f28c-48a9-bee4-e1719849fd78)
+* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
 * [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
+* [Smarking (YC W15) is hiring a CS and Biz Ops lead to scale mobility tech](https://jobs.lever.co/smarking/f4535cb3-f28c-48a9-bee4-e1719849fd78)
 * [What vertical farming and ag startups don't understand about agriculture](http://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/)
 * [Mathematics in type theory](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/)
 * [Inside eBay’s bizarre campaign against a blog critic](https://www.wsj.com/articles/ebay-harassment-campaign-pig-cockroach-blog-11593009038)
 * [DNS Push Notifications](http://www.rfc-editor.org/rfc/rfc8765.txt)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
+* [Text-Only Websites](https://sjmulder.nl/en/textonly.html)
 * [Syndicated rounds, for founders who can’t find a Series A lead](https://blog.ycombinator.com/syndicated-rounds-when-you-cant-find-a-series-a-lead/)
 * [Show HN: Splitgraph - Build and share data with Postgres, inspired by Docker/Git](http://www.splitgraph.com)
-* [Text-Only Websites](https://sjmulder.nl/en/textonly.html)
 * [How People Read Online: New and Old Findings](https://www.nngroup.com/articles/how-people-read-online/)
 * [App Clips for iOS](https://developer.apple.com/app-clips/)
 * [Robust Client-Side JavaScript (2017)](https://molily.de/robust-javascript/)
-* [Show HN: Blunders.io, a tool to profile JVMs in production](https://blunders.io)
 ## nytimes.com
 
 
@@ -49,7 +49,7 @@ layout: default
 * [Pandemic May Force New York City to Lay Off 22,000 Workers](https://www.nytimes.com/2020/06/24/nyregion/budget-layoffs-nyc-mta-coronavirus.html)
 * [Tracking Coronavirus](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 * [Ahmaud Arbery Shooting: Suspects Indicted on Murder Charges](https://www.nytimes.com/2020/06/24/us/ahmaud-arbery-shooting-murder-indictment.html)
-* [Tucson Police in Turmoil After Death of Latino Man](https://www.nytimes.com/2020/06/24/us/tucson-arizona-police-death.html)
+* [Tucson Police in Turmoil After Death of Latino Man in Custody](https://www.nytimes.com/2020/06/24/us/tucson-arizona-police-death.html)
 * [George Floyd’s Killing Forces Wider Debate on France’s Slave-Trading Past](https://www.nytimes.com/2020/06/24/world/europe/france-george-floyd-racism-slave-trade.html)
 * [Appeals Court Panel Orders End to Michael Flynn Case](https://www.nytimes.com/2020/06/24/us/politics/michael-flynn-appeals-court.html)
 * [Justice Dept. Officials Outline Claims of Politicization Under Barr](https://www.nytimes.com/2020/06/24/us/politics/justice-department-politicization.html)
@@ -95,9 +95,9 @@ layout: default
 * [Posting a Black Square, but Not Black Faces](https://www.nytimes.com/2020/06/20/travel/travel-brands-black-lives-matter.html)
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
 * [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [Trump Family Asks Court to Stop Publication of Tell-All by Mary Trump](https://www.nytimes.com/2020/06/23/us/politics/mary-trump-book-court.html)
 * [The Boy Who Cried Fake News](https://www.nytimes.com/2020/06/23/opinion/maga-trump-fake-news.html)
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
-* [Com gesto do centrão a Bolsonaro, Câmara finaliza votação de projeto que altera Código de Trânsito](https://oglobo.globo.com/brasil/com-gesto-do-centrao-bolsonaro-camara-finaliza-votacao-de-projeto-que-altera-codigo-de-transito-24497103)
-* [Acusados de matarem Ahmaud Arbery são indiciados por homicídio nos EUA](https://oglobo.globo.com/mundo/acusados-de-matarem-ahmaud-arbery-sao-indiciados-por-homicidio-nos-eua-1-24497074)
+* [Acusados de matar homem negro que fazia exercícios na Geórgia são indiciados por homicídio nos EUA](https://oglobo.globo.com/mundo/acusados-de-matar-homem-negro-que-fazia-exercicios-na-georgia-sao-indiciados-por-homicidio-nos-eua-24497074)
+* [Com gesto do centrão a Bolsonaro, Câmara finaliza votação de projeto que aumenta prazo da carteira de motorista](https://oglobo.globo.com/brasil/com-gesto-do-centrao-bolsonaro-camara-finaliza-votacao-de-projeto-que-aumenta-prazo-da-carteira-de-motorista-24497103)
 * [Brasil tem 1.103 mortes em 24 horas, e número de óbitos pela Covid-19 no país chega a 53.874, informa consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-1103-mortes-em-24-horas-numero-de-obitos-pela-covid-19-no-pais-chega-53874-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24496554)
-* [Fake news: relatório final mantém rastreamento de mensagem em aplicativos](https://oglobo.globo.com/brasil/fake-news-relatorio-final-mantem-rastreamento-de-mensagem-em-aplicativos-24497047)
+* [Após três meses, bondes de Santa Teresa voltam a circular com restrições](https://oglobo.globo.com/rio/apos-tres-meses-bondes-de-santa-teresa-voltam-circular-com-restricoes-24497163)
+* [TCM vê indícios de superfaturamento em compras do Rio durante a pandemia](https://oglobo.globo.com/rio/tcm-ve-indicios-de-superfaturamento-em-compras-do-rio-durante-pandemia-24497145)
+* [É #FAKE que vídeo mostre médicos comemorando fim da pandemia em Israel](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-medicos-comemorando-fim-da-pandemia-em-israel-24497166)
+* [Lei das Fake news: relatório final mantém rastreamento de mensagem em aplicativos](https://oglobo.globo.com/brasil/lei-das-fake-news-relatorio-final-mantem-rastreamento-de-mensagem-em-aplicativos-24497047)
 * [É #FAKE que vídeo mostre profissionais do Hospital de Messejana, em Fortaleza, comemorando fechamento de ala de Covid-19 por falta de pacientes](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-profissionais-do-hospital-de-messejana-em-fortaleza-comemorando-fechamento-de-ala-de-covid-19-por-falta-de-pacientes-24497050)
-* [Expectativa de platô nos casos de Covid-19 não se confirmou, diz Ministério da Saúde](https://oglobo.globo.com/sociedade/coronavirus/expectativa-de-plato-nos-casos-de-covid-19-nao-se-confirmou-diz-ministerio-da-saude-1-24496980)
 * [PGR diz a Moraes que pode tomar novas medidas contra Sara Giromini e grupo extremista](https://oglobo.globo.com/brasil/pgr-diz-moraes-que-pode-tomar-novas-medidas-contra-sara-giromini-grupo-extremista-1-24497015)
 * [África do Sul inicia testes em voluntários da vacina de Oxford contra a Covid-19](https://oglobo.globo.com/sociedade/africa-do-sul-inicia-testes-em-voluntarios-da-vacina-de-oxford-contra-covid-19-24496688)
-* [Prisão foi curta, mas bastará para Sara Giromini ter sua versão dos fatos](https://oglobo.globo.com/analitico/prisao-foi-curta-mas-bastara-para-sara-giromini-ter-sua-versao-dos-fatos-24496928)
-* [HQ conta história de escrava sexual na Segunda Guerra](https://epoca.globo.com/guilherme-amado/hq-conta-historia-de-escrava-sexual-na-segunda-guerra-24496960)

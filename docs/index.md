@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 00:36:21 UTC
+# indexed at 24/06/2020 01:11:05 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Segway ends production](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
+* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
-* [Roundup cancer attorney pleads guilty to extortion attempt](https://www.justice.gov/opa/pr/virginia-attorneys-plead-guilty-orchestrating-200-million-extortion-scheme-targeting)
-* [Bill Proposed to Outlaw End to End Encryption](https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
-* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
+* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 * [Tiny C Compiler](https://bellard.org/tcc/)
+* [DOJ charges Roundup plaintiffs' lawyer in $200M alleged extortion scheme](https://www.reuters.com/article/us-otc-masstorts/doj-charges-roundup-plaintiffs-lawyer-in-200-million-alleged-extortion-scheme-idUSKBN1YM2L9)
+* [Exploration of Generative Art](https://generativeartistry.com)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
-* [Exploration of Generative Art](https://generativeartistry.com)
-* [Dungeon Scrawl: Old school maps in minutes](https://dungeonscrawl.com/)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
+* [Dungeon Scrawl: Old school maps in minutes](https://dungeonscrawl.com/)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
-* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
-* [My dream dating app has been banned by Apple](https://webworm.substack.com/p/my-dream-dating-app-has-been-banned)
-* [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
-* [Pseudonymity as a Trivial Concession to Genius](https://www.scottaaronson.com/blog/?p=4870)
-* [Why CoinDesk Respects Pseudonymity: A Stand Against Doxxing](https://www.coindesk.com/why-coindesk-respects-pseudonymity-a-stand-against-doxxing)
-* [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
-* [The Death of the Private Citizen](https://spectator.us/new-york-times-private-slate-star-codex-blog/)
-* [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
-* [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
+* [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
+* [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
+* [The death of the private citizen?](https://spectator.us/new-york-times-private-slate-star-codex-blog/)
 * [Safari is adopting an extensions API similar to Firefox’s WebExtensions](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
-* [Nanoplastics accumulate in land-plant tissues: study](https://www.sciencedaily.com/releases/2020/06/200622152542.htm)
-* [Show HN: Awk-JVM – A toy JVM in Awk](https://github.com/rethab/awk-jvm)
+* [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
+* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
 * [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
+* [Show HN: Awk-JVM – A toy JVM in Awk](https://github.com/rethab/awk-jvm)
+* [On Contact Tracing and Hardware Tokens](https://www.bunniestudios.com/blog/?p=5820)
+* [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
+* [California sets Covid-19 daily record, Bay Area cumulative total passes 20k](https://www.eastbaytimes.com/2020/06/23/coronavirus-california-sets-another-daily-record-as-bay-area-surges-past-20000-cases/)
+* [Lossless compression of English messages using GPT-2](http://textsynth.org/sms.html)
+* [Feedback Canvas. A tool for receiving honest feedback from your team](https://stanete.com/feedback-canvas)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [Roger Stone Sentencing Was Politicized, Prosecutor Plans to Testify](https://www.nytimes.com/2020/06/23/us/politics/roger-stone-sentencing-politicized.html)
 * [Trump Family Asks Court to Stop Publication of Tell-All by Mary Trump](https://www.nytimes.com/2020/06/23/us/politics/mary-trump-book-court.html)
 * [Ahead of Trump Visit, Church Makes Unproven Claim of Virus-Killing Technology](https://www.nytimes.com/2020/06/23/us/politics/trump-arizona-church-covid.html)
-* [How Joe Biden Is Catching Up to the Trump Money ‘Juggernaut’](https://www.nytimes.com/2020/06/23/us/politics/biden-trump-2020-fundraising.html)
+* [With Tweets, Videos and Rhetoric, Trump Pushes Anew to Divide Americans by Race](https://www.nytimes.com/2020/06/23/us/politics/trump-race-racism-protests.html)
 * [Second-Guessing Our Poll? First, Take a Look at How It Works](https://www.nytimes.com/2020/06/23/upshot/poll-2020-election-method.html)
 * [The Hajj Pilgrimage Is Canceled, and Grief Rocks the Muslim World](https://www.nytimes.com/2020/06/23/world/middleeast/hajj-pilgrimage-canceled.html)
 * [Virus Gains Steam Across Latin America](https://www.nytimes.com/2020/06/23/world/americas/coronavirus-brazil-mexico-peru-chile-uruguay.html)
@@ -83,11 +83,11 @@ layout: default
 * [He Spent 25 Years in Prison for Murder, but Was Innocent All Along](https://www.nytimes.com/2020/06/23/nyregion/queens-da-exoneration-samuel-brownridge.html)
 * [A Botched Restoration of a Painting in Spain Draws Outrage](https://www.nytimes.com/2020/06/23/world/europe/botched-art-restoration-spain.html)
 * [These Companies Gave Their C.E.O.s Millions, Just Before Bankruptcy](https://www.nytimes.com/2020/06/23/business/ceo-bonsues-before-bankruptcy-coronavirus.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [How to Create an Outdoor Room](https://www.nytimes.com/2020/06/23/realestate/how-to-create-an-outdoor-room-california-room-patio.html)
-* [What Can We Learn From Swimmers of a Certain Age?](https://www.nytimes.com/2020/06/22/well/swimming-resilience-aging.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
 * [Virginie Despentes Makes France Angry, but Things Are Changing](https://www.nytimes.com/2020/06/23/books/virginie-despentes.html)
 * [Author Brittney Cooper on Harnessing Rage, Right Now](https://www.nytimes.com/2020/06/20/us/20IHW-black-lives-matter-protests-brittney-cooper-women.html)
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
+* [Em ato fechado, Mário Frias toma posse como novo secretário de Cultura](https://oglobo.globo.com/cultura/em-ato-fechado-mario-frias-toma-posse-como-novo-secretario-de-cultura-24495246)
+* [Em aparente recuo, Kim Jong-un suspende ações militares contra a Coreia do Sul](https://oglobo.globo.com/mundo/em-aparente-recuo-kim-jong-un-suspende-acoes-militares-contra-coreia-do-sul-24495155)
+* [Sem foro privilegiado, inquérito de Weintraub por racismo não vai ficar no STF](https://oglobo.globo.com/brasil/sem-foro-privilegiado-inquerito-de-weintraub-por-racismo-nao-vai-ficar-no-stf-24495012)
+* [Brasil monitora nuvem de gafanhotos na Argentina que pode ameaçar agricultura](https://oglobo.globo.com/sociedade/brasil-monitora-nuvem-de-gafanhotos-na-argentina-que-pode-ameacar-agricultura-24495164)
 * [Moradores deixam prédio de 12 andares na Lagoa após laudo apontar risco de deslizamento de pedras com quatro toneladas](https://oglobo.globo.com/rio/moradores-deixam-predio-de-12-andares-na-lagoa-apos-laudo-apontar-risco-de-deslizamento-de-pedras-com-quatro-toneladas-24495070)
 * [Cotado para o MEC é olavista amigo de Eduardo e ex-auxiliar de Weintraub](https://epoca.globo.com/guilherme-amado/cotado-para-mec-olavista-amigo-de-eduardo-ex-auxiliar-de-weintraub-24495035)
 * [Estado do Rio ultrapassa 100 mil casos de coronavírus e contabiliza mais de 9 mil mortes](https://oglobo.globo.com/rio/estado-do-rio-ultrapassa-100-mil-casos-de-coronavirus-contabiliza-mais-de-9-mil-mortes-24495058)
 * [Futuro em aberto: prefeitura abre licitação para nova concessão do Cassino da Urca, mas IED fica até ano que vem](https://oglobo.globo.com/rio/futuro-em-aberto-prefeitura-abre-licitacao-para-nova-concessao-do-cassino-da-urca-mas-ied-fica-ate-ano-que-vem-24495061)
 * [Brasil vai produzir gasolina com mesma qualidade da vendida nos EUA e Europa](https://oglobo.globo.com/economia/brasil-vai-produzir-gasolina-com-mesma-qualidade-da-vendida-nos-eua-europa-24495046)
-* [Brasil tem 1.364 mortes por Covid-19 em 24 horas, totalizando mais de 52 mil óbitos, informa consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-1364-mortes-por-covid-19-em-24-horas-totalizando-mais-de-52-mil-obitos-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24494641)
-* [Celso de Mello manda caso Weintraub para a primeira instância](https://epoca.globo.com/guilherme-amado/celso-de-mello-manda-caso-weintraub-para-primeira-instancia-1-24494965)
-* [Sem foro privilegiado, inquérito de Weintraub por racismo não vai ficar no STF](https://oglobo.globo.com/brasil/sem-foro-privilegiado-inquerito-de-weintraub-por-racismo-nao-vai-ficar-no-stf-24495012)
 * [Duas semanas após lançamento, só Caixa começou a emprestar pelo Pronampe](https://oglobo.globo.com/economia/duas-semanas-apos-lancamento-so-caixa-comecou-emprestar-pelo-pronampe-24495003)
-* [Pandemia impõe custos milionários a negócios que continuam operando](https://oglobo.globo.com/economia/pandemia-impoe-custos-milionarios-negocios-que-continuam-operando-24494979)

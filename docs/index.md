@@ -2,34 +2,35 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 07:10:11 UTC
+# indexed at 24/06/2020 07:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Elevator.js – A “back to top” button that behaves like a real elevator](http://tholman.com/elevator.js/)
+* [Initial Covid-19 infection rate may be 80 times greater than originally reported](https://news.psu.edu/story/623797/2020/06/22/research/initial-covid-19-infection-rate-may-be-80-times-greater-originally)
 * [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
-* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
+* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [Safari now blocks Google Analytics on sites, new Privacy Report feature shows](https://appleinsider.com/articles/20/06/22/safari-now-blocks-google-analytics-on-sites-new-privacy-report-feature-shows)
-* [Initial Covid-19 infection rate may be 80 times greater than originally reported](https://news.psu.edu/story/623797/2020/06/22/research/initial-covid-19-infection-rate-may-be-80-times-greater-originally)
 * [Tiny C Compiler](https://bellard.org/tcc/)
 * [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
-* [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [Exploration of Generative Art](https://generativeartistry.com)
+* [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
-* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
-* [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
+* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
+* [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
+* [Eyes in the Sky](https://restofworld.org/2020/india-magh-mela/)
 * [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
 * [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
 * [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
@@ -37,7 +38,6 @@ layout: default
 * [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
 * [CashRegister in PyQt5 with barcode logon and 32 programmable buttons](https://github.com/DirkJanJansen/Sales)
-* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [With Tweets, Videos and Rhetoric, Trump Pushes Anew to Divide Americans by Race](https://www.nytimes.com/2020/06/23/us/politics/trump-race-racism-protests.html)
 * [Trump Family Asks Court to Stop Publication of Tell-All by Mary Trump](https://www.nytimes.com/2020/06/23/us/politics/mary-trump-book-court.html)
 * [Lots of Drama but Little Certainty in Kentucky and New York Primaries](https://www.nytimes.com/2020/06/23/us/politics/kentucky-new-york-election-recap.html)
-* [Second-Guessing Our Poll? First, Take a Look at How It Works](https://www.nytimes.com/2020/06/23/upshot/poll-2020-election-method.html)
+* [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [The Hajj Pilgrimage Is Canceled, and Grief Rocks the Muslim World](https://www.nytimes.com/2020/06/23/world/middleeast/hajj-pilgrimage-canceled.html)
 * [Virus Gains Steam Across Latin America](https://www.nytimes.com/2020/06/23/world/americas/coronavirus-brazil-mexico-peru-chile-uruguay.html)
 * [EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures](https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html)
@@ -72,7 +72,7 @@ layout: default
 * [This Monument to White Supremacy Hides in Plain Sight](https://www.nytimes.com/2020/06/23/opinion/drakes-cross-white-supremacy.html)
 * [Will the Last Confederate Statue Standing Turn Off the Lights?](https://www.nytimes.com/2020/06/23/style/statue-richmond-lee.html)
 * [It’s a Wonderful Time to Be Leslie Jordan](https://www.nytimes.com/2020/06/23/style/leslie-jordan-instagram.html)
-* [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
+* [Ad Boycott of Facebook Keeps Growing](https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html)
 * [Obama Urges Democrats: ‘Whatever You’ve Done So Far Is Not Enough’](https://www.nytimes.com/2020/06/23/us/politics/obama-biden-fundraiser.html)
 * [Ron Jeremy, Adult Film Star, Charged With Sexually Assaulting 4 Women](https://www.nytimes.com/2020/06/23/arts/ron-jeremy-rape-charges.html)
 * [F.B.I. Says Noose Was in NASCAR Garage Since Last Year](https://www.nytimes.com/2020/06/23/sports/autoracing/bubba-wallace-noose-nascar.html)
@@ -92,9 +92,9 @@ layout: default
 * [Tiny Love Stories: “I Googled ‘Crisis’”](https://www.nytimes.com/2020/06/23/style/tiny-modern-love-stories-coronavirus-i-googled-crisis.html)
 * [Family Connection in a Teapot](https://www.nytimes.com/2020/06/23/well/family/family-connection-in-a-teapot.html)
 * [Health Care Advocates Push Back Against Trump’s Erasure of Transgender Rights](https://www.nytimes.com/2020/06/13/health/trump-health-care-transgender-rights.html)
+* [Gilead to Test a Version of Remdesivir That Can Be Inhaled](https://www.nytimes.com/2020/06/22/health/gilead-remdesivir-coronavirus-nebulizer.html)
 * [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
 * [Many Medical Decision Tools Disadvantage Black Patients](https://www.nytimes.com/2020/06/17/health/many-medical-decision-tools-disadvantage-black-patients.html)
-* [Gilead to Test a Version of Remdesivir That Can Be Inhaled](https://www.nytimes.com/2020/06/22/health/gilead-remdesivir-coronavirus-nebulizer.html)
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
 * [Donald Trump's Undone Tie: What Does It Mean?](https://www.nytimes.com/2020/06/22/style/trump-tulsa-tie.html)
 * [Sweden Tries Out a New Status: Pariah State](https://www.nytimes.com/2020/06/22/world/europe/sweden-coronavirus-pariah-scandinavia.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [TSE arquiva pedido de cassação de Bolsonaro e Mourão por outdoors irregulares em 2018](https://oglobo.globo.com/brasil/tse-arquiva-pedido-de-cassacao-de-bolsonaro-mourao-por-outdoors-irregulares-em-2018-1-24495532)
-* [Desmatamento: Após carta de investidores, governo diz que combate práticas ilegais](https://oglobo.globo.com/economia/desmatamento-apos-carta-de-investidores-governo-diz-que-combate-praticas-ilegais-24495499)
-* [Cientistas iniciam estudo com uso de células-tronco no tratamento de Covid-19 no Brasil](https://oglobo.globo.com/sociedade/cientistas-iniciam-estudo-com-uso-de-celulas-tronco-no-tratamento-de-covid-19-no-brasil-24495108)
-* [Câmara e Senado precisam acabar com paralisia dos Conselhos de Ética](https://oglobo.globo.com/opiniao/camara-senado-precisam-acabar-com-paralisia-dos-conselhos-de-etica-24495150)
-* [Chegam contas da destruição da Amazônia](https://oglobo.globo.com/opiniao/chegam-contas-da-destruicao-da-amazonia-24495142)
-* [Ataque, violência, destruição](https://oglobo.globo.com/opiniao/ataque-violencia-destruicao-24494970)
-* [Vale tudo. Ou quase](https://oglobo.globo.com/opiniao/vale-tudo-ou-quase-24494960)
-* [A quitanda está abandonada](https://oglobo.globo.com/opiniao/a-quitanda-esta-abandonada-24494954)
-* [Tratamento do lixo também é saneamento](https://oglobo.globo.com/opiniao/tratamento-do-lixo-tambem-saneamento-24494744)
-* [Para além das fake news](https://oglobo.globo.com/opiniao/para-alem-das-fake-news-24494678)
+* [“Onde estão as mãos esta noite?”: encontro de teatro e internet que produz fagulhas](https://oglobo.globo.com/rioshow/onde-estao-as-maos-esta-noite-encontro-de-teatro-internet-que-produz-fagulhas-24495223)
+* [Marco do saneamento: ministério prevê impacto positivo de R$ 753 bi para economia](https://oglobo.globo.com/economia/marco-do-saneamento-ministerio-preve-impacto-positivo-de-753-bi-para-economia-24495460)
+* [Recursos em série mantêm na PM do Rio major condenado por morte de Amarildo](https://oglobo.globo.com/rio/recursos-em-serie-mantem-na-pm-do-rio-major-condenado-por-morte-de-amarildo-24495406)
+* [Taxa de contágio da Covid-19 no Rio volta a subir e preocupa especialistas](https://oglobo.globo.com/rio/taxa-de-contagio-da-covid-19-no-rio-volta-subir-preocupa-especialistas-24495435)
+* [Governo suspendeu multa de R$ 27 milhões a consórcio com empresa da ex-mulher de Frederick Wassef](https://oglobo.globo.com/brasil/governo-suspendeu-multa-de-27-milhoes-consorcio-com-empresa-da-ex-mulher-de-frederick-wassef-24495503)
+* [Governo suspendeu multa de R$ 27 milhões a consórcio com empresa da ex-mulher de Wassef](https://oglobo.globo.com/brasil/governo-suspendeu-multa-de-27-milhoes-consorcio-com-empresa-da-ex-mulher-de-wassef-2-24495349)
+* ['Rio é o filho bastardo do pacto federativo', diz secretário sobre ajuste fiscal 'desproporcional' exigido pela União](https://oglobo.globo.com/rio/rio-o-filho-bastardo-do-pacto-federativo-diz-secretario-sobre-ajuste-fiscal-desproporcional-exigido-pela-uniao-1-24495293)
+* [Com desfile militar, Putin tenta amenizar desgaste da epidemia de olho em referendo](https://oglobo.globo.com/mundo/com-desfile-militar-putin-tenta-amenizar-desgaste-da-epidemia-de-olho-em-referendo-24494778)
+* [Sufocada, Cultura do Rio fica sem R$ 49,7 milhões do ISS após lei proposta por Crivella ser aprovada às pressas](https://oglobo.globo.com/cultura/sufocada-cultura-do-rio-fica-sem-497-milhoes-do-iss-apos-lei-proposta-por-crivella-ser-aprovada-as-pressas-24495123)
+* ['Achava que ódio não existia no vocabulário brasileiro', diz jornalista francês que cobre cena artística mundial há 30 anos](https://oglobo.globo.com/cultura/achava-que-odio-nao-existia-no-vocabulario-brasileiro-diz-jornalista-frances-que-cobre-cena-artistica-mundial-ha-30-anos-24485986)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 02:34:32 UTC
+# indexed at 24/06/2020 03:09:52 UTC
 
 
 ## news.ycombinator.com
 
 
-* [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
-* [Parallels Desktop for Mac Running on Mac with Apple Silicon](https://www.parallels.com/blogs/apple-silicon-wwdc/)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Exploration of Generative Art](https://generativeartistry.com)
-* [Bastions on Demand (In an AWS VPC)](https://theconsultingcto.com/posts/bastions-on-demand/)
 * [Tiny C Compiler](https://bellard.org/tcc/)
+* [The Open Goldberg Variations](https://opengoldbergvariations.org/)
+* [Bastions on demand in an AWS VPC](https://theconsultingcto.com/posts/bastions-on-demand/)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+* [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
-* [The Open Goldberg Variations](https://opengoldbergvariations.org/)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
-* [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Dungeon Scrawl: Old school maps in minutes](https://dungeonscrawl.com/)
-* [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
+* [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
-* [Ask HN: You cannot delete comments posts or your account on HN. Concerned?](https://news.ycombinator.com/item?id=23622865)
+* [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
+* [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
-* [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
-* [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
 * [Safari is adopting an extensions API similar to Firefox’s WebExtensions](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
-* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
+* [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
 * [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
 * [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
-* [Roundup plaintiffs' attorneys plead guilty in $200M extortion scheme](https://www.justice.gov/opa/pr/virginia-attorneys-plead-guilty-orchestrating-200-million-extortion-scheme-targeting)
-* [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
+* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
 * [Show HN: Awk-JVM – A toy JVM in Awk](https://github.com/rethab/awk-jvm)
-* [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
+* [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
+* [Roundup plaintiffs' attorneys plead guilty in $200M extortion scheme](https://www.justice.gov/opa/pr/virginia-attorneys-plead-guilty-orchestrating-200-million-extortion-scheme-targeting)
+* [On Contact Tracing and Hardware Tokens](https://www.bunniestudios.com/blog/?p=5820)
+* [California sets Covid-19 daily record, Bay Area cumulative total passes 20k](https://www.eastbaytimes.com/2020/06/23/coronavirus-california-sets-another-daily-record-as-bay-area-surges-past-20000-cases/)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [He Spent 25 Years in Prison for Murder, but Was Innocent All Along](https://www.nytimes.com/2020/06/23/nyregion/queens-da-exoneration-samuel-brownridge.html)
 * [A Botched Restoration of a Painting in Spain Draws Outrage](https://www.nytimes.com/2020/06/23/world/europe/botched-art-restoration-spain.html)
 * [These Companies Gave Their C.E.O.s Millions, Just Before Bankruptcy](https://www.nytimes.com/2020/06/23/business/ceo-bonsues-before-bankruptcy-coronavirus.html)
-* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
-* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
@@ -100,20 +100,20 @@ layout: default
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [Kamala Harris, Elizabeth Warren and More: Who’s in the Running to be Biden’s V.P.?](https://www.nytimes.com/article/biden-vice-president-2020.html)
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
-* [Trump Fired Her Boss. Now She’s Taking Cases That Incensed White House.](https://www.nytimes.com/2020/06/21/nyregion/us-attorney-trump-audrey-strauss.html)
+* [Will Trump's Autocratic Tendencies Get Worse, Now That He's Behind in the Polls?](https://www.nytimes.com/2020/06/21/opinion/trump-autocrat-barr.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [TSE arquiva pedido de cassação de Bolsonaro e Mourão por outdoors irregulares em 2018](https://oglobo.globo.com/brasil/tse-arquiva-pedido-de-cassacao-de-bolsonaro-mourao-por-outdoors-irregulares-em-2018-24495532)
+* [TSE arquiva pedido de cassação de Bolsonaro e Mourão por outdoors irregulares em 2018](https://oglobo.globo.com/brasil/tse-arquiva-pedido-de-cassacao-de-bolsonaro-mourao-por-outdoors-irregulares-em-2018-1-24495532)
 * [América Latina e Caribe chegam a 100 mil mortos por novo coronavírus](https://oglobo.globo.com/mundo/america-latina-caribe-chegam-100-mil-mortos-por-novo-coronavirus-24495407)
 * [Desmatamento: Após carta de investidores, governo diz que combate práticas ilegais](https://oglobo.globo.com/economia/desmatamento-apos-carta-de-investidores-governo-diz-que-combate-praticas-ilegais-24495499)
+* [Cientistas iniciam estudo com uso de células-tronco no tratamento de Covid-19 no Brasil](https://oglobo.globo.com/sociedade/cientistas-iniciam-estudo-com-uso-de-celulas-tronco-no-tratamento-de-covid-19-no-brasil-24495108)
 * [Em ato fechado, Mario Frias toma posse como novo secretário de Cultura](https://oglobo.globo.com/cultura/em-ato-fechado-mario-frias-toma-posse-como-novo-secretario-de-cultura-1-24495246)
 * [Brasil monitora nuvem de gafanhotos na Argentina que pode ameaçar agricultura](https://oglobo.globo.com/sociedade/brasil-monitora-nuvem-de-gafanhotos-na-argentina-que-pode-ameacar-agricultura-1-24495164)
 * [Nuvem de poeira do Saara sufoca o Caribe e está a caminho dos Estados Unidos; veja fotos](https://oglobo.globo.com/sociedade/nuvem-de-poeira-do-saara-sufoca-caribe-esta-caminho-dos-estados-unidos-veja-fotos-24494889)
 * [Senado aprova corte de 50% nas contribuições para o Sistema S](https://oglobo.globo.com/economia/senado-aprova-corte-de-50-nas-contribuicoes-para-sistema-s-24495307)
 * [Em aparente recuo, Kim Jong-un suspende ações militares contra a Coreia do Sul](https://oglobo.globo.com/mundo/em-aparente-recuo-kim-jong-un-suspende-acoes-militares-contra-coreia-do-sul-24495155)
 * [Moradores deixam prédio de 12 andares na Lagoa após laudo apontar risco de deslizamento de pedras com quatro toneladas](https://oglobo.globo.com/rio/moradores-deixam-predio-de-12-andares-na-lagoa-apos-laudo-apontar-risco-de-deslizamento-de-pedras-com-quatro-toneladas-24495070)
-* [Cotado para o MEC é olavista amigo de Eduardo e ex-auxiliar de Weintraub](https://epoca.globo.com/guilherme-amado/cotado-para-mec-olavista-amigo-de-eduardo-ex-auxiliar-de-weintraub-24495035)

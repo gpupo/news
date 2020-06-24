@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 08:34:37 UTC
+# indexed at 24/06/2020 09:09:58 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Don’t Fly During Ramadan (2013)](https://adityamukerjee.net/2013/08/22/dont-fly-during-ramadan/)
-* [Elevator.js – A “back to top” button that behaves like a real elevator](http://tholman.com/elevator.js/)
 * [London tube map made from a working circuit board](https://www.ianvisits.co.uk/blog/2020/06/23/check-out-this-london-tube-map-made-from-a-working-circuit-board/)
+* [Elevator.js – A “back to top” button that behaves like a real elevator](http://tholman.com/elevator.js/)
 * [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
-* [Safari now blocks Google Analytics on sites, new Privacy Report feature shows](https://appleinsider.com/articles/20/06/22/safari-now-blocks-google-analytics-on-sites-new-privacy-report-feature-shows)
-* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
-* [Tiny C Compiler](https://bellard.org/tcc/)
 * [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
-* [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
-* [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
-* [Exploration of Generative Art](https://generativeartistry.com)
-* [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
+* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
+* [Exploration of Generative Art](https://generativeartistry.com)
+* [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
-* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
-* [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
-* [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
+* [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
+* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
 * [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [Don’t Fly During Ramadan (2013)](https://adityamukerjee.net/2013/08/22/dont-fly-during-ramadan/)
 * [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
+* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
-* [Eyes in the Sky](https://restofworld.org/2020/india-magh-mela/)
+* [Tiny C Compiler](https://bellard.org/tcc/)
+* [CashRegister in PyQt5 with barcode logon and 32 programmable buttons](https://github.com/DirkJanJansen/Sales)
+* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
+* [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+* [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 ## nytimes.com
 
 
@@ -106,12 +106,12 @@ layout: default
 
 
 * [“Onde estão as mãos esta noite?”: encontro de teatro e internet que produz fagulhas](https://oglobo.globo.com/rioshow/onde-estao-as-maos-esta-noite-encontro-de-teatro-internet-que-produz-fagulhas-24495223)
-* [Marco do saneamento: ministério prevê impacto positivo de R$ 753 bi para economia](https://oglobo.globo.com/economia/marco-do-saneamento-ministerio-preve-impacto-positivo-de-753-bi-para-economia-24495460)
 * [Qual é o tamanho do 'descalabro' na Saúde do estado do Rio?](https://oglobo.globo.com/podcast/qual-o-tamanho-do-descalabro-na-saude-do-estado-do-rio-24495334)
-* [Governo suspendeu multa de R$ 27 milhões a consórcio com empresa da ex-mulher de Wassef](https://oglobo.globo.com/brasil/governo-suspendeu-multa-de-27-milhoes-consorcio-com-empresa-da-ex-mulher-de-wassef-2-24495349)
-* ['Rio é o filho bastardo do pacto federativo', diz secretário sobre ajuste fiscal 'desproporcional' exigido pela União](https://oglobo.globo.com/rio/rio-o-filho-bastardo-do-pacto-federativo-diz-secretario-sobre-ajuste-fiscal-desproporcional-exigido-pela-uniao-1-24495293)
-* [Com desfile militar, Putin tenta amenizar desgaste da epidemia de olho em referendo](https://oglobo.globo.com/mundo/com-desfile-militar-putin-tenta-amenizar-desgaste-da-epidemia-de-olho-em-referendo-24494778)
+* [Delação de Dario Messer perto de ser fechada, mas há um impasse](https://epoca.globo.com/guilherme-amado/delacao-de-dario-messer-perto-de-ser-fechada-mas-ha-um-impasse-24495553)
+* [A multiplicação dos copos](https://oglobo.globo.com/cultura/a-multiplicacao-dos-copos-24495220)
+* [O que é o capacitismo e como enfrentar essa forma de discriminação?](https://oglobo.globo.com/celina/o-que-o-capacitismo-como-enfrentar-essa-forma-de-discriminacao-24494130)
 * [Sufocada, Cultura do Rio fica sem R$ 49,7 milhões do ISS após lei proposta por Crivella ser aprovada às pressas](https://oglobo.globo.com/cultura/sufocada-cultura-do-rio-fica-sem-497-milhoes-do-iss-apos-lei-proposta-por-crivella-ser-aprovada-as-pressas-24495123)
-* ['Achava que ódio não existia no vocabulário brasileiro', diz jornalista francês que cobre cena artística mundial há 30 anos](https://oglobo.globo.com/cultura/achava-que-odio-nao-existia-no-vocabulario-brasileiro-diz-jornalista-frances-que-cobre-cena-artistica-mundial-ha-30-anos-24485986)
 * [Camisa 10 da seleção completa 70 anos e 111 jogadores já a usaram; veja o ranking](https://oglobo.globo.com/esportes/camisa-10-da-selecao-completa-70-anos-111-jogadores-ja-usaram-veja-ranking-24494760)
 * [Palavras cruzadas do site do GLOBO tratam de festas juninas neste Dia de São João](https://oglobo.globo.com/brasil/palavras-cruzadas-do-site-do-globo-tratam-de-festas-juninas-neste-dia-de-sao-joao-24494948)
+* [Festas juninas virtuais: eventos tradicionais de São João ganham formato na web](https://oglobo.globo.com/rioshow/festas-juninas-virtuais-eventos-tradicionais-de-sao-joao-ganham-formato-na-web-1-24494379)
+* [Lives de hoje: agenda tem atrações como Felipe Prazeres, Mateus Solano e mais](https://oglobo.globo.com/rioshow/lives-de-hoje-agenda-tem-atracoes-como-felipe-prazeres-mateus-solano-mais-24494541)

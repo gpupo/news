@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 01:11:05 UTC
+# indexed at 24/06/2020 01:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -12,31 +12,31 @@ layout: default
 * [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
-* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 * [Tiny C Compiler](https://bellard.org/tcc/)
-* [DOJ charges Roundup plaintiffs' lawyer in $200M alleged extortion scheme](https://www.reuters.com/article/us-otc-masstorts/doj-charges-roundup-plaintiffs-lawyer-in-200-million-alleged-extortion-scheme-idUSKBN1YM2L9)
 * [Exploration of Generative Art](https://generativeartistry.com)
+* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
+* [DOJ charges Roundup plaintiffs' lawyer in $200M alleged extortion scheme](https://www.reuters.com/article/us-otc-masstorts/doj-charges-roundup-plaintiffs-lawyer-in-200-million-alleged-extortion-scheme-idUSKBN1YM2L9)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
-* [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 * [Dungeon Scrawl: Old school maps in minutes](https://dungeonscrawl.com/)
-* [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
-* [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
+* [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
+* [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
+* [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
-* [The death of the private citizen?](https://spectator.us/new-york-times-private-slate-star-codex-blog/)
+* [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
 * [Safari is adopting an extensions API similar to Firefox’s WebExtensions](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
+* [The death of the private citizen?](https://spectator.us/new-york-times-private-slate-star-codex-blog/)
 * [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
-* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [How Effective Communication Can Be Achieved in a Digital Work Environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
 * [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
+* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
 * [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
 * [Show HN: Awk-JVM – A toy JVM in Awk](https://github.com/rethab/awk-jvm)
 * [On Contact Tracing and Hardware Tokens](https://www.bunniestudios.com/blog/?p=5820)
-* [Tasks.org – Open-source ToDo app for Android with CalDAV sync](https://tasks.org/)
-* [California sets Covid-19 daily record, Bay Area cumulative total passes 20k](https://www.eastbaytimes.com/2020/06/23/coronavirus-california-sets-another-daily-record-as-bay-area-surges-past-20000-cases/)
-* [Lossless compression of English messages using GPT-2](http://textsynth.org/sms.html)
 * [Feedback Canvas. A tool for receiving honest feedback from your team](https://stanete.com/feedback-canvas)
 ## nytimes.com
 
@@ -74,8 +74,8 @@ layout: default
 * [This Monument to White Supremacy Hides in Plain Sight](https://www.nytimes.com/2020/06/23/opinion/drakes-cross-white-supremacy.html)
 * [Will the Last Confederate Statue Standing Turn Off the Lights?](https://www.nytimes.com/2020/06/23/style/statue-richmond-lee.html)
 * [It’s a Wonderful Time to Be Leslie Jordan](https://www.nytimes.com/2020/06/23/style/leslie-jordan-instagram.html)
-* [7.5 Magnitude Earthquake Jolts Mexico, Kills at Least 4: Live Updates](https://www.nytimes.com/2020/06/23/world/mexico-earthquake.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [Ron Jeremy, Adult Film Star, Charged With Sexually Assaulting 4 Women](https://www.nytimes.com/2020/06/23/arts/ron-jeremy-rape-charges.html)
 * [Met Museum Plans to Open in Late August](https://www.nytimes.com/2020/06/23/arts/design/met-museum-reopen-virus.html)
 * [F.B.I. Says Noose Was in NASCAR Garage Since Last Year](https://www.nytimes.com/2020/06/23/sports/autoracing/bubba-wallace-noose-nascar.html)
 * [Director of Trump-Comey TV Series Criticizes Postelection Release Date](https://www.nytimes.com/2020/06/23/business/media/trump-comey-tv-series-viacomcbs.html)
@@ -85,18 +85,18 @@ layout: default
 * [These Companies Gave Their C.E.O.s Millions, Just Before Bankruptcy](https://www.nytimes.com/2020/06/23/business/ceo-bonsues-before-bankruptcy-coronavirus.html)
 * [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
 * [Virginie Despentes Makes France Angry, but Things Are Changing](https://www.nytimes.com/2020/06/23/books/virginie-despentes.html)
 * [Author Brittney Cooper on Harnessing Rage, Right Now](https://www.nytimes.com/2020/06/20/us/20IHW-black-lives-matter-protests-brittney-cooper-women.html)
 * [Tiny Love Stories: “I Googled ‘Crisis’”](https://www.nytimes.com/2020/06/23/style/tiny-modern-love-stories-coronavirus-i-googled-crisis.html)
 * [Family Connection in a Teapot](https://www.nytimes.com/2020/06/23/well/family/family-connection-in-a-teapot.html)
-* [Many Medical Decision Tools Disadvantage Black Patients](https://www.nytimes.com/2020/06/17/health/many-medical-decision-tools-disadvantage-black-patients.html)
 * [Health Care Advocates Push Back Against Trump’s Erasure of Transgender Rights](https://www.nytimes.com/2020/06/13/health/trump-health-care-transgender-rights.html)
-* [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
 * [Gilead to Test a Version of Remdesivir That Can Be Inhaled](https://www.nytimes.com/2020/06/22/health/gilead-remdesivir-coronavirus-nebulizer.html)
+* [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
+* [Many Medical Decision Tools Disadvantage Black Patients](https://www.nytimes.com/2020/06/17/health/many-medical-decision-tools-disadvantage-black-patients.html)
 * [The President’s Shock at the Rows of Empty Seats in Tulsa](https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html)
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
 * [Kamala Harris, Elizabeth Warren and More: Who’s in the Running to be Biden’s V.P.?](https://www.nytimes.com/article/biden-vice-president-2020.html)
@@ -107,7 +107,8 @@ layout: default
 ## globo.com
 
 
-* [Em ato fechado, Mário Frias toma posse como novo secretário de Cultura](https://oglobo.globo.com/cultura/em-ato-fechado-mario-frias-toma-posse-como-novo-secretario-de-cultura-24495246)
+* [Senado aprova corte de 50% nas contribuições para o Sistema S](https://oglobo.globo.com/economia/senado-aprova-corte-de-50-nas-contribuicoes-para-sistema-s-24495307)
+* [Em ato fechado, Mario Frias toma posse como novo secretário de Cultura](https://oglobo.globo.com/cultura/em-ato-fechado-mario-frias-toma-posse-como-novo-secretario-de-cultura-1-24495246)
 * [Em aparente recuo, Kim Jong-un suspende ações militares contra a Coreia do Sul](https://oglobo.globo.com/mundo/em-aparente-recuo-kim-jong-un-suspende-acoes-militares-contra-coreia-do-sul-24495155)
 * [Sem foro privilegiado, inquérito de Weintraub por racismo não vai ficar no STF](https://oglobo.globo.com/brasil/sem-foro-privilegiado-inquerito-de-weintraub-por-racismo-nao-vai-ficar-no-stf-24495012)
 * [Brasil monitora nuvem de gafanhotos na Argentina que pode ameaçar agricultura](https://oglobo.globo.com/sociedade/brasil-monitora-nuvem-de-gafanhotos-na-argentina-que-pode-ameacar-agricultura-24495164)
@@ -116,4 +117,3 @@ layout: default
 * [Estado do Rio ultrapassa 100 mil casos de coronavírus e contabiliza mais de 9 mil mortes](https://oglobo.globo.com/rio/estado-do-rio-ultrapassa-100-mil-casos-de-coronavirus-contabiliza-mais-de-9-mil-mortes-24495058)
 * [Futuro em aberto: prefeitura abre licitação para nova concessão do Cassino da Urca, mas IED fica até ano que vem](https://oglobo.globo.com/rio/futuro-em-aberto-prefeitura-abre-licitacao-para-nova-concessao-do-cassino-da-urca-mas-ied-fica-ate-ano-que-vem-24495061)
 * [Brasil vai produzir gasolina com mesma qualidade da vendida nos EUA e Europa](https://oglobo.globo.com/economia/brasil-vai-produzir-gasolina-com-mesma-qualidade-da-vendida-nos-eua-europa-24495046)
-* [Duas semanas após lançamento, só Caixa começou a emprestar pelo Pronampe](https://oglobo.globo.com/economia/duas-semanas-apos-lancamento-so-caixa-comecou-emprestar-pelo-pronampe-24495003)

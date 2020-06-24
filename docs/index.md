@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 09:09:58 UTC
+# indexed at 24/06/2020 09:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
 * [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
-* [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
-* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
+* [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
 * [Exploration of Generative Art](https://generativeartistry.com)
+* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
+* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
+* [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
-* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
 * [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [Initial Covid-19 infection rate may be 80 times greater than originally reported](https://news.psu.edu/story/623797/2020/06/22/research/initial-covid-19-infection-rate-may-be-80-times-greater-originally)
+* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
 * [Don’t Fly During Ramadan (2013)](https://adityamukerjee.net/2013/08/22/dont-fly-during-ramadan/)
 * [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
 * [Tiny C Compiler](https://bellard.org/tcc/)
-* [CashRegister in PyQt5 with barcode logon and 32 programmable buttons](https://github.com/DirkJanJansen/Sales)
-* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
-* [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 ## nytimes.com
 
 
@@ -56,6 +56,7 @@ layout: default
 * [Gun Violence Spikes in N.Y.C., Intensifying Debate Over Policing](https://www.nytimes.com/2020/06/23/nyregion/nyc-shootings-surge.html)
 * [After an Acrimonious Spring, Baseball Finally Has a Plan to Play](https://www.nytimes.com/2020/06/23/sports/baseball/mlb-season-schedule.html)
 * [Baseball’s Plan: A 60-Game Sprint With Fingers Crossed](https://www.nytimes.com/2020/06/23/sports/baseball/mlb-60-game-season.html)
+* [How N.Y.C. Plans to Crack Down on Illegal Fireworks](https://www.nytimes.com/2020/06/24/nyregion/fireworks-nyc.html)
 * [The Battle Over the Democratic Party’s Future](https://www.nytimes.com/2020/06/23/podcasts/the-daily/kentucky-democratic-primary.html)
 * [The Visas and the Fury](https://www.nytimes.com/2020/06/23/business/dealbook/us-immigration-visa-h1b.html)
 * [André Leon Talley on ‘The Chiffon Trenches’](https://www.nytimes.com/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html)
@@ -70,8 +71,9 @@ layout: default
 * [Joe Biden Is Wondering Why John Bolton Suddenly Likes Him](https://www.nytimes.com/2020/06/23/opinion/joe-biden-john-bolton.html)
 * [Black Employees: An NDA Signs Away Your Right to Speak Out](https://www.nytimes.com/2020/06/23/opinion/nda-racism-separation-agreements.html)
 * [This Monument to White Supremacy Hides in Plain Sight](https://www.nytimes.com/2020/06/23/opinion/drakes-cross-white-supremacy.html)
-* [Will the Last Confederate Statue Standing Turn Off the Lights?](https://www.nytimes.com/2020/06/23/style/statue-richmond-lee.html)
-* [It’s a Wonderful Time to Be Leslie Jordan](https://www.nytimes.com/2020/06/23/style/leslie-jordan-instagram.html)
+* [Restaurant Dining Is Back, if You Can Find a Table](https://www.nytimes.com/2020/06/23/dining/outdoor-restaurants-nyc-coronavirus.html)
+* [When Face Masks Hide Your Smile and Other Emotions.](https://www.nytimes.com/2020/06/23/style/face-mask-emotion-coronavirus.html)
+* [Travel Insurance: Is It Worth It?](https://www.nytimes.com/2020/06/17/travel/travel-insurance-pandemic.html)
 * [Ad Boycott of Facebook Keeps Growing](https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html)
 * [Obama Urges Democrats: ‘Whatever You’ve Done So Far Is Not Enough’](https://www.nytimes.com/2020/06/23/us/politics/obama-biden-fundraiser.html)
 * [Ron Jeremy, Adult Film Star, Charged With Sexually Assaulting 4 Women](https://www.nytimes.com/2020/06/23/arts/ron-jeremy-rape-charges.html)
@@ -97,15 +99,15 @@ layout: default
 * [Many Medical Decision Tools Disadvantage Black Patients](https://www.nytimes.com/2020/06/17/health/many-medical-decision-tools-disadvantage-black-patients.html)
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
 * [Donald Trump's Undone Tie: What Does It Mean?](https://www.nytimes.com/2020/06/22/style/trump-tulsa-tie.html)
-* [Sweden Tries Out a New Status: Pariah State](https://www.nytimes.com/2020/06/22/world/europe/sweden-coronavirus-pariah-scandinavia.html)
 * [$550,000 Homes in California](https://www.nytimes.com/2020/06/22/realestate/550000-homes-in-california.html)
+* [How to Work From Home Successfully](https://www.nytimes.com/2020/06/21/business/work-home-coronavirus.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [“Onde estão as mãos esta noite?”: encontro de teatro e internet que produz fagulhas](https://oglobo.globo.com/rioshow/onde-estao-as-maos-esta-noite-encontro-de-teatro-internet-que-produz-fagulhas-24495223)
+* [Viúva de corretor morto por PM manda carta à delegacia: 'Não existem só policiais que agem errado'](https://oglobo.globo.com/rio/viuva-de-corretor-morto-por-pm-manda-carta-delegacia-nao-existem-so-policiais-que-agem-errado-24495609)
 * [Qual é o tamanho do 'descalabro' na Saúde do estado do Rio?](https://oglobo.globo.com/podcast/qual-o-tamanho-do-descalabro-na-saude-do-estado-do-rio-24495334)
 * [Delação de Dario Messer perto de ser fechada, mas há um impasse](https://epoca.globo.com/guilherme-amado/delacao-de-dario-messer-perto-de-ser-fechada-mas-ha-um-impasse-24495553)
 * [A multiplicação dos copos](https://oglobo.globo.com/cultura/a-multiplicacao-dos-copos-24495220)

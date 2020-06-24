@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 15:10:09 UTC
+# indexed at 24/06/2020 15:34:19 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Man Was Falsely Arrested After Facial Recognition Mistake](https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake)
-* [$35 Keyboard for Children Transformed Me into a Novelist](https://onezero.medium.com/this-35-keyboard-for-children-transformed-me-into-a-novelist-436a55370ee5)
-* [Rust Functional Language Features](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
+* [Google Blew a Ten-Year Lead](https://secondbreakfast.co/google-blew-a-ten-year-lead)
+* [A $35 Keyboard for Children Transformed Me Into a Novelist](https://onezero.medium.com/this-35-keyboard-for-children-transformed-me-into-a-novelist-436a55370ee5)
+* [Show HN: H1B Valley – A gallery of successful immigrant founded startups](https://www.h1bvalley.com/)
 * [DNS Push Notifications](http://www.rfc-editor.org/rfc/rfc8765.txt)
+* [Man says he was falsely arrested after facial recognition mistake](https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake)
 * [Ad Boycott of Facebook Keeps Growing](https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html)
 * [London tube map made from a working circuit board](https://www.ianvisits.co.uk/blog/2020/06/23/check-out-this-london-tube-map-made-from-a-working-circuit-board/)
-* [Starcity (YC S16) Is Hiring a Senior Software Engineer (SF or Remote)](https://wp.starcity.com/posting/?id=2b6de800-135e-4baf-b1fa-e1f24aa71fb1)
 * [Elevator.js – A “back to top” button that behaves like a real elevator](http://tholman.com/elevator.js/)
+* [One simple yet crucial thing I learned from YC's StartupSchool](https://codarium.substack.com/p/one-simple-yet-crucial-thing-i-learned)
+* [Starcity (YC S16) Is Hiring a Senior Software Engineer (SF or Remote)](https://wp.starcity.com/posting/?id=2b6de800-135e-4baf-b1fa-e1f24aa71fb1)
 * [WhatsApp payments suspended in Brazil by Central Bank](https://www.theverge.com/2020/6/24/21301470/whatsapp-payments-brazil-suspended-central-bank-risk-regulators)
 * [Facebook accused of trying to decloak domain owners' personal Whois info](https://www.theregister.com/2020/06/23/facebook_gdpr_workaround/)
+* [Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
 * [Microsoft duplicates data from Firefox without asking](https://www.reddit.com/r/Windows10/comments/hct0mj/are_we_going_to_get_treated_to_spam_popups/)
+* [Mounting clues suggest the coronavirus might trigger diabetes](https://www.nature.com/articles/d41586-020-01891-8)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
 * [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)
-* [Mounting clues suggest the coronavirus might trigger diabetes (June 2020)](https://www.nature.com/articles/d41586-020-01891-8)
 * [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
-* [Onivim 2: Lightweight, Modal Code Editor](https://github.com/onivim/oni2)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
-* [People Read Online. A Study by Nielsen Norman Group](https://www.nngroup.com/articles/how-people-read-online/)
+* [Onivim 2: Lightweight, Modal Code Editor](https://github.com/onivim/oni2)
 * [Sysinternals ProcDump for Linux](https://build5nines.com/sysinternals-procdump-for-linux/)
+* [How People Read Online: New and Old Findings](https://www.nngroup.com/articles/how-people-read-online/)
 * [Show HN: Slingcode live-reloading web IDE to make, run, and share web apps P2P](https://slingcode.net/)
 * [Object-Oriented Design Heuristics (2017) [slides]](https://www.slideshare.net/kim.mens/objectoriented-design-heuristics)
 * [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [Staring into the COM Abyss](https://cmpct.info/~calvin/Articles/COMAbyss/)
-* [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
-* [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
-* [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
-* [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
+* [Tuvalu Makes $4M a Year](https://factinator.com/tuvalu-island/)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [Americans Face New Virus Limbo as Some Reopenings Are Halted](https://www.nytimes.com/2020/06/24/us/coronavirus-limits.html)
 * [How the World Is Learning to Live With a Deadly Pandemic](https://www.nytimes.com/2020/06/24/world/europe/countries-reopening-coronavirus.html)
 * [‘The City Fumbled It’: How 4 Families Took On the Virus](https://www.nytimes.com/2020/06/24/nyregion/coronavirus-public-housing-new-york.html)
-* [In Poor Countries, Many Covid-19 Patients Are Desperate for Oxygen](https://www.nytimes.com/2020/06/23/health/coronavirus-oxygen-africa.html)
+* [Pandemic May Force New York City to Lay Off 22,000 Workers](https://www.nytimes.com/2020/06/24/nyregion/budget-layoffs-nyc-mta-coronavirus.html)
 * [Tracking Coronavirus](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 * [Appeals Court Panel Orders End to Michael Flynn Case](https://www.nytimes.com/2020/06/24/us/politics/michael-flynn-appeals-court.html)
 * [Justice Dept. Officials to Testify on Politicization Under Barr](https://www.nytimes.com/2020/06/24/us/politics/justice-department-politicization.html)
@@ -56,7 +56,7 @@ layout: default
 * [9 Departments and Multiple Infractions for One New Jersey Police Officer](https://www.nytimes.com/2020/06/24/nyregion/new-jersey-police.html)
 * [A Minneapolis Neighborhood Vowed to Check Its Privilege. It’s Already Being Tested.](https://www.nytimes.com/2020/06/24/us/minneapolis-george-floyd-police.html)
 * [Amazon Workers Urge Bezos to Match His Words on Race With Actions](https://www.nytimes.com/2020/06/24/technology/amazon-racial-inequality.html)
-* [Insurgent Wave Upends House Primaries in N.Y. as Engel Falls Behind](https://www.nytimes.com/2020/06/24/nyregion/new-york-primary-progressives.html)
+* [Engel Falls Behind as Insurgent Wave Upends House Primaries in N.Y.](https://www.nytimes.com/2020/06/24/nyregion/ny-primary-election-results.html)
 * [Lots of Drama but Little Certainty in Kentucky and New York Primaries](https://www.nytimes.com/2020/06/23/us/politics/kentucky-new-york-election-recap.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [Why the Coronavirus Is Winning](https://www.nytimes.com/2020/06/24/briefing/kentucky-primary-rayshard-brooks-major-league-baseball-your-wednesday-briefing.html)
@@ -112,13 +112,13 @@ layout: default
 ## globo.com
 
 
-* [Ex-secretário de Saúde Edmar Santos falta à audiência da comissão da Alerj que apura gastos na pandemia](https://oglobo.globo.com/rio/ex-secretario-de-saude-edmar-santos-falta-audiencia-da-comissao-da-alerj-que-apura-gastos-na-pandemia-24495952)
-* [Delegado é afastado de reprodução simulada do caso João Pedro](https://oglobo.globo.com/rio/delegado-afastado-de-reproducao-simulada-do-caso-joao-pedro-1-24496024)
+* [Maratona de Nova York de 2020 é cancelada devido à pandemia de Covid-19](https://oglobo.globo.com/esportes/maratona-de-nova-york-de-2020-cancelada-devido-pandemia-de-covid-19-24495977)
 * [Comerciantes protestam após boxes do mercado popular de Botafogo serem retirados para obra de construtora](https://oglobo.globo.com/rio/comerciantes-protestam-apos-boxes-do-mercado-popular-de-botafogo-serem-retirados-para-obra-de-construtora-24495966)
+* [Papa Francisco envia carta a Zanardi: 'Lição de humanidade'](https://oglobo.globo.com/esportes/papa-francisco-envia-carta-zanardi-licao-de-humanidade-24496050)
+* [Com recorde de casos diários no país, Exército da Índia irá administrar instalações médicas em Nova Délhi](https://oglobo.globo.com/mundo/com-recorde-de-casos-diarios-no-pais-exercito-da-india-ira-administrar-instalacoes-medicas-em-nova-delhi-24496042)
+* [Ex-secretário de Saúde Edmar Santos falta à audiência da comissão da Alerj que apura gastos na pandemia](https://oglobo.globo.com/rio/ex-secretario-de-saude-edmar-santos-falta-audiencia-da-comissao-da-alerj-que-apura-gastos-na-pandemia-24495952)
 * [Novo marco do saneamento tem prioridade por tirar o atraso no que é básico](https://oglobo.globo.com/analitico/novo-marco-do-saneamento-tem-prioridade-por-tirar-atraso-no-que-basico-24496005)
 * [Pilotos de avião que caiu no Paquistão estavam distraídos conversando sobre o coronavírus, mostra relatório](https://oglobo.globo.com/mundo/pilotos-de-aviao-que-caiu-no-paquistao-estavam-distraidos-conversando-sobre-coronavirus-mostra-relatorio-24495931)
-* [Maratona de Nova York de 2020 é cancelada devido à pandemia de Covid-19](https://oglobo.globo.com/esportes/maratona-de-nova-york-de-2020-cancelada-devido-pandemia-de-covid-19-24495977)
-* [PF mira ex-comandante da PM no governo Fernando Pimentel](https://oglobo.globo.com/brasil/pf-mira-ex-comandante-da-pm-no-governo-fernando-pimentel-24495837)
 * [Caso Flordelis: Perícia diz que pastor Anderson levou mais dois tiros após cair baleado no chão](https://oglobo.globo.com/rio/caso-flordelis-pericia-diz-que-pastor-anderson-levou-mais-dois-tiros-apos-cair-baleado-no-chao-1-24495928)
 * [Hudson, do Fluminense, critica volta do Carioca: 'Talvez não estejam pensando com humanidade'](https://oglobo.globo.com/esportes/hudson-do-fluminense-critica-volta-do-carioca-talvez-nao-estejam-pensando-com-humanidade-24495944)
-* [Bolsonaro sanciona projeto que facilita doação de alimentos](https://oglobo.globo.com/brasil/bolsonaro-sanciona-projeto-que-facilita-doacao-de-alimentos-1-24495880)
+* [Partido de Roberto Jefferson aciona STF em nova tentativa de suspender inquérito das fake news](https://epoca.globo.com/guilherme-amado/partido-de-roberto-jefferson-aciona-stf-em-nova-tentativa-de-suspender-inquerito-das-fake-news-1-24495167)

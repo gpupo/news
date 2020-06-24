@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 00:27:31 UTC
+# indexed at 24/06/2020 00:36:21 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Segway ends production](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
-* [Why CoinDesk Respects Pseudonymity: A Stand Against Doxxing](https://www.coindesk.com/why-coindesk-respects-pseudonymity-a-stand-against-doxxing)
-* [My dream dating app has been banned by Apple](https://webworm.substack.com/p/my-dream-dating-app-has-been-banned)
+* [Roundup cancer attorney pleads guilty to extortion attempt](https://www.justice.gov/opa/pr/virginia-attorneys-plead-guilty-orchestrating-200-million-extortion-scheme-targeting)
+* [Bill Proposed to Outlaw End to End Encryption](https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
-* [The Death of the Private Citizen](https://spectator.us/new-york-times-private-slate-star-codex-blog/)
-* [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
+* [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Tiny C Compiler](https://bellard.org/tcc/)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
+* [Exploration of Generative Art](https://generativeartistry.com)
 * [Dungeon Scrawl: Old school maps in minutes](https://dungeonscrawl.com/)
-* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
+* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [My dream dating app has been banned by Apple](https://webworm.substack.com/p/my-dream-dating-app-has-been-banned)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
-* [Exploration of Generative Art](https://generativeartistry.com)
 * [Pseudonymity as a Trivial Concession to Genius](https://www.scottaaronson.com/blog/?p=4870)
-* [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
+* [Why CoinDesk Respects Pseudonymity: A Stand Against Doxxing](https://www.coindesk.com/why-coindesk-respects-pseudonymity-a-stand-against-doxxing)
 * [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
+* [The Death of the Private Citizen](https://spectator.us/new-york-times-private-slate-star-codex-blog/)
 * [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
-* [Roundup cancer attorney pleads guilty to extortion attempt](https://www.justice.gov/opa/pr/virginia-attorneys-plead-guilty-orchestrating-200-million-extortion-scheme-targeting)
+* [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
 * [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
 * [Safari is adopting an extensions API similar to Firefox’s WebExtensions](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
 * [Nanoplastics accumulate in land-plant tissues: study](https://www.sciencedaily.com/releases/2020/06/200622152542.htm)
-* [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
 * [Show HN: Awk-JVM – A toy JVM in Awk](https://github.com/rethab/awk-jvm)
-* [On Contact Tracing and Hardware Tokens](https://www.bunniestudios.com/blog/?p=5820)
+* [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
 ## nytimes.com
 
 
@@ -107,6 +107,7 @@ layout: default
 ## globo.com
 
 
+* [Moradores deixam prédio de 12 andares na Lagoa após laudo apontar risco de deslizamento de pedras com quatro toneladas](https://oglobo.globo.com/rio/moradores-deixam-predio-de-12-andares-na-lagoa-apos-laudo-apontar-risco-de-deslizamento-de-pedras-com-quatro-toneladas-24495070)
 * [Cotado para o MEC é olavista amigo de Eduardo e ex-auxiliar de Weintraub](https://epoca.globo.com/guilherme-amado/cotado-para-mec-olavista-amigo-de-eduardo-ex-auxiliar-de-weintraub-24495035)
 * [Estado do Rio ultrapassa 100 mil casos de coronavírus e contabiliza mais de 9 mil mortes](https://oglobo.globo.com/rio/estado-do-rio-ultrapassa-100-mil-casos-de-coronavirus-contabiliza-mais-de-9-mil-mortes-24495058)
 * [Futuro em aberto: prefeitura abre licitação para nova concessão do Cassino da Urca, mas IED fica até ano que vem](https://oglobo.globo.com/rio/futuro-em-aberto-prefeitura-abre-licitacao-para-nova-concessao-do-cassino-da-urca-mas-ied-fica-ate-ano-que-vem-24495061)
@@ -116,4 +117,3 @@ layout: default
 * [Sem foro privilegiado, inquérito de Weintraub por racismo não vai ficar no STF](https://oglobo.globo.com/brasil/sem-foro-privilegiado-inquerito-de-weintraub-por-racismo-nao-vai-ficar-no-stf-24495012)
 * [Duas semanas após lançamento, só Caixa começou a emprestar pelo Pronampe](https://oglobo.globo.com/economia/duas-semanas-apos-lancamento-so-caixa-comecou-emprestar-pelo-pronampe-24495003)
 * [Pandemia impõe custos milionários a negócios que continuam operando](https://oglobo.globo.com/economia/pandemia-impoe-custos-milionarios-negocios-que-continuam-operando-24494979)
-* [Morre Capoeira, morador de rua cuja história viralizou ao ajudar idosa em temporal](https://oglobo.globo.com/rio/morre-capoeira-morador-de-rua-cuja-historia-viralizou-ao-ajudar-idosa-em-temporal-24494973)

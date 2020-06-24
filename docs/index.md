@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 10:09:54 UTC
+# indexed at 24/06/2020 10:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
+* [Facebook accused of trying to decloak domain owners' personal Whois info](https://www.theregister.com/2020/06/23/facebook_gdpr_workaround/)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
-* [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
+* [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [Exploration of Generative Art](https://generativeartistry.com)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
 * [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
-* [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
 * [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
+* [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
+* [Show HN: Slingcode live-reloading web IDE to make, run, and share web apps P2P](https://slingcode.net/)
 * [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
 * [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
 * [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
-* [Facebook accused of trying to decloak domain owners' personal Whois info](https://www.theregister.com/2020/06/23/facebook_gdpr_workaround/)
 * [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
-* [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
-* [Initial Covid-19 infection rate may be 80 times greater than originally reported](https://news.psu.edu/story/623797/2020/06/22/research/initial-covid-19-infection-rate-may-be-80-times-greater-originally)
-* [Windows Fax and Scan](https://twitter.com/gravislizard/status/1275585518789513216)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
+* [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
+* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
+* [Initial Covid-19 infection rate may be 80 times greater than originally reported](https://news.psu.edu/story/623797/2020/06/22/research/initial-covid-19-infection-rate-may-be-80-times-greater-originally)
 * [Tiny C Compiler](https://bellard.org/tcc/)
-* [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 ## nytimes.com
 
 
@@ -58,13 +58,13 @@ layout: default
 * [The Inheritance Tax Is Far Too Low](https://www.nytimes.com/2020/06/24/opinion/inheritance-tax-inequality.html)
 * [Why Do We Pay So Many People So Little Money?](https://www.nytimes.com/2020/06/24/opinion/wages-coronavirus.html)
 * [‘Though the Virus Hadn’t Yet Reached Us, It Was Already Our Enemy’](https://www.nytimes.com/video/opinion/100000007105817/coronavirus-texas-hospital.html)
-* [Health Care Workers Are the Future. Protect Their Rights.](https://www.nytimes.com/2020/06/24/opinion/coronavirus-health-workers-nurses.html)
-* [American Workers Deserve to Live With Dignity](https://www.nytimes.com/2020/06/24/opinion/inequality-work-america.html)
-* [The Coronavirus Is Still Raging. Trump Remains in Denial.](https://www.nytimes.com/2020/06/23/opinion/coronavirus-testing-trump.html)
 * [Boris Johnson Cares About ‘Liberty’ More Than People’s Lives](https://www.nytimes.com/2020/06/24/opinion/boris-johnson-coronavirus.html)
+* [American Workers Deserve to Live With Dignity](https://www.nytimes.com/2020/06/24/opinion/inequality-work-america.html)
+* [Health Care Workers Are the Future. Protect Their Rights.](https://www.nytimes.com/2020/06/24/opinion/coronavirus-health-workers-nurses.html)
+* [The Coronavirus Is Still Raging. Trump Remains in Denial.](https://www.nytimes.com/2020/06/23/opinion/coronavirus-testing-trump.html)
 * [China and America Are Heading Toward Divorce](https://www.nytimes.com/2020/06/23/opinion/china-united-states-trump.html)
-* [Mr. Jones and Me: Younger Baby Boomers Swing Left](https://www.nytimes.com/2020/06/23/opinion/baby-boomers-trump.html)
 * [The Seattle Autonomous Zone Is Not the Full Story](https://www.nytimes.com/2020/06/24/opinion/seattle-autonomous-zone-CHOP.html)
+* [Mr. Jones and Me: Younger Baby Boomers Swing Left](https://www.nytimes.com/2020/06/23/opinion/baby-boomers-trump.html)
 * [Restaurant Dining Is Back, if You Can Find a Table](https://www.nytimes.com/2020/06/23/dining/outdoor-restaurants-nyc-coronavirus.html)
 * [When Face Masks Hide Your Smile and Other Emotions.](https://www.nytimes.com/2020/06/23/style/face-mask-emotion-coronavirus.html)
 * [Travel Insurance: Is It Worth It?](https://www.nytimes.com/2020/06/17/travel/travel-insurance-pandemic.html)
@@ -77,11 +77,11 @@ layout: default
 * [How Statues Are Falling Around the World](https://www.nytimes.com/2020/06/24/us/confederate-statues-photos.html)
 * [Lots of Drama but Little Certainty in Kentucky and New York Primaries](https://www.nytimes.com/2020/06/23/us/politics/kentucky-new-york-election-recap.html)
 * [The Hajj Pilgrimage Is Canceled, and Grief Rocks the Muslim World](https://www.nytimes.com/2020/06/23/world/middleeast/hajj-pilgrimage-canceled.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
-* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
-* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
 * [Virginie Despentes Makes France Angry, but Things Are Changing](https://www.nytimes.com/2020/06/23/books/virginie-despentes.html)
 * [Author Brittney Cooper on Harnessing Rage, Right Now](https://www.nytimes.com/2020/06/20/us/20IHW-black-lives-matter-protests-brittney-cooper-women.html)
@@ -101,7 +101,7 @@ layout: default
 ## globo.com
 
 
-* [Incêndio destroi a estação Gelson Fonseca, do BRT Transoeste, no Recreio](https://oglobo.globo.com/rio/incendio-destroi-estacao-gelson-fonseca-do-brt-transoeste-no-recreio-24495617)
+* [Incêndio destrói a estação Gelson Fonseca, do BRT Transoeste, no Recreio](https://oglobo.globo.com/rio/incendio-destroi-estacao-gelson-fonseca-do-brt-transoeste-no-recreio-1-24495617)
 * [Viúva de corretor morto por PM manda carta à delegacia: 'Não existem só policiais que agem errado'](https://oglobo.globo.com/rio/viuva-de-corretor-morto-por-pm-manda-carta-delegacia-nao-existem-so-policiais-que-agem-errado-24495609)
 * [Até onde o STF vai no inquérito dos atos antidemocráticos](https://epoca.globo.com/guilherme-amado/ate-onde-stf-vai-no-inquerito-dos-atos-antidemocraticos-24495582)
 * [Delação de Dario Messer perto de ser fechada, mas há um impasse](https://epoca.globo.com/guilherme-amado/delacao-de-dario-messer-perto-de-ser-fechada-mas-ha-um-impasse-24495553)

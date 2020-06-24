@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 03:09:52 UTC
+# indexed at 24/06/2020 03:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
+* [Elevator.js – A “back to top” button that behaves like a real elevator](http://tholman.com/elevator.js/)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Exploration of Generative Art](https://generativeartistry.com)
 * [Tiny C Compiler](https://bellard.org/tcc/)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
-* [Bastions on demand in an AWS VPC](https://theconsultingcto.com/posts/bastions-on-demand/)
+* [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
-* [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
+* [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
+* [Bastions on demand in an AWS VPC](https://theconsultingcto.com/posts/bastions-on-demand/)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
 * [Dungeon Scrawl: Old school maps in minutes](https://dungeonscrawl.com/)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
+* [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
-* [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
-* [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
+* [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
+* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [Safari is adopting an extensions API similar to Firefox’s WebExtensions](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)
 * [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
+* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
 * [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
 * [About the Rosetta Translation Environment](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment)
-* [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
 * [Show HN: Awk-JVM – A toy JVM in Awk](https://github.com/rethab/awk-jvm)
 * [A high-coverage Neandertal genome from Chagyrskaya Cave](https://www.pnas.org/content/early/2020/06/15/2004944117)
-* [Roundup plaintiffs' attorneys plead guilty in $200M extortion scheme](https://www.justice.gov/opa/pr/virginia-attorneys-plead-guilty-orchestrating-200-million-extortion-scheme-targeting)
-* [On Contact Tracing and Hardware Tokens](https://www.bunniestudios.com/blog/?p=5820)
-* [California sets Covid-19 daily record, Bay Area cumulative total passes 20k](https://www.eastbaytimes.com/2020/06/23/coronavirus-california-sets-another-daily-record-as-bay-area-surges-past-20000-cases/)
 ## nytimes.com
 
 
@@ -75,19 +75,19 @@ layout: default
 * [Will the Last Confederate Statue Standing Turn Off the Lights?](https://www.nytimes.com/2020/06/23/style/statue-richmond-lee.html)
 * [It’s a Wonderful Time to Be Leslie Jordan](https://www.nytimes.com/2020/06/23/style/leslie-jordan-instagram.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
+* [Obama Urges Democrats: ‘Whatever You’ve Done So Far Is Not Enough’](https://www.nytimes.com/2020/06/23/us/politics/obama-biden-fundraiser.html)
 * [Ron Jeremy, Adult Film Star, Charged With Sexually Assaulting 4 Women](https://www.nytimes.com/2020/06/23/arts/ron-jeremy-rape-charges.html)
-* [Rhode Island to Remove ‘Plantations’ Reference From Documents](https://www.nytimes.com/2020/06/23/us/politics/rhode-island-plantation.html)
 * [F.B.I. Says Noose Was in NASCAR Garage Since Last Year](https://www.nytimes.com/2020/06/23/sports/autoracing/bubba-wallace-noose-nascar.html)
-* [Met Museum Plans to Open in Late August](https://www.nytimes.com/2020/06/23/arts/design/met-museum-reopen-virus.html)
 * [As the Virus Surges in South Florida, a Trump Resort Joins the Rush to Reopen](https://www.nytimes.com/2020/06/23/us/trump-doral-reopen-coronavirus.html)
 * [He Spent 25 Years in Prison for Murder, but Was Innocent All Along](https://www.nytimes.com/2020/06/23/nyregion/queens-da-exoneration-samuel-brownridge.html)
 * [A Botched Restoration of a Painting in Spain Draws Outrage](https://www.nytimes.com/2020/06/23/world/europe/botched-art-restoration-spain.html)
 * [These Companies Gave Their C.E.O.s Millions, Just Before Bankruptcy](https://www.nytimes.com/2020/06/23/business/ceo-bonsues-before-bankruptcy-coronavirus.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
-* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [Thinking About Flying? Here’s What You Need to Know Now](https://www.nytimes.com/2020/05/27/travel/is-flying-safe-coronavirus.html)
+* [My 14-Year-Old Isn’t Socially Distancing. What Should I Do?](https://www.nytimes.com/2020/05/22/well/family/teenager-social-distancing-parenting-coronavirus.html)
+* [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
+* [Is the News Too Scary for Kids?](https://www.nytimes.com/2020/04/18/parenting/kids-current-events.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
 * [Virginie Despentes Makes France Angry, but Things Are Changing](https://www.nytimes.com/2020/06/23/books/virginie-despentes.html)
 * [Author Brittney Cooper on Harnessing Rage, Right Now](https://www.nytimes.com/2020/06/20/us/20IHW-black-lives-matter-protests-brittney-cooper-women.html)

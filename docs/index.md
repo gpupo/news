@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 05:10:01 UTC
+# indexed at 24/06/2020 05:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -15,14 +15,15 @@ layout: default
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Tiny C Compiler](https://bellard.org/tcc/)
-* [Exploration of Generative Art](https://generativeartistry.com)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+* [Exploration of Generative Art](https://generativeartistry.com)
 * [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
 * [Bastions on demand in an AWS VPC](https://theconsultingcto.com/posts/bastions-on-demand/)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
 * [Ask HN: Thoughts on new GitHub layout?](https://news.ycombinator.com/item?id=23617229)
 * [Teaching physics to neural networks removes 'chaos blindness'](https://phys.org/news/2020-06-physics-neural-networks-chaos.html)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
+* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
 * [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 * [Oculus sunsets Go, will add easier Quest app distribution](https://www.oculus.com/blog/an-update-on-the-evolution-of-the-oculus-platform-/)
@@ -30,14 +31,13 @@ layout: default
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
 * [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
 * [Show HN: Query 1.6B rows in milliseconds, live](http://try.questdb.io:9000/index.html)
-* [CashRegister in PyQt5 with barcode logon and 32 programmable buttons](https://github.com/DirkJanJansen/Sales)
+* [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
 * [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
+* [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
+* [CashRegister in PyQt5 with barcode logon and 32 programmable buttons](https://github.com/DirkJanJansen/Sales)
 * [How effective communication can be achieved in a digital work environment](https://www.airsend.io/blog/index.php/2020/05/24/1-tip-on-how-effective-communication-can-be-achieved-in-a-digital-work-environment/)
 * [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
-* [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
-* [Jepsen: Redis-Raft 1b3fbf6](https://jepsen.io/analyses/redis-raft-1b3fbf6)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
-* [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 ## nytimes.com
 
 
@@ -73,11 +73,11 @@ layout: default
 * [This Monument to White Supremacy Hides in Plain Sight](https://www.nytimes.com/2020/06/23/opinion/drakes-cross-white-supremacy.html)
 * [Will the Last Confederate Statue Standing Turn Off the Lights?](https://www.nytimes.com/2020/06/23/style/statue-richmond-lee.html)
 * [It’s a Wonderful Time to Be Leslie Jordan](https://www.nytimes.com/2020/06/23/style/leslie-jordan-instagram.html)
-* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [Obama Urges Democrats: ‘Whatever You’ve Done So Far Is Not Enough’](https://www.nytimes.com/2020/06/23/us/politics/obama-biden-fundraiser.html)
 * [Ron Jeremy, Adult Film Star, Charged With Sexually Assaulting 4 Women](https://www.nytimes.com/2020/06/23/arts/ron-jeremy-rape-charges.html)
 * [F.B.I. Says Noose Was in NASCAR Garage Since Last Year](https://www.nytimes.com/2020/06/23/sports/autoracing/bubba-wallace-noose-nascar.html)
+* [Head of NY Planned Parenthood, Laura McQuade, Ousted After Staff Complaints](https://www.nytimes.com/2020/06/23/nyregion/ny-planned-parenthood-laura-mcquade.html)
 * [As the Virus Surges in South Florida, a Trump Resort Joins the Rush to Reopen](https://www.nytimes.com/2020/06/23/us/trump-doral-reopen-coronavirus.html)
 * [He Spent 25 Years in Prison for Murder, but Was Innocent All Along](https://www.nytimes.com/2020/06/23/nyregion/queens-da-exoneration-samuel-brownridge.html)
 * [A Botched Restoration of a Painting in Spain Draws Outrage](https://www.nytimes.com/2020/06/23/world/europe/botched-art-restoration-spain.html)

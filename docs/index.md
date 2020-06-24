@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 11:09:43 UTC
+# indexed at 24/06/2020 11:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [London tube map made from a working circuit board](https://www.ianvisits.co.uk/blog/2020/06/23/check-out-this-london-tube-map-made-from-a-working-circuit-board/)
 * [Elevator.js – A “back to top” button that behaves like a real elevator](http://tholman.com/elevator.js/)
-* [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)
 * [Facebook accused of trying to decloak domain owners' personal Whois info](https://www.theregister.com/2020/06/23/facebook_gdpr_workaround/)
-* [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
+* [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
-* [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
+* [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
 * [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
 * [Show HN: Slingcode live-reloading web IDE to make, run, and share web apps P2P](https://slingcode.net/)
 * [Exploration of Generative Art](https://generativeartistry.com)
-* [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
-* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
+* [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
-* [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
-* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
-* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
-* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
+* [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
+* [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
+* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
+* [Staring into the COM Abyss](https://cmpct.info/~calvin/Articles/COMAbyss/)
+* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
+* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
+* [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
 * [A wild bug: 1970s Intel 8271 disc chip ate my data](https://scarybeastsecurity.blogspot.com/2020/06/a-wild-bug-1970s-intel-8271-disc-chip.html)
-* [Prescriptions Are a Dead End](https://garybasin.com/prescriptions-are-a-dead-end/)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
+* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [Tiny C Compiler](https://bellard.org/tcc/)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
-* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
-* [Staring into the COM Abyss](https://cmpct.info/~calvin/Articles/COMAbyss/)
+* [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 ## nytimes.com
 
 
@@ -50,6 +50,7 @@ layout: default
 * [9 Departments and Multiple Infractions for One New Jersey Police Officer](https://www.nytimes.com/2020/06/24/nyregion/new-jersey-police.html)
 * [A Minneapolis Neighborhood Vowed to Check Its Privilege. It’s Already Being Tested.](https://www.nytimes.com/2020/06/24/us/minneapolis-george-floyd-police.html)
 * [Calls Rise Inside Amazon to Address Racial Inequity](https://www.nytimes.com/2020/06/24/technology/amazon-racial-inequality.html)
+* [‘The City Fumbled It’: How 4 Families Took On the Virus](https://www.nytimes.com/2020/06/24/nyregion/coronavirus-public-housing-new-york.html)
 * [Why the Coronavirus Is Winning](https://www.nytimes.com/2020/06/24/briefing/kentucky-primary-rayshard-brooks-major-league-baseball-your-wednesday-briefing.html)
 * [How N.Y.C. Plans to Crack Down on Illegal Fireworks](https://www.nytimes.com/2020/06/24/nyregion/fireworks-nyc.html)
 * [The Epidemic of Unemployment](https://www.nytimes.com/2020/06/24/podcasts/the-daily/unemployment-coronavirus-pandemic.html)
@@ -78,11 +79,11 @@ layout: default
 * [How Statues Are Falling Around the World](https://www.nytimes.com/2020/06/24/us/confederate-statues-photos.html)
 * [Lots of Drama but Little Certainty in Kentucky and New York Primaries](https://www.nytimes.com/2020/06/23/us/politics/kentucky-new-york-election-recap.html)
 * [Hit Hard by Coronavirus, Russia Holds a Mostly Mask-Free Victory Parade](https://www.nytimes.com/2020/06/24/world/europe/russia-coronavirus-parade.html)
-* [How to Contain Your Children’s Clutter](https://www.nytimes.com/2020/06/09/realestate/how-to-contain-your-childrens-clutter.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
-* [Have a Teenager Joining a Protest? Talk About Safety First](https://www.nytimes.com/2020/06/04/well/family/teenagers-protests-unrest-george-floyd-coronavirus.html)
-* [Keeping Clients Fit During the Pandemic by Going Virtual](https://www.nytimes.com/2020/05/26/business/small-business-coronavirus-fitness.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
+* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
 * [How Covid-19 Is Threatening Alaska’s Wild Salmon Fishing Season](https://www.nytimes.com/2020/06/23/dining/alaska-salmon-coronavirus.html)
 * [Music From the Death Camps: Alive and Being Readied for a New Home](https://www.nytimes.com/2020/06/21/arts/music/music-concentration-camps.html)
 * [Overwhelmed With Orders, Some Black-Owned Bookstores Ask for Patience](https://www.nytimes.com/2020/06/23/books/black-owned-bookstores-frugal.html)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Meghan Markle tem considerado carreira na política, dizem amigos](https://oglobo.globo.com/ela/gente/meghan-markle-tem-considerado-carreira-na-politica-dizem-amigos-24495672)
+* [Impeachment de Witzel tem primeira sessão na Alerj sem transmissão pública nesta quarta](https://oglobo.globo.com/rio/impeachment-de-witzel-tem-primeira-sessao-na-alerj-sem-transmissao-publica-nesta-quarta-24495676)
 * [Brasil tem 1.152.066 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1152066-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24495663)
-* [Incêndio destrói a estação Gelson Fonseca, do BRT Transoeste, no Recreio](https://oglobo.globo.com/rio/incendio-destroi-estacao-gelson-fonseca-do-brt-transoeste-no-recreio-1-24495617)
 * [Flordelis tem carteirinha para visitar filho na cadeia cancelada pela Justiça](https://oglobo.globo.com/rio/flordelis-tem-carteirinha-para-visitar-filho-na-cadeia-cancelada-pela-justica-1-24495648)
 * [Até onde o STF vai no inquérito dos atos antidemocráticos](https://epoca.globo.com/guilherme-amado/ate-onde-stf-vai-no-inquerito-dos-atos-antidemocraticos-24495582)
 * [Especialista em filósofo fascista frequentava eventos do integralismo](https://epoca.globo.com/guilherme-amado/especialista-em-filosofo-fascista-frequentava-eventos-do-integralismo-24495558)
 * [Artigo: 'Não voltaremos'; jovens não querem retorno ao mundo pré-pandemia](https://oglobo.globo.com/mundo/artigo-nao-voltaremos-jovens-nao-querem-retorno-ao-mundo-pre-pandemia-24494999)
-* [Viagem pós-Covid-19: Europa reabre se equilibrando entre o familiar e o 'novo normal'](https://oglobo.globo.com/boa-viagem/viagem-pos-covid-19-europa-reabre-se-equilibrando-entre-familiar-o-novo-normal-24495005)
 * [A tradicional Quadrilha do Sampaio vai virar livro e planeja voltar às festas juninas em 2021](https://oglobo.globo.com/rio/bairros/a-tradicional-quadrilha-do-sampaio-vai-virar-livro-planeja-voltar-as-festas-juninas-em-2021-1-24485611)
 * [Água na boca: Tempo bom para um fondue](https://oglobo.globo.com/rio/bairros/agua-na-boca-tempo-bom-para-um-fondue-24486268)
 * [Mensagens personalizadas para crianças: com empresa parada, atriz cria novo serviço](https://oglobo.globo.com/rio/bairros/mensagens-personalizadas-para-criancas-com-empresa-parada-atriz-cria-novo-servico-24488630)

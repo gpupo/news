@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/06/2020 12:13:03 UTC
+# indexed at 24/06/2020 12:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -14,34 +14,34 @@ layout: default
 * [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
 * [What I learned from looking at every AI/ML tool I could find](https://huyenchip.com/2020/06/22/mlops.html)
+* [Onivim 2: Lightweight, Modal Code Editor](https://github.com/onivim/oni2)
 * [WireViz: Tool for documenting cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
-* [Show HN: Slingcode live-reloading web IDE to make, run, and share web apps P2P](https://slingcode.net/)
 * [The Open Goldberg Variations](https://opengoldbergvariations.org/)
-* [Exploration of Generative Art](https://generativeartistry.com)
+* [Show HN: Slingcode live-reloading web IDE to make, run, and share web apps P2P](https://slingcode.net/)
 * [Haskell for a New Decade [pdf]](http://dev.stephendiehl.com/new_decade.pdf)
+* [Exploration of Generative Art](https://generativeartistry.com)
 * [Tolkien’s Mythic Plan for England](https://unherd.com/2020/06/is-this-tolkiens-vision-of-england/)
 * [The Problem with Git Flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
+* [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
 * [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
+* [Object-Oriented Design Heuristics (2017)](https://www.slideshare.net/kim.mens/objectoriented-design-heuristics)
 * [Ask HN: How to avoid over-engineering software design for future use cases?](https://news.ycombinator.com/item?id=23612415)
 * [Facebook’s dominance is built on anti-competitive behavior](https://insights.som.yale.edu/insights/facebook-s-dominance-is-built-on-anti-competitive-behavior)
 * [Staring into the COM Abyss](https://cmpct.info/~calvin/Articles/COMAbyss/)
-* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 * [The Sin of Sloth – an external module system for C](https://billwadge.wordpress.com/2020/06/23/the-sin-of-sloth-an-external-module-system-for-c/)
-* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
 * [Journalist’s phone hacked: all he had to do was visit any website](https://www.thestar.com/news/canada/2020/06/21/journalists-phone-hacked-by-new-invisible-technique-all-he-had-to-do-was-visit-one-website-any-website.html)
-* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
+* [Segway ends production of its original scooter](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production?partner=feedburner&utm_source=feedly&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
+* [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
 * [Construction begins on world’s biggest liquid air battery](https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk)
+* [The Team Edits Your Images: Aurora Borealis](https://phillipreeve.net/blog/the-team-edits-your-images-part-1-aurora-borealis/)
 * [Clara Immerwahr: Science’s Tragic and Surprisingly Modern Heroine](https://nursingclio.org/2020/06/16/clara-immerwahr-sciences-tragic-and-surprisingly-modern-heroine/)
-* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+* [Show HN: Sidequest – A personal ticket system that lives inside Slack](https://www.getsidequest.app)
 * [Tiny C Compiler](https://bellard.org/tcc/)
-* [I Just Hit $100k/year On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
-* [Windows Fax and Scan](https://twitter.com/gravislizard/status/1275585518789513216)
-* [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 ## nytimes.com
 
 
-* [Biden Takes Dominant Lead as Voters Reject Trump on Virus and Race](https://www.nytimes.com/2020/06/24/us/politics/trump-biden-poll-nyt-upshot-siena-college.html)
+* [Biden Takes Dominant Lead in Poll as Voters Reject Trump on Virus and Race](https://www.nytimes.com/2020/06/24/us/politics/trump-biden-poll-nyt-upshot-siena-college.html)
 * [With Tweets, Videos and Rhetoric, Trump Pushes Anew to Divide Americans by Race](https://www.nytimes.com/2020/06/23/us/politics/trump-race-racism-protests.html)
 * [In Poor Countries, Many Covid-19 Patients Are Desperate for Oxygen](https://www.nytimes.com/2020/06/23/health/coronavirus-oxygen-africa.html)
 * [Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks](https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html)
@@ -75,15 +75,15 @@ layout: default
 * [Ad Boycott of Facebook Keeps Growing](https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html)
 * [In Arizona, Trump Boasts About His Wall and Repeats Unfounded Predictions of Voter Fraud](https://www.nytimes.com/2020/06/23/us/politics/trump-arizona.html)
 * [After an Acrimonious Spring, Baseball Finally Has a Plan to Play](https://www.nytimes.com/2020/06/23/sports/baseball/mlb-season-schedule.html)
-* [‘They Took a Piece of Me’: A Graduation Party Ends in Fatal Shooting](https://www.nytimes.com/2020/06/24/nyregion/tyana-johnson-shooting-bronx-graduation.html)
+* [A Teenager Hosted a Graduation Party. Then 2 Gunmen Showed Up.](https://www.nytimes.com/2020/06/24/nyregion/tyana-johnson-shooting-bronx-graduation.html)
 * [How Statues Are Falling Around the World](https://www.nytimes.com/2020/06/24/us/confederate-statues-photos.html)
 * [Lots of Drama but Little Certainty in Kentucky and New York Primaries](https://www.nytimes.com/2020/06/23/us/politics/kentucky-new-york-election-recap.html)
 * [Hit Hard by Coronavirus, Russia Holds a Mostly Mask-Free Victory Parade](https://www.nytimes.com/2020/06/24/world/europe/russia-coronavirus-parade.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
 * [How to Manage the Emotional Impact of Getting Laid Off](https://www.nytimes.com/2020/06/21/smarter-living/coronavirus-laid-off-career-advice.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How Covid-19 Is Threatening Alaska’s Wild Salmon Fishing Season](https://www.nytimes.com/2020/06/23/dining/alaska-salmon-coronavirus.html)
 * [Music From the Death Camps: Alive and Being Readied for a New Home](https://www.nytimes.com/2020/06/21/arts/music/music-concentration-camps.html)
 * [Overwhelmed With Orders, Some Black-Owned Bookstores Ask for Patience](https://www.nytimes.com/2020/06/23/books/black-owned-bookstores-frugal.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Alexandria Ocasio-Cortez, que há dois anos se tornou a mulher mais jovem no Congresso dos EUA, vence primárias em Nova York](https://oglobo.globo.com/mundo/alexandria-ocasio-cortez-que-ha-dois-anos-se-tornou-mulher-mais-jovem-no-congresso-dos-eua-vence-primarias-em-nova-york-24495579)
 * [Witzel nomeia procurador-geral do estado como secretário de Desenvolvimento Econômico](https://oglobo.globo.com/rio/witzel-nomeia-procurador-geral-do-estado-como-secretario-de-desenvolvimento-economico-24495709)
-* [Alexandria Ocasio-Cortez vence as primárias democratas em Nova York](https://oglobo.globo.com/mundo/alexandria-ocasio-cortez-vence-as-primarias-democratas-em-nova-york-24495579)
+* [Por que terremoto no México de magnitude 7,5 causou menos estragos do que outros mais fracos](https://epoca.globo.com/mundo/por-que-terremoto-no-mexico-de-magnitude-75-causou-menos-estragos-do-que-outros-mais-fracos-24495719)
+* [De Pelé a Ronaldo, com Paquetá e Cristóvão Borges: veja lista dos 111 que já usaram a 10 da seleção](https://oglobo.globo.com/esportes/de-pele-ronaldo-com-paqueta-cristovao-borges-veja-lista-dos-111-que-ja-usaram-10-da-selecao-24495712)
 * [Fake News: Após críticas, relator vai excluir multa de R$ 10 milhões para quem ridicularizar candidatos](https://oglobo.globo.com/brasil/fake-news-apos-criticas-relator-vai-excluir-multa-de-10-milhoes-para-quem-ridicularizar-candidatos-24495704)
-* [Artigo: Jovens não querem retorno ao mundo pré-pandemia](https://oglobo.globo.com/mundo/artigo-jovens-nao-querem-retorno-ao-mundo-pre-pandemia-24494999)
 * [Impeachment de Witzel tem primeira sessão na Alerj sem transmissão pública nesta quarta](https://oglobo.globo.com/rio/impeachment-de-witzel-tem-primeira-sessao-na-alerj-sem-transmissao-publica-nesta-quarta-1-24495676)
 * [Feijão fica 50% mais caro no Rio durante pandemia; arroz e leite também tiveram altas](https://oglobo.globo.com/economia/feijao-fica-50-mais-caro-no-rio-durante-pandemia-arroz-leite-tambem-tiveram-altas-24495665)
 * [Meghan Markle tem considerado carreira na política, dizem amigos](https://oglobo.globo.com/ela/gente/meghan-markle-tem-considerado-carreira-na-politica-dizem-amigos-24495672)
 * [Brasil tem 1.152.066 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1152066-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24495663)
-* [Especialista em filósofo fascista frequentava eventos do integralismo](https://epoca.globo.com/guilherme-amado/especialista-em-filosofo-fascista-frequentava-eventos-do-integralismo-24495558)
 * [Nascimento criminoso e jantar de lagartas: a autobiografia de Trevor Noah, o sul-africano que comanda o The Daily Show](https://epoca.globo.com/guilherme-amado/nascimento-criminoso-jantar-de-lagartas-autobiografia-de-trevor-noah-sul-africano-que-comanda-the-daily-show-24495440)

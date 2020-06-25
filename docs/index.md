@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 00:27:50 UTC
+# indexed at 25/06/2020 00:36:48 UTC
 
 
 ## news.ycombinator.com
@@ -19,14 +19,14 @@ layout: default
 * [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 * [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
 * [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
-* [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
 * [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
+* [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
 * [Microsoft duplicates data from Firefox without asking](https://old.reddit.com/r/Windows10/comments/hct0mj/are_we_going_to_get_treated_to_spam_popups/)
 * [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
 * [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
 * [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
-* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
+* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
 * [Mathematics in type theory](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/)
 * [Inside eBay’s bizarre campaign against a blog critic](https://www.wsj.com/articles/ebay-harassment-campaign-pig-cockroach-blog-11593009038)
@@ -36,8 +36,8 @@ layout: default
 * [Smarking (YC W15) is hiring a CS and Biz Ops lead to scale mobility tech](https://jobs.lever.co/smarking/f4535cb3-f28c-48a9-bee4-e1719849fd78)
 * [What vertical farming and ag startups don't understand about agriculture](http://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/)
 * [Show HN: Splitgraph - Build and share data with Postgres, inspired by Docker/Git](http://www.splitgraph.com)
-* [Syndicated rounds, for founders who can’t find a Series A lead](https://blog.ycombinator.com/syndicated-rounds-when-you-cant-find-a-series-a-lead/)
 * [Robust Client-Side JavaScript (2017)](https://molily.de/robust-javascript/)
+* [Syndicated rounds, for founders who can’t find a Series A lead](https://blog.ycombinator.com/syndicated-rounds-when-you-cant-find-a-series-a-lead/)
 ## nytimes.com
 
 
@@ -62,17 +62,17 @@ layout: default
 * [Modern Love Podcast: Zawe Ashton Reads ‘Confronting Race, Religion and Her Heart’](https://www.nytimes.com/2020/06/24/style/modern-love-podcast-zawe-ashton.html)
 * [Sorry, eBay and Uber. You’re Hated.](https://www.nytimes.com/2020/06/24/technology/internet-middlemen.html)
 * [André Leon Talley on ‘The Chiffon Trenches’](https://www.nytimes.com/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html)
-* [The Coronavirus Is Still Raging. Trump Remains in Denial.](https://www.nytimes.com/2020/06/23/opinion/coronavirus-testing-trump.html)
-* [In Texas, 6 Critically Ill Covid-19 Patients Would Overwhelm This Hospital](https://www.nytimes.com/2020/06/24/opinion/coronavirus-texas-hospital.html)
+* [Trump Speaks! And Speaks. And Speaks …](https://www.nytimes.com/2020/06/24/opinion/trump-tulsa-2020.html)
+* [Trump Is Feeding America’s Coronavirus Nightmare](https://www.nytimes.com/2020/06/24/opinion/trump-coronavirus.html)
 * [What’s Really Behind the Gender Gap in Covid-19 Deaths?](https://www.nytimes.com/2020/06/24/opinion/sex-differences-covid.html)
 * [The People Running Campaigns Don’t Look Like Me](https://www.nytimes.com/2020/06/24/opinion/2020-campaigns-diversity.html)
+* [The Coronavirus Is Still Raging. Trump Remains in Denial.](https://www.nytimes.com/2020/06/23/opinion/coronavirus-testing-trump.html)
+* [In Texas, 6 Critically Ill Covid-19 Patients Would Overwhelm This Hospital](https://www.nytimes.com/2020/06/24/opinion/coronavirus-texas-hospital.html)
 * [The Inheritance Tax Is Far Too Low](https://www.nytimes.com/2020/06/24/opinion/inheritance-tax-inequality.html)
-* [Health Care Workers Are the Future. Protect Their Rights.](https://www.nytimes.com/2020/06/24/opinion/coronavirus-health-workers-nurses.html)
 * [Income and Wealth Inequality Has Devastated American Workers](https://www.nytimes.com/2020/06/24/opinion/income-wealth-inequality-america.html)
-* [Why Do We Pay So Many People So Little Money?](https://www.nytimes.com/2020/06/24/opinion/wages-coronavirus.html)
-* [China and America Are Heading Toward Divorce](https://www.nytimes.com/2020/06/23/opinion/china-united-states-trump.html)
+* [Health Care Workers Are the Future. Protect Their Rights.](https://www.nytimes.com/2020/06/24/opinion/coronavirus-health-workers-nurses.html)
 * [The Seattle Autonomous Zone Is Not the Full Story](https://www.nytimes.com/2020/06/24/opinion/seattle-autonomous-zone-CHOP.html)
-* [Americans May Not Be Welcome in the E.U.](https://www.nytimes.com/2020/06/24/opinion/letters/us-europe-travel.html)
+* [Why Do We Pay So Many People So Little Money?](https://www.nytimes.com/2020/06/24/opinion/wages-coronavirus.html)
 * [Vietnamese Lives, American Imperialist Views, Even in ‘Da 5 Bloods’](https://www.nytimes.com/2020/06/24/movies/da-5-bloods-vietnam.html)
 * [As Museums Get on TikTok, the Uffizi Is an Unlikely Class Clown](https://www.nytimes.com/2020/06/24/arts/design/uffizi-museums-tiktok.html)
 * [A Rebellious Victorian Woman Rescued From History’s Shadows](https://www.nytimes.com/2020/06/24/books/review-true-history-first-mrs-meredith-diane-johnson.html)
@@ -96,8 +96,8 @@ layout: default
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
-* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [Trump Family Asks Court to Stop Publication of Tell-All by Mary Trump](https://www.nytimes.com/2020/06/23/us/politics/mary-trump-book-court.html)
 * [The Boy Who Cried Fake News](https://www.nytimes.com/2020/06/23/opinion/maga-trump-fake-news.html)
@@ -107,12 +107,12 @@ layout: default
 ## globo.com
 
 
+* [Argentina suspende projeto de desapropriação de agroexportador Vicentin](https://oglobo.globo.com/mundo/argentina-suspende-projeto-de-desapropriacao-de-agroexportador-vicentin-24497400)
 * [Após três meses, bondes de Santa Teresa voltam a circular com restrições](https://oglobo.globo.com/rio/apos-tres-meses-bondes-de-santa-teresa-voltam-circular-com-restricoes-24497163)
 * [EUA intensificam lobby contra a entrada da chinesa Huawei nas rede 5G do Brasil](https://oglobo.globo.com/economia/eua-intensificam-lobby-contra-entrada-da-chinesa-huawei-nas-rede-5g-do-brasil-24497370)
 * [PF e Receita apreendem mala com R$ 700 mil no Galeão, mas passageiro diz desconhecer origem do dinheiro](https://oglobo.globo.com/rio/pf-receita-apreendem-mala-com-700-mil-no-galeao-mas-passageiro-diz-desconhecer-origem-do-dinheiro-24497356)
 * [Detran-RJ fiscaliza e orienta autoescolas no primeiro dia de retorno](https://oglobo.globo.com/rio/detran-rj-fiscaliza-orienta-autoescolas-no-primeiro-dia-de-retorno-24497368)
 * [Ministério da Saúde divulga novos critérios para confirmar casos de Covid-19](https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-divulga-novos-criterios-para-confirmar-casos-de-covid-19-1-24497278)
-* [TCM vê indícios de superfaturamento em compras do Rio durante a pandemia](https://oglobo.globo.com/rio/tcm-ve-indicios-de-superfaturamento-em-compras-do-rio-durante-pandemia-24497145)
 * [O PL das Fake News pode subir no telhado amanhã](https://epoca.globo.com/guilherme-amado/o-pl-das-fake-news-pode-subir-no-telhado-amanha-24497285)
 * [É #FAKE que texto com críticas a Toffoli foi escrito por juíza da Escola da Magistratura do Rio de Janeiro](https://oglobo.globo.com/fato-ou-fake/e-fake-que-texto-com-criticas-toffoli-foi-escrito-por-juiza-da-escola-da-magistratura-do-rio-de-janeiro-24497232)
 * [É #FAKE que texto sobre pandemia do medo foi escrito por C.S. Lewis](https://oglobo.globo.com/fato-ou-fake/e-fake-que-texto-sobre-pandemia-do-medo-foi-escrito-por-cs-lewis-24497197)

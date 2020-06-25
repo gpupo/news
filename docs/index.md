@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 05:09:55 UTC
+# indexed at 25/06/2020 05:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -19,24 +19,24 @@ layout: default
 * [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [No, Safari 14 does not block Google Analytics](https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/)
 * [Perl 7 is going to be Perl 5.32, mostly](https://www.perl.com/article/announcing-perl-7/)
-* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
 * [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
 * [NASA names headquarters after first Black female engineer Mary W. Jackson](https://www.axios.com/nasa-black-female-engineer-headquarters-7e859612-0832-4448-af5c-6a7ad3b64f19.html)
-* [Eastern European Movies](https://easterneuropeanmovies.com/)
+* [Writing, Reading, Writing](https://georgerrmartin.com/notablog/2020/06/23/writing-reading-writing/)
+* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
+* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
 * [HAMR-JR microrobot demonstrates dexterity](https://www.theengineer.co.uk/hamr-jr-microrobot-harvard/)
 * [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
-* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
+* [Eastern European Movies](https://easterneuropeanmovies.com/)
 * [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
 * [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
-* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
-* [Writing, Reading, Writing](https://georgerrmartin.com/notablog/2020/06/23/writing-reading-writing/)
-* [Stopping Computer Crimes (1989) [pdf]](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920002439.pdf)
 * [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
-* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
-* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
+* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
+* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
+* [Stopping Computer Crimes (1989) [pdf]](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920002439.pdf)
+* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 * [Inside eBay’s bizarre campaign against a blog critic](https://www.wsj.com/articles/ebay-harassment-campaign-pig-cockroach-blog-11593009038)
 ## nytimes.com
 
@@ -76,7 +76,7 @@ layout: default
 * [As Museums Get on TikTok, the Uffizi Is an Unlikely Class Clown](https://www.nytimes.com/2020/06/24/arts/design/uffizi-museums-tiktok.html)
 * [A Rebellious Victorian Woman Rescued From History’s Shadows](https://www.nytimes.com/2020/06/24/books/review-true-history-first-mrs-meredith-diane-johnson.html)
 * [NASA Names Headquarters After Its First Black Female Engineer, Mary Jackson](https://www.nytimes.com/2020/06/24/science/nasa-hq-mary-jackson.html)
-* [Roundup Maker to Pay $10 Billion to Settle Cancer Suits](https://www.nytimes.com/2020/06/24/business/roundup-settlement-lawsuits.html)
+* [Chinese City to Unveil Domestic Violence Database for Those Getting Married](https://www.nytimes.com/2020/06/25/world/asia/china-domestic-violence-database-marriage.html)
 * [Tribe in South Dakota Seeks Court Ruling Over Standoff on Blocking Virus](https://www.nytimes.com/2020/06/24/us/politics/coronavirus-south-dakota-tribe-standoff.html)
 * [Segway to End Production of Its Original Personal Transporter](https://www.nytimes.com/2020/06/24/business/segway-pt-discontinued.html)
 * [Strong Earthquake Strikes Central California](https://www.nytimes.com/2020/06/24/us/lone-pine-earthquake-california.html)
@@ -84,11 +84,11 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [Palestinians in Jordan Valley Fear Annexation Would Choke Off Their Villages](https://www.nytimes.com/2020/06/24/world/middleeast/israel-annex-jordan-valley-palestinians.html)
 * [Baseball’s New Rules: No Spitting, No Arguing, and Lots of Testing](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
 * [Weird Times Call for Even Weirder Shoes](https://www.nytimes.com/2020/06/24/style/weird-times-call-for-even-weirder-shoes.html)
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)

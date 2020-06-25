@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 02:34:39 UTC
+# indexed at 25/06/2020 03:09:53 UTC
 
 
 ## news.ycombinator.com
 
 
 * [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
-* [NASA names headquarters after first Black female engineer Mary W. Jackson](https://www.axios.com/nasa-black-female-engineer-headquarters-7e859612-0832-4448-af5c-6a7ad3b64f19.html)
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
 * [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
@@ -17,27 +16,28 @@ layout: default
 * [No, Safari 14 does not block Google Analytics](https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/)
 * [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [Perl 7 is going to be Perl 5.32, mostly](https://www.perl.com/article/announcing-perl-7/)
-* [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
+* [NASA names headquarters after first Black female engineer Mary W. Jackson](https://www.axios.com/nasa-black-female-engineer-headquarters-7e859612-0832-4448-af5c-6a7ad3b64f19.html)
 * [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
+* [Stop Sabotaging Your Career with Short Stints](https://staysaasy.com/engineering/2020/06/16/Stop-Sabotaging.html)
 * [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
-* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
 * [Microsoft duplicates data from Firefox without asking](https://old.reddit.com/r/Windows10/comments/hct0mj/are_we_going_to_get_treated_to_spam_popups/)
+* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
 * [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
 * [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
 * [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 * [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
 * [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
-* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
 * [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
 * [Good Ideas, Through the Looking Glass  (2005) [pdf]](https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
-* [Those who exercise free speech should also defend it – even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
 * [Text-Only Websites](https://sjmulder.nl/en/textonly.html)
-* [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
+* [HAMR-JR microrobot demonstrates dexterity](https://www.theengineer.co.uk/hamr-jr-microrobot-harvard/)
 * [DNS Push Notifications](http://www.rfc-editor.org/rfc/rfc8765.txt)
+* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
+* [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
+* [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
 * [Inside eBay’s bizarre campaign against a blog critic](https://www.wsj.com/articles/ebay-harassment-campaign-pig-cockroach-blog-11593009038)
 * [Mathematics in type theory](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/)
-* [How People Read Online: New and Old Findings](https://www.nngroup.com/articles/how-people-read-online/)
 ## nytimes.com
 
 
@@ -85,20 +85,19 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [Palestinians in Jordan Valley Fear Annexation Would Choke Off Their Villages](https://www.nytimes.com/2020/06/24/world/middleeast/israel-annex-jordan-valley-palestinians.html)
 * [Baseball’s New Rules: No Spitting, No Arguing, and Lots of Testing](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
-* [At Home Newsletter: Finding a Balance Between Solitude and Loneliness](https://www.nytimes.com/2020/05/27/at-home/newsletter.html)
-* [Talking With Relatives Across the Political Divide](https://www.nytimes.com/2020/06/13/well/family/talking-with-relatives-across-the-political-divide.html)
-* [Did Mom Take Her Medicine? Keeping Eyes on Elders in Quarantine](https://www.nytimes.com/2020/06/05/business/elderly-health-quarantine.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
 * [Weird Times Call for Even Weirder Shoes](https://www.nytimes.com/2020/06/24/style/weird-times-call-for-even-weirder-shoes.html)
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
-* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -107,6 +106,7 @@ layout: default
 ## globo.com
 
 
+* [Mega-Sena: Aposta do DF acerta sozinha as seis dezenas e leva mais de R$ 43 milhões](https://oglobo.globo.com/brasil/mega-sena-aposta-do-df-acerta-sozinha-as-seis-dezenas-leva-mais-de-43-milhoes-24497749)
 * [Advogada que conviveu com Queiroz na casa de Wassef diz que mulher do ex-assessor passava temporadas em Atibaia](https://oglobo.globo.com/brasil/advogada-que-conviveu-com-queiroz-na-casa-de-wassef-diz-que-mulher-do-ex-assessor-passava-temporadas-em-atibaia-24497569)
 * [Argentina suspende projeto de desapropriação de agroexportadora Vicentin](https://oglobo.globo.com/mundo/argentina-suspende-projeto-de-desapropriacao-de-agroexportadora-vicentin-24497400)
 * [BNDES deve divulgar condições do socorro ao setor elétrico na semana que vem](https://oglobo.globo.com/economia/bndes-deve-divulgar-condicoes-do-socorro-ao-setor-eletrico-na-semana-que-vem-24497275)
@@ -114,6 +114,5 @@ layout: default
 * [Guarda Nacional da Venezuela a é alvo de críticas após vídeo em que militar pressiona cabeça de mulher contra o chão](https://oglobo.globo.com/mundo/guarda-nacional-da-venezuela-e-alvo-de-criticas-apos-video-em-que-militar-pressiona-cabeca-de-mulher-contra-chao-1-24497354)
 * [Detran-RJ fiscaliza e orienta autoescolas no primeiro dia de retorno](https://oglobo.globo.com/rio/detran-rj-fiscaliza-orienta-autoescolas-no-primeiro-dia-de-retorno-24497368)
 * [PF e Receita apreendem mala com R$ 700 mil no Galeão, mas passageiro diz desconhecer origem do dinheiro](https://oglobo.globo.com/rio/pf-receita-apreendem-mala-com-700-mil-no-galeao-mas-passageiro-diz-desconhecer-origem-do-dinheiro-24497356)
-* [Ministério da Saúde divulga novos critérios para confirmar casos de Covid-19](https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-divulga-novos-criterios-para-confirmar-casos-de-covid-19-1-24497278)
-* [O PL das Fake News pode subir no telhado amanhã](https://epoca.globo.com/guilherme-amado/o-pl-das-fake-news-pode-subir-no-telhado-amanha-24497285)
-* [É #FAKE que texto com críticas a Toffoli foi escrito por juíza da Escola da Magistratura do Rio de Janeiro](https://oglobo.globo.com/fato-ou-fake/e-fake-que-texto-com-criticas-toffoli-foi-escrito-por-juiza-da-escola-da-magistratura-do-rio-de-janeiro-24497232)
+* [Governo deu mordomia a Weintraub, que se dizia contra todos os privilégios](https://oglobo.globo.com/opiniao/governo-deu-mordomia-weintraub-que-se-dizia-contra-todos-os-privilegios-1-24496600)
+* [‘Associação criminosa’ no bolsonarismo](https://oglobo.globo.com/opiniao/associacao-criminosa-no-bolsonarismo-1-24497187)

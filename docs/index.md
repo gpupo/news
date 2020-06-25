@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 09:10:09 UTC
+# indexed at 25/06/2020 09:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
 * [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
+* [Turns out Zoom isn't all that different to Skype after all](https://builtformars.co.uk/how-zoom-works/)
 * [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
 * [An even worse anti-encryption bill than EARN IT](https://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok)
-* [Turns out Zoom isn't all that different to Skype after all](https://builtformars.co.uk/how-zoom-works/)
-* [A new licensing program to support the news industry](https://www.blog.google/outreach-initiatives/google-news-initiative/licensing-program-support-news-industry-/)
 * [Eastern European Movies](https://easterneuropeanmovies.com/)
+* [A new licensing program to support the news industry](https://www.blog.google/outreach-initiatives/google-news-initiative/licensing-program-support-news-industry-/)
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
-* [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
-* [Perceptions of musical octaves are learned, not wired in the brain](https://www.quantamagazine.org/perceptions-of-musical-octaves-are-learned-not-wired-in-the-brain-20191030/)
-* [Ask HN: Should I buy Mac book Pro now or wait for arm](https://news.ycombinator.com/item?id=23638055)
+* [Michael Hawley of MIT's Media Lab has died](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html)
 * [How to write PureScript react components to replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
 * [No, Safari 14 does not block Google Analytics](https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [Michael Hawley of MIT's Media Lab has died](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html)
 * [Alex: ML-enhanced range index, similar in functionality to a B+ Tree](https://github.com/microsoft/ALEX#introduction)
+* [Surgical Reading: How to Read 12 Books at Once](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books)
 * [Those who exercise free speech should also defend it even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
 * [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
+* [Perceptions of musical octaves are learned, not wired in the brain](https://www.quantamagazine.org/perceptions-of-musical-octaves-are-learned-not-wired-in-the-brain-20191030/)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
 * [Tesla lags auto industry in quality, finds new J.D. Power study](https://www.cnbc.com/2020/06/24/tesla-lags-auto-industry-in-quality-finds-new-jd-power-study.html)
-* [Surgical Reading: How to Read 12 Books at Once](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
 * [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
-* [Can you 3D print Damascus steel? Pretty much, yeah](https://arstechnica.com/science/2020/06/can-you-3d-print-damascus-steel-pretty-much-yeah/)
 * [Brazil Suspends WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
-* [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
-* [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
-* [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
+* [Can you 3D print Damascus steel? Pretty much, yeah](https://arstechnica.com/science/2020/06/can-you-3d-print-damascus-steel-pretty-much-yeah/)
 * [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
+* [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
+* [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
+* [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
 * [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
 * [London tube map made from a working circuit board](https://www.ianvisits.co.uk/blog/2020/06/23/check-out-this-london-tube-map-made-from-a-working-circuit-board/)
 * [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
+* [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 ## nytimes.com
 
 
@@ -83,19 +83,20 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [Palestinians in Jordan Valley Fear Annexation Would Choke Off Their Villages](https://www.nytimes.com/2020/06/24/world/middleeast/israel-annex-jordan-valley-palestinians.html)
 * [Baseball’s New Rules: No Spitting, No Arguing, and Lots of Testing](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Create an Outdoor Room](https://www.nytimes.com/2020/06/23/realestate/how-to-create-an-outdoor-room-california-room-patio.html)
+* [How to Deal With Public Bathrooms During Coronavirus](https://www.nytimes.com/2020/06/17/parenting/public-toilets-virus-kids.html)
+* [How to Compost, Step by Step](https://www.nytimes.com/2020/05/27/realestate/how-to-compost-composting-food-waste.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
 * [Weird Times Call for Even Weirder Shoes](https://www.nytimes.com/2020/06/24/style/weird-times-call-for-even-weirder-shoes.html)
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
-* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
@@ -105,6 +106,7 @@ layout: default
 ## globo.com
 
 
+* [Câmara de Nova Iguaçu dispensa licitação e gasta R$ 170 mil em compra de 50 mil máscaras de papel](https://oglobo.globo.com/rio/camara-de-nova-iguacu-dispensa-licitacao-gasta-170-mil-em-compra-de-50-mil-mascaras-de-papel-24497864)
 * [Centrão resiste e proposta de adiamento de eleições municipais trava na Câmara](https://oglobo.globo.com/brasil/centrao-resiste-proposta-de-adiamento-de-eleicoes-municipais-trava-na-camara-1-24497683)
 * [Além de Flávio Bolsonaro, denúncia da 'rachadinha' na Alerj deve atingir mais um político](https://oglobo.globo.com/brasil/alem-de-flavio-bolsonaro-denuncia-da-rachadinha-na-alerj-deve-atingir-mais-um-politico-24497699)
 * [Projeto de lei sobre fake news deve ser votado nesta quinta-feira no Congresso](https://oglobo.globo.com/brasil/projeto-de-lei-sobre-fake-news-deve-ser-votado-nesta-quinta-feira-no-congresso-24497732)
@@ -113,5 +115,4 @@ layout: default
 * [Gol de barriga, 25 anos: o que havia por trás da disputa entre Renato Gaúcho e rivais de Flamengo e Botafogo](https://oglobo.globo.com/esportes/gol-de-barriga-25-anos-que-havia-por-tras-da-disputa-entre-renato-gaucho-rivais-de-flamengo-botafogo-24497531)
 * [Câmara tende a ter maioria contra adiamento da eleição](https://epoca.globo.com/guilherme-amado/camara-tende-ter-maioria-contra-adiamento-da-eleicao-24497555)
 * [Violência contra mulher, divórcio e separação na pandemia](https://oglobo.globo.com/celina/violencia-contra-mulher-divorcio-separacao-na-pandemia-24496605)
-* [Festival Delivery Rio leva novidades à mesa](https://oglobo.globo.com/rioshow/festival-delivery-rio-leva-novidades-mesa-24496369)
 * [Lives de hoje: lançamento de Wilson Simoninha, live com Áurea Martins e filmes gratuitos](https://oglobo.globo.com/rioshow/lives-de-hoje-lancamento-de-wilson-simoninha-live-com-aurea-martins-filmes-gratuitos-1-24495965)

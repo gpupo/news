@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 04:10:38 UTC
+# indexed at 25/06/2020 04:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
 * [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
+* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
 * [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
 * [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [No, Safari 14 does not block Google Analytics](https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/)
 * [Perl 7 is going to be Perl 5.32, mostly](https://www.perl.com/article/announcing-perl-7/)
-* [NASA names headquarters after first Black female engineer Mary W. Jackson](https://www.axios.com/nasa-black-female-engineer-headquarters-7e859612-0832-4448-af5c-6a7ad3b64f19.html)
 * [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
-* [How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
+* [NASA names headquarters after first Black female engineer Mary W. Jackson](https://www.axios.com/nasa-black-female-engineer-headquarters-7e859612-0832-4448-af5c-6a7ad3b64f19.html)
 * [HAMR-JR microrobot demonstrates dexterity](https://www.theengineer.co.uk/hamr-jr-microrobot-harvard/)
-* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
 * [Microsoft duplicates data from Firefox without asking](https://old.reddit.com/r/Windows10/comments/hct0mj/are_we_going_to_get_treated_to_spam_popups/)
-* [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
-* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
-* [Stopping Computer Crimes (1989) [pdf]](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920002439.pdf)
+* [How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
+* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
 * [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
+* [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
+* [Stopping Computer Crimes (1989) [pdf]](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920002439.pdf)
 * [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
-* [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
-* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
-* [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
+* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
-* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
+* [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
+* [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
+* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
 * [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
-* [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
-* [Inside eBay’s bizarre campaign against a blog critic](https://www.wsj.com/articles/ebay-harassment-campaign-pig-cockroach-blog-11593009038)
 * [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
+* [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
+* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 ## nytimes.com
 
 
@@ -57,7 +57,6 @@ layout: default
 * [A Winner on Election Day in November? Don’t Count on It](https://www.nytimes.com/2020/06/24/us/politics/november-2020-election-day-results.html)
 * [Biden Takes Lead Over Trump in 2020 Presidential Poll](https://www.nytimes.com/2020/06/24/us/politics/trump-biden-poll-nyt-upshot-siena-college.html)
 * [Trump’s False Attacks on Voting by Mail Stir Broad Concern](https://www.nytimes.com/2020/06/24/us/politics/trump-vote-by-mail.html)
-* [Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)
 * [Virus, Ahmaud Arbery, Solo Travel: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/06/24/briefing/virus-ahmaud-arbery-solo-travel.html)
 * [Modern Love Podcast: Zawe Ashton Reads ‘Confronting Race, Religion and Her Heart’](https://www.nytimes.com/2020/06/24/style/modern-love-podcast-zawe-ashton.html)
 * [Sorry, eBay and Uber. You’re Hated.](https://www.nytimes.com/2020/06/24/technology/internet-middlemen.html)
@@ -86,8 +85,8 @@ layout: default
 * [Palestinians in Jordan Valley Fear Annexation Would Choke Off Their Villages](https://www.nytimes.com/2020/06/24/world/middleeast/israel-annex-jordan-valley-palestinians.html)
 * [Baseball’s New Rules: No Spitting, No Arguing, and Lots of Testing](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
@@ -96,8 +95,10 @@ layout: default
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
+* [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

@@ -2,29 +2,29 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 12:12:58 UTC
+# indexed at 25/06/2020 12:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Justice Department Charges Julian Assange in Superseding Indictment](https://www.justice.gov/opa/pr/wikileaks-founder-charged-superseding-indictment)
 * [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
-* [Krita 4.3.0 Released](https://krita.org/en/item/krita-4-3-0-released/)
 * [An even worse anti-encryption bill than EARN IT](https://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok)
+* [Symbian Won](https://shkspr.mobi/blog/2020/06/symbian-won/)
+* [Julian Assange Founder Charged in Superseding Indictment](https://www.justice.gov/opa/pr/wikileaks-founder-charged-superseding-indictment)
 * [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
-* [The largest city in each 10x10 degree latitude/longitude box](https://blog.plover.com/2020/06/24/#boundary-conditions)
-* [Wirecard files for insolvency after financial hole laid bare](https://www.dw.com/en/wirecard-files-for-insolvency-after-financial-hole-laid-bare/a-53936447)
 * [Apple: Advancements in Game Controllers](https://developer.apple.com/wwdc20/10614)
+* [Wirecard files for insolvency after financial hole laid bare](https://www.dw.com/en/wirecard-files-for-insolvency-after-financial-hole-laid-bare/a-53936447)
 * [Eastern European Movies](https://easterneuropeanmovies.com/)
+* [Krita 4.3.0](https://krita.org/en/item/krita-4-3-0-released/)
 * [A new licensing program to support the news industry](https://www.blog.google/outreach-initiatives/google-news-initiative/licensing-program-support-news-industry-/)
-* [Don't De-Anonymize Scott Alexander](https://www.dontdoxscottalexander.com/)
+* [The largest city in each 10x10 degree latitude/longitude box](https://blog.plover.com/2020/06/24/#boundary-conditions)
 * [Show HN: HN Deck – An alternative way to browse Hacker News](https://hndeck.sagunshrestha.com/)
-* [Turns out Zoom isn't all that different to Skype after all](https://builtformars.co.uk/how-zoom-works/)
 * [GW-Basic Source Notes](https://www.os2museum.com/wp/gw-basic-source-notes/)
+* [Microsoft Defender ATP for Linux is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344)
 * [Surgical Reading: How to Read 12 Books at Once](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books)
 * [Perceptions of musical octaves are learned, not wired in the brain](https://www.quantamagazine.org/perceptions-of-musical-octaves-are-learned-not-wired-in-the-brain-20191030/)
-* [Those who exercise free speech should also defend it even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
+* [Turns out Zoom isn't all that different to Skype after all](https://builtformars.co.uk/how-zoom-works/)
 * [Michael Hawley of MIT's Media Lab has died](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html)
 * [How to write PureScript react components to replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
 * [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
@@ -32,12 +32,12 @@ layout: default
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
 * [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
+* [Hapi.js project is reaching its conclusion](https://twitter.com/hapijs/status/1275887984114413569)
 * [Brazil Suspends WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
-* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 * [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
-* [Show HN: Beautiful Visualisations with the Chord Package](https://shahinrostami.com/posts/statistics/data-is-beautiful/animal-crossing-villagers-species-and-personalities/)
 * [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [Show HN: Beautiful Visualisations with the Chord Package](https://shahinrostami.com/posts/statistics/data-is-beautiful/animal-crossing-villagers-species-and-personalities/)
+* [London tube map made from a working circuit board](https://www.ianvisits.co.uk/blog/2020/06/23/check-out-this-london-tube-map-made-from-a-working-circuit-board/)
 ## nytimes.com
 
 
@@ -85,11 +85,11 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [Did a Mountain Lion Kill 3 Marsupials at the San Francisco Zoo?](https://www.nytimes.com/2020/06/23/us/mountain-lion-san-francisco.html)
 * [Barr’s Interest in Google Antitrust Case Keeps It Moving Swiftly](https://www.nytimes.com/2020/06/25/technology/barr-google-investigation.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
+* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
 * [Weird Times Call for Even Weirder Shoes](https://www.nytimes.com/2020/06/24/style/weird-times-call-for-even-weirder-shoes.html)
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
-* [Banco Central reduz projeção e, agora, prevê queda de 6,4% do PIB do Brasil em 2020](https://oglobo.globo.com/economia/banco-central-reduz-projecao-agora-preve-queda-de-64-do-pib-do-brasil-em-2020-24497922)
+* [EUA batem recorde de novos casos diários de coronavírus pelo segundo dia consecutivo](https://oglobo.globo.com/mundo/eua-batem-recorde-de-novos-casos-diarios-de-coronavirus-pelo-segundo-dia-consecutivo-24498014)
+* [Ministro anuncia em rede social que governo pagará mais três parcelas de auxilio, mas depois apaga](https://oglobo.globo.com/economia/ministro-anuncia-em-rede-social-que-governo-pagara-mais-tres-parcelas-de-auxilio-mas-depois-apaga-24498211)
+* [Mulheres serão indenizadas nos EUA em R$ 11 bilhões por fabricante de talco associado a câncer](https://epoca.globo.com/mundo/mulheres-serao-indenizadas-nos-eua-em-11-bilhoes-por-fabricante-de-talco-associado-cancer-24496484)
+* [Dólar é negociado na faixa de R$ 5,35, após mais casos de Covid-19 nos EUA e projeções do FMI](https://oglobo.globo.com/economia/dolar-negociado-na-faixa-de-535-apos-mais-casos-de-covid-19-nos-eua-projecoes-do-fmi-24498152)
 * [Dermatologista ensina os cuidados básicos com a região dos olhos, muito em voga com o uso das máscaras](https://oglobo.globo.com/ela/beleza/olhos/dermatologista-ensina-os-cuidados-basicos-com-regiao-dos-olhos-muito-em-voga-com-uso-das-mascaras-24497974)
 * [Pai de Gigi e Bella Hadid é obrigado pela Justiça a demolir casa de US$ 50 milhões](https://oglobo.globo.com/ela/gente/pai-de-gigi-bella-hadid-obrigado-pela-justica-demolir-casa-de-us-50-milhoes-24497946)
 * [HBO Max retorna com '...E o vento levou', mas exclui episódios de South Park com profeta Maomé](https://oglobo.globo.com/cultura/filmes/hbo-max-retorna-com-o-vento-levou-mas-exclui-episodios-de-south-park-com-profeta-maome-24497936)
 * [Brasileiro sequestrado por dissidentes das Farc passou por 11 cativeiros e conta o que viu e como foi tratado pelos guerrilheiros](https://oglobo.globo.com/mundo/brasileiro-sequestrado-por-dissidentes-das-farc-passou-por-11-cativeiros-conta-que-viu-como-foi-tratado-pelos-guerrilheiros-24497944)
-* [Mulheres são indenizadas nos EUA em R$ 11 bilhões por fabricante de talco associado a câncer](https://epoca.globo.com/mundo/mulheres-sao-indenizadas-nos-eua-em-11-bilhoes-por-fabricante-de-talco-associado-cancer-24496484)
-* [Menino de 11 anos morre após ser baleado na cabeça no Complexo da Maré](https://oglobo.globo.com/rio/menino-de-11-anos-morre-apos-ser-baleado-na-cabeca-no-complexo-da-mare-1-24497932)
 * [As opiniões divididas no debate sobre a lei de combate às fake news](https://oglobo.globo.com/analitico/as-opinioes-divididas-no-debate-sobre-lei-de-combate-as-fake-news-24494341)
-* [Incerteza sobre pacientes de Covid-19 recuperados atrapalha planos de reabertura](https://oglobo.globo.com/sociedade/coronavirus/incerteza-sobre-pacientes-de-covid-19-recuperados-atrapalha-planos-de-reabertura-1-24497017)
 * [Os 3,5 bilhões do Gato Galáctico](https://epoca.globo.com/guilherme-amado/os-35-bilhoes-do-gato-galactico-24497048)

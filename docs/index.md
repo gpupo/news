@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 07:10:11 UTC
+# indexed at 25/06/2020 07:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
 * [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
+* [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
 * [An even worse anti-encryption bill than EARN IT](https://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok)
+* [Eastern European Movies](https://easterneuropeanmovies.com/)
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
 * [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
-* [Eastern European Movies](https://easterneuropeanmovies.com/)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
 * [How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
-* [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [No, Safari 14 does not block Google Analytics](https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/)
-* [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
-* [Perl 7 is going to be Perl 5.32, mostly](https://www.perl.com/article/announcing-perl-7/)
 * [Perceptions of Musical Octaves Are Learned, Not Wired in the Brain](https://www.quantamagazine.org/perceptions-of-musical-octaves-are-learned-not-wired-in-the-brain-20191030/)
-* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
+* [Alex: ML-enhanced range index, similar in functionality to a B+ Tree](https://github.com/microsoft/ALEX#introduction)
+* [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
+* [Michael Hawley of MIT's Media Lab has died](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html)
 * [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
-* [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
 * [Those who exercise free speech should also defend it even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
 * [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
-* [Michael Hawley of MIT's Media Lab has died](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html)
-* [Alex: ML-enhanced range index, similar in functionality to a B+ Tree](https://github.com/microsoft/ALEX#introduction)
-* [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
+* [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
 * [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
-* [HAMR-JR microrobot demonstrates dexterity](https://www.theengineer.co.uk/hamr-jr-microrobot-harvard/)
+* [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
 * [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
 * [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
-* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
+* [HAMR-JR microrobot demonstrates dexterity](https://www.theengineer.co.uk/hamr-jr-microrobot-harvard/)
 * [On Liberty (1859) [pdf]](https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/mill/liberty.pdf)
-* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
 * [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
+* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
 * [London tube map made from a working circuit board](https://www.ianvisits.co.uk/blog/2020/06/23/check-out-this-london-tube-map-made-from-a-working-circuit-board/)
+* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
+* [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [Save Internet Freedom: Support the Open Technology Fund](https://saveinternetfreedom.tech/)
+* [Mathematics in type theory](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/)
 ## nytimes.com
 
 
@@ -83,8 +83,8 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [Palestinians in Jordan Valley Fear Annexation Would Choke Off Their Villages](https://www.nytimes.com/2020/06/24/world/middleeast/israel-annex-jordan-valley-palestinians.html)
 * [Baseball’s New Rules: No Spitting, No Arguing, and Lots of Testing](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
@@ -93,9 +93,9 @@ layout: default
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
@@ -107,7 +107,7 @@ layout: default
 
 * [Mega-Sena: Aposta do DF acerta sozinha as seis dezenas e leva mais de R$ 43 milhões](https://oglobo.globo.com/brasil/mega-sena-aposta-do-df-acerta-sozinha-as-seis-dezenas-leva-mais-de-43-milhoes-24497749)
 * [Advogada que conviveu com Queiroz na casa de Wassef diz que mulher do ex-assessor passava temporadas em Atibaia](https://oglobo.globo.com/brasil/advogada-que-conviveu-com-queiroz-na-casa-de-wassef-diz-que-mulher-do-ex-assessor-passava-temporadas-em-atibaia-24497569)
-* [BNDES deve divulgar condições do socorro ao setor elétrico na semana que vem](https://oglobo.globo.com/economia/bndes-deve-divulgar-condicoes-do-socorro-ao-setor-eletrico-na-semana-que-vem-24497275)
+* [Entenda por que mesmo com prejuízo e Hospital de Campanha, Flamengo prefere o Maracanã](https://oglobo.globo.com/esportes/entenda-por-que-mesmo-com-prejuizo-hospital-de-campanha-flamengo-prefere-maracana-24497333)
 * [Governo deu mordomia a Weintraub, que se dizia contra todos os privilégios](https://oglobo.globo.com/opiniao/governo-deu-mordomia-weintraub-que-se-dizia-contra-todos-os-privilegios-1-24496600)
 * [‘Associação criminosa’ no bolsonarismo](https://oglobo.globo.com/opiniao/associacao-criminosa-no-bolsonarismo-1-24497187)
 * [Esqueceram o elefante na sala](https://oglobo.globo.com/opiniao/esqueceram-elefante-na-sala-24496617)

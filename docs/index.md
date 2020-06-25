@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 11:34:33 UTC
+# indexed at 25/06/2020 12:12:58 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [An even worse anti-encryption bill than EARN IT](https://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok)
 * [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
 * [The largest city in each 10x10 degree latitude/longitude box](https://blog.plover.com/2020/06/24/#boundary-conditions)
+* [Wirecard files for insolvency after financial hole laid bare](https://www.dw.com/en/wirecard-files-for-insolvency-after-financial-hole-laid-bare/a-53936447)
+* [Apple: Advancements in Game Controllers](https://developer.apple.com/wwdc20/10614)
 * [Eastern European Movies](https://easterneuropeanmovies.com/)
 * [A new licensing program to support the news industry](https://www.blog.google/outreach-initiatives/google-news-initiative/licensing-program-support-news-industry-/)
+* [Don't De-Anonymize Scott Alexander](https://www.dontdoxscottalexander.com/)
 * [Show HN: HN Deck – An alternative way to browse Hacker News](https://hndeck.sagunshrestha.com/)
-* [Surgical Reading: How to Read 12 Books at Once](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books)
 * [Turns out Zoom isn't all that different to Skype after all](https://builtformars.co.uk/how-zoom-works/)
-* [Apple: Advancements in Game Controllers](https://developer.apple.com/wwdc20/10614)
-* [Wirecard files for insolvency after financial hole laid bare](https://www.dw.com/en/wirecard-files-for-insolvency-after-financial-hole-laid-bare/a-53936447)
+* [GW-Basic Source Notes](https://www.os2museum.com/wp/gw-basic-source-notes/)
+* [Surgical Reading: How to Read 12 Books at Once](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books)
+* [Perceptions of musical octaves are learned, not wired in the brain](https://www.quantamagazine.org/perceptions-of-musical-octaves-are-learned-not-wired-in-the-brain-20191030/)
 * [Those who exercise free speech should also defend it even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
 * [Michael Hawley of MIT's Media Lab has died](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html)
-* [GW-Basic Source Notes](https://www.os2museum.com/wp/gw-basic-source-notes/)
 * [How to write PureScript react components to replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
-* [Alex: ML-enhanced range index, similar in functionality to a B+ Tree](https://github.com/microsoft/ALEX#introduction)
 * [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
-* [Perceptions of musical octaves are learned, not wired in the brain](https://www.quantamagazine.org/perceptions-of-musical-octaves-are-learned-not-wired-in-the-brain-20191030/)
+* [Alex: ML-enhanced range index, similar in functionality to a B+ Tree](https://github.com/microsoft/ALEX#introduction)
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
 * [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
-* [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
-* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
 * [Brazil Suspends WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
-* [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
+* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
+* [An experiment suggested by a PhD student may rewrite chemistry textbooks](https://phys.org/news/2020-06-phd-student-rewrite-chemistry-textbooks.html)
 * [Show HN: Beautiful Visualisations with the Chord Package](https://shahinrostami.com/posts/statistics/data-is-beautiful/animal-crossing-villagers-species-and-personalities/)
+* [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
 ## nytimes.com
 
 
@@ -53,8 +53,8 @@ layout: default
 * [We Don’t Have to Like Them. We Just Need to Understand Them.](https://www.nytimes.com/2020/06/24/arts/design/theodore-roosevelt-statue.html)
 * [When the Toppled Statue Is of Your Great-Great-Great-Grandfather](https://www.nytimes.com/2020/06/25/us/historic-statues-monuments-descendants.html)
 * [Showing Strength With White Voters, Biden Builds Lead in Battleground States](https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html)
+* [Tammy Duckworth Is Battle Tested. Could She Help Joe Biden in His Biggest Mission?](https://www.nytimes.com/2020/06/25/us/politics/tammy-duckworth-vice-president-joe-biden.html)
 * [Trump’s Sagging Popularity Drags Down Republican Senate Candidates](https://www.nytimes.com/2020/06/25/us/politics/trump-senate-republicans-poll.html)
-* [A Winner on Election Day in November? Don’t Count on It](https://www.nytimes.com/2020/06/24/us/politics/november-2020-election-day-results.html)
 * [This College Football Team Had No Coronavirus Cases at First. Then It Shut Down.](https://www.nytimes.com/2020/06/25/sports/ncaafootball/college-football-coronavirus-cases.html)
 * [How These Students Lost, and Recaptured, the Magic of Senior Year](https://www.nytimes.com/2020/06/25/nyregion/how-these-students-lost-and-recaptured-the-magic-of-senior-year.html)
 * [Fireworks Conspiracy Theories: Why You Should Be Skeptical](https://www.nytimes.com/2020/06/25/nyregion/fireworks-nyc-conspiracy.html)
@@ -85,11 +85,11 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [Did a Mountain Lion Kill 3 Marsupials at the San Francisco Zoo?](https://www.nytimes.com/2020/06/23/us/mountain-lion-san-francisco.html)
 * [Barr’s Interest in Google Antitrust Case Keeps It Moving Swiftly](https://www.nytimes.com/2020/06/25/technology/barr-google-investigation.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
 * [Weird Times Call for Even Weirder Shoes](https://www.nytimes.com/2020/06/24/style/weird-times-call-for-even-weirder-shoes.html)
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)
@@ -107,13 +107,13 @@ layout: default
 ## globo.com
 
 
+* [Banco Central reduz projeção e, agora, prevê queda de 6,4% do PIB do Brasil em 2020](https://oglobo.globo.com/economia/banco-central-reduz-projecao-agora-preve-queda-de-64-do-pib-do-brasil-em-2020-24497922)
+* [Dermatologista ensina os cuidados básicos com a região dos olhos, muito em voga com o uso das máscaras](https://oglobo.globo.com/ela/beleza/olhos/dermatologista-ensina-os-cuidados-basicos-com-regiao-dos-olhos-muito-em-voga-com-uso-das-mascaras-24497974)
+* [Pai de Gigi e Bella Hadid é obrigado pela Justiça a demolir casa de US$ 50 milhões](https://oglobo.globo.com/ela/gente/pai-de-gigi-bella-hadid-obrigado-pela-justica-demolir-casa-de-us-50-milhoes-24497946)
+* [HBO Max retorna com '...E o vento levou', mas exclui episódios de South Park com profeta Maomé](https://oglobo.globo.com/cultura/filmes/hbo-max-retorna-com-o-vento-levou-mas-exclui-episodios-de-south-park-com-profeta-maome-24497936)
 * [Brasileiro sequestrado por dissidentes das Farc passou por 11 cativeiros e conta o que viu e como foi tratado pelos guerrilheiros](https://oglobo.globo.com/mundo/brasileiro-sequestrado-por-dissidentes-das-farc-passou-por-11-cativeiros-conta-que-viu-como-foi-tratado-pelos-guerrilheiros-24497944)
+* [Mulheres são indenizadas nos EUA em R$ 11 bilhões por fabricante de talco associado a câncer](https://epoca.globo.com/mundo/mulheres-sao-indenizadas-nos-eua-em-11-bilhoes-por-fabricante-de-talco-associado-cancer-24496484)
 * [Menino de 11 anos morre após ser baleado na cabeça no Complexo da Maré](https://oglobo.globo.com/rio/menino-de-11-anos-morre-apos-ser-baleado-na-cabeca-no-complexo-da-mare-1-24497932)
 * [As opiniões divididas no debate sobre a lei de combate às fake news](https://oglobo.globo.com/analitico/as-opinioes-divididas-no-debate-sobre-lei-de-combate-as-fake-news-24494341)
-* [Banco Central reduz projeção e, agora, prevê queda de 6,4% do PIB do Brasil em 2020](https://oglobo.globo.com/economia/banco-central-reduz-projecao-agora-preve-queda-de-64-do-pib-do-brasil-em-2020-24497922)
-* ['Os filhos de guerrilheiros brincam com armas de verdade', conta brasileiro sequestrado na Colômbia](https://oglobo.globo.com/mundo/os-filhos-de-guerrilheiros-brincam-com-armas-de-verdade-conta-brasileiro-sequestrado-na-colombia-24497897)
 * [Incerteza sobre pacientes de Covid-19 recuperados atrapalha planos de reabertura](https://oglobo.globo.com/sociedade/coronavirus/incerteza-sobre-pacientes-de-covid-19-recuperados-atrapalha-planos-de-reabertura-1-24497017)
-* [Brasil tem 1.193.609 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1193609-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24497893)
-* [Chefes da maior facção criminosa do Rio estão isolados com coronavírus em presídio](https://epoca.globo.com/rio/chefes-da-maior-faccao-criminosa-do-rio-estao-isolados-com-coronavirus-em-presidio-1-24497834)
-* [Estátuas de líderes democráticos desaparecem na Tailândia](https://oglobo.globo.com/mundo/estatuas-de-lideres-democraticos-desaparecem-na-tailandia-24497676)
-* [Presidente da Fundação Palmares não recebeu movimentos negros](https://epoca.globo.com/guilherme-amado/presidente-da-fundacao-palmares-nao-recebeu-movimentos-negros-24497003)
+* [Os 3,5 bilhões do Gato Galáctico](https://epoca.globo.com/guilherme-amado/os-35-bilhoes-do-gato-galactico-24497048)

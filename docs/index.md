@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/06/2020 01:34:39 UTC
+# indexed at 25/06/2020 02:11:01 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Amazon Honeycode – build web and mobile apps without writing code](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)
 * [Face ID and Touch ID for the Web](https://developer.apple.com/videos/play/wwdc2020/10670/)
 * [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/)
+* [NASA names headquarters after first Black female engineer Mary W. Jackson](https://www.axios.com/nasa-black-female-engineer-headquarters-7e859612-0832-4448-af5c-6a7ad3b64f19.html)
 * [Facial Recognition Leads To False Arrest Of Black Man In Detroit](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig)
 * [No, Safari 14 does not block Google Analytics](https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/)
 * [Amazon establishes new Counterfeit Crimes Unit](https://blog.aboutamazon.com/company-news/amazon-establishes-new-counterfeit-crime-unit)
 * [Perl 7 is going to be Perl 5.32, mostly](https://www.perl.com/article/announcing-perl-7/)
-* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
-* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
-* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
 * [I deleted my Facebook, WhatsApp, and Instagram accounts, and felt great since](https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/)
+* [C performance mystery: delete unused string constant](https://github.com/google/wuffs/commit/49023afd48aab68febc55a3561b2e8a0e2635533)
+* [Apple Acquires Fleetsmith](https://blog.fleetsmith.com/fleetsmith-acquired-by-apple/)
+* [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
 * [Microsoft duplicates data from Firefox without asking](https://old.reddit.com/r/Windows10/comments/hct0mj/are_we_going_to_get_treated_to_spam_popups/)
+* [New monkey species found hiding in plain sight](https://www.nationalgeographic.com/animals/2020/06/new-species-monkeys-found-most-endangered/?MvBriefArticleId=7604)
 * [Air conditioning's original purpose was to enable factory processes](https://spectrum.ieee.org/green-tech/buildings/air-conditioning-wasnt-invented-to-provide-comfort-to-human-beings)
 * [How to sell open source software: Guacamole case study](https://opensource.com/article/20/6/sell-open-source-software)
-* [The Eviction Tracking System: Monitor the number of U.S. eviction cases](https://evictionlab.org/eviction-tracking/)
-* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
 * [New technology for aluminum production promises zero CO2 emission](https://icelandmonitor.mbl.is/news/news/2020/06/24/iceland_s_co2_emissions_could_be_reduced_by_a_third/)
+* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
+* [Software Entropy](https://camhashemi.com/2020/06/23/software-entropy/)
 * [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments)
 * [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/)
 * [Twilio’s Dutch rival MessageBird plans an IPO](https://www.bloomberg.com/news/articles/2020-06-23/twilio-s-dutch-rival-messagebird-plans-an-ipo-in-gold-rush)
-* [Your Career in Computer Programming (2015)](https://thecomputerboys.com/?p=717)
-* [Text-Only Websites](https://sjmulder.nl/en/textonly.html)
+* [Good Ideas, Through the Looking Glass  (2005) [pdf]](https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf)
+* [Those who exercise free speech should also defend it – even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
 * [DNS Push Notifications](http://www.rfc-editor.org/rfc/rfc8765.txt)
+* [Text-Only Websites](https://sjmulder.nl/en/textonly.html)
 * [Inside eBay’s bizarre campaign against a blog critic](https://www.wsj.com/articles/ebay-harassment-campaign-pig-cockroach-blog-11593009038)
 * [Mathematics in type theory](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/)
 * [How People Read Online: New and Old Findings](https://www.nngroup.com/articles/how-people-read-online/)
-* [Those who exercise free speech should also defend it – even when it’s offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
-* [Syndicated rounds, for founders who can’t find a Series A lead](https://blog.ycombinator.com/syndicated-rounds-when-you-cant-find-a-series-a-lead/)
-* [What vertical farming and ag startups don't understand about agriculture](http://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/)
 ## nytimes.com
 
 
@@ -85,19 +85,19 @@ layout: default
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/qaeda-syria-special-operations-missile.html)
 * [Palestinians in Jordan Valley Fear Annexation Would Choke Off Their Villages](https://www.nytimes.com/2020/06/24/world/middleeast/israel-annex-jordan-valley-palestinians.html)
 * [Baseball’s New Rules: No Spitting, No Arguing, and Lots of Testing](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Maurice Harris Is a Superstar](https://www.nytimes.com/2020/06/22/style/maurice-harris-flowers-los-angeles.html)
 * [Weird Times Call for Even Weirder Shoes](https://www.nytimes.com/2020/06/24/style/weird-times-call-for-even-weirder-shoes.html)
 * [A Sweet-Tart Treat for Summer](https://www.nytimes.com/2020/06/22/dining/key-lime-pie-bars-recipe.html)
 * [Snail Mail Is Getting People Through This Time](https://www.nytimes.com/2020/06/24/style/mail-letters-coronavirus.html)
 * [Robert Laughlin, Preserver of a Mayan Language, Dies at 85](https://www.nytimes.com/2020/06/24/science/robert-laughlin-preserver-of-a-mayan-language-dies-at-85.html)
-* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [They Wanted You to Bet on Sharks. The Odds Were Not in Their Favor.](https://www.nytimes.com/2020/06/23/science/sharks-online-gambling.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [Sanofi Accelerates Its Timeline for Coronavirus Vaccine Development](https://www.nytimes.com/2020/06/23/health/sanofi-coronavirus-vaccine.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -106,6 +106,7 @@ layout: default
 ## globo.com
 
 
+* [Advogada que conviveu com Queiroz na casa de Wassef diz que mulher do ex-assessor passava temporadas em Atibaia](https://oglobo.globo.com/brasil/advogada-que-conviveu-com-queiroz-na-casa-de-wassef-diz-que-mulher-do-ex-assessor-passava-temporadas-em-atibaia-24497569)
 * [Argentina suspende projeto de desapropriação de agroexportadora Vicentin](https://oglobo.globo.com/mundo/argentina-suspende-projeto-de-desapropriacao-de-agroexportadora-vicentin-24497400)
 * [BNDES deve divulgar condições do socorro ao setor elétrico na semana que vem](https://oglobo.globo.com/economia/bndes-deve-divulgar-condicoes-do-socorro-ao-setor-eletrico-na-semana-que-vem-24497275)
 * [EUA intensificam lobby contra a entrada da chinesa Huawei nas redes 5G do Brasil](https://oglobo.globo.com/economia/eua-intensificam-lobby-contra-entrada-da-chinesa-huawei-nas-redes-5g-do-brasil-24497370)
@@ -115,4 +116,3 @@ layout: default
 * [Ministério da Saúde divulga novos critérios para confirmar casos de Covid-19](https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-divulga-novos-criterios-para-confirmar-casos-de-covid-19-1-24497278)
 * [O PL das Fake News pode subir no telhado amanhã](https://epoca.globo.com/guilherme-amado/o-pl-das-fake-news-pode-subir-no-telhado-amanha-24497285)
 * [É #FAKE que texto com críticas a Toffoli foi escrito por juíza da Escola da Magistratura do Rio de Janeiro](https://oglobo.globo.com/fato-ou-fake/e-fake-que-texto-com-criticas-toffoli-foi-escrito-por-juiza-da-escola-da-magistratura-do-rio-de-janeiro-24497232)
-* [É #FAKE que texto sobre pandemia do medo foi escrito por C.S. Lewis](https://oglobo.globo.com/fato-ou-fake/e-fake-que-texto-sobre-pandemia-do-medo-foi-escrito-por-cs-lewis-24497197)

@@ -2,18 +2,17 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 08:11:19 UTC
+# indexed at 26/06/2020 08:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Amazon to pay $1B+ for Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
-* [3K, 60fps, 130ms: achieving it with Rust](https://blog.tonari.no/why-we-love-rust?ref=twtr)
 * [When you type realty.com into Safari it takes you to realtor.com](https://www.facebook.com/story.php?story_fbid=10157161487396994&id=501751993)
 * [Boston bans use of facial recognition technology](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
-* [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
 * [Turn recipe websites into plain text](https://plainoldrecipe.com/)
+* [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
 * [Curl Wttr.in](https://github.com/chubin/wttr.in)
 * [Clock Signal: A latency-hating emulator of 8- and 16-bit platforms](https://github.com/TomHarte/CLK)
 * [Quora goes permanently remote-first](https://twitter.com/adamdangelo/status/1276210618786168833)
@@ -23,21 +22,22 @@ layout: default
 * [Commodore Basic as a Scripting Language](https://github.com/mist64/cbmbasic)
 * [Verizon suspends advertising on Facebook, joins growing boycott](https://www.reuters.com/article/us-facebook-ads-boycott-verizon/verizon-suspends-advertising-on-facebook-joins-growing-boycott-idUSKBN23W3HK)
 * [The Ising model: a cartoon picture of magnets that became ubiquitous in science](https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/)
-* [Invest in Main Street](https://mainvest.com/)
 * [Show HN: Aviary.sh – A tiny Bash alternative to Ansible](https://github.com/team-video/aviary.sh)
-* [Play-by-Mail Games](http://reality.com/)
-* [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
-* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
-* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
-* [New remnant radio galaxy detected](https://phys.org/news/2020-06-remnant-radio-galaxy.html)
-* [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
-* [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
 * [There is now a European standard for measuring how easy it is to repair stuff](https://de.ifixit.com/News/35879/repairability-standard-en45554)
-* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
+* [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
+* [Invest in Main Street](https://mainvest.com/)
+* [Play-by-Mail Games](http://reality.com/)
+* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
+* [New remnant radio galaxy detected](https://phys.org/news/2020-06-remnant-radio-galaxy.html)
+* [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
+* [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
 * [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
+* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
 * [A Renaissance painting reveals how breeding changed watermelons (2015)](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)
-* [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
 * [CHM Releases New Recordings and Personal Stories with AI Expert Systems Pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
+* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
+* [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
+* [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
 ## nytimes.com
 
 
@@ -55,6 +55,7 @@ layout: default
 * [Inside William Barr's Effort to Undermine N.Y. Prosecutors](https://www.nytimes.com/2020/06/25/nyregion/geoffrey-berman-william-barr-michael-cohen.html)
 * [Trump Administration Asks Supreme Court to Strike Down Affordable Care Act](https://www.nytimes.com/2020/06/26/us/politics/obamacare-trump-administration-supreme-court.html)
 * [Trump Overhaul of Campus Sex Assault Rules Wins Surprising Support](https://www.nytimes.com/2020/06/25/us/college-sex-assault-rules.html)
+* [N.Y.C. on Track to Enter Phase 3 of Reopening on July 6](https://www.nytimes.com/2020/06/26/nyregion/phase-3-nyc-reopening-coronavirus.html)
 * [The Voters Trump Is Losing](https://www.nytimes.com/2020/06/25/podcasts/the-daily/biden-poll-trump-election-2020.html)
 * [When the Police Treat Software Like Magic](https://www.nytimes.com/2020/06/25/technology/facial-recognition-software-dangers.html)
 * [Place Your Bets on Biden’s V.P.](https://www.nytimes.com/2020/06/25/opinion/the-argument-biden-vice-president-supreme-court.html)
@@ -81,10 +82,10 @@ layout: default
 * [A Penny for Your Thoughts Could Be a Lot Harder to Find](https://www.nytimes.com/2020/06/25/business/economy/coin-shortage-coronavirus.html)
 * [Liverpool Wins Premier League Without Breaking a Sweat](https://www.nytimes.com/2020/06/25/sports/soccer/liverpool-premier-league.html)
 * [James Brown’s Will: Is It Inching Toward Closure After 14 Years?](https://www.nytimes.com/2020/06/25/arts/music/james-brown-will.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * ['Korean Art From 1953' Gives a Full View of Modern Art in South Korea](https://www.nytimes.com/2020/06/25/arts/design/korean-modern-art-book.html)
 * [How Jessie Ware Cooked Her Way Into a Musical Fantasy](https://www.nytimes.com/2020/06/22/arts/music/jessie-ware-whats-your-pleasure-table-manners.html)
@@ -92,9 +93,9 @@ layout: default
 * [When Facebook Politics Get Extra Personal](https://www.nytimes.com/2020/06/25/style/facebook-political-views.html)
 * [Rick Owens Stitches a Souvenir](https://www.nytimes.com/2020/06/23/style/DIY-sewing-rick-owens-stitches-a-souvenir.html)
 * [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
-* [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
 * [Climate Change Tied to Pregnancy Risks, Affecting Black Mothers Most](https://www.nytimes.com/2020/06/18/climate/climate-change-pregnancy-study.html)
 * [Sitting All Day May Increase Your Risk of Dying From Cancer](https://www.nytimes.com/2020/06/24/well/move/sitting-sedentary-exercise-cancer-risk.html)
+* [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [STF enviou para a primeira instância casos iguais ao de Flávio Bolsonaro](https://oglobo.globo.com/brasil/stf-enviou-para-primeira-instancia-casos-iguais-ao-de-flavio-bolsonaro-24500547)
+* [Caso XP Itaú abre espaço para debater transparência, dizem gestores](https://oglobo.globo.com/economia/caso-xp-itau-abre-espaco-para-debater-transparencia-dizem-gestores-24500572)
+* [Mudança de juiz no caso Flávio Bolsonaro não seguiu jurisprudência do STF sobre foro privilegiado, dizem especialistas](https://oglobo.globo.com/brasil/mudanca-de-juiz-no-caso-flavio-bolsonaro-nao-seguiu-jurisprudencia-do-stf-sobre-foro-privilegiado-dizem-especialistas-1-24500090)
 * [STF mandou para a primeira instância casos iguais ao de Flávio Bolsonaro](https://oglobo.globo.com/brasil/stf-mandou-para-primeira-instancia-casos-iguais-ao-de-flavio-bolsonaro-24500536)
 * [Por que conceder saneamento básico a empresas privadas?](https://oglobo.globo.com/podcast/por-que-conceder-saneamento-basico-empresas-privadas-24500579)
-* [Auxílio emergencial: Renda Brasil vai atender só parte dos beneficiários](https://oglobo.globo.com/economia/auxilio-emergencial-renda-brasil-vai-atender-so-parte-dos-beneficiarios-24500540)
 * [Retirado do caso de Flávio Bolsonaro, juiz lamentou decisão da Justiça](https://oglobo.globo.com/brasil/retirado-do-caso-de-flavio-bolsonaro-juiz-lamentou-decisao-da-justica-24500300)
 * [Google faz oferta de remuneração limitada a produtores de notícias](https://oglobo.globo.com/economia/google-faz-oferta-de-remuneracao-limitada-produtores-de-noticias-24499698)
-* [Em livro, desembargador que votou a favor de Flávio Bolsonaro chamou foro privilegiado de 'presente de Natal'](https://oglobo.globo.com/brasil/em-livro-desembargador-que-votou-favor-de-flavio-bolsonaro-chamou-foro-privilegiado-de-presente-de-natal-24500343)
-* [Após flexibilização, isolamento social cai ainda mais e Rio volta a ter congestionamentos](https://oglobo.globo.com/rio/apos-flexibilizacao-isolamento-social-cai-ainda-mais-rio-volta-ter-congestionamentos-24500408)
 * [Gilberto Gil faz live junina e ganha dois discos de aniversário](https://oglobo.globo.com/rioshow/gilberto-gil-faz-live-junina-ganha-dois-discos-de-aniversario-24499903)
 * [Desafios do delivery: chefes falam sobre dificuldades e benefícios das entregas](https://oglobo.globo.com/rioshow/desafios-do-delivery-chefes-falam-sobre-dificuldades-beneficios-das-entregas-24495840)
 * [Alceu Valença lança maratona de shows para São João](https://oglobo.globo.com/rioshow/alceu-valenca-lanca-maratona-de-shows-para-sao-joao-24498970)

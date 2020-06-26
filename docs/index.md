@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 06:11:01 UTC
+# indexed at 26/06/2020 06:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Amazon to pay $1B+ for Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
 * [When you type realty.com into Safari it takes you to realtor.com](https://www.facebook.com/story.php?story_fbid=10157161487396994&id=501751993)
-* [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
 * [Turn recipe websites into plain text](https://plainoldrecipe.com/)
-* [Curl Wttr.in](https://github.com/chubin/wttr.in)
 * [Boston bans use of facial recognition technology](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
+* [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
+* [Curl Wttr.in](https://github.com/chubin/wttr.in)
 * [Quora goes permanently remote-first](https://twitter.com/adamdangelo/status/1276210618786168833)
 * [Dwarf Fortress Creator Explains Its Complexity and Origins [video]](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
 * [Blackballed by PayPal, Sci-Hub switches to Bitcoin](https://www.coindesk.com/blackballed-by-paypal-scientific-paper-pirate-takes-bitcoin-donations)
 * [The Acorn Archimedes was the first desktop to use the ARM architecture](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/why-wait-for-apple-try-out-the-original-arm-desktop-experience-today-with-a-raspberry-pi)
+* [Snowden: Tech Workers Are Complicit in How Their Companies Hurt Society](https://www.vice.com/en_ca/article/wxqx8q/snowden-tech-workers-are-complicit-in-how-their-companies-hurt-society)
 * [Commodore Basic as a Scripting Language](https://github.com/mist64/cbmbasic)
 * [Verizon suspends advertising on Facebook, joins growing boycott](https://www.reuters.com/article/us-facebook-ads-boycott-verizon/verizon-suspends-advertising-on-facebook-joins-growing-boycott-idUSKBN23W3HK)
 * [The Ising model: a cartoon picture of magnets that became ubiquitous in science](https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/)
 * [New remnant radio galaxy detected](https://phys.org/news/2020-06-remnant-radio-galaxy.html)
+* [Play-by-Mail Games](http://reality.com/)
 * [Show HN: Aviary.sh – A tiny Bash alternative to Ansible](https://github.com/team-video/aviary.sh)
 * [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
-* [Play-by-Mail Games](http://reality.com/)
-* [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
 * [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
-* [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
-* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
-* [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
-* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
 * [CHM Releases New Recordings and Personal Stories with AI Expert Systems Pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
+* [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
+* [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
+* [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
+* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
 * [A Renaissance painting reveals how breeding changed watermelons (2015)](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)
+* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
 * [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
+* [Ask HN: What are the technical justifications for keeping .DS_Store?](https://news.ycombinator.com/item?id=23648165)
 * [We use too many damn modals (2018)](https://modalzmodalzmodalz.com/)
 * [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
-* [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
-* [A Mechanical Neon Oscilloscope](https://www.novioljourneys.com/?p=475)
 ## nytimes.com
 
 
@@ -83,10 +83,10 @@ layout: default
 * [Liverpool Wins Premier League Without Breaking a Sweat](https://www.nytimes.com/2020/06/25/sports/soccer/liverpool-premier-league.html)
 * [James Brown’s Will: Is It Inching Toward Closure After 14 Years?](https://www.nytimes.com/2020/06/25/arts/music/james-brown-will.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * ['Korean Art From 1953' Gives a Full View of Modern Art in South Korea](https://www.nytimes.com/2020/06/25/arts/design/korean-modern-art-book.html)
 * [How Jessie Ware Cooked Her Way Into a Musical Fantasy](https://www.nytimes.com/2020/06/22/arts/music/jessie-ware-whats-your-pleasure-table-manners.html)
 * [Some of France’s Only Live Theater Right Now Is a Historical Affront](https://www.nytimes.com/2020/06/25/theater/puy-du-fou-theater-history.html)
@@ -94,8 +94,8 @@ layout: default
 * [Rick Owens Stitches a Souvenir](https://www.nytimes.com/2020/06/23/style/DIY-sewing-rick-owens-stitches-a-souvenir.html)
 * [Sitting All Day May Increase Your Risk of Dying From Cancer](https://www.nytimes.com/2020/06/24/well/move/sitting-sedentary-exercise-cancer-risk.html)
 * [Climate Change Tied to Pregnancy Risks, Affecting Black Mothers Most](https://www.nytimes.com/2020/06/18/climate/climate-change-pregnancy-study.html)
-* [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
 * [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
+* [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

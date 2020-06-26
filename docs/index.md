@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 06:34:37 UTC
+# indexed at 26/06/2020 07:10:16 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,39 @@ layout: default
 
 * [Amazon to pay $1B+ for Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
 * [When you type realty.com into Safari it takes you to realtor.com](https://www.facebook.com/story.php?story_fbid=10157161487396994&id=501751993)
-* [Turn recipe websites into plain text](https://plainoldrecipe.com/)
 * [Boston bans use of facial recognition technology](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
+* [Turn recipe websites into plain text](https://plainoldrecipe.com/)
 * [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
 * [Curl Wttr.in](https://github.com/chubin/wttr.in)
 * [Quora goes permanently remote-first](https://twitter.com/adamdangelo/status/1276210618786168833)
+* [Snowden: Tech Workers Are Complicit in How Their Companies Hurt Society](https://www.vice.com/en_ca/article/wxqx8q/snowden-tech-workers-are-complicit-in-how-their-companies-hurt-society)
 * [Dwarf Fortress Creator Explains Its Complexity and Origins [video]](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
 * [Blackballed by PayPal, Sci-Hub switches to Bitcoin](https://www.coindesk.com/blackballed-by-paypal-scientific-paper-pirate-takes-bitcoin-donations)
 * [The Acorn Archimedes was the first desktop to use the ARM architecture](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/why-wait-for-apple-try-out-the-original-arm-desktop-experience-today-with-a-raspberry-pi)
-* [Snowden: Tech Workers Are Complicit in How Their Companies Hurt Society](https://www.vice.com/en_ca/article/wxqx8q/snowden-tech-workers-are-complicit-in-how-their-companies-hurt-society)
 * [Commodore Basic as a Scripting Language](https://github.com/mist64/cbmbasic)
 * [Verizon suspends advertising on Facebook, joins growing boycott](https://www.reuters.com/article/us-facebook-ads-boycott-verizon/verizon-suspends-advertising-on-facebook-joins-growing-boycott-idUSKBN23W3HK)
 * [The Ising model: a cartoon picture of magnets that became ubiquitous in science](https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/)
 * [New remnant radio galaxy detected](https://phys.org/news/2020-06-remnant-radio-galaxy.html)
+* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
 * [Play-by-Mail Games](http://reality.com/)
+* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
 * [Show HN: Aviary.sh – A tiny Bash alternative to Ansible](https://github.com/team-video/aviary.sh)
 * [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
-* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
-* [CHM Releases New Recordings and Personal Stories with AI Expert Systems Pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
 * [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
+* [CHM Releases New Recordings and Personal Stories with AI Expert Systems Pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
 * [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
 * [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
 * [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
 * [A Renaissance painting reveals how breeding changed watermelons (2015)](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)
-* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
 * [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
-* [Ask HN: What are the technical justifications for keeping .DS_Store?](https://news.ycombinator.com/item?id=23648165)
-* [We use too many damn modals (2018)](https://modalzmodalzmodalz.com/)
+* [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
 * [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
+* [We use too many damn modals (2018)](https://modalzmodalzmodalz.com/)
 ## nytimes.com
 
 
 * [Texas Governor Pauses Reopening as Coronavirus Cases Soar in Region](https://www.nytimes.com/2020/06/25/us/texas-coronavirus-cases-reopening.html)
-* [Coronavirus Live Updates: U.S. and Global News](https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html)
+* [As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings](https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html)
 * [As Virus Surges, Younger People Account for ‘Disturbing’ Number of Cases](https://www.nytimes.com/2020/06/25/us/coronavirus-cases-young-people.html)
 * [Russian Criminal Group Finds New Target: Americans Working at Home](https://www.nytimes.com/2020/06/25/us/politics/russia-ransomware-coronavirus-work-home.html)
 * [Fed Caps Dividends and Limits Buybacks by Big Banks](https://www.nytimes.com/2020/06/25/business/economy/fed-dividend-buyback-limits.html)
@@ -55,7 +55,6 @@ layout: default
 * [Inside William Barr's Effort to Undermine N.Y. Prosecutors](https://www.nytimes.com/2020/06/25/nyregion/geoffrey-berman-william-barr-michael-cohen.html)
 * [Trump Administration Asks Supreme Court to Strike Down Affordable Care Act](https://www.nytimes.com/2020/06/26/us/politics/obamacare-trump-administration-supreme-court.html)
 * [Trump Overhaul of Campus Sex Assault Rules Wins Surprising Support](https://www.nytimes.com/2020/06/25/us/college-sex-assault-rules.html)
-* [Texas, Unemployment, ‘Hamilton’: Your Thursday Evening Briefing](https://www.nytimes.com/2020/06/25/briefing/texas-unemployment-hamilton.html)
 * [The Voters Trump Is Losing](https://www.nytimes.com/2020/06/25/podcasts/the-daily/biden-poll-trump-election-2020.html)
 * [When the Police Treat Software Like Magic](https://www.nytimes.com/2020/06/25/technology/facial-recognition-software-dangers.html)
 * [Place Your Bets on Biden’s V.P.](https://www.nytimes.com/2020/06/25/opinion/the-argument-biden-vice-president-supreme-court.html)
@@ -82,20 +81,21 @@ layout: default
 * [A Penny for Your Thoughts Could Be a Lot Harder to Find](https://www.nytimes.com/2020/06/25/business/economy/coin-shortage-coronavirus.html)
 * [Liverpool Wins Premier League Without Breaking a Sweat](https://www.nytimes.com/2020/06/25/sports/soccer/liverpool-premier-league.html)
 * [James Brown’s Will: Is It Inching Toward Closure After 14 Years?](https://www.nytimes.com/2020/06/25/arts/music/james-brown-will.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * ['Korean Art From 1953' Gives a Full View of Modern Art in South Korea](https://www.nytimes.com/2020/06/25/arts/design/korean-modern-art-book.html)
 * [How Jessie Ware Cooked Her Way Into a Musical Fantasy](https://www.nytimes.com/2020/06/22/arts/music/jessie-ware-whats-your-pleasure-table-manners.html)
 * [Some of France’s Only Live Theater Right Now Is a Historical Affront](https://www.nytimes.com/2020/06/25/theater/puy-du-fou-theater-history.html)
 * [When Facebook Politics Get Extra Personal](https://www.nytimes.com/2020/06/25/style/facebook-political-views.html)
 * [Rick Owens Stitches a Souvenir](https://www.nytimes.com/2020/06/23/style/DIY-sewing-rick-owens-stitches-a-souvenir.html)
-* [Sitting All Day May Increase Your Risk of Dying From Cancer](https://www.nytimes.com/2020/06/24/well/move/sitting-sedentary-exercise-cancer-risk.html)
-* [Climate Change Tied to Pregnancy Risks, Affecting Black Mothers Most](https://www.nytimes.com/2020/06/18/climate/climate-change-pregnancy-study.html)
 * [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
+* [Climate Change Tied to Pregnancy Risks, Affecting Black Mothers Most](https://www.nytimes.com/2020/06/18/climate/climate-change-pregnancy-study.html)
+* [Sitting All Day May Increase Your Risk of Dying From Cancer](https://www.nytimes.com/2020/06/24/well/move/sitting-sedentary-exercise-cancer-risk.html)
 * [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
+* [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -103,8 +103,8 @@ layout: default
 ## globo.com
 
 
+* [Seleção brasileira da Copa de 1970: a perfeição inatingível](https://oglobo.globo.com/esportes/selecao-brasileira-da-copa-de-1970-perfeicao-inatingivel-24500584)
 * [Gestor cultural e artista debatem os editais realizados durante a pandemia](https://epoca.globo.com/cultura/gestor-cultural-artista-debatem-os-editais-realizados-durante-pandemia-24500413)
-* [A jornada contra o racismo de uma mulher negra nascida na elite da Bahia](https://epoca.globo.com/sociedade/a-jornada-contra-racismo-de-uma-mulher-negra-nascida-na-elite-da-bahia-24500339)
 * [Novak Djokovic, imprudente e infectado](https://epoca.globo.com/esportes/novak-djokovic-imprudente-infectado-24500266)
 * [O fôlego novo de 'Brás Cubas' no meio literário internacional](https://epoca.globo.com/cultura/o-folego-novo-de-bras-cubas-no-meio-literario-internacional-24500166)
 * [CEOs no divã](https://epoca.globo.com/sociedade/ceos-no-diva-24500047)

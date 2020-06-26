@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 01:11:07 UTC
+# indexed at 26/06/2020 01:34:16 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [The Acorn Archimedes was the first desktop to use the ARM architecture](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/why-wait-for-apple-try-out-the-original-arm-desktop-experience-today-with-a-raspberry-pi)
 * [Blackballed by PayPal, Sci-Hub switches to Bitcoin](https://www.coindesk.com/blackballed-by-paypal-scientific-paper-pirate-takes-bitcoin-donations)
 * [Dwarf Fortress Creator Explains Its Complexity and Origins [video]](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
-* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
 * [San Francisco Tenants Break Leases at Alarming Rates](https://www.thesfnews.com/san-francisco-tenants-break-leases-at-alarming-rates/57573)
+* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
 * [Show HN: Aviary.sh – A tiny Bash alternative to Ansible](https://github.com/team-video/aviary.sh)
 * [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
 * [Symbian Won](https://shkspr.mobi/blog/2020/06/symbian-won/)
 * [Comcast, Mozilla strike privacy deal to encrypt DNS lookups in Firefox](https://arstechnica.com/tech-policy/2020/06/comcast-mozilla-strike-privacy-deal-to-encrypt-dns-lookups-in-firefox/)
-* [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
 * [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
-* [A Mechanical Neon Oscilloscope](https://www.novioljourneys.com/?p=475)
+* [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
 * [We use too many damn modals (2018)](https://modalzmodalzmodalz.com/)
+* [A Mechanical Neon Oscilloscope](https://www.novioljourneys.com/?p=475)
 * [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
-* [New York City’s Mail Chutes (2015)](https://www.atlasobscura.com/articles/new-york-citys-mail-chutes-are-lovely-ingenious-and-almost-entirely-ignored)
 * [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
-* [Community open letter against renaming Wikimedia to Wikipedia](https://meta.wikimedia.org/wiki/Community_open_letter_on_renaming)
-* [Draft of my perf book is ready – Easyperf](https://easyperf.net/blog/2020/06/24/Draft-Of-Perf-Book)
-* [A Renaissance painting reveals how breeding changed watermelons (2015)](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)
-* [A World Without Clouds: early attempts to make photos look more like the world](https://www.laphamsquarterly.org/roundtable/world-without-clouds)
 * [Geeking Out over Arbitrary Boundaries](https://blog.plover.com/geo/boundary-conditions.html)
-* [Logistic regression from scratch](https://philippmuens.com/logistic-regression-from-scratch/)
+* [New York City’s Mail Chutes (2015)](https://www.atlasobscura.com/articles/new-york-citys-mail-chutes-are-lovely-ingenious-and-almost-entirely-ignored)
+* [Community open letter against renaming Wikimedia to Wikipedia](https://meta.wikimedia.org/wiki/Community_open_letter_on_renaming)
+* [A Renaissance painting reveals how breeding changed watermelons (2015)](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)
+* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
+* [A World Without Clouds: early attempts to make photos look more like the world](https://www.laphamsquarterly.org/roundtable/world-without-clouds)
+* [Draft of my perf book is ready – Easyperf](https://easyperf.net/blog/2020/06/24/Draft-Of-Perf-Book)
 * [ASGI from scratch – Let's build an ASGI web framework](https://shenli.dev/2020/06/20/asgi-from-scratch.html)
+* [Logistic regression from scratch](https://philippmuens.com/logistic-regression-from-scratch/)
 * [Linux to begin tightening up ability to write to CPU MSRs from user-space](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Filter-Tightening-MSRs)
 * [The largest city in each 10x10 degree latitude/longitude box](https://blog.plover.com/2020/06/24/#boundary-conditions)
-* [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [Pandemic’s Cleaner Air Could Reshape What We Know About the Atmosphere](https://www.nytimes.com/2020/06/25/climate/coronavirus-clean-air.html)
 * [Israel Announces Partnership With U.A.E., Which Throws Cold Water On It](https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html)
 * [James Brown’s Will: Is It Inching Toward Closure After 14 Years?](https://www.nytimes.com/2020/06/25/arts/music/james-brown-will.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * ['Korean Art From 1953' Gives a Full View of Modern Art in South Korea](https://www.nytimes.com/2020/06/25/arts/design/korean-modern-art-book.html)
 * [How Jessie Ware Cooked Her Way Into a Musical Fantasy](https://www.nytimes.com/2020/06/22/arts/music/jessie-ware-whats-your-pleasure-table-manners.html)
 * [Some of France’s Only Live Theater Right Now Is a Historical Affront](https://www.nytimes.com/2020/06/25/theater/puy-du-fou-theater-history.html)
 * [When Facebook Politics Get Extra Personal](https://www.nytimes.com/2020/06/25/style/facebook-political-views.html)
 * [Rick Owens Stitches a Souvenir](https://www.nytimes.com/2020/06/23/style/DIY-sewing-rick-owens-stitches-a-souvenir.html)
-* [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
-* [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
 * [Sitting All Day May Increase Your Risk of Dying From Cancer](https://www.nytimes.com/2020/06/24/well/move/sitting-sedentary-exercise-cancer-risk.html)
 * [Climate Change Tied to Pregnancy Risks, Affecting Black Mothers Most](https://www.nytimes.com/2020/06/18/climate/climate-change-pregnancy-study.html)
+* [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
+* [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
 * [Madison Cawthorn, 24, Upsets Trump-Endorsed Favorite in North Carolina](https://www.nytimes.com/2020/06/23/us/politics/madison-cawthorn-north-carolina.html)
 * [Biden Takes Lead Over Trump in 2020 Presidential Poll](https://www.nytimes.com/2020/06/24/us/politics/trump-biden-poll-nyt-upshot-siena-college.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,6 +103,7 @@ layout: default
 ## globo.com
 
 
+* [Câmara dos EUA aprova projeto de reforma das forças policiais nos EUA](https://oglobo.globo.com/mundo/camara-dos-eua-aprova-projeto-de-reforma-das-forcas-policiais-nos-eua-24500384)
 * [Com sanfoneiro, Bolsonaro faz homenagem a vítimas e diz que houve 'excesso de preocupação' com coronavírus](https://oglobo.globo.com/sociedade/coronavirus/com-sanfoneiro-bolsonaro-faz-homenagem-vitimas-diz-que-houve-excesso-de-preocupacao-com-coronavirus-24500280)
 * [Queiroz passou cinco meses em apartamento da família de Wassef no Guarujá, diz jornal](https://oglobo.globo.com/brasil/queiroz-passou-cinco-meses-em-apartamento-da-familia-de-wassef-no-guaruja-diz-jornal-24500350)
 * [Presidente do BNDES diz que setor de saneamento será bandeira para o banco](https://oglobo.globo.com/economia/presidente-do-bndes-diz-que-setor-de-saneamento-sera-bandeira-para-banco-24500341)
@@ -112,4 +113,3 @@ layout: default
 * [Ministro 'precisa morar no MEC para sanar feridas deixadas por Weintraub', diz Mozart Ramos](https://oglobo.globo.com/sociedade/educacao/ministro-precisa-morar-no-mec-para-sanar-feridas-deixadas-por-weintraub-diz-mozart-ramos-24499843)
 * [Ministro 'precisa morar no MEC para sanar feridas deixadas por Weintraub', diz Mozart Ramos](https://oglobo.globo.com/sociedade/educacao/ministro-precisa-morar-no-mec-para-sanar-feridas-deixadas-por-weintraub-diz-mozart-ramos-24500260)
 * [CBF define possíveis datas para início das Séries A e B do Brasileiro](https://oglobo.globo.com/esportes/cbf-define-possiveis-datas-para-inicio-das-series-e-do-brasileiro-24500163)
-* [Marco Aurélio critica decisão do TJ no caso Flávio: 'É o Brasil. É o faz de conta'](https://oglobo.globo.com/brasil/marco-aurelio-critica-decisao-do-tj-no-caso-flavio-o-brasil-o-faz-de-conta-24500153)

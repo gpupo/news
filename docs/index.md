@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 05:10:04 UTC
+# indexed at 26/06/2020 05:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -10,6 +10,7 @@ layout: default
 
 * [When you type realty.com into Safari it takes you to realtor.com](https://www.facebook.com/story.php?story_fbid=10157161487396994&id=501751993)
 * [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
+* [Amazon to pay $1B+ for self-driving tech firm Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
 * [Curl Wttr.in](https://github.com/chubin/wttr.in)
 * [Quora goes permanently remote-first](https://twitter.com/adamdangelo/status/1276210618786168833)
 * [Boston Bans Use of Facial Recognition Technology](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
@@ -19,25 +20,24 @@ layout: default
 * [Verizon suspends advertising on Facebook, joins growing boycott](https://www.reuters.com/article/us-facebook-ads-boycott-verizon/verizon-suspends-advertising-on-facebook-joins-growing-boycott-idUSKBN23W3HK)
 * [Commodore Basic as a Scripting Language](https://github.com/mist64/cbmbasic)
 * [The Ising model: a cartoon picture of magnets that became ubiquitous in science](https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/)
-* [Show HN: Aviary.sh – A tiny Bash alternative to Ansible](https://github.com/team-video/aviary.sh)
 * [New remnant radio galaxy detected](https://phys.org/news/2020-06-remnant-radio-galaxy.html)
-* [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
-* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
 * [Permacomputing](http://viznut.fi/texts-en/permacomputing.html)
-* [Play-by-Mail Games](http://reality.com/)
-* [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
+* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
+* [Query-Based Compiler Architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
+* [Show HN: Aviary.sh – A tiny Bash alternative to Ansible](https://github.com/team-video/aviary.sh)
 * [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
+* [How we test the TeamCity UI](https://blog.jetbrains.com/teamcity/2020/06/teamcity-ui-how-do-we-test-it/)
+* [Play-by-Mail Games](http://reality.com/)
 * [You might as well be a great copy editor](https://blog.regehr.org/archives/1471)
 * [A Renaissance painting reveals how breeding changed watermelons (2015)](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)
-* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
-* [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
-* [A Mechanical Neon Oscilloscope](https://www.novioljourneys.com/?p=475)
-* [We use too many damn modals (2018)](https://modalzmodalzmodalz.com/)
 * [Ask HN: What are the technical justifications for keeping .DS_Store?](https://news.ycombinator.com/item?id=23648165)
-* [Logistic regression from scratch](https://philippmuens.com/logistic-regression-from-scratch/)
+* [Show HN: Relay – Event-driven DevOps automation](https://relay.sh)
+* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
+* [We use too many damn modals (2018)](https://modalzmodalzmodalz.com/)
+* [A Mechanical Neon Oscilloscope](https://www.novioljourneys.com/?p=475)
 * [New York City’s Mail Chutes (2015)](https://www.atlasobscura.com/articles/new-york-citys-mail-chutes-are-lovely-ingenious-and-almost-entirely-ignored)
-* [A World Without Clouds: early attempts to make photos look more like the world](https://www.laphamsquarterly.org/roundtable/world-without-clouds)
 * [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
+* [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
 ## nytimes.com
 
 
@@ -73,7 +73,7 @@ layout: default
 * [The Ending of This Louisa May Alcott Story May Disappoint You](https://www.nytimes.com/2020/06/25/books/louisa-may-alcott-new-story-strand.html)
 * [Leo Tolstoy vs. the Police](https://www.nytimes.com/2020/06/25/books/review/tolstoy-violence-war-and-peace-police.html)
 * [Huge Explosion Near Iran’s Chief Military Base Shakes Residents](https://www.nytimes.com/2020/06/25/world/iran-explosion.html)
-* [Trump Administration May End Congressional Review of Foreign Arms Sales](https://www.nytimes.com/2020/06/25/us/politics/trump-congress-arms-sales.html)
+* [NASCAR Releases Image of Noose Found in Bubba Wallace’s Garage](https://www.nytimes.com/2020/06/26/sports/autoracing/nascar-noose-bubba-wallace.html)
 * [Trump Family Will Ask Second Court to Stop Publication of Tell-All Book](https://www.nytimes.com/2020/06/25/us/politics/lawsuit-mary-trump-book.html)
 * [Live Stock Market Updates During the Coronavirus Pandemic](https://www.nytimes.com/2020/06/25/business/stock-market-today-coronavirus.html)
 * [Unilever and Johnson & Johnson Retreat on Pushing Lighter Skin](https://www.nytimes.com/2020/06/25/business/unilever-jj-skin-care-lightening.html)
@@ -81,20 +81,20 @@ layout: default
 * [A Penny for Your Thoughts Could Be a Lot Harder to Find](https://www.nytimes.com/2020/06/25/business/economy/coin-shortage-coronavirus.html)
 * [Liverpool Wins Premier League Without Breaking a Sweat](https://www.nytimes.com/2020/06/25/sports/soccer/liverpool-premier-league.html)
 * [James Brown’s Will: Is It Inching Toward Closure After 14 Years?](https://www.nytimes.com/2020/06/25/arts/music/james-brown-will.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
-* [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * ['Korean Art From 1953' Gives a Full View of Modern Art in South Korea](https://www.nytimes.com/2020/06/25/arts/design/korean-modern-art-book.html)
 * [How Jessie Ware Cooked Her Way Into a Musical Fantasy](https://www.nytimes.com/2020/06/22/arts/music/jessie-ware-whats-your-pleasure-table-manners.html)
 * [Some of France’s Only Live Theater Right Now Is a Historical Affront](https://www.nytimes.com/2020/06/25/theater/puy-du-fou-theater-history.html)
 * [When Facebook Politics Get Extra Personal](https://www.nytimes.com/2020/06/25/style/facebook-political-views.html)
 * [Rick Owens Stitches a Souvenir](https://www.nytimes.com/2020/06/23/style/DIY-sewing-rick-owens-stitches-a-souvenir.html)
-* [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
-* [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
 * [Sitting All Day May Increase Your Risk of Dying From Cancer](https://www.nytimes.com/2020/06/24/well/move/sitting-sedentary-exercise-cancer-risk.html)
 * [Climate Change Tied to Pregnancy Risks, Affecting Black Mothers Most](https://www.nytimes.com/2020/06/18/climate/climate-change-pregnancy-study.html)
+* [DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders](https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html)
+* [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

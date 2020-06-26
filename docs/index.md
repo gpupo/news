@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 13:10:04 UTC
+# indexed at 26/06/2020 13:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -12,31 +12,31 @@ layout: default
 * [Virgin Australia administrators agree to sell airline to Bain Capital](https://www.theguardian.com/business/2020/jun/26/virgin-australia-administrators-agree-to-sell-airline-to-american-private-equity-firm-bain-capital)
 * [Boston bans use of facial recognition technology](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
 * [Amazon to pay $1B+ for Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
+* [Why Birds Can Fly over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
 * [Turn recipe websites into plain text](https://plainoldrecipe.com/)
 * [Big Sur on Unsupported Macs](https://parrotgeek.com/bigsur/)
 * [Relax for the Same Result (2015)](https://sivers.org/relax)
-* [Why Birds Can Fly over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
+* [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
 * [Trust, Slavery and the African School of Economics](https://www.economist.com/middle-east-and-africa/2020/05/21/trust-slavery-and-the-african-school-of-economics)
 * [Curl Wttr.in](https://github.com/chubin/wttr.in)
 * [Clock Signal: A latency-hating emulator of 8- and 16-bit platforms](https://github.com/TomHarte/CLK)
 * [Fix Your Timestep](https://gafferongames.com/post/fix_your_timestep/)
 * [ISS HTV Docking Simulator](https://ssl.tksc.jaxa.jp/htvgo/smartphone/)
-* [Dwarf Fortress Creator Explains Its Complexity and Origins [video]](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
-* [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
 * [When you type realty.com into Safari it takes you to realtor.com](https://www.facebook.com/story.php?story_fbid=10157161487396994&id=501751993)
 * [There is now a European standard for measuring how easy it is to repair stuff](https://de.ifixit.com/News/35879/repairability-standard-en45554)
 * [Olympus quits camera business after 84 years](https://www.bbc.com/news/technology-53165293)
-* [Invest in Main Street](https://mainvest.com/)
+* [The secretive government agency planting 'cyanide bombs' across the US](https://www.theguardian.com/environment/2020/jun/26/cyanide-bombs-wildfire-services-idaho)
 * [Quora goes permanently remote-first](https://twitter.com/adamdangelo/status/1276210618786168833)
 * [Commodore Basic as a Scripting Language](https://github.com/mist64/cbmbasic)
 * [Verizon suspends advertising on Facebook, joins growing boycott](https://www.reuters.com/article/us-facebook-ads-boycott-verizon/verizon-suspends-advertising-on-facebook-joins-growing-boycott-idUSKBN23W3HK)
-* [The Ising model: a cartoon picture of magnets that became ubiquitous in science](https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/)
-* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
 * [Gopherspace in the Year 2020](https://cheapskatesguide.org/articles/gopherspace.html)
-* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
-* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
+* [The Ising model: a cartoon picture of magnets that became ubiquitous in science](https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/)
 * [Microsoft removes manual deferrals from Windows Update'to prevent confusion'](https://www.zdnet.com/article/microsoft-removes-manual-deferrals-from-windows-update-by-it-pros-to-prevent-confusion/)
+* [What's Behind Technological Hype?](https://issues.org/behind-technological-hype/)
+* [Dwarf Fortress Creator Explains Its Complexity and Origins [video]](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
+* [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html)
 * [iOS14 reveals that TikTok may snoop clipboard contents every few keystrokes](https://twitter.com/jeremyburge/status/1275896482433040386)
+* [Humans Navigate with Stereo Olfaction](https://www.pnas.org/content/early/2020/06/17/2004642117)
 * [Blackballed by PayPal, Sci-Hub switches to Bitcoin](https://www.coindesk.com/blackballed-by-paypal-scientific-paper-pirate-takes-bitcoin-donations)
 ## nytimes.com
 
@@ -85,10 +85,10 @@ layout: default
 * [Russian Criminal Group Finds New Target: Americans Working at Home](https://www.nytimes.com/2020/06/25/us/politics/russia-ransomware-coronavirus-work-home.html)
 * [‘I Humbly Apologize’: Philadelphia Officials Announce Changes After Protest Response](https://www.nytimes.com/2020/06/25/video/philadelphia-police-tear-gas.html)
 * [In Norway, Gymgoers Avoid Infections as Virus Recedes](https://www.nytimes.com/2020/06/25/health/coronavirus-gyms-fitness.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * [Liz Garbus Is Taking Back the Voices Stolen by the Golden State Killer](https://www.nytimes.com/2020/06/24/arts/television/golden-state-killer-hbo-documentary.html)
 * [When the Louvre Reopens, It’s Going to Be Quiet](https://www.nytimes.com/2020/06/25/arts/design/louvre-reopening.html)
@@ -96,9 +96,10 @@ layout: default
 * [Late Night Can’t Believe Florida’s Mask Truthers](https://www.nytimes.com/2020/06/26/arts/television/late-night-florida-face-mask-detractors.html)
 * [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
+* [Can a Billionaire’s Son Spend His Way to a House Seat in New York?](https://www.nytimes.com/2020/06/19/nyregion/democratic-primary-house-ny.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -106,13 +107,13 @@ layout: default
 ## globo.com
 
 
-* [Baleias são avistadas na Barra da Tijuca, Zona Oeste do Rio](https://oglobo.globo.com/rio/baleias-sao-avistadas-na-barra-da-tijuca-zona-oeste-do-rio-24500806)
-* [Herdeiros de Conan Doyle, criador do Sherlock Holmes, processam Netflix por filme sobre irmã do personagem](https://oglobo.globo.com/cultura/herdeiros-de-conan-doyle-criador-do-sherlock-holmes-processam-netflix-por-filme-sobre-irma-do-personagem-24500724)
+* [Espólio de James Brown chega perto de decisão após 14 anos](https://oglobo.globo.com/cultura/espolio-de-james-brown-chega-perto-de-decisao-apos-14-anos-24500833)
+* [Baleias são avistadas na Barra da Tijuca, Zona Oeste do Rio](https://oglobo.globo.com/rio/baleias-sao-avistadas-na-barra-da-tijuca-zona-oeste-do-rio-1-24500806)
 * [EUA voltam a registrar recorde diário da Covid-19, e Flórida também interrompe retomada econômica](https://oglobo.globo.com/mundo/eua-voltam-registrar-recorde-diario-da-covid-19-florida-tambem-interrompe-retomada-economica-24500791)
-* [Gilberto Gil canta 'Andar com fé' com amigos e familiares](https://oglobo.globo.com/cultura/gilberto-gil-canta-andar-com-fe-com-amigos-familiares-24500774)
-* [Dólar é negociado acima de R$ 5,40, diante do aumento de casos da Covid-19 nos EUA](https://oglobo.globo.com/economia/dolar-negociado-acima-de-540-diante-do-aumento-de-casos-da-covid-19-nos-eua-24500785)
+* [Médica de 88 anos passa 50 dias intubada em UTI, se cura da Covid-19 e volta a fazer cirurgias](https://epoca.globo.com/sociedade/medica-de-88-anos-passa-50-dias-intubada-em-uti-se-cura-da-covid-19-volta-fazer-cirurgias-24500831)
+* [Ao contrário do que dizia, Wassef admite que abrigava Queiroz](https://oglobo.globo.com/brasil/ao-contrario-do-que-dizia-wassef-admite-que-abrigava-queiroz-24500790)
+* [Gilberto Gil reúne de Chico Buarque a Stevie Wonder em nova versão de 'Andar com fé'](https://oglobo.globo.com/cultura/gilberto-gil-reune-de-chico-buarque-stevie-wonder-em-nova-versao-de-andar-com-fe-24500774)
+* [Internada com trombose, Anitta lança música](https://oglobo.globo.com/cultura/internada-com-trombose-anitta-lanca-musica-24500835)
+* [Herdeiros de Conan Doyle, criador do Sherlock Holmes, processam Netflix por filme sobre irmã do personagem](https://oglobo.globo.com/cultura/herdeiros-de-conan-doyle-criador-do-sherlock-holmes-processam-netflix-por-filme-sobre-irma-do-personagem-24500724)
 * [Airbnb em crise com o coronavírus: 'Levamos 12 anos para construir a empresa e perdemos quase tudo em semanas'](https://epoca.globo.com/economia/airbnb-em-crise-com-coronavirus-levamos-12-anos-para-construir-empresa-perdemos-quase-tudo-em-semanas-24500782)
-* [Chá com camomila e maçã é receita para ajudar no relaxamento](https://oglobo.globo.com/ela/beleza/bem-estar/cha-com-camomila-maca-receita-para-ajudar-no-relaxamento-24500777)
-* [Francis Ford Coppola nega que tenha pedido para atores agredirem verbalmente Winona Ryder no set de 'Drácula'](https://oglobo.globo.com/cultura/filmes/francis-ford-coppola-nega-que-tenha-pedido-para-atores-agredirem-verbalmente-winona-ryder-no-set-de-dracula-24500727)
-* [Frederick Wassef, o homem que sempre soube onde estava Queiroz](https://epoca.globo.com/brasil/frederick-wassef-homem-que-sempre-soube-onde-estava-queiroz-24500771)
 * [A aula de Ernesto Araújo sobre como receber afagos de subordinados](https://epoca.globo.com/guilherme-amado/a-aula-de-ernesto-araujo-sobre-como-receber-afagos-de-subordinados-1-24497477)

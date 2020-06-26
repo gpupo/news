@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# indexed at 26/06/2020 17:09:58 UTC
+# indexed at 26/06/2020 17:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
+* [California city bans predictive policing in U.S. first – Reuters](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Mobilewalla used cellphone data to estimate the demographics of protesters](https://www.buzzfeednews.com/carolinehaskins1/protests-tech-company-spying)
 * [“Adobe Flash is no longer supported in Safari.”](https://developer.apple.com/safari/technology-preview/release-notes/)
-* [Earning $800 / Month with Spotify](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg)
 * [Almost 17,000 Protesters Had No Idea a Tech Company Was Tracing Their Location](https://www.buzzfeednews.com/article/carolinehaskins1/protests-tech-company-spying)
+* [Earning $800 / Month with Spotify](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg)
 * [Show HN: HiFiC – Generative Image Compression (demo and paper)](https://hific.github.io)
 * [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
-* [California city bans predictive policing in U.S. first – Reuters](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [What I learned from writing for The Onion for a month (2015)](https://wordsbyevanporter.com/what-i-learned-from-writing-for-the-onion-for-a-month/)
 * [Why Birds Can Fly over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
 * [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
@@ -22,22 +22,22 @@ layout: default
 * [Numerical Linear Algebra for Programmers Book](https://aiprobook.com/numerical-linear-algebra-for-programmers?release=0.9.0)
 * [Microsoft to permanently close nearly all of its retail stores](https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open)
 * [Boston bans use of facial recognition technology](https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban)
-* [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
 * [Show HN: LCC – Open-Source Spatial Audio from Stereo Speakers](https://github.com/MeteorStudioASU/lcc/)
-* [Amazon to pay $1B+ for Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
+* [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
 * [Even If You’re Asymptomatic, the Coronavirus Can Do Damage](https://elemental.medium.com/even-if-youre-asymptomatic-the-coronavirus-can-do-damage-4ab22451161a)
+* [Amazon to pay $1B+ for Zoox](https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html)
+* [To restore American leadership in semiconductor manufacturing](https://www.congress.gov/bill/116th-congress/house-bill/7178?s=1&r=1)
 * [Virgin Australia administrators agree to sell airline to Bain Capital](https://www.theguardian.com/business/2020/jun/26/virgin-australia-administrators-agree-to-sell-airline-to-american-private-equity-firm-bain-capital)
-* [CHM Releases New Recordings and Personal Stories with AI Expert Systems Pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
 * [Turn recipe websites into plain text](https://plainoldrecipe.com/)
+* [A closer look at frame times: why FPS can mislead](https://www.4alltech.com/2020/05/a-closer-look-at-frame-times-why-fps.html)
+* [I’m leaving academia](https://medium.com/@jamesheathers/i-quit-be062295f638)
+* [CHM Releases New Recordings and Personal Stories with AI Expert Systems Pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
+* [Relax for the Same Result (2015)](https://sivers.org/relax)
 * [Micronaut 2.0](https://objectcomputing.com/news/2020/06/26/announcing-micronaut-20)
 * [Taking Theatre Online with WebGL and WebRTC](https://chrisuehlinger.com/blog/2020/06/16/unshattering-the-audience-building-theatre-on-the-web-in-2020/)
-* [Relax for the Same Result (2015)](https://sivers.org/relax)
 * [Top Information Architecture Mistakes (2009)](https://www.nngroup.com/articles/top-10-ia-mistakes/)
-* [A closer look at frame times: why FPS can mislead](https://www.4alltech.com/2020/05/a-closer-look-at-frame-times-why-fps.html)
 * [SARS-CoV-2 detected in Barcelona sewage water sample from March 2019](https://www.medrxiv.org/content/10.1101/2020.06.13.20129627v1.full.pdf+html)
-* [Prisma Raises $12M Series A to Build the Next Generation of Database Tools](https://www.prisma.io/blog/prisma-raises-series-a-saks1zr7kip6)
-* [The secretive government agency planting 'cyanide bombs' across the US](https://www.theguardian.com/environment/2020/jun/26/cyanide-bombs-wildfire-services-idaho)
-* [Fix Your Timestep](https://gafferongames.com/post/fix_your_timestep/)
+* [The Six Levels of Reusability](https://michaelnthiessen.com/6-levels-of-reusability/)
 ## nytimes.com
 
 
@@ -85,19 +85,18 @@ layout: default
 * [The Post-Coronavirus Cruise? Not Ready to Sail](https://www.nytimes.com/2020/06/26/travel/coronavirus-cruises-reopening.html)
 * [Historic Arctic Heat Wave Roasts Siberia](https://www.nytimes.com/2020/06/25/world/europe/siberia-heat-wave-climate-change.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
-* [How to Compost, Step by Step](https://www.nytimes.com/2020/05/27/realestate/how-to-compost-composting-food-waste.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [How to Find a Meditation App for You](https://www.nytimes.com/2020/06/16/smarter-living/how-to-find-a-meditation-app-for-you.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [School’s Out. Parental Burnout Isn’t Going Away.](https://www.nytimes.com/2020/06/23/parenting/parental-burnout-coronavirus.html)
 * [Your 2020 Virtual Pride Event Guide](https://www.nytimes.com/article/gay-pride-2020-events-online.html)
 * [Is This Whistle the Future of Refereeing?](https://www.nytimes.com/2020/06/26/sports/basketball/electronic-whistles-referees.html)
 * [Can a Co-Working Space Go Online? It Can in a Pandemic](https://www.nytimes.com/2020/06/26/business/pandemic-honey-space-online.html)
 * [2 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/06/24/arts/design/virtual-art-galleries.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
+* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -105,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [O melhor da semana](https://oglobo.globo.com/brasil/o-melhor-da-semana-24501135)
-* [Em plena pandemia, Trump pede à Suprema Corte que revogue plano de Obama que aumentou acesso à saúde](https://oglobo.globo.com/mundo/em-plena-pandemia-trump-pede-suprema-corte-que-revogue-plano-de-obama-que-aumentou-acesso-saude-24501169)
-* [Chefe de polícia da Cidade do México sofre atentado e dois seguranças são mortos](https://oglobo.globo.com/mundo/chefe-de-policia-da-cidade-do-mexico-sofre-atentado-dois-segurancas-sao-mortos-24501260)
-* [PF prende blogueiro bolsonarista investigado por apoio a atos antidemocráticos](https://oglobo.globo.com/brasil/pf-prende-blogueiro-bolsonarista-investigado-por-apoio-atos-antidemocraticos-1-24501180)
+* [Unilever vai suspender anúncios em Facebook e Twitter por discurso de ódio nas redes sociais](https://oglobo.globo.com/economia/unilever-vai-suspender-anuncios-em-facebook-twitter-por-discurso-de-odio-nas-redes-sociais-1-24501282)
 * [São Januário e Luso-Brasileiro são liberados para receber jogos após inspeção da Vigilância Sanitária](https://oglobo.globo.com/esportes/sao-januario-luso-brasileiro-sao-liberados-para-receber-jogos-apos-inspecao-da-vigilancia-sanitaria-24501233)
+* [Chefe de polícia da Cidade do México sofre atentado e dois seguranças são mortos](https://oglobo.globo.com/mundo/chefe-de-policia-da-cidade-do-mexico-sofre-atentado-dois-segurancas-sao-mortos-24501260)
+* [Área técnica do Inep descarta Enem com número reduzido de questões](https://oglobo.globo.com/sociedade/area-tecnica-do-inep-descarta-enem-com-numero-reduzido-de-questoes-24501296)
+* ['Minha vida foi destruída', diz mãe do menino Kauã, morto na Maré com um tiro na cabeça](https://oglobo.globo.com/rio/minha-vida-foi-destruida-diz-mae-do-menino-kaua-morto-na-mare-com-um-tiro-na-cabeca-24501291)
+* [Doria prorroga quarentena em SP e capital paulista decide esperar para liberar reabertura de bares e restaurantes](https://oglobo.globo.com/sociedade/doria-prorroga-quarentena-em-sp-capital-paulista-decide-esperar-para-liberar-reabertura-de-bares-restaurantes-24501132)
+* [Deputado que minimizou Covid e foi para UTI tem alta](https://epoca.globo.com/guilherme-amado/deputado-que-minimizou-covid-foi-para-uti-tem-alta-24501254)
+* [O melhor da semana](https://oglobo.globo.com/brasil/o-melhor-da-semana-24501135)
 * [Nova versão de Wassef sobre Queiroz não deve ser a última](https://oglobo.globo.com/analitico/nova-versao-de-wassef-sobre-queiroz-nao-deve-ser-ultima-24501171)
-* [Microsoft decide fechar lojas físicas, com impacto de US$ 450 milhões](https://oglobo.globo.com/economia/tecnologia/microsoft-decide-fechar-lojas-fisicas-com-impacto-de-us-450-milhoes-24501166)
 * [Gilmar e Lewandowski farão live hoje com Bruce Ackerman, um dos maiores juristas vivos](https://epoca.globo.com/guilherme-amado/gilmar-lewandowski-farao-live-hoje-com-bruce-ackerman-um-dos-maiores-juristas-vivos-24501183)
-* [Virgin Australia é vendida a fundo de 'private equity' por soma não revelada](https://oglobo.globo.com/economia/virgin-australia-vendida-fundo-de-private-equity-por-soma-nao-revelada-1-24501112)
-* [Brasil tem 1.244.419 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-1244419-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24501090)

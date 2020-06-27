@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 12:12:48 UTC
+# indexed at 27/06/2020 12:34:28 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [The secret economics of a VIP party](https://www.economist.com/news/2020/06/26/the-secret-economics-of-a-vip-party)
 * [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
+* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
+* [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
+* [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
-* [Why vegan junk food may be even worse for your health](https://www.bbc.com/future/article/20200129-why-vegan-junk-food-may-be-even-worse-for-your-health)
-* [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
-* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [How to Learn JavaScript](https://sivers.org/learn-js)
-* ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
+* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
-* [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
 * [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
+* [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
 * [Ben Smith on the rise of Substack and independent journalists [video]](https://www.youtube.com/watch?v=3xgLOHW42Nw#t=12)
 * [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
 * [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
-* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
-* [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
+* [Why vegan junk food may be even worse for your health](https://www.bbc.com/future/article/20200129-why-vegan-junk-food-may-be-even-worse-for-your-health)
+* [Dell XPS 13 Developer Edition with Ubuntu 20.04 LTS pre-installed](https://ubuntu.com/blog/dell-xps-13-developer-edition-with-ubuntu-20-04-lts-pre-installed-is-now-available)
+* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
 * [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
+* [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
-* [Dynamic linking](https://drewdevault.com/dynlib.html)
-* [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
 ## nytimes.com
 
 
 * [How the World Missed Covid-19’s Silent Spread](https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html)
-* [Leaders Re-examine U.S. Reopenings as Coronavirus Cases Hit Another Record](https://www.nytimes.com/2020/06/26/us/coronavirus-florida-texas-bars-closing.html)
+* [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html)
 * [Obamacare Faces Unprecedented Test as Economy Sinks](https://www.nytimes.com/2020/06/27/health/coronavirus-obamacare-unemployment-health-coverage.html)
 * [For Boris Johnson’s Science Advisers, Pressure, Anxieties and ‘Pastoral Support’](https://www.nytimes.com/2020/06/26/world/europe/sage-britain-coronavirus-ferguson.html)
 * [How the Coronavirus Short-Circuits the Immune System](https://www.nytimes.com/2020/06/26/health/coronavirus-immune-system.html)
@@ -81,10 +81,10 @@ layout: default
 * [EBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 * [Your 2020 Virtual Pride Event Guide](https://www.nytimes.com/article/gay-pride-2020-events-online.html)
 * [Hong Kong Protests: In Seizing Control, China Sidelines its Allies](https://www.nytimes.com/2020/06/27/world/asia/china-hong-kong.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [For the Actors of ‘Take Me Out,’ a Coming-Out Party Is Postponed](https://www.nytimes.com/2020/06/24/theater/take-me-out-broadway.html)
 * [It’s Time to End Racism in the Fashion Industry. But How?](https://www.nytimes.com/2020/06/24/style/fashion-racism.html)
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
@@ -102,10 +102,10 @@ layout: default
 ## globo.com
 
 
+* [Brasil tem 1.280.335 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1280335-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-1-24503253)
 * [Para 76% dos brasileiros, escolas devem continuar fechadas por causa da pandemia, diz Datafolha](https://oglobo.globo.com/sociedade/para-76-dos-brasileiros-escolas-devem-continuar-fechadas-por-causa-da-pandemia-diz-datafolha-1-24503270)
 * [Homem é preso na Dutra com skunk e haxixe que seriam vendidos na Zona Sul do Rio](https://oglobo.globo.com/rio/homem-preso-na-dutra-com-skunk-haxixe-que-seriam-vendidos-na-zona-sul-do-rio-24503266)
 * ['Arraiá em casa': live tem shows de forró, dicas de receitas e decoração junina](https://oglobo.globo.com/cultura/arraia-em-casa-live-tem-shows-de-forro-dicas-de-receitas-decoracao-junina-24500396)
-* [Brasil tem 1.280.335 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1280335-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-1-24503253)
 * [Salto nos casos de covid-19 em estados republicanos ameaça estratégia eleitoral de Trump](https://epoca.globo.com/salto-nos-casos-de-covid-19-em-estados-republicanos-ameaca-estrategia-eleitoral-de-trump-24503244)
 * [Edifício A Noite, no Centro do Rio, deve ser leiloado até agosto](https://oglobo.globo.com/economia/edificio-noite-no-centro-do-rio-deve-ser-leiloado-ate-agosto-24503145)
 * [Dispara busca na internet sobre como fritar gafanhoto](https://epoca.globo.com/guilherme-amado/dispara-busca-na-internet-sobre-como-fritar-gafanhoto-1-24503091)

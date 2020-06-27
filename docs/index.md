@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 21:09:57 UTC
+# indexed at 27/06/2020 21:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -18,9 +18,10 @@ layout: default
 * [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
-* [MathDeck: A math-aware search interface](https://mathdeck.cs.rit.edu/)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
 * [Take control over your feeds to regain mindfulness](https://solmaz.io/thoughts/digital-hygiene-feeds/)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [MathDeck: A math-aware search interface](https://mathdeck.cs.rit.edu/)
 * [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
 * [Seeing Theory (2017)](https://seeing-theory.brown.edu/)
 * [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
@@ -29,22 +30,21 @@ layout: default
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 * [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Spuds with everything](https://thecritic.co.uk/issues/july-august-2020/spuds-with-everything/)
 * [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
+* [Privacy and Common Law Names: Sand in the Gears of Identification](https://scholarship.law.ufl.edu/cgi/viewcontent.cgi?article=1303&context=flr)
+* [Spuds with everything](https://thecritic.co.uk/issues/july-august-2020/spuds-with-everything/)
 * [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
 * [The Spreading of Threading (2019)](https://aaronzlewis.com/blog/2019/05/01/spreading-threading/)
 * [Wirecard Scandal Puts Spotlight on Auditor Ernst and Young](https://www.wsj.com/articles/wirecard-scandal-puts-spotlight-on-auditor-ernst-young-11593262823)
 * [Microfinance Is Mostly a Scam (2015)](https://mathbabe.org/2015/10/13/microfinance-is-mostly-a-scam/)
 * [Policing the Internet: A Bad Idea in 1996 and Today](https://www.realclearpolitics.com/articles/2020/06/25/policing_the_internet_a_bad_idea_in_1996_--_and_today.html)
-* [Applying conversational design it to all types of interfaces](https://blog.prototypr.io/conversational-design-applying-it-to-all-types-of-interfaces-60b2b7beebd4)
-* [DeepMind AI reading list [pdf]](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 ## nytimes.com
 
 
-* [How the World Missed Covid-19’s Silent Spread](https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html)
+* [After Asking Americans to Sacrifice in Shutdown, Leaders Failed to Control Virus](https://www.nytimes.com/2020/06/27/us/after-asking-americans-to-sacrifice-in-shutdown-leaders-failed-to-control-virus.html)
 * [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html)
+* [How the World Missed Covid-19’s Silent Spread](https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html)
 * [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
-* [Obamacare Faces Unprecedented Test as Economy Sinks](https://www.nytimes.com/2020/06/27/health/coronavirus-obamacare-unemployment-health-coverage.html)
 * [From 47 Primaries, 4 Warning Signs About Voting in a Pandemic](https://www.nytimes.com/2020/06/27/us/2020-primary-election-voting.html)
 * [Going Up? Not So Fast: Strict New Rules to Govern Elevator Culture](https://www.nytimes.com/2020/06/26/health/coronavirus-elevator-reopen.html)
 * [Tracking Coronavirus](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
@@ -83,17 +83,17 @@ layout: default
 * [N.W.S.L. Players Kneel for Anthem as League Returns to Field](https://www.nytimes.com/2020/06/26/sports/soccer/nwsl-anthem-protest-kaiya-mccullough.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [For the Actors of ‘Take Me Out,’ a Coming-Out Party Is Postponed](https://www.nytimes.com/2020/06/24/theater/take-me-out-broadway.html)
 * [It’s Time to End Racism in the Fashion Industry. But How?](https://www.nytimes.com/2020/06/24/style/fashion-racism.html)
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
 * [‘We Can’t Do Our Craft’: Conductors Contend With the Pandemic](https://www.nytimes.com/2020/06/26/arts/music/classical-music-conductors-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
-* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
-* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
+* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
 * [America Is Facing 5 Epic Crises All at Once](https://www.nytimes.com/2020/06/25/opinion/us-coronavirus-protests.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,12 +103,12 @@ layout: default
 
 
 * [Com comércio aberto, isolamento social cai e chega a 39% neste sábado](https://oglobo.globo.com/rio/com-comercio-aberto-isolamento-social-cai-chega-39-neste-sabado-1-24503662)
+* [Rio tem 202 mortes por coronavírus em 24 horas e soma mais de 108 mil casos desde o início da pandemia](https://oglobo.globo.com/rio/rio-tem-202-mortes-por-coronavirus-em-24-horas-soma-mais-de-108-mil-casos-desde-inicio-da-pandemia-1-24503693)
+* [Morre, aos 93 anos, Thereza de Orleans e Bragança, ícone da elegância carioca](https://oglobo.globo.com/ela/gente/morre-aos-93-anos-thereza-de-orleans-braganca-icone-da-elegancia-carioca-24503509)
 * [Botafogo consegue liminar e Paulo Autuori vai comandar o time contra a Cabofriense](https://oglobo.globo.com/esportes/botafogo-consegue-liminar-paulo-autuori-vai-comandar-time-contra-cabofriense-24503659)
 * [Princeton removerá nome do ex-presidente Woodrow Wilson de escola por 'políticas racistas'](https://oglobo.globo.com/mundo/princeton-removera-nome-do-ex-presidente-woodrow-wilson-de-escola-por-politicas-racistas-24503552)
 * [Governo estuda medidas para ‘suavizar’ preço dos combustíveis](https://oglobo.globo.com/economia/governo-estuda-medidas-para-suavizar-preco-dos-combustiveis-24503655)
 * [Análise: Boicote de anunciantes e investigações aumentam pressão financeira sobre Facebook](https://oglobo.globo.com/economia/analise-boicote-de-anunciantes-investigacoes-aumentam-pressao-financeira-sobre-facebook-24503631)
-* [Morre, aos 93 anos, Thereza de Orleans e Bragança, ícone da elegância carioca](https://oglobo.globo.com/ela/gente/morre-aos-93-anos-thereza-de-orleans-braganca-icone-da-elegancia-carioca-24503509)
 * [Novo esquema, time mais rodado, zaga ideal da torcida: veja detalhes do Vasco de Ramon](https://oglobo.globo.com/esportes/novo-esquema-time-mais-rodado-zaga-ideal-da-torcida-veja-detalhes-do-vasco-de-ramon-24503591)
 * [René Simões cita 'pessoas enlouquecendo' para defender volta do futebol: 'Tenho amigo que bateu na mulher'](https://oglobo.globo.com/esportes/rene-simoes-cita-pessoas-enlouquecendo-para-defender-volta-do-futebol-tenho-amigo-que-bateu-na-mulher-24503586)
 * [Vitória é notificado pela Fifa por dívidas com Walter Bou e corre risco de perder pontos na Série B](https://oglobo.globo.com/esportes/vitoria-notificado-pela-fifa-por-dividas-com-walter-bou-corre-risco-de-perder-pontos-na-serie-b-24503572)
-* [‘Brasil está em negacionismo com caráter racista, misógino e homofóbico deste governo’, analisa Ricardo Lísias](https://epoca.globo.com/guilherme-amado/brasil-esta-em-negacionismo-com-carater-racista-misogino-homofobico-deste-governo-analisa-ricardo-lisias-24502748)

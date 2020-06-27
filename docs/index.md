@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 05:34:34 UTC
+# indexed at 27/06/2020 06:10:52 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
-* [Mobilewalla used cellphone data to estimate the demographics of protesters](https://www.buzzfeednews.com/carolinehaskins1/protests-tech-company-spying)
 * [Cradle of Cantonese Cuisine Welcomes Robot Chef Overlords](https://www.sixthtone.com/news/1005845/)
-* [Milton Glaser, Master Designer of ‘I love NY’ Logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
-* [Carving out a niche as a small artist on Spotify](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
+* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [Milton Glaser, Master Designer of ‘I love NY’ Logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
+* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
-* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [Show HN: HiFiC – High-Fidelity Generative Image Compression – demo and paper](https://hific.github.io)
 * [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
-* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
+* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [PHP Insights: Analyze the code quality of PHP projects](https://phpinsights.com)
-* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
+* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
+* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
 * [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
+* [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
 ## nytimes.com
 
 
@@ -83,10 +83,10 @@ layout: default
 * [Starting Bonus for a Laundry Worker: How a Beach Town Wrestles With Jobless Benefits](https://www.nytimes.com/2020/06/26/business/economy/unemployment-incentives-beach-town.html)
 * [Europe Travel Ban on U.S. Visitors Would Be a Blow to Airlines](https://www.nytimes.com/2020/06/25/business/eu-us-travel-ban-coronavirus.html)
 * [How Progressive Candidates of Color Are Building Winning Coalitions](https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [Celebrating India’s Innovative Spirit Through Design](https://www.nytimes.com/2020/06/26/world/asia/divya-thakur-india-design.html)
 * [The Triumph of Merseyball: How Liverpool Won the Premier League](https://www.nytimes.com/2020/06/26/sports/soccer/liverpool-premier-league-title.html)
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
@@ -94,8 +94,8 @@ layout: default
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
-* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
 * [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
+* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

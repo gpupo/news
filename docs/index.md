@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 10:10:06 UTC
+# indexed at 27/06/2020 10:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
-* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
+* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [Multistate Disagreement over the Length of the Foot to End](https://www.scientificamerican.com/article/multistate-disagreement-over-the-length-of-the-foot-to-end/)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
-* [Multistate Disagreement over the Length of the Foot to End](https://www.scientificamerican.com/article/multistate-disagreement-over-the-length-of-the-foot-to-end/)
+* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
-* [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
-* [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
-* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
 * [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
+* [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
+* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
-* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
+* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
+* [How to Learn JavaScript](https://sivers.org/learn-js)
+* [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
 * [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
 * [Ben Smith on the rise of Substack and independent journalists [video]](https://www.youtube.com/watch?v=3xgLOHW42Nw#t=12)
+* [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
+* [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
-* [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
-* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
-* [Derek Sivers: How to Learn JavaScript](https://sivers.org/learn-js)
+* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
-* [Mincome: Canada’s 1970s universal basic income experiment](https://www.bbc.com/worklife/article/20200624-canadas-forgotten-universal-basic-income-experiment)
-* [Mobilewalla used cellphone data to estimate the demographics of protesters](https://www.buzzfeednews.com/carolinehaskins1/protests-tech-company-spying)
 ## nytimes.com
 
 
@@ -89,10 +89,10 @@ layout: default
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
 * [‘We Can’t Do Our Craft’: Conductors Contend With the Pandemic](https://www.nytimes.com/2020/06/26/arts/music/classical-music-conductors-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
+* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [Russia Secretly Offered Afghan Militants Bounties to Kill U.S. Troops, Intelligence Says](https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
@@ -105,10 +105,10 @@ layout: default
 * [Nuvem de gafanhoto deixa em alerta cidade do RS na fronteira com Argentina](https://epoca.globo.com/sociedade/nuvem-de-gafanhoto-deixa-em-alerta-cidade-do-rs-na-fronteira-com-argentina-1-24502205)
 * [Só 4% dos brasileiros usariam cloroquina de forma preventiva](https://epoca.globo.com/guilherme-amado/so-4-dos-brasileiros-usariam-cloroquina-de-forma-preventiva-24503124)
 * [Defesa investiga militares com salário de R$ 20 mil por receber auxílio emergencial](https://epoca.globo.com/guilherme-amado/defesa-investiga-militares-com-salario-de-20-mil-por-receber-auxilio-emergencial-24503064)
+* [Marta Suplicy se movimenta para ser vice de Covas](https://epoca.globo.com/guilherme-amado/marta-suplicy-se-movimenta-para-ser-vice-de-covas-24503045)
 * [Covid ainda preocupa 95% dos brasileiros, aponta pesquisa](https://epoca.globo.com/guilherme-amado/covid-ainda-preocupa-95-dos-brasileiros-aponta-pesquisa-24502832)
 * [Taxa de infecção pelo coronavírus cresce mais entre latinos nos EUA](https://epoca.globo.com/mundo/taxa-de-infeccao-pelo-coronavirus-cresce-mais-entre-latinos-nos-eua-24501228)
 * [Universidades particulares fazem vestibular on-line para segundo semestre](https://oglobo.globo.com/rio/bairros/universidades-particulares-fazem-vestibular-on-line-para-segundo-semestre-24502054)
 * [Em tempos de aulas virtuais, professoras da educação infantil viram blogueirinhas](https://oglobo.globo.com/rio/bairros/em-tempos-de-aulas-virtuais-professoras-da-educacao-infantil-viram-blogueirinhas-1-24500849)
-* [Festival une nomes como João Bosco e Zeca Baleiro com artistas da favela da Maré](https://oglobo.globo.com/rioshow/festival-une-nomes-como-joao-bosco-zeca-baleiro-com-artistas-da-favela-da-mare-1-24501829)
 * [Taxa de mortalidade em UTIs públicas é o dobro de hospitais privados em casos de Covid-19](https://epoca.globo.com/sociedade/taxa-de-mortalidade-em-utis-publicas-o-dobro-de-hospitais-privados-em-casos-de-covid-19-24499171)
 * [Grupo que trata de índios no MPF pediu a Aras ir ao Supremo contra nomeação de missionário na Funai](https://epoca.globo.com/grupo-que-trata-de-indios-no-mpf-pediu-aras-ir-ao-supremo-contra-nomeacao-de-missionario-na-funai-24501070)

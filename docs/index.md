@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 07:12:23 UTC
+# indexed at 27/06/2020 07:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -10,8 +10,8 @@ layout: default
 
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
+* [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
@@ -20,24 +20,24 @@ layout: default
 * [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
-* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
-* [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
+* [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
-* [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
+* [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
 * [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
-* [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
-* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
-* [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
 * [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
-* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
+* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
+* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
+* [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
+* [A new material for light-matter interactions](https://phys.org/news/2020-06-material-light-matter-interactions.html)
 * [PHP Insights: Analyze the code quality of PHP projects](https://phpinsights.com)
+* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 * [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
 * [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
-* [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
-* [Matting and Hinging of Works of Art on Paper (1981) [pdf]](https://www.loc.gov/preservation/care/SmithBrown.PDF)
+* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
+* [The failure of Sprig](https://twitter.com/gaganbiyani/status/1265755248922157066)
 ## nytimes.com
 
 
@@ -82,19 +82,19 @@ layout: default
 * [Starting Bonus for a Laundry Worker: How a Beach Town Wrestles With Jobless Benefits](https://www.nytimes.com/2020/06/26/business/economy/unemployment-incentives-beach-town.html)
 * [Europe Travel Ban on U.S. Visitors Would Be a Blow to Airlines](https://www.nytimes.com/2020/06/25/business/eu-us-travel-ban-coronavirus.html)
 * [How Progressive Candidates of Color Are Building Winning Coalitions](https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Celebrating India’s Innovative Spirit Through Design](https://www.nytimes.com/2020/06/26/world/asia/divya-thakur-india-design.html)
 * [The Triumph of Merseyball: How Liverpool Won the Premier League](https://www.nytimes.com/2020/06/26/sports/soccer/liverpool-premier-league-title.html)
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
 * [A Babysitter, Her Employer and $46 Hand Soap](https://www.nytimes.com/2020/06/26/books/review/friends-and-strangers-j-courtney-sullivan.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
 * [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
+* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,8 +105,8 @@ layout: default
 
 * [Moscou teria pago talibãs para matar soldados dos EUA e da Otan, segundo inteligência americana](https://oglobo.globo.com/mundo/moscou-teria-pago-talibas-para-matar-soldados-dos-eua-da-otan-segundo-inteligencia-americana-24502879)
 * [Dona de agência de modelos, Helen Giorgio aposta na tecnologia durante pandemia](https://oglobo.globo.com/economia/tecnologia/dona-de-agencia-de-modelos-helen-giorgio-aposta-na-tecnologia-durante-pandemia-24502886)
-* [Defesa pede que habeas corpus de Queiroz seja analisado por desembargadora pró-Flávio](https://epoca.globo.com/guilherme-amado/defesa-pede-que-habeas-corpus-de-queiroz-seja-analisado-por-desembargadora-pro-flavio-24502877)
 * [É preciso desmontar estrutura de corrupção na Secretaria de Saúde](https://oglobo.globo.com/opiniao/e-preciso-desmontar-estrutura-de-corrupcao-na-secretaria-de-saude-24502769)
+* [Silêncio, medo e ameaças](https://oglobo.globo.com/brasil/silencio-medo-ameacas-24502534)
 * [O período de calmaria por que passa o presidente](https://oglobo.globo.com/opiniao/o-periodo-de-calmaria-por-que-passa-presidente-24502390)
 * [Mortes por doenças cardíacas aumentam 50% durante pandemia no Brasil](https://epoca.globo.com/sociedade/mortes-por-doencas-cardiacas-aumentam-50-durante-pandemia-no-brasil-24501900)
 * [O discurso e a prática](https://oglobo.globo.com/opiniao/o-discurso-a-pratica-24501562)

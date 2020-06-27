@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 13:09:53 UTC
+# indexed at 27/06/2020 13:34:18 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The secret economics of a VIP party](https://www.economist.com/news/2020/06/26/the-secret-economics-of-a-vip-party)
 * [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 * [Dell XPS 13 Developer Edition with Ubuntu 20.04 LTS pre-installed](https://ubuntu.com/blog/dell-xps-13-developer-edition-with-ubuntu-20-04-lts-pre-installed-is-now-available)
+* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
-* [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
+* [The secret economics of a VIP party](https://www.1843magazine.com/1843/the-economics-of-fun/the-secret-economics-of-a-vip-party)
 * [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
+* [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
-* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
+* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [How to Learn JavaScript](https://sivers.org/learn-js)
+* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
 * [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
-* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
-* [Why vegan junk food may be even worse for your health](https://www.bbc.com/future/article/20200129-why-vegan-junk-food-may-be-even-worse-for-your-health)
+* [Google will start paying some publishers for news articles](https://www.theverge.com/2020/6/25/21302791/google-news-publishers-pay-content-australia-germany-brazil)
 * [Ben Smith on the rise of Substack and independent journalists [video]](https://www.youtube.com/watch?v=3xgLOHW42Nw#t=12)
+* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
 * [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
-* [Show HN: Which cryptocurrency are you? A lighthearted quiz](https://gckwan.github.io/crypto-quiz/)
 * [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
+* [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
 * [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
 * [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 ## nytimes.com
@@ -69,14 +69,14 @@ layout: default
 * [Why Did Kim Jong-un’s Sister Become the Face of North Korea?](https://www.nytimes.com/2020/06/26/opinion/kim-yo-jong-north-korea.html)
 * [Last Testament of Maurice, Famous French Rooster](https://www.nytimes.com/2020/06/26/opinion/maurice-rooster-france.html)
 * [America Is Facing 5 Epic Crises All at Once](https://www.nytimes.com/2020/06/25/opinion/us-coronavirus-protests.html)
-* [The Rebel Physicist Trying to Fix Quantum Mechanics](https://www.nytimes.com/2020/06/25/magazine/angelo-bassi-quantum-mechanic.html)
+* [The Rebel Physicist on the Hunt for a Better Story Than Quantum Mechanics](https://www.nytimes.com/2020/06/25/magazine/angelo-bassi-quantum-mechanic.html)
 * [Why Out-of-Work New Yorkers Are Starting Cooking Businesses](https://www.nytimes.com/2020/06/27/nyregion/coronavirus-nyc-home-cooking-business.html)
 * [Is It Safe to Go to the Dentist Again?](https://www.nytimes.com/2020/06/25/health/dentist-coronavirus-safe.html)
 * [Micheal Martin Becomes Ireland’s Prime Minister as Rival Parties Ally](https://www.nytimes.com/2020/06/27/world/europe/ireland-prime-minister-micheal-martin.html)
+* [Afghan Deaths Pile Up in Uncertainty Over U.S. Deal With Taliban](https://www.nytimes.com/2020/06/27/world/asia/afghanistan-taliban-human-rights-workers.html)
 * [U.S. Must Release Children From Family Detention Centers, Judge Rules](https://www.nytimes.com/2020/06/26/us/immigrant-children-detention-centers.html)
 * [7 Killed in Crash in El Paso After Border Patrol Tried to Stop Car](https://www.nytimes.com/2020/06/26/us/el-paso-border-crash.html)
 * [E.U. Plans to Bar Most U.S. Travelers When Bloc Reopens](https://www.nytimes.com/2020/06/26/world/europe/europe-us-travel-ban.html)
-* [White Actors Leaving Nonwhite Roles at ‘The Simpsons’ and ‘Family Guy’](https://www.nytimes.com/2020/06/26/arts/television/family-guy-simpsons-white-voice-actors.html)
 * [Coronavirus in Florida: What Pandemic Is Like for Theme Park Workers](https://www.nytimes.com/2020/06/27/business/coronavirus-florida-disney-tourism.html)
 * [EBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 * [Your 2020 Virtual Pride Event Guide](https://www.nytimes.com/article/gay-pride-2020-events-online.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [América Latina pós-Covid demandará políticas públicas para reduzir desigualdades raciais, diz especialista](https://oglobo.globo.com/mundo/america-latina-pos-covid-demandara-politicas-publicas-para-reduzir-desigualdades-raciais-diz-especialista-24501429)
+* [Milton Glaser, criador do logotipo 'I ♥ NY', morre aos 91 anos](https://oglobo.globo.com/cultura/milton-glaser-criador-do-logotipony-morre-aos-91-anos-24503303)
+* [Por causa da pandemia, Justiça determina que EUA libertem crianças imigrantes detidas](https://oglobo.globo.com/mundo/por-causa-da-pandemia-justica-determina-que-eua-libertem-criancas-imigrantes-detidas-24503291)
+* [Entenda o 'novo normal' dos clichês, e porque precisamos nos 'reinventar na crise' para explicar a pandemia](https://oglobo.globo.com/cultura/entenda-novo-normal-dos-cliches-porque-precisamos-nos-reinventar-na-crise-para-explicar-pandemia-24503302)
+* [Frente fria traz chuva e temperaturas mais baixas para o Rio neste fim de semana](https://oglobo.globo.com/rio/frente-fria-traz-chuva-temperaturas-mais-baixas-para-rio-neste-fim-de-semana-24503292)
 * [‘Dark’: trama da última temporada confundiu até ator que faz o protagonista Jonas](https://oglobo.globo.com/cultura/dark-trama-da-ultima-temporada-confundiu-ate-ator-que-faz-protagonista-jonas-24503286)
 * [Auxílio emergencial: pagamento da terceira parcela começa hoje. Veja calendário](https://oglobo.globo.com/economia/auxilio-emergencial-pagamento-da-terceira-parcela-comeca-hoje-veja-calendario-24503285)
-* [Brasil tem 1.280.335 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1280335-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-1-24503253)
 * [Para 76% dos brasileiros, escolas devem continuar fechadas por causa da pandemia, diz Datafolha](https://oglobo.globo.com/sociedade/para-76-dos-brasileiros-escolas-devem-continuar-fechadas-por-causa-da-pandemia-diz-datafolha-1-24503270)
 * [Homem é preso na Dutra com skunk e haxixe que seriam vendidos na Zona Sul do Rio](https://oglobo.globo.com/rio/homem-preso-na-dutra-com-skunk-haxixe-que-seriam-vendidos-na-zona-sul-do-rio-24503266)
-* ['Arraiá em casa': live tem shows de forró, dicas de receitas e decoração junina](https://oglobo.globo.com/cultura/arraia-em-casa-live-tem-shows-de-forro-dicas-de-receitas-decoracao-junina-24500396)
 * [Edifício A Noite, no Centro do Rio, deve ser leiloado até agosto](https://oglobo.globo.com/economia/edificio-noite-no-centro-do-rio-deve-ser-leiloado-ate-agosto-24503145)
 * [Dispara busca na internet sobre como fritar gafanhoto](https://epoca.globo.com/guilherme-amado/dispara-busca-na-internet-sobre-como-fritar-gafanhoto-1-24503091)
-* [Artigo | Uma dose de bom senso](https://epoca.globo.com/sociedade/artigo-uma-dose-de-bom-senso-24502032)

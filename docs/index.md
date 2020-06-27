@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 08:10:58 UTC
+# indexed at 27/06/2020 08:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
+* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
+* [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
 * [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
+* [Ben Smith on the rise of Substack and independent journalists [video]](https://www.youtube.com/watch?v=3xgLOHW42Nw#t=12)
 * [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
-* [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
 * [PHP Insights: Analyze the code quality of PHP projects](https://phpinsights.com)
 * [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 * [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
-* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
-* [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
+* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
-* [A new material for light-matter interactions](https://phys.org/news/2020-06-material-light-matter-interactions.html)
 * [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
+* [The failure of Sprig](https://twitter.com/gaganbiyani/status/1265755248922157066)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [U.S. Hits Another Record for New Coronavirus Cases](https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html)
 * [New Numbers Showing Coronavirus Spread Intrude on a White House in Denial](https://www.nytimes.com/2020/06/26/us/politics/trump-coronavirus.html)
 * [E.U. Plans to Bar Most U.S. Travelers When Bloc Reopens](https://www.nytimes.com/2020/06/26/world/europe/europe-us-travel-ban.html)
-* [Many Students Will Be in Classrooms Only Part of the Week This Fall](https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html)
+* [For Boris Johnson’s Science Advisers, Pressure, Anxieties and ‘Pastoral Support’](https://www.nytimes.com/2020/06/26/world/europe/sage-britain-coronavirus-ferguson.html)
 * [How the Coronavirus Short-Circuits the Immune System](https://www.nytimes.com/2020/06/26/health/coronavirus-immune-system.html)
 * [Tracking Coronavirus](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 * [Black Activists Wonder: Is Protesting Just Trendy for White People?](https://www.nytimes.com/2020/06/26/nyregion/black-lives-matter-white-people-protesters.html)
@@ -91,10 +91,10 @@ layout: default
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
 * [A Babysitter, Her Employer and $46 Hand Soap](https://www.nytimes.com/2020/06/26/books/review/friends-and-strangers-j-courtney-sullivan.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
-* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
-* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
+* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
+* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -107,9 +107,9 @@ layout: default
 * [Em meio à suspeita de fraude na merenda, pais de alunos da rede estadual recebem comida estragada](https://oglobo.globo.com/rio/em-meio-suspeita-de-fraude-na-merenda-pais-de-alunos-da-rede-estadual-recebem-comida-estragada-24503110)
 * [Coletânea mostra por que Will Eisner é mestre da HQ, mesmo longe do auge](https://oglobo.globo.com/cultura/coletanea-mostra-por-que-will-eisner-mestre-da-hq-mesmo-longe-do-auge-24502795)
 * [‘Novo normal’, 'se reiventar na crise'... Por que recorremos a clichês para explicar a pandemia](https://oglobo.globo.com/cultura/novo-normal-se-reiventar-na-crise-por-que-recorremos-cliches-para-explicar-pandemia-24501793)
-* [Reabertura antecipada de Crivella é criticada por especialistas e até por membro do comitê científico do município](https://oglobo.globo.com/rio/reabertura-antecipada-de-crivella-criticada-por-especialistas-ate-por-membro-do-comite-cientifico-do-municipio-24502898)
 * [Confira as novas regras da prefeitura para reabertura do Rio: do comércio e salões de rua a escolas e bares](https://oglobo.globo.com/rio/confira-as-novas-regras-da-prefeitura-para-reabertura-do-rio-do-comercio-saloes-de-rua-escolas-bares-24502851)
 * [Da militância de Hamilton à negligência de Djokovic, as diferentes posturas dos ídolos do esporte](https://oglobo.globo.com/esportes/da-militancia-de-hamilton-negligencia-de-djokovic-as-diferentes-posturas-dos-idolos-do-esporte-24502554)
+* [Série sobre o Fifagate é ficção superada pela realidade](https://oglobo.globo.com/esportes/serie-sobre-fifagate-ficcao-superada-pela-realidade-24502232)
 * ['Quando você é uma atriz gorda e trans, as pessoas te colocam em uma caixinha', diz Eme Barbassa](https://oglobo.globo.com/cultura/celina/quando-voce-uma-atriz-gorda-trans-as-pessoas-te-colocam-em-uma-caixinha-diz-eme-barbassa-24500904)
 * [Festival Rio Delivery tem pratos infantis do tamanho da fome das crianças](https://oglobo.globo.com/rioshow/festival-rio-delivery-tem-pratos-infantis-do-tamanho-da-fome-das-criancas-1-24501118)
 * [O operário do Livramento](https://oglobo.globo.com/cultura/o-operario-do-livramento-1-24501448)

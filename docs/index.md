@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 00:28:17 UTC
+# indexed at 27/06/2020 00:37:16 UTC
 
 
 ## news.ycombinator.com
@@ -16,9 +16,9 @@ layout: default
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [Mobilewalla used cellphone data to estimate the demographics of protesters](https://www.buzzfeednews.com/carolinehaskins1/protests-tech-company-spying)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
+* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [The Math Behind the Rolling Shutter Phenomenon](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
 * [Show HN: HiFiC – High-Fidelity Generative Image Compression – demo and paper](https://hific.github.io)
-* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
 * [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
 * [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
@@ -28,16 +28,16 @@ layout: default
 * [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
 * [Guilded (YC S17) is hiring engineers to connect gaming communities (remote)](https://www.guilded.gg/jobs)
 * [The failure of Sprig](https://twitter.com/gaganbiyani/status/1265755248922157066)
-* [Unilever is latest brand to boycott Facebook](https://www.npr.org/2020/06/26/883941796/unilever-maker-of-dove-soap-is-latest-brand-to-boycott-facebook?t=1593203268423)
-* [What I learned from writing for The Onion for a month (2015)](https://wordsbyevanporter.com/what-i-learned-from-writing-for-the-onion-for-a-month/)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
+* [What I learned from writing for The Onion for a month (2015)](https://wordsbyevanporter.com/what-i-learned-from-writing-for-the-onion-for-a-month/)
+* [Unilever is latest brand to boycott Facebook](https://www.npr.org/2020/06/26/883941796/unilever-maker-of-dove-soap-is-latest-brand-to-boycott-facebook?t=1593203268423)
 * [Microsoft removes manual deferrals from Windows Update 'to prevent confusion'](https://www.zdnet.com/article/microsoft-removes-manual-deferrals-from-windows-update-by-it-pros-to-prevent-confusion/)
-* [Microsoft to permanently close its retail stores](https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open)
 * [Carving out a niche as a small artist on Spotfiy](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg)
+* [Microsoft to permanently close its retail stores](https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open)
 * [Reducing search indexing latency to one second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second.html)
 * [New recordings and personal stories with AI expert systems pioneers](https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/)
+* [Quick HTTPS reverse proxy for your HTTP web service](https://httpsproxy2http.novalagung.com/)
 * [Numerical Linear Algebra for Programmers](https://aiprobook.com/numerical-linear-algebra-for-programmers?release=0.9.0)
-* [Wildlife Services, a US agency planting 'cyanide bombs' to kill predators](https://www.theguardian.com/environment/2020/jun/26/cyanide-bombs-wildfire-services-idaho)
 ## nytimes.com
 
 
@@ -66,14 +66,14 @@ layout: default
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [Place Your Bets on Biden’s V.P.](https://www.nytimes.com/2020/06/25/opinion/the-argument-biden-vice-president-supreme-court.html)
 * [You Want a Confederate Monument? My Body Is a Confederate Monument](https://www.nytimes.com/2020/06/26/opinion/confederate-monuments-racism.html)
+* [After the Statues Fall](https://www.nytimes.com/2020/06/26/opinion/statues-protests.html)
 * [Resist Fear-Based Parenting, Even During the Coronavirus](https://www.nytimes.com/2020/06/26/opinion/coronavirus-parenting-fear.html)
 * [Can Covid Damage the Brain?](https://www.nytimes.com/2020/06/26/opinion/coronavirus-brain-damage-dementia.html)
 * [Beyond ‘White Fragility’](https://www.nytimes.com/2020/06/26/opinion/black-lives-matter-injustice.html)
 * [Coronavirus Has Arizona Health Care Workers at the Breaking Point](https://www.nytimes.com/2020/06/26/opinion/coronavirus-arizona-hospitals.html)
-* [America Didn’t Give Up on Covid-19. Republicans Did.](https://www.nytimes.com/2020/06/25/opinion/coronavirus-republicans.html)
 * [Why Did Kim Jong-un’s Sister Become the Face of North Korea?](https://www.nytimes.com/2020/06/26/opinion/kim-yo-jong-north-korea.html)
-* [America Is Facing 5 Epic Crises All at Once](https://www.nytimes.com/2020/06/25/opinion/us-coronavirus-protests.html)
 * [Last Testament of Maurice, Famous French Rooster](https://www.nytimes.com/2020/06/26/opinion/maurice-rooster-france.html)
+* [America Is Facing 5 Epic Crises All at Once](https://www.nytimes.com/2020/06/25/opinion/us-coronavirus-protests.html)
 * [Nine Black Artists and Cultural Leaders on Seeing and Being Seen](https://www.nytimes.com/2020/06/23/t-magazine/black-artists-white-gaze.html)
 * [Could Doomsday Bunkers Become the New Normal?](https://www.nytimes.com/2020/06/26/realestate/could-doomsday-bunkers-become-the-new-normal.html)
 * [Overlooked No More: Valerie Solanas, Radical Feminist Who Shot Andy Warhol](https://www.nytimes.com/2020/06/26/obituaries/valerie-solanas-overlooked.html)
@@ -86,19 +86,20 @@ layout: default
 * [Thai Dissidents Are Disappearing, and Families Are Fighting for Answers](https://www.nytimes.com/2020/06/26/world/asia/thailand-dissidents-disappeared-military.html)
 * [The Post-Coronavirus Cruise? Not Ready to Sail](https://www.nytimes.com/2020/06/26/travel/coronavirus-cruises-reopening.html)
 * [Li Zhensheng, Photographer of China’s Cultural Revolution, Dies at 79](https://www.nytimes.com/2020/06/25/world/asia/li-zhensheng-dead.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Celebrating India’s Innovative Spirit Through Design](https://www.nytimes.com/2020/06/26/world/asia/divya-thakur-india-design.html)
 * [The Triumph of Merseyball: How Liverpool Won the Premier League](https://www.nytimes.com/2020/06/26/sports/soccer/liverpool-premier-league-title.html)
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
 * [A Babysitter, Her Employer and $46 Hand Soap](https://www.nytimes.com/2020/06/26/books/review/friends-and-strangers-j-courtney-sullivan.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
+* [America Didn’t Give Up on Covid-19. Republicans Did.](https://www.nytimes.com/2020/06/25/opinion/coronavirus-republicans.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -106,9 +107,9 @@ layout: default
 ## globo.com
 
 
+* [Einstein orienta médicos a não prescrever cloroquina no tratamento da Covid-19](https://oglobo.globo.com/sociedade/einstein-orienta-medicos-nao-prescrever-cloroquina-no-tratamento-da-covid-19-24502774)
 * [Amazon compra start-up de veículos, de olho no mercado de táxis autônomos](https://oglobo.globo.com/economia/amazon-compra-start-up-de-veiculos-de-olho-no-mercado-de-taxis-autonomos-24502414)
 * [Auxiliar de Aras que levou Lava Jato no PR a se demitir recusou-se a usar máscara na 'inspeção'](https://epoca.globo.com/guilherme-amado/auxiliar-de-aras-que-levou-lava-jato-no-pr-se-demitir-recusou-se-usar-mascara-na-inspecao-1-24502727)
-* [Grupo da Lava-Jato na PGR pede demissão coletiva por discordância com gestão Aras](https://oglobo.globo.com/brasil/grupo-da-lava-jato-na-pgr-pede-demissao-coletiva-por-discordancia-com-gestao-aras-1-24502348)
 * [Justiça de SP condena BR Distribuidora por crime ambiental](https://oglobo.globo.com/economia/justica-de-sp-condena-br-distribuidora-por-crime-ambiental-24502545)
 * [Rio registra 2,6 mil novos casos de coronavírus em 24 horas; mortes chegam a 9,5 mil](https://oglobo.globo.com/rio/rio-registra-26-mil-novos-casos-de-coronavirus-em-24-horas-mortes-chegam-95-mil-24502359)
 * [Rede vai ao STF contra foro privilegiado de Flávio Bolsonaro no TJ do Rio](https://oglobo.globo.com/brasil/rede-vai-ao-stf-contra-foro-privilegiado-de-flavio-bolsonaro-no-tj-do-rio-1-24502498)

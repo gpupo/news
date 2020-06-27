@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 06:10:52 UTC
+# indexed at 27/06/2020 06:34:26 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
+* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
-* [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
+* [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
-* [Cradle of Cantonese Cuisine Welcomes Robot Chef Overlords](https://www.sixthtone.com/news/1005845/)
+* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
 * [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
+* [Cradle of Cantonese Cuisine Welcomes Robot Chef Overlords](https://www.sixthtone.com/news/1005845/)
+* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
-* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
-* [Milton Glaser, Master Designer of ‘I love NY’ Logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
+* [Milton Glaser, Master Designer of ‘I love NY’ Logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
-* [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
 * [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
 * [Show HN: HiFiC – High-Fidelity Generative Image Compression – demo and paper](https://hific.github.io)
 * [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
+* [Matting and Hinging of Works of Art on Paper (1981) [pdf]](https://www.loc.gov/preservation/care/SmithBrown.PDF)
 * [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [PHP Insights: Analyze the code quality of PHP projects](https://phpinsights.com)
 * [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
-* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
+* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
-* [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
 ## nytimes.com
 
 
@@ -83,19 +83,19 @@ layout: default
 * [Starting Bonus for a Laundry Worker: How a Beach Town Wrestles With Jobless Benefits](https://www.nytimes.com/2020/06/26/business/economy/unemployment-incentives-beach-town.html)
 * [Europe Travel Ban on U.S. Visitors Would Be a Blow to Airlines](https://www.nytimes.com/2020/06/25/business/eu-us-travel-ban-coronavirus.html)
 * [How Progressive Candidates of Color Are Building Winning Coalitions](https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Celebrating India’s Innovative Spirit Through Design](https://www.nytimes.com/2020/06/26/world/asia/divya-thakur-india-design.html)
 * [The Triumph of Merseyball: How Liverpool Won the Premier League](https://www.nytimes.com/2020/06/26/sports/soccer/liverpool-premier-league-title.html)
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
 * [A Babysitter, Her Employer and $46 Hand Soap](https://www.nytimes.com/2020/06/26/books/review/friends-and-strangers-j-courtney-sullivan.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
-* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
+* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

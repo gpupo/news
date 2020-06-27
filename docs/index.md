@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 17:10:06 UTC
+# indexed at 27/06/2020 17:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
 * [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
+* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
+* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
-* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
-* [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
+* [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
+* [Digital Hygiene 101: Take Control over Your Feeds to Regain Mindfulness](https://solmaz.io/thoughts/digital-hygiene-feeds/)
+* [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [Seeing Theory](https://seeing-theory.brown.edu/)
+* [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
-* [Policing the Internet: A Bad Idea in 1996 and Today](https://www.realclearpolitics.com/articles/2020/06/25/policing_the_internet_a_bad_idea_in_1996_--_and_today.html)
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
-* [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Microfinance Is Mostly a Scam](https://mathbabe.org/2015/10/13/microfinance-is-mostly-a-scam/)
+* [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
+* [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
+* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
+* [Policing the Internet: A Bad Idea in 1996 and Today](https://www.realclearpolitics.com/articles/2020/06/25/policing_the_internet_a_bad_idea_in_1996_--_and_today.html)
+* [Stop Firing the Innocent](https://www.theatlantic.com/ideas/archive/2020/06/stop-firing-innocent/613615/)
 * [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
-* [Senators propose lawful access to encrypted data](http://www.androidauthority.com/lawful-access-to-encrypted-data-1132922)
-* [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [Wirecard Scandal Puts Spotlight on Auditor Ernst and Young](https://www.wsj.com/articles/wirecard-scandal-puts-spotlight-on-auditor-ernst-young-11593262823)
+* [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [DeepMind AI reading list [pdf]](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 * [Whistleblower provides blocking orders for over 4000 websites](https://www.reddit.com/r/india/comments/hgnosd/whistleblower_provides_blocking_orders_for_over/)
-* [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
+* [Senators propose lawful access to encrypted data](http://www.androidauthority.com/lawful-access-to-encrypted-data-1132922)
 * [Applying conversational design it to all types of interfaces](https://blog.prototypr.io/conversational-design-applying-it-to-all-types-of-interfaces-60b2b7beebd4)
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
+* [How to Learn JavaScript](https://sivers.org/learn-js)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [Multistate Disagreement over the Length of the Foot to End](https://www.scientificamerican.com/article/multistate-disagreement-over-the-length-of-the-foot-to-end/)
-* [How to Learn JavaScript](https://sivers.org/learn-js)
 * [Satellites reveal major new gas industry methane leaks](https://www.reuters.com/article/us-climatechange-methane-satellites-insi-idUSKBN23W3K4)
-* [Watching Movies in 'Fortnite' Is More Fun Than a Theater](https://www.vice.com/en_us/article/xg8gak/watching-movies-in-fortnite-is-more-fun-than-a-theater)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
-* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [Tracking Coronavirus](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 * [The Black Officer Who Detained George Floyd Had Pledged to Fix the Police](https://www.nytimes.com/2020/06/27/us/minneapolis-police-officer-kueng.html)
 * [Black Trans Women Seek More Space in the Movement They Helped Start](https://www.nytimes.com/2020/06/27/us/politics/black-trans-lives-matter.html)
-* [How College Sports Spurred Mississippi to Seriously Reconsider Its Flag](https://www.nytimes.com/2020/06/27/sports/ncaafootball/mississippi-flag-ncaa.html)
+* [Princeton Will Remove Woodrow Wilson’s Name From School](https://www.nytimes.com/2020/06/27/nyregion/princeton-university-woodrow-wilson.html)
 * [‘PizzaGate’ Conspiracy Theory Thrives Anew in the TikTok Era](https://www.nytimes.com/2020/06/27/technology/pizzagate-justin-bieber-qanon-tiktok.html)
 * [Russia Secretly Offered Afghan Militants Bounties to Kill U.S. Troops, Intelligence Says](https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html)
 * [How Americans Feel About the Country Right Now: Anxious. Hopeful.](https://www.nytimes.com/2020/06/27/us/politics/coronavirus-trump-mood-poll.html)
@@ -83,20 +83,19 @@ layout: default
 * [Afghan Deaths Pile Up in Uncertainty Over U.S. Deal With Taliban](https://www.nytimes.com/2020/06/27/world/asia/afghanistan-taliban-human-rights-workers.html)
 * [EBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 * [N.W.S.L. Players Kneel for Anthem as League Returns to Field](https://www.nytimes.com/2020/06/26/sports/soccer/nwsl-anthem-protest-kaiya-mccullough.html)
-* [In Defense of a Good Cry, and Other Options for ‘Losing It’](https://www.nytimes.com/2020/05/07/smarter-living/coronavirus-losing-control.html)
-* [How the Coronavirus Is Changing Digital Etiquette](https://www.nytimes.com/2020/06/03/smarter-living/coronavirus-digital-etiquette.html)
-* [How to Get Your Kids to Care About Social Distancing](https://www.nytimes.com/2020/06/13/style/kids-children-social-distance-coronavirus.html)
-* [What It Takes to Reopen a Small Business Right Now](https://www.nytimes.com/2020/06/18/business/small-business-reopening-coronavirus.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [For the Actors of ‘Take Me Out,’ a Coming-Out Party Is Postponed](https://www.nytimes.com/2020/06/24/theater/take-me-out-broadway.html)
 * [It’s Time to End Racism in the Fashion Industry. But How?](https://www.nytimes.com/2020/06/24/style/fashion-racism.html)
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
 * [‘We Can’t Do Our Craft’: Conductors Contend With the Pandemic](https://www.nytimes.com/2020/06/26/arts/music/classical-music-conductors-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
-* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [America Is Facing 5 Epic Crises All at Once](https://www.nytimes.com/2020/06/25/opinion/us-coronavirus-protests.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -104,6 +103,7 @@ layout: default
 ## globo.com
 
 
+* [Suspeito pela morte Kauã Vitor confessa disparo acidental e tem prisão temporária decretada pela Justiça](https://oglobo.globo.com/rio/suspeito-pela-morte-kaua-vitor-confessa-disparo-acidental-tem-prisao-temporaria-decretada-pela-justica-24503434)
 * [No Fluminense, Fred terá participação em receita com venda de produtos e até com patrocinadores](https://oglobo.globo.com/esportes/no-fluminense-fred-tera-participacao-em-receita-com-venda-de-produtos-ate-com-patrocinadores-24503405)
 * [Robbie Williams diz que emagreceu quando abandonou drogas e 'laricas'](https://oglobo.globo.com/ela/gente/robbie-williams-diz-que-emagreceu-quando-abandonou-drogas-laricas-24503351)
 * [Bolsonaro viaja para Minas Gerais em agenda particular](https://oglobo.globo.com/brasil/bolsonaro-viaja-para-minas-gerais-em-agenda-particular-24503346)
@@ -112,5 +112,4 @@ layout: default
 * [Brasil tem 1.284.214 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1284214-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24503379)
 * [Pinguim é resgatado em praia no Recreio por guardas municipais na manhã deste sábado](https://oglobo.globo.com/rio/pinguim-resgatado-em-praia-no-recreio-por-guardas-municipais-na-manha-deste-sabado-24503373)
 * [Crise na PGR implode relação de Aras com as forças-tarefas da Lava-Jato](https://oglobo.globo.com/brasil/crise-na-pgr-implode-relacao-de-aras-com-as-forcas-tarefas-da-lava-jato-24503370)
-* [Nutrólogo Fábio Almeida dá dicas para se alimentar bem durante pandemia](https://oglobo.globo.com/sociedade/saude/nutrologo-fabio-almeida-da-dicas-para-se-alimentar-bem-durante-pandemia-24503341)
 * [Nova Strada vem em três versões e custa a partir de R$ 63.590](https://oglobo.globo.com/economia/carros/nova-strada-vem-em-tres-versoes-custa-partir-de-63590-24502902)

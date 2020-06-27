@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 06:34:26 UTC
+# indexed at 27/06/2020 07:12:23 UTC
 
 
 ## news.ycombinator.com
@@ -11,38 +11,38 @@ layout: default
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
-* [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
+* [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
+* [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
+* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
 * [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
-* [Cradle of Cantonese Cuisine Welcomes Robot Chef Overlords](https://www.sixthtone.com/news/1005845/)
-* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
-* [Milton Glaser, Master Designer of ‘I love NY’ Logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
+* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
 * [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
-* [Show HN: HiFiC – High-Fidelity Generative Image Compression – demo and paper](https://hific.github.io)
 * [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
-* [Matting and Hinging of Works of Art on Paper (1981) [pdf]](https://www.loc.gov/preservation/care/SmithBrown.PDF)
+* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
 * [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [PHP Insights: Analyze the code quality of PHP projects](https://phpinsights.com)
-* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
+* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
-* [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
 * [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
+* [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
+* [Matting and Hinging of Works of Art on Paper (1981) [pdf]](https://www.loc.gov/preservation/care/SmithBrown.PDF)
 ## nytimes.com
 
 
 * [Leaders Re-examine U.S. Reopenings as Coronavirus Cases Hit Another Record](https://www.nytimes.com/2020/06/26/us/coronavirus-florida-texas-bars-closing.html)
-* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html)
+* [U.S. Hits Another Record for New Coronavirus Cases](https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html)
 * [New Numbers Showing Coronavirus Spread Intrude on a White House in Denial](https://www.nytimes.com/2020/06/26/us/politics/trump-coronavirus.html)
 * [E.U. Plans to Bar Most U.S. Travelers When Bloc Reopens](https://www.nytimes.com/2020/06/26/world/europe/europe-us-travel-ban.html)
 * [Many Students Will Be in Classrooms Only Part of the Week This Fall](https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html)
@@ -58,7 +58,6 @@ layout: default
 * [Facebook Boycott: Unilever and Verizon Join Pledge to Pull Ads](https://www.nytimes.com/2020/06/26/business/media/Facebook-advertising-boycott.html)
 * [Facebook Adds Labels for Some Posts as Advertisers Pull Back](https://www.nytimes.com/2020/06/26/technology/facebook-labels-advertisers.html)
 * [Milton Glaser, Master Designer of ‘I ♥ NY’ Logo, Is Dead at 91](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Coronavirus Surge, Afghanistan, Pride Month: Your Friday Evening Briefing](https://www.nytimes.com/2020/06/26/briefing/coronavirus-surge-afghanistan-pride-month.html)
 * [A Bit of Relief: The Long Distance Chorus](https://www.nytimes.com/2020/06/26/podcasts/the-daily/Gregg-Breinberg-PS22-chorus-education-virus.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [Place Your Bets on Biden’s V.P.](https://www.nytimes.com/2020/06/25/opinion/the-argument-biden-vice-president-supreme-court.html)
@@ -92,10 +91,10 @@ layout: default
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
 * [A Babysitter, Her Employer and $46 Hand Soap](https://www.nytimes.com/2020/06/26/books/review/friends-and-strangers-j-courtney-sullivan.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
-* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
-* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
+* [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
+* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,11 +104,11 @@ layout: default
 
 
 * [Moscou teria pago talibãs para matar soldados dos EUA e da Otan, segundo inteligência americana](https://oglobo.globo.com/mundo/moscou-teria-pago-talibas-para-matar-soldados-dos-eua-da-otan-segundo-inteligencia-americana-24502879)
-* [Ministro da Educação altera currículo após reitor revelar que ele não concluiu doutorado](https://oglobo.globo.com/sociedade/educacao/ministro-da-educacao-altera-curriculo-apos-reitor-revelar-que-ele-nao-concluiu-doutorado-1-24502835)
 * [Dona de agência de modelos, Helen Giorgio aposta na tecnologia durante pandemia](https://oglobo.globo.com/economia/tecnologia/dona-de-agencia-de-modelos-helen-giorgio-aposta-na-tecnologia-durante-pandemia-24502886)
 * [Defesa pede que habeas corpus de Queiroz seja analisado por desembargadora pró-Flávio](https://epoca.globo.com/guilherme-amado/defesa-pede-que-habeas-corpus-de-queiroz-seja-analisado-por-desembargadora-pro-flavio-24502877)
 * [É preciso desmontar estrutura de corrupção na Secretaria de Saúde](https://oglobo.globo.com/opiniao/e-preciso-desmontar-estrutura-de-corrupcao-na-secretaria-de-saude-24502769)
 * [O período de calmaria por que passa o presidente](https://oglobo.globo.com/opiniao/o-periodo-de-calmaria-por-que-passa-presidente-24502390)
+* [Mortes por doenças cardíacas aumentam 50% durante pandemia no Brasil](https://epoca.globo.com/sociedade/mortes-por-doencas-cardiacas-aumentam-50-durante-pandemia-no-brasil-24501900)
 * [O discurso e a prática](https://oglobo.globo.com/opiniao/o-discurso-a-pratica-24501562)
 * [Não é novo, nem normal](https://oglobo.globo.com/opiniao/nao-novo-nem-normal-1-24501466)
 * [Os custos da alta tensão](https://oglobo.globo.com/opiniao/os-custos-da-alta-tensao-24501488)

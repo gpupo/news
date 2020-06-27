@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 11:34:38 UTC
+# indexed at 27/06/2020 12:12:48 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Multistate Disagreement over the Length of the Foot to End](https://www.scientificamerican.com/article/multistate-disagreement-over-the-length-of-the-foot-to-end/)
-* [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
+* [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
+* [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
-* [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
+* [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
 * [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
+* [Why vegan junk food may be even worse for your health](https://www.bbc.com/future/article/20200129-why-vegan-junk-food-may-be-even-worse-for-your-health)
+* [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [Silurian Hypothesis: Were There Civilizations on Earth Before Humans? (2018)](http://www.sci-news.com/featurednews/silurian-hypothesis-05921.html)
-* ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [How to Learn JavaScript](https://sivers.org/learn-js)
+* ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
-* [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
-* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
-* [Why vegan junk food may be even worse for your health](https://www.bbc.com/future/article/20200129-why-vegan-junk-food-may-be-even-worse-for-your-health)
-* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
-* [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
-* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
 * [Ben Smith on the rise of Substack and independent journalists [video]](https://www.youtube.com/watch?v=3xgLOHW42Nw#t=12)
+* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
+* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
 * [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
-* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
-* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
 * [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
+* [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
+* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
+* [Dynamic linking](https://drewdevault.com/dynlib.html)
 * [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
 ## nytimes.com
 
@@ -90,10 +90,10 @@ layout: default
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
 * [‘We Can’t Do Our Craft’: Conductors Contend With the Pandemic](https://www.nytimes.com/2020/06/26/arts/music/classical-music-conductors-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
+* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
 * [Joe Biden's VP Pick: Here's What Voters Think](https://www.nytimes.com/2020/06/26/us/politics/biden-vice-president-voters.html)
 * [How One Shoreline Took the Lives of 7 Young People](https://www.nytimes.com/2020/06/26/nyregion/rockaway-beach-drownings.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Para 76% dos brasileiros, escolas devem continuar fechadas por causa da pandemia, diz Datafolha](https://oglobo.globo.com/sociedade/para-76-dos-brasileiros-escolas-devem-continuar-fechadas-por-causa-da-pandemia-diz-datafolha-1-24503270)
 * [Homem é preso na Dutra com skunk e haxixe que seriam vendidos na Zona Sul do Rio](https://oglobo.globo.com/rio/homem-preso-na-dutra-com-skunk-haxixe-que-seriam-vendidos-na-zona-sul-do-rio-24503266)
 * ['Arraiá em casa': live tem shows de forró, dicas de receitas e decoração junina](https://oglobo.globo.com/cultura/arraia-em-casa-live-tem-shows-de-forro-dicas-de-receitas-decoracao-junina-24500396)
 * [Brasil tem 1.280.335 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1280335-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-1-24503253)
 * [Salto nos casos de covid-19 em estados republicanos ameaça estratégia eleitoral de Trump](https://epoca.globo.com/salto-nos-casos-de-covid-19-em-estados-republicanos-ameaca-estrategia-eleitoral-de-trump-24503244)
-* [Marta Suplicy se movimenta para ser vice de Covas](https://epoca.globo.com/guilherme-amado/marta-suplicy-se-movimenta-para-ser-vice-de-covas-24503045)
+* [Edifício A Noite, no Centro do Rio, deve ser leiloado até agosto](https://oglobo.globo.com/economia/edificio-noite-no-centro-do-rio-deve-ser-leiloado-ate-agosto-24503145)
+* [Dispara busca na internet sobre como fritar gafanhoto](https://epoca.globo.com/guilherme-amado/dispara-busca-na-internet-sobre-como-fritar-gafanhoto-1-24503091)
 * [América Latina pós-Covid demandará políticas públicas para reduzir desigualdades raciais, diz especialista](https://oglobo.globo.com/mundo/america-latina-pos-covid-demandara-politicas-publicas-para-reduzir-desigualdades-raciais-diz-especialista-24501429)
 * [Artigo | Uma dose de bom senso](https://epoca.globo.com/sociedade/artigo-uma-dose-de-bom-senso-24502032)
-* [Universidades particulares fazem vestibular on-line para segundo semestre](https://oglobo.globo.com/rio/bairros/universidades-particulares-fazem-vestibular-on-line-para-segundo-semestre-24502054)
-* [Grupo que trata de índios no MPF pediu a Aras ir ao Supremo contra nomeação de missionário na Funai](https://epoca.globo.com/grupo-que-trata-de-indios-no-mpf-pediu-aras-ir-ao-supremo-contra-nomeacao-de-missionario-na-funai-24501070)
 * [ARTIGO | Por que a falação de asneiras, a mimimização e as fake news minam a democracia](https://epoca.globo.com/brasil/artigo-por-que-falacao-de-asneiras-mimimizacao-as-fake-news-minam-democracia-24501434)

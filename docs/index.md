@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 16:10:40 UTC
+# indexed at 27/06/2020 16:34:17 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
+* [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
 * [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
-* [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 * [Seeing Theory](https://seeing-theory.brown.edu/)
+* [Policing the Internet: A Bad Idea in 1996 and Today](https://www.realclearpolitics.com/articles/2020/06/25/policing_the_internet_a_bad_idea_in_1996_--_and_today.html)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
-* [Policing the Internet: A Bad Idea in 1996 and Today](https://www.realclearpolitics.com/articles/2020/06/25/policing_the_internet_a_bad_idea_in_1996_--_and_today.html)
 * [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
-* [DeepMind AI reading list [pdf]](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
+* [DeepMind AI reading list [pdf]](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 * [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
+* [Senators propose lawful access to encrypted data](http://www.androidauthority.com/lawful-access-to-encrypted-data-1132922)
 * [Whistleblower provides blocking orders for over 4000 websites](https://www.reddit.com/r/india/comments/hgnosd/whistleblower_provides_blocking_orders_for_over/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * [Applying conversational design it to all types of interfaces](https://blog.prototypr.io/conversational-design-applying-it-to-all-types-of-interfaces-60b2b7beebd4)
-* [Common Web Developer Interview Questions And Answers](https://blog.codegiant.io/25-web-developer-interview-questions-and-answers-3030b21ae016)
+* [Microfinance Is Mostly a Scam](https://mathbabe.org/2015/10/13/microfinance-is-mostly-a-scam/)
 * [Watching Movies in 'Fortnite' Is More Fun Than a Theater](https://www.vice.com/en_us/article/xg8gak/watching-movies-in-fortnite-is-more-fun-than-a-theater)
-* [Senators propose lawful access to encrypted data](http://www.androidauthority.com/lawful-access-to-encrypted-data-1132922)
 * [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
-* [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [Multistate Disagreement over the Length of the Foot to End](https://www.scientificamerican.com/article/multistate-disagreement-over-the-length-of-the-foot-to-end/)
+* [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
 * [Satellites reveal major new gas industry methane leaks](https://www.reuters.com/article/us-climatechange-methane-satellites-insi-idUSKBN23W3K4)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [How to Learn JavaScript](https://sivers.org/learn-js)
-* [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
+* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
 * [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
-* [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
+* [Wirecard Scandal Puts Spotlight on Auditor Ernst and Young](https://www.wsj.com/articles/wirecard-scandal-puts-spotlight-on-auditor-ernst-young-11593262823)
+* [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 ## nytimes.com
 
 
@@ -70,7 +70,7 @@ layout: default
 * [Beyond ‘White Fragility’](https://www.nytimes.com/2020/06/26/opinion/black-lives-matter-injustice.html)
 * [Last Testament of Maurice, Famous French Rooster](https://www.nytimes.com/2020/06/26/opinion/maurice-rooster-france.html)
 * [Resist Fear-Based Parenting, Even During the Coronavirus](https://www.nytimes.com/2020/06/26/opinion/coronavirus-parenting-fear.html)
-* [Coronavirus Has Arizona Health Care Workers at the Breaking Point](https://www.nytimes.com/2020/06/26/opinion/coronavirus-arizona-hospitals.html)
+* [Removing the Statues (T.R. and Others)](https://www.nytimes.com/2020/06/27/opinion/letters/statues-theodore-roosevelt-race.html)
 * [‘A True Disappointment’: How It Feels When Your First Pride Parade Is Canceled](https://www.nytimes.com/2020/06/27/us/pride-parade-canceled-nyc-san-francisco.html)
 * [Summer Is Bursting the Quarantine Bubble](https://www.nytimes.com/2020/06/25/style/coroanvirus-america-summer.html)
 * [The Rebel Physicist on the Hunt for a Better Story Than Quantum Mechanics](https://www.nytimes.com/2020/06/25/magazine/angelo-bassi-quantum-mechanic.html)
@@ -83,18 +83,17 @@ layout: default
 * [Afghan Deaths Pile Up in Uncertainty Over U.S. Deal With Taliban](https://www.nytimes.com/2020/06/27/world/asia/afghanistan-taliban-human-rights-workers.html)
 * [EBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 * [Hong Kong Protests: In Seizing Control, China Sidelines its Allies](https://www.nytimes.com/2020/06/27/world/asia/china-hong-kong.html)
-* [How to Start a Neighborhood Association](https://www.nytimes.com/2020/06/06/smarter-living/how-to-start-a-neighborhood-association.html)
-* [When Can Grandparents Meet the Newborn?](https://www.nytimes.com/2020/06/16/parenting/baby/grandparents-meet-newborn-coronavirus.html)
-* [How to Compost, Step by Step](https://www.nytimes.com/2020/05/27/realestate/how-to-compost-composting-food-waste.html)
-* [How to Read a Coronavirus Study, or Any Science Paper](https://www.nytimes.com/article/how-to-read-a-science-study-coronavirus.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [For the Actors of ‘Take Me Out,’ a Coming-Out Party Is Postponed](https://www.nytimes.com/2020/06/24/theater/take-me-out-broadway.html)
 * [It’s Time to End Racism in the Fashion Industry. But How?](https://www.nytimes.com/2020/06/24/style/fashion-racism.html)
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
 * [‘We Can’t Do Our Craft’: Conductors Contend With the Pandemic](https://www.nytimes.com/2020/06/26/arts/music/classical-music-conductors-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
-* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
+* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [America Is Facing 5 Epic Crises All at Once](https://www.nytimes.com/2020/06/25/opinion/us-coronavirus-protests.html)
@@ -104,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Brasil tem 1.284.214 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1284214-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24503379)
+* [Secretário de Turismo Otávio Leite deixa governo Witzel](https://oglobo.globo.com/rio/secretario-de-turismo-otavio-leite-deixa-governo-witzel-24503401)
 * [Fortuna de Zuckerberg encolhe US$ 7,2 bi com boicote de empresas como Coca-Cola e Unilever ao Facebook](https://oglobo.globo.com/economia/fortuna-de-zuckerberg-encolhe-us-72-bi-com-boicote-de-empresas-como-coca-cola-unilever-ao-facebook-24503380)
+* [Robbie Williams diz que emagreceu quando abandou drogas e 'laricas'](https://oglobo.globo.com/ela/gente/robbie-williams-diz-que-emagreceu-quando-abandou-drogas-laricas-24503351)
 * [Brasil anuncia acordo acordo com Oxford e vai produzir 30,4 milhões de doses de vacina contra Covid-19](https://oglobo.globo.com/sociedade/brasil-anuncia-acordo-acordo-com-oxford-vai-produzir-304-milhoes-de-doses-de-vacina-contra-covid-19-24503327)
+* [Brasil tem 1.284.214 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1284214-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24503379)
 * [Pinguim é resgatado em praia no Recreio por guardas municipais na manhã deste sábado](https://oglobo.globo.com/rio/pinguim-resgatado-em-praia-no-recreio-por-guardas-municipais-na-manha-deste-sabado-24503373)
 * [Crise na PGR implode relação de Aras com as forças-tarefas da Lava-Jato](https://oglobo.globo.com/brasil/crise-na-pgr-implode-relacao-de-aras-com-as-forcas-tarefas-da-lava-jato-24503370)
 * [Bolsonaro viaja para Minas Gerais em agenda particular](https://oglobo.globo.com/brasil/bolsonaro-viaja-para-minas-gerais-em-agenda-particular-24503346)
 * [Nutrólogo Fábio Almeida dá dicas para se alimentar bem durante pandemia](https://oglobo.globo.com/sociedade/saude/nutrologo-fabio-almeida-da-dicas-para-se-alimentar-bem-durante-pandemia-24503341)
-* [L'Oréal vai retirar termos como 'branqueador' e ‘clareamento’ de seus produtos](https://oglobo.globo.com/economia/loreal-vai-retirar-termos-como-branqueador-clareamento-de-seus-produtos-24503320)
-* [Polícia Civil prende homem apontado como um dos maiores fornecedores de armas e drogas no Rio](https://oglobo.globo.com/rio/policia-civil-prende-homem-apontado-como-um-dos-maiores-fornecedores-de-armas-drogas-no-rio-24503323)
 * [Nova Strada vem em três versões e custa a partir de R$ 63.590](https://oglobo.globo.com/economia/carros/nova-strada-vem-em-tres-versoes-custa-partir-de-63590-24502902)

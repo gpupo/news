@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 14:10:28 UTC
+# indexed at 27/06/2020 14:34:36 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [Palm – The best small phone for minimalists, athletes, and kids](https://palm.com/pages/product)
+* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 * [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
 * [Milton Glaser, designer of ‘I ♥ NY’ logo, has died](https://www.nytimes.com/2020/06/26/obituaries/milton-glaser-dead.html)
 * [Examining ARM vs. x86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
-* [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
 * [Tim O’Reilly makes a case for why venture capital is starting to do more harm](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
 * [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
-* [Satellites reveal major new gas industry methane leaks](https://www.reuters.com/article/us-climatechange-methane-satellites-insi-idUSKBN23W3K4)
-* [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
-* [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
-* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
-* [How to Learn JavaScript](https://sivers.org/learn-js)
-* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
-* [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [Whistleblower provides blocking orders for over 4000 websites](https://www.reddit.com/r/india/comments/hgnosd/whistleblower_provides_blocking_orders_for_over/)
+* [Santa Cruz, California bans predictive policing in U.S. first](https://www.reuters.com/article/us-usa-police-tech-trfn/california-city-bans-predictive-policing-in-u-s-first-idUSKBN23V2XC)
+* [NeXTSTEP on the HP 712 Part 2: Getting Software](https://blog.pizzabox.computer/posts/hp712-nextstep-part-2/)
+* [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
+* [HonKit: A Fork of GitBook](https://github.com/honkit/honkit)
+* [Myths about Patents and Trademarks in startups](https://hitstartup.com/myths-about-patents-and-trademarks-in-startups/)
+* [How to Learn JavaScript](https://sivers.org/learn-js)
+* [Satellites reveal major new gas industry methane leaks](https://www.reuters.com/article/us-climatechange-methane-satellites-insi-idUSKBN23W3K4)
+* [The War on Upstart Fiber Internet Providers](http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers/)
 * [Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet](https://www.bbc.com/news/world-asia-53196009)
 * [Ben Smith on the rise of Substack and independent journalists [video]](https://www.youtube.com/watch?v=3xgLOHW42Nw#t=12)
-* [Dell XPS 13 Developer Edition with Ubuntu 20.04 LTS pre-installed](https://ubuntu.com/blog/dell-xps-13-developer-edition-with-ubuntu-20-04-lts-pre-installed-is-now-available)
 * [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
 * [Why the US military usually punishes misconduct but police often close ranks](https://theconversation.com/why-the-us-military-usually-punishes-misconduct-but-police-often-close-ranks-127898)
-* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
-* [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [Algorithm-Visualizer](https://github.com/Walker-TW/Algorithm-Visualizer)
+* [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
+* [Update on IT Security Incident at UCSF](https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf)
 * [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
-* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
+* [Dell XPS 13 Developer Edition with Ubuntu 20.04 LTS pre-installed](https://ubuntu.com/blog/dell-xps-13-developer-edition-with-ubuntu-20-04-lts-pre-installed-is-now-available)
 * [Cradle of Cantonese cuisine welcomes "robot restaurant complex"](https://www.sixthtone.com/news/1005845/)
+* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 ## nytimes.com
 
 
@@ -81,8 +81,8 @@ layout: default
 * [EBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 * [Your 2020 Virtual Pride Event Guide](https://www.nytimes.com/article/gay-pride-2020-events-online.html)
 * [Hong Kong Protests: In Seizing Control, China Sidelines its Allies](https://www.nytimes.com/2020/06/27/world/asia/china-hong-kong.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [For the Actors of ‘Take Me Out,’ a Coming-Out Party Is Postponed](https://www.nytimes.com/2020/06/24/theater/take-me-out-broadway.html)
@@ -90,23 +90,23 @@ layout: default
 * [Assaulted at 15, a Writer Looks Back and Comes Forward](https://www.nytimes.com/2020/06/27/books/lacy-crawford-notes-on-a-silencing.html)
 * [‘We Can’t Do Our Craft’: Conductors Contend With the Pandemic](https://www.nytimes.com/2020/06/26/arts/music/classical-music-conductors-coronavirus.html)
 * [The Secret to Perfect Pizza at Home? Cast Iron](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html)
-* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
-* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
+* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Por causa da pandemia, Justiça determina que EUA libertem crianças imigrantes detidas](https://oglobo.globo.com/mundo/por-causa-da-pandemia-justica-determina-que-eua-libertem-criancas-imigrantes-detidas-24503291)
+* [L'Oréal vai retirar termos como 'branqueador' e ‘clareamento’ de seus produtos](https://oglobo.globo.com/economia/loreal-vai-retirar-termos-como-branqueador-clareamento-de-seus-produtos-24503320)
 * [Milton Glaser, criador do logotipo 'I ♥ NY', morre aos 91 anos](https://oglobo.globo.com/cultura/milton-glaser-criador-do-logotipony-morre-aos-91-anos-1-24503303)
+* [Por causa da pandemia, Justiça determina que EUA libertem crianças imigrantes detidas](https://oglobo.globo.com/mundo/por-causa-da-pandemia-justica-determina-que-eua-libertem-criancas-imigrantes-detidas-24503291)
 * [Coluna | Gilberto Gil recupera a nossa esperança](https://epoca.globo.com/lucas-prata/coluna-gilberto-gil-recupera-nossa-esperanca-24503306)
 * [Entenda o 'novo normal' dos clichês, e porque precisamos nos 'reinventar na crise' para explicar a pandemia](https://oglobo.globo.com/cultura/entenda-novo-normal-dos-cliches-porque-precisamos-nos-reinventar-na-crise-para-explicar-pandemia-24503302)
 * [Frente fria traz chuva e temperaturas mais baixas para o Rio neste fim de semana](https://oglobo.globo.com/rio/frente-fria-traz-chuva-temperaturas-mais-baixas-para-rio-neste-fim-de-semana-24503292)
 * [‘Dark’: trama da última temporada confundiu até ator que faz o protagonista Jonas](https://oglobo.globo.com/cultura/dark-trama-da-ultima-temporada-confundiu-ate-ator-que-faz-protagonista-jonas-24503286)
 * [Auxílio emergencial: pagamento da terceira parcela começa hoje. Veja calendário](https://oglobo.globo.com/economia/auxilio-emergencial-pagamento-da-terceira-parcela-comeca-hoje-veja-calendario-24503285)
 * [Por causa da pandemia, leilão do 5G fica para 2021](https://oglobo.globo.com/economia/por-causa-da-pandemia-leilao-do-5g-fica-para-2021-24502885)
-* [Edifício A Noite, no Centro do Rio, deve ser leiloado até agosto](https://oglobo.globo.com/economia/edificio-noite-no-centro-do-rio-deve-ser-leiloado-ate-agosto-24503145)
 * [Dispara busca na internet sobre como fritar gafanhoto](https://epoca.globo.com/guilherme-amado/dispara-busca-na-internet-sobre-como-fritar-gafanhoto-1-24503091)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/06/2020 02:11:02 UTC
+# indexed at 27/06/2020 02:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Facebook announces policy changes ahead of 2020 elections](https://www.facebook.com/zuck/posts/10112048980882521)
 * [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/)
 * [Dynamic linking](https://drewdevault.com/dynlib.html)
+* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
 * [The Math Behind the Rolling Shutter Phenomenon (2014)](https://petapixel.com/2014/10/13/math-behind-rolling-shutter-phenomenon/)
-* [Flexport is hiring engineers in Amsterdam (we’ll get you a visa)](https://flexport.com)
 * ['Black neutron star' discovery changes astronomy](https://www.bbc.com/news/science-environment-53151106)
 * [Mobilewalla used cellphone data to estimate the demographics of protesters](https://www.buzzfeednews.com/carolinehaskins1/protests-tech-company-spying)
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [Flexport is hiring engineers in Amsterdam (we’ll get you a visa)](https://flexport.com)
 * [A New Standard Deal](https://blog.ycombinator.com/a-new-standard-deal/)
-* [Tons of microplastic rain onto western US](https://earthsky.org/earth/microplastic-rain-western-us)
+* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
 * [Carving out a niche as a small artist on Spotify](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg)
 * [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/)
 * [Cracked It, a social enterprise that repairs phones](https://www.crackedit.org/)
-* [Re-Stacking the GUI Stack](https://genodians.org/nfeske/2020-06-23-gui-stack)
+* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Show HN: HiFiC – High-Fidelity Generative Image Compression – demo and paper](https://hific.github.io)
 * [The value of Tor and anonymous contributions to Wikipedia](https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia)
 * [Mincome: Canada’s 1970s universal basic income experiment](https://www.bbc.com/worklife/article/20200624-canadas-forgotten-universal-basic-income-experiment)
 * [PHP Insights: Analyze the code quality of PHP projects](https://phpinsights.com)
 * [Why Birds Can Fly over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
-* [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
-* [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
 * [KiwiCo Eureka Crate: Monthly Science Kit Subscription](https://www.kiwico.com/eureka)
+* [The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 * [Microsoft removes manual deferrals from Windows Update 'to prevent confusion'](https://www.zdnet.com/article/microsoft-removes-manual-deferrals-from-windows-update-by-it-pros-to-prevent-confusion/)
+* [Extraordinary ‘megaflash’ lightning strikes cover several hundred kilometres](https://news.un.org/en/story/2020/06/1067182)
 * [Engineering Dropbox Transfer: Making simple even simpler](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler)
-* [A Physicist Trying to Fix Quantum Mechanics](https://www.nytimes.com/2020/06/25/magazine/angelo-bassi-quantum-mechanic.html)
 * [Micronaut 2.0: a full stack Java framework for modular, testable applications](https://docs.micronaut.io/2.0.0/guide/index.html)
-* [Unilever is latest brand to boycott Facebook](https://www.npr.org/2020/06/26/883941796/unilever-maker-of-dove-soap-is-latest-brand-to-boycott-facebook?t=1593203268423)
 * [What I learned from writing for The Onion for a month (2015)](https://wordsbyevanporter.com/what-i-learned-from-writing-for-the-onion-for-a-month/)
+* [A Physicist Trying to Fix Quantum Mechanics](https://www.nytimes.com/2020/06/25/magazine/angelo-bassi-quantum-mechanic.html)
+* [Unilever is latest brand to boycott Facebook](https://www.npr.org/2020/06/26/883941796/unilever-maker-of-dove-soap-is-latest-brand-to-boycott-facebook?t=1593203268423)
 ## nytimes.com
 
 
@@ -85,19 +85,19 @@ layout: default
 * [Thai Dissidents Are Disappearing, and Families Are Fighting for Answers](https://www.nytimes.com/2020/06/26/world/asia/thailand-dissidents-disappeared-military.html)
 * [How Progressive Candidates of Color Are Building Winning Coalitions](https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html)
 * [Europe Travel Ban on U.S. Visitors Would Be a Blow to Airlines](https://www.nytimes.com/2020/06/25/business/eu-us-travel-ban-coronavirus.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Celebrating India’s Innovative Spirit Through Design](https://www.nytimes.com/2020/06/26/world/asia/divya-thakur-india-design.html)
 * [The Triumph of Merseyball: How Liverpool Won the Premier League](https://www.nytimes.com/2020/06/26/sports/soccer/liverpool-premier-league-title.html)
 * [Haim Steps Into a New Groove on ‘Women in Music Pt. III’](https://www.nytimes.com/2020/06/26/arts/music/haim-women-in-music-pt-iii-review.html)
 * [A Babysitter, Her Employer and $46 Hand Soap](https://www.nytimes.com/2020/06/26/books/review/friends-and-strangers-j-courtney-sullivan.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Tim and Eric Awesome Show, Great Job!’](https://www.nytimes.com/2020/06/26/arts/television/tim-and-eric-awesome-show-great-job.html)
-* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [The Great Wonders Beyond the Great Reef](https://www.nytimes.com/2020/06/26/science/exploration-coral-sea.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
+* [The Pandemic’s Mental Toll: More Ripple Than Tsunami](https://www.nytimes.com/2020/06/21/health/coronavirus-mental-health-anxiety.html)
 * [America Didn’t Give Up on Covid-19. Republicans Did.](https://www.nytimes.com/2020/06/25/opinion/coronavirus-republicans.html)
 * [U.S. Used Missile With Long Blades to Kill Qaeda Leader in Syria](https://www.nytimes.com/2020/06/24/world/middleeast/syria-qaeda-r9x-hellfire-missile.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 21:10:04 UTC
+# indexed at 28/06/2020 21:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
 * [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
+* [The Hardest Part of Working at a Growth Startup](https://staysaasy.com/scaling/2020/06/27/hardest-part-of-startup-scale-yourself.html)
 * [Was Acorn's RISC OS an under-appreciated pearl of OS design?](https://liam-on-linux.livejournal.com/72192.html)
 * [Show HN: Hacker News front page in the style of a print newspaper](https://www.wolfgangfaust.com/project/paper-hn/)
-* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
-* [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
 * [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
+* [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
+* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
-* [America’s First Direct Mail Campaign](https://postalmuseum.si.edu/node/1912)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
 * [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 * [Kudzu, the vine that never truly ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+* [America’s First Direct Mail Campaign](https://postalmuseum.si.edu/node/1912)
 * [ELF: Better Symbol Lookup via Dt_gnu_hash (2017)](https://flapenguin.me/elf-dt-gnu-hash)
 * [Cheddar empire: Rise of a cheese superpower](https://www.cnn.com/travel/article/cheddar-cheese-history/index.html)
+* [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
 * [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [Mysterious meme gets Tech Twitter to clamor for invite to app that doesn't exist](https://www.businessinsider.com/it-is-what-it-is-eyemoutheye-emoji-mystery-app-twitter-2020-6)
-* [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
+* [The Tau Manifesto Launched on Hacker News on Tau Day, 2010](https://news.ycombinator.com/item?id=23671761)
 * [The World Doesn’t Need a New Gigantic Particle Collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider)
-* [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
-* [Comedy of Heirs: Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
 * [Crispr gene editing in human embryos wreaks chromosomal mayhem](https://www.nature.com/articles/d41586-020-01906-4)
+* [Comedy of Heirs: Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
 * [Viewpoint: 'I feel like I was accidentally hired'](https://www.bbc.co.uk/news/technology-53180073)
-* [On COBOL](https://www.oreilly.com/radar/on-cobol/)
 * [Show HN: Free, editable slides by big 4 consultant – new set every week](https://slidegame.io/)
-* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
-* [Chromium and Mozilla to enforce 1 year validity for TLS certificates](https://chromium.googlesource.com/chromium/src/+/ae4d6809912f8171b23f6aa43c6a4e8e627de784)
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [Whistleblower provides blocking orders for over 4000 websites in India](https://internetfreedom.in/whistleblower-provides-website-blocking-orders-on-4000-websites/)
 * [Starbucks pauses Advertising on all Social Media](https://www.cnbc.com/2020/06/28/starbucks-latest-company-to-pause-ads-across-social-media-platforms.html)
-* [Ask HN: Is Edge any better or worse than Chrome on privacy?](https://news.ycombinator.com/item?id=23668626)
+* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [On COBOL](https://www.oreilly.com/radar/on-cobol/)
+* [Chromium and Mozilla to enforce 1 year validity for TLS certificates](https://chromium.googlesource.com/chromium/src/+/ae4d6809912f8171b23f6aa43c6a4e8e627de784)
 ## nytimes.com
 
 
@@ -57,6 +57,7 @@ layout: default
 * [Mississippi Lawmakers Push Ahead With Proposal to Take Down State Flag](https://www.nytimes.com/2020/06/27/us/mississippi-flag-confederate-legislature.html)
 * [How the Trump Campaign Is Drawing Obama Out of Retirement](https://www.nytimes.com/2020/06/28/us/politics/obama-biden-trump.html)
 * [Trump Retweets Racist Video Showing Supporter Yelling ‘White Power’](https://www.nytimes.com/2020/06/28/us/politics/trump-white-power-video-racism.html)
+* [In ‘And She Could Be Next,’ Women of Color Take on Politics](https://www.nytimes.com/2020/06/28/arts/television/and-she-could-be-next-pbs.html)
 * [N.Y.C. Pride: How the Virus and Protests Changed a 50-Year Celebration](https://www.nytimes.com/2020/06/28/nyregion/nyc-pride-events-2020.html)
 * [‘A True Disappointment’: When Your First Pride March Is Canceled](https://www.nytimes.com/2020/06/27/us/pride-parade-canceled-nyc-san-francisco.html)
 * [Taiwan Celebrates Pride With a Public Parade](https://www.nytimes.com/2020/06/28/world/asia/taiwan-pride-parade.html)
@@ -80,8 +81,8 @@ layout: default
 * [It’s a Wonderful Time to Be Leslie Jordan](https://www.nytimes.com/2020/06/23/style/leslie-jordan-instagram.html)
 * [Chesapeake Energy, a Shale Pioneer, Files for Bankruptcy Protection](https://www.nytimes.com/2020/06/28/business/economy/chesapeake-energy-bankruptcy.html)
 * [Boeing 737 Max Test Flights to Begin](https://www.nytimes.com/2020/06/28/business/boeing-737-max-faa.html)
+* [Museum of the City of New York: Reduced but Reopening](https://www.nytimes.com/2020/06/28/arts/museum-of-the-city-of-new-york-reduced-but-reopening.html)
 * [Linda Cristal, Who Starred in ‘High Chaparral,’ Dies at 89](https://www.nytimes.com/2020/06/28/obituaries/linda-cristal-dead.html)
-* [Starbucks Barista Gets $65,000 in Donations After Customer’s Mask Complaint](https://www.nytimes.com/2020/06/27/business/starbucks-barista-mask-gofundme.html)
 * [Princeton Will Remove Woodrow Wilson’s Name From School](https://www.nytimes.com/2020/06/27/nyregion/princeton-university-woodrow-wilson.html)
 * [Poland Election Tests Democracy in a Pandemic](https://www.nytimes.com/2020/06/28/world/europe/poland-election-coronavirus.html)
 * [Majestic Icon or Invasive Pest? A War Over Australia’s Wild Horses](https://www.nytimes.com/2020/06/28/world/australia/brumbies-horses-culling.html)
@@ -98,18 +99,18 @@ layout: default
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
-* [Trump Faces Mounting Defections From a Once-Loyal Group: Older White Voters](https://www.nytimes.com/2020/06/28/us/politics/trump-approval-older-voters-coronavirus.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Starbucks Barista Gets $65,000 in Donations After Customer’s Mask Complaint](https://www.nytimes.com/2020/06/27/business/starbucks-barista-mask-gofundme.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Presidente ultraconservador enfrentará segundo turno na Polônia, indica boca de urna](https://oglobo.globo.com/mundo/presidente-ultraconservador-enfrentara-segundo-turno-na-polonia-indica-boca-de-urna-24504323)
 * [Pepsi suspende anúncios no Facebook e amplia
 campanha contra discurso de ódio](https://oglobo.globo.com/economia/pepsi-suspende-anuncios-no-facebook-ampliacampanha-contra-discurso-de-odio-24504354)
+* [Presidente ultraconservador enfrentará segundo turno na Polônia, indica boca de urna](https://oglobo.globo.com/mundo/presidente-ultraconservador-enfrentara-segundo-turno-na-polonia-indica-boca-de-urna-24504323)
 * [Partido de Macron sofre revés no segundo turno das eleições municipais](https://oglobo.globo.com/mundo/partido-de-macron-sofre-reves-no-segundo-turno-das-eleicoes-municipais-24504382)
 * [Mundo passa das 500 mil mortes pelo novo coronavírus](https://oglobo.globo.com/mundo/mundo-passa-das-500-mil-mortes-pelo-novo-coronavirus-24498402)
 * [Vasco vence o Macaé com show de Cano e ainda sonha com classificação](https://oglobo.globo.com/esportes/vasco-vence-macae-com-show-de-cano-ainda-sonha-com-classificacao-24504391)

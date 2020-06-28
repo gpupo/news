@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 19:11:39 UTC
+# indexed at 28/06/2020 19:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Was Acorn's RISC OS an under-appreciated pearl of OS design?](https://liam-on-linux.livejournal.com/72192.html)
-* [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [Show HN: Hacker News front page in the style of a print newspaper](https://www.wolfgangfaust.com/project/paper-hn/)
 * [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
+* [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
-* [NYU professor: “reckoning is overdue” for universities; many “will not” survive](https://www.profgalloway.com/higher-ed-enough-already)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
-* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
-* [Losing the Narrative: The Genre Fiction of the Professional Class](https://americanaffairsjournal.org/2020/05/losing-the-narrative-the-genre-fiction-of-the-professional-class/)
+* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 * [Kudzu, the vine that never truly ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [Cheddar empire: Rise of a cheese superpower](https://www.cnn.com/travel/article/cheddar-cheese-history/index.html)
-* [ELF: Better Symbol Lookup via Dt_gnu_hash](https://flapenguin.me/elf-dt-gnu-hash)
 * [Mysterious meme gets Tech Twitter to clamor for invite to app that doesn't exist](https://www.businessinsider.com/it-is-what-it-is-eyemoutheye-emoji-mystery-app-twitter-2020-6)
-* [The World Doesn’t Need a New Gigantic Particle Collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider)
-* [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
-* [Ask HN: Git alternatives that aren't so complicated?](https://news.ycombinator.com/item?id=23670757)
-* [Comedy of Heirs: Catching a glimpse of heaven in the confines of Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
-* [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
 * [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
+* [ELF: Better Symbol Lookup via Dt_gnu_hash (2017)](https://flapenguin.me/elf-dt-gnu-hash)
 * [On COBOL](https://www.oreilly.com/radar/on-cobol/)
+* [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
+* [Comedy of Heirs: Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
+* [Viewpoint: 'I feel like I was accidentally hired'](https://www.bbc.co.uk/news/technology-53180073)
+* [The World Doesn’t Need a New Gigantic Particle Collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider)
 * [Chromium and Mozilla to enforce 1 year validity for TLS certificates](https://chromium.googlesource.com/chromium/src/+/ae4d6809912f8171b23f6aa43c6a4e8e627de784)
-* [Crispr gene editing in human embryos wreaks chromosomal mayhem](https://www.nature.com/articles/d41586-020-01906-4)
 * [Ask HN: Is Edge any better or worse than Chrome on privacy?](https://news.ycombinator.com/item?id=23668626)
+* [Higher Ed: Enough Already](https://www.profgalloway.com/higher-ed-enough-already)
+* [Crispr gene editing in human embryos wreaks chromosomal mayhem](https://www.nature.com/articles/d41586-020-01906-4)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
-* [Wirecard is 'beyond salvageable,' according to analyst](https://www.businessinsider.com/wirecard-is-beyond-salvagable-analyst-says-and-rivals-may-benefit-2020-6)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
+* [Wirecard is 'beyond salvageable,' according to analyst](https://www.businessinsider.com/wirecard-is-beyond-salvagable-analyst-says-and-rivals-may-benefit-2020-6)
+* [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [Activists Push for Removal of Statue of Freed Slave Kneeling Before Lincoln](https://www.nytimes.com/2020/06/27/us/politics/lincoln-slave-statue-emancipation.html)
 * [Mississippi Lawmakers Push Ahead With Proposal to Take Down State Flag](https://www.nytimes.com/2020/06/27/us/mississippi-flag-confederate-legislature.html)
 * [How Michael Flynn’s Defense Team Found Powerful Allies](https://www.nytimes.com/2020/06/28/us/politics/michael-flynn-sidney-powell.html)
+* [Russia Secretly Offered Afghan Militants Bounties to Kill U.S. Troops, Intelligence Says](https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html)
 * [Trump Faces Mounting Defections From a Once-Loyal Group: Older White Voters](https://www.nytimes.com/2020/06/28/us/politics/trump-approval-older-voters-coronavirus.html)
 * [Trump Retweets Racist Video Showing Supporter Yelling ‘White Power’](https://www.nytimes.com/2020/06/28/us/politics/trump-white-power-video-racism.html)
 * [Black Trans Women Seek More Space in the Movement They Helped Start](https://www.nytimes.com/2020/06/27/us/politics/black-trans-lives-matter.html)
@@ -85,19 +86,19 @@ layout: default
 * [Majestic Icon or Invasive Pest? A War Over Australia’s Wild Horses](https://www.nytimes.com/2020/06/28/world/australia/brumbies-horses-culling.html)
 * [Behind Wirecard's Collapse: Allegations of Lies, Spies and Missing Billions](https://www.nytimes.com/2020/06/26/business/wirecard-collapse-markus-braun.html)
 * [Charles Webb, Elusive Author of ‘The Graduate,’ Dies at 81](https://www.nytimes.com/2020/06/28/books/charles-webb-dead.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [From the Start, There Were Ground Rules](https://www.nytimes.com/2020/06/26/fashion/weddings/from-the-start-there-were-ground-rules.html)
 * [How a Streetwear Designer Spends His Sundays](https://www.nytimes.com/2020/06/26/nyregion/coronavirus-sprayground-david-ben-david.html)
 * [For Small Businesses, It’s All About the Pivot](https://www.nytimes.com/2020/06/26/business/small-business-coronavirus-survival.html)
 * [Review: A Killer, a Writer, and the Questions Both Left Behind](https://www.nytimes.com/2020/06/25/arts/television/ill-be-gone-in-the-dark-review-michelle-mcnamara.html)
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
-* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
+* [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -105,6 +106,7 @@ layout: default
 ## globo.com
 
 
+* ['Os Simpsons': atores brancos não irão mais dublar personagens de outras etnias](https://oglobo.globo.com/cultura/os-simpsons-atores-brancos-nao-irao-mais-dublar-personagens-de-outras-etnias-24504306)
 * [Antes de jogo com o Fluminense, três jogadores do Volta Redonda testam positivo](https://oglobo.globo.com/esportes/antes-de-jogo-com-fluminense-tres-jogadores-do-volta-redonda-testam-positivo-24504271)
 * [Em protesto por mortos de Covid-19, manifestantes colocam cruzes na Esplanada](https://oglobo.globo.com/brasil/em-protesto-por-mortos-de-covid-19-manifestantes-colocam-cruzes-na-esplanada-1-24504251)
 * [Volta do futebol com público no dia 10 de julho ainda depende de ajustes](https://oglobo.globo.com/esportes/volta-do-futebol-com-publico-no-dia-10-de-julho-ainda-depende-de-ajustes-24504220)
@@ -112,6 +114,5 @@ layout: default
 * [Orgulho no trabalho: entenda o que foi Stonewall e seu impacto na inclusão de profissionais LGBTQ+](https://oglobo.globo.com/economia/celina/orgulho-no-trabalho-entenda-que-foi-stonewall-seu-impacto-na-inclusao-de-profissionais-lgbtq-24504181)
 * [Rio ganha hotel social com 50 vagas para população LGBTI+](https://oglobo.globo.com/rio/rio-ganha-hotel-social-com-50-vagas-para-populacao-lgbti-24504201)
 * [Trump compartilha e depois excluiu vídeo de apoiador gritando 'poder branco'](https://oglobo.globo.com/mundo/trump-compartilha-depois-excluiu-video-de-apoiador-gritando-poder-branco-24504176)
-* [Vigilância Sanitária aplica 58 multas em dia de retomada do comércio de rua no Rio](https://oglobo.globo.com/rio/vigilanciasanitaria-aplica-58-multas-em-dia-de-retomada-do-comercio-de-rua-no-rio-24504172)
 * [Chefs famosos do Rio, como os astros de Mestres do Sabor, se reinventam com delivery chique](https://oglobo.globo.com/economia/chefs-famosos-do-rio-como-os-astros-de-mestres-do-sabor-se-reinventam-com-delivery-chique-24504145)
 * [Filme conta deportação de crianças cubanas pelos EUA na Guerra Fria](https://epoca.globo.com/guilherme-amado/filme-conta-deportacao-de-criancas-cubanas-pelos-eua-na-guerra-fria-24503049)

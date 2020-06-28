@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 14:34:22 UTC
+# indexed at 28/06/2020 15:10:10 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
-* [We need to overturn calorie counting as nutritional advice](https://www.bmj.com/content/369/bmj.m2470)
+* [Speeding up function calls with just one line in Python](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
 * [Ask HN: Is Edge any better or worse than Chrome on privacy?](https://news.ycombinator.com/item?id=23668626)
+* [The World Doesn’t Need a New Gigantic Particle Collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider)
+* [Comedy of Heirs: Catching a glimpse of heaven in the confines of Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
 * [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
-* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
-* [The CDC lost control of the coronavirus pandemic, then the agency disappeared](https://www.buzzfeednews.com/article/danvergano/cdc-coronavirus-containment-redfield)
+* [Ask HN: Most life changing things that you bought?](https://news.ycombinator.com/item?id=23668881)
 * [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
 * [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
 * [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
-* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
-* [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
-* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
-* [Show HN: GIF Directions](https://gif.direct)
+* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 * [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
+* [Wirecard is 'beyond salvageable,' according to analyst](https://www.businessinsider.com/wirecard-is-beyond-salvagable-analyst-says-and-rivals-may-benefit-2020-6)
+* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
+* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
+* [Show HN: GIF Directions](https://gif.direct)
+* [The Internet is too unsafe: We need more hackers](https://medium.com/@yakko.majuri/the-internet-is-too-unsafe-we-need-more-hackers-c9742fc1a03b)
+* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [Challenges and opportunities for better nutrition science](https://www.bmj.com/content/369/bmj.m2470)
+* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
 * [A primer on the cruel, tacit laws of type-level programming in Haskell](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
-* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
+* [Wanted: Console Text Editor for Windows](https://virtuallyfun.com/wordpress/2018/02/15/wanted-console-text-editor-for-windows/)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
-* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
-* [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
-* [The Internet is too unsafe: We need more hackers](https://medium.com/@yakko.majuri/the-internet-is-too-unsafe-we-need-more-hackers-c9742fc1a03b)
-* [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
-* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
-* [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
-* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
 ## nytimes.com
 
 
@@ -93,23 +93,24 @@ layout: default
 * [For Small Businesses, It’s All About the Pivot](https://www.nytimes.com/2020/06/26/business/small-business-coronavirus-survival.html)
 * [Review: A Killer, a Writer, and the Questions Both Left Behind](https://www.nytimes.com/2020/06/25/arts/television/ill-be-gone-in-the-dark-review-michelle-mcnamara.html)
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
-* [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
 * [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Hickenlooper's Stumbles Complicate Democrats' 2020 Strategy](https://www.nytimes.com/2020/06/27/us/hickenlooper-colorado-romanoff-gardner.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Domingo de aglomeração no calçadão e nas areias das praias do Rio](https://oglobo.globo.com/rio/domingo-de-aglomeracao-no-calcadao-nas-areias-das-praias-do-rio-24504113)
+* [Aras diz que Lava Jato não é 'órgão autônomo' e critica possibilidade de virar 'instrumento de aparelhamento'](https://oglobo.globo.com/brasil/aras-diz-que-lava-jato-nao-orgao-autonomo-critica-possibilidade-de-virar-instrumento-de-aparelhamento-1-24504098)
+* [Possibilidade de manter home office após a pandemia valoriza imóveis fora dos grandes centros](https://oglobo.globo.com/economia/possibilidade-de-manter-home-office-apos-pandemia-valoriza-imoveis-fora-dos-grandes-centros-24504116)
+* [Trump nega ter sido informado sobre recompensas russas a talibãs](https://oglobo.globo.com/mundo/trump-nega-ter-sido-informado-sobre-recompensas-russas-talibas-24504111)
 * [China isola meio milhão de pessoas perto de Pequim por causa de coronavírus](https://oglobo.globo.com/mundo/china-isola-meio-milhao-de-pessoas-perto-de-pequim-por-causa-de-coronavirus-24504099)
-* [Chacina deixa quatro mortos e 8 feridos em festa junina na Zona Norte](https://oglobo.globo.com/rio/chacina-deixa-quatro-mortos-8-feridos-em-festa-junina-na-zona-norte-24504054)
-* [Quentinha chique vira novo negócio na alta gastronomia do Rio durante a quarentena](https://oglobo.globo.com/economia/quentinha-chique-vira-novo-negocio-na-alta-gastronomia-do-rio-durante-quarentena-1-24503823)
-* [Aras diz que Lava Jato não é “órgão autônomo” e critica possibilidade de virar “instrumento de aparelhamento”](https://oglobo.globo.com/brasil/aras-diz-que-lava-jato-nao-orgao-autonomo-critica-possibilidade-de-virar-instrumento-de-aparelhamento-24504098)
 * ['Quero tentar de novo', diz Zezé Motta sobre casamento](https://oglobo.globo.com/ela/gente/quero-tentar-de-novo-diz-zeze-motta-sobre-casamento-24504069)
 * [Rolling Stones ameaçam processar Trump por uso de canções em campanha](https://oglobo.globo.com/mundo/rolling-stones-ameacam-processar-trump-por-uso-de-cancoes-em-campanha-1-24504074)
 * [Bastidores de clipe para aniversário de Gilberto Gil teve Ben Jor em hotel e edição às pressas por Stevie Wonder](https://oglobo.globo.com/cultura/bastidores-de-clipe-para-aniversario-de-gilberto-gil-teve-ben-jor-em-hotel-edicao-as-pressas-por-stevie-wonder-24504073)
 * [Quatro homens serão processados por tentarem derrubar estátua nos EUA](https://oglobo.globo.com/mundo/quatro-homens-serao-processados-por-tentarem-derrubar-estatua-nos-eua-24504068)
-* [Saiba os motivos que fizeram Roberto Carlos recusar gravar algumas das canções mais populares da MPB](https://oglobo.globo.com/cultura/musica/saiba-os-motivos-que-fizeram-roberto-carlos-recusar-gravar-algumas-das-cancoes-mais-populares-da-mpb-24504064)
-* [Artigo | Vídeos de Mônica Salmaso melhoram a vida em meio à pandemia](https://epoca.globo.com/sociedade/artigo-videos-de-monica-salmaso-melhoram-vida-em-meio-pandemia-24502042)
+* [Só em 2020, deputados já gastaram R$ 8 milhões com consultorias que poderiam ser feitas pela Câmara](https://epoca.globo.com/guilherme-amado/so-em-2020-deputados-ja-gastaram-8-milhoes-com-consultorias-que-poderiam-ser-feitas-pela-camara-1-24502072)

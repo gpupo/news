@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 12:13:10 UTC
+# indexed at 28/06/2020 12:34:18 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
 * [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
-* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [The CDC Lost Control of the Coronavirus Pandemic. Then the Agency Disappeared](https://www.buzzfeednews.com/article/danvergano/cdc-coronavirus-containment-redfield)
+* [How does SQLite work? Part 2: btrees](https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/)
+* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
 * [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
 * [Kindness for Mean Girls](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
 * [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
-* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
+* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
 * [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
-* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Show HN: GIF Directions](https://gif.direct)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [WebTransport API](https://wicg.github.io/web-transport/)
 * [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
+* [New Jersey Blames Lost Voter Registrations on “Computer Glitch”](https://newjerseyglobe.com/campaigns/new-computer-glitch-may-have-lost-new-voter-registrations/)
 * [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
-* [Using Zig to provide stack traces on kernel panic on bare metal (2018)](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
+* [Using Zig to provide stack traces on kernel panic on bare metal (2018)](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
 * [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
-* [New Jersey Blames Lost Voter Registrations on “Computer Glitch”](https://newjerseyglobe.com/campaigns/new-computer-glitch-may-have-lost-new-voter-registrations/)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
 * [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
-* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 ## nytimes.com
 
 
@@ -93,10 +93,10 @@ layout: default
 * [For Small Businesses, It’s All About the Pivot](https://www.nytimes.com/2020/06/26/business/small-business-coronavirus-survival.html)
 * [Review: A Killer, a Writer, and the Questions Both Left Behind](https://www.nytimes.com/2020/06/25/arts/television/ill-be-gone-in-the-dark-review-michelle-mcnamara.html)
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
-* [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

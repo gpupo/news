@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 05:34:23 UTC
+# indexed at 28/06/2020 06:11:09 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
 * [WebTransport API](https://wicg.github.io/web-transport/)
-* [Show HN: GIF Directions](https://gif.direct)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
+* [Show HN: GIF Directions](https://gif.direct)
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
-* [Apple Suddenly Catches TikTok Secretly Spying on Millions of iPhone Users](https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
 * [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
 * [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [Using Zig to provide stack traces on kernel panic on bare metal](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
-* [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
-* [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
-* [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
-* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
-* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
-* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
-* [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
-* [Progress Studies School](https://progressstudies.school/)
-* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
-* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
-* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
+* [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
+* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
+* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
+* [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
+* [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
+* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
+* [Progress Studies School](https://progressstudies.school/)
+* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 * [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
+* [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 ## nytimes.com
 
 
@@ -80,18 +80,18 @@ layout: default
 * [The First Pick in the N.H.L. Draft Goes to … TBD](https://www.nytimes.com/2020/06/27/sports/hockey/nhl-draft-lottery-alexis-lafreniere.html)
 * [Poland’s Virus-Delayed Presidential Election Suddenly Looks Tight](https://www.nytimes.com/2020/06/27/world/europe/poland-election-.html)
 * [N.W.S.L. Players Kneel for Anthem as League Returns to Field](https://www.nytimes.com/2020/06/26/sports/soccer/nwsl-anthem-protest-kaiya-mccullough.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [The Old World Turns to a New World Spirit: Rye](https://www.nytimes.com/2020/06/26/dining/drinks/european-rye-whiskey.html)
 * [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [Psychological Thrillers That Will Mess With Your Head](https://www.nytimes.com/2020/06/26/books/review/psychological-thrillers-new-this-little-family-the-patient.html)
 * [A Fashion Designer’s Reimagining of a Quinoa Bowl](https://www.nytimes.com/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
-* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
-* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [This One-Pan Meal Shows Just How Joyful Tofu Can Be](https://www.nytimes.com/2020/06/26/dining/tofu-recipe.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -99,8 +99,8 @@ layout: default
 ## globo.com
 
 
-* [Decotelli, novo ministro da Educação, admite rever dissertação de mestrado após acusação de plágio](https://epoca.globo.com/decotelli-novo-ministro-da-educacao-admite-rever-dissertacao-de-mestrado-apos-acusacao-de-plagio-24503894)
 * [Apoio da população brasileira à democracia bate recorde e soma 75%, aponta Datafolha](https://oglobo.globo.com/brasil/apoio-da-populacao-brasileira-democracia-bate-recorde-soma-75-aponta-datafolha-1-24503938)
+* [Decotelli, novo ministro da Educação, admite rever dissertação de mestrado após acusação de plágio](https://epoca.globo.com/decotelli-novo-ministro-da-educacao-admite-rever-dissertacao-de-mestrado-apos-acusacao-de-plagio-24503894)
 * [Um hospital e dois carros de polícia são vandalizados no México devido a falsos boatos sobre coronavírus](https://oglobo.globo.com/mundo/um-hospital-dois-carros-de-policia-sao-vandalizados-no-mexico-devido-falsos-boatos-sobre-coronavirus-24503875)
 * [Mario Frias defende experiência em 'Malhação' e Lei Rouanet em primeira entrevista como secretário](https://oglobo.globo.com/cultura/mario-frias-defende-experiencia-em-malhacao-lei-rouanet-em-primeira-entrevista-como-secretario-24503756)
 * [Mega-Sena acumula e próximo sorteio pode pagar até R$ 23 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-ate-23-milhoes-24503931)

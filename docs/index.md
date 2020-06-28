@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 11:09:26 UTC
+# indexed at 28/06/2020 11:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -11,20 +11,18 @@ layout: default
 * [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
 * [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
-* [Our AWS bill is less than 2% of revenue. Here's how we did it](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
+* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
-* [Kindness for Mean Girls](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
+* [Kindness for Mean Girls](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
 * [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
-* [WebTransport API](https://wicg.github.io/web-transport/)
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
-* [Twister OS for Raspberry Pi 4](https://raspberrypiprojects.com/twister-os-raspberry-pi-4-get-that-osx-and-windows-10-look/)
-* [Bypass Paywalls Clean for Chrome/Firefox](https://bitbucket.org/magnolia1234)
+* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
-* [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
-* [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
 * [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
+* [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
 * [Show HN: GIF Directions](https://gif.direct)
+* [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
 * [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
@@ -35,9 +33,11 @@ layout: default
 * [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 * [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
 * [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
-* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
 ## nytimes.com
 
 
@@ -86,8 +86,8 @@ layout: default
 * [Real Estate Agents Return to Work as City Reopens](https://www.nytimes.com/2020/06/24/realestate/phase-2-showings.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [From the Start, There Were Ground Rules](https://www.nytimes.com/2020/06/26/fashion/weddings/from-the-start-there-were-ground-rules.html)
 * [How a Streetwear Designer Spends His Sundays](https://www.nytimes.com/2020/06/26/nyregion/coronavirus-sprayground-david-ben-david.html)
 * [For Small Businesses, It’s All About the Pivot](https://www.nytimes.com/2020/06/26/business/small-business-coronavirus-survival.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Brasil tem 1.319.274 casos e 57.149 mortes de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1319274-casos-57149-mortes-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24504026)
+* [Príncipe Harry está sobrecarregado de culpa por estar no exterior durante a pandemia, diz livro](https://oglobo.globo.com/ela/gente/principe-harry-esta-sobrecarregado-de-culpa-por-estar-no-exterior-durante-pandemia-diz-livro-24504024)
 * ['A Funai não tem o direito de leiloar as minhas fotos', afirma Sebastião Salgado](https://oglobo.globo.com/brasil/a-funai-nao-tem-direito-de-leiloar-as-minhas-fotos-afirma-sebastiao-salgado-24504019)
 * [Mortes pela polícia crescem 26% no país durante pandemia de coronavírus](https://oglobo.globo.com/brasil/mortes-pela-policia-crescem-26-no-pais-durante-pandemia-de-coronavirus-24504014)
 * [Taxa de ocupação em voos retroage a patamar de 2012 no Brasil](https://epoca.globo.com/guilherme-amado/taxa-de-ocupacao-em-voos-retroage-patamar-de-2012-no-brasil-24502783)
 * [Como Klopp se reinventou para acabar com jejum de títulos ingleses do Liverpool](https://oglobo.globo.com/esportes/como-klopp-se-reinventou-para-acabar-com-jejum-de-titulos-ingleses-do-liverpool-24503720)
 * [Em depoimento, Lazaroni lembra derrota na Copa-1990: 'Carreguei um fardo muito pesado'](https://oglobo.globo.com/esportes/em-depoimento-lazaroni-lembra-derrota-na-copa-1990-carreguei-um-fardo-muito-pesado-24503835)
-* [Encolheram os produtos? Embalagens ficam menores, mas preço não cai](https://oglobo.globo.com/economia/defesa-do-consumidor/encolheram-os-produtos-embalagens-ficam-menores-mas-preco-nao-cai-24503822)
 * [Governo bancou integrante do grupo de extremistas de Sara Geromini](https://epoca.globo.com/guilherme-amado/governo-bancou-integrante-do-grupo-de-extremistas-de-sara-geromini-24502695)
 * [MPSC fiscaliza Beto Carrero duas vezes após reabertura e não constata irregularidades](https://epoca.globo.com/brasil/mpsc-fiscaliza-beto-carrero-duas-vezes-apos-reabertura-nao-constata-irregularidades-24501761)
 * [Número de mecenas de projetos por Lei Rouanet pode ser o pior em 15 anos](https://epoca.globo.com/guilherme-amado/numero-de-mecenas-de-projetos-por-lei-rouanet-pode-ser-pior-em-15-anos-1-24502055)
-* [Resistência: a primeira indígena no doutorado da UFF](https://oglobo.globo.com/rio/bairros/resistencia-primeira-indigena-no-doutorado-da-uff-24501204)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 00:38:43 UTC
+# indexed at 28/06/2020 01:10:59 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
-* [The Great Pause Was an Economic Revolution](https://foreignpolicy.com/2020/06/22/the-great-pause-was-an-economic-revolution%e2%80%a8/)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
 * [Progress Studies School](https://progressstudies.school/)
+* [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
 * [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
-* [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
 * [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
-* [Volley (YC W18) is hiring a head of engineering to build voice-controlled games](https://jobs.lever.co/volleythat/e363e2bf-472f-4738-beb9-d047b71d1151)
+* [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
 * [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [Using Zig to provide stack traces on kernel panic on bare metal](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
+* [Deep Learning – The “Why” Question](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
+* [Volley (YC W18) is hiring a head of engineering to build voice-controlled games](https://jobs.lever.co/volleythat/e363e2bf-472f-4738-beb9-d047b71d1151)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
 * [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
-* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
-* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [2010 SoftBank 30 year vision document: its a wilde ride [pdf]](https://group.softbank/system/files/pdf/philosophy/vision/next30/press_20100625_01_en.pdf)
+* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
-* [Take control over your feeds to regain mindfulness](https://solmaz.io/thoughts/digital-hygiene-feeds/)
+* [The Great Pause Was an Economic Revolution](https://foreignpolicy.com/2020/06/22/the-great-pause-was-an-economic-revolution%e2%80%a8/)
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
+* [Take control over your feeds to regain mindfulness](https://solmaz.io/thoughts/digital-hygiene-feeds/)
 * [Seeing Theory (2017)](https://seeing-theory.brown.edu/)
-* [MathDeck: A math-aware search interface](https://mathdeck.cs.rit.edu/)
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
 ## nytimes.com
 
 
@@ -81,16 +81,16 @@ layout: default
 * [The First Pick in the N.H.L. Draft Goes to … TBD](https://www.nytimes.com/2020/06/27/sports/hockey/nhl-draft-lottery-alexis-lafreniere.html)
 * [Poland’s Virus-Delayed Presidential Election Suddenly Looks Tight](https://www.nytimes.com/2020/06/27/world/europe/poland-election-.html)
 * [N.W.S.L. Players Kneel for Anthem as League Returns to Field](https://www.nytimes.com/2020/06/26/sports/soccer/nwsl-anthem-protest-kaiya-mccullough.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [The Old World Turns to a New World Spirit: Rye](https://www.nytimes.com/2020/06/26/dining/drinks/european-rye-whiskey.html)
 * [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [Psychological Thrillers That Will Mess With Your Head](https://www.nytimes.com/2020/06/26/books/review/psychological-thrillers-new-this-little-family-the-patient.html)
 * [A Fashion Designer’s Reimagining of a Quinoa Bowl](https://www.nytimes.com/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Decotelli, novo ministro da Educação, admite rever dissertação de mestrado após acusação de plágio](https://epoca.globo.com/decotelli-novo-ministro-da-educacao-admite-rever-dissertacao-de-mestrado-apos-acusacao-de-plagio-24503894)
+* [Apoio da população à democracia bate recorde, diz Datafolha](https://oglobo.globo.com/brasil/apoio-da-populacao-democracia-bate-recorde-diz-datafolha-24503938)
+* [Prefeitura do Rio prevê volta do público aos jogos a partir de 10 de julho](https://oglobo.globo.com/esportes/prefeitura-do-rio-preve-volta-do-publico-aos-jogos-partir-de-10-de-julho-24503792)
 * [Um hospital e dois carros de polícia são vandalizados no México devido a falsos boatos sobre coronavírus](https://oglobo.globo.com/mundo/um-hospital-dois-carros-de-policia-sao-vandalizados-no-mexico-devido-falsos-boatos-sobre-coronavirus-24503875)
+* [Mario Frias defende experiência em 'Malhação' e Lei Rouanet em primeira entrevista como secretário](https://oglobo.globo.com/cultura/mario-frias-defende-experiencia-em-malhacao-lei-rouanet-em-primeira-entrevista-como-secretario-24503756)
+* [Mega-Sena acumula e próximo sorteio pode pagar até R$ 23 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-ate-23-milhoes-24503931)
+* [Decotelli, novo ministro da Educação, admite rever dissertação de mestrado após acusação de plágio](https://epoca.globo.com/decotelli-novo-ministro-da-educacao-admite-rever-dissertacao-de-mestrado-apos-acusacao-de-plagio-24503894)
+* [Crivella é desmentido após afirmar que cartão cesta básica foi proibido pelo MP porque muitos estariam usando-o 'para comprar cachaça e cigarro'](https://oglobo.globo.com/rio/crivella-desmentido-apos-afirmar-que-cartao-cesta-basica-foi-proibido-pelo-mp-porque-muitos-estariam-usando-para-comprar-cachaca-cigarro-24503774)
 * [Após acordo de leniência na Lava-Jato, Petrobras recupera mais R$ 265 milhões](https://oglobo.globo.com/brasil/apos-acordo-de-leniencia-na-lava-jato-petrobras-recupera-mais-265-milhoes-1-24503858)
 * [Estados americanos voltam atrás sobre reabertura após aumento de casos de coronavírus](https://epoca.globo.com/estados-americanos-voltam-atras-sobre-reabertura-apos-aumento-de-casos-de-coronavirus-1-24503793)
-* [Com comércio aberto, isolamento social cai no Rio e chega a 39% neste sábado](https://oglobo.globo.com/rio/com-comercio-aberto-isolamento-social-cai-no-rio-chega-39-neste-sabado-24503662)
 * [EUA superam 2,5 milhões de casos de Covid-19, segundo Johns Hopkins](https://oglobo.globo.com/mundo/eua-superam-25-milhoes-de-casos-de-covid-19-segundo-johns-hopkins-24503772)
-* [Crivella é desmentido após afirmar que cartão cesta básica foi proibido pelo MP porque muitos estariam usando-o 'para comprar cachaça e cigarro'](https://oglobo.globo.com/rio/crivella-desmentido-apos-afirmar-que-cartao-cesta-basica-foi-proibido-pelo-mp-porque-muitos-estariam-usando-para-comprar-cachaca-cigarro-24503774)
-* [Prefeitura do Rio prevê volta do público aos jogos a partir de 10 de julho](https://oglobo.globo.com/esportes/prefeitura-do-rio-preve-volta-do-publico-aos-jogos-partir-de-10-de-julho-24503792)
-* [Brasil tem 1.315.941 casos e 57.103 mortes de Covid-19, aponta consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-1315941-casos-57103-mortes-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24503779)
-* [Rio tem 202 mortes por coronavírus em 24 horas e soma mais de 108 mil casos desde o início da pandemia](https://oglobo.globo.com/rio/rio-tem-202-mortes-por-coronavirus-em-24-horas-soma-mais-de-108-mil-casos-desde-inicio-da-pandemia-1-24503693)

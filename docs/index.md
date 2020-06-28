@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 09:10:22 UTC
+# indexed at 28/06/2020 09:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
 * [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
 * [WebTransport API](https://wicg.github.io/web-transport/)
-* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
+* [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
 * [Show HN: GIF Directions](https://gif.direct)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
-* [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
-* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
-* [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
+* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
+* [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
+* [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
 * [Using Zig to provide stack traces on kernel panic on bare metal](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
 * [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
-* [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
 * [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
-* [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
 * [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
+* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
 * [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
-* [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
+* [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
 ## nytimes.com
 
 
@@ -89,10 +89,10 @@ layout: default
 * [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [Psychological Thrillers That Will Mess With Your Head](https://www.nytimes.com/2020/06/26/books/review/psychological-thrillers-new-this-little-family-the-patient.html)
 * [A Fashion Designer’s Reimagining of a Quinoa Bowl](https://www.nytimes.com/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
-* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
+* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

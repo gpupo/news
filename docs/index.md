@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 16:34:35 UTC
+# indexed at 28/06/2020 17:09:58 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
-* [Chromium and Mozilla to enforce 1yr validity for TLS certificates](https://chromium.googlesource.com/chromium/src/+/ae4d6809912f8171b23f6aa43c6a4e8e627de784)
-* [Speeding up function calls with just one line in Python](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
 * [Was Acorn's RISC OS an under-appreciated pearl of OS design?](https://liam-on-linux.livejournal.com/72192.html)
+* [Speeding up function calls with just one line in Python](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
 * [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
-* [Viewpoint: 'I feel like I was accidentally hired'](https://www.bbc.co.uk/news/technology-53180073)
+* [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
+* [Chromium and Mozilla to enforce 1yr validity for TLS certificates](https://chromium.googlesource.com/chromium/src/+/ae4d6809912f8171b23f6aa43c6a4e8e627de784)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
 * [The World Doesn’t Need a New Gigantic Particle Collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider)
-* [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
-* [Ask HN: Is Edge any better or worse than Chrome on privacy?](https://news.ycombinator.com/item?id=23668626)
-* [Comedy of Heirs: Catching a glimpse of heaven in the confines of Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
-* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
+* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
+* [Ask HN: Is Edge any better or worse than Chrome on privacy?](https://news.ycombinator.com/item?id=23668626)
 * [The True Story of Kudzu: The Vine That Never Ate the South](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+* [Comedy of Heirs: Catching a glimpse of heaven in the confines of Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
 * [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
 * [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
 * [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
 * [Wanted: Console Text Editor for Windows](https://virtuallyfun.com/wordpress/2018/02/15/wanted-console-text-editor-for-windows/)
+* [Losing the Narrative: The Genre Fiction of the Professional Class](https://americanaffairsjournal.org/2020/05/losing-the-narrative-the-genre-fiction-of-the-professional-class/)
 * [Wirecard is 'beyond salvageable,' according to analyst](https://www.businessinsider.com/wirecard-is-beyond-salvagable-analyst-says-and-rivals-may-benefit-2020-6)
-* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
 * [WebTransport API](https://wicg.github.io/web-transport/)
 * [The Internet is too unsafe: We need more hackers](https://medium.com/@yakko.majuri/the-internet-is-too-unsafe-we-need-more-hackers-c9742fc1a03b)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
 * [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
-* [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
+* [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
 * [A primer on the cruel, tacit laws of type-level programming in Haskell](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
 ## nytimes.com
@@ -96,8 +96,8 @@ layout: default
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Trump compartilhou e excluiu o vídeo de apoiador gritando 'poder branco'](https://oglobo.globo.com/mundo/trump-compartilhou-excluiu-video-de-apoiador-gritando-poder-branco-24504176)
-* [Vigilância Sanitária aplica 58 multas em dia de retomada do comércio de rua no Rio](https://oglobo.globo.com/rio/vigilanciasanitaria-aplica-58-multas-em-dia-de-retomada-do-comercio-de-rua-no-rio-24504172)
 * [Boeing inicia nova bateria de testes para reabilitar o 737 Max após acidentes aéreos](https://oglobo.globo.com/economia/boeing-inicia-nova-bateria-de-testes-para-reabilitar-737-max-apos-acidentes-aereos-24504114)
+* [Trump compartilha e depois excluiu vídeo de apoiador gritando 'poder branco'](https://oglobo.globo.com/mundo/trump-compartilha-depois-excluiu-video-de-apoiador-gritando-poder-branco-24504176)
 * [Domingo de aglomeração no calçadão e nas areias das praias do Rio](https://oglobo.globo.com/rio/domingo-de-aglomeracao-no-calcadao-nas-areias-das-praias-do-rio-24504113)
 * [Botafogo goleia Cabofriense em jogo marcado por protestos contra racismo e volta do futebol](https://oglobo.globo.com/esportes/botafogo-goleia-cabofriense-em-jogo-marcado-por-protestos-contra-racismo-volta-do-futebol-24504132)
+* [Vigilância Sanitária aplica 58 multas em dia de retomada do comércio de rua no Rio](https://oglobo.globo.com/rio/vigilanciasanitaria-aplica-58-multas-em-dia-de-retomada-do-comercio-de-rua-no-rio-24504172)
 * [Maduro acusa opositor de tramar ação armada dentro da residência do embaixador da Espanha](https://oglobo.globo.com/mundo/maduro-acusa-opositor-de-tramar-acao-armada-dentro-da-residencia-do-embaixador-da-espanha-24504151)
 * [Brasil tem 57.174 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-57174-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24504121)
 * [Por que, mesmo mandante, Fluminense não jogará com a camisa tricolor na reestreia de Fred](https://oglobo.globo.com/esportes/por-que-mesmo-mandante-fluminense-nao-jogara-com-camisa-tricolor-na-reestreia-de-fred-24504143)
-* [Possibilidade de manter home office após a pandemia valoriza imóveis fora dos grandes centros](https://oglobo.globo.com/economia/possibilidade-de-manter-home-office-apos-pandemia-valoriza-imoveis-fora-dos-grandes-centros-1-24504116)
+* [Chefs famosos do Rio, como os astros de Mestres do Sabor, se reinventam com delivery chique](https://oglobo.globo.com/economia/chefs-famosos-do-rio-como-os-astros-de-mestres-do-sabor-se-reinventam-com-delivery-chique-24504145)
 * [Só em 2020, deputados já gastaram R$ 8 milhões com consultorias que poderiam ser feitas pela Câmara](https://epoca.globo.com/guilherme-amado/so-em-2020-deputados-ja-gastaram-8-milhoes-com-consultorias-que-poderiam-ser-feitas-pela-camara-1-24502072)

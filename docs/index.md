@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 04:11:04 UTC
+# indexed at 28/06/2020 04:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
+* [Show HN: GIF Directions](https://gif.direct)
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
+* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
-* [Show HN: GIF Directions](https://gif.direct)
+* [Apple Suddenly Catches TikTok Secretly Spying on Millions of iPhone Users](https://www.forbes.com/sites/zakdoffman/2020/06/26/warning-apple-suddenly-catches-tiktok-secretly-spying-on-millions-of-iphone-users/)
 * [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
-* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
 * [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
-* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
-* [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [Using Zig to provide stack traces on kernel panic on bare metal](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
+* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
+* [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
-* [Progress Studies School](https://progressstudies.school/)
 * [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
-* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
+* [Progress Studies School](https://progressstudies.school/)
 * [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
+* [Comedy of Heirs: Catching a glimpse of heaven in the confines of Tristram Shandy](https://www.bookforum.com/print/2702/catching-a-glimpse-of-heaven-in-the-confines-of-tristram-shandy-24029)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 * [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
-* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
 * [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
 * [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
-* [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
 * [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
-* [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 ## nytimes.com
 
 
@@ -80,18 +80,18 @@ layout: default
 * [The First Pick in the N.H.L. Draft Goes to … TBD](https://www.nytimes.com/2020/06/27/sports/hockey/nhl-draft-lottery-alexis-lafreniere.html)
 * [Poland’s Virus-Delayed Presidential Election Suddenly Looks Tight](https://www.nytimes.com/2020/06/27/world/europe/poland-election-.html)
 * [N.W.S.L. Players Kneel for Anthem as League Returns to Field](https://www.nytimes.com/2020/06/26/sports/soccer/nwsl-anthem-protest-kaiya-mccullough.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How Are My Kids Still Getting Sick In Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [The Old World Turns to a New World Spirit: Rye](https://www.nytimes.com/2020/06/26/dining/drinks/european-rye-whiskey.html)
 * [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [Psychological Thrillers That Will Mess With Your Head](https://www.nytimes.com/2020/06/26/books/review/psychological-thrillers-new-this-little-family-the-patient.html)
 * [A Fashion Designer’s Reimagining of a Quinoa Bowl](https://www.nytimes.com/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
-* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
-* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
+* [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
 * [This One-Pan Meal Shows Just How Joyful Tofu Can Be](https://www.nytimes.com/2020/06/26/dining/tofu-recipe.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

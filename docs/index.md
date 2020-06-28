@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 13:34:34 UTC
+# indexed at 28/06/2020 14:10:37 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 * [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
-* [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
-* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
+* [Ask HN: Is Edge any better or worse than Chrome on privacy?](https://news.ycombinator.com/item?id=23668626)
 * [The CDC lost control of the coronavirus pandemic, then the agency disappeared](https://www.buzzfeednews.com/article/danvergano/cdc-coronavirus-containment-redfield)
-* [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
-* [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
+* [How we got our AWS bill to around 2% of revenue](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
+* [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
 * [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
-* [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
+* [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
 * [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
 * [Alpha Waves was the first 3D platform game](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
+* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
 * [FreeDVDBoot – Hacking the Playstation 2 through its DVD player](https://cturt.github.io/freedvdboot.html)
 * [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
-* [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
-* [A primer on the cruel, tacit laws of type-level programming in Haskell](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
 * [Show HN: GIF Directions](https://gif.direct)
-* [Using Zig to provide stack traces on kernel panic on bare metal (2018)](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
 * [WebTransport API](https://wicg.github.io/web-transport/)
-* [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
 * [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
-* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
-* [Every character has a story: U+213a (rotated Q) (2005)](https://web.archive.org/web/20060909235709/http://blogs.msdn.com/michkap/archive/2005/01/10/349769.aspx)
-* [Akamai just blocked the biggest DDoS attack in the history](https://medium.com/@lucyhales/the-biggest-ddos-attack-in-the-history-6ecdc7d3377b)
+* [A primer on the cruel, tacit laws of type-level programming in Haskell](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
+* [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Show HN: A Reddit reader that looks like the frontpage of a print newspaper](https://unim.press/#dataisbeautiful)
-* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
-* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 * [Adventures in booting Linux on Raspberry Pi 4](https://blog.mostlypointless.dev/posts/net-boot-rpi/)
+* [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
+* [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
+* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
+* [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
+* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
+* [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
 ## nytimes.com
 
 
@@ -94,22 +94,22 @@ layout: default
 * [Review: A Killer, a Writer, and the Questions Both Left Behind](https://www.nytimes.com/2020/06/25/arts/television/ill-be-gone-in-the-dark-review-michelle-mcnamara.html)
 * [Budget-Friendly Projects for Social-Distancing Weekends](https://www.nytimes.com/2020/06/16/realestate/virus-budget-home-improvement-projects.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
-* [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Chacina deixa quatro mortos e 8 feridos em festa junina na Zona Norte](https://oglobo.globo.com/rio/chacina-deixa-quatro-mortos-8-feridos-em-festa-junina-na-zona-norte-24504054)
+* ['Quero tentar de novo', diz Zezé Motta sobre casamento](https://oglobo.globo.com/ela/gente/quero-tentar-de-novo-diz-zeze-motta-sobre-casamento-24504069)
+* [Rolling Stones ameaçam processar Trump por uso de canções em campanha](https://oglobo.globo.com/mundo/rolling-stones-ameacam-processar-trump-por-uso-de-cancoes-em-campanha-1-24504074)
 * [Bastidores de clipe para aniversário de Gilberto Gil teve Ben Jor em hotel e edição às pressas por Stevie Wonder](https://oglobo.globo.com/cultura/bastidores-de-clipe-para-aniversario-de-gilberto-gil-teve-ben-jor-em-hotel-edicao-as-pressas-por-stevie-wonder-24504073)
 * [Quatro homens serão processados por tentarem derrubar estátua nos EUA](https://oglobo.globo.com/mundo/quatro-homens-serao-processados-por-tentarem-derrubar-estatua-nos-eua-24504068)
 * [Total de infectados pelo novo coronavírus no mundo passa de 10 milhões](https://oglobo.globo.com/mundo/total-de-infectados-pelo-novo-coronavirus-no-mundo-passa-de-10-milhoes-24504043)
 * [Saiba os motivos que fizeram Roberto Carlos recusar gravar algumas das canções mais populares da MPB](https://oglobo.globo.com/cultura/musica/saiba-os-motivos-que-fizeram-roberto-carlos-recusar-gravar-algumas-das-cancoes-mais-populares-da-mpb-24504064)
-* [Polícia apura ataque a tiros que deixa quatro mortos em festa junina na Zona Norte](https://oglobo.globo.com/rio/policia-apura-ataque-tiros-que-deixa-quatro-mortos-em-festa-junina-na-zona-norte-24504054)
 * [Quentinha chique vira novo negócio na alta gastronomia do Rio durante a quarentena](https://oglobo.globo.com/economia/quentinha-chique-vira-novo-negocio-na-alta-gastronomia-do-rio-durante-quarentena-1-24503823)
-* [Brasil tem 1.319.274 casos e 57.149 mortes de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1319274-casos-57149-mortes-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24504026)
-* [Príncipe Harry está sobrecarregado de culpa por estar no exterior durante a pandemia, diz livro](https://oglobo.globo.com/ela/gente/principe-harry-esta-sobrecarregado-de-culpa-por-estar-no-exterior-durante-pandemia-diz-livro-24504024)
 * [‘Se nossas cidades fossem mais saudáveis, sofreríamos menos na pandemia’, diz urbanista](https://oglobo.globo.com/economia/se-nossas-cidades-fossem-mais-saudaveis-sofreriamos-menos-na-pandemia-diz-urbanista-1-24503885)
 * [Artigo | Vídeos de Mônica Salmaso melhoram a vida em meio à pandemia](https://epoca.globo.com/sociedade/artigo-videos-de-monica-salmaso-melhoram-vida-em-meio-pandemia-24502042)

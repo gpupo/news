@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 03:34:41 UTC
+# indexed at 28/06/2020 04:11:04 UTC
 
 
 ## news.ycombinator.com
@@ -14,29 +14,29 @@ layout: default
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
 * [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
-* [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
-* [UCSF admits it paid NetWalker more than $1M ransom](https://www.databreaches.net/ucsf-admits-it-paid-netwalker-more-than-1-million-ransom/)
-* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
-* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
+* [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
 * [Show HN: GIF Directions](https://gif.direct)
+* [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
+* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
 * [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
+* [WebTransport API](https://wicg.github.io/web-transport/)
 * [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567)
 * [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
-* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Using Zig to provide stack traces on kernel panic on bare metal](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
-* [Progress Studies School](https://progressstudies.school/)
-* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
-* [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
+* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [Progress Studies School](https://progressstudies.school/)
+* [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 * [Ask HN: Has anyone fixed their own bruxism?](https://news.ycombinator.com/item?id=23665164)
-* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
-* [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
-* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
+* [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
-* [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
 * [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
+* [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
 * [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 ## nytimes.com
 
@@ -88,10 +88,10 @@ layout: default
 * [In Vintage TV Ads, a Curious Fountain of Hope (and Cheese)](https://www.nytimes.com/2020/06/25/arts/television/youtube-vintage-commercials.html)
 * [Psychological Thrillers That Will Mess With Your Head](https://www.nytimes.com/2020/06/26/books/review/psychological-thrillers-new-this-little-family-the-patient.html)
 * [A Fashion Designer’s Reimagining of a Quinoa Bowl](https://www.nytimes.com/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
-* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
 * [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
+* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
 * [This One-Pan Meal Shows Just How Joyful Tofu Can Be](https://www.nytimes.com/2020/06/26/dining/tofu-recipe.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Dois morrem e quatro ficam feridos em tiroteio no Walmart da Califórnia](https://oglobo.globo.com/mundo/dois-morrem-quatro-ficam-feridos-em-tiroteio-no-walmart-da-california-24503973)
 * [Decotelli, novo ministro da Educação, admite rever dissertação de mestrado após acusação de plágio](https://epoca.globo.com/decotelli-novo-ministro-da-educacao-admite-rever-dissertacao-de-mestrado-apos-acusacao-de-plagio-24503894)
-* [Prefeitura do Rio prevê volta do público aos jogos a partir de 10 de julho](https://oglobo.globo.com/esportes/prefeitura-do-rio-preve-volta-do-publico-aos-jogos-partir-de-10-de-julho-24503792)
 * [Apoio da população brasileira à democracia bate recorde e soma 75%, aponta Datafolha](https://oglobo.globo.com/brasil/apoio-da-populacao-brasileira-democracia-bate-recorde-soma-75-aponta-datafolha-1-24503938)
 * [Um hospital e dois carros de polícia são vandalizados no México devido a falsos boatos sobre coronavírus](https://oglobo.globo.com/mundo/um-hospital-dois-carros-de-policia-sao-vandalizados-no-mexico-devido-falsos-boatos-sobre-coronavirus-24503875)
 * [Mario Frias defende experiência em 'Malhação' e Lei Rouanet em primeira entrevista como secretário](https://oglobo.globo.com/cultura/mario-frias-defende-experiencia-em-malhacao-lei-rouanet-em-primeira-entrevista-como-secretario-24503756)
 * [Mega-Sena acumula e próximo sorteio pode pagar até R$ 23 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-ate-23-milhoes-24503931)
-* [Após acordo de leniência na Lava-Jato, Petrobras recupera mais R$ 265 milhões](https://oglobo.globo.com/brasil/apos-acordo-de-leniencia-na-lava-jato-petrobras-recupera-mais-265-milhoes-1-24503858)
-* [Estados americanos voltam atrás sobre reabertura após aumento de casos de coronavírus](https://epoca.globo.com/estados-americanos-voltam-atras-sobre-reabertura-apos-aumento-de-casos-de-coronavirus-1-24503793)
-* [EUA superam 2,5 milhões de casos de Covid-19, segundo Johns Hopkins](https://oglobo.globo.com/mundo/eua-superam-25-milhoes-de-casos-de-covid-19-segundo-johns-hopkins-24503772)
+* [51 anos de Stonewall e a luta contra a violência policial](https://oglobo.globo.com/opiniao/51-anos-de-stonewall-a-luta-contra-violencia-policial-24503718)
+* [Sobras de guerra](https://oglobo.globo.com/opiniao/sobras-de-guerra-24503081)
 * [O momento da reforma tributária](https://oglobo.globo.com/opiniao/o-momento-da-reforma-tributaria-1-24501175)
+* [Renda inclusiva](https://oglobo.globo.com/opiniao/renda-inclusiva-24502541)

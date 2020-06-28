@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/06/2020 01:10:59 UTC
+# indexed at 28/06/2020 01:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Lemmy, an open-source federated Reddit alternative, gets funding for development](https://dev.lemmy.ml/post/35293)
 * [Secretive – macOS native app to store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 * [How Does Sqlite Work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
-* [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
-* [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
+* [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
 * [Xi-Editor Retrospective](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html)
+* [24a2: An ultra-minimalist game engine](https://github.com/jamesroutley/24a2)
 * [The FDA's perpetual process machine](https://paulromer.net/fda_perpetual_process_machine/)
+* [GNU GCC does not round floating-point divisions to the nearest value](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
+* [UCSF admits it paid NetWalker more than $1M ransom](https://www.databreaches.net/ucsf-admits-it-paid-netwalker-more-than-1-million-ransom/)
 * [Sensors detect rise in nuclear particles on Baltic Sea](https://mobile.reuters.com/article/idUSKBN23X2TN)
 * [Progress Studies School](https://progressstudies.school/)
-* [It's time to take alternatives to dark matter seriously](https://aeon.co/essays/why-its-time-to-take-alternatives-to-dark-matter-seriously)
 * [Show HN: Rainbow – an attempt to display colour on a B&W monitor](https://www.anfractuosity.com/projects/rainbow/)
-* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Cache Oblivious Algorithms](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/)
+* [An interview with Paul Mockapetris, the creator of the DNS](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris)
 * [Cryengine Source Code](https://github.com/CRYTEK/CRYENGINE/)
 * [Using Zig to provide stack traces on kernel panic on bare metal](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
-* [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
-* [Deep Learning – The “Why” Question](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
-* [Volley (YC W18) is hiring a head of engineering to build voice-controlled games](https://jobs.lever.co/volleythat/e363e2bf-472f-4738-beb9-d047b71d1151)
-* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [Deep Learning – The “Why” Question (2018)](https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/)
 * [Astronomers detect regular rhythm of radio waves, with origins unknown](http://news.mit.edu/2020/astronomers-rhythm-radio-waves-0617)
+* [A Treatise on Font Rasterisation (2010)](https://freddie.witherden.org/pages/font-rasterisation/)
+* [Weak bits floppy disc protection: an alternate origins story on 8-bit](https://scarybeastsecurity.blogspot.com/2020/06/weak-bits-floppy-disc-protection.html)
+* [Volley (YC W18) is hiring a head of engineering to build voice-controlled games](https://jobs.lever.co/volleythat/e363e2bf-472f-4738-beb9-d047b71d1151)
 * [Die shrink: How Intel scaled down the 8086 processor](http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html)
 * [Dolphins learn from their peers to use empty shells to catch fish](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30756-9)
 * [Real VT102 Emulation with MAME](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
-* [2010 SoftBank 30 year vision document: its a wilde ride [pdf]](https://group.softbank/system/files/pdf/philosophy/vision/next30/press_20100625_01_en.pdf)
-* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
+* [The Diamond-Square Algorithm](https://diamond-square.netlify.app/)
 * [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
+* [Pico-8: Enabling more than 16 colors on the screen](https://www.lexaloffle.com/bbs/?tid=38565)
 * [The Great Pause Was an Economic Revolution](https://foreignpolicy.com/2020/06/22/the-great-pause-was-an-economic-revolution%e2%80%a8/)
-* [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 * [Take control over your feeds to regain mindfulness](https://solmaz.io/thoughts/digital-hygiene-feeds/)
-* [Seeing Theory (2017)](https://seeing-theory.brown.edu/)
+* [Show HN: Global sailing navigation simulator using real weather/ocean data](https://8bitbyte.ca/sailnavsim/)
 ## nytimes.com
 
 
@@ -72,8 +72,8 @@ layout: default
 * [This Time-Management Trick Changed My Whole Relationship With Time](https://www.nytimes.com/2020/06/23/magazine/pomodoro-technique.html)
 * [Five Nonbinary Comics on This Moment: ‘I’m Not Some New Buzzword’](https://www.nytimes.com/2020/06/25/arts/nonbinary-comedians-pride-coronavirus.html)
 * [How a Writer With a Ph.D. in Psychology Became a Poker Champ](https://www.nytimes.com/2020/06/23/books/review/maria-konnikova-the-biggest-bluff.html)
+* [2 Dead in Shooting at Walmart Distribution Center in California, Official Says](https://www.nytimes.com/2020/06/27/us/walmart-shooting-red-bluff-california.html)
 * [Starbucks Barista Gets $65,000 in Donations After Customer’s Mask Complaint](https://www.nytimes.com/2020/06/27/business/starbucks-barista-mask-gofundme.html)
-* [Gunfire at Walmart Distribution Center in California, Worker Says](https://www.nytimes.com/2020/06/27/us/walmart-shooting-red-bluff-california.html)
 * [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Who Gets Lifesaving Care? Tennessee Changes Rules After Federal Complaint](https://www.nytimes.com/2020/06/26/us/coronavirus-rationing-tennessee.html)
 * [3 Die in New Mexico After Drinking Hand Sanitizer, Officials Say](https://www.nytimes.com/2020/06/26/us/3-dead-drinking-hand-sanitizer.html)
@@ -91,16 +91,16 @@ layout: default
 * [A Fashion Designer’s Reimagining of a Quinoa Bowl](https://www.nytimes.com/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
 * [Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought](https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html)
 * [How to Help Kids Embrace Mask-Wearing](https://www.nytimes.com/2020/06/23/well/family/children-masks-coronavirus.html)
-* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
+* [Women With Cancer Awarded Billions in Baby Powder Suit](https://www.nytimes.com/2020/06/23/health/baby-powder-cancer.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Apoio da população à democracia bate recorde, diz Datafolha](https://oglobo.globo.com/brasil/apoio-da-populacao-democracia-bate-recorde-diz-datafolha-24503938)
 * [Prefeitura do Rio prevê volta do público aos jogos a partir de 10 de julho](https://oglobo.globo.com/esportes/prefeitura-do-rio-preve-volta-do-publico-aos-jogos-partir-de-10-de-julho-24503792)
+* [Apoio da população brasileira à democracia bate recorde e soma 75%, aponta Datafolha](https://oglobo.globo.com/brasil/apoio-da-populacao-brasileira-democracia-bate-recorde-soma-75-aponta-datafolha-1-24503938)
 * [Um hospital e dois carros de polícia são vandalizados no México devido a falsos boatos sobre coronavírus](https://oglobo.globo.com/mundo/um-hospital-dois-carros-de-policia-sao-vandalizados-no-mexico-devido-falsos-boatos-sobre-coronavirus-24503875)
 * [Mario Frias defende experiência em 'Malhação' e Lei Rouanet em primeira entrevista como secretário](https://oglobo.globo.com/cultura/mario-frias-defende-experiencia-em-malhacao-lei-rouanet-em-primeira-entrevista-como-secretario-24503756)
 * [Mega-Sena acumula e próximo sorteio pode pagar até R$ 23 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-ate-23-milhoes-24503931)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 07:34:25 UTC
+# indexed at 29/06/2020 08:11:21 UTC
 
 
 ## news.ycombinator.com
@@ -10,11 +10,11 @@ layout: default
 
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
-* [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
+* [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 * [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
-* [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
 * [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
+* [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
 * [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
 * [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
 * [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
@@ -22,22 +22,22 @@ layout: default
 * [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
 * [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
+* [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
 * [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
-* [Zero-sum thinking on immigration will make America poorer](https://sites.uw.edu/uwpoliticaleconomy/blog/blog-post-3-magistro-and-wittstock/)
-* [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
-* [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
 * [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 * [A visual chronicle of Tokyo’s disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/)
+* [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
+* [Zero-sum thinking on immigration will make America poorer](https://sites.uw.edu/uwpoliticaleconomy/blog/blog-post-3-magistro-and-wittstock/)
+* [Putin's People – a groundbreaking study that follows the money](https://www.theguardian.com/books/2020/may/06/putins-people-by-catherine-belton-review-a-groundbreaking-study-that-follows-the-money)
+* [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
 * [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
-* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Innovation by ancient farmers adds to biodiversity of the Amazon, study shows](https://www.exeter.ac.uk/news/research/title_801967_en.html)
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
-* [Break Up Google](https://www.tbray.org/ongoing/When/202x/2020/06/25/Break-Up-Google)
-* [UCSF forced to pay more than $1M ransom to perpetrators of malware attack](https://www.ktvu.com/news/ucsf-forced-to-pay-ransom-to-perpetrators-of-malware-attack)
-* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
 * [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
-* [Shale pioneer Chesapeake Energy files for bankruptcy](https://www.reuters.com/article/us-chesapeake-enrgy-bankruptcy/shale-pioneer-chesapeake-energy-files-for-bankruptcy-idUSKBN23Z0SS)
 * [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
+* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
+* [UCSF forced to pay more than $1M ransom to perpetrators of malware attack](https://www.ktvu.com/news/ucsf-forced-to-pay-ransom-to-perpetrators-of-malware-attack)
 ## nytimes.com
 
 
@@ -82,23 +82,23 @@ layout: default
 * [Bagged Salads Recalled After Hundreds Are Sickened in the Midwest](https://www.nytimes.com/2020/06/28/us/salad-recall-cyclospora-cdc.html)
 * [Linda Cristal, Who Starred in ‘High Chaparral,’ Dies at 89](https://www.nytimes.com/2020/06/28/obituaries/linda-cristal-dead.html)
 * [Broadway League Pledges Change Amid National Uproar Over Racism](https://www.nytimes.com/2020/06/28/theater/broadway-league-racial-injustice.html)
-* [Gunmen Wage a Deadly Battle at Pakistan’s Stock Exchange in Karachi](https://www.nytimes.com/2020/06/29/world/asia/pakistan-stock-exchange-shooting.html)
+* [Pakistan Stock Exchange Attack Leaves Several Dead](https://www.nytimes.com/2020/06/29/world/asia/pakistan-stock-exchange-shooting.html)
 * [Defenders of Roosevelt Statue Converge on Natural History Museum](https://www.nytimes.com/2020/06/28/arts/design/roosevelt-statue-defenders-natural-history.html)
 * [India Debates Skin-Tone Bias as Beauty Companies Alter Ads](https://www.nytimes.com/2020/06/28/world/asia/india-skin-color-unilever.html)
 * [Charles Webb, Elusive Author of ‘The Graduate,’ Dies at 81](https://www.nytimes.com/2020/06/28/books/charles-webb-dead.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Five Years and 100-Plus Stories: What It’s Like Covering ‘Hamilton’](https://www.nytimes.com/2020/06/27/insider/hamilton-disney-plus-puerto-rico.html)
 * [French Soccer’s Renegade President Would Like a Word. With Everyone.](https://www.nytimes.com/2020/06/27/sports/soccer/lyon-aulas-ligue-1.html)
 * [400 Hours. $500.](https://www.nytimes.com/2020/06/26/arts/latasha-harlins-laura-park.html)
 * [Say I Love You. I’m Waiting.](https://www.nytimes.com/2020/06/27/fashion/weddings/say-i-love-you-im-waiting.html)
 * [Fresh and Satisfying](https://www.nytimes.com/2020/06/26/dining/fresh-and-satisfying.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -106,12 +106,12 @@ layout: default
 
 
 * [Amigo de João Pedro diz que foi alvo de tiros de policial após socorro a adolescente: 'Achou que era bandido'](https://oglobo.globo.com/rio/amigo-de-joao-pedro-diz-que-foi-alvo-de-tiros-de-policial-apos-socorro-adolescente-achou-que-era-bandido-24504680)
-* [Efeitos da pandemia: sem turistas, elefantes têm morrido de fome no Sudeste Asiático](https://oglobo.globo.com/boa-viagem/efeitos-da-pandemia-sem-turistas-elefantes-tem-morrido-de-fome-no-sudeste-asiatico-24504737)
-* [Políticos com patrimônio milionário têm auxílio emergencial liberado pela Caixa](https://oglobo.globo.com/economia/politicos-com-patrimonio-milionario-tem-auxilio-emergencial-liberado-pela-caixa-24504650)
+* [Mansur: Protestos nos estádios do Rio refletem polarização das ruas](https://oglobo.globo.com/esportes/mansur-protestos-nos-estadios-do-rio-refletem-polarizacao-das-ruas-2-24504738)
 * [Coronavírus: ‘Assumimos um risco para ter a vacina no Brasil’, diz presidente da Fiocruz](https://oglobo.globo.com/sociedade/coronavirus/coronavirus-assumimos-um-risco-para-ter-vacina-no-brasil-diz-presidente-da-fiocruz-1-24504566)
-* [Forçados a desenvolver novos métodos de ensino com ferramentas digitais, colégios querem manter inovação após a pandemia](https://oglobo.globo.com/sociedade/educacao/forcados-desenvolver-novos-metodos-de-ensino-com-ferramentas-digitais-colegios-querem-manter-inovacao-apos-pandemia-24503916)
+* [Festival Delivery Rio: Restaurantes customizam embalagens para preservar a comida na entrega](https://oglobo.globo.com/rioshow/festival-delivery-rio-restaurantes-customizam-embalagens-para-preservar-comida-na-entrega-24504617)
 * [Gastos de 84 parlamentares sobem durante a pandemia do coronavírus](https://oglobo.globo.com/brasil/gastos-de-84-parlamentares-sobem-durante-pandemia-do-coronavirus-1-24504627)
 * [Tráfico do Chapadão anunciou, nas redes, invasão à favela onde chacina em festa junina aconteceu](https://oglobo.globo.com/rio/trafico-do-chapadao-anunciou-nas-redes-invasao-favela-onde-chacina-em-festa-junina-aconteceu-24504640)
 * [Gastos de 84 parlamentares com verba indenizatória sobem durante a pandemia da Covid-19](https://oglobo.globo.com/brasil/gastos-de-84-parlamentares-com-verba-indenizatoria-sobem-durante-pandemia-da-covid-19-24504638)
+* [Testes de Covid: o que foi prometido e a prática no Brasil](https://oglobo.globo.com/podcast/testes-de-covid-que-foi-prometido-a-pratica-no-brasil-24504586)
 * [Beijos e abraços devem virar raridades na retomada de gravações de TV](https://oglobo.globo.com/cultura/revista-da-tv/beijos-abracos-devem-virar-raridades-na-retomada-de-gravacoes-de-tv-24504245)
 * [Sem beijo nem abraço: como serão feitas as gravações de TV com a flexibilização da quarentena](https://oglobo.globo.com/cultura/revista-da-tv/sem-beijo-nem-abraco-como-serao-feitas-as-gravacoes-de-tv-com-flexibilizacao-da-quarentena-24504210)

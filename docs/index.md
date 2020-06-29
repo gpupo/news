@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 08:11:21 UTC
+# indexed at 29/06/2020 08:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
+* [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
 * [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
-* [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
 * [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
-* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
+* [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
 * [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
-* [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
+* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
+* [Putin's People – a groundbreaking study that follows the money](https://www.theguardian.com/books/2020/may/06/putins-people-by-catherine-belton-review-a-groundbreaking-study-that-follows-the-money)
 * [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
-* [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
-* [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
-* [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
-* [A visual chronicle of Tokyo’s disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/)
 * [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
-* [Zero-sum thinking on immigration will make America poorer](https://sites.uw.edu/uwpoliticaleconomy/blog/blog-post-3-magistro-and-wittstock/)
-* [Putin's People – a groundbreaking study that follows the money](https://www.theguardian.com/books/2020/may/06/putins-people-by-catherine-belton-review-a-groundbreaking-study-that-follows-the-money)
+* [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
+* [A visual chronicle of Tokyo’s disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/)
 * [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
 * [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
+* [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
 * [Innovation by ancient farmers adds to biodiversity of the Amazon, study shows](https://www.exeter.ac.uk/news/research/title_801967_en.html)
-* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
+* [Zero-sum thinking on immigration will make America poorer](https://sites.uw.edu/uwpoliticaleconomy/blog/blog-post-3-magistro-and-wittstock/)
 * [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
-* [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
 * [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
+* [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
 * [UCSF forced to pay more than $1M ransom to perpetrators of malware attack](https://www.ktvu.com/news/ucsf-forced-to-pay-ransom-to-perpetrators-of-malware-attack)
+* [Show HN: PHONK, JavaScript scripting for Android devices](https://phonk.app)
 ## nytimes.com
 
 
@@ -86,10 +86,10 @@ layout: default
 * [Defenders of Roosevelt Statue Converge on Natural History Museum](https://www.nytimes.com/2020/06/28/arts/design/roosevelt-statue-defenders-natural-history.html)
 * [India Debates Skin-Tone Bias as Beauty Companies Alter Ads](https://www.nytimes.com/2020/06/28/world/asia/india-skin-color-unilever.html)
 * [Charles Webb, Elusive Author of ‘The Graduate,’ Dies at 81](https://www.nytimes.com/2020/06/28/books/charles-webb-dead.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Five Years and 100-Plus Stories: What It’s Like Covering ‘Hamilton’](https://www.nytimes.com/2020/06/27/insider/hamilton-disney-plus-puerto-rico.html)
 * [French Soccer’s Renegade President Would Like a Word. With Everyone.](https://www.nytimes.com/2020/06/27/sports/soccer/lyon-aulas-ligue-1.html)
 * [400 Hours. $500.](https://www.nytimes.com/2020/06/26/arts/latasha-harlins-laura-park.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Amigo de João Pedro diz que foi alvo de tiros de policial após socorro a adolescente: 'Achou que era bandido'](https://oglobo.globo.com/rio/amigo-de-joao-pedro-diz-que-foi-alvo-de-tiros-de-policial-apos-socorro-adolescente-achou-que-era-bandido-24504680)
+* [Jogos de Botafogo, Vasco e Fluminense mostram fugas ao protocolo da Ferj](https://oglobo.globo.com/esportes/jogos-de-botafogo-vasco-fluminense-mostram-fugas-ao-protocolo-da-ferj-24504599)
 * [Mansur: Protestos nos estádios do Rio refletem polarização das ruas](https://oglobo.globo.com/esportes/mansur-protestos-nos-estadios-do-rio-refletem-polarizacao-das-ruas-2-24504738)
-* [Coronavírus: ‘Assumimos um risco para ter a vacina no Brasil’, diz presidente da Fiocruz](https://oglobo.globo.com/sociedade/coronavirus/coronavirus-assumimos-um-risco-para-ter-vacina-no-brasil-diz-presidente-da-fiocruz-1-24504566)
 * [Festival Delivery Rio: Restaurantes customizam embalagens para preservar a comida na entrega](https://oglobo.globo.com/rioshow/festival-delivery-rio-restaurantes-customizam-embalagens-para-preservar-comida-na-entrega-24504617)
-* [Gastos de 84 parlamentares sobem durante a pandemia do coronavírus](https://oglobo.globo.com/brasil/gastos-de-84-parlamentares-sobem-durante-pandemia-do-coronavirus-1-24504627)
 * [Tráfico do Chapadão anunciou, nas redes, invasão à favela onde chacina em festa junina aconteceu](https://oglobo.globo.com/rio/trafico-do-chapadao-anunciou-nas-redes-invasao-favela-onde-chacina-em-festa-junina-aconteceu-24504640)
 * [Gastos de 84 parlamentares com verba indenizatória sobem durante a pandemia da Covid-19](https://oglobo.globo.com/brasil/gastos-de-84-parlamentares-com-verba-indenizatoria-sobem-durante-pandemia-da-covid-19-24504638)
 * [Testes de Covid: o que foi prometido e a prática no Brasil](https://oglobo.globo.com/podcast/testes-de-covid-que-foi-prometido-a-pratica-no-brasil-24504586)
-* [Beijos e abraços devem virar raridades na retomada de gravações de TV](https://oglobo.globo.com/cultura/revista-da-tv/beijos-abracos-devem-virar-raridades-na-retomada-de-gravacoes-de-tv-24504245)
+* [Museu das Comunicações e Humanidades abre parte do acervo com peças inéditas na internet](https://oglobo.globo.com/rioshow/museu-das-comunicacoes-humanidades-abre-parte-do-acervo-com-pecas-ineditas-na-internet-24504490)
+* [Autora de 'O crime do Cais do Valongo' traça paralelos entre o Brasil do século XVIII e o atual em novo livro](https://oglobo.globo.com/cultura/autora-de-crime-do-cais-do-valongo-traca-paralelos-entre-brasil-do-seculo-xviii-o-atual-em-novo-livro-24504301)
+* [Resenha: Eliana Alves Cruz narra a história de um Brasil preso às injustiças](https://oglobo.globo.com/cultura/resenha-eliana-alves-cruz-narra-historia-de-um-brasil-preso-as-injusticas-24504348)
 * [Sem beijo nem abraço: como serão feitas as gravações de TV com a flexibilização da quarentena](https://oglobo.globo.com/cultura/revista-da-tv/sem-beijo-nem-abraco-como-serao-feitas-as-gravacoes-de-tv-com-flexibilizacao-da-quarentena-24504210)

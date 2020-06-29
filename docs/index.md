@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 11:37:20 UTC
+# indexed at 29/06/2020 12:13:17 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Has GitHub been down more since its acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
-* [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
+* [Why do so few people major in computer science?](https://danwang.co/why-so-few-computer-science-majors/)
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
+* [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
-* ['We've bought the wrong satellites': UK tech gamble baffles experts](https://www.theguardian.com/science/2020/jun/26/satellite-experts-oneweb-investment-uk-galileo-brexit)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 * [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
+* ['We've bought the wrong satellites': UK tech gamble baffles experts](https://www.theguardian.com/science/2020/jun/26/satellite-experts-oneweb-investment-uk-galileo-brexit)
 * [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
 * [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
+* [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
-* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
 * [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
-* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
-* [GitHub Is Down](https://www.githubstatus.com)
+* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
+* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
 * [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
-* [Putin's People – a groundbreaking study that follows the money](https://www.theguardian.com/books/2020/may/06/putins-people-by-catherine-belton-review-a-groundbreaking-study-that-follows-the-money)
+* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
-* [Ask HN: Wrong Pipe Character?](https://news.ycombinator.com/item?id=23676090)
+* [GitHub Is Down](https://www.githubstatus.com)
+* [Putin's People – a groundbreaking study that follows the money](https://www.theguardian.com/books/2020/may/06/putins-people-by-catherine-belton-review-a-groundbreaking-study-that-follows-the-money)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+* [Political Data Leak in Malta](https://edri.org/massive-political-data-leak-in-malta/)
 * [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
-* [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
-* [Innovation by ancient farmers adds to biodiversity of the Amazon, study shows](https://www.exeter.ac.uk/news/research/title_801967_en.html)
 * [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
-* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 ## nytimes.com
 
 
@@ -83,11 +83,10 @@ layout: default
 * [Marty Baron Made The Post Great Again. Now, the News Is Changing.](https://www.nytimes.com/2020/06/28/business/media/martin-baron-washington-post.html)
 * [These Are the Heartbreaking Belongings That Covid Victims Left Behind](https://www.nytimes.com/2020/06/29/nyregion/coronavirus-hospitals-patients-belongings.html)
 * [TikTok Is Shaping Politics. But How?](https://www.nytimes.com/2020/06/28/style/tiktok-teen-politics-gen-z.html)
-* [In a Crisis, We Can Learn From Trauma Therapy](https://www.nytimes.com/2020/06/15/health/resilience-trauma-emdr-treatment.html)
-* [How to Share Your Backyard Pool (Safely)](https://www.nytimes.com/2020/06/20/at-home/coronavirus-share-your-backyard-pool.html)
-* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
-* [How to Get Your Kids to Care About Social Distancing](https://www.nytimes.com/2020/06/13/style/kids-children-social-distance-coronavirus.html)
-* [How to End Pandemic Fights With Your Partner](https://www.nytimes.com/2020/06/08/well/family/marriage-relationships-fighting-couples-quarantine.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Jim Carrey, Unmasked](https://www.nytimes.com/2020/06/29/books/jim-carrey-memoirs-and-misinformation.html)
 * [Pride Through Repetition](https://www.nytimes.com/2020/06/26/well/family/LGBT-pride-dementia.html)
 * [16 Books to Watch For in July](https://www.nytimes.com/2020/06/24/books/new-july-books.html)
@@ -105,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* [Com pandemia em declínio, Peru suspende regras de isolamento social](https://oglobo.globo.com/mundo/com-pandemia-em-declinio-peru-suspende-regras-de-isolamento-social-24504817)
 * [Saque emergencial do FGTS: Ganho de Fundo já supera o da poupança e outras aplicações. Quando vale a pena resgatar?](https://oglobo.globo.com/economia/saque-emergencial-do-fgts-ganho-de-fundo-ja-supera-da-poupanca-outras-aplicacoes-quando-vale-pena-resgatar-24504637)
-* [Datafolha: 81% dizem que espalhar fake news contra políticos e ministros do STF ameaça a democracia](https://oglobo.globo.com/brasil/datafolha-81-dizem-que-espalhar-fake-news-contra-politicos-ministros-do-stf-ameaca-democracia-24504794)
-* [Taxa de contaminação da Covid na cidade do Rio aumenta durante a semana com o menor isolamento social](https://oglobo.globo.com/rio/taxa-de-contaminacao-da-covid-na-cidade-do-rio-aumenta-durante-semana-com-menor-isolamento-social-24504472)
+* [Salões e comércio de rua em funcionamento e previsão de ampliação da reabertura do Rio; veja as novas regras](https://oglobo.globo.com/rio/saloes-comercio-de-rua-em-funcionamento-previsao-de-ampliacao-da-reabertura-do-rio-veja-as-novas-regras-24504810)
+* [Kardashian 'desaparecido' reaparece em festa de aniversário da irmã](https://oglobo.globo.com/ela/gente/kardashian-desaparecido-reaparece-em-festa-de-aniversario-da-irma-24504820)
+* [Datafolha: 81% dizem que espalhar fake news contra políticos e ministros do STF ameaça a democracia](https://oglobo.globo.com/brasil/datafolha-81-dizem-que-espalhar-fake-news-contra-politicos-ministros-do-stf-ameaca-democracia-1-24504794)
+* [Bancos já emprestaram mais de R$ 1,1 trilhão durante a pandemia, diz Febraban](https://oglobo.globo.com/economia/bancos-ja-emprestaram-mais-de-11-trilhao-durante-pandemia-diz-febraban-24504582)
 * [Brasil tem 1.345.470 casos e 57.659 mortos por Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1345470-casos-57659-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24504796)
-* [Turismo, lazer, eventos e varejo são setores mais afetados por pandemia](https://epoca.globo.com/guilherme-amado/turismo-lazer-eventos-varejo-sao-setores-mais-afetados-por-pandemia-24500016)
+* [Elas no poder: projeto conta histórias de políticas eleitas da América Latina](https://epoca.globo.com/guilherme-amado/elas-no-poder-projeto-conta-historias-de-politicas-eleitas-da-america-latina-1-24502010)
 * [Lídice da Mata, relatora da CPMI das Fake News, será entrevistada hoje por ÉPOCA](https://epoca.globo.com/lidice-da-mata-relatora-da-cpmi-das-fake-news-sera-entrevistada-hoje-por-epoca-1-24502764)
 * [Campanha tenta pressionar Câmara pelo adiamento de eleições](https://epoca.globo.com/guilherme-amado/campanha-tenta-pressionar-camara-pelo-adiamento-de-eleicoes-24502811)
-* [Volta às aulas presenciais: protocolos a postos](https://oglobo.globo.com/rio/bairros/volta-as-aulas-presenciais-protocolos-postos-24499952)
-* ['Ensino remoto não é ensino à distância', diz especialista em educação](https://oglobo.globo.com/rio/bairros/ensino-remoto-nao-ensino-distancia-diz-especialista-em-educacao-24501996)
-* [Quando será o Enem? Alunos reorganizam os estudos diante do adiamento do exame](https://oglobo.globo.com/rio/bairros/quando-sera-enem-alunos-reorganizam-os-estudos-diante-do-adiamento-do-exame-1-24500827)

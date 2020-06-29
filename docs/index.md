@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 16:11:07 UTC
+# indexed at 29/06/2020 16:34:21 UTC
 
 
 ## news.ycombinator.com
@@ -10,12 +10,14 @@ layout: default
 
 * [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Circle of Competence: Avoid Ambiguity Traps](https://models.substack.com/p/circle-of-competence-avoid-ambiguity)
+* [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)
 * [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
-* [There’s no replacement for the thrill of browsing in a bookstore](https://www.washingtonpost.com/entertainment/books/theres-no-replacement-for-the-thrill-of-browsing-in-a-bookstore/2020/06/25/20855c1a-abf1-11ea-a9d9-a81c1a491c52_story.html)
 * [Scandinavian Monitoring Stations Detect Unexplained Radiation Spike over Europe](https://www.iflscience.com/physics/unexplained-radiation-spike-over-europe-detected-by-scandinavian-monitoring-stations/)
+* [There’s no replacement for the thrill of browsing in a bookstore](https://www.washingtonpost.com/entertainment/books/theres-no-replacement-for-the-thrill-of-browsing-in-a-bookstore/2020/06/25/20855c1a-abf1-11ea-a9d9-a81c1a491c52_story.html)
 * [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
-* [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)
+* [The fall of Quibi: how did a starry $1.75bn Netflix rival crash so fast?](https://www.theguardian.com/tv-and-radio/2020/jun/28/quibi-netflix-jeffrey-katzenberg-crash)
+* [Apple declined to implement 16 Web APIs in Safari due to privacy concerns](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
@@ -26,18 +28,16 @@ layout: default
 * [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [A decidedly non-Linux distro walkthrough: Haiku R1/beta2](https://arstechnica.com/gadgets/2020/06/a-decidedly-non-linux-distro-walkthrough-haiku-r1-beta2/)
-* [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
 * [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
 * [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
-* [Has GitHub been down more since its acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
-* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [eBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
-* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
-* [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
-* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
-* [Polymorphic Allocators from C++17, std:vector Growth and Hacking](https://www.bfilipek.com/2020/06/pmr-hacking.html)
-* [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
+* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+* [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
+* [Polymorphic Allocators from C++17, std:vector Growth and Hacking](https://www.bfilipek.com/2020/06/pmr-hacking.html)
+* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
+* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
+* [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 ## nytimes.com
 
 
@@ -53,7 +53,7 @@ layout: default
 * [The Video Call Is Starting. Time to Put on Your Zoom Shirt.](https://www.nytimes.com/2020/06/29/business/zoom-shirt.html)
 * [Trump’s Self-Inflicted Wound: Losing Swing Voters As He Plays to His Base](https://www.nytimes.com/2020/06/29/us/politics/trump-swing-voters.html)
 * [How the Trump Campaign Is Drawing Obama Out of Retirement](https://www.nytimes.com/2020/06/28/us/politics/obama-biden-trump.html)
-* [Republicans Play Hardball on Judges. Can Democrats Give It a Shot Too?](https://www.nytimes.com/2020/06/29/us/politics/supreme-court-trump-biden.html)
+* [Trump Is Running on the Courts Again. Should Biden Do the Same?](https://www.nytimes.com/2020/06/29/us/politics/supreme-court-trump-biden.html)
 * [American Exceptionalism on the Virus](https://www.nytimes.com/2020/06/29/briefing/coronavirus-mississippi-new-england-patriots-your-monday-briefing.html)
 * [Celebrating Pride in a Time of Protests and Pandemic](https://www.nytimes.com/2020/06/29/nyregion/pride-nyc.html)
 * [A Conversation With a Police Union Leader](https://www.nytimes.com/2020/06/29/podcasts/the-daily/defund-police-union-rayshard-brooks.html)
@@ -71,16 +71,16 @@ layout: default
 * [Montaigne Fled the Plague, and Found Himself](https://www.nytimes.com/2020/06/28/opinion/montaigne-plague-essays.html)
 * [Mayor de Blasio, Bring Back Summer Jobs](https://www.nytimes.com/2020/06/29/opinion/coronavirus-summer-jobs.html)
 * [Latin America Is Ready for Its Black Lives Matter Reckoning](https://www.nytimes.com/2020/06/29/opinion/latin-america-racism-police.html)
+* [Swimming With the Sea Lions of Los Islotes](https://www.nytimes.com/2020/06/29/travel/sea-lions-los-islotes.html)
 * [The Long, Unhappy History of Working From Home](https://www.nytimes.com/2020/06/29/technology/working-from-home-failure.html)
 * [The Reality Behind ‘Below Deck’](https://www.nytimes.com/2020/06/29/style/below-deck-bravo.html)
-* [Our Best Fourth of July Recipes](https://www.nytimes.com/article/july-4th-recipes.html)
 * [Stock Market Live News and Updates](https://www.nytimes.com/2020/06/29/business/stock-market-today-coronavirus.html)
 * [Iran Issues Arrest Warrants for Trump and 35 Others in Suleimani Killing](https://www.nytimes.com/2020/06/29/world/middleeast/iran-trump-arrest-warrant-interpol.html)
 * [François Fillon, Ex-Presidential Hopeful in France, Is Convicted of Embezzlement](https://www.nytimes.com/2020/06/29/world/europe/fillon-france-embezzlement-scandal.html)
 * [Broadway Will Remain Closed Through the Rest of the Year](https://www.nytimes.com/2020/06/29/theater/when-broadway-reopening-coronavirus.html)
 * [Mask Exemption Cards From the ‘Freedom to Breathe Agency’? They’re Fake](https://www.nytimes.com/2020/06/28/us/fake-face-mask-exemption-card-coronavirus.html)
 * [Coronavirus Is Battering Africa’s Growing Middle Class](https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html)
-* [These Are the Heartbreaking Belongings That Covid Victims Left Behind](https://www.nytimes.com/2020/06/29/nyregion/coronavirus-hospitals-patients-belongings.html)
+* [Putin Pushes Through Referendum Even as Virus Surges in Russia](https://www.nytimes.com/2020/06/29/world/europe/coronavirus-russia-putin-referendum.html)
 * [Marty Baron Made The Post Great Again. Now, the News Is Changing.](https://www.nytimes.com/2020/06/28/business/media/martin-baron-washington-post.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
@@ -91,10 +91,10 @@ layout: default
 * [16 Books to Watch For in July](https://www.nytimes.com/2020/06/24/books/new-july-books.html)
 * [The Pandemic Work Diary of a Napa C.E.O.](https://www.nytimes.com/2020/06/26/business/carlton-mccoy-heitz-cellar.html)
 * [Her Olympic Dream on Hold, Teen Gymnast Faces Other Trials](https://www.nytimes.com/2020/06/27/sports/olympics/sunisa-lee-gymnastics-olympics.html)
-* [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
-* [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
 * [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
+* [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
 * [Tammy Duckworth is Biden's Best Running Mate Pick](https://www.nytimes.com/2020/06/27/opinion/sunday/tammy-duckworth-biden-2020.html)
 * [Trump, Not So Statuesque](https://www.nytimes.com/2020/06/27/opinion/sunday/trump-statues-2020-reelection.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Pandemia da covid-19 está "longe de ter terminado', diz diretor-geral da OMS: 'O pior ainda está por vir'](https://oglobo.globo.com/mundo/pandemia-da-covid-19-esta-longe-de-ter-terminado-diz-diretor-geral-da-oms-pior-ainda-esta-por-vir-24505218)
-* [Crivella tem reunião com empresários e sindicatos de escolas particulares para discutir a volta às aulas](https://oglobo.globo.com/rio/crivella-tem-reuniao-com-empresarios-sindicatos-de-escolas-particulares-para-discutir-volta-as-aulas-24505125)
-* [Apuracão confirma segundo turno na Polônia e põe em xeque projeto ultraconservador](https://oglobo.globo.com/mundo/apuracao-confirma-segundo-turno-na-polonia-poe-em-xeque-projeto-ultraconservador-24505025)
+* [Ex-premier francês é condenado a 2 anos de prisão em regime fechado por manter a mulher em emprego fantasma](https://oglobo.globo.com/mundo/ex-premier-frances-condenado-2-anos-de-prisao-em-regime-fechado-por-manter-mulher-em-emprego-fantasma-24505251)
+* [Tele mineira Algar e fundo de Cingapura entram na disputa pela operação móvel da Oi](https://oglobo.globo.com/economia/tele-mineira-algar-fundo-de-cingapura-entram-na-disputa-pela-operacao-movel-da-oi-24505252)
+* [Jovem vítima de racismo por alunos do Franco-Brasileiro retoma estudos em nova instituição](https://oglobo.globo.com/rio/jovem-vitima-de-racismo-por-alunos-do-franco-brasileiro-retoma-estudos-em-nova-instituicao-24505190)
+* [Pandemia da Covid-19 está 'longe de ter terminado', diz diretor-geral da OMS: 'O pior ainda está por vir'](https://oglobo.globo.com/mundo/pandemia-da-covid-19-esta-longe-de-ter-terminado-diz-diretor-geral-da-oms-pior-ainda-esta-por-vir-24505218)
+* ['É uma receita para o desastre', diz epidemiologista-chefe dos EUA sobre estados que não seguiram recomendações para conter pandemia](https://oglobo.globo.com/mundo/e-uma-receita-para-desastre-diz-epidemiologista-chefe-dos-eua-sobre-estados-que-nao-seguiram-recomendacoes-para-conter-pandemia-24505135)
+* [Brasil já estava em recessão no início do ano, diz comitê da Fundação Getulio Vargas](https://oglobo.globo.com/economia/brasil-ja-estava-em-recessao-no-inicio-do-ano-diz-comite-da-fundacao-getulio-vargas-24505241)
+* [Incêndio do Ninho: MP confirma indiciamentos por homicídio culposo](https://oglobo.globo.com/esportes/flamengo/incendio-do-ninho-mp-confirma-indiciamentos-por-homicidio-culposo-24505230)
+* [Mortes por doenças cardíacas aumentam 50% no Brasil durante pandemia de Covid-19](https://oglobo.globo.com/sociedade/coronavirus/mortes-por-doencas-cardiacas-aumentam-50-no-brasil-durante-pandemia-de-covid-19-24501534)
 * [Brasil tem 57.774 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-57774-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24505088)
-* [Aluna vítima de racismo em colégio da Zona Sul retoma estudos em nova instituição](https://oglobo.globo.com/rio/aluna-vitima-de-racismo-em-colegio-da-zona-sul-retoma-estudos-em-nova-instituicao-24505190)
-* [Estados do sul e do oeste dos EUA, que não seguiram as recomendações das autoridades de saúde, tiveram aumento de casos do conoravírus](https://oglobo.globo.com/mundo/estados-do-sul-do-oeste-dos-eua-que-nao-seguiram-as-recomendacoes-das-autoridades-de-saude-tiveram-aumento-de-casos-do-conoravirus-24505135)
 * [A cidade turística que foi tomada por macacos na quarentena dos humanos](https://epoca.globo.com/mundo/a-cidade-turistica-que-foi-tomada-por-macacos-na-quarentena-dos-humanos-24505212)
-* [Bob Dylan se torna o único artista no Top 40 da Billboard em todas as décadas desde 1960](https://oglobo.globo.com/cultura/bob-dylan-se-torna-unico-artista-no-top-40-da-billboard-em-todas-as-decadas-desde-1960-24504879)
-* [Mercedes vai usar carros pretos na temporada 2020 em ação contra racismo](https://oglobo.globo.com/esportes/mercedes-vai-usar-carros-pretos-na-temporada-2020-em-acao-contra-racismo-24505185)
-* [CNJ: 80% dos presos em flagrante na pandemia chegam aos presídios sem informação sobre sintomas de Covid-19](https://oglobo.globo.com/sociedade/coronavirus/cnj-80-dos-presos-em-flagrante-na-pandemia-chegam-aos-presidios-sem-informacao-sobre-sintomas-de-covid-19-24505174)

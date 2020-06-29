@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 02:11:37 UTC
+# indexed at 29/06/2020 02:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
-* [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
-* [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
-* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
+* [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
+* [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
 * [Was Acorn's RISC OS an under-appreciated pearl of OS design?](https://liam-on-linux.livejournal.com/72192.html)
 * [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
 * [Shale pioneer Chesapeake Energy files for bankruptcy](https://www.reuters.com/article/us-chesapeake-enrgy-bankruptcy/shale-pioneer-chesapeake-energy-files-for-bankruptcy-idUSKBN23Z0SS)
 * [Show HN: Hacker News front page in the style of a print newspaper](https://www.wolfgangfaust.com/project/paper-hn/)
 * [A visual chronicle of Tokyo’s disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/)
-* [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
 * [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
 * [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
-* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
 * [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
+* [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
+* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
 * [Innovation by ancient farmers adds to biodiversity of the Amazon, study shows](https://www.exeter.ac.uk/news/research/title_801967_en.html)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
-* [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
-* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
-* [Cheddar empire: Rise of a cheese superpower](https://www.cnn.com/travel/article/cheddar-cheese-history/index.html)
-* [USPS sells nearly $20B worth of money orders a year](https://www.federalreserve.gov/paymentsystems/check_postalmosprocqtr.htm)
-* [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
-* [Many Covid Patients Have Terrifying Hallucinations and Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
-* [A principled approach to GraphQL query cost analysis](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
 * [Parallax effect in browser using web-camera](https://github.com/munrocket/parallax-effect)
+* [Cheddar empire: Rise of a cheese superpower](https://www.cnn.com/travel/article/cheddar-cheese-history/index.html)
+* [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
+* [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
+* [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
+* [A principled approach to GraphQL query cost analysis](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
 * [Kudzu, the vine that never truly ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [Wanted: Console Text Editor for Windows](https://virtuallyfun.com/wordpress/2018/02/15/wanted-console-text-editor-for-windows/)
-* [Sirum (YC W15 Nonprofit) hiring full-stack engineer to make medicine affordable](https://sirum.breezy.hr/p/ef46b4b6d6cb-fullstack-engineer-1-atlanta-ga-preferred)
+* [USPS sells nearly $20B worth of money orders a year](https://www.federalreserve.gov/paymentsystems/check_postalmosprocqtr.htm)
+* [Wi-Fi 4/5/6/6E (802.11 n/AC/ax) – educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
+* [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 ## nytimes.com
 
 
@@ -77,17 +77,17 @@ layout: default
 * [Studio Visit | Milton Glaser](https://www.nytimes.com/video/t-magazine/100000003596167/milton-glaser-studio-visit.html)
 * [How to Deal With a Scary Stock Market](https://www.nytimes.com/2020/06/26/business/investing-stock-market-fear.html)
 * [How We Got Here: Writers on Race and Racism in America](https://www.nytimes.com/article/books-race-america.html)
-* [Chesapeake Energy, a Shale Pioneer, Files for Bankruptcy Protection](https://www.nytimes.com/2020/06/28/business/economy/chesapeake-energy-bankruptcy.html)
+* [New England Patriots Sign Cam Newton and Face N.F.L. Penalty](https://www.nytimes.com/2020/06/28/sports/football/cam-newton-patriots-fine.html)
 * [Boeing 737 Max Test Flights to Begin](https://www.nytimes.com/2020/06/28/business/boeing-737-max-faa.html)
-* [Museum of the City of New York: Reduced but Reopening](https://www.nytimes.com/2020/06/28/arts/museum-of-the-city-of-new-york-reduced-but-reopening.html)
+* [Chesapeake Energy, a Shale Pioneer, Files for Bankruptcy Protection](https://www.nytimes.com/2020/06/28/business/economy/chesapeake-energy-bankruptcy.html)
 * [Linda Cristal, Who Starred in ‘High Chaparral,’ Dies at 89](https://www.nytimes.com/2020/06/28/obituaries/linda-cristal-dead.html)
 * [Broadway League Pledges Change Amid National Uproar Over Racism](https://www.nytimes.com/2020/06/28/theater/broadway-league-racial-injustice.html)
 * [India Debates Skin-Tone Bias as Beauty Companies Alter Ads](https://www.nytimes.com/2020/06/28/world/asia/india-skin-color-unilever.html)
 * [Defenders of Roosevelt Statue Converge on Natural History Museum](https://www.nytimes.com/2020/06/28/arts/design/roosevelt-statue-defenders-natural-history.html)
 * [Poland Election Tests Democracy in a Pandemic](https://www.nytimes.com/2020/06/28/world/europe/poland-election-coronavirus.html)
 * [Charles Webb, Elusive Author of ‘The Graduate,’ Dies at 81](https://www.nytimes.com/2020/06/28/books/charles-webb-dead.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [Five Years and 100-Plus Stories: What It’s Like Covering ‘Hamilton’](https://www.nytimes.com/2020/06/27/insider/hamilton-disney-plus-puerto-rico.html)
@@ -96,15 +96,16 @@ layout: default
 * [Say I Love You. I’m Waiting.](https://www.nytimes.com/2020/06/27/fashion/weddings/say-i-love-you-im-waiting.html)
 * [Fresh and Satisfying](https://www.nytimes.com/2020/06/26/dining/fresh-and-satisfying.html)
 * [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Em Dia Internacional do Orgulho LGBTQI, Congresso Nacional é iluminado com as cores do arco-íris](https://oglobo.globo.com/sociedade/em-dia-internacional-do-orgulho-lgbtqi-congresso-nacional-iluminado-com-as-cores-do-arco-iris-24504683)
 * [Erro do governo reduz benefício emergencial pago a quase 100 mil com contrato suspenso ou jornada reduzida](https://oglobo.globo.com/economia/erro-do-governo-reduz-beneficio-emergencial-pago-quase-100-mil-com-contrato-suspenso-ou-jornada-reduzida-24504484)
 * [Entenda por que jogo do Fluminense foi mantido mesmo com atletas do Volta Redonda contaminados](https://oglobo.globo.com/esportes/entenda-por-que-jogo-do-fluminense-foi-mantido-mesmo-com-atletas-do-volta-redonda-contaminados-24504491)
 * [No dia do orgulho LGBT, ato em Copacabana é marcado por luta pela democracia](https://oglobo.globo.com/sociedade/no-dia-do-orgulho-lgbt-ato-em-copacabana-marcado-por-luta-pela-democracia-1-24504493)
@@ -114,4 +115,3 @@ layout: default
 * [Após PGR criticar Lava-Jato, Dallagnol prega independência no MP](https://oglobo.globo.com/brasil/apos-pgr-criticar-lava-jato-dallagnol-prega-independencia-no-mp-1-24504487)
 * [Mundo ultrapassa a marca de 10 milhões de casos e de 500 mil mortes por Covid-19](https://epoca.globo.com/mundo-ultrapassa-marca-de-10-milhoes-de-casos-de-500-mil-mortes-por-covid-19-1-24504469)
 * [Coronavírus: Empresa chinesa diz que resultados iniciais de testes de vacina em humanos são promissores](https://oglobo.globo.com/sociedade/coronavirus/coronavirus-empresa-chinesa-diz-que-resultados-iniciais-de-testes-de-vacina-em-humanos-sao-promissores-24504447)
-* [Vasco vence o Macaé com show de Cano e ainda sonha com classificação](https://oglobo.globo.com/esportes/vasco-vence-macae-com-show-de-cano-ainda-sonha-com-classificacao-24504391)

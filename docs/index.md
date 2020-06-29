@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 22:09:56 UTC
+# indexed at 29/06/2020 22:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Running Postgres in Kubernetes [pdf]](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf)
 * [Why we won’t be supporting Sign in with Apple](https://blog.anylist.com/2020/06/sign-in-with-apple/)
+* [Running Postgres in Kubernetes [pdf]](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf)
+* [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures)
 * [The KDE community is moving to GitLab](https://about.gitlab.com/blog/2020/06/29/welcome-kde/)
 * [India bans TikTok, WeChat, and dozens of other Chinese apps](https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/)
 * [The History of Usenet and FidoNet](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
 * [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)
 * [How remdesivir works, and why it's not the ultimate coronavirus killer](https://scopeblog.stanford.edu/2020/06/29/how-remdesivir-works-and-why-its-not-the-ultimate-coronavirus-killer/)
-* [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
-* [A Few More Reasons Rust Compiles Slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
+* [Forget Google, time to end the Visa-MasterCard duopoly](https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7)
 * [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Deep Chernoff Faces](https://www.ihatethefuture.com/2020/06/deep-chernoff-faces.html)
-* [Circle of Competence: Avoid Ambiguity Traps](https://models.substack.com/p/circle-of-competence-avoid-ambiguity)
+* [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
 * [Taking a Problem Down a Peg](https://rjlipton.wordpress.com/2020/06/29/taking-a-problem-down-a-peg/)
+* [Things to know before starting a Patreon page](http://pencerw.com/feed/2020/6/24/three-things-all-creators-should-know-about-patreon?mc_cid=cb178f4bd4&mc_eid=5ac3a20371)
 * [Apple declined to implement 16 Web APIs in Safari due to privacy concerns](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)
-* [Three things you should know before starting a Patreon page](http://pencerw.com/feed/2020/6/24/three-things-all-creators-should-know-about-patreon?mc_cid=cb178f4bd4&mc_eid=5ac3a20371)
-* [The Regular Expression Denial of Service (ReDoS) Cheat-Sheet](https://levelup.gitconnected.com/the-regular-expression-denial-of-service-redos-cheat-sheet-a78d0ed7d865)
-* [A new theory about political polarization](https://phys.org/news/2020-06-theory-political-polarization.html)
+* [Circle of Competence: Avoid Ambiguity Traps](https://models.substack.com/p/circle-of-competence-avoid-ambiguity)
+* [A Few More Reasons Rust Compiles Slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
 * [The fall of Quibi: how did a starry $1.75B Netflix rival crash so fast?](https://www.theguardian.com/tv-and-radio/2020/jun/28/quibi-netflix-jeffrey-katzenberg-crash)
-* [BuildZoom (GC marketplace) is hiring sales, engineers and construction experts](https://jobs.lever.co/buildzoom)
+* [ReDoS: Regular Expression Denial of Service](https://levelup.gitconnected.com/the-regular-expression-denial-of-service-redos-cheat-sheet-a78d0ed7d865)
 * [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
+* [A new theory about political polarization](https://phys.org/news/2020-06-theory-political-polarization.html)
+* [BuildZoom (GC marketplace) is hiring sales, engineers and construction experts](https://jobs.lever.co/buildzoom)
 * [Ask HN: Best Bank for Startups?](https://news.ycombinator.com/item?id=23682511)
-* [Icicle Tree with static JSON data](https://philogb.github.io/jit/static/v20/Jit/Examples/Icicle/example1.html)
-* [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures?r=64gpc&utm_campaign=post&utm_medium=web&utm_source=hackernews)
 * [What every scientific programmer should know about compiler optimizations?](https://dl.acm.org/doi/abs/10.1145/3392717.3392754)
 * [Worrying about the NPM Ecosystem](https://sambleckley.com/writing/npm.html)
 * ['We've bought the wrong satellites': UK tech gamble baffles experts](https://www.theguardian.com/science/2020/jun/26/satellite-experts-oneweb-investment-uk-galileo-brexit)
-* [Forget Google, Time to End the Payment Processing Duopoly](https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7)
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
-* [YouTube bans Stefan Molyneux, David Duke, Richard Spencer for hate speech](https://www.theverge.com/2020/6/29/21307303/youtube-bans-molyneux-duke-richard-spencer-conduct-hate-speech)
 * [Greatest Java apps](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written)
+* [Icicle Tree with static JSON data](https://philogb.github.io/jit/static/v20/Jit/Examples/Icicle/example1.html)
+* [Neurons that fire together, wire together, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
 ## nytimes.com
 
 
@@ -82,18 +82,18 @@ layout: default
 * [Another Young Leader Taken. Afghans Ask: How Many More?](https://www.nytimes.com/2020/06/29/world/asia/afghanistan-women-human-rights.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
-* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [At the BET Awards, Putting Black Designers in the Spotlight](https://www.nytimes.com/2020/06/29/style/bet-awards-fashion.html)
 * [How José Andrés Faces the Challenge of Feeding Millions](https://www.nytimes.com/2020/06/29/well/jose-andres-chef-relief-disasters.html)
 * [How Jennifer Crawford’s Rural Fantasy Became a Reality](https://www.nytimes.com/2020/06/26/style/self-care/how-jennifer-crawfords-rural-fantasy-became-a-reality.html)
 * [In ‘And She Could Be Next,’ Women of Color Take on Politics](https://www.nytimes.com/2020/06/28/arts/television/and-she-could-be-next-pbs.html)
 * [Italian Soccer’s Fractious Chorus Tries a New Tune: Cooperation](https://www.nytimes.com/2020/06/29/sports/soccer/serie-a-president.html)
 * [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
-* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
+* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Tammy Duckworth is Biden's Best Running Mate Pick](https://www.nytimes.com/2020/06/27/opinion/sunday/tammy-duckworth-biden-2020.html)
 * [How the Trump Campaign Is Drawing Obama Out of Retirement](https://www.nytimes.com/2020/06/28/us/politics/obama-biden-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Preocupada com casos de Covid-19, China suspende importações de três produtores de carne do Brasil](https://oglobo.globo.com/economia/preocupada-com-casos-de-covid-19-china-suspende-importacoes-de-tres-produtores-de-carne-do-brasil-24506012)
+* [Primeiro hospital de campanha de SP para pacientes de Covid-19, Pacaembu encerra atividades](https://oglobo.globo.com/sociedade/coronavirus/primeiro-hospital-de-campanha-de-sp-para-pacientes-de-covid-19-pacaembu-encerra-atividades-24505944)
+* [Após reunião com Bolsonaro, Decotelli diz: 'sou ministro'](https://oglobo.globo.com/sociedade/apos-reuniao-com-bolsonaro-decotelli-diz-sou-ministro-24505996)
+* [Crivella quer testar imunidade de merendeiras a Covid-19 e reabrir escolas para refeições](https://oglobo.globo.com/rio/crivella-quer-testar-imunidade-de-merendeiras-covid-19-reabrir-escolas-para-refeicoes-24505982)
+* [Em seu primeiro depoimento, Queiroz diz à PF que desconhece vazamento de investigação para Flávio Bolsonaro](https://oglobo.globo.com/brasil/em-seu-primeiro-depoimento-queiroz-diz-pf-que-desconhece-vazamento-de-investigacao-para-flavio-bolsonaro-1-24505925)
+* [Celso de Mello vai relatar pedido para devolver ação de Flávio Bolsonaro à primeira instância](https://oglobo.globo.com/brasil/celso-de-mello-vai-relatar-pedido-para-devolver-acao-de-flavio-bolsonaro-primeira-instancia-24505970)
 * [Especialistas afirmam que Fluminense x Volta Redonda teve risco de contaminação em campo](https://oglobo.globo.com/esportes/especialistas-afirmam-que-fluminense-volta-redonda-teve-risco-de-contaminacao-em-campo-24505267)
-* [Após demitir 4.600 funcionários, Cirque du Soleil abre pedido de recuperação judicial para evitar falência](https://oglobo.globo.com/cultura/apos-demitir-4600-funcionarios-cirque-du-soleil-abre-pedido-de-recuperacao-judicial-para-evitar-falencia-24505890)
+* [Caio Vaz surfa tubo impressionante na praia da Barra; confira o vídeo](https://oglobo.globo.com/esportes/caio-vaz-surfa-tubo-impressionante-na-praia-da-barra-confira-video-24505952)
 * [Retorno às aulas nas escolas particulares não tem data definida, afirma Crivella, após se reunir com sindicatos](https://oglobo.globo.com/rio/retorno-as-aulas-nas-escolas-particulares-nao-tem-data-definida-afirma-crivella-apos-se-reunir-com-sindicatos-24505918)
 * [New York Times encerra parceria com o Apple News](https://oglobo.globo.com/economia/new-york-times-encerra-parceria-com-apple-news-24505933)
-* [Índia proíbe TikTok, WeChat e outros 57 aplicativos chineses de operar no país](https://oglobo.globo.com/economia/india-proibe-tiktok-wechat-outros-57-aplicativos-chineses-de-operar-no-pais-24505902)
-* [Em seu primeiro depoimento, Queiroz diz à PF que desconhece vazamento de investigação para Flávio Bolsonaro](https://oglobo.globo.com/brasil/em-seu-primeiro-depoimento-queiroz-diz-pf-que-desconhece-vazamento-de-investigacao-para-flavio-bolsonaro-24505925)
-* [Primeiro dia útil de reabertura do comércio de rua do Rio registra movimento fraco nesta segunda](https://oglobo.globo.com/rio/primeiro-dia-util-de-reabertura-do-comercio-de-rua-do-rio-registra-movimento-fraco-nesta-segunda-24505873)
-* [Gilmar Mendes, do STF, suspende todas as ações que tratam de correção monetária de processos trabalhistas](https://oglobo.globo.com/economia/gilmar-mendes-do-stf-suspende-todas-as-acoes-que-tratam-de-correcao-monetaria-de-processos-trabalhistas-24505867)
-* [Novo vírus da gripe com 'potencial pandêmico' é encontrado na China](https://epoca.globo.com/mundo/novo-virus-da-gripe-com-potencial-pandemico-encontrado-na-china-24505857)
-* [Chineses identificam, em porcos, vírus de gripe com potencial de gerar nova pandemia](https://oglobo.globo.com/sociedade/chineses-identificam-em-porcos-virus-de-gripe-com-potencial-de-gerar-nova-pandemia-24505818)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 15:10:16 UTC
+# indexed at 29/06/2020 15:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
-* [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
+* [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
-* [Pachyderm is hiring customer-facing engineers with K8s expertise](https://jobs.lever.co/pachyderm/)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
+* [Pachyderm is hiring customer-facing engineers with K8s expertise](https://jobs.lever.co/pachyderm/)
+* [There’s no replacement for the thrill of browsing in a bookstore](https://www.washingtonpost.com/entertainment/books/theres-no-replacement-for-the-thrill-of-browsing-in-a-bookstore/2020/06/25/20855c1a-abf1-11ea-a9d9-a81c1a491c52_story.html)
 * [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
 * [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
-* [A decidedly non-Linux distro walkthrough: Haiku R1/beta2](https://arstechnica.com/gadgets/2020/06/a-decidedly-non-linux-distro-walkthrough-haiku-r1-beta2/)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [A decidedly non-Linux distro walkthrough: Haiku R1/beta2](https://arstechnica.com/gadgets/2020/06/a-decidedly-non-linux-distro-walkthrough-haiku-r1-beta2/)
 * [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
-* [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
-* [eBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 * [Has GitHub been down more since its acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
-* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
-* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
+* [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
 * [Polymorphic Allocators from C++17, std:vector Growth and Hacking](https://www.bfilipek.com/2020/06/pmr-hacking.html)
+* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
+* [eBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
+* [The Wrongful Death of Toussaint Louverture](https://www.historytoday.com/archive/feature/wrongful-death-toussaint-louverture)
 * [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
-* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
+* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
-* [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 * [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
-* [Try these 4 languages from 4 corners of Programming](https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm)
+* [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
+* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
-* [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
+* [Try these 4 languages from 4 corners of Programming](https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm)
 * [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
-* [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
 ## nytimes.com
 
 
@@ -84,10 +84,10 @@ layout: default
 * [BET Awards Put Black Lives at Center of Socially Distant Show](https://www.nytimes.com/2020/06/29/arts/music/bet-awards.html)
 * [These Are the Heartbreaking Belongings That Covid Victims Left Behind](https://www.nytimes.com/2020/06/29/nyregion/coronavirus-hospitals-patients-belongings.html)
 * [Marty Baron Made The Post Great Again. Now, the News Is Changing.](https://www.nytimes.com/2020/06/28/business/media/martin-baron-washington-post.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Jim Carrey, Unmasked](https://www.nytimes.com/2020/06/29/books/jim-carrey-memoirs-and-misinformation.html)
 * [Pride Through Repetition](https://www.nytimes.com/2020/06/26/well/family/LGBT-pride-dementia.html)
 * [16 Books to Watch For in July](https://www.nytimes.com/2020/06/24/books/new-july-books.html)
@@ -105,12 +105,12 @@ layout: default
 ## globo.com
 
 
-* [Crivella inaugura Unidade de Saúde Veterinária na Zona Sul, que terá 30 atendimentos gratuitos diários](https://oglobo.globo.com/rio/crivella-inaugura-unidade-de-saude-veterinaria-na-zona-sul-que-tera-30-atendimentos-gratuitos-diarios-24505054)
 * [Covid-19: Ibaneis Rocha decreta estado de calamidade no Distrito Federal](https://oglobo.globo.com/sociedade/covid-19-ibaneis-rocha-decreta-estado-de-calamidade-no-distrito-federal-24505053)
+* [Suprema Corte americana invalida lei local que restringe o aborto](https://oglobo.globo.com/sociedade/suprema-corte-americana-invalida-lei-local-que-restringe-aborto-24505123)
 * ['Fui chamado de macaco e nunca esqueci', diz único jogador da Cabofriense que se ajoelhou em protesto do Botafogo](https://oglobo.globo.com/esportes/fui-chamado-de-macaco-nunca-esqueci-diz-unico-jogador-da-cabofriense-que-se-ajoelhou-em-protesto-do-botafogo-24505032)
-* [Magistrados discutem em webinar atuação da Justiça no pós-pandemia](https://oglobo.globo.com/brasil/magistrados-discutem-em-webinar-atuacao-da-justica-no-pos-pandemia-24496489)
+* [China autoriza vacina contra coronavírus nas forças armadas](https://oglobo.globo.com/sociedade/china-autoriza-vacina-contra-coronavirus-nas-forcas-armadas-24505111)
+* [Crivella inaugura Unidade de Saúde Veterinária na Zona Sul, que terá 30 atendimentos gratuitos diários](https://oglobo.globo.com/rio/crivella-inaugura-unidade-de-saude-veterinaria-na-zona-sul-que-tera-30-atendimentos-gratuitos-diarios-24505054)
 * [STF busca garantir segurança jurídica no pós-pandemia](https://epoca.globo.com/stf-busca-garantir-seguranca-juridica-no-pos-pandemia-24499495)
-* [WhatsApp: Facebook e Cielo pedem para Cade reconsiderar suspensão de sistema de pagamentos](https://oglobo.globo.com/economia/whatsapp-facebook-cielo-pedem-para-cade-reconsiderar-suspensao-de-sistema-de-pagamentos-24505008)
 * [Sobreviventes de coronavírus estão sob risco de 'estresse pós-traumático', advertem médicos](https://epoca.globo.com/sociedade/sobreviventes-de-coronavirus-estao-sob-risco-de-estresse-pos-traumatico-advertem-medicos-24505031)
 * [Campanha de vacinação contra a gripe termina na terça-feira](https://oglobo.globo.com/rio/campanha-de-vacinacao-contra-gripe-termina-na-terca-feira-24504988)
 * [Escolas de Niterói se preparam para os desafios da volta às aulas](https://oglobo.globo.com/rio/bairros/escolas-de-niteroi-se-preparam-para-os-desafios-da-volta-as-aulas-24502167)

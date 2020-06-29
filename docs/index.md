@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 00:38:08 UTC
+# indexed at 29/06/2020 01:11:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
-* [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
-* [Many Covid Patients Have Terrifying Hallucinations and Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
-* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
+* [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
-* [Shale pioneer Chesapeake Energy files for bankruptcy](https://www.reuters.com/article/us-chesapeake-enrgy-bankruptcy/shale-pioneer-chesapeake-energy-files-for-bankruptcy-idUSKBN23Z0SS)
+* [Many Covid Patients Have Terrifying Hallucinations and Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
+* [Shale pioneer Chesapeake Energy files for bankruptcy](https://www.reuters.com/article/us-chesapeake-enrgy-bankruptcy/shale-pioneer-chesapeake-energy-files-for-bankruptcy-idUSKBN23Z0SS)
 * [USPS sells nearly $20B worth of money orders a year](https://www.federalreserve.gov/paymentsystems/check_postalmosprocqtr.htm)
 * [Was Acorn's RISC OS an under-appreciated pearl of OS design?](https://liam-on-linux.livejournal.com/72192.html)
 * [A visual chronicle of Tokyo’s disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/)
-* [India Debates Skin-Tone Bias as Beauty Companies Alter Ads](https://www.nytimes.com/2020/06/28/world/asia/india-skin-color-unilever.html)
 * [Show HN: Hacker News front page in the style of a print newspaper](https://www.wolfgangfaust.com/project/paper-hn/)
 * [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
 * [Show HN: Promnesia – an attempt to fix broken web history](https://beepb00p.xyz/promnesia.html)
-* [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
+* [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
 * [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
+* [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
+* [India Debates Skin-Tone Bias as Beauty Companies Alter Ads](https://www.nytimes.com/2020/06/28/world/asia/india-skin-color-unilever.html)
 * [Innovation by ancient farmers adds to biodiversity of the Amazon, study shows](https://www.exeter.ac.uk/news/research/title_801967_en.html)
 * [Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
-* [Sirum (YC W15 Nonprofit) hiring full-stack engineer to make medicine affordable](https://sirum.breezy.hr/p/ef46b4b6d6cb-fullstack-engineer-1-atlanta-ga-preferred)
 * [Cheddar empire: Rise of a cheese superpower](https://www.cnn.com/travel/article/cheddar-cheese-history/index.html)
-* [The chicken first crossed the road in Southeast Asia, landmark gene study finds](https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds)
-* [Facebook content policies tweaked over time to accommodate POTUS](https://www.washingtonpost.com/technology/2020/06/28/facebook-zuckerberg-trump-hate/)
-* [Kudzu, the vine that never truly ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+* [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
 * [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
-* [Wanted: Console Text Editor for Windows](https://virtuallyfun.com/wordpress/2018/02/15/wanted-console-text-editor-for-windows/)
-* [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
-* [Losing the Narrative: The Genre Fiction of the Professional Class](https://americanaffairsjournal.org/2020/05/losing-the-narrative-the-genre-fiction-of-the-professional-class/)
+* [Kudzu, the vine that never truly ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+* [Sirum (YC W15 Nonprofit) hiring full-stack engineer to make medicine affordable](https://sirum.breezy.hr/p/ef46b4b6d6cb-fullstack-engineer-1-atlanta-ga-preferred)
 * [A principled approach to GraphQL query cost analysis](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
+* [Wanted: Console Text Editor for Windows](https://virtuallyfun.com/wordpress/2018/02/15/wanted-console-text-editor-for-windows/)
+* [Facebook content policies tweaked over time to accommodate POTUS](https://www.washingtonpost.com/technology/2020/06/28/facebook-zuckerberg-trump-hate/)
+* [Foam – A Roam Research alternative with VSCode, Markdown and GitHub](https://github.com/foambubble/foam)
 ## nytimes.com
 
 
@@ -86,29 +86,29 @@ layout: default
 * [Majestic Icon or Invasive Pest? A War Over Australia’s Wild Horses](https://www.nytimes.com/2020/06/28/world/australia/brumbies-horses-culling.html)
 * [Poland Election Tests Democracy in a Pandemic](https://www.nytimes.com/2020/06/28/world/europe/poland-election-coronavirus.html)
 * [Charles Webb, Elusive Author of ‘The Graduate,’ Dies at 81](https://www.nytimes.com/2020/06/28/books/charles-webb-dead.html)
-* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Five Years and 100-Plus Stories: What It’s Like Covering ‘Hamilton’](https://www.nytimes.com/2020/06/27/insider/hamilton-disney-plus-puerto-rico.html)
 * [French Soccer’s Renegade President Would Like a Word. With Everyone.](https://www.nytimes.com/2020/06/27/sports/soccer/lyon-aulas-ligue-1.html)
 * [400 Hours. $500.](https://www.nytimes.com/2020/06/26/arts/latasha-harlins-laura-park.html)
 * [Say I Love You. I’m Waiting.](https://www.nytimes.com/2020/06/27/fashion/weddings/say-i-love-you-im-waiting.html)
 * [Fresh and Satisfying](https://www.nytimes.com/2020/06/26/dining/fresh-and-satisfying.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
-* [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
 * [China Reports Progress in Ultra-Secure Satellite Transmission](https://www.nytimes.com/2020/06/15/science/quantum-satellites-china-spying.html)
 * [Dog Breeding in the Neolithic Age](https://www.nytimes.com/2020/06/25/science/arctic-sled-dogs-genetics.html)
+* [Blowing Bubbles to Pollinate Flowers](https://www.nytimes.com/2020/06/17/science/bubbles-pollinating-bees.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Entenda por que jogo do Fluminense foi mantido mesmo com atletas do Volta Redonda contaminados](https://oglobo.globo.com/esportes/entenda-por-que-jogo-do-fluminense-foi-mantido-mesmo-com-atletas-do-volta-redonda-contaminados-24504491)
 * [No dia do orgulho LGBT, ato em Copacabana é marcado por luta pela democracia](https://oglobo.globo.com/sociedade/no-dia-do-orgulho-lgbt-ato-em-copacabana-marcado-por-luta-pela-democracia-1-24504493)
 * [Novas colunas da editoria de Economia do GLOBO tornam cobertura mais dinâmica](https://oglobo.globo.com/meu-oglobo/novas-colunas-da-editoria-de-economiado-globo-tornam-cobertura-mais-dinamica-1-24504603)
 * [Egídio é expulso, e Fluminense perde para o Volta Redonda na volta de Fred](https://oglobo.globo.com/esportes/egidio-expulso-fluminense-perde-para-volta-redonda-na-volta-de-fred-24504600)
-* [Entenda por que jogo do Fluminense foi mantido mesmo com atletas do Volta Redonda contaminados](https://oglobo.globo.com/esportes/entenda-por-que-jogo-do-fluminense-foi-mantido-mesmo-com-atletas-do-volta-redonda-contaminados-24504491)
 * [Brasil registra quase 30 mil novos casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-quase-30-mil-novos-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24504481)
 * [Erro do governo reduz benefício emergencial pago a quase 100 mil com contrato suspenso ou jornada reduzida](https://oglobo.globo.com/economia/erro-do-governo-reduz-beneficio-emergencial-pago-quase-100-mil-com-contrato-suspenso-ou-jornada-reduzida-24504484)
 * [Após PGR criticar Lava-Jato, Dallagnol prega independência no MP](https://oglobo.globo.com/brasil/apos-pgr-criticar-lava-jato-dallagnol-prega-independencia-no-mp-1-24504487)

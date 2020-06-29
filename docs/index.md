@@ -2,46 +2,45 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 06:34:33 UTC
+# indexed at 29/06/2020 07:10:18 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Break Up Google](https://www.tbray.org/ongoing/When/202x/2020/06/25/Break-Up-Google)
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
-* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
 * [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
+* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
+* [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
 * [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
 * [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
-* [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
 * [Why Does DARPA Work?](https://benjaminreinhardt.com/wddw)
-* [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
-* [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
-* [Zero-sum thinking on immigration will make America poorer](https://sites.uw.edu/uwpoliticaleconomy/blog/blog-post-3-magistro-and-wittstock/)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [Implementing the Exponential Function](https://www.pseudorandom.com/implementing-exp)
+* [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
+* [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
 * [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
 * [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
 * [Show HN: Hacker News front page in the style of a print newspaper](https://www.wolfgangfaust.com/project/paper-hn/)
+* [Zero-sum thinking on immigration will make America poorer](https://sites.uw.edu/uwpoliticaleconomy/blog/blog-post-3-magistro-and-wittstock/)
 * [A visual chronicle of Tokyo’s disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/)
-* [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
 * [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
-* [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
+* [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
+* [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
+* [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
 * [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
-* [Show HN: 8-bit CPU simulator in C](https://github.com/reutiteuti/logic)
-* [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
 * [Innovation by ancient farmers adds to biodiversity of the Amazon, study shows](https://www.exeter.ac.uk/news/research/title_801967_en.html)
-* [Software should be designed to last](https://adlrocha.substack.com/p/adlrocha-software-should-be-designed)
-* [Controversies and Challenges in fMRI (2018)](http://www.thebrainblog.org/2018/12/23/twenty-six-controversies-and-challenges-in-fmri/)
+* [Pareto Front Sort for Python](https://github.com/kummahiih/pypareto)
 * [UCSF forced to pay more than $1M ransom to perpetrators of malware attack](https://www.ktvu.com/news/ucsf-forced-to-pay-ransom-to-perpetrators-of-malware-attack)
-* [Cheddar empire: Rise of a cheese superpower](https://www.cnn.com/travel/article/cheddar-cheese-history/index.html)
+* [Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
 ## nytimes.com
 
 
-* [Gunmen Storm Pakistan’s Stock Exchange, Killing at Least 2](https://www.nytimes.com/2020/06/29/world/asia/pakistan-stock-exchange-shooting.html)
 * [Coronavirus Live Updates: Global Deaths Pass 500,000](https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html)
 * [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [Florida’s Covid Cases Up Fivefold in 2 Weeks: ‘The Numbers Are Scary’](https://www.nytimes.com/2020/06/28/us/coronavirus-florida-miami.html)
@@ -78,6 +77,7 @@ layout: default
 * [Studio Visit | Milton Glaser](https://www.nytimes.com/video/t-magazine/100000003596167/milton-glaser-studio-visit.html)
 * [How to Deal With a Scary Stock Market](https://www.nytimes.com/2020/06/26/business/investing-stock-market-fear.html)
 * [How We Got Here: Writers on Race and Racism in America](https://www.nytimes.com/article/books-race-america.html)
+* [Gunmen Wage a Deadly Battle at Pakistan’s Stock Exchange in Karachi](https://www.nytimes.com/2020/06/29/world/asia/pakistan-stock-exchange-shooting.html)
 * [New England Patriots Sign Cam Newton and Face N.F.L. Penalty](https://www.nytimes.com/2020/06/28/sports/football/cam-newton-patriots-fine.html)
 * [Bagged Salads Recalled After Hundreds Are Sickened in the Midwest](https://www.nytimes.com/2020/06/28/us/salad-recall-cyclospora-cdc.html)
 * [Linda Cristal, Who Starred in ‘High Chaparral,’ Dies at 89](https://www.nytimes.com/2020/06/28/obituaries/linda-cristal-dead.html)

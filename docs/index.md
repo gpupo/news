@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 17:10:37 UTC
+# indexed at 29/06/2020 17:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Circle of Competence: Avoid Ambiguity Traps](https://models.substack.com/p/circle-of-competence-avoid-ambiguity)
-* [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)
 * [Deep Chernoff Faces](https://www.ihatethefuture.com/2020/06/deep-chernoff-faces.html)
-* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
+* [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)
 * [Reddit shuts down r/The_Donald](https://www.washingtonpost.com/technology/2020/06/29/reddit-closes-long-running-forum-supporting-president-trump-after-years-policy-violations/)
+* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [There’s no replacement for the thrill of browsing in a bookstore](https://www.washingtonpost.com/entertainment/books/theres-no-replacement-for-the-thrill-of-browsing-in-a-bookstore/2020/06/25/20855c1a-abf1-11ea-a9d9-a81c1a491c52_story.html)
-* [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
 * [Apple declined to implement 16 Web APIs in Safari due to privacy concerns](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)
+* [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
 * [The fall of Quibi: how did a starry $1.75bn Netflix rival crash so fast?](https://www.theguardian.com/tv-and-radio/2020/jun/28/quibi-netflix-jeffrey-katzenberg-crash)
-* [Scandinavian Monitoring Stations Detect Unexplained Radiation Spike over Europe](https://www.iflscience.com/physics/unexplained-radiation-spike-over-europe-detected-by-scandinavian-monitoring-stations/)
-* [New Geometric Perspective Cracks Old Problem About Rectangles](https://www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/)
-* [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
 * [What every scientific programmer should know about compiler optimizations?](https://dl.acm.org/doi/abs/10.1145/3392717.3392754)
+* [New Geometric Perspective Cracks Old Problem About Rectangles](https://www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/)
+* [Scandinavian Monitoring Stations Detect Unexplained Radiation Spike over Europe](https://www.iflscience.com/physics/unexplained-radiation-spike-over-europe-detected-by-scandinavian-monitoring-stations/)
+* [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
 * [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
 * [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
-* [A new theory about political polarization](https://phys.org/news/2020-06-theory-political-polarization.html)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
-* [The Wrongful Death of Toussaint Louverture](https://www.historytoday.com/archive/feature/wrongful-death-toussaint-louverture)
-* [Pachyderm is hiring customer-facing engineers with K8s expertise](https://jobs.lever.co/pachyderm/)
-* [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
-* [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
-* [First Benchmarks Surface for Apple's ARM-Based Developer Transition Kit](https://9to5mac.com/2020/06/29/first-benchmarks-surface-for-apples-arm-based-developer-transition-kit/)
-* [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [A new theory about political polarization](https://phys.org/news/2020-06-theory-political-polarization.html)
 * [Flannery O’Connor Didn't Care If You Liked Her Work](https://churchlifejournal.nd.edu/articles/flannery-oconnor-didnt-care-if-you-liked-her-work/#.Xvn5txvapco.hackernews)
-* [A decidedly non-Linux distro walkthrough: Haiku R1/beta2](https://arstechnica.com/gadgets/2020/06/a-decidedly-non-linux-distro-walkthrough-haiku-r1-beta2/)
+* [The Wrongful Death of Toussaint Louverture](https://www.historytoday.com/archive/feature/wrongful-death-toussaint-louverture)
+* [First Benchmarks Surface for Apple's ARM-Based Developer Transition Kit](https://9to5mac.com/2020/06/29/first-benchmarks-surface-for-apples-arm-based-developer-transition-kit/)
+* [Pachyderm is hiring customer-facing engineers with K8s expertise](https://jobs.lever.co/pachyderm/)
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
-* [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+* [A decidedly non-Linux distro walkthrough: Haiku R1/beta2](https://arstechnica.com/gadgets/2020/06/a-decidedly-non-linux-distro-walkthrough-haiku-r1-beta2/)
 * [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
+* [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+* [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
+* [eBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Coronavirus Is Battering Africa’s Growing Middle Class](https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html)
 * [Putin Pushes Through Referendum Even as Virus Surges in Russia](https://www.nytimes.com/2020/06/29/world/europe/coronavirus-russia-putin-referendum.html)
 * [Marty Baron Made The Post Great Again. Now, the News Is Changing.](https://www.nytimes.com/2020/06/28/business/media/martin-baron-washington-post.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [At the BET Awards, Putting Black Designers in the Spotlight](https://www.nytimes.com/2020/06/29/style/bet-awards-fashion.html)
 * [How José Andrés Faces the Challenge of Feeding Millions](https://www.nytimes.com/2020/06/29/well/jose-andres-chef-relief-disasters.html)
 * [How Jennifer Crawford’s Rural Fantasy Became a Reality](https://www.nytimes.com/2020/06/26/style/self-care/how-jennifer-crawfords-rural-fantasy-became-a-reality.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Elevado Paulo de Frontin será interditado para manutenção, no sentido Centro, nesta terça](https://oglobo.globo.com/rio/elevado-paulo-de-frontin-sera-interditado-para-manutencao-no-sentido-centro-nesta-terca-24505354)
+* [Doria anuncia multa para falta de uso de máscaras e Covas organiza parques para reabertura](https://oglobo.globo.com/sociedade/doria-anuncia-multa-para-falta-de-uso-de-mascaras-covas-organiza-parques-para-reabertura-24505231)
+* [Subprocurador-geral pede ao TCU que apure prejuízo ao erário na nomeação de Decotelli ao MEC](https://oglobo.globo.com/sociedade/subprocurador-geral-pede-ao-tcu-que-apure-prejuizo-ao-erario-na-nomeacao-de-decotelli-ao-mec-24505324)
+* ["Nem sempre as pessoas são governadas por quem gostaríamos. Mas não vamos combater o vírus com ideologias", diz diretor da OMS](https://oglobo.globo.com/sociedade/nem-sempre-as-pessoas-sao-governadas-por-quem-gostariamos-mas-nao-vamos-combater-virus-com-ideologias-diz-diretor-da-oms-24505257)
 * [Corregedora da PGR abre sindicância para apurar conflito de auxiliar de Aras com Lava-Jato de Curitiba](https://oglobo.globo.com/brasil/corregedora-da-pgr-abre-sindicancia-para-apurar-conflito-de-auxiliar-de-aras-com-lava-jato-de-curitiba-24505311)
 * [Polícia investiga se filho de traficante era alvo de bando que atirou contra local de festa e matou cinco, em Anchieta](https://oglobo.globo.com/rio/policia-investiga-se-filho-de-traficante-era-alvo-de-bando-que-atirou-contra-local-de-festa-matou-cinco-em-anchieta-24505292)
 * [Entenda por que cancelamento de Wimbledon não resultou em prejuízos](https://oglobo.globo.com/esportes/entenda-por-que-cancelamento-de-wimbledon-nao-resultou-em-prejuizos-24505308)
-* ["Nem sempre somos governados por quem gostaríamos. Mas não vamos combater o vírus com ideologias", diz diretor da OMS](https://oglobo.globo.com/sociedade/nem-sempre-somos-governados-por-quem-gostariamos-mas-nao-vamos-combater-virus-com-ideologias-diz-diretor-da-oms-24505257)
 * [Corregedoria do MPF abre investigação para apurar cópia de dados sigilosos da Lava Jato e sistema de gravação](https://epoca.globo.com/guilherme-amado/corregedoria-do-mpf-abre-investigacao-para-apurar-copia-de-dados-sigilosos-da-lava-jato-sistema-de-gravacao-24503136)
-* [Tele mineira Algar e fundo de Cingapura entram na disputa pela operação móvel da Oi](https://oglobo.globo.com/economia/tele-mineira-algar-fundo-de-cingapura-entram-na-disputa-pela-operacao-movel-da-oi-24505252)
 * [Faculdades particulares devem fechar 2020 com inadimplência recorde de 11,3%](https://oglobo.globo.com/economia/faculdades-particulares-devem-fechar-2020-com-inadimplencia-recorde-de-113-24505226)
-* [Flamengo vive expectativa por aprovação e prepara apresentação de novo patrocinador](https://oglobo.globo.com/esportes/flamengo-vive-expectativa-por-aprovacao-prepara-apresentacao-de-novo-patrocinador-24505270)
 * [Dispara busca por 'como verificar fake news'](https://epoca.globo.com/guilherme-amado/dispara-busca-por-como-verificar-fake-news-24503134)
-* [É #FAKE que Weintraub terá acesso a contas de ministros do STF quando ocupar cargo de diretor do Banco Mundial](https://oglobo.globo.com/fato-ou-fake/e-fake-que-weintraub-tera-acesso-contas-de-ministros-do-stf-quando-ocupar-cargo-de-diretor-do-banco-mundial-24505265)

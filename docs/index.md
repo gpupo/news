@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 12:13:17 UTC
+# indexed at 29/06/2020 12:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Has GitHub been down more since its acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
-* [Why do so few people major in computer science?](https://danwang.co/why-so-few-computer-science-majors/)
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
 * [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
 * [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
+* [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
-* [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
-* ['We've bought the wrong satellites': UK tech gamble baffles experts](https://www.theguardian.com/science/2020/jun/26/satellite-experts-oneweb-investment-uk-galileo-brexit)
 * [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
+* [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
 * [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
-* [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
+* ['We've bought the wrong satellites': UK tech gamble baffles experts](https://www.theguardian.com/science/2020/jun/26/satellite-experts-oneweb-investment-uk-galileo-brexit)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
+* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
-* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
 * [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
+* [GitHub Is Down](https://www.githubstatus.com)
+* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
 * [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
 * [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
-* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
-* [GitHub Is Down](https://www.githubstatus.com)
-* [Putin's People – a groundbreaking study that follows the money](https://www.theguardian.com/books/2020/may/06/putins-people-by-catherine-belton-review-a-groundbreaking-study-that-follows-the-money)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
-* [Political Data Leak in Malta](https://edri.org/massive-political-data-leak-in-malta/)
+* [Try these 4 languages from 4 corners of Programming](https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm)
 * [Yelp: Local Economic Impact Report](https://www.yelpeconomicaverage.com/yelp-coronavirus-economic-impact-report.html)
-* [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
 * [Werner Herzog: ‘Film-making is always some sort of risk-taking’](https://www.ft.com/content/9979bfb8-b5fa-11ea-8ecb-0994e384dffe)
+* [Taxonomic vandalism and the Raymond Hoser problem (2013)](https://blogs.scientificamerican.com/tetrapod-zoology/taxonomic-vandalism-and-hoser/)
+* [Godot 4.0 gets SDF based real-time global illumination](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination)
+* [A working observatory which tracks "near-Earth objects"](https://www.bbc.com/news/uk-wales-53082475)
 ## nytimes.com
 
 
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Com pandemia em declínio, Peru suspende regras de isolamento social](https://oglobo.globo.com/mundo/com-pandemia-em-declinio-peru-suspende-regras-de-isolamento-social-24504817)
-* [Saque emergencial do FGTS: Ganho de Fundo já supera o da poupança e outras aplicações. Quando vale a pena resgatar?](https://oglobo.globo.com/economia/saque-emergencial-do-fgts-ganho-de-fundo-ja-supera-da-poupanca-outras-aplicacoes-quando-vale-pena-resgatar-24504637)
+* [Dólar inicia a semana em queda, negociado abaixo de R$ 5,45](https://oglobo.globo.com/economia/dolar-inicia-semana-em-queda-negociado-abaixo-de-545-24504875)
+* [Por que gigantes como Starbucks, Coca-Cola, Unilever e Diageo suspenderam publicidade nas redes sociais](https://epoca.globo.com/economia/por-que-gigantes-como-starbucks-coca-cola-unilever-diageo-suspenderam-publicidade-nas-redes-sociais-24504876)
+* [Peru afirma que pandemia está em declínio e anuncia fim do isolamento social](https://oglobo.globo.com/mundo/peru-afirma-que-pandemia-esta-em-declinio-anuncia-fim-do-isolamento-social-24504817)
+* [Metade dos tribunais brasileiros já recorre à inteligência artificial para agilizar processos, aponta pesquisa](https://oglobo.globo.com/brasil/metade-dos-tribunais-brasileiros-ja-recorre-inteligencia-artificial-para-agilizar-processos-aponta-pesquisa-24502062)
+* [Semana começa no Rio com chuva em algumas regiões e temperatura mais baixa](https://oglobo.globo.com/rio/semana-comeca-no-rio-com-chuva-em-algumas-regioes-temperatura-mais-baixa-1-24504856)
+* [Universidade de Wüppertal: ministro da Educação não recebeu título de pós-doutorado na Alemanha](https://oglobo.globo.com/sociedade/educacao/universidade-de-wuppertal-ministro-da-educacao-nao-recebeu-titulo-de-pos-doutorado-na-alemanha-24504816)
+* [Ministro da Educação não tem pós-doutorado na Alemanha, diz Universidade de Wüppertal](https://oglobo.globo.com/sociedade/ministro-da-educacao-nao-tem-pos-doutorado-na-alemanha-diz-universidade-de-wuppertal-24504818)
+* [Rússia nega ser origem de nuvem de material radioativo suspeito sobre Escandinávia](https://epoca.globo.com/mundo/russia-nega-ser-origem-de-nuvem-de-material-radioativo-suspeito-sobre-escandinavia-24504869)
 * [Salões e comércio de rua em funcionamento e previsão de ampliação da reabertura do Rio; veja as novas regras](https://oglobo.globo.com/rio/saloes-comercio-de-rua-em-funcionamento-previsao-de-ampliacao-da-reabertura-do-rio-veja-as-novas-regras-24504810)
-* [Kardashian 'desaparecido' reaparece em festa de aniversário da irmã](https://oglobo.globo.com/ela/gente/kardashian-desaparecido-reaparece-em-festa-de-aniversario-da-irma-24504820)
-* [Datafolha: 81% dizem que espalhar fake news contra políticos e ministros do STF ameaça a democracia](https://oglobo.globo.com/brasil/datafolha-81-dizem-que-espalhar-fake-news-contra-politicos-ministros-do-stf-ameaca-democracia-1-24504794)
 * [Bancos já emprestaram mais de R$ 1,1 trilhão durante a pandemia, diz Febraban](https://oglobo.globo.com/economia/bancos-ja-emprestaram-mais-de-11-trilhao-durante-pandemia-diz-febraban-24504582)
-* [Brasil tem 1.345.470 casos e 57.659 mortos por Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1345470-casos-57659-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24504796)
-* [Elas no poder: projeto conta histórias de políticas eleitas da América Latina](https://epoca.globo.com/guilherme-amado/elas-no-poder-projeto-conta-historias-de-politicas-eleitas-da-america-latina-1-24502010)
-* [Lídice da Mata, relatora da CPMI das Fake News, será entrevistada hoje por ÉPOCA](https://epoca.globo.com/lidice-da-mata-relatora-da-cpmi-das-fake-news-sera-entrevistada-hoje-por-epoca-1-24502764)
-* [Campanha tenta pressionar Câmara pelo adiamento de eleições](https://epoca.globo.com/guilherme-amado/campanha-tenta-pressionar-camara-pelo-adiamento-de-eleicoes-24502811)

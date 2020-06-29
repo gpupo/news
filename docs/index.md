@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/06/2020 13:11:20 UTC
+# indexed at 29/06/2020 13:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
+* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Neurons that fire together, wire together Ok, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
-* [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
 * [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
+* [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98)
 * [Textures.js is a JavaScript library for creating SVG patterns](https://riccardoscalco.it/textures/)
 * [Better Geometry Through Graph Theory (2018)](http://ideolalia.com/2018/08/28/artifex.html)
-* [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
 * [Finishing a side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
-* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
+* [Console, the vital tool that Apple abandoned](https://eclecticlight.co/2020/06/14/last-week-on-my-mac-console-the-vital-tool-that-apple-abandoned/)
+* [The fall of Quibi: how did a starry $1.75bn Netflix rival crash so fast?](https://www.theguardian.com/tv-and-radio/2020/jun/28/quibi-netflix-jeffrey-katzenberg-crash)
 * [Use Unix Pipes to Improve Chromecast Playback](https://alexdelorenzo.dev/linux/2020/03/14/pipes)
+* [The Wrongful Death of Toussaint Louverture](https://www.historytoday.com/archive/feature/wrongful-death-toussaint-louverture)
+* [Greatest Java apps ever written](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written)
 * [Taking Up Animation as a Hobby](http://yosefk.com/blog/a-better-future-animated-post.html)
 * [Has GitHub been down more since its acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
-* [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html)
-* [Make educated wireless router/AP upgrade decisions](https://www.duckware.com/tech/wifi-in-the-us.html)
-* [Greatest Java apps ever written](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written)
 * [Linux Kernel Is Still Seeing Driver Work for the Macintosh II](https://www.phoronix.com/scan.php?page=news_item&px=2020-Linux-Macintosh-II-ADB)
-* [The fall of Quibi: how did a starry $1.75bn Netflix rival crash so fast?](https://www.theguardian.com/tv-and-radio/2020/jun/28/quibi-netflix-jeffrey-katzenberg-crash)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
-* [The Wrongful Death of Toussaint Louverture](https://www.historytoday.com/archive/feature/wrongful-death-toussaint-louverture)
-* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
-* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
-* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
-* [GitHub Is Down](https://www.githubstatus.com)
-* [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
+* [A decidedly non-Linux distro walkthrough: Haiku R1/beta2](https://arstechnica.com/gadgets/2020/06/a-decidedly-non-linux-distro-walkthrough-haiku-r1-beta2/)
 * [Apple declined to implement 16 Web APIs in Safari due to privacy concerns](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)
-* [Try these 4 languages from 4 corners of Programming](https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm)
-* [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
-* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
+* [The Running Novelist: Learning how to go the distance (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
+* [The U.S. can now set its own rates for mail from China and other countries](https://www.ecomcrew.com/why-china-post-and-usps-are-killing-your-private-labeling-business/)
+* [The Restlessness of Gerhard Richter](https://www.apollo-magazine.com/gerhard-richter-review-met-breuer/)
+* [Commodore SX-64 keyboard restoration](https://retrohax.net/commodore-sx-64-keyboard-restoration/)
+* [GitHub Is Down](https://www.githubstatus.com)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+* [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to)
+* [eBay’s Critics Faced an Extreme Case of an Old Silicon Valley Habit](https://www.nytimes.com/2020/06/27/technology/ebay-silicon-valley-security-reputation.html)
+* [The Muddle Machine: Confessions of a Textbook Editor (2004)](https://web.archive.org/web/20100107152825/https://www.edutopia.org/textbook-publishing-controversy)
+* [Try these 4 languages from 4 corners of Programming](https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm)
 ## nytimes.com
 
 
@@ -81,9 +81,9 @@ layout: default
 * [Linda Cristal, Who Starred in ‘High Chaparral,’ Dies at 89](https://www.nytimes.com/2020/06/28/obituaries/linda-cristal-dead.html)
 * [Mask Exemption Cards From the ‘Freedom to Breathe Agency’? They’re Fake](https://www.nytimes.com/2020/06/28/us/fake-face-mask-exemption-card-coronavirus.html)
 * [Pakistan Stock Exchange Attack Leaves Several Dead](https://www.nytimes.com/2020/06/29/world/asia/pakistan-stock-exchange-shooting.html)
-* [Marty Baron Made The Post Great Again. Now, the News Is Changing.](https://www.nytimes.com/2020/06/28/business/media/martin-baron-washington-post.html)
+* [BET Awards Put Black Lives at Center of Socially Distant Show](https://www.nytimes.com/2020/06/29/arts/music/bet-awards.html)
 * [These Are the Heartbreaking Belongings That Covid Victims Left Behind](https://www.nytimes.com/2020/06/29/nyregion/coronavirus-hospitals-patients-belongings.html)
-* [TikTok Is Shaping Politics. But How?](https://www.nytimes.com/2020/06/28/style/tiktok-teen-politics-gen-z.html)
+* [Marty Baron Made The Post Great Again. Now, the News Is Changing.](https://www.nytimes.com/2020/06/28/business/media/martin-baron-washington-post.html)
 * [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
 * [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
 * [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
@@ -93,10 +93,10 @@ layout: default
 * [16 Books to Watch For in July](https://www.nytimes.com/2020/06/24/books/new-july-books.html)
 * [The Pandemic Work Diary of a Napa C.E.O.](https://www.nytimes.com/2020/06/26/business/carlton-mccoy-heitz-cellar.html)
 * [Her Olympic Dream on Hold, Teen Gymnast Faces Other Trials](https://www.nytimes.com/2020/06/27/sports/olympics/sunisa-lee-gymnastics-olympics.html)
-* [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
 * [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
+* [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
 * [Tammy Duckworth is Biden's Best Running Mate Pick](https://www.nytimes.com/2020/06/27/opinion/sunday/tammy-duckworth-biden-2020.html)
 * [Trump, Not So Statuesque](https://www.nytimes.com/2020/06/27/opinion/sunday/trump-statues-2020-reelection.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Universidade de Wüppertal: ministro da Educação não recebeu título de pós-doutorado na Alemanha](https://oglobo.globo.com/sociedade/educacao/universidade-de-wuppertal-ministro-da-educacao-nao-recebeu-titulo-de-pos-doutorado-na-alemanha-1-24504816)
-* [Universidade de Wuppertal ñao confirma pós-doutorado do Ministro da Educação na Alemanha](https://oglobo.globo.com/sociedade/universidade-de-wuppertal-nao-confirma-pos-doutorado-do-ministro-da-educacao-na-alemanha-24504818)
+* [Em virada, o conservador Boris Johnson diz que economia precisa de política intervencionista](https://oglobo.globo.com/mundo/em-virada-conservador-boris-johnson-diz-que-economia-precisa-de-politica-intervencionista-24504959)
+* [Dólar inicia a semana em queda, negociado abaixo de R$ 5,45](https://oglobo.globo.com/economia/dolar-inicia-semana-em-queda-negociado-abaixo-de-545-24504875)
+* [Por que gigantes como Starbucks, Coca-Cola, Unilever e Diageo suspenderam publicidade nas redes sociais](https://epoca.globo.com/economia/por-que-gigantes-como-starbucks-coca-cola-unilever-diageo-suspenderam-publicidade-nas-redes-sociais-1-24504876)
+* [Sob Bolsonaro e Fernandez, Brasil e Argentina vivem maior afastamento em 35 anos](https://epoca.globo.com/mundo/sob-bolsonaro-fernandez-brasil-argentina-vivem-maior-afastamento-em-35-anos-1-24504894)
+* [Transpetro faz seu primeiro programa voluntário de demissão e prevê economia de meio bilhão](https://oglobo.globo.com/economia/transpetro-faz-seu-primeiro-programa-voluntario-de-demissao-preve-economia-de-meio-bilhao-24504941)
 * [Michelle Obama exalta Beyoncé em premiação virtual: 'Estou aqui para falar sobre a rainha'](https://oglobo.globo.com/ela/gente/michelle-obama-exalta-beyonce-em-premiacao-virtual-estou-aqui-para-falar-sobre-rainha-24504901)
 * [Meghan Markle deixou Harry envergonhado e realeza furiosa com anúncio de gravidez, diz livro](https://oglobo.globo.com/ela/gente/meghan-markle-deixou-harry-envergonhado-realeza-furiosa-com-anuncio-de-gravidez-diz-livro-24504907)
 * [Bachelet considera 'ilegal' projeto de Israel para anexação na Cisjordânia; Gantz diz que data para discutir projeto não é 'sagrada'](https://oglobo.globo.com/mundo/bachelet-considera-ilegal-projeto-de-israel-para-anexacao-na-cisjordania-gantz-diz-que-data-para-discutir-projeto-nao-sagrada-24504893)
-* [Sob Bolsonaro e Fernandez, Brasil e Argentina vivem maior afastamento em 35 anos](https://epoca.globo.com/mundo/sob-bolsonaro-fernandez-brasil-argentina-vivem-maior-afastamento-em-35-anos-24504894)
-* [Dólar inicia a semana em queda, negociado abaixo de R$ 5,45](https://oglobo.globo.com/economia/dolar-inicia-semana-em-queda-negociado-abaixo-de-545-24504875)
-* [Por que gigantes como Starbucks, Coca-Cola, Unilever e Diageo suspenderam publicidade nas redes sociais](https://epoca.globo.com/economia/por-que-gigantes-como-starbucks-coca-cola-unilever-diageo-suspenderam-publicidade-nas-redes-sociais-24504876)
 * [Isolamento social muda exigências de quem compra ou aluga casa e apartamento](https://oglobo.globo.com/economia/isolamento-social-muda-exigencias-de-quem-compra-ou-aluga-casa-apartamento-24504241)
 * [Estudo da Câmara aponta que governo não tem linha clara sobre reforma tributária](https://epoca.globo.com/guilherme-amado/estudo-da-camara-aponta-que-governo-nao-tem-linha-clara-sobre-reforma-tributaria-24502868)

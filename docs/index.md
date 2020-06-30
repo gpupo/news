@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 00:28:46 UTC
+# indexed at 30/06/2020 00:37:43 UTC
 
 
 ## news.ycombinator.com
@@ -16,33 +16,33 @@ layout: default
 * [India bans TikTok, WeChat, and dozens of other Chinese apps](https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/)
 * [The History of Usenet and FidoNet](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
 * [Equations system with a black rectangle in LaTeX](https://gus-massa.blogspot.com/2020/06/equations-system-with-black-rectangle.html)
-* [Cancel Culture in 1974](https://jayriverlong.github.io/2020/06/28/cancel-culture.html)
 * [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)
-* [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
-* [Things to know before starting a Patreon page](http://pencerw.com/feed/2020/6/24/three-things-all-creators-should-know-about-patreon?mc_cid=cb178f4bd4&mc_eid=5ac3a20371)
-* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [How remdesivir works, and why it's not the ultimate coronavirus killer](https://scopeblog.stanford.edu/2020/06/29/how-remdesivir-works-and-why-its-not-the-ultimate-coronavirus-killer/)
+* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
+* [Things to know before starting a Patreon page](http://pencerw.com/feed/2020/6/24/three-things-all-creators-should-know-about-patreon?mc_cid=cb178f4bd4&mc_eid=5ac3a20371)
+* [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
 * [Apple declined to implement 16 Web APIs in Safari due to privacy concerns](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)
 * [Deep Chernoff Faces](https://www.ihatethefuture.com/2020/06/deep-chernoff-faces.html)
 * [A Few More Reasons Rust Compiles Slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
 * [The fall of Quibi: how did a starry $1.75B Netflix rival crash so fast?](https://www.theguardian.com/tv-and-radio/2020/jun/28/quibi-netflix-jeffrey-katzenberg-crash)
 * [Megadesk](https://www.tindie.com/products/gcormier/megadesk/)
 * [A new theory about political polarization](https://phys.org/news/2020-06-theory-political-polarization.html)
+* [Featherweight Java: A Minimal Core Calculus for Java and GJ (2002) [pdf]](https://www.cis.upenn.edu/~bcpierce/papers/fj-toplas.pdf)
 * [Worrying about the NPM Ecosystem](https://sambleckley.com/writing/npm.html)
 * [What every scientific programmer should know about compiler optimizations?](https://dl.acm.org/doi/abs/10.1145/3392717.3392754)
 * [Circle of Competence: Avoid Ambiguity Traps](https://models.substack.com/p/circle-of-competence-avoid-ambiguity)
-* [ReDoS: Regular Expression Denial of Service](https://levelup.gitconnected.com/the-regular-expression-denial-of-service-redos-cheat-sheet-a78d0ed7d865)
 * [Greatest Java apps](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written)
+* [ReDoS: Regular Expression Denial of Service](https://levelup.gitconnected.com/the-regular-expression-denial-of-service-redos-cheat-sheet-a78d0ed7d865)
 * ['We've bought the wrong satellites': UK tech gamble baffles experts](https://www.theguardian.com/science/2020/jun/26/satellite-experts-oneweb-investment-uk-galileo-brexit)
-* [Featherweight Java: A Minimal Core Calculus for Java and GJ (2002) [pdf]](https://www.cis.upenn.edu/~bcpierce/papers/fj-toplas.pdf)
-* [Taking a Problem Down a Peg](https://rjlipton.wordpress.com/2020/06/29/taking-a-problem-down-a-peg/)
 * [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/)
+* [Taking a Problem Down a Peg](https://rjlipton.wordpress.com/2020/06/29/taking-a-problem-down-a-peg/)
 * [Neurons that fire together, wire together, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/)
+* [There’s no replacement for the thrill of browsing in a bookstore](https://www.washingtonpost.com/entertainment/books/theres-no-replacement-for-the-thrill-of-browsing-in-a-bookstore/2020/06/25/20855c1a-abf1-11ea-a9d9-a81c1a491c52_story.html)
 ## nytimes.com
 
 
 * [Louisiana Abortion Law Struck Down by Supreme Court](https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html)
-* [The Supreme Court Stopped Anti-Abortion Momentum. For Now.](https://www.nytimes.com/2020/06/29/us/june-medical-supreme-court.html)
+* [The Supreme Court Stopped Anti-Abortion Momentum. For Now.](https://www.nytimes.com/2020/06/29/us/abortion-supreme-court.html)
 * [Abortion Rises as a Pivotal Issue for At-Risk Senate Republicans](https://www.nytimes.com/2020/06/29/us/politics/2020-senate-abortion-susan-collins.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html)
 * [‘Our Luck May Have Run Out’: California’s Case Count Explodes](https://www.nytimes.com/2020/06/29/us/california-coronavirus-reopening.html)
@@ -82,8 +82,8 @@ layout: default
 * [Golden State Killer Cases: Joseph DeAngelo Pleads Guilty](https://www.nytimes.com/2020/06/29/us/golden-state-killer-joseph-deangelo.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Another Young Leader Taken. Afghans Ask: How Many More?](https://www.nytimes.com/2020/06/29/world/asia/afghanistan-women-human-rights.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
@@ -97,7 +97,6 @@ layout: default
 * [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
 * [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
 * [Tammy Duckworth is Biden's Best Running Mate Pick](https://www.nytimes.com/2020/06/27/opinion/sunday/tammy-duckworth-biden-2020.html)
-* [How the Trump Campaign Is Drawing Obama Out of Retirement](https://www.nytimes.com/2020/06/28/us/politics/obama-biden-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

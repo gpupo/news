@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 12:13:23 UTC
+# indexed at 30/06/2020 12:38:55 UTC
 
 
 ## news.ycombinator.com
@@ -15,14 +15,12 @@ layout: default
 * [Keep Your Stuff, for Life](https://perkeep.org/)
 * [Apple machine learning in 2020: What’s new?](https://machinethink.net/blog/new-in-apple-machine-learning-2020/)
 * [Why I left Substack and the Email Renaissance](https://www.kevin-indig.com/why-i-left-substack-and-the-email-renaissance/)
-* [Mapping Anything with BSicons](https://chriszetter.com/blog/2020/06/25/mapping-anything-with-bsicons/)
 * [Why we won’t be supporting Sign in with Apple](https://blog.anylist.com/2020/06/sign-in-with-apple/)
 * [Shoes](http://shoesrb.com)
 * [Learning to Cartoonize Using White-Box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
+* [Mapping Anything with BSicons](https://chriszetter.com/blog/2020/06/25/mapping-anything-with-bsicons/)
 * [Lua 5.4.0](https://www.lua.org/manual/5.4/readme.html#changes)
 * [AI predicts effective depression treatment based on brainwave patterns](https://scopeblog.stanford.edu/2020/06/24/ai-predicts-effective-depression-treatment-based-on-brainwave-patterns/)
-* [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures)
-* [Lua 5.4](http://www.lua.org/manual/5.4/readme.html#changes)
 * [Implementing a System Call for OpenBSD](https://poolp.org/drafts/2020-05-28-015100-copy/)
 * [What Is the Morning Writing Effect? (2011)](https://www.gwern.net/Morning-writing)
 * [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
@@ -30,14 +28,16 @@ layout: default
 * [Friedrich Hayek on Evolution and Spontaneous Order (1983) [video]](https://www.youtube.com/watch?v=yQhqZ-iWMRM)
 * [Forget Google, time to end the Visa-MasterCard duopoly](https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7)
 * [Declining eyesight improved by looking at deep red light](https://www.sciencedaily.com/releases/2020/06/200629120241.htm)
-* [Lilith and the Draconcopes](http://riowang.blogspot.com/2020/06/lilith-and-the-draconcopes.html)
 * [IBM releases RTL source code for A2I Blue Gene/Q processor core](https://github.com/openpower-cores/a2i)
 * [Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
-* [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
+* [Lilith and the Draconcopes](http://riowang.blogspot.com/2020/06/lilith-and-the-draconcopes.html)
 * [The KDE community is moving to GitLab](https://about.gitlab.com/blog/2020/06/29/welcome-kde/)
 * [Equations system with a black rectangle in LaTeX](https://gus-massa.blogspot.com/2020/06/equations-system-with-black-rectangle.html)
 * [A Spark of Insight into Neanderthal Behavior](https://www.sapiens.org/column/field-trips/neanderthal-tools/)
 * [Running Postgres in Kubernetes [pdf]](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf)
+* [Guy Who Reverse-Engineered TikTok Reveals the Scary Things He Learned](https://www.reddit.com/r/videos/comments/fxgi06/not_new_news_but_tbh_if_you_have_tiktiok_just_get/)
+* [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures)
+* [India bans TikTok, WeChat, and dozens of other Chinese apps](https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [U.S. Halts High-Tech Exports to Hong Kong Over Security Concerns](https://www.nytimes.com/2020/06/29/business/economy/us-halts-high-tech-exports-hong-kong.html)
 * [China's National Security Law Wins Business Support](https://www.nytimes.com/2020/06/30/business/china-hong-kong-security-law-business.html)
 * [De Blasio and Council, Facing Fiscal Crisis Over Virus, Agree on Budget With Big Cuts](https://www.nytimes.com/2020/06/29/nyregion/nyc-budget-police.html)
-* [‘Who Are We for?’ How the Virus Is Testing the Identity of Chinatown](https://www.nytimes.com/2020/06/30/nyregion/chinatown-coronavirus-nyc.html)
+* [‘Who Are We For?’ How the Virus Is Testing the Identity of Chinatown](https://www.nytimes.com/2020/06/30/nyregion/chinatown-coronavirus-nyc.html)
 * [Insurgent Wave in New York Pushes Old Guard Democrats Aside](https://www.nytimes.com/2020/06/30/nyregion/ny-house-primaries.html)
 * [The Fall of Jeff Sessions, and What Came After](https://www.nytimes.com/2020/06/30/magazine/jeff-sessions.html)
 * [What to Watch in Kentucky Election Results and Colorado Senate Race](https://www.nytimes.com/2020/06/30/us/politics/election-results-mcgrath-booker-colorado-hickenlooper-romanoff.html)
@@ -86,17 +86,17 @@ layout: default
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Coronavirus in Florida: What Pandemic Is Like for Theme Park Workers](https://www.nytimes.com/2020/06/27/business/coronavirus-florida-disney-tourism.html)
 * [Gerardo Parra Hopes ‘Baby Shark’ Magic Can Bring a Title in Japan, Too](https://www.nytimes.com/2020/06/29/sports/baseball/gerardo-parra-baby-shark-japan.html)
 * [Review: When ‘Tartuffe’ Meets Trump, It’s Revolutionary](https://www.nytimes.com/2020/06/29/theater/tartuffe-review.html)
 * [Excavating Chinese History, One Harrowing Film at a Time](https://www.nytimes.com/2020/06/28/movies/hu-jie-films.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/29/arts/design/instagram-accounts-to-follow.html)
+* [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
+* [Elk Return to Kentucky, Bringing Economic Life](https://www.nytimes.com/2020/06/30/science/kentucky-elk-wildlife-coal.html)
 * [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
 * [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
-* [Elk Return to Kentucky, Bringing Economic Life](https://www.nytimes.com/2020/06/30/science/kentucky-elk-wildlife-coal.html)
-* [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
 * [Louisiana Abortion Law Struck Down by Supreme Court](https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html)
 * [Trump Shares Video of Armed White St.Louis Couple Confronting Protesters](https://www.nytimes.com/2020/06/29/us/politics/trump-white-couple-protesters.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Saiba como foi a prisão de líder de grupo criminoso em operação da Polícia Civil e do MP](https://oglobo.globo.com/rio/saiba-como-foi-prisao-de-lider-de-grupo-criminoso-em-operacao-da-policia-civil-do-mp-24506811)
+* [Suspeito preso herdou comando de grupo suspeito de matar Marielle do ex-capitão Adriano, seu amigo de infância, diz polícia](https://oglobo.globo.com/rio/suspeito-preso-herdou-comando-de-grupo-suspeito-de-matar-marielle-do-ex-capitao-adriano-seu-amigo-de-infancia-diz-policia-24506795)
+* [Taxa de desemprego chega a 12,9% em maio, com 7,8 milhões perdendo trabalho](https://oglobo.globo.com/economia/taxa-de-desemprego-chega-129-em-maio-com-78-milhoes-perdendo-trabalho-24506636)
+* [Rei belga condena abusos da colonização do Congo pela primeira vez](https://oglobo.globo.com/mundo/rei-belga-condena-abusos-da-colonizacao-do-congo-pela-primeira-vez-24506777)
 * [PF mira governador do Amazonas e secretária de Saúde sob suspeita de desvios de recursos do coronavírus](https://oglobo.globo.com/brasil/pf-mira-governador-do-amazonas-secretaria-de-saude-sob-suspeita-de-desvios-de-recursos-do-coronavirus-1-24506792)
-* [Rua Pinheiro Machado, em Laranjeiras, é fechada nos dois sentidos devido a uma manifestação](https://oglobo.globo.com/rio/rua-pinheiro-machado-em-laranjeiras-fechada-nos-dois-sentidos-devido-uma-manifestacao-1-24506794)
-* [Impeachment deve fazer vice de Witzel deixar partido do governador](https://oglobo.globo.com/analitico/impeachment-deve-fazer-vice-de-witzel-deixar-partido-do-governador-24506822)
+* [Entenda o PL das fake news, que deve ser votado hoje no Senado](https://oglobo.globo.com/brasil/entenda-pl-das-fake-news-que-deve-ser-votado-hoje-no-senado-1-24506762)
+* [Relatório da ONU alerta para persistentes violações de direitos de meninas e mulheres em todo o mundo](https://oglobo.globo.com/celina/relatorio-da-onu-alerta-para-persistentes-violacoes-de-direitos-de-meninas-mulheres-em-todo-mundo-24505558)
+* [Para Naomi Campbell, 'Black Lives Matter' vai alterar indústrias de moda e beleza](https://oglobo.globo.com/ela/gente/para-naomi-campbell-black-lives-matter-vai-alterar-industrias-de-moda-beleza-24506903)
+* [Saiba como foi a prisão de líder de grupo criminoso em operação da Polícia Civil e do MP](https://oglobo.globo.com/rio/saiba-como-foi-prisao-de-lider-de-grupo-criminoso-em-operacao-da-policia-civil-do-mp-24506811)
 * [O afago de Maia à oposição](https://epoca.globo.com/guilherme-amado/o-afago-de-maia-oposicao-1-24502896)
-* [Princesa Eugenie exibe cicatriz enorme na coluna: 'Vamos nos orgulhar'](https://oglobo.globo.com/ela/gente/princesa-eugenie-exibe-cicatriz-enorme-na-coluna-vamos-nos-orgulhar-24506785)
 * [IR 2020: Receita paga restituição do 2º lote hoje, o maior da História. Veja calendário](https://oglobo.globo.com/economia/ir-2020-receita-paga-restituicao-do-2-lote-hoje-maior-da-historia-veja-calendario-24506789)
-* [Caixa e Banco do Brasil pagam abono salarial do PIS/Pasep a correntistas nesta terça-feira](https://oglobo.globo.com/economia/caixa-banco-do-brasil-pagam-abono-salarial-do-pispasep-correntistas-nesta-terca-feira-24506748)
-* [Facebook sobrevive sem grandes marcas, mas imagem paga um preço](https://oglobo.globo.com/analitico/facebook-sobrevive-sem-grandes-marcas-mas-imagem-paga-um-preco-24506743)
-* [O estilo Pazuello](https://epoca.globo.com/guilherme-amado/o-estilo-pazuello-24503100)

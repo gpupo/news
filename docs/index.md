@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 23:11:39 UTC
+# indexed at 30/06/2020 23:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -27,17 +27,17 @@ layout: default
 * [Missing Structure in Technical Discussions](http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html)
 * [400 TB Storage Drives in Our Future: Fujifilm](https://www.anandtech.com/show/15888/400-tb-storage-drives-in-our-future-fujifilm)
 * [EFF and heavyweight legal team will defend Internet Archive against publishers](https://torrentfreak.com/eff-heavyweight-legal-team-will-defend-internet-archives-digital-library-against-publishers-200626/)
+* [SkyWater-PDF Plans First 130 Nm Wafer in 2020](https://hackaday.com/2020/06/30/your-own-open-source-asic-skywater-pdf-plans-first-130-nm-wafer-in-2020/)
 * [Git Repo of Police Brutality During the 2020 George Floyd Protests](https://github.com/2020PB/police-brutality#hn)
+* [3D Electron Orbitals of Hydrogen](https://blog.c0nrad.io/hydrogen/)
+* [He Made Stone Speak](https://www.nybooks.com/articles/2020/07/02/michelangelo-he-made-stone-speak/)
+* [Mastering Jq: Part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
+* [Thousands of U.S. judges who broke laws, oaths remained on the bench](https://www.reuters.com/article/us-usa-judges-misconduct-specialreport/special-report-thousands-of-us-judges-who-broke-laws-oaths-remained-on-the-bench-idUSKBN2411WG)
 * [Mallards ferry fish eggs between waterbodies](https://www.audubon.org/news/mallards-ferry-fish-eggs-between-waterbodies-through-their-poop)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
-* [YouTube TV sharply increases monthly subscription to $64.99](https://www.theverge.com/2020/6/30/21308449/youtube-tv-price-increase-64-99-viacom-hbo-new-channels)
-* [3D Electron Orbitals of Hydrogen](https://blog.c0nrad.io/hydrogen/)
-* [Thousands of U.S. judges who broke laws, oaths remained on the bench](https://www.reuters.com/article/us-usa-judges-misconduct-specialreport/special-report-thousands-of-us-judges-who-broke-laws-oaths-remained-on-the-bench-idUSKBN2411WG)
-* [Google Acquires North](https://blog.google/products/hardware/focus-helpful-devices-google-acquires-north/)
 * [Product Discovery Methods](https://pdmethods.com)
+* [Google Acquires North](https://blog.google/products/hardware/focus-helpful-devices-google-acquires-north/)
 * [People who can't see things in their mind could have memory trouble too: study](https://www.sciencealert.com/some-people-can-t-picture-things-in-their-mind-and-it-might-make-it-hard-for-them-to-remember)
-* [Tesorio (YC S15) is hiring managers and engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
-* [Gmail Service Disruption](https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=be4cdd50ed9bc6458ede98158a71cfd4)
 ## nytimes.com
 
 
@@ -73,27 +73,27 @@ layout: default
 * [The Fall of Jeff Sessions, and What Came After](https://www.nytimes.com/2020/06/30/magazine/jeff-sessions.html)
 * [I’m Not Ready to Go Back to Restaurants. Is Anyone?](https://www.nytimes.com/2020/06/30/dining/restaurant-risks-coronavirus.html)
 * [‘Hamilton’ Review: You Say You Want a Revolution](https://www.nytimes.com/2020/06/30/movies/hamilton-review-disney-plus.html)
+* [Pence Raised Nearly $500,000 From Donors to Pay Mueller Legal Defense](https://www.nytimes.com/2020/06/30/us/politics/pence-donors-legal-defense-fund.html)
 * [Supreme Court Gives Religious Schools More Access to State Aid](https://www.nytimes.com/2020/06/30/us/supreme-court-religious-schools-aid.html)
-* [Airbus to Cut 15,000 Jobs](https://www.nytimes.com/2020/06/30/business/airbus-jobs-cuts.html)
 * [F.C.C. Designates Huawei and ZTE as National Security Threats](https://www.nytimes.com/2020/06/30/technology/fcc-huawei-zte-national-security.html)
-* [Colorado Police Investigate Officers Over Photos Taken Near Elijah McClain Site](https://www.nytimes.com/2020/06/30/us/aurora-police-elijah-mcclain.html)
-* [After Iranian Missile Facility Blows Up, Conspiracy Theories Abound in Tehran](https://www.nytimes.com/2020/06/29/world/middleeast/iran-missile-explosion.html)
+* [Airbus to Cut 15,000 Jobs](https://www.nytimes.com/2020/06/30/business/airbus-jobs-cuts.html)
+* [Minor League Baseball Season Is Canceled for the First Time](https://www.nytimes.com/2020/06/30/sports/baseball/minor-league-baseball-season-canceled.html)
 * [China Passes Hong Kong Security Law With Sweeping Powers](https://www.nytimes.com/2020/06/29/world/asia/china-hong-kong-security-law-rules.html)
 * [$1 Billion Is Shifted From N.Y.P.D. in a Budget That Pleases No One](https://www.nytimes.com/2020/06/30/nyregion/police-nyc-budget-coronavirus.html)
 * [After a Staggering Rally, What’s Next for Stocks?](https://www.nytimes.com/2020/06/30/business/stock-market-earnings-coronavirus.html)
 * [5 BRs, Pool/Hot Tub, Mediterranean Vu; Too Far to Commute to Jerusalem](https://www.nytimes.com/2020/06/29/world/middleeast/israel-ambassador-residence-sale.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Joel Thompson Talks About His "The Seven Last Words of the Unarmed"](https://www.nytimes.com/2020/06/30/arts/music/classical-music-black-lives-matter.html)
 * [YouTube Takes Shane Dawson's Ads Away](https://www.nytimes.com/2020/06/29/style/shane-dawson-jeffree-star-youtube.html)
 * [I Never Expected to Love Full-Time Motherhood](https://www.nytimes.com/2020/06/29/parenting/queer-motherhood.html)
 * [Tiny Love Stories: ‘I See the Worst of Myself in Her’](https://www.nytimes.com/2020/06/30/style/tiny-modern-love-stories-coronavirus-i-see-the-worst-of-myself-in-her.html)
 * [Well, It Was a Nice Try: Some Sports Aren’t Going So Well](https://www.nytimes.com/2020/06/30/sports/colleges-return-coronavirus-cancellations.html)
-* [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
 * [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
+* [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
 * [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
 * [Trump Got Written Briefing in February on Possible Russian Bounties, Officials Say](https://www.nytimes.com/2020/06/29/us/politics/russian-bounty-trump.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Senado aprova texto-base de projeto de lei sobre fake news](https://oglobo.globo.com/brasil/senado-aprova-texto-base-de-projeto-de-lei-sobre-fake-news-24508273)
+* [Ciclone e tempestades matam ao menos 3 pessoas em Santa Catarina](https://oglobo.globo.com/brasil/ciclone-tempestades-matam-ao-menos-3-pessoas-em-santa-catarina-24508389)
 * [Com 1.271 mortes em 24 horas, Brasil se aproxima de 60 mil óbitos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/com-1271-mortes-em-24-horas-brasil-se-aproxima-de-60-mil-obitos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24508237)
-* [IR 2020: a cinco horas do fim prazo, Receita recebeu 30,9 milhões de declarações](https://oglobo.globo.com/economia/ir-2020-cinco-horas-do-fim-prazo-receita-recebeu-309-milhoes-de-declaracoes-24508234)
-* [Telemedicina: tudo sobre consulta médica online](https://oglobo.globo.com/sociedade/saude/telemedicina-tudo-sobre-consulta-medica-online-24508179)
-* [Morre, aos 80 anos, Luizinho Drumond, presidente de honra de Imperatriz Leopoldinense](https://oglobo.globo.com/rio/morre-aos-80-anos-luizinho-drumond-presidente-de-honra-de-imperatriz-leopoldinense-24508318)
-* [TRF-1 derruba decisão que obrigava presidente Bolsonaro a usar máscara em espaços públicos no DF](https://oglobo.globo.com/brasil/trf-1-derruba-decisao-que-obrigava-presidente-bolsonaro-usar-mascara-em-espacos-publicos-no-df-1-24508261)
+* [Senado aprova texto-base de projeto de lei sobre fake news](https://oglobo.globo.com/brasil/senado-aprova-texto-base-de-projeto-de-lei-sobre-fake-news-24508273)
+* [Luizinho Drumond, presidente de honra de Imperatriz Leopoldinense, sofre infarto em casa](https://oglobo.globo.com/rio/luizinho-drumond-presidente-de-honra-de-imperatriz-leopoldinense-sofre-infarto-em-casa-24508318)
 * [Aras não vai ter mais maioria em conselho da PGR](https://oglobo.globo.com/brasil/aras-nao-vai-ter-mais-maioria-em-conselho-da-pgr-1-24508296)
-* ['Não tenho partido, mas sou grato a Bolsonaro por ter cuidado do meu cachorro', diz frentista desempregado](https://epoca.globo.com/brasil/nao-tenho-partido-mas-sou-grato-bolsonaro-por-ter-cuidado-do-meu-cachorro-diz-frentista-desempregado-24508037)
+* [Facebook anuncia banimento de rede de extrema direita americana que defende o 'fim do governo'](https://oglobo.globo.com/mundo/facebook-anuncia-banimento-de-rede-de-extrema-direita-americana-que-defende-fim-do-governo-24508364)
+* [Em meio à pressão de anunciantes, Facebook muda regra sobre apresentação de notícias na plataforma](https://oglobo.globo.com/economia/em-meio-pressao-de-anunciantes-facebook-muda-regra-sobre-apresentacao-de-noticias-na-plataforma-24508161)
+* [Coronavírus: petróleo ficará abaixo de US$ 40 por um longo tempo, se pandemia só for controlada com vacina](https://oglobo.globo.com/economia/coronavirus-petroleo-ficara-abaixo-de-us-40-por-um-longo-tempo-se-pandemia-so-for-controlada-com-vacina-24508349)
+* [Telemedicina: tudo sobre consulta médica online](https://oglobo.globo.com/sociedade/saude/telemedicina-tudo-sobre-consulta-medica-online-24508179)
 * [Cinco dias de Decotelli tornaram mais difícil escolha de sucessor no MEC](https://oglobo.globo.com/analitico/cinco-dias-de-decotelli-tornaram-mais-dificil-escolha-de-sucessor-no-mec-24508225)
-* [Novo Mercado Municipal de Niterói será aberto em novembro com 180 lojas](https://oglobo.globo.com/rio/bairros/novo-mercado-municipal-de-niteroi-sera-aberto-em-novembro-com-180-lojas-24508165)

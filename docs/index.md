@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 06:11:36 UTC
+# indexed at 30/06/2020 06:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [The True Cost of Dollar Stores: What Discount chains do to poor communities?](https://www.newyorker.com/magazine/2020/07/06/the-true-cost-of-dollar-stores)
 * [Why we won’t be supporting Sign in with Apple](https://blog.anylist.com/2020/06/sign-in-with-apple/)
-* [New Reddit Hate Speech Rules „don‘t protect groups of people in the majority“](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/promoting-hate-based-identity-or)
 * [Keep Your Stuff, for Life](https://perkeep.org/)
 * [Forget Google, time to end the Visa-MasterCard duopoly](https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7)
 * [China Passed Security Law in Hong Kong. Goes into Effect July First](https://www.bbc.com/news/world-asia-china-52765838)
 * [Learning to Cartoonize Using White-Box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
-* [Lua 5.4.0](https://www.lua.org/versions.html#5.4)
 * [Running Postgres in Kubernetes [pdf]](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf)
+* [Lua 5.4.0](https://www.lua.org/versions.html#5.4)
+* [Does scrum ruin great engineers or are you doing it wrong?](https://stackoverflow.blog/2020/06/29/does-scrum-ruin-great-engineers-or-are-you-doing-it-wrong/)
 * [The KDE community is moving to GitLab](https://about.gitlab.com/blog/2020/06/29/welcome-kde/)
 * [Implementing a System Call for OpenBSD](https://poolp.org/drafts/2020-05-28-015100-copy/)
-* [Does scrum ruin great engineers or are you doing it wrong?](https://stackoverflow.blog/2020/06/29/does-scrum-ruin-great-engineers-or-are-you-doing-it-wrong/)
 * [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures)
-* [Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
 * [India bans TikTok, WeChat, and dozens of other Chinese apps](https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/)
+* [Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
 * [Declining eyesight improved by looking at deep red light](https://www.sciencedaily.com/releases/2020/06/200629120241.htm)
 * [Things to know before starting a Patreon page](http://pencerw.com/feed/2020/6/24/three-things-all-creators-should-know-about-patreon?mc_cid=cb178f4bd4&mc_eid=5ac3a20371)
 * [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
-* [The History of Usenet and FidoNet](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
-* [Curve Detecting Neurons](https://distill.pub/2020/circuits/curve-detectors/)
-* [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
 * [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
+* [The History of Usenet and FidoNet](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
+* [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
 * [The Antic Cyber Graphics Software (Prehistory of Autodesk 3D Studio)](https://doudoroff.com/atari/)
-* [Equations system with a black rectangle in LaTeX](https://gus-massa.blogspot.com/2020/06/equations-system-with-black-rectangle.html)
 * [Friedrich Hayek on Evolution and Spontaneous Order (1983)](https://www.youtube.com/watch?v=yQhqZ-iWMRM)
-* [A Spark of Insight into Neanderthal Behavior](https://www.sapiens.org/column/field-trips/neanderthal-tools/)
+* [Equations system with a black rectangle in LaTeX](https://gus-massa.blogspot.com/2020/06/equations-system-with-black-rectangle.html)
+* [Curve Detecting Neurons](https://distill.pub/2020/circuits/curve-detectors/)
 * [Guy Who Reverse-Engineered TikTok Reveals the Scary Things He Learned](https://www.reddit.com/r/videos/comments/fxgi06/not_new_news_but_tbh_if_you_have_tiktiok_just_get/)
+* [A Spark of Insight into Neanderthal Behavior](https://www.sapiens.org/column/field-trips/neanderthal-tools/)
 * [Worrying about the NPM Ecosystem](https://sambleckley.com/writing/npm.html)
-* [A Few More Reasons Rust Compiles Slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
 * [Deep Chernoff Faces](https://www.ihatethefuture.com/2020/06/deep-chernoff-faces.html)
+* [A Few More Reasons Rust Compiles Slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
+* [How remdesivir works, and why it's not the ultimate coronavirus killer](https://scopeblog.stanford.edu/2020/06/29/how-remdesivir-works-and-why-its-not-the-ultimate-coronavirus-killer/)
 ## nytimes.com
 
 
@@ -48,8 +48,8 @@ layout: default
 * [Coronavirus Live Updates](https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html)
 * [‘Our Luck May Have Run Out’: California’s Case Count Explodes](https://www.nytimes.com/2020/06/29/us/california-coronavirus-reopening.html)
 * [NY, NJ May Delay Reopening Phases as Covid Spikes Across Country](https://www.nytimes.com/2020/06/29/nyregion/Coronavirus-restaurants-reopening-ny-nj.html)
-* [China Passes Hong Kong Security Law Granting It Sweeping Powers](https://www.nytimes.com/2020/06/29/world/asia/china-hong-kong-security-law-rules.html)
-* [China’s New National Security Law Looms Over Hong Kong](https://www.nytimes.com/2020/06/28/world/asia/china-hong-kong-national-security-law.html)
+* [Hong Kong Security Law Is Passed, Giving China Sweeping New Powers](https://www.nytimes.com/2020/06/29/world/asia/china-hong-kong-security-law-rules.html)
+* [What China’s New National Security Law Means for Hong Kong](https://www.nytimes.com/2020/06/28/world/asia/china-hong-kong-national-security-law.html)
 * [U.S. Halts High-Tech Exports to Hong Kong Over Security Concerns](https://www.nytimes.com/2020/06/29/business/economy/us-halts-high-tech-exports-hong-kong.html)
 * [De Blasio and Council, Facing Fiscal Crisis Over Virus, Agree on Budget With Big Cuts](https://www.nytimes.com/2020/06/29/nyregion/nyc-budget-police.html)
 * [Abortion, Virus, George Floyd: Your Monday Evening Briefing](https://www.nytimes.com/2020/06/29/briefing/abortion-virus-george-floyd.html)
@@ -79,11 +79,11 @@ layout: default
 * [Golden State Killer Cases: Joseph DeAngelo Pleads Guilty](https://www.nytimes.com/2020/06/29/us/golden-state-killer-joseph-deangelo.html)
 * [Ruth Buchanan, Philanthropist and Hostess Extraordinaire, Is Dead at 101](https://www.nytimes.com/2020/06/29/us/ruth-buchanan-dead.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
-* [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
-* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
-* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
+* [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
+* [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
 * [These Girls Are Leading Black Lives Matter Protests](https://www.nytimes.com/2020/06/26/style/teen-girls-black-lives-matter-activism.html)
 * [Bill Belichick Never Tipped His Post-Brady Plan. Now It’s Clear.](https://www.nytimes.com/2020/06/29/sports/football/cam-newton-patriots-deal.html)
 * [‘Lungs’ Review: Claire Foy and Matt Smith Chase Love in the Dark](https://www.nytimes.com/2020/06/28/theater/lungs-review-claire-foy-matt-smith.html)

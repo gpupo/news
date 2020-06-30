@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 21:11:40 UTC
+# indexed at 30/06/2020 21:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -12,7 +12,7 @@ layout: default
 * [Linear – A fast issue tracker](http://linear.app/)
 * [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
 * [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
-* [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
+* [The world should think better about catastrophic and existential risks](https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks)
 * [Returning from a Year of Isolation in Antarctica](https://www.rd.com/article/isolated-for-a-year-in-antarctica/)
 * [Hyperapp – A tiny framework for building web interfaces](https://hyperapp.dev/)
 * [Git Repo of Police Brutality During the 2020 George Floyd Protests](https://github.com/2020PB/police-brutality#hn)
@@ -20,23 +20,23 @@ layout: default
 * [How well do cars do in crash tests they're not optimized for?](https://danluu.com/car-safety/)
 * [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
 * [NovaChat: Multi-Network Chat](https://nova.chat/)
-* [Missing Structure in Technical Discussions](http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html)
 * [400 TB Storage Drives in Our Future: Fujifilm](https://www.anandtech.com/show/15888/400-tb-storage-drives-in-our-future-fujifilm)
-* [Tesorio (YC S15) is hiring managers and engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
+* [Missing Structure in Technical Discussions](http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html)
 * [EFF and Heavyweight Legal Team Will Defend Internet Archive Against Publishers](https://torrentfreak.com/eff-heavyweight-legal-team-will-defend-internet-archives-digital-library-against-publishers-200626/)
+* [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
+* [Tesorio (YC S15) is hiring managers and engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
 * [Mallards ferry fish eggs between waterbodies](https://www.audubon.org/news/mallards-ferry-fish-eggs-between-waterbodies-through-their-poop)
 * [Product Discovery Methods](https://pdmethods.com)
-* [The world should think better about catastrophic and existential risks](https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks)
-* [Thousands of U.S. judges who broke laws, oaths remained on the bench](https://www.reuters.com/article/us-usa-judges-misconduct-specialreport/special-report-thousands-of-us-judges-who-broke-laws-oaths-remained-on-the-bench-idUSKBN2411WG)
 * [3D Electron Orbitals of Hydrogen](https://blog.c0nrad.io/hydrogen/)
+* [Thousands of U.S. judges who broke laws, oaths remained on the bench](https://www.reuters.com/article/us-usa-judges-misconduct-specialreport/special-report-thousands-of-us-judges-who-broke-laws-oaths-remained-on-the-bench-idUSKBN2411WG)
 * [Google Acquires North](https://blog.google/products/hardware/focus-helpful-devices-google-acquires-north/)
 * [How to use FIDO2 USB keys with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
 * [People who can't see things in their mind could have memory trouble too: study](https://www.sciencealert.com/some-people-can-t-picture-things-in-their-mind-and-it-might-make-it-hard-for-them-to-remember)
-* [Video chats short-circuit a brain function essential for trust?](https://www.cbc.ca/news/business/zoom-trust-business-pandemic-1.5628638?cmp=rss)
 * [Portals API](https://wicg.github.io/portals/)
-* [Ampere’s Product List: 80 Cores, up to 3.3 GHz at 250 W; 128 Core in Q4](https://www.anandtech.com/show/15871/amperes-product-list-80-cores-up-to-33-ghz-at-250-w-128-core-in-q4)
 * [A Thousand Pounds of Dynamite (2014)](https://magazine.atavist.com/a-thousand-pounds-of-dynamite)
+* [Video chats short-circuit a brain function essential for trust?](https://www.cbc.ca/news/business/zoom-trust-business-pandemic-1.5628638?cmp=rss)
+* [TikTok App to Stop Accessing User Clipboards After Being Caught in the Act](https://www.macrumors.com/2020/06/25/tiktok-clipboard-access-ios-14-caught/)
 * [Approaches to providing affordable housing for non-profit workers](http://brewster.kahle.org/2020/06/28/results-of-7-approaches-to-affordable-housing-for-non-profit-workers/)
 ## nytimes.com
 
@@ -50,7 +50,7 @@ layout: default
 * [Biden Says Trump ‘Surrendered’ to Coronavirus in Blistering Speech](https://www.nytimes.com/2020/06/30/us/politics/biden-speech-trump-coronavirus.html)
 * [Judge Blocks Publication of Mary Trump Book Until a July Hearing](https://www.nytimes.com/2020/06/30/us/politics/mary-trump-book.html)
 * [Reddit's Steve Huffman on Banning ‘The_Donald’ Subreddit](https://www.nytimes.com/2020/06/30/us/politics/reddit-bans-steve-huffman.html)
-* [Facebook to Ban Network With ‘Boogaloo’ Ties](https://www.nytimes.com/2020/06/30/technology/facebook-ban-boogaloo.html)
+* [Facebook Bans Network With ‘Boogaloo’ Ties](https://www.nytimes.com/2020/06/30/technology/facebook-ban-boogaloo.html)
 * [Carl Reiner, Multifaceted Master of Comedy, Is Dead at 98](https://www.nytimes.com/2020/06/30/arts/television/carl-reiner-dead.html)
 * [Carl Reiner Knew TV Like the Back of His Head](https://www.nytimes.com/2020/06/30/arts/television/carl-reiner.html)
 * [Elk Return to Kentucky, Bringing Economic Life](https://www.nytimes.com/2020/06/30/science/kentucky-elk-wildlife-coal.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [STJ nega envio de provas sobre Witzel à Comissão de Impeachment da Alerj](https://oglobo.globo.com/rio/stj-nega-envio-de-provas-sobre-witzel-comissao-de-impeachment-da-alerj-1-24508004)
-* [Bolsonaro elogia Maia e Alcolumbre e faz convite para viagem](https://oglobo.globo.com/brasil/bolsonaro-elogia-maia-alcolumbre-faz-convite-para-viagem-1-24508045)
+* [700 vezes Messi: veja o raio-x da histórica marca de 700 gols oficiais do craque do Barcelona](https://oglobo.globo.com/esportes/700-vezes-messi-veja-raio-da-historica-marca-de-700-gols-oficiais-do-craque-do-barcelona-24488565)
+* [Maia diz que adiamento das eleições deve ser votado nesta quarta](https://oglobo.globo.com/brasil/maia-diz-que-adiamento-das-eleicoes-deve-ser-votado-nesta-quarta-24508093)
+* [Senado debate obrigação de plataformas pagarem por notícias](https://oglobo.globo.com/economia/senado-debate-obrigacao-de-plataformas-pagarem-por-noticias-24508087)
 * [Mais de um milhão de pessoas deixaram suas casas na República Democrática Congo em 6 meses por causa de violência](https://oglobo.globo.com/mundo/mais-de-um-milhao-de-pessoas-deixaram-suas-casas-na-republica-democratica-congo-em-6-meses-por-causa-de-violencia-24508041)
 * [Suécia anuncia comissão para analisar resposta à pandemia da Covid-19](https://oglobo.globo.com/mundo/suecia-anuncia-comissao-para-analisar-resposta-pandemia-da-covid-19-24508043)
-* [Diante da pandemia, Joe Biden anuncia que não realizará atos públicos na campanha à Presidência dos EUA](https://oglobo.globo.com/mundo/diante-da-pandemia-joe-biden-anuncia-que-nao-realizara-atos-publicos-na-campanha-presidencia-dos-eua-24508030)
-* [Governo anuncia prorrogação do auxílio emergencial por dois meses, mas não detalha valor de parcelas](https://oglobo.globo.com/economia/governo-anuncia-prorrogacao-do-auxilio-emergencial-por-dois-meses-mas-nao-detalha-valor-de-parcelas-24507984)
+* [Bolsonaro elogia Maia e Alcolumbre e faz convite para viagem, em cerimônia no Planalto](https://oglobo.globo.com/brasil/bolsonaro-elogia-maia-alcolumbre-faz-convite-para-viagem-em-cerimonia-no-planalto-24508045)
+* [Tesla ultrapassa Exxon Mobil em valor de mercado e sinaliza aposta na transição energética](https://oglobo.globo.com/economia/tesla-ultrapassa-exxon-mobil-em-valor-de-mercado-sinaliza-aposta-na-transicao-energetica-24508086)
+* [Bombeiros fazem buscas no mar por duas pessoas que caíram da Avenida Niemeyer](https://oglobo.globo.com/rio/bombeiros-fazem-buscas-no-mar-por-duas-pessoas-que-cairam-da-avenida-niemeyer-24508080)
 * [Shoppings e centros comerciais de Niterói vão reabrir nesta quarta-feira com restrições](https://oglobo.globo.com/rio/bairros/shoppings-centros-comerciais-de-niteroi-vao-reabrir-nesta-quarta-feira-com-restricoes-24507946)
-* [Oito pessoas morrem e 80 ficam feridas em manifestações na Etiópia após morte de cantor](https://oglobo.globo.com/mundo/oito-pessoas-morrem-80-ficam-feridas-em-manifestacoes-na-etiopia-apos-morte-de-cantor-24507924)
 * [É #FAKE que termômetro digital infravermelho cause câncer e cegueira](https://oglobo.globo.com/fato-ou-fake/e-fake-que-termometro-digital-infravermelho-cause-cancer-cegueira-24508031)
-* [Com boicote ao Facebook, onde as empresas colocarão seus anúncios?](https://oglobo.globo.com/economia/com-boicote-ao-facebook-onde-as-empresas-colocarao-seus-anuncios-24507994)

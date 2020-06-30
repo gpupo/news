@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 11:09:50 UTC
+# indexed at 30/06/2020 11:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Portals API](https://wicg.github.io/portals/)
+* [Hyperapp – The tiny framework for building web interfaces](https://hyperapp.dev/)
+* [The x86 Advanced Matrix Extension Brings Matrix Ops, to Debut W Sapphire Rapid](https://fuse.wikichip.org/news/3600/the-x86-advanced-matrix-extension-amx-brings-matrix-operations-to-debut-with-sapphire-rapids/)
+* [Show HN: Curl https://ec2.shop](https://ec2.shop)
 * [Keep Your Stuff, for Life](https://perkeep.org/)
 * [Apple machine learning in 2020: What’s new?](https://machinethink.net/blog/new-in-apple-machine-learning-2020/)
 * [Forget Google, time to end the Visa-MasterCard duopoly](https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7)
-* [Why I left Substack and the Email Renaissance](https://www.kevin-indig.com/why-i-left-substack-and-the-email-renaissance/)
 * [Mapping Anything with BSicons](https://chriszetter.com/blog/2020/06/25/mapping-anything-with-bsicons/)
+* [Why I left Substack and the Email Renaissance](https://www.kevin-indig.com/why-i-left-substack-and-the-email-renaissance/)
 * [Why we won’t be supporting Sign in with Apple](https://blog.anylist.com/2020/06/sign-in-with-apple/)
 * [Running Postgres in Kubernetes [pdf]](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf)
 * [Learning to Cartoonize Using White-Box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
 * [AI predicts effective depression treatment based on brainwave patterns](https://scopeblog.stanford.edu/2020/06/24/ai-predicts-effective-depression-treatment-based-on-brainwave-patterns/)
 * [Lua 5.4.0](https://www.lua.org/manual/5.4/readme.html#changes)
-* [Show HN: Curl https://ec2.shop](https://ec2.shop)
 * [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures)
+* [Shoes](http://shoesrb.com)
 * [Implementing a System Call for OpenBSD](https://poolp.org/drafts/2020-05-28-015100-copy/)
 * [What Is the Morning Writing Effect? (2011)](https://www.gwern.net/Morning-writing)
 * [Curve Detecting Neurons](https://distill.pub/2020/circuits/curve-detectors/)
-* [Lilith and the Draconcopes](http://riowang.blogspot.com/2020/06/lilith-and-the-draconcopes.html)
 * [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
-* [Shoes](http://shoesrb.com)
+* [Lilith and the Draconcopes](http://riowang.blogspot.com/2020/06/lilith-and-the-draconcopes.html)
+* [Friedrich Hayek on Evolution and Spontaneous Order (1983) [video]](https://www.youtube.com/watch?v=yQhqZ-iWMRM)
 * [Declining eyesight improved by looking at deep red light](https://www.sciencedaily.com/releases/2020/06/200629120241.htm)
-* [Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
-* [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
 * [IBM releases RTL source code for A2I Blue Gene/Q processor core](https://github.com/openpower-cores/a2i)
-* [The KDE community is moving to GitLab](https://about.gitlab.com/blog/2020/06/29/welcome-kde/)
+* [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
+* [Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
 * [Equations system with a black rectangle in LaTeX](https://gus-massa.blogspot.com/2020/06/equations-system-with-black-rectangle.html)
+* [The KDE community is moving to GitLab](https://about.gitlab.com/blog/2020/06/29/welcome-kde/)
 * [A Spark of Insight into Neanderthal Behavior](https://www.sapiens.org/column/field-trips/neanderthal-tools/)
-* [Guy Who Reverse-Engineered TikTok Reveals the Scary Things He Learned](https://www.reddit.com/r/videos/comments/fxgi06/not_new_news_but_tbh_if_you_have_tiktiok_just_get/)
-* [How remdesivir works, and why it's not the ultimate coronavirus killer](https://scopeblog.stanford.edu/2020/06/29/how-remdesivir-works-and-why-its-not-the-ultimate-coronavirus-killer/)
-* [India bans TikTok, WeChat, and dozens of other Chinese apps](https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/)
 ## nytimes.com
 
 
@@ -83,20 +83,20 @@ layout: default
 * [A New Superpower Competition Between Beijing and Washington: China’s Nuclear Buildup](https://www.nytimes.com/2020/06/30/us/politics/trump-russia-china-nuclear.html)
 * [John T. Edge, A White Gatekeeper of Southern Food, Faces Calls to Resign](https://www.nytimes.com/2020/06/29/dining/john-t-edge-southern-foodways-alliance.html)
 * [Paycheck Protection Program, Signature Small Business Aid Effort, Ends](https://www.nytimes.com/2020/06/30/business/paycheck-protection-program-coronavirus.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
-* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [Coronavirus in Florida: What Pandemic Is Like for Theme Park Workers](https://www.nytimes.com/2020/06/27/business/coronavirus-florida-disney-tourism.html)
 * [Gerardo Parra Hopes ‘Baby Shark’ Magic Can Bring a Title in Japan, Too](https://www.nytimes.com/2020/06/29/sports/baseball/gerardo-parra-baby-shark-japan.html)
 * [Review: When ‘Tartuffe’ Meets Trump, It’s Revolutionary](https://www.nytimes.com/2020/06/29/theater/tartuffe-review.html)
 * [Excavating Chinese History, One Harrowing Film at a Time](https://www.nytimes.com/2020/06/28/movies/hu-jie-films.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/29/arts/design/instagram-accounts-to-follow.html)
-* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
 * [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
 * [Elk Return to Kentucky, Bringing Economic Life](https://www.nytimes.com/2020/06/30/science/kentucky-elk-wildlife-coal.html)
+* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [The Pandemic May Spare Us From Another Plague: Bedbugs](https://www.nytimes.com/2020/06/29/well/live/coronavirus-bedbugs.html)
 * [Louisiana Abortion Law Struck Down by Supreme Court](https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html)
 * [Trump Shares Video of Armed White St.Louis Couple Confronting Protesters](https://www.nytimes.com/2020/06/29/us/politics/trump-white-couple-protesters.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
+* [Caixa e Banco do Brasil pagam abono salarial do PIS/Pasep a correntistas nesta terça-feira](https://oglobo.globo.com/economia/caixa-banco-do-brasil-pagam-abono-salarial-do-pispasep-correntistas-nesta-terca-feira-24506748)
+* [Boicote de empresas ao Facebook cresce no exterior mas é tímido no Brasil. Entenda](https://oglobo.globo.com/economia/boicote-de-empresas-ao-facebook-cresce-no-exterior-mas-timido-no-brasil-entenda-24506452)
 * [China promulga lei de segurança nacional para Hong Kong, aumentando seus poderes sobre o território](https://oglobo.globo.com/mundo/china-promulga-lei-de-seguranca-nacional-para-hong-kong-aumentando-seus-poderes-sobre-territorio-24506709)
-* [Escritório do Crime: grupo de matadores suspeito do assassinato de Marielle Franco é alvo de operação da Polícia Civil e do MP](https://oglobo.globo.com/rio/escritorio-do-crime-grupo-de-matadores-suspeito-do-assassinato-de-marielle-franco-alvo-de-operacao-da-policia-civil-do-mp-24506668)
+* [Facebook sobrevive sem grandes marcas, mas imagem paga um preço](https://oglobo.globo.com/analitico/facebook-sobrevive-sem-grandes-marcas-mas-imagem-paga-um-preco-24506743)
+* [Brasil tem 1.373.006 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1373006-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24506731)
 * [Dona de casa faz sucesso na web ao fazer paródia de Anitta](https://oglobo.globo.com/ela/gente/dona-de-casa-faz-sucesso-na-web-ao-fazer-parodia-de-anitta-24506704)
-* [Mourão reúne grupo para rebater críticas ambientais e convencer estrangeiros a investir no Brasil](https://oglobo.globo.com/economia/mourao-reune-grupo-para-rebater-criticas-ambientais-convencer-estrangeiros-investir-no-brasil-24506407)
 * [Menosprezo por casos assintomáticos dificultou o combate à Covid-19](https://oglobo.globo.com/sociedade/menosprezo-por-casos-assintomaticos-dificultou-combate-covid-19-24505310)
-* [Falta de pessoal no Ibama dificulta combate ao desmatamento, aponta Mourão](https://epoca.globo.com/guilherme-amado/falta-de-pessoal-no-ibama-dificulta-combate-ao-desmatamento-aponta-mourao-24503098)
-* [O deputado bolsonarista e a Consultoria Legislativa da Câmara](https://epoca.globo.com/guilherme-amado/o-deputado-bolsonarista-a-consultoria-legislativa-da-camara-24503131)
-* [Bolos têm destaque no delivery durante a quarentena](https://oglobo.globo.com/rioshow/bolos-tem-destaque-no-delivery-durante-quarentena-24505360)
-* [COLUNA | A corrupção viral](https://epoca.globo.com/coluna-a-corrupcao-viral-1-24505172)
-* [Atenção ao emocional: aspectos psicológicos ganham destaque no planejamento das escolas para a volta ao regime presencial](https://oglobo.globo.com/rio/bairros/atencao-ao-emocional-aspectos-psicologicos-ganham-destaque-no-planejamento-das-escolas-para-volta-ao-regime-presencial-24501861)
+* [O estilo Pazuello](https://epoca.globo.com/guilherme-amado/o-estilo-pazuello-24503100)
+* [A verdadeira história dos encontros de João Gilberto com os Novos Baianos](https://epoca.globo.com/guilherme-amado/a-verdadeira-historia-dos-encontros-de-joao-gilberto-com-os-novos-baianos-24502988)
+* [Coluna | A geopolítica da pandemia e o drama da anexação em Israel](https://epoca.globo.com/michel-gherman/coluna-a-geopolitica-da-pandemia-o-drama-da-anexacao-em-israel-24505321)

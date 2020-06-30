@@ -2,34 +2,32 @@
 layout: default
 ---
 
-# indexed at 30/06/2020 10:10:26 UTC
+# indexed at 30/06/2020 10:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The modern web makes me want to throw up](https://josephg.com/blog/the-modern-web/)
 * [Why we won’t be supporting Sign in with Apple](https://blog.anylist.com/2020/06/sign-in-with-apple/)
 * [Keep Your Stuff, for Life](https://perkeep.org/)
 * [Apple machine learning in 2020: What’s new?](https://machinethink.net/blog/new-in-apple-machine-learning-2020/)
 * [Forget Google, time to end the Visa-MasterCard duopoly](https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7)
 * [Why I left Substack and the Email Renaissance](https://www.kevin-indig.com/why-i-left-substack-and-the-email-renaissance/)
-* [AI predicts effective depression treatment based on brainwave patterns](https://scopeblog.stanford.edu/2020/06/24/ai-predicts-effective-depression-treatment-based-on-brainwave-patterns/)
 * [Running Postgres in Kubernetes [pdf]](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf)
+* [Mapping Anything with BSicons](https://chriszetter.com/blog/2020/06/25/mapping-anything-with-bsicons/)
+* [AI predicts effective depression treatment based on brainwave patterns](https://scopeblog.stanford.edu/2020/06/24/ai-predicts-effective-depression-treatment-based-on-brainwave-patterns/)
 * [Learning to Cartoonize Using White-Box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
 * [Lua 5.4.0](https://www.lua.org/versions.html#5.4)
-* [Mapping Anything with BSicons](https://chriszetter.com/blog/2020/06/25/mapping-anything-with-bsicons/)
 * [Implementing a System Call for OpenBSD](https://poolp.org/drafts/2020-05-28-015100-copy/)
 * [Weighing a Car with Tire Pressures](https://surjan.substack.com/p/16-weighing-a-car-with-tire-pressures)
 * [Curve Detecting Neurons](https://distill.pub/2020/circuits/curve-detectors/)
-* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
 * [Do call yourself a programmer, and other career advice (2013)](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
+* [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
+* [Lilith and the Draconcopes](http://riowang.blogspot.com/2020/06/lilith-and-the-draconcopes.html)
 * [What Is the Morning Writing Effect? (2011)](https://www.gwern.net/Morning-writing)
 * [Declining eyesight improved by looking at deep red light](https://www.sciencedaily.com/releases/2020/06/200629120241.htm)
 * [Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
-* [Lilith and the Draconcopes](http://riowang.blogspot.com/2020/06/lilith-and-the-draconcopes.html)
 * [The History of Usenet and FidoNet](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
-* [Reddit bans 2000 communities including The_Donald](https://www.reddit.com/r/announcements/comments/hi3oht/update_to_our_content_policy/)
 * [IBM releases RTL source code for A2I Blue Gene/Q processor core](https://github.com/openpower-cores/a2i)
 * [Agonising surgery paved the way for anaesthetics](https://www.bbc.com/future/article/20200624-how-agonising-surgery-paved-the-way-for-anaesthetics)
 * [Equations system with a black rectangle in LaTeX](https://gus-massa.blogspot.com/2020/06/equations-system-with-black-rectangle.html)
@@ -37,7 +35,9 @@ layout: default
 * [A Spark of Insight into Neanderthal Behavior](https://www.sapiens.org/column/field-trips/neanderthal-tools/)
 * [Guy Who Reverse-Engineered TikTok Reveals the Scary Things He Learned](https://www.reddit.com/r/videos/comments/fxgi06/not_new_news_but_tbh_if_you_have_tiktiok_just_get/)
 * [How remdesivir works, and why it's not the ultimate coronavirus killer](https://scopeblog.stanford.edu/2020/06/29/how-remdesivir-works-and-why-its-not-the-ultimate-coronavirus-killer/)
+* [India bans TikTok, WeChat, and dozens of other Chinese apps](https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/)
 * [The Antic Cyber Graphics Software (2002)](https://doudoroff.com/atari/)
+* [Things to know before starting a Patreon page](http://pencerw.com/feed/2020/6/24/three-things-all-creators-should-know-about-patreon?mc_cid=cb178f4bd4&mc_eid=5ac3a20371)
 ## nytimes.com
 
 
@@ -75,27 +75,27 @@ layout: default
 * [‘Begin Again’ Calls on James Baldwin to Make Sense of Today](https://www.nytimes.com/2020/06/30/books/review-begin-again-james-baldwin-eddie-glaude-jr.html)
 * [Bailout or Backstop? Lawmakers May Focus on Fed’s Corporate Bond Buying](https://www.nytimes.com/2020/06/30/business/economy/federal-reserve-jerome-powell-corporate-bonds.html)
 * [NASA Scientist, Detained in Turkey for Years, Returns to U.S.](https://www.nytimes.com/2020/06/30/world/europe/turkey-golge-release-gulen.html)
-* [Body of One of Three Hikers Missing on Mount Rainier Is Found](https://www.nytimes.com/2020/06/29/us/mt-rainier-missing-hikers.html)
+* [Scientists Say New Strain of Swine Flu Virus Is Spreading to Humans in China](https://www.nytimes.com/2020/06/30/world/asia/h1n1-swine-flu-virus-china-pig.html)
 * [Live Stock Market Updates During the Coronavirus Pandemic](https://www.nytimes.com/2020/06/30/business/stock-market-today-coronavirus.html)
-* [Australia Spending Nearly $1 Billion on Cyberdefense as China Tensions Rise](https://www.nytimes.com/2020/06/30/world/australia/cyber-defense-china-hacking.html)
+* [Body of One of Three Hikers Missing on Mount Rainier Is Found](https://www.nytimes.com/2020/06/29/us/mt-rainier-missing-hikers.html)
 * [What a Family That Lost 5 to the Virus Wants You to Know](https://www.nytimes.com/2020/06/30/nyregion/coronavirus-fusco-family-nj.html)
 * [A New Superpower Competition Between Beijing and Washington: China’s Nuclear Buildup](https://www.nytimes.com/2020/06/30/us/politics/trump-russia-china-nuclear.html)
 * [John T. Edge, A White Gatekeeper of Southern Food, Faces Calls to Resign](https://www.nytimes.com/2020/06/29/dining/john-t-edge-southern-foodways-alliance.html)
 * [Paycheck Protection Program, Signature Small Business Aid Effort, Ends](https://www.nytimes.com/2020/06/30/business/paycheck-protection-program-coronavirus.html)
 * [How to Raise an Anti-Racist Kid](https://www.nytimes.com/2020/06/24/well/family/how-to-raise-an-anti-racist-kid.html)
 * [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Coronavirus in Florida: What Pandemic Is Like for Theme Park Workers](https://www.nytimes.com/2020/06/27/business/coronavirus-florida-disney-tourism.html)
 * [Gerardo Parra Hopes ‘Baby Shark’ Magic Can Bring a Title in Japan, Too](https://www.nytimes.com/2020/06/29/sports/baseball/gerardo-parra-baby-shark-japan.html)
 * [Review: When ‘Tartuffe’ Meets Trump, It’s Revolutionary](https://www.nytimes.com/2020/06/29/theater/tartuffe-review.html)
 * [Excavating Chinese History, One Harrowing Film at a Time](https://www.nytimes.com/2020/06/28/movies/hu-jie-films.html)
 * [Five Art Accounts to Follow on Instagram Now](https://www.nytimes.com/2020/06/29/arts/design/instagram-accounts-to-follow.html)
-* [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
-* [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
 * [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Life Hatched From Soft Eggs, Some a Foot Long, in Dinosaur Era](https://www.nytimes.com/2020/06/17/science/dinosaurs-soft-eggs.html)
+* [Seeking Dark Matter, They Detected Another Mystery](https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html)
+* [The Challenges of the Pandemic for Queer Youth](https://www.nytimes.com/2020/06/29/well/family/LGBTQ-youth-teenagers-pandemic-coronavirus.html)
 * [The Pandemic May Spare Us From Another Plague: Bedbugs](https://www.nytimes.com/2020/06/29/well/live/coronavirus-bedbugs.html)
 * [Louisiana Abortion Law Struck Down by Supreme Court](https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html)
 * [Trump Shares Video of Armed White St.Louis Couple Confronting Protesters](https://www.nytimes.com/2020/06/29/us/politics/trump-white-couple-protesters.html)
@@ -105,10 +105,10 @@ layout: default
 ## globo.com
 
 
-* [Grupo de matadores criado pelo ex-capitão Adriano é alvo de ação da Polícia Civil e do MP](https://oglobo.globo.com/rio/grupo-de-matadores-criado-pelo-ex-capitao-adriano-alvo-de-acao-da-policia-civil-do-mp-24506668)
+* [Dona de casa faz sucesso na web ao fazer paródia de Anitta](https://oglobo.globo.com/ela/gente/dona-de-casa-faz-sucesso-na-web-ao-fazer-parodia-de-anitta-24506704)
+* [Escritório do Crime: grupo de matadores suspeito dos assassinato de Marielle é alvo de operação da Polícia Civil e do MP](https://oglobo.globo.com/rio/escritorio-do-crime-grupo-de-matadores-suspeito-dos-assassinato-de-marielle-alvo-de-operacao-da-policia-civil-do-mp-24506668)
 * [Mourão reúne grupo para rebater críticas ambientais e convencer estrangeiros a investir no Brasil](https://oglobo.globo.com/economia/mourao-reune-grupo-para-rebater-criticas-ambientais-convencer-estrangeiros-investir-no-brasil-24506407)
 * [Governo planeja recuperar popularidade com agenda de inaugurações e programa de renda](https://oglobo.globo.com/brasil/governo-planeja-recuperar-popularidade-com-agenda-de-inauguracoes-programa-de-renda-24506184)
-* ['Bolsonaro de 2020 lembra Lula em 2005', diz ex-marqueteiro de Flávio](https://oglobo.globo.com/brasil/bolsonaro-de-2020-lembra-lula-em-2005-diz-ex-marqueteiro-de-flavio-24506211)
 * [Menosprezo por casos assintomáticos dificultou o combate à Covid-19](https://oglobo.globo.com/sociedade/menosprezo-por-casos-assintomaticos-dificultou-combate-covid-19-24505310)
 * [Falta de pessoal no Ibama dificulta combate ao desmatamento, aponta Mourão](https://epoca.globo.com/guilherme-amado/falta-de-pessoal-no-ibama-dificulta-combate-ao-desmatamento-aponta-mourao-24503098)
 * [O deputado bolsonarista e a Consultoria Legislativa da Câmara](https://epoca.globo.com/guilherme-amado/o-deputado-bolsonarista-a-consultoria-legislativa-da-camara-24503131)

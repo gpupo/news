@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 10:12:40 UTC
+# indexed at 01/07/2020 10:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
+* [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
 * [New Mac ransomware spreading through piracy](https://blog.malwarebytes.com/mac/2020/06/new-mac-ransomware-spreading-through-piracy/)
 * [Mozilla Common Voice Dataset: More data, more languages](https://discourse.mozilla.org/t/common-voice-dataset-release-mid-year-2020/62938)
 * [YouTube TV sharply increases monthly subscription to $64.99](https://www.theverge.com/2020/6/30/21308449/youtube-tv-price-increase-64-99-viacom-hbo-new-channels)
@@ -16,26 +17,25 @@ layout: default
 * [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
 * [How Did Vim Become So Popular?](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)
 * [The End of the Redis Adventure](http://antirez.com/news/133)
-* [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
 * [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
-* [Gödel Incompleteness for Startups (2013)](https://skibinsky.com/godel-incompleteness-for-startups/)
+* [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
 * [Learn Lua in 15 Minutes (2013)](http://tylerneylon.com/a/learn-lua/)
-* [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [Mastering Jq: Part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
 * [Entr: Rerun your build when files change](https://jvns.ca/blog/2020/06/28/entr/)
+* [Gödel Incompleteness for Startups (2013)](https://skibinsky.com/godel-incompleteness-for-startups/)
 * [Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
 * [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
+* [What can you learn by writing as a developer](https://blog.phuaxueyong.com/post/2020-06-27-how-did-this-start/)
+* [Generative Zoology with Neural Networks](https://corte.si/posts/code/genzoo/)
 * [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
 * [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
 * [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
-* [Algolia (YC W14) is hiring tech support engineers to help devs implement search](https://www.algolia.com/careers/?job=technical-support-engineer-remote-from-france-or-the-uk-remote)
-* [Generative Zoology with Neural Networks](https://corte.si/posts/code/genzoo/)
 * [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
 * [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
+* [Algolia (YC W14) is hiring tech support engineers to help devs implement search](https://www.algolia.com/careers/?job=technical-support-engineer-remote-from-france-or-the-uk-remote)
 * [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
 * [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
-* [What can you learn by writing as a developer](https://blog.phuaxueyong.com/post/2020-06-27-how-did-this-start/)
 * [Returning from a Year of Isolation in Antarctica](https://www.rd.com/article/isolated-for-a-year-in-antarctica/)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
 ## nytimes.com
@@ -84,18 +84,18 @@ layout: default
 * [‘Intelligent’ or ‘Strong’: Study Finds Bias in Soccer Broadcasts](https://www.nytimes.com/2020/06/30/sports/soccer/soccer-racism-broadcasting.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Semper Ficus: Who’s Keeping Abandoned Office Plants Alive?](https://www.nytimes.com/2020/06/26/business/coronavirus-office-plants.html)
 * [Ten Signature Images From Milton Glaser’s Eclectic Career](https://www.nytimes.com/2020/06/30/arts/design/milton-glaser-graphic-design.html)
 * [I’ve Protested for Racial Justice. Do I Have to Post on Social Media?](https://www.nytimes.com/2020/06/30/magazine/ive-protested-for-racial-justice-do-i-have-to-post-on-social-media.html)
 * [Art Auction or Game Show? Sotheby’s Tries Something New](https://www.nytimes.com/2020/06/30/arts/design/sothebys-online-auction.html)
 * [‘Welcome to Chechnya’ Review: A Vital Indictment of Mass Persecution](https://www.nytimes.com/2020/06/30/movies/welcome-to-chechnya-review.html)
-* [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
-* [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
 * [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
+* [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
 * [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
+* [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
 * [World War C](https://www.nytimes.com/2020/06/30/opinion/world-war-c.html)
 * [Trump Got Written Briefing in February on Possible Russian Bounties, Officials Say](https://www.nytimes.com/2020/06/29/us/politics/russian-bounty-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

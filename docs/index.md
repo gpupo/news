@@ -2,26 +2,26 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 11:11:37 UTC
+# indexed at 01/07/2020 11:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
-* [New Mac ransomware spreading through piracy](https://blog.malwarebytes.com/mac/2020/06/new-mac-ransomware-spreading-through-piracy/)
 * [Mozilla Common Voice Dataset: More data, more languages](https://discourse.mozilla.org/t/common-voice-dataset-release-mid-year-2020/62938)
+* [New Mac ransomware spreading through piracy](https://blog.malwarebytes.com/mac/2020/06/new-mac-ransomware-spreading-through-piracy/)
 * [YouTube TV sharply increases monthly subscription to $64.99](https://www.theverge.com/2020/6/30/21308449/youtube-tv-price-increase-64-99-viacom-hbo-new-channels)
 * [The world should think better about catastrophic and existential risks](https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks)
 * [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
-* [Linear – A fast issue tracker](http://linear.app/)
 * [How Did Vim Become So Popular?](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)
+* [Linear – A fast issue tracker](http://linear.app/)
 * [The End of the Redis Adventure](http://antirez.com/news/133)
-* [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
-* [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [Entr: Rerun your build when files change](https://jvns.ca/blog/2020/06/28/entr/)
+* [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
 * [Learn Lua in 15 Minutes (2013)](http://tylerneylon.com/a/learn-lua/)
+* [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
 * [Mastering Jq: Part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
 * [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
 * [Gödel Incompleteness for Startups (2013)](https://skibinsky.com/godel-incompleteness-for-startups/)
@@ -29,22 +29,22 @@ layout: default
 * [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
 * [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
 * [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
-* [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
-* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
 * [What can you learn by writing as a developer](https://blog.phuaxueyong.com/post/2020-06-27-how-did-this-start/)
 * [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+* [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
+* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
 * [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 * [Returning from a Year of Isolation in Antarctica](https://www.rd.com/article/isolated-for-a-year-in-antarctica/)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
-* [Algolia (YC W14) is hiring tech support engineers to help devs implement search](https://www.algolia.com/careers/?job=technical-support-engineer-remote-from-france-or-the-uk-remote)
 * [400 TB Storage Drives in Our Future: Fujifilm](https://www.anandtech.com/show/15888/400-tb-storage-drives-in-our-future-fujifilm)
+* [EFF and heavyweight legal team will defend Internet Archive against publishers](https://torrentfreak.com/eff-heavyweight-legal-team-will-defend-internet-archives-digital-library-against-publishers-200626/)
 ## nytimes.com
 
 
 * [Live Coronavirus Updates: New Cases in U.S. Are Up 80% in Past 2 Weeks](https://www.nytimes.com/2020/07/01/world/coronavirus-live-updates.html)
 * [Why Surviving Covid Might Come Down to Which NYC Hospital Admits You](https://www.nytimes.com/2020/07/01/nyregion/Coronavirus-hospitals.html)
 * [Mask Fights: America Is Fighting Over Coronavirus Safety](https://www.nytimes.com/2020/06/30/style/mask-america-freedom-coronavirus.html)
-* [Suspicions of Russian Bounties Were Bolstered by Data on Financial Transfers](https://www.nytimes.com/2020/06/30/us/politics/russian-bounties-afghanistan-intelligence.html)
+* [Russian Bounty Suspicions Were Supported by Financial Data](https://www.nytimes.com/2020/06/30/us/politics/russian-bounties-afghanistan-intelligence.html)
 * [Trump’s New Russia Problem: Unread Intelligence and Missing Strategy](https://www.nytimes.com/2020/07/01/us/politics/trump-putin-russia-taliban-bounty.html)
 * [‘You Know Your Audience’: Russia’s Internet Stars Turn Away From Putin](https://www.nytimes.com/2020/06/30/world/europe/russia-internet-putin-referendum.html)
 * [City That Once Guided a Nation Now Shows Its Cracks](https://www.nytimes.com/2020/07/01/business/protests-peoria.html)
@@ -83,20 +83,20 @@ layout: default
 * [At Syrian Aid Summit, a Struggle to Raise Enough to End ‘Downward Spiral’](https://www.nytimes.com/2020/06/30/world/europe/syria-aid-refugees-united-nations.html)
 * [$1 Billion Is Shifted From NYPD in a Budget That Pleases No One](https://www.nytimes.com/2020/06/30/nyregion/nypd-budget.html)
 * [‘Intelligent’ or ‘Strong’: Study Finds Bias in Soccer Broadcasts](https://www.nytimes.com/2020/06/30/sports/soccer/soccer-racism-broadcasting.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
-* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
+* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
+* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Semper Ficus: Who’s Keeping Abandoned Office Plants Alive?](https://www.nytimes.com/2020/06/26/business/coronavirus-office-plants.html)
 * [Ten Signature Images From Milton Glaser’s Eclectic Career](https://www.nytimes.com/2020/06/30/arts/design/milton-glaser-graphic-design.html)
 * [I’ve Protested for Racial Justice. Do I Have to Post on Social Media?](https://www.nytimes.com/2020/06/30/magazine/ive-protested-for-racial-justice-do-i-have-to-post-on-social-media.html)
 * [Art Auction or Game Show? Sotheby’s Tries Something New](https://www.nytimes.com/2020/06/30/arts/design/sothebys-online-auction.html)
 * [‘Welcome to Chechnya’ Review: A Vital Indictment of Mass Persecution](https://www.nytimes.com/2020/06/30/movies/welcome-to-chechnya-review.html)
-* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
-* [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
 * [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
 * [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
+* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
+* [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
 * [World War C](https://www.nytimes.com/2020/06/30/opinion/world-war-c.html)
 * [Trump Got Written Briefing in February on Possible Russian Bounties, Officials Say](https://www.nytimes.com/2020/06/29/us/politics/russian-bounty-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* ['Se a vacina demorar ou não for 100% efetiva, muita coisa vai mudar' diz autor de livro sobre pandemia que matou 50 milhões em 1918](https://oglobo.globo.com/sociedade/coronavirus/se-vacina-demorar-ou-nao-for-100-efetiva-muita-coisa-vai-mudar-diz-autor-de-livro-sobre-pandemia-que-matou-50-milhoes-em-1918-24488145)
-* [Ventos fortes provocaram queda de árvores em bairros do Rio nesta madrugada](https://oglobo.globo.com/rio/ventos-fortes-provocaram-queda-de-arvores-em-bairros-do-rio-nesta-madrugada-24508937)
+* [Ricky Martin posa com marido e filhos, durante a quarentena, para ensaio remoto](https://oglobo.globo.com/ela/ricky-martin-posa-com-marido-filhos-durante-quarentena-para-ensaio-remoto-24508958)
+* [Chinesa ZTE investe em fábrica no Brasil e mira na chegada do 5G](https://oglobo.globo.com/economia/chinesa-zte-investe-em-fabrica-no-brasil-mira-na-chegada-do-5g-24508303)
+* ['Se a vacina demorar, muita coisa vai mudar' diz autor de best-seller sobre pandemia que matou 50 milhões em 1918](https://oglobo.globo.com/sociedade/se-vacina-demorar-muita-coisa-vai-mudar-diz-autor-de-best-seller-sobre-pandemia-que-matou-50-milhoes-em-1918-24508943)
+* [Planos de saúde: problemas respiratórios já eram principal motivo de internação antes da pandemia](https://oglobo.globo.com/economia/defesa-do-consumidor/planos-de-saude-problemas-respiratorios-ja-eram-principal-motivo-de-internacao-antes-da-pandemia-24508927)
+* [Ventos fortes provocam queda de árvores em bairros do Rio nesta madrugada](https://oglobo.globo.com/rio/ventos-fortes-provocam-queda-de-arvores-em-bairros-do-rio-nesta-madrugada-24508937)
 * [Operação derruba prédios irregulares construídos por milicianos na Gardênia Azul](https://oglobo.globo.com/rio/operacao-derruba-predios-irregulares-construidos-por-milicianos-na-gardenia-azul-24508917)
 * [Manifestantes denunciam governo de Cuba de impedir protestos por assassinato de homem negro](https://oglobo.globo.com/mundo/manifestantes-denunciam-governo-de-cuba-de-impedir-protestos-por-assassinato-de-homem-negro-24508867)
-* [Planos de saúde: problemas respiratórios já eram principal motivo de internação antes da pandemia](https://oglobo.globo.com/economia/defesa-do-consumidor/planos-de-saude-problemas-respiratorios-ja-eram-principal-motivo-de-internacao-antes-da-pandemia-24508927)
 * [Brasil tem 1.409.693 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1409693-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24508913)
 * [Análise: Ao contrário do que alega, plano de Boris Johnson tem pouco a ver com New Deal](https://oglobo.globo.com/mundo/analise-ao-contrario-do-que-alega-plano-de-boris-johnson-tem-pouco-ver-com-new-deal-24508634)
-* [Chinesa ZTE investe em fábrica no Brasil e mira na chegada do 5G](https://oglobo.globo.com/economia/chinesa-zte-investe-em-fabrica-no-brasil-mira-na-chegada-do-5g-24508303)
 * [Aras pede que STF impeça reeleições sucessivas no TCM do Rio](https://epoca.globo.com/guilherme-amado/aras-pede-que-stf-impeca-reeleicoes-sucessivas-no-tcm-do-rio-24508527)
-* [Em Niterói, ensino infantil usa a criatividade para manter os pequenos atentos e ativos durante a quarentena](https://oglobo.globo.com/rio/bairros/em-niteroi-ensino-infantil-usa-criatividade-para-manter-os-pequenos-atentos-ativos-durante-quarentena-24501422)

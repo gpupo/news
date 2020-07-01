@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 19:11:38 UTC
+# indexed at 01/07/2020 19:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
 * [Ask HN: Who is hiring? (July 2020)](https://news.ycombinator.com/item?id=23702122)
+* [The New Ford F-150 Onboard Generator Can Power a Ridiculous Amount of Equipment](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
 * [The Whimsical Website Club](https://whimsical.club/)
+* [A Google bot scrapes pricing info by adding items to carts](https://www.wsj.com/articles/who-is-the-mystery-shopper-leaving-behind-all-those-online-shopping-carts-11593617464)
 * [AWS App2Container](https://aws.amazon.com/app2container/)
 * [Not a Wheelchair [video]](https://www.youtube.com/watch?v=vuMg0QwKAGI)
 * [How to list all the targets on a Makefile](https://diamantidis.github.io/tips/2020/07/01/list-makefile-targets)
-* [A Google bot scrapes pricing info by adding items to carts](https://www.wsj.com/articles/who-is-the-mystery-shopper-leaving-behind-all-those-online-shopping-carts-11593617464)
-* [Show HN: A gayer “lolcat” (CLI text colourizer)](https://github.com/ms-jpq/gay)
 * [Intuitive Guide to Maxwell's Equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations)
-* [The New Ford F-150 Onboard Generator Can Power a Ridiculous Amount of Equipment](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
 * [Show HN: Pygooglenews – Python library for advanced Google News data mining](https://github.com/kotartemiy/pygooglenews)
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
+* [Spies, Lies, and Stonewalling: What It’s Like to Report on Facebook](https://www.cjr.org/special_report/reporting-on-facebook.php)
 * [The gap between learning code and producing usable software](https://yassine.substack.com/p/the-gap-between-learning-code-and)
 * [How Twitter Adopted SLOs](https://www.blameless.com/blog/slo-adoption-twitter)
-* [Spies, Lies, and Stonewalling: What It’s Like to Report on Facebook](https://www.cjr.org/special_report/reporting-on-facebook.php)
 * [Launch HN: PostEra (YC W20) Medicinal Chemistry-as-a-Service and Covid Moonshot](https://news.ycombinator.com/item?id=23700275)
 * [German stock trading platform Xetra down, all securities affected](https://thestarphoenix.com/pmn/business-pmn/german-stock-trading-platform-xetra-down-all-securities-affected/)
 * [A Deep Dive into V8](https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html)
-* [Magic hat leaves behind a transformed craft beer industry in Vermont](https://www.sevendaysvt.com/vermont/magic-hat-leaves-behind-a-transformed-craft-beer-industry-in-vermont/Content?oid=30705701)
-* [An alchemist who failed to make gold but still made history in porcelain](https://www.laphamsquarterly.org/roundtable/real-life-rumpelstiltskin)
-* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
 * [Ask HN: Who wants to be hired? (July 2020)](https://news.ycombinator.com/item?id=23702120)
-* [Richard Wright, Masaoka Shiki, and the Haiku of Confinement](https://www.nybooks.com/daily/2020/06/25/richard-wright-masaoka-shiki-and-the-haiku-of-confinement/)
-* [Raspberry Pi 4 PCIe bridge “chip”](https://blog.zakkemble.net/rpi4-pci-express-bridge-chip/)
-* [Apple forcing app developers to implement auto-billing after free trial](https://old.reddit.com/r/assholedesign/comments/hj57fv/apple_forcing_app_developers_to_implement/)
+* [An alchemist who failed to make gold but still made history in porcelain](https://www.laphamsquarterly.org/roundtable/real-life-rumpelstiltskin)
 * [Dynamic Linking](https://blog.stephenmarz.com/2020/06/22/dynamic-linking/)
-* [Turkey determined to control social media platforms, Erdogan says](https://uk.reuters.com/article/uk-turkey-security-socialmedia/turkey-determined-to-control-social-media-platforms-erdogan-says-idUKKBN2425Y4)
+* [Show HN: Browse recently expired, pronounceable domain names (Part II)](https://decentdrops.com)
+* [Richard Wright, Masaoka Shiki, and the Haiku of Confinement](https://www.nybooks.com/daily/2020/06/25/richard-wright-masaoka-shiki-and-the-haiku-of-confinement/)
+* [Apple forcing app developers to implement auto-billing after free trial](https://old.reddit.com/r/assholedesign/comments/hj57fv/apple_forcing_app_developers_to_implement/)
+* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
 * [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
+* [Magic hat leaves behind a transformed craft beer industry in Vermont](https://www.sevendaysvt.com/vermont/magic-hat-leaves-behind-a-transformed-craft-beer-industry-in-vermont/Content?oid=30705701)
+* [Turkey determined to control social media platforms, Erdogan says](https://uk.reuters.com/article/uk-turkey-security-socialmedia/turkey-determined-to-control-social-media-platforms-erdogan-says-idUKKBN2425Y4)
 * [Entr: Rerun your build when files change](https://jvns.ca/blog/2020/06/28/entr/)
 * [Multiple service providers are blocking DuckDuckGo in India](https://thenextweb.com/in/2020/07/01/multiple-service-providers-are-blocking-duckduckgo-in-india/)
+* [Raspberry Pi 4 PCIe bridge “chip”](https://blog.zakkemble.net/rpi4-pci-express-bridge-chip/)
 ## nytimes.com
 
 
@@ -82,19 +82,19 @@ layout: default
 * [Why A.A.P. Guidelines Are Pushing for Schools to Reopen This Fall](https://www.nytimes.com/2020/06/30/us/coronavirus-schools-reopening-guidelines-aap.html)
 * [Martin Luther King III on a Pivotal Wave of Black Lives Matter Protests](https://www.nytimes.com/2020/06/30/us/politics/martin-luther-king-protest-blm.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [A Met Opera Star Was Born, ‘Then Everything Stopped’](https://www.nytimes.com/2020/06/26/arts/music/jnai-bridges-met-opera.html)
 * [‘Unsolved Mysteries’ Returns, Because 2020 Isn’t Scary Enough](https://www.nytimes.com/2020/06/30/arts/television/unsolved-mysteries-netflix.html)
 * [How a Black Cowboy Became a Disinformation Target](https://www.nytimes.com/2020/07/01/style/dreadhead-cowboy-chicago.html)
 * [As Major League Soccer Expands, Teams Are Getting New Homes](https://www.nytimes.com/2020/06/30/business/major-league-soccer-stadiums.html)
 * [Students Create a Magazine to Salute Their Heroes: Chefs of Color](https://www.nytimes.com/2020/06/30/dining/pass-the-spatula-magazine-food-and-finance-high-school.html)
-* [What Coronavirus Researchers Can Learn From Economists](https://www.nytimes.com/2020/06/30/upshot/coronavirus-economists-dexamethasone.html)
-* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Pandemic Parenting Was Already Relentless. Then Came Summer.](https://www.nytimes.com/2020/06/26/upshot/virus-intensive-parenting-education.html)
+* [What Coronavirus Researchers Can Learn From Economists](https://www.nytimes.com/2020/06/30/upshot/coronavirus-economists-dexamethasone.html)
+* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [Chile Crisp Is Even Good With Ice Cream](https://www.nytimes.com/2020/06/30/dining/chili-crisp-ice-cream-sundae.html)
 * [Jared Kushner Makes Trump Campaign Change After Rally Fiasco](https://www.nytimes.com/2020/06/30/us/politics/trump-campaign-change-jared-kushner.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Botafogo perde mando de campo após não pagar despesa de jogo do Carioca](https://oglobo.globo.com/esportes/botafogo-perde-mando-de-campo-apos-nao-pagar-despesa-de-jogo-do-carioca-24509784)
+* [Falso médico é preso suspeito de estuprar pacientes durante procedimentos estéticos](https://oglobo.globo.com/rio/falso-medico-preso-suspeito-de-estuprar-pacientes-durante-procedimentos-esteticos-24509807)
+* [Vendedora morre no dia do aniversário atingida por árvore em 'ciclone bomba'](https://epoca.globo.com/brasil/vendedora-morre-no-dia-do-aniversario-atingida-por-arvore-em-ciclone-bomba-24509677)
+* [Pesquisa estima que quase um milhão de pessoas já tiveram Covid-19 na cidade de SP](https://oglobo.globo.com/sociedade/coronavirus/pesquisa-estima-que-quase-um-milhao-de-pessoas-ja-tiveram-covid-19-na-cidade-de-sp-24509783)
 * [EUA criam 'força especial' para proteger monumentos de protestos antirracismo](https://oglobo.globo.com/mundo/eua-criam-forca-especial-para-proteger-monumentos-de-protestos-antirracismo-24509722)
-* [Sem sinal verde de Washington, projeto de anexações israelense na Cisjordânia pode atrasar por ‘semanas’](https://oglobo.globo.com/mundo/sem-sinal-verde-de-washington-projeto-de-anexacoes-israelense-na-cisjordania-pode-atrasar-por-semanas-24509755)
+* [Sem sinal verde de Washington, projeto israelense de anexações na Cisjordânia pode atrasar por ‘semanas’](https://oglobo.globo.com/mundo/sem-sinal-verde-de-washington-projeto-israelense-de-anexacoes-na-cisjordania-pode-atrasar-por-semanas-24509755)
+* [Botafogo perde mando de campo após não pagar despesa de jogo do Carioca](https://oglobo.globo.com/esportes/botafogo-perde-mando-de-campo-apos-nao-pagar-despesa-de-jogo-do-carioca-24509784)
 * [Livro culpa agronegócio por pandemia](https://epoca.globo.com/guilherme-amado/livro-culpa-agronegocio-por-pandemia-24507863)
-* [Putin tem vitória maciça em referendo que permitirá extensão de mandato até 2036, apontam primeiros resultados](https://oglobo.globo.com/mundo/putin-tem-vitoria-macica-em-referendo-que-permitira-extensao-de-mandato-ate-2036-apontam-primeiros-resultados-24509299)
 * [Proibição do casamento gay e 'fé em Deus': conheça os principais pontos da reforma constitucional russa](https://oglobo.globo.com/mundo/proibicao-do-casamento-gay-fe-em-deus-conheca-os-principais-pontos-da-reforma-constitucional-russa-24509515)
 * [Protocolos rígidos garantem segurança de quem precisa ir a um hospital](https://oglobo.globo.com/sociedade/saude/protocolos-rigidos-garantem-seguranca-de-quem-precisa-ir-um-hospital-24509568)
-* [Coronavírus: o argentino que cruzou o Atlântico sozinho em um barco para ver os pais durante a pandemia](https://epoca.globo.com/mundo/coronavirus-argentino-que-cruzou-atlantico-sozinho-em-um-barco-para-ver-os-pais-durante-pandemia-1-24509699)
 * [PGR abre apuração preliminar para investigar fala de Eduardo Bolsonaro sobre 'ruptura' democrática](https://oglobo.globo.com/brasil/pgr-abre-apuracao-preliminar-para-investigar-fala-de-eduardo-bolsonaro-sobre-ruptura-democratica-24509741)
-* [Ciclone bomba pode frear chegada de gafanhotos no país](https://oglobo.globo.com/brasil/ciclone-bomba-pode-frear-chegada-de-gafanhotos-no-pais-24509706)

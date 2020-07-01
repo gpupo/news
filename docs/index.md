@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 08:13:41 UTC
+# indexed at 01/07/2020 08:34:17 UTC
 
 
 ## news.ycombinator.com
@@ -14,28 +14,28 @@ layout: default
 * [The world should think better about catastrophic and existential risks](https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks)
 * [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
 * [Linear – A fast issue tracker](http://linear.app/)
-* [Gödel Incompleteness for Startups (2013)](https://skibinsky.com/godel-incompleteness-for-startups/)
 * [The End of the Redis Adventure](http://antirez.com/news/133)
-* [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
-* [Algolia (YC W14) is hiring tech support engineers to help devs implement search](https://www.algolia.com/careers/?job=technical-support-engineer-remote-from-france-or-the-uk-remote)
 * [How Did Vim Become So Popular?](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)
+* [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
+* [Gödel Incompleteness for Startups (2013)](https://skibinsky.com/godel-incompleteness-for-startups/)
 * [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
+* [Algolia (YC W14) is hiring tech support engineers to help devs implement search](https://www.algolia.com/careers/?job=technical-support-engineer-remote-from-france-or-the-uk-remote)
 * [Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
 * [Learn Lua in 15 Minutes (2013)](http://tylerneylon.com/a/learn-lua/)
-* [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
 * [Mastering Jq: Part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
-* [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
+* [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
 * [Entr: Rerun your build when files change](https://jvns.ca/blog/2020/06/28/entr/)
-* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
-* [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
-* [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
-* [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
-* [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
-* [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
-* [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
-* [Cirque Du Soleil Files for Bankruptcy Protection](https://www.wsj.com/articles/cirque-du-soleil-files-for-bankruptcy-protection-in-canada-11593455498)
+* [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
 * [Generative Zoology with Neural Networks](https://corte.si/posts/code/genzoo/)
+* [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
+* [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
+* [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
+* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
+* [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+* [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
+* [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 * [Returning from a Year of Isolation in Antarctica](https://www.rd.com/article/isolated-for-a-year-in-antarctica/)
+* [Cirque Du Soleil Files for Bankruptcy Protection](https://www.wsj.com/articles/cirque-du-soleil-files-for-bankruptcy-protection-in-canada-11593455498)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
 * [400 TB Storage Drives in Our Future: Fujifilm](https://www.anandtech.com/show/15888/400-tb-storage-drives-in-our-future-fujifilm)
 ## nytimes.com
@@ -81,8 +81,8 @@ layout: default
 * [After a Staggering Rally, What’s Next for Stocks?](https://www.nytimes.com/2020/06/30/business/stock-market-earnings-coronavirus.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Joel Thompson Talks About His "The Seven Last Words of the Unarmed"](https://www.nytimes.com/2020/06/30/arts/music/classical-music-black-lives-matter.html)
 * [YouTube Takes Shane Dawson's Ads Away](https://www.nytimes.com/2020/06/29/style/shane-dawson-jeffree-star-youtube.html)

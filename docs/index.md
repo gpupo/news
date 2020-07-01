@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 07:34:17 UTC
+# indexed at 01/07/2020 08:13:41 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [New Mac ransomware spreading through piracy](https://blog.malwarebytes.com/mac/2020/06/new-mac-ransomware-spreading-through-piracy/)
 * [Mozilla Common Voice Dataset: More data, more languages](https://discourse.mozilla.org/t/common-voice-dataset-release-mid-year-2020/62938)
-* [Open Letter from Gilead CEO: Remdesivir Pricing](https://stories.gilead.com/articles/an-open-letter-from-daniel-oday-june-29)
 * [YouTube TV sharply increases monthly subscription to $64.99](https://www.theverge.com/2020/6/30/21308449/youtube-tv-price-increase-64-99-viacom-hbo-new-channels)
-* [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
 * [The world should think better about catastrophic and existential risks](https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks)
+* [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
 * [Linear – A fast issue tracker](http://linear.app/)
+* [Gödel Incompleteness for Startups (2013)](https://skibinsky.com/godel-incompleteness-for-startups/)
 * [The End of the Redis Adventure](http://antirez.com/news/133)
+* [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
+* [Algolia (YC W14) is hiring tech support engineers to help devs implement search](https://www.algolia.com/careers/?job=technical-support-engineer-remote-from-france-or-the-uk-remote)
+* [How Did Vim Become So Popular?](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)
 * [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
-* [Implementing atomic actions on decentralized data (1983)](https://dl.acm.org/doi/10.1145/357353.357355)
-* [How Did Vim Become So Popular?](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)
 * [Learn Lua in 15 Minutes (2013)](http://tylerneylon.com/a/learn-lua/)
 * [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
-* [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
 * [Mastering Jq: Part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
-* [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
-* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
-* [One-time treatment generates new neurons, eliminates Parkinson's disease in mice](https://www.sciencedaily.com/releases/2020/06/200625102540.htm)
-* [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
-* [Cirque Du Soleil Files for Bankruptcy Protection](https://www.wsj.com/articles/cirque-du-soleil-files-for-bankruptcy-protection-in-canada-11593455498)
-* [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
-* [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
-* [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+* [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
 * [Entr: Rerun your build when files change](https://jvns.ca/blog/2020/06/28/entr/)
+* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
+* [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
+* [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
+* [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
+* [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+* [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 * [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
+* [Cirque Du Soleil Files for Bankruptcy Protection](https://www.wsj.com/articles/cirque-du-soleil-files-for-bankruptcy-protection-in-canada-11593455498)
 * [Generative Zoology with Neural Networks](https://corte.si/posts/code/genzoo/)
 * [Returning from a Year of Isolation in Antarctica](https://www.rd.com/article/isolated-for-a-year-in-antarctica/)
-* [Mailing Lists vs. GitHub (2018)](https://begriffs.com/posts/2018-06-05-mailing-list-vs-github.html)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
+* [400 TB Storage Drives in Our Future: Fujifilm](https://www.anandtech.com/show/15888/400-tb-storage-drives-in-our-future-fujifilm)
 ## nytimes.com
 
 
@@ -82,8 +82,8 @@ layout: default
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Joel Thompson Talks About His "The Seven Last Words of the Unarmed"](https://www.nytimes.com/2020/06/30/arts/music/classical-music-black-lives-matter.html)
 * [YouTube Takes Shane Dawson's Ads Away](https://www.nytimes.com/2020/06/29/style/shane-dawson-jeffree-star-youtube.html)
 * [I Never Expected to Love Full-Time Motherhood](https://www.nytimes.com/2020/06/29/parenting/queer-motherhood.html)
@@ -91,8 +91,8 @@ layout: default
 * [Well, It Was a Nice Try: Some Sports Aren’t Going So Well](https://www.nytimes.com/2020/06/30/sports/colleges-return-coronavirus-cancellations.html)
 * [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
 * [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
-* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
+* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
 * [Trump Got Written Briefing in February on Possible Russian Bounties, Officials Say](https://www.nytimes.com/2020/06/29/us/politics/russian-bounty-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Cataratas e outras atrações de Foz do Iguaçu voltam a fechar por causa do novo coronavírus](https://oglobo.globo.com/boa-viagem/cataratas-outras-atracoes-de-foz-do-iguacu-voltam-fechar-por-causa-do-novo-coronavirus-24508878)
-* [Líder de Hong Kong diz que nova lei de segurança nacional é ‘fato mais importante’ desde devolução à China](https://oglobo.globo.com/mundo/lider-de-hong-kong-diz-que-nova-lei-de-seguranca-nacional-fato-mais-importante-desde-devolucao-china-24508859)
-* [Ibaneis quer reabertura integral do DF até 3 de agosto](https://oglobo.globo.com/sociedade/ibaneis-quer-reabertura-integral-do-df-ate-3-de-agosto-24508851)
-* [Apenas a ponta da tragédia do desemprego](https://oglobo.globo.com/opiniao/apenas-ponta-da-tragedia-do-desemprego-24508560)
-* [País assiste à nova crise criada por interesses em torno da Lava-Jato](https://oglobo.globo.com/opiniao/pais-assiste-nova-crise-criada-por-interesses-em-torno-da-lava-jato-24508631)
-* [O que mais se despreza](https://oglobo.globo.com/opiniao/o-que-mais-se-despreza-24508213)
-* [A outra epidemia](https://oglobo.globo.com/opiniao/a-outra-epidemia-24508015)
-* [O mundo assombrado pela hidroxicloroquina](https://oglobo.globo.com/opiniao/o-mundo-assombrado-pela-hidroxicloroquina-24507970)
-* [Bolsonaro avacalha a direita](https://oglobo.globo.com/opiniao/bolsonaro-avacalha-direita-24508145)
-* [Dificuldades de alunos serão ainda maiores na volta às aulas](https://oglobo.globo.com/opiniao/dificuldades-de-alunos-serao-ainda-maiores-na-volta-as-aulas-24508242)
+* [Coronavírus: OIT alerta que pandemia pode eliminar avanços em igualdade de gênero](https://oglobo.globo.com/economia/coronavirus-oit-alerta-que-pandemia-pode-eliminar-avancos-em-igualdade-de-genero-24508866)
+* [Programa de crédito privado para micro e pequenos empresários chega ao Rio](https://oglobo.globo.com/economia/programa-de-credito-privado-para-micro-pequenos-empresarios-chega-ao-rio-24508723)
+* [Criticado, Ricardos Salles vai lançar programas para captar recursos para Amazônia](https://oglobo.globo.com/sociedade/criticado-ricardos-salles-vai-lancar-programas-para-captar-recursos-para-amazonia-24508841)
+* [Dez mil mortes por Covid-19 no Rio: apenas 12 dos 92 municípios do estado ainda não registraram óbitos](https://oglobo.globo.com/rio/dez-mil-mortes-por-covid-19-no-rio-apenas-12-dos-92-municipios-do-estado-ainda-nao-registraram-obitos-24508838)
+* [Coronavírus: Retomada das aulas no Rio pode levar mais de um milhão de pessoas às ruas](https://oglobo.globo.com/rio/coronavirus-retomada-das-aulas-no-rio-pode-levar-mais-de-um-milhao-de-pessoas-as-ruas-1-24508814)
+* [Taça Rio: Em briga direta com o Botafogo, pequenos buscam vaga ao lado do Flamengo](https://oglobo.globo.com/esportes/taca-rio-em-briga-direta-com-botafogo-pequenos-buscam-vaga-ao-lado-do-flamengo-24508790)
+* [Os efeitos da pandemia sobre o mercado de trabalho no Brasil](https://oglobo.globo.com/podcast/os-efeitos-da-pandemia-sobre-mercado-de-trabalho-no-brasil-24508762)
+* [Casagrande elogia a ex, Baby do Brasil, diz que falta de sexo não atrapalhou e lamenta não poder jantar com ela](https://oglobo.globo.com/cultura/casagrande-elogia-ex-baby-do-brasil-diz-que-falta-de-sexo-nao-atrapalhou-lamenta-nao-poder-jantar-com-ela-24508776)
+* [Casagrande: 'A cada dois comentários nas minhas redes, um me chama de drogado. É uma faca na alma'](https://oglobo.globo.com/cultura/casagrande-cada-dois-comentarios-nas-minhas-redes-um-me-chama-de-drogado-uma-faca-na-alma-24508684)
+* [Alfredo Sirkis: 'O governo se identifica com a destruição de maneira visceral'](https://oglobo.globo.com/cultura/alfredo-sirkis-governo-se-identifica-com-destruicao-de-maneira-visceral-24508391)

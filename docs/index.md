@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 23:11:38 UTC
+# indexed at 01/07/2020 23:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -12,9 +12,9 @@ layout: default
 * [Apple Lightning](https://nyansatan.github.io/lightning/)
 * [Moldova Shuts Down Bootleg Helicopter Factory](https://balkaninsight.com/2020/06/30/moldova-shuts-down-bootleg-helicopter-factory/)
 * [A Google bot scrapes pricing info by adding items to carts](https://www.wsj.com/articles/who-is-the-mystery-shopper-leaving-behind-all-those-online-shopping-carts-11593617464)
+* [Ray Tracing in Nim](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
 * [How the 2021 Ford F-150's onboard generator works](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
 * [Kongregate closed to new games, shutting down forums and chat](https://www.kongregate.com/forums/1-kongregate/topics/1916387-important-kongregate-announcement)
-* [Ray Tracing in Nim](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
 * [Ask HN: Who is hiring? (July 2020)](https://news.ycombinator.com/item?id=23702122)
 * [The Whimsical Website Club](https://whimsical.club/)
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
@@ -22,21 +22,21 @@ layout: default
 * [Fighter pilot breaks down every button in an F-15 cockpit [video]](https://www.youtube.com/watch?v=zikI2fazPLo)
 * [Not a Wheelchair [video]](https://www.youtube.com/watch?v=vuMg0QwKAGI)
 * [Show HN: Browse recently expired, pronounceable domain names (Part II)](https://decentdrops.com)
-* [San Francisco apartment rent prices are dropping fast](https://www.cnbc.com/2020/07/01/san-francisco-one-bedroom-rent-price-drops-11point8percent-in-june-zumper.html)
 * [Intuitive Guide to Maxwell's Equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations)
-* [The percentage of Americans who are employed has fallen from 61 to 51](https://www.axios.com/half-us-population-unemployed-341ba30c-777e-4ba2-bccf-d2274b2770f0.html)
+* [San Francisco apartment rent prices are dropping fast](https://www.cnbc.com/2020/07/01/san-francisco-one-bedroom-rent-price-drops-11point8percent-in-june-zumper.html)
 * [KoNLPy: Korean NLP in Python](https://konlpy.org)
-* [Jerry (YC S17) Is Hiring Senior Full Stack Engineers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
+* [The percentage of Americans who are employed has fallen from 61 to 51](https://www.axios.com/half-us-population-unemployed-341ba30c-777e-4ba2-bccf-d2274b2770f0.html)
 * [How to list all the targets on a Makefile](https://diamantidis.github.io/tips/2020/07/01/list-makefile-targets)
 * [Japan auto companies triple Mexican pay rather than move to US](https://asia.nikkei.com/Business/Automobiles/Japan-auto-companies-triple-Mexican-pay-rather-than-move-to-US)
+* [Jerry (YC S17) Is Hiring Senior Full Stack Engineers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [Launch HN: PostEra (YC W20) Medicinal Chemistry-as-a-Service and Covid Moonshot](https://news.ycombinator.com/item?id=23700275)
+* [Magic hat leaves behind a transformed craft beer industry in Vermont](https://www.sevendaysvt.com/vermont/magic-hat-leaves-behind-a-transformed-craft-beer-industry-in-vermont/Content?oid=30705701)
 * [Deconstructing Pinterest’s reverse-image-search SEO growth hack](https://www.rankscience.com/blog/pinterest-image-seo-growth-hack)
 * [Raspberry Pi 4 PCIe bridge “chip”](https://blog.zakkemble.net/rpi4-pci-express-bridge-chip/)
-* [Magic hat leaves behind a transformed craft beer industry in Vermont](https://www.sevendaysvt.com/vermont/magic-hat-leaves-behind-a-transformed-craft-beer-industry-in-vermont/Content?oid=30705701)
 * [The gap between learning code and producing usable software](https://yassine.substack.com/p/the-gap-between-learning-code-and)
 * [What It’s Like to Report on Facebook](https://www.cjr.org/special_report/reporting-on-facebook.php)
 * [Show HN: Pygooglenews – Python library for advanced Google News data mining](https://github.com/kotartemiy/pygooglenews)
-* [Ask HN: What kind of ideas are not VC-backable but should exist in the future?](https://news.ycombinator.com/item?id=23697840)
+* [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/42209)
 * [Ask HN: Who wants to be hired? (July 2020)](https://news.ycombinator.com/item?id=23702120)
 ## nytimes.com
 
@@ -44,7 +44,7 @@ layout: default
 * [Trump Campaign and R.N.C. Raised $131 Million in June, a New High](https://www.nytimes.com/2020/07/01/us/politics/trump-fundraising-2020.html)
 * [Coronavirus Live Updates: Some States Pause Reopenings as U.S. Cases Surge](https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html)
 * [Late Action on Virus Prompts Fears Over Safety of U.S. Diplomats in Saudi Arabia](https://www.nytimes.com/2020/07/01/us/politics/coronavirus-us-embassy-saudi-arabia.html)
-* [Here’s What Recovery From Covid-19 May Look Like for Many Survivors](https://www.nytimes.com/2020/07/01/health/coronavirus-recovery-survivors.html)
+* [Coronavirus Survivors: Here's What Recovery May Look Like](https://www.nytimes.com/2020/07/01/health/coronavirus-recovery-survivors.html)
 * [Why Surviving Covid Might Come Down to Which NYC Hospital Admits You](https://www.nytimes.com/2020/07/01/nyregion/Coronavirus-hospitals.html)
 * [The ‘Rocket Ship’ Economic Recovery Is Crashing](https://www.nytimes.com/2020/07/01/business/economic-recovery-virus-surge.html)
 * [Congress Extends Small Business Loan Program for 5 Weeks](https://www.nytimes.com/2020/07/01/us/politics/small-business-loans-extended.html)
@@ -84,18 +84,18 @@ layout: default
 * [Why A.A.P. Guidelines Are Pushing for Schools to Reopen This Fall](https://www.nytimes.com/2020/06/30/us/coronavirus-schools-reopening-guidelines-aap.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [After Internment, a Store Was Born. It’s Still an L.A. Staple.](https://www.nytimes.com/2020/07/01/magazine/little-tokyo-bunkado-los-angeles-japanese.html)
 * [Deepfake Technology Enters the Documentary World](https://www.nytimes.com/2020/07/01/movies/deepfakes-documentary-welcome-to-chechnya.html)
 * [What is the TikTok subculture Dark Academia?](https://www.nytimes.com/2020/06/30/style/dark-academia-tiktok.html)
 * [Stream These 15 Great Titles Before They Leave Netflix in July](https://www.nytimes.com/2020/07/01/movies/leaving-netflix-july.html)
 * [Where to Stream Carl Reiner's Best TV Shows and Movies](https://www.nytimes.com/2020/06/30/movies/carl-reiner-stream.html)
+* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
+* [What Coronavirus Researchers Can Learn From Economists](https://www.nytimes.com/2020/06/30/upshot/coronavirus-economists-dexamethasone.html)
 * [Pandemic Parenting Was Already Relentless. Then Came Summer.](https://www.nytimes.com/2020/06/26/upshot/virus-intensive-parenting-education.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [What Coronavirus Researchers Can Learn From Economists](https://www.nytimes.com/2020/06/30/upshot/coronavirus-economists-dexamethasone.html)
-* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [Jared Kushner Makes Trump Campaign Change After Rally Fiasco](https://www.nytimes.com/2020/06/30/us/politics/trump-campaign-change-jared-kushner.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -103,9 +103,9 @@ layout: default
 ## globo.com
 
 
-* [Com 1.057 mortes em 24 horas, Brasil chega a 60.713 óbitos, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/com-1057-mortes-em-24-horas-brasil-chega-60713-obitos-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24510171)
-* [Entenda porque EUA asseguraram quase todo suprimento dos próximos três meses de remédio contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/entenda-porque-eua-asseguraram-quase-todo-suprimento-dos-proximos-tres-meses-de-remedio-contra-covid-19-24510247)
 * [Ministério da Saúde diz que mortes chegaram a 'platô', mas aumento de casos preocupa](https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-diz-que-mortes-chegaram-plato-mas-aumento-de-casos-preocupa-1-24510227)
+* [Entenda por que os EUA asseguraram quase todo suprimento de três meses de remédio contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/entenda-por-que-os-eua-asseguraram-quase-todo-suprimento-de-tres-meses-de-remedio-contra-covid-19-24510247)
+* [Com 1.057 mortes em 24 horas, Brasil chega a 60.713 óbitos, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/com-1057-mortes-em-24-horas-brasil-chega-60713-obitos-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24510171)
 * [TSE suspende afastamento de prefeitos cassados até fim da pandemia](https://oglobo.globo.com/brasil/tse-suspende-afastamento-de-prefeitos-cassados-ate-fim-da-pandemia-1-24510135)
 * [Caso Miguel: polícia indicia ex-patroa por abandono de incapaz](https://oglobo.globo.com/brasil/caso-miguel-policia-indicia-ex-patroa-por-abandono-de-incapaz-24510168)
 * [Nuvens de gafanhotos são sinais de desequilíbrio do planeta e podem se tornar mais frequentes, alerta pesquisadora](https://oglobo.globo.com/sociedade/nuvens-de-gafanhotos-sao-sinais-de-desequilibrio-do-planeta-podem-se-tornar-mais-frequentes-alerta-pesquisadora-24510174)

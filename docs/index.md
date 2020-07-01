@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/07/2020 05:11:43 UTC
+# indexed at 01/07/2020 05:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Cirque Du Soleil Files for Bankruptcy Protection](https://www.wsj.com/articles/cirque-du-soleil-files-for-bankruptcy-protection-in-canada-11593455498)
 * [New Mac ransomware spreading through piracy](https://blog.malwarebytes.com/mac/2020/06/new-mac-ransomware-spreading-through-piracy/)
 * [Mozilla Common Voice Dataset: More data, more languages](https://discourse.mozilla.org/t/common-voice-dataset-release-mid-year-2020/62938)
 * [The world should think better about catastrophic and existential risks](https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks)
 * [Linear – A fast issue tracker](http://linear.app/)
 * [YouTube TV sharply increases monthly subscription to $64.99](https://www.theverge.com/2020/6/30/21308449/youtube-tv-price-increase-64-99-viacom-hbo-new-channels)
+* [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
 * [The End of the Redis Adventure](http://antirez.com/news/133)
 * [How Did Vim Become So Popular?](https://pragmaticpineapple.com/how-did-vim-become-so-popular/)
-* [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
-* [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/)
 * [Learn Lua in 15 Minutes (2013)](http://tylerneylon.com/a/learn-lua/)
+* [Holographic optics for thin and lightweight virtual reality](https://research.fb.com/blog/2020/06/holographic-optics-for-thin-and-lightweight-virtual-reality/)
 * [Show HN: Program “Greppy”, a 2-wheeled robot, using a new robotics language](https://yoga.dev/timeshared-robots/)
 * [Taming Advanced Compilation bugs in ClojureScript projects](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 * [Mastering Jq: Part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
 * [Rethinking Easter Island’s Historic “Collapse”](https://www.sapiens.org/archaeology/easter-island-collapse/)
 * [All about Modelica: An equation-based language for modeling physical systems](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
-* [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [System Hardening in Android 11](https://security.googleblog.com/2020/06/system-hardening-in-android-11.html)
-* [California accuses Cisco of job discrimination based on Indian employee's caste](https://www.reuters.com/article/us-cisco-lawsuit/california-accuses-cisco-of-job-discrimination-based-on-indian-employees-caste-idUSKBN2423YE)
-* [How well do cars do in crash tests they're not optimized for?](https://danluu.com/car-safety/)
-* [Disclosure: Another macOS privacy protections bypass](https://lapcatsoftware.com/articles/disclosure2.html)
+* [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+* [The possible disappearance of a massive star in the galaxy PHL 293B](https://academic.oup.com/mnras/article/496/2/1902/5863970)
 * [Returning from a Year of Isolation in Antarctica](https://www.rd.com/article/isolated-for-a-year-in-antarctica/)
 * [Must ride mule to and from work location](https://www.deepsouthventures.com/must-ride-mule-to-from-work-location/)
-* [Lisp as the Maxwell’s Equations of Software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
 * [Ask HN: How to improve my abstract thinking?](https://news.ycombinator.com/item?id=23675370)
 * [Missing Structure in Technical Discussions](http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html)
-* [NovaChat: Multi-Network Chat](https://nova.chat/)
-* [Yann LeCun quits Twitter amid acrimonious exchanges on AI bias](https://syncedreview.com/2020/06/30/yann-lecun-quits-twitter-amid-acrimonious-exchanges-on-ai-bias/)
 * [400 TB Storage Drives in Our Future: Fujifilm](https://www.anandtech.com/show/15888/400-tb-storage-drives-in-our-future-fujifilm)
+* [NovaChat: Multi-Network Chat](https://nova.chat/)
 * [EFF and heavyweight legal team will defend Internet Archive against publishers](https://torrentfreak.com/eff-heavyweight-legal-team-will-defend-internet-archives-digital-library-against-publishers-200626/)
-* [People who can't see things in their mind could have memory trouble too: study](https://www.sciencealert.com/some-people-can-t-picture-things-in-their-mind-and-it-might-make-it-hard-for-them-to-remember)
+* [Yann LeCun quits Twitter amid acrimonious exchanges on AI bias](https://syncedreview.com/2020/06/30/yann-lecun-quits-twitter-amid-acrimonious-exchanges-on-ai-bias/)
+* [3D Electron Orbitals of Hydrogen](https://blog.c0nrad.io/hydrogen/)
+* [Mallards ferry fish eggs between waterbodies](https://www.audubon.org/news/mallards-ferry-fish-eggs-between-waterbodies-through-their-poop)
+* [Git Repo of Police Brutality During the 2020 George Floyd Protests](https://github.com/2020PB/police-brutality#hn)
 ## nytimes.com
 
 
@@ -80,20 +80,20 @@ layout: default
 * [Mississippi Governor Signs Law to Remove Flag With Confederate Emblem](https://www.nytimes.com/2020/06/30/us/mississippi-flag.html)
 * [$1 Billion Is Shifted From NYPD in a Budget That Pleases No One](https://www.nytimes.com/2020/06/30/nyregion/nypd-budget.html)
 * [After a Staggering Rally, What’s Next for Stocks?](https://www.nytimes.com/2020/06/30/business/stock-market-earnings-coronavirus.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Joel Thompson Talks About His "The Seven Last Words of the Unarmed"](https://www.nytimes.com/2020/06/30/arts/music/classical-music-black-lives-matter.html)
 * [YouTube Takes Shane Dawson's Ads Away](https://www.nytimes.com/2020/06/29/style/shane-dawson-jeffree-star-youtube.html)
 * [I Never Expected to Love Full-Time Motherhood](https://www.nytimes.com/2020/06/29/parenting/queer-motherhood.html)
 * [Tiny Love Stories: ‘I See the Worst of Myself in Her’](https://www.nytimes.com/2020/06/30/style/tiny-modern-love-stories-coronavirus-i-see-the-worst-of-myself-in-her.html)
 * [Well, It Was a Nice Try: Some Sports Aren’t Going So Well](https://www.nytimes.com/2020/06/30/sports/colleges-return-coronavirus-cancellations.html)
-* [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
-* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
-* [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
 * [Actual Coronavirus Infections Vastly Undercounted, C.D.C. Data Shows](https://www.nytimes.com/2020/06/27/health/coronavirus-antibodies-asymptomatic.html)
+* [A Worm’s Hidden Map for Growing New Eyes](https://www.nytimes.com/2020/06/29/science/flatworms-eyes-regeneration.html)
+* [‘They Want to Kill Me’: Many Covid Patients Have Terrifying Delirium](https://www.nytimes.com/2020/06/28/health/coronavirus-delirium-hallucinations.html)
+* [Surgery or Medical Procedure? What to Know Before You Go](https://www.nytimes.com/2020/06/30/well/live/surgery-or-medical-procedure-what-to-know-before-you-go.html)
 * [Trump Got Written Briefing in February on Possible Russian Bounties, Officials Say](https://www.nytimes.com/2020/06/29/us/politics/russian-bounty-trump.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

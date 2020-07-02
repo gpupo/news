@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 07:34:24 UTC
+# indexed at 02/07/2020 08:13:48 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
-* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
 * [Space Jam's 1996 website is still alive](https://www.spacejam.com/)
 * [DuckDuckGo browser seemingly sends domains a user visits to DDG servers](https://github.com/duckduckgo/Android/issues/527)
+* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [Apple Lightning](https://nyansatan.github.io/lightning/)
 * [Local area network push notifications](https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html)
+* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
 * [Studies in Intelligence [pdf]](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-64-no-1/pdfs/Studies-64-1-March-2020-UnclassifiedExtracts.pdf)
+* [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
 * [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
 * [GShard: Scaling giant models with conditional computation and automatic sharding](https://arxiv.org/abs/2006.16668)
 * [Peppering (Password Storage)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#peppering)
-* [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
 * [A Google bot scrapes pricing info by adding items to carts](https://www.wsj.com/articles/who-is-the-mystery-shopper-leaving-behind-all-those-online-shopping-carts-11593617464)
 * [Moldova Shuts Down Bootleg Helicopter Factory](https://balkaninsight.com/2020/06/30/moldova-shuts-down-bootleg-helicopter-factory/)
-* [How the 2021 Ford F-150's onboard generator works](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
-* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
+* [How the 2021 Ford F-150's onboard generator works](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
 * [Kongregate closed to new games, shutting down forums and chat](https://www.kongregate.com/forums/1-kongregate/topics/1916387-important-kongregate-announcement)
-* [Fighter pilot breaks down every button in an F-15 cockpit [video]](https://www.youtube.com/watch?v=zikI2fazPLo)
+* [Why Facebook is well placed to weather an advertising boycott](https://www.economist.com/business/2020/07/01/why-facebook-is-well-placed-to-weather-an-advertising-boycott)
+* [Taking over Azure DevOps accounts with one click](https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/)
 * [Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurs/)
 * [Quantum fluctuations have been shown to affect macroscopic objects](https://www.nature.com/articles/d41586-020-01914-4)
-* [Taking over Azure DevOps accounts with one click](https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/)
-* [Comparing how different devices display the SSID “á̶̛̛̓̿̈͐͆̐̇̒̑̈́͘͝aaa”](https://hamptonmoore.com/posts/weird-wifi-name-display/)
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
 * [The Whimsical Website Club](https://whimsical.club/)
+* [Comparing how different devices display the SSID “á̶̛̛̓̿̈͐͆̐̇̒̑̈́͘͝aaa”](https://hamptonmoore.com/posts/weird-wifi-name-display/)
 * [Ray Tracing in Nim](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
 * [Show HN: Browse recently expired, pronounceable domain names (Part II)](https://decentdrops.com)
-* [Aiming ultrasound at the brain raises hope of new treatments](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
+* [Robert's Rules of Order (1876)](http://www.gutenberg.org/files/9097/9097.txt)
 * [Value Investing in Life Sciences](https://axial.substack.com/p/value-investing-in-life-sciences)
 * [The Essential Bradbury (2018)](http://www.samweller.net/bradbury-1/2018/11/29/the-essential-bradbury)
-* [Robert's Rules of Order (1876)](http://www.gutenberg.org/files/9097/9097.txt)
+* [Aiming ultrasound at the brain raises hope of new treatments](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [3-Story Brooklyn Building Suddenly Collapses](https://www.nytimes.com/2020/07/01/nyregion/brooklyn-building-collapse.html)
 * [Jonathan Irons, Helped by W.N.B.A. Star Maya Moore, Freed From Prison](https://www.nytimes.com/2020/07/01/sports/basketball/maya-moore-jonathan-irons-freed.html)
 * [Richmond Removes Stonewall Jackson Statue From Monument Avenue](https://www.nytimes.com/2020/07/02/us/stonewall-jackson-statue-richmond.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
-* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
+* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [After Internment, a Store Was Born. It’s Still an L.A. Staple.](https://www.nytimes.com/2020/07/01/magazine/little-tokyo-bunkado-los-angeles-japanese.html)
 * [Deepfake Technology Enters the Documentary World](https://www.nytimes.com/2020/07/01/movies/deepfakes-documentary-welcome-to-chechnya.html)
 * [What is the TikTok subculture Dark Academia?](https://www.nytimes.com/2020/06/30/style/dark-academia-tiktok.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Cano embala Vasco na busca por vaga na semifinal da Taça Rio](https://oglobo.globo.com/esportes/vasco/cano-embala-vasco-na-busca-por-vaga-na-semifinal-da-taca-rio-24509828)
-* [Pessoas em situação de rua: gestão ou judicialização?](https://oglobo.globo.com/opiniao/pessoas-em-situacao-de-rua-gestao-ou-judicializacao-24510239)
-* [Quem são os inimigos?](https://oglobo.globo.com/opiniao/quem-sao-os-inimigos-24510468)
-* [Os próximos](https://oglobo.globo.com/opiniao/os-proximos-24510504)
-* [A falta que faz uma boa direita](https://oglobo.globo.com/opiniao/a-falta-que-faz-uma-boa-direita-24510487)
-* [Demolição é forma eficiente de conter as construções da milícia](https://oglobo.globo.com/opiniao/demolicao-forma-eficiente-de-conter-as-construcoes-da-milicia-1-24509895)
-* [Esquetes, espetáculos e até mininovelas criados com recursos do celular viram hits do isolamento](https://oglobo.globo.com/cultura/esquetes-espetaculos-ate-mininovelas-criados-com-recursos-do-celular-viram-hits-do-isolamento-24510186)
-* [Fusões e aquisições: perspectivas com cautela](https://oglobo.globo.com/opiniao/fusoes-aquisicoes-perspectivas-com-cautela-24510154)
-* [Cinemas drive-in no Rio: 'Pulp Fiction', 'E.T.' e 'Parasita' são destaque no fim de semana](https://oglobo.globo.com/rioshow/cinemas-drive-in-no-rio-pulp-fiction-et-parasita-sao-destaque-no-fim-de-semana-24509688)
-* [Lives de hoje tem de Norah Jones e Radiohead a Galinha Pintadinha. Veja agenda](https://oglobo.globo.com/rioshow/lives-de-hoje-tem-de-norah-jones-radiohead-galinha-pintadinha-veja-agenda-24509300)
+* [Pés sujos mas com as mãos bem limpas é a nova regra nos bares e botequins que reabrem nesta quinta](https://oglobo.globo.com/rio/pes-sujos-mas-com-as-maos-bem-limpas-a-nova-regra-nos-bares-botequins-que-reabrem-nesta-quinta-24511041)
+* ['Todos temem ser o próximo Facebook', diz ativista por trás de boicote à rede social](https://oglobo.globo.com/economia/tecnologia/todos-temem-ser-proximo-facebook-diz-ativista-por-tras-de-boicote-rede-social-24511068)
+* [Médica agredida no Grajaú pode não conseguir recuperar movimentos de joelho quebrado](https://oglobo.globo.com/rio/medica-agredida-no-grajau-pode-nao-conseguir-recuperar-movimentos-de-joelho-quebrado-1-24510640)
+* [Ainda sem consenso com a prefeitura, escolas particulares se preparam para volta às aulas](https://oglobo.globo.com/rio/ainda-sem-consenso-com-prefeitura-escolas-particulares-se-preparam-para-volta-as-aulas-24510291)
+* [Depois de parecer favorável do Conselho, governo do Rio busca renovação do RRF por mais três anos](https://oglobo.globo.com/rio/depois-de-parecer-favoravel-do-conselho-governo-do-rio-busca-renovacao-do-rrf-por-mais-tres-anos-24511022)
+* [Bolsonaro quer definir novo ministro da Educação nesta quinta-feira](https://oglobo.globo.com/sociedade/bolsonaro-quer-definir-novo-ministro-da-educacao-nesta-quinta-feira-1-24510781)
+* [Gastos dos bilionários em doações políticas aumentaram 37 vezes em 10 anos nos EUA, aponta estudo](https://oglobo.globo.com/mundo/gastos-dos-bilionarios-em-doacoes-politicas-aumentaram-37-vezes-em-10-anos-nos-eua-aponta-estudo-24509692)
+* [Exposição de Maxwell Alexandre, ‘Pardo é papel’ leva questões raciais do MAR para web](https://oglobo.globo.com/cultura/exposicao-de-maxwell-alexandre-pardo-papel-leva-questoes-raciais-do-mar-para-web-24510443)
+* [Por que uruguaios estão entre viajantes aceitos na Europa?](https://oglobo.globo.com/podcast/por-que-uruguaios-estao-entre-viajantes-aceitos-na-europa-24510381)
+* [O nosso lado Gil](https://oglobo.globo.com/cultura/o-nosso-lado-gil-24509614)

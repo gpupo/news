@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 15:12:03 UTC
+# indexed at 02/07/2020 15:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
+* [Synthetic Data for Deep Learning](https://arxiv.org/abs/1909.11512)
 * [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
 * [Hazard Pay in Focus as Essential Workers Earn Less Than the Jobless](https://www.npr.org/2020/07/01/882957793/when-essential-workers-earn-less-than-the-jobless-we-put-the-country-on-our-back)
 * [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
 * [Space Jam's 1996 website is still alive](https://www.spacejam.com/)
-* [Synthetic Data for Deep Learning](https://arxiv.org/abs/1909.11512)
-* [Jeff Bezos’s Wealth Soars to $171.6B to Top Pre-Divorce Record](https://www.bloomberg.com/news/articles/2020-07-01/bezos-s-wealth-soars-to-171-6-billion-to-top-pre-divorce-record)
-* [Research database explores racial bias in police shootings (2019)](https://msutoday.msu.edu/news/2019/new-research-database-explores-racial-bias-in-police-shootings/)
+* [History’s most ambitious art stunt is ending with a series of terrible movies](https://www.polygon.com/2020/4/23/21232719/dau-natasha-degeneration-review-russian-epic-movies-now-streaming-ilya-khrzhanovsky)
+* [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 * [Museum of Digital Art forced to close its doors](https://muda.co/closing/)
 * [Single-use JIT Performance on x86 Processors](https://github.com/animetosho/jit_smc_test/blob/master/README.md#single-use-jit-performance-on-x86-processors)
-* [History’s most ambitious art stunt is ending with a series of terrible movies](https://www.polygon.com/2020/4/23/21232719/dau-natasha-degeneration-review-russian-epic-movies-now-streaming-ilya-khrzhanovsky)
 * [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
-* [Bitmovin (YC S15) Hires a Sales Director in Latin America](https://bitmovin.com/careers-legacy/4756801002/?gh_jid=4756801002)
 * [Things I wish I had known when I started programming, Part 4 (2019)](https://www.brainstobytes.com/advice-for-new-developers-or-things-i-wish-i-had-known-when-i-started-programming-part-4/)
-* [Systemd: Don’t fallback to Google NTP and DNS](https://github.com/systemd/systemd/issues/12499)
-* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
-* [Hundreds arrested as crime comms system cracked](https://www.bbc.com/news/uk-53263310)
-* [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 * [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
+* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [Bitmovin (YC S15) Hires a Sales Director in Latin America](https://bitmovin.com/careers-legacy/4756801002/?gh_jid=4756801002)
 * [The Caretakers of Sealand, the Most Stubborn Micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
-* [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
+* [Hundreds arrested as crime comms system cracked](https://www.bbc.com/news/uk-53263310)
 * [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
-* [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
-* [Local area network push notifications](https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html)
+* [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
 * [Studies in Intelligence [pdf]](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-64-no-1/pdfs/Studies-64-1-March-2020-UnclassifiedExtracts.pdf)
-* [How Police Secretly Took over a Global Phone Network for Organized Crime](https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked)
+* [Local area network push notifications](https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html)
 * [Peppering (Password Storage)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#peppering)
+* [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
 * [DuckDuckGo browser seemingly sends domains a user visits to DDG servers](https://github.com/duckduckgo/Android/issues/527)
+* [Systemd: Don’t fallback to Google NTP and DNS](https://github.com/systemd/systemd/issues/12499)
+* [How Police Secretly Took over a Global Phone Network for Organized Crime](https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked)
+* [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 * [GShard: Scaling giant models with conditional computation and automatic sharding](https://arxiv.org/abs/2006.16668)
+* [Why Facebook is well placed to weather an advertising boycott](https://www.economist.com/business/2020/07/01/why-facebook-is-well-placed-to-weather-an-advertising-boycott)
 ## nytimes.com
 
 
@@ -88,10 +88,10 @@ layout: default
 * [Hydrangeas: Uncommon Varieties for Your Garden](https://www.nytimes.com/2020/07/01/realestate/how-to-grow-hydrangea-uncommon-varieties.html)
 * [Concerts Disappeared. Piano Sales Survived.](https://www.nytimes.com/2020/06/29/arts/music/piano-sales-coronavirus.html)
 * [3 Art Gallery Shows to Explore From Home](https://www.nytimes.com/2020/07/01/arts/design/art-gallery-shows-to-explore-from-home.html)
-* [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
-* [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
-* [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
+* [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
+* [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
+* [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [Has Trump Already Lost the 2020 Election?](https://www.nytimes.com/2020/07/01/opinion/trump-lose-2020-election.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [No Mercosul, Bolsonaro diz que está corrigindo 'opiniões distorcidas' sobre Brasil para fechar acordo com UE](https://oglobo.globo.com/mundo/no-mercosul-bolsonaro-diz-que-esta-corrigindo-opinioes-distorcidas-sobre-brasil-para-fechar-acordo-com-ue-24511494)
-* [Ghislaine Maxwell, acusada de aliciar meninas para Jeffrey Epstein, é presa nos EUA](https://oglobo.globo.com/mundo/ghislaine-maxwell-acusada-de-aliciar-meninas-para-jeffrey-epstein-presa-nos-eua-24511464)
+* [Despesa do Botafogo cai pela metade, mas ainda é cinco vezes a do Flamengo](https://oglobo.globo.com/esportes/despesa-do-botafogo-cai-pela-metade-mas-ainda-cinco-vezes-do-flamengo-24511561)
+* [Enterro do menino Ítalo é marcado por homenagem da família, em São João do Meriti: 'Estamos arrasados'](https://oglobo.globo.com/rio/enterro-do-menino-italo-marcado-por-homenagem-da-familia-em-sao-joao-do-meriti-estamos-arrasados-24511596)
+* [Decotelli diz que FGV é 'mentirosa' e nega plágio em dissertação de mestrado](https://oglobo.globo.com/sociedade/decotelli-diz-que-fgv-mentirosa-nega-plagio-em-dissertacao-de-mestrado-24511587)
+* [Sem regras claras, fim de isolamento no Rio traz risco de mais casos de Covid-19](https://oglobo.globo.com/analitico/sem-regras-claras-fim-de-isolamento-no-rio-traz-risco-de-mais-casos-de-covid-19-24511528)
 * [Entenda os pontos mais controversos do projeto para coibir fake news](https://oglobo.globo.com/brasil/entenda-os-pontos-mais-controversos-do-projeto-para-coibir-fake-news-24511465)
+* ['Agradeço seu apoio e confiança': após vitória em referendo, Putin afirma que mudanças trarão estabilidade à Rússia](https://oglobo.globo.com/mundo/agradeco-seu-apoio-confianca-apos-vitoria-em-referendo-putin-afirma-que-mudancas-trarao-estabilidade-russia-24511521)
+* [No Mercosul, Bolsonaro diz que está corrigindo 'opiniões distorcidas' sobre Brasil para fechar acordo com UE](https://oglobo.globo.com/mundo/no-mercosul-bolsonaro-diz-que-esta-corrigindo-opinioes-distorcidas-sobre-brasil-para-fechar-acordo-com-ue-24511494)
 * [Com coronavírus, governo prevê déficit de R$ 828,6 bi e dívida de quase 100% do PIB neste ano](https://oglobo.globo.com/economia/com-coronavirus-governo-preve-deficit-de-8286-bi-divida-de-quase-100-do-pib-neste-ano-24511544)
 * [Sorria](https://epoca.globo.com/allan-sieber/sorria-24511525)
-* [Socorro bilionário ao setor elétrico terá consórcio de quase 20 bancos](https://oglobo.globo.com/economia/socorro-bilionario-ao-setor-eletrico-tera-consorcio-de-quase-20-bancos-24511442)
-* [Volta Redonda refaz exames de coronavírus antes do jogo contra o Resende e resultados dão negativo](https://oglobo.globo.com/esportes/volta-redonda-refaz-exames-de-coronavirus-antes-do-jogo-contra-resende-resultados-dao-negativo-24511480)
-* [Coronavírus: como o Vietnã salvou o 'paciente 91' após 68 dias com respirador e manteve país sem mortes por covid-19](https://epoca.globo.com/mundo/coronavirus-como-vietna-salvou-paciente-91-apos-68-dias-com-respirador-manteve-pais-sem-mortes-por-covid-19-24511484)
-* [Fenômeno do stand up, Thiago Ventura ganha especial de humor na Netflix](https://oglobo.globo.com/cultura/fenomeno-do-stand-up-thiago-ventura-ganha-especial-de-humor-na-netflix-24511460)
 * [Deputados têm se recusado a encontrar Witzel](https://epoca.globo.com/guilherme-amado/deputados-tem-se-recusado-encontrar-witzel-24510465)

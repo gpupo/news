@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 09:12:13 UTC
+# indexed at 02/07/2020 09:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [Studies in Intelligence [pdf]](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-64-no-1/pdfs/Studies-64-1-March-2020-UnclassifiedExtracts.pdf)
 * [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
 * [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
-* [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [GShard: Scaling giant models with conditional computation and automatic sharding](https://arxiv.org/abs/2006.16668)
 * [A Google bot scrapes pricing info by adding items to carts](https://www.wsj.com/articles/who-is-the-mystery-shopper-leaving-behind-all-those-online-shopping-carts-11593617464)
+* [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
 * [Moldova Shuts Down Bootleg Helicopter Factory](https://balkaninsight.com/2020/06/30/moldova-shuts-down-bootleg-helicopter-factory/)
 * [Peppering (Password Storage)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#peppering)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [The Caretakers of Sealand, the Most Stubborn Micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
 * [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 * [How the 2021 Ford F-150's onboard generator works](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
 * [Why Facebook is well placed to weather an advertising boycott](https://www.economist.com/business/2020/07/01/why-facebook-is-well-placed-to-weather-an-advertising-boycott)
 * [Comparing how different devices display the SSID “á̶̛̛̓̿̈͐͆̐̇̒̑̈́͘͝aaa”](https://hamptonmoore.com/posts/weird-wifi-name-display/)
-* [Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurs/)
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
-* [Kongregate closed to new games, shutting down forums and chat](https://www.kongregate.com/forums/1-kongregate/topics/1916387-important-kongregate-announcement)
+* [Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurs/)
 * [Taking over Azure DevOps accounts with one click](https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/)
 * [The Whimsical Website Club](https://whimsical.club/)
+* [Kongregate closed to new games, shutting down forums and chat](https://www.kongregate.com/forums/1-kongregate/topics/1916387-important-kongregate-announcement)
 * [Quantum fluctuations have been shown to affect macroscopic objects](https://www.nature.com/articles/d41586-020-01914-4)
 * [Ray Tracing in Nim](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
 * [Show HN: Browse recently expired, pronounceable domain names (Part II)](https://decentdrops.com)
 * [Robert's Rules of Order (1876)](http://www.gutenberg.org/files/9097/9097.txt)
-* [Value Investing in Life Sciences](https://axial.substack.com/p/value-investing-in-life-sciences)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [3-Story Brooklyn Building Suddenly Collapses](https://www.nytimes.com/2020/07/01/nyregion/brooklyn-building-collapse.html)
 * [Jonathan Irons, Helped by W.N.B.A. Star Maya Moore, Freed From Prison](https://www.nytimes.com/2020/07/01/sports/basketball/maya-moore-jonathan-irons-freed.html)
 * [Richmond Removes Stonewall Jackson Statue From Monument Avenue](https://www.nytimes.com/2020/07/02/us/stonewall-jackson-statue-richmond.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [Heading Outdoors for a Socially Distant Getaway? Try These Apps](https://www.nytimes.com/2020/06/23/travel/apps-for-outdoor-trips.html)
+* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [After Internment, a Store Was Born. It’s Still an L.A. Staple.](https://www.nytimes.com/2020/07/01/magazine/little-tokyo-bunkado-los-angeles-japanese.html)
 * [Deepfake Technology Enters the Documentary World](https://www.nytimes.com/2020/07/01/movies/deepfakes-documentary-welcome-to-chechnya.html)
 * [What is the TikTok subculture Dark Academia?](https://www.nytimes.com/2020/06/30/style/dark-academia-tiktok.html)
 * [Stream These 15 Great Titles Before They Leave Netflix in July](https://www.nytimes.com/2020/07/01/movies/leaving-netflix-july.html)
 * [Where to Stream Carl Reiner's Best TV Shows and Movies](https://www.nytimes.com/2020/06/30/movies/carl-reiner-stream.html)
-* [Pandemic Parenting Was Already Relentless. Then Came Summer.](https://www.nytimes.com/2020/06/26/upshot/virus-intensive-parenting-education.html)
 * [What Coronavirus Researchers Can Learn From Economists](https://www.nytimes.com/2020/06/30/upshot/coronavirus-economists-dexamethasone.html)
-* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
+* [Pandemic Parenting Was Already Relentless. Then Came Summer.](https://www.nytimes.com/2020/06/26/upshot/virus-intensive-parenting-education.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [This Should Be Biden’s Bumper Sticker](https://www.nytimes.com/2020/06/30/opinion/biden-trump-respect.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

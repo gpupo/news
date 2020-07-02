@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 14:12:56 UTC
+# indexed at 02/07/2020 14:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Uber CEO Wants to Shift More Engineering Jobs to India, Sparking Internal Debate](https://www.theinformation.com/articles/uber-ceo-wants-to-shift-more-engineering-jobs-to-india-sparking-internal-debate)
 * [Hazard Pay in Focus as Essential Workers Earn Less Than the Jobless](https://www.npr.org/2020/07/01/882957793/when-essential-workers-earn-less-than-the-jobless-we-put-the-country-on-our-back)
 * [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
 * [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
 * [Systemd: Don’t fallback to Google NTP and DNS](https://github.com/systemd/systemd/issues/12499)
 * [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
-* [Bitmovin (YC S15) Hires a Sales Director in Latin America](https://bitmovin.com/careers-legacy/4756801002/?gh_jid=4756801002)
-* [Space Jam's 1996 website is still alive](https://www.spacejam.com/)
-* [DuckDuckGo browser seemingly sends domains a user visits to DDG servers](https://github.com/duckduckgo/Android/issues/527)
 * [Research database explores racial bias in police shootings (2019)](https://msutoday.msu.edu/news/2019/new-research-database-explores-racial-bias-in-police-shootings/)
+* [Space Jam's 1996 website is still alive](https://www.spacejam.com/)
+* [Bitmovin (YC S15) Hires a Sales Director in Latin America](https://bitmovin.com/careers-legacy/4756801002/?gh_jid=4756801002)
+* [DuckDuckGo browser seemingly sends domains a user visits to DDG servers](https://github.com/duckduckgo/Android/issues/527)
 * [Single-use JIT Performance on x86 Processors](https://github.com/animetosho/jit_smc_test/blob/master/README.md#single-use-jit-performance-on-x86-processors)
 * [Hundreds arrested as crime comms system cracked](https://www.bbc.com/news/uk-53263310)
-* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [Museum of Digital Art forced to close its doors](https://muda.co/closing/)
+* [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
+* [Ghislaine Maxwell arrested by the FBI](https://www.thedailybeast.com/ghislaine-maxwell-jeffrey-epsteins-confidante-arrested-by-the-fbi-report-says)
 * [Things I wish I had known when I started programming, Part 4 (2019)](https://www.brainstobytes.com/advice-for-new-developers-or-things-i-wish-i-had-known-when-i-started-programming-part-4/)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
-* [Ghislaine Maxwell arrested by the FBI](https://www.thedailybeast.com/ghislaine-maxwell-jeffrey-epsteins-confidante-arrested-by-the-fbi-report-says)
+* [History’s most ambitious art stunt is ending with a series of terrible movies](https://www.polygon.com/2020/4/23/21232719/dau-natasha-degeneration-review-russian-epic-movies-now-streaming-ilya-khrzhanovsky)
 * [The Caretakers of Sealand, the Most Stubborn Micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
 * [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
 * [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
-* [Go is boring, and that’s fantastic](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
 * [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
-* [Comparing how different devices display the SSID “á̶̛̛̓̿̈͐͆̐̇̒̑̈́͘͝aaa”](https://hamptonmoore.com/posts/weird-wifi-name-display/)
 * [Studies in Intelligence [pdf]](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-64-no-1/pdfs/Studies-64-1-March-2020-UnclassifiedExtracts.pdf)
 * [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
 * [Local area network push notifications](https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html)
 * [How Police Secretly Took over a Global Phone Network for Organized Crime](https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked)
-* [History’s most ambitious art stunt is ending with a series of terrible movies](https://www.polygon.com/2020/4/23/21232719/dau-natasha-degeneration-review-russian-epic-movies-now-streaming-ilya-khrzhanovsky)
-* [GShard: Scaling giant models with conditional computation and automatic sharding](https://arxiv.org/abs/2006.16668)
 * [Peppering (Password Storage)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#peppering)
+* [GShard: Scaling giant models with conditional computation and automatic sharding](https://arxiv.org/abs/2006.16668)
+* [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 ## nytimes.com
 
 
@@ -71,18 +71,18 @@ layout: default
 * [The V.A. Made Me Vomit. And That Was a Good Thing.](https://www.nytimes.com/2020/06/24/magazine/veteran-va-hospital-vomit.html)
 * [Myanmar Jade Mine Collapse Kills at Least 100](https://www.nytimes.com/2020/07/02/world/asia/myanmar-jade-mine-collapse.html)
 * [Rockland County Issues Subpoenas to Halt Coronavirus Spread After Party](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
-* [U.K. Grants Asylum to Ex-Consulate Worker Who Told of Torture in China](https://www.nytimes.com/2020/07/01/world/asia/hong-kong-simon-cheng-asylum-uk.html)
+* [Real Estate Prices Fall Sharply in New York](https://www.nytimes.com/2020/07/02/realestate/coronavirus-real-estate-price-drop.html)
 * [U.K. Judge Denies President Nicolás Maduro Access to Venezuelan Gold at Bank of England](https://www.nytimes.com/2020/07/02/world/europe/venezuela-gold-uk-nicolas-maduro.html)
 * [U.S. Watchdog’s Report Faults Boeing’s Disclosures on 737 Max Software](https://www.nytimes.com/2020/07/01/business/boeing-faa-737-max.html)
 * [Thousands Join N.Y.C. Bike Protests: ‘It’s Like Riding in the Cavalry’](https://www.nytimes.com/2020/07/02/nyregion/Floyd-bike-protests-new-york.html)
 * [Slotkin, Former Intelligence Briefer, Presses White House on Russia Reports](https://www.nytimes.com/2020/07/01/us/politics/elissa-slotkin-russian-bounty.html)
 * [Madeline McWhinney Dale, Trailblazing Banker, Is Dead at 98](https://www.nytimes.com/2020/06/29/business/madeline-mcwhinney-dale-dead.html)
 * [U.S. Commandos at Risk for Suicide: Is the Military Doing Enough?](https://www.nytimes.com/2020/06/30/magazine/special-operations-suicide-military.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Can a New Arts Center Revitalize Provincetown?](https://www.nytimes.com/2020/07/02/arts/design/provincetown-arts-center.html)
 * [Who Wants to Go to Fashion School in a Pandemic?](https://www.nytimes.com/2020/07/01/fashion/who-wants-to-go-to-fashion-school-in-a-pandemic.html)
 * [Hydrangeas: Uncommon Varieties for Your Garden](https://www.nytimes.com/2020/07/01/realestate/how-to-grow-hydrangea-uncommon-varieties.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Italo Ferreira e outros surfistas encaram ondas de até 4 metros em Saquarema](https://oglobo.globo.com/esportes/italo-ferreira-outros-surfistas-encaram-ondas-de-ate-4-metros-em-saquarema-24511438)
+* [Em carta aberta, Ed Sheeran, Dua Lipa e outros artistas do Reino Unido pedem apoio do governo à música do país](https://oglobo.globo.com/cultura/em-carta-aberta-ed-sheeran-dua-lipa-outros-artistas-do-reino-unido-pedem-apoio-do-governo-musica-do-pais-24511328)
+* [Helena Witzel adia depoimento sobre fraudes na saúde do Rio após morte da avó](https://oglobo.globo.com/rio/helena-witzel-adia-depoimento-sobre-fraudes-na-saude-do-rio-apos-morte-da-avo-24511413)
+* [Na cúpula do Mercosul, Fernández pede 'vínculos acima dos governos' para enfrentar pós-pandemia](https://oglobo.globo.com/mundo/na-cupula-do-mercosul-fernandez-pede-vinculos-acima-dos-governos-para-enfrentar-pos-pandemia-24511415)
+* [Pior momento da atividade econômica no Brasil já passou, mostra indicador do Itaú](https://oglobo.globo.com/economia/pior-momento-da-atividade-economica-no-brasil-ja-passou-mostra-indicador-do-itau-24511425)
+* [Coronavírus: Se fosse um país, Rio teria a segunda maior mortalidade por milhão de habitantes do mundo](https://oglobo.globo.com/rio/coronavirus-se-fosse-um-pais-rio-teria-segunda-maior-mortalidade-por-milhao-de-habitantes-do-mundo-24510082)
+* [Roland Garros pode ter até 60% da capacidade de público, dizem organizadores](https://oglobo.globo.com/esportes/roland-garros-pode-ter-ate-60-da-capacidade-de-publico-dizem-organizadores-24511389)
+* [Congresso promulga PEC que adia eleições municipais para novembro](https://oglobo.globo.com/brasil/congresso-promulga-pec-que-adia-eleicoes-municipais-para-novembro-1-24511401)
 * [Tribunal Europeu de Direitos Humanos condena França por não ajudar solicitantes de asilo](https://oglobo.globo.com/mundo/tribunal-europeu-de-direitos-humanos-condena-franca-por-nao-ajudar-solicitantes-de-asilo-24511385)
-* [Ed Sheeran, Dua Lipa e outros artistas britânicos pedem plano de salvação ao mercado da música no Reino Unido](https://oglobo.globo.com/cultura/ed-sheeran-dua-lipa-outros-artistas-britanicos-pedem-plano-de-salvacao-ao-mercado-da-musica-no-reino-unido-24511328)
 * [Bares, restaurantes e academias em funcionamento da terceira fase de reabertura do Rio; veja o que muda](https://oglobo.globo.com/rio/bares-restaurantes-academias-em-funcionamento-da-terceira-fase-de-reabertura-do-rio-veja-que-muda-24511358)
-* [Ministro da Nova Zelândia pede demissão após 'furar' confinamento](https://oglobo.globo.com/mundo/ministro-da-nova-zelandia-pede-demissao-apos-furar-confinamento-24511325)
-* [EUA abrem 4,8 milhões de vagas em junho, acima da expectativa. Taxa de desemprego cai para 11,1%](https://oglobo.globo.com/economia/eua-abrem-48-milhoes-de-vagas-em-junho-acima-da-expectativa-taxa-de-desemprego-cai-para-111-24511312)
-* [Dos 57 indicadores do Plano Nacional de Educação, 13,4% tiveram a meta atingida](https://oglobo.globo.com/sociedade/dos-57-indicadores-do-plano-nacional-de-educacao-134-tiveram-meta-atingida-24510275)
-* [Michel Bourez, surfista do circuito mundial, é atacado duas vezes por tubarão](https://oglobo.globo.com/esportes/michel-bourez-surfista-do-circuito-mundial-atacado-duas-vezes-por-tubarao-24511298)
-* [Jennifer Aniston, Reese Witherspoon e Tracee Ellis Ross aderem ao desafio do selfie com máscara para conscientizar fãs](https://oglobo.globo.com/ela/gente/jennifer-aniston-reese-witherspoon-tracee-ellis-ross-aderem-ao-desafio-do-selfie-com-mascara-para-conscientizar-fas-24511273)
-* [Menina baleada durante festa de aniversário em Três Rios tem estado de saúde gravíssimo](https://oglobo.globo.com/rio/menina-baleada-durante-festa-de-aniversario-em-tres-rios-tem-estado-de-saude-gravissimo-24511284)
-* [O encontro de Paes e Eymael](https://epoca.globo.com/guilherme-amado/o-encontro-de-paes-eymael-24510700)

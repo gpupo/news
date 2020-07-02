@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 17:12:30 UTC
+# indexed at 02/07/2020 17:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
-* [MS Will Ban Forza Players Who Add the Confederate Flag to Their Digital Cars](https://www.theverge.com/2020/6/30/21308677/microsoft-forza-player-ban-confederate-flag-hate-symbols)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
-* [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
+* [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
 * [But is it food?: The world of cheap produce and its consequences](https://www.the-tls.co.uk/articles/cheap-food-consequences-bee-wilson-book-review/)
+* [Robin Williams, an Acid Trip, and Moral Panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
 * [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
-* [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
-* [Markets, Rent and WFH](https://macrocrunch.substack.com/p/markets-rent-and-wfh)
-* [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
-* [Modern Android is pretty secure](https://palone.blog/#post-your-android-might-be-the-most-secure-device-you-own-4)
-* [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
 * [How to be happy? Most people have it backwards](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
+* [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
+* [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
+* [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 * [Hole-y Guacamole! Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
 * [History’s most ambitious art stunt is ending with a series of terrible movies](https://www.polygon.com/2020/4/23/21232719/dau-natasha-degeneration-review-russian-epic-movies-now-streaming-ilya-khrzhanovsky)
-* [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
 * [Museum of Digital Art forced to close its doors](https://muda.co/closing/)
-* [Hundreds arrested as crime comms system cracked](https://www.bbc.com/news/uk-53263310)
+* [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
 * [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
+* [Markets, Rent and WFH](https://macrocrunch.substack.com/p/markets-rent-and-wfh)
+* [Hundreds arrested as crime comms system cracked](https://www.bbc.com/news/uk-53263310)
 * [Single-use JIT Performance on x86 Processors](https://github.com/animetosho/jit_smc_test/blob/master/README.md#single-use-jit-performance-on-x86-processors)
-* [I Got Rejected by Y Combinator So I’m building my own Incubator](https://medium.com/univation/i-got-rejected-by-y-combinator-so-im-building-my-own-incubator-546b4e72e418)
-* [Things I wish I had known when I started programming, Part 4 (2019)](https://www.brainstobytes.com/advice-for-new-developers-or-things-i-wish-i-had-known-when-i-started-programming-part-4/)
+* [Tesla Reportedly Developing 12-Seater Electric Van for the Boring Company](https://sqwok.im/p/QVK5_vIww8lrGw)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [Things I wish I had known when I started programming, Part 4 (2019)](https://www.brainstobytes.com/advice-for-new-developers-or-things-i-wish-i-had-known-when-i-started-programming-part-4/)
 * [The Caretakers of Sealand, the Most Stubborn Micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
 * [Intel Lakefield Deep Dive](https://www.anandtech.com/show/15877/intel-hybrid-cpu-lakefield-all-you-need-to-know)
 * [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
-* [Bitmovin (YC S15) Hires a Sales Director in Latin America](https://bitmovin.com/careers-legacy/4756801002/?gh_jid=4756801002)
-* [Go is boring, and that’s fantastic](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
 * [Ask HN: How should open source support critical dependencies?](https://news.ycombinator.com/item?id=23715134)
+* [Go is boring, and that’s fantastic](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
 * [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 * [Space Jam's 1996 website is still alive](https://www.spacejam.com/)
+* [Bitmovin (YC S15) Hires a Sales Director in Latin America](https://bitmovin.com/careers-legacy/4756801002/?gh_jid=4756801002)
+* [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
 ## nytimes.com
 
 
@@ -76,8 +76,8 @@ layout: default
 * [How Berkshire Hathaway May Have Been Snookered in Germany](https://www.nytimes.com/2020/07/01/business/berkshire-hathaway-fraud-germany.html)
 * [Why Morehouse and Clemson Made Different Football Choices](https://www.nytimes.com/2020/07/01/sports/ncaafootball/coronavirus-college-football-hbcus-clemson.html)
 * [Trump Is in Trouble in Pennsylvania, but ‘He’s Been Way Behind Before’](https://www.nytimes.com/2020/07/02/us/politics/pennsylvania-trump-biden.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
@@ -86,10 +86,10 @@ layout: default
 * [Moving the Haim Way: ‘We Love Feeling in Our Bodies’](https://www.nytimes.com/2020/06/30/arts/dance/haim-dance-videos.html)
 * [We Asked Four Documentarians: How Does Film Shape the Fight for Racial Justice?](https://www.nytimes.com/2020/06/30/movies/ava-duvernay-stanley-nelson-whose-streets.html)
 * [‘Defund the Police’? Easy for You to Say](https://www.nytimes.com/2020/07/02/style/defund-the-police-activism.html)
+* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
 * [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
-* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [Rockland County Issues Subpoenas to Halt Coronavirus Spread After Party](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
 * [Has Trump Already Lost the 2020 Election?](https://www.nytimes.com/2020/07/01/opinion/trump-lose-2020-election.html)
 * [You Don’t Need a Party for These Spicy Deviled Eggs](https://www.nytimes.com/2020/07/01/dining/deviled-eggs-coronavirus.html)
@@ -100,12 +100,12 @@ layout: default
 
 
 * [São Paulo tem recorde de casos de coronavírus em 24 horas; governo atribui aumento à capacidade de testagem](https://oglobo.globo.com/sociedade/sao-paulo-tem-recorde-de-casos-de-coronavirus-em-24-horas-governo-atribui-aumento-capacidade-de-testagem-24511787)
-* [Botafogo e Fluminense x Ferj: a escalada da briga no Carioca](https://oglobo.globo.com/esportes/botafogo-fluminense-ferj-escalada-da-briga-no-carioca-24511786)
-* [Governador do DF autoriza reabertura total de escolas e comércio até 3 de agosto](https://oglobo.globo.com/sociedade/governador-do-df-autoriza-reabertura-total-de-escolas-comercio-ate-3-de-agosto-24511706)
+* [Conselho do MP julga na próxima semana Deltan Dallagnol por apresentar PowerPoint sobre Lula](https://oglobo.globo.com/brasil/conselho-do-mp-julga-na-proxima-semana-deltan-dallagnol-por-apresentar-powerpoint-sobre-lula-24511804)
+* [Governador do DF autoriza reabertura total de escolas a comércio até 3 de agosto](https://oglobo.globo.com/sociedade/governador-do-df-autoriza-reabertura-total-de-escolas-comercio-ate-3-de-agosto-24511706)
 * [Após afirmar que educação no país está ‘horrível’, Bolsonaro diz que pode escolher novo ministro nesta quinta](https://oglobo.globo.com/sociedade/apos-afirmar-que-educacao-no-pais-esta-horrivel-bolsonaro-diz-que-pode-escolher-novo-ministro-nesta-quinta-24511712)
-* [Novo coronavírus já estava no esgoto de Florianópolis em novembro, diz pesquisa](https://oglobo.globo.com/sociedade/novo-coronavirus-ja-estava-no-esgoto-de-florianopolis-em-novembro-diz-pesquisa-24511668)
+* [É #FAKE carta com logo da ONU que prevê um só governo mundial e destruição das famílias](https://oglobo.globo.com/fato-ou-fake/e-fake-carta-com-logo-da-onu-que-preve-um-so-governo-mundial-destruicao-das-familias-24511801)
+* [Botafogo e Fluminense x Ferj: a escalada da briga no Carioca](https://oglobo.globo.com/esportes/botafogo-fluminense-ferj-escalada-da-briga-no-carioca-24511786)
 * [Suíça inclui brasileiros em lista de viajantes que terão que fazer quarentena ao entrar no país](https://oglobo.globo.com/mundo/suica-inclui-brasileiros-em-lista-de-viajantes-que-terao-que-fazer-quarentena-ao-entrar-no-pais-24511749)
-* [Novo coronavírus já estava no esgoto de Santa Catarina em novembro](https://oglobo.globo.com/sociedade/novo-coronavirus-ja-estava-no-esgoto-de-santa-catarina-em-novembro-24509756)
 * [Após adiamento da eleição, confederação de municípios pede a parlamentares mais verba a prefeituras](https://oglobo.globo.com/brasil/apos-adiamento-da-eleicao-confederacao-de-municipios-pede-parlamentares-mais-verba-prefeituras-24511735)
 * [Duas brasileiras são selecionadas para programa de inclusão feminina no automobilismo e disputam vaga na academia da Ferrari](https://oglobo.globo.com/celina/duas-brasileiras-sao-selecionadas-para-programa-de-inclusao-feminina-no-automobilismo-disputam-vaga-na-academia-da-ferrari-24511616)
 * [Miguel Nicolelis e o cérebro como centro da história e do mundo](https://epoca.globo.com/guilherme-amado/miguel-nicolelis-o-cerebro-como-centro-da-historia-do-mundo-24510375)

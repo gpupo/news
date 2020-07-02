@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 08:13:48 UTC
+# indexed at 02/07/2020 08:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -15,6 +15,7 @@ layout: default
 * [Apple Lightning](https://nyansatan.github.io/lightning/)
 * [Local area network push notifications](https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [Studies in Intelligence [pdf]](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-64-no-1/pdfs/Studies-64-1-March-2020-UnclassifiedExtracts.pdf)
 * [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
 * [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
@@ -24,20 +25,19 @@ layout: default
 * [Moldova Shuts Down Bootleg Helicopter Factory](https://balkaninsight.com/2020/06/30/moldova-shuts-down-bootleg-helicopter-factory/)
 * [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 * [How the 2021 Ford F-150's onboard generator works](https://www.roadandtrack.com/new-cars/car-technology/a32970167/f-150-generator-pro-power-onboard/)
-* [Kongregate closed to new games, shutting down forums and chat](https://www.kongregate.com/forums/1-kongregate/topics/1916387-important-kongregate-announcement)
 * [Why Facebook is well placed to weather an advertising boycott](https://www.economist.com/business/2020/07/01/why-facebook-is-well-placed-to-weather-an-advertising-boycott)
-* [Taking over Azure DevOps accounts with one click](https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/)
+* [Kongregate closed to new games, shutting down forums and chat](https://www.kongregate.com/forums/1-kongregate/topics/1916387-important-kongregate-announcement)
+* [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
 * [Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurs/)
+* [Taking over Azure DevOps accounts with one click](https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/)
 * [Quantum fluctuations have been shown to affect macroscopic objects](https://www.nature.com/articles/d41586-020-01914-4)
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/)
-* [The Whimsical Website Club](https://whimsical.club/)
 * [Comparing how different devices display the SSID “á̶̛̛̓̿̈͐͆̐̇̒̑̈́͘͝aaa”](https://hamptonmoore.com/posts/weird-wifi-name-display/)
+* [The Whimsical Website Club](https://whimsical.club/)
 * [Ray Tracing in Nim](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
 * [Show HN: Browse recently expired, pronounceable domain names (Part II)](https://decentdrops.com)
 * [Robert's Rules of Order (1876)](http://www.gutenberg.org/files/9097/9097.txt)
 * [Value Investing in Life Sciences](https://axial.substack.com/p/value-investing-in-life-sciences)
-* [The Essential Bradbury (2018)](http://www.samweller.net/bradbury-1/2018/11/29/the-essential-bradbury)
-* [Aiming ultrasound at the brain raises hope of new treatments](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
 ## nytimes.com
 
 
@@ -72,7 +72,7 @@ layout: default
 * [The Real Lessons of Telfar, Kanye and the Gap](https://www.nytimes.com/2020/06/30/style/Telfar-Yeezy-Gap.html)
 * [Do Empty Stadiums Affect Outcomes? The Data Says Yes](https://www.nytimes.com/2020/07/01/sports/soccer/soccer-without-fans-germany-data.html)
 * [Biden Outraises Trump Again, With $141 Million June Haul](https://www.nytimes.com/2020/07/01/us/politics/trump-fundraising-2020.html)
-* [Jade Mine Collapse in Myanmar Kills Over 100](https://www.nytimes.com/2020/07/02/world/asia/myanmar-jade-mine-collapse.html)
+* [Myanmar Jade Mine Collapse Kills Over 100](https://www.nytimes.com/2020/07/02/world/asia/myanmar-jade-mine-collapse.html)
 * [Miami Police Officer Faces Discipline After Punching Woman in Face](https://www.nytimes.com/2020/07/01/us/miami-police-punch-woman.html)
 * [Mary Trump Book on President Can Move Forward Pending Hearing, Judge Rules](https://www.nytimes.com/2020/07/01/us/politics/mary-trump-book-lawsuit.html)
 * [Inquiry Prompted by Trump’s Hurricane Dorian Claim Is Being Blocked, Investigator Says](https://www.nytimes.com/2020/07/01/climate/trump-dorian-noaa-investigation.html)
@@ -80,33 +80,33 @@ layout: default
 * [3-Story Brooklyn Building Suddenly Collapses](https://www.nytimes.com/2020/07/01/nyregion/brooklyn-building-collapse.html)
 * [Jonathan Irons, Helped by W.N.B.A. Star Maya Moore, Freed From Prison](https://www.nytimes.com/2020/07/01/sports/basketball/maya-moore-jonathan-irons-freed.html)
 * [Richmond Removes Stonewall Jackson Statue From Monument Avenue](https://www.nytimes.com/2020/07/02/us/stonewall-jackson-statue-richmond.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
+* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [After Internment, a Store Was Born. It’s Still an L.A. Staple.](https://www.nytimes.com/2020/07/01/magazine/little-tokyo-bunkado-los-angeles-japanese.html)
 * [Deepfake Technology Enters the Documentary World](https://www.nytimes.com/2020/07/01/movies/deepfakes-documentary-welcome-to-chechnya.html)
 * [What is the TikTok subculture Dark Academia?](https://www.nytimes.com/2020/06/30/style/dark-academia-tiktok.html)
 * [Stream These 15 Great Titles Before They Leave Netflix in July](https://www.nytimes.com/2020/07/01/movies/leaving-netflix-july.html)
 * [Where to Stream Carl Reiner's Best TV Shows and Movies](https://www.nytimes.com/2020/06/30/movies/carl-reiner-stream.html)
+* [Pandemic Parenting Was Already Relentless. Then Came Summer.](https://www.nytimes.com/2020/06/26/upshot/virus-intensive-parenting-education.html)
 * [What Coronavirus Researchers Can Learn From Economists](https://www.nytimes.com/2020/06/30/upshot/coronavirus-economists-dexamethasone.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
-* [Pandemic Parenting Was Already Relentless. Then Came Summer.](https://www.nytimes.com/2020/06/26/upshot/virus-intensive-parenting-education.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Pés sujos mas com as mãos bem limpas é a nova regra nos bares e botequins que reabrem nesta quinta](https://oglobo.globo.com/rio/pes-sujos-mas-com-as-maos-bem-limpas-a-nova-regra-nos-bares-botequins-que-reabrem-nesta-quinta-24511041)
+* [Com apoio de Maia, projeto sobre fake news ganha apoios na Câmara mas deve ser 'enxugado'](https://oglobo.globo.com/brasil/com-apoio-de-maia-projeto-sobre-fake-news-ganha-apoios-na-camara-mas-deve-ser-enxugado-24511008)
+* [Veja entrevista com um deputado a favor e um contra a Lei das Fake News](https://oglobo.globo.com/brasil/veja-entrevista-com-um-deputado-favor-um-contra-lei-das-fake-news-24510711)
+* [Mansur: Flamengo é um paradoxo na volta do futebol](https://oglobo.globo.com/esportes/mansur-flamengo-um-paradoxo-na-volta-do-futebol-24511079)
 * ['Todos temem ser o próximo Facebook', diz ativista por trás de boicote à rede social](https://oglobo.globo.com/economia/tecnologia/todos-temem-ser-proximo-facebook-diz-ativista-por-tras-de-boicote-rede-social-24511068)
 * [Médica agredida no Grajaú pode não conseguir recuperar movimentos de joelho quebrado](https://oglobo.globo.com/rio/medica-agredida-no-grajau-pode-nao-conseguir-recuperar-movimentos-de-joelho-quebrado-1-24510640)
-* [Ainda sem consenso com a prefeitura, escolas particulares se preparam para volta às aulas](https://oglobo.globo.com/rio/ainda-sem-consenso-com-prefeitura-escolas-particulares-se-preparam-para-volta-as-aulas-24510291)
-* [Depois de parecer favorável do Conselho, governo do Rio busca renovação do RRF por mais três anos](https://oglobo.globo.com/rio/depois-de-parecer-favoravel-do-conselho-governo-do-rio-busca-renovacao-do-rrf-por-mais-tres-anos-24511022)
-* [Bolsonaro quer definir novo ministro da Educação nesta quinta-feira](https://oglobo.globo.com/sociedade/bolsonaro-quer-definir-novo-ministro-da-educacao-nesta-quinta-feira-1-24510781)
+* [Depoimento de ex-mulher de Bolsonaro em investigação sobre Carlos pode ser adiado](https://oglobo.globo.com/brasil/depoimento-de-ex-mulher-de-bolsonaro-em-investigacao-sobre-carlos-pode-ser-adiado-1-24510643)
+* [Depoimento de ex-mulher de Bolsonaro em investigação sobre Carlos pode ser adiado](https://oglobo.globo.com/brasil/depoimento-de-ex-mulher-de-bolsonaro-em-investigacao-sobre-carlos-pode-ser-adiado-24510627)
 * [Gastos dos bilionários em doações políticas aumentaram 37 vezes em 10 anos nos EUA, aponta estudo](https://oglobo.globo.com/mundo/gastos-dos-bilionarios-em-doacoes-politicas-aumentaram-37-vezes-em-10-anos-nos-eua-aponta-estudo-24509692)
-* [Exposição de Maxwell Alexandre, ‘Pardo é papel’ leva questões raciais do MAR para web](https://oglobo.globo.com/cultura/exposicao-de-maxwell-alexandre-pardo-papel-leva-questoes-raciais-do-mar-para-web-24510443)
 * [Por que uruguaios estão entre viajantes aceitos na Europa?](https://oglobo.globo.com/podcast/por-que-uruguaios-estao-entre-viajantes-aceitos-na-europa-24510381)
 * [O nosso lado Gil](https://oglobo.globo.com/cultura/o-nosso-lado-gil-24509614)

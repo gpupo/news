@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 12:16:08 UTC
+# indexed at 02/07/2020 12:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [Hundreds arrested as crime comms system cracked](https://www.bbc.com/news/uk-53263310)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
 * [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
-* [Single-use JIT Performance on x86 Processors](https://github.com/animetosho/jit_smc_test/blob/master/README.md#single-use-jit-performance-on-x86-processors)
 * [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
+* [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
+* [Single-use JIT Performance on x86 Processors](https://github.com/animetosho/jit_smc_test/blob/master/README.md#single-use-jit-performance-on-x86-processors)
 * [Space Jam's 1996 website is still alive](https://www.spacejam.com/)
 * [DuckDuckGo browser seemingly sends domains a user visits to DDG servers](https://github.com/duckduckgo/Android/issues/527)
-* [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
 * [What is the core of the Python programming language?](https://snarky.ca/what-is-the-core-of-the-python-programming-language/)
 * [Museum of Digital Art forced to close its doors](https://muda.co/closing/)
-* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
-* [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
 * [The Caretakers of Sealand, the Most Stubborn Micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
 * [Things I wish I had known when I started programming, Part 4 (2019)](https://www.brainstobytes.com/advice-for-new-developers-or-things-i-wish-i-had-known-when-i-started-programming-part-4/)
+* [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
+* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
 * [Studies in Intelligence [pdf]](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-64-no-1/pdfs/Studies-64-1-March-2020-UnclassifiedExtracts.pdf)
 * [RedHat Mandrel Makes Java Native](https://www.infoq.com/news/2020/07/mandrel-graalvm/)
 * [New Mac Ransomware Is Even More Sinister Than It Appears](https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/)
 * [Local area network push notifications](https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html)
 * [Classic ThinkPad Thermal Paste Change](https://vermaden.wordpress.com/2020/06/30/classic-thinkpad-thermal-paste-change/)
 * [How Police Secretly Took over a Global Phone Network for Organized Crime](https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked)
-* [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 * [GShard: Scaling giant models with conditional computation and automatic sharding](https://arxiv.org/abs/2006.16668)
+* [A man who saved a generation of premature babies (2016)](https://www.bbc.co.uk/news/magazine-36321692)
 * [Comparing how different devices display the SSID “á̶̛̛̓̿̈͐͆̐̇̒̑̈́͘͝aaa”](https://hamptonmoore.com/posts/weird-wifi-name-display/)
-* [Peppering (Password Storage)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#peppering)
 * [Why Facebook is well placed to weather an advertising boycott](https://www.economist.com/business/2020/07/01/why-facebook-is-well-placed-to-weather-an-advertising-boycott)
+* [Peppering (Password Storage)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#peppering)
+* [Not true.](https://github.com/Luehang/react-native-gallery-swiper/pull/44)
 * [Taking over Azure DevOps accounts with one click](https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/)
 * [Watching the Skies in Japan: Mishima Yukio and Other UFO Enthusiasts](https://www.nippon.com/en/japan-topics/g00881/watching-the-skies-in-japan-mishima-yukio-and-other-ufo-enthusiasts.html)
 * [Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurs/)
-* [Blow for UK organised crime as 'command and control' network is hit](https://www.theguardian.com/uk-news/2020/jul/02/blow-for-uk-organised-as-command-and-control-network-is-hit)
 * [Quantum fluctuations have been shown to affect macroscopic objects](https://www.nature.com/articles/d41586-020-01914-4)
 ## nytimes.com
 
@@ -78,11 +78,11 @@ layout: default
 * [U.S. Commandos at Risk for Suicide: Is the Military Doing Enough?](https://www.nytimes.com/2020/06/30/magazine/special-operations-suicide-military.html)
 * [Madeline McWhinney Dale, Trailblazing Banker, Is Dead at 98](https://www.nytimes.com/2020/06/29/business/madeline-mcwhinney-dale-dead.html)
 * [Richmond Removes Stonewall Jackson Statue From Monument Avenue](https://www.nytimes.com/2020/07/02/us/stonewall-jackson-statue-richmond.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
-* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
-* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [How to Create an Outdoor Room](https://www.nytimes.com/2020/06/23/realestate/how-to-create-an-outdoor-room-california-room-patio.html)
+* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [Can a New Arts Center Revitalize Provincetown?](https://www.nytimes.com/2020/07/02/arts/design/provincetown-arts-center.html)
 * [Who Wants to Go to Fashion School in a Pandemic?](https://www.nytimes.com/2020/07/01/fashion/who-wants-to-go-to-fashion-school-in-a-pandemic.html)
 * [Hydrangeas: Uncommon Varieties for Your Garden](https://www.nytimes.com/2020/07/01/realestate/how-to-grow-hydrangea-uncommon-varieties.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [EUA batem quinto recorde em oito dias e chegam a 50 mil novos casos diários da Covid-19](https://oglobo.globo.com/mundo/eua-batem-quinto-recorde-em-oito-dias-chegam-50-mil-novos-casos-diarios-da-covid-19-24511155)
+* [Brasil cumpre 35% dos requisitos para entrar na OCDE](https://oglobo.globo.com/mundo/brasil-cumpre-35-dos-requisitos-para-entrar-na-ocde-24511251)
+* [Deslizamento de terra mata ao menos 126 mineiros no Norte de Mianmar](https://oglobo.globo.com/mundo/deslizamento-de-terra-mata-ao-menos-126-mineiros-no-norte-de-mianmar-24511237)
+* [PGR investiga extinção de serviço do SUS de apoio a presos com transtornos mentais e pede explicação de general da Saúde](https://oglobo.globo.com/brasil/pgr-investiga-extincao-de-servico-do-sus-de-apoio-presos-com-transtornos-mentais-pede-explicacao-de-general-da-saude-24511256)
+* [Botafogo: o que mudou da goleada para o sufoco contra a Portuguesa?](https://oglobo.globo.com/esportes/botafogo-que-mudou-da-goleada-para-sufoco-contra-portuguesa-1-24511243)
 * [Produção industrial avança 7% em maio, após tombo histórico em abril](https://oglobo.globo.com/economia/producao-industrial-avanca-7-em-maio-apos-tombo-historico-em-abril-24511220)
+* [Último dia para pedir o auxílio emergencial: tire dúvidas e veja o passo a passo](https://oglobo.globo.com/economia/ultimo-dia-para-pedir-auxilio-emergencial-tire-duvidas-veja-passo-passo-24511239)
+* [EUA batem quinto recorde em oito dias e chegam a 50 mil novos casos diários da Covid-19](https://oglobo.globo.com/mundo/eua-batem-quinto-recorde-em-oito-dias-chegam-50-mil-novos-casos-diarios-da-covid-19-24511155)
 * [PM, irmão e sobrinho são presos em ação para reprimir milícia que age em Nova Iguaçu](https://oglobo.globo.com/rio/pm-irmao-sobrinho-sao-presos-em-acao-para-reprimir-milicia-que-age-em-nova-iguacu-24511225)
-* [Polícia cumpre mandados em sete estados em investigação que apura superfaturamento na compra de testes de Covid-19](https://oglobo.globo.com/brasil/policia-cumpre-mandados-em-sete-estados-em-investigacao-que-apura-superfaturamento-na-compra-de-testes-de-covid-19-1-24511167)
-* [Como Vladimir Putin alcançou 20 anos de poder na Rússia - e agora pode superar a longevidade de Stálin](https://epoca.globo.com/mundo/como-vladimir-putin-alcancou-20-anos-de-poder-na-russiaagora-pode-superar-longevidade-de-stalin-24511173)
 * [O mistério das centenas de elefantes encontrados mortos em Botsuana](https://epoca.globo.com/mundo/o-misterio-das-centenas-de-elefantes-encontrados-mortos-em-botsuana-1-24511198)
-* [Quem são Heber Trigueiro e Caio Kitade, os secretários demitidos por Mario Frias da Cultura](https://oglobo.globo.com/cultura/quem-sao-heber-trigueiro-caiokitade-os-secretarios-demitidos-por-mario-frias-da-cultura-1-24511157)
-* [Justiça britânica dá razão a Guaidó em caso sobre ouro da Venezuela, e governo Maduro diz que vai apelar](https://oglobo.globo.com/mundo/justica-britanica-da-razao-guaido-em-caso-sobre-ouro-da-venezuela-governo-maduro-diz-que-vai-apelar-24511158)
-* [Auxílio emergencial: trabalhador 'dribla' sistema da Caixa e emite boleto no próprio nome para poder sacar dinheiro](https://oglobo.globo.com/economia/auxilio-emergencial-trabalhador-dribla-sistema-da-caixa-emite-boleto-no-proprio-nome-para-poder-sacar-dinheiro-24511160)
 * [Jornalista registra puerpério em meio à Covid](https://epoca.globo.com/guilherme-amado/jornalista-registra-puerperio-em-meio-covid-24510452)

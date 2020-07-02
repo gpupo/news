@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/07/2020 22:11:43 UTC
+# indexed at 02/07/2020 22:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Drug overdoses are soaring during the coronavirus pandemic](https://www.washingtonpost.com/health/2020/07/01/coronavirus-drug-overdose/)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
-* [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
-* [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
-* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
+* [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
 * [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
+* [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
 * [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
 * [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
-* [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
+* [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
+* [Drug overdoses are soaring during the coronavirus pandemic](https://www.washingtonpost.com/health/2020/07/01/coronavirus-drug-overdose/)
 * [Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
+* [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
 * [OpenNMT: Open-Source Neural Machine Translation with Torch Mathematical Toolkit](https://github.com/OpenNMT/OpenNMT)
-* [The Beam Book](https://blog.stenmans.org/theBeamBook/)
-* [Does saying “Fuck You AWS” constitute offensive content?](http://thoughts.josephdeon.me/2020/07/02/fuck-you-aws.html)
+* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
 * [Robin Williams, an acid trip, and moral panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
 * [Commodore Nowhere Near the Edge or Commodore Before Commodore (2007)](https://www.stat.colostate.edu/~zube/commodore2.txt)
-* [In Search of King David’s Lost Empire](https://www.newyorker.com/magazine/2020/06/29/in-search-of-king-davids-lost-empire)
 * [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
-* [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
-* [How the digital camera transformed our concept of history](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-digital-camera-transformed-our-concept-of-history)
-* [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
-* [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
-* [MS will ban Forza players who add the confederate flag to their digital cars](https://www.theverge.com/2020/6/30/21308677/microsoft-forza-player-ban-confederate-flag-hate-symbols)
 * [Should the frame be recognized as an art form?](https://www.smithsonianmag.com/smithsonian-institution/it-time-recognize-frames-independent-artform-180975184/)
+* [How the digital camera transformed our concept of history](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-digital-camera-transformed-our-concept-of-history)
+* [In Search of King David’s Lost Empire](https://www.newyorker.com/magazine/2020/06/29/in-search-of-king-davids-lost-empire)
+* [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
+* [MS will ban Forza players who add the confederate flag to their digital cars](https://www.theverge.com/2020/6/30/21308677/microsoft-forza-player-ban-confederate-flag-hate-symbols)
+* [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
 * [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
+* [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
 * [Hazard pay in focus as essential workers earn less than the jobless](https://www.npr.org/2020/07/01/882957793/when-essential-workers-earn-less-than-the-jobless-we-put-the-country-on-our-back)
 * [The epic roleplaying stunt Dau is now churning out epicly bad movies](https://www.polygon.com/2020/4/23/21232719/dau-natasha-degeneration-review-russian-epic-movies-now-streaming-ilya-khrzhanovsky)
+* [Hundreds arrested as crime chat network cracked](https://www.bbc.com/news/uk-53263310)
 ## nytimes.com
 
 
@@ -75,18 +75,18 @@ layout: default
 * [Hugh Downs, Perennial Small-Screen Fixture, Is Dead at 99](https://www.nytimes.com/2020/07/02/arts/television/hugh-downs-dead.html)
 * [Mexican Officials Blame Cartel Turf War for Mass Killing](https://www.nytimes.com/2020/07/02/world/americas/mexico-shooting-drug-rehab.html)
 * [How Mount Rushmore Became Mount Rushmore](https://www.nytimes.com/2020/07/01/us/mount-rushmore.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [The Boat Business Is Booming](https://www.nytimes.com/2020/07/02/style/boat-sales-summer.html)
 * [Golfer’s Pro Journey Starts With a Burst Bubble](https://www.nytimes.com/2020/07/02/sports/golf/sahith-theegala-pga-tour.html)
 * [Moving the Haim Way: ‘We Love Feeling in Our Bodies’](https://www.nytimes.com/2020/06/30/arts/dance/haim-dance-videos.html)
 * [We Asked Four Documentarians: How Does Film Shape the Fight for Racial Justice?](https://www.nytimes.com/2020/06/30/movies/ava-duvernay-stanley-nelson-whose-streets.html)
 * [‘Defund the Police’? Easy for You to Say](https://www.nytimes.com/2020/07/02/style/defund-the-police-activism.html)
-* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
+* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
 * [Has Trump Already Lost the 2020 Election?](https://www.nytimes.com/2020/07/01/opinion/trump-lose-2020-election.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -95,13 +95,13 @@ layout: default
 ## globo.com
 
 
-* [Na reabertura, academias têm filas de 'marombeiros' e de clientes querendo cancelar planos](https://oglobo.globo.com/rio/na-reabertura-academias-tem-filas-de-marombeiros-de-clientes-querendo-cancelar-planos-24512419)
-* [Celso de Mello dá cinco dias para ministro interino da Saúde informar orientação para uso de cloroquina](https://oglobo.globo.com/sociedade/celso-de-mello-da-cinco-dias-para-ministro-interino-da-saude-informar-orientacao-para-uso-de-cloroquina-24512426)
+* [Shopping adota drive-thru e libera carros nos corredores das lojas para retirada de compras em Botucatu](https://oglobo.globo.com/economia/shopping-adota-drive-thru-libera-carros-nos-corredores-das-lojas-para-retirada-de-compras-em-botucatu-1-24512450)
+* [Gestores ‘se aproveitam da tragédia’ para contratar médicos sem Revalida, diz CFM](https://oglobo.globo.com/sociedade/gestores-se-aproveitam-da-tragedia-para-contratar-medicos-sem-revalida-diz-cfm-24512365)
+* [Empresa norueguesa de salmão suspende compra de soja brasileira por risco de desmatamento na Amazônia](https://oglobo.globo.com/economia/empresa-norueguesa-de-salmao-suspende-compra-de-soja-brasileira-por-risco-de-desmatamento-na-amazonia-24511061)
+* [Zuckerberg marca encontro com ativistas, mas indica que não pretende ceder à campanha contra anúncios no Facebook](https://oglobo.globo.com/economia/zuckerberg-marca-encontro-com-ativistas-mas-indica-que-nao-pretende-ceder-campanha-contra-anuncios-no-facebook-24512401)
 * [Ministério da Saúde diz que, de 17 estudos, 12 são favoráveis à cloroquina em casos leves](https://oglobo.globo.com/sociedade/ministerio-da-saude-diz-que-de-17-estudos-12-sao-favoraveis-cloroquina-em-casos-leves-24512385)
+* [Celso de Mello dá cinco dias para Pazuello informar orientação para uso de cloroquina](https://oglobo.globo.com/sociedade/celso-de-mello-da-cinco-dias-para-pazuello-informar-orientacao-para-uso-de-cloroquina-24512426)
+* [Na reabertura, academias têm filas de 'marombeiros' e de clientes querendo cancelar planos](https://oglobo.globo.com/rio/na-reabertura-academias-tem-filas-de-marombeiros-de-clientes-querendo-cancelar-planos-24512419)
 * [A pedido do governo, Justiça dos EUA ordena apreensão de gasolina enviada pelo Irã à Venezuela](https://oglobo.globo.com/mundo/a-pedido-do-governo-justica-dos-eua-ordena-apreensao-de-gasolina-enviada-pelo-ira-venezuela-24512391)
-* [Gestores ‘se aproveitam da tragédia’ para contratar médicos sem Revalida, segundo Conselho Federal de Medicina](https://oglobo.globo.com/sociedade/gestores-se-aproveitam-da-tragedia-para-contratar-medicos-sem-revalida-segundo-conselho-federal-de-medicina-24512365)
 * [Há 40 anos, Papa João Paulo II era o primeiro pontífice a visitar o Brasil](https://oglobo.globo.com/rio/ha-40-anos-papa-joao-paulo-ii-era-primeiro-pontifice-visitar-brasil-2-24512384)
-* [PGR envia ao STF parecer defendendo depoimento por escrito de Bolsonaro à Polícia Federal](https://oglobo.globo.com/brasil/pgr-envia-ao-stf-parecer-defendendo-depoimento-por-escrito-de-bolsonaro-policia-federal-24512354)
-* [Zuckerberg marca encontro com grupos de defesa de direitos civis que lideram campanha contra o Facebook](https://oglobo.globo.com/economia/zuckerberg-marca-encontro-com-grupos-de-defesa-de-direitos-civis-que-lideram-campanha-contra-facebook-24512401)
 * [Em clima de festa, jovem com Síndrome de Down recebe alta, depois de três semanas hospitalizado com Covid-19](https://oglobo.globo.com/rio/em-clima-de-festa-jovem-com-sindrome-de-down-recebe-alta-depois-de-tres-semanas-hospitalizado-com-covid-19-24512375)
-* [Análise: Cúpula virtual evidencia tensões e aprofunda dúvidas sobre o futuro do Mercosul](https://oglobo.globo.com/mundo/analise-cupula-virtual-evidencia-tensoes-aprofunda-duvidas-sobre-futuro-do-mercosul-24512298)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 04:34:32 UTC
+# indexed at 03/07/2020 05:11:58 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
+* [There are more streaming choices than ever – why are prices going up?](https://www.theverge.com/21310442/tv-streaming-youtube-fubo-price-increases-carrier-fees-disputes-costs-cable-television)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
-* [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
-* [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
+* [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
-* [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
-* [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
-* [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
-* [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
-* [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
 * [The Unruly Genius of Joyce Carol Oates](https://www.newyorker.com/magazine/2020/07/06/the-unruly-genius-of-joyce-carol-oates)
+* [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
+* [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
+* [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
+* [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
+* [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
+* [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
 * [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
+* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
 * [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
-* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
+* [New Mexico's Singing Road](http://thesingingroad.com/)
 * [The general tone is purple](https://www.lrb.co.uk/the-paper/v42/n13/alison-light/the-general-tone-is-purple)
-* [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
-* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
-* [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
 * [In the Future, Lab Mice Will Live in Computer Chips, Not Cages](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
+* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
+* [Ask HN: After Slate Star Codex, where are the nuanced discussions?](https://news.ycombinator.com/item?id=23719376)
+* [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
 * [OpenNMT: Open-Source Neural Machine Translation with Torch Mathematical Toolkit](https://github.com/OpenNMT/OpenNMT)
 * [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
 * [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
+* [EASA suspends Pakistan Airlines landings in EU for 6 mo](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
 * [Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
-* [In Search of King David’s Lost Empire](https://www.newyorker.com/magazine/2020/06/29/in-search-of-king-davids-lost-empire)
-* [Robin Williams, an acid trip, and moral panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
-* [Who Is History’s Worst Political Adviser?](https://www.historytoday.com/archive/head-head/who-history’s-worst-political-adviser)
 ## nytimes.com
 
 
@@ -72,9 +72,9 @@ layout: default
 * [‘A Conflicted Cultural Force’: What It’s Like to Be Black in Publishing](https://www.nytimes.com/2020/07/01/books/book-publishing-black.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Splitting 5-4, Supreme Court Grants Alabama’s Request to Restore Voting Restrictions](https://www.nytimes.com/2020/07/02/us/supreme-court-alabama-voting-restrictions.html)
-* [Hedge Fund’s Run at Tribune Publishing Ends, for Now, With a New Board Seat](https://www.nytimes.com/2020/07/02/business/media/tribune-alden-board-seat.html)
+* [Severe Floods in China Leave Over 106 Dead or Missing](https://www.nytimes.com/2020/07/03/world/asia/china-floods-rain.html)
 * [Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding](https://www.nytimes.com/2020/07/02/world/asia/india-coronavirus-wedding-groom.html)
-* [Essence Names Interim Chief After Claim of ‘Abusive Work Culture’](https://www.nytimes.com/2020/07/02/business/media/essence-magazine-accusations.html)
+* [2 Officers Face Murder Charges After Using Taser on Man More Than 50 Times, Officials Say](https://www.nytimes.com/2020/07/03/us/Jared-lakey-death-Oklahoma-police-taser.html)
 * [FedEx Joins Push for Washington Redskins to Be Renamed](https://www.nytimes.com/2020/07/02/sports/Redskins-name-FedEx.html)
 * [Ghislaine Maxwell, Associate of Jeffrey Epstein, Is Arrested](https://www.nytimes.com/2020/07/02/nyregion/ghislaine-maxwell-arrest-jeffrey-epstein.html)
 * [Mysterious Explosion and Fire Damage Iranian Nuclear Enrichment Facility](https://www.nytimes.com/2020/07/02/us/politics/iran-explosion-nuclear-centrifuges.html)
@@ -88,10 +88,11 @@ layout: default
 * [TikTok Stars Tati and Devin Will Meet](https://www.nytimes.com/2020/07/02/style/tati-devin-tiktok.html)
 * [The Gallery Where Stevie Wonder Was a Regular](https://www.nytimes.com/2020/07/02/t-magazine/linda-goode-bryant-senga-nengudi.html)
 * [Coldcut + Tony Allen and African Artists = Studio Electricity](https://www.nytimes.com/2020/07/02/arts/music/keleketla-review.html)
+* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
-* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
+* [Think of Kimchi as a Verb](https://www.nytimes.com/2020/07/02/dining/quick-kimchi-recipes.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

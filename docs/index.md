@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 08:34:20 UTC
+# indexed at 03/07/2020 09:12:36 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Guietta – Python module to create simple GUIs](https://github.com/alfiopuglisi/guietta)
+* [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
+* [Leonardo Da Vinci’s the Last Supper in a New Gigapixel Image](https://kottke.org/20/06/leonardo-the-last-supper-gigapixel-image)
 * [EU safety agency suspends Pakistani airlines' European authorisation](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
 * [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/)
+* [Finding the 'invisible' millions who are not on maps](https://www.bbc.com/news/business-52650856)
+* [On Moving from Statistics to Machine Learning, the Final Stage of Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
 * [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
-* [On Moving from Statistics to Machine Learning, the Final Stage of Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
+* [Barclays Bank Using Internet Archive as CDN for JavaScript Files](https://twitter.com/immunda/status/1278783894683336704)
 * [New Mexico's Singing Road](http://thesingingroad.com/)
 * [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
 * [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
-* [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
-* [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
+* [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
+* [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
 * [Impraise (YC S14) is hiring a front-end engineer in Amsterdam (React, GraphQL)](https://jobs.impraise.com/o/frontend-developer-3)
 * [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
-* [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
 * [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
-* [Barclays Bank Using Internet Archive as CDN for JavaScript Files](https://twitter.com/immunda/status/1278783894683336704)
+* [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
-* [The Gimmick of the Novel of Ideas](https://www.theparisreview.org/blog/2020/06/25/the-gimmick-of-the-novel-of-ideas/)
 * [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
 * [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
-* [The Unruly Genius of Joyce Carol Oates](https://www.newyorker.com/magazine/2020/07/06/the-unruly-genius-of-joyce-carol-oates)
+* [Court Rules Facebook Widgets Can Be Considered Wiretaps](https://gizmodo.com/court-rules-facebook-widgets-can-be-considered-wiretaps-1844245159)
 * [Ask HN: After Slate Star Codex, where are the nuanced discussions?](https://news.ycombinator.com/item?id=23719376)
+* [The Gimmick of the Novel of Ideas](https://www.theparisreview.org/blog/2020/06/25/the-gimmick-of-the-novel-of-ideas/)
 * [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
-* [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
-* [The general tone is purple](https://www.lrb.co.uk/the-paper/v42/n13/alison-light/the-general-tone-is-purple)
-* [The caretakers of Sealand, the most stubborn micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
 ## nytimes.com
 
 
@@ -71,17 +71,16 @@ layout: default
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Splitting 5-4, Supreme Court Grants Alabama’s Request to Restore Voting Restrictions](https://www.nytimes.com/2020/07/02/us/supreme-court-alabama-voting-restrictions.html)
 * [Severe Floods in China Leave Over 106 Dead or Missing](https://www.nytimes.com/2020/07/03/world/asia/china-floods-rain.html)
-* [Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding](https://www.nytimes.com/2020/07/02/world/asia/india-coronavirus-wedding-groom.html)
+* [French Prime Minister Resigns Before a Cabinet Reshuffle](https://www.nytimes.com/2020/07/03/world/europe/france-prime-minister-resign.html)
 * [2 Officers Face Murder Charges After Using Taser on Man More Than 50 Times, Officials Say](https://www.nytimes.com/2020/07/03/us/Jared-lakey-death-Oklahoma-police-taser.html)
 * [FedEx Joins Push for Washington Redskins to Be Renamed](https://www.nytimes.com/2020/07/02/sports/Redskins-name-FedEx.html)
 * [Ghislaine Maxwell, Associate of Jeffrey Epstein, Is Arrested](https://www.nytimes.com/2020/07/02/nyregion/ghislaine-maxwell-arrest-jeffrey-epstein.html)
 * [Mysterious Explosion and Fire Damage Iranian Nuclear Enrichment Facility](https://www.nytimes.com/2020/07/02/us/politics/iran-explosion-nuclear-centrifuges.html)
 * [How Berkshire Hathaway May Have Been Snookered in Germany](https://www.nytimes.com/2020/07/01/business/berkshire-hathaway-fraud-germany.html)
 * [Hong Kong Law Opens Door to China’s Hulking Security State](https://www.nytimes.com/2020/07/02/world/asia/hong-kong-security-china.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
-* [Airlines Say Everybody Onboard Must Wear a Mask. So Why Aren’t They?](https://www.nytimes.com/2020/06/04/travel/coronavirus-flying-face-masks.html)
 * [Cultural Life Is Back in Europe. In the U.K., They Talk of Collapse.](https://www.nytimes.com/2020/07/01/theater/britain-arts-future-coronavirus.html)
 * [How Do You Define Rosé?](https://www.nytimes.com/2020/07/02/dining/drinks/wine-school-rose.html)
 * [TikTok Stars Tati and Devin Will Meet](https://www.nytimes.com/2020/07/02/style/tati-devin-tiktok.html)
@@ -98,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Defesa pede que Justiça conceda liberdade a Queiroz](https://oglobo.globo.com/brasil/defesa-pede-que-justica-conceda-liberdade-queiroz-24513278)
 * [Rompimento da Globo com Carioca pode acelerar reformulação dos estaduais](https://oglobo.globo.com/esportes/rompimento-da-globo-com-carioca-pode-acelerar-reformulacao-dos-estaduais-24513391)
-* [Como se adaptar à flexibilização das medidas de isolamento](https://oglobo.globo.com/podcast/como-se-adaptar-flexibilizacao-das-medidas-de-isolamento-1-24513256)
-* [Pandemia da pobreza: desemprego muda perfil da população de rua do Rio](https://oglobo.globo.com/rio/pandemia-da-pobreza-desemprego-muda-perfil-da-populacao-de-rua-do-rio-24513036)
-* [Medo impede consenso para volta às aulas em rede privada do Rio](https://oglobo.globo.com/rio/medo-impede-consenso-para-volta-as-aulas-em-rede-privada-do-rio-24513160)
-* ['O Estado deve desempenhar um papel maior do que antes da pandemia', diz o economista Branko Milanovic](https://oglobo.globo.com/mundo/o-estado-deve-desempenhar-um-papel-maior-do-que-antes-da-pandemia-diz-economista-branko-milanovic-24513077)
-* [Conselho que fiscaliza ajuste fiscal faz alerta ao estado sobre gastos com pandemia](https://oglobo.globo.com/rio/conselho-que-fiscaliza-ajuste-fiscal-faz-alerta-ao-estado-sobre-gastos-com-pandemia-24513203)
-* [Ludmilla: 'Não adianta dizer que é feminista e depois puxar tapete'](https://oglobo.globo.com/cultura/ludmilla-nao-adianta-dizer-que-feminista-depois-puxar-tapete-24511648)
-* [Fernando Caruso e Paulo Vieira estreiam 'Cada um no seu quadrado'](https://oglobo.globo.com/rioshow/fernando-caruso-paulo-vieira-estreiam-cada-um-no-seu-quadrado-1-24509578)
+* [Ex-secretário de Saúde de Paes é alvo de ação por improbidade administrativa](https://epoca.globo.com/brasil/ex-secretario-de-saude-de-paes-alvo-de-acao-por-improbidade-administrativa-24511783)
+* [Em novo habeas corpus, defesa pede que Justiça conceda liberdade a Queiroz](https://oglobo.globo.com/brasil/em-novo-habeas-corpus-defesa-pede-que-justica-conceda-liberdade-queiroz-24513075)
+* [Veja as contradições que Bolsonaro precisará esclarecer em depoimento sobre interferência na PF](https://oglobo.globo.com/brasil/veja-as-contradicoes-que-bolsonaro-precisara-esclarecer-em-depoimento-sobre-interferencia-na-pf-24513037)
+* [Índios pedem no STF barreiras sanitárias contra Covid-19, e Barroso dá 48h para Bolsonaro e Aras se manifestarem](https://oglobo.globo.com/brasil/indios-pedem-no-stf-barreiras-sanitarias-contra-covid-19-barroso-da-48h-para-bolsonaro-aras-se-manifestarem-24513068)
+* [Por medo de contaminação, Justiça Eleitoral tem dificuldade para recrutar mesários e abstenção pode ser maior em 2020](https://oglobo.globo.com/brasil/por-medo-de-contaminacao-justica-eleitoral-tem-dificuldade-para-recrutar-mesarios-abstencao-pode-ser-maior-em-2020-24512844)
+* [Bolsonaro faz um ano e meio de governo sem ser recebido como chefe de Estado na Europa](https://epoca.globo.com/guilherme-amado/bolsonaro-faz-um-ano-meio-de-governo-sem-ser-recebido-como-chefe-de-estado-na-europa-24512846)
+* [Estudo analisa como o discurso de ódio na internet afeta a vida de mulheres lésbicas](https://oglobo.globo.com/celina/estudo-analisa-como-discurso-de-odio-na-internet-afeta-vida-de-mulheres-lesbicas-24512369)
 * [Bares e restaurantes adaptam salões e cozinhas para reabertura](https://oglobo.globo.com/rioshow/bares-restaurantes-adaptam-saloes-cozinhas-para-reabertura-24507842)
-* [Conheça Italo Matos, o paulistano que cria a arte dos clipes de Pabllo Vittar e Luísa Sonza](https://oglobo.globo.com/ela/gente/conheca-italo-matos-paulistano-que-cria-arte-dos-clipes-de-pabllo-vittar-luisa-sonza-24512078)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 02:13:34 UTC
+# indexed at 03/07/2020 02:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
-* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
 * [Actual 1950s Proposal: Nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
+* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
 * [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
 * [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
 * [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
 * [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
-* [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
-* [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
 * [Estonian Electronic Identity Card: Security Flaws in Key Management](https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs)
+* [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
+* [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
 * [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
+* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
+* [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
 * [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
 * [The general tone is purple](https://www.lrb.co.uk/the-paper/v42/n13/alison-light/the-general-tone-is-purple)
-* [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
-* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
 * [RCE on Telia Routers](https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html)
-* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
+* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
-* [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
+* [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
 * [OpenNMT: Open-Source Neural Machine Translation with Torch Mathematical Toolkit](https://github.com/OpenNMT/OpenNMT)
-* [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [HotSpot compiler: Stack allocation prototype for C2](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/2020-June/038779.html)
 * [Robin Williams, an acid trip, and moral panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
 * [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
-* [Who Is History’s Worst Political Adviser?](https://www.historytoday.com/archive/head-head/who-history’s-worst-political-adviser)
+* [Commodore Nowhere Near the Edge or Commodore Before Commodore (2007)](https://www.stat.colostate.edu/~zube/commodore2.txt)
 ## nytimes.com
 
 
@@ -72,7 +72,7 @@ layout: default
 * [‘A Conflicted Cultural Force’: What It’s Like to Be Black in Publishing](https://www.nytimes.com/2020/07/01/books/book-publishing-black.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Splitting 5-4, Supreme Court Grants Alabama’s Request to Restore Voting Restrictions](https://www.nytimes.com/2020/07/02/us/supreme-court-alabama-voting-restrictions.html)
-* [Herman Cain Hospitalized With Coronavirus](https://www.nytimes.com/2020/07/02/us/politics/herman-cain-coronavirus.html)
+* [Hedge Fund’s Run at Tribune Publishing Ends, for Now, With a New Board Seat](https://www.nytimes.com/2020/07/02/business/media/tribune-alden-board-seat.html)
 * [Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding](https://www.nytimes.com/2020/07/02/world/asia/india-coronavirus-wedding-groom.html)
 * [Essence Names Interim Chief After Claim of ‘Abusive Work Culture’](https://www.nytimes.com/2020/07/02/business/media/essence-magazine-accusations.html)
 * [Come to the Beach but Beware of Sharks, Cape Cod Officials Say](https://www.nytimes.com/2020/07/02/us/Cape-cod-sharks.html)
@@ -80,18 +80,18 @@ layout: default
 * [Mysterious Explosion and Fire Damage Iranian Nuclear Enrichment Facility](https://www.nytimes.com/2020/07/02/us/politics/iran-explosion-nuclear-centrifuges.html)
 * [Hugh Downs, Perennial Small-Screen Fixture, Is Dead at 99](https://www.nytimes.com/2020/07/02/arts/television/hugh-downs-dead.html)
 * [How Mount Rushmore Became Mount Rushmore](https://www.nytimes.com/2020/07/01/us/mount-rushmore.html)
-* [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
 * [Cultural Life Is Back in Europe. In the U.K., They Talk of Collapse.](https://www.nytimes.com/2020/07/01/theater/britain-arts-future-coronavirus.html)
 * [How Do You Define Rosé?](https://www.nytimes.com/2020/07/02/dining/drinks/wine-school-rose.html)
 * [TikTok Stars Tati and Devin Will Meet](https://www.nytimes.com/2020/07/02/style/tati-devin-tiktok.html)
 * [The Gallery Where Stevie Wonder Was a Regular](https://www.nytimes.com/2020/07/02/t-magazine/linda-goode-bryant-senga-nengudi.html)
 * [Coldcut + Tony Allen and African Artists = Studio Electricity](https://www.nytimes.com/2020/07/02/arts/music/keleketla-review.html)
-* [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
-* [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
+* [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
+* [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -99,6 +99,8 @@ layout: default
 ## globo.com
 
 
+* [Bar cheio no Leblon em meio à pandemia da Covid-19 gera críticas nas redes sociais](https://oglobo.globo.com/rio/bar-cheio-no-leblon-em-meio-pandemia-da-covid-19-gera-criticas-nas-redes-sociais-24513272)
+* [Autoridades encontram 86 sacos com restos mortais em cova clandestina, no México](https://oglobo.globo.com/mundo/autoridades-encontram-86-sacos-com-restos-mortais-em-cova-clandestina-no-mexico-24513249)
 * [Covid-19: Bares reabrem lotados na noite desta quinta-feira; clientes descumprem regras de distanciamento](https://oglobo.globo.com/rio/covid-19-bares-reabrem-lotados-na-noite-desta-quinta-feira-clientes-descumprem-regras-de-distanciamento-24512815)
 * [Bolsonaro diz ter feito 'vários vetos' em lei que obriga o uso de máscaras em todo o país](https://oglobo.globo.com/sociedade/bolsonaro-diz-ter-feito-varios-vetos-em-lei-que-obriga-uso-de-mascaras-em-todo-pais-24512800)
 * [INSS prorroga antecipação do pagamento do BPC e auxílio-doença](https://oglobo.globo.com/economia/inss-prorroga-antecipacao-do-pagamento-do-bpc-auxilio-doenca-24513108)
@@ -106,6 +108,4 @@ layout: default
 * [Crivella diz não ver obstáculos à reabertura de escolas porque 'crianças são imunes'](https://oglobo.globo.com/rio/crivella-diz-nao-ver-obstaculos-reabertura-de-escolas-porque-criancas-sao-imunes-24512661)
 * [Morre menina de 4 anos baleada durante festa de aniversário em Três Rios](https://oglobo.globo.com/rio/morre-menina-de-4-anos-baleada-durante-festa-de-aniversario-em-tres-rios-24512847)
 * [Novo Minha Casa Minha Vida deve ser anunciado em 15 dias, diz ministro](https://oglobo.globo.com/economia/novo-minha-casa-minha-vida-deve-ser-anunciado-em-15-dias-diz-ministro-24512686)
-* [Com 47.984 novos casos em 24h, Brasil ultrapassa marca de 1,5 milhão de diagnosticados pela Covid-19, informa consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/com-47984-novos-casos-em-24h-brasil-ultrapassa-marca-de-15-milhao-de-diagnosticados-pela-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24512491)
 * [O boicote ao Facebook vai fazer sucesso?](https://oglobo.globo.com/economia/o-boicote-ao-facebook-vai-fazer-sucesso-24512616)
-* [Caixa Econômica reduz juro do cheque especial de 2,9% para 1,8% ao mês](https://oglobo.globo.com/economia/caixa-economica-reduz-juro-do-cheque-especial-de-29-para-18-ao-mes-24512579)

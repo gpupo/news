@@ -2,48 +2,49 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 03:12:33 UTC
+# indexed at 03/07/2020 03:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
-* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
 * [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
+* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
 * [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
-* [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
+* [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
 * [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
 * [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
 * [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
 * [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
-* [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
-* [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
 * [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
+* [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
+* [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
 * [The general tone is purple](https://www.lrb.co.uk/the-paper/v42/n13/alison-light/the-general-tone-is-purple)
+* [In the Future, Lab Mice Will Live in Computer Chips, Not Cages](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
 * [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 * [Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
-* [In the Future, Lab Mice Will Live in Computer Chips, Not Cages](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
-* [Who Is History’s Worst Political Adviser?](https://www.historytoday.com/archive/head-head/who-history’s-worst-political-adviser)
-* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
+* [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [Who Is History’s Worst Political Adviser?](https://www.historytoday.com/archive/head-head/who-history’s-worst-political-adviser)
 * [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
 * [OpenNMT: Open-Source Neural Machine Translation with Torch Mathematical Toolkit](https://github.com/OpenNMT/OpenNMT)
-* [Robin Williams, an acid trip, and moral panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
 * [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
+* [Robin Williams, an acid trip, and moral panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
 * [Commodore Nowhere Near the Edge or Commodore Before Commodore (2007)](https://www.stat.colostate.edu/~zube/commodore2.txt)
-* [In Search of King David’s Lost Empire](https://www.newyorker.com/magazine/2020/06/29/in-search-of-king-davids-lost-empire)
+* [The caretakers of Sealand, the most stubborn micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
 ## nytimes.com
 
 
 * [Live Coronavirus News: Updates and Video](https://www.nytimes.com/2020/07/02/world/coronavirus-us.html)
 * [For This Fourth of July, Officials Say Celebrate Freedom by Staying Home](https://www.nytimes.com/2020/07/02/us/coronavirus-fourth-of-july.html)
 * [4.8 Million Jobs Added in June, but Clouds Grow Over Economy](https://www.nytimes.com/2020/07/02/business/economy/jobs-unemployment-coronavirus.html)
+* [Australia Locks Down 300,000 in Melbourne Area After Coronavirus Surge](https://www.nytimes.com/2020/07/02/world/australia/melbourne-coronavirus-outbreak.html)
 * [Can an Algorithm Predict the Pandemic’s Next Moves?](https://www.nytimes.com/2020/07/02/health/santillana-coronavirus-model-forecast.html)
 * [Maya Moore's Help to Win Jonathan Irons's Freedom Shows Women Leading Change](https://www.nytimes.com/2020/07/02/sports/basketball/maya-moore-jonathan-irons-freed.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)
@@ -80,8 +81,9 @@ layout: default
 * [Mysterious Explosion and Fire Damage Iranian Nuclear Enrichment Facility](https://www.nytimes.com/2020/07/02/us/politics/iran-explosion-nuclear-centrifuges.html)
 * [Hugh Downs, Perennial Small-Screen Fixture, Is Dead at 99](https://www.nytimes.com/2020/07/02/arts/television/hugh-downs-dead.html)
 * [How Mount Rushmore Became Mount Rushmore](https://www.nytimes.com/2020/07/01/us/mount-rushmore.html)
-* [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
+* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Cultural Life Is Back in Europe. In the U.K., They Talk of Collapse.](https://www.nytimes.com/2020/07/01/theater/britain-arts-future-coronavirus.html)
 * [How Do You Define Rosé?](https://www.nytimes.com/2020/07/02/dining/drinks/wine-school-rose.html)
@@ -100,8 +102,8 @@ layout: default
 
 
 * [Covid-19: Bares reabrem lotados na noite desta quinta-feira; clientes descumprem regras de distanciamento na calçada](https://oglobo.globo.com/rio/covid-19-bares-reabrem-lotados-na-noite-desta-quinta-feira-clientes-descumprem-regras-de-distanciamento-na-calcada-24512815)
+* [Bares cheios no Leblon em meio à pandemia da Covid-19 geram críticas nas redes sociais](https://oglobo.globo.com/rio/bares-cheios-no-leblon-em-meio-pandemia-da-covid-19-geram-criticas-nas-redes-sociais-24513272)
 * [Grupo de matadores de aluguel ligado à milícia é suspeito por pelo menos sete mortes](https://oglobo.globo.com/rio/grupo-de-matadores-de-aluguel-ligado-milicia-suspeito-por-pelo-menos-sete-mortes-24513299)
-* [Bar cheio no Leblon em meio à pandemia da Covid-19 gera críticas nas redes sociais](https://oglobo.globo.com/rio/bar-cheio-no-leblon-em-meio-pandemia-da-covid-19-gera-criticas-nas-redes-sociais-24513272)
 * [Autoridades encontram 86 sacos com restos mortais em cova clandestina, no México](https://oglobo.globo.com/mundo/autoridades-encontram-86-sacos-com-restos-mortais-em-cova-clandestina-no-mexico-24513249)
 * [Um terço das cestas básicas destinadas a indígenas na Amazônia ainda não chegou, diz ONG](https://oglobo.globo.com/sociedade/um-terco-das-cestas-basicas-destinadas-indigenas-na-amazonia-ainda-nao-chegou-diz-ong-1-24513225)
 * [INSS prorroga antecipação do pagamento do BPC e auxílio-doença](https://oglobo.globo.com/economia/inss-prorroga-antecipacao-do-pagamento-do-bpc-auxilio-doenca-24513108)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 14:12:45 UTC
+# indexed at 03/07/2020 14:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Guietta – Python module to create simple GUIs](https://github.com/alfiopuglisi/guietta)
 * [Leonardo Da Vinci’s the Last Supper in a New Gigapixel Image](https://kottke.org/20/06/leonardo-the-last-supper-gigapixel-image)
 * [Impressive backyard engineering on an obscure YouTube channel](https://www.thedrive.com/news/34554/some-of-the-most-impressive-backyard-engineering-weve-seen-goes-down-on-this-obscure-youtube-channel)
-* [“It'll all be over by Christmas” (Part 2)](http://www.antipope.org/charlie/blog-static/2020/07/itll-all-be-over-by-christmas-.html)
 * [EU safety agency suspends Pakistani airlines' European authorisation](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
 * [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
 * [Finding the 'invisible' millions who are not on maps](https://www.bbc.com/news/business-52650856)
 * [On Moving from Statistics to Machine Learning, the Final Stage of Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
-* [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/)
 * [The Idea of Entropy Has Led Us Astray](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray)
+* [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/)
+* [“It'll all be over by Christmas” (Part 2)](http://www.antipope.org/charlie/blog-static/2020/07/itll-all-be-over-by-christmas-.html)
 * [Barclays Bank Using Internet Archive as CDN for JavaScript Files](https://twitter.com/immunda/status/1278783894683336704)
-* [CanaryTrap Method Identifies 16 Facebook Apps Guilty of Data Misuse](https://sensorstechforum.com/canarytrap-method-facebook-apps-data-misuse/)
 * [Is This a Turing Machine?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
+* [CanaryTrap Method Identifies 16 Facebook Apps Guilty of Data Misuse](https://sensorstechforum.com/canarytrap-method-facebook-apps-data-misuse/)
 * [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
 * [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
-* [A Theory of History and Society: Technology, Constraints and Measurement (TCM)](https://continuations.com/post/622562735468773376/a-theory-of-history-and-society-technology)
+* [Three artists on the future of the gallery system](https://www.thenation.com/article/culture/future-of-galleries/)
 * [Digital Psychology](https://digitalpsychology.io)
+* [A Theory of History and Society: Technology, Constraints and Measurement (TCM)](https://continuations.com/post/622562735468773376/a-theory-of-history-and-society-technology)
 * [New Mexico's Singing Road](http://thesingingroad.com/)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
+* [It’s Time to Abolish Single-Family Zoning](https://www.theamericanconservative.com/urbs/its-time-to-abolish-single-family-zoning/)
+* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [Show HN: The Book of Modding](https://thebookofmodding.ml/)
 * [Derailing illusions that kill: misperceptions at railway crossings (2003)](https://www.latimes.com/local/california/la-me-derailing-illusions-that-kill-20150224-story.html)
 * [In the future, lab mice will live in computer chips, not cages?](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
-* [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
-* [It’s Time to Abolish Single-Family Zoning](https://www.theamericanconservative.com/urbs/its-time-to-abolish-single-family-zoning/)
-* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
-* [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
 ## nytimes.com
 
 
@@ -81,19 +81,18 @@ layout: default
 * [Boris Johnson’s ‘Global Britain’: Inspired Vision or Wishful Thinking?](https://www.nytimes.com/2020/07/03/world/europe/johnson-brexit-hong-kong.html)
 * [Turmoil at Funeral of Hachalu Hundessa Shows Ethiopia’s ‘Combustible’ Politics](https://www.nytimes.com/2020/07/02/world/africa/ethiopia-singer-funeral-hachalu-killing.html)
 * [Bounties Uproar Casts a Shadow Over a Rare Trump Foreign Policy Achievement](https://www.nytimes.com/2020/07/02/us/politics/trump-afghanistan-russia-bounty.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [Is It Safe to Set Off Fourth of July Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [How to Respond to Microaggressions](https://www.nytimes.com/2020/03/03/smarter-living/how-to-respond-to-microaggressions.html)
 * [‘Liberty Bell’ Tolls for Sites Where History Is Alive and Kicking](https://www.nytimes.com/2020/07/02/arts/design/liberty-bell-nancy-baker-cahill.html)
 * [Black Wine Professionals Demand to Be Seen](https://www.nytimes.com/2020/06/29/dining/drinks/black-wine-professionals-sommeliers.html)
 * [‘The Baby-Sitters Club’ Defies and Exceeds Expectations](https://www.nytimes.com/2020/07/02/arts/television/review-the-baby-sitters-club-netflix.html)
 * [The Yankees’ 2 Goals: Avoid the Coronavirus, and Win the World Series](https://www.nytimes.com/2020/07/01/sports/baseball/yankees-2020-season.html)
 * [8 Things to Do This Fourth of July Weekend](https://www.nytimes.com/2020/07/02/arts/things-to-do-weekend-fourth-of-july-coronavirus.html)
+* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
+* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
-* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
-* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Ghislaine Maxwell, Associate of Jeffrey Epstein, Is Arrested](https://www.nytimes.com/2020/07/02/nyregion/ghislaine-maxwell-arrest-jeffrey-epstein.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -101,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Mesmo cancelado, Turner Prize paga bolsas à dez artistas escolhidos por júri](https://oglobo.globo.com/cultura/mesmo-cancelado-turner-prize-paga-bolsas-dez-artistas-escolhidos-por-juri-24513581)
-* [Operação e denúncia contra Serra é golpe na tentativa de PSDB de reconstruir imagem](https://oglobo.globo.com/analitico/operacao-denuncia-contra-serra-golpe-na-tentativa-de-psdb-de-reconstruir-imagem-24513644)
+* [Prefeitura do Rio já recebeu 22 mil denúncias de aglomerações em bares e restaurantes desde o início do isolamento](https://oglobo.globo.com/rio/prefeitura-do-rio-ja-recebeu-22-mil-denuncias-de-aglomeracoes-em-bares-restaurantes-desde-inicio-do-isolamento-1-24513563)
+* ['Há um novo gabinete do ódio operando para macular a Lava-Jato', diz Deltan Dallagnol](https://oglobo.globo.com/brasil/ha-um-novo-gabinete-do-odio-operando-para-macular-lava-jato-diz-deltan-dallagnol-24513654)
+* [Petrobras anuncia início do processo de venda de subsidiária de biocombustível](https://oglobo.globo.com/economia/petrobras-anuncia-inicio-do-processo-de-venda-de-subsidiaria-de-biocombustivel-24513698)
+* [Estátua da Pequena Sereia é pichada com frase 'peixe racista'](https://oglobo.globo.com/celina/estatua-da-pequena-sereia-pichada-com-frase-peixe-racista-24513703)
 * [ONU se diz alarmada com prisões em Hong Kong após nova lei de segurança](https://oglobo.globo.com/mundo/onu-se-diz-alarmada-com-prisoes-em-hong-kong-apos-nova-lei-de-seguranca-24513670)
-* [Opositores ao regime cubano querem que Netflix tire do ar 'Wasp network', filme com Wagner Moura baseado em livro brasileiro](https://oglobo.globo.com/cultura/filmes/opositores-ao-regime-cubano-querem-que-netflix-tire-do-ar-wasp-network-filme-com-wagner-moura-baseado-em-livro-brasileiro-1-24513553)
+* [Operação e denúncia contra Serra são golpe na tentativa do PSDB de reconstruir imagem](https://oglobo.globo.com/analitico/operacao-denuncia-contra-serra-sao-golpe-na-tentativa-do-psdb-de-reconstruir-imagem-24513644)
+* [Mesmo cancelado, Turner Prize paga bolsas a dez artistas escolhidos por júri](https://oglobo.globo.com/cultura/mesmo-cancelado-turner-prize-paga-bolsas-dez-artistas-escolhidos-por-juri-24513581)
 * [Bares lotados no Leblon são criticados por personalidades nas redes sociais](https://oglobo.globo.com/rio/bares-lotados-no-leblon-sao-criticados-por-personalidades-nas-redes-sociais-24513625)
 * [Boicote ao Facebook: como a debandada de grandes anunciantes pode afetar sobrevivência da rede social](https://epoca.globo.com/economia/boicote-ao-facebook-como-debandada-de-grandes-anunciantes-pode-afetar-sobrevivencia-da-rede-social-24513620)
-* [Bolsonaro escolhe Renato Feder para assumir Ministério da Educação](https://oglobo.globo.com/sociedade/bolsonaro-escolhe-renato-feder-para-assumir-ministerio-da-educacao-24513574)
-* [Prefeitura do Rio já recebeu 22 mil denúncias de aglomerações em bares e restaurantes desde o início do isolamento](https://oglobo.globo.com/rio/prefeitura-do-rio-ja-recebeu-22-mil-denuncias-de-aglomeracoes-em-bares-restaurantes-desde-inicio-do-isolamento-1-24513563)
 * [Flexibilização de isolamento nos municípios é retorno fake à normalidade](https://oglobo.globo.com/analitico/flexibilizacao-de-isolamento-nos-municipios-retorno-fake-normalidade-24513547)
-* [Coronavírus na Coreia do Norte: Kim Jong-un declara 'sucesso brilhante' no combate à pandemia e zero casos](https://epoca.globo.com/mundo/coronavirus-na-coreia-do-norte-kim-jong-un-declara-sucesso-brilhante-no-combate-pandemia-zero-casos-24513583)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 23:11:33 UTC
+# indexed at 03/07/2020 23:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -10,32 +10,32 @@ layout: default
 
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
 * [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
+* [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [A practical case on why we need the humanities](https://acoup.blog/2020/07/03/collections-the-practical-case-on-why-we-need-the-humanities/)
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
-* [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
 * [A 28-year-old with no degree becomes a must read on the economy](https://www.bloomberg.com/news/articles/2020-07-02/nathan-tankus-s-newsletter-subscribers-don-t-care-about-diplomas)
 * [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
 * [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
-* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
 * [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
-* [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
+* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
 * [Tellina: Translate natural language into bash commands (built with TensorFlow)](http://www.tellina.rocks)
 * [Triso particles have safety features that may power a new generation of reactors](https://www.wired.com/story/nuclear-power-balls-triso-fuel/)
 * [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
 * [The science of mask-wearing hasn’t changed, so why have our expectations?](https://fivethirtyeight.com/features/the-science-of-mask-wearing-hasnt-changed-so-why-have-our-expectations/)
 * [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
 * [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-* [Moon's Mark Down](http://users.rcn.com/david-moon/MMD/HTML/index.html)
 * [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
-* [Impressive backyard engineering on an obscure YouTube channel](https://www.thedrive.com/news/34554/some-of-the-most-impressive-backyard-engineering-weve-seen-goes-down-on-this-obscure-youtube-channel)
-* [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
 * [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
+* [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
+* [Moon's Mark Down](http://users.rcn.com/david-moon/MMD/HTML/index.html)
+* [Impressive backyard engineering on an obscure YouTube channel](https://www.thedrive.com/news/34554/some-of-the-most-impressive-backyard-engineering-weve-seen-goes-down-on-this-obscure-youtube-channel)
 * [Göbekli Tepe](https://en.wikipedia.org/wiki/Göbekli_Tepe)
 * [The dying mall’s new lease on life: apartments](https://www.bloomberg.com/news/articles/2020-06-30/a-case-for-turning-empty-malls-into-housing)
 * [Show HN: Ward – Minimalistic Server Dashboard](https://github.com/B-Software/Ward)
-* [Botswana: Lab tests to solve mystery of hundreds of dead elephants](https://www.bbc.com/news/world-africa-53273361)
+* [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
 * [Ten Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
+* [Botswana: Lab tests to solve mystery of hundreds of dead elephants](https://www.bbc.com/news/world-africa-53273361)
 * [Show HN: The Book of Minecraft Modding](https://thebookofmodding.ml/)
 * [The Millennium Falcon (2016)](https://kitbashed.com/blog/a-complete-history-of-the-millennium-falcon)
 ## nytimes.com
@@ -88,10 +88,10 @@ layout: default
 * [Netflix’s ‘Eurovision Song Contest’: Here’s What You May Have Missed](https://www.nytimes.com/2020/07/02/movies/eurovision-song-contest-story-of-fire-saga.html)
 * [We Got ‘Hamilton.’ Why Can’t We Stream Every Broadway Show?](https://www.nytimes.com/2020/07/03/theater/theater-streaming-questions.html)
 * [Comedy via Zoom: It’s the Golden Age of Mugging](https://www.nytimes.com/2020/07/01/arts/television/comedy-zoom.html)
-* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
-* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
+* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
+* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Testes em unidades da JBS e BRF no Mato Grosso do Sul revelam mais de 1.000 casos de Covid-19](https://oglobo.globo.com/economia/testes-em-unidades-da-jbs-brf-no-mato-grosso-do-sul-revelam-mais-de-1000-casos-de-covid-19-24514675)
-* [Renda Brasil terá valor maior que o do Bolsa Família, diz Guedes](https://oglobo.globo.com/economia/renda-brasil-tera-valor-maior-que-do-bolsa-familia-diz-guedes-24514915)
-* [Ceasa de Irajá, que comercializou R$ 4,9 bi ano passado, pode ser desativada e comerciantes se posicionam contra; entenda](https://oglobo.globo.com/rio/ceasa-de-iraja-que-comercializou-49-bi-ano-passado-pode-ser-desativada-comerciantes-se-posicionam-contra-entenda-24514643)
-* [Bolsonaro é refém das forças que conjurou](https://oglobo.globo.com/analitico/bolsonaro-refem-das-forcas-que-conjurou-24514735)
-* [Em meio à crise no setor aéreo, Azul inicia plano de demissões](https://oglobo.globo.com/economia/em-meio-crise-no-setor-aereo-azul-inicia-plano-de-demissoes-24514660)
+* [Guedes diz que imagem do Brasil no exterior seria melhor se houvesse 'leitura mais compreensiva'](https://oglobo.globo.com/economia/guedes-diz-que-imagem-do-brasil-no-exterior-seria-melhor-se-houvesse-leitura-mais-compreensiva-24515050)
+* [É #FAKE que vídeo mostre primeira-ministra da Austrália fingindo tomar vacina contra Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-primeira-ministra-da-australia-fingindo-tomar-vacina-contra-covid-19-24515032)
+* [Renda Brasil terá valor maior que o do Bolsa Família, diz Guedes](https://oglobo.globo.com/economia/renda-brasil-tera-valor-maior-que-do-bolsa-familia-diz-guedes-1-24514915)
 * [Brasil tem 1.264 mortes por coronavírus em 24 horas; total chega a 63.254, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1264-mortes-por-coronavirus-em-24-horas-total-chega-63254-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24514814)
+* [Bolsonaro é refém das forças que conjurou](https://oglobo.globo.com/analitico/bolsonaro-refem-das-forcas-que-conjurou-1-24514735)
+* [Polícia pede informações sobre traficante foragido que participou de festa de aniversário durante pandemia](https://oglobo.globo.com/rio/policia-pede-informacoes-sobre-traficante-foragido-que-participou-de-festa-de-aniversario-durante-pandemia-24514981)
+* [Ceasa de Irajá, que comercializou R$ 4,9 bi ano passado, pode ser desativada; entenda](https://oglobo.globo.com/rio/ceasa-de-iraja-que-comercializou-49-bi-ano-passado-pode-ser-desativada-entenda-24514643)
+* [Bancada evangélica a favor do veto de Bolsonaro que desobriga uso de máscaras em igrejas](https://epoca.globo.com/guilherme-amado/bancada-evangelica-favor-do-veto-de-bolsonaro-que-desobriga-uso-de-mascaras-em-igrejas-24514976)
 * [Juiz nega suspensão de nomeação de Weintraub no Banco Mundial](https://oglobo.globo.com/brasil/juiz-nega-suspensao-de-nomeacao-de-weintraub-no-banco-mundial-1-24514868)
-* [Morre o ator Leonardo Villar, protagonista do filme 'O pagador de promessas', aos 96 anos](https://oglobo.globo.com/cultura/morre-ator-leonardo-villar-protagonista-do-filme-pagador-de-promessas-aos-96-anos-24514674)
 * [Guedes diz que reforma tributária está 'absolutamente pronta' para ir ao Congresso](https://oglobo.globo.com/economia/guedes-diz-que-reforma-tributaria-esta-absolutamente-pronta-para-ir-ao-congresso-1-24514705)
-* [Rodrigo Maia e Paulo Guedes seguem se falar](https://epoca.globo.com/guilherme-amado/rodrigo-maia-paulo-guedes-seguem-se-falar-24514634)

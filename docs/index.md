@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 16:13:08 UTC
+# indexed at 03/07/2020 16:34:49 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
+* [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
 * [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
 * [Google-backed groups criticize Apple's new warnings on user tracking](https://uk.reuters.com/article/uk-google-apple/google-backed-groups-criticize-apples-new-warnings-on-user-tracking-idUKKBN2440VG)
-* [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
-* [There's never been an easier time to write your own language (2016)](https://joshsharp.com.au/blog/never-been-an-easier-time-to-write-a-language.html)
 * [Org-roam: Emacs org file based personal knowledge base system](https://www.orgroam.com/)
+* [There's never been an easier time to write your own language (2016)](https://joshsharp.com.au/blog/never-been-an-easier-time-to-write-a-language.html)
 * [Ten Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
-* [Extracting video and audio from used police body cam](https://twitter.com/d0tslash/status/1278414895487365121)
 * [Leonardo Da Vinci’s the Last Supper in a New Gigapixel Image](https://kottke.org/20/06/leonardo-the-last-supper-gigapixel-image)
+* [Scientists observe light acting like a river](https://www.sciencealert.com/physicists-have-observed-light-flowing-like-a-river-and-it-s-beautiful)
 * [Guietta – Python module to create simple GUIs](https://github.com/alfiopuglisi/guietta)
 * [Impressive backyard engineering on an obscure YouTube channel](https://www.thedrive.com/news/34554/some-of-the-most-impressive-backyard-engineering-weve-seen-goes-down-on-this-obscure-youtube-channel)
-* [Scientists observe light acting like a river](https://www.sciencealert.com/physicists-have-observed-light-flowing-like-a-river-and-it-s-beautiful)
-* [EU safety agency suspends Pakistani airlines' European authorisation](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
-* [The Idea of Entropy Has Led Us Astray](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray)
+* [Extracting video and audio from used police body cam](https://twitter.com/d0tslash/status/1278414895487365121)
 * [On Moving from Statistics to Machine Learning, the Final Stage of Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
 * [Show HN: The Book of Minecraft Modding](https://thebookofmodding.ml/)
-* [Finding the 'invisible' millions who are not on maps](https://www.bbc.com/news/business-52650856)
+* [Ward: Minimalistic Server Dashboard](https://github.com/B-Software/Ward)
 * [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/)
+* [Finding the 'invisible' millions who are not on maps](https://www.bbc.com/news/business-52650856)
+* [The Idea of Entropy Has Led Us Astray](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray)
 * [CanaryTrap Method Identifies 16 Facebook Apps Guilty of Data Misuse](https://sensorstechforum.com/canarytrap-method-facebook-apps-data-misuse/)
 * [Barclays Bank Using Internet Archive as CDN for JavaScript Files](https://twitter.com/immunda/status/1278783894683336704)
+* [EU safety agency suspends Pakistani airlines' European authorisation](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
 * [Is This a Turing Machine?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
-* [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
 * [Three artists on the future of the gallery system](https://www.thenation.com/article/culture/future-of-galleries/)
-* [Digital Psychology](https://digitalpsychology.io)
 * [Derailing illusions that kill: misperceptions at railway crossings (2003)](https://www.latimes.com/local/california/la-me-derailing-illusions-that-kill-20150224-story.html)
+* [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
+* [Digital Psychology](https://digitalpsychology.io)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
-* [In the future, lab mice will live in computer chips, not cages?](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
-* [In Defense of Hiring Based on Side Projects](https://diff.substack.com/?r=4uveo&utm_campaign=pub&utm_medium=web&utm_source=hackernews)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [In Defense of Hiring Based on Side Projects](https://diff.substack.com/?r=4uveo&utm_campaign=pub&utm_medium=web&utm_source=hackernews)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [Boris Johnson’s ‘Global Britain’: Inspired Vision or Wishful Thinking?](https://www.nytimes.com/2020/07/03/world/europe/johnson-brexit-hong-kong.html)
 * [Turmoil at Funeral of Hachalu Hundessa Shows Ethiopia’s ‘Combustible’ Politics](https://www.nytimes.com/2020/07/02/world/africa/ethiopia-singer-funeral-hachalu-killing.html)
 * [Bounties Uproar Casts a Shadow Over a Rare Trump Foreign Policy Achievement](https://www.nytimes.com/2020/07/02/us/politics/trump-afghanistan-russia-bounty.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [‘Liberty Bell’ Tolls for Sites Where History Is Alive and Kicking](https://www.nytimes.com/2020/07/02/arts/design/liberty-bell-nancy-baker-cahill.html)
 * [Black Wine Professionals Demand to Be Seen](https://www.nytimes.com/2020/06/29/dining/drinks/black-wine-professionals-sommeliers.html)
 * [‘The Baby-Sitters Club’ Defies and Exceeds Expectations](https://www.nytimes.com/2020/07/02/arts/television/review-the-baby-sitters-club-netflix.html)
@@ -91,8 +91,8 @@ layout: default
 * [8 Things to Do This Fourth of July Weekend](https://www.nytimes.com/2020/07/02/arts/things-to-do-weekend-fourth-of-july-coronavirus.html)
 * [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
-* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
+* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)
 * [Ghislaine Maxwell, Associate of Jeffrey Epstein, Is Arrested](https://www.nytimes.com/2020/07/02/nyregion/ghislaine-maxwell-arrest-jeffrey-epstein.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Burger King, McDonald’s e Mercado Pago são multadas em mais de R$ 25 milhões](https://oglobo.globo.com/economia/defesa-do-consumidor/burger-king-mcdonalds-mercado-pago-sao-multadas-em-mais-de-25-milhoes-24513811)
+* ['Novo normal': Saiba quais são os protocolos exigidos no Rio durante a flexibilização na pandemia da Covid-19](https://oglobo.globo.com/rio/novo-normal-saiba-quais-sao-os-protocolos-exigidos-no-rio-durante-flexibilizacao-na-pandemia-da-covid-19-24513725)
+* [Celular de Márcia aponta que Queiroz passou por três endereços de Wassef, diz jornal](https://oglobo.globo.com/brasil/celular-de-marcia-aponta-que-queiroz-passou-por-tres-enderecos-de-wassef-diz-jornal-24513954)
+* [PF faz novas buscas em residência de blogueiro bolsonarista preso na semana passada](https://oglobo.globo.com/brasil/pf-faz-novas-buscas-em-residencia-de-blogueiro-bolsonarista-preso-na-semana-passada-24513953)
+* [Burger King, McDonald’s e Mercado Pago são multadas. Punições das três empresas somam mais de R$ 25 milhões](https://oglobo.globo.com/economia/defesa-do-consumidor/burger-king-mcdonalds-mercado-pago-sao-multadas-punicoes-das-tres-empresas-somam-mais-de-25-milhoes-24513811)
+* [Protestos recentes do Black Lives Matter podem ser o maior da história dos EUA](https://oglobo.globo.com/mundo/protestos-recentes-do-black-lives-matter-podem-ser-maior-da-historia-dos-eua-24513754)
 * [Assassinato de cantor põe em xeque abertura política na Etiópia](https://oglobo.globo.com/mundo/assassinato-de-cantor-poe-em-xeque-abertura-politica-na-etiopia-24513820)
 * [Brasil tem 62.304 mortes por Covid-19, informa consórcio de veículos da imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-62304-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-no-boletim-das-13h-24513786)
-* [Primeiro-ministro indiano visita fronteira disputada e acirra tensão com a China](https://oglobo.globo.com/mundo/primeiro-ministro-indiano-visita-fronteira-disputada-acirra-tensao-com-china-24513880)
 * [Contra quem defende intervenção militar, Gilmar Mendes diz que Forças Armadas não são milícia do presidente](https://oglobo.globo.com/brasil/contra-quem-defende-intervencao-militar-gilmar-mendes-diz-que-forcas-armadas-nao-sao-milicia-do-presidente-24513891)
 * [Empresário próximo de Queiroz diz que caseiro era 'olheiro' de Wassef em Atibaia](https://oglobo.globo.com/brasil/empresario-proximo-de-queiroz-diz-que-caseiro-era-olheiro-de-wassef-em-atibaia-24513885)
 * [Unicef negocia compra antecipada de dexametasona para países de baixa renda](https://oglobo.globo.com/sociedade/unicef-negocia-compra-antecipada-de-dexametasona-para-paises-de-baixa-renda-24513836)
-* [PF indicia governador do DF por omissão de gastos na campanha de 2018](https://oglobo.globo.com/brasil/pf-indicia-governador-do-df-por-omissao-de-gastos-na-campanha-de-2018-24513866)
-* [Falso policial civil é preso em São Paulo por agentes do Rio](https://oglobo.globo.com/rio/falso-policial-civil-preso-em-sao-paulo-por-agentes-do-rio-1-24513846)
-* [Ações trabalhistas envolvendo correção monetária são liberadas por Gilmar Mendes](https://oglobo.globo.com/economia/acoes-trabalhistas-envolvendo-correcao-monetaria-sao-liberadas-por-gilmar-mendes-24513829)

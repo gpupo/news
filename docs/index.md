@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 07:12:10 UTC
+# indexed at 03/07/2020 07:34:20 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
-* [Rocketredis – A Beautiful Redis GUI](https://github.com/diego3g/rocketredis)
+* [Guietta – Python module to create simple GUIs](https://github.com/alfiopuglisi/guietta)
 * [EU safety agency suspends Pakistani airlines' European authorisation](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
-* [New Mexico's Singing Road](http://thesingingroad.com/)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
-* [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/)
+* [New Mexico's Singing Road](http://thesingingroad.com/)
+* [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
-* [Impraise (YC S14) is hiring a front-end engineer in Amsterdam (React, GraphQL)](https://jobs.impraise.com/o/frontend-developer-3)
 * [In the Future, Lab Mice Will Live in Computer Chips, Not Cages](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
 * [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
-* [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
 * [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
 * [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
+* [Impraise (YC S14) is hiring a front-end engineer in Amsterdam (React, GraphQL)](https://jobs.impraise.com/o/frontend-developer-3)
+* [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
+* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
 * [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
 * [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
 * [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
-* [The Gimmick of the Novel of Ideas](https://www.theparisreview.org/blog/2020/06/25/the-gimmick-of-the-novel-of-ideas/)
-* [The Unruly Genius of Joyce Carol Oates](https://www.newyorker.com/magazine/2020/07/06/the-unruly-genius-of-joyce-carol-oates)
 * [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
-* [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
+* [The Unruly Genius of Joyce Carol Oates](https://www.newyorker.com/magazine/2020/07/06/the-unruly-genius-of-joyce-carol-oates)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
+* [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
 * [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
+* [The Gimmick of the Novel of Ideas](https://www.theparisreview.org/blog/2020/06/25/the-gimmick-of-the-novel-of-ideas/)
 * [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
+* [Ask HN: After Slate Star Codex, where are the nuanced discussions?](https://news.ycombinator.com/item?id=23719376)
 * [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 * [There are more streaming choices than ever – why are prices going up?](https://www.theverge.com/21310442/tv-streaming-youtube-fubo-price-increases-carrier-fees-disputes-costs-cable-television)
-* [Ask HN: After Slate Star Codex, where are the nuanced discussions?](https://news.ycombinator.com/item?id=23719376)
 * [The general tone is purple](https://www.lrb.co.uk/the-paper/v42/n13/alison-light/the-general-tone-is-purple)
-* [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
 * [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
+* [OpenNMT: Open-Source Neural Machine Translation with Torch Mathematical Toolkit](https://github.com/OpenNMT/OpenNMT)
 ## nytimes.com
 
 
-* [Live Coronavirus News: Updates and Video](https://www.nytimes.com/2020/07/02/world/coronavirus-us.html)
+* [Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time](https://www.nytimes.com/2020/07/02/world/coronavirus-us.html)
 * [For This Fourth of July, Officials Say Celebrate Freedom by Staying Home](https://www.nytimes.com/2020/07/02/us/coronavirus-fourth-of-july.html)
 * [Pence Postponed Arizona Trip After Secret Service Agents Showed Signs of Virus](https://www.nytimes.com/2020/07/02/us/politics/pence-postponed-arizona-trip-virus.html)
 * [Australia Locks Down 300,000 in Melbourne Area After Coronavirus Surge](https://www.nytimes.com/2020/07/02/world/australia/melbourne-coronavirus-outbreak.html)
@@ -79,17 +79,17 @@ layout: default
 * [How Berkshire Hathaway May Have Been Snookered in Germany](https://www.nytimes.com/2020/07/01/business/berkshire-hathaway-fraud-germany.html)
 * [Hong Kong Law Opens Door to China’s Hulking Security State](https://www.nytimes.com/2020/07/02/world/asia/hong-kong-security-china.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Cultural Life Is Back in Europe. In the U.K., They Talk of Collapse.](https://www.nytimes.com/2020/07/01/theater/britain-arts-future-coronavirus.html)
 * [How Do You Define Rosé?](https://www.nytimes.com/2020/07/02/dining/drinks/wine-school-rose.html)
 * [TikTok Stars Tati and Devin Will Meet](https://www.nytimes.com/2020/07/02/style/tati-devin-tiktok.html)
 * [The Gallery Where Stevie Wonder Was a Regular](https://www.nytimes.com/2020/07/02/t-magazine/linda-goode-bryant-senga-nengudi.html)
 * [Coldcut + Tony Allen and African Artists = Studio Electricity](https://www.nytimes.com/2020/07/02/arts/music/keleketla-review.html)
 * [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
+* [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
-* [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Caixa já fez 15 medidas de estímulo ao setor imobiliário durante a pandemia. Veja quais são](https://oglobo.globo.com/economia/caixa-ja-fez-15-medidas-de-estimulo-ao-setor-imobiliario-durante-pandemia-veja-quais-sao-24512641)
 * [Quem é Lindôra Araújo, a aliada de Augusto Aras refratária à Lava Jato](https://epoca.globo.com/brasil/quem-lindora-araujo-aliada-de-augusto-aras-refrataria-lava-jato-24513325)
 * [O que vem depois da recuperação da Covid-19](https://epoca.globo.com/sociedade/o-que-vem-depois-da-recuperacao-da-covid-19-1-24513120)
-* [Quem é Márcia Aguiar, companheira de Fabrício Queiroz](https://epoca.globo.com/rio/quem-marcia-aguiar-companheira-de-fabricio-queiroz-24512945)
-* [As reivindicações dos entregadores de braços cruzados](https://epoca.globo.com/economia/as-reivindicacoes-dos-entregadores-de-bracos-cruzados-24512817)
-* [O dinheiro negro importa](https://epoca.globo.com/economia/o-dinheiro-negro-importa-24512500)
-* [Por que derrubar estátuas](https://epoca.globo.com/larry-rohter/por-que-derrubar-estatuas-1-24512269)
 * [A mistura perigosa entre ciência e ideologia](https://epoca.globo.com/helio-gurovitz/a-mistura-perigosa-entre-ciencia-ideologia-1-24512221)
 * [Aberrações](https://epoca.globo.com/monica-de-bolle/aberracoes-1-24512171)
-* [O Itamaraty humilhado](https://epoca.globo.com/guilherme-amado/o-itamaraty-humilhado-24512129)
 * [O pior aluno](https://epoca.globo.com/brasil/o-pior-aluno-24512091)
+* [Proteção facial vira o novo uniforme de garçons do Rio na volta dos bares e restaurantes](https://oglobo.globo.com/rio/protecao-facial-vira-novo-uniforme-de-garcons-do-rio-na-volta-dos-bares-restaurantes-24513235)
+* [Lives do dia: Show de Elton John e peça com Renato Borghi são destaques da sexta](https://oglobo.globo.com/rioshow/lives-do-dia-show-de-elton-john-peca-com-renato-borghi-sao-destaques-da-sexta-24513140)
+* [Tom Cruise completa 58 anos acumulando sucessos, indicações, mas... nenhum Oscar](https://oglobo.globo.com/rioshow/tom-cruise-completa-58-anos-acumulando-sucessos-indicacoes-mas-nenhum-oscar-24512485)
+* [Arthur, ex-Barcelona, e os fatores cada vez mais complexos que incidem sobre um jogador](https://oglobo.globo.com/esportes/arthur-ex-barcelona-os-fatores-cada-vez-mais-complexos-que-incidem-sobre-um-jogador-24512236)

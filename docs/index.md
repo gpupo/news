@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 18:13:04 UTC
+# indexed at 03/07/2020 18:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
+* [Facebook's AI model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
 * [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
 * [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
 * [Botswana: Lab tests to solve mystery of hundreds of dead elephants](https://www.bbc.com/news/world-africa-53273361)
-* [Facebook's AI model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
-* [There's never been an easier time to write your own language (2016)](https://joshsharp.com.au/blog/never-been-an-easier-time-to-write-a-language.html)
 * [Things You Should Never Do (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+* [Reddit and LinkedIn apps also caught copying and pasting clipboard contents](https://www.privateinternetaccess.com/blog/reddit-and-linkedin-apps-also-caught-copying-and-pasting-clipboard-contents/?aff=202007B)
 * [Leonardo da Vinci’s The Last Supper in a new gigapixel image](http://www.openculture.com/2020/06/an-immaculate-copy-of-leonardos-the-last-supper-digitized-by-google.html)
-* [Ten Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
+* [Ten Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [Guietta – Python module to create simple GUIs](https://github.com/alfiopuglisi/guietta)
 * [Impressive backyard engineering on an obscure YouTube channel](https://www.thedrive.com/news/34554/some-of-the-most-impressive-backyard-engineering-weve-seen-goes-down-on-this-obscure-youtube-channel)
-* [Henry Ford study found hydroxychloroquine helps lower Covid-19 death rate](https://www.fox2detroit.com/news/henry-ford-says-their-study-found-hydroxychloroquine-helps-lower-covid-19-death-rate)
+* [Show HN: PaperPup – Discover new articles from blogs and websites in one UI](https://paperpup.herokuapp.com)
 * [Ward: Minimalistic Server Dashboard](https://github.com/B-Software/Ward)
-* [Reddit and LinkedIn apps also caught copying and pasting clipboard contents](https://www.privateinternetaccess.com/blog/reddit-and-linkedin-apps-also-caught-copying-and-pasting-clipboard-contents/?aff=202007B)
-* [On Moving from Statistics to Machine Learning, the Final Stage of Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
+* [From Mercury to Artemis: The evolution of the spacesuit](https://www.nbcnews.com/mach/science/mercury-starliner-evolution-spacesuit-ncsl718296)
 * [Show HN: The Book of Minecraft Modding](https://thebookofmodding.ml/)
+* [Tell HN: Airbnb Now Opt-Ins Your Name/Photo to Data Sharing](https://news.ycombinator.com/item?id=23725734)
+* [Ask HN: Recommend a maths book for a teenager](https://news.ycombinator.com/item?id=23711942)
+* [Ask HN: Is it rational to be afraid of mailing my list due to unsubscribes risk?](https://news.ycombinator.com/item?id=23725888)
+* [On Moving from Statistics to Machine Learning, the Final Stage of Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
 * [Org-roam: Emacs org file based personal knowledge base system](https://www.orgroam.com/)
 * [Show HN: Dyna-Kinematics – A 2D physics simulator with some unique features](https://github.com/diegomacario/Dyna-Kinematics)
-* [The most logical explanation is that Covid-19 comes from a laboratory](https://www.minervanett.no/corona/the-most-logical-explanation-is-that-it-comes-from-a-laboratory/361860)
 * [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/)
 * [Finding the 'invisible' millions who are not on maps](https://www.bbc.com/news/business-52650856)
 * [Google-backed groups criticize Apple's new warnings on user tracking](https://uk.reuters.com/article/uk-google-apple/google-backed-groups-criticize-apples-new-warnings-on-user-tracking-idUKKBN2440VG)
-* [Three artists on the future of the gallery system](https://www.thenation.com/article/culture/future-of-galleries/)
 * [Extracting video and audio from used police body cam](https://twitter.com/d0tslash/status/1278414895487365121)
+* [Three artists on the future of the gallery system](https://www.thenation.com/article/culture/future-of-galleries/)
 * [Barclays Bank Using Internet Archive as CDN for JavaScript Files](https://twitter.com/immunda/status/1278783894683336704)
 * [CanaryTrap: Detecting data misuse by third-party apps on online social networks](https://arxiv.org/abs/2006.15794)
 * [EU safety agency suspends Pakistani airlines' European authorisation](https://www.reuters.com/article/us-pakistan-airlines-eu/eu-safety-agency-suspends-pakistani-airlines-european-authorisation-for-six-months-idUSKBN2412MT)
-* [Is This a Turing Machine?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
-* [The Idea of Entropy Has Led Us Astray](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray)
 ## nytimes.com
 
 
@@ -45,6 +45,7 @@ layout: default
 * [Colleges Are Reopening in Fall, But Many Professors Won’t Be Present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
 * [How the Coronavirus Is Transforming July 4 in Los Angeles](https://www.nytimes.com/2020/07/03/us/politics/july-4-events-los-angeles.html)
 * [Beaches Are Open in N.Y.C., but Virus Worries Linger](https://www.nytimes.com/2020/07/03/nyregion/beaches-open-nyc.html)
+* [Can You Catch the Virus Outdoors? Here's What We Know](https://www.nytimes.com/2020/05/15/us/coronavirus-what-to-do-outside.html)
 * [As Neo-Nazis Seed Military Ranks, Germany Confronts ‘an Enemy Within’](https://www.nytimes.com/2020/07/03/world/europe/germany-military-neo-nazis-ksk.html)
 * [Latinos Back Black Lives Matter Protests. They Want Change for Themselves, Too.](https://www.nytimes.com/2020/07/03/us/politics/latinos-police-racism-black-lives-matter.html)
 * [Washington and the N.F.L. Might Change the Redskins Name. Why Now?](https://www.nytimes.com/2020/07/03/sports/football/washington-redskins-nickname-nfl.html)
@@ -80,8 +81,8 @@ layout: default
 * [Goodbye to the Wild Wild Web](https://www.nytimes.com/2020/07/02/technology/goodbye-to-the-wild-wild-web.html)
 * [For Nannies, Both a Job and a Family Can Abruptly Disappear](https://www.nytimes.com/2020/06/29/parenting/nannies-job-virus.html)
 * [‘I Thought I Would Die’: Inside Myanmar’s Risky Pursuit of Jade](https://www.nytimes.com/2020/07/03/world/asia/myanmar-jade-mine.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [When a Farewell Season Was Wiped Out, the Outfield Became a Diner](https://www.nytimes.com/2020/07/03/sports/baseball/pawtucket-red-sox-worcester.html)
@@ -89,9 +90,9 @@ layout: default
 * [Netflix’s ‘Eurovision Song Contest’: Here’s What You May Have Missed](https://www.nytimes.com/2020/07/02/movies/eurovision-song-contest-story-of-fire-saga.html)
 * [We Got ‘Hamilton.’ Why Can’t We Stream Every Broadway Show?](https://www.nytimes.com/2020/07/03/theater/theater-streaming-questions.html)
 * [Comedy via Zoom: It’s the Golden Age of Mugging](https://www.nytimes.com/2020/07/01/arts/television/comedy-zoom.html)
-* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
-* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
+* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
+* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Após repercussão, bares se unem para evitar aglomerações: 'Precisamos mudar de denunciados para denunciantes'](https://oglobo.globo.com/rio/apos-repercussao-bares-se-unem-para-evitar-aglomeracoes-precisamos-mudar-de-denunciados-para-denunciantes-24514166)
+* [Ministro da Justiça diz que Polícia Federal tem independência e autonomia, mas não soberania](https://oglobo.globo.com/brasil/ministro-da-justica-diz-que-policia-federal-tem-independencia-autonomia-mas-nao-soberania-24514186)
+* [Catedral terá controle de público por sensor na retomada das missas pela Igreja Católica](https://oglobo.globo.com/rio/catedral-tera-controle-de-publico-por-sensor-na-retomada-das-missas-pela-igreja-catolica-24514087)
+* [Disparos de fake news criam 'bolhas de eleitores iludidos', diz Fux](https://oglobo.globo.com/brasil/disparos-de-fake-news-criam-bolhas-de-eleitores-iludidos-diz-fux-24514180)
 * [Nise Yamaguchi, defensora da cloroquina, é escanteada pelo governo](https://oglobo.globo.com/sociedade/nise-yamaguchi-defensora-da-cloroquina-escanteada-pelo-governo-24514102)
-* [Bruno Covas evita comparar denúncias de Aécio e Serra: 'Não há áudio pedindo dinheiro'](https://oglobo.globo.com/brasil/bruno-covas-evita-comparar-denuncias-de-aecio-serra-nao-ha-audio-pedindo-dinheiro-24514139)
-* [Após repercussão negativa, bares se unem para evitar aglomerações: 'Precisamos mudar de denunciados para denunciantes'](https://oglobo.globo.com/rio/apos-repercussao-negativa-bares-se-unem-para-evitar-aglomeracoes-precisamos-mudar-de-denunciados-para-denunciantes-24514166)
 * [Feira de São Cristóvão reabre neste sábado, com novos horários e sem forró](https://oglobo.globo.com/rio/feira-de-sao-cristovao-reabre-neste-sabado-com-novos-horarios-sem-forro-24514136)
-* [OMS prevê resultados de testes com remédios para a Covid-19 em até duas semanas](https://oglobo.globo.com/sociedade/oms-preve-resultados-de-testes-com-remedios-para-covid-19-em-ate-duas-semanas-24514089)
 * [OMS vê sinais de estabilização dos contágios de Covid-19 no país, mas pede cautela](https://oglobo.globo.com/sociedade/oms-ve-sinais-de-estabilizacao-dos-contagios-de-covid-19-no-pais-mas-pede-cautela-1-24514127)
-* [Catedral terá controle de público por sensor na retomada das missas na Igreja Católica](https://oglobo.globo.com/rio/catedral-tera-controle-de-publico-por-sensor-na-retomada-das-missas-na-igreja-catolica-24514087)
-* [Doria diz que Bolsonaro terá que usar máscara se visitar São Paulo](https://oglobo.globo.com/sociedade/coronavirus/doria-diz-que-bolsonaro-tera-que-usar-mascara-se-visitar-sao-paulo-24514069)
-* [É #FAKE que fotos mostrem obras concluídas em 18 meses de governo Bolsonaro](https://oglobo.globo.com/fato-ou-fake/e-fake-que-fotos-mostrem-obras-concluidas-em-18-meses-de-governo-bolsonaro-24514064)
+* [Bruno Covas evita comparar denúncias de Aécio e Serra: 'Não há áudio pedindo dinheiro'](https://oglobo.globo.com/brasil/bruno-covas-evita-comparar-denuncias-de-aecio-serra-nao-ha-audio-pedindo-dinheiro-24514139)
+* [OMS prevê resultados de testes com remédios para a Covid-19 em até duas semanas](https://oglobo.globo.com/sociedade/oms-preve-resultados-de-testes-com-remedios-para-covid-19-em-ate-duas-semanas-24514089)
 * [Aras pede mais tempo para se manifestar sobre medidas contra coronavírus em comunidades indígenas](https://epoca.globo.com/guilherme-amado/aras-pede-mais-tempo-para-se-manifestar-sobre-medidas-contra-coronavirus-em-comunidades-indigenas-24513840)

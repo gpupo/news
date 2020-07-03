@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/07/2020 04:12:56 UTC
+# indexed at 03/07/2020 04:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Invasive, secretive “bossware” tracking workers](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
 * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/June_2020_announcement)
-* [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
 * [The BEAM Book (2017)](https://blog.stenmans.org/theBeamBook/)
 * [Anti-algorithmic music: How Bandcamp is helping artists beat the odds](https://www.residentadvisor.net/features/3703)
+* [A 1950s proposal to nuke Alaska](https://www.atlasobscura.com/articles/actual-1950s-proposal-nuke-alaska)
 * [Crooked to the Millimetre](https://ethz.ch/en/news-and-events/eth-news/news/2020/07/crooked-to-the-millimetre.html)
 * [LFortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [LinkedIn is copying the contents of my clipboard on every keystroke](https://twitter.com/doncubed/status/1278757106468806656)
 * [Urban Gilgamesh: What the earliest epic tells us about living in an ancient city](https://www.laphamsquarterly.org/roundtable/urban-gilgamesh)
 * [AsciiDoc Language Submitted to Eclipse Foundation](https://projects.eclipse.org/proposals/asciidoc-language)
 * [Algolia introduces pay-as-you-go pricing for search](https://blog.algolia.com/introducing-algolias-most-customer-friendly-pricing)
-* [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
+* [The Unruly Genius of Joyce Carol Oates](https://www.newyorker.com/magazine/2020/07/06/the-unruly-genius-of-joyce-carol-oates)
 * [Boeing quietly pulls plug on the 747, closing era of jumbo jets](https://www.bloomberg.com/news/articles/2020-07-02/boeing-quietly-pulls-plug-on-the-747-closing-era-of-jumbo-jets)
 * [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing)
+* [Json-Base – Database built as JSON files](https://github.com/Devs-Garden/jsonbase)
+* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [The general tone is purple](https://www.lrb.co.uk/the-paper/v42/n13/alison-light/the-general-tone-is-purple)
 * [Who Needs an Architect? (2003) [pdf]](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
-* [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
 * [Oppose the Earn IT Act](https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/)
-* [In the Future, Lab Mice Will Live in Computer Chips, Not Cages](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
+* [The Sci-Hub Effect: Sci-Hub downloads lead to more article citations](https://arxiv.org/abs/2006.14979)
 * [A researcher on how to live a happy life](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
-* [The Unruly Genius of Joyce Carol Oates](https://www.newyorker.com/magazine/2020/07/06/the-unruly-genius-of-joyce-carol-oates)
-* [A Roundtable on Covid-19 and the Attention Economy](https://blog.lareviewofbooks.org/essays/roundtable-covid-19-attention-economy/)
 * [Mysterious Inheritance: A new biography of J.B.S. Haldane](https://theamericanscholar.org/mysterious-inheritance/#.XvvZcEBFzBi)
-* [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
-* [Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
+* [In the Future, Lab Mice Will Live in Computer Chips, Not Cages](https://undark.org/2020/07/02/future-lab-mice-computer-chips/)
 * [OpenNMT: Open-Source Neural Machine Translation with Torch Mathematical Toolkit](https://github.com/OpenNMT/OpenNMT)
+* [Indaba grand challenge: curing Leishmaniasis, a neglected disease](https://deeplearningindaba.com/grand-challenges/leishmaniasis/)
 * [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
-* [Who Is History’s Worst Political Adviser?](https://www.historytoday.com/archive/head-head/who-history’s-worst-political-adviser)
+* [Fixing critical vulnerabilities in Apache's remote desktop](https://blog.checkpoint.com/2020/07/02/hole-y-guacamole-fixing-critical-vulnerabilities-in-apaches-popular-remote-desktop-gateway/)
 * [In Search of King David’s Lost Empire](https://www.newyorker.com/magazine/2020/06/29/in-search-of-king-davids-lost-empire)
-* [The caretakers of Sealand, the most stubborn micronation](https://www.atlasobscura.com/articles/caretakers-of-sealand)
+* [Robin Williams, an acid trip, and moral panic: “Blame Canada” at the Oscars](https://www.theringer.com/tv/2020/6/24/21301245/south-park-2000-oscars-blame-canada-controversy)
+* [Who Is History’s Worst Political Adviser?](https://www.historytoday.com/archive/head-head/who-history’s-worst-political-adviser)
 ## nytimes.com
 
 
@@ -80,18 +80,18 @@ layout: default
 * [Mysterious Explosion and Fire Damage Iranian Nuclear Enrichment Facility](https://www.nytimes.com/2020/07/02/us/politics/iran-explosion-nuclear-centrifuges.html)
 * [How Berkshire Hathaway May Have Been Snookered in Germany](https://www.nytimes.com/2020/07/01/business/berkshire-hathaway-fraud-germany.html)
 * [Hong Kong Law Opens Door to China’s Hulking Security State](https://www.nytimes.com/2020/07/02/world/asia/hong-kong-security-china.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Is It Safe to Set Off Fireworks Around Kids? What Parents Should Know.](https://www.nytimes.com/2020/07/02/parenting/fireworks-safety-july-4th.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Cultural Life Is Back in Europe. In the U.K., They Talk of Collapse.](https://www.nytimes.com/2020/07/01/theater/britain-arts-future-coronavirus.html)
 * [How Do You Define Rosé?](https://www.nytimes.com/2020/07/02/dining/drinks/wine-school-rose.html)
 * [TikTok Stars Tati and Devin Will Meet](https://www.nytimes.com/2020/07/02/style/tati-devin-tiktok.html)
 * [The Gallery Where Stevie Wonder Was a Regular](https://www.nytimes.com/2020/07/02/t-magazine/linda-goode-bryant-senga-nengudi.html)
 * [Coldcut + Tony Allen and African Artists = Studio Electricity](https://www.nytimes.com/2020/07/02/arts/music/keleketla-review.html)
-* [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
-* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [A ‘Cure for Heart Disease’? A Single Shot Succeeds in Monkeys](https://www.nytimes.com/2020/06/27/health/heart-disease-gene-editing.html)
+* [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [Researchers Debate Infecting People With Coronavirus to Test Vaccines](https://www.nytimes.com/2020/07/01/health/coronavirus-vaccine-trials.html)
+* [Having Disturbing Thoughts as a New Parent? Here’s How to Cope](https://www.nytimes.com/2020/07/02/parenting/intrusive-thoughts-scary-images-child-dying.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

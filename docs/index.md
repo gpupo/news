@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 01:13:35 UTC
+# indexed at 04/07/2020 01:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
-* [Beware the Google Password Manager](https://fasterthanli.me/articles/beware-the-google-password-manager)
 * [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
 * [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
 * [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
 * [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
+* [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 * [Tellina: Translate natural language into bash commands (built with TensorFlow)](http://www.tellina.rocks)
-* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
-* [American businesses have the power to change China’s behavior](https://www.washingtonpost.com/opinions/2020/07/03/american-businesses-have-power-change-chinas-behavior-time-step-up/)
 * [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
-* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
+* [American businesses have the power to change China’s behavior](https://www.washingtonpost.com/opinions/2020/07/03/american-businesses-have-power-change-chinas-behavior-time-step-up/)
+* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
 * [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
-* [Triso particles have safety features that may power a new generation of reactors](https://www.wired.com/story/nuclear-power-balls-triso-fuel/)
 * [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
-* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
+* [Triso particles have safety features that may power a new generation of reactors](https://www.wired.com/story/nuclear-power-balls-triso-fuel/)
 * [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-* [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
+* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 * [Tench: When data is messy](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
-* [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
 * [Show HN: Ward – Minimalistic Server Dashboard](https://github.com/B-Software/Ward)
+* [Lessons learned from building a commercial open-source bot development platform](https://livablesoftware.com/lessons-learned-building-commercial-oss-bot-platform/)
+* [The science of mask-wearing hasn’t changed, so why have our expectations?](https://fivethirtyeight.com/features/the-science-of-mask-wearing-hasnt-changed-so-why-have-our-expectations/)
 * [Ten Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
-* [The science of mask-wearing hasn’t changed, so why have our expectations?](https://fivethirtyeight.com/features/the-science-of-mask-wearing-hasnt-changed-so-why-have-our-expectations/)
+* [YouTube Takes Down Chess Podcast for Being Harmful or Dangerous](https://www.youtube.com/watch?v=KSjrYWPxsG8)
 * [Moon's Mark Down](http://users.rcn.com/david-moon/MMD/HTML/index.html)
-* [The dying mall’s new lease on life: apartments](https://www.bloomberg.com/news/articles/2020-06-30/a-case-for-turning-empty-malls-into-housing)
+* [Colleges Rescinding Admissions Offers as Racist Social Media Posts Emerge](https://www.nytimes.com/2020/07/02/us/racism-social-media-college-admissions.html)
 * [Show HN: The Book of Minecraft Modding](https://thebookofmodding.ml/)
 ## nytimes.com
 
@@ -50,6 +50,7 @@ layout: default
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
 * [‘They Have Lost Control’: Why Minneapolis Burned](https://www.nytimes.com/2020/07/03/us/minneapolis-government-george-floyd.html)
 * [The Washington Redskins Might Get a Name Change. Why Now?](https://www.nytimes.com/2020/07/03/sports/football/washington-redskins-nickname-nfl.html)
+* [Have Americans Warmed to Calls to ‘Defund the Police’?](https://www.nytimes.com/2020/07/03/us/politics/polling-defund-the-police.html)
 * [New Administration Memo Seeks to Foster Doubts About Suspected Russian Bounties](https://www.nytimes.com/2020/07/03/us/politics/memo-russian-bounties.html)
 * [Russia Denies Paying Bounties, but Some Say the U.S. Had It Coming](https://www.nytimes.com/2020/07/03/world/europe/russia-bounties-putin-afghanistan.html)
 * [The Shaman of Instagram](https://www.nytimes.com/2020/07/03/style/self-care/durek-verrett-instagram-shaman.html)
@@ -79,18 +80,18 @@ layout: default
 * [Critics Fear Amtrak Is Using Pandemic to Cut Service That Won’t Return](https://www.nytimes.com/2020/07/03/us/coronavirus-amtrak-cuts.html)
 * [WNYC Employees Demanded Diversity. They Got Another White Boss.](https://www.nytimes.com/2020/07/03/nyregion/wync-audrey-cooper-staff-revolt.html)
 * [‘I Thought I Would Die’: Inside Myanmar’s Risky Pursuit of Jade](https://www.nytimes.com/2020/07/03/world/asia/myanmar-jade-mine.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [A Public Art Project Devoted to Dismantling Racism at Every Level](https://www.nytimes.com/2020/07/01/t-magazine/nick-cave-bob-faust-amends.html)
 * [Lifting the Cone of Silence From Black Composers](https://www.nytimes.com/2020/07/03/arts/music/black-composers-classical-music.html)
 * [‘The Truth’ Review: Being Catherine Deneuve](https://www.nytimes.com/2020/07/02/movies/the-truth-review.html)
 * [Saroj Khan, Choreographer Who Made Bollywood Sparkle, Dies at 71](https://www.nytimes.com/2020/07/03/world/asia/saroj-khan-dead.html)
 * [Queer Kids, Nerds and Sword Fights: It’s the Hot School Play](https://www.nytimes.com/2020/07/02/theater/she-kills-monsters-qui-nguyen.html)
-* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
+* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Transmissão das semifinais da Taça Rio fica indefinida](https://oglobo.globo.com/esportes/transmissao-das-semifinais-da-taca-rio-fica-indefinida-24515053)
 * [Telemedicina: tudo sobre consulta médica on-line](https://oglobo.globo.com/sociedade/saude/telemedicina-tudo-sobre-consulta-medica-on-line-24515105)
+* [Inquérito de Weintraub por racismo é remetido do STF à Justiça Federal do DF](https://oglobo.globo.com/brasil/inquerito-de-weintraub-por-racismo-remetido-do-stf-justica-federal-do-df-24515405)
+* [‘Preconceito contra o Leblon’, diz Eduardo Paes após repercussão negativa de aglomerações em bares](https://oglobo.globo.com/rio/preconceito-contra-leblon-diz-eduardo-paes-apos-repercussao-negativa-de-aglomeracoes-em-bares-1-24515286)
 * [Testes rápidos de anticorpos não têm garantia de precisão, afirma estudo](https://oglobo.globo.com/sociedade/coronavirus/testes-rapidos-de-anticorpos-nao-tem-garantia-de-precisao-afirma-estudo-24515150)
 * [Empresários se reúnem com Bolsonaro, Toffoli e Alcolumbre e pedem acesso a crédito](https://oglobo.globo.com/economia/empresarios-se-reunem-com-bolsonaro-toffoli-alcolumbre-pedem-acesso-credito-1-24515112)
 * [Guedes diz que imagem do Brasil no exterior seria melhor se houvesse 'leitura mais compreensiva'](https://oglobo.globo.com/economia/guedes-diz-que-imagem-do-brasil-no-exterior-seria-melhor-se-houvesse-leitura-mais-compreensiva-1-24515050)
-* [‘Preconceito contra o Leblon’, diz Eduardo Paes após repercussão negativa de aglomerações em bares](https://oglobo.globo.com/rio/preconceito-contra-leblon-diz-eduardo-paes-apos-repercussao-negativa-de-aglomeracoes-em-bares-24515286)
 * [Caixa deve supender prestações da casa própria por mais dois meses](https://oglobo.globo.com/economia/caixa-deve-supender-prestacoes-da-casa-propria-por-mais-dois-meses-24515152)
-* [Transmissão das semifinais da Taça Rio fica indefinida](https://oglobo.globo.com/esportes/transmissao-das-semifinais-da-taca-rio-fica-indefinida-24515053)
 * [Damares compartilhou fake news sobre médica defensora de cloroquina](https://epoca.globo.com/guilherme-amado/damares-compartilhou-fake-news-sobre-medica-defensora-de-cloroquina-24515224)
 * [Ex-guerrilheiros das Farc deixarão zona de reincorporação devido à violência na Colômbia](https://oglobo.globo.com/mundo/ex-guerrilheiros-das-farc-deixarao-zona-de-reincorporacao-devido-violencia-na-colombia-24514985)
-* [É #FAKE que vídeo mostre primeira-ministra da Austrália fingindo tomar vacina contra Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-primeira-ministra-da-australia-fingindo-tomar-vacina-contra-covid-19-24515032)

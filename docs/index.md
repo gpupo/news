@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 09:11:59 UTC
+# indexed at 04/07/2020 09:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Photo Requests from Solitary](http://photorequestsfromsolitary.org/)
-* [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
 * [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
+* [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
 * [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
-* [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
+* [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 * [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
-* [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
-* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
-* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
-* [Why do electron shells have set limits? (1999)](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
-* [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 * [Ask HN: Good Resources on Voice Encryption?](https://news.ycombinator.com/item?id=23712006)
-* [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
+* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
+* [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
+* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
+* [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 * [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
-* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
-* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+* [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
+* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
 * [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
 * [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
-* [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [Show HN: WebAssembly System Interface for Deno has been merged into Deno](https://deno.land/std/wasi/README.md)
+* [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+* [Canadian scuba divers find prehistoric industrial complex under water in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
 * [Crab Command and Control](https://www.hakaimagazine.com/news/crab-command-and-control/)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 ## nytimes.com
 
 
@@ -53,9 +53,9 @@ layout: default
 * [New Administration Memo Seeks to Foster Doubts About Suspected Russian Bounties](https://www.nytimes.com/2020/07/03/us/politics/memo-russian-bounties.html)
 * [Russia Denies Paying Bounties, but Some Say the U.S. Had It Coming](https://www.nytimes.com/2020/07/03/world/europe/russia-bounties-putin-afghanistan.html)
 * [Your Weekend Briefing: Halfway Through 2020](https://www.nytimes.com/2020/07/04/briefing/halfway-through-2020.html)
-* [What Went Wrong in Brazil](https://www.nytimes.com/2020/07/02/podcasts/the-daily/brazil-coronavirus.html)
 * [Whose Statue Must Fall?](https://www.nytimes.com/2020/07/02/opinion/the-argument-protest-statue-revolution.html)
 * [Bogus Ideas Have Superspreaders, Too](https://www.nytimes.com/2020/07/01/technology/social-media-superspreaders.html)
+* [A Short Guide to ‘The World’](https://www.nytimes.com/2020/06/26/books/review/podcast-richard-haass-world-brief-introduction.html)
 * [Goodbye to a Symbol That Told Black Americans to ‘Know Your Place’](https://www.nytimes.com/2020/07/03/opinion/confederate-flag-mississippi-trethewey.html)
 * [A Long Road to Hope](https://www.nytimes.com/2020/07/02/opinion/race-reconciliation-complicity.html)
 * [‘My Body Is a Confederate Monument’: Slavery, Rape and Reframing the Past](https://www.nytimes.com/2020/07/03/opinion/slavery-rape-confederate-monuments.html)
@@ -88,10 +88,10 @@ layout: default
 * [‘The Truth’ Review: Being Catherine Deneuve](https://www.nytimes.com/2020/07/02/movies/the-truth-review.html)
 * [Saroj Khan, Choreographer Who Made Bollywood Sparkle, Dies at 71](https://www.nytimes.com/2020/07/03/world/asia/saroj-khan-dead.html)
 * [Queer Kids, Nerds and Sword Fights: It’s the Hot School Play](https://www.nytimes.com/2020/07/02/theater/she-kills-monsters-qui-nguyen.html)
-* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
-* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
+* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
+* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [‘Jurassic Park’: Where the Wild Things Are](https://www.nytimes.com/2020/07/02/movies/jurassic-park.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

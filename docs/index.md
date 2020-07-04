@@ -2,46 +2,47 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 02:13:27 UTC
+# indexed at 04/07/2020 02:35:05 UTC
 
 
 ## news.ycombinator.com
 
 
-* [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Google AMP: What Website Am I On? NYTimes or Google?](https://theinternetbytes.com/2020/07/03/where-am-i/)
-* [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
-* [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
+* [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
-* [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
-* [Flexport is hiring engineers in Amsterdam – we’ll get you a visa in 3 weeks](https://flexport.com/careers)
-* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
 * [Why do electron shells have set limits?](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
+* [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
+* [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
+* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
+* [Flexport is hiring engineers in Amsterdam – we’ll get you a visa in 3 weeks](https://flexport.com/careers)
+* [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
-* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
-* [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
-* [American businesses have the power to change China’s behavior](https://www.washingtonpost.com/opinions/2020/07/03/american-businesses-have-power-change-chinas-behavior-time-step-up/)
 * [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
+* [The major genetic risk factor for severe Covid-19 is inherited from Neandertals](https://www.biorxiv.org/content/10.1101/2020.07.03.186296v1)
+* [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
+* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
+* [The Classic Sunbeam Radiant Control Toaster](http://automaticbeyondbelief.com/)
 * [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
 * [Tellina: Translate natural language into bash commands (built with TensorFlow)](http://www.tellina.rocks)
 * [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
-* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
-* [The Classic Sunbeam Radiant Control Toaster](http://automaticbeyondbelief.com/)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
+* [American businesses have the power to change China’s behavior](https://www.washingtonpost.com/opinions/2020/07/03/american-businesses-have-power-change-chinas-behavior-time-step-up/)
 * [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
-* [Triso particles have safety features that may power a new generation of reactors](https://www.wired.com/story/nuclear-power-balls-triso-fuel/)
-* [YouTube Takes Down Chess Podcast for Being Harmful or Dangerous](https://www.youtube.com/watch?v=KSjrYWPxsG8)
-* [Colleges Rescinding Admissions Offers as Racist Social Media Posts Emerge](https://www.nytimes.com/2020/07/02/us/racism-social-media-college-admissions.html)
-* [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
-* [The major genetic risk factor for severe Covid-19 is inherited from Neandertals](https://www.biorxiv.org/content/10.1101/2020.07.03.186296v1)
+* [Colleges Rescinding Admissions Offers as Racist Social Media Posts Emerge](https://www.nytimes.com/2020/07/02/us/racism-social-media-college-admissions.html)
+* [Triso particles have safety features that may power a new generation of reactors](https://www.wired.com/story/nuclear-power-balls-triso-fuel/)
+* [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [The science of mask-wearing hasn’t changed, so why have our expectations?](https://fivethirtyeight.com/features/the-science-of-mask-wearing-hasnt-changed-so-why-have-our-expectations/)
+* [Show HN: Ward – Minimalistic Server Dashboard](https://github.com/B-Software/Ward)
 * [Tench: When data is messy](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
 ## nytimes.com
 
 
 * [Coronavirus Live Updates: U.S. Hits 50,000 New Cases Again](https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html)
+* [Trump’s Mount Rushmore Trip Highlights Disconnect With Virus’s Surge](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [Virus Surges in Arizona, but the Rodeo Goes On](https://www.nytimes.com/2020/07/03/us/virus-arizona.html)
 * [As Neo-Nazis Seed Military Ranks, Germany Confronts ‘an Enemy Within’](https://www.nytimes.com/2020/07/03/world/europe/germany-military-neo-nazis-ksk.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
@@ -80,8 +81,8 @@ layout: default
 * [WNYC Employees Demanded Diversity. They Got Another White Boss.](https://www.nytimes.com/2020/07/03/nyregion/wync-audrey-cooper-staff-revolt.html)
 * [After Fighting Plastic in ‘Paradise Lost,’ Sisters Take On Climate Change](https://www.nytimes.com/2020/07/03/world/asia/bali-sisters-plastic-climate-change.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A Public Art Project Devoted to Dismantling Racism at Every Level](https://www.nytimes.com/2020/07/01/t-magazine/nick-cave-bob-faust-amends.html)
 * [Lifting the Cone of Silence From Black Composers](https://www.nytimes.com/2020/07/03/arts/music/black-composers-classical-music.html)

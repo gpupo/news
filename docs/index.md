@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 11:36:16 UTC
+# indexed at 04/07/2020 12:15:58 UTC
 
 
 ## news.ycombinator.com
@@ -10,40 +10,41 @@ layout: default
 
 * [Where Am I? NYTimes or Google?](https://theinternetbytes.com/2020/07/03/where-am-i/)
 * [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
+* [Scuba diver accidentally discovers prehistoric industrial complex in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
+* [PuTTY: Observable Discrepancy leading to a leak in the algorithm negotiation](https://nvd.nist.gov/vuln/detail/CVE-2020-14002)
+* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
+* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
 * [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
+* [Yamato becomes Japan's first city to 'ban' use of phones while walking](https://www.japantimes.co.jp/news/2020/06/25/national/yamato-japan-ban-phones-walking/)
 * [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Photo Requests from Solitary](http://photorequestsfromsolitary.org/)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
-* [PuTTY 0.68 = 0.73: Observable Discrepancy leading to a leak in the algo nego](https://nvd.nist.gov/vuln/detail/CVE-2020-14002)
-* [Yamato becomes Japan's first city to 'ban' use of phones while walking](https://www.japantimes.co.jp/news/2020/06/25/national/yamato-japan-ban-phones-walking/)
-* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
-* [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
-* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
+* [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
+* [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
 * [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
-* [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
+* [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
 * [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
-* [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
-* [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
+* [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [Ask HN: Good Resources on Voice Encryption?](https://news.ycombinator.com/item?id=23712006)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
+* [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
+* [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
 * [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
 * [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
-* [Firefox 80 to Support VA-API Acceleration on X11](https://www.phoronix.com/scan.php?page=news_item&px=Firefox-80-VA-API-X11)
 * [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 * [Tench: When data is messy](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
 * [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
-* [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
+* [Firefox 80 to Support VA-API Acceleration on X11](https://www.phoronix.com/scan.php?page=news_item&px=Firefox-80-VA-API-X11)
 * [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
-* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
-* [Canadian scuba divers find prehistoric industrial complex under water in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
-* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 ## nytimes.com
 
 
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [Kimberly Guilfoyle, Top Fund-Raising Official for Trump Campaign, Tests Positive for Coronavirus](https://www.nytimes.com/2020/07/03/us/politics/kimberly-guilfoyle-trump-campaign-coronavirus.html)
-* [Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down](https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html)
+* [New Administration Memo Seeks to Foster Doubts About Suspected Russian Bounties](https://www.nytimes.com/2020/07/03/us/politics/memo-russian-bounties.html)
+* [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html)
 * [European Workers Draw Paychecks. American Workers Scrounge for Food.](https://www.nytimes.com/2020/07/03/business/economy/europe-us-jobless-coronavirus.html)
 * [Beyond Broadway, the Show Does Go On](https://www.nytimes.com/2020/07/04/theater/theaters-persevere-in-pandemic.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
@@ -75,10 +76,10 @@ layout: default
 * [Senate Sends Trump a Bill to Punish Chinese Officials Over Hong Kong](https://www.nytimes.com/2020/07/02/us/politics/senate-china-hong-kong-sanctions.html)
 * [Cleveland Indians Say They Will ‘Determine Best Path Forward’ on Name](https://www.nytimes.com/2020/07/03/sports/baseball/cleveland-indians-name-change.html)
 * [Prosecutors File Charge in Case of Vanessa Guillen, Missing Fort Hood Soldier](https://www.nytimes.com/article/vanessa-guillen-fort-hood.html)
-* [Macron Replaces France’s Prime Minister in Bid to Reinvigorate His Government](https://www.nytimes.com/2020/07/03/world/europe/france-prime-minister-resign.html)
+* [Severe Flooding in Southern Japan Swamps Nursing Home](https://www.nytimes.com/2020/07/04/world/asia/japan-rains-flooding-landslides.html)
 * [Lester Grinspoon, Influential Marijuana Scholar, Dies at 92](https://www.nytimes.com/2020/07/02/science/lester-grinspoon-dead.html)
 * [As Neo-Nazis Seed Military Ranks, Germany Confronts ‘an Enemy Within’](https://www.nytimes.com/2020/07/03/world/europe/germany-military-neo-nazis-ksk.html)
-* [New Administration Memo Seeks to Foster Doubts About Suspected Russian Bounties](https://www.nytimes.com/2020/07/03/us/politics/memo-russian-bounties.html)
+* [In North Korea, Coronavirus Hurts Like No Sanctions Could](https://www.nytimes.com/2020/07/04/world/asia/north-korea-sanctions-coronavirus.html)
 * [Caribbean, Struggling in the Pandemic, Braces for Hurricane Season](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
 * [New Trump Appointee Puts Global Internet Freedom at Risk, Critics Say](https://www.nytimes.com/2020/07/04/us/politics/michael-pack-china-internet.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
@@ -92,14 +93,16 @@ layout: default
 * [Dear Parents: Your Child With Autism Is Perfect](https://www.nytimes.com/2020/07/02/parenting/autism-children.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
-* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
+* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Novo primeiro-ministro da França quer formar governo 'o mais rapidamente possível'](https://oglobo.globo.com/mundo/novo-primeiro-ministro-da-franca-quer-formar-governo-mais-rapidamente-possivel-24515750)
+* [Espanha volta a confinar 200 mil pessoas após aumento de casos de coronavírus](https://oglobo.globo.com/mundo/espanha-volta-confinar-200-mil-pessoas-apos-aumento-de-casos-de-coronavirus-24515744)
 * [Brasil tem 63.295 mortes por Covid-19, aponta consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-63295-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24515730)
 * [Ex-Destiny’s Child, Kelly Rowland revela que quase perdeu tudo: 'Rica falida'](https://oglobo.globo.com/ela/gente/ex-destinys-child-kelly-rowland-revela-que-quase-perdeu-tudo-rica-falida-24515728)
 * [Doces típicos de festa junina com amendoim. Veja receitas](https://oglobo.globo.com/rioshow/doces-tipicos-de-festa-junina-com-amendoim-veja-receitas-24513823)
@@ -108,5 +111,3 @@ layout: default
 * [Serra ainda sob investigação por corrupção](https://epoca.globo.com/guilherme-amado/serra-ainda-sob-investigacao-por-corrupcao-24514906)
 * [Carlos alerta Bolsonaro sobre insatisfação das redes com postura de diálogo](https://epoca.globo.com/guilherme-amado/carlos-alerta-bolsonaro-sobre-insatisfacao-das-redes-com-postura-de-dialogo-1-24515048)
 * [Menino de 11 anos faz desenho para camiseta solidária](https://oglobo.globo.com/rio/bairros/menino-de-11-anos-faz-desenho-para-camiseta-solidaria-1-24514579)
-* [Moradores fazem carreata contra a construção de residencial do Minha Casa Minha Vida no Recreio](https://oglobo.globo.com/rio/bairros/moradores-fazem-carreata-contra-construcao-de-residencial-do-minha-casa-minha-vida-no-recreio-1-24512403)
-* [Na quarentena, avaliação on-line tornou-se um desafio para alunos e professores](https://oglobo.globo.com/rio/bairros/na-quarentena-avaliacao-on-line-tornou-se-um-desafio-para-alunos-professores-24500869)

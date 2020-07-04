@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 10:34:21 UTC
+# indexed at 04/07/2020 11:11:36 UTC
 
 
 ## news.ycombinator.com
@@ -16,8 +16,9 @@ layout: default
 * [Photo Requests from Solitary](http://photorequestsfromsolitary.org/)
 * [Firefox 80 to Support VA-API Acceleration on X11](https://www.phoronix.com/scan.php?page=news_item&px=Firefox-80-VA-API-X11)
 * [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
-* [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
 * [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
+* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
+* [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
 * [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [Ask HN: Good Resources on Voice Encryption?](https://news.ycombinator.com/item?id=23712006)
@@ -26,16 +27,15 @@ layout: default
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
 * [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
 * [Tench: When data is messy](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
-* [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 * [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 * [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
+* [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 * [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
-* [Canadian scuba divers find prehistoric industrial complex under water in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
 * [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 * [Show HN: WebAssembly System Interface for Deno has been merged into Deno](https://deno.land/std/wasi/README.md)
-* [Lobsters launched 8 years ago today](https://lobste.rs/s/orrpdv/lobsters_launched_8_years_ago_today)
+* [Canadian scuba divers find prehistoric industrial complex under water in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
 * [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [Openstreetmap, a global map for worldwide insight](https://blog.mapbox.com/openstreetmap-a-global-map-for-worldwide-insight-4e041cbf1ec1)
 ## nytimes.com
@@ -81,32 +81,32 @@ layout: default
 * [New Administration Memo Seeks to Foster Doubts About Suspected Russian Bounties](https://www.nytimes.com/2020/07/03/us/politics/memo-russian-bounties.html)
 * [Caribbean, Struggling in the Pandemic, Braces for Hurricane Season](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
 * [New Trump Appointee Puts Global Internet Freedom at Risk, Critics Say](https://www.nytimes.com/2020/07/04/us/politics/michael-pack-china-internet.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [‘I Am Here to Prove You Wrong’](https://www.nytimes.com/2020/07/04/style/muslim-beauty-pageant-miss-muslimah-usa.html)
 * [Rudolfo Anaya, a Father of Chicano Literature, Dies at 82](https://www.nytimes.com/2020/07/03/books/rudolfo-anaya-dead.html)
 * [Smithsonian’s Leader Says ‘Museums Have a Social Justice Role to Play’](https://www.nytimes.com/2020/07/02/business/smithsonian-lonnie-bunch-corner-office.html)
 * [Let’s Race Two: Behind the Indy-NASCAR Doubleheader](https://www.nytimes.com/2020/07/01/sports/autoracing/indy-nascar-doubleheader.html)
 * [Dear Parents: Your Child With Autism Is Perfect](https://www.nytimes.com/2020/07/02/parenting/autism-children.html)
-* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
-* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
-* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
-* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
+* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
+* [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
+* [The Roman Republic Was Teetering. Then a Volcano Erupted 6,000 Miles Away.](https://www.nytimes.com/2020/06/22/science/rome-caesar-volcano.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Brasil tem 63.295 mortes por Covid-19, aponta consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-63295-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24515730)
 * [Ex-Destiny’s Child, Kelly Rowland revela que quase perdeu tudo: 'Rica falida'](https://oglobo.globo.com/ela/gente/ex-destinys-child-kelly-rowland-revela-que-quase-perdeu-tudo-rica-falida-24515728)
 * [Doces típicos de festa junina com amendoim. Veja receitas](https://oglobo.globo.com/rioshow/doces-tipicos-de-festa-junina-com-amendoim-veja-receitas-24513823)
 * [Testes rápidos de anticorpos não têm garantia de precisão, afirmam estudos](https://oglobo.globo.com/sociedade/coronavirus/testes-rapidos-de-anticorpos-nao-tem-garantia-de-precisao-afirmam-estudos-24515150)
 * ['Aqui está cercado, mas do lado de fora tem ambulante', diz dono de bar no Leblon](https://epoca.globo.com/brasil/aqui-esta-cercado-mas-do-lado-de-fora-tem-ambulante-diz-dono-de-bar-no-leblon-24514227)
-* [Dono de cachorro encontrado por Michelle não conseguiu auxílio emergencial](https://epoca.globo.com/guilherme-amado/dono-de-cachorro-encontrado-por-michelle-nao-conseguiu-auxilio-emergencial-1-24514855)
-* [Sindicato de bares e restaurantes critica falta de fiscalização a informais no Rio](https://epoca.globo.com/rio/sindicato-de-bares-restaurantes-critica-falta-de-fiscalizacao-informais-no-rio-24514641)
 * [Serra ainda sob investigação por corrupção](https://epoca.globo.com/guilherme-amado/serra-ainda-sob-investigacao-por-corrupcao-24514906)
 * [Carlos alerta Bolsonaro sobre insatisfação das redes com postura de diálogo](https://epoca.globo.com/guilherme-amado/carlos-alerta-bolsonaro-sobre-insatisfacao-das-redes-com-postura-de-dialogo-1-24515048)
+* [Menino de 11 anos faz desenho para camiseta solidária](https://oglobo.globo.com/rio/bairros/menino-de-11-anos-faz-desenho-para-camiseta-solidaria-1-24514579)
 * [Moradores fazem carreata contra a construção de residencial do Minha Casa Minha Vida no Recreio](https://oglobo.globo.com/rio/bairros/moradores-fazem-carreata-contra-construcao-de-residencial-do-minha-casa-minha-vida-no-recreio-1-24512403)
 * [Na quarentena, avaliação on-line tornou-se um desafio para alunos e professores](https://oglobo.globo.com/rio/bairros/na-quarentena-avaliacao-on-line-tornou-se-um-desafio-para-alunos-professores-24500869)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 18:13:23 UTC
+# indexed at 04/07/2020 18:34:28 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Show HN: USA.css – The American CSS stylesheet. Units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
 * [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
+* [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
 * [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
-* [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
 * [Scuba diver accidentally discovers prehistoric industrial complex in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
 * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
-* [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
 * [Bit-Box: custom keypad build](https://www.bit-101.com/blog/2020/07/bit-box/)
 * [Quick Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
+* [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
 * [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
-* [PuTTY: Observable Discrepancy leading to a leak in the algorithm negotiation](https://nvd.nist.gov/vuln/detail/CVE-2020-14002)
-* [Apple iPhone SE 2020 Camera review](https://www.dxomark.com/apple-iphone-se-2020-camera-review/)
+* [Targeted MitM attacks using information leakage in SSH clients [pdf]](https://www.fzi.de/fileadmin/user_upload/2020-06-26-FSA-2020-2.pdf)
 * [GitHub Audio](https://github.audio/)
 * [The danger of surrogate metrics (2007)](https://blogs.msdn.microsoft.com/ericgu/2007/05/10/the-danger-of-surrogate-metrics/)
 * [Relativity behind mercury's liquidity (2013)](https://www.chemistryworld.com/news/relativity-behind-mercurys-liquidity/6297.article)
 * [Yamato becomes Japan's first city to 'ban' use of phones while walking](https://www.japantimes.co.jp/news/2020/06/25/national/yamato-japan-ban-phones-walking/)
 * [Neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
+* [Apple iPhone SE 2020 Camera review](https://www.dxomark.com/apple-iphone-se-2020-camera-review/)
 * [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [Close and tranquil solar system has astronomers excited](https://astrobiology.nasa.gov/news/close-and-tranquil-solar-system-has-astronomers-excited/)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
 * [Show HN: Screenshot.rocks – Create beautiful browser mockups from screenshots](https://github.com/daveearley/screenshot.rocks)
-* [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 * [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
-* [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
-* [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Photo Requests from Solitary](http://photorequestsfromsolitary.org/)
+* [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
+* [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Where Am I? NYTimes or Google?](https://theinternetbytes.com/2020/07/03/where-am-i/)
-* [Tench: When data is messy](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
+* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
 ## nytimes.com
 
 
@@ -79,18 +79,18 @@ layout: default
 * [Mary Trump Fights Effort to Bar Publication of Her Book](https://www.nytimes.com/2020/07/03/us/politics/mary-trump-book-publication.html)
 * [Caribbean, Struggling in the Pandemic, Braces for Hurricane Season](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
 * [Secret Contracts Held a Surprise for Fiorentina’s New Owners](https://www.nytimes.com/2020/07/03/sports/soccer/fiorentina-transfers-rocco-commisso.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [‘I Am Here to Prove You Wrong’](https://www.nytimes.com/2020/07/04/style/muslim-beauty-pageant-miss-muslimah-usa.html)
 * [Rudolfo Anaya, a Father of Chicano Literature, Dies at 82](https://www.nytimes.com/2020/07/03/books/rudolfo-anaya-dead.html)
 * [Smithsonian’s Leader Says ‘Museums Have a Social Justice Role to Play’](https://www.nytimes.com/2020/07/02/business/smithsonian-lonnie-bunch-corner-office.html)
 * [Let’s Race Two: Behind the Indy-NASCAR Doubleheader](https://www.nytimes.com/2020/07/01/sports/autoracing/indy-nascar-doubleheader.html)
 * [Dear Parents: Your Child With Autism Is Perfect](https://www.nytimes.com/2020/07/02/parenting/autism-children.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -98,7 +98,7 @@ layout: default
 ## globo.com
 
 
-* [Auxílio emergencial: 1,1 milhão de trabalhadores estão com cadastros inconclusivos na Dataprev](https://oglobo.globo.com/economia/auxilio-emergencial-11-milhao-de-trabalhadores-estao-com-cadastros-inconclusivos-na-dataprev-1-24515908)
+* [Após sobrevoar áreas afetadas por ciclone em SC, Bolsonaro comemora independência dos EUA, em almoço](https://oglobo.globo.com/brasil/apos-sobrevoar-areas-afetadas-por-ciclone-em-sc-bolsonaro-comemora-independencia-dos-eua-em-almoco-24515986)
 * [Cadeg reabre com movimento intenso: 'não aguentava mais ficar em casa', diz estudante](https://oglobo.globo.com/rio/cadeg-reabre-com-movimento-intenso-nao-aguentava-mais-ficar-em-casa-diz-estudante-24515971)
 * [Em viagem a SC, Bolsonaro volta a defender uso da hidroxicloroquina contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/em-viagem-sc-bolsonaro-volta-defender-uso-da-hidroxicloroquina-contra-covid-19-1-24515953)
 * [Pubs, restaurantes e salões de beleza voltam a abrir no 'supersábado' no Reino Unido](https://oglobo.globo.com/mundo/pubs-restaurantes-saloes-de-beleza-voltam-abrir-no-supersabado-no-reino-unido-24515923)

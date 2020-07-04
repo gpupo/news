@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 19:11:35 UTC
+# indexed at 04/07/2020 19:34:30 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
+* [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [Iran dumps Flight 752 investigator, airspace open to conceal 'imminent' attack](https://www.cbc.ca/news/politics/audio-recording-iran-lead-investigator-flight-ps752-1.5636450)
 * [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
-* [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
-* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
 * [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
+* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
+* [Meditations on Moloch (2014)](https://web.archive.org/web/20200516181754/https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/)
 * [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
-* [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
 * [Scuba diver accidentally discovers prehistoric industrial complex in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
-* [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
-* [GitHub Audio (2016)](https://github.audio/)
-* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
+* [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
 * [Bit-Box: custom keypad build](https://www.bit-101.com/blog/2020/07/bit-box/)
+* [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
+* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
+* [GitHub Audio (2016)](https://github.audio/)
 * [Gitqlite: Query Git Repositories with SQL](https://github.com/augmentable-dev/gitqlite)
 * [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
 * [Web Design Museum (1991 – 2006)](https://www.webdesignmuseum.org/)
-* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
+* [The Boogaloo: when does a meme become a terrorist movement?](https://www.theatlantic.com/technology/archive/2020/07/american-boogaloo-meme-or-terrorist-movement/613843/)
 * [Targeted MitM attacks using information leakage in SSH clients [pdf]](https://www.fzi.de/fileadmin/user_upload/2020-06-26-FSA-2020-2.pdf)
+* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
 * [Neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
-* [Open Markov Processes](https://johncarlosbaez.wordpress.com/2020/07/04/open-markov-processes/)
 * [The danger of surrogate metrics (2007)](https://blogs.msdn.microsoft.com/ericgu/2007/05/10/the-danger-of-surrogate-metrics/)
 * [Relativity behind mercury's liquidity (2013)](https://www.chemistryworld.com/news/relativity-behind-mercurys-liquidity/6297.article)
+* [Open Markov Processes](https://johncarlosbaez.wordpress.com/2020/07/04/open-markov-processes/)
 * [Yamato becomes Japan's first city to 'ban' use of phones while walking](https://www.japantimes.co.jp/news/2020/06/25/national/yamato-japan-ban-phones-walking/)
-* [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
 * [Show HN: Screenshot.rocks – Create browser mockups from screenshots](https://github.com/daveearley/screenshot.rocks)
 * [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
 * [Close and tranquil solar system has astronomers excited](https://astrobiology.nasa.gov/news/close-and-tranquil-solar-system-has-astronomers-excited/)
-* [Apple iPhone SE 2020 Camera review](https://www.dxomark.com/apple-iphone-se-2020-camera-review/)
 ## nytimes.com
 
 
@@ -79,9 +79,9 @@ layout: default
 * [Mary Trump Fights Effort to Bar Publication of Her Book](https://www.nytimes.com/2020/07/03/us/politics/mary-trump-book-publication.html)
 * [Caribbean, Struggling in the Pandemic, Braces for Hurricane Season](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
 * [Secret Contracts Held a Surprise for Fiorentina’s New Owners](https://www.nytimes.com/2020/07/03/sports/soccer/fiorentina-transfers-rocco-commisso.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [‘I Am Here to Prove You Wrong’](https://www.nytimes.com/2020/07/04/style/muslim-beauty-pageant-miss-muslimah-usa.html)
 * [Rudolfo Anaya, a Father of Chicano Literature, Dies at 82](https://www.nytimes.com/2020/07/03/books/rudolfo-anaya-dead.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Controladoria Geral do Estado suspeita de irregularidades em quase todos os contratos de combate à pandemia](https://oglobo.globo.com/rio/controladoria-geral-do-estado-suspeita-de-irregularidades-em-quase-todos-os-contratos-de-combate-pandemia-1-24515912)
+* [COLUNA - Livros da Quarentena: Cancelar o apagamento](https://epoca.globo.com/colunalivros-da-quarentena-cancelar-apagamento-24516092)
 * [Na Barra, público em bar canta que 'não vai embora' mesmo com fiscalização](https://oglobo.globo.com/rio/na-barra-publico-em-bar-canta-que-nao-vai-embora-mesmo-com-fiscalizacao-1-24516012)
+* [Na pandemia, consumo de luz e água cai, mas contas são cobradas por média e assustam comerciantes e moradores](https://oglobo.globo.com/economia/defesa-do-consumidor/na-pandemia-consumo-de-luz-agua-cai-mas-contas-sao-cobradas-por-media-assustam-comerciantes-moradores-24515982)
+* [Controladoria Geral do Estado suspeita de irregularidades em quase todos os contratos de combate à pandemia](https://oglobo.globo.com/rio/controladoria-geral-do-estado-suspeita-de-irregularidades-em-quase-todos-os-contratos-de-combate-pandemia-1-24515912)
 * [Após sobrevoar áreas afetadas por ciclone em SC, Bolsonaro comemora independência dos EUA, em almoço](https://oglobo.globo.com/brasil/apos-sobrevoar-areas-afetadas-por-ciclone-em-sc-bolsonaro-comemora-independencia-dos-eua-em-almoco-1-24515986)
-* [Contas de água e luz não refletem consumo durante a pandemia](https://oglobo.globo.com/economia/defesa-do-consumidor/contas-de-agua-luz-nao-refletem-consumo-durante-pandemia-24515982)
 * [Cadeg reabre com movimento intenso: 'não aguentava mais ficar em casa', diz estudante](https://oglobo.globo.com/rio/cadeg-reabre-com-movimento-intenso-nao-aguentava-mais-ficar-em-casa-diz-estudante-24515971)
 * [Em viagem a SC, Bolsonaro volta a defender uso da hidroxicloroquina contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/em-viagem-sc-bolsonaro-volta-defender-uso-da-hidroxicloroquina-contra-covid-19-1-24515953)
 * [Pubs, restaurantes e salões de beleza voltam a abrir no 'supersábado' no Reino Unido](https://oglobo.globo.com/mundo/pubs-restaurantes-saloes-de-beleza-voltam-abrir-no-supersabado-no-reino-unido-24515923)
 * [Três milicianos que atuam em condomínio de Belford Roxo são presos na Baixada](https://oglobo.globo.com/rio/tres-milicianos-que-atuam-em-condominio-de-belford-roxo-sao-presos-na-baixada-24515954)
 * [Infográfico mostra os riscos de contágio por Covid-19 em um bar lotado](https://oglobo.globo.com/sociedade/infografico-mostra-os-riscos-de-contagio-por-covid-19-em-um-bar-lotado-24515929)
-* [China rebate críticas contra lei de segurança em Hong Kong e diz que Canadá interferiu 'grosseiramente'](https://oglobo.globo.com/mundo/china-rebate-criticas-contra-lei-de-seguranca-em-hong-konge-diz-que-canada-interferiu-grosseiramente-24515922)

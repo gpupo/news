@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 13:11:57 UTC
+# indexed at 04/07/2020 13:34:30 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Where Am I? NYTimes or Google?](https://theinternetbytes.com/2020/07/03/where-am-i/)
 * [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/books/misc/page/not-just-a-theme)
+* [Where Am I? NYTimes or Google?](https://theinternetbytes.com/2020/07/03/where-am-i/)
+* [Hydrogen power might now be about to bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
 * [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
 * [Scuba diver accidentally discovers prehistoric industrial complex in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
 * [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
-* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
 * [Welcome to MaXX Interactive Desktop](https://maxxinteractive.com/books/misc/page/welcome-to-maxx-interactive-desktop)
-* [PuTTY: Observable Discrepancy leading to a leak in the algorithm negotiation](https://nvd.nist.gov/vuln/detail/CVE-2020-14002)
+* [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
 * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
-* [Yamato becomes Japan's first city to 'ban' use of phones while walking](https://www.japantimes.co.jp/news/2020/06/25/national/yamato-japan-ban-phones-walking/)
+* [PuTTY: Observable Discrepancy leading to a leak in the algorithm negotiation](https://nvd.nist.gov/vuln/detail/CVE-2020-14002)
 * [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
+* [Yamato becomes Japan's first city to 'ban' use of phones while walking](https://www.japantimes.co.jp/news/2020/06/25/national/yamato-japan-ban-phones-walking/)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Photo Requests from Solitary](http://photorequestsfromsolitary.org/)
 * [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
+* [Uber Is Struggling – It Wants to Cut Costs by Shifting Engineering to India](https://www.businessinsider.in/business/news/uber-is-struggling-due-to-covid19-now-it-wants-to-cut-costs-by-shifting-its-engineering-to-india/articleshow/76768028.cms)
 * [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
 * [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
-* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
-* [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
+* [Ask HN: Good Resources on Voice Encryption?](https://news.ycombinator.com/item?id=23712006)
 * [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
-* [Ask HN: Good Resources on Voice Encryption?](https://news.ycombinator.com/item?id=23712006)
-* [Relativity behind mercury's liquidity (2013)](https://www.chemistryworld.com/news/relativity-behind-mercurys-liquidity/6297.article)
-* [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
+* [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
-* [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
+* [Relativity behind mercury's liquidity (2013)](https://www.chemistryworld.com/news/relativity-behind-mercurys-liquidity/6297.article)
 * [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 * [Tench: When data is messy](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
-* [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 * [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
+* [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 ## nytimes.com
 
 
@@ -83,17 +83,17 @@ layout: default
 * [Caribbean, Struggling in the Pandemic, Braces for Hurricane Season](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
 * [New Trump Appointee Puts Global Internet Freedom at Risk, Critics Say](https://www.nytimes.com/2020/07/04/us/politics/michael-pack-china-internet.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [‘I Am Here to Prove You Wrong’](https://www.nytimes.com/2020/07/04/style/muslim-beauty-pageant-miss-muslimah-usa.html)
 * [Rudolfo Anaya, a Father of Chicano Literature, Dies at 82](https://www.nytimes.com/2020/07/03/books/rudolfo-anaya-dead.html)
 * [Smithsonian’s Leader Says ‘Museums Have a Social Justice Role to Play’](https://www.nytimes.com/2020/07/02/business/smithsonian-lonnie-bunch-corner-office.html)
 * [Let’s Race Two: Behind the Indy-NASCAR Doubleheader](https://www.nytimes.com/2020/07/01/sports/autoracing/indy-nascar-doubleheader.html)
 * [Dear Parents: Your Child With Autism Is Perfect](https://www.nytimes.com/2020/07/02/parenting/autism-children.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Em dicurso raivoso, Trump critica "novo fascismo da extrema esquerda" que quer apagar a história](https://oglobo.globo.com/mundo/em-dicurso-raivoso-trump-critica-novo-fascismo-da-extrema-esquerda-que-quer-apagar-historia-24515764)
+* [Bolsonaro viaja a Santa Catarina e sobrevoa áreas atingidas por 'ciclone bomba'](https://oglobo.globo.com/brasil/bolsonaro-viaja-santa-catarina-sobrevoa-areas-atingidas-por-ciclone-bomba-24515769)
+* [Em discurso raivoso, Trump critica 'novo fascismo da extrema esquerda' que, segundo ele, quer apagar a história](https://oglobo.globo.com/mundo/em-discurso-raivoso-trump-critica-novo-fascismo-da-extrema-esquerda-que-segundo-ele-quer-apagar-historia-24515764)
+* [Príncipe William toma sidra em pub para celebrar reabertura de bares na Inglaterra](https://oglobo.globo.com/ela/gente/principe-william-toma-sidra-em-pub-para-celebrar-reabertura-de-bares-na-inglaterra-24515765)
 * [Novo primeiro-ministro da França quer formar governo 'o mais rapidamente possível'](https://oglobo.globo.com/mundo/novo-primeiro-ministro-da-franca-quer-formar-governo-mais-rapidamente-possivel-24515750)
 * [Espanha volta a confinar 200 mil pessoas após aumento de casos de coronavírus](https://oglobo.globo.com/mundo/espanha-volta-confinar-200-mil-pessoas-apos-aumento-de-casos-de-coronavirus-24515744)
 * [Brasil tem 63.295 mortes por Covid-19, aponta consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-63295-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-24515730)
 * [Ex-Destiny’s Child, Kelly Rowland revela que quase perdeu tudo: 'Rica falida'](https://oglobo.globo.com/ela/gente/ex-destinys-child-kelly-rowland-revela-que-quase-perdeu-tudo-rica-falida-24515728)
-* [Doces típicos de festa junina com amendoim. Veja receitas](https://oglobo.globo.com/rioshow/doces-tipicos-de-festa-junina-com-amendoim-veja-receitas-24513823)
-* [Testes rápidos de anticorpos não têm garantia de precisão, afirmam estudos](https://oglobo.globo.com/sociedade/coronavirus/testes-rapidos-de-anticorpos-nao-tem-garantia-de-precisao-afirmam-estudos-24515150)
 * [Serra ainda sob investigação por corrupção](https://epoca.globo.com/guilherme-amado/serra-ainda-sob-investigacao-por-corrupcao-24514906)
 * [Carlos alerta Bolsonaro sobre insatisfação das redes com postura de diálogo](https://epoca.globo.com/guilherme-amado/carlos-alerta-bolsonaro-sobre-insatisfacao-das-redes-com-postura-de-dialogo-1-24515048)
 * [Menino de 11 anos faz desenho para camiseta solidária](https://oglobo.globo.com/rio/bairros/menino-de-11-anos-faz-desenho-para-camiseta-solidaria-1-24514579)

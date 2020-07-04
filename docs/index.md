@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 23:11:54 UTC
+# indexed at 04/07/2020 23:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
 * [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
-* [Survival of Scottish Gaelic in doubt](https://www.rte.ie/news/2020/0702/1150912-survival-of-scottish-gaelic-in-serious-doubt/)
 * [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
 * [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
 * [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
 * [Gitqlite: Query Git Repositories with SQL](https://github.com/augmentable-dev/gitqlite)
+* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
+* [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 * [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
+* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
 * [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/)
-* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
-* [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
-* [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
+* [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
 * [How I grew my Shopify micro-SaaS](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
 * [Bit-Box: custom keypad build](https://www.bit-101.com/blog/2020/07/bit-box/)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
 * [Neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
-* [A British village that built one of the UK’s fastest internet networks](https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/)
 * [GitHub Audio (2016)](https://github.audio/)
+* [A British village that built one of the UK’s fastest internet networks](https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/)
 * [Targeted MitM attacks using information leakage in SSH clients [pdf]](https://www.fzi.de/fileadmin/user_upload/2020-06-26-FSA-2020-2.pdf)
 * [Meditations on Moloch (2014)](https://web.archive.org/web/20200516181754/https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+* [New Relic CEO scolds employees in internal memo](https://www.oregonlive.com/silicon-forest/2020/07/new-relic-ceo-scolds-employees-in-internal-memo-we-are-a-company-with-an-urgent-need-to-get-back-on-track.html)
 * [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
 * [Low latency multipliers and cryptographic puzzles](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
 * [Scuba diver accidentally discovers prehistoric industrial complex in Mexico](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
-* [New Relic CEO scolds employees in internal memo](https://www.oregonlive.com/silicon-forest/2020/07/new-relic-ceo-scolds-employees-in-internal-memo-we-are-a-company-with-an-urgent-need-to-get-back-on-track.html)
 ## nytimes.com
 
 
@@ -73,23 +73,22 @@ layout: default
 * [Masahiro Tanaka Hospitalized After Being Hit by Line Drive](https://www.nytimes.com/2020/07/04/sports/baseball/masahiro-tanaka-yankees-injury-stanton.html)
 * [Severe Flooding in Southern Japan Swamps Nursing Home](https://www.nytimes.com/2020/07/04/world/asia/japan-rains-flooding-landslides.html)
 * [Florida State University Child Care Policy Draws Backlash](https://www.nytimes.com/2020/07/02/us/fsu-telecommute-remote.html)
-* [As Neo-Nazis Seed Military Ranks, Germany Confronts ‘an Enemy Within’](https://www.nytimes.com/2020/07/03/world/europe/germany-military-neo-nazis-ksk.html)
+* [The Young Cut Loose in Myrtle Beach. The Virus Followed Them Home.](https://www.nytimes.com/2020/07/01/us/coronavirus-myrtle-beach.html)
 * [With Beijing’s Military Nearby, U.S. Sends 2 Aircraft Carriers to South China Sea](https://www.nytimes.com/2020/07/04/us/politics/south-china-sea-aircraft-carrier.html)
 * [Frederick Douglass, Seen Up Close](https://www.nytimes.com/2020/07/03/arts/frederick-douglass-yale.html)
 * [Secret Contracts Held a Surprise for Fiorentina’s New Owners](https://www.nytimes.com/2020/07/03/sports/soccer/fiorentina-transfers-rocco-commisso.html)
-* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [‘I Am Here to Prove You Wrong’](https://www.nytimes.com/2020/07/04/style/muslim-beauty-pageant-miss-muslimah-usa.html)
-* [Rudolfo Anaya, a Father of Chicano Literature, Dies at 82](https://www.nytimes.com/2020/07/03/books/rudolfo-anaya-dead.html)
-* [Smithsonian’s Leader Says ‘Museums Have a Social Justice Role to Play’](https://www.nytimes.com/2020/07/02/business/smithsonian-lonnie-bunch-corner-office.html)
-* [Let’s Race Two: Behind the Indy-NASCAR Doubleheader](https://www.nytimes.com/2020/07/01/sports/autoracing/indy-nascar-doubleheader.html)
-* [Dear Parents: Your Child With Autism Is Perfect](https://www.nytimes.com/2020/07/02/parenting/autism-children.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
+* [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
+* [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
+* [Steve Inskeep Is Drawn to Books With Nuanced Female Characters](https://www.nytimes.com/2020/07/02/books/review/steve-inskeep-by-the-book-interview.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Coronavirus and America's Humiliation](https://www.nytimes.com/2020/07/02/opinion/coronavirus-july-4.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -98,8 +97,8 @@ layout: default
 ## globo.com
 
 
-* [Embraer vai abrir programa de demissão voluntária para funcionários em licença remunerada](https://oglobo.globo.com/economia/embraer-vai-abrir-programa-de-demissao-voluntaria-para-funcionarios-em-licenca-remunerada-24516247)
 * [Brasil registra 64.365 mil mortes por Covid-19, informa consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/brasil-registra-64365-mil-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24515993)
+* [Embraer vai abrir programa de demissão voluntária para funcionários em licença remunerada](https://oglobo.globo.com/economia/embraer-vai-abrir-programa-de-demissao-voluntaria-para-funcionarios-em-licenca-remunerada-24516247)
 * [Especulado no Benfica, goleiro brasileiro do Boavista falha em vitória da equipe de Lisboa](https://oglobo.globo.com/esportes/especulado-no-benfica-goleiro-brasileiro-do-boavista-falha-em-vitoria-da-equipe-de-lisboa-24516344)
 * [De chapéu de cowboy e sem máscara: quem é o novo embaixador dos EUA no Brasil](https://epoca.globo.com/de-chapeu-de-cowboy-sem-mascara-quem-o-novo-embaixador-dos-eua-no-brasil-1-24516299)
 * [Professores da rede particular se recusam a voltar às aulas presenciais neste momento](https://oglobo.globo.com/rio/professores-da-rede-particular-se-recusam-voltar-as-aulas-presenciais-neste-momento-24516234)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 04:13:38 UTC
+# indexed at 04/07/2020 04:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -15,33 +15,33 @@ layout: default
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 * [Why do electron shells have set limits? (1999)](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
-* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
 * [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
-* [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
 * [The Classic Sunbeam Radiant Control Toaster (2006)](http://automaticbeyondbelief.com/)
-* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
+* [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
 * [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
-* [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
+* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
 * [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
-* [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
 * [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
 * [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
-* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+* [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
+* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
+* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+* [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
+* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
 * [Flexport is hiring engineers in Amsterdam – we’ll get you a visa](https://flexport.com/careers)
-* [Tellina: Translate natural language into bash commands (built with TensorFlow)](http://www.tellina.rocks)
-* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
-* [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
-* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [The science of mask-wearing hasn’t changed, so why have our expectations?](https://fivethirtyeight.com/features/the-science-of-mask-wearing-hasnt-changed-so-why-have-our-expectations/)
+* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
+* [Tellina: Translate natural language into bash commands (built with TensorFlow)](http://www.tellina.rocks)
+* [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
+* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
 * [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-* [Triso particles have safety features that may power a new generation of reactors](https://www.wired.com/story/nuclear-power-balls-triso-fuel/)
-* [Show HN: Ward – Minimalistic Server Dashboard](https://github.com/B-Software/Ward)
 ## nytimes.com
 
 
-* [Trump Delivers Divisive Culture War Message at Mount Rushmore](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
+* [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [Kimberly Guilfoyle, Top Fund-Raising Official for Trump Campaign, Tests Positive for Coronavirus](https://www.nytimes.com/2020/07/03/us/politics/kimberly-guilfoyle-trump-campaign-coronavirus.html)
 * [Coronavirus Live Updates: U.S. Hits 50,000 New Cases Again](https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html)
 * [Virus Surges in Arizona, but the Rodeo Goes On](https://www.nytimes.com/2020/07/03/us/virus-arizona.html)
@@ -52,7 +52,6 @@ layout: default
 * [Fourth of July Fireworks Canceled Across U.S. as Coronavirus Surges](https://www.nytimes.com/2020/07/01/business/fourth-of-july-fireworks-displays.html)
 * [New Administration Memo Seeks to Foster Doubts About Suspected Russian Bounties](https://www.nytimes.com/2020/07/03/us/politics/memo-russian-bounties.html)
 * [Russia Denies Paying Bounties, but Some Say the U.S. Had It Coming](https://www.nytimes.com/2020/07/03/world/europe/russia-bounties-putin-afghanistan.html)
-* [The Shaman of Instagram](https://www.nytimes.com/2020/07/03/style/self-care/durek-verrett-instagram-shaman.html)
 * [What Went Wrong in Brazil](https://www.nytimes.com/2020/07/02/podcasts/the-daily/brazil-coronavirus.html)
 * [Whose Statue Must Fall?](https://www.nytimes.com/2020/07/02/opinion/the-argument-protest-statue-revolution.html)
 * [Bogus Ideas Have Superspreaders, Too](https://www.nytimes.com/2020/07/01/technology/social-media-superspreaders.html)
@@ -89,8 +88,8 @@ layout: default
 * [Saroj Khan, Choreographer Who Made Bollywood Sparkle, Dies at 71](https://www.nytimes.com/2020/07/03/world/asia/saroj-khan-dead.html)
 * [Queer Kids, Nerds and Sword Fights: It’s the Hot School Play](https://www.nytimes.com/2020/07/02/theater/she-kills-monsters-qui-nguyen.html)
 * [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
-* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
+* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [What to Cook This Weekend](https://www.nytimes.com/2020/07/03/dining/what-to-cook-this-weekend.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

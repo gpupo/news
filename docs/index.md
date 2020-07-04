@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 05:11:45 UTC
+# indexed at 04/07/2020 05:49:19 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
-* [Why do electron shells have set limits? (1999)](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
-* [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Sphere Eversion](https://rreusser.github.io/explorations/sphere-eversion/)
+* [Why do electron shells have set limits? (1999)](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
+* [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [The Classic Sunbeam Radiant Control Toaster (2006)](http://automaticbeyondbelief.com/)
-* [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
-* [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
-* [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
-* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
-* [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
-* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
 * [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 * [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
-* [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
+* [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
+* [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
+* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
+* [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
+* [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
+* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
 * [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+* [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
 * [The science of mask-wearing hasn’t changed, so why have our expectations?](https://fivethirtyeight.com/features/the-science-of-mask-wearing-hasnt-changed-so-why-have-our-expectations/)
-* [Crab Command and Control](https://www.hakaimagazine.com/news/crab-command-and-control/)
-* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
+* [Children’s game accounts hacked to support Donald Trump](https://www.bbc.com/news/technology-53236050)
 * [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
+* [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
 * [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
 * [Tellina: Translate natural language into bash commands (built with TensorFlow)](http://www.tellina.rocks)
-* [Flexport is hiring engineers in Amsterdam – we’ll get you a visa](https://flexport.com/careers)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
-* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
+* [Thrones Wreathed in Shadow: Tacitus and the psychology of authoritarianism](https://warontherocks.com/2020/07/thrones-wreathed-in-shadow-tacitus-and-the-psychology-of-authoritarianism/)
+* [Crab Command and Control](https://www.hakaimagazine.com/news/crab-command-and-control/)
+* [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 ## nytimes.com
 
 
@@ -78,29 +78,29 @@ layout: default
 * [Critics Fear Amtrak Is Using Pandemic to Cut Service That Won’t Return](https://www.nytimes.com/2020/07/03/us/coronavirus-amtrak-cuts.html)
 * [WNYC Employees Demanded Diversity. They Got Another White Boss.](https://www.nytimes.com/2020/07/03/nyregion/wync-audrey-cooper-staff-revolt.html)
 * [After Fighting Plastic in ‘Paradise Lost,’ Sisters Take On Climate Change](https://www.nytimes.com/2020/07/03/world/asia/bali-sisters-plastic-climate-change.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A Public Art Project Devoted to Dismantling Racism at Every Level](https://www.nytimes.com/2020/07/01/t-magazine/nick-cave-bob-faust-amends.html)
 * [Lifting the Cone of Silence From Black Composers](https://www.nytimes.com/2020/07/03/arts/music/black-composers-classical-music.html)
 * [‘The Truth’ Review: Being Catherine Deneuve](https://www.nytimes.com/2020/07/02/movies/the-truth-review.html)
 * [Saroj Khan, Choreographer Who Made Bollywood Sparkle, Dies at 71](https://www.nytimes.com/2020/07/03/world/asia/saroj-khan-dead.html)
 * [Queer Kids, Nerds and Sword Fights: It’s the Hot School Play](https://www.nytimes.com/2020/07/02/theater/she-kills-monsters-qui-nguyen.html)
 * [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
+* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
-* [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Bilionário inglês produzirá um 4x4 para quem não gostou da nova geração do Defender](https://oglobo.globo.com/economia/carros/bilionario-ingles-produzira-um-4x4-para-quem-nao-gostou-da-nova-geracao-do-defender-24515698)
 * [No dia seguinte à reabertura, bares e restaurantes registram grande movimento em diferentes pontos do Rio](https://oglobo.globo.com/rio/no-dia-seguinte-reabertura-bares-restaurantes-registram-grande-movimento-em-diferentes-pontos-do-rio-1-24515587)
 * [Campanha de vacinação contra a gripe do governo federal não atinge meta](https://oglobo.globo.com/sociedade/campanha-de-vacinacao-contra-gripe-do-governo-federal-nao-atinge-meta-24515477)
 * [EUA batem recorde com 57.683 novos casos de COVID-19 em 24 horas](https://oglobo.globo.com/sociedade/eua-batem-recorde-com-57683-novos-casos-de-covid-19-em-24-horas-24515584)
-* [STF envia inquérito de Weintraub por racismo para a Justiça Federal do DF](https://oglobo.globo.com/brasil/stf-envia-inquerito-de-weintraub-por-racismo-para-justica-federal-do-df-24515405)
 * [Um desprezo criminoso pela Educação](https://oglobo.globo.com/opiniao/um-desprezo-criminoso-pela-educacao-1-24514894)
 * [Bares lotados após a reabertura refletem falta de consciência](https://oglobo.globo.com/opiniao/bares-lotados-apos-reabertura-refletem-falta-de-consciencia-24514477)
 * [Proteger dados é inadiável](https://oglobo.globo.com/opiniao/proteger-dados-inadiavel-24514790)

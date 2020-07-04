@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/07/2020 08:12:57 UTC
+# indexed at 04/07/2020 08:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [2+1=4, by quinoa](https://www.efavdb.com/quinoa%20packing)
 * [Bitcoin From Scratch – Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Closos: Specification of a Lisp operating system (2013) [pdf]](http://metamodular.com/closos.pdf)
-* [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
+* [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
 * [LIGO Black hole merger may have optical confirmation](https://www.caltech.edu/about/news/black-hole-collision-may-have-exploded-light)
 * [Cronk: Long-lost beverage resurrected after 120 years](https://www.theguardian.com/world/2020/jul/03/dr-cronk-drink-canada-brewery)
 * [The Walkman, Forty Years On](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)
-* [Invention of satanic witchcraft by medieval authorities was met with skepticism](https://theconversation.com/the-invention-of-satanic-witchcraft-by-medieval-authorities-was-initially-met-with-skepticism-140809)
 * [Differential privacy tools from MS Research and Harvard](https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/)
+* [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 * [The Silence Is Deafening](https://devonzuegel.com/post/the-silence-is-deafening)
 * [Ask HN: Recommend a maths book for a teenager?](https://news.ycombinator.com/item?id=23711942)
-* [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
-* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
-* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
-* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
-* [Why do electron shells have set limits? (1999)](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
 * [Photo Requests from Solitary](http://photorequestsfromsolitary.org/)
-* [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
+* [QuickBasic64: Basic for the Modern Era](https://www.qb64.org/portal/)
+* [Building a BASIC Interpreter, '80s style](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
+* [Queues are Databases (1995)](https://arxiv.org/abs/cs/0701158)
+* [Moon's Mark Down (2016)](http://users.rcn.com/david-moon/MMD/HTML/index.html)
+* [Why do electron shells have set limits? (1999)](http://www.madsci.org/posts/archives/1999-03/921736624.Ch.r.html)
 * [Colleges are reopening in fall, but many professors won’t be present](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
-* [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
-* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+* [Neural Supersampling for Real-Time Rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [RenderMan and Funko Games](https://renderman.pixar.com/stories/renderman-and-funko-games)
-* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
+* [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+* [Students built a 16th-century engineer’s book-reading machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 * [Zettlr – FOSS markdown editor for personal knowledge management and publishing](https://www.zettlr.com/)
+* [Nicholas Carr on deep reading and digital thinking](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 * [Show HN: WebAssembly System Interface for Deno has been merged into Deno](https://deno.land/std/wasi/README.md)
-* [Tell HN: Airbnb now opts in your name and photo to data sharing](https://news.ycombinator.com/item?id=23725734)
 * [A Group Is Its Own Worst Enemy (2003) [pdf]](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+* [Crab Command and Control](https://www.hakaimagazine.com/news/crab-command-and-control/)
 ## nytimes.com
 
 
@@ -87,9 +87,9 @@ layout: default
 * [‘The Truth’ Review: Being Catherine Deneuve](https://www.nytimes.com/2020/07/02/movies/the-truth-review.html)
 * [Saroj Khan, Choreographer Who Made Bollywood Sparkle, Dies at 71](https://www.nytimes.com/2020/07/03/world/asia/saroj-khan-dead.html)
 * [Queer Kids, Nerds and Sword Fights: It’s the Hot School Play](https://www.nytimes.com/2020/07/02/theater/she-kills-monsters-qui-nguyen.html)
-* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
+* [NASA Mars Helicopter Will Be Red Planet's 'Wright Brothers Moment'](https://www.nytimes.com/2020/06/23/science/mars-helicopter-nasa.html)
 * [Even the South Pole Is Warming, and Quickly, Scientists Say](https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html)
 * [‘Jurassic Park’: Where the Wild Things Are](https://www.nytimes.com/2020/07/02/movies/jurassic-park.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -106,5 +106,5 @@ layout: default
 * [A carioca Daniela Torres retala como enfrentou, de uma hora para a outra e fora do país, o câncer de mama e a Covid-19](https://oglobo.globo.com/ela/gente/a-carioca-daniela-torres-retala-como-enfrentou-de-uma-hora-para-outra-fora-do-pais-cancer-de-mama-a-covid-19-24515101)
 * [Lives de hoje: Skank e Péricles são destaques deste sábado](https://oglobo.globo.com/rioshow/lives-de-hoje-skank-pericles-sao-destaques-deste-sabado-24514704)
 * [Contos de 'Prazer em queimar' trazem o ensaio da obra-prima de Ray Bradbury](https://oglobo.globo.com/cultura/livros/contos-de-prazer-em-queimar-trazem-ensaio-da-obra-prima-de-ray-bradbury-24514722)
-* [Linchamentos virtuais podem estar relacionados a remanescentes das punições da Inquisição, diz sociólogo](https://oglobo.globo.com/ela/gente/linchamentos-virtuais-podem-estar-relacionados-remanescentes-das-punicoes-da-inquisicao-diz-sociologo-24501164)
+* [Ayurveda, ginecologia, psicologia, nutrição e ioga são temas de lives e palestras no evento Mulheres que Inspiram](https://oglobo.globo.com/ela/ayurveda-ginecologia-psicologia-nutricao-ioga-sao-temas-de-lives-palestras-no-evento-mulheres-que-inspiram-24514382)
 * [Depois da lacração e do cancelamento, é a vez da superexposição nas redes](https://oglobo.globo.com/ela/gente/depois-da-lacracao-do-cancelamento-a-vez-da-superexposicao-nas-redes-24512104)

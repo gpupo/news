@@ -2,52 +2,52 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 12:34:39 UTC
+# indexed at 05/07/2020 13:12:01 UTC
 
 
 ## news.ycombinator.com
 
 
+* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
 * [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
 * [Place for Open and Interactive Mathematics](https://imaginary.org/)
+* [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
+* [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
 * [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
 * [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
-* [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
 * [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
-* [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [Anyons: Physicists find best evidence yet for long-sought 2D structures](https://www.nature.com/articles/d41586-020-01988-0)
-* [Platform Adjacency Theory](https://infrequently.org/2020/06/platform-adjacency-theory/)
-* [Rocket Lab vehicle lost during second stage burn on 13th mission](https://twitter.com/RocketLab/status/1279531664759091200)
+* [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
-* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
+* [Platform Adjacency Theory](https://infrequently.org/2020/06/platform-adjacency-theory/)
+* [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
 * [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
-* [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
-* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
+* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
-* [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
 * [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
-* [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
-* [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
-* [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
-* [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
+* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
+* [Show HN: Vue.js sliding header(s) for top navigation bar](https://github.com/altrusl/vuesence-sliding-header)
 * [Isetta](https://en.wikipedia.org/wiki/Isetta)
+* [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
 * [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
 * [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
+* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
+* [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
 ## nytimes.com
 
 
-* [At Mt. Rushmore and the White House, Trump Updates ‘American Carnage’ Message for 2020](https://www.nytimes.com/2020/07/04/us/politics/trump-mt-rushmore.html)
-* [Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar](https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html)
+* [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html)
 * [As Coronavirus Slams Houston Hospitals, It’s Like New York ‘All Over Again’](https://www.nytimes.com/2020/07/04/us/coronavirus-houston-new-york.html)
 * [239 Experts With 1 Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html)
-* [The Pandemic’s Big Mystery: How Deadly Is the Coronavirus?](https://www.nytimes.com/2020/07/04/health/coronavirus-death-rate.html)
 * [With Department Stores Disappearing, Malls Could Be Next](https://www.nytimes.com/2020/07/05/business/coronavirus-malls-department-stores-bankruptcy.html)
 * [Sleeping Outside in a Pandemic: Vulnerable Renters Face Evictions](https://www.nytimes.com/2020/07/04/us/coronavirus-evictions-renters-immigrants.html)
+* [At Mt. Rushmore and the White House, Trump Updates ‘American Carnage’ Message for 2020](https://www.nytimes.com/2020/07/04/us/politics/trump-mt-rushmore.html)
+* [Progressives Begin New Push to Elevate Supreme Court as a Campaign Issue](https://www.nytimes.com/2020/07/01/us/progressives-begin-new-push-to-elevate-supreme-court-as-a-campaign-issue.html)
 * [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/03/briefing/11-of-our-best-weekend-reads.html)
 * [Bogus Ideas Have Superspreaders, Too](https://www.nytimes.com/2020/07/01/technology/social-media-superspreaders.html)
@@ -74,10 +74,10 @@ layout: default
 * [Hong Kong Security Law Redraws Lines, Making Some Ideas Dangerous](https://www.nytimes.com/2020/07/05/world/asia/hong-kong-security-law.html)
 * [Have Americans Warmed to Calls to ‘Defund the Police’?](https://www.nytimes.com/2020/07/03/us/politics/polling-defund-the-police.html)
 * [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [Some Unexpected Survey Results](https://www.nytimes.com/2020/07/03/fashion/weddings/some-unexpected-survey-results.html)
 * [How a Covid-19 Contact Tracer Spends Her Sundays](https://www.nytimes.com/2020/07/03/nyregion/coronavirus-contact-tracer-nyc.html)
@@ -90,13 +90,14 @@ layout: default
 * [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
-* [The Fast & Furious Art of the Car Chase](https://www.nytimes.com/2020/07/01/movies/movie-car-chase-scenes.html)
+* [Kimberly Guilfoyle, Top Fund-Raising Official for Trump Campaign, Tests Positive for Coronavirus](https://www.nytimes.com/2020/07/03/us/politics/kimberly-guilfoyle-trump-campaign-coronavirus.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Outra estátua de Cristóvão Colombo é derrubada nos EUA](https://oglobo.globo.com/mundo/outra-estatua-de-cristovao-colombo-derrubada-nos-eua-24516558)
 * [Brasil registra 64.375 mortes por Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-registra-64375-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24516543)
 * [Start-ups crescem com soluções para quarentena e fazem da crise oportunidade](https://oglobo.globo.com/economia/start-ups-crescem-com-solucoes-para-quarentena-fazem-da-crise-oportunidade-24516147)
 * [Secretários da Saúde se reuniram com presidente de laboratório de cloroquina antes de mudar protocolo](https://epoca.globo.com/guilherme-amado/secretarios-da-saude-se-reuniram-com-presidente-de-laboratorio-de-cloroquina-antes-de-mudar-protocolo-24515028)
@@ -106,4 +107,3 @@ layout: default
 * [Maia avisa que não vai decidir agora sobre quem apoiar à Presidência da Câmara](https://epoca.globo.com/guilherme-amado/maia-avisa-que-nao-vai-decidir-agora-sobre-quem-apoiar-presidencia-da-camara-1-24514763)
 * [Juíza pernambucana cria projeto para aumentar número de negros na magistratura brasileira](https://epoca.globo.com/sociedade/juiza-pernambucana-cria-projeto-para-aumentar-numero-de-negros-na-magistratura-brasileira-24512262)
 * [Prefeito de Niterói não sanciona e nem veta leis de vereadores, que aguardam promulgação da Câmara](https://oglobo.globo.com/rio/bairros/prefeito-de-niteroi-nao-sanciona-nem-veta-leis-de-vereadores-que-aguardam-promulgacao-da-camara-24514277)
-* [Parque Estadual da Pedra Branca está sem guarda-parques](https://oglobo.globo.com/rio/bairros/parque-estadual-da-pedra-branca-esta-sem-guarda-parques-1-24512326)

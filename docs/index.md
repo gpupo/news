@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 06:13:39 UTC
+# indexed at 05/07/2020 06:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
-* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
-* [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
+* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
+* [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
 * [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
-* [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
 * [Rocket Lab vehicle lost during second stage burn on 13th mission](https://twitter.com/RocketLab/status/1279531664759091200)
+* [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
 * [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
 * [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
 * [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
 * [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
-* [Our Intellectual Property Laws Are Out of Control](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
 * [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 * [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
-* [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
-* [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
-* [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
 * [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
+* [Our Intellectual Property Laws Are Out of Control](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
+* [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
+* [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
+* [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
 * [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
-* [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
 * [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
-* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
+* [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
 * [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
+* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
 ## nytimes.com
 
 
@@ -48,7 +48,6 @@ layout: default
 * [239 Experts With 1 Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html)
 * [The Pandemic’s Big Mystery: How Deadly Is the Coronavirus?](https://www.nytimes.com/2020/07/04/health/coronavirus-death-rate.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
-* [With Plexiglass and Piles of Hot Dogs, a Fourth of July Tradition Lives On](https://www.nytimes.com/2020/07/04/nyregion/hot-dog-contest.html)
 * [Two Wealthy Sri Lankan Brothers Became Suicide Bombers. But Why?](https://www.nytimes.com/2020/07/02/magazine/sri-lanka-brothers-bombing.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/03/briefing/11-of-our-best-weekend-reads.html)
 * [Bogus Ideas Have Superspreaders, Too](https://www.nytimes.com/2020/07/01/technology/social-media-superspreaders.html)
@@ -77,19 +76,18 @@ layout: default
 * [With Beijing’s Military Nearby, U.S. Sends 2 Aircraft Carriers to South China Sea](https://www.nytimes.com/2020/07/04/us/politics/south-china-sea-aircraft-carrier.html)
 * [South Korea Quarantine Hotel Is Targeted by Angry (and Noisy) Protesters](https://www.nytimes.com/2020/07/04/world/asia/south-korea-coronavirus-quarantine-hotel.html)
 * [What Hong Kong’s Pandemic Experience Taught Uber About Other Cities](https://www.nytimes.com/2020/07/03/technology/uber-hong-kong-experience.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [Should You Reach Out to a Former Friend Right Now?](https://www.nytimes.com/2020/06/02/smarter-living/should-you-reach-out-to-a-former-friend-right-now.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
 * [Steve Inskeep Is Drawn to Books With Nuanced Female Characters](https://www.nytimes.com/2020/07/02/books/review/steve-inskeep-by-the-book-interview.html)
+* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
-* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [Let’s Finish the American Revolution](https://www.nytimes.com/2020/07/03/opinion/fourth-of-july.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -98,11 +96,11 @@ layout: default
 ## globo.com
 
 
+* [Ex-policial envolvido na morte de George Floyd paga fiança e é solto](https://oglobo.globo.com/mundo/ex-policial-envolvido-na-morte-de-george-floyd-paga-fianca-e-solto-24516534)
 * [Kanye West diz que vai concorrer à presidência dos EUA](https://oglobo.globo.com/mundo/kanye-west-diz-que-vai-concorrer-presidencia-dos-eua-24516533)
 * [Em Seattle, motorista invade rodovia fechada e atropela manifestantes](https://oglobo.globo.com/mundo/em-seattle-motorista-invade-rodovia-fechada-atropela-manifestantes-24516521)
 * [Mega-Sena acumula e próximo sorteio pode pagar R$ 33 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-33-milhoes-24516510)
 * [México supera a França e é o quinto país com mais mortes por Covid-19 no mundo](https://oglobo.globo.com/mundo/mexico-supera-franca-e-quinto-pais-com-mais-mortes-por-covid-19-no-mundo-24516494)
-* [Sábado no Rio tem bares com aglomerações nas calçadas e carro 'DJ' ao som de música eletrônica](https://oglobo.globo.com/rio/sabado-no-rio-tem-bares-com-aglomeracoes-nas-calcadas-carro-dj-ao-som-de-musica-eletronica-24516472)
 * [Prioridades para a economia da Covid-19](https://oglobo.globo.com/opiniao/prioridades-para-economia-da-covid-19-24514689)
 * [Protocolo promissor](https://oglobo.globo.com/opiniao/protocolo-promissor-24516212)
 * [Desmascarados](https://oglobo.globo.com/opiniao/desmascarados-24516222)

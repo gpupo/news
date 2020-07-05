@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 01:13:26 UTC
+# indexed at 05/07/2020 01:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -16,27 +16,27 @@ layout: default
 * [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
 * [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
-* [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
 * [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
+* [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
 * [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [Gitqlite: Query Git Repositories with SQL](https://github.com/augmentable-dev/gitqlite)
 * [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
 * [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
+* [U.S. Population Growth Has Been Driven Exclusively by Minorities](https://www.bloomberg.com/news/articles/2020-07-04/u-s-population-growth-has-been-driven-exclusively-by-minorities)
 * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
-* [Volley (YC W18) is hiring a lead mobile engineer to build voice-controlled games](https://jobs.lever.co/volleythat/53a2ed1e-65c5-49a4-aae4-6ff439b8c5db)
 * [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
-* [U.S. Population Growth Has Been Driven Exclusively by Minorities](https://www.bloomberg.com/news/articles/2020-07-04/u-s-population-growth-has-been-driven-exclusively-by-minorities)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
-* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
-* [How I grew my Shopify micro-SaaS](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
+* [Volley (YC W18) is hiring a lead mobile engineer to build voice-controlled games](https://jobs.lever.co/volleythat/53a2ed1e-65c5-49a4-aae4-6ff439b8c5db)
 * [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/)
+* [How I grew my Shopify micro-SaaS](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
+* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
+* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
 * [Neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
-* [Bit-Box: custom keypad build](https://www.bit-101.com/blog/2020/07/bit-box/)
 * [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
+* [Bit-Box: custom keypad build](https://www.bit-101.com/blog/2020/07/bit-box/)
 * [GitHub Audio (2016)](https://github.audio/)
 ## nytimes.com
 
@@ -78,16 +78,16 @@ layout: default
 * [Secret Contracts Held a Surprise for Fiorentina’s New Owners](https://www.nytimes.com/2020/07/03/sports/soccer/fiorentina-transfers-rocco-commisso.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
 * [Steve Inskeep Is Drawn to Books With Nuanced Female Characters](https://www.nytimes.com/2020/07/02/books/review/steve-inskeep-by-the-book-interview.html)
-* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
-* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
+* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Coronavirus and America's Humiliation](https://www.nytimes.com/2020/07/02/opinion/coronavirus-july-4.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)

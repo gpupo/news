@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 14:34:30 UTC
+# indexed at 05/07/2020 15:11:46 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Car, Reinvented. From Scratch](https://mondaynote.com/the-car-reinvented-from-scratch-4486564c086e)
 * [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
 * [Bible API](http://bible-api.com/)
 * [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
-* [Apple Bringing Back Fun in Visual Design](https://applypixels.com/blog/comeback)
 * [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
-* [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
+* [Apple Bringing Back Fun in Visual Design](https://applypixels.com/blog/comeback)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
 * [Place for Open and Interactive Mathematics](https://imaginary.org/)
 * [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
-* [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
+* [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
+* [The Car, Reinvented. From Scratch](https://mondaynote.com/the-car-reinvented-from-scratch-4486564c086e)
 * [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
 * [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Anyons: Physicists find best evidence yet for long-sought 2D structures](https://www.nature.com/articles/d41586-020-01988-0)
+* [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
+* [Hyaluronic acid does not hold a thousand times its weight in water](https://www.oumere.com/blogs/news/hyaluronic-acid-does-not-hold-1000-times-its-weight-in-water-not-even-close)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [Platform Adjacency Theory](https://infrequently.org/2020/06/platform-adjacency-theory/)
+* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
+* [McKinsey Helps Companies Avoid Responsibility](https://slate.com/business/2020/06/mckinsey-companies-avoid-responsibility-management-consulting.html)
 * [Stop microwaving library books to kill coronavirus:RFID tags burn and catch fire](https://www.cnn.com/2020/07/04/us/dont-microwave-your-library-books-trnd/index.html)
-* [Hyaluronic acid does not hold a thousand times its weight in water](https://www.oumere.com/blogs/news/hyaluronic-acid-does-not-hold-1000-times-its-weight-in-water-not-even-close)
-* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
-* [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
+* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
+* [Isetta](https://en.wikipedia.org/wiki/Isetta)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
 * [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
-* [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
-* [Isetta](https://en.wikipedia.org/wiki/Isetta)
 * [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
-* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
 * [Show HN: Vue.js sliding header(s) for top navigation bar](https://github.com/altrusl/vuesence-sliding-header)
+* [Baba Is Y'all](http://game.engineering.nyu.edu/babaisyall/)
 ## nytimes.com
 
 
@@ -66,27 +66,27 @@ layout: default
 * [A Racist Attack on Children Was Taped in 1975. We Found Them.](https://www.nytimes.com/2020/06/21/nyregion/racist-video-rosedale-queens.html)
 * [A Joyous Return to M.L.B.’s Ballparks, With a Dose of Wariness](https://www.nytimes.com/2020/07/03/sports/baseball/mlb-workouts-first-practices-boston-red-sox.html)
 * [The Story of the Lehman Brothers, from Bavaria to Alabama, and From the Heights to the Crash](https://www.nytimes.com/2020/06/29/books/review-lehman-trilogy-stefano-massini.html)
+* [South Carolina Nightclub Shooting: 2 Dead and 8 Injured](https://www.nytimes.com/2020/07/05/us/Greenville-nightclub-shooting.html)
 * [Mary Trump Fights Effort to Bar Publication of Her Book](https://www.nytimes.com/2020/07/03/us/politics/mary-trump-book-publication.html)
 * [Tokyo’s First Female Governor Sails to Re-Election Even as Virus Cases Rise](https://www.nytimes.com/2020/07/05/world/asia/tokyo-governor-election.html)
-* [Masahiro Tanaka Struck by Ball as Yankees Take Health Hit](https://www.nytimes.com/2020/07/04/sports/baseball/masahiro-tanaka-yankees-injury-stanton.html)
 * [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [Kansas Governor Criticizes G.O.P. Official’s Cartoon Comparing Mask Order to Holocaust](https://www.nytimes.com/2020/07/04/us/anderson-county-review-laura-kelly-holocaust-cartoon.html)
 * [Hong Kong Security Law Redraws Lines, Making Some Ideas Dangerous](https://www.nytimes.com/2020/07/05/world/asia/hong-kong-security-law.html)
 * [Have Americans Warmed to Calls to ‘Defund the Police’?](https://www.nytimes.com/2020/07/03/us/politics/polling-defund-the-police.html)
 * [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Some Unexpected Survey Results](https://www.nytimes.com/2020/07/03/fashion/weddings/some-unexpected-survey-results.html)
 * [How a Covid-19 Contact Tracer Spends Her Sundays](https://www.nytimes.com/2020/07/03/nyregion/coronavirus-contact-tracer-nyc.html)
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
 * [He Drove 3,000 Miles to Find a Pool and Ended Up in the Ocean](https://www.nytimes.com/2020/07/03/sports/olympics/paralympics-rudy-garcia-tolson.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
+* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
-* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
@@ -97,6 +97,7 @@ layout: default
 ## globo.com
 
 
+* [Valtteri Bottas vence o GP da Áustria; Hamilton é punido e acaba em quarto](https://oglobo.globo.com/esportes/valtteri-bottas-vence-gp-da-austria-hamilton-punido-acaba-em-quarto-24516595)
 * [Harry e Meghan estariam infelizes em Los Angeles](https://oglobo.globo.com/ela/gente/harry-meghan-estariam-infelizes-em-los-angeles-24516586)
 * [Artigo - A elite branca se acha imortal. E a história do Brasil lhe dá razão](https://epoca.globo.com/artigoelite-branca-se-acha-imortal-a-historia-do-brasil-lhe-da-razao-24516577)
 * [Italo Ferreira é 'engolido' por onda de mais de 4 metros em Saquarema](https://oglobo.globo.com/esportes/italo-ferreira-engolido-por-onda-de-mais-de-4-metros-em-saquarema-24516584)
@@ -106,4 +107,3 @@ layout: default
 * [Outra estátua de Cristóvão Colombo é derrubada nos EUA](https://oglobo.globo.com/mundo/outra-estatua-de-cristovao-colombo-derrubada-nos-eua-24516558)
 * [Brasil registra 64.375 mortes por Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-registra-64375-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24516543)
 * [Start-ups crescem com soluções para quarentena e fazem da crise oportunidade](https://oglobo.globo.com/economia/start-ups-crescem-com-solucoes-para-quarentena-fazem-da-crise-oportunidade-24516147)
-* [46 dias depois, Regina ainda não foi nomeada na Cinemateca](https://epoca.globo.com/guilherme-amado/46-dias-depois-regina-ainda-nao-foi-nomeada-na-cinemateca-1-24514742)

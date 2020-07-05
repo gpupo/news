@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 04:12:53 UTC
+# indexed at 05/07/2020 04:34:26 UTC
 
 
 ## news.ycombinator.com
 
 
-* [How the Black Death made the rich richer](https://www.bbc.com/worklife/article/20200701-how-the-black-death-make-the-rich-richer)
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
-* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
 * [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
-* [Tamgucalc: The terminal spreadsheet now with mouse control](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
+* [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
+* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
 * [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
-* [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
-* [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
+* [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
 * [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
+* [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
+* [Rocket Lab vehicle lost during second stage burn on 13th mission](https://twitter.com/RocketLab/status/1279531664759091200)
 * [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
+* [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
 * [Gitqlite: Query Git Repositories with SQL](https://github.com/augmentable-dev/gitqlite)
-* [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
 * [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 * [Tesla’s SA big battery just got 50% bigger after goals thanks to Autobidder](https://techau.com.au/teslas-big-battery-in-sa-just-got-50-bigger-after-kicking-goals-thanks-to-autobidder/)
-* [Rocket Lab vehicle lost during second stage burn on 13th mission](https://twitter.com/RocketLab/status/1279531664759091200)
 * [Our Intellectual Property Laws Are Out of Control](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
-* [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
-* [Looset – A source code explorer for big or unknown projects](https://forms.gle/5vbfc54MRXcBodKc7)
 * [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
+* [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
 * [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
+* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
 * [Neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
+* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
+* [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
 ## nytimes.com
 
 
@@ -86,10 +86,10 @@ layout: default
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
 * [Steve Inskeep Is Drawn to Books With Nuanced Female Characters](https://www.nytimes.com/2020/07/02/books/review/steve-inskeep-by-the-book-interview.html)
-* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
+* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [Let’s Finish the American Revolution](https://www.nytimes.com/2020/07/03/opinion/fourth-of-july.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

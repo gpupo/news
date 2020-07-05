@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 00:36:12 UTC
+# indexed at 05/07/2020 01:13:26 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
-* [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [Tesla’s SA big battery just got 50% bigger after goals thanks to Autobidder](https://techau.com.au/teslas-big-battery-in-sa-just-got-50-bigger-after-kicking-goals-thanks-to-autobidder/)
-* [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
+* [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
-* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
-* [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
+* [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
 * [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
+* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
+* [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
+* [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
-* [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
+* [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [Gitqlite: Query Git Repositories with SQL](https://github.com/augmentable-dev/gitqlite)
+* [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
 * [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
+* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
 * [Volley (YC W18) is hiring a lead mobile engineer to build voice-controlled games](https://jobs.lever.co/volleythat/53a2ed1e-65c5-49a4-aae4-6ff439b8c5db)
 * [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
-* [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
-* [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
-* [How I grew my Shopify micro-SaaS](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
-* [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
-* [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/)
-* [George Stinney: youngest American to be sentenced to death and executed](https://en.wikipedia.org/wiki/George_Stinney)
 * [U.S. Population Growth Has Been Driven Exclusively by Minorities](https://www.bloomberg.com/news/articles/2020-07-04/u-s-population-growth-has-been-driven-exclusively-by-minorities)
+* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
+* [How I grew my Shopify micro-SaaS](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
+* [MaXX Interactive Desktop: A Re-Implementation of the IRIX Interactive Desktop](https://maxxinteractive.com/)
+* [Back to old tricks, or, baby steps in Rust](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/)
 * [Neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
-* [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
 * [Bit-Box: custom keypad build](https://www.bit-101.com/blog/2020/07/bit-box/)
+* [Harmful Workload Generator for PostgreSQL](https://github.com/lesovsky/noisia)
 * [GitHub Audio (2016)](https://github.audio/)
 ## nytimes.com
 
@@ -76,18 +76,18 @@ layout: default
 * [With Beijing’s Military Nearby, U.S. Sends 2 Aircraft Carriers to South China Sea](https://www.nytimes.com/2020/07/04/us/politics/south-china-sea-aircraft-carrier.html)
 * [Frederick Douglass, Seen Up Close](https://www.nytimes.com/2020/07/03/arts/frederick-douglass-yale.html)
 * [Secret Contracts Held a Surprise for Fiorentina’s New Owners](https://www.nytimes.com/2020/07/03/sports/soccer/fiorentina-transfers-rocco-commisso.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
 * [Steve Inskeep Is Drawn to Books With Nuanced Female Characters](https://www.nytimes.com/2020/07/02/books/review/steve-inskeep-by-the-book-interview.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
-* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
+* [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Coronavirus and America's Humiliation](https://www.nytimes.com/2020/07/02/opinion/coronavirus-july-4.html)
 * [Couple Charged After Videos Show White Woman Pulling Gun on Black Woman](https://www.nytimes.com/2020/07/02/us/michigan-woman-pulls-gun.html)
@@ -97,7 +97,8 @@ layout: default
 ## globo.com
 
 
-* [Rio registra 124 novos óbitos de coronavírus e ultrapassa marca de 120 mil casos](https://oglobo.globo.com/rio/rio-registra-124-novos-obitos-de-coronavirus-ultrapassa-marca-de-120-mil-casos-24516166)
+* [As diferentes razões para o apoio a Bolsonaro em meio a mudanças de sua base](https://oglobo.globo.com/brasil/as-diferentes-razoes-para-apoio-bolsonaro-em-meio-mudancas-de-sua-base-24516468)
+* [Botafogo e Fluminense se unem em manifesto contra a Ferj: 'Show de horrores'](https://oglobo.globo.com/esportes/botafogo-fluminense-se-unem-em-manifesto-contra-ferj-show-de-horrores-24516226)
 * [Brasil registra 64.365 mortes por Covid-19, informa consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-64365-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24515993)
 * [Embraer vai abrir programa de demissão voluntária para funcionários em licença remunerada](https://oglobo.globo.com/economia/embraer-vai-abrir-programa-de-demissao-voluntaria-para-funcionarios-em-licenca-remunerada-24516247)
 * [Especulado no Benfica, goleiro brasileiro do Boavista falha em vitória da equipe de Lisboa](https://oglobo.globo.com/esportes/especulado-no-benfica-goleiro-brasileiro-do-boavista-falha-em-vitoria-da-equipe-de-lisboa-24516344)
@@ -105,5 +106,4 @@ layout: default
 * [Professores da rede particular se recusam a voltar às aulas presenciais neste momento](https://oglobo.globo.com/rio/professores-da-rede-particular-se-recusam-voltar-as-aulas-presenciais-neste-momento-24516234)
 * [Bolsonaro elogia discurso de Trump contra 'novo fascismo da extrema esquerda'](https://oglobo.globo.com/brasil/bolsonaro-elogia-discurso-de-trump-contra-novo-fascismo-da-extrema-esquerda-1-24516268)
 * [Vanderlei Luxemburgo, técnico do Palmeiras, testa positivo para a Covid-19](https://oglobo.globo.com/esportes/vanderlei-luxemburgo-tecnico-do-palmeiras-testa-positivo-para-covid-19-24516245)
-* [Antes de semifinal, Botafogo e Fluminense se unem em manifesto contra a Ferj: 'Show de horrores'](https://oglobo.globo.com/esportes/antes-de-semifinal-botafogo-fluminense-se-unem-em-manifesto-contra-ferj-show-de-horrores-24516226)
 * [Em meio à pandemia, mercado na Zona Oeste tem aglomeração e clientes sem máscaras](https://oglobo.globo.com/rio/em-meio-pandemia-mercado-na-zona-oeste-tem-aglomeracao-clientes-sem-mascaras-24516171)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 19:12:01 UTC
+# indexed at 05/07/2020 19:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
 * [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
+* [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
 * [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
-* [A Deep Introduction to JIT Compilers: JITs Are Not Just-in-Time](https://carolchen.me/blog/jits-intro/)
+* [Debubble](http://debubble.me)
 * [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback)
+* [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
 * [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
 * [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
-* [McKinsey Helps Companies Avoid Responsibility](https://slate.com/business/2020/06/mckinsey-companies-avoid-responsibility-management-consulting.html)
-* [Voice, an invite-only social network where everyone is verified](https://voice.com)
 * [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
-* [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
-* [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
-* [Andrew Wilkinson and Tiny Capital](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual)
-* [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
-* [Ask HN: Consulting it tech. How to start?](https://news.ycombinator.com/item?id=23740167)
-* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
-* [Multiple Dispatch in Julia](https://opensourc.es/blog/basics-multiple-dispatch/)
-* [Xeon Cores in One PC: Microsoft’s New x86 DataCenter Class Machines](https://www.anandtech.com/show/13522/896-xeon-cores-in-one-pc-microsofts-new-x86-datacenter-class-machines-running-windows)
-* [Isetta](https://en.wikipedia.org/wiki/Isetta)
 * [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
-* [The world won't hit climate goals unless energy innovation rapidly accelerated](https://www.cnn.com/2020/07/02/business/climate-change-clean-energy-iea/index.html)
-* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
+* [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
+* [Voice, an invite-only social network where everyone is verified](https://voice.com)
+* [Xeon Cores in One PC: Microsoft’s New x86 DataCenter Class Machines](https://www.anandtech.com/show/13522/896-xeon-cores-in-one-pc-microsofts-new-x86-datacenter-class-machines-running-windows)
+* [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
+* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
+* [Andrew Wilkinson and Tiny Capital](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual)
+* [Ask HN: Consulting it tech. How to start?](https://news.ycombinator.com/item?id=23740167)
+* [How McKinsey helps companies avoid responsibility](https://slate.com/business/2020/06/mckinsey-companies-avoid-responsibility-management-consulting.html)
+* [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
+* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
+* [Association of low to moderate alcohol drinking with better cognitive function](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767693)
+* [Is the title of the Black Hat conf offensive? Google sec. researcher withdraws](https://www.zdnet.com/article/infosec-community-disagrees-with-changing-black-hat-term-due-to-racial-stereotyping/)
+* [Multiple Dispatch in Julia](https://opensourc.es/blog/basics-multiple-dispatch/)
 * [History of Egghead Software Stores](http://www.fundinguniverse.com/company-histories/egghead-com-inc-history/)
-* [Choosing a Rust web framework](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
+* [The world won't hit climate goals unless energy innovation rapidly accelerated](https://www.cnn.com/2020/07/02/business/climate-change-clean-energy-iea/index.html)
 * [Paul Davis, lead developer of Ardour on fixing big Linux audio issues](http://libregraphicsworld.org/blog/entry/podcast-ep-003-paul-davis-on-fixing-big-linux-audio-issues)
-* [Place for Open and Interactive Mathematics](https://imaginary.org/)
-* [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
-* [Baba Is Y'all](http://game.engineering.nyu.edu/babaisyall/)
 ## nytimes.com
 
 
@@ -65,19 +65,19 @@ layout: default
 * [A Racist Attack on Children Was Taped in 1975. We Found Them.](https://www.nytimes.com/2020/06/21/nyregion/racist-video-rosedale-queens.html)
 * [What's an Autonomous Zone?](https://www.nytimes.com/2020/07/01/style/autonomous-zone-anarchist-community.html)
 * [Small Businesses Repurpose Lessons From the 2008 Recession](https://www.nytimes.com/2020/06/23/business/coronavirus-great-recession-2008-lessons.html)
+* [Seattle Protester Dies After Being Struck by Car](https://www.nytimes.com/2020/07/05/us/summer-taylor-seattle.html)
 * [South Carolina Nightclub Shooting: 2 Dead and 8 Injured](https://www.nytimes.com/2020/07/05/us/Greenville-nightclub-shooting.html)
-* [Mary Trump Fights Effort to Bar Publication of Her Book](https://www.nytimes.com/2020/07/03/us/politics/mary-trump-book-publication.html)
 * [Prince Andrew Sought Washington Lobbyist to Help With Epstein Case](https://www.nytimes.com/2020/07/05/us/politics/prince-andrew-jeffrey-epstein.html)
+* [Mary Trump Fights Effort to Bar Publication of Her Book](https://www.nytimes.com/2020/07/03/us/politics/mary-trump-book-publication.html)
 * [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
-* [Kansas Governor Criticizes G.O.P. Official’s Cartoon Comparing Mask Order to Holocaust](https://www.nytimes.com/2020/07/04/us/anderson-county-review-laura-kelly-holocaust-cartoon.html)
 * [Hong Kong Security Law Redraws Lines, Making Some Ideas Dangerous](https://www.nytimes.com/2020/07/05/world/asia/hong-kong-security-law.html)
 * [English Pubs Reopen, Dividing a Border Town](https://www.nytimes.com/2020/07/05/world/europe/england-pubs-coronavirus-wales.html)
 * [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [Some Unexpected Survey Results](https://www.nytimes.com/2020/07/03/fashion/weddings/some-unexpected-survey-results.html)
 * [How a Covid-19 Contact Tracer Spends Her Sundays](https://www.nytimes.com/2020/07/03/nyregion/coronavirus-contact-tracer-nyc.html)
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
@@ -96,7 +96,7 @@ layout: default
 ## globo.com
 
 
-* [Europa quer enquadrar Google Facebook e Amazon com novas regulações contra práticas anticoncorrência](https://oglobo.globo.com/economia/europa-quer-enquadrar-google-facebook-amazon-com-novas-regulacoes-contra-praticas-anticoncorrencia-24516726)
+* [Europa quer enquadrar Google, Facebook e Amazon com novas regulações contra práticas anticoncorrência](https://oglobo.globo.com/economia/europa-quer-enquadrar-google-facebook-amazon-com-novas-regulacoes-contra-praticas-anticoncorrencia-1-24516726)
 * [Rejeitado, Feder decide declinar de convite para o MEC](https://oglobo.globo.com/sociedade/rejeitado-feder-decide-declinar-de-convite-para-mec-24516670)
 * [Ryan Adams quebra silêncio sobre acusações de assédio sexual e pede desculpas](https://oglobo.globo.com/cultura/ryan-adams-quebra-silencio-sobre-acusacoes-de-assedio-sexual-pede-desculpas-24516692)
 * [Facebook, sob pressão com boicote, revê queixas antigas de grupos de direitos civis](https://oglobo.globo.com/economia/facebook-sob-pressao-com-boicote-reve-queixas-antigas-de-grupos-de-direitos-civis-1-24516696)

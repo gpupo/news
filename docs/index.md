@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 18:12:56 UTC
+# indexed at 05/07/2020 18:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
-* [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback)
-* [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
-* [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
 * [Julia Language Telemetry on by Default](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
-* [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
-* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
+* [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback)
+* [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
+* [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
 * [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
+* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
+* [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
 * [McKinsey Helps Companies Avoid Responsibility](https://slate.com/business/2020/06/mckinsey-companies-avoid-responsibility-management-consulting.html)
 * [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
 * [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
-* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
 * [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
-* [Choosing a Rust web framework](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
+* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
+* [History of Egghead Software Stores](http://www.fundinguniverse.com/company-histories/egghead-com-inc-history/)
 * [Isetta](https://en.wikipedia.org/wiki/Isetta)
-* [Andrew Wilkinson and Tiny Capital Operating Manual](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual)
+* [Choosing a Rust web framework](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
+* [Andrew Wilkinson and Tiny Capital](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual)
 * [Paul Davis, lead developer of Ardour on fixing big Linux audio issues](http://libregraphicsworld.org/blog/entry/podcast-ep-003-paul-davis-on-fixing-big-linux-audio-issues)
+* [Xeon Cores in One PC: Microsoft’s New x86 DataCenter Class Machines](https://www.anandtech.com/show/13522/896-xeon-cores-in-one-pc-microsofts-new-x86-datacenter-class-machines-running-windows)
+* [Ask HN: Consulting it tech. How to start?](https://news.ycombinator.com/item?id=23740167)
 * [Place for Open and Interactive Mathematics](https://imaginary.org/)
 * [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
 * [The Thought Emporium](https://www.thethoughtemporium.com/)
 * [Baba Is Y'all](http://game.engineering.nyu.edu/babaisyall/)
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
-* [Ask HN: Consulting it tech. How to start?](https://news.ycombinator.com/item?id=23740167)
 * [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
-* [Bible API](http://bible-api.com/)
-* [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
 ## nytimes.com
 
 
@@ -74,19 +74,18 @@ layout: default
 * [English Pubs Reopen, Dividing a Border Town](https://www.nytimes.com/2020/07/05/world/europe/england-pubs-coronavirus-wales.html)
 * [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [Some Unexpected Survey Results](https://www.nytimes.com/2020/07/03/fashion/weddings/some-unexpected-survey-results.html)
 * [How a Covid-19 Contact Tracer Spends Her Sundays](https://www.nytimes.com/2020/07/03/nyregion/coronavirus-contact-tracer-nyc.html)
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
 * [He Drove 3,000 Miles to Find a Pool and Ended Up in the Ocean](https://www.nytimes.com/2020/07/03/sports/olympics/paralympics-rudy-garcia-tolson.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
-* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
-* [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
-* [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
 * [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
+* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
+* [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
+* [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
@@ -96,13 +95,13 @@ layout: default
 ## globo.com
 
 
-* [Moraes manda soltar blogueiro bolsonarista, mas proíbe que use redes sociais e organize atos](https://oglobo.globo.com/brasil/moraes-manda-soltar-blogueiro-bolsonarista-mas-proibe-que-use-redes-sociais-organize-atos-24516685)
+* [Facebook, sob pressão com boicote, revê queixas antigas de grupos de direitos civis](https://oglobo.globo.com/economia/facebook-sob-pressao-com-boicote-reve-queixas-antigas-de-grupos-de-direitos-civis-24516696)
+* [Quiosques reabrem com menos mesas, álcool em gel na entrada, cardápio virtual e funcionários de protetor facial](https://oglobo.globo.com/rio/quiosques-reabrem-com-menos-mesas-alcool-em-gel-na-entrada-cardapio-virtual-funcionarios-de-protetor-facial-24516677)
+* [É preciso responsabilizar quem financia fake news, diz Maia](https://oglobo.globo.com/brasil/e-preciso-responsabilizar-quem-financia-fake-news-diz-maia-24516605)
 * [Rejeitado, Feder decide declinar de convite para o MEC](https://oglobo.globo.com/sociedade/rejeitado-feder-decide-declinar-de-convite-para-mec-24516670)
+* [Moraes manda soltar blogueiro bolsonarista, mas proíbe que use redes sociais e organize atos](https://oglobo.globo.com/brasil/moraes-manda-soltar-blogueiro-bolsonarista-mas-proibe-que-use-redes-sociais-organize-atos-24516685)
 * [F1: Valtteri Bottas vence o GP da Áustria; prova teve protesto antirracismo](https://oglobo.globo.com/esportes/f1-valtteri-bottas-vence-gp-da-austria-prova-teve-protesto-antirracismo-24516595)
 * [Feder, convidado para MEC, reage nas redes sociais após ser bombardeado por evangélicos](https://oglobo.globo.com/sociedade/feder-convidado-para-mec-reage-nas-redes-sociais-apos-ser-bombardeado-por-evangelicos-24516651)
 * ['Quem é grupo de risco fica em casa acompanhando as missas on-line', avisa Dom Orani](https://oglobo.globo.com/rio/quem-grupo-de-risco-fica-em-casa-acompanhando-as-missas-on-line-avisa-dom-orani-24516593)
 * [Brasil tem 64.383 mortes por Covid-19, aponta consórcio de veículos de imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-64383-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-13h-24516627)
 * [Sophie Turner mostra barriga de grávida em vestidinho de verão](https://oglobo.globo.com/ela/gente/sophie-turner-mostra-barriga-de-gravida-em-vestidinho-de-verao-24516610)
-* [É preciso responsabilizar quem financia fake news, diz Maia](https://oglobo.globo.com/brasil/e-preciso-responsabilizar-quem-financia-fake-news-diz-maia-24516605)
-* [Harry e Meghan estariam infelizes em Los Angeles](https://oglobo.globo.com/ela/gente/harry-meghan-estariam-infelizes-em-los-angeles-24516586)
-* [Italo Ferreira é 'engolido' por onda de mais de 4 metros em Saquarema](https://oglobo.globo.com/esportes/italo-ferreira-engolido-por-onda-de-mais-de-4-metros-em-saquarema-24516584)

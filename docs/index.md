@@ -2,23 +2,25 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 22:11:46 UTC
+# indexed at 05/07/2020 22:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
+* [Internet mob justice can easily destroy innocent lives](https://observer.com/2019/05/internet-mob-justice-innocent-lives/)
+* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
 * [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
-* [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
-* [Georgia Tech professors revolt over reopening, say current plan threatens lives](https://www.gpbnews.org/post/georgia-tech-professors-revolt-over-reopening-say-current-plan-threatens-lives-students-staff)
+* [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [Debubble](http://debubble.me)
+* [Georgia Tech professors revolt over reopening, say current plan threatens lives](https://www.gpbnews.org/post/georgia-tech-professors-revolt-over-reopening-say-current-plan-threatens-lives-students-staff)
 * [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
 * [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
+* [Harvesting Hydrogen from Nanogardens](https://phys.org/news/2020-07-harvesting-hydrogen-nanogardens.html)
 * [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 * [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
 * [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
@@ -27,17 +29,15 @@ layout: default
 * [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
 * [Bible API](http://bible-api.com/)
 * [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
-* [The key points of Software Design X-Rays](https://understandlegacycode.com/blog/key-points-of-software-design-x-rays/)
-* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
-* [Enhance your TensorFlow Lite deployment with Firebase](https://firebase.googleblog.com/2020/06/enhance-your-tensorflow-lite-deployment-with-firebase.html)
 * [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
+* [The key points of Software Design X-Rays](https://understandlegacycode.com/blog/key-points-of-software-design-x-rays/)
+* [Enhance your TensorFlow Lite deployment with Firebase](https://firebase.googleblog.com/2020/06/enhance-your-tensorflow-lite-deployment-with-firebase.html)
+* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
 * [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
 * [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback)
 * [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
-* [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
 * [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
-* [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
-* [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
+* [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
 ## nytimes.com
 
 
@@ -70,9 +70,9 @@ layout: default
 * [Massachusetts Detective Is Fired Over Black Lives Matter Post](https://www.nytimes.com/2020/07/05/us/Black-lives-matter-detective-fired-Springfield.html)
 * [South Carolina Nightclub Shooting: 2 Dead and 8 Injured](https://www.nytimes.com/2020/07/05/us/Greenville-nightclub-shooting.html)
 * [Prince Andrew Sought Washington Lobbyist to Help With Epstein Case](https://www.nytimes.com/2020/07/05/us/politics/prince-andrew-jeffrey-epstein.html)
+* [Baseball Is Showing Some Early Optimism. How Long Can It Last?](https://www.nytimes.com/2020/07/05/sports/baseball/coronavirus-mlb.html)
 * [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
 * [English Pubs Reopen, Dividing a Border Town](https://www.nytimes.com/2020/07/05/world/europe/england-pubs-coronavirus-wales.html)
-* [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
@@ -83,10 +83,10 @@ layout: default
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
 * [He Drove 3,000 Miles to Find a Pool and Ended Up in the Ocean](https://www.nytimes.com/2020/07/03/sports/olympics/paralympics-rudy-garcia-tolson.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
+* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
-* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
@@ -97,10 +97,10 @@ layout: default
 
 
 * [Cientistas reforçam possibilidade de transmissão da Covid-19 pelo ar](https://oglobo.globo.com/sociedade/cientistas-reforcam-possibilidade-de-transmissao-da-covid-19-pelo-ar-24516816)
+* [Pressão sobre o Planalto pelo veto que acabaria com bingos de filantrópicas](https://epoca.globo.com/guilherme-amado/pressao-sobre-planalto-pelo-veto-que-acabaria-com-bingos-de-filantropicas-24516918)
+* [Polícia e MP recuperam fotos e vídeos do celular de integrante de principal grupo de pistoleiros de aluguel do Rio](https://oglobo.globo.com/rio/policia-mp-recuperam-fotos-videos-do-celular-de-integrante-de-principal-grupo-de-pistoleiros-de-aluguel-do-rio-24516869)
 * [Flamengo pode aumentar lista de campeões cariocas que venceram as taças Guanabara e Rio](https://oglobo.globo.com/esportes/flamengo-pode-aumentar-lista-de-campeoes-cariocas-que-venceram-as-tacas-guanabara-rio-24516868)
 * [Fluminense elimina Botafogo e desafia o Flamengo na final da Taça Rio](https://oglobo.globo.com/esportes/fluminense/fluminense-elimina-botafogo-desafia-flamengo-na-final-da-taca-rio-24516802)
-* [Flamengo vence o Volta Redonda por 2 a 0 e vai à decisão da Taça Rio](https://oglobo.globo.com/esportes/flamengo-vence-volta-redonda-por-2-0-vai-decisao-da-taca-rio-1-24516799)
-* [Martha Rocha, a primeira Miss Brasil, morre aos 87 anos em Niterói](https://oglobo.globo.com/rio/martha-rocha-primeira-miss-brasil-morre-aos-87-anos-em-niteroi-24516798)
 * [Aglomerações dentro e fora de bares e até festas: sábado à noite é movimentado e com irregularidades no Rio; vídeo](https://oglobo.globo.com/rio/aglomeracoes-dentro-fora-de-bares-ate-festas-sabado-noite-movimentado-com-irregularidades-no-rio-video-24516855)
 * [Morre o escritor Antonio Bivar, aos 81 anos, vítima do novo coronavírus](https://oglobo.globo.com/cultura/morre-escritor-antonio-bivar-aos-81-anos-vitima-do-novo-coronavirus-24516839)
 * [Domingo de sol tem praias cheias e máscaras em segundo plano no Rio](https://oglobo.globo.com/rio/domingo-de-sol-tem-praias-cheias-mascaras-em-segundo-plano-no-rio-24516838)

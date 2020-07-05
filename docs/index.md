@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 07:12:29 UTC
+# indexed at 05/07/2020 07:35:08 UTC
 
 
 ## news.ycombinator.com
@@ -10,11 +10,11 @@ layout: default
 
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
-* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
+* [A ‘Viral’ New Bird Song in Canada Is Causing Sparrows to Change Their Tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
+* [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
-* [A ‘Viral’ New Bird Song in Canada Is Causing Sparrows to Change Their Tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
 * [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
 * [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
@@ -24,24 +24,24 @@ layout: default
 * [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
 * [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
+* [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 * [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
-* [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 * [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
 * [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
-* [Our Intellectual Property Laws Are Out of Control](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
-* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
+* [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
 * [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
-* [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
-* [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
+* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
 * [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
+* [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
+* [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
-* [Chemistry of Fireworks](https://www.acs.org/content/acs/en/education/students/highschool/chemistryclubs/activities/fireworks.html)
+* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
+* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
 ## nytimes.com
 
 
-* [Coronavirus Updates: Trump Hosts July 4 Event at White House](https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html)
+* [Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar](https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html)
 * [At Mt. Rushmore and the White House, Trump Updates ‘American Carnage’ Message for 2020](https://www.nytimes.com/2020/07/04/us/politics/trump-mt-rushmore.html)
 * [Trump Says He Will Create a Statuary Park Honoring ‘American Heroes’](https://www.nytimes.com/2020/07/04/us/politics/trump-statues-american-heroes.html)
 * [As Coronavirus Slams Houston Hospitals, It’s Like New York ‘All Over Again’](https://www.nytimes.com/2020/07/04/us/coronavirus-houston-new-york.html)
@@ -78,17 +78,17 @@ layout: default
 * [What Hong Kong’s Pandemic Experience Taught Uber About Other Cities](https://www.nytimes.com/2020/07/03/technology/uber-hong-kong-experience.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
 * [Steve Inskeep Is Drawn to Books With Nuanced Female Characters](https://www.nytimes.com/2020/07/02/books/review/steve-inskeep-by-the-book-interview.html)
-* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Never Mind the Summer Heat: Earth Is at Its Greatest Distance From the Sun](https://www.nytimes.com/2018/07/05/science/earth-sun-aphelion.html)
+* [See How Dolphins Learn This Eating Trick](https://www.nytimes.com/2020/06/25/science/dolphins-shells-learning.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [Let’s Finish the American Revolution](https://www.nytimes.com/2020/07/03/opinion/fourth-of-july.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

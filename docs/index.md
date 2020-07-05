@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 08:34:31 UTC
+# indexed at 05/07/2020 09:11:48 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [A ‘Viral’ New Bird Song in Canada Is Causing Sparrows to Change Their Tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
-* [Place for Open and Interactive Mathematics](https://imaginary.org/)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
+* [Place for Open and Interactive Mathematics](https://imaginary.org/)
 * [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
-* [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
+* [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Rocket Lab vehicle lost during second stage burn on 13th mission](https://twitter.com/RocketLab/status/1279531664759091200)
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
-* [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
+* [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
 * [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
 * [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
-* [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
-* [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
+* [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
+* [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
-* [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
+* [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
+* [Platform Adjacency Theory](https://infrequently.org/2020/06/platform-adjacency-theory/)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
 * [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
-* [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
-* [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
-* [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
-* [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
-* [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
 * [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
+* [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
+* [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
+* [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
+* [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
 * [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
-* [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
+* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
+* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
 ## nytimes.com
 
 
@@ -77,10 +77,10 @@ layout: default
 * [South Korea Quarantine Hotel Is Targeted by Angry (and Noisy) Protesters](https://www.nytimes.com/2020/07/04/world/asia/south-korea-coronavirus-quarantine-hotel.html)
 * [What Hong Kong’s Pandemic Experience Taught Uber About Other Cities](https://www.nytimes.com/2020/07/03/technology/uber-hong-kong-experience.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
@@ -90,16 +90,13 @@ layout: default
 * [Hummingbirds Navigate an Ultraviolet World We Never See](https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html)
 * [How Do Flying Snakes Glide Through the Air? ‘It’s Hard to Believe’](https://www.nytimes.com/2020/06/29/science/flying-snakes-physics.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
-* [Let’s Finish the American Revolution](https://www.nytimes.com/2020/07/03/opinion/fourth-of-july.html)
+* [Kimberly Guilfoyle, Top Fund-Raising Official for Trump Campaign, Tests Positive for Coronavirus](https://www.nytimes.com/2020/07/03/us/politics/kimberly-guilfoyle-trump-campaign-coronavirus.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [CBF define datas para volta da Copa do Brasil, início da Série C e Brasileirão Feminino](https://oglobo.globo.com/esportes/cbf-define-datas-para-volta-da-copa-do-brasil-inicio-da-serie-e-brasileirao-feminino-24516487)
-* [‘Brasileirão em 9 de agosto é algo definido’, diz presidente da CBF, de olho no calendário 2022](https://oglobo.globo.com/esportes/brasileirao-em-9-de-agosto-algo-definido-diz-presidente-da-cbf-de-olho-no-calendario-2022-24516497)
-* [O conceito de um canal de clube será torcer ou informar?](https://oglobo.globo.com/esportes/o-conceito-de-um-canal-de-clube-sera-torcer-ou-informar-24516180)
 * [2020, o ano que não começou: as histórias de quem adiou sonhos e planos durante quarentena](https://oglobo.globo.com/rio/2020-ano-que-nao-comecou-as-historias-de-quem-adiou-sonhos-planos-durante-quarentena-24516439)
 * [Filha caçula de João Gilberto contesta MP e quer ser inventariante no processo da herança do compositor](https://oglobo.globo.com/cultura/filha-cacula-de-joao-gilberto-contesta-mp-quer-ser-inventariante-no-processo-da-heranca-do-compositor-24516369)
 * [João Gilberto: memória do músico é o que deve prevalecer, diz inventariante](https://oglobo.globo.com/cultura/joao-gilberto-memoria-do-musico-o-que-deve-prevalecer-diz-inventariante-24516317)
@@ -107,3 +104,6 @@ layout: default
 * [Com redes sociais, ‘nunca tivemos tanta voz e nunca sofremos tanto’, avalia publicitário](https://oglobo.globo.com/economia/com-redes-sociais-nunca-tivemos-tanta-voz-nunca-sofremos-tanto-avalia-publicitario-24516303)
 * [Ativismo do consumidor pressiona Facebook a conter conteúdo de ódio e deve afetar outras redes sociais](https://oglobo.globo.com/economia/ativismo-do-consumidor-pressiona-facebook-conter-conteudo-de-odio-deve-afetar-outras-redes-sociais-24516292)
 * [Carro, hotel adaptado, estadia curta e mais barata: veja o que muda na retomada do turismo](https://oglobo.globo.com/economia/carro-hotel-adaptado-estadia-curta-mais-barata-veja-que-muda-na-retomada-do-turismo-24516189)
+* [Kobra, o artista da paz, em Niterói](https://oglobo.globo.com/rio/bairros/kobra-artista-da-paz-em-niteroi-1-24515295)
+* [Gilmar tentou dissuadir Bolsonaro de sobrevoo de helicóptero](https://epoca.globo.com/guilherme-amado/gilmar-tentou-dissuadir-bolsonaro-de-sobrevoo-de-helicoptero-24515342)
+* [O trabalho das mães precisa entrar na conta](https://oglobo.globo.com/celina/o-trabalho-das-maes-precisa-entrar-na-conta-1-24514595)

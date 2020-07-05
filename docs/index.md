@@ -2,17 +2,18 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 13:12:01 UTC
+# indexed at 05/07/2020 13:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Apple Bringing Back Fun in Visual Design](https://applypixels.com/blog/comeback)
 * [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
 * [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
-* [Place for Open and Interactive Mathematics](https://imaginary.org/)
 * [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
+* [Place for Open and Interactive Mathematics](https://imaginary.org/)
 * [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
 * [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
 * [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
@@ -20,24 +21,23 @@ layout: default
 * [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
 * [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Analogue radio in the UK given 10-year stay of execution](https://www.theregister.com/2020/07/03/analogue_commercial_radio_licences_extended_10_years/)
-* [Anyons: Physicists find best evidence yet for long-sought 2D structures](https://www.nature.com/articles/d41586-020-01988-0)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
+* [Anyons: Physicists find best evidence yet for long-sought 2D structures](https://www.nature.com/articles/d41586-020-01988-0)
 * [Tamgucalc: A spreadsheet in character mode with Lisp formulas](https://github.com/naver/tamgu/wiki/tamgucalc-(en))
-* [Platform Adjacency Theory](https://infrequently.org/2020/06/platform-adjacency-theory/)
-* [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
+* [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
+* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
 * [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
 * [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
+* [Platform Adjacency Theory](https://infrequently.org/2020/06/platform-adjacency-theory/)
+* [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
+* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
 * [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
-* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
-* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
-* [Show HN: Vue.js sliding header(s) for top navigation bar](https://github.com/altrusl/vuesence-sliding-header)
 * [Isetta](https://en.wikipedia.org/wiki/Isetta)
-* [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
+* [Show HN: Vue.js sliding header(s) for top navigation bar](https://github.com/altrusl/vuesence-sliding-header)
+* [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
 * [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
-* [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
-* [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
-* [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
+* [Baba Is Y'all](http://game.engineering.nyu.edu/babaisyall/)
 ## nytimes.com
 
 
@@ -74,20 +74,20 @@ layout: default
 * [Hong Kong Security Law Redraws Lines, Making Some Ideas Dangerous](https://www.nytimes.com/2020/07/05/world/asia/hong-kong-security-law.html)
 * [Have Americans Warmed to Calls to ‘Defund the Police’?](https://www.nytimes.com/2020/07/03/us/politics/polling-defund-the-police.html)
 * [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [Some Unexpected Survey Results](https://www.nytimes.com/2020/07/03/fashion/weddings/some-unexpected-survey-results.html)
 * [How a Covid-19 Contact Tracer Spends Her Sundays](https://www.nytimes.com/2020/07/03/nyregion/coronavirus-contact-tracer-nyc.html)
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
 * [He Drove 3,000 Miles to Find a Pool and Ended Up in the Ocean](https://www.nytimes.com/2020/07/03/sports/olympics/paralympics-rudy-garcia-tolson.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
+* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
 * [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
-* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
 * [Kimberly Guilfoyle, Top Fund-Raising Official for Trump Campaign, Tests Positive for Coronavirus](https://www.nytimes.com/2020/07/03/us/politics/kimberly-guilfoyle-trump-campaign-coronavirus.html)

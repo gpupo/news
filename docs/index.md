@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 20:13:52 UTC
+# indexed at 05/07/2020 20:34:30 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-* [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
-* [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
+* [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
+* [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
+* [The key points of Software Design X-Rays](https://understandlegacycode.com/blog/key-points-of-software-design-x-rays/)
 * [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 * [Debubble](http://debubble.me)
 * [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
-* [The key points of Software Design X-Rays](https://understandlegacycode.com/blog/key-points-of-software-design-x-rays/)
+* [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
+* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
 * [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
 * [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
-* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
-* [Bible API](http://bible-api.com/)
-* [Transport makes up only 6% of the greenhouse gas emissions from food](https://blog.yeticheese.com/eating-local-has-tiny-environmental-impact/)
-* [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback)
 * [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
-* [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
-* [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
-* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
+* [Transport makes up only 6% of the greenhouse gas emissions from food](https://blog.yeticheese.com/eating-local-has-tiny-environmental-impact/)
 * [Voice, an invite-only social network where everyone is verified](https://voice.com)
+* [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
+* [Enhance your TensorFlow Lite deployment with Firebase](https://firebase.googleblog.com/2020/06/enhance-your-tensorflow-lite-deployment-with-firebase.html)
+* [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback)
+* [Bible API](http://bible-api.com/)
+* [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
+* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
+* [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
 * [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
-* [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
+* [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
 * [History of Egghead Software Stores](http://www.fundinguniverse.com/company-histories/egghead-com-inc-history/)
+* [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
 * [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
 * [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
-* [Andrew Wilkinson and Tiny Capital](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual)
-* [How McKinsey helps companies avoid responsibility](https://slate.com/business/2020/06/mckinsey-companies-avoid-responsibility-management-consulting.html)
 * [Multiple Dispatch in Julia](https://opensourc.es/blog/basics-multiple-dispatch/)
-* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
-* [Isetta](https://en.wikipedia.org/wiki/Isetta)
 ## nytimes.com
 
 
@@ -73,17 +73,18 @@ layout: default
 * [Hong Kong Security Law Redraws Lines, Making Some Ideas Dangerous](https://www.nytimes.com/2020/07/05/world/asia/hong-kong-security-law.html)
 * [English Pubs Reopen, Dividing a Border Town](https://www.nytimes.com/2020/07/05/world/europe/england-pubs-coronavirus-wales.html)
 * [We Now Interrupt Your Regularly Scheduled Convention Programming](https://www.nytimes.com/2020/07/05/us/politics/conventions-television-coverage.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
-* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Some Unexpected Survey Results](https://www.nytimes.com/2020/07/03/fashion/weddings/some-unexpected-survey-results.html)
 * [How a Covid-19 Contact Tracer Spends Her Sundays](https://www.nytimes.com/2020/07/03/nyregion/coronavirus-contact-tracer-nyc.html)
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
 * [He Drove 3,000 Miles to Find a Pool and Ended Up in the Ocean](https://www.nytimes.com/2020/07/03/sports/olympics/paralympics-rudy-garcia-tolson.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
-* [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
 * [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
+* [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
 * [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
@@ -95,13 +96,13 @@ layout: default
 ## globo.com
 
 
-* [Rejeitado, Feder decide declinar de convite para o MEC](https://oglobo.globo.com/sociedade/rejeitado-feder-decide-declinar-de-convite-para-mec-24516670)
 * [Quiosques reabrem com menos mesas, álcool em gel na entrada, cardápio virtual e funcionários de protetor facial](https://oglobo.globo.com/rio/quiosques-reabrem-com-menos-mesas-alcool-em-gel-na-entrada-cardapio-virtual-funcionarios-de-protetor-facial-24516677)
+* [Europa quer enquadrar Google, Facebook e Amazon com novas regulações contra práticas anticoncorrência](https://oglobo.globo.com/economia/europa-quer-enquadrar-google-facebook-amazon-com-novas-regulacoes-contra-praticas-anticoncorrencia-1-24516726)
+* [Rejeitado, Feder decide declinar de convite para o MEC](https://oglobo.globo.com/sociedade/rejeitado-feder-decide-declinar-de-convite-para-mec-24516670)
 * [China suspende importação de mais dois frigoríficos do Brasil por temor de coronavírus](https://oglobo.globo.com/economia/china-suspende-importacao-de-mais-dois-frigorificos-do-brasil-por-temor-de-coronavirus-24516747)
 * [Irã admite que incêndio em instalação nuclear provocou 'estragos significativos'](https://oglobo.globo.com/mundo/ira-admite-que-incendio-em-instalacao-nuclear-provocou-estragos-significativos-24516753)
 * [Rio tem 852 novos casos de coronavírus e chega a 10.667 o número de mortes](https://oglobo.globo.com/rio/rio-tem-852-novos-casos-de-coronavirus-chega-10667-numero-de-mortes-24516742)
 * [Morte de trabalhador de plataforma de petróleo por coronavírus só é informada um mês depois por ANP](https://oglobo.globo.com/economia/morte-de-trabalhador-de-plataforma-de-petroleo-por-coronavirus-so-informada-um-mes-depois-por-anp-24516737)
-* [Europa quer enquadrar Google, Facebook e Amazon com novas regulações contra práticas anticoncorrência](https://oglobo.globo.com/economia/europa-quer-enquadrar-google-facebook-amazon-com-novas-regulacoes-contra-praticas-anticoncorrencia-1-24516726)
 * [Ryan Adams quebra silêncio sobre acusações de assédio sexual e pede desculpas](https://oglobo.globo.com/cultura/ryan-adams-quebra-silencio-sobre-acusacoes-de-assedio-sexual-pede-desculpas-24516692)
 * [Facebook, sob pressão com boicote, revê queixas antigas de grupos de direitos civis](https://oglobo.globo.com/economia/facebook-sob-pressao-com-boicote-reve-queixas-antigas-de-grupos-de-direitos-civis-1-24516696)
 * [Moraes manda soltar blogueiro bolsonarista, mas proíbe que use redes sociais e organize atos](https://oglobo.globo.com/brasil/moraes-manda-soltar-blogueiro-bolsonarista-mas-proibe-que-use-redes-sociais-organize-atos-24516685)

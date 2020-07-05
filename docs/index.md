@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 07:35:08 UTC
+# indexed at 05/07/2020 08:12:53 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
-* [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [A ‘Viral’ New Bird Song in Canada Is Causing Sparrows to Change Their Tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
+* [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
 * [Beginner's Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
 * [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html)
 * [Hard Disk Hacking (2013)](http://spritesmods.com/?art=hddhack&page=1)
@@ -20,23 +20,23 @@ layout: default
 * [The Fourth of July](https://www.popehat.com/2020/07/04/the-fourth-of-july-rerun/)
 * [Rocket Lab vehicle lost during second stage burn on 13th mission](https://twitter.com/RocketLab/status/1279531664759091200)
 * [Tinc – A Virtual Private Network (VPN) Daemon](http://tinc-vpn.org/)
-* [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
-* [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
 * [Joseph Von Fraunhofer – The Glassmaker Who Sparked Astrophysics (2014)](http://nautil.us/issue/86/energy/the-glassmaker-who-sparked-astrophysics-rp)
+* [Principles of Programming Languages (1997) [pdf]](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
+* [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [The undeserved status of the pigeon-hole principle (1991)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1094.html)
+* [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
-* [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [Onyx is violating the Linux kernel's license, refuses to release source code](https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/)
+* [Neighborhoods with Limited Access to Streets](https://millionneighborhoods.org/#2/8.84/17.54)
 * [The Rabbit Outbreak](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak)
 * [Founder-driven life sciences companies](https://axial.substack.com/p/axial-founder-driven-life-sciences)
-* [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
 * [Intro to Fully Homomorphic Encryption](http://blog.higashi.tech/2020/06/16/fhe_01.html)
-* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
-* [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
+* [Our Intellectual Property Laws Are Out of Control (2013)](https://www.popularmechanics.com/technology/gadgets/a8937/our-intellectual-property-laws-are-out-of-control-15467970/)
 * [Show HN: USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usacss/)
+* [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/)
+* [First Inaugural Address of Abraham Lincoln](https://avalon.law.yale.edu/19th_century/lincoln1.asp)
 * [Newton, the Man (1946)](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/)
 * [From context collapse to content collapse](http://www.roughtype.com/?p=8724)
-* [Elisabeth Kübler-Ross: The rise and fall of the five stages of grief](https://www.bbc.com/news/stories-53267505)
 * [After many false starts, hydrogen power might now bear fruit](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit)
 ## nytimes.com
 
@@ -76,11 +76,11 @@ layout: default
 * [With Beijing’s Military Nearby, U.S. Sends 2 Aircraft Carriers to South China Sea](https://www.nytimes.com/2020/07/04/us/politics/south-china-sea-aircraft-carrier.html)
 * [South Korea Quarantine Hotel Is Targeted by Angry (and Noisy) Protesters](https://www.nytimes.com/2020/07/04/world/asia/south-korea-coronavirus-quarantine-hotel.html)
 * [What Hong Kong’s Pandemic Experience Taught Uber About Other Cities](https://www.nytimes.com/2020/07/03/technology/uber-hong-kong-experience.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Don’t Call Him Machine Gun Kelly](https://www.nytimes.com/2020/07/03/style/machine-gun-kelly-colson-baker-megan-fox.html)
 * [Works for the Now, by Queer Artists of Color](https://www.nytimes.com/2020/06/29/t-magazine/queer-bipoc-artists.html)
 * [Andy Warhol’s Secrets for Surviving Isolation](https://www.nytimes.com/2020/06/30/magazine/the-philosophy-of-andy-warhol.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
-* [Ex-policial envolvido na morte de George Floyd paga fiança e é solto](https://oglobo.globo.com/mundo/ex-policial-envolvido-na-morte-de-george-floyd-paga-fianca-e-solto-24516534)
-* [Kanye West diz que vai concorrer à presidência dos EUA](https://oglobo.globo.com/mundo/kanye-west-diz-que-vai-concorrer-presidencia-dos-eua-24516533)
-* [Em Seattle, motorista invade rodovia fechada e atropela manifestantes](https://oglobo.globo.com/mundo/em-seattle-motorista-invade-rodovia-fechada-atropela-manifestantes-24516521)
-* [Mega-Sena acumula e próximo sorteio pode pagar R$ 33 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-33-milhoes-24516510)
-* [México supera a França e é o quinto país com mais mortes por Covid-19 no mundo](https://oglobo.globo.com/mundo/mexico-supera-franca-e-quinto-pais-com-mais-mortes-por-covid-19-no-mundo-24516494)
-* [Prioridades para a economia da Covid-19](https://oglobo.globo.com/opiniao/prioridades-para-economia-da-covid-19-24514689)
-* [Protocolo promissor](https://oglobo.globo.com/opiniao/protocolo-promissor-24516212)
-* [Desmascarados](https://oglobo.globo.com/opiniao/desmascarados-24516222)
-* [Lives de hoje: O Grande Encontro e Jorge Drexler são destaque neste domingo](https://oglobo.globo.com/rioshow/lives-de-hoje-grande-encontro-jorge-drexler-sao-destaque-neste-domingo-24514430)
-* [A lei vale para todos, a depender da interpretação](https://oglobo.globo.com/opiniao/a-lei-vale-para-todos-depender-da-interpretacao-1-24514514)
+* [Bruno Astuto: A beleza das máscaras](https://oglobo.globo.com/ela/bruno-astuto-beleza-das-mascaras-24515732)
+* [Bolsonaro se convence, muda o tom e escala time para abrir diálogo com Poderes](https://oglobo.globo.com/brasil/bolsonaro-se-convence-muda-tom-escala-time-para-abrir-dialogo-com-poderes-24516474)
+* [Empresas se mobilizam e doações permite criação de vagas em hospitais e compra de equipamentos para o combate à Covid-19](https://oglobo.globo.com/rio/empresas-se-mobilizam-doacoes-permite-criacao-de-vagas-em-hospitais-compra-de-equipamentos-para-combate-covid-19-24516459)
+* [Levantamento revela que 60% dos jovens de favelas do Rio já perderam mais da metade da renda](https://oglobo.globo.com/rio/levantamento-revela-que-60-dos-jovens-de-favelas-do-rio-ja-perderam-mais-da-metade-da-renda-24516442)
+* [Luta contra o racismo sofre com falta de apoio político no Brasil, mesmo após protestos](https://oglobo.globo.com/brasil/luta-contra-racismo-sofre-com-falta-de-apoio-politico-no-brasil-mesmo-apos-protestos-24516402)
+* [Análise: Crivella tenta transformar tomógrafos e respiradores em trunfo por votos](https://oglobo.globo.com/brasil/analise-crivella-tenta-transformar-tomografos-respiradores-em-trunfo-por-votos-24516419)
+* [Como será o trabalho agora que nos acostumamos ao home office](https://oglobo.globo.com/cultura/como-sera-trabalho-agora-que-nos-acostumamos-ao-home-office-24512709)
+* [Especialista dá dicas de boas fotos de comida para o delivery: 'Tem que começar pela simplicidade'](https://oglobo.globo.com/rioshow/especialista-da-dicas-de-boas-fotos-de-comida-para-delivery-tem-que-comecar-pela-simplicidade-24514486)
+* [Pacientes recuperados do novo coronavírus podem desenvolver quadro de síndrome pós-Covid](https://oglobo.globo.com/sociedade/pacientes-recuperados-do-novo-coronavirus-podem-desenvolver-quadro-de-sindrome-pos-covid-24515153)
+* ['As crianças estão ficando mais irritadas, e com a Yolanda não é diferente', diz Juliana Alves, sobre quarentena com a filha](https://oglobo.globo.com/ela/gente/as-criancas-estao-ficando-mais-irritadas-com-yolanda-nao-diferente-diz-juliana-alves-sobre-quarentena-com-filha-24514288)

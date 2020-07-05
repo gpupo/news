@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/07/2020 17:12:09 UTC
+# indexed at 05/07/2020 17:37:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Duplication is far cheaper than the wrong abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-* [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
+* [Dolphin Progress May and June 2020](https://dolphin-emu.org/blog/2020/07/05/dolphin-progress-report-may-and-june-2020/)
 * [China Suppression of Uighur Minorities Meets U.N. Definition of Genocide](https://www.npr.org/2020/07/04/887239225/china-suppression-of-uighur-minorities-meets-u-n-definition-of-genocide-report-s)
-* [Apple Bringing Back Fun in Visual Design](https://applypixels.com/blog/comeback)
 * [Andrew Wilkinson and Tiny Capital Operating Manual](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual)
+* [Apple Bringing Back Fun in Visual Design](https://applypixels.com/blog/comeback)
+* [Choosing a Rust web framework, 2020 edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 * [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
-* [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
 * [Linus Torvalds: 'I Do No Coding Any More'](https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more)
 * [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
+* [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
 * [McKinsey Helps Companies Avoid Responsibility](https://slate.com/business/2020/06/mckinsey-companies-avoid-responsibility-management-consulting.html)
 * [A ‘viral’ new bird song in Canada is causing sparrows to change their tune](https://gizmodo.com/a-viral-new-bird-song-in-canada-is-causing-sparrows-t-1844245103)
-* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
 * [Rust on the ESP32 (2019)](https://mabez.dev/blog/posts/esp32-rust/)
-* [Place for Open and Interactive Mathematics](https://imaginary.org/)
-* [The Thought Emporium](https://www.thethoughtemporium.com/)
+* [New revamped version of the AnyMeal recipe management software](https://www.wedesoft.de/software/2020/06/30/anymeal/)
+* [Julia Language Telemetry on by Default](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 * [Isetta](https://en.wikipedia.org/wiki/Isetta)
-* [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
-* [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
 * [Paul Davis, lead developer of Ardour on fixing big Linux audio issues](http://libregraphicsworld.org/blog/entry/podcast-ep-003-paul-davis-on-fixing-big-linux-audio-issues)
+* [Place for Open and Interactive Mathematics](https://imaginary.org/)
+* [Cassette tape-based navigation system from 1971](https://jalopnik.com/this-cassette-tape-based-navigation-system-from-1971-is-1826459978)
+* [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
+* [The Thought Emporium](https://www.thethoughtemporium.com/)
+* [Lisp Badge: A single-board computer that you can program in uLisp](http://www.ulisp.com/show?2L0C)
+* [Baba Is Y'all](http://game.engineering.nyu.edu/babaisyall/)
 * [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops)
 * [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
 * [Quantitative Translation of Dog-to-Human Aging [pdf]](https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf)
 * [Repairing your smartphone or installing a ROM will now be a crime in Mexico](https://www.xataka.com.mx/legislacion-y-derechos/reparar-tu-smartphone-instalarle-rom-sera-delito-mexico-nueva-ley-que-proteje-candados-digitales-explicada)
 * [Anyons: Physicists find best evidence yet for long-sought 2D structures](https://www.nature.com/articles/d41586-020-01988-0)
 * [De-escalating social media conflict](https://nickpunt.com/blog/deescalating-social-media/)
-* [Baba Is Y'all](http://game.engineering.nyu.edu/babaisyall/)
-* [DuckDuckGo coming back online in India following country-wide block](https://www.androidpolice.com/2020/07/04/duckduckgo-has-been-blocked-by-multiple-indian-isps/)
-* [Deceptively Bright, in an Up and Coming Area](https://literaryreview.co.uk/deceptively-bright-in-an-up-coming-area)
-* [Bible API](http://bible-api.com/)
 ## nytimes.com
 
 
@@ -83,10 +83,10 @@ layout: default
 * [Test Drive: The 2021 Porsche 911 Turbo](https://www.nytimes.com/2020/07/02/business/2021-porsche-911-turbo-.html)
 * [He Drove 3,000 Miles to Find a Pool and Ended Up in the Ocean](https://www.nytimes.com/2020/07/03/sports/olympics/paralympics-rudy-garcia-tolson.html)
 * [Enjoying Your Backyard All Summer Long](https://www.nytimes.com/2020/06/26/realestate/enjoying-your-backyard-all-summer-long.html)
-* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
+* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)

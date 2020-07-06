@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 13:12:02 UTC
+# indexed at 06/07/2020 13:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Around 293 intermediate CAs to be revoked within 7 days](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
+* [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
-* [Brave Browser, wiping history still leaves trace of visited sites](https://github.com/brave/brave-browser/issues/9929)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
+* [Brave Browser, wiping history still leaves trace of visited sites](https://github.com/brave/brave-browser/issues/9929)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
 * [Everything I Know (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
+* [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
 * [I Got My Attention Back (2017)](https://craigmod.com/essays/how_i_got_my_attention_back/)
+* [The machine learning community has a toxicity problem](https://www.reddit.com/r/MachineLearning/comments/hiv3vf/d_the_machine_learning_community_has_a_toxicity/)
 * [Ennio Morricone has died](https://www.hollywoodreporter.com/news/ennio-morricone-dead-prolific-italian-composer-was-91-858358)
-* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
 * [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
-* [LIVR: Language Independent Validation Rules](https://livr-spec.org/)
-* [Don't bet on the most likely winner](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
-* [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
+* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
 * [Implementing Ishido in Racket](https://alex-hhh.github.io/2020/06/ishido.html)
+* [Don't bet on the most likely winner](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
+* [LIVR: Language Independent Validation Rules](https://livr-spec.org/)
+* [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
 * [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+* [A crash course in just-in-time compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [The Magnetic Universe Begins to Come into View](https://www.quantamagazine.org/the-hidden-magnetic-universe-begins-to-come-into-view-20200702/)
 * [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
 * [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
-* [A crash course in just-in-time compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 * [Parsing city of origin and destination city from a string](https://stackoverflow.com/questions/59956670/parsing-city-of-origin-destination-city-from-a-string)
-* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
 * [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
+* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
 * [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Walking Dream – single-player adventure game for the Oculus Quest](http://walkingdre.am/)
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
 * [Elements C++ GUI Library](https://github.com/cycfi/elements)
 * [Ask HN: Best ways to retain qualified employees?](https://news.ycombinator.com/item?id=23746156)
-* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-* [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 ## nytimes.com
 
 
@@ -80,19 +80,20 @@ layout: default
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
 * [The Next Energy Battle: Renewables vs. Natural Gas](https://www.nytimes.com/2020/07/06/business/energy-environment/renewable-energy-natural-gas.html)
 * [A Kennedy Wife and a Professor Compete to Run Against a Trump Backer](https://www.nytimes.com/2020/07/06/nyregion/Jeff-van-drew-primary.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [Can Cam Newton Be Superman Again?](https://www.nytimes.com/2020/07/06/sports/football/cam-newton-new-england-patriots.html)
 * [Reflecting on Summer Camp in Our Campless Summer](https://www.nytimes.com/2020/07/03/well/family/summer-camp-letters.html)
 * [What Is the Status of Trump’s ‘Big, Beautiful Wall’?](https://www.nytimes.com/2020/07/02/books/review/14-miles-dw-gibson.html)
 * [If a Zoom Wedding Isn’t for You, Here’s How to Plan For Later](https://www.nytimes.com/2020/07/04/fashion/weddings/no-zoom-wedding-next-year.html)
 * [Living With Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
-* [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [Bubonic Plague Found in a Herder in Inner Mongolia, China Says](https://www.nytimes.com/2020/07/06/world/asia/china-bubonic-plague-inner-mongolia.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Após prisão de Ghislaine Maxwell, príncipe Andrew 'deveria estar em pânico', diz denunciante de Jeffrey Epstein em entrevista](https://epoca.globo.com/mundo/apos-prisao-de-ghislaine-maxwell-principe-andrew-deveria-estar-em-panico-diz-denunciante-de-jeffrey-epstein-em-entrevista-1-24517465)
+* [Fiscal da Vigilância Sanitária do Rio após ataque: 'As agressões não me atingiram. Estou ali para proteger a vida deles'](https://oglobo.globo.com/rio/fiscal-da-vigilancia-sanitaria-do-rio-apos-ataque-as-agressoes-nao-me-atingiram-estou-ali-para-proteger-vida-deles-24517459)
 * [Detran do Rio retoma dez serviços a partir desta segunda-feira; veja as regras](https://oglobo.globo.com/rio/detran-do-rio-retoma-dez-servicos-partir-desta-segunda-feira-veja-as-regras-24517396)
+* [Com recorde de casos de Covid-19, Austrália fecha fronteiras de estados mais populosos](https://oglobo.globo.com/mundo/com-recorde-de-casos-de-covid-19-australia-fecha-fronteiras-de-estados-mais-populosos-24517441)
 * [Fluminense terá mando de campo na final da Taça Rio, no Maracanã, contra o Flamengo](https://oglobo.globo.com/esportes/fluminense-tera-mando-de-campo-na-final-da-taca-rio-no-maracana-contra-flamengo-24517428)
-* [Chefe da milícia na Taquara é preso em sítio de luxo em Guaratiba, na Zona Oeste do Rio](https://oglobo.globo.com/rio/chefe-da-milicia-na-taquara-preso-em-sitio-de-luxo-em-guaratiba-na-zona-oeste-do-rio-1-24517371)
+* [Coronavírus: por que números de casos e mortes por covid-19 no Brasil podem estar longe da realidade](https://epoca.globo.com/brasil/coronavirus-por-que-numeros-de-casos-mortes-por-covid-19-no-brasil-podem-estar-longe-da-realidade-24517426)
 * [Ameba 'comedora de cérebro': caso de infecção na Flórida gera alerta nos EUA](https://epoca.globo.com/mundo/ameba-comedora-de-cerebro-caso-de-infeccao-na-florida-gera-alerta-nos-eua-24517404)
 * [FGTS: Caixa deposita até R$ 1.045 para nascidos em fevereiro nesta segunda-feira. Veja o calendário](https://oglobo.globo.com/economia/fgts-caixa-deposita-ate-1045-para-nascidos-em-fevereiro-nesta-segunda-feira-veja-calendario-24517353)
 * [Coronavírus: com poucos testes e sem lockdown, qual o mistério por trás da baixa mortalidade no Japão](https://epoca.globo.com/mundo/coronavirus-com-poucos-testes-sem-lockdown-qual-misterio-por-tras-da-baixa-mortalidade-no-japao-24517374)
-* [Plataforma vende mensagens em vídeo de ídolos como Zico e Rafinha](https://oglobo.globo.com/esportes/plataforma-vende-mensagens-em-video-de-idolos-como-zico-rafinha-24517341)
-* [Professora de História atacada nas redes sociais por ser negra participa da live 'As novas faces do racismo'](https://oglobo.globo.com/celina/professora-de-historia-atacada-nas-redes-sociais-por-ser-negra-participa-da-live-as-novas-faces-do-racismo-24517368)
-* [Vacina contra o coronavírus: órgão regulador dos EUA põe em dúvida previsão de Trump](https://epoca.globo.com/mundo/vacina-contra-coronavirus-orgao-regulador-dos-eua-poe-em-duvida-previsao-de-trump-24517360)
 * [A aposentadoria de Marfan Vieira](https://epoca.globo.com/guilherme-amado/a-aposentadoria-de-marfan-vieira-24514955)

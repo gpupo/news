@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 04:12:50 UTC
+# indexed at 06/07/2020 04:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
-* [A Look into the Wild Economy of Tabletop Board Game Funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
-* [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
 * [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
+* [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
 * [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
+* [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
 * [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
-* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+* [Center for Computational Biology](https://ccb.berkeley.edu/)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
+* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
 * [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Debubble](http://debubble.me)
 * [Did a Chinese Hack Kill Canada’s Greatest Tech Company?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
 * [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
-* [Center for Computational Biology](https://ccb.berkeley.edu/)
-* [Taaalk [Update: site now back up]](https://taaalk.co/#vn)
 * [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
+* [Taaalk [Update: site now back up]](https://taaalk.co/#vn)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
+* [Elements C++ GUI Library](https://github.com/cycfi/elements)
 * [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
 * [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
-* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
-* [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
 * [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
+* [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
+* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
 * [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
-* [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
-* [Covid-19 Treatment with Zinc Plus Low Dose Hydroxychloroquine and Azithromycin](https://www.preprints.org/manuscript/202007.0025/v1)
-* [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
 * [Harvesting Hydrogen from Nanogardens](https://phys.org/news/2020-07-harvesting-hydrogen-nanogardens.html)
-* [Elements C++ GUI Library](https://github.com/cycfi/elements)
+* [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
+* [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
+* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
 ## nytimes.com
 
 
@@ -66,17 +66,17 @@ layout: default
 * [Uber to Buy Postmates for $2.65 Billion](https://www.nytimes.com/2020/07/05/technology/uber-postmates-deal.html)
 * [Iran Nuclear Program Set Back Months; Bomb Used, Official Says](https://www.nytimes.com/2020/07/05/world/middleeast/iran-Natanz-nuclear-damage.html)
 * [Massachusetts Detective Is Fired Over Black Lives Matter Post](https://www.nytimes.com/2020/07/05/us/Black-lives-matter-detective-fired-Springfield.html)
-* [Atlantic Coast Pipeline Canceled as Delays and Costs Mount](https://www.nytimes.com/2020/07/05/business/atlantic-coast-pipeline-cancel-dominion-energy-berkshire-hathaway.html)
+* [8 People Believed Dead After Planes Collide and Crash Into Idaho Lake](https://www.nytimes.com/2020/07/06/us/Idaho-plane-crash.html)
 * [Seattle Protester, Summer Taylor, Dies After Being Struck by Car](https://www.nytimes.com/2020/07/05/us/summer-taylor-seattle.html)
 * [‘Strategic Empathy’: How Biden’s Informal Diplomacy Shaped Foreign Relations](https://www.nytimes.com/2020/07/05/us/politics/joe-biden-foreign-policy.html)
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
 * [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
 * [Croatian Prime Minister’s Gamble on Early Elections Pays Off.](https://www.nytimes.com/2020/07/05/world/europe/croatia-election-plenkovic-coronavirus.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Couture Fashion: Here's What Happened](https://www.nytimes.com/2020/07/04/style/couture-workers-fashion-coronavirus.html)
 * [For Interracial Couples, Advocacy Is a Love Language](https://www.nytimes.com/2020/07/02/fashion/weddings/for-interracial-couples-advocacy-is-a-love-language.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Grand Designs’](https://www.nytimes.com/2020/07/03/arts/television/grand-designs-stream-netflix.html)

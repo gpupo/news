@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 21:12:01 UTC
+# indexed at 06/07/2020 21:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
 * [1:60 scale Boeing 777 made from manila folders](https://www.lucaiaconistewart.com/model-777)
-* [Booting a 486 from Floppy with the Most Up-to-Date Stable Linux Kernel](https://www.insentricity.com/a.cl/283)
+* [Booting a 486 from floppy with the most up-to-date stable Linux kernel](https://www.insentricity.com/a.cl/283)
 * [Decision for 2020-21 Academic Year](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
-* [ICE changes exemptions for foreign students taking online courses in Fall 2020](https://www.ice.gov/news/releases/sevp-modifies-temporary-exemptions-nonimmigrant-students-taking-online-courses-during)
+* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
-* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
+* [Abusing linear regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 * [Berkshire Hathaway buys Dominion Energy natural gas assets in $10B deal](https://www.cnbc.com/2020/07/05/warren-buffetts-berkshire-buys-dominion-energy-natural-gas-assets-in-10-billion-deal.html)
-* [Abusing Linear Regression to Make a Point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
+* [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
 * [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
-* [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
+* [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
 * [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
+* [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
+* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
-* [From the gig economy to the creator economy to the participatory economy](https://sariazout.substack.com/p/check-your-pulse-48)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
 * [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
+* [From the gig economy to the creator economy to the participatory economy](https://sariazout.substack.com/p/check-your-pulse-48)
 * [A startup is testing a subscription model for search engines](https://www.wired.com/story/a-startup-is-testing-the-subscription-model-for-search-engines/)
-* [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
-* [Using Babel transforms to inject analytics code at build time](https://heap.io/blog/engineering/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native)
-* [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 * [Giant flywheel project in Scotland could prevent UK blackouts](https://www.theguardian.com/business/2020/jul/06/giant-flywheel-project-in-scotland-could-prevent-uk-blackouts-energy)
+* [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 * [Mini-LED, Micro-LED and OLED displays: present status and future perspectives](https://www.nature.com/articles/s41377-020-0341-9)
 * [Building a CT Scan Covid-19 Classifier Using PyTorch](https://blog.paperspace.com/fighting-coronavirus-with-ai-building-covid-19-classifier/)
+* [Using Babel transforms to inject analytics code at build time](https://heap.io/blog/engineering/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native)
 * [Limitations and pitfalls of the job interview](https://fs.blog/2020/07/job-interviews/)
 * [A crash course in just-in-time compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
-* [M60 – Open-Source USB&BLE, Hot-Swappable Mechanical Keyboard Powered by Python](https://makerdiary.com/pages/m60-mechanical-keyboard)
 ## nytimes.com
 
 
@@ -49,6 +49,7 @@ layout: default
 * [States May Curb ‘Faithless Electors,’ Supreme Court Rules](https://www.nytimes.com/2020/07/06/us/electoral-college-supreme-court.html)
 * [Trump Defends Confederate Flag in Latest Race-Based Appeal to White Voters](https://www.nytimes.com/2020/07/06/us/politics/trump-bubba-wallace-nascar.html)
 * [Trump Vowed to ‘Drain the Swamp,’ but Lobbyists Are Helping Run His Campaign](https://www.nytimes.com/2020/07/06/us/politics/trump-lobbyists-swamp-campaign.html)
+* [‘It’s Got to Stop’: Atlanta’s Mayor Decries a Surge of Violence as a Girl Is Killed](https://www.nytimes.com/2020/07/06/us/children-killed-atlanta.html)
 * [Amy Cooper Faces Charges After Calling Police on Black Bird Watcher](https://www.nytimes.com/2020/07/06/nyregion/amy-cooper-false-report-charge.html)
 * [Phoenix Police Kill Man in Parked Car, Igniting New Protests](https://www.nytimes.com/2020/07/06/us/phoenix-arizona-police-shooting-garcia.html)
 * [Meet the Gleaners, Combing Farm Fields to Feed the Newly Hungry](https://www.nytimes.com/2020/07/06/dining/gleaners-farm-food-waste.html)
@@ -71,17 +72,17 @@ layout: default
 * [Dakota Access Pipeline to Shut Down Pending Review, Federal Judge Rules](https://www.nytimes.com/2020/07/06/us/dakota-access-pipeline.html)
 * [Facebook Temporarily Stops Hong Kong Data Requests](https://www.nytimes.com/2020/07/06/technology/facebook-temporarily-stops-hong-kong-data-requests.html)
 * [Vanessa Guillen’s Remains Found, Family Confirms](https://www.nytimes.com/2020/07/06/us/fort-hood-soldier-vanessa-guillen-remains-found.html)
-* [Simon & Schuster Names Dana Canedy New Publisher](https://www.nytimes.com/2020/07/06/books/dana-canedy-named-simon-schuster-publisher.html)
+* [Two Horses Trained by Baffert Test Positive for Banned Substances](https://www.nytimes.com/2020/07/06/sports/horse-racing/baffert-drug-test-charlatan-gamine.html)
 * [Simon & Schuster Advances Publication Date of Trump Tell-All](https://www.nytimes.com/2020/07/06/us/politics/mary-trump-book.html)
 * [Charlie Daniels, Who Bridged Country and Rock, Dies at 83](https://www.nytimes.com/2020/07/06/arts/music/charlie-daniels-dead.html)
 * [Actors’ Equity Signs Off on Live Theater in the Berkshires](https://www.nytimes.com/2020/07/06/theater/actors-equity-theater-reopening.html)
 * [Lenora Fay Garfinkel, 90, Architect for Orthodox Jewish Communities, Dies](https://www.nytimes.com/2020/07/03/obituaries/lenora-garfinkel-dead-coronavirus.html)
 * [Why College Students May Qualify for Special Covid Pandemic Aid](https://www.nytimes.com/2020/07/03/your-money/students-unemployment-insurance-coronavirus.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [5 Caribbean Vacation Destinations Reopening This Summer](https://www.nytimes.com/article/caribbean-reopening-coronavirus.html)
 * [Coronavirus Leads Some Athletes to Opt Out, if They Can Afford It](https://www.nytimes.com/2020/07/03/sports/coronavirus-players-nba-mlb-opt-out.html)
 * [As Coronavirus Cases Surge, Families Struggle to Draw Boundaries](https://www.nytimes.com/2020/06/29/parenting/family-socially-distancing-coronavirus.html)
@@ -97,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Jesus relatou no Flamengo irritação com declaração de Bap sobre substituição no Mundial](https://oglobo.globo.com/esportes/jesus-relatou-no-flamengo-irritacao-com-declaracao-de-bap-sobre-substituicao-no-mundial-24518182)
+* [Análise: Ennio Morricone fazia a trilha sonora sobreviver ao filme](https://oglobo.globo.com/cultura/analise-ennio-morricone-fazia-trilha-sonora-sobreviver-ao-filme-24517891)
+* [MP 936: Bolsonaro sanciona projeto que autoriza suspensão de contratos e redução de jornada e salário](https://oglobo.globo.com/economia/mp-936-bolsonaro-sanciona-projeto-que-autoriza-suspensao-de-contratos-reducao-de-jornada-salario-24518320)
 * [Agressor de fiscal da Vigilância Sanitária recebeu auxílio emergencial](https://oglobo.globo.com/rio/agressor-de-fiscal-da-vigilancia-sanitaria-recebeu-auxilio-emergencial-1-24518201)
+* [Na reta final da campanha à reeleição, presidente da Polônia propõe proibir casais gays de adotarem filhos](https://oglobo.globo.com/mundo/na-reta-final-da-campanha-reeleicao-presidente-da-polonia-propoe-proibir-casais-gays-de-adotarem-filhos-24518302)
+* [Jesus relatou no Flamengo irritação com declaração de Bap sobre substituição no Mundial](https://oglobo.globo.com/esportes/jesus-relatou-no-flamengo-irritacao-com-declaracao-de-bap-sobre-substituicao-no-mundial-24518182)
 * [Comissão do impeachment na Alerj decide retomar contagem de prazos para defesa de Witzel](https://oglobo.globo.com/rio/comissao-do-impeachment-na-alerj-decide-retomar-contagem-de-prazos-para-defesa-de-witzel-24518255)
 * [Restaurantes reabrem com movimento fraco e improvisos em SP](https://oglobo.globo.com/sociedade/restaurantes-reabrem-com-movimento-fraco-improvisos-em-sp-24518254)
-* [O que está em jogo na ação no STF em que indígenas acusam governo de 'genocídio' e cobram ações contra a pandemia](https://epoca.globo.com/brasil/o-que-esta-em-jogo-na-acao-no-stf-em-que-indigenas-acusam-governo-de-genocidio-cobram-acoes-contra-pandemia-24518170)
-* [Índia tem quase 700 mil casos da Covid-19 e é o terceiro país mais afetado do mundo](https://oglobo.globo.com/mundo/india-tem-quase-700-mil-casos-da-covid-19-e-terceiro-pais-mais-afetado-do-mundo-1-24518158)
 * [Campeonato de surfe virtual vai premiar a melhor onda do inverno em Niterói](https://oglobo.globo.com/rio/bairros/campeonato-de-surfe-virtual-vai-premiar-melhor-onda-do-inverno-em-niteroi-1-24514683)
 * [Espanha aprova extradição de ex-diretor da Pemex envolvido em esquema da Odebrecht](https://oglobo.globo.com/mundo/espanha-aprova-extradicao-de-ex-diretor-da-pemex-envolvido-em-esquema-da-odebrecht-24518204)
-* [Depois de ataques a fiscais, Crivella quer apoio da PM em operações da prefeitura nos bares](https://oglobo.globo.com/rio/depois-de-ataques-fiscais-crivella-quer-apoio-da-pm-em-operacoes-da-prefeitura-nos-bares-24518171)
 * [Caixa recua e deixa de cobrar tarifa de abertura de crédito no programa para micro e pequenas empresas](https://oglobo.globo.com/economia/caixa-recua-deixa-de-cobrar-tarifa-de-abertura-de-credito-no-programa-para-micro-pequenas-empresas-24518174)

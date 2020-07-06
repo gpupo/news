@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 16:13:05 UTC
+# indexed at 06/07/2020 16:34:43 UTC
 
 
 ## news.ycombinator.com
 
 
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
-* [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
 * [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
-* [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
+* [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
-* [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
+* [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
+* [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
 * [Brave Browser, wiping history still leaves trace of visited sites](https://github.com/brave/brave-browser/issues/9929)
-* [I Got My Attention Back (2017)](https://craigmod.com/essays/how_i_got_my_attention_back/)
-* [QTile – An XMonad-like tiling WM written in Python](http://www.qtile.org/)
 * [A crash course in just-in-time compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+* [QTile – An XMonad-like tiling WM written in Python](http://www.qtile.org/)
 * [M60 – Open-Source USB&BLE, Hot-Swappable Mechanical Keyboard Powered by Python](https://makerdiary.com/pages/m60-mechanical-keyboard)
+* [I Got My Attention Back (2017)](https://craigmod.com/essays/how_i_got_my_attention_back/)
+* [Building a CT Scan Covid-19 Classifier Using PyTorch](https://blog.paperspace.com/fighting-coronavirus-with-ai-building-covid-19-classifier/)
 * [Everything I Know (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
+* [Mini-LED, Micro-LED and OLED displays: present status and future perspectives](https://www.nature.com/articles/s41377-020-0341-9)
 * [Ennio Morricone has died](https://www.hollywoodreporter.com/news/ennio-morricone-dead-prolific-italian-composer-was-91-858358)
 * [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
 * [LIVR: Language Independent Validation Rules](https://livr-spec.org/)
+* [Wearable Sensors: A call to action for remote patient monitoring and assessment](https://www.frontiersin.org/articles/10.3389/fdgth.2020.00008/full)
 * [No, Dopamine Is Not Addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
-* [Building a CT Scan Covid-19 Classifier Using PyTorch](https://blog.paperspace.com/fighting-coronavirus-with-ai-building-covid-19-classifier/)
 * [Parsing city of origin and destination city from a string](https://stackoverflow.com/questions/59956670/parsing-city-of-origin-destination-city-from-a-string)
-* [The Magnetic Universe Begins to Come into View](https://www.quantamagazine.org/the-hidden-magnetic-universe-begins-to-come-into-view-20200702/)
 * [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
+* [The Magnetic Universe Begins to Come into View](https://www.quantamagazine.org/the-hidden-magnetic-universe-begins-to-come-into-view-20200702/)
 * [Implementing Ishido in Racket](https://alex-hhh.github.io/2020/06/ishido.html)
-* [Don't bet on the most likely winner](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
-* [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
 * [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
+* [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
+* [Don't bet on the most likely winner](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
+* [Job interviews don't work](https://fs.blog/2020/07/job-interviews/)
 * [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
-* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
-* [Mission Control: A History of the Urban Dashboard (2015)](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/)
-* [How People Learn – The Brain Basics](https://iuliangulea.com/blog/how-people-learn-the-brain-basics/)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [Biden’s Big Climate Decision: Will He Embrace His Task Force’s Goals?](https://www.nytimes.com/2020/07/06/us/politics/joe-biden-climate-change.html)
 * [Why New York Buses Are on the Rise in a Subway City](https://www.nytimes.com/2020/07/06/nyregion/mta-buses-nyc-coronavirus.html)
 * [A Kennedy and a Professor Compete to Run Against a Trump Backer](https://www.nytimes.com/2020/07/06/nyregion/Jeff-van-drew-primary.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Can Cam Newton Be Superman Again?](https://www.nytimes.com/2020/07/06/sports/football/cam-newton-new-england-patriots.html)
 * [Reflecting on Summer Camp in Our Campless Summer](https://www.nytimes.com/2020/07/03/well/family/summer-camp-letters.html)
 * [What Is the Status of Trump’s ‘Big, Beautiful Wall’?](https://www.nytimes.com/2020/07/02/books/review/14-miles-dw-gibson.html)
 * [If a Zoom Wedding Isn’t for You, Here’s How to Plan For Later](https://www.nytimes.com/2020/07/04/fashion/weddings/no-zoom-wedding-next-year.html)
 * [Living With Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
-* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [Where You Can See the Stars of ‘Hamilton’ Now](https://www.nytimes.com/2020/07/04/movies/hamilton-anthony-ramos.html)
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Relatório da ONU alerta para o surgimento de novos surtos de doenças zoonóticas, como a Covid-19](https://epoca.globo.com/relatorio-da-onu-alerta-para-surgimento-de-novos-surtos-de-doencas-zoonoticas-como-covid-19-24517622)
+* [Trump usa Cristo Redentor em campanha pela preservação de estátuas](https://oglobo.globo.com/mundo/trump-usa-cristo-redentor-em-campanha-pela-preservacao-de-estatuas-24517709)
+* [Mulher que atacou fiscal da Vigilância Sanitária é demitida](https://oglobo.globo.com/rio/mulher-que-atacou-fiscal-da-vigilancia-sanitaria-demitida-24517701)
 * [Brasil ultrapassa 65 mil mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-65-mil-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-13h-24517567)
-* [Petrobras espera chegar a acordo com Odebrecht para vender Braskem em seis meses](https://oglobo.globo.com/economia/petrobras-espera-chegar-acordo-com-odebrecht-para-vender-braskem-em-seis-meses-24517669)
-* [Ennio Morricone deixou obituário pronto para 'não dar trabalho'](https://oglobo.globo.com/cultura/ennio-morricone-deixou-obituario-pronto-para-nao-dar-trabalho-1-24517634)
 * [Uber compra Postmates, app de entrega de refeições, por US$ 2,65 bilhões](https://oglobo.globo.com/economia/uber-compra-postmates-app-de-entrega-de-refeicoes-por-us-265-bilhoes-24517663)
+* [Tribunal russo condena jornalista que criticou forças de segurança por terrorismo](https://oglobo.globo.com/mundo/tribunal-russo-condena-jornalista-que-criticou-forcas-de-seguranca-por-terrorismo-24517632)
+* [Petrobras espera chegar a acordo com Odebrecht para vender Braskem em seis meses](https://oglobo.globo.com/economia/petrobras-espera-chegar-acordo-com-odebrecht-para-vender-braskem-em-seis-meses-24517669)
+* [Relatório da ONU alerta para o surgimento de novos surtos de doenças zoonóticas, como a Covid-19](https://epoca.globo.com/relatorio-da-onu-alerta-para-surgimento-de-novos-surtos-de-doencas-zoonoticas-como-covid-19-24517622)
+* [Ennio Morricone deixou obituário pronto para 'não dar trabalho'](https://oglobo.globo.com/cultura/ennio-morricone-deixou-obituario-pronto-para-nao-dar-trabalho-1-24517634)
 * [PF conclui investigação sobre incêndio no Museu Nacional e descarta ação criminosa](https://oglobo.globo.com/rio/pf-conclui-investigacao-sobre-incendio-no-museu-nacional-descarta-acao-criminosa-24517629)
-* [Com filme surrealista, Dior apresenta coleção de inverno 2020/2021 de alta-costura](https://oglobo.globo.com/ela/moda/com-filme-surrealista-dior-apresenta-colecao-de-inverno-20202021-de-alta-costura-24517590)
-* [Ennio Morricone e Sergio Leone: de amigos da escola a dupla que reinventou o faroeste](https://oglobo.globo.com/cultura/filmes/ennio-morricone-sergio-leone-de-amigos-da-escola-dupla-que-reinventou-faroeste-24517525)
-* [Homem-bomba do governo Witzel fica calado em depoimento à Alerj](https://epoca.globo.com/guilherme-amado/homem-bomba-do-governo-witzel-fica-calado-em-depoimento-alerj-24517572)
 * [Campeonato de surfe virtual vai premiar a melhor onda do inverno em Niterói](https://oglobo.globo.com/rio/bairros/campeonato-de-surfe-virtual-vai-premiar-melhor-onda-do-inverno-em-niteroi-24514683)

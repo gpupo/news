@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 10:12:36 UTC
+# indexed at 06/07/2020 10:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
 * [Everything I Know (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
+* [If you're a techno-optimist, you should read the Unabomber Manifesto](https://www.roelpeters.be/industrial-society-and-its-future-the-intelligent-yet-angry-writings-of-a-terrorist/)
 * [Ennio Morricone has died](https://www.hollywoodreporter.com/news/ennio-morricone-dead-prolific-italian-composer-was-91-858358)
 * [Don't bet on the most likely winner](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
-* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
+* [Brave Browser, wiping history still leaves trace of visited sites](https://github.com/brave/brave-browser/issues/9929)
 * [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
-* [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
 * [I Got My Attention Back (2017)](https://craigmod.com/essays/how_i_got_my_attention_back/)
-* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
-* [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
-* [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
-* [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
-* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
-* [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
+* [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
+* [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
+* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
+* [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
+* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
+* [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
+* [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
 * [Ask HN: Best ways to retain qualified employees?](https://news.ycombinator.com/item?id=23746156)
+* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Walking Dream – single-player adventure game for the Oculus Quest](http://walkingdre.am/)
 * [Parsing city of origin and destination city from a string](https://stackoverflow.com/questions/59956670/parsing-city-of-origin-destination-city-from-a-string)
-* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [The Magnetic Universe Begins to Come into View](https://www.quantamagazine.org/the-hidden-magnetic-universe-begins-to-come-into-view-20200702/)
-* [Signaling virtuous victimhood as indicators of Dark Triad personalities](https://psycnet.apa.org/record/2020-46166-001)
-* [Epoxy: Interactive Model Iteration with Weak Supervision](https://github.com/HazyResearch/epoxy)
 * [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
 * [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [Epoxy: Interactive Model Iteration with Weak Supervision](https://github.com/HazyResearch/epoxy)
 * [Elements C++ GUI Library](https://github.com/cycfi/elements)
 * [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
 * [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
-* [Did a Chinese Hack Kill Nortel?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [The Next Energy Battle: Renewables vs. Natural Gas](https://www.nytimes.com/2020/07/06/business/energy-environment/renewable-energy-natural-gas.html)
 * [A Kennedy Wife and a Professor Compete to Run Against a Trump Backer](https://www.nytimes.com/2020/07/06/nyregion/Jeff-van-drew-primary.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Can Cam Newton Be Superman Again?](https://www.nytimes.com/2020/07/06/sports/football/cam-newton-new-england-patriots.html)
 * [Reflecting on Summer Camp in Our Campless Summer](https://www.nytimes.com/2020/07/03/well/family/summer-camp-letters.html)
 * [What Is the Status of Trump’s ‘Big, Beautiful Wall’?](https://www.nytimes.com/2020/07/02/books/review/14-miles-dw-gibson.html)
 * [If a Zoom Wedding Isn’t for You, Here’s How to Plan For Later](https://www.nytimes.com/2020/07/04/fashion/weddings/no-zoom-wedding-next-year.html)
 * [Living With Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
-* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
-* [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
 * [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
+* [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
+* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [Massachusetts Detective Is Fired Over Black Lives Matter Post](https://www.nytimes.com/2020/07/05/us/Black-lives-matter-detective-fired-Springfield.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

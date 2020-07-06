@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 23:11:42 UTC
+# indexed at 06/07/2020 23:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -13,29 +13,29 @@ layout: default
 * [US online grocery sales hit record $7.2B in June](https://techcrunch.com/2020/07/06/u-s-online-grocery-shopping-hits-record-7-2-billion-in-june/)
 * [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [Decision for 2020-21 Academic Year](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
+* [H-1B: Government issues first-ever official estimate of visa population in U.S.](https://www.mercurynews.com/2020/06/26/h-1b-government-issues-first-ever-official-estimate-of-visa-population-in-u-s/)
 * [Microsoft interested in buying Warner Bros' gaming unit](https://www.reuters.com/article/us-at-t-divestitutre-microsoft-idUSKBN2472LF)
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
 * [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
-* [H-1B: Government issues first-ever official estimate of visa population in U.S.](https://www.mercurynews.com/2020/06/26/h-1b-government-issues-first-ever-official-estimate-of-visa-population-in-u-s/)
+* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [Abusing linear regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
-* [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
-* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
 * [How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands)
-* [How “Starship Troopers” Aligns with Our Moment of American Defeat](https://www.newyorker.com/culture/culture-desk/how-starship-troopers-aligns-with-our-moment-of-american-defeat)
+* [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
+* [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
+* [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
 * [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
-* [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
 * [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
 * [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
-* [Berkshire Hathaway buys Dominion Energy natural gas assets in $10B deal](https://www.cnbc.com/2020/07/05/warren-buffetts-berkshire-buys-dominion-energy-natural-gas-assets-in-10-billion-deal.html)
 * [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
-* [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 * [A startup is testing a subscription model for search engines](https://www.wired.com/story/a-startup-is-testing-the-subscription-model-for-search-engines/)
+* [Berkshire Hathaway buys Dominion Energy natural gas assets in $10B deal](https://www.cnbc.com/2020/07/05/warren-buffetts-berkshire-buys-dominion-energy-natural-gas-assets-in-10-billion-deal.html)
+* [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 * [From the gig economy to the creator economy to the participatory economy](https://sariazout.substack.com/p/check-your-pulse-48)
 * [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 ## nytimes.com
@@ -43,7 +43,7 @@ layout: default
 
 * [Live Coronavirus Updates: Miami Reverses Course on Reopening](https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html)
 * [Reopening N.Y.C. Schools Safely: A Huge Challenge](https://www.nytimes.com/2020/07/06/nyregion/nyc-school-reopening-plan.html)
-* [Treasury Says Small-Business Loans Supported Over 50 Million Jobs: Live Updates](https://www.nytimes.com/2020/07/06/business/stock-market-today-coronavirus.html)
+* [Lobbyists, Law Firms and Trade Groups Took Small-Business Loans](https://www.nytimes.com/2020/07/06/us/ppp-small-business-loans.html)
 * [Virus Revives Italy’s Age-Old Shadow Safety Net: The Pawnshop](https://www.nytimes.com/2020/07/06/world/europe/italy-coronavirus-pawnshops.html)
 * [In Nick Cordero’s Death, a Reminder of Covid-19’s Unknowns](https://www.nytimes.com/2020/07/06/health/coronavirus-nick-cordero-underlying-conditions.html)
 * [Supreme Court Rules States May Curb 'Faithless Electors' in Electoral College](https://www.nytimes.com/2020/07/06/us/politics/electoral-college-supreme-court.html)
@@ -80,11 +80,11 @@ layout: default
 * [Charlie Daniels, Fiddling Force in Country and Rock, Dies at 83](https://www.nytimes.com/2020/07/06/arts/music/charlie-daniels-dead.html)
 * [Actors’ Equity Signs Off on Live Theater in the Berkshires](https://www.nytimes.com/2020/07/06/theater/actors-equity-theater-reopening.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [Italy’s Outdoor Summer Movies See Threat From Ailing Film Industry](https://www.nytimes.com/2020/07/05/world/europe/coronavirus-italy-outdoor-movies-festivals.html)
 * [5 Caribbean Vacation Destinations Reopening This Summer](https://www.nytimes.com/article/caribbean-reopening-coronavirus.html)
 * [Cherokee Women Aim for a Better Life in ‘Crooked Hallelujah’](https://www.nytimes.com/2020/07/06/books/review-crooked-hallelujah-kelli-jo-ford.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Bolsonaro diz ter feito exame no pulmão e que fará outro teste para o coronavírus](https://oglobo.globo.com/brasil/bolsonaro-diz-ter-feito-exame-no-pulmao-que-fara-outro-teste-para-coronavirus-24518417)
 * [EUA revogarão vistos de estudantes estrangeiros que não tiverem aulas presenciais na pandemia](https://oglobo.globo.com/mundo/eua-revogarao-vistos-de-estudantes-estrangeiros-que-nao-tiverem-aulas-presenciais-na-pandemia-24518363)
-* [Com 656 mortes novas mortes, Brasil ultrapassa 65 mil óbitos por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/com-656-mortes-novas-mortes-brasil-ultrapassa-65-mil-obitos-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24518476)
+* [Com 656 novas mortes, Brasil ultrapassa 65 mil óbitos por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/com-656-novas-mortes-brasil-ultrapassa-65-mil-obitos-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24518476)
+* [Ministro que se reuniu com Bolsonaro fará exame de Covid-19 nesta terça](https://oglobo.globo.com/brasil/ministro-que-se-reuniu-com-bolsonaro-fara-exame-de-covid-19-nesta-terca-24518584)
+* [Bolsonaro diz ter feito exame no pulmão e que fará outro teste para o coronavírus](https://oglobo.globo.com/brasil/bolsonaro-diz-ter-feito-exame-no-pulmao-que-fara-outro-teste-para-coronavirus-1-24518417)
+* [Tráfico e milícia dominam 1.413 favelas do Rio e número de bandidos é maior que o de PMs nas ruas, aponta relatório](https://oglobo.globo.com/rio/trafico-milicia-dominam-1413-favelas-do-rio-numero-de-bandidos-maior-que-de-pms-nas-ruas-aponta-relatorio-24518524)
+* ['Estamos apavorados com tudo isso', diz engenheiro, que nega ter agredido fiscal da Vigilância Sanitária](https://oglobo.globo.com/rio/estamos-apavorados-com-tudo-isso-diz-engenheiro-que-nega-ter-agredido-fiscal-da-vigilancia-sanitaria-24518542)
 * [Globo não transmitirá final da Taça Rio entre Fluminense e Flamengo](https://oglobo.globo.com/esportes/globo-nao-transmitira-final-da-taca-rio-entre-fluminense-flamengo-24518370)
 * [MPF pede à Justiça afastamento de Ricardo Salles do Ministério do Meio Ambiente](https://oglobo.globo.com/sociedade/mpf-pede-justica-afastamento-de-ricardo-salles-do-ministerio-do-meio-ambiente-24518388)
 * [Morricone: curador de mostra sobre compositor indica as trilhas essenciais](https://oglobo.globo.com/rioshow/morricone-curador-de-mostra-sobre-compositor-indica-as-trilhas-essenciais-24518422)
 * [CBF rebate Doria sobre participação de clubes paulistas no Brasileirão](https://oglobo.globo.com/esportes/cbf-rebate-doria-sobre-participacao-de-clubes-paulistas-no-brasileirao-24518418)
-* [NFL: Mahomes renova por 10 anos com o Kansas City Chiefs e bate recorde contratual](https://oglobo.globo.com/esportes/nfl-mahomes-renova-por-10-anos-com-kansas-city-chiefs-bate-recorde-contratual-24518361)
-* [Marido asfixiou arquiteta com as próprias mãos; Justiça converte prisão em preventiva](https://oglobo.globo.com/rio/marido-asfixiou-arquiteta-com-as-proprias-maos-justica-converte-prisao-em-preventiva-24518346)
-* [Governo defende venda de refinarias da Petrobras, após Congresso pedir bloqueio de privatizações ao STF](https://oglobo.globo.com/economia/governo-defende-venda-de-refinarias-da-petrobras-apos-congresso-pedir-bloqueio-de-privatizacoes-ao-stf-24518328)

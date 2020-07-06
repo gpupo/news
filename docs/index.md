@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 07:34:49 UTC
+# indexed at 06/07/2020 08:13:43 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Ennio Morricone has died](https://www.hollywoodreporter.com/news/ennio-morricone-dead-prolific-italian-composer-was-91-858358)
+* [Everything I Know (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 * [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
 * [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
 * [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
-* [Scrapingworld.com – Scraping Directory: components, providers, knowledge base](https://www.scrapingworld.com)
 * [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
 * [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
-* [Walking Dream – single-player adventure game for the Oculus Quest](http://walkingdre.am/)
-* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
+* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
 * [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
+* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Debubble](http://debubble.me)
+* [Don't bet on the most likely winner](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
+* [Walking Dream – single-player adventure game for the Oculus Quest](http://walkingdre.am/)
+* [Epoxy: Interactive Model Iteration with Weak Supervision](https://github.com/HazyResearch/epoxy)
 * [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
-* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
+* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [Parsing city of origin and destination city from a string](https://stackoverflow.com/questions/59956670/parsing-city-of-origin-destination-city-from-a-string)
 * [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [Elements C++ GUI Library](https://github.com/cycfi/elements)
 * [Did a Chinese Hack Kill Nortel?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
-* [Ennio Morricone, Prolific Italian Composer for the Movies, Dies at 91](https://www.hollywoodreporter.com/news/ennio-morricone-dead-prolific-italian-composer-was-91-858358)
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
-* [Contrarian view on closing files](https://coady.github.io/posts/closing-files/)
+* [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 * [Taaalk [Update: site now back up]](https://taaalk.co/#vn)
 * [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
-* [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 * [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
-* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
-* [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
-* [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 ## nytimes.com
 
 
@@ -48,6 +48,7 @@ layout: default
 * [Chicago Gun Violence Spikes and Increasingly Finds the Youngest Victims](https://www.nytimes.com/2020/07/05/us/chicago-shootings.html)
 * [Hong Kong Security Law Redraws Lines, Making Some Ideas Dangerous](https://www.nytimes.com/2020/07/05/world/asia/hong-kong-security-law.html)
 * [Broadway Actor Nick Cordero Dead at 41 of Coronavirus](https://www.nytimes.com/2020/07/05/arts/nick-cordero-dead-coronavirus.html)
+* [Ennio Morricone, Influential Creator of Music for Modern Cinema, Dies at 91](https://www.nytimes.com/2020/07/06/obituaries/ennio-morricone-dead.html)
 * [How Netflix Beat Hollywood to a Generation of Black Content](https://www.nytimes.com/2020/07/05/business/media/netflix-hollywood-black-culture.html)
 * [Bogus Ideas Have Superspreaders, Too](https://www.nytimes.com/2020/07/01/technology/social-media-superspreaders.html)
 * [Jules Feiffer on His Long, Varied Career](https://www.nytimes.com/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html)
@@ -73,9 +74,9 @@ layout: default
 * [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
 * [Croatian Prime Minister’s Gamble on Early Elections Pays Off.](https://www.nytimes.com/2020/07/05/world/europe/croatia-election-plenkovic-coronavirus.html)
 * [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Couture Fashion: Here's What Happened](https://www.nytimes.com/2020/07/04/style/couture-workers-fashion-coronavirus.html)
 * [For Interracial Couples, Advocacy Is a Love Language](https://www.nytimes.com/2020/07/02/fashion/weddings/for-interracial-couples-advocacy-is-a-love-language.html)
@@ -93,13 +94,13 @@ layout: default
 ## globo.com
 
 
-* ['Me senti seguro no jogo', diz árbitro-enfermeiro que trata pacientes com coronavírus](https://oglobo.globo.com/esportes/me-senti-seguro-no-jogo-diz-arbitro-enfermeiro-que-trata-pacientes-com-coronavirus-1-24516659)
-* [Reportagem expõe dificuldade de combater a pandemia em 10 mil escolas sem água limpa](https://oglobo.globo.com/meu-oglobo/reportagem-expoe-dificuldade-de-combater-pandemia-em-10-mil-escolas-sem-agua-limpa-24517198)
-* [Governo acena ao Legislativo com um novo pacote](https://oglobo.globo.com/opiniao/governo-acena-ao-legislativo-com-um-novo-pacote-1-24514042)
-* [Também sou brasileiro](https://oglobo.globo.com/opiniao/tambem-sou-brasileiro-24516590)
-* [Onde estamos agora](https://oglobo.globo.com/opiniao/onde-estamos-agora-24515075)
-* [Nota, corda e tom](https://oglobo.globo.com/opiniao/nota-corda-tom-24514923)
-* [Brasil, nosso problema](https://oglobo.globo.com/opiniao/brasil-nosso-problema-24514898)
-* [Medicamentos para todos que precisam](https://oglobo.globo.com/opiniao/medicamentos-para-todos-que-precisam-24512266)
-* [Outra crise?](https://oglobo.globo.com/opiniao/outra-crise-24514694)
-* [Segunda sem carne: hambúrguer de triguilho e croquete de 'carne' de jaca](https://oglobo.globo.com/rioshow/segunda-sem-carne-hamburguer-de-triguilho-croquete-de-carne-de-jaca-24514281)
+* [Desmatamento de agosto a junho sobe 62%, aponta sistema de alerta do Inpe](https://oglobo.globo.com/sociedade/desmatamento-de-agosto-junho-sobe-62-aponta-sistema-de-alerta-do-inpe-24517154)
+* [Crítica: 'Liquid voices' evidencia uma habilidosa articulação entre realidade e ficção](https://oglobo.globo.com/rioshow/critica-liquid-voices-evidencia-uma-habilidosa-articulacao-entre-realidade-ficcao-24517100)
+* [Briga XP-Itaú acelera debate sobre futuro da oferta de investimento](https://oglobo.globo.com/economia/briga-xp-itau-acelera-debate-sobre-futuro-da-oferta-de-investimento-1-24517003)
+* [Sem recursos federais há sete meses, Cinemateca Brasileira pode repetir a tragédia do Museu Nacional](https://oglobo.globo.com/cultura/sem-recursos-federais-ha-sete-meses-cinemateca-brasileira-pode-repetir-tragedia-do-museu-nacional-24515943)
+* [Ex-PM acusado de integrar quadrilha de pistoleiros quer voltar à Polícia Militar](https://oglobo.globo.com/rio/ex-pm-acusado-de-integrar-quadrilha-de-pistoleiros-quer-voltar-policia-militar-24517142)
+* [Auxílio emergencial deve reduzir queda do PIB em 27%](https://oglobo.globo.com/economia/auxilio-emergencial-deve-reduzir-queda-do-pib-em-27-24517111)
+* [Hábitos pós-pandemia: será que vamos comer hambúrguer de luvas, como os russos?](https://oglobo.globo.com/boa-viagem/habitos-pos-pandemia-sera-que-vamos-comer-hamburguer-de-luvas-como-os-russos-24516972)
+* [Julho, o mês para buscar vestígios da vida em Marte](https://oglobo.globo.com/podcast/julho-mes-para-buscar-vestigios-da-vida-em-marte-1-24517025)
+* [Previdência: gasto por militar equivale a 17 vezes o do aposentado pelo INSS](https://oglobo.globo.com/economia/previdencia-gasto-por-militar-equivale-17-vezes-do-aposentado-pelo-inss-24516928)
+* [Máfia italiana se aproveita da pandemia e expande atividades ilícitas](https://oglobo.globo.com/mundo/mafia-italiana-se-aproveita-da-pandemia-expande-atividades-ilicitas-24516786)

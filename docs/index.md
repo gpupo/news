@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 02:13:58 UTC
+# indexed at 06/07/2020 02:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
-* [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
+* [4 Year Compensation Packages Comparison](https://www.levels.fyi/calculator/?co=Facebook&bs=160000&sg=350000&sbone=20000&bp=10&gr=10&co-2=Square&bs-2=145000&sg-2=275000&gr-2=48)
 * [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
-* [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
+* [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
+* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
 * [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
 * [A Look into the Wild Economy of Tabletop Board Game Funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
-* [4 Year Compensation Packages Comparison](https://www.levels.fyi/calculator/?co=Facebook&bs=160000&sg=350000&sbone=20000&bp=10&gr=10&co-2=Square&bs-2=145000&sg-2=275000&gr-2=48)
-* [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
-* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
-* [Pythonicity: Contrarian View on Closing Files](https://coady.github.io/posts/closing-files/)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
+* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
+* [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
 * [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
+* [Debubble](http://debubble.me)
 * [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
 * [Taaalk [Update: Tried to scale servers for hn, messed up, site down :( ]](https://taaalk.co/#vn)
-* [Debubble](http://debubble.me)
+* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+* [Did a Chinese Hack Kill Canada’s Greatest Tech Company?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
+* [Pythonicity: Contrarian View on Closing Files](https://coady.github.io/posts/closing-files/)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
 * [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
-* [Did a Chinese Hack Kill Canada’s Greatest Tech Company?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
-* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
 * [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
+* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
 * [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
-* [Harvesting Hydrogen from Nanogardens](https://phys.org/news/2020-07-harvesting-hydrogen-nanogardens.html)
-* [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 * [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
+* [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
+* [Harvesting Hydrogen from Nanogardens](https://phys.org/news/2020-07-harvesting-hydrogen-nanogardens.html)
 * [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
-* [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 * [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
 * [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
-* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
-* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+* [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 ## nytimes.com
 
 
@@ -69,22 +69,22 @@ layout: default
 * [Massachusetts Detective Is Fired Over Black Lives Matter Post](https://www.nytimes.com/2020/07/05/us/Black-lives-matter-detective-fired-Springfield.html)
 * [Fort Hood Soldier Vanessa Guillen’s Remains Identified, Lawyer Says](https://www.nytimes.com/article/vanessa-guillen-fort-hood.html)
 * [Seattle Protester, Summer Taylor, Dies After Being Struck by Car](https://www.nytimes.com/2020/07/05/us/summer-taylor-seattle.html)
-* [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
+* [Nick Cordero, Nominated for Tony as Tap-Dancing Tough Guy, Dies at 41](https://www.nytimes.com/2020/07/05/theater/nick-cordero-dead-coronavirus.html)
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
+* [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
 * [Croatian Prime Minister’s Gamble on Early Elections Pays Off.](https://www.nytimes.com/2020/07/05/world/europe/croatia-election-plenkovic-coronavirus.html)
-* [Baseball Is Showing Some Early Optimism. How Long Can It Last?](https://www.nytimes.com/2020/07/05/sports/baseball/coronavirus-mlb.html)
-* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
-* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
-* [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
-* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Couture Fashion: Here's What Happened](https://www.nytimes.com/2020/07/04/style/couture-workers-fashion-coronavirus.html)
 * [For Interracial Couples, Advocacy Is a Love Language](https://www.nytimes.com/2020/07/02/fashion/weddings/for-interracial-couples-advocacy-is-a-love-language.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Grand Designs’](https://www.nytimes.com/2020/07/03/arts/television/grand-designs-stream-netflix.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [Masks On in a Near-Empty Hall: Germany’s Theaters Return](https://www.nytimes.com/2020/07/02/theater/germany-theater-coronavirus.html)
-* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
+* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
 * [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
@@ -95,6 +95,7 @@ layout: default
 ## globo.com
 
 
+* [Bares do Rio voltam a ter aglomerações neste domingo](https://oglobo.globo.com/rio/bares-do-rio-voltam-ter-aglomeracoes-neste-domingo-24517174)
 * [Moro evita falar sobre candidatura em 2022: 'Quero continuar no debate público'](https://oglobo.globo.com/brasil/moro-evita-falar-sobre-candidatura-em-2022-quero-continuar-no-debate-publico-24517130)
 * [Guedes volta a defender imposto sobre transações digitais e se queixa de 'guerra de narrativas'](https://oglobo.globo.com/economia/guedes-volta-defender-imposto-sobre-transacoes-digitais-se-queixa-de-guerra-de-narrativas-24517143)
 * [No dia da independência da Venezuela, ministro da Defesa diz que oposição jamais será poder](https://oglobo.globo.com/mundo/no-dia-da-independencia-da-venezuela-ministro-da-defesa-diz-que-oposicao-jamais-sera-poder-24517023)
@@ -102,6 +103,5 @@ layout: default
 * ['Câmara não pautará CPMF', diz Rodrigo Maia sobre reforma tributária](https://oglobo.globo.com/economia/camara-nao-pautara-cpmf-diz-rodrigo-maia-sobre-reforma-tributaria-24516990)
 * [Conflito de regras para evitar o contágio da Covid-19 confunde população, dizem especialistas](https://oglobo.globo.com/rio/conflito-de-regras-para-evitar-contagio-da-covid-19-confunde-populacao-dizem-especialistas-24516962)
 * [Carioca: Ferj fará eventuais finais sem torcida, apesar de abertura da prefeitura](https://oglobo.globo.com/esportes/carioca-ferj-fara-eventuais-finais-sem-torcida-apesar-de-abertura-da-prefeitura-24516951)
-* [Maia diz que Renda Brasil, reformulação do Bolsa Família, é 'mais do mesmo'](https://oglobo.globo.com/economia/maia-diz-que-renda-brasil-reformulacao-do-bolsa-familia-mais-do-mesmo-24516949)
 * [Maia critica citação a seu nome em caso da Lava-Jato de Curitiba e pede apuração](https://oglobo.globo.com/brasil/maia-critica-citacao-seu-nome-em-caso-da-lava-jato-de-curitiba-pede-apuracao-1-24516955)
 * [Presidente peruano anuncia referendo sobre o fim da imunidade parlamentar](https://oglobo.globo.com/mundo/presidente-peruano-anuncia-referendo-sobre-fim-da-imunidade-parlamentar-24516953)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 06:34:45 UTC
+# indexed at 06/07/2020 07:12:39 UTC
 
 
 ## news.ycombinator.com
@@ -18,26 +18,26 @@ layout: default
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
-* [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
 * [Walking Dream – single-player adventure game for the Oculus Quest](http://walkingdre.am/)
+* [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
 * [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Debubble](http://debubble.me)
 * [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
-* [Did a Chinese Hack Kill Nortel?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
 * [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
+* [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
 * [Elements C++ GUI Library](https://github.com/cycfi/elements)
 * [Contrarian view on closing files](https://coady.github.io/posts/closing-files/)
-* [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
-* [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
 * [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
-* [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
 * [Taaalk [Update: site now back up]](https://taaalk.co/#vn)
-* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
+* [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
 * [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
-* [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
+* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
 * [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
+* [Did a Chinese Hack Kill Nortel?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
+* [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 * [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
+* [How to process more than 350K requests per month free using 3 free ETA services](https://blog.maddevs.io/how-to-make-three-paid-eta-services-one-free-6edc6affface)
 ## nytimes.com
 
 
@@ -63,28 +63,28 @@ layout: default
 * [America’s Enduring Caste System](https://www.nytimes.com/2020/07/01/magazine/isabel-wilkerson-caste.html)
 * [In the Covid-19 Economy, You Can Have a Kid or a Job. You Can’t Have Both.](https://www.nytimes.com/2020/07/02/business/covid-economy-parents-kids-career-homeschooling.html)
 * [Why We’re Capitalizing Black](https://www.nytimes.com/2020/07/05/insider/capitalized-black.html)
+* [China Detains Xu Zhangrun, Law Professor Who Criticized Xi Jinping](https://www.nytimes.com/2020/07/06/world/asia/china-detains-xu-zhangrun-critic.html)
 * [Uber to Buy Postmates for $2.65 Billion](https://www.nytimes.com/2020/07/05/technology/uber-postmates-deal.html)
 * [Bubonic Plague Is Diagnosed in China](https://www.nytimes.com/2020/07/06/world/asia/china-bubonic-plague-inner-mongolia.html)
 * [South Korea Denies U.S. Request to Extradite Operator of Child Pornography Site](https://www.nytimes.com/2020/07/06/world/asia/south-korea-child-pornography-extradition.html)
-* [Iran Nuclear Program Set Back Months; Bomb Used, Official Says](https://www.nytimes.com/2020/07/05/world/middleeast/iran-Natanz-nuclear-damage.html)
 * [8 People Believed Dead After Planes Collide and Crash Into Idaho Lake](https://www.nytimes.com/2020/07/06/us/Idaho-plane-crash.html)
 * [‘Strategic Empathy’: How Biden’s Informal Diplomacy Shaped Foreign Relations](https://www.nytimes.com/2020/07/05/us/politics/joe-biden-foreign-policy.html)
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
 * [An Ancient Valley Lost to ‘Progress’](https://www.nytimes.com/2020/07/05/world/middleeast/turkey-erdogan-hasankeyf-Ilisu-dam.html)
 * [Croatian Prime Minister’s Gamble on Early Elections Pays Off.](https://www.nytimes.com/2020/07/05/world/europe/croatia-election-plenkovic-coronavirus.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
+* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Couture Fashion: Here's What Happened](https://www.nytimes.com/2020/07/04/style/couture-workers-fashion-coronavirus.html)
 * [For Interracial Couples, Advocacy Is a Love Language](https://www.nytimes.com/2020/07/02/fashion/weddings/for-interracial-couples-advocacy-is-a-love-language.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Grand Designs’](https://www.nytimes.com/2020/07/03/arts/television/grand-designs-stream-netflix.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [Masks On in a Near-Empty Hall: Germany’s Theaters Return](https://www.nytimes.com/2020/07/02/theater/germany-theater-coronavirus.html)
 * [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
-* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
+* [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
 * [Massachusetts Detective Is Fired Over Black Lives Matter Post](https://www.nytimes.com/2020/07/05/us/Black-lives-matter-detective-fired-Springfield.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -93,13 +93,13 @@ layout: default
 ## globo.com
 
 
+* ['Me senti seguro no jogo', diz árbitro-enfermeiro que trata pacientes com coronavírus](https://oglobo.globo.com/esportes/me-senti-seguro-no-jogo-diz-arbitro-enfermeiro-que-trata-pacientes-com-coronavirus-1-24516659)
 * [Reportagem expõe dificuldade de combater a pandemia em 10 mil escolas sem água limpa](https://oglobo.globo.com/meu-oglobo/reportagem-expoe-dificuldade-de-combater-pandemia-em-10-mil-escolas-sem-agua-limpa-24517198)
 * [Governo acena ao Legislativo com um novo pacote](https://oglobo.globo.com/opiniao/governo-acena-ao-legislativo-com-um-novo-pacote-1-24514042)
 * [Também sou brasileiro](https://oglobo.globo.com/opiniao/tambem-sou-brasileiro-24516590)
 * [Onde estamos agora](https://oglobo.globo.com/opiniao/onde-estamos-agora-24515075)
 * [Nota, corda e tom](https://oglobo.globo.com/opiniao/nota-corda-tom-24514923)
 * [Brasil, nosso problema](https://oglobo.globo.com/opiniao/brasil-nosso-problema-24514898)
-* [Câmara precisa votar restrição do foro privilegiado, já aprovada no Senado](https://oglobo.globo.com/opiniao/camara-precisa-votar-restricao-do-foro-privilegiado-ja-aprovada-no-senado-1-24514566)
 * [Medicamentos para todos que precisam](https://oglobo.globo.com/opiniao/medicamentos-para-todos-que-precisam-24512266)
 * [Outra crise?](https://oglobo.globo.com/opiniao/outra-crise-24514694)
 * [Segunda sem carne: hambúrguer de triguilho e croquete de 'carne' de jaca](https://oglobo.globo.com/rioshow/segunda-sem-carne-hamburguer-de-triguilho-croquete-de-carne-de-jaca-24514281)

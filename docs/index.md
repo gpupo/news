@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 20:14:06 UTC
+# indexed at 06/07/2020 20:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Decision for 2020-21 Academic Year](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
 * [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
+* [San Francisco most intensely gentrified city in new rankings](https://ncrc.org/san-francisco-most-intensely-gentrified-city-in-new-rankings/)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
 * [Berkshire Hathaway buys Dominion Energy natural gas assets in $10B deal](https://www.cnbc.com/2020/07/05/warren-buffetts-berkshire-buys-dominion-energy-natural-gas-assets-in-10-billion-deal.html)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
-* [The Fed now owns Walmart's debt](https://www.cnn.com/2020/06/29/investing/premarket-stocks-trading/index.html)
 * [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
+* [ICE changes exemptions for foreign students taking online courses in Fall 2020](https://www.ice.gov/news/releases/sevp-modifies-temporary-exemptions-nonimmigrant-students-taking-online-courses-during)
 * [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
 * [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
+* [Booting a 486 from Floppy with the Most Up-to-Date Stable Linux Kernel](https://www.insentricity.com/a.cl/283)
 * [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
 * [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
-* [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 * [From the gig economy to the creator economy to the participatory economy](https://sariazout.substack.com/p/check-your-pulse-48)
+* [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
+* [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
-* [Using Babel transforms to inject analytics code at build time](https://heap.io/blog/engineering/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native)
+* [A startup is testing a subscription model for search engines](https://www.wired.com/story/a-startup-is-testing-the-subscription-model-for-search-engines/)
+* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [Giant flywheel project in Scotland could prevent UK blackouts](https://www.theguardian.com/business/2020/jul/06/giant-flywheel-project-in-scotland-could-prevent-uk-blackouts-energy)
+* [Using Babel transforms to inject analytics code at build time](https://heap.io/blog/engineering/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native)
 * [Building a CT Scan Covid-19 Classifier Using PyTorch](https://blog.paperspace.com/fighting-coronavirus-with-ai-building-covid-19-classifier/)
+* [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 * [Mini-LED, Micro-LED and OLED displays: present status and future perspectives](https://www.nature.com/articles/s41377-020-0341-9)
 * [Limitations and pitfalls of the job interview](https://fs.blog/2020/07/job-interviews/)
-* [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
+* [The Fed now owns Walmart debt](https://www.cnn.com/2020/06/29/investing/premarket-stocks-trading/index.html)
 * [A crash course in just-in-time compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
-* [M60 – Open-Source USB&BLE, Hot-Swappable Mechanical Keyboard Powered by Python](https://makerdiary.com/pages/m60-mechanical-keyboard)
-* [I Got My Attention Back (2017)](https://craigmod.com/essays/how_i_got_my_attention_back/)
-* [QTile – An XMonad-like tiling WM written in Python](http://www.qtile.org/)
-* [The magnetic universe begins to come into view](https://www.quantamagazine.org/the-hidden-magnetic-universe-begins-to-come-into-view-20200702/)
-* [Bullshit Jobs (2018)](https://www.bloomberg.com/news/articles/2018-05-15/bullshit-jobs-by-david-graeber-review)
-* [At the Type Archive](https://www.lrb.co.uk/the-paper/v42/n13/alice-spawls/at-the-type-archive)
 ## nytimes.com
 
 
@@ -78,8 +78,8 @@ layout: default
 * [Lenora Fay Garfinkel, 90, Architect for Orthodox Jewish Communities, Dies](https://www.nytimes.com/2020/07/03/obituaries/lenora-garfinkel-dead-coronavirus.html)
 * [Why College Students May Qualify for Special Covid Pandemic Aid](https://www.nytimes.com/2020/07/03/your-money/students-unemployment-insurance-coronavirus.html)
 * [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [5 Caribbean Vacation Destinations Reopening This Summer](https://www.nytimes.com/article/caribbean-reopening-coronavirus.html)
@@ -88,9 +88,9 @@ layout: default
 * [This Giant Blueberry Scone Is Self-Care With Butter and Flour](https://www.nytimes.com/2020/07/01/magazine/this-giant-blueberry-scone-is-self-care-with-butter-and-flour.html)
 * [8 Picture Books That Let Young Minds Wonder and Wander on Their Own](https://www.nytimes.com/2020/07/04/books/picture-books-miyakoshi-akiko-i-dream-of-a-journey.html)
 * [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
-* [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [What to Do At Home This Week](https://www.nytimes.com/2020/07/04/at-home/coronavirus-things-to-do-at-home.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* ['Se não houver coalizão o presidente não governa', diz Mourão](https://oglobo.globo.com/brasil/se-nao-houver-coalizao-presidente-nao-governa-diz-mourao-24518096)
+* [Campeonato de surfe virtual vai premiar a melhor onda do inverno em Niterói](https://oglobo.globo.com/rio/bairros/campeonato-de-surfe-virtual-vai-premiar-melhor-onda-do-inverno-em-niteroi-1-24514683)
+* [Jesus relatou no Flamengo irritação com declaração de Bap sobre substituição no Mundial](https://oglobo.globo.com/esportes/jesus-relatou-no-flamengo-irritacao-com-declaracao-de-bap-sobre-substituicao-no-mundial-24518182)
+* [Espanha aprova extradição de ex-diretor da Pemex envolvido em esquema da Odebrecht](https://oglobo.globo.com/mundo/espanha-aprova-extradicao-de-ex-diretor-da-pemex-envolvido-em-esquema-da-odebrecht-24518204)
+* [O que está em jogo na ação no STF em que indígenas acusam governo de 'genocídio' e cobram ações contra a pandemia](https://epoca.globo.com/brasil/o-que-esta-em-jogo-na-acao-no-stf-em-que-indigenas-acusam-governo-de-genocidio-cobram-acoes-contra-pandemia-24518170)
+* [Agressor de fiscal da Vigilância Sanitária recebeu auxílio emergencial](https://oglobo.globo.com/rio/agressor-de-fiscal-da-vigilancia-sanitaria-recebeu-auxilio-emergencial-24518201)
+* [Depois de ataques a fiscais, Crivella quer apoio da PM em operações da prefeitura nos bares](https://oglobo.globo.com/rio/depois-de-ataques-fiscais-crivella-quer-apoio-da-pm-em-operacoes-da-prefeitura-nos-bares-24518171)
+* [Caixa recua e deixa de cobrar tarifa de abertura de crédito no programa para micro e pequenas empresas](https://oglobo.globo.com/economia/caixa-recua-deixa-de-cobrar-tarifa-de-abertura-de-credito-no-programa-para-micro-pequenas-empresas-24518174)
+* [Índia tem quase 700 mil casos da Covid-19 e é o terceiro país mais afetado do mundo](https://oglobo.globo.com/mundo/india-tem-quase-700-mil-casos-da-covid-19-e-terceiro-pais-mais-afetado-do-mundo-24518158)
 * [PF indicia governador de Mato Grosso do Sul por R$ 67 milhões em propinas da JBS](https://oglobo.globo.com/brasil/pf-indicia-governador-de-mato-grosso-do-sul-por-67-milhoes-em-propinas-da-jbs-24517863)
-* [Avianca Brasil entra na Justiça com pedido de falência](https://oglobo.globo.com/economia/avianca-brasil-entra-na-justica-com-pedido-de-falencia-24518092)
-* [É #FAKE orientação para jogar água sanitária em rede de água de esgoto para evitar contaminação pelo coronavírus](https://oglobo.globo.com/fato-ou-fake/e-fake-orientacao-para-jogar-agua-sanitaria-em-rede-de-agua-de-esgoto-para-evitar-contaminacao-pelo-coronavirus-24518079)
 * [Decotelli diz a interlocutores que caiu por mistura de 'racismo e antibolsonarismo'](https://epoca.globo.com/brasil/decotelli-diz-interlocutores-que-caiu-por-mistura-de-racismo-antibolsonarismo-24518103)
-* [Após críticas, campanha de Trump passa a recomendar 'fortemente' uso de máscaras em comícios](https://oglobo.globo.com/mundo/apos-criticas-campanha-de-trump-passa-recomendar-fortemente-uso-de-mascaras-em-comicios-24517947)
-* [Telesena terá de pagar indenização de R$ 60 mil a consumidor que comprou raspadinha](https://oglobo.globo.com/economia/defesa-do-consumidor/telesena-tera-de-pagar-indenizacao-de-60-mil-consumidor-que-comprou-raspadinha-24518088)
-* [Desde 1968, ela dá aulas antirracismo. Está cansada de repetir a mesma coisa. E de ser ameaçada de morte](https://oglobo.globo.com/celina/desde-1968-ela-da-aulas-antirracismo-esta-cansada-de-repetir-mesma-coisa-de-ser-ameacada-de-morte-24517895)
-* [Coronavírus: doença pode deixar 73 países sem remédios contra Aids, diz OMS](https://oglobo.globo.com/sociedade/coronavirus-doenca-pode-deixar-73-paises-sem-remedios-contra-aids-diz-oms-24517902)
-* [Cientistas advertem que prazo sugerido para ter vacina contra Covid-19 na Índia é 'irrealista'](https://epoca.globo.com/mundo/cientistas-advertem-que-prazo-sugerido-para-ter-vacina-contra-covid-19-na-india-irrealista-24517905)

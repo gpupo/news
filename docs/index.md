@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 01:34:38 UTC
+# indexed at 06/07/2020 02:13:58 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
 * [Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
-* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
-* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
+* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [A Look into the Wild Economy of Tabletop Board Game Funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
 * [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
+* [4 Year Compensation Packages Comparison](https://www.levels.fyi/calculator/?co=Facebook&bs=160000&sg=350000&sbone=20000&bp=10&gr=10&co-2=Square&bs-2=145000&sg-2=275000&gr-2=48)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
+* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Pythonicity: Contrarian View on Closing Files](https://coady.github.io/posts/closing-files/)
-* [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
-* [Taaalk [Update: Tried to scale servers for hn, messed up, site down :( ]](https://taaalk.co/#vn)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
+* [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
 * [Parallel Programming in Multicore OCaml](https://github.com/prismlab/parallel-programming-in-multicore-ocaml/tree/draft)
+* [Taaalk [Update: Tried to scale servers for hn, messed up, site down :( ]](https://taaalk.co/#vn)
 * [Debubble](http://debubble.me)
-* [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
-* [Harvesting Hydrogen from Nanogardens](https://phys.org/news/2020-07-harvesting-hydrogen-nanogardens.html)
-* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
 * [Ridiculous Math Problems](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html)
 * [Rich Tables in the Terminal](https://github.com/willmcgugan/rich#tables)
+* [Did a Chinese Hack Kill Canada’s Greatest Tech Company?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
+* [PurritoBin: Ultra fast, minimalistic, encrypted command line paste-bin](https://github.com/PurritoBin/PurritoBin)
+* [Ask HN: What weird or hard problems are you trying to solve?](https://news.ycombinator.com/item?id=23735676)
 * [The cost to train an AI system is improving at 50x the pace of Moore’s Law](https://ark-invest.com/analyst-research/ai-training/)
-* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+* [Harvesting Hydrogen from Nanogardens](https://phys.org/news/2020-07-harvesting-hydrogen-nanogardens.html)
 * [Pkg.jl telemetry should be opt-in](https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/)
 * [Show HN: A simple Poker API to calculate the winning hand/s](https://www.pokerapi.dev/)
+* [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
 * [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
 * [Scaling Pandas: Comparing Dask, Ray, Modin, Vaex, and Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
-* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
-* [Tell HN: Giving away my homebrew windmill](https://news.ycombinator.com/item?id=23737970)
 * [The Purpose of Persuasion](https://www.persuasion.community/p/the-purpose-of-persuasion)
-* [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
-* [Internet mob justice can easily destroy innocent lives (2019)](https://observer.com/2019/05/internet-mob-justice-innocent-lives/)
-* [Hong Kong: books by pro-democracy activists disappear from library shelves](https://www.theguardian.com/world/2020/jul/05/hong-kong-books-by-pro-democracy-activists-disappear-from-library-shelves)
+* [When India kicked out Coca-Cola, local sodas thrived (2019)](https://www.atlasobscura.com/articles/what-is-thums-up)
+* [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
 ## nytimes.com
 
 
@@ -73,11 +73,11 @@ layout: default
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
 * [Croatian Prime Minister’s Gamble on Early Elections Pays Off.](https://www.nytimes.com/2020/07/05/world/europe/croatia-election-plenkovic-coronavirus.html)
 * [Baseball Is Showing Some Early Optimism. How Long Can It Last?](https://www.nytimes.com/2020/07/05/sports/baseball/coronavirus-mlb.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [Easy Mocktails to Make At Home](https://www.nytimes.com/2020/06/27/at-home/coronavirus-make-mocktails.html)
+* [Your Kid Probably Doesn’t Have a Penicillin Allergy](https://www.nytimes.com/2020/06/22/parenting/penicillin-allergy-kids.html)
+* [Podcasts to Understand This Moment](https://www.nytimes.com/2020/06/06/arts/podcasts-about-race-and-racism.html)
+* [Anti-Racism Books for Kids](https://www.nytimes.com/2020/06/02/parenting/kids-books-racism-protest.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Couture Fashion: Here's What Happened](https://www.nytimes.com/2020/07/04/style/couture-workers-fashion-coronavirus.html)
 * [For Interracial Couples, Advocacy Is a Love Language](https://www.nytimes.com/2020/07/02/fashion/weddings/for-interracial-couples-advocacy-is-a-love-language.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Grand Designs’](https://www.nytimes.com/2020/07/03/arts/television/grand-designs-stream-netflix.html)
@@ -85,8 +85,8 @@ layout: default
 * [Masks On in a Near-Empty Hall: Germany’s Theaters Return](https://www.nytimes.com/2020/07/02/theater/germany-theater-coronavirus.html)
 * [It’s Not a Snake, but Beware of Its Venomous Bite](https://www.nytimes.com/2020/07/03/science/venom-amphibians-snakes.html)
 * [Did a Mutation Help the Coronavirus Spread? More Evidence, but Lingering Questions](https://www.nytimes.com/2020/07/02/health/coronavirus-korber-mutation.html)
-* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [U.S. Coronavirus Cases Are Rising Sharply, but Deaths Are Still Down](https://www.nytimes.com/2020/07/03/health/coronavirus-mortality-testing.html)
+* [She Was Healthy and Active. Suddenly She Had a Seizure.](https://www.nytimes.com/2020/07/01/magazine/insulinoma-diagnosis.html)
 * [Trump Uses Mount Rushmore Speech to Deliver Divisive Culture War Message](https://www.nytimes.com/2020/07/03/us/politics/trump-coronavirus-mount-rushmore.html)
 * [How Safe Are Outdoor Gatherings?](https://www.nytimes.com/2020/07/03/well/live/coronavirus-spread-outdoors-party.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

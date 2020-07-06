@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# indexed at 06/07/2020 12:16:02 UTC
+# indexed at 06/07/2020 12:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Brython – A Python 3 implementation for client-side web programming](https://brython.info/)
+* [Around 293 intermediate CAs to be revoked within 7 days](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
 * [Brave Browser, wiping history still leaves trace of visited sites](https://github.com/brave/brave-browser/issues/9929)
 * [Dutch national broadcaster saw ad revenue rise when it stopped tracking users](https://www.theregister.com/2020/07/03/stop_tracking_increase_revenue_effectiveness/)
-* [Everything I Know (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
-* [Around 293 intermediate CAs to be revoked within 7 days](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
+* [Everything I Know (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
 * [Ennio Morricone has died](https://www.hollywoodreporter.com/news/ennio-morricone-dead-prolific-italian-composer-was-91-858358)
 * [I Got My Attention Back (2017)](https://craigmod.com/essays/how_i_got_my_attention_back/)
 * [I open sourced my game along with a tutorial on how to make it using Lua](https://github.com/a327ex/BYTEPATH)
@@ -23,21 +23,21 @@ layout: default
 * [Rust for JavaScript Developers – Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
 * [Why I’m Writing a Book on Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [CoreBGP – Plugging in to BGP](https://www.jordanwhited.com/posts/corebgp-plugging-in-to-bgp/)
+* [Implementing Ishido in Racket](https://alex-hhh.github.io/2020/06/ishido.html)
 * [The wild economy of tabletop board game funding](https://www.npr.org/2020/07/05/887283058/a-look-into-the-wild-economy-of-tabletop-board-game-funding)
-* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
 * [Parsing city of origin and destination city from a string](https://stackoverflow.com/questions/59956670/parsing-city-of-origin-destination-city-from-a-string)
 * [Icdiff: Side-by-side highlighted command line diffs](https://www.jefftk.com/icdiff)
-* [Implementing Ishido in Racket](https://alex-hhh.github.io/2020/06/ishido.html)
-* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
-* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [The Magnetic Universe Begins to Come into View](https://www.quantamagazine.org/the-hidden-magnetic-universe-begins-to-come-into-view-20200702/)
+* [Uber, Postmates Agree on $2.65B All-Stock Deal](https://www.bloomberg.com/news/articles/2020-07-06/uber-postmates-said-to-agree-on-2-65-billion-all-stock-deal)
+* [Modern Object Pascal Introduction for Programmers](http://newpascal.org/assets/modern_pascal_introduction.html)
 * [Walking Dream – single-player adventure game for the Oculus Quest](http://walkingdre.am/)
+* [Formula 1 2020: The secret aerodynamicist – are capes the key?](https://www.bbc.co.uk/sport/formula1/51739796)
 * [UASP makes Raspberry Pi 4 disk IO 50% faster](https://www.jeffgeerling.com/blog/2020/uasp-makes-raspberry-pi-4-disk-io-50-faster)
-* [Castle Game Engine: Cross-platform 3D and 2D game engine](https://github.com/castle-engine/castle-engine)
-* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [Elements C++ GUI Library](https://github.com/cycfi/elements)
-* [Epoxy: Interactive Model Iteration with Weak Supervision](https://github.com/HazyResearch/epoxy)
+* [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [Show HN: Getting fit in virtual reality with open source and Godot](https://vrworkout.at)
+* [Epoxy: Interactive Model Iteration with Weak Supervision](https://github.com/HazyResearch/epoxy)
+* [Florida becomes first state to enact DNA privacy law, blocking insurers](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [Why New York Buses Are on the Rise in a Subway City](https://www.nytimes.com/2020/07/06/nyregion/mta-buses-nyc-coronavirus.html)
 * [Trump Vowed to ‘Drain the Swamp,’ but Lobbyists Are Still Thriving in It](https://www.nytimes.com/2020/07/06/us/politics/trump-lobbyists-swamp-campaign.html)
 * [‘Strategic Empathy’: How Biden’s Informal Diplomacy Shaped Foreign Relations](https://www.nytimes.com/2020/07/05/us/politics/joe-biden-foreign-policy.html)
-* [Progressives Doubted Joe Biden on Climate Change. Can He Win Them Over?](https://www.nytimes.com/2020/07/06/us/politics/joe-biden-climate-change.html)
+* [Climate Activists Doubted Joe Biden. Can He Win Them Over?](https://www.nytimes.com/2020/07/06/us/politics/joe-biden-climate-change.html)
 * [Chicago Gun Violence Spikes and Increasingly Finds the Youngest Victims](https://www.nytimes.com/2020/07/05/us/chicago-shootings.html)
 * [Broadway Actor Nick Cordero Dead at 41 of Coronavirus](https://www.nytimes.com/2020/07/05/theater/nick-cordero-dead-coronavirus.html)
 * [Ennio Morricone, Influential Creator of Music for Modern Cinema, Dies at 91](https://www.nytimes.com/2020/07/06/obituaries/ennio-morricone-dead.html)
@@ -79,20 +79,19 @@ layout: default
 * [Police Seek 2 White People Who Were Seen Vandalizing Black Lives Matter Mural](https://www.nytimes.com/2020/07/05/us/White-couple-paints-Black-lives-matter-sign.html)
 * [The Next Energy Battle: Renewables vs. Natural Gas](https://www.nytimes.com/2020/07/06/business/energy-environment/renewable-energy-natural-gas.html)
 * [A Kennedy Wife and a Professor Compete to Run Against a Trump Backer](https://www.nytimes.com/2020/07/06/nyregion/Jeff-van-drew-primary.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Can Cam Newton Be Superman Again?](https://www.nytimes.com/2020/07/06/sports/football/cam-newton-new-england-patriots.html)
 * [Reflecting on Summer Camp in Our Campless Summer](https://www.nytimes.com/2020/07/03/well/family/summer-camp-letters.html)
 * [What Is the Status of Trump’s ‘Big, Beautiful Wall’?](https://www.nytimes.com/2020/07/02/books/review/14-miles-dw-gibson.html)
 * [If a Zoom Wedding Isn’t for You, Here’s How to Plan For Later](https://www.nytimes.com/2020/07/04/fashion/weddings/no-zoom-wedding-next-year.html)
 * [Living With Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
+* [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
+* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
-* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
-* [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [The Most Delicious Chicken](https://www.nytimes.com/2020/07/03/dining/the-most-delicious-chicken.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
@@ -100,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Museu do Louvre reabre após confinamento sem frenesi de turistas](https://oglobo.globo.com/cultura/museu-do-louvre-reabre-apos-confinamento-sem-frenesi-de-turistas-24517289)
+* [Bolsonaro veta uso obrigatório de máscaras em presídios](https://oglobo.globo.com/sociedade/bolsonaro-veta-uso-obrigatorio-de-mascaras-em-presidios-24517361)
+* [Vacina contra o coronavírus: órgão regulador dos EUA põe em dúvida previsão de Trump](https://epoca.globo.com/mundo/vacina-contra-coronavirus-orgao-regulador-dos-eua-poe-em-duvida-previsao-de-trump-24517360)
+* [Dólar opera abaixo de R$ 5,30, com declarações chinesas e vendas no varejo europeu positivas](https://oglobo.globo.com/economia/dolar-opera-abaixo-de-530-com-declaracoes-chinesas-vendas-no-varejo-europeu-positivas-24517355)
+* [Museu do Louvre reabre sem frenesi de turistas, após três meses e meio de confinamento](https://oglobo.globo.com/cultura/museu-do-louvre-reabre-sem-frenesi-de-turistas-apos-tres-meses-meio-de-confinamento-24517289)
 * [China prende professor que criticou Xi Jinping pela pandemia do coronavírus](https://oglobo.globo.com/mundo/china-prende-professor-que-criticou-xi-jinping-pela-pandemia-do-coronavirus-24517319)
 * [Polícia prende dois homens por estupros de vulneráveis no Rio e em Nova Iguaçu](https://oglobo.globo.com/rio/policia-prende-dois-homens-por-estupros-de-vulneraveis-no-rio-em-nova-iguacu-24517313)
 * [Alegações de Meghan Markle contra a família real são tidas como 'lixo total' e 'ficção' por fontes seniores](https://oglobo.globo.com/ela/gente/alegacoes-de-meghan-markle-contra-familia-real-sao-tidas-como-lixo-total-ficcao-por-fontes-seniores-24517330)
 * [Pressionado por presidente, Congresso do Peru aprova fim da imunidade parlamentar](https://oglobo.globo.com/mundo/pressionado-por-presidente-congresso-do-peru-aprova-fim-da-imunidade-parlamentar-24517323)
-* [Tom Cruise é autorizado a entrar no Reino Unido sem cumprir isolamento de 14 dias obrigatório para americanos](https://oglobo.globo.com/cultura/filmes/tom-cruise-autorizado-entrar-no-reino-unido-sem-cumprir-isolamento-de-14-dias-obrigatorio-para-americanos-1-24517294)
-* [Comissão de Impeachment da Alerj se reúne nesta segunda-feira e deve se ater à denúncia inicial contra Witzel](https://oglobo.globo.com/rio/comissao-de-impeachment-da-alerj-se-reune-nesta-segunda-feira-deve-se-ater-denuncia-inicial-contra-witzel-24517286)
 * [Kate Middleton 'derrota' a rainha Elizabeth II em pesquisa de popularidade](https://oglobo.globo.com/ela/gente/kate-middleton-derrota-rainha-elizabeth-ii-em-pesquisa-de-popularidade-24517298)
-* [Restaurantes apostam no delivery de fondue](https://oglobo.globo.com/rioshow/restaurantes-apostam-no-delivery-de-fondue-24517243)
 * [Conselho Superior de Cinema ainda não se reuniu em 2020](https://epoca.globo.com/guilherme-amado/conselho-superior-de-cinema-ainda-nao-se-reuniu-em-2020-1-24514556)

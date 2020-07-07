@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 03:12:15 UTC
+# indexed at 07/07/2020 03:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [1:60 scale Boeing 777 made from manila folders](https://www.lucaiaconistewart.com/model-777)
 * [Booting a 486 from floppy with the most up-to-date stable Linux kernel](https://www.insentricity.com/a.cl/283)
-* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [The Faces of Microsoft](https://www.typemag.org/post/the-faces-of-microsoft)
+* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
 * [Decision for 2020-21 Academic Year](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
-* [It's Talos all the way down](https://www.talospace.com/2020/06/its-talos-all-way-down.html)
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
+* [It's Talos all the way down](https://www.talospace.com/2020/06/its-talos-all-way-down.html)
 * [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
-* [Palantir Announces Confidential Submission of Draft S-1](https://www.businesswire.com/news/home/20200706005622/en/Palantir-Announces-Confidential-Submission-Draft-Registration-Statement)
 * [US online grocery sales hit record $7.2B in June](https://techcrunch.com/2020/07/06/u-s-online-grocery-shopping-hits-record-7-2-billion-in-june/)
-* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
+* [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
 * [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
-* [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
+* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
+* [Palantir Announces Confidential Submission of Draft S-1](https://www.businesswire.com/news/home/20200706005622/en/Palantir-Announces-Confidential-Submission-Draft-Registration-Statement)
 * [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
+* [Daily Science Fiction](https://dailysciencefiction.com/)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
-* [Where $521B in U.S. Small-Business Aid Went](https://www.bloomberg.com/graphics/2020-ppp-loans-data-disclosure/)
 * [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
+* [Where $521B in U.S. Small-Business Aid Went](https://www.bloomberg.com/graphics/2020-ppp-loans-data-disclosure/)
 * [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
 * [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
 * [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://draftbit.com/jobs/senior-software-engineer)
-* [The Classic Typewriter Page](https://site.xavier.edu/polt/typewriters/)
 * [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
 * [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
+* [The Classic Typewriter Page](https://site.xavier.edu/polt/typewriters/)
 * [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 * [A startup is testing a subscription model for search engines](https://www.wired.com/story/a-startup-is-testing-the-subscription-model-for-search-engines/)
-* [Calls for TikTok to be banned in Australia over Chinese spying fears](https://7news.com.au/sunrise/on-the-show/fresh-calls-for-australian-government-to-ban-tik-tok-app--c-1146435)
 * [Giant flywheel project in Scotland could prevent UK blackouts](https://www.theguardian.com/business/2020/jul/06/giant-flywheel-project-in-scotland-could-prevent-uk-blackouts-energy)
 ## nytimes.com
 
@@ -81,31 +81,31 @@ layout: default
 * [Charlie Daniels, Fiddling Force in Country and Rock, Dies at 83](https://www.nytimes.com/2020/07/06/arts/music/charlie-daniels-dead.html)
 * [Spike in N.Y.C. Shootings Leaves 64 Shot and 10 Dead](https://www.nytimes.com/2020/07/06/nyregion/murders-nyc-guns-crime.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [Italy’s Outdoor Summer Movies See Threat From Ailing Film Industry](https://www.nytimes.com/2020/07/05/world/europe/coronavirus-italy-outdoor-movies-festivals.html)
 * [5 Caribbean Vacation Destinations Reopening This Summer](https://www.nytimes.com/article/caribbean-reopening-coronavirus.html)
 * [Cherokee Women Aim for a Better Life in ‘Crooked Hallelujah’](https://www.nytimes.com/2020/07/06/books/review-crooked-hallelujah-kelli-jo-ford.html)
 * [Where You Can See the Cast of 'Hamilton' Now](https://www.nytimes.com/2020/07/04/movies/hamilton-anthony-ramos.html)
 * [Interpreting More Than Words for a Baseball Star](https://www.nytimes.com/2020/07/04/sports/baseball/Hyun-jin-Ryu-blue-jays.html)
-* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
-* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
+* [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Engenheiro nega ter agredido fiscal da Vigilância Sanitária, em bar da Barra da Tijuca](https://oglobo.globo.com/rio/engenheiro-nega-ter-agredido-fiscal-da-vigilancia-sanitaria-em-bar-da-barra-da-tijuca-1-24518542)
 * [Sem máscara, Bolsonaro abraçou ministros em evento no fim de semana](https://oglobo.globo.com/brasil/sem-mascara-bolsonaro-abracou-ministros-em-evento-no-fim-de-semana-1-24518627)
 * [Congresso dos EUA marca depoimento de líderes de Facebook, Amazon, Google e Apple sobre concorrência](https://oglobo.globo.com/economia/congresso-dos-eua-marca-depoimento-de-lideres-de-facebook-amazon-google-apple-sobre-concorrencia-1-24518736)
 * [Morricone: curador de mostra sobre compositor indica as trilhas essenciais](https://oglobo.globo.com/rioshow/morricone-curador-de-mostra-sobre-compositor-indica-as-trilhas-essenciais-24518422)
 * [Ministro que se reuniu com Bolsonaro fará exame de Covid-19 nesta terça](https://oglobo.globo.com/brasil/ministro-que-se-reuniu-com-bolsonaro-fara-exame-de-covid-19-nesta-terca-1-24518584)
-* [Engenheiro nega ter agredido fiscal da Vigilância Sanitária, em bar da Barra da Tijuca](https://oglobo.globo.com/rio/engenheiro-nega-ter-agredido-fiscal-da-vigilancia-sanitaria-em-bar-da-barra-da-tijuca-24518542)
 * [CBF rebate Doria sobre participação de clubes paulistas no Brasileirão](https://oglobo.globo.com/esportes/cbf-rebate-doria-sobre-participacao-de-clubes-paulistas-no-brasileirao-24518418)
 * [Com 656 novas mortes, Brasil ultrapassa 65 mil óbitos por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/com-656-novas-mortes-brasil-ultrapassa-65-mil-obitos-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24518476)
 * [Tráfico e milícia dominam 1.413 favelas do Rio e número de bandidos é maior que o de PMs nas ruas, aponta relatório](https://oglobo.globo.com/rio/trafico-milicia-dominam-1413-favelas-do-rio-numero-de-bandidos-maior-que-de-pms-nas-ruas-aponta-relatorio-24518524)

@@ -2,37 +2,37 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 13:12:03 UTC
+# indexed at 07/07/2020 13:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Only 9% of visitors give GDPR consent to be tracked](https://markosaric.com/gdpr-consent/)
-* [Dark patterns in GDPR consent boxes](https://arxiv.org/abs/2001.02479)
-* [Show HN: I built a desktop radiation monitor with Raspberry Pi, brass and wood](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
-* [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
+* [Invite Rick to Rick Roll Your Zoom Calls](http://inviterick.com)
 * [Whole Earth Software Catalog (1984)](https://archive.org/details/Whole_Earth_Software_Catalog_1984_Point/)
+* [Show HN: I built a desktop radiation monitor with Raspberry Pi, brass and wood](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
 * [CSAIL Robot Disinfects Greater Boston Food Bank](https://news.mit.edu/2020/csail-robot-disinfects-greater-boston-food-bank-covid-19-0629)
-* [The Complete Spectrum ROM Disassembly](https://speccy.xyz/rom/)
-* [A terrible, horrible, no-good, bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
-* [YouTube Deleted Jordan Pier's Electronics Repair Channel](https://www.youtube.com/watch?v=W0mMOHrftgU)
-* [Nokia to add open interfaces to its telecom equipment](https://www.reuters.com/article/us-nokia-5g-idUSKBN2480S0)
-* [Algorithms Are Now Commodities](http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/)
+* [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
+* [YouTube Deleted Jordan Pier's Electronics Repair Channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
 * [Why Go's Error Handling Is Awesome](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html)
+* [Dark patterns in GDPR consent boxes](https://arxiv.org/abs/2001.02479)
+* [A terrible, horrible, no-good, bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
+* [The Complete Spectrum ROM Disassembly](https://speccy.xyz/rom/)
+* [Algorithms Are Now Commodities](http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/)
+* [Nokia to add open interfaces to its telecom equipment](https://www.reuters.com/article/us-nokia-5g-idUSKBN2480S0)
 * [Ireland's Health Service Open Sources Official Covid-19 Tracking App](https://github.com/HSEIreland)
 * [Weird Constants in Math Problems](https://blog.plover.com/math/odd-constants.html)
 * [Why Facts Don’t Change Our Minds (2017)](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 * [DNA revealed the woolly mammoth's fate – and what it teaches us today](https://www.weforum.org/agenda/2020/06/dna-reveal-woolly-mammoth-fate-beth-shapiro/)
-* [The Faces of Microsoft (2017)](https://www.typemag.org/post/the-faces-of-microsoft)
-* [Kosher search engine powered by 4 car batteries on a passively cooled server](https://jewjewjew.com/)
-* [Personal computers: does everyone need to learn programming? (1984)](http://www.nytimes.com/1984/01/17/science/personal-computers-does-everyone-need-to-learn-programming.html)
-* [Against Testing](https://flak.tedunangst.com/post/against-testing)
 * [What I Learnt From Reviewing 22 CVs](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html)
+* [The Faces of Microsoft (2017)](https://www.typemag.org/post/the-faces-of-microsoft)
+* [Against Testing](https://flak.tedunangst.com/post/against-testing)
 * [Show HN: Noteless - A Markdown-based note-taking app for Android](https://github.com/redsolver/noteless)
 * [The Super Duper Universal Binary](https://tenfourfox.blogspot.com/2020/06/the-super-duper-universal-binary.html)
+* [Personal computers: does everyone need to learn programming? (1984)](http://www.nytimes.com/1984/01/17/science/personal-computers-does-everyone-need-to-learn-programming.html)
+* [Kosher search engine powered by 4 car batteries on a passively cooled server](https://jewjewjew.com/)
 * [Programming with Punched Cards (2005) [pdf]](http://www.columbia.edu/cu/computinghistory/fisk.pdf)
-* [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
 * [1:60 scale Boeing 777 made from manila folders](https://www.lucaiaconistewart.com/model-777)
 * [Epoxy: Interactive Model Iteration with Weak Supervision](https://github.com/HazyResearch/epoxy)
@@ -90,9 +90,9 @@ layout: default
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [In Paris, Haute Couture Face Masks for All](https://www.nytimes.com/2020/07/07/fashion/in-paris-haute-couture-face-masks-for-all.html)
 * [Raised in a (Very) Crowded House, Now Feeding the Hungry in a Pandemic](https://www.nytimes.com/2020/06/26/business/feeding-america-Claire-Babineaux-Fontenot.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Rockland County Party Guests Answer Subpoenas Meant to Halt Coronavirus Spread](https://www.nytimes.com/2020/07/01/nyregion/rockland-coronavirus-party.html)
 * [Amy Cooper Faces Charges After Calling Police on Black Bird Watcher](https://www.nytimes.com/2020/07/06/nyregion/amy-cooper-false-report-charge.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Príncipe Andrew nunca mais deve voltar aos EUA depois de prisão de ex-namorada de pedófilo, dizem amigos](https://oglobo.globo.com/ela/gente/principe-andrew-nunca-mais-deve-voltar-aos-eua-depois-de-prisao-de-ex-namorada-de-pedofilo-dizem-amigos-24519405)
+* [Dólar inicia sessão em alta e vale R$ 5,36; mercado aguarda resultado do teste de Covid-19 do presidente](https://oglobo.globo.com/economia/dolar-inicia-sessao-em-alta-vale-536-mercado-aguarda-resultado-do-teste-de-covid-19-do-presidente-24519458)
+* [Documento contradiz governo e indica distribuição de cloroquina em terras indígenas para combate à Covid-19](https://oglobo.globo.com/sociedade/documento-contradiz-governo-indica-distribuicao-de-cloroquina-em-terras-indigenas-para-combate-covid-19-24519374)
 * [Witzel prorroga as medidas restritivas no Rio durante pandemia da Covid-19 até 21 de julho](https://oglobo.globo.com/rio/witzel-prorroga-as-medidas-restritivas-no-rio-durante-pandemia-da-covid-19-ate-21-de-julho-24519386)
+* [Após uma semana de boicote de anunciantes, diretora diz que Facebook precisa melhorar remoção de discursos de ódio](https://oglobo.globo.com/economia/apos-uma-semana-de-boicote-de-anunciantes-diretora-diz-que-facebook-precisa-melhorar-remocao-de-discursos-de-odio-1-24519425)
+* [Ringo Starr comemora 80 anos em live com amigos Paul McCartney, Ben Harper e Sheryl Crow](https://oglobo.globo.com/cultura/ringo-starr-comemora-80-anos-em-live-com-amigos-paul-mccartney-ben-harper-sheryl-crow-24519329)
+* [Príncipe Andrew nunca mais deve voltar aos EUA depois de prisão de ex-namorada de pedófilo, dizem amigos](https://oglobo.globo.com/ela/gente/principe-andrew-nunca-mais-deve-voltar-aos-eua-depois-de-prisao-de-ex-namorada-de-pedofilo-dizem-amigos-24519405)
+* ['O pior já ficou para trás', diz presidente do BC sobre retomada econômica](https://oglobo.globo.com/economia/o-pior-ja-ficou-para-tras-diz-presidente-do-bc-sobre-retomada-economica-24519410)
 * [Coronavírus: por que a pandemia pode levar a crise de abastecimento de comida](https://epoca.globo.com/economia/coronavirus-por-que-pandemia-pode-levar-crise-de-abastecimento-de-comida-1-24519372)
 * [TikTok deixará de funcionar em Hong Kong em resposta à nova lei de segurança nacional](https://oglobo.globo.com/mundo/tiktok-deixara-de-funcionar-em-hong-kong-em-resposta-nova-lei-de-seguranca-nacional-24519371)
-* [Replika: App que simula amigo virtual vira febre na quarentena e terá versão em português no próximo mês](https://oglobo.globo.com/cultura/replika-app-que-simula-amigo-virtual-vira-febre-na-quarentena-tera-versao-em-portugues-no-proximo-mes-24519274)
-* [Lufthansa vai cortar 20% dos cargos de liderança e mil vagas, mesmo após socorro bilionário do governo](https://oglobo.globo.com/economia/lufthansa-vai-cortar-20-dos-cargos-de-lideranca-mil-vagas-mesmo-apos-socorro-bilionario-do-governo-1-24519348)
-* ['Reabrir agora é suicídio': os donos de bares e restaurantes que decidiram continuar fechados](https://epoca.globo.com/sociedade/reabrir-agora-suicidio-os-donos-de-bares-restaurantes-que-decidiram-continuar-fechados-24519352)
-* ['Só voltaremos quando o estado estiver na bandeira verde', diz secretário de Educação](https://oglobo.globo.com/rio/so-voltaremos-quando-estado-estiver-na-bandeira-verde-diz-secretario-de-educacao-1-24519321)
-* [Policial militar é indiciado por homicídio por morte de jovem baleado na Tijuca em maio](https://oglobo.globo.com/rio/policial-militar-indiciado-por-homicidio-por-morte-de-jovem-baleado-na-tijuca-em-maio-24519332)
 * [A solução de Bia Kicis para evitar Moro](https://epoca.globo.com/guilherme-amado/a-solucao-de-bia-kicis-para-evitar-moro-24518874)

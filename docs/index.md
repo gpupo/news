@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 07:12:30 UTC
+# indexed at 07/07/2020 07:34:49 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
+* [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [A Terrible, Horrible, No-Good, Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 * [1:60 scale Boeing 777 made from manila folders](https://www.lucaiaconistewart.com/model-777)
 * [The Faces of Microsoft (2017)](https://www.typemag.org/post/the-faces-of-microsoft)
-* [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Booting a 486 from floppy with the most up-to-date stable Linux kernel](https://www.insentricity.com/a.cl/283)
-* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
+* [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [Ubiquiti Video Products: End of Life Announcement](https://community.ui.com/questions/UniFi-Video-Products-End-of-Life-Announcement/dc529d39-0e58-43cc-96f0-8f0eed0d002c)
-* [Luxonis wants to use computer vision to protect cyclists](https://www.siliconrepublic.com/start-ups/luxonis-computer-vision-bike-cycling-safer-technology)
-* [Seven year coronavirus trail from mine deaths to a Wuhan lab](https://www.thetimes.co.uk/article/seven-year-covid-trail-revealed-l5vxt7jqp)
 * [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
-* [Decision for 2020-21 Academic Year](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
+* [Luxonis wants to use computer vision to protect cyclists](https://www.siliconrepublic.com/start-ups/luxonis-computer-vision-bike-cycling-safer-technology)
 * [TikTok to pull out of Hong Kong](https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html)
-* [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
 * [Academic acceleration in gifted youth: a 35-year longitudinal study](https://psycnet.apa.org/record/2020-47023-001)
-* [Achaemenid Shields Are a Puzzle](https://bookandsword.com/2020/06/06/achaemenid-shields-are-a-puzzle/)
 * [U.S. looking at banning Chinese social media apps, including TikTok](https://www.reuters.com/article/us-usa-tiktok-china-pompeo/pompeo-says-u-s-looking-at-banning-chinese-social-media-apps-including-tiktok-fox-idUSKBN2480DF)
+* [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
+* [Achaemenid Shields Are a Puzzle](https://bookandsword.com/2020/06/06/achaemenid-shields-are-a-puzzle/)
 * [It's Talos all the way down](https://www.talospace.com/2020/06/its-talos-all-way-down.html)
-* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
-* [US online grocery sales hit record $7.2B in June](https://techcrunch.com/2020/07/06/u-s-online-grocery-shopping-hits-record-7-2-billion-in-june/)
 * [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
-* [A Brief History of the Lawn Chair](https://www.valetmag.com/living/gear/2020/aluminum-webbed-lawn-chair-history-062220.php)
+* [US online grocery sales hit record $7.2B in June](https://techcrunch.com/2020/07/06/u-s-online-grocery-shopping-hits-record-7-2-billion-in-june/)
+* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
+* [A Brief History of the Lawn Chair](https://www.valetmag.com/living/gear/2020/aluminum-webbed-lawn-chair-history-062220.php)
 * [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
-* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
-* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
 * [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
+* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
+* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
 * [How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands)
+* [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
+* [Abusing linear regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 ## nytimes.com
 
 
@@ -79,33 +79,26 @@ layout: default
 * [TikTok to Withdraw From Hong Kong as Tech Giants Halt Data Requests](https://www.nytimes.com/2020/07/06/technology/tiktok-google-facebook-twitter-hong-kong.html)
 * [Spike in N.Y.C. Shootings Leaves 64 Shot and 10 Dead](https://www.nytimes.com/2020/07/06/nyregion/murders-nyc-guns-crime.html)
 * [‘He’s Buying Up Brixton’: Beloved Grocer’s Eviction Sparks Gentrification Fight](https://www.nytimes.com/2020/07/06/world/europe/brixton-london-eviction-grocer-nour.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Italy’s Outdoor Summer Movies See Threat From Ailing Film Industry](https://www.nytimes.com/2020/07/05/world/europe/coronavirus-italy-outdoor-movies-festivals.html)
 * [5 Caribbean Vacation Destinations Reopening This Summer](https://www.nytimes.com/article/caribbean-reopening-coronavirus.html)
 * [Cherokee Women Aim for a Better Life in ‘Crooked Hallelujah’](https://www.nytimes.com/2020/07/06/books/review-crooked-hallelujah-kelli-jo-ford.html)
 * [Where You Can See the Cast of 'Hamilton' Now](https://www.nytimes.com/2020/07/04/movies/hamilton-anthony-ramos.html)
 * [Interpreting More Than Words for a Baseball Star](https://www.nytimes.com/2020/07/04/sports/baseball/Hyun-jin-Ryu-blue-jays.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [Sem máscara, Bolsonaro abraçou ministros em evento no fim de semana](https://oglobo.globo.com/brasil/sem-mascara-bolsonaro-abracou-ministros-em-evento-no-fim-de-semana-1-24518627)
+* [Kfouri: Messi fora do Barcelona nunca foi tão possível, mesmo que pareça impossível](https://oglobo.globo.com/esportes/kfouri-messi-fora-do-barcelona-nunca-foi-tao-possivel-mesmo-que-pareca-impossivel-1-24519009)
+* [Por que Jesus não descarta trocar o Flamengo pelo Benfica](https://oglobo.globo.com/esportes/por-que-jesus-nao-descarta-trocar-flamengo-pelo-benfica-24518523)
 * [Congresso dos EUA marca depoimento de líderes de Facebook, Amazon, Google e Apple sobre concorrência](https://oglobo.globo.com/economia/congresso-dos-eua-marca-depoimento-de-lideres-de-facebook-amazon-google-apple-sobre-concorrencia-1-24518736)
-* [Ministro que se reuniu com Bolsonaro fará exame de Covid-19 nesta terça](https://oglobo.globo.com/brasil/ministro-que-se-reuniu-com-bolsonaro-fara-exame-de-covid-19-nesta-terca-1-24518584)
-* [Guedes reformado](https://oglobo.globo.com/opiniao/guedes-reformado-1-24518488)
-* [Ética, moral ou nada disso?](https://oglobo.globo.com/opiniao/etica-moral-ou-nada-disso-24518395)
-* [Empresas vulneráveis](https://oglobo.globo.com/opiniao/empresas-vulneraveis-24518556)
-* [Igrejas na política exigem atenção da Justiça Eleitoral](https://oglobo.globo.com/opiniao/igrejas-na-politica-exigem-atencao-da-justica-eleitoral-24518483)
-* [A vez da legítima liberdade de expressão](https://oglobo.globo.com/opiniao/a-vez-da-legitima-liberdade-de-expressao-24518471)
-* [Fiscalização deve agir para impedir que bares descumpram protocolos](https://oglobo.globo.com/opiniao/fiscalizacao-deve-agir-para-impedir-que-bares-descumpram-protocolos-1-24518194)
-* [O carioca e o misterioso distanciamento social](https://oglobo.globo.com/cultura/o-carioca-o-misterioso-distanciamento-social-1-24517530)

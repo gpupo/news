@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 18:12:51 UTC
+# indexed at 07/07/2020 18:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -10,15 +10,17 @@ layout: default
 
 * [Searchable PPP Loan Data](https://pppreport.org/)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
+* [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [New Compute Engine A2 VMs–First Nvidia Ampere A100 GPUs in the Cloud](https://cloud.google.com/blog/products/compute/announcing-google-cloud-a2-vm-family-based-on-nvidia-a100-gpu)
-* [Dune II (Extended Reference)](http://ledmeister.com/dunexref.htm)
-* [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
-* [Find thousands more eng roles at active YC companies at Work at a Startup](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
 * [Caffenol: Developing Photos with Coffee and Vitamin C](https://www.youtube.com/watch?v=9bhOtTUtPhg)
+* [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
+* [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
 * [Nokia to add open interfaces to its telecom equipment](https://www.reuters.com/article/us-nokia-5g-idUSKBN2480S0)
-* [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
+* [Work at a Startup: Find thousands of engineering roles at active YC companies](https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs)
 * [The Slack Social Network](https://stratechery.com/2020/the-slack-social-network/)
+* [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Show HN: I built a desktop radiation monitor with Raspberry Pi, brass and wood](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
+* [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
 * [YouTube deleted an electronics repair channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
 * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 * [CSAIL Robot Disinfects Greater Boston Food Bank](https://news.mit.edu/2020/csail-robot-disinfects-greater-boston-food-bank-covid-19-0629)
@@ -28,16 +30,14 @@ layout: default
 * [Whole Earth Software Catalog (1984)](https://archive.org/details/Whole_Earth_Software_Catalog_1984_Point/)
 * [Only 9% of visitors give GDPR consent to be tracked](https://markosaric.com/gdpr-consent/)
 * [Kosher search engine powered by 4 car batteries on a passively cooled server](https://jewjewjew.com/)
-* [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
-* [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
-* [Show HN: CML – CI/CD for Machine Learning with GitHub Actions and Gitlab CI](http://cml.dev)
-* [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
-* [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
 * [Turn your phone into a wireless webcam for free](https://www.kinoni.com/)
+* [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
+* [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
+* [Show HN: CML – CI/CD for Machine Learning with GitHub Actions and Gitlab CI](http://cml.dev)
 * [Dark patterns in GDPR consent boxes](https://arxiv.org/abs/2001.02479)
-* [A Letter on Justice and Open Debate](https://harpers.org/a-letter-on-justice-and-open-debate/)
 * [UniFi-Video Products End of Life Announcement](https://community.ui.com/questions/UniFi-Video-Products-End-of-Life-Announcement/dc529d39-0e58-43cc-96f0-8f0eed0d002c)
 * [The Complete Spectrum ROM Disassembly](https://speccy.xyz/rom/)
+* [Algorithms Are Now Commodities](http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/)
 ## nytimes.com
 
 
@@ -84,31 +84,31 @@ layout: default
 * [Nurses Who Battled Virus in New York Confront Friends Back Home Who Say It’s a Hoax](https://www.nytimes.com/2020/07/07/us/coronavirus-nurses.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [‘P-Valley’ Dances to a Different Tune](https://www.nytimes.com/2020/07/07/arts/television/p-valley-starz.html)
 * [My Other Car is a...Mercedes Camper Van?](https://www.nytimes.com/2020/07/01/style/camper-vans-mercedes.html)
 * [‘Bébé’s Kids’ Shared a Lesson About Racial Injustice](https://www.nytimes.com/2020/07/05/movies/bebes-kids-racial-justice.html)
 * [Paapa Essiedu Knows ‘I May Destroy You’ Is Hard to Watch](https://www.nytimes.com/2020/07/06/arts/television/paapa-essiedu-i-may-destroy-you.html)
 * [The Sumptuous, Sour Music of Cory Smythe](https://www.nytimes.com/2020/07/07/arts/music/cory-smythe-piano.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
-* [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
-* [SuperVia admite ter de suspender operação de trens em agosto após prejuízo com pandemia](https://oglobo.globo.com/rio/supervia-admite-ter-de-suspender-operacao-de-trens-em-agosto-apos-prejuizo-com-pandemia-24519963)
-* [Campanha Juntos Pelo Cinema prepara público para a volta, reforçando ligação com a telona](https://oglobo.globo.com/cultura/campanha-juntos-pelo-cinema-prepara-publico-para-volta-reforcando-ligacao-com-telona-24519882)
+* [Um motivo jurídico para Bolsonaro evitar o público depois da infecção por Covid-19](https://oglobo.globo.com/analitico/um-motivo-juridico-para-bolsonaro-evitar-publico-depois-da-infeccao-por-covid-19-24520017)
+* [Coluna | Vírus não é professor](https://epoca.globo.com/denis-r-burgierman/coluna-virus-nao-professor-24519586)
+* [Planos de saúde perdem 283 mil usuários durante a pandemia](https://oglobo.globo.com/economia/defesa-do-consumidor/planos-de-saude-perdem-283-mil-usuarios-durante-pandemia-24520022)
+* [Iniciativa reúne doações para auxiliar pessoas em situação precária durante período menstrual](https://oglobo.globo.com/celina/iniciativa-reune-doacoes-para-auxiliar-pessoas-em-situacao-precaria-durante-periodo-menstrual-24517961)
+* [Vice-Presidente do Equador renuncia ao cargo em meio à pandemia da Covid-19](https://oglobo.globo.com/mundo/vice-presidente-do-equador-renuncia-ao-cargo-em-meio-pandemia-da-covid-19-24520037)
+* [Junho de 2020 foi o mais quente já registrado em série histórica da UE](https://oglobo.globo.com/sociedade/junho-de-2020-foi-mais-quente-ja-registrado-em-serie-historica-da-ue-24520016)
+* [Como são construídos os gols do Flamengo que impressionam até os rivais](https://oglobo.globo.com/esportes/como-sao-construidos-os-gols-do-flamengo-que-impressionam-ate-os-rivais-24519467)
 * [Estados Unidos aprovam desinfetantes contra o coronavírus](https://oglobo.globo.com/economia/estados-unidos-aprovam-desinfetantes-contra-coronavirus-1-24520001)
 * [Mais de 150 intelectuais denunciam “intolerância” no debate público](https://oglobo.globo.com/cultura/mais-de-150-intelectuais-denunciam-intolerancia-no-debate-publico-24520002)
 * [Influência de Cristina Kirchner começa a pesar sobre Fernández](https://oglobo.globo.com/mundo/influencia-de-cristina-kirchner-comeca-pesar-sobre-fernandez-24519565)
-* [Relator de MP do Crédito propõe usar maquininha para oferecer até R$ 50 mil em empréstimo para MEI e pequena empresa](https://oglobo.globo.com/economia/relator-de-mp-do-credito-propoe-usar-maquininha-para-oferecer-ate-50-milem-emprestimo-para-mei-pequena-empresa-24519968)
-* [Pandemia: interior concentra 70% dos novos casos e 58% das mortes em SP](https://oglobo.globo.com/sociedade/pandemia-interior-concentra-70-dos-novos-casos-58-das-mortes-em-sp-24519994)
-* [Petrobras reajusta preço da gasolina em 5% nas refinarias](https://oglobo.globo.com/economia/petrobras-reajusta-preco-da-gasolina-em-5-nas-refinarias-24519942)
-* [Infecção por Covid-19 não fez Bolsonaro mudar o discurso sobre a doença](https://oglobo.globo.com/analitico/infeccao-por-covid-19-nao-fez-bolsonaro-mudar-discurso-sobre-doenca-24519914)
-* [Presidente do Palmeiras, Skaf e embaixador dos EUA: as 49 pessoas da agenda de Bolsonaro da última semana](https://epoca.globo.com/guilherme-amado/presidente-do-palmeiras-skaf-embaixador-dos-eua-as-49-pessoas-da-agenda-de-bolsonaro-da-ultima-semana-24519943)

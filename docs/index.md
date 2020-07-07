@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 01:13:39 UTC
+# indexed at 07/07/2020 01:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
 * [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
-* [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://draftbit.com/jobs/senior-software-engineer)
 * [Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364)
-* [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
 * [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
+* [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://draftbit.com/jobs/senior-software-engineer)
 * [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
+* [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
 * [How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands)
-* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
-* [Abusing linear regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 * [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
+* [Abusing linear regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
+* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
 * [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
+* [The Classic Typewriter Page](https://site.xavier.edu/polt/typewriters/)
 * [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [Around 293 intermediate CAs in violation of CA/Browser guidelines](https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg13493.html)
-* [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
 * [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
-* [The limits of color awareness during active, real-world vision](https://www.pnas.org/content/117/24/13821)
+* [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
 * [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
 * [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
-* [H-1B: Government issues first-ever official estimate of visa population in U.S.](https://www.mercurynews.com/2020/06/26/h-1b-government-issues-first-ever-official-estimate-of-visa-population-in-u-s/)
-* [Berkshire Hathaway buys Dominion Energy natural gas assets in $10B deal](https://www.cnbc.com/2020/07/05/warren-buffetts-berkshire-buys-dominion-energy-natural-gas-assets-in-10-billion-deal.html)
-* [From the gig economy to the creator economy to the participatory economy](https://sariazout.substack.com/p/check-your-pulse-48)
+* [The limits of color awareness during active, real-world vision](https://www.pnas.org/content/117/24/13821)
 * [Everything I Know: Buckminster Fuller (1975)](https://www.bfi.org/about-fuller/resources/everything-i-know)
+* [From the gig economy to the creator economy to the participatory economy](https://sariazout.substack.com/p/check-your-pulse-48)
 * [Giant flywheel project in Scotland could prevent UK blackouts](https://www.theguardian.com/business/2020/jul/06/giant-flywheel-project-in-scotland-could-prevent-uk-blackouts-energy)
+* [H-1B: Government issues first-ever official estimate of visa population in U.S.](https://www.mercurynews.com/2020/06/26/h-1b-government-issues-first-ever-official-estimate-of-visa-population-in-u-s/)
 ## nytimes.com
 
 
@@ -92,19 +92,19 @@ layout: default
 * [Where You Can See the Cast of 'Hamilton' Now](https://www.nytimes.com/2020/07/04/movies/hamilton-anthony-ramos.html)
 * [Interpreting More Than Words for a Baseball Star](https://www.nytimes.com/2020/07/04/sports/baseball/Hyun-jin-Ryu-blue-jays.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
-* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 ## globo.com
 
 
+* [Sem máscara, Bolsonaro abraçou ministros em evento no fim de semana](https://oglobo.globo.com/brasil/sem-mascara-bolsonaro-abracou-ministros-em-evento-no-fim-de-semana-1-24518627)
 * [Com suspeita de Covid-19, Bolsonaro faz novo teste e já toma hidroxicloroquina](https://oglobo.globo.com/brasil/com-suspeita-de-covid-19-bolsonaro-faz-novo-teste-ja-toma-hidroxicloroquina-24518417)
 * [Congresso dos EUA marca depoimento de líderes de Facebook, Amazon, Google e Apple sobre concorrência](https://oglobo.globo.com/economia/congresso-dos-eua-marca-depoimento-de-lideres-de-facebook-amazon-google-apple-sobre-concorrencia-1-24518736)
 * [Morricone: curador de mostra sobre compositor indica as trilhas essenciais](https://oglobo.globo.com/rioshow/morricone-curador-de-mostra-sobre-compositor-indica-as-trilhas-essenciais-24518422)
-* [Sem máscara, Bolsonaro abraçou ministros em evento no fim de semana](https://oglobo.globo.com/brasil/sem-mascara-bolsonaro-abracou-ministros-em-evento-no-fim-de-semana-1-24518627)
 * [Ministro que se reuniu com Bolsonaro fará exame de Covid-19 nesta terça](https://oglobo.globo.com/brasil/ministro-que-se-reuniu-com-bolsonaro-fara-exame-de-covid-19-nesta-terca-1-24518584)
 * [Engenheiro nega ter agredido fiscal da Vigilância Sanitária, em bar da Barra da Tijuca](https://oglobo.globo.com/rio/engenheiro-nega-ter-agredido-fiscal-da-vigilancia-sanitaria-em-bar-da-barra-da-tijuca-24518542)
 * [CBF rebate Doria sobre participação de clubes paulistas no Brasileirão](https://oglobo.globo.com/esportes/cbf-rebate-doria-sobre-participacao-de-clubes-paulistas-no-brasileirao-24518418)

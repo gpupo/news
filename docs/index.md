@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 08:34:32 UTC
+# indexed at 07/07/2020 09:12:09 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Only 9% of visitors give GDPR consent to be tracked](https://markosaric.com/gdpr-consent/)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
-* [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
 * [A terrible, horrible, no-good, bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
+* [Building Domain Driven Microservices](https://medium.com/walmartlabs/building-domain-driven-microservices-af688aa1b1b8)
+* [Show HN: I built a desktop radiation monitor with Raspberry Pi, brass and wood](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
 * [The Faces of Microsoft (2017)](https://www.typemag.org/post/the-faces-of-microsoft)
-* [Weird Constants in Math Problems](https://blog.plover.com/math/odd-constants.html)
 * [Booting a 486 from floppy with the most up-to-date stable Linux kernel](https://www.insentricity.com/a.cl/283)
 * [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
-* [Against Testing](https://flak.tedunangst.com/post/against-testing)
 * [Programming with Punched Cards (2005) [pdf]](http://www.columbia.edu/cu/computinghistory/fisk.pdf)
-* [Ubiquiti Video Products: End of Life Announcement](https://community.ui.com/questions/UniFi-Video-Products-End-of-Life-Announcement/dc529d39-0e58-43cc-96f0-8f0eed0d002c)
+* [Against Testing](https://flak.tedunangst.com/post/against-testing)
+* [The Super Duper Universal Binary](https://tenfourfox.blogspot.com/2020/06/the-super-duper-universal-binary.html)
 * [Luxonis wants to use computer vision to protect cyclists](https://www.siliconrepublic.com/start-ups/luxonis-computer-vision-bike-cycling-safer-technology)
+* [Weird Constants in Math Problems](https://blog.plover.com/math/odd-constants.html)
 * [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
-* [Academic acceleration in gifted youth: a 35-year longitudinal study](https://psycnet.apa.org/record/2020-47023-001)
-* [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
-* [TikTok to pull out of Hong Kong](https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html)
+* [Ubiquiti Video Products: End of Life Announcement](https://community.ui.com/questions/UniFi-Video-Products-End-of-Life-Announcement/dc529d39-0e58-43cc-96f0-8f0eed0d002c)
 * [1:60 scale Boeing 777 made from manila folders](https://www.lucaiaconistewart.com/model-777)
-* [Achaemenid Shields Are a Puzzle](https://bookandsword.com/2020/06/06/achaemenid-shields-are-a-puzzle/)
+* [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
+* [Academic acceleration in gifted youth: a 35-year longitudinal study](https://psycnet.apa.org/record/2020-47023-001)
+* [TikTok to pull out of Hong Kong](https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html)
 * [Technology Holy Wars Are Coordination Problems](https://www.gwern.net/Holy-wars)
 * [It's Talos all the way down](https://www.talospace.com/2020/06/its-talos-all-way-down.html)
-* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
+* [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [US online grocery sales hit record $7.2B in June](https://techcrunch.com/2020/07/06/u-s-online-grocery-shopping-hits-record-7-2-billion-in-june/)
 * [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
-* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
-* [How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands)
+* [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
 * [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
-* [A Brief History of the Lawn Chair](https://www.valetmag.com/living/gear/2020/aluminum-webbed-lawn-chair-history-062220.php)
-* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
+* [How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands)
 ## nytimes.com
 
 
@@ -79,17 +79,18 @@ layout: default
 * [TikTok to Withdraw From Hong Kong as Tech Giants Halt Data Requests](https://www.nytimes.com/2020/07/06/technology/tiktok-google-facebook-twitter-hong-kong.html)
 * [Spike in N.Y.C. Shootings Leaves 64 Shot and 10 Dead](https://www.nytimes.com/2020/07/06/nyregion/murders-nyc-guns-crime.html)
 * [‘He’s Buying Up Brixton’: Beloved Grocer’s Eviction Sparks Gentrification Fight](https://www.nytimes.com/2020/07/06/world/europe/brixton-london-eviction-grocer-nour.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Start Meditating](https://www.nytimes.com/2020/06/22/at-home/how-to-start-meditating.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Italy’s Outdoor Summer Movies See Threat From Ailing Film Industry](https://www.nytimes.com/2020/07/05/world/europe/coronavirus-italy-outdoor-movies-festivals.html)
 * [5 Caribbean Vacation Destinations Reopening This Summer](https://www.nytimes.com/article/caribbean-reopening-coronavirus.html)
 * [Cherokee Women Aim for a Better Life in ‘Crooked Hallelujah’](https://www.nytimes.com/2020/07/06/books/review-crooked-hallelujah-kelli-jo-ford.html)
 * [Where You Can See the Cast of 'Hamilton' Now](https://www.nytimes.com/2020/07/04/movies/hamilton-anthony-ramos.html)
 * [Interpreting More Than Words for a Baseball Star](https://www.nytimes.com/2020/07/04/sports/baseball/Hyun-jin-Ryu-blue-jays.html)
-* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
+* [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
 * [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -98,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Diário da cura: Carioca enfrentou, fora do país, um câncer de mama e a Covid-19](https://oglobo.globo.com/ela/diario-da-cura-carioca-enfrentou-fora-do-pais-um-cancer-de-mama-a-covid-19-24514564)
 * [Mais lenta, Lava-Jato em SP tem menos denúncias e condenações que no RJ e em Curitiba](https://oglobo.globo.com/brasil/mais-lenta-lava-jato-em-sp-tem-menos-denuncias-condenacoes-que-no-rj-em-curitiba-24519089)
 * [Do Louvre à Torre Eiffel, cinco visitas virtuais para fazer em Paris](https://oglobo.globo.com/boa-viagem/do-louvre-torre-eiffel-cinco-visitas-virtuais-para-fazer-em-paris-24519153)
 * [Baixa adesão de alunos marca abertura de escolas em Manaus e Duque de Caxias](https://oglobo.globo.com/sociedade/baixa-adesao-de-alunos-marca-abertura-de-escolas-em-manaus-duque-de-caxias-1-24518915)
 * [Para fiscal da Vigilância Sanitária, não cabe mais no Brasil o 'você sabe com quem está falando?'](https://oglobo.globo.com/rio/para-fiscal-da-vigilancia-sanitaria-nao-cabe-mais-no-brasil-voce-sabe-com-quem-esta-falando-24518143)
 * ['A verdadeira exagerada sou eu, não era o Cazuza', diz Lucinha Araujo](https://oglobo.globo.com/cultura/a-verdadeira-exagerada-sou-eu-nao-era-cazuza-diz-lucinha-araujo-24518972)
-* ['Lei de segurança nacional é retaliação ao apoio internacional a Hong Kong', diz ativista da cidade](https://oglobo.globo.com/mundo/lei-de-seguranca-nacional-retaliacao-ao-apoio-internacional-hong-kong-diz-ativista-da-cidade-1-24518070)
 * [Com mudança em código de conduta para plataformas, Câmara inicia alterações na lei das Fake News](https://oglobo.globo.com/brasil/com-mudanca-em-codigo-de-conduta-para-plataformas-camara-inicia-alteracoes-na-lei-das-fake-news-24519059)
 * [Letícia Colin: 'Nos colocamos politicamente, e as pessoas ficaram bravas'](https://oglobo.globo.com/cultura/leticia-colin-nos-colocamos-politicamente-as-pessoas-ficaram-bravas-24517942)
 * [Como serão as eleições, em meio à pandemia de Covid-19?](https://oglobo.globo.com/podcast/como-serao-as-eleicoes-em-meio-pandemia-de-covid-19-24518772)
+* [Com 63 mortos por Covid, prisões têm percentual de morte inferior a taxa nacional](https://epoca.globo.com/guilherme-amado/com-63-mortos-por-covid-prisoes-tem-percentual-de-morte-inferior-taxa-nacional-24518779)
+* [Juliana Alves: 'Não posso falar de maternidade sem falar de combate ao racismo'](https://oglobo.globo.com/celina/juliana-alves-nao-posso-falar-de-maternidade-sem-falar-de-combate-ao-racismo-24518181)

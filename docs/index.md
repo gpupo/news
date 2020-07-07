@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 04:13:11 UTC
+# indexed at 07/07/2020 04:34:28 UTC
 
 
 ## news.ycombinator.com
 
 
 * [1:60 scale Boeing 777 made from manila folders](https://www.lucaiaconistewart.com/model-777)
-* [The Faces of Microsoft](https://www.typemag.org/post/the-faces-of-microsoft)
+* [The Faces of Microsoft (2017)](https://www.typemag.org/post/the-faces-of-microsoft)
+* [Academic Acceleration Has No Negative Effects on Psychological Well-Being](https://psycnet.apa.org/record/2020-47023-001)
 * [Booting a 486 from floppy with the most up-to-date stable Linux kernel](https://www.insentricity.com/a.cl/283)
 * [Two young scientists built a $250M business using yeast to clean up wastewater](https://www.forbes.com/sites/alexknapp/2020/07/06/how-two-young-scientists-built-a-250-million-business-using-yeast-to-clean-up-wastewater/#591ecf777802)
 * [An Introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro.html)
+* [Luxonis wants to use computer vision to protect cyclists](https://www.siliconrepublic.com/start-ups/luxonis-computer-vision-bike-cycling-safer-technology)
 * [Decision for 2020-21 Academic Year](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
 * [H.266/Versatile Video Coding (VVC)](https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1)
-* [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
-* [It's Talos all the way down](https://www.talospace.com/2020/06/its-talos-all-way-down.html)
 * [Electronic Whole Earth Catalog](https://archive.org/details/the-electronic-whole-earth-catalog)
+* [Playstation's secret weapon: a nearly all-automated factory](https://asia.nikkei.com/Business/Companies/PlayStation-s-secret-weapon-a-nearly-all-automated-factory)
 * [US online grocery sales hit record $7.2B in June](https://techcrunch.com/2020/07/06/u-s-online-grocery-shopping-hits-record-7-2-billion-in-june/)
-* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
+* [It's Talos all the way down](https://www.talospace.com/2020/06/its-talos-all-way-down.html)
+* [A Brief History of the Lawn Chair](https://www.valetmag.com/living/gear/2020/aluminum-webbed-lawn-chair-history-062220.php)
 * [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann)
+* [The long history of drinking games](https://www.historytoday.com/history-matters/rules-drinking)
 * [Exciting Days for ARM Processors](https://smist08.wordpress.com/2020/06/24/exciting-days-for-arm-processors/)
 * [Should I Use a Carousel?](http://shouldiuseacarousel.com/)
+* [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
+* [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
 * [JazzKeys: Type to improvise Jazz music](https://jazzkeys.plan8.co/)
 * [Daily Science Fiction](https://dailysciencefiction.com/)
-* [Why Can't I Reproduce Their Results?](http://theorangeduck.com/page/reproduce-their-results)
-* [ICE says international students must take in-person classes to remain in the US](https://www.theverge.com/2020/7/6/21315168/ice-immigration-international-students-universities-deportation)
-* [Code only says what it does](http://brooker.co.za/blog/2020/06/23/code.html)
-* [Abusing linear regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
-* [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/)
+* [Ubiquiti Video Products: End of Life Announcement](https://community.ui.com/questions/UniFi-Video-Products-End-of-Life-Announcement/dc529d39-0e58-43cc-96f0-8f0eed0d002c)
+* [My dad got scammed for $3k worth of gift cards](https://thehustle.co/phone-scam-gift-cards/)
 * [How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands)
 * [Palantir Announces Confidential Submission of Draft S-1](https://www.businesswire.com/news/home/20200706005622/en/Palantir-Announces-Confidential-Submission-Draft-Registration-Statement)
 * [I made a macro keypad with 3D-printed switches](https://incoherency.co.uk/blog/stories/3pct-keyboard.html)
 * [Where $521B in U.S. Small-Business Aid Went](https://www.bloomberg.com/graphics/2020-ppp-loans-data-disclosure/)
-* [EDEX-UI: science fiction terminal emulator](https://github.com/GitSquared/edex-ui)
-* [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
-* [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://draftbit.com/jobs/senior-software-engineer)
+* [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
 ## nytimes.com
 
 
@@ -80,9 +80,9 @@ layout: default
 * [‘He’s Buying Up Brixton’: Beloved Grocer’s Eviction Sparks Gentrification Fight](https://www.nytimes.com/2020/07/06/world/europe/brixton-london-eviction-grocer-nour.html)
 * [Spike in N.Y.C. Shootings Leaves 64 Shot and 10 Dead](https://www.nytimes.com/2020/07/06/nyregion/murders-nyc-guns-crime.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
 * [Italy’s Outdoor Summer Movies See Threat From Ailing Film Industry](https://www.nytimes.com/2020/07/05/world/europe/coronavirus-italy-outdoor-movies-festivals.html)
@@ -92,8 +92,8 @@ layout: default
 * [Interpreting More Than Words for a Baseball Star](https://www.nytimes.com/2020/07/04/sports/baseball/Hyun-jin-Ryu-blue-jays.html)
 * [Fossil Shows Wombat Relative That Weighed More Than 300 Pounds](https://www.nytimes.com/2020/06/25/science/wombat-fossil-australia.html)
 * [A Black Hole’s Lunch Provides a Treat for Astronomers](https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html)
-* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [How Bees Avoid Bumping Into Nature’s Obstacle Course](https://www.nytimes.com/2020/06/26/science/bees-obstacles-collisions.html)
+* [DNA Linked to Covid-19 Was Inherited From Neanderthals, Study Finds](https://www.nytimes.com/2020/07/04/health/coronavirus-neanderthals.html)
 * [Let’s Finish the American Revolution](https://www.nytimes.com/2020/07/03/opinion/fourth-of-july.html)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)

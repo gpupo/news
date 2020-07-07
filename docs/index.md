@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/07/2020 23:11:43 UTC
+# indexed at 07/07/2020 23:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
-* [Stripe Atlas Includes $5k in AWS Credits. This Is What We Actually Got](https://formcake.com/blog/stripe-atlas-includes-five-thousand-credits-this-is-what-we-got)
+* [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
 * [Searchable PPP Loan Data](https://pppreport.org/)
-* [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
+* [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
 * [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
-* [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
-* [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
-* [Professor solves 240 computer science exam problems in 4 hours [video]](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s)
-* [The Giant Ghibli Clock (2019)](https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan)
+* [Ronald Graham, 1935-2020](https://www.ams.org/news?news_id=6244)
 * [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
+* [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
 * [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
-* [BuildZoom (GC marketplace) is hiring developers and construction engineers](https://jobs.lever.co/buildzoom)
+* [Professor solves 240 computer science exam problems in 4 hours [video]](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s)
 * [Nokia to add open interfaces to its telecom equipment](https://www.reuters.com/article/us-nokia-5g-idUSKBN2480S0)
+* [The Giant Ghibli Clock (2019)](https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan)
 * [Turn your phone into a wireless webcam](https://www.kinoni.com/)
-* [The Slack Social Network](https://stratechery.com/2020/the-slack-social-network/)
+* [BuildZoom (GC marketplace) is hiring developers and construction engineers](https://jobs.lever.co/buildzoom)
 * [Show HN: I built a desktop radiation monitor with Raspberry Pi, brass and wood](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
+* [The Slack Social Network](https://stratechery.com/2020/the-slack-social-network/)
 * [Show HN: Continuous Machine Learning – CI/CD for Machine Learning Projects](http://cml.dev)
 * [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 * [Flight of the Fire Ants](https://edgelands.substack.com/p/flight-of-the-fire-ants)
-* [San Francisco tech CEO kicked out of Carmel Valley restaurant](https://abc7news.com/tech-ceo-michael-lofthouse-carmel-valley-ca-racist-solid-8-consulting-lucia-restaurant/6305099/)
-* [YouTube deleted an electronics repair channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
 * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+* [YouTube deleted an electronics repair channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
+* [The Complete Spectrum ROM Disassembly](https://speccy.xyz/rom/)
 ## nytimes.com
 
 
@@ -79,8 +79,8 @@ layout: default
 * [Scrutinizing SpaceX, NASA Overlooked Some Boeing Software Problems](https://www.nytimes.com/2020/07/07/science/boeing-starliner-nasa.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Sunrun to Acquire Vivint in Shake-Up of Home Solar Market](https://www.nytimes.com/2020/07/06/business/energy-environment/sunrun-vivint-solar.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
@@ -89,23 +89,23 @@ layout: default
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
 * [Tiny Love Stories: ‘She Wanted to Save the World’](https://www.nytimes.com/2020/07/07/style/tiny-modern-love-stories-coronavirus-she-wanted-to-save-the-world.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
-* [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
 * [Try Vertex](https://www.nytimes.com/puzzles/vertex)
 ## globo.com
 
 
-* [Veja a programaçao do drive-in de Niterói de 9 a 12 de julho](https://oglobo.globo.com/rio/bairros/veja-programacao-do-drive-in-de-niteroi-de-9-12-de-julho-24520528)
 * [Brasil tem 1.312 novos óbitos por coronavírus, diz consórcio de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-1312-novos-obitos-por-coronavirus-diz-consorcio-de-imprensa-no-boletim-das-20h-24520297)
-* [Universidades americanas repudiam decisão de governo de vetar cursos on-line para alunos estrangeiros](https://oglobo.globo.com/mundo/universidades-americanas-repudiam-decisao-de-governo-de-vetar-cursos-on-line-para-alunos-estrangeiros-24520539)
-* [Depois de 18 meses da primeira convocação, Flávio Bolsonaro presta depoimento ao MP](https://oglobo.globo.com/brasil/depois-de-18-meses-da-primeira-convocacao-flavio-bolsonaro-presta-depoimento-ao-mp-24520618)
+* [Alesp rejeita cassar deputada que recitou poema feminista](https://epoca.globo.com/guilherme-amado/alesp-rejeita-cassar-deputada-que-recitou-poema-feminista-24520715)
+* [Covid-19: Alerj aprova projeto de lei que determina horário exclusivo para atendimento de grupos de risco no comércio](https://oglobo.globo.com/rio/covid-19-alerj-aprova-projeto-de-lei-que-determina-horario-exclusivo-para-atendimento-de-grupos-de-risco-no-comercio-1-24520699)
+* [Depois de 18 meses da primeira convocação, Flávio Bolsonaro presta depoimento ao MP](https://oglobo.globo.com/brasil/depois-de-18-meses-da-primeira-convocacao-flavio-bolsonaro-presta-depoimento-ao-mp-1-24520618)
+* [MC Poze é considerado foragido pela polícia, que o investiga por associação com tráfico](https://oglobo.globo.com/rio/mc-poze-considerado-foragido-pela-policia-que-investiga-por-associacao-com-trafico-24520687)
+* [Coronavírus: Rio tem mais de 124 mil casos confirmados, com 183 novos óbitos nas últimas 24 horas](https://oglobo.globo.com/rio/coronavirus-rio-tem-mais-de-124-mil-casos-confirmados-com-183-novos-obitos-nas-ultimas-24-horas-24520700)
+* [Tráfico e milícia estão por trás de metade dos homicídios no Rio em 2020](https://oglobo.globo.com/rio/trafico-milicia-estao-por-tras-de-metade-dos-homicidios-no-rio-em-2020-24520698)
 * [Senado aprova prorrogação de receitas médicas durante a pandemia](https://oglobo.globo.com/sociedade/senado-aprova-prorrogacao-de-receitas-medicas-durante-pandemia-24520594)
+* [Veja a programação do drive-in de Niterói de 9 a 12 de julho](https://oglobo.globo.com/rio/bairros/veja-programacao-do-drive-in-de-niteroi-de-9-12-de-julho-24520528)
 * [Anatel e TIM fecham parceria para levar internet banda larga a 350 municípios](https://oglobo.globo.com/economia/anatel-tim-fecham-parceria-para-levar-internet-banda-larga-350-municipios-24520580)
-* ['Paulista' cotado por Bolsonaro para o MEC é pastor e tem doutorado em Educação](https://oglobo.globo.com/sociedade/paulista-cotado-por-bolsonaro-para-mec-pastor-tem-doutorado-em-educacao-24520574)
-* [Corações gigantes são pintados no chão para marcar distância segura em cidade da Inglaterra](https://oglobo.globo.com/mundo/coracoes-gigantes-sao-pintados-no-chao-para-marcar-distancia-segura-em-cidade-da-inglaterra-24520328)
-* [Crivella sanciona lei que cria sistema para monitorar pacientes assintomáticos ou com sintomas leves da Covid-19](https://oglobo.globo.com/rio/crivella-sanciona-lei-que-cria-sistema-para-monitorar-pacientes-assintomaticos-ou-com-sintomas-leves-da-covid-19-24520502)
-* [Só 2% dos projetos da Câmara na pandemia têm foco em mulheres](https://epoca.globo.com/guilherme-amado/so-2-dos-projetos-da-camara-na-pandemia-tem-foco-em-mulheres-24520515)

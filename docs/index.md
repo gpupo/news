@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 02:13:26 UTC
+# indexed at 08/07/2020 02:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -12,14 +12,14 @@ layout: default
 * [Ron Graham has died](https://www.ams.org/news?news_id=6244)
 * [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
 * [Loopy: a tool for thinking in systems](https://ncase.me/loopy/)
+* [Intel in Macs](https://www.apple.com/sg/intel/)
 * [Searchable PPP Loan Data](https://pppreport.org/)
 * [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
-* [Intel in Macs](https://www.apple.com/sg/intel/)
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
-* [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
 * [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
+* [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
@@ -29,14 +29,14 @@ layout: default
 * [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 * [Turn your phone into a wireless webcam](https://www.kinoni.com/)
-* [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
 * [Show HN: Continuous Machine Learning – CI/CD for Machine Learning Projects](http://cml.dev)
+* [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
 * [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
-* [Flight of the Fire Ants](https://edgelands.substack.com/p/flight-of-the-fire-ants)
 * [YouTube deleted an electronics repair channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
-* [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
 * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+* [Flight of the Fire Ants](https://edgelands.substack.com/p/flight-of-the-fire-ants)
 * [The Giant Ghibli Clock (2019)](https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan)
+* [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
 * [The Slack Social Network](https://stratechery.com/2020/the-slack-social-network/)
 ## nytimes.com
 
@@ -82,18 +82,20 @@ layout: default
 * [Scrutinizing SpaceX, NASA Overlooked Some Boeing Software Problems](https://www.nytimes.com/2020/07/07/science/boeing-starliner-nasa.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Case Against Amy Cooper Lacks Key Element: Victim’s Cooperation](https://www.nytimes.com/2020/07/07/nyregion/amy-cooper-central-park-false-report-charge.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
+* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [A Designer Who Makes Rugs Based on Screenshots](https://www.nytimes.com/2020/07/07/t-magazine/tom-atton-moore.html)
 * [Hoping for a Theater Bailout? Better Head to London](https://www.nytimes.com/2020/07/07/theater/theater-bailout-britain.html)
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
 * [Tiny Love Stories: ‘She Wanted to Save the World’](https://www.nytimes.com/2020/07/07/style/tiny-modern-love-stories-coronavirus-she-wanted-to-save-the-world.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Mary Trump’s Book Accuses the President of Embracing ‘Cheating as a Way of Life’](https://www.nytimes.com/2020/07/07/us/politics/mary-trump-book.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -101,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [MP 936: Congresso busca acordo para prorrogar desoneração da folha](https://oglobo.globo.com/economia/mp-936-congresso-busca-acordo-para-prorrogar-desoneracao-da-folha-24520645)
 * [Celso de Mello considera 'insólito e inadmissível' comentário de Augusto Heleno sobre apreensão do celular de Bolsonaro](https://oglobo.globo.com/brasil/celso-de-mello-considera-insolito-inadmissivel-comentario-de-augusto-heleno-sobre-apreensao-do-celular-de-bolsonaro-24521038)
+* ['Uma sociedade livre não se constrói com ódio', afirmou Toffoli ao desejar melhoras a Bolsonaro](https://oglobo.globo.com/brasil/uma-sociedade-livre-nao-se-constroi-com-odio-afirmou-toffoli-ao-desejar-melhoras-bolsonaro-24521049)
 * [Estados Unidos chegam a 3 milhões de casos do novo coronavírus](https://oglobo.globo.com/mundo/estados-unidos-chegam-3-milhoes-de-casos-do-novo-coronavirus-24520321)
 * [Após contaminação de Bolsonaro, gabinete presidencial passa por 'limpeza minuciosa'](https://oglobo.globo.com/brasil/apos-contaminacao-de-bolsonaro-gabinete-presidencial-passa-por-limpeza-minuciosa-24521081)
-* ['Uma sociedade livre não se constrói com ódio', afirmou Toffoli ao desejar melhoras a Bolsonaro](https://oglobo.globo.com/brasil/uma-sociedade-livre-nao-se-constroi-com-odio-afirmou-toffoli-ao-desejar-melhoras-bolsonaro-24521049)
 * [Morre o ex-jogador Dudu Dentão, que defendeu o Vasco](https://oglobo.globo.com/esportes/morre-ex-jogador-dudu-dentao-que-defendeu-vasco-24520885)
 * [Celso de Mello arquiva pedido de investigação contra Heleno, mas condena postura do ministro](https://epoca.globo.com/guilherme-amado/celso-de-mello-arquiva-pedido-de-investigacao-contra-heleno-mas-condena-postura-do-ministro-1-24520856)
 * [Bolsonaro deve fazer novo exame de Covid-19 na segunda-feira](https://oglobo.globo.com/brasil/bolsonaro-deve-fazer-novo-exame-de-covid-19-na-segunda-feira-1-24520741)
-* [MP 936: Maia diz que desoneração é 'boa ideia' e que Congresso pode derrubar veto de Bolsonaro](https://oglobo.globo.com/economia/mp-936-maia-diz-que-desoneracao-boa-ideia-que-congresso-pode-derrubar-veto-de-bolsonaro-24520645)
 * [Câmara aprova texto-base da MP de socorro às companhias aéreas](https://oglobo.globo.com/economia/camara-aprova-texto-base-da-mp-de-socorro-as-companhias-aereas-24520725)
 * [Alesp rejeita cassar deputada que recitou poema feminista](https://epoca.globo.com/guilherme-amado/alesp-rejeita-cassar-deputada-que-recitou-poema-feminista-1-24520715)

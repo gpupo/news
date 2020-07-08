@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 04:13:11 UTC
+# indexed at 08/07/2020 04:34:17 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Ron Graham has died](https://www.ams.org/news?news_id=6244)
 * [Intel in Macs](https://www.apple.com/sg/intel/)
-* [Scientists warn of potential wave of Covid-linked brain damage](https://montrealgazette.com/news/world/scientists-warn-of-potential-wave-of-covid-linked-brain-damage/wcm/73937fe3-1530-42f6-a854-6a393ec73c1a/)
+* [Never Have I Seen So Much Fake Unemployment and Jobs Data by the Bureau of Labor](https://wolfstreet.com/2020/07/02/never-before-have-i-seen-so-much-fake-unemployment-jobs-data-by-the-bureau-of-labor-statistics-while-labor-department-nails-it/)
 * [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
+* [Scientists warn of potential wave of Covid-linked brain damage](https://montrealgazette.com/news/world/scientists-warn-of-potential-wave-of-covid-linked-brain-damage/wcm/73937fe3-1530-42f6-a854-6a393ec73c1a/)
 * [Loopy: a tool for thinking in systems](https://ncase.me/loopy/)
-* [New Stuff](https://www.thefarside.com/new-stuff)
 * [SymPy - a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
+* [New Stuff](https://www.thefarside.com/new-stuff)
+* [Yoloface-500k:ultra-light real-time face detection model, 500kb](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection)
 * [Searchable PPP Loan Data](https://pppreport.org/)
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
 * [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
+* [FBI chief says China threatens families to coerce overseas critics to return](https://www.reuters.com/article/us-usa-china-wray/fbi-chief-says-china-threatens-families-to-coerce-overseas-critics-to-return-to-china-idUSKBN24825V)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
 * [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
+* [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
 * [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
 * [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
-* [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
-* [FBI chief says China threatens families to coerce overseas critics to return](https://www.reuters.com/article/us-usa-china-wray/fbi-chief-says-china-threatens-families-to-coerce-overseas-critics-to-return-to-china-idUSKBN24825V)
 * [Professor solves 240 computer science exam problems in 4 hours [video]](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s)
-* [Yoloface-500k:ultra-light real-time face detection model, 500kb](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection)
+* [A Need to Walk (2014)](https://craigmod.com/essays/a_need_to_walk/)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 * [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
 * [Show HN: Continuous Machine Learning – CI/CD for Machine Learning Projects](http://cml.dev)
 * [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
 * [Turn your phone into a wireless webcam](https://www.kinoni.com/)
-* [A Need to Walk (2014)](https://craigmod.com/essays/a_need_to_walk/)
 * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
-* [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
 * [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
 ## nytimes.com
 
@@ -51,7 +51,7 @@ layout: default
 * [In New Book, Trump’s Niece Describes Him as Still a Child, Seeking Attention](https://www.nytimes.com/2020/07/07/us/politics/donald-trump-mary-book.html)
 * [They Can’t Stomach Trump. They’re Sufficiently Comfortable With Biden.](https://www.nytimes.com/2020/07/07/us/politics/biden-2020-third-party.html)
 * [N.J.'s 2020 Primary Is Mostly by Mail. Here's Why That Matters.](https://www.nytimes.com/2020/07/07/nyregion/nj-election-vote-by-mail.html)
-* [Jaime Harrison's Fund-Raising Total Adds to Democrats' Impressive Senate Hauls](https://www.nytimes.com/2020/07/07/us/politics/democrats-senate-fundraising.html)
+* [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
 * [Artists and Writers Warn of an ‘Intolerant Climate.’ Reaction Is Swift.](https://www.nytimes.com/2020/07/07/arts/harpers-letter.html)
 * [Facebook Fails to Appease Organizers of Ad Boycott](https://www.nytimes.com/2020/07/07/technology/facebook-ad-boycott-civil-rights.html)
 * [Testing, School Reopenings, Beach Days: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/07/07/briefing/testing-school-reopenings-beach-days.html)
@@ -81,11 +81,10 @@ layout: default
 * [‘A Colossal Error’: Mexican Leader Under Fire for Plan to Visit Trump](https://www.nytimes.com/2020/07/07/world/americas/amlo-trump-mexico-white-house.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Case Against Amy Cooper Lacks Key Element: Victim’s Cooperation](https://www.nytimes.com/2020/07/07/nyregion/amy-cooper-central-park-false-report-charge.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
-* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [A Designer Who Makes Rugs Based on Screenshots](https://www.nytimes.com/2020/07/07/t-magazine/tom-atton-moore.html)
 * [Hoping for a Theater Bailout? Better Head to London](https://www.nytimes.com/2020/07/07/theater/theater-bailout-britain.html)
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
@@ -94,7 +93,6 @@ layout: default
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Mary Trump’s Book Accuses the President of Embracing ‘Cheating as a Way of Life’](https://www.nytimes.com/2020/07/07/us/politics/mary-trump-book.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)

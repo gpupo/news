@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 09:12:29 UTC
+# indexed at 08/07/2020 09:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Yoloface-500k: ultra-light real-time face detection model, 500kb](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection)
 * [Google drops blogspot.in breaking hundred thousands of permalinks](https://news.ycombinator.com/item?id=23767781)
 * [Ron Graham has died](https://www.ams.org/news?news_id=6244)
-* [SymPy - a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
 * [Curry Before Columbus](https://contingentmagazine.org/2020/06/25/curry-before-columbus/)
+* [SymPy - a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
 * [Discovery of oldest bow and arrow technology in Eurasia](https://phys.org/news/2020-06-discovery-oldest-arrow-technology-eurasia.html)
 * [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
 * [Loopy: a tool for thinking in systems](https://ncase.me/loopy/)
+* [A Guided Tour of the Plane-Based Geometric Algebra PGA](https://bivector.net/PGA4CS.html)
 * [N. K. Jemisin’s Dream Worlds](https://www.newyorker.com/magazine/2020/01/27/nk-jemisins-dream-worlds)
 * [Quantum Bayesianism Explained by Its Founder](https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/)
-* [A Guided Tour of the Plane-Based Geometric Algebra PGA](https://bivector.net/PGA4CS.html)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
-* [Project mouSTer – The ultimate mouse adapter for retrocomputers](https://retrohax.net/project-mouster-the-ultimate-mouse-adapter-for-retrocomputers/)
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [New Stuff](https://www.thefarside.com/new-stuff)
-* [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
-* [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
 * [Fractally Broken](https://niallbunting.com/fractally/broken/daily/2020/06/18/fractally-broken.html)
+* [Project mouSTer – The ultimate mouse adapter for retrocomputers](https://retrohax.net/project-mouster-the-ultimate-mouse-adapter-for-retrocomputers/)
+* [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [A Need to Walk (2014)](https://craigmod.com/essays/a_need_to_walk/)
+* [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
 * [Show HN: ip2unix – Turn IP sockets into Unix domain sockets](https://github.com/nixcloud/ip2unix)
 * [Intel in Macs (2007)](https://www.apple.com/sg/intel/)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
-* [Common Accessibility Problems (and How to Fix Them)](https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html)
-* [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
-* [Pope pulls speech on Hong Kong freedom, raising questions over Beijing pressure](https://hk.appledaily.com/us/20200707/3JPO2PWP2UXTHBOUYIKKMLKKUU/)
 * [Round numbers as evidence of voter fraud](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2018.01141.x)
+* [Pope pulls speech on Hong Kong freedom, raising questions over Beijing pressure](https://hk.appledaily.com/us/20200707/3JPO2PWP2UXTHBOUYIKKMLKKUU/)
+* [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
 * [The GNU Name System IETF Draft](https://tools.ietf.org/id/draft-schanzen-gns-01.html)
+* [Common Accessibility Problems (and How to Fix Them)](https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
 * [Artists and Writers Warn of an ‘Intolerant Climate.’ Reaction Is Swift.](https://www.nytimes.com/2020/07/07/arts/harpers-letter.html)
 * [Facebook Decisions Were ‘Setbacks for Civil Rights,’ Audit Finds](https://www.nytimes.com/2020/07/08/technology/facebook-civil-rights-audit.html)
+* [Amy Cooper’s 911 Call, and What’s Happened Since](https://www.nytimes.com/2020/07/08/nyregion/amy-cooper-false-report-charge.html)
 * [‘Their Goal Is the End of America’](https://www.nytimes.com/2020/07/07/podcasts/the-daily/trump-mount-rushmore-speech.html)
 * [Jules Feiffer on His Long, Varied Career](https://www.nytimes.com/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html)
 * [Who Received P.P.P. Rescue Loans?](https://www.nytimes.com/2020/07/07/business/dealbook/ppp-loan-names.html)
@@ -80,8 +81,8 @@ layout: default
 * [‘A Colossal Error’: Mexican Leader Under Fire for Plan to Visit Trump](https://www.nytimes.com/2020/07/07/world/americas/amlo-trump-mexico-white-house.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Case Against Amy Cooper Lacks Key Element: Victim’s Cooperation](https://www.nytimes.com/2020/07/07/nyregion/amy-cooper-central-park-false-report-charge.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
@@ -90,10 +91,10 @@ layout: default
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
 * [Tiny Love Stories: ‘She Wanted to Save the World’](https://www.nytimes.com/2020/07/07/style/tiny-modern-love-stories-coronavirus-she-wanted-to-save-the-world.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Mary Trump’s Book Accuses the President of Embracing ‘Cheating as a Way of Life’](https://www.nytimes.com/2020/07/07/us/politics/mary-trump-book.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -105,7 +106,7 @@ layout: default
 * ['Quantos dos 65 mil brasileiros que perdemos foram felizes com canções tuas, Moraes Moreira?'](https://oglobo.globo.com/cultura/quantos-dos-65-mil-brasileiros-que-perdemos-foram-felizes-com-cancoes-tuas-moraes-moreira-24520214)
 * [Os próximos passos da Conmebol em relação à Libertadores](https://oglobo.globo.com/esportes/os-proximos-passos-da-conmebol-em-relacao-libertadores-24521217)
 * [A nova barreira para brasileiros que estudam nos EUA](https://oglobo.globo.com/podcast/a-nova-barreira-para-brasileiros-que-estudam-nos-eua-1-24520917)
-* ['Algo mais grave não quer dizer só morrer': especialistas reagem a fala de Bolsonaro sobre Covid-19 em jovens](https://oglobo.globo.com/sociedade/algo-mais-grave-nao-quer-dizer-so-morrer-especialistas-reagem-fala-de-bolsonaro-sobre-covid-19-em-jovens-24520697)
+* [Médica faz propaganda da cloroquina na TV Brasil e cita nazismo para criticar medo da Covid](https://epoca.globo.com/guilherme-amado/medica-faz-propaganda-da-cloroquina-na-tv-brasil-cita-nazismo-para-criticar-medo-da-covid-1-24520851)
 * [Flamengo vê Jesus balançado, mas entende que só projeto maior o convenceria a sair](https://oglobo.globo.com/esportes/flamengo-ve-jesus-balancado-mas-entende-que-so-projeto-maior-convenceria-sair-1-24520219)
 * [PGR afirmou que crime de atentado à saúde pública por Bolsonaro dependeria de resultado positivo](https://epoca.globo.com/guilherme-amado/pgr-afirmou-que-crime-de-atentado-saude-publica-por-bolsonaro-dependeria-de-resultado-positivo-24520835)
 * [Entre sexo, álcool e muita MPB, biografia narra a vida e a obra de Luiz Melodia](https://oglobo.globo.com/cultura/entre-sexo-alcool-muita-mpb-biografia-narra-vida-a-obra-de-luiz-melodia-24520750)

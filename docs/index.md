@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 12:34:38 UTC
+# indexed at 08/07/2020 13:11:56 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Why Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 * [Show HN: A weirdly detailed graphical analysis of women's tops sold by Goodwill](https://goodwill.awardwinninghuman.com/)
-* [Git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
 * [EasyOCR: Ready-to-use OCR with 40 languages](https://github.com/JaidedAI/EasyOCR)
+* [Why Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 * [KeePassXC 2.6.0 Released](https://keepassxc.org/blog/2020-07-07-2.6.0-released/)
+* [Git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
 * [Ariane RISC-V CPU – An open source CPU capable of booting Linux](https://github.com/openhwgroup/cva6)
 * [Yoloface-500k: ultra-light real-time face detection model, 500kb](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection)
-* [Mcfly – neural-network powered directory and context-aware shell history search](https://github.com/cantino/mcfly)
 * [Google drops blogspot.in breaking hundred thousands of permalinks](https://news.ycombinator.com/item?id=23767781)
+* [The EU General Data Protection Regulation Explained by Americans](https://hroy.eu/posts/gdprExplainedByUS/)
+* [Symbolic execution with SymCC: Don't interpret, compile](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html)
+* [Mcfly – neural-network powered directory and context-aware shell history search](https://github.com/cantino/mcfly)
 * [The More Senior Your Job Title, the More You Need to Keep a Journal](https://hbr.org/2017/07/the-more-senior-your-job-title-the-more-you-need-to-keep-a-journal)
 * [Ron Graham has died](https://www.ams.org/news?news_id=6244)
 * [SymPy - a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
-* [The EU General Data Protection Regulation Explained by Americans](https://hroy.eu/posts/gdprExplainedByUS/)
 * [Curry Before Columbus](https://contingentmagazine.org/2020/06/25/curry-before-columbus/)
+* [REST and GraphQL: An Architectural Comparison](https://hasura.io/blog/rest-view-of-graphql)
 * [Loopy: a tool for thinking in systems](https://ncase.me/loopy/)
-* [Symbolic execution with SymCC: Don't interpret, compile](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html)
+* [Ask HN: Are YouTube ads getting worse?](https://news.ycombinator.com/item?id=23769291)
 * [Discovery of oldest bow and arrow technology in Eurasia](https://phys.org/news/2020-06-discovery-oldest-arrow-technology-eurasia.html)
-* [A Guided Tour of the Plane-Based Geometric Algebra PGA](https://bivector.net/PGA4CS.html)
+* [Project mouSTer – The ultimate mouse adapter for retrocomputers](https://retrohax.net/project-mouster-the-ultimate-mouse-adapter-for-retrocomputers/)
 * [The GNU Name System IETF Draft](https://tools.ietf.org/id/draft-schanzen-gns-01.html)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
-* [N. K. Jemisin’s Dream Worlds](https://www.newyorker.com/magazine/2020/01/27/nk-jemisins-dream-worlds)
-* [Project mouSTer – The ultimate mouse adapter for retrocomputers](https://retrohax.net/project-mouster-the-ultimate-mouse-adapter-for-retrocomputers/)
-* [Show HN: ip2unix – Turn IP sockets into Unix domain sockets](https://github.com/nixcloud/ip2unix)
+* [A Guided Tour of the Plane-Based Geometric Algebra PGA](https://bivector.net/PGA4CS.html)
 * [Quantum Bayesianism Explained by Its Founder](https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/)
+* [Show HN: ip2unix – Turn IP sockets into Unix domain sockets](https://github.com/nixcloud/ip2unix)
 * [Common Accessibility Problems (and How to Fix Them)](https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html)
-* [A Need to Walk (2014)](https://craigmod.com/essays/a_need_to_walk/)
 * [Round numbers as evidence of voter fraud](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2018.01141.x)
+* [A Need to Walk (2014)](https://craigmod.com/essays/a_need_to_walk/)
 * [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
-* [New Stuff](https://www.thefarside.com/new-stuff)
-* [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
+* [N. K. Jemisin’s Dream Worlds](https://www.newyorker.com/magazine/2020/01/27/nk-jemisins-dream-worlds)
 ## nytimes.com
 
 
-* [Churches Were Eager to Reopen. Now They Are a Major Source of Coronavirus Cases.](https://www.nytimes.com/2020/07/08/us/coronavirus-churches-outbreaks.html)
-* [Coronavirus Live Updates: Tennessee Shows Limits of Testing](https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html)
+* [Churches Emerge as Major Source of Coronavirus Cases](https://www.nytimes.com/2020/07/08/us/coronavirus-churches-outbreaks.html)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html)
 * [Puerto Rico, Still Reeling From Old Disasters, Is Slammed by Covid-19](https://www.nytimes.com/2020/07/08/us/coronavirus-puerto-rico-economy-unemployment.html)
 * [Virus-Tracing Apps Are Rife With Problems. Governments Are Rushing to Fix Them.](https://www.nytimes.com/2020/07/08/technology/virus-tracing-apps-privacy.html)
 * [Disney World Draws Excitement and Incredulity as Reopening Nears](https://www.nytimes.com/2020/07/08/business/coronavirus-disney-world-reopening.html)
@@ -58,6 +58,7 @@ layout: default
 * [Counting the Infected](https://www.nytimes.com/2020/07/08/podcasts/the-daily/coronavirus-data-united-states.html)
 * [Facebook’s Civil Rights Meeting Didn’t Go Well](https://www.nytimes.com/2020/07/08/business/dealbook/facebook-civil-rights.html)
 * [Jules Feiffer on His Long, Varied Career](https://www.nytimes.com/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html)
+* [New U.C. President Michael V. Drake: 'It's a Time to Be Engaged'](https://www.nytimes.com/2020/07/08/us/new-university-california-president-michael-drake.html)
 * [Biden Should Not Debate Trump Unless …](https://www.nytimes.com/2020/07/07/opinion/biden-trump-debate.html)
 * [How Could Human Nature Have Become This Politicized?](https://www.nytimes.com/2020/07/08/opinion/trump-politics-psychology.html)
 * [For Israel and Palestine, Equality in a One-State Solution](https://www.nytimes.com/2020/07/08/opinion/israel-annexation-two-state-solution.html)
@@ -103,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Facebook não faz o suficiente para proteger os direitos civis, constata auditoria](https://oglobo.globo.com/mundo/facebook-nao-faz-suficiente-para-proteger-os-direitos-civis-constata-auditoria-24521358)
-* [Presidente sanciona lei com medidas de combate à violência doméstica na pandemia](https://oglobo.globo.com/sociedade/presidente-sanciona-lei-com-medidas-de-combate-violencia-domestica-na-pandemia-24521357)
-* [TJD rejeita limitar que permitira ao Flamengo transmitir final da Taça Rio contra o Fluminense](https://oglobo.globo.com/esportes/tjd-rejeita-limitar-que-permitira-ao-flamengo-transmitir-final-da-taca-rio-contra-fluminense-1-24521354)
 * [Varejo cresce 13,9% em maio, ainda longe de recuperar perdas da pandemia](https://oglobo.globo.com/economia/varejo-cresce-139-em-maio-ainda-longe-de-recuperar-perdas-da-pandemia-24521324)
-* [Com pandemia, CVC estima prejuízo superior a R$ 700 milhões](https://oglobo.globo.com/economia/com-pandemia-cvc-estima-prejuizo-superior-r-700-milhoes-24521350)
-* [É um exemplo clássico de que o 'sabe com quem está falando?' não acabou, analisa Roberto DaMatta](https://oglobo.globo.com/rio/e-um-exemplo-classico-de-que-sabe-com-quem-esta-falando-nao-acabou-analisa-roberto-damatta-24520072)
-* [Ex-assessora e amiga de Melania Trump vai lançar livro com detalhes da vida da primeira-dama](https://oglobo.globo.com/ela/gente/ex-assessora-amiga-de-melania-trump-vai-lancar-livro-com-detalhes-da-vida-da-primeira-dama-24521336)
+* [Facebook não faz o suficiente para combater discriminação, diz auditoria](https://oglobo.globo.com/economia/facebook-nao-faz-suficiente-para-combater-discriminacao-diz-auditoria-1-24521361)
+* [Dólar opera em alta, na faixa de R$ 5,40, diante de incerteza sobre retomada da economia](https://oglobo.globo.com/economia/dolar-opera-em-alta-na-faixa-de-540-diante-de-incerteza-sobre-retomada-da-economia-24521366)
 * [Djokovic se vê vítima de 'caça às bruxas' e afirma que pode não jogar US Open](https://oglobo.globo.com/esportes/djokovic-se-ve-vitima-de-caca-as-bruxas-afirma-que-pode-nao-jogar-us-open-24521339)
-* [Quem são os 30%? Como escândalos, pandemia e auxílio emergencial podem estar mudando base de apoio de Bolsonaro](https://epoca.globo.com/brasil/quem-sao-os-30-como-escandalos-pandemia-auxilio-emergencial-podem-estar-mudando-base-de-apoio-de-bolsonaro-24521327)
+* [Bolsonaro sanciona lei com medidas de combate à violência doméstica na pandemia](https://oglobo.globo.com/sociedade/bolsonaro-sanciona-lei-com-medidas-de-combate-violencia-domestica-na-pandemia-24521357)
+* [TJD rejeita liminar que permitiria ao Flamengo transmitir final da Taça Rio contra o Fluminense](https://oglobo.globo.com/esportes/tjd-rejeita-liminar-que-permitiria-ao-flamengo-transmitir-final-da-taca-rio-contra-fluminense-24521354)
+* [Com pandemia, CVC estima prejuízo superior a R$ 700 milhões](https://oglobo.globo.com/economia/com-pandemia-cvc-estima-prejuizo-superior-r-700-milhoes-24521350)
+* [Ex-assessora e amiga de Melania Trump vai lançar livro com detalhes da vida da primeira-dama](https://oglobo.globo.com/ela/gente/ex-assessora-amiga-de-melania-trump-vai-lancar-livro-com-detalhes-da-vida-da-primeira-dama-24521336)
 * [Análise: Por que a viagem de López Obrador para se reunir com Trump traz riscos políticos para o presidente do México](https://oglobo.globo.com/mundo/analise-por-que-viagem-de-lopez-obrador-para-se-reunir-com-trump-traz-riscos-politicos-para-presidente-do-mexico-1-24520718)
+* [Deputado que teve embate com Anitta será relator de MP de direitos autorais](https://epoca.globo.com/guilherme-amado/deputado-que-teve-embate-com-anitta-sera-relator-de-mp-de-direitos-autorais-24520829)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 03:12:27 UTC
+# indexed at 08/07/2020 03:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [New Stuff](https://www.thefarside.com/new-stuff)
 * [Ron Graham has died](https://www.ams.org/news?news_id=6244)
-* [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
 * [Intel in Macs](https://www.apple.com/sg/intel/)
+* [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
 * [Loopy: a tool for thinking in systems](https://ncase.me/loopy/)
+* [Scientists warn of potential wave of Covid-linked brain damage](https://montrealgazette.com/news/world/scientists-warn-of-potential-wave-of-covid-linked-brain-damage/wcm/73937fe3-1530-42f6-a854-6a393ec73c1a/)
 * [Searchable PPP Loan Data](https://pppreport.org/)
 * [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
-* [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
+* [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 * [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
-* [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
+* [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
 * [Professor solves 240 computer science exam problems in 4 hours [video]](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s)
 * [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
-* [Scientists warn of potential wave of Covid-linked brain damage](https://montrealgazette.com/news/world/scientists-warn-of-potential-wave-of-covid-linked-brain-damage/wcm/73937fe3-1530-42f6-a854-6a393ec73c1a/)
 * [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
-* [Turn your phone into a wireless webcam](https://www.kinoni.com/)
 * [Show HN: Continuous Machine Learning – CI/CD for Machine Learning Projects](http://cml.dev)
-* [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
+* [Turn your phone into a wireless webcam](https://www.kinoni.com/)
 * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+* [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
 * [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
 * [YouTube deleted an electronics repair channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
 * [Flight of the Fire Ants](https://edgelands.substack.com/p/flight-of-the-fire-ants)
-* [Why “I don’t have time” is a lie](https://blogofjake.com/2020/07/06/why-i-dont-have-time-is-a-lie/)
+* [The Giant Ghibli Clock (2019)](https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan)
 * [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
 ## nytimes.com
 
@@ -79,23 +79,23 @@ layout: default
 * [White House Warns Against Chinese Investment, Citing Risk of Further Sanctions](https://www.nytimes.com/2020/07/07/business/economy/white-house-chinese-investment.html)
 * [Over 180 Bodies Found Dumped in Burkina Faso Town, Report Says](https://www.nytimes.com/2020/07/07/world/africa/burkina-faso-bodies-military.html)
 * [Drivers Are Hitting Protesters as Memes of Car Attacks Spread](https://www.nytimes.com/2020/07/07/us/bloomington-car-attack-protesters.html)
-* [Scrutinizing SpaceX, NASA Overlooked Some Boeing Software Problems](https://www.nytimes.com/2020/07/07/science/boeing-starliner-nasa.html)
+* [‘A Colossal Error’: Mexican Leader Under Fire for Plan to Visit Trump](https://www.nytimes.com/2020/07/07/world/americas/amlo-trump-mexico-white-house.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Case Against Amy Cooper Lacks Key Element: Victim’s Cooperation](https://www.nytimes.com/2020/07/07/nyregion/amy-cooper-central-park-false-report-charge.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
-* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
 * [A Designer Who Makes Rugs Based on Screenshots](https://www.nytimes.com/2020/07/07/t-magazine/tom-atton-moore.html)
 * [Hoping for a Theater Bailout? Better Head to London](https://www.nytimes.com/2020/07/07/theater/theater-bailout-britain.html)
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
 * [Tiny Love Stories: ‘She Wanted to Save the World’](https://www.nytimes.com/2020/07/07/style/tiny-modern-love-stories-coronavirus-she-wanted-to-save-the-world.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Mary Trump’s Book Accuses the President of Embracing ‘Cheating as a Way of Life’](https://www.nytimes.com/2020/07/07/us/politics/mary-trump-book.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Tiles and More](https://www.nytimes.com/crosswords)
@@ -103,8 +103,8 @@ layout: default
 ## globo.com
 
 
-* [Com selo de boas-vindas, Dubai reabre suas portas para os turistas internacionais](https://oglobo.globo.com/boa-viagem/com-selo-de-boas-vindas-dubai-reabre-suas-portas-para-os-turistas-internacionais-24521141)
 * [Transmissão do coronavírus aumenta no Brasil, alerta estudo inglês](https://oglobo.globo.com/sociedade/coronavirus/transmissao-do-coronavirus-aumenta-no-brasil-alerta-estudo-ingles-1-24521159)
+* [Com selo de boas-vindas, Dubai reabre suas portas para os turistas internacionais](https://oglobo.globo.com/boa-viagem/com-selo-de-boas-vindas-dubai-reabre-suas-portas-para-os-turistas-internacionais-24521141)
 * [MP 936: Congresso busca acordo para prorrogar desoneração da folha](https://oglobo.globo.com/economia/mp-936-congresso-busca-acordo-para-prorrogar-desoneracao-da-folha-24520645)
 * [MP 936: setores preveem perda de até 1 milhão de empregos com veto à desoneração da folha](https://oglobo.globo.com/economia/mp-936-setores-preveem-perda-de-ate-1-milhao-de-empregos-com-veto-desoneracao-da-folha-1-24521139)
 * [Celso de Mello considera 'insólito e inadmissível' comentário de Augusto Heleno sobre apreensão do celular de Bolsonaro](https://oglobo.globo.com/brasil/celso-de-mello-considera-insolito-inadmissivel-comentario-de-augusto-heleno-sobre-apreensao-do-celular-de-bolsonaro-24521038)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 06:13:38 UTC
+# indexed at 08/07/2020 06:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -20,24 +20,24 @@ layout: default
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [A Need to Walk (2014)](https://craigmod.com/essays/a_need_to_walk/)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
+* [Quantum Bayesianism Explained by Its Founder](https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
-* [Intel in Macs (2007)](https://www.apple.com/sg/intel/)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
-* [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
+* [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
+* [Intel in Macs (2007)](https://www.apple.com/sg/intel/)
 * [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
-* [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
 * [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
+* [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
 * [Dune: The Battle for Arrakis – Extended Reference (2003)](http://ledmeister.com/dunexref.htm)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 * [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
-* [Quantum Bayesianism Explained by Its Founder](https://www.quantamagazine.org/quantum-bayesianism-explained-by-its-founder-20150604/)
-* [Turn your phone into a wireless webcam](https://www.kinoni.com/)
 * [Increase in delirium, rare brain inflammation and stroke linked to Covid-19](https://medicalxpress.com/news/2020-07-delirium-rare-brain-inflammation-linked.html)
-* [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
-* [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
 * [Show HN: ip2unix – Turn IP sockets into Unix domain sockets](https://github.com/nixcloud/ip2unix)
+* [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
 * [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
+* [Paycheck Protection Program Recipient Map](https://www.quiverquant.com/sources/sbaloans)
+* [Flight of the Fire Ants](https://edgelands.substack.com/p/flight-of-the-fire-ants)
 ## nytimes.com
 
 
@@ -81,11 +81,10 @@ layout: default
 * [‘A Colossal Error’: Mexican Leader Under Fire for Plan to Visit Trump](https://www.nytimes.com/2020/07/07/world/americas/amlo-trump-mexico-white-house.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Case Against Amy Cooper Lacks Key Element: Victim’s Cooperation](https://www.nytimes.com/2020/07/07/nyregion/amy-cooper-central-park-false-report-charge.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [The Pandemic Is Stressing Your Body in New Ways](https://www.nytimes.com/2020/06/04/smarter-living/the-pandemic-is-stressing-your-body-in-new-ways.html)
 * [A Designer Who Makes Rugs Based on Screenshots](https://www.nytimes.com/2020/07/07/t-magazine/tom-atton-moore.html)
 * [Hoping for a Theater Bailout? Better Head to London](https://www.nytimes.com/2020/07/07/theater/theater-bailout-britain.html)
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
@@ -93,7 +92,6 @@ layout: default
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
 * [Mary Trump’s Book Accuses the President of Embracing ‘Cheating as a Way of Life’](https://www.nytimes.com/2020/07/07/us/politics/mary-trump-book.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

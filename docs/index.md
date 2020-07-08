@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/07/2020 01:13:53 UTC
+# indexed at 08/07/2020 01:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -11,11 +11,12 @@ layout: default
 * [Ron Graham has died](https://www.ams.org/news?news_id=6244)
 * [Help Message for Shell Scripts](https://samizdat.dev/help-message-for-shell-scripts/)
 * [Loopy a tool for visualising stocks and flows](https://ncase.me/loopy/)
+* [New Stuff. Fresh from Larson's Lab](https://www.thefarside.com/new-stuff)
 * [Searchable PPP Loan Data](https://pppreport.org/)
 * [Firefox Android: Camera remains active even when the phone is locked](https://bugzilla.mozilla.org/show_bug.cgi?id=1564451)
 * [Show HN: Map33.js – a library to build 3D maps with Three.js](https://map33.openbloc.com)
-* [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
 * [Show HN: SheetUI – Turn Google Sheets into Web Pages](https://sheetui.com)
+* [Building Cloudflare TV from Scratch](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/)
 * [Goodhart's Law and how systems are shaped by the metrics you chase](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts)
 * [Google Common Lisp style guide](https://google.github.io/styleguide/lispguide.xml)
 * [Google offers free fabbing for 130nm open-source chips](https://fossi-foundation.org/2020/06/30/skywater-pdk)
@@ -23,20 +24,19 @@ layout: default
 * [Caffenol: Developing Photos with Coffee and Vitamin C [video]](https://www.youtube.com/watch?v=9bhOtTUtPhg)
 * [Analysis of all YouTube trending videos in US for 2019](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us)
 * [Keeping your Go modules compatible](https://blog.golang.org/module-compatibility)
-* [Nokia to add open interfaces to its telecom equipment](https://www.reuters.com/article/us-nokia-5g-idUSKBN2480S0)
 * [Professor solves 240 computer science exam problems in 4 hours [video]](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s)
+* [Nokia to add open interfaces to its telecom equipment](https://www.reuters.com/article/us-nokia-5g-idUSKBN2480S0)
 * [I got 400 signups with a video of a product that didn’t exist](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist/)
 * [Sweden: higher Covid-19 death rate while failing to collect on economic gains](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
-* [Turn your phone into a wireless webcam](https://www.kinoni.com/)
 * [A terrible, horrible, no-good, very bad day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
-* [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
+* [Turn your phone into a wireless webcam](https://www.kinoni.com/)
 * [Show HN: Continuous Machine Learning – CI/CD for Machine Learning Projects](http://cml.dev)
 * [Flight of the Fire Ants](https://edgelands.substack.com/p/flight-of-the-fire-ants)
+* [National Science Foundation reveals details on foreign-influence investigations](https://www.nature.com/articles/d41586-020-02051-8)
 * [The Giant Ghibli Clock (2019)](https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan)
 * [Classifying 200k articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)
-* [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 * [YouTube deleted an electronics repair channel [video]](https://www.youtube.com/watch?v=W0mMOHrftgU)
-* [The Slack Social Network](https://stratechery.com/2020/the-slack-social-network/)
+* [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 * [The Complete Spectrum ROM Disassembly](https://speccy.xyz/rom/)
 ## nytimes.com
 
@@ -52,6 +52,7 @@ layout: default
 * [They Can’t Stomach Trump. They’re Sufficiently Comfortable With Biden.](https://www.nytimes.com/2020/07/07/us/politics/biden-2020-third-party.html)
 * [N.J.'s 2020 Primary Is Mostly by Mail. Here's Why That Matters.](https://www.nytimes.com/2020/07/07/nyregion/nj-election-vote-by-mail.html)
 * [Jaime Harrison's Fund-Raising Total Adds to Democrats' Impressive Senate Hauls](https://www.nytimes.com/2020/07/07/us/politics/democrats-senate-fundraising.html)
+* [Prominent Artists and Writers Warn of an ‘Intolerant Climate’](https://www.nytimes.com/2020/07/07/arts/harpers-letter.html)
 * [Facebook Fails to Appease Organizers of Ad Boycott](https://www.nytimes.com/2020/07/07/technology/facebook-ad-boycott-civil-rights.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Testing, School Reopenings, Beach Days: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/07/07/briefing/testing-school-reopenings-beach-days.html)
@@ -73,19 +74,19 @@ layout: default
 * [‘Hamilton’ and the Historical Record: Frequently Asked Questions](https://www.nytimes.com/2020/07/06/movies/hamilton-musical-history-facts.html)
 * [Book Review: ‘Notes on a Silencing,’ by Lacy Crawford](https://www.nytimes.com/2020/07/07/books/review/notes-on-a-silencing-lacy-crawford.html)
 * [Consumer Bureau Scraps Restrictions on Payday Loans](https://www.nytimes.com/2020/07/07/business/payday-consumer-financial-protection-bureau.html)
-* [State Department Bars Chinese Officials Who Restrict Access to Tibet](https://www.nytimes.com/2020/07/07/world/asia/china-tibet-pompeo.html)
+* [New Data Sheds Light on Who Is Moving Because of the Pandemic](https://www.nytimes.com/2020/07/07/us/pew-survey-coronavirus-relocation.html)
 * [Who Tore Down This Frederick Douglass Statue?](https://www.nytimes.com/2020/07/07/nyregion/frederick-douglass-statue-rochester.html)
-* [Judge Puts Cloud Over Settlement of Roundup Cancer Claims](https://www.nytimes.com/2020/07/07/business/roundup-lawsuit-settlement.html)
+* [White House Warns Against Chinese Investment, Citing Risk of Further Sanctions](https://www.nytimes.com/2020/07/07/business/economy/white-house-chinese-investment.html)
 * [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [Drivers Are Hitting Protesters as Memes of Car Attacks Spread](https://www.nytimes.com/2020/07/07/us/bloomington-car-attack-protesters.html)
 * [Scrutinizing SpaceX, NASA Overlooked Some Boeing Software Problems](https://www.nytimes.com/2020/07/07/science/boeing-starliner-nasa.html)
 * [Henry Martin, Wry New Yorker Cartoonist, Is Dead at 94](https://www.nytimes.com/2020/07/07/arts/henry-martin-dead.html)
 * [Case Against Amy Cooper Lacks Key Element: Victim’s Cooperation](https://www.nytimes.com/2020/07/07/nyregion/amy-cooper-central-park-false-report-charge.html)
-* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [How to Keep Good Habits Post-Lockdown](https://www.nytimes.com/2020/07/02/at-home/coronavirus-keep-good-habits.html)
+* [Four Restorative Facials to Try at Home](https://www.nytimes.com/2020/07/02/t-magazine/facials-at-home.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [A Designer Who Makes Rugs Based on Screenshots](https://www.nytimes.com/2020/07/07/t-magazine/tom-atton-moore.html)
 * [Hoping for a Theater Bailout? Better Head to London](https://www.nytimes.com/2020/07/07/theater/theater-bailout-britain.html)
 * [Review: In ‘Stateless’ on Netflix, Cate Blanchett (and Immigration)](https://www.nytimes.com/2020/07/07/arts/television/review-stateless-netflix-cate-blanchett.html)
@@ -93,8 +94,8 @@ layout: default
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Coronavirus Was Moving Through NY in Early February](https://www.nytimes.com/2020/06/30/health/coronavirus-ny.html)
-* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
+* [Breakthrough Drug for Covid-19 May Be Risky for Mild Cases](https://www.nytimes.com/2020/06/24/health/coronavirus-dexamethasone.html)
 * [Mary Trump’s Book Accuses the President of Embracing ‘Cheating as a Way of Life’](https://www.nytimes.com/2020/07/07/us/politics/mary-trump-book.html)
 * [How America Lost the War on Covid-19](https://www.nytimes.com/2020/07/06/opinion/covid-19-trump.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -103,10 +104,10 @@ layout: default
 ## globo.com
 
 
-* [Bolsonaro deve fazer novo exame de Covid-19 na segunda-feira](https://oglobo.globo.com/brasil/bolsonaro-deve-fazer-novo-exame-de-covid-19-na-segunda-feira-1-24520741)
 * [Morre o ex-jogador Dudu Dentão, que defendeu o Vasco](https://oglobo.globo.com/esportes/morre-ex-jogador-dudu-dentao-que-defendeu-vasco-24520885)
-* [MC Poze é considerado foragido pela polícia, que investiga funkeiro por associação com tráfico](https://oglobo.globo.com/rio/mc-poze-considerado-foragido-pela-policia-que-investiga-funkeiro-por-associacao-com-trafico-24520687)
 * [Celso de Mello arquiva pedido de investigação contra Heleno, mas condena postura do ministro](https://epoca.globo.com/guilherme-amado/celso-de-mello-arquiva-pedido-de-investigacao-contra-heleno-mas-condena-postura-do-ministro-1-24520856)
+* [Bolsonaro deve fazer novo exame de Covid-19 na segunda-feira](https://oglobo.globo.com/brasil/bolsonaro-deve-fazer-novo-exame-de-covid-19-na-segunda-feira-1-24520741)
+* [MC Poze é considerado foragido pela polícia, que investiga funkeiro por associação com tráfico](https://oglobo.globo.com/rio/mc-poze-considerado-foragido-pela-policia-que-investiga-funkeiro-por-associacao-com-trafico-24520687)
 * [MP 936: Maia diz que desoneração é 'boa ideia' e que Congresso pode derrubar veto de Bolsonaro](https://oglobo.globo.com/economia/mp-936-maia-diz-que-desoneracao-boa-ideia-que-congresso-pode-derrubar-veto-de-bolsonaro-24520645)
 * [Câmara aprova texto-base da MP de socorro às companhias aéreas](https://oglobo.globo.com/economia/camara-aprova-texto-base-da-mp-de-socorro-as-companhias-aereas-24520725)
 * [Covid-19: Alerj aprova projeto de lei que determina horário exclusivo para atendimento de grupos de risco no comércio](https://oglobo.globo.com/rio/covid-19-alerj-aprova-projeto-de-lei-que-determina-horario-exclusivo-para-atendimento-de-grupos-de-risco-no-comercio-1-24520699)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 11:34:39 UTC
+# indexed at 09/07/2020 12:16:10 UTC
 
 
 ## news.ycombinator.com
@@ -16,34 +16,34 @@ layout: default
 * [We can't send email more than 500 miles (2002)](http://web.mit.edu/jemorris/humor/500-miles)
 * [Developing Computer Self-Reliance](https://cheapskatesguide.org/articles/computer-self-reliance.html)
 * [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
+* [Technical Tuesdays: Markdig and Error-Free Programming in F#](https://danielbmarkham.locals.com/post/80708/technical-tuesdays-markdig-and-error-free-programming-in-f)
 * [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
+* [Between Workaholism and Procrastination](https://www.jamalx31.com/post/between-workaholism-procrastination)
 * [RediSearch – Redis Powered Search Engine](https://oss.redislabs.com/redisearch/)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
-* [Native American gene flow into Polynesia predating Easter Island settlement](https://www.nature.com/articles/s41586-020-2487-2)
-* [Technical Tuesdays: Markdig and Error-Free Programming in F#](https://danielbmarkham.locals.com/post/80708/technical-tuesdays-markdig-and-error-free-programming-in-f)
-* [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
 * [Nvidia passes Intel as the most valuable US chipmaker](https://www.techspot.com/news/85932-nvidia-passes-intel-most-valuable-us-chipmaker.html)
-* [Can Archaeology Dogs Smell Ancient Time?](https://www.sapiens.org/archaeology/archaeology-dogs/)
-* [Between Workaholism and Procrastination](https://www.jamalx31.com/post/between-workaholism-procrastination)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [Native American gene flow into Polynesia predating Easter Island settlement](https://www.nature.com/articles/s41586-020-2487-2)
+* [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
 * [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
-* [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
-* [The Gay Marriages of a Nineteenth-Century Prison Ship](https://www.newyorker.com/culture/culture-desk/the-gay-marriages-of-a-nineteenth-century-prison-ship)
 * [The saddest “Just Ship It” story](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [Nsibidi](https://en.wikipedia.org/wiki/Nsibidi)
+* [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
+* [Can Archaeology Dogs Smell Ancient Time?](https://www.sapiens.org/archaeology/archaeology-dogs/)
+* [The Gay Marriages of a Nineteenth-Century Prison Ship](https://www.newyorker.com/culture/culture-desk/the-gay-marriages-of-a-nineteenth-century-prison-ship)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 * [Wikimedia FontCDN – an anonymizing, privacy-first reverse proxy to Google Fonts](https://fontcdn.toolforge.org)
 * [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
 * [EFF to Supreme Court: Violating Terms of Service Isn’t a Crime Under the CFAA](https://www.eff.org/press/releases/eff-asks-supreme-court-rule-violating-terms-service-isnt-crime-under-cfaa)
+* [Data WhiteOps collects](https://smitop.com/post/whiteops-data/)
 * [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
 * [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
-* [Data WhiteOps collects](https://smitop.com/post/whiteops-data/)
 * [Web Monetization](https://webmonetization.org/)
 ## nytimes.com
 
 
 * [Live Coronavirus Updates: U.S. Daily Cases Surpass 59,000](https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html)
 * [U.S. Weighs Early Vaccine Access for Minorities and Others at Risk](https://www.nytimes.com/2020/07/09/us/coronavirus-vaccine.html)
-* [68% Have Antibodies in This Neighborhood. Can It Hold Off a Next Wave?](https://www.nytimes.com/2020/07/09/nyregion/nyc-coronavirus-antibodies.html)
+* [68% Have Antibodies in This Clinic. Can Neighborhood Beat a Next Wave?](https://www.nytimes.com/2020/07/09/nyregion/nyc-coronavirus-antibodies.html)
 * [What Will Trump’s Rally in New Hampshire Be Like? It’s Anyone’s Guess](https://www.nytimes.com/2020/07/08/us/politics/trump-rally-portsmouth-new-hampshire.html)
 * [Coronavirus Surge in Tulsa ‘More Than Likely’ Linked to Trump Rally](https://www.nytimes.com/2020/07/08/us/politics/coronavirus-tulsa-trump-rally.html)
 * [Biden Plans $300 Billion Increase in Research Spending and More Stimulus for Recovery](https://www.nytimes.com/2020/07/09/us/politics/biden-economy-research-technology.html)
@@ -89,9 +89,9 @@ layout: default
 * [School of American Ballet’s Gutsy Kids: ‘They Just Have to Dance’](https://www.nytimes.com/2020/07/07/arts/dance/school-of-american-ballet-workshop-performances.html)
 * [‘Greyhound’ Review: At Sea in World War II, With Tom Hanks in Command](https://www.nytimes.com/2020/07/07/movies/greyhound-review-tom-hanks.html)
 * [How Everclear Became a Pandemic Favorite](https://www.nytimes.com/2020/07/09/style/how-everclear-became-a-pandemic-favorite.html)
-* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
+* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Mary Kay Letourneau Dies at 58](https://www.nytimes.com/2020/07/07/obituaries/mary-kay-letourneau-dead.html)
 * [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Primeiro dia das novas regras para passageiros em pé nos ônibus e BRTs tem aglomerações](https://oglobo.globo.com/rio/primeiro-dia-das-novas-regras-para-passageiros-em-pe-nos-onibus-brts-tem-aglomeracoes-1-24523203)
-* [Total de infectados pela Covid-19 no planeta ultrapassa 12 milhões](https://oglobo.globo.com/mundo/total-de-infectados-pela-covid-19-no-planeta-ultrapassa-12-milhoes-24523178)
-* [Homem mais rico de Hong Kong perde amigos na China e no Ocidente](https://oglobo.globo.com/mundo/homem-mais-rico-de-hong-kong-perde-amigos-na-china-no-ocidente-24522988)
+* [Com pandemia, 57% das empresas exportadoras tiveram redução de receita](https://oglobo.globo.com/economia/com-pandemia-57-das-empresas-exportadoras-tiveram-reducao-de-receita-24523226)
+* [Homem que guardava e compartilhava arquivos de abuso sexual infantil é preso pela PF em Bangu](https://oglobo.globo.com/rio/homem-que-guardava-compartilhava-arquivos-de-abuso-sexual-infantil-preso-pela-pf-em-bangu-1-24523245)
+* [Momentos dolorosos e controversos marcam os 100 dias de Meghan Markle e do príncipe Harry fora da família real](https://oglobo.globo.com/ela/gente/momentos-dolorosos-controversos-marcam-os-100-dias-de-meghan-markle-do-principe-harry-fora-da-familia-real-24523207)
+* [Casos de Covid-19 disparam em Tulsa após comício de Trump](https://oglobo.globo.com/mundo/casos-de-covid-19-disparam-em-tulsa-apos-comicio-de-trump-24523164)
 * [Misoginia e cumplicidade: pesquisa analisa mensagens e memes compartilhados em grupos de homens no Whatsapp](https://oglobo.globo.com/celina/misoginia-cumplicidade-pesquisa-analisa-mensagens-memes-compartilhados-em-grupos-de-homens-no-whatsapp-24522031)
-* [EUA registram maior número de casos diários de Covid-19 pela quinta vez em nove dias](https://oglobo.globo.com/mundo/eua-registram-maior-numero-de-casos-diarios-de-covid-19-pela-quinta-vez-em-nove-dias-24523150)
-* [Brasil tem 1.719.660 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1719660-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24523157)
-* [O que se sabe até agora sobre cloroquina, droga defendida por Bolsonaro](https://epoca.globo.com/sociedade/o-que-se-sabe-ate-agora-sobre-cloroquina-droga-defendida-por-bolsonaro-24523176)
-* [Coronavírus: 'As máscaras que você joga fora podem acabar matando uma baleia'](https://epoca.globo.com/sociedade/coronavirus-as-mascaras-que-voce-joga-fora-podem-acabar-matando-uma-baleia-24523142)
-* [WhatsApp lança QR Code para agenda, link para catálogo e novas figurinhas animadas para sua versão Business](https://oglobo.globo.com/economia/whatsapp-lanca-qr-code-para-agenda-link-para-catalogo-novas-figurinhas-animadas-para-sua-versao-business-24522423)
+* [Primeiro dia das novas regras para passageiros em pé nos ônibus e BRTs tem aglomerações no Rio](https://oglobo.globo.com/rio/primeiro-dia-das-novas-regras-para-passageiros-em-pe-nos-onibus-brts-tem-aglomeracoes-no-rio-24523203)
+* [Homem mais rico de Hong Kong perde amigos na China e no Ocidente](https://oglobo.globo.com/mundo/homem-mais-rico-de-hong-kong-perde-amigos-na-china-no-ocidente-24522988)
+* [Coluna | O que vai sobrar do Exército Brasileiro?](https://epoca.globo.com/denis-r-burgierman/coluna-o-que-vai-sobrar-do-exercito-brasileiro-24522401)
+* [Cinemateca avalia ir à Justiça contra governo Bolsonaro](https://epoca.globo.com/guilherme-amado/cinemateca-avalia-ir-justica-contra-governo-bolsonaro-24522777)
 * [Picadinho: prato servido em restaurantes traz à tona memórias de família](https://oglobo.globo.com/rio/bairros/picadinho-prato-servido-em-restaurantes-traz-tona-memorias-de-familia-24514544)

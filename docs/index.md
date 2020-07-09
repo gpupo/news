@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 03:12:33 UTC
+# indexed at 09/07/2020 03:34:46 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Moving from TypeScript to Rust / WebAssembly](https://nicolodavis.com/blog/typescript-to-rust/)
 * [Reddit's website uses DRM for fingerprinting](https://smitop.com/post/reddit-whiteops/)
 * [We can't send mail more than 500 miles](http://web.mit.edu/jemorris/humor/500-miles)
 * [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
-* [Moving from TypeScript to Rust / WebAssembly](https://nicolodavis.com/blog/typescript-to-rust/)
-* [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
 * [Web Monetization](https://webmonetization.org/)
 * [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
-* [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
-* [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
-* [CoinTracker is hiring a remote engineer to build a new financial assistant](https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121)
-* [SUSE to Acquire Rancher Labs](https://www.zdnet.com/article/suse-to-acquire-rancher-labs/)
 * [The World Can’t Take Much More Shale Gas](https://www.wsj.com/articles/the-world-cant-take-much-more-shale-gas-11594114202)
+* [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
+* [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
+* [SUSE to Acquire Rancher Labs](https://www.zdnet.com/article/suse-to-acquire-rancher-labs/)
 * [CUDA 11.0](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#cuda-whats-new)
+* [CoinTracker is hiring a remote engineer to build a new financial assistant](https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121)
 * [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
 * [A $500M call option on home gyms](https://napkinmath.substack.com/p/the-future-of-fitness-lululemon-buys)
 * [Show HN: Runnaroo – A new search engine](https://www.runnaroo.com/)
 * [Tauri – toolchain for building secure native apps that have tiny binaries](https://github.com/tauri-apps/tauri)
 * [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
-* [The saddest “Just Ship It” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
-* [Java Optimized Processor](https://www.jopdesign.com/)
+* [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
 * [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
 * [Spreading rock dust on fields could remove vast amounts of CO2 from air](https://www.theguardian.com/environment/2020/jul/08/spreading-rock-dust-on-fields-could-remove-vast-amounts-of-co2-from-air)
-* [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
 * [Firefox Picture-in-Picture](https://blog.mozilla.org/firefox/firefox-picture-in-picture-mode/)
+* [The saddest “Just Ship It” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
+* [Java Optimized Processor](https://www.jopdesign.com/)
 * [Concorde ‘B’ (2014)](https://www.heritageconcorde.com/concorde-b)
 * [Browser Font Rendering Inconsistencies](https://blog.stephaniestimac.com/posts/2020/06/browser-fonts/)
 * [Launch HN: ElectroNeek (YC W20) – Automatically find and automate routine work](https://news.ycombinator.com/item?id=23770214)
-* [Create Golomb rulers using constraint programming with IBM CPLEX](https://github.com/strateos/golomb-solver)
 * [Barebones WebGL in 75 lines of code](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
+* [Investing in Robotics with YC Founder Trevor Blackwell [video]](https://www.youtube.com/watch?v=fdxQ_tSBjMY)
 ## nytimes.com
 
 
@@ -83,18 +83,18 @@ layout: default
 * [Hong Kong Security Law Squeezes Space for Media, Choking RTHK](https://www.nytimes.com/2020/07/08/world/asia/hong-kong-security-china-media.html)
 * [Designing a Garden? You’ll Need a Plan](https://www.nytimes.com/2020/07/08/realestate/designing-a-garden-youll-need-a-plan.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [Ennio Morricone Was More Than Just a Great Film Composer](https://www.nytimes.com/2020/07/08/arts/music/ennio-morricone-john-zorn.html)
 * [What Does Simp Mean?](https://www.nytimes.com/2020/07/07/style/simp-history-slang.html)
 * [These Radical Black Thrillers Fantasized About Dismantling the Police](https://www.nytimes.com/2020/07/06/books/review/blyden-jackson-operation-burning-candle-black-radical-thrillers.html)
 * [With Pandemic Keeping Them Apart, Runners Embrace Virtual Races](https://www.nytimes.com/2020/07/07/sports/coronavirus-virtual-races.html)
 * [Ben Ehrenreich’s Dispatches From the Beginning and End of the World](https://www.nytimes.com/2020/07/07/books/review/ben-ehrenreich-desert-notebooks.html)
-* [A New Generation of Coronavirus Tests Is Coming. Here's What to Expect.](https://www.nytimes.com/2020/07/06/health/fast-coronavirus-tests.html)
-* [A Shot to Protect Against H.I.V.](https://www.nytimes.com/2020/07/07/health/hiv-shot-prep.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [Novavax Gets $1.6 Billion for Coronavirus Vaccine From Operation Warp Speed](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
+* [A Shot to Protect Against H.I.V.](https://www.nytimes.com/2020/07/07/health/hiv-shot-prep.html)
+* [A New Generation of Coronavirus Tests Is Coming. Here's What to Expect.](https://www.nytimes.com/2020/07/06/health/fast-coronavirus-tests.html)
 * [Sweden Has Become the World’s Cautionary Tale](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html)
 * [Mary Kay Letourneau Dies at 58](https://www.nytimes.com/2020/07/07/obituaries/mary-kay-letourneau-dead.html)
 * [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
@@ -104,7 +104,7 @@ layout: default
 ## globo.com
 
 
-* [Fluminense conquista a sua 4ª Taça Rio; veja a galeria completa de campeões](https://oglobo.globo.com/esportes/fluminense-conquista-sua-4-taca-rio-veja-galeria-completa-de-campeoes-24522876)
+* ['Do que é feito um time campeão?' Leia o manifesto publicado pelo Flu antes do jogo](https://oglobo.globo.com/esportes/do-que-feito-um-time-campeao-leia-manifesto-publicado-pelo-flu-antes-do-jogo-24523042)
 * [Fluminense bate Flamengo nos pênaltis e conquista a Taça Rio; Carioca será decidido em duas partidas](https://oglobo.globo.com/esportes/fluminense-bate-flamengo-nos-penaltis-conquista-taca-rio-carioca-sera-decidido-em-duas-partidas-24523025)
 * [Flamengo decide mandos de campo da final do Carioca contra o Fluminense. Entenda](https://oglobo.globo.com/esportes/flamengo-decide-mandos-de-campo-da-final-do-carioca-contra-fluminense-entenda-24523002)
 * [Vice-líder do governo Bolsonaro na Câmara xinga ministro do STF](https://oglobo.globo.com/brasil/vice-lider-do-governo-bolsonaro-na-camara-xinga-ministro-do-stf-24523030)

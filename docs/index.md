@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 07:34:30 UTC
+# indexed at 09/07/2020 08:13:18 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
 * [RediSearch – Redis Powered Search Engine](https://oss.redislabs.com/redisearch/)
 * [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
+* [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
 * [Native American gene flow into Polynesia predating Easter Island settlement](https://www.nature.com/articles/s41586-020-2487-2)
-* [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
-* [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
-* [Java Optimized Processor](https://www.jopdesign.com/)
-* [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
+* [The Gay Marriages of a Nineteenth-Century Prison Ship](https://www.newyorker.com/culture/culture-desk/the-gay-marriages-of-a-nineteenth-century-prison-ship)
+* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
+* [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Java Optimized Processor](https://www.jopdesign.com/)
+* [The saddest “Just Ship It” story](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
 * [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
-* [The saddest “Just Ship It” story](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [CUDA 11.0](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#cuda-whats-new)
-* [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
-* [The Gay Marriages of a Nineteenth-Century Prison Ship](https://www.newyorker.com/culture/culture-desk/the-gay-marriages-of-a-nineteenth-century-prison-ship)
-* [Living with Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
 * [Web Monetization](https://webmonetization.org/)
-* [Ask HN: What is your favorite low-end setup you've ever done?](https://news.ycombinator.com/item?id=23777459)
+* [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
-* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
+* [Data WhiteOps Collects (to fingerprint you)](https://smitop.com/post/whiteops-data/)
+* [Living with Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
 * [Show HN: I built a service to help companies save 35%+ on their AWS bills](https://news.ycombinator.com/item?id=23776894)
 * [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
-* [Barebones WebGL in 75 lines of code](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
+* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
+* [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
+* [Ask HN: What is your favorite low-end setup you've ever done?](https://news.ycombinator.com/item?id=23777459)
 * [Launch HN: ElectroNeek (YC W20) – Automatically find and automate routine work](https://news.ycombinator.com/item?id=23770214)
-* [Browser Font Rendering Inconsistencies](https://blog.stephaniestimac.com/posts/2020/06/browser-fonts/)
 ## nytimes.com
 
 
@@ -76,7 +76,7 @@ layout: default
 * [Macron’s New Cabinet Stirs Ire of French Feminists](https://www.nytimes.com/2020/07/08/world/europe/macron-cabinet-feminists-Darmanin.html)
 * [Australia Halts Hong Kong Extradition Agreement and Extends Visas](https://www.nytimes.com/2020/07/09/world/australia/hong-kong-extradition-visas-china.html)
 * [The Cafe Has Black Lives Matter Signs. The Owner Voted for Trump.](https://www.nytimes.com/2020/07/08/nyregion/indian-road-cafe-trump.html)
-* [Ninja Played Fortnite on YouTube, and the Gaming World Lost Its Mind](https://www.nytimes.com/2020/07/08/technology/ninja-fortnite-youtube.html)
+* [Serbia Protests Meet Violent Response in Europe’s 1st Major Virus Unrest](https://www.nytimes.com/2020/07/08/world/europe/serbia-protests-coronavirus.html)
 * [Robinhood Has Lured Young Traders, Sometimes With Devastating Results](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html)
 * [Hong Kong Security Law Squeezes Space for Media, Choking RTHK](https://www.nytimes.com/2020/07/08/world/asia/hong-kong-security-china-media.html)
 * [Designing a Garden? You’ll Need a Plan](https://www.nytimes.com/2020/07/08/realestate/designing-a-garden-youll-need-a-plan.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* ['Do que é feito um time campeão?' Leia o manifesto publicado pelo Flu antes do jogo](https://oglobo.globo.com/esportes/do-que-feito-um-time-campeao-leia-manifesto-publicado-pelo-flu-antes-do-jogo-24523042)
-* [Vice-líder do governo Bolsonaro na Câmara xinga ministro do STF](https://oglobo.globo.com/brasil/vice-lider-do-governo-bolsonaro-na-camara-xinga-ministro-do-stf-24523030)
-* [Lives de hoje: Biquini Cavadão, Letrux e Vanessa da Mata são destaque nesta quinta-feira (9)](https://oglobo.globo.com/rioshow/lives-de-hoje-biquini-cavadao-letrux-vanessa-da-mata-sao-destaque-nesta-quinta-feira-9-24521558)
-* [Problema do meio ambiente fica mais sério](https://oglobo.globo.com/opiniao/problema-do-meio-ambiente-fica-mais-serio-1-24522512)
-* [Empresas começam a se afastar de Hong Kong com a intervenção chinesa](https://oglobo.globo.com/opiniao/empresas-comecam-se-afastar-de-hong-kong-com-intervencao-chinesa-24522252)
-* [A escola deve reprovar alunos este ano?](https://oglobo.globo.com/opiniao/a-escola-deve-reprovar-alunos-este-ano-1-24522085)
-* [Chocolate](https://oglobo.globo.com/opiniao/chocolate-24521605)
-* [Fake news podem matar](https://oglobo.globo.com/opiniao/fake-news-podem-matar-24521544)
-* [O cenário turístico brasileiro no 'novo normal'](https://oglobo.globo.com/opiniao/o-cenario-turistico-brasileiro-no-novo-normal-24520400)
-* [Eletrobras, uma energia indispensável](https://oglobo.globo.com/opiniao/eletrobras-uma-energia-indispensavel-24520243)
+* [Após invasão do tráfico, milicianos da Praça Seca se refugiaram em favela dominada por facção rival](https://oglobo.globo.com/rio/apos-invasao-do-trafico-milicianos-da-praca-seca-se-refugiaram-em-favela-dominada-por-faccao-rival-24522984)
+* [Ex-mulher de Bolsonaro depõe nesta quinta-feira em investigação sobre Carlos, mas parentes faltam à convocação](https://oglobo.globo.com/brasil/ex-mulher-de-bolsonaro-depoe-nesta-quinta-feira-em-investigacao-sobre-carlos-mas-parentes-faltam-convocacao-24522991)
+* [FGTS pode perder R$ 43 bi com medidas de estímulo e rever orçamento para habitação e saneamento](https://oglobo.globo.com/economia/fgts-pode-perder-43-bi-com-medidas-de-estimulo-rever-orcamento-para-habitacao-saneamento-24523036)
+* [Sandy & Junior comentam série biográfica e show da turnê 'Nossa história' que chegam ao streaming](https://oglobo.globo.com/cultura/sandy-junior-comentam-serie-biografica-show-da-turne-nossa-historia-que-chegam-ao-streaming-24522842)
+* [Quarentena a bordo: velejadores contam suas experiências durante a pandemia](https://oglobo.globo.com/boa-viagem/quarentena-bordo-velejadores-contam-suas-experiencias-durante-pandemia-24522703)
+* [Mansur: Final dividida entre a resistência do Flu e os vícios de um futebol que cultua o atraso](https://oglobo.globo.com/esportes/mansur-final-dividida-entre-resistencia-do-flu-os-vicios-de-um-futebol-que-cultua-atraso-24523088)
+* [Como evitar as armadilhas para o consumidor na pandemia](https://oglobo.globo.com/podcast/como-evitar-as-armadilhas-para-consumidor-na-pandemia-24523018)
+* [Após cirurgia para amputar a perna, idoso contrai coronavírus; suspeita é que infecção tenha ocorrido no hospital](https://oglobo.globo.com/rio/apos-cirurgia-para-amputar-perna-idoso-contrai-coronavirus-suspeita-que-infeccao-tenha-ocorrido-no-hospital-24522982)
+* [Chrissie Hynde, do Pretenders: 'Eu sou um outdoor do feminismo, mas agora elas me odeiam'](https://oglobo.globo.com/cultura/chrissie-hynde-do-pretenders-eu-sou-um-outdoor-do-feminismo-mas-agora-elas-me-odeiam-24522552)
+* [É impossível acreditar em Bolsonaro](https://oglobo.globo.com/cultura/e-impossivel-acreditar-em-bolsonaro-24522535)

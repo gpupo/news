@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 06:13:26 UTC
+# indexed at 09/07/2020 06:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Moving from TypeScript to Rust / WebAssembly](https://nicolodavis.com/blog/typescript-to-rust/)
 * [Reddit's website uses DRM for fingerprinting](https://smitop.com/post/reddit-whiteops/)
 * [We can't send email more than 500 miles (2002)](http://web.mit.edu/jemorris/humor/500-miles)
-* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
 * [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
 * [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
+* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
-* [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
-* [The World Can’t Take Much More Shale Gas](https://www.wsj.com/articles/the-world-cant-take-much-more-shale-gas-11594114202)
-* [Java Optimized Processor](https://www.jopdesign.com/)
 * [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
+* [Java Optimized Processor](https://www.jopdesign.com/)
+* [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
 * [CUDA 11.0](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#cuda-whats-new)
 * [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
-* [The saddest “Just Ship It” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
+* [Native American gene flow into Polynesia predating Easter Island settlement](https://www.nature.com/articles/s41586-020-2487-2)
 * [Show HN: Runnaroo – A new search engine](https://www.runnaroo.com/)
-* [A $500M call option on home gyms](https://napkinmath.substack.com/p/the-future-of-fitness-lululemon-buys)
+* [The saddest “Just Ship It” story](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
-* [Why MasterClass Isn’t About Mastery – Napkin Math](https://napkinmath.substack.com/p/why-masterclass-isnt-really-about)
 * [Living with Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
-* [Web Monetization](https://webmonetization.org/)
 * [Spreading rock dust on fields could remove vast amounts of CO2 from air](https://www.theguardian.com/environment/2020/jul/08/spreading-rock-dust-on-fields-could-remove-vast-amounts-of-co2-from-air)
-* [Why time feels so weird in 2020](https://graphics.reuters.com/HEALTH-CORONAVIRUS/TIME/gjnvwwjegvw/)
-* [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
-* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
 * [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
+* [Web Monetization](https://webmonetization.org/)
+* [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
+* [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
+* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
 * [Barebones WebGL in 75 lines of code](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
 * [Launch HN: ElectroNeek (YC W20) – Automatically find and automate routine work](https://news.ycombinator.com/item?id=23770214)
 * [Browser Font Rendering Inconsistencies](https://blog.stephaniestimac.com/posts/2020/06/browser-fonts/)
+* [SUSE to Acquire Rancher Labs](https://www.zdnet.com/article/suse-to-acquire-rancher-labs/)
+* [Investing in Robotics with YC Founder Trevor Blackwell [video]](https://www.youtube.com/watch?v=fdxQ_tSBjMY)
 ## nytimes.com
 
 
@@ -80,9 +80,9 @@ layout: default
 * [Ninja Played Fortnite on YouTube, and the Gaming World Lost Its Mind](https://www.nytimes.com/2020/07/08/technology/ninja-fortnite-youtube.html)
 * [Robinhood Has Lured Young Traders, Sometimes With Devastating Results](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html)
 * [Hong Kong Security Law Squeezes Space for Media, Choking RTHK](https://www.nytimes.com/2020/07/08/world/asia/hong-kong-security-china-media.html)
+* [Designing a Garden? You’ll Need a Plan](https://www.nytimes.com/2020/07/08/realestate/designing-a-garden-youll-need-a-plan.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [Designing a Garden? You’ll Need a Plan](https://www.nytimes.com/2020/07/08/realestate/designing-a-garden-youll-need-a-plan.html)
 * [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Ennio Morricone Was More Than Just a Great Film Composer](https://www.nytimes.com/2020/07/08/arts/music/ennio-morricone-john-zorn.html)

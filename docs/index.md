@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 09:12:28 UTC
+# indexed at 09/07/2020 09:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Reddit's website uses DRM for fingerprinting](https://smitop.com/post/reddit-whiteops/)
 * [We can't send email more than 500 miles (2002)](http://web.mit.edu/jemorris/humor/500-miles)
 * [RediSearch – Redis Powered Search Engine](https://oss.redislabs.com/redisearch/)
-* [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
 * [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
+* [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
 * [Native American gene flow into Polynesia predating Easter Island settlement](https://www.nature.com/articles/s41586-020-2487-2)
 * [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
-* [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
-* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
 * [EFF to Supreme Court: Violating Terms of Service Isn’t a Crime Under the CFAA](https://www.eff.org/press/releases/eff-asks-supreme-court-rule-violating-terms-service-isnt-crime-under-cfaa)
 * [Nsibidi](https://en.wikipedia.org/wiki/Nsibidi)
+* [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
 * [The Gay Marriages of a Nineteenth-Century Prison Ship](https://www.newyorker.com/culture/culture-desk/the-gay-marriages-of-a-nineteenth-century-prison-ship)
-* [Java Optimized Processor (2005)](https://www.jopdesign.com/)
+* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
 * [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [The saddest “Just Ship It” story](https://kitze.io/posts/saddest-just-ship-it-story-ever)
-* [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
 * [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
 * [Show HN: I built a service to help companies save 35%+ on their AWS bills](https://news.ycombinator.com/item?id=23776894)
+* [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
+* [Can Archaeology Dogs Smell Ancient Time?](https://www.sapiens.org/archaeology/archaeology-dogs/)
 * [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
 * [Web Monetization](https://webmonetization.org/)
 * [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
-* [Wikimedia FontCDN – an anonymizing, privacy-first reverse proxy to Google Fonts](https://fontcdn.toolforge.org)
 * [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
+* [Wikimedia FontCDN – an anonymizing, privacy-first reverse proxy to Google Fonts](https://fontcdn.toolforge.org)
 * [Ask HN: What is your favorite low-end setup you've ever done?](https://news.ycombinator.com/item?id=23777459)
 * [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
 * [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [Living with Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
-* [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
+* [Java Optimized Processor (2005)](https://www.jopdesign.com/)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [What Will Trump’s Rally in New Hampshire Be Like? It’s Anyone’s Guess](https://www.nytimes.com/2020/07/08/us/politics/trump-rally-portsmouth-new-hampshire.html)
 * [All in the Family Dynamics: Donald Trump’s Niece on the President’s Clan](https://www.nytimes.com/2020/07/08/books/review-too-much-never-enough-mary-trump.html)
 * [Where’s Trump’s Financial Disclosure? The White House Blames the Pandemic](https://www.nytimes.com/2020/07/08/us/politics/trump-financial-disclosure.html)
+* [What N.Y.C. Schools Will Look Like in September](https://www.nytimes.com/2020/07/09/nyregion/nyc-schools-coronavirus.html)
 * [Counting the Infected](https://www.nytimes.com/2020/07/08/podcasts/the-daily/coronavirus-data-united-states.html)
 * [Facebook’s Civil Rights Meeting Didn’t Go Well](https://www.nytimes.com/2020/07/08/business/dealbook/facebook-civil-rights.html)
 * [Jules Feiffer on His Long, Varied Career](https://www.nytimes.com/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html)
@@ -90,9 +91,9 @@ layout: default
 * [With Pandemic Keeping Them Apart, Runners Embrace Virtual Races](https://www.nytimes.com/2020/07/07/sports/coronavirus-virtual-races.html)
 * [Ben Ehrenreich’s Dispatches From the Beginning and End of the World](https://www.nytimes.com/2020/07/07/books/review/ben-ehrenreich-desert-notebooks.html)
 * [A New Generation of Coronavirus Tests Is Coming. Here's What to Expect.](https://www.nytimes.com/2020/07/06/health/fast-coronavirus-tests.html)
-* [Novavax Gets $1.6 Billion for Coronavirus Vaccine From Operation Warp Speed](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
-* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [A Shot to Protect Against H.I.V.](https://www.nytimes.com/2020/07/07/health/hiv-shot-prep.html)
+* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [Novavax Gets $1.6 Billion for Coronavirus Vaccine From Operation Warp Speed](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
 * [Mary Kay Letourneau Dies at 58](https://www.nytimes.com/2020/07/07/obituaries/mary-kay-letourneau-dead.html)
 * [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Ex-Flamengo, Marcio Guerreiro virou médico e atuou na guerra contra a Covid-19 no Hospital da Posse](https://oglobo.globo.com/rio/ex-flamengo-marcio-guerreiro-virou-medico-atuou-na-guerra-contra-covid-19-no-hospital-da-posse-24523108)
 * [Após invasão do tráfico, milicianos da Praça Seca se refugiaram em favela dominada por facção rival](https://oglobo.globo.com/rio/apos-invasao-do-trafico-milicianos-da-praca-seca-se-refugiaram-em-favela-dominada-por-faccao-rival-24522984)
-* [Ex-mulher de Bolsonaro depõe nesta quinta-feira em investigação sobre Carlos, mas parentes faltam à convocação](https://oglobo.globo.com/brasil/ex-mulher-de-bolsonaro-depoe-nesta-quinta-feira-em-investigacao-sobre-carlos-mas-parentes-faltam-convocacao-24522991)
-* [FGTS pode perder R$ 43 bi com medidas de estímulo e rever orçamento para habitação e saneamento](https://oglobo.globo.com/economia/fgts-pode-perder-43-bi-com-medidas-de-estimulo-rever-orcamento-para-habitacao-saneamento-24523036)
-* [Quarentena a bordo: velejadores contam suas experiências durante a pandemia](https://oglobo.globo.com/boa-viagem/quarentena-bordo-velejadores-contam-suas-experiencias-durante-pandemia-24522703)
 * [Mansur: Final dividida entre a resistência do Flu e os vícios de um futebol que cultua o atraso](https://oglobo.globo.com/esportes/mansur-final-dividida-entre-resistencia-do-flu-os-vicios-de-um-futebol-que-cultua-atraso-24523088)
 * [Como evitar as armadilhas para o consumidor na pandemia](https://oglobo.globo.com/podcast/como-evitar-as-armadilhas-para-consumidor-na-pandemia-24523018)
+* [Contágio de Covid-19 em frigorífico quadriplica número de infectados em município de MS](https://epoca.globo.com/brasil/contagio-de-covid-19-em-frigorifico-quadriplica-numero-de-infectados-em-municipio-de-ms-24522998)
 * [Guedes quer destinar recursos do Fundeb para o Renda Brasil](https://oglobo.globo.com/economia/guedes-quer-destinar-recursos-do-fundeb-para-renda-brasil-24522261)
 * [O MP do Rio e os inquéritos de Flávio Bolsonaro e Márcio Pacheco](https://epoca.globo.com/guilherme-amado/o-mp-do-rio-os-inqueritos-de-flavio-bolsonaro-marcio-pacheco-24522705)
 * [Teste de Covid-19 em ministros é vulnerável a 'falso negativo', diz diretor de laboratório](https://epoca.globo.com/teste-de-covid-19-em-ministros-vulneravel-falso-negativo-diz-diretor-de-laboratorio-24521865)
 * [Festival Delivery Rio: uma viagem pelos sabores do mundo](https://oglobo.globo.com/rioshow/festival-delivery-rio-uma-viagem-pelos-sabores-do-mundo-24521467)
+* [Na Conmebol, cenário realista é conclusão da Libertadores 2020 só em 2021](https://oglobo.globo.com/esportes/na-conmebol-cenario-realista-conclusao-da-libertadores-2020-so-em-2021-24522300)

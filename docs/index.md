@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 08:13:18 UTC
+# indexed at 09/07/2020 08:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
 * [RediSearch – Redis Powered Search Engine](https://oss.redislabs.com/redisearch/)
 * [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
+* [Banana Republic Corruption](https://www.craigmurray.org.uk/archives/2020/07/banana-republic-corruption/)
 * [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
 * [Native American gene flow into Polynesia predating Easter Island settlement](https://www.nature.com/articles/s41586-020-2487-2)
 * [Vienna, City of Paradox](https://aeon.co/essays/vienna-schoenberg-and-the-advent-of-musical-modernism)
 * [The Gay Marriages of a Nineteenth-Century Prison Ship](https://www.newyorker.com/culture/culture-desk/the-gay-marriages-of-a-nineteenth-century-prison-ship)
-* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
-* [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Java Optimized Processor](https://www.jopdesign.com/)
+* [Polynesian DNA suggests epic voyage to South America 800 years ago](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
 * [The saddest “Just Ship It” story](https://kitze.io/posts/saddest-just-ship-it-story-ever)
-* [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
-* [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
 * [CUDA 11.0](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#cuda-whats-new)
+* [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
+* [EFF to Supreme Court: Violating Terms of Service Isn’t a Crime Under the CFAA](https://www.eff.org/press/releases/eff-asks-supreme-court-rule-violating-terms-service-isnt-crime-under-cfaa)
+* [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
+* [Nsibidi](https://en.wikipedia.org/wiki/Nsibidi)
+* [Show HN: I built a service to help companies save 35%+ on their AWS bills](https://news.ycombinator.com/item?id=23776894)
 * [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
 * [Web Monetization](https://webmonetization.org/)
 * [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
-* [Data WhiteOps Collects (to fingerprint you)](https://smitop.com/post/whiteops-data/)
 * [Living with Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
-* [Show HN: I built a service to help companies save 35%+ on their AWS bills](https://news.ycombinator.com/item?id=23776894)
-* [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
-* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
-* [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
+* [Data WhiteOps collects](https://smitop.com/post/whiteops-data/)
 * [Ask HN: What is your favorite low-end setup you've ever done?](https://news.ycombinator.com/item?id=23777459)
-* [Launch HN: ElectroNeek (YC W20) – Automatically find and automate routine work](https://news.ycombinator.com/item?id=23770214)
+* [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
 ## nytimes.com
 
 
@@ -89,10 +89,10 @@ layout: default
 * [These Radical Black Thrillers Fantasized About Dismantling the Police](https://www.nytimes.com/2020/07/06/books/review/blyden-jackson-operation-burning-candle-black-radical-thrillers.html)
 * [With Pandemic Keeping Them Apart, Runners Embrace Virtual Races](https://www.nytimes.com/2020/07/07/sports/coronavirus-virtual-races.html)
 * [Ben Ehrenreich’s Dispatches From the Beginning and End of the World](https://www.nytimes.com/2020/07/07/books/review/ben-ehrenreich-desert-notebooks.html)
-* [A New Generation of Coronavirus Tests Is Coming. Here's What to Expect.](https://www.nytimes.com/2020/07/06/health/fast-coronavirus-tests.html)
-* [A Shot to Protect Against H.I.V.](https://www.nytimes.com/2020/07/07/health/hiv-shot-prep.html)
 * [Novavax Gets $1.6 Billion for Coronavirus Vaccine From Operation Warp Speed](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [A New Generation of Coronavirus Tests Is Coming. Here's What to Expect.](https://www.nytimes.com/2020/07/06/health/fast-coronavirus-tests.html)
+* [A Shot to Protect Against H.I.V.](https://www.nytimes.com/2020/07/07/health/hiv-shot-prep.html)
 * [Mary Kay Letourneau Dies at 58](https://www.nytimes.com/2020/07/07/obituaries/mary-kay-letourneau-dead.html)
 * [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -108,6 +108,6 @@ layout: default
 * [Quarentena a bordo: velejadores contam suas experiências durante a pandemia](https://oglobo.globo.com/boa-viagem/quarentena-bordo-velejadores-contam-suas-experiencias-durante-pandemia-24522703)
 * [Mansur: Final dividida entre a resistência do Flu e os vícios de um futebol que cultua o atraso](https://oglobo.globo.com/esportes/mansur-final-dividida-entre-resistencia-do-flu-os-vicios-de-um-futebol-que-cultua-atraso-24523088)
 * [Como evitar as armadilhas para o consumidor na pandemia](https://oglobo.globo.com/podcast/como-evitar-as-armadilhas-para-consumidor-na-pandemia-24523018)
-* [Após cirurgia para amputar a perna, idoso contrai coronavírus; suspeita é que infecção tenha ocorrido no hospital](https://oglobo.globo.com/rio/apos-cirurgia-para-amputar-perna-idoso-contrai-coronavirus-suspeita-que-infeccao-tenha-ocorrido-no-hospital-24522982)
+* [Guedes quer destinar recursos do Fundeb para o Renda Brasil](https://oglobo.globo.com/economia/guedes-quer-destinar-recursos-do-fundeb-para-renda-brasil-24522261)
 * [Chrissie Hynde, do Pretenders: 'Eu sou um outdoor do feminismo, mas agora elas me odeiam'](https://oglobo.globo.com/cultura/chrissie-hynde-do-pretenders-eu-sou-um-outdoor-do-feminismo-mas-agora-elas-me-odeiam-24522552)
 * [É impossível acreditar em Bolsonaro](https://oglobo.globo.com/cultura/e-impossivel-acreditar-em-bolsonaro-24522535)

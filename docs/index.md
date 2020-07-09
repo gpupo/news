@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 05:34:37 UTC
+# indexed at 09/07/2020 06:13:26 UTC
 
 
 ## news.ycombinator.com
@@ -11,8 +11,11 @@ layout: default
 * [Moving from TypeScript to Rust / WebAssembly](https://nicolodavis.com/blog/typescript-to-rust/)
 * [Reddit's website uses DRM for fingerprinting](https://smitop.com/post/reddit-whiteops/)
 * [We can't send email more than 500 miles (2002)](http://web.mit.edu/jemorris/humor/500-miles)
+* [Full Employment](https://locusmag.com/2020/07/cory-doctorow-full-employment/)
 * [Linux Mint drops Ubuntu Snap packages](https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/)
+* [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
 * [MoreOnionsPorfavor: Onionize your website and take back the internet](https://blog.torproject.org/more-onions-porfavor)
+* [Jerry (YC S17) Is Hiring Senior Software Developers (Silicon Valley; Toronto)](https://apply.workable.com/jerry/j/E627670571/)
 * [The World Can’t Take Much More Shale Gas](https://www.wsj.com/articles/the-world-cant-take-much-more-shale-gas-11594114202)
 * [Java Optimized Processor](https://www.jopdesign.com/)
 * [Flutter for Linux](https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter)
@@ -20,24 +23,21 @@ layout: default
 * [XMPP works – 1 July 2020](https://xmpp.org/2020/07/newsletter-01-july/)
 * [CUDA 11.0](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#cuda-whats-new)
 * [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/)
+* [The saddest “Just Ship It” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [Show HN: Runnaroo – A new search engine](https://www.runnaroo.com/)
 * [A $500M call option on home gyms](https://napkinmath.substack.com/p/the-future-of-fitness-lululemon-buys)
 * [Parallel ray tracing benchmark for functional programming languages](https://github.com/athas/raytracers)
+* [Why MasterClass Isn’t About Mastery – Napkin Math](https://napkinmath.substack.com/p/why-masterclass-isnt-really-about)
 * [Living with Your Desk Mates](https://www.nytimes.com/2020/07/06/realestate/living-with-your-desk-mates.html)
-* [The saddest “Just Ship It” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [Web Monetization](https://webmonetization.org/)
 * [Spreading rock dust on fields could remove vast amounts of CO2 from air](https://www.theguardian.com/environment/2020/jul/08/spreading-rock-dust-on-fields-could-remove-vast-amounts-of-co2-from-air)
-* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
-* [Firefox Picture-in-Picture](https://blog.mozilla.org/firefox/firefox-picture-in-picture-mode/)
 * [Why time feels so weird in 2020](https://graphics.reuters.com/HEALTH-CORONAVIRUS/TIME/gjnvwwjegvw/)
 * [FPGA Softcore SoC Shootout](https://justanotherelectronicsblog.com/?p=705)
+* [GhostDB – A Fast Distributed Cache](https://github.com/jakekgrog/GhostDB)
 * [On Interviewing Programmers](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html)
-* [Launch HN: ElectroNeek (YC W20) – Automatically find and automate routine work](https://news.ycombinator.com/item?id=23770214)
-* [CoinTracker is hiring a remote engineer to build a new financial assistant](https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121)
-* [Browser Font Rendering Inconsistencies](https://blog.stephaniestimac.com/posts/2020/06/browser-fonts/)
 * [Barebones WebGL in 75 lines of code](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
-* [Create Golomb rulers using constraint programming with IBM CPLEX](https://github.com/strateos/golomb-solver)
-* [SUSE to Acquire Rancher Labs](https://www.zdnet.com/article/suse-to-acquire-rancher-labs/)
+* [Launch HN: ElectroNeek (YC W20) – Automatically find and automate routine work](https://news.ycombinator.com/item?id=23770214)
+* [Browser Font Rendering Inconsistencies](https://blog.stephaniestimac.com/posts/2020/06/browser-fonts/)
 ## nytimes.com
 
 
@@ -71,7 +71,7 @@ layout: default
 * [Was This Ancient Taoist the First Philosopher of Disability?](https://www.nytimes.com/2020/07/08/opinion/disability-philosophy-zhuangzi.html)
 * [The Chicks Are Done Caring What People Think](https://www.nytimes.com/2020/07/08/arts/music/dixie-chicks-gaslighter.html)
 * [‘Hamilton,’ ‘The Simpsons’ and the Problem With Colorblind Casting](https://www.nytimes.com/2020/07/08/arts/television/hamilton-colorblind-casting.html)
-* [State Attorney General Calls for Stripping N.Y.P.D. Control From Mayor](https://www.nytimes.com/2020/07/08/nyregion/letitia-james-nypd-reforms.html)
+* [Naya Rivera, ‘Glee’ Actress, Is Missing at California Lake](https://www.nytimes.com/2020/07/09/arts/television/naya-rivera-glee-missing.html)
 * [‘The Far Side’ Cartoonist Gary Larson Shares First New Work in 25 Years](https://www.nytimes.com/2020/07/08/arts/far-side-gary-larson-cartoons.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Boeing Communications Chief Resigns Over 33-Year-Old Article](https://www.nytimes.com/2020/07/08/business/boeing-resignation-niel-golightly.html)
@@ -80,10 +80,10 @@ layout: default
 * [Ninja Played Fortnite on YouTube, and the Gaming World Lost Its Mind](https://www.nytimes.com/2020/07/08/technology/ninja-fortnite-youtube.html)
 * [Robinhood Has Lured Young Traders, Sometimes With Devastating Results](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html)
 * [Hong Kong Security Law Squeezes Space for Media, Choking RTHK](https://www.nytimes.com/2020/07/08/world/asia/hong-kong-security-china-media.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
 * [Designing a Garden? You’ll Need a Plan](https://www.nytimes.com/2020/07/08/realestate/designing-a-garden-youll-need-a-plan.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Ennio Morricone Was More Than Just a Great Film Composer](https://www.nytimes.com/2020/07/08/arts/music/ennio-morricone-john-zorn.html)
 * [What Does Simp Mean?](https://www.nytimes.com/2020/07/07/style/simp-history-slang.html)
@@ -91,9 +91,9 @@ layout: default
 * [With Pandemic Keeping Them Apart, Runners Embrace Virtual Races](https://www.nytimes.com/2020/07/07/sports/coronavirus-virtual-races.html)
 * [Ben Ehrenreich’s Dispatches From the Beginning and End of the World](https://www.nytimes.com/2020/07/07/books/review/ben-ehrenreich-desert-notebooks.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
-* [Novavax Gets $1.6 Billion for Coronavirus Vaccine From Operation Warp Speed](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
 * [A Shot to Protect Against H.I.V.](https://www.nytimes.com/2020/07/07/health/hiv-shot-prep.html)
 * [A New Generation of Coronavirus Tests Is Coming. Here's What to Expect.](https://www.nytimes.com/2020/07/06/health/fast-coronavirus-tests.html)
+* [Novavax Gets $1.6 Billion for Coronavirus Vaccine From Operation Warp Speed](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
 * [Mary Kay Letourneau Dies at 58](https://www.nytimes.com/2020/07/07/obituaries/mary-kay-letourneau-dead.html)
 * [Tammy Duckworth Confronts Nativist Smears From Tucker Carlson](https://www.nytimes.com/2020/07/08/us/politics/tucker-carlson-tammy-duckworth.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

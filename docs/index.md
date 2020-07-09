@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 17:12:44 UTC
+# indexed at 09/07/2020 17:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
 * [US Supreme Court deems half of Oklahoma a Native American Reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
-* [Slate Star Codex and Silicon Valley’s War Against the Media](https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media)
 * [How to track and display profile views on GitHub](https://rushter.com/blog/github-profile-markdown/)
 * [XMEMS Announces World's First Monolithic MEMS Speaker](https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker)
-* [The rise and fall of Adobe Flash](https://arstechnica.com/information-technology/2020/07/the-rise-and-fall-of-adobe-flash/)
 * [Dates and Times in JavaScript – A New API for Dates from TC39](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
+* [The rise and fall of Adobe Flash](https://arstechnica.com/information-technology/2020/07/the-rise-and-fall-of-adobe-flash/)
+* [What Are PostgreSQL Templates?](https://supabase.io/blog/2020/07/09/postgresql-templates/)
 * [The Bitter Lesson – Rich Sutton (2019)](http://incompleteideas.net/IncIdeas/BitterLesson.html)
 * [German ISPs will redirect traffic to intelligence services for trojan install](https://netzpolitik.org/2020/staatstrojaner-provider-sollen-internetverkehr-umleiten-damit-geheimdienste-hacken-koennen/)
 * [Decentraleyes – Local CDN Emulation](https://decentraleyes.org)
-* [What Are PostgreSQL Templates?](https://supabase.io/blog/2020/07/09/postgresql-templates/)
-* [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
-* [Identifying Knowledge Graph Entities in Google Images Results](https://blog.google/products/search/knowledge-graph-google-images/)
-* [A Tour of Acme (2012)](https://research.swtch.com/acme)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
+* [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
+* [Slate Star Codex and Silicon Valley’s War Against the Media](https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media)
+* [Identifying Knowledge Graph Entities in Google Images Results](https://blog.google/products/search/knowledge-graph-google-images/)
+* [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
+* [A Tour of Acme (2012)](https://research.swtch.com/acme)
 * [Retrie: Haskell Refactoring Made Easy](https://engineering.fb.com/open-source/retrie/)
 * [NeurIPS 2020 Optimization Competition](http://bbochallenge.com/)
-* [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
 * [A dev, designer, and a PM are asked the same question: What is UX?](https://blog.codelitt.com/what-is-ux/)
 * [Moving from TypeScript to Rust / WebAssembly](https://nicolodavis.com/blog/typescript-to-rust/)
 * [Hard is not defensible (2017)](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible)
-* [Giant clams manipulate light to assist their symbiotic partner](https://phys.org/news/2020-07-giant-clams-symbiotic-partner.html)
 * [Redis Core Team Update](https://redislabs.com/blog/redis-core-team-update/)
+* [Giant clams manipulate light to assist their symbiotic partner](https://phys.org/news/2020-07-giant-clams-symbiotic-partner.html)
 * [A Woman Who Needed to Be Upside-Down (2012)](https://www.discovermagazine.com/health/vital-signs-the-woman-who-needed-to-be-upside-down)
-* [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
 * [RediSearch – Redis Powered Search Engine](https://oss.redislabs.com/redisearch/)
+* [New JavaScript code generator has landed in Idris 2](https://github.com/idris-lang/Idris2/pull/415)
 * [Portland approves 10% cap on fees that food delivery apps can charge restaurants](https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-food-delivery-apps-can-charge-restaurants.html)
 * [Why IBM Doesn’t Agree with Google’s Open Usage Commons for the Istio Project](https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/)
-* [Bitmovin (YC S15) Hires Solutions Architects in Denver](https://bitmovin.com/careers-legacy/4331187002/?gh_jid=4331187002)
 * [Nvidia is now worth more than Intel](https://www.techspot.com/news/85932-nvidia-passes-intel-most-valuable-us-chipmaker.html)
-* [Neutrino Particles May Be a Link to the Dark Sector](https://www.scientificamerican.com/article/hidden-neutrino-particles-may-be-a-link-to-the-dark-sector/)
+* [Bitmovin (YC S15) Hires Solutions Architects in Denver](https://bitmovin.com/careers-legacy/4331187002/?gh_jid=4331187002)
+* [Reddit's website uses DRM for fingerprinting](https://smitop.com/post/reddit-whiteops/)
 ## nytimes.com
 
 
@@ -49,9 +49,9 @@ layout: default
 * [Who Gets a Vaccine First? U.S. Considers Race in Coronavirus Plans](https://www.nytimes.com/2020/07/09/us/coronavirus-vaccine.html)
 * [68% Have Antibodies in This Clinic. Can Neighborhood Beat a Next Wave?](https://www.nytimes.com/2020/07/09/nyregion/nyc-coronavirus-antibodies.html)
 * [Warehouse Workers in a Bind as Virus Spikes in Southern California](https://www.nytimes.com/2020/07/09/us/coronavirus-ca-warehouse-workers.html)
+* [Top Manhattan Prosecutor Ousted by Trump Administration Details Firing](https://www.nytimes.com/2020/07/09/us/politics/top-manhattan-prosecutor-ousted-by-trump-administration-details-firing.html)
 * [Some Republicans Have Grown Wary of Protests Against Racism, Poll Shows](https://www.nytimes.com/2020/07/08/us/politics/polling-race-protesters.html)
 * [Kelly Loeffler and Martha McSally Have a Problem: The G.O.P. Base](https://www.nytimes.com/2020/07/09/us/politics/kelly-loeffler-georgia-senate-arizona.html)
-* [Coronavirus Surge in Tulsa ‘More Than Likely’ Linked to Trump Rally](https://www.nytimes.com/2020/07/08/us/politics/coronavirus-tulsa-trump-rally.html)
 * [Seoul Mayor Park Won-soon Is Found Dead](https://www.nytimes.com/2020/07/09/world/asia/seoul-mayor-dead.html)
 * [Would You Like to Come Over for Dinner … in 10 Years?](https://www.nytimes.com/2020/07/09/style/coronavirus-backyard-entertaining.html)
 * [Should Schools Reopen?](https://www.nytimes.com/2020/07/09/briefing/schools-george-floyd-supreme-court-your-thursday-briefing.html)
@@ -66,9 +66,9 @@ layout: default
 * [A Coronavirus Vaccine Won’t Work if People Don’t Take It](https://www.nytimes.com/2020/07/09/opinion/coronavirus-vaccine-skepticism.html)
 * [When a Critic Met Facebook: ‘What They’re Doing Is Gaslighting’](https://www.nytimes.com/2020/07/09/opinion/facebook-civil-rights-robinson.html)
 * [On Religion, the Supreme Court Protects the Right to Be Different](https://www.nytimes.com/2020/07/09/opinion/supreme-court-religion.html)
+* [Join Roxane Gay to discuss ‘Hamilton,’ how we fight racism and more](https://twitter.com/nytopinion/status/1281274619857498112)
 * [Mainers Are ‘Disappointed,’ Too, Susan Collins](https://www.nytimes.com/2020/07/08/opinion/susan-collins-maine-trump.html)
 * [How Democrats Should Increase the Youth Vote](https://www.nytimes.com/2020/07/08/opinion/election-democrats-youth.html)
-* [Join Lauren Kelley to discuss the SCOTUS decisions on birth control and abortion](https://twitter.com/nytopinion/status/1281234746476056577)
 * [TRoberts Supreme Court Curtails Birth Control Access. Again.](https://www.nytimes.com/2020/07/08/opinion/supreme-court-birth-control.html)
 * [For Israel and Palestine, Equality in a One-State Solution](https://www.nytimes.com/2020/07/08/opinion/israel-annexation-two-state-solution.html)
 * [Carl Reiner, Perfect](https://www.nytimes.com/2020/07/09/movies/steve-martin-carl-reiner.html)
@@ -93,9 +93,9 @@ layout: default
 * [Ava DuVernay’s Fight for Change, Onscreen and Off](https://www.nytimes.com/2020/07/08/movies/director-ava-duvernay-movies-police-protests.html)
 * [Shoppers Should Wear Masks. Shouldn’t Protesters, Too?](https://www.nytimes.com/2020/07/09/style/mask-wearing-in-public.html)
 * [A Black-Owned Distillery in Minneapolis Pushes Forward](https://www.nytimes.com/2020/07/07/dining/drinks/du-nord-black-owned-distillery-minneapolis.html)
-* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
+* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Mary Kay Letourneau Dies at 58](https://www.nytimes.com/2020/07/07/obituaries/mary-kay-letourneau-dead.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Líder anglicano diz que Igreja da Inglaterra precisa reconhecer passado racista](https://oglobo.globo.com/mundo/lider-anglicano-diz-que-igreja-da-inglaterra-precisa-reconhecer-passado-racista-24523741)
+* [SP vai unificar rastreamento de pessoas que tiveram contato com infectados por coronavírus](https://oglobo.globo.com/sociedade/coronavirus/sp-vai-unificar-rastreamento-de-pessoas-que-tiveram-contato-com-infectados-por-coronavirus-24523758)
+* [Prefeitura vai apresentar queixa-crime contra casal que agrediu fiscal da Vigilância Sanitária na Barra](https://oglobo.globo.com/rio/prefeitura-vai-apresentar-queixa-crime-contra-casal-que-agrediu-fiscal-da-vigilancia-sanitaria-na-barra-24523790)
 * [Relator muda texto de MP 927, adia depósito do FGTS e restringe acordos individuais ao período da pandemia](https://oglobo.globo.com/economia/relator-muda-texto-de-mp-927-adia-deposito-do-fgts-restringe-acordos-individuais-ao-periodo-da-pandemia-24523729)
-* [Após pressão de cientistas, OMS reconhece formalmente que transmissão de coronavírus pelo ar pode ocorrer](https://oglobo.globo.com/sociedade/apos-pressao-de-cientistas-oms-reconhece-formalmente-que-transmissao-de-coronavirus-pelo-ar-pode-ocorrer-1-24523717)
-* [Mourão pede que investidores estrangeiros financiem projetos de proteção à Amazônia](https://oglobo.globo.com/economia/mourao-pede-que-investidores-estrangeiros-financiem-projetos-de-protecao-amazonia-24523711)
+* [Mourão minimiza vetos: 'indígena se abastece dos rios', diz sobre garantia à água potável](https://oglobo.globo.com/brasil/mourao-minimiza-vetos-indigena-se-abastece-dos-rios-diz-sobre-garantia-agua-potavel-24523785)
+* [Opositores de Putin são alvo de operações de busca e apreensão](https://oglobo.globo.com/mundo/opositores-de-putin-sao-alvo-de-operacoes-de-busca-apreensao-24523782)
+* [União Europeia aposta no plasma sanguíneo em busca de tratamento contra a Covid-19](https://oglobo.globo.com/sociedade/uniao-europeia-aposta-no-plasma-sanguineo-em-busca-de-tratamento-contra-covid-19-24523512)
 * [Apple lança serviço de eletrocardiograma no Brasil](https://oglobo.globo.com/economia/apple-lanca-servico-de-eletrocardiograma-no-brasil-24523724)
-* [Crivella confirma adiamento do retorno da torcida aos eventos esportivos do Rio; não há nova data prevista](https://oglobo.globo.com/esportes/crivella-confirma-adiamento-do-retorno-da-torcida-aos-eventos-esportivos-do-rio-nao-ha-nova-data-prevista-24523654)
+* [Líder anglicano diz que Igreja da Inglaterra precisa reconhecer passado racista](https://oglobo.globo.com/mundo/lider-anglicano-diz-que-igreja-da-inglaterra-precisa-reconhecer-passado-racista-24523741)
+* [PSB abre as portas para Flávio Dino, que pretende ser candidato à Presidência: ‘É um diálogo provável que se estreite’](https://oglobo.globo.com/brasil/psb-abre-as-portas-para-flavio-dino-que-pretende-ser-candidato-presidencia-um-dialogo-provavel-que-se-estreite-24523767)
 * [Dois novos C.S. Lewis](https://epoca.globo.com/guilherme-amado/dois-novos-cs-lewis-1-24522722)
-* [Coluna | Como chegamos a esse ponto?](https://epoca.globo.com/giampaolo-morgado-braga/coluna-como-chegamos-esse-ponto-24523699)
-* [Estudo da Fifa sobre Copa da França mostra aumento da velocidade e intensidade no futebol feminino](https://oglobo.globo.com/esportes/estudo-da-fifa-sobre-copa-da-franca-mostra-aumento-da-velocidade-intensidade-no-futebol-feminino-24523645)
-* [Procurador dorme durante sessão de tribunal da Paraíba; veja vídeo](https://epoca.globo.com/brasil/procurador-dorme-durante-sessao-de-tribunal-da-paraiba-veja-video-24523590)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/07/2020 22:12:05 UTC
+# indexed at 09/07/2020 22:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
 * [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
+* [MonitorControl: Control your external monitor brightness & volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
 * [Dates and Times in JavaScript – A New API for Dates from TC39](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
-* [MonitorControl: Control your external monitor brightness & volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [Teleport 4.3: Modern Replacement for OpenSSH](https://gravitational.com/blog/introducing-teleport-4-point-3-modern-replacement-for-openssh/)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
-* [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 * [Chicago Police Department shuts down its arrest API](https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/)
-* [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
+* [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
+* [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
 * [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
 * [xMEMS announces the first monolithic MEMS speaker](https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
-* [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
 * [PostgreSQL Templates](https://supabase.io/blog/2020/07/09/postgresql-templates/)
-* [The Bitter Lesson (2019)](http://incompleteideas.net/IncIdeas/BitterLesson.html)
 * [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
+* [The Bitter Lesson (2019)](http://incompleteideas.net/IncIdeas/BitterLesson.html)
 * [Decentraleyes – Local CDN Emulation](https://decentraleyes.org)
+* [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
 * [A Woman Who Needed to Be Upside-Down (2012)](https://www.discovermagazine.com/health/vital-signs-the-woman-who-needed-to-be-upside-down)
+* [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
 * [NeurIPS 2020 Optimization Competition](http://bbochallenge.com/)
 * [Portland approves 10% cap on fees that food delivery apps can charge restaurants](https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-food-delivery-apps-can-charge-restaurants.html)
 * [Western Digital's 16TB and 18TB drives: EAMR HDDs enter the retail channel](https://www.anandtech.com/show/15903/western-digitals-16tb-and-18tb-gold-drives-eamr-hdds-enter-the-retail-channel)
+* [Redis Core Team Update](https://redislabs.com/blog/redis-core-team-update/)
 * [Hacker News RSS Feeds](https://edavis.github.io/hnrss/)
 * [Restoring the first recording of computer music (2016)](https://blogs.bl.uk/sound-and-vision/2016/09/restoring-the-first-recording-of-computer-music.html)
-* [Redis Core Team Update](https://redislabs.com/blog/redis-core-team-update/)
 * [Subway-style maps of roads of the Roman Empire](https://sashamaps.net/docs/maps/roman-roads-index/)
-* [A Tour of Acme (2012)](https://research.swtch.com/acme)
-* [How to track and display profile views on GitHub](https://rushter.com/blog/github-profile-markdown/)
+* [Hard is not defensible (2017)](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [In ‘Buy American’ Speech, Biden Challenges Trump on the Economy](https://www.nytimes.com/2020/07/09/us/politics/biden-buy-american.html)
 * [Seoul Mayor Park Won-soon Is Found Dead](https://www.nytimes.com/2020/07/09/world/asia/seoul-mayor-dead.html)
 * [Would You Like to Come Over for Dinner … in 10 Years?](https://www.nytimes.com/2020/07/09/style/coronavirus-backyard-entertaining.html)
+* [Supreme Court, Right Whales, Steve Martin: Your Thursday Evening Briefing](https://www.nytimes.com/2020/07/09/briefing/supreme-court-right-whales-steve-martin.html)
 * [So Y’all Finally Get It](https://www.nytimes.com/2020/07/09/podcasts/still-processing-black-lives-matter.html)
 * [Is Trump’s Fate Sealed?](https://www.nytimes.com/2020/07/09/opinion/is-trumps-fate-sealed.html)
 * [Rethink Impact’s Latest V.C. Fund Beats Expectations](https://www.nytimes.com/2020/07/09/business/dealbook/venture-capital-women.html)
@@ -77,9 +78,9 @@ layout: default
 * [Milley Calls for ‘Hard Look’ at Renaming Bases Honoring Confederates](https://www.nytimes.com/2020/07/09/us/politics/milley-trump-confederate-base-names.html)
 * [NOAA Officials Feared Firings After Trump’s Hurricane Claims, Inspector General Says](https://www.nytimes.com/2020/07/09/climate/trump-hurricane-dorian-noaa.html)
 * [Occupy City Hall’s New Life as Homeless Camp: ‘Not Pretty All the Time’](https://www.nytimes.com/2020/07/09/nyregion/occupy-city-hall-nyc-homeless.html)
+* [Used Clothes Ban May Crimp Kenyan Style. It May Also Lift Local Design.](https://www.nytimes.com/2020/07/09/world/africa/kenya-secondhand-clothes-ban-coronavirus.html)
 * [Northern Right Whales Are on the Brink, and Trump Could Be Their Last Hope](https://www.nytimes.com/2020/07/09/climate/trump-north-atlantic-right-whale.html)
-* [Japan’s Deadly Combination: Climate Change and an Aging Society](https://www.nytimes.com/2020/07/09/world/asia/japan-climate-change-rains-elderly.html)
-* [Kelly Loeffler and Martha McSally Have a Problem: The G.O.P. Base](https://www.nytimes.com/2020/07/09/us/politics/kelly-loeffler-georgia-senate-arizona.html)
+* [Drug Giants Create Fund to Bolster Struggling Antibiotic Start-Ups](https://www.nytimes.com/2020/07/09/health/antibiotics-pharma-drug-resistance.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
@@ -91,9 +92,9 @@ layout: default
 * [Shoppers Should Wear Masks. Shouldn’t Protesters, Too?](https://www.nytimes.com/2020/07/09/style/mask-wearing-in-public.html)
 * [A Black-Owned Distillery in Minneapolis Pushes Forward](https://www.nytimes.com/2020/07/07/dining/drinks/du-nord-black-owned-distillery-minneapolis.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
+* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
 * [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
-* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Onde Queiroz vai cumprir prisão domiciliar?](https://oglobo.globo.com/analitico/onde-queiroz-vai-cumprir-prisao-domiciliar-24524281)
+* [O que, afinal, são as "forças do iliberalismo"?](https://oglobo.globo.com/cultura/o-que-afinal-sao-as-forcas-do-iliberalismo-24524455)
+* [Botafogo anuncia a contratação do atacante Salomon Kalou](https://oglobo.globo.com/esportes/botafogo-anuncia-contratacao-do-atacante-salomon-kalou-24524474)
+* [Transporte público lotado aumenta a circulação do coronavírus pela cidade, alertam especialistas](https://oglobo.globo.com/rio/transporte-publico-lotado-aumenta-circulacao-do-coronavirus-pela-cidade-alertam-especialistas-24524440)
 * [Recuperados de covid-19 devem continuar usando máscara, diz Saúde](https://oglobo.globo.com/sociedade/recuperados-de-covid-19-devem-continuar-usando-mascara-diz-saude-24524425)
+* [Defesa de Queiroz alegou ao STJ que Márcia também integra grupo de risco da Covid-19](https://oglobo.globo.com/brasil/defesa-de-queiroz-alegou-ao-stj-que-marcia-tambem-integra-grupo-de-risco-da-covid-19-24524463)
+* [Onde Queiroz vai cumprir prisão domiciliar?](https://oglobo.globo.com/analitico/onde-queiroz-vai-cumprir-prisao-domiciliar-24524281)
 * ['Novo normal' na orla do Rio: entenda as regras da prefeitura que devem ser seguidas à beira-mar](https://oglobo.globo.com/rio/novo-normal-na-orla-do-rio-entenda-as-regras-da-prefeitura-que-devem-ser-seguidas-beira-mar-24524369)
 * [Gol deve terminar o ano com 18 aviões a menos em sua frota](https://oglobo.globo.com/economia/gol-deve-terminar-ano-com-18-avioes-menos-em-sua-frota-1-24524343)
-* [Biden lança plano econômico nacionalista buscando recuperar trabalhadores que abraçaram Trump](https://oglobo.globo.com/mundo/biden-lanca-plano-economico-nacionalista-buscando-recuperar-trabalhadores-que-abracaram-trump-24524286)
 * [Ministério da Saúde informa ao STF que não obriga uso da cloroquina](https://oglobo.globo.com/sociedade/ministerio-da-saude-informa-ao-stf-que-nao-obriga-uso-da-cloroquina-24524347)
-* [Toffoli manda Lava-Jato nos estados enviarem dados de investigações à PGR](https://oglobo.globo.com/brasil/toffoli-manda-lava-jato-nos-estados-enviarem-dados-de-investigacoes-pgr-1-24524295)
-* [STJD 3 x 0 TJD-RJ: como tribunais julgaram disputas do Carioca entre clubes e Ferj](https://oglobo.globo.com/esportes/stjd-3-0-tjd-rj-como-tribunais-julgaram-disputas-do-carioca-entre-clubes-ferj-24524227)
-* [Ministério da Saúde orienta paciente com sintomas leves a procurar atendimento médico](https://oglobo.globo.com/sociedade/ministerio-da-saude-orienta-paciente-com-sintomas-leves-procurar-atendimento-medico-24524282)
 * [TRF-4 mantém suspensão de demarcação de terra indígena no Paraná](https://epoca.globo.com/guilherme-amado/trf-4-mantem-suspensao-de-demarcacao-de-terra-indigena-no-parana-24524136)

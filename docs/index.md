@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 02:34:26 UTC
+# indexed at 10/07/2020 03:12:37 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Linux From Scratch undergoing major changes to handbook](http://lists.linuxfromscratch.org/pipermail/lfs-dev/2020-June/073815.html)
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
 * [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
-* [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [On the Closing of Living Computers: Museum+Labs](https://rottedbits.blogspot.com/2020/07/on-closing-of-living-computers.html?m=1&fbclid=IwAR30zAZFD54sW4qfZ-X3GatKhMo6nNsuEEHuIQkKPq7ONWhKFBPQncBVIlM)
+* [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
 * [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
-* [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 * [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 * [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
+* [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 * [Evidence-based Software Engineering – book beta](http://shape-of-code.coding-guidelines.com/2020/06/30/beta-evidence-based-software-engineering-book/)
 * [Dates and Times in JavaScript – A New API for Dates from TC39](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
 * [Cars and Hygiene Killed the Middle-Class Hat](https://medium.com/s/pulling-at-threads/how-cars-and-hygiene-killed-the-middle-class-hat-2f382b4a35ec)
 * [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
 * [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
-* [PostgreSQL Templates](https://supabase.io/blog/2020/07/09/postgresql-templates/)
-* [Subway-style maps of roads of the Roman Empire](https://sashamaps.net/docs/maps/roman-roads-index/)
 * [Bulgaria writes new chapter in long story of demographic decline](https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/)
+* [Subway-style maps of roads of the Roman Empire](https://sashamaps.net/docs/maps/roman-roads-index/)
+* [PostgreSQL Templates](https://supabase.io/blog/2020/07/09/postgresql-templates/)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
-* [Decentraleyes – Local CDN Emulation](https://decentraleyes.org)
-* [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
 * [The Bourne collection: online search is older than you think](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
+* [Decentraleyes – Local CDN Emulation](https://decentraleyes.org)
 * [A Woman Who Needed to Be Upside-Down (2012)](https://www.discovermagazine.com/health/vital-signs-the-woman-who-needed-to-be-upside-down)
+* [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
 * [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
-* [Chicago Police Department shuts down its arrest API](https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/)
 * [xMEMS announces the first monolithic MEMS speaker](https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker)
-* [African tech workers push back on U.S. startup built to help them](https://bigtechnology.substack.com/p/im-disturbed-african-tech-workers)
+* [Chicago Police Department shuts down its arrest API](https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/)
 * [Redis Core Team Update](https://redislabs.com/blog/redis-core-team-update/)
+* [African tech workers push back on U.S. startup built to help them](https://bigtechnology.substack.com/p/im-disturbed-african-tech-workers)
 * [Portland approves 10% cap on fees that food delivery apps can charge restaurants](https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-food-delivery-apps-can-charge-restaurants.html)
-* [NeurIPS 2020 Optimization Competition](http://bbochallenge.com/)
 ## nytimes.com
 
 
@@ -91,10 +91,10 @@ layout: default
 * [‘The Old Guard’ Review: Fighting to the Death, and Beyond](https://www.nytimes.com/2020/07/09/movies/the-old-guard-review.html)
 * [Grandparents, Kin and Play Cousins: The Soul and Survival of Black Families](https://www.nytimes.com/2020/07/07/parenting/black-families-children-kin-grandparents.html)
 * [How Does Anything Go Viral?](https://www.nytimes.com/2020/07/09/books/review/adam-kucharski-the-rules-of-contagion.html)
-* [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
-* [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
-* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
+* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
+* [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
+* [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -104,11 +104,11 @@ layout: default
 
 * [Governo prorroga até novembro uso das Forças Armadas no combate a queimadas na Amazônia](https://oglobo.globo.com/sociedade/governo-prorroga-ate-novembro-uso-das-forcas-armadas-no-combate-queimadas-na-amazonia-24525147)
 * [Bolsonaro sanciona projeto que suspende pagamento do Fies durante pandemia](https://oglobo.globo.com/sociedade/educacao/bolsonaro-sanciona-projeto-que-suspende-pagamento-do-fies-durante-pandemia-24524985)
-* [Bolsonaro diz que governo não tem como manter auxílio emergencial por muito tempo e pede reabertura do comércio](https://oglobo.globo.com/economia/bolsonaro-diz-que-governo-nao-tem-como-manter-auxilio-emergencial-por-muito-tempo-pede-reabertura-do-comercio-1-24524753)
-* [Câmara aprova projeto que libera R$ 1.200 do auxílio emergencial para mulher vítima de violência](https://oglobo.globo.com/sociedade/camara-aprova-projeto-que-libera-1200-do-auxilio-emergencial-para-mulher-vitima-de-violencia-24524764)
-* [Bolsonaro diz que anunciará amanhã novo ministro da Educação](https://oglobo.globo.com/sociedade/educacao/bolsonaro-diz-que-anunciara-amanha-novo-ministro-da-educacao-1-24524714)
+* [Deve-se rastrear o dinheiro público no ‘gabinete do ódio’](https://oglobo.globo.com/opiniao/deve-se-rastrear-dinheiro-publico-no-gabinete-do-odio-1-24524583)
 * [Lava-Jato do Paraná critica decisão que ordena envio de bases de dados de forças-tarefas à PGR](https://oglobo.globo.com/brasil/lava-jato-do-parana-critica-decisao-que-ordena-envio-de-bases-de-dados-de-forcas-tarefas-pgr-1-24524768)
 * [Quarta etapa de pesquisa que mede avanço da Covid-19 no Brasil começaria hoje, mas Saúde freia conversas](https://oglobo.globo.com/sociedade/quarta-etapa-de-pesquisa-que-mede-avanco-da-covid-19-no-brasil-comecaria-hoje-mas-saude-freia-conversas-24523513)
 * [Kalou no Botafogo: Montenegro diz que salário é 'compatível' e defende 'esforço'](https://oglobo.globo.com/esportes/kalou-no-botafogo-montenegro-diz-que-salario-compativel-defende-esforco-24524795)
 * [Detran-RJ reabre atendimentos presenciais para demandas que dependem de abertura de processo](https://oglobo.globo.com/rio/detran-rj-reabre-atendimentos-presenciais-para-demandas-que-dependem-de-abertura-de-processo-24524794)
-* [Reuniões deixam Salgado otimista de que Campello desistirá de reeleição no Vasco](https://oglobo.globo.com/esportes/reunioes-deixam-salgado-otimista-de-que-campello-desistira-de-reeleicao-no-vasco-1-24524723)
+* [Dia da Pizza: receitas fáceis de massas, molhos e recheios](https://oglobo.globo.com/rioshow/dia-da-pizza-receitas-faceis-de-massas-molhos-recheios-24521876)
+* [Dia da Pizza por delivery: promoções, descontos, rodízio em casa e versões de pão de queijo a brownie](https://oglobo.globo.com/rioshow/dia-da-pizza-por-delivery-promocoes-descontos-rodizio-em-casa-versoes-de-pao-de-queijo-brownie-24522016)
+* [No vácuo do Ministério da Saúde, flexibilização no país vira improviso](https://oglobo.globo.com/opiniao/no-vacuo-do-ministerio-da-saude-flexibilizacao-no-pais-vira-improviso-1-24524195)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 08:34:33 UTC
+# indexed at 10/07/2020 09:12:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
+* [France to introduce controversial age verification system for adult websites](https://www.politico.eu/article/france-to-introduce-controversial-age-verification-system-for-adult-pornography-websites/)
 * [Ryzen Threadripper Pro 3995WX Spotted](https://www.guru3d.com/news-story/spotted-ryzen-threadripper-pro-3995wx-processor-with-8-channel-ddr4,2.html)
 * [On the Closing of Living Computers: Museum+Labs](https://rottedbits.blogspot.com/2020/07/on-closing-of-living-computers.html?m=1&fbclid=IwAR30zAZFD54sW4qfZ-X3GatKhMo6nNsuEEHuIQkKPq7ONWhKFBPQncBVIlM)
 * [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
-* [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
+* [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [ExSaaSperated: A blog about the struggle to start a sustainable SaaS](https://exsaasperated.com/2020/06/20/hello-world.html)
 * [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
-* [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
+* [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
-* [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
+* [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 * [In north Michigan woods, feds raid an alleged upscale art forgery factory](https://www.detroitnews.com/story/news/local/michigan/2020/07/08/art-forgery-ring-targeted-fbi-raids-near-traverse-city/5398152002/)
-* [Pinboard Turns Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/)
 * [Pulsar vs. Kafka](https://streamnative.io/blog/tech/pulsar-vs-kafka-part-1)
-* [Evidence-based Software Engineering – book beta](http://shape-of-code.coding-guidelines.com/2020/06/30/beta-evidence-based-software-engineering-book/)
+* [Pinboard Turns Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/)
 * [Taxonomy anarchy hampers conservation (2012)](https://www.nature.com/news/taxonomy-anarchy-hampers-conservation-1.22064)
-* [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
+* [Evidence-based Software Engineering – book beta](http://shape-of-code.coding-guidelines.com/2020/06/30/beta-evidence-based-software-engineering-book/)
 * [Subway-style maps of roads of the Roman Empire](https://sashamaps.net/docs/maps/roman-roads-index/)
-* [Valve secrets spill over, including Half-Life 3, in new Steam documentary app](https://arstechnica.com/gaming/2020/07/valve-secrets-spill-over-including-half-life-3-in-new-steam-documentary-app/)
+* [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
 * [Neutrino Particles May Be a Link to the Dark Sector](https://www.scientificamerican.com/article/hidden-neutrino-particles-may-be-a-link-to-the-dark-sector/)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
+* [Valve secrets spill over, including Half-Life 3, in new Steam documentary app](https://arstechnica.com/gaming/2020/07/valve-secrets-spill-over-including-half-life-3-in-new-steam-documentary-app/)
 * [The Bourne collection: the history of online search](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
-* [Confederate Statues Were Never About Preserving History](https://projects.fivethirtyeight.com/confederate-statues/)
 * [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
-* [Major Proposed Changes to Linux From Scratch](http://lists.linuxfromscratch.org/pipermail/lfs-dev/2020-June/073815.html)
 * [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
+* [Major Proposed Changes to Linux From Scratch](http://lists.linuxfromscratch.org/pipermail/lfs-dev/2020-June/073815.html)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
 * [How a Conservative Supreme Court and Trump's Appointees Declared Their Independence](https://www.nytimes.com/2020/07/09/us/politics/supreme-court-trump.html)
 * [Landmark Supreme Court Ruling Affirms Native American Rights in Oklahoma](https://www.nytimes.com/2020/07/09/us/supreme-court-oklahoma-mcgirt-creek-nation.html)
-* [‘Whack-a-Mole’ Against Virus Sounds Reasonable, Unless You’re the Mole](https://www.nytimes.com/2020/07/09/world/europe/09virus-uk-leicester-lockdown.html)
+* [‘Whack-a-Mole’ Against Virus Sounds Reasonable, Unless You’re the Mole](https://www.nytimes.com/2020/07/09/world/europe/virus-uk-leicester-lockdown.html)
 * [‘Big Mess’ Looms if Schools Don’t Get Billions to Reopen Safely](https://www.nytimes.com/2020/07/09/us/schools-reopening-trump.html)
 * [Big Ten Will Play Fall Sports Only Within Conference, if at All](https://www.nytimes.com/2020/07/09/sports/ncaafootball/big-ten-fall-sports-in-conference.html)
 * [Top Manhattan Prosecutor Ousted by Trump Details Firing](https://www.nytimes.com/2020/07/09/us/politics/top-manhattan-prosecutor-ousted-by-trump-details-firing.html)
@@ -80,17 +80,17 @@ layout: default
 * [Occupy City Hall’s New Life as Homeless Camp: ‘Not Pretty All the Time’](https://www.nytimes.com/2020/07/09/nyregion/occupy-city-hall-nyc-homeless.html)
 * [NJ Flood Dragged Her Into a Tunnel. Miraculously, She Survived.](https://www.nytimes.com/2020/07/09/nyregion/nj-flood-tunnel-driver.html)
 * [Lawsuits Aim to Block DeVos’s New Sexual Misconduct Rules](https://www.nytimes.com/2020/07/09/us/politics/sexual-misconduct-betsy-devos.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
+* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [It’s Christo’s Final Show. But Is It the Last We’ll See of Him?](https://www.nytimes.com/2020/07/08/arts/design/christo-pompidou-arc-de-triomphe.html)
 * [‘The Old Guard’ Review: Fighting to the Death, and Beyond](https://www.nytimes.com/2020/07/09/movies/the-old-guard-review.html)
 * [Grandparents, Kin and Play Cousins: The Soul and Survival of Black Families](https://www.nytimes.com/2020/07/07/parenting/black-families-children-kin-grandparents.html)
 * [How Does Anything Go Viral?](https://www.nytimes.com/2020/07/09/books/review/adam-kucharski-the-rules-of-contagion.html)
-* [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
+* [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Plano de produção de bombas nucleares de Trump divide cidade dos EUA](https://oglobo.globo.com/mundo/plano-de-producao-de-bombas-nucleares-de-trump-divide-cidade-dos-eua-1-24524209)
+* [Mulheres com deficiência têm mais dificuldade para denunciar violência doméstica na pandemia](https://oglobo.globo.com/celina/mulheres-com-deficiencia-tem-mais-dificuldade-para-denunciar-violencia-domestica-na-pandemia-24522160)
+* [Responsável por página derrubada pelo Facebook tem relação próxima com Bolsonaro](https://oglobo.globo.com/brasil/responsavel-por-pagina-derrubada-pelo-facebook-tem-relacao-proxima-com-bolsonaro-24525176)
 * [Mansur: Preocupado com política em vez de negócio, Brasil vive na Idade Média do futebol](https://oglobo.globo.com/esportes/mansur-preocupado-com-politica-em-vez-de-negocio-brasil-vive-na-idade-media-do-futebol-24525207)
-* [Mulher mantida em cárcere privado pelo marido tinha ligações telefônicas monitoradas](https://oglobo.globo.com/rio/mulher-mantida-em-carcere-privado-pelo-marido-tinha-ligacoes-telefonicas-monitoradas-24525149)
 * [O futuro do 'gabinete do ódio' após a ação do Facebook](https://oglobo.globo.com/podcast/o-futuro-do-gabinete-do-odio-apos-acao-do-facebook-1-24525249)
 * [Latam levanta US$ 2,2 bilhões com acionista e investidor](https://oglobo.globo.com/economia/latam-levanta-us-22-bilhoes-com-acionista-investidor-24525131)
 * [Da fuga da Série B ao Fla-Flu da pandemia: faixa símbolo do Fluminense volta aos estádios e vira inspiração](https://oglobo.globo.com/esportes/da-fuga-da-serie-ao-fla-flu-da-pandemia-faixa-simbolo-do-fluminense-volta-aos-estadios-vira-inspiracao-24525223)
-* [Governo avalia liberar saque parcial de recursos de fundos de pensão](https://oglobo.globo.com/economia/governo-avalia-liberar-saque-parcial-de-recursos-de-fundos-de-pensao-24525161)
-* [Estudo americano testa eficácia de medicamento derivado do plasma contra o coronavírus](https://oglobo.globo.com/sociedade/estudo-americano-testa-eficacia-de-medicamento-derivado-do-plasma-contra-coronavirus-24521842)
 * [Prefeitura do Rio multou, em média, 22 pessoas por dia por não usarem máscaras no último mês](https://oglobo.globo.com/rio/prefeitura-do-rio-multou-em-media-22-pessoas-por-dia-por-nao-usarem-mascaras-no-ultimo-mes-24524923)
-* [Orquestra toca temas da Broadway nesta sexta em live com medidas contra coronavírus](https://oglobo.globo.com/rioshow/orquestra-toca-temas-da-broadway-nesta-sexta-em-live-com-medidas-contra-coronavirus-24523787)
+* [Ministros do STF exigiram demissão de Weintraub para pacificação com Bolsonaro](https://epoca.globo.com/guilherme-amado/ministros-do-stf-exigiram-demissao-de-weintraub-para-pacificacao-com-bolsonaro-24524098)
 * [Documentário e podcast ‘Não existem mais cartas’ contam histórias de casais separados pela Covid-19](https://oglobo.globo.com/ela/gente/documentario-podcast-nao-existem-mais-cartas-contam-historias-de-casais-separados-pela-covid-19-24523401)

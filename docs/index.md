@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 10:12:21 UTC
+# indexed at 10/07/2020 10:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -10,16 +10,16 @@ layout: default
 
 * [LibreOffice: The Next Five Years](https://lwn.net/SubscriberLink/825598/21fb7c2a3f9358e7/)
 * [Blog Anonymously](https://uglyduck.ca/blog-anonymously/)
-* [France to introduce controversial age verification system for adult websites](https://www.politico.eu/article/france-to-introduce-controversial-age-verification-system-for-adult-pornography-websites/)
 * [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
+* [France to introduce controversial age verification system for adult websites](https://www.politico.eu/article/france-to-introduce-controversial-age-verification-system-for-adult-pornography-websites/)
 * [Ryzen Threadripper Pro 3995WX Spotted](https://www.guru3d.com/news-story/spotted-ryzen-threadripper-pro-3995wx-processor-with-8-channel-ddr4,2.html)
 * [On the Closing of Living Computers: Museum+Labs](https://rottedbits.blogspot.com/2020/07/on-closing-of-living-computers.html?m=1&fbclid=IwAR30zAZFD54sW4qfZ-X3GatKhMo6nNsuEEHuIQkKPq7ONWhKFBPQncBVIlM)
 * [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md)
-* [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
-* [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [ExSaaSperated: A blog about the struggle to start a sustainable SaaS](https://exsaasperated.com/2020/06/20/hello-world.html)
+* [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
+* [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
 * [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
-* [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
+* [The Selfie and the Self: In Defence of Duckface (2019)](https://www.versobooks.com/blogs/4321-the-selfie-and-the-self-in-defence-of-duckface)
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
 * [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
@@ -29,14 +29,14 @@ layout: default
 * [Evidence-based Software Engineering – book beta](http://shape-of-code.coding-guidelines.com/2020/06/30/beta-evidence-based-software-engineering-book/)
 * [Pinboard Turns Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/)
 * [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
-* [Neutrino Particles May Be a Link to the Dark Sector](https://www.scientificamerican.com/article/hidden-neutrino-particles-may-be-a-link-to-the-dark-sector/)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
+* [Neutrino Particles May Be a Link to the Dark Sector](https://www.scientificamerican.com/article/hidden-neutrino-particles-may-be-a-link-to-the-dark-sector/)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
-* [Taxonomy anarchy hampers conservation (2012)](https://www.nature.com/news/taxonomy-anarchy-hampers-conservation-1.22064)
 * [The Bourne collection: the history of online search](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
 * [USA Sanctions Chinese Officials, Including Politburo Member, for Xinjiang Abuses](https://www.npr.org/2020/07/09/889406296/u-s-sanctions-chinese-officials-including-politburo-member-for-xinjiang-abuses)
+* [Taxonomy anarchy hampers conservation (2012)](https://www.nature.com/news/taxonomy-anarchy-hampers-conservation-1.22064)
 * [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
-* [Valve secrets spill over, including Half-Life 3, in new Steam documentary app](https://arstechnica.com/gaming/2020/07/valve-secrets-spill-over-including-half-life-3-in-new-steam-documentary-app/)
+* [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 ## nytimes.com
 
@@ -87,10 +87,10 @@ layout: default
 * [Gina Prince-Bythewood Made a Summer Blockbuster. It’s About Time.](https://www.nytimes.com/2020/07/10/movies/the-old-guard-gina-prince-bythewood.html)
 * [Review: ‘Little Voice’ Is a Twee Musical Fairy Tale](https://www.nytimes.com/2020/07/08/arts/television/review-little-voice.html)
 * [7 Things to Do This Weekend](https://www.nytimes.com/2020/07/09/arts/things-to-do-weekend-coronavirus.html)
-* [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
 * [Grave Shortages of P.P.E. Gear Flare Again as Covid Cases Surge](https://www.nytimes.com/2020/07/08/health/coronavirus-masks-ppe-doc.html)
+* [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [DeSantis Is Said to Quietly Hinder Fund-Raising for Trump Convention](https://www.nytimes.com/2020/07/09/us/politics/trump-florida-convention-desantis.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [MPRJ faz operação para cumprir mandado de prisão contra ex-secretário de Saúde Edmar Santos](https://oglobo.globo.com/rio/mprj-faz-operacao-para-cumprir-mandado-de-prisao-contra-ex-secretario-de-saude-edmar-santos-24525376)
+* [Ex-secretário de Saúde Edmar Santos é preso em Itaipava em operação do MPRJ](https://oglobo.globo.com/rio/ex-secretario-de-saude-edmar-santos-preso-em-itaipava-em-operacao-do-mprj-1-24525376)
+* [Auxílio emergencial: 400 mil nascidos em maio incluídos em lote extra começam a sacar 1ª parcela do benefício](https://oglobo.globo.com/economia/auxilio-emergencial-400-mil-nascidos-em-maio-incluidos-em-lote-extra-comecam-sacar-1-parcela-do-beneficio-24525395)
+* [Casal de SP é condenado a pagar R$ 150 mil a garoto por devolvê-lo depois de adoção](https://epoca.globo.com/sociedade/casal-de-sp-condenado-pagar-150-mil-garoto-por-devolve-lo-depois-de-adocao-24525389)
+* [Conselho de Medicina vai julgar profissional que torceu por Bolsonaro intubado em UTI](https://epoca.globo.com/brasil/conselho-de-medicina-vai-julgar-profissional-que-torceu-por-bolsonaro-intubado-em-uti-24525380)
 * [Câmara de Itaguaí aprova impeachment contra prefeito e o vice, que foram afastados](https://oglobo.globo.com/rio/camara-de-itaguai-aprova-impeachment-contra-prefeito-o-vice-que-foram-afastados-24525364)
-* [Investidores estrangeiros não vão ser convencidos só por retórica ambiental do governo, diz pesquisador](https://epoca.globo.com/economia/investidores-estrangeiros-nao-vao-ser-convencidos-so-por-retorica-ambiental-do-governo-diz-pesquisador-24525355)
-* [Plano de produção de bombas nucleares de Trump divide cidade dos EUA](https://oglobo.globo.com/mundo/plano-de-producao-de-bombas-nucleares-de-trump-divide-cidade-dos-eua-1-24524209)
-* [Mulheres com deficiência têm mais dificuldade para denunciar violência doméstica na pandemia](https://oglobo.globo.com/celina/mulheres-com-deficiencia-tem-mais-dificuldade-para-denunciar-violencia-domestica-na-pandemia-24522160)
-* [Ministros do STF exigiram demissão de Weintraub para pacificação com Bolsonaro](https://epoca.globo.com/guilherme-amado/ministros-do-stf-exigiram-demissao-de-weintraub-para-pacificacao-com-bolsonaro-24524098)
 * [Bolsonaro condiciona aliança com vice de Witzel a saída do PSC](https://epoca.globo.com/guilherme-amado/bolsonaro-condiciona-alianca-com-vice-de-witzel-saida-do-psc-24522756)
 * [STJ tende a reverter prisão domiciliar de Queiroz e mulher](https://epoca.globo.com/guilherme-amado/stj-tende-reverter-prisao-domiciliar-de-queiroz-mulher-24525064)
+* [Projeto que bolsonaristas chamam de 'abortoduto' não trata de aborto](https://epoca.globo.com/guilherme-amado/projeto-que-bolsonaristas-chamam-de-abortoduto-nao-trata-de-aborto-24524115)
 * [Para dormir ou passar o dia em casa, os pijamas estão com tudo](https://oglobo.globo.com/rio/bairros/para-dormir-ou-passar-dia-em-casa-os-pijamas-estao-com-tudo-1-24524522)
 * [UniFavela, da Maré, é uma das beneficiadas de campanha que dá acesso à internet a alunos carentes](https://oglobo.globo.com/rio/bairros/unifavela-da-mare-uma-das-beneficiadas-de-campanha-que-da-acesso-internet-alunos-carentes-24511313)

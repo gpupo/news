@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 18:13:35 UTC
+# indexed at 10/07/2020 18:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [The TikTok app is no longer permitted on mobile devices that access Amazon email](https://twitter.com/scotthickle/status/1281631749533990914)
 * [Disabling Google 2FA Doesn't Need 2FA](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
+* [Investors say agroforestry isn’t just climate friendly – it’s also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
 * [Rackspace S-1](https://www.sec.gov/Archives/edgar/data/1810019/000119312520190902/d915709ds1.htm)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
-* [Whose Land (Indigenous Nations of North America)](https://www.whose.land/en/)
-* [Scientists make precise edits to mitochondrial DNA for first time](https://www.nature.com/articles/d41586-020-02054-5)
-* [Investors say agroforestry isn’t just climate friendly – it’s also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
 * [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
+* [Scientists make precise edits to mitochondrial DNA for first time](https://www.nature.com/articles/d41586-020-02054-5)
 * [LibreOffice: The Next Five Years](https://lwn.net/SubscriberLink/825598/21fb7c2a3f9358e7/)
+* [Whose Land (Indigenous Nations of North America)](https://www.whose.land/en/)
 * [Hashing it Out](https://akshayr.me/blog/articles/python-dictionaries)
 * [Ask HN: Something like Khan Academy but full curriculum for grade schoolers?](https://news.ycombinator.com/item?id=23793216)
+* [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
 * [São Paulo Labor Judge Rules Uber Must Pay Full Employee Benefits to Drivers](https://riotimesonline.com/brazil-news/brazil/politics-brazil/uber-to-pay-13th-month-and-vacation-to-drivers-rules-sao-paulo-labor-court/)
-* [Smarking (YC W15) is hiring a Back end Engineer to scale infrastructure](https://jobs.lever.co/smarking/65be7a6c-bb60-44a9-9a49-c425f322da3f)
 * [Tin Can Phone Modem](https://www.mikekohn.net/micro/tin_can_phone_modem.php)
-* [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [Why Group Brainstorming Is a Waste of Time (2015)](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
+* [Smarking (YC W15) is hiring a Back end Engineer to scale infrastructure](https://jobs.lever.co/smarking/65be7a6c-bb60-44a9-9a49-c425f322da3f)
 * [Blog Anonymously](https://uglyduck.ca/blog-anonymously/)
 * [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
+* [Scott Belsky’s Elephant List](https://superorganizers.substack.com/p/scott-belskys-elephant-list)
 * [Two Years to Make $10 in Software Revenue](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue)
 * [Programming at the REPL](https://clojure.org/guides/repl/guidelines_for_repl_aided_development)
-* [In north Michigan woods, feds raid an alleged upscale art forgery factory](https://www.detroitnews.com/story/news/local/michigan/2020/07/08/art-forgery-ring-targeted-fbi-raids-near-traverse-city/5398152002/)
-* [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate)
 * [Zoom Zero-Day Allows RCE, Patch on the Way](https://threatpost.com/unpatched-zoom-bug-rce/157317/)
-* [Show HN: CVPR 2020 unofficial statistics, with better search functionality](http://cvpr20.janruettinger.com/)
-* [Dr. Southern California: Heading west for the cure (2019)](http://www.cabinetmagazine.org/issues/66/kilston.php)
+* [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate)
 * [Microsoft and Google collaborate to make PWAs better in the Play Store](https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487)
+* [Show HN: CVPR 2020 unofficial statistics, with better search functionality](http://cvpr20.janruettinger.com/)
 * [The Things We Can’t Control Are Beautiful](http://nautil.us/issue/87/risk/the-things-we-cant-control-are-beautiful)
-* [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
+* [Dr. Southern California: Heading west for the cure (2019)](http://www.cabinetmagazine.org/issues/66/kilston.php)
 * [France to introduce controversial age verification system for adult websites](https://www.politico.eu/article/france-to-introduce-controversial-age-verification-system-for-adult-pornography-websites/)
+* [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
 ## nytimes.com
 
 
@@ -91,9 +91,9 @@ layout: default
 * [‘Palm Springs’ Review: Déjà Vu All Over Again](https://www.nytimes.com/2020/07/09/movies/palm-springs-review.html)
 * [Redman, Mehldau, McBride and Blade Take Another Spin, 26 Years Later](https://www.nytimes.com/2020/07/09/arts/music/redman-mehldau-mcbride-blade-roundagain-review.html)
 * [Tennis Tours Hope to Salvage Their Seasons. It’s Not Getting Easier.](https://www.nytimes.com/2020/07/09/sports/tennis-tournaments-china.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [‘Vamos conversar ponto por ponto’, diz Mourão sobre reunião com empresários brasileiros que pediram combate ao desmatamento](https://oglobo.globo.com/economia/vamos-conversar-ponto-por-ponto-diz-mourao-sobre-reuniao-com-empresarios-brasileiros-que-pediram-combate-ao-desmatamento-24525897)
-* [Governo Bolsonaro se manifesta contrário à indenização a profissionais de saúde incapacitados ao trabalho pela Covid-19](https://oglobo.globo.com/sociedade/governo-bolsonaro-se-manifesta-contrario-indenizacao-profissionais-de-saude-incapacitados-ao-trabalho-pela-covid-19-1-24526033)
+* [Comércio da Barra tem consumo acima da expectativa com reabertura de shoppings e lojas de rua](https://oglobo.globo.com/rio/bairros/comercio-da-barra-tem-consumo-acima-da-expectativa-com-reabertura-de-shoppings-lojas-de-rua-24525788)
+* [MEC gasta R$ 320 mil com propaganda contra adiamento do Enem, agora remarcado para 2021](https://oglobo.globo.com/sociedade/mec-gasta-320-mil-com-propaganda-contra-adiamento-do-enem-agora-remarcado-para-2021-24526098)
 * ['Erradicação do novo coronavírus é improvável', afirma Mike Ryan, da OMS](https://oglobo.globo.com/sociedade/erradicacao-do-novo-coronavirus-improvavel-afirma-mike-ryan-da-oms-24526031)
-* [Rússia revisa dados e mais que triplica o número de mortos por Covid-19](https://oglobo.globo.com/mundo/russia-revisa-dados-mais-que-triplica-numero-de-mortos-por-covid-19-24526010)
-* [Bolsa se aproxima dos 100 mil pontos com notícia de tratamento eficaz contra Covid-19](https://oglobo.globo.com/economia/bolsa-se-aproxima-dos-100-mil-pontos-com-noticia-de-tratamento-eficaz-contra-covid-19-24525928)
-* [Novos relatos de explosão no Irã alimentam tese de atos de sabotagem contra o país](https://oglobo.globo.com/mundo/novos-relatos-de-explosao-no-ira-alimentam-tese-de-atos-de-sabotagem-contra-pais-24525847)
-* [Para PM, capitão acusado de chefiar narcomilícia pode julgar policiais acusados de crimes](https://oglobo.globo.com/rio/para-pm-capitao-acusado-de-chefiar-narcomilicia-pode-julgar-policiais-acusados-de-crimes-24525977)
-* [Apenas quatro regiões do estado de SP permanecem críticas para Covid-19](https://oglobo.globo.com/sociedade/coronavirus/apenas-quatro-regioes-do-estado-de-sp-permanecem-criticas-para-covid-19-24525901)
+* [Rússia revisa dados e mais que triplica número de mortos por Covid-19](https://oglobo.globo.com/mundo/russia-revisa-dados-mais-que-triplica-numero-de-mortos-por-covid-19-24526010)
+* [Maia defende criação de agência 'independente do governo' para armazenar dados pessoais](https://oglobo.globo.com/brasil/maia-defende-criacao-de-agencia-independente-do-governo-para-armazenar-dados-pessoais-24526096)
+* [É #FAKE que OMS considere desnecessário uso de máscara por quem não foi infectado pelo coronavírus](https://oglobo.globo.com/fato-ou-fake/e-fake-que-oms-considere-desnecessario-uso-de-mascara-por-quem-nao-foi-infectado-pelo-coronavirus-24526082)
+* [Médicos relatam pressão de pacientes da Covid-19 e de colegas por uso da cloroquina, mesmo sem eficácia comprovada](https://oglobo.globo.com/sociedade/medicos-relatam-pressao-de-pacientes-da-covid-19-de-colegas-por-uso-da-cloroquina-mesmo-sem-eficacia-comprovada-24525961)
 * [Nova estrela do Botafogo, Kalou fez gols por onde passou, mas não joga desde novembro](https://oglobo.globo.com/esportes/nova-estrela-do-botafogo-kalou-fez-gols-por-onde-passou-mas-nao-joga-desde-novembro-24525974)
-* [Ancine aprova exibição comercial de filmes com recursos públicos em cines drive-in](https://epoca.globo.com/guilherme-amado/ancine-aprova-exibicao-comercial-de-filmes-com-recursos-publicos-em-cines-drive-in-24525910)
+* [Governo Bolsonaro se manifesta contrário à indenização a profissionais de saúde incapacitados ao trabalho pela Covid-19](https://oglobo.globo.com/sociedade/governo-bolsonaro-se-manifesta-contrario-indenizacao-profissionais-de-saude-incapacitados-ao-trabalho-pela-covid-19-1-24526033)
+* [Para PM, capitão acusado de chefiar narcomilícia pode julgar policiais acusados de crimes](https://oglobo.globo.com/rio/para-pm-capitao-acusado-de-chefiar-narcomilicia-pode-julgar-policiais-acusados-de-crimes-24525977)

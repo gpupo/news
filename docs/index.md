@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 12:18:12 UTC
+# indexed at 10/07/2020 12:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [Show HN: CVPR 2020 unofficial statistics, with better search functionality](http://cvpr20.janruettinger.com/)
 * [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
 * [Ryzen Threadripper Pro 3995WX Spotted](https://www.guru3d.com/news-story/spotted-ryzen-threadripper-pro-3995wx-processor-with-8-channel-ddr4,2.html)
-* [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
-* [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
-* [The Selfie and the Self: In Defence of Duckface (2019)](https://www.versobooks.com/blogs/4321-the-selfie-and-the-self-in-defence-of-duckface)
-* [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
 * [In north Michigan woods, feds raid an alleged upscale art forgery factory](https://www.detroitnews.com/story/news/local/michigan/2020/07/08/art-forgery-ring-targeted-fbi-raids-near-traverse-city/5398152002/)
+* [The Selfie and the Self: In Defence of Duckface (2019)](https://www.versobooks.com/blogs/4321-the-selfie-and-the-self-in-defence-of-duckface)
 * [Evidence-based Software Engineering – book beta](http://shape-of-code.coding-guidelines.com/2020/06/30/beta-evidence-based-software-engineering-book/)
 * [Pulsar vs. Kafka](https://streamnative.io/blog/tech/pulsar-vs-kafka-part-1)
 * [Pinboard Turns Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
-* [Neutrino Particles May Be a Link to the Dark Sector](https://www.scientificamerican.com/article/hidden-neutrino-particles-may-be-a-link-to-the-dark-sector/)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
+* [Neutrino Particles May Be a Link to the Dark Sector](https://www.scientificamerican.com/article/hidden-neutrino-particles-may-be-a-link-to-the-dark-sector/)
+* [The Rise of the Solo Capitalists](https://nbt.substack.com/p/the-rise-of-the-solo-capitalists)
 * [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [The Bourne collection: the history of online search](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
-* [Taxonomy anarchy hampers conservation (2012)](https://www.nature.com/news/taxonomy-anarchy-hampers-conservation-1.22064)
 * [USA Sanctions Chinese Officials, Including Politburo Member, for Xinjiang Abuses](https://www.npr.org/2020/07/09/889406296/u-s-sanctions-chinese-officials-including-politburo-member-for-xinjiang-abuses)
+* [Taxonomy anarchy hampers conservation (2012)](https://www.nature.com/news/taxonomy-anarchy-hampers-conservation-1.22064)
+* [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
 * [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
+* [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
+* [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
 * [Valve secrets spill over, including Half-Life 3, in new Steam documentary app](https://arstechnica.com/gaming/2020/07/valve-secrets-spill-over-including-half-life-3-in-new-steam-documentary-app/)
-* [Reddit's website uses DRM for fingerprinting](https://smitop.com/post/reddit-whiteops/)
 ## nytimes.com
 
 
@@ -79,20 +79,20 @@ layout: default
 * [Meet the Heroes Fighting on the Front Lines Against Covid-19](https://www.nytimes.com/article/they-get-brave.html)
 * [NJ Flood Dragged Her Into a Tunnel. Miraculously, She Survived.](https://www.nytimes.com/2020/07/09/nyregion/nj-flood-tunnel-driver.html)
 * [In South Africa, Burial Traditions Upended by Coronavirus](https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
+* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Storm King Reopens for the Art-Starved](https://www.nytimes.com/2020/07/09/arts/design/storm-king-reopens.html)
 * [With Stores Closed, Barnes & Noble Does Some Redecorating](https://www.nytimes.com/2020/07/09/books/barnes-noble-redecorating-virus.html)
 * [Gina Prince-Bythewood Made a Summer Blockbuster. It’s About Time.](https://www.nytimes.com/2020/07/10/movies/the-old-guard-gina-prince-bythewood.html)
 * [Review: ‘Little Voice’ Is a Twee Musical Fairy Tale](https://www.nytimes.com/2020/07/08/arts/television/review-little-voice.html)
 * [7 Things to Do This Weekend](https://www.nytimes.com/2020/07/09/arts/things-to-do-weekend-coronavirus.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
-* [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,12 +102,12 @@ layout: default
 
 
 * [Serviços recuam 0,9% em maio, no quarto mês seguido de queda](https://oglobo.globo.com/economia/servicos-recuam-09-em-maio-no-quarto-mes-seguido-de-queda-24525462)
+* [Com alta nos preços de alimentos e combustíveis, inflação fica em 0,26% em junho, após dois meses de queda](https://oglobo.globo.com/economia/com-alta-nos-precos-de-alimentos-combustiveis-inflacao-fica-em-026-em-junho-apos-dois-meses-de-queda-24525442)
+* [Número de desempregados aumenta em 2 milhões desde o início de maio](https://oglobo.globo.com/economia/numero-de-desempregados-aumenta-em-2-milhoes-desde-inicio-de-maio-24525499)
+* [Análise: Neymar e PSG podem celebrar o sorteio, mas a Champions nunca foi tão atípica](https://oglobo.globo.com/esportes/analise-neymar-psg-podem-celebrar-sorteio-mas-champions-nunca-foi-tao-atipica-24525507)
 * [Especialistas da OMS viajam à China para investigar origem da Covid-19](https://oglobo.globo.com/mundo/especialistas-da-oms-viajam-china-para-investigar-origem-da-covid-19-24525466)
-* [Inflação fica em 0,26% em junho, após dois meses de queda](https://oglobo.globo.com/economia/inflacao-fica-em-026-em-junho-apos-dois-meses-de-queda-24525442)
+* [ONU critica 'incoerência' de governo brasileiro ao não impedir despejos em meio a pandemia](https://epoca.globo.com/mundo/onu-critica-incoerencia-de-governo-brasileiro-ao-nao-impedir-despejos-em-meio-pandemia-24525481)
+* [Polícia diz que dois integrantes do MBL foram presos em São Paulo em operação que apura desvio e lavagem de dinheiro](https://oglobo.globo.com/brasil/policia-diz-que-dois-integrantes-do-mbl-foram-presos-em-sao-paulo-em-operacao-que-apura-desvio-lavagem-de-dinheiro-24525427)
 * [Tatuador remove símbolos de intolerância racial marcados em pele de clientes](https://epoca.globo.com/mundo/tatuador-remove-simbolos-de-intolerancia-racial-marcados-em-pele-de-clientes-24525465)
 * [Brasil tem 1.762.263 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1762263-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24525444)
-* [Polícia diz que dois integrantes do MBL foram presos em São Paulo em operação que apura desvio e lavagem de dinheiro](https://oglobo.globo.com/brasil/policia-diz-que-dois-integrantes-do-mbl-foram-presos-em-sao-paulo-em-operacao-que-apura-desvio-lavagem-de-dinheiro-24525427)
-* [Mubadala faz melhor oferta e ganha exclusividade para negociar compra de refinaria da Petrobras](https://oglobo.globo.com/economia/mubadala-faz-melhor-oferta-ganha-exclusividade-para-negociar-compra-de-refinaria-da-petrobras-1-24525416)
-* [Arco do Triunfo 'embrulhado' e pirâmide de barris de petróleo em Abu Dhabi entre as obras póstumas de Christo](https://oglobo.globo.com/cultura/arco-do-triunfo-embrulhado-piramide-de-barris-de-petroleo-em-abu-dhabi-entre-as-obras-postumas-de-christo-24523628)
-* [Conheça os finalistas do Toca Festival da Canção](https://oglobo.globo.com/cultura/conheca-os-finalistas-do-toca-festival-da-cancao-24525225)
 * [Youtuber infantil inaugura mansão temática](https://epoca.globo.com/guilherme-amado/youtuber-infantil-inaugura-mansao-tematica-24523973)

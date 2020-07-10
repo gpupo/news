@@ -2,24 +2,25 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 06:14:02 UTC
+# indexed at 10/07/2020 06:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Microsoft will not support PHP 8](https://news-web.php.net/php.internals/110907)
+* [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
+* [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
 * [Ryzen Threadripper Pro 3995WX Spotted](https://www.guru3d.com/news-story/spotted-ryzen-threadripper-pro-3995wx-processor-with-8-channel-ddr4,2.html)
 * [On the Closing of Living Computers: Museum+Labs](https://rottedbits.blogspot.com/2020/07/on-closing-of-living-computers.html?m=1&fbclid=IwAR30zAZFD54sW4qfZ-X3GatKhMo6nNsuEEHuIQkKPq7ONWhKFBPQncBVIlM)
 * [ExSaaSperated: A blog about the struggle to start a sustainable SaaS](https://exsaasperated.com/2020/06/20/hello-world.html)
+* [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
-* [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
-* [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
+* [Pinboard Turns Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/)
 * [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
-* [Valve “..we were wrong that you will be happiest if you work on what you want..”](https://arstechnica.com/gaming/2020/07/valve-secrets-spill-over-including-half-life-3-in-new-steam-documentary-app/)
+* [Valve secrets spill over, including Half-Life 3, in new Steam documentary app](https://arstechnica.com/gaming/2020/07/valve-secrets-spill-over-including-half-life-3-in-new-steam-documentary-app/)
 * [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 * [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 * [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
@@ -32,12 +33,11 @@ layout: default
 * [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
 * [The Bourne collection: the history of online search](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
 * [Subway-style maps of roads of the Roman Empire](https://sashamaps.net/docs/maps/roman-roads-index/)
-* [PostgreSQL Templates](https://supabase.io/blog/2020/07/09/postgresql-templates/)
 * [Cars and hygiene killed the middle-class hat](https://medium.com/s/pulling-at-threads/how-cars-and-hygiene-killed-the-middle-class-hat-2f382b4a35ec)
+* [PostgreSQL Templates](https://supabase.io/blog/2020/07/09/postgresql-templates/)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
+* [Bulgaria writes new chapter in long story of demographic decline](https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/)
 * [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
-* [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
-* [xMEMS announces the first monolithic MEMS speaker](https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker)
 ## nytimes.com
 
 
@@ -82,17 +82,17 @@ layout: default
 * [NJ Flood Dragged Her Into a Tunnel. Miraculously, She Survived.](https://www.nytimes.com/2020/07/09/nyregion/nj-flood-tunnel-driver.html)
 * [Lawsuits Aim to Block DeVos’s New Sexual Misconduct Rules](https://www.nytimes.com/2020/07/09/us/politics/sexual-misconduct-betsy-devos.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
+* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [It’s Christo’s Final Show. But Is It the Last We’ll See of Him?](https://www.nytimes.com/2020/07/08/arts/design/christo-pompidou-arc-de-triomphe.html)
 * [‘The Old Guard’ Review: Fighting to the Death, and Beyond](https://www.nytimes.com/2020/07/09/movies/the-old-guard-review.html)
 * [Grandparents, Kin and Play Cousins: The Soul and Survival of Black Families](https://www.nytimes.com/2020/07/07/parenting/black-families-children-kin-grandparents.html)
 * [How Does Anything Go Viral?](https://www.nytimes.com/2020/07/09/books/review/adam-kucharski-the-rules-of-contagion.html)
-* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
-* [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
+* [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
+* [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

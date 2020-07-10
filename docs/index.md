@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 20:14:33 UTC
+# indexed at 10/07/2020 20:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Hindley-Milner Type Inference](http://steshaw.org/hm/)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
+* [Hindley-Milner Type Inference](http://steshaw.org/hm/)
 * [Disabling Google 2FA doesn't need 2FA if you're already logged in](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
+* [LibreOffice Is at Serious Risk](https://lwn.net/Articles/825602/)
+* [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
 * [The TikTok app is no longer permitted on mobile devices that access Amazon email](https://twitter.com/scotthickle/status/1281631749533990914)
-* [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
-* [Rackspace S-1](https://www.sec.gov/Archives/edgar/data/1810019/000119312520190902/d915709ds1.htm)
-* [LibreOffice Is at Serious Risk](https://lwn.net/Articles/825602/)
 * [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [Scientists make precise edits to mitochondrial DNA for first time](https://www.nature.com/articles/d41586-020-02054-5)
+* [Rackspace S-1](https://www.sec.gov/Archives/edgar/data/1810019/000119312520190902/d915709ds1.htm)
 * [LibreOffice: The Next Five Years](https://lwn.net/SubscriberLink/825598/21fb7c2a3f9358e7/)
 * [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
-* [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
 * [Ask HN: Something like Khan Academy but full curriculum for grade schoolers?](https://news.ycombinator.com/item?id=23793216)
+* [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
+* [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
 * [Hashing it Out](https://akshayr.me/blog/articles/python-dictionaries)
 * [Scott Belsky’s Elephant List](https://superorganizers.substack.com/p/scott-belskys-elephant-list)
 * [São Paulo Labor Judge Rules Uber Must Pay Full Employee Benefits to Drivers](https://riotimesonline.com/brazil-news/brazil/politics-brazil/uber-to-pay-13th-month-and-vacation-to-drivers-rules-sao-paulo-labor-court/)
 * [Blog Anonymously](https://uglyduck.ca/blog-anonymously/)
-* [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
+* [What Does 1GB of Mobile Data Cost in Every Country?](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)
 * [Tin Can Phone Modem](https://www.mikekohn.net/micro/tin_can_phone_modem.php)
+* [Mpv drops GNOME support (reverted later)](https://linuxreviews.org/Mpv_drops_GNOME_support)
 * [Romance versus Realism: The Origins of the Novel](https://www.the-tls.co.uk/articles/romance-versus-realism/)
 * [Why Group Brainstorming Is a Waste of Time (2015)](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
+* [Ask HN: How and when did you decide and start your startup?](https://news.ycombinator.com/item?id=23795326)
+* [Facebook Considering Political Ad Blackout Before US Election](https://www.bloomberg.com/news/articles/2020-07-10/facebook-considers-political-ad-blackout-ahead-of-u-s-election)
 * [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [Programming at the REPL](https://clojure.org/guides/repl/guidelines_for_repl_aided_development)
-* [Two Years to Make $10 in Software Revenue](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue)
-* [Ask HN: How and when did you decide and start your startup?](https://news.ycombinator.com/item?id=23795326)
 * [Smarking (YC W15) is hiring a Back end Engineer to scale infrastructure](https://jobs.lever.co/smarking/65be7a6c-bb60-44a9-9a49-c425f322da3f)
-* [What Does 1GB of Mobile Data Cost in Every Country?](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)
-* [Facebook Considering Political Ad Blackout Before US Election](https://www.bloomberg.com/news/articles/2020-07-10/facebook-considers-political-ad-blackout-ahead-of-u-s-election)
 ## nytimes.com
 
 
@@ -79,18 +79,18 @@ layout: default
 * [Charles Booker Says Progressives Should ‘Show Up and Listen’ to Deep Red Districts](https://www.nytimes.com/2020/07/08/us/politics/charles-booker-kentucky.html)
 * [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
 * [Riots Long Ago, Luxury Living Today](https://www.nytimes.com/2020/07/10/upshot/riots-redevelopment-gentrification.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [TikTok Stars Race to Land Reality Shows](https://www.nytimes.com/2020/07/09/style/tiktok-stars-race-to-land-reality-shows.html)
 * [Outdoor Dining Offers Fresh Air and Fantasy to a City That Needs Both](https://www.nytimes.com/2020/07/09/dining/outdoor-dining-design-nyc-coronavirus.html)
 * [‘Palm Springs’ Review: Déjà Vu All Over Again](https://www.nytimes.com/2020/07/09/movies/palm-springs-review.html)
 * [Redman, Mehldau, McBride and Blade Take Another Spin, 26 Years Later](https://www.nytimes.com/2020/07/09/arts/music/redman-mehldau-mcbride-blade-roundagain-review.html)
 * [Tennis Tours Hope to Salvage Their Seasons. It’s Not Getting Easier.](https://www.nytimes.com/2020/07/09/sports/tennis-tournaments-china.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
 * [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro escolhe pastor Milton Ribeiro para o Ministério da Educação](https://oglobo.globo.com/brasil/bolsonaro-escolhe-pastor-milton-ribeiro-para-ministerio-da-educacao-24526382)
+* [Ex-deputado Alfredo Sirkis morre em acidente de carro, em nova Iguaçu (RJ)](https://oglobo.globo.com/brasil/ex-deputado-alfredo-sirkis-morre-em-acidente-de-carro-em-nova-iguacu-rj-24526368)
 * [Com presença de público, Festival de Parintins vai acontecer de 6 a 8 de novembro](https://oglobo.globo.com/cultura/com-presenca-de-publico-festival-de-parintins-vai-acontecer-de-6-8-de-novembro-24526364)
 * [Anac e ANP criam grupo para investigar denúncias de adulteração no combustível de aviação](https://oglobo.globo.com/economia/anac-anp-criam-grupo-para-investigar-denuncias-de-adulteracao-no-combustivel-de-aviacao-24526349)
 * [Como o Flamengo distribui lugares no Maracanã limitado por protocolo e sem público](https://oglobo.globo.com/esportes/como-flamengo-distribui-lugares-no-maracana-limitado-por-protocolo-sem-publico-24526275)
 * [Doria afirma que São Paulo receberá GP da Fórmula 1 nesta temporada](https://oglobo.globo.com/esportes/doria-afirma-que-sao-paulo-recebera-gp-da-formula-1-nesta-temporada-24526278)
 * [Doria afirma que São Paulo receberá o GP da Fórmula 1](https://oglobo.globo.com/esportes/doria-afirma-que-sao-paulo-recebera-gp-da-formula-1-24526290)
-* [MEC usou R$ 320 mil em propaganda contra adiamento do Enem, agora remarcado para 2021](https://oglobo.globo.com/sociedade/educacao/mec-usou-320-mil-em-propaganda-contra-adiamento-do-enem-agora-remarcado-para-2021-1-24526142)
 * [Detran-RJ amplia número de unidades para entrega de carteiras de motorista emitidas antes da pandemia](https://oglobo.globo.com/rio/detran-rj-amplia-numero-de-unidades-para-entrega-de-carteiras-de-motorista-emitidas-antes-da-pandemia-24526261)
 * [Suspeitos de assassinar cantor na Etiópia são presos, dizem autoridades](https://oglobo.globo.com/mundo/suspeitos-de-assassinar-cantor-na-etiopia-sao-presos-dizem-autoridades-24526153)
-* [É #FAKE que presos liberados da cadeia por conta da pandemia de Covid-19 cometeram 13,9% dos homicídios do país no mês de abril](https://oglobo.globo.com/fato-ou-fake/e-fake-que-presos-liberados-da-cadeia-por-conta-da-pandemia-de-covid-19-cometeram-139-dos-homicidios-do-pais-no-mes-de-abril-24526154)
 * [Um ministro de Bolsonaro telefona em sinal de paz para o presidente da OAB](https://epoca.globo.com/guilherme-amado/um-ministro-de-bolsonaro-telefona-em-sinal-de-paz-para-presidente-da-oab-24526157)

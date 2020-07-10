@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 19:11:37 UTC
+# indexed at 10/07/2020 19:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -10,38 +10,39 @@ layout: default
 
 * [The TikTok app is no longer permitted on mobile devices that access Amazon email](https://twitter.com/scotthickle/status/1281631749533990914)
 * [Investors say agroforestry isn’t just climate friendly – it’s also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
-* [Disabling Google 2FA Doesn't Need 2FA](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
 * [Hindley-Milner Type Inference](http://steshaw.org/hm/)
+* [Disabling Google 2FA Doesn't Need 2FA](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
 * [Rackspace S-1](https://www.sec.gov/Archives/edgar/data/1810019/000119312520190902/d915709ds1.htm)
-* [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [Scientists make precise edits to mitochondrial DNA for first time](https://www.nature.com/articles/d41586-020-02054-5)
+* [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [LibreOffice: The Next Five Years](https://lwn.net/SubscriberLink/825598/21fb7c2a3f9358e7/)
 * [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
 * [Ask HN: Something like Khan Academy but full curriculum for grade schoolers?](https://news.ycombinator.com/item?id=23793216)
 * [Hashing it Out](https://akshayr.me/blog/articles/python-dictionaries)
 * [São Paulo Labor Judge Rules Uber Must Pay Full Employee Benefits to Drivers](https://riotimesonline.com/brazil-news/brazil/politics-brazil/uber-to-pay-13th-month-and-vacation-to-drivers-rules-sao-paulo-labor-court/)
-* [Why Group Brainstorming Is a Waste of Time (2015)](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
 * [Blog Anonymously](https://uglyduck.ca/blog-anonymously/)
-* [Tin Can Phone Modem](https://www.mikekohn.net/micro/tin_can_phone_modem.php)
+* [Why Group Brainstorming Is a Waste of Time (2015)](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
 * [Neural programmer better than Quicksort](https://arxiv.org/abs/2007.03629)
+* [Tin Can Phone Modem](https://www.mikekohn.net/micro/tin_can_phone_modem.php)
+* [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [Scott Belsky’s Elephant List](https://superorganizers.substack.com/p/scott-belskys-elephant-list)
-* [Two Years to Make $10 in Software Revenue](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue)
+* [LibreOffice Is at Serious Risk](https://lwn.net/Articles/825602/)
 * [Smarking (YC W15) is hiring a Back end Engineer to scale infrastructure](https://jobs.lever.co/smarking/65be7a6c-bb60-44a9-9a49-c425f322da3f)
-* [Whose Land – Indigenous Nations of North America](https://www.whose.land/en/)
+* [Romance versus Realism: The Origins of the Novel](https://www.the-tls.co.uk/articles/romance-versus-realism/)
+* [Two Years to Make $10 in Software Revenue](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue)
 * [Programming at the REPL](https://clojure.org/guides/repl/guidelines_for_repl_aided_development)
 * [Zoom Zero-Day Allows RCE, Patch on the Way](https://threatpost.com/unpatched-zoom-bug-rce/157317/)
+* [Whose Land – Indigenous Nations of North America](https://www.whose.land/en/)
+* [The Things We Can’t Control Are Beautiful](http://nautil.us/issue/87/risk/the-things-we-cant-control-are-beautiful)
 * [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate)
 * [Show HN: CVPR 2020 unofficial statistics, with better search functionality](http://cvpr20.janruettinger.com/)
-* [The Things We Can’t Control Are Beautiful](http://nautil.us/issue/87/risk/the-things-we-cant-control-are-beautiful)
-* [Dr. Southern California: Heading west for the cure (2019)](http://www.cabinetmagazine.org/issues/66/kilston.php)
-* [France to introduce controversial age verification system for adult websites](https://www.politico.eu/article/france-to-introduce-controversial-age-verification-system-for-adult-pornography-websites/)
-* [Microsoft Support of PHP on Windows](https://news-web.php.net/php.internals/110907)
 ## nytimes.com
 
 
 * [Coronavirus Live Updates: U.S. Nears 60,000 New Daily Cases](https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html)
+* [Big New Obstacle for Economic Recovery: Child Care Crisis](https://www.nytimes.com/2020/07/10/nyregion/nyc-school-daycare-reopening.html)
 * [California, After Riding a Boom, Braces for Hard Times](https://www.nytimes.com/2020/07/10/business/economy/california-economy-coronavirus.html)
 * [In Tackling Coronavirus, Scotland Asserts Its Separateness From England](https://www.nytimes.com/2020/07/10/world/europe/coroanvirus-scotland-england.html)
 * [How ICE Helped Spread the Coronavirus](https://www.nytimes.com/video/us/100000007122997/ice-deportations-coronavirus-video.html)
@@ -80,17 +81,17 @@ layout: default
 * [Riots Long Ago, Luxury Living Today](https://www.nytimes.com/2020/07/10/upshot/riots-redevelopment-gentrification.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [TikTok Stars Race to Land Reality Shows](https://www.nytimes.com/2020/07/09/style/tiktok-stars-race-to-land-reality-shows.html)
 * [Outdoor Dining Offers Fresh Air and Fantasy to a City That Needs Both](https://www.nytimes.com/2020/07/09/dining/outdoor-dining-design-nyc-coronavirus.html)
 * [‘Palm Springs’ Review: Déjà Vu All Over Again](https://www.nytimes.com/2020/07/09/movies/palm-springs-review.html)
 * [Redman, Mehldau, McBride and Blade Take Another Spin, 26 Years Later](https://www.nytimes.com/2020/07/09/arts/music/redman-mehldau-mcbride-blade-roundagain-review.html)
 * [Tennis Tours Hope to Salvage Their Seasons. It’s Not Getting Easier.](https://www.nytimes.com/2020/07/09/sports/tennis-tournaments-china.html)
-* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
 * [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -99,6 +100,8 @@ layout: default
 ## globo.com
 
 
+* [São Paulo confirma GP de Interlagos na temporada da Fórmula 1 deste ano](https://oglobo.globo.com/esportes/sao-paulo-confirma-gp-de-interlagos-na-temporada-da-formula-1-deste-ano-24526278)
+* [Detran-RJ amplia número de unidades para entrega de carteiras de motorista emitidas antes da pandemia](https://oglobo.globo.com/rio/detran-rj-amplia-numero-de-unidades-para-entrega-de-carteiras-de-motorista-emitidas-antes-da-pandemia-24526261)
 * [Suspeitos de assassinar cantor na Etiópia são presos, dizem autoridades](https://oglobo.globo.com/mundo/suspeitos-de-assassinar-cantor-na-etiopia-sao-presos-dizem-autoridades-24526153)
 * [É #FAKE que presos liberados da cadeia por conta da pandemia de Covid-19 cometeram 13,9% dos homicídios do país no mês de abril](https://oglobo.globo.com/fato-ou-fake/e-fake-que-presos-liberados-da-cadeia-por-conta-da-pandemia-de-covid-19-cometeram-139-dos-homicidios-do-pais-no-mes-de-abril-24526154)
 * [Um ministro de Bolsonaro telefona em sinal de paz para o presidente da OAB](https://epoca.globo.com/guilherme-amado/um-ministro-de-bolsonaro-telefona-em-sinal-de-paz-para-presidente-da-oab-24526157)
@@ -107,5 +110,3 @@ layout: default
 * [M, F ou nada? Holanda cogita retirar gênero de documentos de identidade](https://oglobo.globo.com/celina/m-ou-nada-holanda-cogita-retirar-genero-de-documentos-de-identidade-24526072)
 * [Partido do governo mantém poder em Cingapura, mas oposição consegue resultado histórico](https://oglobo.globo.com/mundo/partido-do-governo-mantem-poder-em-cingapura-mas-oposicao-consegue-resultado-historico-24526130)
 * [Sem o controle da pandemia, serviços vão reagir mais devagar](https://oglobo.globo.com/analitico/sem-controle-da-pandemia-servicosvao-reagir-mais-devagar-24526108)
-* [Polícia terá de levar parente ou testemunha junto ao socorrer baleado em operações](https://oglobo.globo.com/rio/policia-tera-de-levar-parente-ou-testemunha-junto-ao-socorrer-baleado-em-operacoes-24526116)
-* [É #FAKE vídeo que diz que companhia aérea British Airways está encerrando as atividades](https://oglobo.globo.com/fato-ou-fake/e-fake-video-que-diz-que-companhia-aerea-british-airways-esta-encerrando-as-atividades-24526117)

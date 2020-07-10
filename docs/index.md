@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/07/2020 02:13:44 UTC
+# indexed at 10/07/2020 02:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [U.S. Supreme Court deems half of Oklahoma a Native American reservation](https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE)
 * [Sampler for Mac Touchbars](http://www.synthtopia.com/content/2020/07/09/free-macos-sampler-samplr-for-touchbar/)
 * [MonitorControl: Control external monitor brightness and volume on your Mac](https://github.com/MonitorControl/MonitorControl)
+* [On the Closing of Living Computers: Museum+Labs](https://rottedbits.blogspot.com/2020/07/on-closing-of-living-computers.html?m=1&fbclid=IwAR30zAZFD54sW4qfZ-X3GatKhMo6nNsuEEHuIQkKPq7ONWhKFBPQncBVIlM)
 * [Police surveilled protests with help from Twitter-affiliated startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
 * [New German law would force ISPs to allow secret service to install trojans](https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/)
-* [On the Closing of Living Computers: Museum+Labs](https://rottedbits.blogspot.com/2020/07/on-closing-of-living-computers.html?m=1&fbclid=IwAR30zAZFD54sW4qfZ-X3GatKhMo6nNsuEEHuIQkKPq7ONWhKFBPQncBVIlM)
 * [Boom supersonic jet readies for rollout](https://www.airlineratings.com/news/boom-supersonic-jet-readies-rollout/)
-* [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [How to unc0ver a 0-day in 4 hours or less](https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html)
 * [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
+* [XP Paint – A Web-Based Version of Window XP's MS Paint](https://chowderman.github.io/xp-paint.html)
 * [Evidence-based Software Engineering – book beta](http://shape-of-code.coding-guidelines.com/2020/06/30/beta-evidence-based-software-engineering-book/)
 * [Dates and Times in JavaScript – A New API for Dates from TC39](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
-* [Bulgaria writes new chapter in long story of demographic decline](https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/)
+* [Cars and Hygiene Killed the Middle-Class Hat](https://medium.com/s/pulling-at-threads/how-cars-and-hygiene-killed-the-middle-class-hat-2f382b4a35ec)
 * [Show HN: Screenr – Automated Workflow for Your Email](https://www.feval.ca/posts/screenr/)
 * [One woman's stolen identity exposed a system of exam fraud](https://www.bbc.com/news/world-asia-china-53316895)
 * [PostgreSQL Templates](https://supabase.io/blog/2020/07/09/postgresql-templates/)
 * [Subway-style maps of roads of the Roman Empire](https://sashamaps.net/docs/maps/roman-roads-index/)
-* [Cars and Hygiene Killed the Middle-Class Hat](https://medium.com/s/pulling-at-threads/how-cars-and-hygiene-killed-the-middle-class-hat-2f382b4a35ec)
-* [The Bourne collection: online search is older than you think](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
+* [Bulgaria writes new chapter in long story of demographic decline](https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/)
 * [Launch HN: Yotta Savings (YC S20) – Behavioral psychology to help people save](https://news.ycombinator.com/item?id=23780062)
-* [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
 * [Decentraleyes – Local CDN Emulation](https://decentraleyes.org)
+* [Behind the dead-water phenomenon](https://phys.org/news/2020-07-dead-water-phenomenon.html)
+* [The Bourne collection: online search is older than you think](https://computerhistory.org/blog/the-bourne-collection-online-search-is-older-than-you-think/)
 * [A Woman Who Needed to Be Upside-Down (2012)](https://www.discovermagazine.com/health/vital-signs-the-woman-who-needed-to-be-upside-down)
 * [A UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
 * [Chicago Police Department shuts down its arrest API](https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/)
 * [xMEMS announces the first monolithic MEMS speaker](https://www.anandtech.com/show/15894/xmems-announces-worlds-first-monolithic-mems-speaker)
 * [African tech workers push back on U.S. startup built to help them](https://bigtechnology.substack.com/p/im-disturbed-african-tech-workers)
 * [Redis Core Team Update](https://redislabs.com/blog/redis-core-team-update/)
-* [Western Digital's 16TB and 18TB drives: EAMR HDDs enter the retail channel](https://www.anandtech.com/show/15903/western-digitals-16tb-and-18tb-gold-drives-eamr-hdds-enter-the-retail-channel)
 * [Portland approves 10% cap on fees that food delivery apps can charge restaurants](https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-food-delivery-apps-can-charge-restaurants.html)
+* [NeurIPS 2020 Optimization Competition](http://bbochallenge.com/)
 ## nytimes.com
 
 
@@ -84,15 +84,15 @@ layout: default
 * [Lawsuits Aim to Block DeVos’s New Sexual Misconduct Rules](https://www.nytimes.com/2020/07/09/us/politics/sexual-misconduct-betsy-devos.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [It’s Christo’s Final Show. But Is It the Last We’ll See of Him?](https://www.nytimes.com/2020/07/08/arts/design/christo-pompidou-arc-de-triomphe.html)
 * [‘The Old Guard’ Review: Fighting to the Death, and Beyond](https://www.nytimes.com/2020/07/09/movies/the-old-guard-review.html)
 * [Grandparents, Kin and Play Cousins: The Soul and Survival of Black Families](https://www.nytimes.com/2020/07/07/parenting/black-families-children-kin-grandparents.html)
 * [How Does Anything Go Viral?](https://www.nytimes.com/2020/07/09/books/review/adam-kucharski-the-rules-of-contagion.html)
-* [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
 * [‘It Will Consume Your Life’: 4 Families Take On Rare Diseases](https://www.nytimes.com/2020/07/07/health/rare-diseases.html)
+* [Spirit Bears' Hair Helps Reveal New Genetic Secrets](https://www.nytimes.com/2020/07/06/science/spirit-bears-canada.html)
 * [W.H.O. to Review Evidence of Airborne Transmission of Coronavirus](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html)
 * [How a Saber-Tooth Marsupial Blinded Us With Its Bite](https://www.nytimes.com/2020/07/09/science/saber-tooth-marsupial.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)

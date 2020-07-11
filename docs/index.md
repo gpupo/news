@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 00:19:44 UTC
+# indexed at 11/07/2020 00:35:45 UTC
 
 
 ## news.ycombinator.com
@@ -15,33 +15,33 @@ layout: default
 * [Disabling Google 2FA doesn't need 2FA if you're already logged in](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
 * [App suddenly crashing on startup due to FBSDKRestrictiveDataFilterManager.m](https://github.com/facebook/facebook-ios-sdk/issues/1427)
 * [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
-* [Microsoft and Google collaborate to make PWAs better](https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487)
 * [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
+* [Microsoft and Google collaborate to make PWAs better](https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487)
 * [Scientists make precise edits to mitochondrial DNA for first time](https://www.nature.com/articles/d41586-020-02054-5)
-* [LibreOffice: The Next Five Years](https://lwn.net/SubscriberLink/825598/21fb7c2a3f9358e7/)
 * [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate)
+* [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
-* [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
 * [MTG Hivemind: Artificial Intelligence Designing Magic the Gathering Cards](https://medium.com/@lukbebalduke/mtg-hivemind-artificial-intelligence-designing-magic-372530640cc1)
 * [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [Amazon says email banning TikTok from employee phones was ‘sent in error’](https://twitter.com/scotthickle/status/1281631749533990914)
-* [Why general artificial intelligence will not be realized](https://www.nature.com/articles/s41599-020-0494-4)
-* [Preserving arcade games (2014) [video]](https://media.ccc.de/v/31c3_-_5997_-_en_-_saal_6_-_201412282030_-_preserving_arcade_games_-_ange_albertini)
+* [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
 * [Rackspace S-1](https://www.sec.gov/Archives/edgar/data/1810019/000119312520190902/d915709ds1.htm)
 * [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
+* [Preserving arcade games (2014) [video]](https://media.ccc.de/v/31c3_-_5997_-_en_-_saal_6_-_201412282030_-_preserving_arcade_games_-_ange_albertini)
 * [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development)
+* [Why general artificial intelligence will not be realized](https://www.nature.com/articles/s41599-020-0494-4)
 * [Whose Land – Indigenous Nations of North America](https://www.whose.land/en/)
 * [Ask HN: Something like Khan Academy but full curriculum for grade schoolers?](https://news.ycombinator.com/item?id=23793216)
-* [Blog Anonymously](https://uglyduck.ca/blog-anonymously/)
 * [The return of the $70 video game has been a long time coming](https://arstechnica.com/gaming/2020/07/the-return-of-the-70-video-game-has-been-a-long-time-coming/)
 * [Mpv drops GNOME support (reverted later)](https://linuxreviews.org/Mpv_drops_GNOME_support)
+* [LibreOffice: The Next Five Years](https://lwn.net/SubscriberLink/825598/21fb7c2a3f9358e7/)
 ## nytimes.com
 
 
-* [Trump Commutes Sentence of Roger Stone in Case He Long Denounced](https://www.nytimes.com/2020/07/10/us/politics/trump-roger-stone-clemency.html)
+* [Trump Commutes Sentence of Roger Stone](https://www.nytimes.com/2020/07/10/us/politics/trump-roger-stone-clemency.html)
 * [U.S. Nears 60,000 New Daily Covid-19 Cases: Live Updates](https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html)
 * [Daily Virus Death Toll Rises in Some States](https://www.nytimes.com/2020/07/10/us/daily-virus-death-toll-rises-in-some-states.html)
 * [Big New Obstacle for Economic Recovery: Child Care Crisis](https://www.nytimes.com/2020/07/10/nyregion/nyc-school-daycare-reopening.html)
@@ -80,10 +80,10 @@ layout: default
 * [Long-Planned and Bigger Than Thought: Strike on Iran’s Nuclear Program](https://www.nytimes.com/2020/07/10/world/middleeast/iran-nuclear-trump.html)
 * [Student Loan Relief Denied in Some Fraud Cases](https://www.nytimes.com/2020/07/10/business/student-loans-betsy-devos-borrower-defense.html)
 * [Meet the Heroes Fighting on the Front Lines Against Covid-19](https://www.nytimes.com/article/they-get-brave.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [In Turkey's Soccer League, the Super Lig's Giants Face a Reckoning](https://www.nytimes.com/2020/07/10/sports/soccer/turkey-lig-besaksehir.html)
 * [‘Can We Please Talk About Black Lives Matter for One Second?’](https://www.nytimes.com/2020/07/02/magazine/can-we-please-talk-about-black-lives-matter-for-one-second.html)
@@ -100,8 +100,9 @@ layout: default
 ## globo.com
 
 
+* [Fabrício Queiroz deixa Bangu 8 e vai para prisão domiciliar](https://oglobo.globo.com/brasil/fabricio-queiroz-deixa-bangu-8-vai-para-prisao-domiciliar-24525863)
+* [Dez estados têm tendência de aumento nas mortes por Covid-19; seis sinalizam queda](https://oglobo.globo.com/sociedade/coronavirus/dez-estados-tem-tendencia-de-aumento-nas-mortes-por-covid-19-seis-sinalizam-queda-24527151)
 * [Edmar Santos: relembre outras apreensões milionárias ocorridas nos últimos anos](https://oglobo.globo.com/rio/edmar-santos-relembre-outras-apreensoes-milionarias-ocorridas-nos-ultimos-anos-1-24527135)
-* [MP apreende mais de R$ 6 milhões em dinheiro nos endereços de ex-secretário de Saúde do Rio](https://oglobo.globo.com/rio/mp-apreende-mais-de-6-milhoes-em-dinheiro-nos-enderecos-de-ex-secretario-de-saude-do-rio-24526923)
 * [Especialistas apontam desafios de novo ministro da Educação e dizem esperar 'perfil técnico' de sua equipe](https://oglobo.globo.com/sociedade/especialistas-apontam-desafios-de-novo-ministro-da-educacao-dizem-esperar-perfil-tecnico-de-sua-equipe-1-24527088)
 * [Militar na administração da pandemia da Covid-19 gera críticas na Bolívia](https://oglobo.globo.com/mundo/militar-na-administracao-da-pandemia-da-covid-19-gera-criticas-na-bolivia-1-24527075)
 * [Novo ministro da Educação já minimizou feminicídio e citou 'paixão' como motivo para assassinato de adolescente](https://oglobo.globo.com/sociedade/novo-ministro-da-educacao-ja-minimizou-feminicidio-citou-paixao-como-motivo-para-assassinato-de-adolescente-24526905)
@@ -109,4 +110,3 @@ layout: default
 * [Brasil ultrapassa 70 mil mortes e 1,8 milhão de infectados por covid-19, aponta consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-ultrapassa-70-mil-mortes-18-milhao-de-infectados-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-1-24526695)
 * [Governo americano anuncia novas sobretaxas sobre US$ 1,3 bi em importações da França](https://oglobo.globo.com/economia/governo-americano-anuncia-novas-sobretaxas-sobre-us-13-bi-em-importacoes-da-franca-24526783)
 * [Petrobras vende ações em empresa de energia por R$ 1](https://oglobo.globo.com/economia/petrobras-vende-acoes-em-empresa-de-energia-por-1-24527007)
-* [Cinquenta personalidades refletem sobre a vida pos-covid em novo livro](https://oglobo.globo.com/cultura/cinquenta-personalidades-refletem-sobre-vida-pos-covid-em-novo-livro-24521542)

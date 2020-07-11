@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 07:34:17 UTC
+# indexed at 11/07/2020 08:13:34 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [PureDarwin – Darwin-based open source OS](https://github.com/PureDarwin/PureDarwin)
-* [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
-* [Researchers Create Air Filter That Can Kill the Coronavirus](https://uh.edu/news-events/stories/july-2020/07072020ren-coronavirus-filter.php)
+* [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [The Frink Is Good, the Unit Is Evil](https://www.hillelwayne.com/post/frink/)
 * [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
-* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
-* [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
 * [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
+* [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
+* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [Disabling Google 2FA doesn't need 2FA if you're already logged in](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
-* [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
 * [The Mess We're In (2014) [video]](https://youtube.com/watch?v=lKXe3HUG2l4)
+* [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
 * [Microsoft and Google collaborate to make PWAs better](https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487)
-* [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
+* [Researchers create air filter that can kill the coronavirus](https://uh.edu/news-events/stories/july-2020/07072020ren-coronavirus-filter.php)
 * [Mega Tiny Time Watch: a minimalist watch based on an ATtiny414 and 12 LEDs](http://www.technoblogy.com/show?2OKF)
-* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
-* [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
+* [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
+* [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
+* [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
+* [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
 * [Turning a £400 BBC Micro (1981) into a $40k disc writer (1987)](https://scarybeastsecurity.blogspot.com/2020/07/turning-400-bbc-micro-1981-into-40000.html)
 * [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
-* [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
-* [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
+* ['Street Fighter II' Wasn’t Just a Game, It Was a Portal](https://frieze.com/article/street-fighter-ii-wasnt-just-game-it-was-portal)
+* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+* [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/)
+* [Why general artificial intelligence will not be realized](https://www.nature.com/articles/s41599-020-0494-4)
 * [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
 * [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
+* [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
 * [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
-* [Why general artificial intelligence will not be realized](https://www.nature.com/articles/s41599-020-0494-4)
-* [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
-* [MTG Hivemind: Artificial Intelligence Designing Magic the Gathering Cards](https://medium.com/@lukbebalduke/mtg-hivemind-artificial-intelligence-designing-magic-372530640cc1)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Student Loan Relief Denied in Some Fraud Cases](https://www.nytimes.com/2020/07/10/business/student-loans-betsy-devos-borrower-defense.html)
 * [Grizzly Bears Around Yellowstone Can Stay on Endangered Species List, Court Rules](https://www.nytimes.com/2020/07/10/us/grizzly-bears-yellowstone.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [In Turkey's Soccer League, the Super Lig's Giants Face a Reckoning](https://www.nytimes.com/2020/07/10/sports/soccer/turkey-lig-besaksehir.html)
 * [‘Can We Please Talk About Black Lives Matter for One Second?’](https://www.nytimes.com/2020/07/02/magazine/can-we-please-talk-about-black-lives-matter-for-one-second.html)
 * [Exit Arias: What Opera Can Teach Us About Dying](https://www.nytimes.com/2020/07/09/arts/music/opera-dying.html)
@@ -93,20 +93,19 @@ layout: default
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Donald Trump's Deadly Coronavirus Delusions](https://www.nytimes.com/2020/07/09/opinion/trump-coronavirus.html)
-* [How to Buy Tech That Lasts and Lasts](https://www.nytimes.com/2020/07/08/technology/personaltech/tech-that-lasts.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Disney reabre em Orlando: o que já sabemos sobre parques temáticos pós-coronavírus](https://oglobo.globo.com/boa-viagem/disney-reabre-em-orlando-que-ja-sabemos-sobre-parques-tematicos-pos-coronavirus-24525840)
+* [Martín Fernandez: Campeonato Carioca é uma comédia ruim](https://oglobo.globo.com/esportes/martin-fernandez-campeonato-carioca-uma-comedia-ruim-24527642)
 * [Antiga clínica de Ivo Pitanguy será incorporada a prédio residencial](https://oglobo.globo.com/rio/antiga-clinica-de-ivo-pitanguy-sera-incorporada-predio-residencial-24527499)
 * [‘Veneza carioca’ é recordista de casos e mortes por coronavírus; confira outros lugares por CEP](https://oglobo.globo.com/rio/veneza-carioca-recordista-de-casos-mortes-por-coronavirus-confira-outros-lugares-por-cep-1-24527474)
 * [Praias podem continuar vetadas no verão, dizem especialistas](https://oglobo.globo.com/rio/praias-podem-continuar-vetadas-no-verao-dizem-especialistas-24527541)
-* [Em meio à prisão de ex-secretário, estado do Rio tenta reaver dinheiro pago por equipamentos nunca entregues](https://oglobo.globo.com/rio/em-meio-prisao-de-ex-secretario-estado-do-rio-tenta-reaver-dinheiro-pago-por-equipamentos-nunca-entregues-24527434)
+* [UFC 251: José Aldo enfrenta russo pelo cinturão do peso-galo e se diz motivado pelos recordes](https://oglobo.globo.com/esportes/ufc-251-jose-aldo-enfrenta-russo-pelo-cinturao-do-peso-galo-se-diz-motivado-pelos-recordes-24527006)
 * [Para atrair clientes, empresas fazem 'marketing da segurança'](https://oglobo.globo.com/economia/para-atrair-clientes-empresas-fazem-marketing-da-seguranca-1-24527195)
 * [Precursor dos beats e hippies, andarilho Knulp, de Herman Hesse, segue cativante](https://oglobo.globo.com/cultura/livros/precursor-dos-beats-hippies-andarilho-knulp-de-herman-hesse-segue-cativante-24527277)
-* [Em live de seu ateliê, na Lapa, Cabelo apresenta 'Luz com trevas', seu primeiro álbum solo](https://oglobo.globo.com/rioshow/em-live-de-seu-atelie-na-lapa-cabelo-apresenta-luz-com-trevas-seu-primeiro-album-solo-24524312)
+* [O que muda na reabertura dos parques da Disney em Orlando](https://epoca.globo.com/mundo/o-que-muda-na-reabertura-dos-parques-da-disney-em-orlando-24526267)
 * ['É inacreditável pensar que vou fazer 50 anos, por dentro, parece que estou começando a vida', diz Vivianne Pasmanter](https://oglobo.globo.com/ela/gente/e-inacreditavel-pensar-que-vou-fazer-50-anos-por-dentro-parece-que-estou-comecando-vida-diz-vivianne-pasmanter-24526343)
 * ['Sou muito brava e nervosa. Quero mudar', diz Isabeli Fontana](https://oglobo.globo.com/ela/gente/sou-muito-brava-nervosa-quero-mudar-diz-isabeli-fontana-24525904)

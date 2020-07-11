@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 20:14:13 UTC
+# indexed at 11/07/2020 20:34:50 UTC
 
 
 ## news.ycombinator.com
 
 
 * [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
-* [Split any song into its stems – vocals, instrumentals, bass, drums, piano](https://stems.app/)
-* [CRDTs: The Hard Parts](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
-* [Refined Hacker News](https://github.com/plibither8/refined-hacker-news#highlights)
+* [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
 * [How to Understand Things](https://nabeelqu.co/understanding)
 * [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
-* [Testing Firefox More Efficiently with Machine Learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
-* [Show HN: An extension that removes upvote and comment counts from Hacker News](https://github.com/brian-yu/hn-demetricator)
-* [A Doctor Who Championed Hand-Washing And Briefly Saved Lives (2015)](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)
-* [AES67 (Audio over IP protocol) resources](https://hartung.io/2020/07/aes67-resources/)
+* [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
+* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
+* [A doctor who championed hand-washing and briefly saved lives (2015)](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)
 * [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
+* [AES67 (Audio over IP protocol) resources](https://hartung.io/2020/07/aes67-resources/)
 * [Favorite Problems: A Practical Framework for Discovering Your Purpose](https://joebalcom.blog/2020/07/11/12-favorite-problems/)
-* [Scanimage: Scan from the Command Line](https://jvns.ca/blog/2020/07/11/scanimage--scan-from-the-command-line/)
+* [CDC director: Keeping schools closed greater health threat to children reopening](https://thehill.com/policy/healthcare/506640-cdc-director-keeping-schools-closed-poses-greater-health-threat-to-children)
 * [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
 * [Ask HN: What's the worst piece of software you use everyday?](https://news.ycombinator.com/item?id=23803539)
-* [Virtual Wind Instruments (2018)](https://www.jefftk.com/p/virtual-wind-instruments)
+* [Scanimage: Scan from the Command Line](https://jvns.ca/blog/2020/07/11/scanimage--scan-from-the-command-line/)
 * [The Case for Causal AI](https://ssir.org/articles/entry/the_case_for_causal_ai)
+* [Virtual Wind Instruments (2018)](https://www.jefftk.com/p/virtual-wind-instruments)
+* [Beware of Being “Right”](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201401/beware-being-right)
+* [32% of U.S. households missed their July housing payments](https://www.cnbc.com/2020/07/08/32-percent-of-us-households-missed-their-july-housing-payments.html)
 * [A Little Startup That Could: Aquarius Builds an Engine Others Only Dreamed Of](https://www.haaretz.com/israel-news/.premium.MAGAZINE-a-little-startup-that-could-aquarius-builds-an-engine-others-only-dreamed-of-1.8984355)
-* [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
 * [Why are toys such a bad business?](https://diff.substack.com/p/why-are-toys-such-a-bad-business)
 * [Modes, Medians and Means: A Unifying Perspective (2013)](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
-* [Global Decision-Making via Local Economic Transactions](https://arxiv.org/abs/2007.02382)
-* [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
 * [Decentralized Reinforcement Learning](https://bair.berkeley.edu/blog/2020/07/11/auction/)
-* [Show HN: Form-validation.js – JavaScript form validation library](https://github.com/iendeavor/form-validation.js)
+* [Global Decision-Making via Local Economic Transactions](https://arxiv.org/abs/2007.02382)
+* [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
 * [2000-year-old Iron Age skeleton discovered in UK](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-53366209)
-* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
-* [Oura Ring 2 Teardown](https://www.ifixit.com/Teardown/Oura+Ring+2+Teardown/135207)
+* [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
+* [Show HN: Form-validation.js – JavaScript form validation library](https://github.com/iendeavor/form-validation.js)
 * [Should I buy an Intel Mac today or wait to buy an Arm-based Mac?](https://www.macrumors.com/guide/buy-or-wait-intel-apple-silicon-mac/)
+* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 ## nytimes.com
 
 
@@ -81,16 +81,16 @@ layout: default
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [What Was the Problem With ‘Wyatt Cenac’s Problem Areas’?](https://www.nytimes.com/2020/07/08/arts/television/wyatt-cenac-problem-areas.html)
 * [Running Past an Olympic Dream](https://www.nytimes.com/2020/07/10/sports/olympics/kyle-merber-running-olympics.html)
 * [Garden Design Ideas](https://www.nytimes.com/2020/07/08/realestate/garden-design-plan-expert-tips.html)
 * [Theater’s Next Act? A Show That’s All in Your Head](https://www.nytimes.com/2020/07/08/theater/virtual-reality-the-tempest.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
 * [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
 * [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [A Veggie Burger Unlike the Others](https://www.nytimes.com/2020/07/10/dining/black-bean-burger-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -98,10 +98,10 @@ layout: default
 ## globo.com
 
 
+* [Aos 67 anos, morre o embaixador brasileiro Paulo Cesar de Oliveira Campos](https://oglobo.globo.com/brasil/aos-67-anos-morre-embaixador-brasileiro-paulo-cesar-de-oliveira-campos-24528161)
 * [No primeiro sábado após liberação do lazer, cariocas desrespeitam uso de máscara](https://oglobo.globo.com/rio/no-primeiro-sabado-apos-liberacao-do-lazer-cariocas-desrespeitam-uso-de-mascara-24528088)
 * [Anvisa reduz críticas ao uso do vermífugo ivermectina contra a covid-19](https://oglobo.globo.com/sociedade/anvisa-reduz-criticas-ao-uso-do-vermifugo-ivermectina-contra-covid-19-24528106)
 * [Conheça 'Utopia', livro de Thomas More que Eduardo Suplicy enviou a Bolsonaro](https://oglobo.globo.com/cultura/conheca-utopia-livro-de-thomas-more-que-eduardo-suplicy-enviou-bolsonaro-24527955)
-* [Dezenas de milhares protestam em defesa de governador preso e contra Putin no extremo oriente da Rússia](https://oglobo.globo.com/mundo/dezenas-de-milhares-protestam-em-defesa-de-governador-preso-contra-putin-no-extremo-oriente-da-russia-24528018)
 * [Técnica cirúrgica conhecida como Fast Track Recovery permite recuperação mais rápida após implantes de silicone](https://oglobo.globo.com/sociedade/saude/tecnica-cirurgica-conhecida-como-fast-track-recovery-permite-recuperacao-mais-rapida-apos-implantes-de-silicone-24528046)
 * [Novo ministro da Educação já defendeu educar crianças com 'dor'](https://oglobo.globo.com/sociedade/novo-ministro-da-educacao-ja-defendeu-educar-criancas-com-dor-24528082)
 * [Restaurantes ficam cheios no primeiro sábado de reabertura em São Paulo](https://oglobo.globo.com/sociedade/restaurantes-ficam-cheios-no-primeiro-sabado-de-reabertura-em-sao-paulo-24528131)

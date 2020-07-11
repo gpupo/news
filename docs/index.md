@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 09:12:03 UTC
+# indexed at 11/07/2020 09:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -14,29 +14,29 @@ layout: default
 * [The Frink Is Good, the Unit Is Evil](https://www.hillelwayne.com/post/frink/)
 * [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
 * ['Street Fighter II' Wasn’t Just a Game, It Was a Portal](https://frieze.com/article/street-fighter-ii-wasnt-just-game-it-was-portal)
+* [Ask HN: How do you learn new libraries without much documentation?](https://news.ycombinator.com/item?id=23800590)
 * [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
 * [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
-* [Ask HN: How do you learn new libraries without much documentation?](https://news.ycombinator.com/item?id=23800590)
-* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [The Mess We're In (2014) [video]](https://youtube.com/watch?v=lKXe3HUG2l4)
-* [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
+* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
+* [Healthy Self-Doubt](https://nerdygirl.com/2020/07/02/healthy-self-doubt/)
+* [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
 * [Researchers create air filter that can kill the coronavirus](https://uh.edu/news-events/stories/july-2020/07072020ren-coronavirus-filter.php)
 * [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
-* [LinkedIn sued over allegation it secretly reads Apple users' clipboard content](https://www.reuters.com/article/us-microsoft-linkedin-lawsuit/linkedin-sued-over-allegation-it-secretly-reads-apple-users-clipboard-content-idUSKBN24C010)
 * [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
-* [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
 * [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
+* [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
 * [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
+* [LinkedIn sued over allegation it secretly reads Apple users' clipboard content](https://www.reuters.com/article/us-microsoft-linkedin-lawsuit/linkedin-sued-over-allegation-it-secretly-reads-apple-users-clipboard-content-idUSKBN24C010)
 * [Turning a £400 BBC Micro (1981) into a $40k disc writer (1987)](https://scarybeastsecurity.blogspot.com/2020/07/turning-400-bbc-micro-1981-into-40000.html)
-* [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
-* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/)
+* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+* [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
 * [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
 * [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
 * [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
-* [MTG Hivemind: Artificial Intelligence Designing Magic the Gathering Cards](https://medium.com/@lukbebalduke/mtg-hivemind-artificial-intelligence-designing-magic-372530640cc1)
 * [App suddenly crashing on startup due to FBSDKRestrictiveDataFilterManager.m](https://github.com/facebook/facebook-ios-sdk/issues/1427)
 ## nytimes.com
 
@@ -80,16 +80,18 @@ layout: default
 * [Long-Planned and Bigger Than Thought: Strike on Iran’s Nuclear Program](https://www.nytimes.com/2020/07/10/world/middleeast/iran-nuclear-trump.html)
 * [Student Loan Relief Denied in Some Fraud Cases](https://www.nytimes.com/2020/07/10/business/student-loans-betsy-devos-borrower-defense.html)
 * [Grizzly Bears Around Yellowstone Can Stay on Endangered Species List, Court Rules](https://www.nytimes.com/2020/07/10/us/grizzly-bears-yellowstone.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
 * [In Turkey's Soccer League, the Super Lig's Giants Face a Reckoning](https://www.nytimes.com/2020/07/10/sports/soccer/turkey-lig-besaksehir.html)
 * [‘Can We Please Talk About Black Lives Matter for One Second?’](https://www.nytimes.com/2020/07/02/magazine/can-we-please-talk-about-black-lives-matter-for-one-second.html)
 * [Exit Arias: What Opera Can Teach Us About Dying](https://www.nytimes.com/2020/07/09/arts/music/opera-dying.html)
 * [What Is the Hardest Part of Writing?](https://www.nytimes.com/2020/07/10/books/what-is-the-hardest-part-of-writing.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Donald Trump's Deadly Coronavirus Delusions](https://www.nytimes.com/2020/07/09/opinion/trump-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

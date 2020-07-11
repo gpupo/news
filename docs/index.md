@@ -2,49 +2,49 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 11:34:28 UTC
+# indexed at 11/07/2020 12:15:48 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Billionaire Musk's net worth zooms past Warren Buffett's](https://www.reuters.com/article/us-tesla-musk/billionaire-musks-net-worth-zooms-past-warren-buffetts-bloomberg-news-idUSKCN24C04V)
 * [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [Modes, Medians and Means: A Unifying Perspective (2013)](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
-* [The Rise of the “Liberaltarian”](https://www.gsb.stanford.edu/insights/rise-liberaltarian)
 * [PureDarwin – Darwin-based open source OS](https://github.com/PureDarwin/PureDarwin)
 * [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
 * [Healthy Self-Doubt](https://nerdygirl.com/2020/07/02/healthy-self-doubt/)
-* [Linux 5.8 Formally Adds the Inclusive Terminology Guidelines](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.8-Inclusive-Terminology)
+* [Comet streaking past Earth, providing spectacular show](https://phys.org/news/2020-07-comet-streaking-earth-spectacular.html)
+* [The Rise of the “Liberaltarian”](https://www.gsb.stanford.edu/insights/rise-liberaltarian)
 * [The Frink Is Good, the Unit Is Evil](https://www.hillelwayne.com/post/frink/)
 * ['Street Fighter II' Wasn’t Just a Game, It Was a Portal](https://frieze.com/article/street-fighter-ii-wasnt-just-game-it-was-portal)
-* [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
 * [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
+* [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
 * [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
-* [The Mess We're In (2014) [video]](https://youtube.com/watch?v=lKXe3HUG2l4)
+* [How and Why Computers Roll Loaded Dice](https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/)
+* [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
 * [LinkedIn sued over allegation it secretly reads Apple users' clipboard content](https://www.reuters.com/article/us-microsoft-linkedin-lawsuit/linkedin-sued-over-allegation-it-secretly-reads-apple-users-clipboard-content-idUSKBN24C010)
 * [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
-* [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
+* [The Mess We're In (2014) [video]](https://youtube.com/watch?v=lKXe3HUG2l4)
 * [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
 * [Researchers create air filter that can kill the coronavirus](https://uh.edu/news-events/stories/july-2020/07072020ren-coronavirus-filter.php)
-* [Learnings from a Year of Being Indie](https://ryanashcraft.com/a-year-of-being-indie/)
-* [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
 * [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
 * [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
-* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
-* [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
-* [FB AI distinguishes multiple speakers simultaneously](https://ai.facebook.com/blog/a-new-state-of-the-art-voice-separation-model-that-distinguishes-multiple-speakers-simultaneously)
 * [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
+* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+* [Learnings from a Year of Being Indie](https://ryanashcraft.com/a-year-of-being-indie/)
+* [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
 * [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
-* [Scachs D’amor (2009)](http://billwall.phpwebhosting.com/articles/scachs_damore.htm)
-* [Ask HN: What's your process for reselling your used hardware?](https://news.ycombinator.com/item?id=23800498)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
+* [FB AI distinguishes multiple speakers simultaneously](https://ai.facebook.com/blog/a-new-state-of-the-art-voice-separation-model-that-distinguishes-multiple-speakers-simultaneously)
+* [Ask HN: What's your process for reselling your used hardware?](https://news.ycombinator.com/item?id=23800498)
 ## nytimes.com
 
 
 * [Trump Commutes Sentence of Roger Stone](https://www.nytimes.com/2020/07/10/us/politics/trump-roger-stone-clemency.html)
 * [Has History Finally Caught Up With Roger Stone? It May Be Up to Trump](https://www.nytimes.com/2020/02/20/us/politics/donald-trump-roger-stone.html)
 * [President Trump's Pardons: Stone, Blagojevich and More](https://www.nytimes.com/article/trump-pardons-commutations.html)
-* [New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record](https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html)
+* [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html)
 * [‘I Couldn’t Do Anything’: The Virus and an E.R. Doctor’s Suicide](https://www.nytimes.com/2020/07/11/nyregion/lorna-breen-suicide-coronavirus.html)
 * [In Latin America, the Pandemic Threatens Equality Like Never Before](https://www.nytimes.com/2020/07/11/world/americas/coronavirus-latin-america-inequality.html)
 * [Study of Coronavirus in Pregnant Women Finds Striking Racial Differences](https://www.nytimes.com/2020/07/10/health/coronavirus-race-pregnancy.html)
@@ -82,9 +82,9 @@ layout: default
 * [An Open Letter on Free Expression Draws a Counterblast](https://www.nytimes.com/2020/07/10/arts/open-letter-debate.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [What Was the Problem With ‘Wyatt Cenac’s Problem Areas’?](https://www.nytimes.com/2020/07/08/arts/television/wyatt-cenac-problem-areas.html)
 * [Running Past an Olympic Dream](https://www.nytimes.com/2020/07/10/sports/olympics/kyle-merber-running-olympics.html)
 * [Garden Design Ideas](https://www.nytimes.com/2020/07/08/realestate/garden-design-plan-expert-tips.html)
@@ -102,12 +102,12 @@ layout: default
 
 
 * [Brasil tem mais de 1,8 milhão de casos do coronavírus, diz consórcio de veículos de imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-mais-de-18-milhao-de-casos-do-coronavirus-diz-consorcio-de-veiculos-de-imprensa-em-boletim-das-8h-24527700)
+* [Deputados doaram R$ 3,4 milhões a famílias de colegas mortos em 2020](https://epoca.globo.com/guilherme-amado/deputados-doaram-34-milhoes-familias-de-colegas-mortos-em-2020-24526889)
+* [Lives resgatam o poder da conversa, que andava em baixa na era digital](https://oglobo.globo.com/cultura/lives-resgatam-poder-da-conversa-que-andava-em-baixa-na-era-digital-24527713)
 * [Entenda por que a ação do Facebook ameaça Bolsonaro no Judiciário](https://oglobo.globo.com/brasil/entenda-por-que-acao-do-facebook-ameaca-bolsonaro-no-judiciario-1-24527697)
 * [É hora de perdoar o PT](https://oglobo.globo.com/brasil/e-hora-de-perdoar-pt-24527685)
 * [Marfrig vai criar sistema de rastreamento para gado criado na Amazônia](https://oglobo.globo.com/economia/marfrig-vai-criar-sistema-de-rastreamento-para-gado-criado-na-amazonia-24527520)
-* [Deputados doaram R$ 3,4 milhões a família de colegas mortos em 2020](https://epoca.globo.com/guilherme-amado/deputados-doaram-34-milhoes-familia-de-colegas-mortos-em-2020-1-24526889)
 * [6 em cada 10 brasileiros ainda estão 'muito preocupados' com pandemia](https://epoca.globo.com/guilherme-amado/6-em-cada-10-brasileiros-ainda-estao-muito-preocupados-com-pandemia-24527129)
-* ['Não é culpa do Supremo que o mundo hoje olha para o Brasil atônito como tratamos a pandemia', critica Barroso](https://epoca.globo.com/guilherme-amado/nao-culpa-do-supremo-que-mundo-hoje-olha-para-brasil-atonito-como-tratamos-pandemia-critica-barroso-24527204)
+* [14 Bis lançará álbum acústico](https://epoca.globo.com/guilherme-amado/14-bis-lancara-album-acustico-1-24526963)
 * [Doar Fashion: uma passarela para a solidariedade](https://oglobo.globo.com/rio/bairros/doar-fashion-uma-passarela-para-solidariedade-1-24526441)
-* [Bares e restaurantes da Tijuca se reinventam, e até crescem, durante pandemia](https://oglobo.globo.com/rio/bairros/bares-restaurantes-da-tijuca-se-reinventam-ate-crescem-durante-pandemia-24523372)
 * [Após seis anos de espera, Niterói regulamenta cotas para negros em concursos públicos](https://oglobo.globo.com/rio/bairros/apos-seis-anos-de-espera-niteroi-regulamenta-cotas-para-negros-em-concursos-publicos-24526016)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 03:12:26 UTC
+# indexed at 11/07/2020 03:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
+* [California sues Cisco alleging discrimination based on India’s caste system](https://www.latimes.com/business/story/2020-07-02/california-sues-cisco-bias-indian-caste-system)
 * [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
-* [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
 * [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
+* [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
-* [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/)
 * [Disabling Google 2FA doesn't need 2FA if you're already logged in](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
+* [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/)
 * [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
 * [Microsoft and Google collaborate to make PWAs better](https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487)
 * [Scientists make precise edits to mitochondrial DNA for first time](https://www.nature.com/articles/d41586-020-02054-5)
 * [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate)
+* [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
 * [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
 * [Flexport is hiring software engineers in Amsterdam (no visa, no problem)](https://www.flexport.com/careers/department/engineering)
-* [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
 * [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
-* [MTG Hivemind: Artificial Intelligence Designing Magic the Gathering Cards](https://medium.com/@lukbebalduke/mtg-hivemind-artificial-intelligence-designing-magic-372530640cc1)
 * [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
+* [MTG Hivemind: Artificial Intelligence Designing Magic the Gathering Cards](https://medium.com/@lukbebalduke/mtg-hivemind-artificial-intelligence-designing-magic-372530640cc1)
 * [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
-* [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
+* [App suddenly crashing on startup due to FBSDKRestrictiveDataFilterManager.m](https://github.com/facebook/facebook-ios-sdk/issues/1427)
 * [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development)
 * [Amazon says email banning TikTok from employee phones was ‘sent in error’](https://twitter.com/scotthickle/status/1281631749533990914)
-* [App suddenly crashing on startup due to FBSDKRestrictiveDataFilterManager.m](https://github.com/facebook/facebook-ios-sdk/issues/1427)
-* [Why some words may be more memorable than others](https://www.sciencedaily.com/releases/2020/06/200629120204.htm)
+* [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
 * [Why general artificial intelligence will not be realized](https://www.nature.com/articles/s41599-020-0494-4)
 * [Whose Land – Indigenous Nations of North America](https://www.whose.land/en/)
 * [Ask HN: Something like Khan Academy but full curriculum for grade schoolers?](https://news.ycombinator.com/item?id=23793216)
-* [Preserving arcade games (2014) [video]](https://media.ccc.de/v/31c3_-_5997_-_en_-_saal_6_-_201412282030_-_preserving_arcade_games_-_ange_albertini)
+* [Why some words may be more memorable than others](https://www.sciencedaily.com/releases/2020/06/200629120204.htm)
 ## nytimes.com
 
 
@@ -82,18 +82,19 @@ layout: default
 * [Student Loan Relief Denied in Some Fraud Cases](https://www.nytimes.com/2020/07/10/business/student-loans-betsy-devos-borrower-defense.html)
 * [Grizzly Bears Around Yellowstone Can Stay on Endangered Species List, Court Rules](https://www.nytimes.com/2020/07/10/us/grizzly-bears-yellowstone.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [In Turkey's Soccer League, the Super Lig's Giants Face a Reckoning](https://www.nytimes.com/2020/07/10/sports/soccer/turkey-lig-besaksehir.html)
 * [‘Can We Please Talk About Black Lives Matter for One Second?’](https://www.nytimes.com/2020/07/02/magazine/can-we-please-talk-about-black-lives-matter-for-one-second.html)
 * [Exit Arias: What Opera Can Teach Us About Dying](https://www.nytimes.com/2020/07/09/arts/music/opera-dying.html)
 * [What Is the Hardest Part of Writing?](https://www.nytimes.com/2020/07/10/books/what-is-the-hardest-part-of-writing.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Patient Is Reported Free of H.I.V., but Scientists Urge Caution](https://www.nytimes.com/2020/07/07/health/hiv-remission-brazil.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
-* [Supreme Court Rules Trump Cannot Block Release of Financial Records](https://www.nytimes.com/2020/07/09/us/trump-taxes-supreme-court.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
+* [DeSantis Is Said to Quietly Hinder Fund-Raising for Trump Convention](https://www.nytimes.com/2020/07/09/us/politics/trump-florida-convention-desantis.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

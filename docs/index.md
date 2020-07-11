@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 04:12:53 UTC
+# indexed at 11/07/2020 04:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Stop Blaming COBOL](https://adhoc.team/2020/07/10/problem-might-not-be-cobol/)
 * [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
-* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
+* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
 * [Disabling Google 2FA doesn't need 2FA if you're already logged in](https://www.infoq.com/news/2020/07/google-password-2fa-woes/)
-* [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/)
+* [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
 * [Mega Tiny Time Watch: a minimalist watch based on an ATtiny414 and 12 LEDs](http://www.technoblogy.com/show?2OKF)
 * [Microsoft and Google collaborate to make PWAs better](https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487)
-* [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
+* [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/)
 * [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
 * [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
-* [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate)
-* [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
 * [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
+* [Stitch Labs has been acquired by Square](https://www.stitchlabs.com/blog/stitch-labs-acquired-by-square/)
 * [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
 * [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
 * [Cooperative Linux – running Linux as a Windows driver (2011)](http://colinux.org/)
-* [California sues Cisco alleging discrimination based on India’s caste system](https://www.latimes.com/business/story/2020-07-02/california-sues-cisco-bias-indian-caste-system)
-* [Flexport is hiring software engineers in Amsterdam (no visa, no problem)](https://www.flexport.com/careers/department/engineering)
 * [The Magic of Math in Modern Cryptography [video]](https://www.youtube.com/watch?v=mSMQ-xowqAg)
 * [MTG Hivemind: Artificial Intelligence Designing Magic the Gathering Cards](https://medium.com/@lukbebalduke/mtg-hivemind-artificial-intelligence-designing-magic-372530640cc1)
-* [The Things We Can’t Control Are Beautiful](http://nautil.us/issue/87/risk/the-things-we-cant-control-are-beautiful)
+* [Flexport is hiring software engineers in Amsterdam (no visa, no problem)](https://www.flexport.com/careers/department/engineering)
+* [California sues Cisco alleging discrimination based on India’s caste system](https://www.latimes.com/business/story/2020-07-02/california-sues-cisco-bias-indian-caste-system)
 * [Why general artificial intelligence will not be realized](https://www.nature.com/articles/s41599-020-0494-4)
+* [The Things We Can’t Control Are Beautiful](http://nautil.us/issue/87/risk/the-things-we-cant-control-are-beautiful)
 * [Jpeg2png: Silky smooth JPEG decoding – no more artifacts (2016)](https://github.com/victorvde/jpeg2png)
 * [App suddenly crashing on startup due to FBSDKRestrictiveDataFilterManager.m](https://github.com/facebook/facebook-ios-sdk/issues/1427)
-* [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development)
 * [Finding SARS-CoV-2 carriers by optimizing pooled testing at low prevalence [pdf]](https://www.medrxiv.org/content/10.1101/2020.05.02.20087924v1.full.pdf)
 * [Amazon says email banning TikTok from employee phones was ‘sent in error’](https://twitter.com/scotthickle/status/1281631749533990914)
+* [Rackspace S-1](https://www.sec.gov/Archives/edgar/data/1810019/000119312520190902/d915709ds1.htm)
+* [Ask HN: Something like Khan Academy but full curriculum for grade schoolers?](https://news.ycombinator.com/item?id=23793216)
 ## nytimes.com
 
 
@@ -53,7 +53,6 @@ layout: default
 * [Facebook Said to Consider Banning Political Ads](https://www.nytimes.com/2020/07/10/technology/facebook-politcal-ads-ban.html)
 * [Trump New Hampshire Rally Postponed Citing Weather](https://www.nytimes.com/2020/07/10/us/politics/trump-nh-rally-postponed.html)
 * [‘I’m Sorry to Everyone’: In Death, South Korean Mayor Is Tainted by Scandal](https://www.nytimes.com/2020/07/10/world/asia/seoul-mayor-dead.html)
-* [The Last Reporter in Town Had One Big Question for His Rich Boss](https://www.nytimes.com/2020/07/10/us/alden-global-capital-pottstown-mercury.html)
 * [Coronavirus, Hagia Sofia, Frozen Drinks: Your Friday Evening Briefing](https://www.nytimes.com/2020/07/10/briefing/coronavirus-hagia-sofia-frozen-drinks.html)
 * [The Fate of Trump’s Financial Records](https://www.nytimes.com/2020/07/10/podcasts/the-daily/supreme-court-trump-taxes.html)
 * [Trump’s Taxes May Be Released — Eventually](https://www.nytimes.com/2020/07/10/business/dealbook/trump-taxes-supreme-court.html)
@@ -81,11 +80,11 @@ layout: default
 * [Long-Planned and Bigger Than Thought: Strike on Iran’s Nuclear Program](https://www.nytimes.com/2020/07/10/world/middleeast/iran-nuclear-trump.html)
 * [Student Loan Relief Denied in Some Fraud Cases](https://www.nytimes.com/2020/07/10/business/student-loans-betsy-devos-borrower-defense.html)
 * [Grizzly Bears Around Yellowstone Can Stay on Endangered Species List, Court Rules](https://www.nytimes.com/2020/07/10/us/grizzly-bears-yellowstone.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [In Turkey's Soccer League, the Super Lig's Giants Face a Reckoning](https://www.nytimes.com/2020/07/10/sports/soccer/turkey-lig-besaksehir.html)
 * [‘Can We Please Talk About Black Lives Matter for One Second?’](https://www.nytimes.com/2020/07/02/magazine/can-we-please-talk-about-black-lives-matter-for-one-second.html)
 * [Exit Arias: What Opera Can Teach Us About Dying](https://www.nytimes.com/2020/07/09/arts/music/opera-dying.html)

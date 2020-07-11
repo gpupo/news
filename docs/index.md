@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 10:12:24 UTC
+# indexed at 11/07/2020 10:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
-* [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
-* [PureDarwin – Darwin-based open source OS](https://github.com/PureDarwin/PureDarwin)
 * [Modes, Medians and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
+* [PureDarwin – Darwin-based open source OS](https://github.com/PureDarwin/PureDarwin)
 * [The Frink Is Good, the Unit Is Evil](https://www.hillelwayne.com/post/frink/)
-* [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
-* [Ask HN: How do you learn new libraries without much documentation?](https://news.ycombinator.com/item?id=23800590)
-* [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
-* ['Street Fighter II' Wasn’t Just a Game, It Was a Portal](https://frieze.com/article/street-fighter-ii-wasnt-just-game-it-was-portal)
-* [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
-* [Healthy Self-Doubt](https://nerdygirl.com/2020/07/02/healthy-self-doubt/)
 * [The Rise of the “Liberaltarian”](https://www.gsb.stanford.edu/insights/rise-liberaltarian)
-* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
-* [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
+* [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
+* [Healthy Self-Doubt](https://nerdygirl.com/2020/07/02/healthy-self-doubt/)
+* [Ask HN: How do you learn new libraries without much documentation?](https://news.ycombinator.com/item?id=23800590)
+* ['Street Fighter II' Wasn’t Just a Game, It Was a Portal](https://frieze.com/article/street-fighter-ii-wasnt-just-game-it-was-portal)
+* [This Blog Is Now Running on Solar Power](https://louwrentius.com/this-blog-is-now-running-on-solar-power.html)
+* [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
+* [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [The Mess We're In (2014) [video]](https://youtube.com/watch?v=lKXe3HUG2l4)
+* [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
 * [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
+* [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
 * [Researchers create air filter that can kill the coronavirus](https://uh.edu/news-events/stories/july-2020/07072020ren-coronavirus-filter.php)
 * [LinkedIn sued over allegation it secretly reads Apple users' clipboard content](https://www.reuters.com/article/us-microsoft-linkedin-lawsuit/linkedin-sued-over-allegation-it-secretly-reads-apple-users-clipboard-content-idUSKBN24C010)
+* [Scachs D’amor (2009)](http://billwall.phpwebhosting.com/articles/scachs_damore.htm)
 * [Making Netflix's Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
-* [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 * [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
-* [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
-* [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
+* [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 * [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+* [Cutlet: A Japanese to Romaji Converter in Python](https://www.dampfkraft.com/nlp/cutlet-python-romaji-converter.html)
 * [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
-* [Ask HN: What's your process for reselling your used hardware?](https://news.ycombinator.com/item?id=23800498)
-* [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
-* [Turning a £400 BBC Micro (1981) into a $40k disc writer (1987)](https://scarybeastsecurity.blogspot.com/2020/07/turning-400-bbc-micro-1981-into-40000.html)
+* [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
 * [Dropbox: Tech's Hottest Startup (2011)](https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/)
+* [Turning a £400 BBC Micro (1981) into a $40k disc writer (1987)](https://scarybeastsecurity.blogspot.com/2020/07/turning-400-bbc-micro-1981-into-40000.html)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
+* [Ask HN: What's your process for reselling your used hardware?](https://news.ycombinator.com/item?id=23800498)
 ## nytimes.com
 
 
@@ -80,9 +80,9 @@ layout: default
 * [After an Arrest at a Black Lives Matter Protest: Deportation Proceedings](https://www.nytimes.com/2020/07/11/us/politics/black-lives-matter-phoenix-daca.html)
 * [For 20 Years, His Firm Called Him Antoine. Now Mohamed Is Suing.](https://www.nytimes.com/2020/07/11/world/europe/france-racial-discrimination-workplace.html)
 * [An Open Letter on Free Expression Draws a Counterblast](https://www.nytimes.com/2020/07/10/arts/open-letter-debate.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [What Was the Problem With ‘Wyatt Cenac’s Problem Areas’?](https://www.nytimes.com/2020/07/08/arts/television/wyatt-cenac-problem-areas.html)
@@ -100,12 +100,12 @@ layout: default
 ## globo.com
 
 
+* [É hora de perdoar o PT](https://oglobo.globo.com/brasil/e-hora-de-perdoar-pt-24527685)
 * [Marfrig vai criar sistema de rastreamento para gado criado na Amazônia](https://oglobo.globo.com/economia/marfrig-vai-criar-sistema-de-rastreamento-para-gado-criado-na-amazonia-24527520)
 * [Deputados doaram R$ 3,4 milhões a família de colegas mortos em 2020](https://epoca.globo.com/guilherme-amado/deputados-doaram-34-milhoes-familia-de-colegas-mortos-em-2020-1-24526889)
+* [6 em cada 10 brasileiros ainda estão 'muito preocupados' com pandemia](https://epoca.globo.com/guilherme-amado/6-em-cada-10-brasileiros-ainda-estao-muito-preocupados-com-pandemia-24527129)
 * [A carta na manga de Witzel para tentar melar seu impeachment](https://epoca.globo.com/guilherme-amado/a-carta-na-manga-de-witzel-para-tentar-melar-seu-impeachment-24526842)
-* [CGU analisa punição a Sérgio Camargo, presidente da Palmares](https://epoca.globo.com/guilherme-amado/cgu-analisa-punicao-sergio-camargo-presidente-da-palmares-24526770)
 * ['Não é culpa do Supremo que o mundo hoje olha para o Brasil atônito como tratamos a pandemia', critica Barroso](https://epoca.globo.com/guilherme-amado/nao-culpa-do-supremo-que-mundo-hoje-olha-para-brasil-atonito-como-tratamos-pandemia-critica-barroso-24527204)
-* [Praia de Santa Catarina vira cemitério de pinguins](https://epoca.globo.com/sociedade/praia-de-santa-catarina-vira-cemiterio-de-pinguins-24526162)
 * [No interior de SP, ao menos 50 cidades têm o dobro da letalidade do estado para Covid-19](https://epoca.globo.com/sociedade/no-interior-de-sp-ao-menos-50-cidades-tem-dobro-da-letalidade-do-estado-para-covid-19-24525864)
 * [Doar Fashion: uma passarela para a solidariedade](https://oglobo.globo.com/rio/bairros/doar-fashion-uma-passarela-para-solidariedade-1-24526441)
 * [Bares e restaurantes da Tijuca se reinventam, e até crescem, durante pandemia](https://oglobo.globo.com/rio/bairros/bares-restaurantes-da-tijuca-se-reinventam-ate-crescem-durante-pandemia-24523372)

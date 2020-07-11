@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 21:12:00 UTC
+# indexed at 11/07/2020 21:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
 * [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
 * [A doctor who championed hand-washing and briefly saved lives (2015)](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)
-* [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
 * [A package manager for deno JavaScript](https://github.com/crewdevio/Trex)
-* [AES67 resources – Audio over IP protocol](https://hartung.io/2020/07/aes67-resources/)
+* [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
+* [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
+* [CDC director: Keeping schools closed greater health threat to children reopening](https://thehill.com/policy/healthcare/506640-cdc-director-keeping-schools-closed-poses-greater-health-threat-to-children)
 * [Ask HN: What's the worst piece of software you use everyday?](https://news.ycombinator.com/item?id=23803539)
+* [AES67 resources – Audio over IP protocol](https://hartung.io/2020/07/aes67-resources/)
 * [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
-* [Scanimage: Scan from the Command Line](https://jvns.ca/blog/2020/07/11/scanimage--scan-from-the-command-line/)
 * [Beware of Being “Right”](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201401/beware-being-right)
-* [Call with David Ungar (2015) [video]](https://www.youtube.com/watch?v=8nfrC-YLYqc)
 * [The Case for Causal AI](https://ssir.org/articles/entry/the_case_for_causal_ai)
+* [Scanimage: Scan from the Command Line](https://jvns.ca/blog/2020/07/11/scanimage--scan-from-the-command-line/)
+* [The world is drinking less coffee while office workers stay home](https://www.msn.com/en-us/money/economy/the-world-is-drinking-less-coffee-while-office-workers-stay-home/ar-BB16BZzj)
+* [Call with David Ungar (2015) [video]](https://www.youtube.com/watch?v=8nfrC-YLYqc)
 * [Why are toys such a bad business?](https://diff.substack.com/p/why-are-toys-such-a-bad-business)
 * [Aquarius builds an engine others only dreamed of](https://www.haaretz.com/israel-news/.premium.MAGAZINE-a-little-startup-that-could-aquarius-builds-an-engine-others-only-dreamed-of-1.8984355)
-* [The world is drinking less coffee while office workers stay home](https://www.bloomberg.com/news/articles/2020-07-11/the-world-is-drinking-less-coffee-while-office-workers-stay-home)
-* [Virtual Wind Instruments (2018)](https://www.jefftk.com/p/virtual-wind-instruments)
 * [Modes, Medians and Means: A Unifying Perspective (2013)](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
 * [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
-* [An Iron Age skeleton with his hands bound found in Wendover](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-53366209)
 * [Global Decision-Making via Local Economic Transactions](https://arxiv.org/abs/2007.02382)
-* [Oura Ring 2 Teardown](https://www.ifixit.com/Teardown/Oura+Ring+2+Teardown/135207)
+* [Virtual Wind Instruments (2018)](https://www.jefftk.com/p/virtual-wind-instruments)
+* [An Iron Age skeleton with his hands bound found in Wendover](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-53366209)
 * [Should I buy an Intel Mac today or wait to buy an Arm-based Mac?](https://www.macrumors.com/guide/buy-or-wait-intel-apple-silicon-mac/)
+* [Oura Ring 2 Teardown](https://www.ifixit.com/Teardown/Oura+Ring+2+Teardown/135207)
 * [Show HN: Form-validation.js – JavaScript form validation library](https://github.com/iendeavor/form-validation.js)
-* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
-* [Learnings from a Year of Being Indie](https://ryanashcraft.com/a-year-of-being-indie/)
 ## nytimes.com
 
 
@@ -72,25 +72,25 @@ layout: default
 * [Protests Rock Russian Far East With Calls for Putin to Resign](https://www.nytimes.com/2020/07/11/world/europe/russia-protests-putin.html)
 * [Mail Carrier in West Virginia Pleads Guilty to Attempted Election Fraud](https://www.nytimes.com/2020/07/09/us/politics/west-Virginia-election-fraud.html)
 * [Valentina Sampaio Is the First Transgender Model for Sports Illustrated](https://www.nytimes.com/2020/07/11/business/media/valentina-sampaio-transgender-sports-illustrated.html)
-* [Business Leaders Urge Trump to Leave DACA Alone After Court Ruling](https://www.nytimes.com/2020/07/11/us/politics/business-leaders-urge-trump-to-leave-daca-alone-after-court-ruling.html)
+* [San Gabriel Mission Is Badly Damaged by Fire](https://www.nytimes.com/2020/07/11/us/california-san-gabriel-mission-fire.html)
 * [KFC Birthday Party Costs $18,000 in Covid-19 Fines in Australia](https://www.nytimes.com/2020/07/10/world/australia/kfc-party-fines-australia.html)
+* [Defying U.S., China and Iran Near Trade and Military Partnership](https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html)
 * [A #MeToo Moment Emerges for Military Women After Soldier’s Killing](https://www.nytimes.com/2020/07/11/us/politics/military-women-metoo-fort-hood.html)
-* [In a Term Full of Major Cases, the Supreme Court Tacked to the Center](https://www.nytimes.com/2020/07/10/us/supreme-court-term.html)
 * [What the Bronx ‘Bible Belt’ Election Results Tell Us](https://www.nytimes.com/2020/07/10/nyregion/Ritchie-Torres-Ruben-Diaz-nyc-election.html)
 * [Balarama Holness Wants to Be the ‘Canadian Obama’](https://www.nytimes.com/2020/07/10/world/canada/balarama-holness-obama.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [What Was the Problem With ‘Wyatt Cenac’s Problem Areas’?](https://www.nytimes.com/2020/07/08/arts/television/wyatt-cenac-problem-areas.html)
 * [Running Past an Olympic Dream](https://www.nytimes.com/2020/07/10/sports/olympics/kyle-merber-running-olympics.html)
 * [Garden Design Ideas](https://www.nytimes.com/2020/07/08/realestate/garden-design-plan-expert-tips.html)
 * [Theater’s Next Act? A Show That’s All in Your Head](https://www.nytimes.com/2020/07/08/theater/virtual-reality-the-tempest.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
-* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
 * [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
+* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
 * [A Veggie Burger Unlike the Others](https://www.nytimes.com/2020/07/10/dining/black-bean-burger-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -98,12 +98,12 @@ layout: default
 ## globo.com
 
 
+* [Sem respeitar distanciamento, milhares de pessoas se manifestam contra gestão da crise do coronavírus em Israel](https://oglobo.globo.com/mundo/sem-respeitar-distanciamento-milhares-de-pessoas-se-manifestam-contra-gestao-da-crise-do-coronavirus-em-israel-24528202)
 * [Restaurantes ficam cheios no primeiro sábado de reabertura em São Paulo](https://oglobo.globo.com/sociedade/restaurantes-ficam-cheios-no-primeiro-sabado-de-reabertura-em-sao-paulo-24528131)
 * [Aos 67 anos, morre o embaixador brasileiro Paulo Cesar de Oliveira Campos](https://oglobo.globo.com/brasil/aos-67-anos-morre-embaixador-brasileiro-paulo-cesar-de-oliveira-campos-24528161)
 * [No primeiro sábado após liberação do lazer, cariocas desrespeitam uso de máscara](https://oglobo.globo.com/rio/no-primeiro-sabado-apos-liberacao-do-lazer-cariocas-desrespeitam-uso-de-mascara-24528088)
 * [Anvisa reduz críticas ao uso do vermífugo ivermectina contra a covid-19](https://oglobo.globo.com/sociedade/anvisa-reduz-criticas-ao-uso-do-vermifugo-ivermectina-contra-covid-19-24528106)
 * [Conheça 'Utopia', livro de Thomas More que Eduardo Suplicy enviou a Bolsonaro](https://oglobo.globo.com/cultura/conheca-utopia-livro-de-thomas-more-que-eduardo-suplicy-enviou-bolsonaro-24527955)
-* [Técnica cirúrgica conhecida como Fast Track Recovery permite recuperação mais rápida após implantes de silicone](https://oglobo.globo.com/sociedade/saude/tecnica-cirurgica-conhecida-como-fast-track-recovery-permite-recuperacao-mais-rapida-apos-implantes-de-silicone-24528046)
 * [Novo ministro da Educação já defendeu educar crianças com 'dor'](https://oglobo.globo.com/sociedade/novo-ministro-da-educacao-ja-defendeu-educar-criancas-com-dor-24528082)
 * [Witzel sancionará lei que regulamenta uso obrigatório de máscaras na segunda-feira](https://oglobo.globo.com/rio/witzel-sancionara-lei-que-regulamenta-uso-obrigatorio-de-mascaras-na-segunda-feira-24528110)
 * [Turista francês é resgatado por bombeiros em trilha da Pedra da Gávea](https://oglobo.globo.com/rio/turista-frances-resgatado-por-bombeiros-em-trilha-da-pedra-da-gavea-1-24528075)

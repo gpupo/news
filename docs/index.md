@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/07/2020 13:34:20 UTC
+# indexed at 11/07/2020 14:13:07 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [Why Are Toys Such a Bad Business?](https://diff.substack.com/p/why-are-toys-such-a-bad-business)
+* [Testing Firefox More Efficiently with Machine Learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
+* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [Modes, Medians and Means: A Unifying Perspective (2013)](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
-* [Comet streaking past Earth, providing spectacular show](https://phys.org/news/2020-07-comet-streaking-earth-spectacular.html)
 * [Oura Ring 2 Teardown](https://www.ifixit.com/Teardown/Oura+Ring+2+Teardown/135207)
-* [PureDarwin – Darwin-based open source OS](https://github.com/PureDarwin/PureDarwin)
+* [Scraping Isn't Hacking](https://www.getrevue.co/profile/themarkup/issues/scraping-isn-t-hacking-261438)
 * [Healthy Self-Doubt](https://nerdygirl.com/2020/07/02/healthy-self-doubt/)
-* [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
+* [PureDarwin – Darwin-based open source OS](https://github.com/PureDarwin/PureDarwin)
+* [Was a PhD necessary to solve outstanding math problems?](https://www.greaterwrong.com/posts/p7uv4Ekhf8utFKBxa/was-a-phd-necessary-to-solve-outstanding-math-problems)
 * ['Street Fighter II' Wasn’t Just a Game, It Was a Portal](https://frieze.com/article/street-fighter-ii-wasnt-just-game-it-was-portal)
-* [The Frink Is Good, the Unit Is Evil](https://www.hillelwayne.com/post/frink/)
+* [Comet streaking past Earth, providing spectacular show](https://phys.org/news/2020-07-comet-streaking-earth-spectacular.html)
 * [Learnings from a Year of Being Indie](https://ryanashcraft.com/a-year-of-being-indie/)
+* [The Frink Is Good, the Unit Is Evil](https://www.hillelwayne.com/post/frink/)
 * [Commander X16 8 bit computer now has its own website](https://www.commanderx16.com/)
 * [FB AI distinguishes multiple speakers simultaneously](https://ai.facebook.com/blog/a-new-state-of-the-art-voice-separation-model-that-distinguishes-multiple-speakers-simultaneously)
-* [Attention without awareness in blindsight (1999) [pdf]](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1999.0850)
 * [Don't close your MacBook with a cover over the camera](https://support.apple.com/en-us/HT211148)
 * [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
+* [How and Why Computers Roll Loaded Dice](https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/)
 * [LinkedIn sued over allegation it secretly reads Apple users' clipboard content](https://www.reuters.com/article/us-microsoft-linkedin-lawsuit/linkedin-sued-over-allegation-it-secretly-reads-apple-users-clipboard-content-idUSKBN24C010)
-* [Was a PhD necessary to solve outstanding math problems?](https://www.greaterwrong.com/posts/p7uv4Ekhf8utFKBxa/was-a-phd-necessary-to-solve-outstanding-math-problems)
+* [Attention without awareness in blindsight (1999) [pdf]](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1999.0850)
+* [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 * [The Mess We're In (2014) [video]](https://youtube.com/watch?v=lKXe3HUG2l4)
 * [Researchers create air filter that can kill the coronavirus](https://uh.edu/news-events/stories/july-2020/07072020ren-coronavirus-filter.php)
-* [Ask HN: How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 * [Can Our Ballots Be Both Secret and Secure?](https://www.newyorker.com/news/the-future-of-democracy/can-our-ballots-be-both-secret-and-secure)
+* [Apple supplier Foxconn to invest $1B in India, sources say](https://www.reuters.com/article/us-foxconn-india-apple-exclusive-idUSKBN24B2GH)
 * [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling)
-* [How and Why Computers Roll Loaded Dice](https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/)
 * [A Typology of Dumplings (2019)](https://borstell.github.io/dumplings.html)
-* [Seemingly impossible functional programs (2007)](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [The only catfish native to the Western U.S. is running out of water](https://www.hcn.org/issues/52.7/fish-the-only-catfish-native-to-the-western-u-s-is-running-out-of-water)
 * [ARRL – The National Association for Amateur (Ham) Radio](http://www.arrl.org/)
 * [Investors say agroforestry is climate friendly and also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
-* [App suddenly crashing on startup due to FBSDKRestrictiveDataFilterManager.m](https://github.com/facebook/facebook-ios-sdk/issues/1427)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [Study of Coronavirus in Pregnant Women Finds Striking Racial Differences](https://www.nytimes.com/2020/07/10/health/coronavirus-race-pregnancy.html)
 * [College Football Season Teeters on the Brink](https://www.nytimes.com/2020/07/10/sports/ncaafootball/coronavirus-college-football-season-canceled.html)
 * [In a Term Full of Major Cases, the Supreme Court Tacked to the Center](https://www.nytimes.com/2020/07/10/us/supreme-court-term.html)
-* [For Muscogee (Creek) Tribe in Oklahoma, at Long Last Vindication](https://www.nytimes.com/2020/07/11/us/muscogee-creek-nation-oklahoma.html)
+* [For Oklahoma Tribe, Vindication at Long Last](https://www.nytimes.com/2020/07/11/us/muscogee-creek-nation-oklahoma.html)
 * [Georgia. Ohio. Texas. Democrats Tell Biden to Go Big (He’s Being Cautious).](https://www.nytimes.com/2020/07/11/us/politics/trump-biden-2020-election.html)
 * [Fact-Checking Biden on the Coronavirus and His Own Record](https://www.nytimes.com/2020/07/11/us/politics/fact-checking-biden-on-the-coronavirus-and-his-own-record.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/10/briefing/best-weekend-reads.html)
@@ -82,17 +82,18 @@ layout: default
 * [An Open Letter on Free Expression Draws a Counterblast](https://www.nytimes.com/2020/07/10/arts/open-letter-debate.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [What Was the Problem With ‘Wyatt Cenac’s Problem Areas’?](https://www.nytimes.com/2020/07/08/arts/television/wyatt-cenac-problem-areas.html)
 * [Running Past an Olympic Dream](https://www.nytimes.com/2020/07/10/sports/olympics/kyle-merber-running-olympics.html)
 * [Garden Design Ideas](https://www.nytimes.com/2020/07/08/realestate/garden-design-plan-expert-tips.html)
 * [Theater’s Next Act? A Show That’s All in Your Head](https://www.nytimes.com/2020/07/08/theater/virtual-reality-the-tempest.html)
-* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
-* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
-* [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+* [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
+* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
+* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
+* [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)
 * [Trump Says He ‘Aced’ Cognitive Test, but Won’t Release Details](https://www.nytimes.com/2020/07/10/us/politics/trump-cognitive-test-health.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Mulher de Queiroz retorna para casa e vai cumprir prisão domiciliar junto com ex-assessor de Flávio Bolsonaro](https://oglobo.globo.com/brasil/mulher-de-queiroz-retorna-para-casa-vai-cumprir-prisao-domiciliar-junto-com-ex-assessor-de-flavio-bolsonaro-1-24527737)
+* [Modelo e empreendedora, Mayra Sallie 'ocupa' Instagram de Deborah Secco](https://oglobo.globo.com/ela/gente/modelo-empreendedora-mayra-sallie-ocupa-instagram-de-deborah-secco-24527772)
+* [Entenda em sete perguntas como está a busca pela vacina para a Covid-19](https://oglobo.globo.com/sociedade/entenda-em-sete-perguntas-como-esta-busca-pela-vacina-para-covid-19-24527784)
 * [Michelle Bolsonaro testa negativo para Covid-19 após Bolsonaro contrair doença](https://oglobo.globo.com/brasil/michelle-bolsonaro-testa-negativo-para-covid-19-apos-bolsonaro-contrair-doenca-24527768)
 * [Governo alemão pode se tornar sócio de empresas em dificuldades diante da pandemia](https://oglobo.globo.com/economia/governo-alemao-pode-se-tornar-socio-de-empresas-em-dificuldades-diante-da-pandemia-24527760)
 * [Morre Jack Charlton, campeão mundial com a Inglaterra em 1966, aos 85 anos](https://oglobo.globo.com/esportes/morre-jack-charlton-campeao-mundial-com-inglaterra-em-1966-aos-85-anos-24527755)
-* [Mulher de Queiroz retorna para casa e vai cumprir prisão domiciliar junto com ex-assessor de Flávio Bolsonaro](https://oglobo.globo.com/brasil/mulher-de-queiroz-retorna-para-casa-vai-cumprir-prisao-domiciliar-junto-com-ex-assessor-de-flavio-bolsonaro-1-24527737)
 * [TCU manda governo Bolsonaro parar de anunciar em sites de 'atividades ilegais'](https://oglobo.globo.com/brasil/tcu-manda-governo-bolsonaro-parar-de-anunciar-em-sites-de-atividades-ilegais-1-24527744)
 * [Brooklyn Beckham e Nicola Peltz estão noivos, diz site](https://oglobo.globo.com/ela/gente/brooklyn-beckham-nicola-peltz-estao-noivos-diz-site-24527721)
 * [Fortuna de bilionário Elon Musk ultrapassa a do megainvestidor Warren Buffett](https://oglobo.globo.com/economia/fortuna-de-bilionario-elon-musk-ultrapassa-do-megainvestidor-warren-buffett-24527730)
-* [Brasil tem mais de 1,8 milhão de casos do coronavírus, diz consórcio de veículos de imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-mais-de-18-milhao-de-casos-do-coronavirus-diz-consorcio-de-veiculos-de-imprensa-em-boletim-das-8h-24527700)
-* [Lives resgatam o poder da conversa, que andava em baixa na era digital](https://oglobo.globo.com/cultura/lives-resgatam-poder-da-conversa-que-andava-em-baixa-na-era-digital-24527713)
 * [14 Bis lançará álbum acústico](https://epoca.globo.com/guilherme-amado/14-bis-lancara-album-acustico-1-24526963)

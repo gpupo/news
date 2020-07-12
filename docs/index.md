@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 23:12:03 UTC
+# indexed at 12/07/2020 23:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Classic Fallacies – All People in Canada Are the Same Age](https://www.math.toronto.edu/mathnet/falseProofs/sameAge.html)
 * [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
 * [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
-* [Show HN: Sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [ELF Statifier, self-contained dynamically linked executables](http://statifier.sourceforge.net/)
+* [Show HN: Sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [The Future of Online Identity Is Decentralized](https://yarmo.eu/post/future-online-identity-decentralized)
-* [Can Facebook provide postmortems on their iOS SDK crashes?](https://github.com/facebook/facebook-ios-sdk/issues/1385)
-* [An aerospace engineer explains fireworks](https://datagenetics.com/blog/july12020/index.html)
 * [Creating Randomness Without Math.random](https://healeycodes.com/creating-randomness/)
-* [WireGuard as VPN Server on Kubernetes with AdBlocking](https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/)
 * [For those at northerly latitudes, Comet NEOWISE up in the evening now, too](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise)
-* [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
+* [Can Facebook provide postmortems on their iOS SDK crashes?](https://github.com/facebook/facebook-ios-sdk/issues/1385)
+* [WireGuard as VPN Server on Kubernetes with AdBlocking](https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/)
+* [An aerospace engineer explains fireworks](https://datagenetics.com/blog/july12020/index.html)
 * [Dealing with Insomnia](https://jacquesmattheij.com/dealing-with-insomnia/)
 * [Lecture on Mediation and Subjectivity/Objectivity in Art [video]](https://www.youtube.com/watch?v=K8xCBPW1rmo)
-* [Haproxy 2.2](https://www.haproxy.com/)
-* [Robot Game: Comparing 6502 C, Assembly, and Forth](http://calc6502.com/RobotGame/summary.html)
-* [Show HN: Learnawesome.org – Open-source learning map for humanity](https://news.ycombinator.com/item?id=23795779)
-* [A long-lost perfume got a second life after 150 years underwater](https://www.atlasobscura.com/articles/shipwreck-perfume-bermuda-mary-celestia)
-* [Solitaire with text-based interface in C](https://github.com/jborza/jborza.github.io/blob/master/_posts/2020-07-12-solitaire-cli.md)
-* [SAS Rescue 3 Trapped British Diplomats in Albania](https://www.mydiplomaticlife.com/sas-rescue-trapped-diplomats-in-albania/)
 * [Merging and Patches (2017)](https://jneem.github.io/merging/)
+* [Haproxy 2.2](https://www.haproxy.com/)
+* [Show HN: Learnawesome.org – Open-source learning map for humanity](https://news.ycombinator.com/item?id=23795779)
+* [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
+* [Robot Game: Comparing 6502 C, Assembly, and Forth](http://calc6502.com/RobotGame/summary.html)
+* [A long-lost perfume got a second life after 150 years underwater](https://www.atlasobscura.com/articles/shipwreck-perfume-bermuda-mary-celestia)
+* [SAS Rescue 3 Trapped British Diplomats in Albania](https://www.mydiplomaticlife.com/sas-rescue-trapped-diplomats-in-albania/)
+* [Solitaire with text-based interface in C](https://github.com/jborza/jborza.github.io/blob/master/_posts/2020-07-12-solitaire-cli.md)
 * [Show HN: Notado – Content-First Bookmarking](https://notado.app/)
 * [Ask HN: Concepts the modern tech industry falsely believes it invented?](https://news.ycombinator.com/item?id=23814645)
 * [Candy Land was invented for polio wards (2019)](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
-* [Show HN: Spaceboard – Pinterest for Markdown Notes](https://github.com/cktang88/spaceboard)
 * [How companies became addicted to debt](https://www.ft.com/content/c732fded-5252-4333-a3f8-80b767508bbc)
 * [Underwater caves in Mexico preserve one of the world’s oldest ochre mines](https://www.sciencemag.org/news/2020/07/underwater-caves-mexico-preserve-one-world-s-oldest-ochre-mines)
-* [The First American Restaurants’ Culinary Concoctions](https://daily.jstor.org/the-first-american-restaurants-culinary-concoctions)
+* [Show HN: Spaceboard – Pinterest for Markdown Notes](https://github.com/cktang88/spaceboard)
+* [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 ## nytimes.com
 
 
@@ -76,18 +76,19 @@ layout: default
 * [Southside Johnny Brings Live Music Back to the Jersey Shore](https://www.nytimes.com/2020/07/12/nyregion/monmouth-park-southside-johnny-drive-in-concert.html)
 * [Poland’s Presidential Election Too Close to Call](https://www.nytimes.com/2020/07/12/world/europe/poland-election-Duda-Trzaskowski.html)
 * [Are Uber and Lyft Drivers Well Paid? It Depends on the Study](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
-* [How to Form Social Bubbles and Quarantine Pods](https://www.nytimes.com/2020/06/09/parenting/coronavirus-pod-family.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [This Is Theater in 2020. Will It Last? Should It?](https://www.nytimes.com/2020/07/08/theater/streaming-theater-experiments.html)
 * [When ‘Keep Your Distance’ Has Been a Way of Life](https://www.nytimes.com/2020/07/10/arts/mother-son-diary.html)
 * [In Charlie Kaufman’s Novel, a Comic Hero Is Haunted by a Lost Film](https://www.nytimes.com/2020/07/08/books/review/antkind-charlie-kaufman.html)
 * [This Salmon Recipe Shines](https://www.nytimes.com/2020/07/10/dining/this-salmon-recipe-shines.html)
-* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
+* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
 * [Writer for Tucker Carlson Resigns After ‘Abhorrent’ Online Posts Are Revealed](https://www.nytimes.com/2020/07/11/business/media/tucker-carlson-writer-blake-neff.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -95,10 +96,10 @@ layout: default
 ## globo.com
 
 
+* [Jovem morre nos Estados Unidos após contrair coronavírus em 'Festa da Covid'](https://oglobo.globo.com/mundo/jovem-morre-nos-estados-unidos-apos-contrair-coronavirus-em-festa-da-covid-24529277)
 * [Brasil passa de 72 mil mortes por Covid-19, aponta consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-72-mil-mortes-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24529084)
 * [Traficante morre após cair de um andaime, durante fuga da polícia, na Barra](https://oglobo.globo.com/rio/traficante-morre-apos-cair-de-um-andaime-durante-fuga-da-policia-na-barra-24529270)
 * [Federação quer mudar protocolo para retomar Catarinense e evitar novas suspensões](https://oglobo.globo.com/esportes/federacao-quer-mudar-protocolo-para-retomar-catarinense-evitar-novas-suspensoes-24529217)
-* [Flamengo vence o Fluminense no jogo de ida da final do Carioca; Gabigol é expulso](https://oglobo.globo.com/esportes/flamengo-vence-fluminense-no-jogo-de-ida-da-final-do-carioca-gabigol-expulso-24529105)
 * [OMS registra recorde de novos casos de Covid-19 em 24 horas no mundo](https://oglobo.globo.com/mundo/oms-registra-recorde-de-novos-casos-de-covid-19-em-24-horas-no-mundo-24529254)
 * [Gabigol critica árbitro após expulsão no Fluminense x Flamengo: 'Desrespeito'](https://oglobo.globo.com/esportes/gabigol-critica-arbitro-apos-expulsao-no-fluminense-flamengo-desrespeito-24529245)
 * [Rio registra 11.415 óbitos e 129.684 casos confirmados de coronavírus](https://oglobo.globo.com/rio/rio-registra-11415-obitos-129684-casos-confirmados-de-coronavirus-24529215)

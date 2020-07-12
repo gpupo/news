@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 04:34:22 UTC
+# indexed at 12/07/2020 05:11:42 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Do not remain nameless to yourself – Richard Feynman (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
+* [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
 * [An F-22 test pilot on the Raptor's flight control system](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
 * [How to Understand Things](https://nabeelqu.co/understanding)
-* [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
+* [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
-* [Complete Guide to Buying Lumber (2015)](https://www.artofmanliness.com/articles/primer-on-lumber/)
 * [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
 * [The illusion of control, and how to give it up](http://nautil.us/issue/87/risk/what-i-learned-from-losing-200-million-rp)
 * [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
-* [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
+* [Complete Guide to Buying Lumber (2015)](https://www.artofmanliness.com/articles/primer-on-lumber/)
 * [Build a No-Slot MIDI Interface on the Apple ][ Game I/O Socket](https://paleotronic.com/2020/07/05/build-a-no-slot-midi-interface-on-the-apple-game-i-o-socket/)
 * [PG: The biggest source of stress for me at YC was running HN](https://twitter.com/paulg/status/1282052801347100675)
-* [Show HN: Tiny password manager with all data stored encrypted on your machine](https://github.com/whatl3y/hide)
-* [Make Your Own ColecoVision at Home](https://www.leadedsolder.com/2020/02/16/colecovision-diy-part-1.html)
-* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
-* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [The battle to outlaw end-to-end encryption in the U.S. is heating up](https://www.expressvpn.com/blog/the-battle-to-outlaw-end-to-end-encryption-is-heating-up)
+* [Make Your Own ColecoVision at Home](https://www.leadedsolder.com/2020/02/16/colecovision-diy-part-1.html)
+* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
+* [Show HN: Tiny password manager with all data stored encrypted on your machine](https://github.com/whatl3y/hide)
+* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
 * [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
+* [Epigrams on Programming (1982)](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 * [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
 * [Ask HN: What's the worst piece of software you use everyday?](https://news.ycombinator.com/item?id=23803539)
 * [Beware of Being “Right”](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201401/beware-being-right)
+* [Millennials Are Killing Ham Radio](https://n0ssc.com/posts/583-millennials-are-killing-ham-radio)
+* [MariaDB Temporal Data Tables](https://mariadb.com/kb/en/temporal-data-tables/)
 * [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
 * [A doctor who championed hand-washing and briefly saved lives (2015)](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)
 * [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
 * [Announcing The Zig Software Foundation](https://ziglang.org/news/announcing-zig-software-foundation.html)
-* [Should children do more enrichment activities? Correcting for endogeneity](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3624929)
-* [How to Write a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [Defying U.S., China and Iran Near Trade and Military Partnership](https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html)
 * [By Praising Trump, Goya President Angers His Core Latino Market](https://www.nytimes.com/2020/07/10/dining/goya-foods-trump.html)
 * [Hindu God in a K-Pop Video? Blackpink Runs Afoul of Fans](https://www.nytimes.com/2020/07/11/world/asia/blackpink-ganesha-kpop-cultural-appropriation.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Jarvis Cocker Keeps Hearing That Voice](https://www.nytimes.com/2020/07/06/arts/music/jarvis-cocker-jarv-is.html)
 * [What Is Your True ‘Character’? And Who’s to Judge It?](https://www.nytimes.com/2020/07/07/books/review-character-history-cultural-obsession-marjorie-garber.html)
 * [A Swiss Dada Pioneer Finally Gets Her Spotlight](https://www.nytimes.com/2020/07/09/arts/design/sophie-taeuber-arp-exhibition.html)
 * [Theater Review: 'Staged' and 'Talking Heads'](https://www.nytimes.com/2020/07/09/theater/review-staged-talking-heads.html)
-* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
-* [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
+* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+* [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
 * [What Is the Hardest Part of Writing?](https://www.nytimes.com/2020/07/10/books/what-is-the-hardest-part-of-writing.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

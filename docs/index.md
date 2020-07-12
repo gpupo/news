@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 20:34:33 UTC
+# indexed at 12/07/2020 21:11:46 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Dude, You Broke the Future (2017)](http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
+* [Can Facebook provide postmortems on their iOS SDK crashes?](https://github.com/facebook/facebook-ios-sdk/issues/1385)
 * [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
 * [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
 * [Show HN: Sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [The Future of Online Identity Is Decentralized](https://yarmo.eu/post/future-online-identity-decentralized)
+* [Text-Only Social Network](https://subreply.com/trending)
 * [July 11, 2020 RIP my darling boy](https://twitter.com/beadmomsw/status/1282305932140130304)
+* [WireGuard as VPN Server on Kubernetes with AdBlocking](https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/)
 * [Target’s Gig Workers Will Strike to Protest Switch to Algorithmic Pay Model](https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model)
 * [Robot Game: Comparing 6502 C, Assembly, and Forth](http://calc6502.com/RobotGame/summary.html)
-* [Show HN: Learnawesome.org – Open-source learning map for humanity](https://news.ycombinator.com/item?id=23795779)
 * [Dealing with Insomnia](https://jacquesmattheij.com/dealing-with-insomnia/)
-* [Haproxy 2.2](https://www.haproxy.com/)
-* [WireGuard as VPN Server on Kubernetes with AdBlocking](https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/)
+* [Show HN: Learnawesome.org – Open-source learning map for humanity](https://news.ycombinator.com/item?id=23795779)
 * [SAS Rescue 3 Trapped British Diplomats in Albania](https://www.mydiplomaticlife.com/sas-rescue-trapped-diplomats-in-albania/)
+* [Haproxy 2.2](https://www.haproxy.com/)
 * [A Long-Lost Perfume Got a Second Life After 150 Years Underwater](https://www.atlasobscura.com/articles/shipwreck-perfume-bermuda-mary-celestia)
-* [The First American Restaurants’ Culinary Concoctions](https://daily.jstor.org/the-first-american-restaurants-culinary-concoctions)
 * [Candy Land Was Invented for Polio Wards (2019)](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
+* [Regular meditation more beneficial than vacation](https://www.health.harvard.edu/blog/relaxation-benefits-meditation-stronger-relaxation-benefits-taking-vacation-2016102710532)
 * [Underwater caves in Mexico preserve one of the world’s oldest ochre mines](https://www.sciencemag.org/news/2020/07/underwater-caves-mexico-preserve-one-world-s-oldest-ochre-mines)
-* [Building Arrakis: How Herbert Sabotaged His Own Ideas](https://mythcreants.com/blog/building-arrakis-how-herbert-sabotaged-his-own-ideas/)
+* [The First American Restaurants’ Culinary Concoctions](https://daily.jstor.org/the-first-american-restaurants-culinary-concoctions)
 * [How companies became addicted to debt](https://www.ft.com/content/c732fded-5252-4333-a3f8-80b767508bbc)
-* [Show HN: Notado – Content-First Bookmarking](https://notado.app/)
-* [A gentle introduction to HDBSCAN and density-based clustering](https://towardsdatascience.com/a-gentle-introduction-to-hdbscan-and-density-based-clustering-5fd79329c1e8)
-* [An Evangelist for Remote Work Sees the Rest of the World Catch On](https://www.nytimes.com/2020/07/12/business/matt-mullenweg-automattic-corner-office.html)
 * [Show HN: Spaceboard – Pinterest for Markdown Notes](https://github.com/cktang88/spaceboard)
+* [A gentle introduction to HDBSCAN and density-based clustering](https://towardsdatascience.com/a-gentle-introduction-to-hdbscan-and-density-based-clustering-5fd79329c1e8)
 * [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
+* [Solitaire with text-based interface in C](https://github.com/jborza/jborza.github.io/blob/master/_posts/2020-07-12-solitaire-cli.md)
+* [An Evangelist for Remote Work Sees the Rest of the World Catch On](https://www.nytimes.com/2020/07/12/business/matt-mullenweg-automattic-corner-office.html)
+* [Show HN: Notado – Content-First Bookmarking](https://notado.app/)
 * [Digital Audio on VHS – The Technics SV-P100 [video]](https://www.youtube.com/watch?v=WVDCxTtn4OQ)
-* [The growing short case on Facebook and Google](https://twitter.com/chamath/status/1281630456807452677)
 * [Lava tubes may be havens for ancient alien life and future human explorers](https://www.pnas.org/content/early/2020/07/07/2012176117)
-* [Canada aims to ban single-use plastics by 2021](https://www.nationalgeographic.com/environment/2019/06/canada-single-use-plastics-ban-2021/)
-* [Sandboxie-Plus – a fork of Sandboxie with improved functionality](https://github.com/sandboxie-plus/Sandboxie/releases/tag/v0.3)
-* [Cockroachdb/copyist: Mocking an SQL database in Go tests](https://github.com/cockroachdb/copyist)
+* [The growing short case on Facebook and Google](https://twitter.com/chamath/status/1281630456807452677)
 ## nytimes.com
 
 
@@ -76,21 +76,20 @@ layout: default
 * [Southside Johnny Brings Live Music Back to the Jersey Shore](https://www.nytimes.com/2020/07/12/nyregion/monmouth-park-southside-johnny-drive-in-concert.html)
 * [Poland’s Presidential Election Too Close to Call](https://www.nytimes.com/2020/07/12/world/europe/poland-election-Duda-Trzaskowski.html)
 * [Britain Gambles on a Bankrupt Satellite Operator, OneWeb](https://www.nytimes.com/2020/07/10/business/britain-oneweb.html)
-* [Time Capsule Found in North Carolina Confederate Monument](https://www.nytimes.com/2020/07/08/us/confederate-monument-robert-lee-north-carolina.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Fire Breaks Out on U.S.S. Bonhomme Richard in San Diego](https://www.nytimes.com/2020/07/12/us/naval-ship-fire-san-diego.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [What to Do When You Need to Use a Public Bathroom During a Pandemic](https://www.nytimes.com/2020/06/24/style/coronavirus-public-bathrooms.html)
+* [Is It Safe to Go to a Pool During Coronavirus?](https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [They Passed the Long-Distance Test](https://www.nytimes.com/2020/07/10/fashion/weddings/they-passed-the-long-distance-test.html)
 * [How the Creator of Domino Park’s Social Distancing Circles Spends His Sundays](https://www.nytimes.com/2020/07/10/nyregion/domino-park-social-distancing-circles-nyc.html)
 * [Review: ‘P-Valley’ Has All the Right Moves](https://www.nytimes.com/2020/07/09/arts/television/p-valley-review-starz.html)
 * [‘I Just Cost Myself 250 Grand.’](https://www.nytimes.com/2020/07/09/sports/golf/golf-putt-for-dough.html)
 * [Inside an Eclectic Retreat on Shelter Island](https://www.nytimes.com/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
+* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
-* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
 * [Writer for Tucker Carlson Resigns After ‘Abhorrent’ Online Posts Are Revealed](https://www.nytimes.com/2020/07/11/business/media/tucker-carlson-writer-blake-neff.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -98,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Em Hong Kong, 600 mil votam em primárias informais que testam democracia local](https://oglobo.globo.com/mundo/em-hong-kong-600-mil-votam-em-primarias-informais-que-testam-democracia-local-24529026)
+* [Pesquisas de boca de urna apontam empate técnico em eleição que define futuro da Polônia](https://oglobo.globo.com/mundo/pesquisas-de-boca-de-urna-apontam-empate-tecnico-em-eleicao-que-define-futuro-da-polonia-24529014)
 * [Flórida bate recorde diário e registra 15 mil novos casos de Covid-19, em meio à retomada de atividades](https://oglobo.globo.com/mundo/florida-bate-recorde-diario-registra-15-mil-novos-casos-de-covid-19-em-meio-retomada-de-atividades-24528980)
 * [Polícia da Bahia reconstitui operação em que Adriano da Nóbrega foi morto](https://oglobo.globo.com/brasil/policia-da-bahia-reconstitui-operacao-em-que-adriano-da-nobrega-foi-morto-24529068)
-* [Pesquisas de boca de urna apontam empate técnico em eleição que define futuro da Polônia](https://oglobo.globo.com/mundo/pesquisas-de-boca-de-urna-apontam-empate-tecnico-em-eleicao-que-define-futuro-da-polonia-24529014)
 * [Tottenham vira para cima do Arsenal e ainda sonha com vaga na Liga Europa](https://oglobo.globo.com/esportes/tottenham-vira-para-cima-do-arsenal-ainda-sonha-com-vaga-na-liga-europa-24529062)
 * [China liberta professor que criticou o presidente Xi Jinping](https://oglobo.globo.com/mundo/china-liberta-professor-que-criticou-presidente-xi-jinping-1-24528933)
 * [Acelerador de partículas brasileiro registra imagens inéditas do novo coronavírus](https://oglobo.globo.com/sociedade/acelerador-de-particulas-brasileiro-registra-imagens-ineditas-do-novo-coronavirus-24529046)
-* [Em Hong Kong, 600 mil votam em primárias informais para eleições que testam democracia local](https://oglobo.globo.com/mundo/em-hong-kong-600-mil-votam-em-primarias-informais-para-eleicoes-que-testam-democracia-local-24529026)
 * [Balão cai em rua de Vila Isabel e morador relata momentos de pânico](https://oglobo.globo.com/rio/balao-cai-em-rua-de-vila-isabel-morador-relata-momentos-de-panico-24529041)
 * [Petrobras interrompe fornecimento de lote de gasolina de aviação após testes](https://oglobo.globo.com/economia/petrobras-interrompe-fornecimento-de-lote-de-gasolina-de-aviacao-apos-testes-24528917)
 * [ARTIGO: Bolsonaro está acuado pelas próprias mentiras e por uma duvidosa verdade](https://epoca.globo.com/artigo-bolsonaro-esta-acuado-pelas-proprias-mentiras-por-uma-duvidosa-verdade-24528983)

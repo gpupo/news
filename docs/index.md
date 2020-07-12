@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 02:34:36 UTC
+# indexed at 12/07/2020 03:12:20 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Linus Torvalds on 'Linux kernel in-tree Rust support'](https://lkml.org/lkml/2020/7/10/1261)
-* [Enrichment activities have no cognitive benefits in kids](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3624929)
+* [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+* [An F-22 test pilot on the Raptor's flight control system](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
+* [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * [How to Understand Things](https://nabeelqu.co/understanding)
+* [Do not remain nameless to yourself – Richard Feynman (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 * [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
-* [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
-* [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
-* [Reflections on trusting trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
-* [This Lecture by an F-22 Pilot on the Raptor's Flight Control System Is Bonkers](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
-* [Britian to give millions of HKers a path to citizenship](https://www.scmp.com/news/china/diplomacy/article/3091404/britain-give-3-million-hongkongers-residency-rights-and-path)
 * [Complete Guide to Buying Lumber (2015)](https://www.artofmanliness.com/articles/primer-on-lumber/)
+* [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
+* [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
+* [Britian to give millions of HKers a path to citizenship](https://www.scmp.com/news/china/diplomacy/article/3091404/britain-give-3-million-hongkongers-residency-rights-and-path)
 * [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
+* [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
 * [PG: The biggest source of stress for me at YC was running HN](https://twitter.com/paulg/status/1282052801347100675)
-* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
+* [The illusion of control, and how to give it up](http://nautil.us/issue/87/risk/what-i-learned-from-losing-200-million-rp)
 * [Make Your Own ColecoVision at Home](https://www.leadedsolder.com/2020/02/16/colecovision-diy-part-1.html)
-* [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
+* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
+* [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
+* [Build a No-Slot MIDI Interface on the Apple ][ Game I/O Socket](https://paleotronic.com/2020/07/05/build-a-no-slot-midi-interface-on-the-apple-game-i-o-socket/)
 * [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
-* [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
+* [The battle to outlaw end-to-end encryption in the U.S. is heating up](https://www.expressvpn.com/blog/the-battle-to-outlaw-end-to-end-encryption-is-heating-up)
 * [Ask HN: What's the worst piece of software you use everyday?](https://news.ycombinator.com/item?id=23803539)
+* [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
+* [Should children do more enrichment activities? Correcting for endogeneity](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3624929)
+* [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
 * [Announcing The Zig Software Foundation](https://ziglang.org/news/announcing-zig-software-foundation.html)
 * [A doctor who championed hand-washing and briefly saved lives (2015)](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)
-* [The battle to outlaw end-to-end encryption in the U.S. is heating up](https://www.expressvpn.com/blog/the-battle-to-outlaw-end-to-end-encryption-is-heating-up)
-* [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
-* [How to Write a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 * [Beware of Being “Right”](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201401/beware-being-right)
-* [AES67 resources – Audio over IP protocol](https://hartung.io/2020/07/aes67-resources/)
-* [Why are toys such a bad business?](https://diff.substack.com/p/why-are-toys-such-a-bad-business)
-* [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
-* [Scanimage: Scan from the Command Line](https://jvns.ca/blog/2020/07/11/scanimage--scan-from-the-command-line/)
+* [How to Write a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 ## nytimes.com
 
 
@@ -88,10 +88,10 @@ layout: default
 * [What Is Your True ‘Character’? And Who’s to Judge It?](https://www.nytimes.com/2020/07/07/books/review-character-history-cultural-obsession-marjorie-garber.html)
 * [A Swiss Dada Pioneer Finally Gets Her Spotlight](https://www.nytimes.com/2020/07/09/arts/design/sophie-taeuber-arp-exhibition.html)
 * [Theater Review: 'Staged' and 'Talking Heads'](https://www.nytimes.com/2020/07/09/theater/review-staged-talking-heads.html)
-* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
-* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
+* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
 * [The Most Dangerous Phase of Trump’s Rule](https://www.nytimes.com/2020/07/10/opinion/trump-nationalism.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Major Olimpio ameaça deixar PSL após partido se reaproximar de Bolsonaro: 'Tchau, queridos'](https://oglobo.globo.com/brasil/major-olimpio-ameaca-deixar-psl-apos-partido-se-reaproximar-de-bolsonaro-tchau-queridos-24528715)
 * [Marly Sarney sofre queda e será submetida a cirurgia](https://epoca.globo.com/marly-sarney-sofre-queda-sera-submetida-cirurgia-1-24528459)
 * [Nise Yamagushi é afastada do Einstein por analogia entre Covid e nazismo](https://oglobo.globo.com/sociedade/nise-yamagushi-afastada-do-einstein-por-analogia-entre-covid-nazismo-24528341)
-* [Trump aparece pela primeira vez em público usando máscara](https://oglobo.globo.com/mundo/trump-aparece-pela-primeira-vez-em-publico-usando-mascara-24528276)
 * [MPF do Rio cobra medidas do Incra sobre morte de trabalhador rural em assentamento](https://oglobo.globo.com/rio/mpf-do-rio-cobra-medidas-do-incra-sobre-morte-de-trabalhador-rural-em-assentamento-24528455)
 * [Oito estados e o DF têm tendência de aumento nas mortes por Covid-19; sete sinalizam queda](https://oglobo.globo.com/sociedade/oito-estados-o-df-tem-tendencia-de-aumento-nas-mortes-por-covid-19-sete-sinalizam-queda-24527976)
 * [Total de casos da Covid-19 sobe para 1.840.812 no Brasil, diz consórcio de veículos de imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/total-de-casos-da-covid-19-sobe-para-1840812-no-brasil-diz-consorcio-de-veiculos-de-imprensa-em-boletim-das-20h-24528303)
-* [Parte dos R$ 8,5 milhões apreendidos em operação do MP estava em carro na Barra da Tijuca](https://oglobo.globo.com/rio/parte-dos-85-milhoes-apreendidos-em-operacao-do-mp-estava-em-carro-na-barra-da-tijuca-24528266)
 * [Final do Estadual: Flamengo poupa Bruno Henrique e Fluminense perde Nino](https://oglobo.globo.com/esportes/final-do-estadual-flamengo-poupa-bruno-henrique-fluminense-perde-nino-24528309)
 * [Hoje chique, Leblon já foi considerado subúrbio](https://epoca.globo.com/hoje-chique-leblon-ja-foi-considerado-suburbio-24528273)
-* [Rio registra 126 óbitos e 1.096 novos casos de coronavírus nas últimas 24 horas](https://oglobo.globo.com/rio/rio-registra-126-obitos-1096-novos-casos-de-coronavirus-nas-ultimas-24-horas-24528272)
+* [Auditoria no Face pode ajudar lei das fake news](https://oglobo.globo.com/opiniao/auditoria-no-face-pode-ajudar-lei-das-fake-news-1-24526726)
+* [Diogo Nogueira canta e cozinha ao vivo: 'gosto de cozinhar de verdade, e o barato das lives é isso, é tudo de verdade'](https://oglobo.globo.com/rioshow/diogo-nogueira-canta-cozinha-ao-vivo-gosto-de-cozinhar-de-verdade-o-barato-das-lives-isso-tudo-de-verdade-24523667)

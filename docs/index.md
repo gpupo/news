@@ -2,33 +2,35 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 14:12:55 UTC
+# indexed at 12/07/2020 14:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
+* [My favorite self help books that I think everyone must read](https://dailyjag.com/literature/read-these-self-help-books-and-make-most-of-our-this-downtime/)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+* [Candy Land Was Invented for Polio Wards (2019)](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
 * [Dealing with Insomnia](https://jacquesmattheij.com/dealing-with-insomnia/)
-* [An F-22 test pilot on the Raptor's flight control system](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
-* [The growing short case on Facebook and Google](https://twitter.com/chamath/status/1281630456807452677)
-* [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [Digital Audio on VHS – The Technics SV-P100 [video]](https://www.youtube.com/watch?v=WVDCxTtn4OQ)
+* [An F-22 test pilot on the Raptor's flight control system](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
+* [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
+* [The growing short case on Facebook and Google](https://twitter.com/chamath/status/1281630456807452677)
 * [MariaDB Temporal Data Tables](https://mariadb.com/kb/en/temporal-data-tables/)
 * [Sandboxie-Plus – a fork of Sandboxie with improved functionality](https://github.com/sandboxie-plus/Sandboxie/releases/tag/v0.3)
-* [Tour of Rust](https://tourofrust.com/)
-* [Linux to discourage use of "master/slave", "blacklist/whitelist" in source code](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=49decddd39e5f6132ccd7d9fdc3d7c470b0061bb)
 * [Ruby lib/irb/easter-egg.rb](https://github.com/ruby/ruby/blob/a0c7c23c9cec0d0ffcba012279cd652d28ad5bf3/lib/irb/easter-egg.rb)
+* [Tour of Rust](https://tourofrust.com/)
 * [The company that sells your lost airplane luggage](https://thehustle.co/unclaimed-baggage-store-that-sells-lost-luggage/)
+* [Hosting your entire web application using S3 and CloudFront](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)
 * [Thinking about a New Type System for Perl/Cor](https://github.com/Ovid/Cor/wiki/Type-System)
-* [How companies became addicted to debt](https://www.ft.com/content/c732fded-5252-4333-a3f8-80b767508bbc)
+* [American Passports Are Worthless Now (Map)](https://medium.com/@indica/the-plague-states-of-america-53b20678a80e)
 * [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * [IBM looking for 12 years’ experience in Kubernetes administration](https://intellijobs.ai/job/IBMCloud-Native-Infrastructure-Engineer-Architect-bvJJ6yraexfWOk1nMRKP-bvJJ6yraexfWOk1nMRKP)
-* [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
 * [The illusion of control, and how to give it up](http://nautil.us/issue/87/risk/what-i-learned-from-losing-200-million-rp)
-* [Hosting your entire web application using S3 and CloudFront](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)
+* [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
+* [Lava tubes may be havens for ancient alien life and future human explorers](https://www.pnas.org/content/early/2020/07/07/2012176117)
 * [How to Understand Things](https://nabeelqu.co/understanding)
 * [PG: The biggest source of stress for me at YC was running HN](https://twitter.com/paulg/status/1282052801347100675)
 * [Build a No-Slot MIDI Interface on the Apple ][ Game I/O Socket](https://paleotronic.com/2020/07/05/build-a-no-slot-midi-interface-on-the-apple-game-i-o-socket/)
@@ -36,8 +38,6 @@ layout: default
 * [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
 * [Porting a Wolfenstein-type engine to the MEGA65](https://c65gs.blogspot.com/2020/07/porting-wolfenstein-type-engine-to.html)
 * [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
-* [Announcing The Zig Software Foundation](https://ziglang.org/news/announcing-zig-software-foundation.html)
-* [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 ## nytimes.com
 
 
@@ -90,10 +90,10 @@ layout: default
 * [Review: ‘P-Valley’ Has All the Right Moves](https://www.nytimes.com/2020/07/09/arts/television/p-valley-review-starz.html)
 * [‘I Just Cost Myself 250 Grand.’](https://www.nytimes.com/2020/07/09/sports/golf/golf-putt-for-dough.html)
 * [Inside an Eclectic Retreat on Shelter Island](https://www.nytimes.com/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
-* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
-* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
+* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
+* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
 * [‘I Couldn’t Do Anything’: The Virus and an E.R. Doctor’s Suicide](https://www.nytimes.com/2020/07/11/nyregion/lorna-breen-suicide-coronavirus.html)
 * [What Is the Hardest Part of Writing?](https://www.nytimes.com/2020/07/10/books/what-is-the-hardest-part-of-writing.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,12 +102,12 @@ layout: default
 ## globo.com
 
 
+* [Especial 'Cidadão, sim' exalta o papel do indivíduo na promoção do bem-estar coletivo](https://oglobo.globo.com/meu-oglobo/especial-cidadao-sim-exalta-papel-do-individuo-na-promocao-do-bem-estar-coletivo-1-24528845)
+* ['Uma única vacina não vai parar a pandemia': a trajetória da brasileira que coordena testes no Reino Unido](https://epoca.globo.com/sociedade/uma-unica-vacina-nao-vai-parar-pandemia-trajetoria-da-brasileira-que-coordena-testes-no-reino-unido-24522667)
+* [Fabricante de calçados esportivos do tenista Roger Federer prepara abertura de capital](https://oglobo.globo.com/economia/fabricante-de-calcados-esportivos-do-tenista-roger-federer-prepara-abertura-de-capital-24528839)
 * [Qual o papel da cidadania?](https://oglobo.globo.com/sociedade/qual-papel-da-cidadania-24528823)
-* [Fabricante de calçados esportivos do tenista Roger Federer prepara IPO](https://oglobo.globo.com/economia/fabricante-de-calcados-esportivos-do-tenista-roger-federer-prepara-ipo-24528839)
 * ['O Exército está se associando a esse genocídio', diz Gilmar Mendes sobre pandemia do coronavírus no Brasil](https://oglobo.globo.com/brasil/o-exercito-esta-se-associando-esse-genocidio-diz-gilmar-mendes-sobre-pandemia-do-coronavirus-no-brasil-24528798)
 * [Tesla reduz preço de SUV para manter vendas durante a pandemia](https://oglobo.globo.com/economia/tesla-reduz-preco-de-suv-para-manter-vendas-durante-pandemia-24528808)
-* [Brasil tem 1.842.127 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-1842127-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24528766)
-* [Jennifer Aniston será madrinha da filha de Katy Perry, diz jornal](https://oglobo.globo.com/ela/gente/jennifer-aniston-sera-madrinha-da-filha-de-katy-perry-diz-jornal-24528775)
 * [Estratégia internacional das empresas é ameaçada pela política ambiental do governo](https://oglobo.globo.com/economia/estrategia-internacional-das-empresas-ameacada-pela-politica-ambiental-do-governo-24528674)
 * [Planos de saúde levam atendimento à casa de doentes crônicos na pandemia](https://oglobo.globo.com/economia/planos-de-saude-levam-atendimento-casa-de-doentes-cronicos-na-pandemia-24528391)
 * [Pilotos temem perder emprego com previsão de 'sobra' de 2 mil profissionais no país após a pandemia](https://oglobo.globo.com/economia/pilotos-temem-perder-emprego-com-previsao-de-sobra-de-2-mil-profissionais-no-pais-apos-pandemia-24528255)

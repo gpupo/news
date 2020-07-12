@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 07:34:35 UTC
+# indexed at 12/07/2020 08:13:28 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 * [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
-* [Hosting your entire web application using S3 and CloudFront](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)
+* [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 * [Tour of Rust](https://tourofrust.com/)
+* [Hosting your entire web application using S3 and CloudFront](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
 * [An F-22 test pilot on the Raptor's flight control system](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
 * [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
-* [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
 * [MariaDB Temporal Data Tables](https://mariadb.com/kb/en/temporal-data-tables/)
+* [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
 * [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * [The illusion of control, and how to give it up](http://nautil.us/issue/87/risk/what-i-learned-from-losing-200-million-rp)
-* [Build a No-Slot MIDI Interface on the Apple ][ Game I/O Socket](https://paleotronic.com/2020/07/05/build-a-no-slot-midi-interface-on-the-apple-game-i-o-socket/)
 * [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
 * [PG: The biggest source of stress for me at YC was running HN](https://twitter.com/paulg/status/1282052801347100675)
-* [Show HN: Tiny password manager with all data stored encrypted on your machine](https://github.com/whatl3y/hide)
+* [Build a No-Slot MIDI Interface on the Apple ][ Game I/O Socket](https://paleotronic.com/2020/07/05/build-a-no-slot-midi-interface-on-the-apple-game-i-o-socket/)
 * [How to Understand Things](https://nabeelqu.co/understanding)
 * [Make Your Own ColecoVision at Home](https://www.leadedsolder.com/2020/02/16/colecovision-diy-part-1.html)
-* [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
-* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
 * [Ask HN: What's the worst piece of software you use everyday?](https://news.ycombinator.com/item?id=23803539)
-* [Porting a Wolfenstein-type engine to the MEGA65](https://c65gs.blogspot.com/2020/07/porting-wolfenstein-type-engine-to.html)
+* [Epigrams on Programming (1982)](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
+* [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
+* [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
 * [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
-* [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
+* [Porting a Wolfenstein-type engine to the MEGA65](https://c65gs.blogspot.com/2020/07/porting-wolfenstein-type-engine-to.html)
 * [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
 * [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
+* [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
 * [Announcing The Zig Software Foundation](https://ziglang.org/news/announcing-zig-software-foundation.html)
 * [Show HN: StarCLI – Browse trending repos on GitHub by star, date, and more](https://github.com/hedythedev/starcli/)
-* [Epigrams on Programming (1982)](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
+* [Linus Torvalds: “I Hope AVX512 Dies a Painful Death”](http://www.phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-On-AVX-512)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [Defying U.S., China and Iran Near Trade and Military Partnership](https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html)
 * [By Praising Trump, Goya President Angers His Core Latino Market](https://www.nytimes.com/2020/07/10/dining/goya-foods-trump.html)
 * [Hindu God in a K-Pop Video? Blackpink Runs Afoul of Fans](https://www.nytimes.com/2020/07/11/world/asia/blackpink-ganesha-kpop-cultural-appropriation.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [Jarvis Cocker Keeps Hearing That Voice](https://www.nytimes.com/2020/07/06/arts/music/jarvis-cocker-jarv-is.html)
 * [What Is Your True ‘Character’? And Who’s to Judge It?](https://www.nytimes.com/2020/07/07/books/review-character-history-cultural-obsession-marjorie-garber.html)
 * [A Swiss Dada Pioneer Finally Gets Her Spotlight](https://www.nytimes.com/2020/07/09/arts/design/sophie-taeuber-arp-exhibition.html)
 * [Theater Review: 'Staged' and 'Talking Heads'](https://www.nytimes.com/2020/07/09/theater/review-staged-talking-heads.html)
-* [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
-* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
 * [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
+* [She’s an Authority on Earth’s Past. Now, Her Focus Is the Planet’s Future.](https://www.nytimes.com/2020/07/10/climate/lamont-doherty-maureen-raymo-climate-change.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+* [Teletherapy, Popular in the Pandemic, May Outlast It](https://www.nytimes.com/2020/07/09/well/mind/teletherapy-mental-health-coronavirus.html)
 * [What Is the Hardest Part of Writing?](https://www.nytimes.com/2020/07/10/books/what-is-the-hardest-part-of-writing.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Sossego na quarentena pode ter encorajado onça-parda a sair de floresta para dar passeio em Barra de Guaratiba](https://oglobo.globo.com/rio/sossego-na-quarentena-pode-ter-encorajado-onca-parda-sair-de-floresta-para-dar-passeio-em-barra-de-guaratiba-1-24528677)
-* [PM recebe denúncias de crimes, não age e cita decisão do STF que proibiu operações](https://oglobo.globo.com/rio/pm-recebe-denuncias-de-crimes-nao-age-cita-decisao-do-stf-que-proibiu-operacoes-24528694)
+* [Em destaque na reta final do Carioca, TVs oficiais acendem debate sobre qual seu papel na estratégia dos clubes](https://oglobo.globo.com/esportes/em-destaque-na-reta-final-do-carioca-tvs-oficiais-acendem-debate-sobre-qual-seu-papel-na-estrategia-dos-clubes-1-24528347)
+* [Precisamos acabar com o clima de Fla-Flu que assola o Fla-Flu](https://oglobo.globo.com/esportes/precisamos-acabar-com-clima-de-fla-flu-que-assola-fla-flu-1-24528372)
 * [Empresas que atuam no exterior tentam driblar polêmicas na diplomacia brasileira e conquistar novos mercados](https://oglobo.globo.com/economia/empresas-que-atuam-no-exterior-tentam-driblar-polemicas-na-diplomacia-brasileira-conquistar-novos-mercados-24528356)
 * ['Sem a iniciativa privada, meio ambiente é tragédia', diz professor](https://oglobo.globo.com/economia/sem-iniciativa-privada-meio-ambiente-tragedia-diz-professor-24528305)
 * [Centenário de Elizeth Cardoso é comemorado com relançamento de discos, lives e shows virtuais](https://oglobo.globo.com/cultura/centenario-de-elizeth-cardoso-comemorado-com-relancamento-de-discos-lives-shows-virtuais-1-24527194)
 * [Pandemia da Covid-19 isola populações e torna Tríplice Fronteira irreconhecível](https://oglobo.globo.com/mundo/pandemia-da-covid-19-isola-populacoes-torna-triplice-fronteira-irreconhecivel-24526687)
 * [Conheça Castelluccio, o vilarejo na Itália cercado de flores por todos os lados: veja fotos](https://oglobo.globo.com/boa-viagem/conheca-castelluccio-vilarejo-na-italia-cercado-de-flores-por-todos-os-lados-veja-fotos-24527654)
 * [Elizeth, Deus e o diabo](https://oglobo.globo.com/cultura/elizeth-deus-o-diabo-1-24527326)
-* [Paula Braun fala sobre sexo com Mateus Solano: 'A chama acende e apaga, não existe isso de estar acesa o tempo todo'](https://oglobo.globo.com/ela/gente/paula-braun-fala-sobre-sexo-com-mateus-solano-chama-acende-apaga-nao-existe-isso-de-estar-acesa-tempo-todo-24525960)
+* [Um rodízio de sabores de pizza no Festival Delivery Rio](https://oglobo.globo.com/rioshow/um-rodizio-de-sabores-de-pizza-no-festival-delivery-rio-24525837)
 * [Djamila Ribeiro comemora sucesso na academia e fora dela e não descarta carreira política: 'Pode ser que, daqui a alguns anos, eu me interesse'](https://oglobo.globo.com/ela/gente/djamila-ribeiro-comemora-sucesso-na-academia-fora-dela-nao-descarta-carreira-politica-pode-ser-que-daqui-alguns-anos-eu-me-interesse-1-24523474)

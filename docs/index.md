@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 02:13:53 UTC
+# indexed at 12/07/2020 02:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Linus Torvalds on 'Linux kernel in-tree Rust support'](https://lkml.org/lkml/2020/7/10/1261)
 * [Enrichment activities have no cognitive benefits in kids](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3624929)
 * [How to Understand Things](https://nabeelqu.co/understanding)
-* [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
 * [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
+* [Venice test brings up floodgates for first time](https://www.bbc.com/news/world-europe-53361958)
 * [CRDTs: The Hard Parts [video]](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)
 * [Reflections on trusting trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
+* [This Lecture by an F-22 Pilot on the Raptor's Flight Control System Is Bonkers](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
 * [Britian to give millions of HKers a path to citizenship](https://www.scmp.com/news/china/diplomacy/article/3091404/britain-give-3-million-hongkongers-residency-rights-and-path)
-* [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [Complete Guide to Buying Lumber (2015)](https://www.artofmanliness.com/articles/primer-on-lumber/)
+* [Scientists say you can cancel the noise but keep your window open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
 * [PG: The biggest source of stress for me at YC was running HN](https://twitter.com/paulg/status/1282052801347100675)
-* [This Lecture by an F-22 Pilot on the Raptor's Flight Control System Is Bonkers](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
 * [Show HN: HN Demetricator – An extension that removes upvote and comment counts](https://github.com/brian-yu/hn-demetricator)
 * [Make Your Own ColecoVision at Home](https://www.leadedsolder.com/2020/02/16/colecovision-diy-part-1.html)
-* [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
+* [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [Tracking Pico Balloons Using Ham Radio [pdf]](http://www.harc.net/programs/wb8elk-balloon-tracking.pdf)
+* [Soup.io Will Be Discontinued](https://kitchen.soup.io/post/696483222/The-sadest-news-in-the-soup-history)
 * [How much your computer can do in a second (2015)](http://computers-are-fast.github.io)
 * [Ask HN: What's the worst piece of software you use everyday?](https://news.ycombinator.com/item?id=23803539)
 * [Announcing The Zig Software Foundation](https://ziglang.org/news/announcing-zig-software-foundation.html)
 * [A doctor who championed hand-washing and briefly saved lives (2015)](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)
-* [How to Write a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
-* [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
-* [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [The battle to outlaw end-to-end encryption in the U.S. is heating up](https://www.expressvpn.com/blog/the-battle-to-outlaw-end-to-end-encryption-is-heating-up)
-* [AES67 resources – Audio over IP protocol](https://hartung.io/2020/07/aes67-resources/)
+* [Migrating Away from Google Analytics](https://freshman.tech/google-analytics-to-plausible/)
+* [How to Write a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 * [Beware of Being “Right”](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201401/beware-being-right)
+* [AES67 resources – Audio over IP protocol](https://hartung.io/2020/07/aes67-resources/)
 * [Why are toys such a bad business?](https://diff.substack.com/p/why-are-toys-such-a-bad-business)
-* [Tesla drops Model Y price by $3k](https://www.engadget.com/tesla-model-y-price-drop-215340622.html)
 * [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
+* [Scanimage: Scan from the Command Line](https://jvns.ca/blog/2020/07/11/scanimage--scan-from-the-command-line/)
 ## nytimes.com
 
 
@@ -81,9 +81,9 @@ layout: default
 * [Hindu God in a K-Pop Video? Blackpink Runs Afoul of Fans](https://www.nytimes.com/2020/07/11/world/asia/blackpink-ganesha-kpop-cultural-appropriation.html)
 * [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Jarvis Cocker Keeps Hearing That Voice](https://www.nytimes.com/2020/07/06/arts/music/jarvis-cocker-jarv-is.html)
 * [What Is Your True ‘Character’? And Who’s to Judge It?](https://www.nytimes.com/2020/07/07/books/review-character-history-cultural-obsession-marjorie-garber.html)
 * [A Swiss Dada Pioneer Finally Gets Her Spotlight](https://www.nytimes.com/2020/07/09/arts/design/sophie-taeuber-arp-exhibition.html)
@@ -99,9 +99,9 @@ layout: default
 ## globo.com
 
 
+* [Marly Sarney sofre queda e será submetida a cirurgia](https://epoca.globo.com/marly-sarney-sofre-queda-sera-submetida-cirurgia-1-24528459)
 * [Nise Yamagushi é afastada do Einstein por analogia entre Covid e nazismo](https://oglobo.globo.com/sociedade/nise-yamagushi-afastada-do-einstein-por-analogia-entre-covid-nazismo-24528341)
 * [Trump aparece pela primeira vez em público usando máscara](https://oglobo.globo.com/mundo/trump-aparece-pela-primeira-vez-em-publico-usando-mascara-24528276)
-* [Marly Sarney sofre queda e será submetida a cirurgia](https://epoca.globo.com/marly-sarney-sofre-queda-sera-submetida-cirurgia-24528459)
 * [MPF do Rio cobra medidas do Incra sobre morte de trabalhador rural em assentamento](https://oglobo.globo.com/rio/mpf-do-rio-cobra-medidas-do-incra-sobre-morte-de-trabalhador-rural-em-assentamento-24528455)
 * [Oito estados e o DF têm tendência de aumento nas mortes por Covid-19; sete sinalizam queda](https://oglobo.globo.com/sociedade/oito-estados-o-df-tem-tendencia-de-aumento-nas-mortes-por-covid-19-sete-sinalizam-queda-24527976)
 * [Total de casos da Covid-19 sobe para 1.840.812 no Brasil, diz consórcio de veículos de imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/total-de-casos-da-covid-19-sobe-para-1840812-no-brasil-diz-consorcio-de-veiculos-de-imprensa-em-boletim-das-20h-24528303)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/07/2020 17:12:02 UTC
+# indexed at 12/07/2020 17:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
 * [The Future of Online Identity Is Decentralized](https://yarmo.eu/post/future-online-identity-decentralized)
 * [Robot Game: Comparing 6502 C, Assembly, and Forth](http://calc6502.com/RobotGame/summary.html)
+* [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
 * [SAS Rescue 3 Trapped British Diplomats in Albania](https://www.mydiplomaticlife.com/sas-rescue-trapped-diplomats-in-albania/)
-* [US citizens warned they face arbitrary arrest in China](https://m.dw.com/en/us-citizens-warned-they-face-arbitrary-arrest-in-china/a-54144205)
 * [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 * [Rust for JavaScript Developers – Pattern Matching and Enums](http://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums)
-* [Candy Land Was Invented for Polio Wards (2019)](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
 * [Cockroachdb/copyist: Mocking an SQL database in Go tests](https://github.com/cockroachdb/copyist)
-* [Sirum (YC W15 Nonprofit) hiring back end engineer to automate a pharmacy](https://sirum.breezy.hr/p/ab846e013b2b-backend-engineer-1-atlanta-ga-preferred)
+* [Candy Land Was Invented for Polio Wards (2019)](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
 * [A gentle introduction to HDBSCAN and density-based clustering](https://towardsdatascience.com/a-gentle-introduction-to-hdbscan-and-density-based-clustering-5fd79329c1e8)
-* [Digital Audio on VHS – The Technics SV-P100 [video]](https://www.youtube.com/watch?v=WVDCxTtn4OQ)
-* [The company that sells lost airplane luggage](https://thehustle.co/unclaimed-baggage-store-that-sells-lost-luggage/)
-* [Sandboxie-Plus – a fork of Sandboxie with improved functionality](https://github.com/sandboxie-plus/Sandboxie/releases/tag/v0.3)
-* [Lava tubes may be havens for ancient alien life and future human explorers](https://www.pnas.org/content/early/2020/07/07/2012176117)
-* [MariaDB Temporal Data Tables](https://mariadb.com/kb/en/temporal-data-tables/)
 * [Underwater caves in Mexico preserve one of the world’s oldest ochre mines](https://www.sciencemag.org/news/2020/07/underwater-caves-mexico-preserve-one-world-s-oldest-ochre-mines)
+* [Sirum (YC W15 Nonprofit) hiring back end engineer to automate a pharmacy](https://sirum.breezy.hr/p/ab846e013b2b-backend-engineer-1-atlanta-ga-preferred)
+* [Digital Audio on VHS – The Technics SV-P100 [video]](https://www.youtube.com/watch?v=WVDCxTtn4OQ)
+* [Lava tubes may be havens for ancient alien life and future human explorers](https://www.pnas.org/content/early/2020/07/07/2012176117)
+* [Sandboxie-Plus – a fork of Sandboxie with improved functionality](https://github.com/sandboxie-plus/Sandboxie/releases/tag/v0.3)
+* [The company that sells lost airplane luggage](https://thehustle.co/unclaimed-baggage-store-that-sells-lost-luggage/)
+* [MariaDB Temporal Data Tables](https://mariadb.com/kb/en/temporal-data-tables/)
+* [Show HN: Learnawesome.org – Open-source learning map for humanity](https://news.ycombinator.com/item?id=23795779)
 * [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
 * [Ruby lib/irb/easter-egg.rb](https://github.com/ruby/ruby/blob/a0c7c23c9cec0d0ffcba012279cd652d28ad5bf3/lib/irb/easter-egg.rb)
 * [Tour of Rust](https://tourofrust.com/)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
 * [Linux kernel in-tree Rust support](https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u)
+* [US citizens warned they face arbitrary arrest in China](https://m.dw.com/en/us-citizens-warned-they-face-arbitrary-arrest-in-china/a-54144205)
 * [Dealing with Insomnia](https://jacquesmattheij.com/dealing-with-insomnia/)
-* [Moving from Siloed Organizations to Distributed Individuals](https://www.forbes.com/sites/forbestechcouncil/2020/07/10/moving-from-siloed-organizations-to-distributed-individuals/#6ae1852a228d)
 * [An F-22 test pilot on the Raptor's flight control system](https://www.thedrive.com/the-war-zone/34762/this-lecture-by-an-f-22-test-pilot-on-the-raptors-flight-control-system-is-bonkers)
-* [Ted’s summer culture list: 114 podcasts, books, TV shows, movies and more](https://ideas.ted.com/teds-summer-culture-list-114-podcasts-books-tv-shows-movies-and-more-to-nourish-you/)
 * [How to Understand Things](https://nabeelqu.co/understanding)
+* [Moving from Siloed Organizations to Distributed Individuals](https://www.forbes.com/sites/forbestechcouncil/2020/07/10/moving-from-siloed-organizations-to-distributed-individuals/#6ae1852a228d)
 * [The Polymath Playbook](https://salman.io/posts/polymath-playbook/)
 * [PG: The biggest source of stress for me at YC was running HN](https://twitter.com/paulg/status/1282052801347100675)
-* [Epigrams on Programming (1982)](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
-* [Show HN: Trail Router – generate running routes that prefer greenery and nature](https://trailrouter.com/)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [An Evangelist for Remote Work Sees the Rest of the World Catch On](https://www.nytimes.com/2020/07/12/business/matt-mullenweg-automattic-corner-office.html)
 * [Defying U.S., China and Iran Near Trade and Military Partnership](https://www.nytimes.com/2020/07/11/world/asia/china-iran-trade-military-deal.html)
 * [Time Capsule Found in North Carolina Confederate Monument](https://www.nytimes.com/2020/07/08/us/confederate-monument-robert-lee-north-carolina.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [They Passed the Long-Distance Test](https://www.nytimes.com/2020/07/10/fashion/weddings/they-passed-the-long-distance-test.html)
 * [How the Creator of Domino Park’s Social Distancing Circles Spends His Sundays](https://www.nytimes.com/2020/07/10/nyregion/domino-park-social-distancing-circles-nyc.html)
 * [Review: ‘P-Valley’ Has All the Right Moves](https://www.nytimes.com/2020/07/09/arts/television/p-valley-review-starz.html)
 * [‘I Just Cost Myself 250 Grand.’](https://www.nytimes.com/2020/07/09/sports/golf/golf-putt-for-dough.html)
 * [Inside an Eclectic Retreat on Shelter Island](https://www.nytimes.com/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
-* [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
+* [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
 * [‘I Couldn’t Do Anything’: The Virus and an E.R. Doctor’s Suicide](https://www.nytimes.com/2020/07/11/nyregion/lorna-breen-suicide-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Erro em ajuste de radar militar pode ser a causa de derrubada de avião ucraniano no Irã](https://oglobo.globo.com/mundo/erro-em-ajuste-de-radar-militar-pode-ser-causa-de-derrubada-de-aviao-ucraniano-no-ira-1-24528921)
+* [Na praia, falta de fiscalização e banhistas sem máscara marcam primeiro domingo de reabertura de áreas de lazer](https://oglobo.globo.com/rio/na-praia-falta-de-fiscalizacao-banhistas-sem-mascara-marcam-primeiro-domingo-de-reabertura-de-areas-de-lazer-24528924)
+* [Primeiro domingo após reabertura de áreas de lazer no Rio é de filas para entrar nos parques](https://oglobo.globo.com/rio/primeiro-domingo-apos-reabertura-de-areas-de-lazer-no-rio-de-filas-para-entrar-nos-parques-24528880)
+* [Na pandemia, cidade americana em crise adota moeda em madeira](https://oglobo.globo.com/economia/na-pandemia-cidade-americana-em-crise-adota-moeda-em-madeira-24528906)
 * [Wellington Silva, do Fluminense, testa positivo para coronavírus e é afastado da final do Carioca](https://oglobo.globo.com/esportes/wellington-silva-do-fluminense-testa-positivo-para-coronavirus-e-afastado-da-final-do-carioca-24528884)
 * [Morre com Covid-19 Nelson Meurer, primeiro condenado pelo STF na Lava-Jato](https://oglobo.globo.com/brasil/morre-com-covid-19-nelson-meurer-primeiro-condenado-pelo-stf-na-lava-jato-24528887)
 * [F1: Protesto contra o racismo marca GP da Estíria, vencido por Lewis Hamilton](https://oglobo.globo.com/esportes/f1-protesto-contra-racismo-marca-gp-da-estiria-vencido-por-lewis-hamilton-24528907)
-* [Primeiro domingo após reabertura de áreas de lazer no Rio é de filas para entrar nos parques](https://oglobo.globo.com/rio/primeiro-domingo-apos-reabertura-de-areas-de-lazer-no-rio-de-filas-para-entrar-nos-parques-24528880)
 * [Brasil tem 71.584 mortes por Covid-19, informa consórcio de veículos da imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-71584-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-no-boletim-das-13h-24528872)
 * [F1: Hamilton lidera GP da Estíria de ponta a ponta e fica a seis vitórias de Schumacher](https://oglobo.globo.com/esportes/f1-hamilton-lidera-gp-da-estiria-de-ponta-ponta-fica-seis-vitorias-de-schumacher-24528863)
-* [Embaixadores da China e EUA no Brasil trocam farpas em rede social](https://oglobo.globo.com/mundo/embaixadores-da-china-eua-no-brasil-trocam-farpas-em-rede-social-24528853)
 * [O diário de Bordo de uma brasileira na rota entre Itália e Brasil](https://epoca.globo.com/mundo/o-diario-de-bordo-de-uma-brasileira-na-rota-entre-italia-brasil-24518123)
-* [Especial 'Cidadão, sim' exalta o papel do indivíduo na promoção do bem-estar coletivo](https://oglobo.globo.com/meu-oglobo/especial-cidadao-sim-exalta-papel-do-individuo-na-promocao-do-bem-estar-coletivo-1-24528845)
-* [Pandemia ameaça reverter avanços contra a desigualdade dos últimos 20 anos na Colômbia](https://oglobo.globo.com/mundo/pandemia-ameaca-reverter-avancos-contra-desigualdade-dos-ultimos-20-anos-na-colombia-1-24528516)

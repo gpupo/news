@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/07/2020 11:11:49 UTC
+# indexed at 13/07/2020 11:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Google to Invest $10B in India](https://techcrunch.com/2020/07/13/google-to-invest-10-billion-in-india/)
 * [The Most Remarkable Legacy System I Have Seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
-* [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
+* [Libtorrent adds support for the WebTorrent protocol](https://feross.org/libtorrent-webtorrent/)
 * [Website allows you to experience what it is like to live with dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [Your DS18B20 temperature sensor is likely a fake, counterfeit, clone](https://github.com/cpetrich/counterfeit_DS18B20)
 * [Tutorial sites treating FreeBSD like a Linux distro](https://rubenerd.com/tutorial-sites-treating-freebsd-like-a-linux-distro/)
+* [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
 * [Text-Only Social Network](https://subreply.com/trending)
 * [WindowSwap: View someone's window somewhere in the world](https://window-swap.com/)
 * [Pulsar – an open-source distributed pub-sub messaging platform](https://github.com/apache/pulsar)
-* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Writing a software book and making over $100k](https://twitter.com/vlad_mihalcea/status/1282199525562753025)
+* [Dark Web Price Index 2020](https://www.privacyaffairs.com/dark-web-price-index-2020/)
+* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Insecam: Directory of Unsecured Surveillance Cameras](https://www.insecam.org/)
-* [Rust Is Surprisingly Good as a Server Language](https://stu2b50.dev/posts/rust-is-surpris76171)
 * [Self Host a Wiki or Knowledge Base for Your Team](http://chsasank.github.io/outline-self-hosted-wiki.html)
 * [All People in Canada are the Same Age (1997)](https://www.math.toronto.edu/mathnet/falseProofs/sameAge.html)
+* [Rust Is Surprisingly Good as a Server Language](https://stu2b50.dev/posts/rust-is-surpris76171)
 * [13% of my website visitors block Google Analytics](https://markosaric.com/google-analytics-blocking/)
-* [Libtorrent adds support for the WebTorrent protocol](https://feross.org/libtorrent-webtorrent/)
 * [ELF Statifier, self-contained dynamically linked executables](http://statifier.sourceforge.net/)
 * [11,000 year old ocher mine in underwater cave](https://www.nationalgeographic.com/history/2020/07/11000-year-old-mine-underwater-cave-surprises-archaeologists/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=substest::int_add=substestcontrol::int_rid=)
 * [Frank Gehry started off building cities with his grandma](https://www.cbc.ca/radio/podcastnews/frank-gehry-started-off-building-cities-with-his-grandma-1.5491434)
 * [Operators and Sidecars Are the New Model for Software Delivery](http://www.ofbizian.com/2020/07/operators-and-sidecars-are-new-model.html)
-* [For those at northerly latitudes, Comet NEOWISE up in the evening now, too](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise)
 * [Do We Need a Theory of Everything?](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html)
-* [Creating randomness Without Math.random](https://healeycodes.com/creating-randomness/)
-* [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
 * [What Can Bonobos Teach Us About the Nature of Language?](https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/)
+* [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
+* [Creating randomness Without Math.random](https://healeycodes.com/creating-randomness/)
 * [Exploring how different framings of the same learning task affect performance](https://andersource.dev/2020/07/12/supervised-task-framing.html)
-* [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
 * [Dude, You Broke the Future (2017)](http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
-* [GitHub was down](https://www.githubstatus.com/incidents/j597fw8kv04c)
+* [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
+* [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/)
 ## nytimes.com
 
 
@@ -79,21 +79,20 @@ layout: default
 * [In Tight Race for Polish President, Andrzej Duda Is on Track to Win](https://www.nytimes.com/2020/07/13/world/europe/poland-president-elections-Andrzej-Duda.html)
 * [Kelly Preston, Actress in ‘Jerry Maguire,’ Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)
 * [Rich New Yorkers Aren’t Filling Out the Census. Poor New Yorkers May Suffer.](https://www.nytimes.com/2020/07/13/nyregion/census-nyc-midtown-coronavirus.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Sweet Dreams: Neil Gaiman’s The Sandman Becomes an Audio Drama](https://www.nytimes.com/2020/07/10/arts/sandman-neil-gaiman-audible.html)
 * [Stayin’ Alive: How Disco Saved Daddy](https://www.nytimes.com/2020/07/10/well/family/heart-attack-disco-music-CPR.html)
 * [The Bryan Brothers Were Ready to Call It Quits. Now They Might Need One Last Hug.](https://www.nytimes.com/2020/07/11/sports/tennis/Bryan-brothers.html)
 * [Road Tripping While Black: Readers Respond](https://www.nytimes.com/2020/06/25/travel/road-tripping-while-black-readers-respond.html)
 * [For Sale: A Team With a Colorful Financial History](https://www.nytimes.com/2020/07/10/sports/baseball/new-york-mets.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
-* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [How Koalas With an S.T.D. Could Help Humanity](https://www.nytimes.com/2020/07/13/science/chlamydia-koalas-vaccines.html)
+* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
-* [The Best Drinks in Life Are Frozen](https://www.nytimes.com/2020/07/10/dining/drinks/frozen-drink-recipes.html)
 * [Man, 30, Dies After Attending a ‘Covid Party,’ Texas Hospital Says](https://www.nytimes.com/2020/07/12/us/30-year-old-covid-party-death.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Caixa deposita hoje até R$ 1.045 de FGTS para nascidos em março. Veja o calendário](https://oglobo.globo.com/economia/caixa-deposita-hoje-ate-1045-de-fgts-para-nascidos-em-marco-veja-calendario-24529564)
+* [Crivella suspende a venda de bebidas alcoólicas em bancas de jornais no Rio durante a pandemia da Covid-19](https://oglobo.globo.com/rio/crivella-suspende-venda-de-bebidas-alcoolicas-em-bancas-de-jornais-no-rio-durante-pandemia-da-covid-19-1-24529587)
+* [Fla-Flu: times saem de campo com sensações opostas ao resultado](https://oglobo.globo.com/esportes/fla-flu-times-saem-de-campo-com-sensacoes-opostas-ao-resultado-24529580)
 * [Brasil tem 1.866.416 casos e 72.153 mortes por Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1866416-casos-72153-mortes-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24529576)
 * [Ex-assessor de Carlos Bolsonaro, Luciano Querido é nomeado presidente da Funarte](https://oglobo.globo.com/cultura/ex-assessor-de-carlos-bolsonaro-luciano-querido-nomeado-presidente-da-funarte-1-24529547)
 * [Efeitos da covid-19 no acesso a pílulas, pré-natal e vacinas matarão milhares de mães e crianças, diz relatório](https://epoca.globo.com/sociedade/efeitos-da-covid-19-no-acesso-pilulas-pre-natal-vacinas-matarao-milhares-de-maes-criancas-diz-relatorio-24529573)
 * [Mesmo com mais desmatamento, Ibama pode perder verbas no Orçamento de 2021](https://epoca.globo.com/sociedade/mesmo-com-mais-desmatamento-ibama-pode-perder-verbas-no-orcamento-de-2021-24529554)
 * [Kelly Preston morre aos 57 anos, vítima de câncer](https://oglobo.globo.com/cultura/kelly-preston-morre-aos-57-anos-vitima-de-cancer-24529558)
 * [Sem a 'pausa do cafezinho', consumo da bebida cairá pela primeira vez desde 2011](https://oglobo.globo.com/economia/sem-pausa-do-cafezinho-consumo-da-bebida-caira-pela-primeira-vez-desde-2011-24529300)
-* [Fiocruz encontra coronavírus em 94% do esgoto de Niterói](https://oglobo.globo.com/rio/bairros/fiocruz-encontra-coronavirus-em-94-do-esgoto-de-niteroi-1-24526760)
-* [Projeto de lei que autoriza imóvel com parque em terreno abandonado na Gávea pode ser votado em agosto](https://oglobo.globo.com/rio/bairros/projeto-de-lei-que-autoriza-imovel-com-parque-em-terreno-abandonado-na-gavea-pode-ser-votado-em-agosto-1-24527442)
 * [Sob novo ministro, EBC com futuro ainda mais incerto](https://epoca.globo.com/guilherme-amado/sob-novo-ministro-ebc-com-futuro-ainda-mais-incerto-24527014)
-* [Planalto alegou 'especulações' da imprensa para ocultar exames de Covid de Bolsonaro](https://epoca.globo.com/guilherme-amado/planalto-alegou-especulacoes-da-imprensa-para-ocultar-exames-de-covid-de-bolsonaro-24527040)

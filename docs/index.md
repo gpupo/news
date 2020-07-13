@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/07/2020 09:12:51 UTC
+# indexed at 13/07/2020 09:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Website allows you to experience what it is like to live with dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [Your DS18B20 temperature sensor is likely a fake, counterfeit, clone](https://github.com/cpetrich/counterfeit_DS18B20)
-* [Rust Is Surprisingly Good as a Server Language](https://stu2b50.dev/posts/rust-is-surpris76171)
 * [13% of my website visitors block Google Analytics](https://markosaric.com/google-analytics-blocking/)
 * [Text-Only Social Network](https://subreply.com/trending)
+* [Rust Is Surprisingly Good as a Server Language](https://stu2b50.dev/posts/rust-is-surpris76171)
 * [WindowSwap: View someone's window somewhere in the world](https://window-swap.com/)
+* [Google to Invest $10B in India](https://techcrunch.com/2020/07/13/google-to-invest-10-billion-in-india/)
 * [Pulsar – an open-source distributed pub-sub messaging platform](https://github.com/apache/pulsar)
-* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Insecam: Directory of Unsecured Surveillance Cameras](https://www.insecam.org/)
-* [What does Microsoft want with Linux and Open Source? [video]](https://lbry.tv/@TheLinuxExperiment:e/what-does-microsoft-want-with-linux-and:c)
+* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
+* [The Most Remarkable Legacy System I Have Seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
 * [Dude, You Broke the Future (2017)](http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
-* [Operators and Sidecars Are the New Model for Software Delivery](http://www.ofbizian.com/2020/07/operators-and-sidecars-are-new-model.html)
 * [Fedora Approves of Making Nano the Default Terminal Text Editor](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-33-Nano-Is-The-Default)
+* [Operators and Sidecars Are the New Model for Software Delivery](http://www.ofbizian.com/2020/07/operators-and-sidecars-are-new-model.html)
 * [All People in Canada are the Same Age (1997)](https://www.math.toronto.edu/mathnet/falseProofs/sameAge.html)
 * [Self Host a Wiki or Knowledge Base for Your Team](http://chsasank.github.io/outline-self-hosted-wiki.html)
 * [ELF Statifier, self-contained dynamically linked executables](http://statifier.sourceforge.net/)
 * [An aerospace engineer explains fireworks](https://datagenetics.com/blog/july12020/index.html)
+* [The Half-Life Combine Empire](https://www.counter-currents.com/2015/08/the-half-life-combine-empire/)
 * [Frank Gehry started off building cities with his grandma](https://www.cbc.ca/radio/podcastnews/frank-gehry-started-off-building-cities-with-his-grandma-1.5491434)
-* [For those at northerly latitudes, Comet NEOWISE up in the evening now, too](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise)
 * [11,000 year old ocher mine in underwater cave](https://www.nationalgeographic.com/history/2020/07/11000-year-old-mine-underwater-cave-surprises-archaeologists/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=substest::int_add=substestcontrol::int_rid=)
-* [GitHub Is Down](https://www.githubstatus.com/incidents/j597fw8kv04c)
+* [For those at northerly latitudes, Comet NEOWISE up in the evening now, too](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise)
+* [Creating randomness Without Math.random](https://healeycodes.com/creating-randomness/)
 * [What Can Bonobos Teach Us About the Nature of Language?](https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/)
 * [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
-* [Creating randomness Without Math.random](https://healeycodes.com/creating-randomness/)
 * [Exploring how different framings of the same learning task affect performance](https://andersource.dev/2020/07/12/supervised-task-framing.html)
-* [How the design of a WWII plane led to the concept of user friendliness (2019)](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/)
+* [GitHub Is Down](https://www.githubstatus.com/incidents/j597fw8kv04c)
 * [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
 * [Do We Need a Theory of Everything?](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html)
-* [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
-* [Merging and Patches (2017)](https://jneem.github.io/merging/)
+* [How the design of a WWII plane led to the concept of user friendliness (2019)](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/)
 ## nytimes.com
 
 
@@ -75,19 +75,19 @@ layout: default
 * [A Health Worker Raised Alarms About the Coronavirus. Then He Lost His Job.](https://www.nytimes.com/2020/07/13/world/europe/italy-coronavirus-nursing-homes.html)
 * [In Tight Race for Polish President, Andrzej Duda Is on Track to Win](https://www.nytimes.com/2020/07/13/world/europe/poland-president-elections-Andrzej-Duda.html)
 * [Are Uber and Lyft Drivers Well Paid? It Depends on the Study](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [This Is Theater in 2020. Will It Last? Should It?](https://www.nytimes.com/2020/07/08/theater/streaming-theater-experiments.html)
 * [When ‘Keep Your Distance’ Has Been a Way of Life](https://www.nytimes.com/2020/07/10/arts/mother-son-diary.html)
 * [In Charlie Kaufman’s Novel, a Comic Hero Is Haunted by a Lost Film](https://www.nytimes.com/2020/07/08/books/review/antkind-charlie-kaufman.html)
 * [This Salmon Recipe Shines](https://www.nytimes.com/2020/07/10/dining/this-salmon-recipe-shines.html)
-* [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
+* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
 * [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
 * [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
-* [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
+* [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [The Best Drinks in Life Are Frozen](https://www.nytimes.com/2020/07/10/dining/drinks/frozen-drink-recipes.html)
 * [Man, 30, Dies After Attending a ‘Covid Party,’ Texas Hospital Says](https://www.nytimes.com/2020/07/12/us/30-year-old-covid-party-death.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -97,9 +97,9 @@ layout: default
 
 
 * [Funeral do prefeito de Seul é realizado em meio a alegações de abuso sexual](https://oglobo.globo.com/mundo/funeral-do-prefeito-de-seul-realizado-em-meio-alegacoes-de-abuso-sexual-24529530)
+* [CAS revoga punição, e Manchester City é liberado para voltar à Liga dos Campeões](https://oglobo.globo.com/esportes/cas-revoga-punicao-manchester-city-liberado-para-voltar-liga-dos-campeoes-24529532)
 * [Presidente conservador da Polônia é reeleito](https://oglobo.globo.com/mundo/presidente-conservador-da-polonia-reeleito-24529533)
 * [Segunda sem carne: opções do Festival Delivery Rio para você](https://oglobo.globo.com/rioshow/segunda-sem-carne-opcoes-do-festival-delivery-rio-para-voce-1-24529493)
-* [Líderes evangélicos e parlamentares tentam impedir TSE de criar tipo legal do abuso de poder religioso](https://oglobo.globo.com/brasil/lideres-evangelicos-parlamentares-tentam-impedir-tse-de-criar-tipo-legal-do-abuso-de-poder-religioso-24529503)
 * [Bares e restaurantes: portas abertas, mas mesas ainda vazias](https://oglobo.globo.com/rio/bares-restaurantes-portas-abertas-mas-mesas-ainda-vazias-1-24529497)
 * [Incerteza sobre isolamento social traz impactos para a saúde mental](https://oglobo.globo.com/sociedade/incerteza-sobre-isolamento-social-traz-impactos-para-saude-mental-24529359)
 * [Secretaria de Saúde distribuiu respiradores que se sabia serem inadequados, diz acusado](https://oglobo.globo.com/rio/secretaria-de-saude-distribuiu-respiradores-que-se-sabia-serem-inadequados-diz-acusado-24529316)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/07/2020 08:14:59 UTC
+# indexed at 13/07/2020 08:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Text-Only Social Network](https://subreply.com/trending)
 * [WindowSwap: View someone's window somewhere in the world](https://window-swap.com/)
 * [Pulsar – an open-source distributed pub-sub messaging platform](https://github.com/apache/pulsar)
-* [GitHub Is Down](http://status.github.com/)
-* [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
 * [Insecam: Directory of Unsecured Surveillance Cameras](https://www.insecam.org/)
 * [What does Microsoft want with Linux and Open Source? [video]](https://lbry.tv/@TheLinuxExperiment:e/what-does-microsoft-want-with-linux-and:c)
 * [Dude, You Broke the Future (2017)](http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
-* [Fedora Approves of Making Nano the Default Terminal Text Editor](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-33-Nano-Is-The-Default)
-* [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
-* [All People in Canada are the Same Age (1997)](https://www.math.toronto.edu/mathnet/falseProofs/sameAge.html)
+* [Two Black Holes Colliding Not Enough? Make It Three](https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html)
 * [Operators and Sidecars Are the New Model for Software Delivery](http://www.ofbizian.com/2020/07/operators-and-sidecars-are-new-model.html)
-* [Do We Need a Theory of Everything?](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html)
-* [How the design of a WWII plane led to the concept of user friendliness (2019)](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/)
+* [All People in Canada are the Same Age (1997)](https://www.math.toronto.edu/mathnet/falseProofs/sameAge.html)
+* [Fedora Approves of Making Nano the Default Terminal Text Editor](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-33-Nano-Is-The-Default)
 * [ELF Statifier, self-contained dynamically linked executables](http://statifier.sourceforge.net/)
-* [GitHub Is Down](https://www.githubstatus.com/incidents/j597fw8kv04c)
-* [Self-host a wiki for your startup (why, instructions and Docker-compose)](http://chsasank.github.io/outline-self-hosted-wiki.html)
+* [Self Host a Wiki or Knowledge Base for Your Team](http://chsasank.github.io/outline-self-hosted-wiki.html)
 * [An aerospace engineer explains fireworks](https://datagenetics.com/blog/july12020/index.html)
+* [GitHub Is Down](https://www.githubstatus.com/incidents/j597fw8kv04c)
 * [Frank Gehry started off building cities with his grandma](https://www.cbc.ca/radio/podcastnews/frank-gehry-started-off-building-cities-with-his-grandma-1.5491434)
-* [Show HN: Sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
-* [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
+* [11,000 year old ocher mine in underwater cave](https://www.nationalgeographic.com/history/2020/07/11000-year-old-mine-underwater-cave-surprises-archaeologists/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=substest::int_add=substestcontrol::int_rid=)
 * [For those at northerly latitudes, Comet NEOWISE up in the evening now, too](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise)
+* [How the design of a WWII plane led to the concept of user friendliness (2019)](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/)
+* [Exploring how different framings of the same learning task affect performance](https://andersource.dev/2020/07/12/supervised-task-framing.html)
+* [Do We Need a Theory of Everything?](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html)
 * [What Can Bonobos Teach Us About the Nature of Language?](https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/)
 * [Lightweight, open-source, universal paper wallet generator](https://github.com/koraylinux/paper-wallet)
 * [Creating randomness Without Math.random](https://healeycodes.com/creating-randomness/)
-* [11,000 year old ocher mine in underwater cave](https://www.nationalgeographic.com/history/2020/07/11000-year-old-mine-underwater-cave-surprises-archaeologists/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=substest::int_add=substestcontrol::int_rid=)
-* [Exploring how different framings of the same learning task affect performance](https://andersource.dev/2020/07/12/supervised-task-framing.html)
+* [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
+* [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
+* [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
+* [Merging and Patches (2017)](https://jneem.github.io/merging/)
 ## nytimes.com
 
 
@@ -75,11 +75,11 @@ layout: default
 * [A Health Worker Raised Alarms About the Coronavirus. Then He Lost His Job.](https://www.nytimes.com/2020/07/13/world/europe/italy-coronavirus-nursing-homes.html)
 * [In Tight Race for Polish President, Andrzej Duda Is on Track to Win](https://www.nytimes.com/2020/07/13/world/europe/poland-president-elections-Andrzej-Duda.html)
 * [Are Uber and Lyft Drivers Well Paid? It Depends on the Study](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [This Is Theater in 2020. Will It Last? Should It?](https://www.nytimes.com/2020/07/08/theater/streaming-theater-experiments.html)
 * [When ‘Keep Your Distance’ Has Been a Way of Life](https://www.nytimes.com/2020/07/10/arts/mother-son-diary.html)
 * [In Charlie Kaufman’s Novel, a Comic Hero Is Haunted by a Lost Film](https://www.nytimes.com/2020/07/08/books/review/antkind-charlie-kaufman.html)

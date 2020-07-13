@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 13/07/2020 04:13:38 UTC
+# indexed at 13/07/2020 04:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Your DS18B20 temperature sensor is likely a fake, counterfeit, clone...](https://github.com/cpetrich/counterfeit_DS18B20)
-* [Text-Only Social Network](https://subreply.com/trending)
 * [Website allows you to experience what it is like to live with dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
+* [Text-Only Social Network](https://subreply.com/trending)
 * [WindowSwap: View someone's window somewhere in the world](https://window-swap.com/)
 * [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b)
 * [Dude, You Broke the Future (2017)](http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html)
@@ -18,26 +18,26 @@ layout: default
 * [How the design of a WWII plane led to the concept of user friendliness (2019)](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/)
 * [Wt – C++ Web Toolkit](https://www.webtoolkit.eu/wt)
 * [All People in Canada are the Same Age (1997)](https://www.math.toronto.edu/mathnet/falseProofs/sameAge.html)
-* [Show HN: Sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [ELF Statifier, self-contained dynamically linked executables](http://statifier.sourceforge.net/)
-* [The Future of Online Identity Is Decentralized](https://yarmo.eu/post/future-online-identity-decentralized)
+* [Show HN: Sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [Do We Need a Theory of Everything?](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html)
 * [What Can Bonobos Teach Us About the Nature of Language?](https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/)
+* [The Future of Online Identity Is Decentralized](https://yarmo.eu/post/future-online-identity-decentralized)
+* [Operators and Sidecars Are the New Model for Software Delivery](http://www.ofbizian.com/2020/07/operators-and-sidecars-are-new-model.html)
 * [For those at northerly latitudes, Comet NEOWISE up in the evening now, too](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise)
 * [An aerospace engineer explains fireworks](https://datagenetics.com/blog/july12020/index.html)
+* [Frank Gehry started off building cities with his grandma](https://www.cbc.ca/radio/podcastnews/frank-gehry-started-off-building-cities-with-his-grandma-1.5491434)
 * [WireGuard as VPN Server on Kubernetes with AdBlocking](https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/)
 * [Haproxy 2.2](https://www.haproxy.com/)
-* [Frank Gehry started off building cities with his grandma](https://www.cbc.ca/radio/podcastnews/frank-gehry-started-off-building-cities-with-his-grandma-1.5491434)
 * [Creating randomness Without Math.random](https://healeycodes.com/creating-randomness/)
-* [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
 * [Show HN: Learnawesome.org – Open-source learning map for humanity](https://news.ycombinator.com/item?id=23795779)
+* [Abakcus: A collection of mathematics and science stuff](https://abakcus.com)
 * [SAS Rescue 3 Trapped British Diplomats in Albania](https://www.mydiplomaticlife.com/sas-rescue-trapped-diplomats-in-albania/)
 * [Can Facebook provide postmortems on their iOS SDK crashes?](https://github.com/facebook/facebook-ios-sdk/issues/1385)
 * [Merging and Patches (2017)](https://jneem.github.io/merging/)
 * [Robot Game: Comparing 6502 C, Assembly, and Forth](http://calc6502.com/RobotGame/summary.html)
 * [A long-lost perfume got a second life after 150 years underwater](https://www.atlasobscura.com/articles/shipwreck-perfume-bermuda-mary-celestia)
 * [Judgments of Henry David Thoreau (2015)](https://www.newyorker.com/magazine/2015/10/19/pond-scum)
-* [Underwater caves in Mexico preserve one of the world’s oldest ochre mines](https://www.sciencemag.org/news/2020/07/underwater-caves-mexico-preserve-one-world-s-oldest-ochre-mines)
 ## nytimes.com
 
 
@@ -75,19 +75,19 @@ layout: default
 * [Southside Johnny Brings Live Music Back to the Jersey Shore](https://www.nytimes.com/2020/07/12/nyregion/monmouth-park-southside-johnny-drive-in-concert.html)
 * [Poland’s Presidential Election Too Close to Call](https://www.nytimes.com/2020/07/12/world/europe/poland-election-Duda-Trzaskowski.html)
 * [Are Uber and Lyft Drivers Well Paid? It Depends on the Study](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
 * [This Is Theater in 2020. Will It Last? Should It?](https://www.nytimes.com/2020/07/08/theater/streaming-theater-experiments.html)
 * [When ‘Keep Your Distance’ Has Been a Way of Life](https://www.nytimes.com/2020/07/10/arts/mother-son-diary.html)
 * [In Charlie Kaufman’s Novel, a Comic Hero Is Haunted by a Lost Film](https://www.nytimes.com/2020/07/08/books/review/antkind-charlie-kaufman.html)
 * [This Salmon Recipe Shines](https://www.nytimes.com/2020/07/10/dining/this-salmon-recipe-shines.html)
-* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
-* [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
-* [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html)
+* [Does Your Local Doctor Have a Coronavirus Test for You?](https://www.nytimes.com/2020/06/29/health/coronavirus-doctors-office.html)
+* [Canada’s Sparrows Are Singing a New Song. You’ll Hear It Soon.](https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html)
+* [This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)
 * [Man, 30, Dies After Attending a ‘Covid Party,’ Texas Hospital Says](https://www.nytimes.com/2020/07/12/us/30-year-old-covid-party-death.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

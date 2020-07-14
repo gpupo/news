@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 05:11:56 UTC
+# indexed at 14/07/2020 05:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -11,10 +11,9 @@ layout: default
 * [How Do Unschoolers Turn Out?](https://www.kqed.org/mindshift/37091/how-do-unschoolers-turn-out)
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
-* [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
-* [Grant Imahara, ‘Mythbusters’ Host, Dies at 49](https://variety.com/2020/tv/news/grant-imahara-mythbusters-dead-dies-1234705834/)
-* [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
 * [Ex-Googler's Startup Comes Out of Stealth with Beautifully Simple, Clever Robot](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
+* [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
+* [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
 * [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
@@ -24,20 +23,21 @@ layout: default
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
 * [Chipmaker Analog Devices to acquire Maxim Integrated for $21B](https://www.reuters.com/article/us-maxim-intg-m-a-analog-devices/chipmaker-analog-devices-to-buy-rival-maxim-for-about-21-billion-idUSKCN24E14B)
 * [PGX: Write Postgres extensions in Rust instead of C](https://github.com/zombodb/pgx)
+* [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
 * [Bonhomme Richard, fate uncertain, would be one of largest ships Navy has lost](https://www.sandiegouniontribune.com/news/military/story/2020-07-13/bonhomme-richard-fire-future)
 * [Deschooling Society (1970)](https://davidtinapple.com/illich/1970_deschooling.html)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
 * [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
+* [Grant Imahara, ‘Mythbusters’ Host, Dies at 49](https://variety.com/2020/tv/news/grant-imahara-mythbusters-dead-dies-1234705834/)
+* [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
 * [Google announces new Career Certificates and 100k scholarships](https://blog.google/outreach-initiatives/grow-with-google/digital-jobs-program-help-americas-economic-recovery/)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
-* [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
 * [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
-* [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
-* [The international student bait-and-switch](https://themargins.substack.com/p/the-international-student-bait-and)
+* [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
+* [The international student bait-and-switch](https://themargins.substack.com/p/the-international-student-bait-and)
 * [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
-* [Porsche found a way to 3D-print lightweight pistons that add more horsepower](https://www.thedrive.com/tech/34775/porsche-found-a-way-to-3d-print-lightweight-pistons-that-add-even-more-horsepower)
 ## nytimes.com
 
 

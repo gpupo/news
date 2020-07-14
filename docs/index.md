@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 14:13:51 UTC
+# indexed at 14/07/2020 14:34:36 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Eventual Consistency isn’t for Streaming](https://materialize.io/eventual-consistency-isnt-for-streaming/)
 * [Grant Imahara Has Died](https://www.hollywoodreporter.com/news/grant-imahara-dead-mythbusters-host-was-49-1303101)
+* [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
 * [Show HN: Is It Worth the Cost?](https://isitworththecost.com/)
 * [Ex-googler's startup comes out of stealth with simple, clever robot design](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
+* [Poland puts computer game “This War of Mine” on school reading list](https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)
 * [Andean condor can fly for 100 miles without flapping wings](https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird)
 * [Confidential VMs](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-confidential-computing-with-confidential-vms)
-* [Data centers can slash CO2 emissions 88% or more (2013)](https://energy.stanford.edu/news/data-centers-can-slash-co2-emissions-88-or-more)
-* [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
+* [Ask HN: Anyone from Apple here? It's impossible to enroll the dev program](https://news.ycombinator.com/item?id=23831989)
 * [The Winnebago Heli-Home Was a Real Flying RV](https://www.thedrive.com/news/34753/the-winnebago-heli-home-was-a-real-flying-rv-that-needs-to-make-a-comeback-in-2020)
-* [Poland puts computer game “This War of Mine” on school reading list](https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)
+* [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
 * [Financial Statements: A Beginner's Guide](https://www.causal.app/blog/whats-a-financial-statement)
 * [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Flowtrackd: DDoS Protection with Unidirectional TCP Flow Tracking](https://blog.cloudflare.com/announcing-flowtrackd/)
 * [Vision scientists discover why people literally don't see eye to eye](https://news.berkeley.edu/2020/07/13/vision-scientists-discover-why-humans-literally-dont-see-eye-to-eye/)
-* [CIA Link to Cuban Pig Virus Reported (1977)](http://www.maebrussell.com/Health/CIA%20Pig%20Virus.html)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
-* [Ask HN: Anyone from Apple here? It's impossible to enroll the dev program](https://news.ycombinator.com/item?id=23831989)
+* [ARM64 Popcount in Golang and Assembler](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
 * [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
 * [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
+* [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
-* [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
-* [Is It Time to Kill the Penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
-* [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
+* [Birth of BASIC (2014) [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
 * [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
+* [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 * [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
-* [Microsoft adding support for custom '+' email addresses in Office 365](https://www.zdnet.com/article/microsoft-adds-support-for-custom-email-addresses-in-office-365/)
 ## nytimes.com
 
 
@@ -62,12 +62,12 @@ layout: default
 * [We Can Still Get the Truth From Roger Stone](https://www.nytimes.com/2020/07/14/opinion/roger-stone-trump-grand-jury.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [10 Theses About Cancel Culture](https://www.nytimes.com/2020/07/14/opinion/cancel-culture-.html)
-* [I Froze. How Could We Win With This Supreme Court?](https://www.nytimes.com/2020/07/14/opinion/mcgirt-oklahoma-muscogee-creek-nation.html)
+* [After a Trail of Tears, Justice for ‘Indian Country’](https://www.nytimes.com/2020/07/14/opinion/mcgirt-oklahoma-muscogee-creek-nation.html)
 * [A Shutdown May Be Needed to Stop the Coronavirus](https://www.nytimes.com/2020/07/14/opinion/coronavirus-shutdown.html)
 * [Attention All Women: Trump Is Coming for Your Health Care](https://www.nytimes.com/2020/07/13/opinion/obamacare-aca-trump-women.html)
 * [What a Second Trump Term Would Look Like](https://www.nytimes.com/2020/07/13/opinion/trump-second-term.html)
-* [Want to Abolish the Police? Consider Becoming an Officer Instead](https://www.nytimes.com/2020/07/13/opinion/police-reform-progressives.html)
 * [A Mayor Committed Suicide. His Accuser Won’t Be Heard.](https://www.nytimes.com/2020/07/13/opinion/seoul-mayor-suicide.html)
+* [Want to Abolish the Police? Consider Becoming an Officer Instead](https://www.nytimes.com/2020/07/13/opinion/police-reform-progressives.html)
 * [The N.Y.P.D. Has Rejected Reform for Decades. It Can’t Anymore.](https://www.nytimes.com/2020/07/13/opinion/nypd-reform-nyc.html)
 * [She Went to Prison for Killing Her Husband. The Pandemic Set Her Free.](https://www.nytimes.com/2020/07/14/magazine/afghan-women-prison-coronavirus.html)
 * [Flour and Toilet Paper Are Back at N.Y. Supermarkets, but There’s a Catch](https://www.nytimes.com/2020/07/14/nyregion/grocery-store-shortages.html)
@@ -81,10 +81,10 @@ layout: default
 * [G.A.O.: Trump Boosts Deregulation by Undervaluing Cost of Climate Change](https://www.nytimes.com/2020/07/14/climate/trump-climate-change-carbon-cost.html)
 * [Want More Diversity? Some Experts Say Reward C.E.O.s for It](https://www.nytimes.com/2020/07/14/business/economy/corporate-diversity-pay-compensation.html)
 * [As Europe’s Economies Reopen, Consumers Go on a Spending Spree](https://www.nytimes.com/2020/07/14/business/europe-consumer-spending.html)
-* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [Newark Artists, Thriving Amid Crisis and Catharsis](https://www.nytimes.com/2020/07/10/arts/design/newark-artists.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Gilmar diz que respeita Forças Armadas, mas critica emprego de militares no Ministério da Saúde](https://oglobo.globo.com/brasil/gilmar-diz-que-respeita-forcas-armadas-mas-critica-emprego-de-militares-no-ministerio-da-saude-1-24531467)
+* [Integrantes da quadrilha de Ecko são presos quando tentavam expandir milícia para Nilópolis](https://oglobo.globo.com/rio/integrantes-da-quadrilha-de-ecko-sao-presos-quando-tentavam-expandir-milicia-para-nilopolis-24531495)
+* [Irã diz ter executado agente iraniano ligado à CIA](https://oglobo.globo.com/mundo/ira-diz-ter-executado-agente-iraniano-ligado-cia-24531526)
+* ['Ainda há a possibilidade', diz Jorge Oliveira sobre nomeação de Ramagem para comando da PF](https://oglobo.globo.com/brasil/ainda-ha-possibilidade-diz-jorge-oliveira-sobre-nomeacao-de-ramagem-para-comando-da-pf-24531591)
+* [Mensagens entre Ronnie Lessa e filha são de afeto, mas o assunto tratado é compra de armas](https://oglobo.globo.com/rio/mensagens-entre-ronnie-lessa-filha-sao-de-afeto-mas-assunto-tratado-compra-de-armas-1-24531451)
+* [Dia B de Beleza promete grandes descontos e dicas de experts](https://oglobo.globo.com/ela/beleza/dia-de-beleza-promete-grandes-descontos-dicas-de-experts-24531585)
 * [Oposição pede convocação de Marcos Pontes para explicar ingerência no Inpe](https://epoca.globo.com/guilherme-amado/oposicao-pede-convocacao-de-marcos-pontes-para-explicar-ingerencia-no-inpe-1-24531562)
 * [Passagem de frente fria traz chuva e ventos de mais de 40km/h para o Rio](https://oglobo.globo.com/rio/passagem-de-frente-fria-traz-chuva-ventos-de-mais-de-40kmh-para-rio-24531486)
-* [Irã diz ter executado agente iraniano ligado à CIA](https://oglobo.globo.com/mundo/ira-diz-ter-executado-agente-iraniano-ligado-cia-24531526)
 * [Rainha Elizabeth coloca à venda gim produzido com ingredientes do palácio de Buckingham](https://oglobo.globo.com/ela/gente/rainha-elizabeth-coloca-venda-gim-produzido-com-ingredientes-do-palacio-de-buckingham-24531518)
-* [Armas apreendidas em favelas do Rio podem ter sido vendidas por Ronnie Lessa, acusado de matar Marielle](https://oglobo.globo.com/rio/armas-apreendidas-em-favelas-do-rio-podem-ter-sido-vendidas-por-ronnie-lessa-acusado-de-matar-marielle-24531483)
 * [Em cúpula da OCDE, Paulo Guedes diz que Brasil priorizou salvar vidas e valoriza atuação de estados](https://epoca.globo.com/brasil/em-cupula-da-ocde-paulo-guedes-diz-que-brasil-priorizou-salvar-vidas-valoriza-atuacao-de-estados-24531510)
-* [Mensagens entre Ronnie Lessa e filha são de afeto, mas o assunto tratado é compra de armas](https://oglobo.globo.com/rio/mensagens-entre-ronnie-lessa-filha-sao-de-afeto-mas-assunto-tratado-compra-de-armas-1-24531451)
-* [Integrantes da quadrilha de Ecko são presos quando tentavam expandir milícia para Nilópolis](https://oglobo.globo.com/rio/integrantes-da-quadrilha-de-ecko-sao-presos-quando-tentavam-expandir-milicia-para-nilopolis-24531495)
 * [MEC divulga os aprovados para as vagas nas universidades do segundo semestre do Sisu](https://oglobo.globo.com/sociedade/educacao/mec-divulga-os-aprovados-para-as-vagas-nas-universidades-do-segundo-semestre-do-sisu-24531494)

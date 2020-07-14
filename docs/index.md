@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 06:13:49 UTC
+# indexed at 14/07/2020 06:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Ex-googler's startup comes out of stealth with simple, clever robot design](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
 * [Grant Imahara Has Died](https://www.hollywoodreporter.com/news/grant-imahara-dead-mythbusters-host-was-49-1303101)
+* [Ex-googler's startup comes out of stealth with simple, clever robot design](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
+* [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
+* [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
-* [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
-* [How do unschoolers turn out? (2014)](https://www.kqed.org/mindshift/37091/how-do-unschoolers-turn-out)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
 * [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
 * [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
-* [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
+* [How do unschoolers turn out? (2014)](https://www.kqed.org/mindshift/37091/how-do-unschoolers-turn-out)
 * [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
 * [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
 * [Chipmaker Analog Devices to acquire Maxim Integrated for $21B](https://www.reuters.com/article/us-maxim-intg-m-a-analog-devices/chipmaker-analog-devices-to-buy-rival-maxim-for-about-21-billion-idUSKCN24E14B)
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
+* [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
 * [Deschooling Society (1970)](https://davidtinapple.com/illich/1970_deschooling.html)
-* [Bonhomme Richard, fate uncertain, would be one of largest ships Navy has lost](https://www.sandiegouniontribune.com/news/military/story/2020-07-13/bonhomme-richard-fire-future)
+* [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
 * [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
-* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
+* [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
+* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
-* [The international student bait-and-switch](https://themargins.substack.com/p/the-international-student-bait-and)
 * [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
 * [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
 * [Building Elixir from source segfaults on macOS on Apple Silicon while compiling](https://groups.google.com/forum/#!msg/elixir-lang-core/9s6-BIxaCz8/i-NmhjabAQAJ)
-* [Noisomeness](https://www.lrb.co.uk/the-paper/v42/n14/keith-thomas/noisomeness)
 * [Show HN: Primo – all-in-one IDE, CMS, component library, static site generator](https://primo.af)
 ## nytimes.com
 
@@ -80,19 +80,19 @@ layout: default
 * [The Massacre That Destroyed Tulsa’s ‘Black Wall Street’](https://www.nytimes.com/2020/07/13/us/tulsa-massacre-graves-excavation.html)
 * [Body of Naya Rivera Is Found at California Lake, Authorities Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
 * [Deutsche Bank and Jeffrey Epstein: Here Are The Executives Who Served Him](https://www.nytimes.com/2020/07/13/business/deutsche-bank-jeffrey-epstein.html)
-* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
 * [Manchester City Won. Now Brace for the Losses.](https://www.nytimes.com/2020/07/13/sports/soccer/man-city-ffp.html)
 * [From Catherine Opie, a Visual Diary of the Recent Past](https://www.nytimes.com/2020/07/10/t-magazine/catherine-opie-photos.html)
 * [Even as Covid-19 Looms, an M.L.B. Rookie Is Ready to Play](https://www.nytimes.com/2020/07/11/sports/baseball/kyle-lewis-mariners-mlb-return.html)
+* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
+* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
-* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
-* [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [Kelly Preston, Actress and Wife of John Travolta, Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

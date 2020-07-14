@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 23:12:23 UTC
+# indexed at 14/07/2020 23:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
-* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
+* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
 * [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html?m=1)
-* [Doom Eternal Privacy Policy Allows Collection and Disclosure of Medical Records](https://wrap.bnet.idtech.services/legal/?limited=true&fragment=https%3A%2F%2Fbethesda.net%2Fdata%2Fpp%2Fen_fr.html)
-* [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
 * [How to Run a Live Coding Stream on Twitch Using OBS](https://jordanlewis.org/posts/twitch-live-coding/)
+* [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
 * [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
+* [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
 * [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
-* [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
-* [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
 * [Experimental evidence of massive-scale emotional contagion thru social networks](https://www.pnas.org/content/111/24/8788)
-* [The Khmer Rouge: Genocide in the Name of Utopia](https://openendedsocialstudies.org/2016/06/24/the-khmer-rouge-genocide-in-the-name-of-utopia/)
+* [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
+* [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
+* [The Khmer Rouge: Genocide in the Name of Utopia (2016)](https://openendedsocialstudies.org/2016/06/24/the-khmer-rouge-genocide-in-the-name-of-utopia/)
+* [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
 * [Bringing the print statement back](https://lwn.net/ml/python-ideas/CAP7+vJKsrT-n4rHjaR4PYPRq09JOZcoR54ZjkboOkZcYhB+7oA@mail.gmail.com/)
 * [Launch HN: Openbase (YC S20) – reviews and insights for open-source packages](https://news.ycombinator.com/item?id=23833441)
 * [Huawei 5G kit must be removed from UK by 2027](https://www.bbc.com/news/technology-53403793)
-* [Recreating YikYak with Postgres](https://adamfallon.com/2020/07/10/recreating-yikyak-with-postgres/)
-* [Is It Time to Kill the Penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
+* [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
 * [Birth of BASIC (2014) [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
+* [Is It Time to Kill the Penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
+* [Recreating YikYak with Postgres](https://adamfallon.com/2020/07/10/recreating-yikyak-with-postgres/)
 * [How Harold Lloyd Filmed "Safety Last!"](https://silentlocations.com/2012/02/29/how-harold-lloyd-filmed-safety-last/)
 * [Eventual Consistency isn’t for Streaming](https://materialize.io/eventual-consistency-isnt-for-streaming/)
-* [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8)
 * [TayPO, a Unifying Framework for Reinforcement Learning](https://syncedreview.com/2020/07/14/introducing-taypo-a-unifying-framework-for-reinforcement-learning/)
-* [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
-* [Online Virtual Oscilloscope](https://academo.org/demos/virtual-oscilloscope/)
-* [Verizon has turned to Google Cloud’s Contact Center AI to automate phone calls](https://www.theregister.com/2020/07/13/if_customer_service_for_verizon/)
-* [The Floppy Disk of Floating Point](https://www.evanmiller.org/the-floppy-disk-of-floating-point.html)
 * [How Late Zhou China Reverse-Engineered a Civilization](https://palladiummag.com/2020/07/10/how-late-zhou-china-reverse-engineered-a-civilization/)
+* [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8)
+* [Verizon has turned to Google Cloud’s Contact Center AI to automate phone calls](https://www.theregister.com/2020/07/13/if_customer_service_for_verizon/)
 * [Have we let the LED indicator light go too far?](https://tedium.co/2020/07/10/led-indicator-light-history/)
+* [Online Virtual Oscilloscope](https://academo.org/demos/virtual-oscilloscope/)
 * [Head asleep, body awake](https://alvinalexander.com/misc/head-awake-body-asleep-hear-myself-snoring/)
 ## nytimes.com
 
@@ -82,8 +82,8 @@ layout: default
 * [New Data Show an ‘Extraordinary’ Rise in U.S. Coastal Flooding](https://www.nytimes.com/2020/07/14/climate/coastal-flooding-noaa.html)
 * [Government Carries Out First Federal Execution in 17 Years](https://www.nytimes.com/2020/07/14/us/politics/daniel-lewis-lee-execution-crime.html)
 * [With Robot Deliveries and Outdoor Tents, Campus Dining Will Be Very Different](https://www.nytimes.com/2020/07/13/dining/college-food-coronavirus.html)
-* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
@@ -94,8 +94,8 @@ layout: default
 * [Young, in Love and Trying to Bring Down the Third Reich](https://www.nytimes.com/2020/07/14/books/review/the-bohemians-norman-ohler.html)
 * [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
 * [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
-* [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [Drug Giants Create Fund to Bolster Struggling Antibiotic Start-Ups](https://www.nytimes.com/2020/07/09/health/antibiotics-pharma-drug-resistance.html)
+* [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Aprovada em Comissão, tentativa de Crivella de adiar análise das contas pelo TCM será votada na Câmara](https://oglobo.globo.com/rio/aprovada-em-comissao-tentativa-de-crivella-de-adiar-analise-das-contas-pelo-tcm-sera-votada-na-camara-1-24532500)
+* [Trump elimina o status especial concedido a Hong Kong para punir a China](https://oglobo.globo.com/mundo/trump-elimina-status-especial-concedido-hong-kong-para-punir-china-24532560)
+* [Toffoli mantém validade de decretos que flexibilizam isolamento social no Rio](https://oglobo.globo.com/rio/toffoli-mantem-validade-de-decretos-que-flexibilizam-isolamento-social-no-rio-24532586)
+* ['Se falou no meu nome, está mentindo', diz Witzel sobre delação de ex-secretário de Saúde](https://oglobo.globo.com/rio/se-falou-no-meu-nome-esta-mentindo-diz-witzel-sobre-delacao-de-ex-secretario-de-saude-1-24532542)
 * [Antônio Vogel deixará secretaria executiva do MEC](https://oglobo.globo.com/sociedade/antonio-vogel-deixara-secretaria-executiva-do-mec-24532567)
-* ['Se falou no meu nome, está mentindo', diz Witzel sobre delação de ex-secretário de Saúde](https://oglobo.globo.com/rio/se-falou-no-meu-nome-esta-mentindo-diz-witzel-sobre-delacao-de-ex-secretario-de-saude-24532542)
+* [Cinemateca barra servidores do Turismo devido à pandemia, e pasta registra ocorrência policial](https://epoca.globo.com/guilherme-amado/cinemateca-barra-servidores-do-turismo-devido-pandemia-pasta-registra-ocorrencia-policial-24532569)
 * [Brasil passa de 1,9 milhão de casos de covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-19-milhao-de-casos-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24532549)
 * [PGR denuncia deputado por ataques a Alexandre de Moraes](https://oglobo.globo.com/brasil/pgr-denuncia-deputado-por-ataques-alexandre-de-moraes-1-24532539)
-* [Cinemateca barra servidores do Turismo devido à pandemia, e pasta registra ocorrência policial](https://epoca.globo.com/guilherme-amado/cinemateca-barra-servidores-do-turismo-devido-pandemia-pasta-registra-ocorrencia-policial-24532569)
 * [Relatório aponta Rio como estado que mais registrou mortes em ações policiais](https://oglobo.globo.com/brasil/relatorio-aponta-rio-como-estado-que-mais-registrou-mortes-em-acoes-policiais-24532501)
 * [Vacina da Moderna contra Covid-19, após sucesso ao induzir anticorpos, entrará na fase final em 27 de julho](https://oglobo.globo.com/sociedade/vacina-da-moderna-contra-covid-19-apos-sucesso-ao-induzir-anticorpos-entrara-na-fase-final-em-27-de-julho-24532504)
-* [Aprovada em Comissão, tentativa de Crivella de adiar análise das contas pelo TCM será votada na Câmara](https://oglobo.globo.com/rio/aprovada-em-comissao-tentativa-de-crivella-de-adiar-analise-das-contas-pelo-tcm-sera-votada-na-camara-24532500)
-* [Secretária Extraordinária da Covid-19 diz que, atualmente, hospitais de campanha não são mais necessários](https://oglobo.globo.com/rio/secretaria-extraordinaria-da-covid-19-diz-que-atualmente-hospitais-de-campanha-nao-sao-mais-necessarios-24532375)
-* [Questionado se está preparado para assumir Presidência, Mourão diz: 'Tirem suas conclusões'](https://epoca.globo.com/guilherme-amado/questionado-se-esta-preparado-para-assumir-presidencia-mourao-diz-tirem-suas-conclusoes-24532494)

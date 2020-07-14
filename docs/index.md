@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 11:11:50 UTC
+# indexed at 14/07/2020 11:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Grant Imahara Has Died](https://www.hollywoodreporter.com/news/grant-imahara-dead-mythbusters-host-was-49-1303101)
+* [Show HN: Is It Worth the Cost?](https://isitworththecost.com/)
 * [Andean condor can fly for 100 miles without flapping wings](https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird)
 * [Ex-googler's startup comes out of stealth with simple, clever robot design](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
-* [Show HN: Is It Worth the Cost?](https://isitworththecost.com/)
+* [Is It Time to Kill the Penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
 * [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
 * [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
-* [Is It Time to Kill the Penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
 * [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
-* [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 * [Head asleep, body awake](https://alvinalexander.com/misc/head-awake-body-asleep-hear-myself-snoring/)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
-* [China on highest flood alert as 38M people evacuated](https://asia.nikkei.com/Economy/Natural-disasters/China-on-highest-flood-alert-as-38m-people-evacuated)
-* [Vision scientists discover why people literally don't see eye to eye](https://news.berkeley.edu/2020/07/13/vision-scientists-discover-why-humans-literally-dont-see-eye-to-eye/)
 * [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
 * [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
+* [Vision scientists discover why people literally don't see eye to eye](https://news.berkeley.edu/2020/07/13/vision-scientists-discover-why-humans-literally-dont-see-eye-to-eye/)
 * [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
-* [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
+* [The Winnebago Heli-Home Was a Real Flying RV](https://www.thedrive.com/news/34753/the-winnebago-heli-home-was-a-real-flying-rv-that-needs-to-make-a-comeback-in-2020)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
+* [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
+* [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [Microsoft adding support for custom '+' email addresses in Office 365](https://www.zdnet.com/article/microsoft-adds-support-for-custom-email-addresses-in-office-365/)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
-* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
-* [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
 * [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
+* [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
+* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
 ## nytimes.com
 
@@ -79,13 +79,13 @@ layout: default
 * [Tucker Carlson to Take 'Long-Planned' Vacation After Blake Neff's Resignation](https://www.nytimes.com/2020/07/13/business/media/tucker-carlson-fox-news-writer.html)
 * [Navy Warship Is Still Ablaze, and Now Tilting to One Side](https://www.nytimes.com/2020/07/13/us/naval-ship-fire-san-diego.html)
 * [G.A.O.: Trump Boosts Deregulation by Undervaluing Cost of Climate Change](https://www.nytimes.com/2020/07/14/climate/trump-climate-change-carbon-cost.html)
-* [Naya Rivera, ‘Glee’ Star, Is Found Dead at Lake Piru, Officials Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
+* [Naya Rivera Is Found Dead at Lake Piru, Officials Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
 * [As Europe’s Economies Reopen, Consumers Go on a Spending Spree](https://www.nytimes.com/2020/07/14/business/europe-consumer-spending.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
-* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
-* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [Newark Artists, Thriving Amid Crisis and Catharsis](https://www.nytimes.com/2020/07/10/arts/design/newark-artists.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [MP 936: governo publica decreto que amplia suspensão de contrato e redução de jornada para até 4 meses](https://oglobo.globo.com/economia/mp-936-governo-publica-decreto-que-amplia-suspensao-de-contrato-reducao-de-jornada-para-ate-4-meses-24531314)
+* [MP 936: governo publica decreto que permite ampliar suspensão de contrato e redução de jornada para até 4 meses](https://oglobo.globo.com/economia/mp-936-governo-publica-decreto-que-permite-ampliar-suspensao-de-contrato-reducao-de-jornada-para-ate-4-meses-1-24531314)
+* [MPRJ e Polícia Civil fazem operação na prefeitura e na Câmara de Municipal de Barra Mansa](https://oglobo.globo.com/rio/mprj-policia-civil-fazem-operacao-na-prefeitura-na-camara-de-municipal-de-barra-mansa-24531330)
 * [Com rombo de R$ 4,24 bilhões em 2019, Crivella manobra no Legislativo para tenta adiar análise das contas pelo TCM](https://oglobo.globo.com/rio/com-rombo-de-424-bilhoes-em-2019-crivella-manobra-no-legislativo-para-tenta-adiar-analise-das-contas-pelo-tcm-24531298)
-* [Tiroteio na Maré interrompe trânsito na Linha Amarela](https://oglobo.globo.com/rio/tiroteio-na-mare-interrompe-transito-na-linha-amarela-24531310)
-* [Brasil tem 1.888.889 casos e 72.950 mortes por Covid-19, mostra consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-1888889-casos-72950-mortes-por-covid-19-mostra-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24531289)
+* [Cientistas dizem que Brasil está no mapa do risco de uma nova pandemia](https://oglobo.globo.com/sociedade/coronavirus/cientistas-dizem-que-brasil-esta-no-mapa-do-risco-de-uma-nova-pandemia-24503067)
+* [Sindicatos de servidores públicos federais vão à Justiça para assegurar contribuição de funcionários](https://oglobo.globo.com/economia/sindicatos-de-servidores-publicos-federais-vao-justica-para-assegurar-contribuicao-de-funcionarios-24531034)
+* [Semana dos realities de culinária tem final de ‘Mestre do sabor’, volta de ‘Masterchef’ e de ‘Top chef Brasil’](https://oglobo.globo.com/rioshow/semana-dos-realities-de-culinaria-tem-final-de-mestre-do-sabor-volta-de-masterchef-de-top-chef-brasil-24531316)
 * [Brasil está no mapa de risco para próxima pandemia, dizem cientistas](https://oglobo.globo.com/sociedade/coronavirus/brasil-esta-no-mapa-de-risco-para-proxima-pandemia-dizem-cientistas-1-24503093)
-* [Sindicados de servidores públicos federais vão à Justiça para assegurar contribuição de funcionários](https://oglobo.globo.com/economia/sindicados-de-servidores-publicos-federais-vao-justica-para-assegurar-contribuicao-de-funcionarios-24531034)
-* [Brasil está no mapa do risco de uma nova pandemia, dizem cientistas](https://oglobo.globo.com/sociedade/coronavirus/brasil-esta-no-mapa-do-risco-de-uma-nova-pandemia-dizem-cientistas-24503067)
 * [Descoberta de ossinho do pé reacende busca por respostas sobre 43 estudantes desaparecidos no México](https://oglobo.globo.com/mundo/descoberta-de-ossinho-do-pe-reacende-busca-por-respostas-sobre-43-estudantes-desaparecidos-no-mexico-24530657)
 * [Desafiando os EUA, China e Irã ficam perto de parceria comercial e militar](https://oglobo.globo.com/mundo/desafiando-os-eua-china-ira-ficam-perto-de-parceria-comercial-militar-24530597)
 * [As palavras mais frequentes sobre as polícias de BA, CE, PE, RJ e SP](https://epoca.globo.com/guilherme-amado/as-palavras-mais-frequentes-sobre-as-policias-de-ba-ce-pe-rj-sp-24530871)

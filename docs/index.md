@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 15:12:27 UTC
+# indexed at 14/07/2020 15:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Eventual Consistency isn’t for Streaming](https://materialize.io/eventual-consistency-isnt-for-streaming/)
-* [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
 * [Grant Imahara Has Died](https://www.hollywoodreporter.com/news/grant-imahara-dead-mythbusters-host-was-49-1303101)
+* [Ask HN: My GitHub account got suspended without any notice](https://news.ycombinator.com/item?id=23832437)
 * [Show HN: Is It Worth the Cost?](https://isitworththecost.com/)
+* [Show HN: 14 Habits of Highly Productive Developers – New Book](https://14habits.com/)
+* [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
+* [ARM64 Popcount in Golang and Assembler](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
 * [Ex-googler's startup comes out of stealth with simple, clever robot design](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
 * [Poland puts computer game “This War of Mine” on school reading list](https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)
+* [BMG: A Production Ready Relational Algebra in Ruby](https://github.com/enspirit/bmg)
+* [The Floppy Disk of Floating Point](https://www.evanmiller.org/the-floppy-disk-of-floating-point.html)
 * [Andean condor can fly for 100 miles without flapping wings](https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird)
-* [ARM64 Popcount in Golang and Assembler](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
-* [Show HN: 14 Habits of Highly Productive Developers – New Book](https://14habits.com/)
+* [The Winnebago Heli-Home Was a Real Flying RV](https://www.thedrive.com/news/34753/the-winnebago-heli-home-was-a-real-flying-rv-that-needs-to-make-a-comeback-in-2020)
 * [Confidential VMs](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-confidential-computing-with-confidential-vms)
 * [Financial Statements: A Beginner's Guide](https://www.causal.app/blog/whats-a-financial-statement)
-* [The Winnebago Heli-Home Was a Real Flying RV](https://www.thedrive.com/news/34753/the-winnebago-heli-home-was-a-real-flying-rv-that-needs-to-make-a-comeback-in-2020)
-* [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
 * [Critical SAP Bug Allows Full Enterprise System Takeover](https://threatpost.com/critical-sap-bug-enterprise-system-takeover/157392/)
+* [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
 * [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
-* [Flowtrackd: DDoS Protection with Unidirectional TCP Flow Tracking](https://blog.cloudflare.com/announcing-flowtrackd/)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
-* [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Vision scientists discover why people literally don't see eye to eye](https://news.berkeley.edu/2020/07/13/vision-scientists-discover-why-humans-literally-dont-see-eye-to-eye/)
-* [BMG: A Production Ready Relational Algebra in Ruby](https://github.com/enspirit/bmg)
+* [Hacking with environment variables](https://www.elttam.com/blog/env/)
+* [California's new lockdown could be brutal for the economy](https://lite.cnn.com/en/article/h_20222f17fef5fdd81adf2c94217eba86)
 * [You call Verizon. A Google bot answers. You demand a human](https://www.theregister.com/2020/07/13/if_customer_service_for_verizon/)
-* [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
-* [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
 * [Birth of BASIC (2014) [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
+* [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
 * [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
-* [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
+* [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
+* [Flowtrackd: DDoS Protection with Unidirectional TCP Flow Tracking](https://blog.cloudflare.com/announcing-flowtrackd/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
-* [Atlas of Surveillance](https://atlasofsurveillance.org/)
-* [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
 ## nytimes.com
 
 
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Irã executa ex-funcionário acusado de vender segredos à CIA](https://oglobo.globo.com/mundo/ira-executa-ex-funcionario-acusado-de-vender-segredos-cia-24531526)
-* [Em carta, ex-ministros da Fazenda e ex-presidentes do BC defendem retomada verde](https://oglobo.globo.com/economia/em-carta-ex-ministros-da-fazenda-ex-presidentes-do-bc-defendem-retomada-verde-24531601)
+* [Em carta, ex-ministros e ex-presidentes do BC cobram desmatamento zero na Amazônia e no Cerrado](https://oglobo.globo.com/economia/em-carta-ex-ministros-ex-presidentes-do-bc-cobram-desmatamento-zero-na-amazonia-no-cerrado-24531601)
+* ['Se ele tiver grandeza moral, tem que se retratar', diz Mourão sobre crítica de Gilmar Mendes ao Exército](https://oglobo.globo.com/brasil/se-ele-tiver-grandeza-moral-tem-que-se-retratar-diz-mourao-sobre-critica-de-gilmar-mendes-ao-exercito-24531605)
+* [Economia do Reino Unido cresce 1,8% em maio após tombo de mais de 20% em abril](https://oglobo.globo.com/economia/economia-do-reino-unido-cresce-18-em-maio-apos-tombo-de-mais-de-20-em-abril-24531718)
+* [Filho quer exumação de corpo do pai sepultado no lugar de outra pessoa: "É revoltante"](https://oglobo.globo.com/rio/filho-quer-exumacao-de-corpo-do-pai-sepultado-no-lugar-de-outra-pessoa-revoltante-24531736)
 * [Chegou a hora de um #MeToo para a indústria de games?](https://oglobo.globo.com/celina/chegou-hora-de-um-metoo-para-industria-de-games-24531570)
 * ['É muito triste, estamos morrendo', diz cacique Xavante sobre ação da Covid-19 entre indígenas](https://epoca.globo.com/brasil/e-muito-triste-estamos-morrendo-diz-cacique-xavante-sobre-acao-da-covid-19-entre-indigenas-24531642)
-* ['Se ele tiver grandeza moral, tem que se retratar', diz Mourão sobre Gilmar Mendes](https://oglobo.globo.com/brasil/se-ele-tiver-grandeza-moral-tem-que-se-retratar-diz-mourao-sobre-gilmar-mendes-24531605)
 * ['Ainda há a possibilidade', diz Jorge Oliveira sobre nomeação de Ramagem para comando da PF](https://oglobo.globo.com/brasil/ainda-ha-possibilidade-diz-jorge-oliveira-sobre-nomeacao-de-ramagem-para-comando-da-pf-24531591)
 * [Mensagens entre Ronnie Lessa e filha são de afeto, mas o assunto tratado é compra de armas](https://oglobo.globo.com/rio/mensagens-entre-ronnie-lessa-filha-sao-de-afeto-mas-assunto-tratado-compra-de-armas-1-24531451)
 * [Dia B de Beleza promete grandes descontos e dicas de experts](https://oglobo.globo.com/ela/beleza/dia-de-beleza-promete-grandes-descontos-dicas-de-experts-24531585)
 * [Oposição pede convocação de Marcos Pontes para explicar ingerência no Inpe](https://epoca.globo.com/guilherme-amado/oposicao-pede-convocacao-de-marcos-pontes-para-explicar-ingerencia-no-inpe-1-24531562)
-* [Rainha Elizabeth coloca à venda gim produzido com ingredientes do palácio de Buckingham](https://oglobo.globo.com/ela/gente/rainha-elizabeth-coloca-venda-gim-produzido-com-ingredientes-do-palacio-de-buckingham-24531518)

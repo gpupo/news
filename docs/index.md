@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 08:34:27 UTC
+# indexed at 14/07/2020 09:12:40 UTC
 
 
 ## news.ycombinator.com
@@ -13,16 +13,17 @@ layout: default
 * [Andean condor can fly for 100 miles without flapping wings](https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird)
 * [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
 * [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
+* [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
-* [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
-* [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
-* [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
-* [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
-* [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
 * [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
+* [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
+* [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
+* [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
+* [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
 * [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
+* [China on highest flood alert as 38M people evacuated](https://asia.nikkei.com/Economy/Natural-disasters/China-on-highest-flood-alert-as-38m-people-evacuated)
 * [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
 * [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
@@ -30,14 +31,13 @@ layout: default
 * [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
 * [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
+* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
 * [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
-* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
-* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
 * [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
-* [China on highest flood alert as 38M people evacuated](https://asia.nikkei.com/Economy/Natural-disasters/China-on-highest-flood-alert-as-38m-people-evacuated)
+* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [The Massacre That Destroyed Tulsa’s ‘Black Wall Street’](https://www.nytimes.com/2020/07/13/us/tulsa-massacre-graves-excavation.html)
 * [Body of Naya Rivera Is Found at California Lake, Authorities Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
 * [Deutsche Bank and Jeffrey Epstein: Here Are The Executives Who Served Him](https://www.nytimes.com/2020/07/13/business/deutsche-bank-jeffrey-epstein.html)
-* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
 * [Manchester City Won. Now Brace for the Losses.](https://www.nytimes.com/2020/07/13/sports/soccer/man-city-ffp.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
@@ -103,10 +103,10 @@ layout: default
 * [Flamengo x Fluminense: VAR terá mais câmeras no jogo de volta do que na ida](https://oglobo.globo.com/esportes/flamengo-fluminense-var-tera-mais-cameras-no-jogo-de-volta-do-que-na-ida-24531063)
 * [Lei das Fake News: entenda o que o Senado aprovou e o que a Câmara pretende mudar](https://oglobo.globo.com/brasil/lei-das-fake-news-entenda-que-senado-aprovou-o-que-camara-pretende-mudar-24531042)
 * [Já existe imunidade de grupo contra a Covid-19 no Brasil?](https://oglobo.globo.com/podcast/ja-existe-imunidade-de-grupo-contra-covid-19-no-brasil-24531249)
-* [País perde R$ 214 bilhões por ano com evasão escolar de jovens](https://oglobo.globo.com/economia/pais-perde-214-bilhoes-por-ano-com-evasao-escolar-de-jovens-24531093)
+* [Flamengo acerta com armador Yago Mateus, da seleção brasileira de basquete](https://oglobo.globo.com/esportes/flamengo-acerta-com-armador-yago-mateus-da-selecao-brasileira-de-basquete-24531177)
 * [Festival Delivery Rio: chef dá dicas para esquentar pratos do Ateliê Benoliel em casa](https://oglobo.globo.com/rioshow/festival-delivery-rio-chef-da-dicas-para-esquentar-pratos-do-atelie-benoliel-em-casa-24530716)
+* [Contra previsão de Bolsonaro, Brasil registra dobro de mortes da Itália](https://epoca.globo.com/guilherme-amado/contra-previsao-de-bolsonaro-brasil-registra-dobro-de-mortes-da-italia-1-24530598)
 * [Indecisão de Jorge Jesus oferece ao Flamengo uma amostra da vida sem ele](https://oglobo.globo.com/esportes/indecisao-de-jorge-jesus-oferece-ao-flamengo-uma-amostra-da-vida-sem-ele-24530543)
 * [O cheiro do que já se foi](https://oglobo.globo.com/cultura/o-cheiro-do-que-ja-se-foi-24530271)
 * [Palavras cruzadas do site do GLOBO têm edição temática sobre cinema nesta terça-feira](https://oglobo.globo.com/brasil/palavras-cruzadas-do-site-do-globo-tem-edicao-tematica-sobre-cinema-nesta-terca-feira-24530243)
 * [Insônia e horários desregulados viram rotina na quarentena](https://oglobo.globo.com/ela/gente/insonia-horarios-desregulados-viram-rotina-na-quarentena-24529832)
-* [Especializado em comida asiática, Thiago Rossetti lança o delivery Mar Mita](https://oglobo.globo.com/ela/gastronomia/especializado-em-comida-asiatica-thiago-rossetti-lanca-delivery-mar-mita-24526999)

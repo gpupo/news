@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 01:13:58 UTC
+# indexed at 14/07/2020 01:34:51 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Porsche Found a Way to 3D-Print Lightweight Pistons That Add More Horsepower](https://www.thedrive.com/tech/34775/porsche-found-a-way-to-3d-print-lightweight-pistons-that-add-even-more-horsepower)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
-* [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
+* [Porsche found a way to 3D-print lightweight pistons that more horsepower](https://www.thedrive.com/tech/34775/porsche-found-a-way-to-3d-print-lightweight-pistons-that-add-even-more-horsepower)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
+* [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
 * [Chipmaker Analog Devices to acquire Maxim Integrated for $21B](https://www.reuters.com/article/us-maxim-intg-m-a-analog-devices/chipmaker-analog-devices-to-buy-rival-maxim-for-about-21-billion-idUSKCN24E14B)
 * [Show HN: Primo – all-in-one IDE, CMS, component library, static site generator](https://primo.af)
 * [PGX: Write Postgres extensions in Rust instead of C](https://github.com/zombodb/pgx)
-* [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
+* [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
+* [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
+* [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
+* [Deschooling Society (1970)](https://davidtinapple.com/illich/1970_deschooling.html)
 * [TaxProper (YC S19) Is Hiring a Software Engineer (Growth)](https://www.notion.so/TaxProper-is-Hiring-5a21e3adc5e249aaa3282875936bbfd6)
 * [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
-* [Deschooling Society (1970)](https://davidtinapple.com/illich/1970_deschooling.html)
-* [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
 * [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
-* [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
+* [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
 * [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
+* [Noisomeness](https://www.lrb.co.uk/the-paper/v42/n14/keith-thomas/noisomeness)
 * [Building Elixir from source segfaults on macOS on Apple Silicon while compiling](https://groups.google.com/forum/#!msg/elixir-lang-core/9s6-BIxaCz8/i-NmhjabAQAJ)
-* [Problem Set 6: The Meta-Circular Evaluator (1998)](http://www.cs.cornell.edu/courses/cs212/1998sp/psets/ps6/ps6.html)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
-* [Artifacts alter timeline for Native Americans in California (2019)](https://www.sfchronicle.com/environment/article/Discovery-alters-timeline-for-Native-Americans-in-14423617.php)
-* [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
-* [Enigma code-breaking machine rebuilt at Cambridge](https://techxplore.com/news/2020-07-enigma-code-breaking-machine-rebuilt-cambridge.html)
-* [Igalia's open prioritization experiment for contributing to browsers](http://frederic-wang.fr/igalia-contribution-to-mozilla-and-open-prioritization.html)
+* [Problem Set 6: The Meta-Circular Evaluator (1998)](http://www.cs.cornell.edu/courses/cs212/1998sp/psets/ps6/ps6.html)
 * [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
+* [Enigma code-breaking machine rebuilt at Cambridge](https://techxplore.com/news/2020-07-enigma-code-breaking-machine-rebuilt-cambridge.html)
+* [Artifacts alter timeline for Native Americans in California (2019)](https://www.sfchronicle.com/environment/article/Discovery-alters-timeline-for-Native-Americans-in-14423617.php)
+* [Igalia's open prioritization experiment for contributing to browsers](http://frederic-wang.fr/igalia-contribution-to-mozilla-and-open-prioritization.html)
 * [Real World Programming in SWI-Prolog](http://www.pathwayslms.com/swipltuts/)
-* [Sustainable engineers Kenoteq are reinventing the brick](https://www.cnn.com/style/article/going-green-kbriq-sustainable-brick-spc-intl/index.html)
-* [BeerMaps – Search and explore local craft breweries](https://beermaps.com)
+* [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
 ## nytimes.com
 
 
-* [Coronavirus Live Updates: As Disease Sweeps the U.S., a Record 5.4 Million Americans Have Lost Health Insurance, Study Finds](https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html)
+* [Live Coronavirus News Updates](https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html)
 * [LA and San Diego Schools to Go Online-Only in The Fall](https://www.nytimes.com/2020/07/13/us/lausd-san-diego-school-reopening.html)
 * [17 States Sue to Block Student Visa Rules](https://www.nytimes.com/2020/07/13/us/f1-student-visas-trump.html)
 * [‘I Can’t Keep Doing This:’ Small-Business Owners Are Giving Up](https://www.nytimes.com/2020/07/13/business/small-businesses-coronavirus.html)
@@ -81,17 +81,17 @@ layout: default
 * [Body of Naya Rivera Is Found at California Lake, Authorities Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
 * [Deutsche Bank and Jeffrey Epstein: Here Are The Executives Who Served Him](https://www.nytimes.com/2020/07/13/business/deutsche-bank-jeffrey-epstein.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
 * [Manchester City Won. Now Brace for the Losses.](https://www.nytimes.com/2020/07/13/sports/soccer/man-city-ffp.html)
 * [From Catherine Opie, a Visual Diary of the Recent Past](https://www.nytimes.com/2020/07/10/t-magazine/catherine-opie-photos.html)
 * [Even as Covid-19 Looms, an M.L.B. Rookie Is Ready to Play](https://www.nytimes.com/2020/07/11/sports/baseball/kyle-lewis-mariners-mlb-return.html)
+* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
-* [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
 * [Kelly Preston, Actress and Wife of John Travolta, Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)
 * [Texas Hospital Says Man, 30, Died After Attending a ‘Covid Party’](https://www.nytimes.com/2020/07/12/us/30-year-old-covid-party-death.html)
@@ -102,8 +102,8 @@ layout: default
 ## globo.com
 
 
-* [TJRJ entra em segunda fase de retorno ao trabalho presencial, ainda com 25% da capacidade](https://oglobo.globo.com/rio/tjrj-entra-em-segunda-fase-de-retorno-ao-trabalho-presencial-ainda-com-25-da-capacidade-1-24530835)
 * [Brasil registra na última semana maior média de óbitos desde início da pandemia](https://oglobo.globo.com/sociedade/brasil-registra-na-ultima-semana-maior-media-de-obitos-desde-inicio-da-pandemia-24530850)
+* [TJRJ entra em segunda fase de retorno ao trabalho presencial, com 25% da capacidade](https://oglobo.globo.com/rio/tjrj-entra-em-segunda-fase-de-retorno-ao-trabalho-presencial-com-25-da-capacidade-24530835)
 * [Estudo indica que imunidade à Covid-19 pode desaparecer após alguns meses](https://oglobo.globo.com/sociedade/coronavirus/estudo-indica-que-imunidade-covid-19-pode-desaparecer-apos-alguns-meses-24530702)
 * [Rússia pode iniciar fase final de teste de vacina para Covid-19 em meados de agosto](https://oglobo.globo.com/sociedade/coronavirus/russia-pode-iniciar-fase-final-de-teste-de-vacina-para-covid-19-em-meados-de-agosto-24530770)
 * [Corpo de atriz de 'Glee' Naya Rivera é encontrado em lago nos EUA, diz site americano](https://oglobo.globo.com/cultura/corpo-de-atriz-de-glee-naya-rivera-encontrado-em-lago-nos-eua-diz-site-americano-24530656)

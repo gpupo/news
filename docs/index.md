@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 14:34:36 UTC
+# indexed at 14/07/2020 15:12:27 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Eventual Consistency isn’t for Streaming](https://materialize.io/eventual-consistency-isnt-for-streaming/)
-* [Grant Imahara Has Died](https://www.hollywoodreporter.com/news/grant-imahara-dead-mythbusters-host-was-49-1303101)
 * [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
+* [Grant Imahara Has Died](https://www.hollywoodreporter.com/news/grant-imahara-dead-mythbusters-host-was-49-1303101)
 * [Show HN: Is It Worth the Cost?](https://isitworththecost.com/)
 * [Ex-googler's startup comes out of stealth with simple, clever robot design](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
 * [Poland puts computer game “This War of Mine” on school reading list](https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)
 * [Andean condor can fly for 100 miles without flapping wings](https://www.theguardian.com/environment/2020/jul/13/andean-condor-fly-without-flapping-wings-flight-bird)
+* [ARM64 Popcount in Golang and Assembler](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
+* [Show HN: 14 Habits of Highly Productive Developers – New Book](https://14habits.com/)
 * [Confidential VMs](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-confidential-computing-with-confidential-vms)
-* [Ask HN: Anyone from Apple here? It's impossible to enroll the dev program](https://news.ycombinator.com/item?id=23831989)
+* [Financial Statements: A Beginner's Guide](https://www.causal.app/blog/whats-a-financial-statement)
 * [The Winnebago Heli-Home Was a Real Flying RV](https://www.thedrive.com/news/34753/the-winnebago-heli-home-was-a-real-flying-rv-that-needs-to-make-a-comeback-in-2020)
 * [LXD – next generation system container manager release 4.3](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303)
-* [Financial Statements: A Beginner's Guide](https://www.causal.app/blog/whats-a-financial-statement)
+* [Critical SAP Bug Allows Full Enterprise System Takeover](https://threatpost.com/critical-sap-bug-enterprise-system-takeover/157392/)
 * [Pixelopolis, a self-driving car demo from Google I/O built with TensorFlow-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
+* [Flowtrackd: DDoS Protection with Unidirectional TCP Flow Tracking](https://blog.cloudflare.com/announcing-flowtrackd/)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
-* [Flowtrackd: DDoS Protection with Unidirectional TCP Flow Tracking](https://blog.cloudflare.com/announcing-flowtrackd/)
 * [Vision scientists discover why people literally don't see eye to eye](https://news.berkeley.edu/2020/07/13/vision-scientists-discover-why-humans-literally-dont-see-eye-to-eye/)
-* [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
-* [ARM64 Popcount in Golang and Assembler](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
-* [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
+* [BMG: A Production Ready Relational Algebra in Ruby](https://github.com/enspirit/bmg)
+* [You call Verizon. A Google bot answers. You demand a human](https://www.theregister.com/2020/07/13/if_customer_service_for_verizon/)
 * [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
 * [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
+* [Birth of BASIC (2014) [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
+* [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
+* [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
-* [Birth of BASIC (2014) [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
-* [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
-* [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
-* [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
 ## nytimes.com
 
 
@@ -48,8 +48,8 @@ layout: default
 * [DeVos Abandons a Lifetime of Local Advocacy to Demand Schools Reopen](https://www.nytimes.com/2020/07/13/us/politics/betsy-devos-schools-coronavirus.html)
 * [I Went Home to Texas to Cover the Virus. Then My Family Got It.](https://www.nytimes.com/2020/07/14/us/coronavirus-texas-rio-grande-valley-border.html)
 * [Why We’re Losing the Battle With Covid-19](https://www.nytimes.com/2020/07/14/magazine/covid-19-public-health-texas.html)
-* [Pandemic Cut JPMorgan Chase’s Second Quarter Earnings in Half](https://www.nytimes.com/live/2020/07/14/business/stock-market-updates-coronavirus)
-* [Biden vs. Trump 2020 Live Updates: Trump Talks Up Tuberville as Alabama Votes](https://www.nytimes.com/2020/07/14/us/elections/biden-vs-trump.html)
+* [Business Updates: Bank Earnings Show Hit From the Pandemic](https://www.nytimes.com/live/2020/07/14/business/stock-market-updates-coronavirus)
+* [Biden vs. Trump 2020: Live Updates of Alabama, Texas and Maine Elections](https://www.nytimes.com/2020/07/14/us/elections/biden-vs-trump.html)
 * [The QAnon Candidates Are Coming. Are Republicans Ready?](https://www.nytimes.com/2020/07/14/us/politics/qanon-politicians-candidates.html)
 * [Headed to the Convention? Not I, More Republicans Are Saying](https://www.nytimes.com/2020/07/13/us/politics/florida-virus-republican-convention.html)
 * [Daniel Lewis Lee Executed: Government Carries Out First in 17 Years](https://www.nytimes.com/2020/07/14/us/politics/daniel-lewis-lee-execution-crime.html)
@@ -75,7 +75,7 @@ layout: default
 * [Navy Warship Is Still Ablaze, and Now Tilting to One Side](https://www.nytimes.com/2020/07/13/us/naval-ship-fire-san-diego.html)
 * [Grant Imahara, ‘MythBusters’ Co-Host, Dies at 49](https://www.nytimes.com/2020/07/14/arts/television/grant-imahara-dead.html)
 * [N.Y.C.’s Wave of Gun Violence Continues With 3 Drive-By Shootings](https://www.nytimes.com/2020/07/14/nyregion/drive-by-shootings-brooklyn.html)
-* [Russell Westbrook Says He Tested Positive for the Coronavirus](https://www.nytimes.com/2020/07/13/sports/basketball/russell-westbrook-coronavirus.html)
+* [Massachusetts Sues Uber and Lyft Over the Status of Drivers](https://www.nytimes.com/2020/07/14/technology/massachusetts-sues-uber-lyft.html)
 * [Tucker Carlson to Take 'Long-Planned' Vacation After Blake Neff's Resignation](https://www.nytimes.com/2020/07/13/business/media/tucker-carlson-fox-news-writer.html)
 * [A Racial Awakening in France, Where Race Is a Taboo Topic](https://www.nytimes.com/2020/07/14/world/europe/france-racism-universalism.html)
 * [G.A.O.: Trump Boosts Deregulation by Undervaluing Cost of Climate Change](https://www.nytimes.com/2020/07/14/climate/trump-climate-change-carbon-cost.html)
@@ -91,10 +91,10 @@ layout: default
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
 * [Jimmy Fallon Predicts Trump Will Say He Was the First to Wear a Mask](https://www.nytimes.com/2020/07/14/arts/television/late-night-trump-mask.html)
 * [Meet the Man Who Spun the Media, Scammed Followers and Named Himself King](https://www.nytimes.com/2020/07/14/books/review/king-of-confidence-miles-harvey-james-jesse-strang.html)
+* [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
 * [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [Drug Giants Create Fund to Bolster Struggling Antibiotic Start-Ups](https://www.nytimes.com/2020/07/09/health/antibiotics-pharma-drug-resistance.html)
 * [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
-* [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
 * [Kelly Preston, Actress and Wife of John Travolta, Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Integrantes da quadrilha de Ecko são presos quando tentavam expandir milícia para Nilópolis](https://oglobo.globo.com/rio/integrantes-da-quadrilha-de-ecko-sao-presos-quando-tentavam-expandir-milicia-para-nilopolis-24531495)
-* [Irã diz ter executado agente iraniano ligado à CIA](https://oglobo.globo.com/mundo/ira-diz-ter-executado-agente-iraniano-ligado-cia-24531526)
+* [Irã executa ex-funcionário acusado de vender segredos à CIA](https://oglobo.globo.com/mundo/ira-executa-ex-funcionario-acusado-de-vender-segredos-cia-24531526)
+* [Em carta, ex-ministros da Fazenda e ex-presidentes do BC defendem retomada verde](https://oglobo.globo.com/economia/em-carta-ex-ministros-da-fazenda-ex-presidentes-do-bc-defendem-retomada-verde-24531601)
+* [Chegou a hora de um #MeToo para a indústria de games?](https://oglobo.globo.com/celina/chegou-hora-de-um-metoo-para-industria-de-games-24531570)
+* ['É muito triste, estamos morrendo', diz cacique Xavante sobre ação da Covid-19 entre indígenas](https://epoca.globo.com/brasil/e-muito-triste-estamos-morrendo-diz-cacique-xavante-sobre-acao-da-covid-19-entre-indigenas-24531642)
+* ['Se ele tiver grandeza moral, tem que se retratar', diz Mourão sobre Gilmar Mendes](https://oglobo.globo.com/brasil/se-ele-tiver-grandeza-moral-tem-que-se-retratar-diz-mourao-sobre-gilmar-mendes-24531605)
 * ['Ainda há a possibilidade', diz Jorge Oliveira sobre nomeação de Ramagem para comando da PF](https://oglobo.globo.com/brasil/ainda-ha-possibilidade-diz-jorge-oliveira-sobre-nomeacao-de-ramagem-para-comando-da-pf-24531591)
 * [Mensagens entre Ronnie Lessa e filha são de afeto, mas o assunto tratado é compra de armas](https://oglobo.globo.com/rio/mensagens-entre-ronnie-lessa-filha-sao-de-afeto-mas-assunto-tratado-compra-de-armas-1-24531451)
 * [Dia B de Beleza promete grandes descontos e dicas de experts](https://oglobo.globo.com/ela/beleza/dia-de-beleza-promete-grandes-descontos-dicas-de-experts-24531585)
 * [Oposição pede convocação de Marcos Pontes para explicar ingerência no Inpe](https://epoca.globo.com/guilherme-amado/oposicao-pede-convocacao-de-marcos-pontes-para-explicar-ingerencia-no-inpe-1-24531562)
-* [Passagem de frente fria traz chuva e ventos de mais de 40km/h para o Rio](https://oglobo.globo.com/rio/passagem-de-frente-fria-traz-chuva-ventos-de-mais-de-40kmh-para-rio-24531486)
 * [Rainha Elizabeth coloca à venda gim produzido com ingredientes do palácio de Buckingham](https://oglobo.globo.com/ela/gente/rainha-elizabeth-coloca-venda-gim-produzido-com-ingredientes-do-palacio-de-buckingham-24531518)
-* [Em cúpula da OCDE, Paulo Guedes diz que Brasil priorizou salvar vidas e valoriza atuação de estados](https://epoca.globo.com/brasil/em-cupula-da-ocde-paulo-guedes-diz-que-brasil-priorizou-salvar-vidas-valoriza-atuacao-de-estados-24531510)
-* [MEC divulga os aprovados para as vagas nas universidades do segundo semestre do Sisu](https://oglobo.globo.com/sociedade/educacao/mec-divulga-os-aprovados-para-as-vagas-nas-universidades-do-segundo-semestre-do-sisu-24531494)

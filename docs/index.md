@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 08:14:06 UTC
+# indexed at 14/07/2020 08:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -17,11 +17,12 @@ layout: default
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
+* [Vessel Finder](https://marinetraffic24.com/pt/vesselfinder/)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
 * [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
+* [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
 * [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
-* [Chipmaker Analog Devices to acquire Maxim Integrated for $21B](https://www.reuters.com/article/us-maxim-intg-m-a-analog-devices/chipmaker-analog-devices-to-buy-rival-maxim-for-about-21-billion-idUSKCN24E14B)
 * [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
 * [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
@@ -29,15 +30,14 @@ layout: default
 * [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
 * [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
-* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
-* [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
-* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
+* [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
+* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
+* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
 * [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
-* [Show HN: Primo – all-in-one IDE, CMS, component library, static site generator](https://primo.af)
-* [Enigma code-breaking machine rebuilt at Cambridge](https://techxplore.com/news/2020-07-enigma-code-breaking-machine-rebuilt-cambridge.html)
+* [China on highest flood alert as 38M people evacuated](https://asia.nikkei.com/Economy/Natural-disasters/China-on-highest-flood-alert-as-38m-people-evacuated)
 ## nytimes.com
 
 
@@ -73,7 +73,7 @@ layout: default
 * [Supreme Court Lifts Block on Federal Execution](https://www.nytimes.com/2020/07/13/us/politics/federal-execution.html)
 * [San Diego Sheriff’s Deputy Is Charged With Second-Degree Murder](https://www.nytimes.com/2020/07/13/us/nicholas-bils-shooting-san-diego.html)
 * [Hong Kong Oppositions Protesters Defy Security Law Threats in Primary Election](https://www.nytimes.com/2020/07/13/world/asia/hong-kong-elections-security.html)
-* [Grant Imahara, Engineer Who Co-Hosted ‘MythBusters,’ Dies at 49](https://www.nytimes.com/2020/07/14/obituaries/grant-imahara-dead.html)
+* [Grant Imahara, Engineer Who Co-Hosted ‘MythBusters,’ Dies at 49](https://www.nytimes.com/2020/07/14/arts/television/grant-imahara-dead.html)
 * [Tucker Carlson to Take 'Long-Planned' Vacation After Blake Neff's Resignation](https://www.nytimes.com/2020/07/13/business/media/tucker-carlson-fox-news-writer.html)
 * [Navy Warship Is Still Ablaze, and Now Tilting to One Side](https://www.nytimes.com/2020/07/13/us/naval-ship-fire-san-diego.html)
 * [The Massacre That Destroyed Tulsa’s ‘Black Wall Street’](https://www.nytimes.com/2020/07/13/us/tulsa-massacre-graves-excavation.html)
@@ -89,8 +89,8 @@ layout: default
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [From Catherine Opie, a Visual Diary of the Recent Past](https://www.nytimes.com/2020/07/10/t-magazine/catherine-opie-photos.html)
 * [Even as Covid-19 Looms, an M.L.B. Rookie Is Ready to Play](https://www.nytimes.com/2020/07/11/sports/baseball/kyle-lewis-mariners-mlb-return.html)
-* [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
 * [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
+* [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [Kelly Preston, Actress and Wife of John Travolta, Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)

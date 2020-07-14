@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 09:12:40 UTC
+# indexed at 14/07/2020 09:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -17,11 +17,12 @@ layout: default
 * [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
-* [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
 * [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
+* [The Greatest Teaching Techniques Don't Compute over Zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
 * [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
+* [Vision scientists discover why people literally don't see eye to eye](https://news.berkeley.edu/2020/07/13/vision-scientists-discover-why-humans-literally-dont-see-eye-to-eye/)
 * [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
 * [China on highest flood alert as 38M people evacuated](https://asia.nikkei.com/Economy/Natural-disasters/China-on-highest-flood-alert-as-38m-people-evacuated)
 * [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
@@ -31,13 +32,12 @@ layout: default
 * [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
 * [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
-* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
+* [Show HN: Deploy Scikit and Keras Models with a Simple Drag and Drop](https://inferrd.com)
 * [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
 * [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
 * [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
-* [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
 ## nytimes.com
 
 
@@ -53,6 +53,7 @@ layout: default
 * [Headed to the Convention? Not I, More Republicans Are Saying](https://www.nytimes.com/2020/07/13/us/politics/florida-virus-republican-convention.html)
 * [Jeff Sessions and Tommy Tuberville Close Out Alabama’s G.O.P. Senate Runoff](https://www.nytimes.com/2020/07/13/us/politics/sessions-tuberville.html)
 * [How the United Arab Emirates Set Its Sights on Mars](https://www.nytimes.com/2020/07/14/science/mars-united-arab-emirates.html)
+* [What to Know About N.Y.’s Traveler Restrictions](https://www.nytimes.com/2020/07/14/nyregion/ny-quarantine-rules.html)
 * [A Turning Point for Hong Kong](https://www.nytimes.com/2020/07/13/podcasts/the-daily/hong-kong.html)
 * [Stock Markets Ignore Bad News on Infections, Earnings](https://www.nytimes.com/2020/07/13/business/dealbook/stocks-earnings-virus.html)
 * [David Mitchell’s Vast and Tangled Universe](https://www.nytimes.com/2020/07/10/books/review/david-mitchell-utopia-avenue-daniel-mendelsohn-biggest-bluff-poker-maria-konnikova.html)
@@ -79,20 +80,20 @@ layout: default
 * [The Massacre That Destroyed Tulsa’s ‘Black Wall Street’](https://www.nytimes.com/2020/07/13/us/tulsa-massacre-graves-excavation.html)
 * [Body of Naya Rivera Is Found at California Lake, Authorities Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
 * [Deutsche Bank and Jeffrey Epstein: Here Are The Executives Who Served Him](https://www.nytimes.com/2020/07/13/business/deutsche-bank-jeffrey-epstein.html)
-* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
-* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
-* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
 * [Manchester City Won. Now Brace for the Losses.](https://www.nytimes.com/2020/07/13/sports/soccer/man-city-ffp.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [From Catherine Opie, a Visual Diary of the Recent Past](https://www.nytimes.com/2020/07/10/t-magazine/catherine-opie-photos.html)
 * [Even as Covid-19 Looms, an M.L.B. Rookie Is Ready to Play](https://www.nytimes.com/2020/07/11/sports/baseball/kyle-lewis-mariners-mlb-return.html)
-* [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
-* [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
 * [Most People With Coronavirus Won’t Spread It. Why Do a Few Infect Many?](https://www.nytimes.com/2020/06/30/science/how-coronavirus-spreads.html)
 * [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
+* [Study of 17 Million Identifies Crucial Risk Factors for Coronavirus Deaths](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html)
+* [How Scientists Got Coronavirus While Trying to Find a Drug for the Disease](https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html)
 * [Kelly Preston, Actress and Wife of John Travolta, Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,12 +102,12 @@ layout: default
 
 
 * [Flamengo x Fluminense: VAR terá mais câmeras no jogo de volta do que na ida](https://oglobo.globo.com/esportes/flamengo-fluminense-var-tera-mais-cameras-no-jogo-de-volta-do-que-na-ida-24531063)
-* [Lei das Fake News: entenda o que o Senado aprovou e o que a Câmara pretende mudar](https://oglobo.globo.com/brasil/lei-das-fake-news-entenda-que-senado-aprovou-o-que-camara-pretende-mudar-24531042)
 * [Já existe imunidade de grupo contra a Covid-19 no Brasil?](https://oglobo.globo.com/podcast/ja-existe-imunidade-de-grupo-contra-covid-19-no-brasil-24531249)
+* [Namorada de irmão de Maninho pede na Justiça parte da herança de bicheiro assassinado](https://oglobo.globo.com/rio/namorada-de-irmao-de-maninho-pede-na-justica-parte-da-heranca-de-bicheiro-assassinado-1-24530998)
 * [Flamengo acerta com armador Yago Mateus, da seleção brasileira de basquete](https://oglobo.globo.com/esportes/flamengo-acerta-com-armador-yago-mateus-da-selecao-brasileira-de-basquete-24531177)
 * [Festival Delivery Rio: chef dá dicas para esquentar pratos do Ateliê Benoliel em casa](https://oglobo.globo.com/rioshow/festival-delivery-rio-chef-da-dicas-para-esquentar-pratos-do-atelie-benoliel-em-casa-24530716)
+* [União Europeia questiona Brasil sobre medidas anti-Covid em aeroportos](https://epoca.globo.com/guilherme-amado/uniao-europeia-questiona-brasil-sobre-medidas-anti-covid-em-aeroportos-24530760)
 * [Contra previsão de Bolsonaro, Brasil registra dobro de mortes da Itália](https://epoca.globo.com/guilherme-amado/contra-previsao-de-bolsonaro-brasil-registra-dobro-de-mortes-da-italia-1-24530598)
 * [Indecisão de Jorge Jesus oferece ao Flamengo uma amostra da vida sem ele](https://oglobo.globo.com/esportes/indecisao-de-jorge-jesus-oferece-ao-flamengo-uma-amostra-da-vida-sem-ele-24530543)
-* [O cheiro do que já se foi](https://oglobo.globo.com/cultura/o-cheiro-do-que-ja-se-foi-24530271)
 * [Palavras cruzadas do site do GLOBO têm edição temática sobre cinema nesta terça-feira](https://oglobo.globo.com/brasil/palavras-cruzadas-do-site-do-globo-tem-edicao-tematica-sobre-cinema-nesta-terca-feira-24530243)
 * [Insônia e horários desregulados viram rotina na quarentena](https://oglobo.globo.com/ela/gente/insonia-horarios-desregulados-viram-rotina-na-quarentena-24529832)

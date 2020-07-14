@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/07/2020 04:35:07 UTC
+# indexed at 14/07/2020 05:11:56 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Interesting environment variables to supply to scripting language interpreters](https://www.elttam.com/blog/env/)
+* [How Do Unschoolers Turn Out?](https://www.kqed.org/mindshift/37091/how-do-unschoolers-turn-out)
+* [Hacking with environment variables](https://www.elttam.com/blog/env/)
 * [Atlas of Surveillance](https://atlasofsurveillance.org/)
 * [The AirPods Pro “Rattlegate”](https://annoying.technology/posts/abea6876cf4f2e13/)
+* [Grant Imahara, ‘Mythbusters’ Host, Dies at 49](https://variety.com/2020/tv/news/grant-imahara-mythbusters-dead-dies-1234705834/)
 * [I Know What You Download on BitTorrent](http://iknowwhatyoudownload.com)
-* [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
+* [Ex-Googler's Startup Comes Out of Stealth with Beautifully Simple, Clever Robot](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)
 * [A Steve Jobs masterclass from a decade ago](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 * [Do journalists pay too much attention to Twitter? (2018)](https://www.cjr.org/the_media_today/journalists-on-twitter-study.php)
+* [Python malware on the rise](https://www.cyborgsecurity.com/python-malware-on-the-rise/)
 * [Laziness Impatience Hubris](http://wiki.c2.com/?LazinessImpatienceHubris)
-* [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
 * [Skypack – A new kind of JavaScript delivery network](https://www.skypack.dev)
+* [BigCommerce S1](https://www.sec.gov/Archives/edgar/data/1626450/000119312520191966/d844671ds1.htm)
 * [Making aerial fiber deployment faster and more efficient](https://engineering.fb.com/connectivity/aerial-fiber-deployment/)
 * [Chipmaker Analog Devices to acquire Maxim Integrated for $21B](https://www.reuters.com/article/us-maxim-intg-m-a-analog-devices/chipmaker-analog-devices-to-buy-rival-maxim-for-about-21-billion-idUSKCN24E14B)
-* [Strange public IPv4 address assigned behind NAT (2019)](https://broadbandforum.co/t/190267/)
-* [Grant Imahara, ‘Mythbusters’ Host, Dies at 49](https://variety.com/2020/tv/news/grant-imahara-mythbusters-dead-dies-1234705834/)
-* [Bonhomme Richard, fate uncertain, would be one of largest ships Navy has lost](https://www.sandiegouniontribune.com/news/military/story/2020-07-13/bonhomme-richard-fire-future)
 * [PGX: Write Postgres extensions in Rust instead of C](https://github.com/zombodb/pgx)
+* [Bonhomme Richard, fate uncertain, would be one of largest ships Navy has lost](https://www.sandiegouniontribune.com/news/military/story/2020-07-13/bonhomme-richard-fire-future)
 * [Deschooling Society (1970)](https://davidtinapple.com/illich/1970_deschooling.html)
-* [Porsche found a way to 3D-print lightweight pistons that add more horsepower](https://www.thedrive.com/tech/34775/porsche-found-a-way-to-3d-print-lightweight-pistons-that-add-even-more-horsepower)
 * [The most remarkable legacy system I have seen](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
 * [How good are query optimizers, really? [pdf] (2015)](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
+* [Google announces new Career Certificates and 100k scholarships](https://blog.google/outreach-initiatives/grow-with-google/digital-jobs-program-help-americas-economic-recovery/)
+* [Homemade Liquid Nitrogen Generator](http://homemadeliquidnitrogen.com/)
 * [How to Tell a Real 1959 Gibson Les Paul Guitar From a Fake](https://www.wsj.com/articles/1959-gibson-les-paul-guitar-real-or-fake-jimmy-page-slash-cheap-trick-nashville-11594412649)
-* [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
 * [Zamburak](https://en.wikipedia.org/wiki/Zamburak)
+* [Breached Data Indexer ‘Data Viper’ Hacked](https://krebsonsecurity.com/2020/07/breached-data-indexer-data-viper-hacked/)
 * [Launch HN: Aquarium (YC S20) – Improve Your ML Dataset Quality](https://news.ycombinator.com/item?id=23821502)
 * [The international student bait-and-switch](https://themargins.substack.com/p/the-international-student-bait-and)
-* [Now Resolved: FB iOS SDK Outage Causing Disruption to 3rd Party iOS Apps](https://developers.facebook.com/blog/post/2020/07/13/bug-now-resolved-fb-ios-sdk-outage-causing-disruption-third-party-ios-apps/)
-* [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
 * [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech)
-* [Noisomeness](https://www.lrb.co.uk/the-paper/v42/n14/keith-thomas/noisomeness)
-* [Building Elixir from source segfaults on macOS on Apple Silicon while compiling](https://groups.google.com/forum/#!msg/elixir-lang-core/9s6-BIxaCz8/i-NmhjabAQAJ)
+* [The Meddling Middlemen of Academia](https://bastian.rieck.me/blog/posts/2020/middlemen/)
+* [Porsche found a way to 3D-print lightweight pistons that add more horsepower](https://www.thedrive.com/tech/34775/porsche-found-a-way-to-3d-print-lightweight-pistons-that-add-even-more-horsepower)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [Washington Name Change Was 'a Long Time Coming'](https://www.nytimes.com/2020/07/13/sports/football/native-american-washington-name-change.html)
 * [Headed to the Convention? Not I, More Republicans Are Saying](https://www.nytimes.com/2020/07/13/us/politics/florida-virus-republican-convention.html)
 * [Jeff Sessions and Tommy Tuberville Close Out Alabama’s G.O.P. Senate Runoff](https://www.nytimes.com/2020/07/13/us/politics/sessions-tuberville.html)
+* [How the United Arab Emirates Set Its Sights on Mars](https://www.nytimes.com/2020/07/14/science/mars-united-arab-emirates.html)
 * [California’s Rollback, Washington’s N.F.L. team, Koalas: Your Monday Evening Briefing](https://www.nytimes.com/2020/07/13/briefing/california-the-redskins-koalas.html)
 * [A Turning Point for Hong Kong](https://www.nytimes.com/2020/07/13/podcasts/the-daily/hong-kong.html)
 * [Stock Markets Ignore Bad News on Infections, Earnings](https://www.nytimes.com/2020/07/13/business/dealbook/stocks-earnings-virus.html)
@@ -79,11 +80,11 @@ layout: default
 * [The Massacre That Destroyed Tulsa’s ‘Black Wall Street’](https://www.nytimes.com/2020/07/13/us/tulsa-massacre-graves-excavation.html)
 * [Body of Naya Rivera Is Found at California Lake, Authorities Say](https://www.nytimes.com/2020/07/13/us/naya-rivera-dead.html)
 * [Deutsche Bank and Jeffrey Epstein: Here Are The Executives Who Served Him](https://www.nytimes.com/2020/07/13/business/deutsche-bank-jeffrey-epstein.html)
-* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [David Lee Roth Is Letting His Art (Mostly) Do the Talking](https://www.nytimes.com/2020/07/13/arts/music/david-lee-roth-art.html)
 * [Manchester City Won. Now Brace for the Losses.](https://www.nytimes.com/2020/07/13/sports/soccer/man-city-ffp.html)
 * [From Catherine Opie, a Visual Diary of the Recent Past](https://www.nytimes.com/2020/07/10/t-magazine/catherine-opie-photos.html)
@@ -94,7 +95,6 @@ layout: default
 * [What’s the Best Exercise for You? Twins Can Provide an Answer](https://www.nytimes.com/2020/07/08/well/move/best-exercise-strength-fitness-twins.html)
 * [Kelly Preston, Actress and Wife of John Travolta, Dies at 57](https://www.nytimes.com/2020/07/13/movies/kelly-preston-dead.html)
 * [When ‘Keep Your Distance’ Has Been a Way of Life](https://www.nytimes.com/2020/07/10/arts/mother-son-diary.html)
-* [How to Make Beads From Your Newspaper](https://www.nytimes.com/2020/07/11/at-home/how-to-make-newspaper-beads.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

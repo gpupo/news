@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 22:12:34 UTC
+# indexed at 15/07/2020 22:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Scammers hack prominent cryptocurrency Twitter accounts in simultaneous attack](https://www.coindesk.com/hackers-take-over-prominent-crypto-twitter-accounts-in-simultaneous-attack)
 * [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
-* [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
+* [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
 * [Scientists achieve first complete assembly of human Xchromosome](https://phys.org/news/2020-07-scientists-human-chromosome.html)
 * [What's New in Lua 5.4](https://lwn.net/SubscriberLink/826134/b1b87e4187435cec/)
+* [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
 * [Why You Need a Community: Opportunity Exposure and the Internet Echo Chamber](https://liamp.substack.com/p/why-you-need-a-community-opportunity)
 * [Plasma from exercised mice showed beneficial effects on brains of aged mice](https://science.sciencemag.org/content/369/6500/167)
 * [How SHA-2 works step-by-step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
 * [Blind people gesture (and why that’s kind of a big deal)](https://allthingslinguistic.com/post/150001033323/blind-people-gesture-and-why-thats-kind-of-a-big)
-* [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
 * [Understanding quaternions and the Dirac belt trick (2010)](https://arxiv.org/abs/1001.1778)
+* [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
 * [Sail Freight Projects Around the World](https://sailingdog.org/sail-freight-projects-around-the-world/)
 * [How to write technical posts so people will read them (2019)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 * [Apple has €13bn Irish tax bill overturned](https://www.bbc.com/news/business-53416206)
 * [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
-* [The Platonic solids and fundamental tests of quantum mechanics](https://quantum-journal.org/papers/q-2020-07-09-293/)
-* [Building a $5k ML Workstation with Tiitan RTX and Ryzen ThreadRipper [video]](https://www.youtube.com/watch?v=iahQOQZVdog)
-* [Mux (YC W16) is looking for developers that like helping other developers](https://mux.com/jobs?hnj=16)
-* [Rewriting Fortran Software in Rust](https://mckeogh.tech/post/shallow-water/)
-* [The accidentally resilient design of Athens apartments](https://www.bloomberg.com/news/features/2020-07-15/the-design-history-of-athens-iconic-apartments)
-* [Deep Work and the 30-Hour Method for Learning a New Skill (2018)](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
 * [Amazon Interactive Video Service – Add Live Video to Your Apps and Websites](https://aws.amazon.com/blogs/aws/amazon-interactive-video-service-add-live-video-to-your-apps-and-websites/)
-* [Amazon warns Alexa Echo Buds earphones pose overheating safety risk](https://www.bbc.com/news/technology-53422863)
+* [The Platonic solids and fundamental tests of quantum mechanics](https://quantum-journal.org/papers/q-2020-07-09-293/)
+* [Rewriting Fortran Software in Rust](https://mckeogh.tech/post/shallow-water/)
+* [Building a $5k ML Workstation with Tiitan RTX and Ryzen ThreadRipper [video]](https://www.youtube.com/watch?v=iahQOQZVdog)
+* [The accidentally resilient design of Athens apartments](https://www.bloomberg.com/news/features/2020-07-15/the-design-history-of-athens-iconic-apartments)
+* [Mux (YC W16) is looking for developers that like helping other developers](https://mux.com/jobs?hnj=16)
+* [Deep Work and the 30-Hour Method for Learning a New Skill (2018)](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
 * [The Common Lisp Condition System – Upcoming Book](https://www.apress.com/us/book/9781484261330)
 * [Co-founder of Gokada found decapitated, dismembered inside New York condo](https://www.nydailynews.com/new-york/nyc-crime/ny-headless-torso-found-manhattan-20200714-rz25uxzsejgrxnsk4rd22vf7hq-story.html)
-* [The Fake Cisco](https://labs.f-secure.com/publications/the-fake-cisco/)
+* [Amazon warns Alexa Echo Buds earphones pose overheating safety risk](https://www.bbc.com/news/technology-53422863)
 * [Data structures and algorithms I actually used while working at tech companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
-* [Why is the Fessenheim 2 nuclear power plant closing in France?](https://www.sustainability-times.com/expert/a-safe-and-profitable-nuclear-plant-is-closing-in-france-why/)
+* [The Fake Cisco](https://labs.f-secure.com/publications/the-fake-cisco/)
 ## nytimes.com
 
 
@@ -69,7 +69,7 @@ layout: default
 * [The Phantom Handbag](https://www.nytimes.com/2020/07/15/style/coronavirus-handbags.html)
 * [Country Music Struggles to Meet the Moment. Again.](https://www.nytimes.com/2020/07/15/arts/music/country-music-race.html)
 * [The Tahini War: The Food at the Center of an Arab Gay Rights Battle](https://www.nytimes.com/2020/07/15/world/middleeast/tahini-gay-israel-boycott.html)
-* [Teenage Suspect Identified in Fatal Shooting of 8-Year-Old Girl in Atlanta](https://www.nytimes.com/2020/07/15/us/secoriea-turner-murder-arrest.html)
+* [Teenage Suspect Charged in Fatal Shooting of 8-Year-Old Girl in Atlanta](https://www.nytimes.com/2020/07/15/us/secoriea-turner-murder-arrest.html)
 * [87 Face Felony Charges After Protesting Breonna Taylor’s Death](https://www.nytimes.com/2020/07/15/us/protesters-arrested-breonna-taylor-kentucky.html)
 * [Ruth Bader Ginsburg Is Released From Hospital](https://www.nytimes.com/2020/07/14/us/Ruth-bader-Ginsburg-infection-hospital.html)
 * [Business Updates: OPEC, Russia and Others Will Ease Oil Production Cuts](https://www.nytimes.com/live/2020/07/15/business/stock-market-today-coronavirus)
@@ -78,10 +78,10 @@ layout: default
 * [Abraham Vega, 48, ‘Peacemaking’ Texas Sheriff, Dies](https://www.nytimes.com/2020/07/14/us/abraham-vega-dead-coronavirus.html)
 * [New York City Has 2,300 Parks. But Poor Neighborhoods Lose Out.](https://www.nytimes.com/2020/07/15/nyregion/nyc-parks-access-governors-island.html)
 * [Burning Ships in Iran Add to String of Dozens of Explosions and Fires](https://www.nytimes.com/2020/07/15/world/middleeast/iran-ships-fire-explosions.html)
-* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
+* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
-* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [After 43 Years, Mossy Kilcher’s Folk Songs for Alaska Get a Second Life](https://www.nytimes.com/2020/07/14/arts/music/mossy-kilcher-northwind-calling.html)
 * [Self-Care for Black Journalists](https://www.nytimes.com/2020/07/14/style/self-care/black-journalists.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Dados iniciais de teste da vacina de Oxford para Covid-19 serão publicados na segunda-feira, diz 'The Lancet'](https://oglobo.globo.com/sociedade/dados-iniciais-de-teste-da-vacina-de-oxford-para-covid-19-serao-publicados-na-segunda-feira-diz-the-lancet-24534005)
-* [Mourão diz que espera mais pressão ambiental se Biden for eleito e que Brasil deve dialogar com todos](https://oglobo.globo.com/mundo/mourao-diz-que-espera-mais-pressao-ambiental-se-biden-for-eleito-que-brasil-deve-dialogar-com-todos-24534373)
-* [Governo vê novo marco regulatório do gás como impulsionador da retomada da economia](https://oglobo.globo.com/economia/governo-ve-novo-marco-regulatorio-do-gas-como-impulsionador-da-retomada-da-economia-2-24534332)
-* [Contas do Twitter de Joe Biden e Bill Gates são hackeadas](https://oglobo.globo.com/mundo/contas-do-twitter-de-joe-biden-bill-gates-sao-hackeadas-1-24534376)
+* [Ministério Público junto ao TCU critica 'maldade' de Bolsonaro e quer investigar participação de militares no governo](https://oglobo.globo.com/brasil/ministerio-publico-junto-ao-tcu-critica-maldade-de-bolsonaro-quer-investigar-participacao-de-militares-no-governo-24534422)
 * [STJ nega habeas corpus ao ex-secretário de saúde Edmar Santos](https://oglobo.globo.com/rio/stj-nega-habeas-corpus-ao-ex-secretario-de-saude-edmar-santos-24534334)
+* [Elon Musk, Bill Gates e Jeff Bezos estão entre vítimas de aparente ataque coordenado no Twitter](https://oglobo.globo.com/economia/elon-musk-bill-gates-jeff-bezos-estao-entre-vitimas-de-aparente-ataque-coordenado-no-twitter-24534424)
+* [Contas do Twitter de Joe Biden e Bill Gates são hackeadas](https://oglobo.globo.com/economia/contas-do-twitter-de-joe-biden-bill-gates-sao-hackeadas-24534376)
+* [Mourão diz que espera mais pressão ambiental se Biden for eleito e que Brasil deve dialogar com todos](https://oglobo.globo.com/mundo/mourao-diz-que-espera-mais-pressao-ambiental-se-biden-for-eleito-que-brasil-deve-dialogar-com-todos-24534373)
+* [Estado do Rio registra 133 mortes e 1627 novos casos de coronavírus nesta quarta-feira](https://oglobo.globo.com/rio/estado-do-rio-registra-133-mortes-1627-novos-casos-de-coronavirus-nesta-quarta-feira-24534415)
+* [Oposição cobra Guedes sobre venda de carteira de créditos do Banco do Brasil a BTG Pactual](https://epoca.globo.com/guilherme-amado/oposicao-cobra-guedes-sobre-venda-de-carteira-de-creditos-do-banco-do-brasil-btg-pactual-24534403)
+* [Dados iniciais de teste da vacina de Oxford para Covid-19 serão publicados na segunda-feira, diz 'The Lancet'](https://oglobo.globo.com/sociedade/dados-iniciais-de-teste-da-vacina-de-oxford-para-covid-19-serao-publicados-na-segunda-feira-diz-the-lancet-24534005)
 * [Secretário do Ministério da Saúde diz que Brasil é 'exemplo' no combate à Covid-19](https://oglobo.globo.com/sociedade/secretario-do-ministerio-da-saude-diz-que-brasil-exemplo-no-combate-covid-19-24534371)
 * [INSS começa a notificar segurados com pendências em processos; saiba como cumprir as exigências](https://oglobo.globo.com/economia/inss-comeca-notificar-segurados-com-pendencias-em-processos-saiba-como-cumprir-as-exigencias-24534318)
-* [MP pede que TCU mande Defesa passar para a reserva militares com cargo federal](https://epoca.globo.com/guilherme-amado/mp-pede-que-tcu-mande-defesa-passar-para-reserva-militares-com-cargo-federal-24534285)
-* [JBS comprou gado ilegal na Amazônia, diz Anistia Internacional](https://oglobo.globo.com/economia/jbs-comprou-gado-ilegal-na-amazonia-diz-anistia-internacional-24534295)
-* [‘Seria um plus’, diz Mourão ao defender criação de imposto sobre transações financeiras](https://oglobo.globo.com/economia/seria-um-plus-diz-mourao-ao-defender-criacao-de-imposto-sobre-transacoes-financeiras-24534294)

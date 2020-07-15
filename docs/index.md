@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 06:34:19 UTC
+# indexed at 15/07/2020 07:13:14 UTC
 
 
 ## news.ycombinator.com
 
 
-* [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
+* [Data Structures and Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html?m=1)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
 * [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
@@ -21,23 +21,23 @@ layout: default
 * [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
 * [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
-* [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
-* [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
-* [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
 * [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
-* [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
-* [Data Structures and Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
-* [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
-* [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
+* [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
+* [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
+* [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
+* [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
+* [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
 * [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
+* [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
+* [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
 * [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
+* [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
 * [Experimental evidence of massive-scale emotional contagion thru social networks (2014)](https://www.pnas.org/content/111/24/8788)
 * [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
 * [Pseudo-Random vs. True Random (2012)](https://boallen.com/random-numbers.html)
-* [InsideSherpa Virtual Work Experiences (YC W19) Is Hiring Engineers in Sydney](https://jobs.ashbyhq.com/InsideSherpa)
+* [Turning Arabian Desert air into bottled water](https://www.bloomberg.com/news/articles/2020-07-13/a-u-s-tech-firm-s-turning-arabian-desert-air-into-bottled-water)
 * [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
 * [The Art of the Interpreter (1978) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf)
-* [Launch HN: Openbase (YC S20) – reviews and insights for open-source packages](https://news.ycombinator.com/item?id=23833441)
 ## nytimes.com
 
 
@@ -55,7 +55,6 @@ layout: default
 * [Judge, Expressing Skepticism, Upends $25 Million Harvey Weinstein Settlement](https://www.nytimes.com/2020/07/14/us/harvey-weinstein-settlement.html)
 * [Ghislaine Maxwell Is Denied Bail by Judge Who Calls Her a Flight Risk](https://www.nytimes.com/2020/07/14/nyregion/ghislaine-maxwell-bail.html)
 * [Three Marines, Now Focus of Russian Bounties Investigation, Show the Costs of an Endless War](https://www.nytimes.com/2020/07/14/us/politics/afghanistan-russia-bounties-marines.html)
-* [Student Visas, China, Cake Memes: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/07/14/briefing/student-visas-china-cake-memes.html)
 * [‘It’s Like a War.’ Revisiting Dr. Fabiano Di Marco.](https://www.nytimes.com/2020/07/14/podcasts/the-daily/italy-coronavirus-hospital.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [David Mitchell’s Vast and Tangled Universe](https://www.nytimes.com/2020/07/10/books/review/david-mitchell-utopia-avenue-daniel-mendelsohn-biggest-bluff-poker-maria-konnikova.html)
@@ -82,20 +81,20 @@ layout: default
 * [Most Big School Districts Aren’t Ready to Reopen. Here’s Why.](https://www.nytimes.com/2020/07/14/us/coronavirus-schools-fall.html)
 * [Poland’s Presidential Election Was Close but Voters Remain Far Apart](https://www.nytimes.com/2020/07/14/world/europe/poland-election-court-challenge.html)
 * [New Data Shows an ‘Extraordinary’ Rise in U.S. Coastal Flooding](https://www.nytimes.com/2020/07/14/climate/coastal-flooding-noaa.html)
-* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
-* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
+* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [Famous Paintings Go on Show, Without a Canvas in Sight](https://www.nytimes.com/2020/07/14/arts/design/lumieres-digital-art.html)
 * [A Veggie Burger Unlike the Others](https://www.nytimes.com/2020/07/10/dining/black-bean-burger-recipe.html)
 * [I Didn’t Mean to Adopt a Dozen Pet Snails](https://www.nytimes.com/2020/07/14/magazine/i-didnt-mean-to-adopt-a-dozen-pet-snails.html)
 * [Tiny Love Stories: ‘We Gave Up, but Her Hair Didn’t’](https://www.nytimes.com/2020/07/14/style/tiny-modern-love-stories-coronavirus-we-gave-up-but-her-hair-didnt.html)
 * [Young, in Love and Trying to Bring Down the Third Reich](https://www.nytimes.com/2020/07/14/books/review/the-bohemians-norman-ohler.html)
-* [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
-* [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
+* [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [Drug Giants Create Fund to Bolster Struggling Antibiotic Start-Ups](https://www.nytimes.com/2020/07/09/health/antibiotics-pharma-drug-resistance.html)
+* [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

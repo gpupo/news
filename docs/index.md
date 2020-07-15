@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 09:13:02 UTC
+# indexed at 15/07/2020 09:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,32 +10,32 @@ layout: default
 
 * [Data Structures and Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * [Riot is now Element](https://element.io/blog/welcome-to-element/)
-* [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
 * [Element (formerly Riot) wins largest ever collaborative software deal](https://sifted.eu/articles/element-germany-deal/)
+* [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
 * [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
 * [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
 * [The global fertility rate is falling](https://www.bbc.com/news/health-53409521)
-* [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
 * [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
-* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
+* [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
 * [Safe, fast-charging lithium battery handles five times the current](https://newatlas.com/energy/fast-charging-lithium-battery-five-times-current-safe/)
+* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
+* [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
 * [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
 * [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
-* [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
-* [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
 * [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
-* [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
+* [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
 * [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
-* [Ask HN: How to nab and block a creepy user?](https://news.ycombinator.com/item?id=23842575)
-* [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
+* [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
 * [Experimental evidence of massive-scale emotional contagion thru social networks (2014)](https://www.pnas.org/content/111/24/8788)
-* [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
+* [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
 * [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
 * [Bringing the print statement back](https://lwn.net/ml/python-ideas/CAP7+vJKsrT-n4rHjaR4PYPRq09JOZcoR54ZjkboOkZcYhB+7oA@mail.gmail.com/)
+* [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
 * [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
 * [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
+* [Ask HN: How to nab and block a creepy user?](https://news.ycombinator.com/item?id=23842575)
 * [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
 * [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
 ## nytimes.com
@@ -81,8 +81,8 @@ layout: default
 * [Poland’s Presidential Election Was Close but Voters Remain Far Apart](https://www.nytimes.com/2020/07/14/world/europe/poland-election-court-challenge.html)
 * [New Data Shows an ‘Extraordinary’ Rise in U.S. Coastal Flooding](https://www.nytimes.com/2020/07/14/climate/coastal-flooding-noaa.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [Famous Paintings Go on Show, Without a Canvas in Sight](https://www.nytimes.com/2020/07/14/arts/design/lumieres-digital-art.html)
@@ -91,9 +91,9 @@ layout: default
 * [Tiny Love Stories: ‘We Gave Up, but Her Hair Didn’t’](https://www.nytimes.com/2020/07/14/style/tiny-modern-love-stories-coronavirus-we-gave-up-but-her-hair-didnt.html)
 * [Young, in Love and Trying to Bring Down the Third Reich](https://www.nytimes.com/2020/07/14/books/review/the-bohemians-norman-ohler.html)
 * [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
+* [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [Drug Giants Create Fund to Bolster Struggling Antibiotic Start-Ups](https://www.nytimes.com/2020/07/09/health/antibiotics-pharma-drug-resistance.html)
 * [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
-* [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,11 +101,11 @@ layout: default
 ## globo.com
 
 
-* [O que muda no órgão que mede o desmatamento no Brasil?](https://oglobo.globo.com/podcast/o-que-muda-no-orgao-que-mede-desmatamento-no-brasil-1-24533082)
 * [A história da foto da geral do Maracanã que ganhou cores e viralizou nas redes sociais](https://oglobo.globo.com/esportes/a-historia-da-foto-da-geral-do-maracana-que-ganhou-cores-viralizou-nas-redes-sociais-24533103)
 * [Quanto tempo um técnico trabalha em alto nível no Brasil? Veja o ranking](https://oglobo.globo.com/esportes/quanto-tempo-um-tecnico-trabalha-em-alto-nivel-no-brasil-veja-ranking-24533096)
 * [Ao combater crise, Brasil não estimula uso de energias limpas, diz estudo](https://oglobo.globo.com/economia/ao-combater-crise-brasil-nao-estimula-uso-de-energias-limpas-diz-estudo-24532992)
 * [Com assembleia presencial marcada para agosto no Rio, Oi vira palco de nova disputa entre bancos e fundos](https://oglobo.globo.com/economia/com-assembleia-presencial-marcada-para-agosto-no-rio-oi-vira-palco-de-nova-disputa-entre-bancos-fundos-24531925)
+* [Presidente da OAB processará dez pessoas que compartilharam fake news sobre sua filha](https://epoca.globo.com/guilherme-amado/presidente-da-oab-processara-dez-pessoas-que-compartilharam-fake-news-sobre-sua-filha-24532755)
 * [Gilmar não vai recuar e vê diversionismo em reação de militares à sua fala](https://epoca.globo.com/guilherme-amado/gilmar-nao-vai-recuar-ve-diversionismo-em-reacao-de-militares-sua-fala-24532795)
 * [Restaurantes apostam no delivery de kits de pratos semiprontos](https://oglobo.globo.com/rioshow/restaurantes-apostam-no-delivery-de-kits-de-pratos-semiprontos-24529773)
 * [Arraiá do Bem tem participação on-line de nomes como Gilberto Gil, Elba Ramalho, Alceu Valença e Pedro Miranda](https://oglobo.globo.com/rioshow/arraia-do-bem-tem-participacao-on-line-de-nomes-como-gilberto-gil-elba-ramalho-alceu-valenca-pedro-miranda-24532617)

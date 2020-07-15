@@ -2,37 +2,37 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 02:13:59 UTC
+# indexed at 15/07/2020 02:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
 * [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
 * [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
-* [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html?m=1)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
-* [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
-* [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
-* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
+* [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html?m=1)
 * [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
-* [How to Run a Live Coding Stream on Twitch Using OBS](https://jordanlewis.org/posts/twitch-live-coding/)
+* [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
+* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
 * [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
+* [How to Run a Live Coding Stream on Twitch Using OBS](https://jordanlewis.org/posts/twitch-live-coding/)
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
 * [The Art of the Interpreter (1978) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf)
 * [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
 * [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
 * [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
 * [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
-* [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
 * [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
+* [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
 * [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
-* [SketchDeck (YC W14) Is Hiring a Senior Business Development Rep (Remote, US)](https://apply.workable.com/sketchdeck/j/2EFD35F4FB/)
 * [Experimental evidence of massive-scale emotional contagion thru social networks (2014)](https://www.pnas.org/content/111/24/8788)
-* [The earliest domestic cat on the Silk Road](https://www.nature.com/articles/s41598-020-67798-6)
 * [Huawei 5G kit must be removed from UK by 2027](https://www.bbc.com/news/technology-53403793)
+* [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
+* [SketchDeck (YC W14) Is Hiring a Senior Business Development Rep (Remote, US)](https://apply.workable.com/sketchdeck/j/2EFD35F4FB/)
+* [The earliest domestic cat on the Silk Road](https://www.nature.com/articles/s41598-020-67798-6)
 * [Polygon Crest – open-source 3D polygonal editor](http://ysflight.in.coocan.jp/polygoncrest/e.html)
-* [Is It Time to Kill the Penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
 * [Launch HN: Openbase (YC S20) – reviews and insights for open-source packages](https://news.ycombinator.com/item?id=23833441)
 * [The Floppy Disk of Floating Point](https://www.evanmiller.org/the-floppy-disk-of-floating-point.html)
 * [Recreating YikYak with Postgres](https://adamfallon.com/2020/07/10/recreating-yikyak-with-postgres/)
@@ -81,9 +81,9 @@ layout: default
 * [Most Big School Districts Aren’t Ready to Reopen. Here’s Why.](https://www.nytimes.com/2020/07/14/us/coronavirus-schools-fall.html)
 * [Mondaire Jones Rides Insurgent Wave to a House Primary Win in N.Y.](https://www.nytimes.com/2020/07/14/nyregion/mondaire-jones-house-primary.html)
 * [New Data Show an ‘Extraordinary’ Rise in U.S. Coastal Flooding](https://www.nytimes.com/2020/07/14/climate/coastal-flooding-noaa.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [Famous Paintings Go on Show, Without a Canvas in Sight](https://www.nytimes.com/2020/07/14/arts/design/lumieres-digital-art.html)
@@ -91,10 +91,10 @@ layout: default
 * [I Didn’t Mean to Adopt a Dozen Pet Snails](https://www.nytimes.com/2020/07/14/magazine/i-didnt-mean-to-adopt-a-dozen-pet-snails.html)
 * [Tiny Love Stories: ‘We Gave Up, but Her Hair Didn’t’](https://www.nytimes.com/2020/07/14/style/tiny-modern-love-stories-coronavirus-we-gave-up-but-her-hair-didnt.html)
 * [Young, in Love and Trying to Bring Down the Third Reich](https://www.nytimes.com/2020/07/14/books/review/the-bohemians-norman-ohler.html)
-* [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
 * [Drug Giants Create Fund to Bolster Struggling Antibiotic Start-Ups](https://www.nytimes.com/2020/07/09/health/antibiotics-pharma-drug-resistance.html)
-* [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
 * [Scientists Find an Earthquake’s Toll in an Organism’s DNA](https://www.nytimes.com/2020/07/14/science/earthquake-dna-genes-kelp.html)
+* [How Are You Telling Children the Story of the Pandemic?](https://www.nytimes.com/2020/07/14/well/family/children-coronavirus-stories.html)
+* [8 Questions From a Disease Detective on the Pandemic’s Origins](https://www.nytimes.com/2020/07/08/health/coronavirus-origin-china-lucey.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -102,7 +102,7 @@ layout: default
 ## globo.com
 
 
-* [Após reunião entre Liesa e dirigentes de escolas de samba, realização de desfiles do carnaval 2021 segue indefinida](https://oglobo.globo.com/rio/apos-reuniao-entre-liesa-dirigentes-de-escolas-de-samba-realizacao-de-desfiles-do-carnaval-2021-segue-indefinida-24532965)
+* ['Na condição de hoje é eticamente improvável ter o desfile', diz presidente da Liesa](https://oglobo.globo.com/rio/na-condicao-de-hoje-eticamente-improvavel-ter-desfile-diz-presidente-da-liesa-24532965)
 * [PMs de SP aplicam gravata em motoboy, que diz 'não consigo respirar'](https://oglobo.globo.com/brasil/pms-de-sp-aplicam-gravata-em-motoboy-que-diz-nao-consigo-respirar-24532648)
 * [Skaf confirma teste positivo para o novo coronavírus](https://oglobo.globo.com/brasil/skaf-confirma-teste-positivo-para-novo-coronavirus-24532721)
 * [Região Sul apresenta maior tendência de crescimento no número de mortes por covid-19](https://oglobo.globo.com/sociedade/regiao-sul-apresenta-maior-tendencia-de-crescimento-no-numero-de-mortes-por-covid-19-1-24532624)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 04:34:28 UTC
+# indexed at 15/07/2020 05:12:09 UTC
 
 
 ## news.ycombinator.com
 
 
 * [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
+* [EU regulation strengthens developers vs. storefronts (e.g. Apple App Store)](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
-* [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
 * [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html?m=1)
 * [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
+* [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
 * [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
 * [How to Run a Live Coding Stream on Twitch Using OBS](https://jordanlewis.org/posts/twitch-live-coding/)
-* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
 * [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
-* [We've been using the same bricks for over 5,000 years. It's time for a change](https://edition.cnn.com/style/article/going-green-kbriq-sustainable-brick-spc-intl/index.html)
+* [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
+* [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
 * [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
-* [InsideSherpa Virtual Work Experiences (YC W19) Is Hiring Engineers in Sydney](https://jobs.ashbyhq.com/InsideSherpa)
-* [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
 * [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
+* [We've been using the same bricks for over 5,000 years. It's time for a change](https://edition.cnn.com/style/article/going-green-kbriq-sustainable-brick-spc-intl/index.html)
 * [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
-* [Fertility rate: 'Jaw-dropping' global crash in children being born](https://www.bbc.com/news/health-53409521)
-* [Turning Arabian Desert air into bottled water](https://www.bloomberg.com/news/articles/2020-07-13/a-u-s-tech-firm-s-turning-arabian-desert-air-into-bottled-water)
 * [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
+* [InsideSherpa Virtual Work Experiences (YC W19) Is Hiring Engineers in Sydney](https://jobs.ashbyhq.com/InsideSherpa)
+* [Turning Arabian Desert air into bottled water](https://www.bloomberg.com/news/articles/2020-07-13/a-u-s-tech-firm-s-turning-arabian-desert-air-into-bottled-water)
 * [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
-* [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
 * [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
 * [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
-* [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
 * [Pseudo-Random vs. True Random (2012)](https://boallen.com/random-numbers.html)
-* [The Art of the Interpreter (1978) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf)
 * [Experimental evidence of massive-scale emotional contagion thru social networks (2014)](https://www.pnas.org/content/111/24/8788)
-* [Polygon Crest – open-source 3D polygonal editor](http://ysflight.in.coocan.jp/polygoncrest/e.html)
+* [The Art of the Interpreter (1978) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf)
+* [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
+* [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
 * [Launch HN: Openbase (YC S20) – reviews and insights for open-source packages](https://news.ycombinator.com/item?id=23833441)
-* [The Floppy Disk of Floating Point](https://www.evanmiller.org/the-floppy-disk-of-floating-point.html)
+* [Polygon Crest – open-source 3D polygonal editor](http://ysflight.in.coocan.jp/polygoncrest/e.html)
+* [Fertility rate: 'Jaw-dropping' global crash in children being born](https://www.bbc.com/news/health-53409521)
 ## nytimes.com
 
 
@@ -76,15 +76,16 @@ layout: default
 * [Ruth Bader Ginsburg Is Hospitalized With a Possible Infection](https://www.nytimes.com/2020/07/14/us/Ruth-bader-Ginsburg-infection-hospital.html)
 * [Representative Steve Watkins of Kansas Is Charged With Voter Fraud](https://www.nytimes.com/2020/07/14/us/steve-watkins-voter-fraud-kansas.html)
 * [New York Times Will Move Part of Hong Kong Office to Seoul](https://www.nytimes.com/2020/07/14/business/media/new-york-times-hong-kong.html)
-* [Man’s Dismembered Body Is Found in Luxury Manhattan Condo](https://www.nytimes.com/2020/07/14/nyregion/dismembered-body-houston-street-manhattan.html)
+* [Tech Entrepreneur’s Dismembered Body Found in Luxury Manhattan Condo](https://www.nytimes.com/2020/07/14/nyregion/dismembered-body-houston-street-manhattan.html)
 * [Ireland Has a New Coronavirus Fear: Americans Who Flout Quarantine](https://www.nytimes.com/2020/07/14/world/europe/Ireland-americans-break-quarantine.html)
 * [Most Big School Districts Aren’t Ready to Reopen. Here’s Why.](https://www.nytimes.com/2020/07/14/us/coronavirus-schools-fall.html)
 * [Poland’s Presidential Election Was Close but Voters Remain Far Apart](https://www.nytimes.com/2020/07/14/world/europe/poland-election-court-challenge.html)
 * [New Data Show an ‘Extraordinary’ Rise in U.S. Coastal Flooding](https://www.nytimes.com/2020/07/14/climate/coastal-flooding-noaa.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
+* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
-* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
-* [Masks, No Kissing and ‘a Little Kinky’: Dating and Sex in a Pandemic](https://www.nytimes.com/2020/06/11/well/live/coronavirus-sex-dating-masks.html)
 * [Famous Paintings Go on Show, Without a Canvas in Sight](https://www.nytimes.com/2020/07/14/arts/design/lumieres-digital-art.html)
 * [A Veggie Burger Unlike the Others](https://www.nytimes.com/2020/07/10/dining/black-bean-burger-recipe.html)
 * [I Didn’t Mean to Adopt a Dozen Pet Snails](https://www.nytimes.com/2020/07/14/magazine/i-didnt-mean-to-adopt-a-dozen-pet-snails.html)

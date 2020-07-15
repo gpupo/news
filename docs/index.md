@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 11:12:07 UTC
+# indexed at 15/07/2020 11:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,12 +10,13 @@ layout: default
 
 * [Riot is now Element](https://element.io/blog/welcome-to-element/)
 * [Data Structures and Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+* [Can an extreme low carb diet be used as medicine?](https://sciencenorway.no/diseases-food-and-diet/can-an-extreme-low-carb-diet-be-used-as-medicine/1708291)
 * [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
 * [Element wins deal to supply half a million licences for German education system](https://sifted.eu/articles/element-germany-deal/)
 * [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
-* [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
 * [Understanding and writing a JPEG decoder in Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
+* [SEC issues $3.8M whistleblower award](https://www.sec.gov/news/press-release/2020-155)
 * [The global fertility rate is falling](https://www.bbc.com/news/health-53409521)
 * [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
 * [TikTok Agreed to Buy More Than $800M in Cloud Services from Google](https://www.theinformation.com/articles/tiktok-agreed-to-buy-more-than-800-million-in-cloud-services-from-google)
@@ -24,20 +25,19 @@ layout: default
 * [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
 * [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
-* [Safe, fast-charging lithium battery handles five times the current](https://newatlas.com/energy/fast-charging-lithium-battery-five-times-current-safe/)
-* [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
 * [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
+* [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
 * [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
+* [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
 * [Bringing the print statement back](https://lwn.net/ml/python-ideas/CAP7+vJKsrT-n4rHjaR4PYPRq09JOZcoR54ZjkboOkZcYhB+7oA@mail.gmail.com/)
 * [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
 * [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
-* [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
-* [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
 * [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
+* [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
 * [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
-* [Ask HN: How to nab and block a creepy user?](https://news.ycombinator.com/item?id=23842575)
 * [Launch HN: Openbase (YC S20) – reviews and insights for open-source packages](https://news.ycombinator.com/item?id=23833441)
 * [How to Run a Live Coding Stream on Twitch Using OBS](https://jordanlewis.org/posts/twitch-live-coding/)
+* [Ask HN: How to nab and block a creepy user?](https://news.ycombinator.com/item?id=23842575)
 ## nytimes.com
 
 
@@ -46,10 +46,11 @@ layout: default
 * [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
 * [Why Sessions' Campaigning in Alabama Couldn't Overcome Trump](https://www.nytimes.com/2020/07/14/us/politics/jeff-sessions-alabama.html)
 * [Sara Gideon Wins Democratic Nomination in Maine to Challenge Susan Collins](https://www.nytimes.com/2020/07/14/us/politics/sara-gideon-maine.html)
-* [The White House Called a News Conference. Trump Turned It Into a Meandering Monologue.](https://www.nytimes.com/2020/07/14/us/politics/trump-news-conference.html)
 * [‘Coming Out of the Woodwork’: Black Lives Matter in Small-Town America](https://www.nytimes.com/2020/07/15/us/black-lives-matter-protests-small-towns.html)
 * [She Was Stopped by the Police Multiple Times. Her Bosses Decided to Help.](https://www.nytimes.com/2020/07/15/nyregion/grandchamps-brooklyn-black-lives-matter.html)
 * [Trump to Weaken Environmental Rules to Speed Infrastructure Permits](https://www.nytimes.com/2020/07/15/climate/trump-environment-nepa.html)
+* [China Vows to Retaliate After Trump Signs Hong Kong Sanctions Bill](https://www.nytimes.com/2020/07/15/world/asia/china-trump-hong-kong.html)
+* [The White House Called a News Conference. Trump Turned It Into a Meandering Monologue.](https://www.nytimes.com/2020/07/14/us/politics/trump-news-conference.html)
 * [Three Marines, Now Focus of Russian Bounties Investigation, Show the Costs of an Endless War](https://www.nytimes.com/2020/07/14/us/politics/afghanistan-russia-bounties-marines.html)
 * [A Different Cold War](https://www.nytimes.com/2020/07/15/briefing/china-cdc-tommy-tuberville-your-wednesday-briefing.html)
 * [The Wave of Gun Violence in N.Y.C.](https://www.nytimes.com/2020/07/15/nyregion/nyc-shootings.html)
@@ -72,10 +73,10 @@ layout: default
 * [Apple Scores Legal Victory Against $14.9 Billion E.U. Tax Demand](https://www.nytimes.com/2020/07/15/business/apple-eu-ireland-tax.html)
 * [ViacomCBS Fires Nick Cannon, Citing Anti-Semitic Podcast Remarks](https://www.nytimes.com/2020/07/15/arts/television/nick-cannon-fired.html)
 * [Ronny Jackson, Ex-White House Doctor, Wins Texas House Runoff](https://www.nytimes.com/2020/07/14/us/politics/ronny-jackson-texas.html)
+* [Business Updates: Stocks Rise on Hopes of Vaccine Progress](https://www.nytimes.com/live/2020/07/15/business/stock-market-today-coronavirus)
 * [New York Times Will Move Part of Hong Kong Office to Seoul](https://www.nytimes.com/2020/07/14/business/media/new-york-times-hong-kong.html)
-* [Radio Host Dianna Ploss Loses Her Show Over English-Only Rant](https://www.nytimes.com/2020/07/14/us/dianna-ploss-new-hampshire-radio.html)
 * [What’s Missing in the Effort to Stop Maternal Deaths](https://www.nytimes.com/2020/07/13/upshot/maternal-deaths-policy-neglect.html)
-* [Ireland Has a New Coronavirus Fear: Americans Who Flout Quarantine](https://www.nytimes.com/2020/07/14/world/europe/Ireland-americans-break-quarantine.html)
+* [Radio Host Dianna Ploss Loses Her Show Over English-Only Rant](https://www.nytimes.com/2020/07/14/us/dianna-ploss-new-hampshire-radio.html)
 * [Brexit Border Bureaucracy Looms for Truckers, Pet Owners and Travelers](https://www.nytimes.com/2020/07/13/world/europe/brexit-border-bureaucracy.html)
 * [You’re Doomscrolling Again. Here’s How to Snap Out of It.](https://www.nytimes.com/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
@@ -88,10 +89,10 @@ layout: default
 * [Review: Peacock’s ‘Brave New World’ Is Neither Brave Nor New](https://www.nytimes.com/2020/07/14/arts/television/review-brave-new-world.html)
 * [Republicans Won’t Do Much Convening in Florida, Colbert Thinks](https://www.nytimes.com/2020/07/15/arts/television/late-night-republican-convention-florida-coronavirus.html)
 * [Tiger Woods Adjusts to Competing Without Fans](https://www.nytimes.com/2020/07/14/sports/golf/tiger-woods-memorial-tournament.html)
+* [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
+* [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
 * [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
 * [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
-* [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
-* [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [Bari Weiss Resigns From New York Times Opinion Post](https://www.nytimes.com/2020/07/14/business/media/bari-weiss-resignation-new-york-times.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Desemprego pode ser efeito colateral do ‘novo normal’](https://oglobo.globo.com/analitico/desemprego-pode-ser-efeito-colateral-do-novo-normal-24532295)
+* [Witzel diz que determinou a quebra de sigilo de documentos da Secretaria de Saúde após denúncias de irregularidades](https://oglobo.globo.com/rio/witzel-diz-que-determinou-quebra-de-sigilo-de-documentos-da-secretaria-de-saude-apos-denuncias-de-irregularidades-1-24533211)
+* [Jovens fumantes estão mais expostos a efeitos graves da Covid-19, alerta estudo](https://epoca.globo.com/sociedade/jovens-fumantes-estao-mais-expostos-efeitos-graves-da-covid-19-alerta-estudo-24531885)
 * [Brasil chega a 1.933.655 casos e 74.336 mortes por Covid-19, mostra consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-chega-1933655-casos-74336-mortes-por-covid-19-mostra-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24533208)
-* [Jovens fumantes têm duas vezes mais chances de desenvolver casos graves de Covid-19, alerta estudo](https://epoca.globo.com/sociedade/jovens-fumantes-tem-duas-vezes-mais-chances-de-desenvolver-casos-graves-de-covid-19-alerta-estudo-24531885)
 * [Major Olímpio: 'Bolsonaro está comprando partidos para não ter votação de impeachment'](https://epoca.globo.com/major-olimpio-bolsonaro-esta-comprando-partidos-para-nao-ter-votacao-de-impeachment-24532276)
 * [Mulher pisoteada por policial em SP teme retaliação: 'Não me sinto segura'](https://epoca.globo.com/brasil/mulher-pisoteada-por-policial-em-sp-teme-retaliacao-nao-me-sinto-segura-24533194)
 * [Mansueto é exonerado do Tesouro; Bruno Funchal assume](https://oglobo.globo.com/economia/mansueto-exonerado-do-tesouro-bruno-funchal-assume-24533181)
 * [Quatro dos seis programas ambientais urbanos de Salles estão atrasados, dizem servidores](https://oglobo.globo.com/sociedade/quatro-dos-seis-programas-ambientais-urbanos-de-salles-estao-atrasados-dizem-servidores-24532596)
 * [Filhos de imigrantes negros levantam questão racial na França, mas questão ainda é tabu](https://oglobo.globo.com/mundo/filhos-de-imigrantes-negros-levantam-questao-racial-na-franca-mas-questao-ainda-tabu-24532589)
-* [Polvo: sabor sem igual e variadas formas de preparo](https://oglobo.globo.com/rio/bairros/polvo-sabor-sem-igual-variadas-formas-de-preparo-24532345)
-* [Grupo Peneira comemora 10 anos com atividades virtuais](https://oglobo.globo.com/rio/bairros/grupo-peneira-comemora-10-anos-com-atividades-virtuais-1-24532285)
 * [Arte na rua pode ajudar recuperação do setor no pós-pandemia, diz produtor cultural](https://oglobo.globo.com/rio/bairros/arte-na-rua-pode-ajudar-recuperacao-do-setor-no-pos-pandemia-diz-produtor-cultural-1-24523336)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 14:13:44 UTC
+# indexed at 15/07/2020 14:34:23 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Deepfake used to attack activist couple shows new disinformation frontier](https://www.reuters.com/article/us-cyber-deepfake-activist-idUSKCN24G15E)
+* [Orthodox Privilege](http://paulgraham.com/orth.html)
 * [Data Structures and Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * [Moderna’s SARS-CoV-2 Vaccine Phase I Data](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/modernas-phase-i-data)
 * [The Common Lisp Condition System – Upcoming Book](https://www.apress.com/us/book/9781484261330)
 * [Riot is now Element](https://element.io/blog/welcome-to-element/)
-* [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
 * [Introduction to Simple Workflow Service (SWF)](https://ncona.com/2020/07/introduction-to-aws-simple-workflow-service/)
+* [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
 * [Deepfake used to attack activist couple shows new disinformation frontier](https://www.reuters.com/article/us-cyber-deepfake-activist/deepfake-used-to-attack-activist-couple-shows-new-disinformation-frontier-idUSKCN24G15E)
 * [Behind the Accidentally Resilient Design of Athens Apartments](https://www.bloomberg.com/news/features/2020-07-15/the-design-history-of-athens-iconic-apartments)
 * [New Leaks of the Lenovo ThinkPad X1 Nano](https://www.notebookcheck.net/Leak-Lenovo-ThinkPad-X1-Nano-with-a-16-10-screen-Intel-Tiger-Lake-weighs-less-than-1-kg.481319.0.html)
-* [Element wins deal to supply half a million licences to two German states](https://sifted.eu/articles/element-germany-deal/)
 * [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
+* [Element wins deal to supply half a million licences to two German states](https://sifted.eu/articles/element-germany-deal/)
 * [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
 * [The global fertility rate is falling](https://www.bbc.com/news/health-53409521)
-* [Apple has €13bn Irish tax bill overturned](https://www.bbc.com/news/business-53416206)
 * [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
 * [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
+* [Apple has €13bn Irish tax bill overturned](https://www.bbc.com/news/business-53416206)
 * [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
+* [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
 * [Boeing lands $1.2B deal for eight F-15EX fighter jets](https://www.washingtonpost.com/business/2020/07/13/boeing-f15ex-contract/)
-* [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
 * [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
-* [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
 * [Pavel Durov wants a law to make Apple allow iPhone users install other app store](https://androidrookies.com/telegram-developer-wants-a-law-to-make-apple-allow-iphone-users-to-install-apps-from-other-app-stores/)
+* [Building a $5k Machine Learning Workstation/Tiitan RTX and Ryzen ThreadRipper](https://www.youtube.com/watch?v=iahQOQZVdog)
+* [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
 * [Go generics may use square brackets [] not parenthesis ()](https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8)
+* [Body of tech entrepreneur, 33, is found decapitated in his Manhattan apartment](https://www.dailymail.co.uk/news/article-8524023/Decapitated-dismembered-body-man-34-luxury-Manhattan-apartment-block.html)
 * [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
-* [Airbnb asks people to donate money to landlords, backlash ensues](https://www.sfgate.com/bayarea/article/Airbnb-asks-people-to-donate-money-to-hosts-15407730.php)
 * [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
-* [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
-* [I’m the President of MIT America Needs Foreign Students](https://www.nytimes.com/2020/07/14/opinion/coronavirus-trump-immigration-students.html)
+* [Airbnb asks people to donate money to landlords, backlash ensues](https://www.sfgate.com/bayarea/article/Airbnb-asks-people-to-donate-money-to-hosts-15407730.php)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [Radio Host Dianna Ploss Loses Her Show Over English-Only Rant](https://www.nytimes.com/2020/07/14/us/dianna-ploss-new-hampshire-radio.html)
 * [Brexit Border Bureaucracy Looms for Truckers, Pet Owners and Travelers](https://www.nytimes.com/2020/07/13/world/europe/brexit-border-bureaucracy.html)
 * [You’re Doomscrolling Again. Here’s How to Snap Out of It.](https://www.nytimes.com/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html)
+* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
-* [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [‘Just Let Those Kids Dance’: Finding a Way for the Show to Go On](https://www.nytimes.com/2020/07/15/arts/dance/dance-recitals-pandemic.html)
 * [Seeing Native Americans Nowhere, and Everywhere](https://www.nytimes.com/2020/07/14/arts/design/washington-football-logo-native-american.html)
 * [Review: Peacock’s ‘Brave New World’ Is Neither Brave Nor New](https://www.nytimes.com/2020/07/14/arts/television/review-brave-new-world.html)
 * [Republicans Won’t Do Much Convening in Florida, Colbert Thinks](https://www.nytimes.com/2020/07/15/arts/television/late-night-republican-convention-florida-coronavirus.html)
 * [Tiger Woods Adjusts to Competing Without Fans](https://www.nytimes.com/2020/07/14/sports/golf/tiger-woods-memorial-tournament.html)
-* [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
 * [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
 * [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
 * [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
+* [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
 * [America Drank Away Its Children’s Future](https://www.nytimes.com/2020/07/13/opinion/coronavirus-schools-bars.html)
 * [Bari Weiss Resigns From New York Times Opinion Post](https://www.nytimes.com/2020/07/14/business/media/bari-weiss-resignation-new-york-times.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Pazuello volta atrás e mantém serviço do SUS de apoio a presos com transtornos mentais](https://oglobo.globo.com/brasil/pazuello-volta-atras-mantem-servico-do-sus-de-apoio-presos-com-transtornos-mentais-24533449)
 * [Witzel diz: 'Não sou ladrão. Não deixarei que corruptos e ladrões estejam no meu governo. Vamos vencer a guerra'](https://oglobo.globo.com/rio/witzel-diz-nao-sou-ladrao-nao-deixarei-que-corruptos-ladroes-estejam-no-meu-governo-vamos-vencer-guerra-1-24533408)
+* [Sete navios pegam fogo em porto no Irã](https://oglobo.globo.com/mundo/sete-navios-pegam-fogo-em-porto-no-ira-24533407)
+* [Gilmar Mendes liga para Pazuello e diz que conversa foi 'cordial'](https://oglobo.globo.com/brasil/gilmar-mendes-liga-para-pazuello-diz-que-conversa-foi-cordial-24533440)
 * [Governo mantém projeção de queda de 4,7% para o PIB em 2020](https://oglobo.globo.com/economia/governo-mantem-projecao-de-queda-de-47-para-pib-em-2020-24533434)
 * [Aliança entre Bolsonaro e Edir Macedo rende frutos, mas há limites](https://oglobo.globo.com/analitico/alianca-entre-bolsonaro-edir-macedo-rende-frutos-mas-ha-limites-24533345)
-* [Sete navios pegam fogo em porto no Irã](https://oglobo.globo.com/mundo/sete-navios-pegam-fogo-em-porto-no-ira-24533407)
-* [TSE exclui identificação biométrica na eleição 2020](https://oglobo.globo.com/brasil/tse-exclui-identificacao-biometrica-na-eleicao-2020-1-24533350)
 * [Riocard disponibiliza para compra chaveiro e pulseira que podem substituir cartão](https://oglobo.globo.com/rio/riocard-disponibiliza-para-compra-chaveiro-pulseira-que-podem-substituir-cartao-24533409)
 * [Copa de 2022: seleções jogarão quatro vezes em 13 dias](https://oglobo.globo.com/esportes/copa-de-2022-selecoes-jogarao-quatro-vezes-em-13-dias-24533385)
 * [Jornalista atacada por Bolsonaro recebe um dos principais prêmios do jornalismo mundial](https://epoca.globo.com/guilherme-amado/jornalista-atacada-por-bolsonaro-recebe-um-dos-principais-premios-do-jornalismo-mundial-24533399)
-* [Felipe Neto pede em vídeo no NYT que americanos ajudem Brasil e não reelejam Trump](https://epoca.globo.com/guilherme-amado/felipe-neto-pede-em-video-no-nyt-que-americanos-ajudem-brasil-nao-reelejam-trump-24533378)
 * [O poder libertador do 'Eu não quero'](https://oglobo.globo.com/celina/o-poder-libertador-do-eu-nao-quero-24532207)

@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# indexed at 15/07/2020 07:13:14 UTC
+# indexed at 15/07/2020 07:34:26 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Riot.im Rebrands to Element](http://riot.im/)
 * [Data Structures and Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * [You've only added two lines – why did that take two days?](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html?m=1)
-* [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
 * [Passbolt: Self hostable, open source, password manager for teams](https://www.passbolt.com)
-* [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
+* [Starlink WiFi Router FCC Approved](https://fcc.report/FCC-ID/2AWHPR201)
 * [In search of 2.11BSD, as originally released](https://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html)
 * [The global fertility rate is falling](https://www.bbc.com/news/health-53409521)
 * [How to Run a Live Coding Stream on Twitch Using OBS](https://jordanlewis.org/posts/twitch-live-coding/)
@@ -22,27 +22,27 @@ layout: default
 * [Twilio Acquires Electric Imp](https://www.twilio.com/blog/electric-imp-is-now-part-of-twilio)
 * [Small satellites are radically remaking space exploration](https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/)
 * [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
-* [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
 * [German court bans Tesla ad statements related to autonomous driving](https://mobile.reuters.com/article/idUSKCN24F1T5)
 * [New EU regulation strengthens hand of developers in dealings with storefronts](https://www.mcvuk.com/business-news/new-eu-regulation-strengthens-hand-of-developers-and-publishers-in-dealings-with-storefronts/)
+* [AWS Copilot](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/)
 * [Potential large-scale CO2 removal via enhanced rock weathering with croplands](https://www.nature.com/articles/s41586-020-2448-9)
 * [Special filters in glasses can help the color blind see colors better](https://phys.org/news/2020-07-special-filters-glasses.html)
-* [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
 * [Facebook and CMU Introduce TaBERT for Understanding Tabular Data Queries](https://syncedreview.com/2020/07/14/facebook-cmu-introduce-tabert-for-understanding-tabular-data-queries/)
-* [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
+* [Chopper Commando Revisited](https://blog.loadzero.com/blog/chopper258/)
 * [The Lost Art of Growing Blueberries with Fire](https://www.atlasobscura.com/articles/why-do-people-burn-blueberry-fields)
 * [Open Satellite Project: The Open Source Satellite Project](https://github.com/opensatelliteproject)
+* [Could predictive database queries replace machine learning models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models)
 * [Experimental evidence of massive-scale emotional contagion thru social networks (2014)](https://www.pnas.org/content/111/24/8788)
-* [Google faces €600k privacy fine in Belgium](https://www.brusselstimes.com/all-news/business/technology/121533/google-faces-e600000-privacy-fine-in-belgium/)
+* [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
+* [The Art of the Interpreter (1978) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf)
+* [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
 * [Pseudo-Random vs. True Random (2012)](https://boallen.com/random-numbers.html)
 * [Turning Arabian Desert air into bottled water](https://www.bloomberg.com/news/articles/2020-07-13/a-u-s-tech-firm-s-turning-arabian-desert-air-into-bottled-water)
-* [U.S. backs down in fight with Harvard, MIT over student visas](https://www.bloomberg.com/news/articles/2020-07-14/harvard-and-u-s-make-deal-on-foreign-student-visas)
-* [The Art of the Interpreter (1978) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf)
 ## nytimes.com
 
 
 * [Government Rescinds Plan to Strip Visas From Foreign Students in Online Classes](https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html)
-* [Florida Breaks Its Record for Most Covid Deaths in a Day: Live Updates](https://www.nytimes.com/2020/07/14/world/coronavirus-update.html)
+* [Florida Breaks Its Record for Most Coronavirus Deaths in a Day](https://www.nytimes.com/2020/07/14/world/coronavirus-update.html)
 * [Trump Administration Strips C.D.C. of Control of Coronavirus Data](https://www.nytimes.com/2020/07/14/us/politics/trump-cdc-coronavirus.html)
 * [Sessions Pays the Price for Incurring Trump’s Wrath, Losing Alabama Senate Race](https://www.nytimes.com/2020/07/14/us/politics/Election-primary-runoff-results.html)
 * [Sara Gideon Wins Democratic Nomination in Maine to Challenge Susan Collins](https://www.nytimes.com/2020/07/14/us/politics/sara-gideon-maine.html)
@@ -81,11 +81,11 @@ layout: default
 * [Most Big School Districts Aren’t Ready to Reopen. Here’s Why.](https://www.nytimes.com/2020/07/14/us/coronavirus-schools-fall.html)
 * [Poland’s Presidential Election Was Close but Voters Remain Far Apart](https://www.nytimes.com/2020/07/14/world/europe/poland-election-court-challenge.html)
 * [New Data Shows an ‘Extraordinary’ Rise in U.S. Coastal Flooding](https://www.nytimes.com/2020/07/14/climate/coastal-flooding-noaa.html)
-* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
-* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
-* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
 * [7 Inequities: A Weeklong Look at the Biases Women Face](https://www.nytimes.com/2020/07/06/us/7-inequities-a-weeklong-look-at-the-biases-women-face.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
+* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [Famous Paintings Go on Show, Without a Canvas in Sight](https://www.nytimes.com/2020/07/14/arts/design/lumieres-digital-art.html)
 * [A Veggie Burger Unlike the Others](https://www.nytimes.com/2020/07/10/dining/black-bean-burger-recipe.html)
 * [I Didn’t Mean to Adopt a Dozen Pet Snails](https://www.nytimes.com/2020/07/14/magazine/i-didnt-mean-to-adopt-a-dozen-pet-snails.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Defender está de volta como um topa-tudo ‘gourmetizado’](https://oglobo.globo.com/economia/carros/defender-esta-de-volta-como-um-topa-tudo-gourmetizado-24533141)
-* ['Não sou tutor do ministro Salles', diz Mourão](https://oglobo.globo.com/sociedade/nao-sou-tutor-do-ministro-salles-diz-mourao-24533117)
-* [O rumo dos Correios não é definido, e o serviço continua a se deteriorar](https://oglobo.globo.com/opiniao/o-rumo-dos-correios-nao-definido-o-servico-continua-se-deteriorar-24532703)
-* [Lições de 50 anos do setor de petróleo](https://oglobo.globo.com/opiniao/licoes-de-50-anos-do-setor-de-petroleo-24532236)
-* [Falsos otimistas](https://oglobo.globo.com/opiniao/falsos-otimistas-24532523)
-* [Mais uma crise?](https://oglobo.globo.com/opiniao/mais-uma-crise-24532537)
-* [A fala de Gilmar acordou um vírus](https://oglobo.globo.com/opiniao/a-fala-de-gilmar-acordou-um-virus-24532532)
-* [Nenê completa 1 ano de Fluminense mirando título carioca como presente: 'Quero retribuir a confiança'](https://oglobo.globo.com/esportes/flamengo/nene-completa-1-ano-de-fluminense-mirando-titulo-carioca-como-presente-quero-retribuir-confianca-24532906)
-* [Mazelas do excesso de militares no governo](https://oglobo.globo.com/opiniao/mazelas-do-excesso-de-militares-no-governo-24532696)
-* [O Holocausto e a cloroquina](https://oglobo.globo.com/opiniao/o-holocausto-a-cloroquina-24532831)
+* [À espera dos hóspedes, donos de hotéis em Porto Seguro falam sobre a rotina durante a pandemia](https://oglobo.globo.com/boa-viagem/a-espera-dos-hospedes-donos-de-hoteis-em-porto-seguro-falam-sobre-rotina-durante-pandemia-24532803)
+* [Três cientistas avaliam o impacto de 60 dias sem um titular na Saúde](https://oglobo.globo.com/sociedade/tres-cientistas-avaliam-impacto-de-60-dias-sem-um-titular-na-saude-1-24531917)
+* [Brasil completa dois meses sem titular à frente do Ministério da Saúde](https://oglobo.globo.com/sociedade/brasil-completa-dois-meses-sem-titular-frente-do-ministerio-da-saude-1-24533078)
+* [Defesa amplia espaço no Orçamento no governo Bolsonaro](https://oglobo.globo.com/brasil/defesa-amplia-espaco-no-orcamento-no-governo-bolsonaro-24533088)
+* [Itamaraty tira do ar apostila com frase preconceituosa e citações ao aborto e ao MST](https://oglobo.globo.com/brasil/itamaraty-tira-do-ar-apostila-com-frase-preconceituosa-citacoes-ao-aborto-ao-mst-24533075)
+* [Sem sala de aula devido à pandemia, professora cria ‘kit abraço’ para ir à casa de 43 alunos](https://oglobo.globo.com/rio/sem-sala-de-aula-devido-pandemia-professora-cria-kit-abraco-para-ir-casa-de-43-alunos-24532834)
+* [Itamaraty tira do ar apostila para estrangeiros com frase preconceituosa e citações ao aborto e ao MST](https://oglobo.globo.com/brasil/itamaraty-tira-do-ar-apostila-para-estrangeiros-com-frase-preconceituosa-citacoes-ao-aborto-ao-mst-24532823)
+* [O impasse do volta às aulas nas escolas do Rio](https://oglobo.globo.com/rio/o-impasse-do-volta-as-aulas-nas-escolas-do-rio-24532950)
+* ['É a pior hora do mundo para tributar o emprego', diz José Pastore](https://oglobo.globo.com/economia/e-pior-hora-do-mundo-para-tributar-emprego-diz-jose-pastore-1-24532779)
+* [Pesquisa cria banco de dados sobre as sensações compartilhadas pelas pessoas em quarentena](https://oglobo.globo.com/ela/pesquisa-cria-banco-de-dados-sobre-as-sensacoes-compartilhadas-pelas-pessoas-em-quarentena-1-24523521)

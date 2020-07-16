@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 16/07/2020 08:13:53 UTC
+# indexed at 16/07/2020 08:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Hackers take over prominent Twitter accounts in simultaneous attack](https://www.coindesk.com/hackers-take-over-prominent-crypto-twitter-accounts-in-simultaneous-attack)
-* [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
 * [Reverse engineering a camera protocol for fun and profit](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/)
 * [Swift.org – Introducing Swift Service Lifecycle](https://swift.org/blog/swift-service-lifecycle/)
-* [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
 * [I'm back into the grind of FreeBSD's wireless stack and 802.11ac](https://adrianchadd.blogspot.com/2020/07/im-back-into-grind-of-freebsds-wireless.html)
-* [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
+* [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
+* [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
 * [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
+* [Making a Googol:1 Reduction with Lego Gears [video]](https://www.youtube.com/watch?v=QwXK4e4uqXY)
 * [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
+* [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
 * [“Funes the Memorious” and Other Cases of Extraordinary Memory (2019)](https://thereader.mitpress.mit.edu/borges-memory-funes-the-memorious/)
 * [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
 * [Everything you need to know about OAuth 2.0](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
 * [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
-* [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
 * [Amazon Interactive Video Service – Add Live Video to Your Apps and Websites](https://aws.amazon.com/blogs/aws/amazon-interactive-video-service-add-live-video-to-your-apps-and-websites/)
+* [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
 * [Topology Illustrated (2015)](https://calculus123.com/wiki/Topology_Illustrated)
 * [Researchers generate complete human X chromosome sequence](https://www.genome.gov/news/news-release/NHGRI-researchers-generate-complete-human-x-chromosome-sequence)
-* [Sicko Doctors: Suffering and Sadism in 19th-Century America](https://publicdomainreview.org/essay/sicko-doctors)
 * [How SHA-2 works step-by-step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-* [Making a Googol:1 Reduction with Lego Gears [video]](https://www.youtube.com/watch?v=QwXK4e4uqXY)
 * [Scientists Discovered a Gigantic Structure in a Hidden Zone of Space](https://www.vice.com/en_us/article/xg8vg7/scientists-discovered-a-gigantic-structure-in-a-hidden-zone-of-space)
+* [Sicko Doctors: Suffering and Sadism in 19th-Century America](https://publicdomainreview.org/essay/sicko-doctors)
 * [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
 * [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 * [Sail Freight Projects Around the World](https://sailingdog.org/sail-freight-projects-around-the-world/)
+* [The Promising Results of a Citywide Basic Income Experiment](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
 * [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
 * [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
 * [Networked games: Playing in the past or future](https://www.evanjones.ca/network-game-simulation.html)
-* [What's New in Lua 5.4](https://lwn.net/SubscriberLink/826134/b1b87e4187435cec/)
 * [Blind speakers gesture like their sighted counterparts: study (2016)](https://www.superlinguo.com/post/149950073272/blind-people-gesture-and-why-thats-kind-of-a-big)
 ## nytimes.com
 
@@ -78,11 +78,11 @@ layout: default
 * [Dismemberment Killing of Tech C.E.O. ‘Looks Like Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [Bristol Removes Statue of Black Protester After Just One Day](https://www.nytimes.com/2020/07/16/world/europe/bristol-statue-removed.html)
 * [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Imanbek, a 19-Year-Old From Kazakhstan, Made 'Roses' a Hit](https://www.nytimes.com/2020/07/15/arts/music/saint-jhn-roses-imanbek.html)
 * [Louis Colavecchio, Master Counterfeiter, Is Dead at 78](https://www.nytimes.com/2020/07/13/us/louis-colavecchio-dead.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)

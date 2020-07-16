@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/07/2020 04:13:33 UTC
+# indexed at 16/07/2020 04:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -11,11 +11,13 @@ layout: default
 * [Hackers take over prominent Twitter accounts in simultaneous attack](https://www.coindesk.com/hackers-take-over-prominent-crypto-twitter-accounts-in-simultaneous-attack)
 * [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
 * [Twitter: Our investigation is still ongoing but here’s what we know so far](https://twitter.com/TwitterSupport/status/1283591844962750464)
+* [To Delay Death, Lift Weights](https://www.outsideonline.com/2263346/delay-death-lift-weights)
+* [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
 * [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
 * [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
-* [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
 * [Topology Illustrated (2015)](https://calculus123.com/wiki/Topology_Illustrated)
+* [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
 * [Everything you need to know about OAuth 2.0](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
 * [What's New in Lua 5.4](https://lwn.net/SubscriberLink/826134/b1b87e4187435cec/)
 * [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
@@ -25,19 +27,17 @@ layout: default
 * [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
 * [Nuclear blast sends star hurtling across galaxy](https://www.bbc.com/news/science-environment-53415294)
 * [How SHA-2 works step-by-step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
+* [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 * [Networked games: Playing in the past or future](https://www.evanjones.ca/network-game-simulation.html)
 * [Sail Freight Projects Around the World](https://sailingdog.org/sail-freight-projects-around-the-world/)
-* [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
+* [Bottle Cap Thread Calculator](https://www.noupoi.net/bottle-cap-thread-calculator.html)
 * [Blind speakers gesture like their sighted counterparts: study (2016)](https://www.superlinguo.com/post/149950073272/blind-people-gesture-and-why-thats-kind-of-a-big)
+* [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
 * [Crowdfunding a Transcontinental Railroad in 1857](https://rootsofprogress.org/crowdfunding-a-transcontinental-railroad-in-1857)
 * [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
-* [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
-* [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
 * [Paradise lost or found?](https://environment.yale.edu/news/article/billionaire-wilderness-paradise-lost-or-found/)
+* [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [Understanding quaternions and the Dirac belt trick (2010)](https://arxiv.org/abs/1001.1778)
-* [Data structures and algorithms I actually used while working at tech companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
-* [Building a $5k ML Workstation with Tiitan RTX and Ryzen ThreadRipper [video]](https://www.youtube.com/watch?v=iahQOQZVdog)
-* [The Platonic solids and fundamental tests of quantum mechanics](https://quantum-journal.org/papers/q-2020-07-09-293/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Dismemberment Killing of Tech C.E.O. ‘Looks Like Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [In Alabama, Can Doug Jones Fend Off Tommy Tuberville and Trump?](https://www.nytimes.com/2020/07/15/us/politics/alabama-tommy-tuberville-doug-jones.html)
 * [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
-* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Imanbek, a 19-Year-Old From Kazakhstan, Made 'Roses' a Hit](https://www.nytimes.com/2020/07/15/arts/music/saint-jhn-roses-imanbek.html)
 * [Louis Colavecchio, Master Counterfeiter, Is Dead at 78](https://www.nytimes.com/2020/07/13/us/louis-colavecchio-dead.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
@@ -91,8 +91,8 @@ layout: default
 * [It’s Long Past Time to Get That Beard Under Control](https://www.nytimes.com/2020/07/15/style/its-long-past-time-to-get-that-beard-under-control.html)
 * [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
 * [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
-* [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
+* [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [Andy Samberg Makes Each Day Count With Thundercat and ‘Not Too Much’ Bourbon](https://www.nytimes.com/2020/07/14/movies/andy-samberg-palm-springs.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -100,9 +100,9 @@ layout: default
 ## globo.com
 
 
+* [Receitas de risoto: funghi, camarão, lula e radicchio](https://oglobo.globo.com/rioshow/receitas-de-risoto-funghi-camarao-lula-radicchio-24488117)
 * [Após quinto título no Flamengo, Jesus marca treino para a próxima terça-feira](https://oglobo.globo.com/esportes/apos-quinto-titulo-no-flamengo-jesus-marca-treino-para-proxima-terca-feira-24535014)
 * [Gabigol lidera Carioca em gols e assistências, e fecha 8ª artilharia da carreira aos 23 anos](https://oglobo.globo.com/esportes/gabigol-lidera-carioca-em-gols-assistencias-fecha-8-artilharia-da-carreira-aos-23-anos-24535017)
-* [MP 936: Prorrogação da desoneração da folha de empresas é constitucional, diz parecer da Câmara](https://oglobo.globo.com/economia/mp-936-prorrogacao-da-desoneracao-da-folha-de-empresas-constitucional-diz-parecer-da-camara-24534884)
 * [A difícil missão da defesa do meio ambiente](https://oglobo.globo.com/opiniao/a-dificil-missao-da-defesa-do-meio-ambiente-1-24534436)
 * [A turma de Bolsonaro](https://oglobo.globo.com/opiniao/a-turma-de-bolsonaro-1-24533714)
 * [É sensata a proposta de escolas de samba para adiar o carnaval](https://oglobo.globo.com/opiniao/e-sensata-proposta-de-escolas-de-samba-para-adiar-carnaval-1-24534228)

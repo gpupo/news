@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# indexed at 16/07/2020 12:16:44 UTC
+# indexed at 16/07/2020 12:34:31 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Top EU court overturns US data transfer agreement in Facebook case](https://www.dw.com/en/top-eu-court-overturns-us-data-transfer-agreement-in-facebook-case/a-54194377)
 * [How objectivity in journalism became a matter of opinion](https://www.economist.com/books-and-arts/2020/07/15/how-objectivity-in-journalism-became-a-matter-of-opinion)
+* [Top EU court overturns US data transfer agreement in Facebook case](https://www.dw.com/en/top-eu-court-overturns-us-data-transfer-agreement-in-facebook-case/a-54194377)
 * [Reverse engineering a camera protocol for fun and profit](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/)
 * [Hackers take over prominent Twitter accounts in simultaneous attack](https://www.coindesk.com/hackers-take-over-prominent-crypto-twitter-accounts-in-simultaneous-attack)
 * [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
@@ -18,26 +18,26 @@ layout: default
 * [Making a Googol:1 Reduction with Lego Gears [video]](https://www.youtube.com/watch?v=QwXK4e4uqXY)
 * [Swift.org – Introducing Swift Service Lifecycle](https://swift.org/blog/swift-service-lifecycle/)
 * [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
-* [Forbidden Haskell Types](https://semantic.org/post/forbidden-haskell-types/)
 * [Pseudorandomness](http://people.seas.harvard.edu/~salil/pseudorandomness/)
 * [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
+* [Forbidden Haskell Types](https://semantic.org/post/forbidden-haskell-types/)
 * [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
-* [Everything you need to know about OAuth 2.0](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
+* [Pickle’s Nine Flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
 * [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
+* [I made a robot to cut my hair with scissors [video]](https://www.youtube.com/watch?v=7zBrbdU_y0s)
 * [The Promising Results of a Citywide Basic Income Experiment](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
-* [Amazon Interactive Video Service – Add Live Video to Your Apps and Websites](https://aws.amazon.com/blogs/aws/amazon-interactive-video-service-add-live-video-to-your-apps-and-websites/)
 * [Topology Illustrated (2015)](https://calculus123.com/wiki/Topology_Illustrated)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [Pickle’s Nine Flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
-* [Improving Robustness of Deep-Learning-Based Image Reconstruction](https://arxiv.org/abs/2002.11821)
 * [Methane rises to highest level on record](https://www.theguardian.com/environment/2020/jul/14/livestock-farming-and-fossil-fuels-could-drive-4c-global-heat-rise)
-* [The New Microsoft Edge](https://www.microsoft.com/en-us/edge)
+* [Improving Robustness of Deep-Learning-Based Image Reconstruction](https://arxiv.org/abs/2002.11821)
+* [The Trick](https://www.reddit.com/r/talesfromtechsupport/comments/hrn8ih/the_trick/)
 * [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
-* [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
 * [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
-* [The Trick](https://www.reddit.com/r/talesfromtechsupport/comments/hrn8ih/the_trick/)
 * [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
+* [Networked games: Playing in the past or future](https://www.evanjones.ca/network-game-simulation.html)
+* [European Police Hacked Secret Phone Network, Used AI for Major Bust](https://www.bloomberg.com/news/articles/2020-07-16/european-police-hacked-secret-phone-network-used-ai-for-major-bust)
+* [Data structures and algorithms I actually used while working at tech companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [Biden, Gates, Musk and Other V.I.P. Twitter Users Are Hacked in Bitcoin Scam](https://www.nytimes.com/2020/07/15/technology/twitter-hack-bill-gates-elon-musk.html)
 * [Even if the Polls Are Really Off, Trump Is Still in Trouble](https://www.nytimes.com/2020/07/16/upshot/polls-biden-trump-how-accurate.html)
 * [Trump Replaces Brad Parscale as Campaign Manager, Elevating Bill Stepien](https://www.nytimes.com/2020/07/15/us/politics/trump-campaign-brad-parscale.html)
-* [Can Doug Jones Fend Off Tommy Tuberville and Trump in Alabama?](https://www.nytimes.com/2020/07/15/us/politics/alabama-tommy-tuberville-doug-jones.html)
+* [Biden vs. Trump: Live Updates for the 2020 Election](https://www.nytimes.com/2020/07/16/us/elections/biden-vs-trump.html)
 * [North Carolina City Approves Reparations for Black Residents](https://www.nytimes.com/2020/07/16/us/reparations-ashevhille-nc.html)
 * [Footage of Police Body Cameras Offers Devastating Account of Floyd Killing](https://www.nytimes.com/2020/07/15/us/george-floyd-video-killing.html)
 * [Unpacking Cuomo’s Covid-19 Poster](https://www.nytimes.com/2020/07/16/nyregion/andrew-cuomo-poster.html)
@@ -79,11 +79,11 @@ layout: default
 * [Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [It’s Merkel’s Last Rodeo. Will a Pandemic Rescue Deal Seal Her Legacy?](https://www.nytimes.com/2020/07/16/world/europe/Merkel-EU-summit-coronavirus-rescue-recovery-plan.html)
 * [How Steven Pinker Became a Target Over His Tweets](https://www.nytimes.com/2020/07/15/us/steven-pinker-harvard.html)
+* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
-* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Vacation in the Summer of Covid-19](https://www.nytimes.com/2020/07/16/travel/virus-vacation.html)
 * [Gardening Made Me Happier. It Will Work for You Too.](https://www.nytimes.com/2020/07/15/magazine/gardening-made-me-happier-it-will-work-for-you-too.html)
 * [How Dublin, Ohio Pivoted for the Memorial Tournament](https://www.nytimes.com/2020/07/15/sports/golf/memorial-tournament-ohio-fans.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Itens de termo assinado entre governo do Rio e Iabas tiveram quase 300% de aumento, aponta CGE](https://oglobo.globo.com/rio/itens-de-termo-assinado-entre-governo-do-rio-iabas-tiveram-quase-300-de-aumento-aponta-cge-1-24535105)
 * [Impeachment: Justiça do Rio nega pedido de Witzel para suspender processo na Alerj](https://oglobo.globo.com/rio/impeachment-justica-do-rio-nega-pedido-de-witzel-para-suspender-processo-na-alerj-24535167)
+* [Muralha do Polo Sul: como é a gigantesca estrutura de galáxias recém-descoberta perto da Via Láctea](https://epoca.globo.com/mundo/muralha-do-polo-sul-como-a-gigantesca-estrutura-de-galaxias-recem-descoberta-perto-da-via-lactea-1-24535199)
+* [Falido, Johnny Depp pagou US$ 7 milhões a Amber Heard em divórcio](https://oglobo.globo.com/ela/gente/falido-johnny-depp-pagou-us-7-milhoes-amber-heard-em-divorcio-24535192)
+* [Relatório da Fifa conclui que público tem visão distorcida dos jogadores de futebol](https://oglobo.globo.com/esportes/relatorio-da-fifa-conclui-que-publico-tem-visao-distorcida-dos-jogadores-de-futebol-24535182)
+* [Itens de termo assinado entre governo do Rio e Iabas tiveram quase 300% de aumento, aponta CGE](https://oglobo.globo.com/rio/itens-de-termo-assinado-entre-governo-do-rio-iabas-tiveram-quase-300-de-aumento-aponta-cge-1-24535105)
 * [Estátua de manifestante negra que substituiu monumento de mercador de escravos é removida em Bristol](https://oglobo.globo.com/mundo/estatua-de-manifestante-negra-que-substituiu-monumento-de-mercador-de-escravos-removida-em-bristol-24535148)
-* [Pesquisa com pais de alunos de escolas particulares diz que 66% tiveram dificuldade com ensino remoto na pandemia](https://oglobo.globo.com/sociedade/educacao/pesquisa-com-pais-de-alunos-de-escolas-particulares-diz-que-66-tiveram-dificuldade-com-ensino-remoto-na-pandemia-24534331)
 * [Governo vai arquivar projeto de extinção da Fundação Casa de Rui Barbosa](https://oglobo.globo.com/cultura/governo-vai-arquivar-projeto-de-extincao-da-fundacao-casa-de-rui-barbosa-24535116)
 * [Neta do bicheiro Raul Capitão é presa em flagrante por contrabando](https://oglobo.globo.com/rio/neta-do-bicheiro-raul-capitao-presa-em-flagrante-por-contrabando-24535100)
 * [MP denuncia delegado-geral do Pará por compra superfaturada de álcool em gel](https://epoca.globo.com/brasil/mp-denuncia-delegado-geral-do-para-por-compra-superfaturada-de-alcool-em-gel-24535155)
-* [Boletim das 8h: Brasil tem 1.972.072 casos e 75.568 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-1972072-casos-75568-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24535098)
-* [Especialistas temem ‘CPMF disfarçada’ com novo tributo em estudo pelo governo](https://oglobo.globo.com/economia/especialistas-temem-cpmf-disfarcada-com-novo-tributo-em-estudo-pelo-governo-24534518)
 * [Mário Frias pede chave da Cinemateca e Roquette Pinto diz que decisão 'beira a ilicitude'](https://epoca.globo.com/guilherme-amado/mario-frias-pede-chave-da-cinemateca-roquette-pinto-diz-que-decisao-beira-ilicitude-24534242)

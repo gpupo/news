@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/07/2020 10:13:27 UTC
+# indexed at 16/07/2020 10:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Reverse engineering a camera protocol for fun and profit](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/)
 * [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
 * [EU’s Top Court Restricts Personal-Data Transfers to U.S., Citing Surveillance](https://www.wsj.com/articles/eus-top-court-restricts-personal-data-transfers-to-u-s-citing-surveillance-concerns-11594888385)
-* [I'm back into the grind of FreeBSD's wireless stack and 802.11ac](https://adrianchadd.blogspot.com/2020/07/im-back-into-grind-of-freebsds-wireless.html)
 * [Swift.org – Introducing Swift Service Lifecycle](https://swift.org/blog/swift-service-lifecycle/)
-* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [I'm back into the grind of FreeBSD's wireless stack and 802.11ac](https://adrianchadd.blogspot.com/2020/07/im-back-into-grind-of-freebsds-wireless.html)
 * [Making a Googol:1 Reduction with Lego Gears [video]](https://www.youtube.com/watch?v=QwXK4e4uqXY)
 * [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
+* [Improving Robustness of Deep-Learning-Based Image Reconstruction](https://arxiv.org/abs/2002.11821)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [Forbidden Haskell Types](https://semantic.org/post/forbidden-haskell-types/)
 * [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
+* [Top EU court overturns US data transfer agreement in Facebook case](https://www.dw.com/en/top-eu-court-overturns-us-data-transfer-agreement-in-facebook-case/a-54194377)
 * [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
 * [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
-* [Using GPT-3 to generate user interfaces](https://twitter.com/sharifshameem/status/1282676454690451457)
 * [Everything you need to know about OAuth 2.0](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
-* [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Amazon Interactive Video Service – Add Live Video to Your Apps and Websites](https://aws.amazon.com/blogs/aws/amazon-interactive-video-service-add-live-video-to-your-apps-and-websites/)
 * [Topology Illustrated (2015)](https://calculus123.com/wiki/Topology_Illustrated)
-* [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
+* [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Pickle’s Nine Flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
-* [Researchers generate complete human X chromosome sequence](https://www.genome.gov/news/news-release/NHGRI-researchers-generate-complete-human-x-chromosome-sequence)
-* [Forbidden Haskell Types](https://semantic.org/post/forbidden-haskell-types/)
-* [“Funes the Memorious” and Other Cases of Extraordinary Memory (2019)](https://thereader.mitpress.mit.edu/borges-memory-funes-the-memorious/)
-* [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
-* [Scientists Discovered a Gigantic Structure in a Hidden Zone of Space](https://www.vice.com/en_us/article/xg8vg7/scientists-discovered-a-gigantic-structure-in-a-hidden-zone-of-space)
-* [The Promising Results of a Citywide Basic Income Experiment](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
 * [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
+* [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
+* [The Promising Results of a Citywide Basic Income Experiment](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
 * [Sail Freight Projects Around the World](https://sailingdog.org/sail-freight-projects-around-the-world/)
 * [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
-* [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
 * [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
+* [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
+* [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
+* [Networked games: Playing in the past or future](https://www.evanjones.ca/network-game-simulation.html)
+* [Sicko Doctors: Suffering and Sadism in 19th-Century America](https://publicdomainreview.org/essay/sicko-doctors)
 ## nytimes.com
 
 
@@ -78,18 +78,18 @@ layout: default
 * [Dismemberment Killing of Tech C.E.O. ‘Looks Like Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [Bristol Removes Statue of Black Protester After Just One Day](https://www.nytimes.com/2020/07/16/world/europe/bristol-statue-removed.html)
 * [How Steven Pinker Became a Target Over His Tweets](https://www.nytimes.com/2020/07/15/us/steven-pinker-harvard.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [Vacation in the Summer of Covid-19](https://www.nytimes.com/2020/07/16/travel/virus-vacation.html)
 * [Gardening Made Me Happier. It Will Work for You Too.](https://www.nytimes.com/2020/07/15/magazine/gardening-made-me-happier-it-will-work-for-you-too.html)
 * [How Dublin, Ohio Pivoted for the Memorial Tournament](https://www.nytimes.com/2020/07/15/sports/golf/memorial-tournament-ohio-fans.html)
 * [Late Night Thinks the Trumps Are Full of Beans](https://www.nytimes.com/2020/07/16/arts/television/late-night-ivanka-trump-goya-beans.html)
 * [Turn Your Relationship Into a Work of Art](https://www.nytimes.com/2020/07/15/fashion/weddings/turn-your-relationship-into-a-work-of-art.html)
-* [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
 * [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
+* [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
 * [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
 * [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
 * [Andy Samberg Makes Each Day Count With Thundercat and ‘Not Too Much’ Bourbon](https://www.nytimes.com/2020/07/14/movies/andy-samberg-palm-springs.html)
@@ -99,6 +99,7 @@ layout: default
 ## globo.com
 
 
+* [Rinhas de galo promovem aglomerações, apostas ilegais e crueldade contra animais](https://epoca.globo.com/brasil/rinhas-de-galo-promovem-aglomeracoes-apostas-ilegais-crueldade-contra-animais-24534205)
 * [Assintomáticos: o que se sabe sobre o dano que a Covid-19 pode causar em pacientes sem sintomas](https://epoca.globo.com/sociedade/assintomaticos-que-se-sabe-sobre-dano-que-covid-19-pode-causar-em-pacientes-sem-sintomas-24535079)
 * [Coronavírus: o que mantém a média de mortes por covid-19 tão alta no Brasil (e por que ainda pode piorar)](https://epoca.globo.com/brasil/coronavirus-que-mantem-media-de-mortes-por-covid-19-tao-alta-no-brasil-por-que-ainda-pode-piorar-24535074)
 * [Ivermectina: sem evidências científicas contra Covid-19, cidade no Tocantins distribui medicamento às populações urbana e indígena](https://oglobo.globo.com/sociedade/ivermectina-sem-evidencias-cientificas-contra-covid-19-cidade-no-tocantins-distribui-medicamento-as-populacoes-urbana-indigena-24533918)
@@ -107,5 +108,4 @@ layout: default
 * [FGV faz demissões de funcionários em grupo de risco da Covid](https://epoca.globo.com/guilherme-amado/fgv-faz-demissoes-de-funcionarios-em-grupo-de-risco-da-covid-24534788)
 * [Flexibilização: confira novidades e promoções dos restaurantes na reabertura](https://oglobo.globo.com/rio/bairros/flexibilizacao-confira-novidades-promocoes-dos-restaurantes-na-reabertura-24524400)
 * [Festival de música autoral, Toca Que Eu Te Escuto ganha versão virtual](https://oglobo.globo.com/rio/bairros/festival-de-musica-autoral-toca-que-eu-te-escuto-ganha-versao-virtual-24529809)
-* [Comida muito além da caixinha no Festival Delivery Rio](https://oglobo.globo.com/rioshow/comida-muito-alem-da-caixinha-no-festival-delivery-rio-24533603)
 * [Edição 2020 do Vinhos de Portugal será digital](https://oglobo.globo.com/gastronomia/edicao-2020-do-vinhos-de-portugal-sera-digital-24528476)

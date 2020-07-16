@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/07/2020 05:34:31 UTC
+# indexed at 16/07/2020 06:13:59 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Hackers take over prominent Twitter accounts in simultaneous attack](https://www.coindesk.com/hackers-take-over-prominent-crypto-twitter-accounts-in-simultaneous-attack)
-* [To Delay Death, Lift Weights](https://www.outsideonline.com/2263346/delay-death-lift-weights)
 * [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
-* [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
-* [Twitter: Our investigation is still ongoing but here’s what we know so far](https://twitter.com/TwitterSupport/status/1283591844962750464)
 * [Reverse engineering a camera protocol for fun and profit](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/)
+* [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
+* [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
 * [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
-* [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
+* [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
 * [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
+* [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
 * [Everything you need to know about OAuth 2.0](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
 * [Topology Illustrated (2015)](https://calculus123.com/wiki/Topology_Illustrated)
-* [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
 * [Amazon Interactive Video Service – Add Live Video to Your Apps and Websites](https://aws.amazon.com/blogs/aws/amazon-interactive-video-service-add-live-video-to-your-apps-and-websites/)
 * [What's New in Lua 5.4](https://lwn.net/SubscriberLink/826134/b1b87e4187435cec/)
-* [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
-* [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 * [Researchers generate complete human X chromosome sequence](https://www.genome.gov/news/news-release/NHGRI-researchers-generate-complete-human-x-chromosome-sequence)
+* [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 * [How SHA-2 works step-by-step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
 * [Scientists Discovered a Gigantic Structure in a Hidden Zone of Space](https://www.vice.com/en_us/article/xg8vg7/scientists-discovered-a-gigantic-structure-in-a-hidden-zone-of-space)
-* [Nuclear blast sends star hurtling across galaxy](https://www.bbc.com/news/science-environment-53415294)
 * [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
 * [Sail Freight Projects Around the World](https://sailingdog.org/sail-freight-projects-around-the-world/)
+* [Sicko Doctors: Suffering and Sadism in 19th-Century America](https://publicdomainreview.org/essay/sicko-doctors)
+* [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
 * [Networked games: Playing in the past or future](https://www.evanjones.ca/network-game-simulation.html)
 * [Bottle Cap Thread Calculator](https://www.noupoi.net/bottle-cap-thread-calculator.html)
+* [Nuclear blast sends star hurtling across galaxy](https://www.bbc.com/news/science-environment-53415294)
 * [Blind speakers gesture like their sighted counterparts: study (2016)](https://www.superlinguo.com/post/149950073272/blind-people-gesture-and-why-thats-kind-of-a-big)
 * [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
-* [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
-* [Crowdfunding a Transcontinental Railroad in 1857](https://rootsofprogress.org/crowdfunding-a-transcontinental-railroad-in-1857)
 * [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
+* [Crowdfunding a Transcontinental Railroad in 1857](https://rootsofprogress.org/crowdfunding-a-transcontinental-railroad-in-1857)
+* [Data structures and algorithms I actually used while working at tech companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 ## nytimes.com
 
 
@@ -79,18 +79,18 @@ layout: default
 * [Dismemberment Killing of Tech C.E.O. ‘Looks Like Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [In Alabama, Can Doug Jones Fend Off Tommy Tuberville and Trump?](https://www.nytimes.com/2020/07/15/us/politics/alabama-tommy-tuberville-doug-jones.html)
 * [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
-* [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
-* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
+* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Create an Outdoor Room](https://www.nytimes.com/2020/06/23/realestate/how-to-create-an-outdoor-room-california-room-patio.html)
 * [Imanbek, a 19-Year-Old From Kazakhstan, Made 'Roses' a Hit](https://www.nytimes.com/2020/07/15/arts/music/saint-jhn-roses-imanbek.html)
 * [Louis Colavecchio, Master Counterfeiter, Is Dead at 78](https://www.nytimes.com/2020/07/13/us/louis-colavecchio-dead.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
 * [Can’t Match Netflix? At Least You Can Buy Some British Shows](https://www.nytimes.com/2020/07/15/arts/television/capture-intelligence-review-peacock.html)
 * [It’s Long Past Time to Get That Beard Under Control](https://www.nytimes.com/2020/07/15/style/its-long-past-time-to-get-that-beard-under-control.html)
-* [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
 * [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
+* [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
 * [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
 * [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
 * [Andy Samberg Makes Each Day Count With Thundercat and ‘Not Too Much’ Bourbon](https://www.nytimes.com/2020/07/14/movies/andy-samberg-palm-springs.html)

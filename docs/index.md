@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/07/2020 08:34:40 UTC
+# indexed at 16/07/2020 09:12:54 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Hackers take over prominent Twitter accounts in simultaneous attack](https://www.coindesk.com/hackers-take-over-prominent-crypto-twitter-accounts-in-simultaneous-attack)
 * [Reverse engineering a camera protocol for fun and profit](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/)
+* [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
 * [Swift.org – Introducing Swift Service Lifecycle](https://swift.org/blog/swift-service-lifecycle/)
 * [I'm back into the grind of FreeBSD's wireless stack and 802.11ac](https://adrianchadd.blogspot.com/2020/07/im-back-into-grind-of-freebsds-wireless.html)
-* [Twitter internal panel linked to account hijackings](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
 * [Tech sector job interviews assess anxiety, not software skills: study](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
-* [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
 * [Making a Googol:1 Reduction with Lego Gears [video]](https://www.youtube.com/watch?v=QwXK4e4uqXY)
+* [EU’s Top Court Restricts Personal-Data Transfers to U.S., Citing Surveillance](https://www.wsj.com/articles/eus-top-court-restricts-personal-data-transfers-to-u-s-citing-surveillance-concerns-11594888385)
 * [Pinephone – “Community Edition: PostmarketOS” Linux smartphone](https://store.pine64.org/product-category/pinephone/)
+* [Snorkel AI: Putting Data First in ML Development](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
 * [The GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/)
-* [“Funes the Memorious” and Other Cases of Extraordinary Memory (2019)](https://thereader.mitpress.mit.edu/borges-memory-funes-the-memorious/)
 * [Smokers quit in record numbers amid Covid fears](https://www.bbc.com/news/health-53403610)
 * [Everything you need to know about OAuth 2.0](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/)
+* [“Funes the Memorious” and Other Cases of Extraordinary Memory (2019)](https://thereader.mitpress.mit.edu/borges-memory-funes-the-memorious/)
 * [Live BTC transactions in Twitter hack](https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh?page=2)
 * [Amazon Interactive Video Service – Add Live Video to Your Apps and Websites](https://aws.amazon.com/blogs/aws/amazon-interactive-video-service-add-live-video-to-your-apps-and-websites/)
+* [Using GPT-3 to generate user interfaces](https://twitter.com/sharifshameem/status/1282676454690451457)
 * [Why Is Glass Rigid? Signs of Its Secret Structure Emerge](https://www.quantamagazine.org/why-is-glass-rigid-signs-of-its-secret-structure-emerge-20200707/)
 * [Topology Illustrated (2015)](https://calculus123.com/wiki/Topology_Illustrated)
+* [Pickle’s Nine Flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
 * [Researchers generate complete human X chromosome sequence](https://www.genome.gov/news/news-release/NHGRI-researchers-generate-complete-human-x-chromosome-sequence)
-* [How SHA-2 works step-by-step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-* [Scientists Discovered a Gigantic Structure in a Hidden Zone of Space](https://www.vice.com/en_us/article/xg8vg7/scientists-discovered-a-gigantic-structure-in-a-hidden-zone-of-space)
-* [Sicko Doctors: Suffering and Sadism in 19th-Century America](https://publicdomainreview.org/essay/sicko-doctors)
 * [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
+* [Scientists Discovered a Gigantic Structure in a Hidden Zone of Space](https://www.vice.com/en_us/article/xg8vg7/scientists-discovered-a-gigantic-structure-in-a-hidden-zone-of-space)
 * [The Game of Life – Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 * [Sail Freight Projects Around the World](https://sailingdog.org/sail-freight-projects-around-the-world/)
+* [Sicko Doctors: Suffering and Sadism in 19th-Century America](https://publicdomainreview.org/essay/sicko-doctors)
 * [The Promising Results of a Citywide Basic Income Experiment](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
-* [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
 * [ActivityPub Could Be the Future](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
+* [Launch HN: Legacy (YC S19) – we help men test and freeze their sperm](https://news.ycombinator.com/item?id=23846186)
 * [Robot wraps fiber optic cables around existing power lines](https://eandt.theiet.org/content/articles/2020/07/robot-wraps-fibre-optic-cables-around-existing-power-lines/)
-* [Networked games: Playing in the past or future](https://www.evanjones.ca/network-game-simulation.html)
-* [Blind speakers gesture like their sighted counterparts: study (2016)](https://www.superlinguo.com/post/149950073272/blind-people-gesture-and-why-thats-kind-of-a-big)
 ## nytimes.com
 
 
@@ -70,7 +70,7 @@ layout: default
 * [The Phantom Handbag](https://www.nytimes.com/2020/07/15/style/coronavirus-handbags.html)
 * [Country Music Struggles to Meet the Moment. Again.](https://www.nytimes.com/2020/07/15/arts/music/country-music-race.html)
 * [The Tahini War: The Food at the Center of an Arab Gay Rights Battle](https://www.nytimes.com/2020/07/15/world/middleeast/tahini-gay-israel-boycott.html)
-* [Top N.Y.P.D. Chief Injured While Making Arrest at a Protest](https://www.nytimes.com/2020/07/15/nyregion/terence-monahan-chief-injured.html)
+* [E.U. Court Strikes Down Trans-Atlantic Data Transfer Pact](https://www.nytimes.com/2020/07/16/business/eu-data-transfer-pact-rejected.html)
 * [Teenage Suspect Charged in Fatal Shooting of 8-Year-Old Girl in Atlanta](https://www.nytimes.com/2020/07/15/us/secoriea-turner-murder-arrest.html)
 * [Ruth Bader Ginsburg Is Released From Hospital](https://www.nytimes.com/2020/07/14/us/Ruth-bader-Ginsburg-infection-hospital.html)
 * [North Macedonia Election Returns No Clear Winner](https://www.nytimes.com/2020/07/15/world/europe/north-macedonia-election-zaev.html)
@@ -80,17 +80,17 @@ layout: default
 * [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
 * [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
 * [At a Time of Financial Stress, 401(k) Fees Matter More Than Ever](https://www.nytimes.com/2020/07/11/business/401k-advice.html)
+* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [Imanbek, a 19-Year-Old From Kazakhstan, Made 'Roses' a Hit](https://www.nytimes.com/2020/07/15/arts/music/saint-jhn-roses-imanbek.html)
 * [Louis Colavecchio, Master Counterfeiter, Is Dead at 78](https://www.nytimes.com/2020/07/13/us/louis-colavecchio-dead.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
 * [Can’t Match Netflix? At Least You Can Buy Some British Shows](https://www.nytimes.com/2020/07/15/arts/television/capture-intelligence-review-peacock.html)
 * [It’s Long Past Time to Get That Beard Under Control](https://www.nytimes.com/2020/07/15/style/its-long-past-time-to-get-that-beard-under-control.html)
-* [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
-* [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
 * [Scientists Say You Can Cancel the Noise but Keep Your Window Open](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)
+* [How Many Hot Dogs Can Someone Eat In 10 Minutes?](https://www.nytimes.com/2020/07/14/science/hotdog-eating-contests.html)
+* [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
 * [Nasal Coronavirus Vaccines May Work Better Than Injected Ones, Researchers Say](https://www.nytimes.com/2020/07/14/health/coronavirus-nasal-vaccines.html)
 * [Andy Samberg Makes Each Day Count With Thundercat and ‘Not Too Much’ Bourbon](https://www.nytimes.com/2020/07/14/movies/andy-samberg-palm-springs.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Avanço da Covid-19 acende alerta entre produtores de carne](https://oglobo.globo.com/economia/avanco-da-covid-19-acende-alerta-entre-produtores-de-carne-24534883)
+* [A economia chinesa cresce 3,2% no segundo trimestre, após a crise do coronavírus](https://oglobo.globo.com/economia/a-economia-chinesa-cresce-32-no-segundo-trimestre-apos-crise-do-coronavirus-24535070)
+* [Imagens inéditas da final da Copa de 1950 mostram mudanças no placar e na reação do público](https://oglobo.globo.com/esportes/imagens-ineditas-da-final-da-copa-de-1950-mostram-mudancas-no-placar-na-reacao-do-publico-1-24535050)
 * [‘Não há chance de o Congresso derrubar a desoneração’, diz Simone Tebet](https://oglobo.globo.com/economia/nao-ha-chance-de-congresso-derrubar-desoneracao-diz-simone-tebet-24534878)
 * [Mansur: Título do Flamengo expõe distância técnica e estrutural que merece reflexão](https://oglobo.globo.com/esportes/mansur-titulo-do-flamengo-expoe-distancia-tecnica-estrutural-que-merece-reflexao-24534992)
-* [‘Abre mais possibilidade de competição’, diz economista sobre veto a marco legal do saneamento](https://oglobo.globo.com/economia/abre-mais-possibilidade-de-competicao-diz-economista-sobre-veto-marco-legal-do-saneamento-24534964)
-* [Artigo: No Brasil, sério mesmo é o carnaval](https://oglobo.globo.com/rio/artigo-no-brasil-serio-mesmo-o-carnaval-24534869)
-* [Carnaval 2021: Indefinição sobre realização de desfiles preocupa empresários](https://oglobo.globo.com/rio/carnaval-2021-indefinicao-sobre-realizacao-de-desfiles-preocupa-empresarios-24534873)
+* [Influenciador bolsonarista que sugeriu prisão de Gilmar dará palestra no Itamaraty](https://epoca.globo.com/guilherme-amado/influenciador-bolsonarista-que-sugeriu-prisao-de-gilmar-dara-palestra-no-itamaraty-24534834)
 * [Infecções por Covid-19 caíram para 8% nas UPAs do Rio, diz UFRJ](https://oglobo.globo.com/rio/infeccoes-por-covid-19-cairam-para-8-nas-upas-do-rio-diz-ufrj-24534806)
-* [De Norte a Sul, cinco pontos no litoral brasileiro para observar animais marinhos](https://oglobo.globo.com/boa-viagem/de-norte-sul-cinco-pontos-no-litoral-brasileiro-para-observar-animais-marinhos-24534184)
-* [Herança da ditadura, Lei de Segurança Nacional é 'recuperada' por autoridades](https://oglobo.globo.com/brasil/heranca-da-ditadura-lei-de-seguranca-nacional-recuperada-por-autoridades-24534752)
 * [Os efeitos de dois meses sem titular no ministério da Saúde](https://oglobo.globo.com/podcast/os-efeitos-de-dois-meses-sem-titular-no-ministerio-da-saude-24534623)
+* [Comida muito além da caixinha no Festival Delivery Rio](https://oglobo.globo.com/rioshow/comida-muito-alem-da-caixinha-no-festival-delivery-rio-24533603)
+* [Eleições 2020: estereótipos de gênero, mau uso de recursos e sobrecarga das mulheres são desafios para a representatividade feminina](https://oglobo.globo.com/celina/eleicoes-2020-estereotipos-de-genero-mau-uso-de-recursos-sobrecarga-das-mulheres-sao-desafios-para-representatividade-feminina-24533878)
+* [Edição 2020 do Vinhos de Portugal será digital](https://oglobo.globo.com/gastronomia/edicao-2020-do-vinhos-de-portugal-sera-digital-24528476)

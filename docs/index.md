@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/07/2020 10:12:48 UTC
+# indexed at 17/07/2020 10:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 * [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
-* [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
+* [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * [ODNS: Oblivious DNS](https://odns.cs.princeton.edu/)
 * [What’s New in Thunderbird 78](https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/)
-* [Shoelace 2.0 release: UI toolkit that works with all frameworks or none at all](https://shoelace.style/)
 * [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
+* [Shoelace 2.0 release: UI toolkit that works with all frameworks or none at all](https://shoelace.style/)
 * [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [Music and Measure Theory (2015) [video]](https://www.youtube.com/watch?v=cyW5z-M2yzw)
 * [Shelly – a programming language to draw in the browser](https://shelly.dev/)
 * [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
 * [Who were the Hyksos? Strontium isotope analysis of remains from ancient Egypt](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235414)
 * [Why companies struggle with recalcitrant IT](https://www.economist.com/business/2020/07/18/why-companies-struggle-with-recalcitrant-it)
-* [ProcMon for Linux](https://github.com/microsoft/ProcMon-for-Linux)
 * [How Pulse Oximeters Work (2015)](https://www.howequipmentworks.com/pulse_oximeter/)
-* [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
+* [ProcMon for Linux](https://github.com/microsoft/ProcMon-for-Linux)
 * [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
-* [The History of the Picnic (2019)](https://www.historytoday.com/archive/historians-cookbook/history-picnic)
+* [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
 * [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
+* [Uzbl – Web Interface Tools Which Adhere to the Unix Philosophy](https://www.uzbl.org/)
+* [The History of the Picnic (2019)](https://www.historytoday.com/archive/historians-cookbook/history-picnic)
+* [Show HN: Midnight.pub – Virtual Speakeasy](https://news.ycombinator.com/item?id=23868295)
 * [Bacteria with a metal diet discovered in dirty glassware](https://phys.org/news/2020-07-bacteria-metal-diet-dirty-glassware.html)
 * [Container Networking Security Issue (CVE-2020-8558)](https://aws.amazon.com/security/security-bulletins/AWS-2020-002/)
-* [Uzbl – Web Interface Tools Which Adhere to the Unix Philosophy](https://www.uzbl.org/)
 * [Emergency Directive 20-03 – Remote code execution vulnerability in Windows DNS](https://cyber.dhs.gov/ed/20-03/)
 * [Ask HN: What is the best enterprise software you use every day?](https://news.ycombinator.com/item?id=23862903)
 * [India’s daunting challenge: There’s water everywhere, and nowhere](https://www.nationalgeographic.com/magazine/2020/08/indias-daunting-challenge-there-is-water-everywhere-and-nowhere-feature/)
-* [Show HN: Midnight.pub – Virtual Speakeasy](https://news.ycombinator.com/item?id=23868295)
+* [List of computer vision pretrained models](https://github.com/balavenkatesh3322/CV-pretrained-model)
 * [Companies made millions building unemployment websites that didn’t work](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)
-* [Zulip 3.0: Threaded Open Source Team Chat](https://blog.zulip.com/2020/07/16/zulip-3-0-released/)
-* [Reinforcement Learning Under Moral Uncertainty](https://arxiv.org/abs/2006.04734)
+* [Scientific American: A Visual Guide to the Coronavirus](https://www.scientificamerican.com/interactive/inside-the-coronavirus/)
 ## nytimes.com
 
 
@@ -53,8 +53,9 @@ layout: default
 * [Black Artists on How to Change Classical Music](https://www.nytimes.com/2020/07/16/arts/music/black-classical-music-opera.html)
 * [Opera Can No Longer Ignore Its Race Problem](https://www.nytimes.com/2020/07/16/arts/music/opera-race-representation.html)
 * [To Make Orchestras More Diverse, End Blind Auditions](https://www.nytimes.com/2020/07/16/arts/music/blind-auditions-orchestras-race.html)
+* [2020 and the Climate](https://www.nytimes.com/2020/07/17/briefing/coronavirus-brian-kemp-washington-redskins-your-friday-briefing.html)
 * [Fahim Saleh Killing: What We Know](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-killing-murder.html)
-* [Reopening, Warily: Revisiting Jasmine Lombrage](https://www.nytimes.com/2020/07/16/podcasts/the-daily/restaurant-reopening-louisiana.html)
+* [Tilly Remembers Her Grandfather, Three Months On](https://www.nytimes.com/2020/07/17/podcasts/the-daily/grandparents-coronavirus.html)
 * [The Unconventional Convention Season: A Conversation About the 2020 Election](https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html)
 * [A Conversation With Tammy Duckworth](https://www.nytimes.com/2020/07/16/opinion/the-argument-tammy-duckworth.html)
 * [White Supremacy Was Her World. And Then She Left.](https://www.nytimes.com/2020/07/17/opinion/white-supremacy-hate-movements.html)
@@ -80,10 +81,10 @@ layout: default
 * [Airbnb Was Like a Family, Until the Layoffs Started](https://www.nytimes.com/2020/07/17/technology/airbnb-coronavirus-layoffs-.html)
 * [China’s Swimwear Capital Can’t Wait for You to Go Back to the Beach](https://www.nytimes.com/2020/07/17/business/china-coronavirus-swimsuits.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
-* [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Missing Theater Under the Stars (Even the Bugs and the Rain)](https://www.nytimes.com/2020/07/16/theater/outdoor-theater-plays.html)
 * [The New Must-Have Museum Souvenir: Face Masks](https://www.nytimes.com/2020/07/16/arts/design/museums-masks.html)
@@ -103,12 +104,12 @@ layout: default
 ## globo.com
 
 
-* [O mistério da perna mecânica do assassino de Marielle](https://epoca.globo.com/guilherme-amado/o-misterio-da-perna-mecanica-do-assassino-de-marielle-1-24536695)
+* [Golpe no Twitter com empresas e famosos já atingiu 328 milhões de pessoas; veja como se proteger](https://oglobo.globo.com/economia/golpe-no-twitter-com-empresas-famosos-ja-atingiu-328-milhoes-de-pessoas-veja-como-se-proteger-24537200)
 * [Isolamento ampliou sedentarismo entre diabéticos, elevando risco de complicações, alerta estudo](https://oglobo.globo.com/sociedade/isolamento-ampliou-sedentarismo-entre-diabeticos-elevando-risco-de-complicacoes-alerta-estudo-24535494)
-* [Valeu a pena? Clubes se dividem na avaliação do Carioca 2020 e suas consequências](https://oglobo.globo.com/esportes/valeu-pena-clubes-se-dividem-na-avaliacao-do-carioca-2020-suas-consequencias-24536965)
 * [Quem são os hackers que atacam os sistemas da vacina da Covid?](https://oglobo.globo.com/podcast/quem-sao-os-hackers-que-atacam-os-sistemas-da-vacina-da-covid-1-24537018)
 * [Polícia investiga quem conseguiu perna mecânica do acusado de matar Marielle](https://epoca.globo.com/guilherme-amado/policia-investiga-quem-conseguiu-perna-mecanica-do-acusado-de-matar-marielle-1-24536951)
 * [Casa Civil diz que cabe ao Ministério Defesa responder por boom na produção de cloroquina](https://epoca.globo.com/guilherme-amado/casa-civil-diz-que-cabe-ao-ministerio-defesa-responder-por-boom-na-producao-de-cloroquina-1-24536914)
+* [Conselho presidido por ministro que deu domiciliar a Queiroz parabeniza servidores pelo Dia do Homem](https://epoca.globo.com/guilherme-amado/conselho-presidido-por-ministro-que-deu-domiciliar-queiroz-parabeniza-servidores-pelo-dia-do-homem-1-24536964)
 * [Técnica da Saúde do Rio foi afastada após denunciar a Witzel suspeitas do esquema](https://epoca.globo.com/guilherme-amado/tecnica-da-saude-do-rio-foi-afastada-apos-denunciar-witzel-suspeitas-do-esquema-24536976)
 * [Inverno raiz: sabores que vêm da terra](https://oglobo.globo.com/rio/bairros/inverno-raiz-sabores-que-vem-da-terra-24536535)
 * [Parques naturais municipais têm baixa procura na reabertura](https://oglobo.globo.com/rio/bairros/parques-naturais-municipais-tem-baixa-procura-na-reabertura-24536449)

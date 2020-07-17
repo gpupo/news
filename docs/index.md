@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/07/2020 06:13:53 UTC
+# indexed at 17/07/2020 06:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -13,16 +13,15 @@ layout: default
 * [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
 * [Google AMP Can Go To Hell (2018)](https://www.polemicdigital.com//google-amp-go-to-hell/)
 * [Shelly – a programming language to draw in the browser](https://shelly.dev/)
-* [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [What’s New in Thunderbird 78](https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/)
-* [Federal Law Enforcement Use Unmarked Vehicles to Grab Protesters in Portland](https://www.opb.org/news/article/federal-law-enforcement-unmarked-vehicles-portland-protesters/#.XxD9y_CwH4w.twitter)
+* [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
 * [Shoelace 2.0 release: UI toolkit that works with all frameworks or none at all](https://shoelace.style/)
 * [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
 * [Zulip 3.0: Threaded Open Source Team Chat](https://blog.zulip.com/2020/07/16/zulip-3-0-released/)
 * [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
-* [List of computer vision pre-trained model](https://github.com/balavenkatesh3322/CV-pretrained-model)
 * [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
+* [The true story of the heartthrob prince of Qatar and his time at USC](https://www.latimes.com/california/story/2020-07-16/qatar-prince-usc-ucla-la)
 * [How Pulse Oximeters Work (2015)](https://www.howequipmentworks.com/pulse_oximeter/)
 * [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [DDR5 Memory Specification Released](https://www.anandtech.com/show/15912/ddr5-specification-released-setting-the-stage-for-ddr56400-and-beyond)
@@ -32,12 +31,13 @@ layout: default
 * [Nikon Issues Small Recall for a 16-Year-Old Film Camera](https://petapixel.com/2020/07/16/nikon-issues-recall-for-16-year-old-film-camera-due-to-european-law/)
 * [India’s daunting challenge: There’s water everywhere, and nowhere](https://www.nationalgeographic.com/magazine/2020/08/indias-daunting-challenge-there-is-water-everywhere-and-nowhere-feature/)
 * [Ask HN: What is the best enterprise software you use every day?](https://news.ycombinator.com/item?id=23862903)
-* [The GitHub Arctic Code Vault](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)
 * [Reinforcement Learning Under Moral Uncertainty](https://arxiv.org/abs/2006.04734)
-* [Chronicles of Charnia](https://www.damninteresting.com/chronicles-of-charnia/)
+* [The GitHub Arctic Code Vault](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)
 * [Webgazer.js webcam eye tracking on the browser](https://webgazer.cs.brown.edu/)
 * [Rust 1.45](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html)
 * [Who is the greatest knife steel metallurgist of all time?](https://knifesteelnerds.com/2020/06/29/who-is-the-greatest-knife-steel-metallurgist-of-all-time/)
+* [Chronicles of Charnia](https://www.damninteresting.com/chronicles-of-charnia/)
+* [Continuations by example: Exceptions, time-traveling search, threads, and more](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
 ## nytimes.com
 
 
@@ -79,20 +79,20 @@ layout: default
 * [If Kanye West Is Running for President, So Is Your Mom](https://www.nytimes.com/2020/07/16/us/politics/kanye-west-president-2020.html)
 * [Consumers Came Back in June, but for How Long?](https://www.nytimes.com/2020/07/16/business/june-retail-sales.html)
 * [Best Guess on When Business Travel Will Recover? It Could be Years](https://www.nytimes.com/2020/07/13/business/business-travel-hotels-airlines.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
 * [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
 * [The ‘Black Lives Matter’ Street Art That Contain Multitudes](https://www.nytimes.com/2020/07/16/arts/design/black-lives-matter-murals-new-york.html)
 * [Victory Gardens Were More About Solidarity Than Survival](https://www.nytimes.com/2020/07/15/magazine/victory-gardens-world-war-II.html)
 * [The Designer Who Defined Modern Parisian Cool](https://www.nytimes.com/2020/07/16/t-magazine/isabel-marant.html)
 * [How ‘I May Destroy You’ Got Its Stunning Soundtrack](https://www.nytimes.com/2020/07/15/arts/television/i-may-destroy-you-soundtrack.html)
 * [How the Creators of ‘Cursed’ Conjured a Fresh Take on King Arthur](https://www.nytimes.com/2020/07/16/arts/television/cursed-netflix-frank-miller.html)
-* [The Flu May Linger in the Air, Just Like the Coronavirus](https://www.nytimes.com/2020/07/14/health/flu-aerosols-coronavirus.html)
-* [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
-* [Baby Was Infected With Coronavirus in Womb, Study Reports](https://www.nytimes.com/2020/07/14/health/coronavirus-pregnancy-covid-19.html)
 * [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
+* [The Flu May Linger in the Air, Just Like the Coronavirus](https://www.nytimes.com/2020/07/14/health/flu-aerosols-coronavirus.html)
+* [Baby Was Infected With Coronavirus in Womb, Study Reports](https://www.nytimes.com/2020/07/14/health/coronavirus-pregnancy-covid-19.html)
+* [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
 * [Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -108,6 +108,6 @@ layout: default
 * [Os negócios de Ana Cristina Valle, ex-mulher de Bolsonaro](https://epoca.globo.com/rio/os-negocios-de-ana-cristina-valle-ex-mulher-de-bolsonaro-24536388)
 * [O conservadorismo de fôlego renovado com Andrzej Duda, reeleito na Polônia](https://epoca.globo.com/mundo/o-conservadorismo-de-folego-renovado-com-andrzej-duda-reeleito-na-polonia-24536280)
 * [Como seremos julgados pelos bisnetos de nossos bisnetos?](https://epoca.globo.com/larry-rohter/como-seremos-julgados-pelos-bisnetos-de-nossos-bisnetos-1-24536254)
-* [Uma crítica perspicaz à cultura do 'cancelamento'](https://epoca.globo.com/helio-gurovitz/uma-critica-perspicaz-cultura-do-cancelamento-1-24536221)
 * [Witzel soube em março de fraudes na Saúde](https://epoca.globo.com/guilherme-amado/witzel-soube-em-marco-de-fraudes-na-saude-1-24536175)
 * [Insanidade de rebanho](https://epoca.globo.com/monica-de-bolle/insanidade-de-rebanho-1-24536122)
+* [Apesar dos sinais ao Flamengo de que fica, Jesus segue indecifrável](https://oglobo.globo.com/esportes/apesar-dos-sinais-ao-flamengo-de-que-fica-jesus-segue-indecifravel-24536407)

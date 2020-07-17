@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/07/2020 08:34:36 UTC
+# indexed at 17/07/2020 09:12:50 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 * [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
-* [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
 * [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
-* [Unboxing a 5G Protection Device](http://www.quackometer.net/blog/2020/05/unboxing-a-5g-protection-device.html)
+* [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
 * [What’s New in Thunderbird 78](https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/)
 * [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
 * [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [Shoelace 2.0 release: UI toolkit that works with all frameworks or none at all](https://shoelace.style/)
+* [Who were the Hyksos? Strontium isotope analysis of remains from ancient Egypt](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235414)
 * [Shelly – a programming language to draw in the browser](https://shelly.dev/)
+* [Music and Measure Theory (2015) [video]](https://www.youtube.com/watch?v=cyW5z-M2yzw)
 * [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
 * [ProcMon for Linux](https://github.com/microsoft/ProcMon-for-Linux)
-* [Music and Measure Theory (2015) [video]](https://www.youtube.com/watch?v=cyW5z-M2yzw)
-* [Container Networking Security Issue (CVE-2020-8558)](https://aws.amazon.com/security/security-bulletins/AWS-2020-002/)
-* [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
-* [How Pulse Oximeters Work (2015)](https://www.howequipmentworks.com/pulse_oximeter/)
 * [Apple Is Killing a Billion-Dollar Ad Industry with One Popup](https://medium.com/macoclock/apple-is-killing-a-billion-dollar-ad-industry-with-one-popup-2f83d182837f)
+* [The History of the Picnic (2019)](https://www.historytoday.com/archive/historians-cookbook/history-picnic)
+* [How Pulse Oximeters Work (2015)](https://www.howequipmentworks.com/pulse_oximeter/)
+* [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
 * [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
+* [Container Networking Security Issue (CVE-2020-8558)](https://aws.amazon.com/security/security-bulletins/AWS-2020-002/)
 * [Bacteria with a metal diet discovered in dirty glassware](https://phys.org/news/2020-07-bacteria-metal-diet-dirty-glassware.html)
 * [India’s daunting challenge: There’s water everywhere, and nowhere](https://www.nationalgeographic.com/magazine/2020/08/indias-daunting-challenge-there-is-water-everywhere-and-nowhere-feature/)
-* [Ask HN: What is the best enterprise software you use every day?](https://news.ycombinator.com/item?id=23862903)
 * [Emergency Directive 20-03 – Remote code execution vulnerability in Windows DNS](https://cyber.dhs.gov/ed/20-03/)
 * [Nikon Issues Small Recall for a 16-Year-Old Film Camera](https://petapixel.com/2020/07/16/nikon-issues-recall-for-16-year-old-film-camera-due-to-european-law/)
+* [Ask HN: What is the best enterprise software you use every day?](https://news.ycombinator.com/item?id=23862903)
 * [Companies made millions building unemployment websites that didn’t work](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)
 * [Reinforcement Learning Under Moral Uncertainty](https://arxiv.org/abs/2006.04734)
 * [Zulip 3.0: Threaded Open Source Team Chat](https://blog.zulip.com/2020/07/16/zulip-3-0-released/)
-* [D3.js based chart library billboard.js 2.0 is out, more smaller and faster](https://medium.com/@alberto.park/billboard-js-2-0-is-out-15e84b52ab11)
-* [Chronicles of Charnia](https://www.damninteresting.com/chronicles-of-charnia/)
-* [Uzbl – Web Interface Tools Which Adhere to the Unix Philosophy](https://www.uzbl.org/)
 * [List of computer vision pretrained models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+* [Uzbl – Web Interface Tools Which Adhere to the Unix Philosophy](https://www.uzbl.org/)
 ## nytimes.com
 
 
@@ -78,20 +78,20 @@ layout: default
 * [If Kanye West Is Running for President, So Is Your Mom](https://www.nytimes.com/2020/07/16/us/politics/kanye-west-president-2020.html)
 * [Consumers Came Back in June, but for How Long?](https://www.nytimes.com/2020/07/16/business/june-retail-sales.html)
 * [Best Guess on When Business Travel Will Recover? It Could be Years](https://www.nytimes.com/2020/07/13/business/business-travel-hotels-airlines.html)
-* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
+* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
 * [The ‘Black Lives Matter’ Street Art That Contain Multitudes](https://www.nytimes.com/2020/07/16/arts/design/black-lives-matter-murals-new-york.html)
 * [Victory Gardens Were More About Solidarity Than Survival](https://www.nytimes.com/2020/07/15/magazine/victory-gardens-world-war-II.html)
 * [The Designer Who Defined Modern Parisian Cool](https://www.nytimes.com/2020/07/16/t-magazine/isabel-marant.html)
 * [How ‘I May Destroy You’ Got Its Stunning Soundtrack](https://www.nytimes.com/2020/07/15/arts/television/i-may-destroy-you-soundtrack.html)
 * [How the Creators of ‘Cursed’ Conjured a Fresh Take on King Arthur](https://www.nytimes.com/2020/07/16/arts/television/cursed-netflix-frank-miller.html)
+* [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
+* [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
 * [The Flu May Linger in the Air, Just Like the Coronavirus](https://www.nytimes.com/2020/07/14/health/flu-aerosols-coronavirus.html)
 * [Baby Was Infected With Coronavirus in Womb, Study Reports](https://www.nytimes.com/2020/07/14/health/coronavirus-pregnancy-covid-19.html)
-* [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
-* [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
 * [Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Em agenda, Márcia ensaiou depoimento ao MP escrevendo o que é 'legislar'](https://oglobo.globo.com/brasil/em-agenda-marcia-ensaiou-depoimento-ao-mp-escrevendo-que-legislar-24536972)
 * [Em agenda apreendida pelo MP, Márcia ensaiou depoimento escrevendo o que é 'legislar'](https://oglobo.globo.com/brasil/em-agenda-apreendida-pelo-mp-marcia-ensaiou-depoimento-escrevendo-que-legislar-1-24536761)
 * [Governo enfrenta primeiro teste em votação de vetos de Bolsonaro, após ampliar base](https://oglobo.globo.com/brasil/governo-enfrenta-primeiro-teste-em-votacao-de-vetos-de-bolsonaro-apos-ampliar-base-24537014)
 * [O mistério da perna mecânica do assassino de Marielle](https://epoca.globo.com/guilherme-amado/o-misterio-da-perna-mecanica-do-assassino-de-marielle-1-24536695)
-* [Planalto articula para manter veto de Bolsonaro ao marco do saneamento no Congresso](https://oglobo.globo.com/economia/planalto-articula-para-manter-veto-de-bolsonaro-ao-marco-do-saneamento-no-congresso-1-24537091)
 * [Valeu a pena? Clubes se dividem na avaliação do Carioca 2020 e suas consequências](https://oglobo.globo.com/esportes/valeu-pena-clubes-se-dividem-na-avaliacao-do-carioca-2020-suas-consequencias-24536965)
 * [Liberdade vigiada: nova fase de reabertura do Rio terá fiscais fixos em points boêmios; confira o que muda nesta sexta-feira](https://oglobo.globo.com/rio/liberdade-vigiada-nova-fase-de-reabertura-do-rio-tera-fiscais-fixos-em-points-boemios-confira-que-muda-nesta-sexta-feira-1-24536931)
 * [Quem são os hackers que atacam os sistemas da vacina da Covid?](https://oglobo.globo.com/podcast/quem-sao-os-hackers-que-atacam-os-sistemas-da-vacina-da-covid-1-24537018)
+* [Técnica da Saúde do Rio foi afastada após denunciar a Witzel suspeitas do esquema](https://epoca.globo.com/guilherme-amado/tecnica-da-saude-do-rio-foi-afastada-apos-denunciar-witzel-suspeitas-do-esquema-24536976)
 * [Edi Rock, dos Racionais MC’s, lança neste sábado o single ‘Vidas Negras’ em sua 1ª live show](https://oglobo.globo.com/cultura/edi-rock-dos-racionais-mcs-lanca-neste-sabado-single-vidas-negras-em-sua-1-live-show-24536825)
+* [Black joy: Dez filmes e séries que celebram a felicidade negra para assistir no fim de semana](https://oglobo.globo.com/celina/black-joy-dez-filmes-series-que-celebram-felicidade-negra-para-assistir-no-fim-de-semana-24535296)
 * [De vouchers a diárias grátis, como os governos estão tentando atrair visitantes na pandemia](https://oglobo.globo.com/boa-viagem/de-vouchers-diarias-gratis-como-os-governos-estao-tentando-atrair-visitantes-na-pandemia-24534836)

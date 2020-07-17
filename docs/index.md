@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/07/2020 12:19:13 UTC
+# indexed at 17/07/2020 12:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -14,17 +14,19 @@ layout: default
 * [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
+* [Heart Influences What You Perceive and Fear](http://m.nautil.us/blog/how-your-heart-influences-what-you-perceive-and-fear)
+* [The Oldschool PC Font Pack v2.0 Released: 133 fonts added, online font index](https://int10h.org/oldschool-pc-fonts/readme/#history)
 * [ODNS: Oblivious DNS (2018)](https://odns.cs.princeton.edu/)
 * [What’s New in Thunderbird 78](https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/)
 * [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
 * [Shoelace 2.0 release: UI toolkit that works with all frameworks or none at all](https://shoelace.style/)
 * [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [Music and Measure Theory (2015) [video]](https://www.youtube.com/watch?v=cyW5z-M2yzw)
+* [Synthetic biology and yeast can help fix our drug supply chain](https://www.statnews.com/2020/07/16/synthetic-biology-yeast-help-fix-broken-drug-supply-chain/)
 * [Who were the Hyksos? Strontium isotope analysis of remains from ancient Egypt](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235414)
 * [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
-* [Synthetic biology and yeast can help fix our drug supply chain](https://www.statnews.com/2020/07/16/synthetic-biology-yeast-help-fix-broken-drug-supply-chain/)
-* [Shelly – a programming language to draw in the browser](https://shelly.dev/)
 * [FAA documents give unprecedented look into Colorado drone swarm mystery](https://www.thedrive.com/the-war-zone/34662/faa-documents-offer-unprecedented-look-into-colorado-drone-mystery)
+* [Shelly – a programming language to draw in the browser](https://shelly.dev/)
 * [Scientific American: A Visual Guide to the Coronavirus](https://www.scientificamerican.com/interactive/inside-the-coronavirus/)
 * [What Makes a Picture Good?](https://phillipreeve.net/blog/what-makes-a-picture-good/)
 * [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
@@ -32,12 +34,10 @@ layout: default
 * [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
 * [Uzbl – Web Interface Tools Which Adhere to the Unix Philosophy](https://www.uzbl.org/)
 * [ProcMon for Linux](https://github.com/microsoft/ProcMon-for-Linux)
-* [The History of the Picnic (2019)](https://www.historytoday.com/archive/historians-cookbook/history-picnic)
 * [List of computer vision pretrained models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+* [The History of the Picnic (2019)](https://www.historytoday.com/archive/historians-cookbook/history-picnic)
 * [The Brussels Effect](https://en.wikipedia.org/wiki/Brussels_effect)
 * [Emergency Directive 20-03 – Remote code execution vulnerability in Windows DNS](https://cyber.dhs.gov/ed/20-03/)
-* [Show HN: Midnight.pub – Virtual Speakeasy](https://news.ycombinator.com/item?id=23868295)
-* [Container Networking Security Issue (CVE-2020-8558)](https://aws.amazon.com/security/security-bulletins/AWS-2020-002/)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [For Owners of Century-Old Businesses, Shutting Down Brings a Special Pain](https://www.nytimes.com/2020/07/17/business/100-year-old-small-business-coronavirus.html)
 * [Chief Vaccine Scientist Will Not Be Forced to Disclose Pharmaceutical Stocks](https://www.nytimes.com/2020/07/15/us/politics/vaccine-Slaoui-coronavirus-trump.html)
 * [Trump Steps Up His Assault on Biden With Many False Attacks](https://www.nytimes.com/2020/07/17/us/trump-biden-2020-election.html)
-* [Is Ohio in Play? Biden Has an Opportunity, and Trump Has Enduring Strengths](https://www.nytimes.com/2020/07/17/us/politics/ohio-biden-trump.html)
+* [Why Ohio is in Play for Both Biden and Trump](https://www.nytimes.com/2020/07/17/us/politics/ohio-biden-trump.html)
 * [Biden vs. Trump 2020: Live Election Updates](https://www.nytimes.com/2020/07/17/us/elections/biden-vs-trump.html)
 * [C.T. Vivian, Civil Rights Icon, Is Dead at 95](https://www.nytimes.com/2020/07/17/obituaries/ct-vivian-dead.html)
 * [Introducing ‘Father Soldier Son,’ a Film From The Times and Netflix](https://www.nytimes.com/2020/07/02/universal/introducing-father-soldier-son-a-film-from-the-times-and-netflix.html)
@@ -79,10 +79,10 @@ layout: default
 * [Airbnb Was Like a Family, Until the Layoffs Started](https://www.nytimes.com/2020/07/17/technology/airbnb-coronavirus-layoffs-.html)
 * [China’s Swimwear Capital Can’t Wait for You to Go Back to the Beach](https://www.nytimes.com/2020/07/17/business/china-coronavirus-swimsuits.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
 * [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Missing Theater Under the Stars (Even the Bugs and the Rain)](https://www.nytimes.com/2020/07/16/theater/outdoor-theater-plays.html)
 * [The New Must-Have Museum Souvenir: Face Masks](https://www.nytimes.com/2020/07/16/arts/design/museums-masks.html)
@@ -91,8 +91,8 @@ layout: default
 * [7 Things to Do This Weekend](https://www.nytimes.com/2020/07/16/arts/things-to-do-weekend-coronavirus.html)
 * [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
 * [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
-* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
+* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [Who Can Make Trump Miserable This Fall?](https://www.nytimes.com/2020/07/15/opinion/trump-sessions-senate.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Estresse por calor: por que um mundo mais quente e úmido tornará o trabalho cada vez mais perigoso](https://epoca.globo.com/sociedade/estresse-por-calor-por-que-um-mundo-mais-quente-umido-tornara-trabalho-cada-vez-mais-perigoso-1-24537303)
+* [Em uma semana, 675 mil brasileiros ficam desempregados, aponta IBGE](https://oglobo.globo.com/economia/em-uma-semana-675-mil-brasileiros-ficam-desempregados-aponta-ibge-24537296)
+* [Mortes por Covid-19 em UTIs caíram em um terço desde março, mostra estudo](https://oglobo.globo.com/sociedade/mortes-por-covid-19-em-utis-cairam-em-um-terco-desde-marco-mostra-estudo-24537184)
 * [Justiça suspende pagamento a empresa que vendeu ao estado 150 mil máscaras com preços 57% acima do mercado](https://oglobo.globo.com/rio/justica-suspende-pagamento-empresa-que-vendeu-ao-estado-150-mil-mascarascom-precos-57-acima-do-mercado-24537252)
 * [Crivella exonera controladora que apontou rombo de R$ 4 bilhões nas contas da prefeitura do Rio em 2019](https://oglobo.globo.com/rio/crivella-exonera-controladora-que-apontou-rombo-de-4-bilhoes-nas-contas-da-prefeitura-do-rio-em-2019-1-24537247)
 * [Ex-jogador de handebol Bruno Souza é substituto de Emanuel na Secretaria de Esporte](https://oglobo.globo.com/esportes/ex-jogador-de-handebol-bruno-souza-substituto-de-emanuel-na-secretaria-de-esporte-24537258)
 * [Edi Rock lança canção ‘Vidas Negras’: 'Gostaria de falar sobre outras ideias, mas o momento não permite'](https://oglobo.globo.com/cultura/edi-rock-lanca-cancao-vidas-negras-gostaria-de-falar-sobre-outras-ideias-mas-momento-nao-permite-24537249)
 * [Princesa Beatrice faz casamento secreto com a presença da rainha](https://oglobo.globo.com/ela/gente/princesa-beatrice-faz-casamento-secreto-com-presenca-da-rainha-1-24537245)
-* [Demi Moore aparece loura para nova série](https://oglobo.globo.com/ela/gente/demi-moore-aparece-loura-para-nova-serie-24537227)
-* [Boletim das 8h: Brasil tem 2.015.382 casos e 76.846 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/boletim-das-8h-brasil-tem-2015382-casos-76846-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24537233)
-* [Estudo mostra que mortes por Covid-19 em UTIs caíram em um terço desde março](https://oglobo.globo.com/sociedade/estudo-mostra-que-mortes-por-covid-19-em-utis-cairam-em-um-terco-desde-marco-24537184)
 * [Churchill e o Brexit](https://epoca.globo.com/guilherme-amado/churchill-o-brexit-24536756)
 * [Documentário conta história de crianças e jovens cubanos enviados pelos pais aos EUA em plena Guerra Fria](https://oglobo.globo.com/mundo/documentario-conta-historia-de-criancas-jovens-cubanos-enviados-pelos-pais-aos-eua-em-plena-guerra-fria-24535879)

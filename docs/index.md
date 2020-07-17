@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/07/2020 04:14:04 UTC
+# indexed at 17/07/2020 04:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
-* [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [What’s New in Thunderbird 78](https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/)
-* [Unidentified Federal Law Enforcement Detaining Protestors Without Explanation](https://www.opb.org/news/article/federal-law-enforcement-unmarked-vehicles-portland-protesters/)
+* [Shelly – a programming language to draw in the browser](https://shelly.dev/)
 * [Zulip 3.0: Threaded Open Source Team Chat](https://blog.zulip.com/2020/07/16/zulip-3-0-released/)
-* [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
+* [Is the Saudi Government Plotting Against Another U.S.-Based Critic?](https://www.newyorker.com/news/news-desk/is-the-saudi-government-plotting-against-another-us-based-critic)
 * [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
+* [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
 * [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
 * [TSMC plans to halt chip supplies to Huawei in 2 months](https://asia.nikkei.com/Spotlight/Huawei-crackdown/TSMC-plans-to-halt-chip-supplies-to-Huawei-in-2-months)
-* [Companies made millions building unemployment websites that didn’t work](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)
-* [Is the Saudi Government Plotting Against Another U.S.-Based Critic?](https://www.newyorker.com/news/news-desk/is-the-saudi-government-plotting-against-another-us-based-critic)
 * [How Pulse Oximeters Work (2015)](https://www.howequipmentworks.com/pulse_oximeter/)
+* [Companies made millions building unemployment websites that didn’t work](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)
+* [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [DDR5 Memory Specification Released](https://www.anandtech.com/show/15912/ddr5-specification-released-setting-the-stage-for-ddr56400-and-beyond)
 * [Emergency Directive 20-03 – Remote code execution vulnerability in Windows DNS](https://cyber.dhs.gov/ed/20-03/)
 * [Bacteria with a metal diet discovered in dirty glassware](https://phys.org/news/2020-07-bacteria-metal-diet-dirty-glassware.html)
 * [Nikon Issues Small Recall for a 16-Year-Old Film Camera](https://petapixel.com/2020/07/16/nikon-issues-recall-for-16-year-old-film-camera-due-to-european-law/)
+* [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
 * [India’s daunting challenge: There’s water everywhere, and nowhere](https://www.nationalgeographic.com/magazine/2020/08/indias-daunting-challenge-there-is-water-everywhere-and-nowhere-feature/)
+* [Apple: Updates to Coding Terminology](https://developer.apple.com/news/?id=1o9zxsxl)
 * [Ask HN: What is the best enterprise software you use every day?](https://news.ycombinator.com/item?id=23862903)
-* [Chronicles of Charnia](https://www.damninteresting.com/chronicles-of-charnia/)
 * [The GitHub Arctic Code Vault](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)
+* [Chronicles of Charnia](https://www.damninteresting.com/chronicles-of-charnia/)
 * [Rust 1.45](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html)
 * [Who is the greatest knife steel metallurgist of all time?](https://knifesteelnerds.com/2020/06/29/who-is-the-greatest-knife-steel-metallurgist-of-all-time/)
 * [Webgazer.js webcam eye tracking on the browser](https://webgazer.cs.brown.edu/)
+* [Continuations by example: Exceptions, time-traveling search, threads, and more](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
 * [Excess-3](https://en.wikipedia.org/wiki/Excess-3)
 * [Boy, 16, was given estrogen at L.A. juvenile hall, suit says](https://www.latimes.com/california/story/2020-07-15/teenage-boy-was-given-estrogen-developed-breast-tissue-while-in-l-a-county-juvenile-hall-lawsuit-alleges)
-* [Continuations by example: Exceptions, time-traveling search, threads, and more](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
-* [Reinforcement Learning Under Moral Uncertainty](https://arxiv.org/abs/2006.04734)
-* [What if the Trinity test had failed?](http://blog.nuclearsecrecy.com/2020/07/16/what-if-the-trinity-test-had-failed/)
 ## nytimes.com
 
 
@@ -71,10 +71,10 @@ layout: default
 * [Vacation in the Summer of Covid-19](https://www.nytimes.com/2020/07/16/travel/virus-vacation.html)
 * [A Plague on Your Houses: Reading Covid-19 Into Disease Onstage](https://www.nytimes.com/2020/07/15/theater/oedipus-the-king-plague-covid.html)
 * [Washington NFL Team Faces Sexual Harassment Claims from 15 Women, Hire Law Firm](https://www.nytimes.com/2020/07/16/sports/football/washington-sexual-assault-harassment-dan-snyder.html)
+* [$174 Million Afghan Drone Program Is Riddled With Problems, U.S. Report Says](https://www.nytimes.com/2020/07/16/world/asia/afghan-drone-program.html)
 * [Cuomo Cracks Down on Outdoor Drinking at New York Bars](https://www.nytimes.com/2020/07/16/nyregion/ny-bars-open-cuomo.html)
 * [1 Dead and 3 Injured as Construction Platform Plummets in Manhattan](https://www.nytimes.com/2020/07/16/nyregion/murray-hill-scaffolding-collapse.html)
 * [Police Officers Found Guilty in Acid Attack. But Doubts Remain.](https://www.nytimes.com/2020/07/16/world/asia/indonesia-investigator-acid-attack.html)
-* [CVS Fined for Prescription Errors and Poor Staffing at Pharmacies](https://www.nytimes.com/2020/07/16/business/cvs-pharmacies-oklahoma.html)
 * [Federal Employees Can Express Support for Black Lives Matter, Watchdog Says](https://www.nytimes.com/2020/07/16/us/federal-employees-black-lives-matter.html)
 * [If Kanye West Is Running for President, So Is Your Mom](https://www.nytimes.com/2020/07/16/us/politics/kanye-west-president-2020.html)
 * [Consumers Came Back in June, but for How Long?](https://www.nytimes.com/2020/07/16/business/june-retail-sales.html)
@@ -91,8 +91,8 @@ layout: default
 * [How the Creators of ‘Cursed’ Conjured a Fresh Take on King Arthur](https://www.nytimes.com/2020/07/16/arts/television/cursed-netflix-frank-miller.html)
 * [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
 * [The Flu May Linger in the Air, Just Like the Coronavirus](https://www.nytimes.com/2020/07/14/health/flu-aerosols-coronavirus.html)
-* [Baby Was Infected With Coronavirus in Womb, Study Reports](https://www.nytimes.com/2020/07/14/health/coronavirus-pregnancy-covid-19.html)
 * [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
+* [Baby Was Infected With Coronavirus in Womb, Study Reports](https://www.nytimes.com/2020/07/14/health/coronavirus-pregnancy-covid-19.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
 * [Now That Studio Ghibli Is Streaming on HBO Max, Where Do You Start?](https://www.nytimes.com/2020/07/16/movies/studio-ghibli-hbo-max.html)
 * [Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)

@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 17/07/2020 05:12:25 UTC
+# indexed at 17/07/2020 05:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [Who’s behind Wednesday’s epic Twitter hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
-* [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
+* [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [Shelly – a programming language to draw in the browser](https://shelly.dev/)
-* [Is the Saudi Government Plotting Against Another U.S.-Based Critic?](https://www.newyorker.com/news/news-desk/is-the-saudi-government-plotting-against-another-us-based-critic)
+* [British Airways announces immediate retirement of 747 fleet](https://airlinegeeks.com/2020/07/16/british-airways-announces-immediate-retirement-of-747-fleet/)
 * [What’s New in Thunderbird 78](https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/)
-* [Zulip 3.0: Threaded Open Source Team Chat](https://blog.zulip.com/2020/07/16/zulip-3-0-released/)
-* [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
-* [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
 * [Show HN: A completely different way to write responsive, vanilla, CSS](https://propjockey.github.io/css-media-vars/)
+* [Zulip 3.0: Threaded Open Source Team Chat](https://blog.zulip.com/2020/07/16/zulip-3-0-released/)
+* [Import – A Simple and Fast Module System for Bash and Other Unix Shells](https://import.pw/)
+* [The Next Steps for Single Ownership and RAII](https://vale.dev/blog/next-steps-raii)
+* [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
 * [TSMC plans to halt chip supplies to Huawei in 2 months](https://asia.nikkei.com/Spotlight/Huawei-crackdown/TSMC-plans-to-halt-chip-supplies-to-Huawei-in-2-months)
 * [How Pulse Oximeters Work (2015)](https://www.howequipmentworks.com/pulse_oximeter/)
 * [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [Emergency Directive 20-03 – Remote code execution vulnerability in Windows DNS](https://cyber.dhs.gov/ed/20-03/)
-* [Companies made millions building unemployment websites that didn’t work](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)
+* [Shoelace 2.0 release: UI toolkit that works with all frameworks or none at all](https://shoelace.style/)
 * [DDR5 Memory Specification Released](https://www.anandtech.com/show/15912/ddr5-specification-released-setting-the-stage-for-ddr56400-and-beyond)
+* [Companies made millions building unemployment websites that didn’t work](https://themarkup.org/coronavirus/2020/07/16/unemployment-benefits-website-failures-deloitte-ibm)
+* [List of computer vision pre-trained model](https://github.com/balavenkatesh3322/CV-pretrained-model)
 * [Bacteria with a metal diet discovered in dirty glassware](https://phys.org/news/2020-07-bacteria-metal-diet-dirty-glassware.html)
 * [Nikon Issues Small Recall for a 16-Year-Old Film Camera](https://petapixel.com/2020/07/16/nikon-issues-recall-for-16-year-old-film-camera-due-to-european-law/)
-* [Solar Orbiter first images revealed](https://www.esa.int/ESA_Multimedia/Videos/2020/07/Solar_Orbiter_first_images_revealed)
 * [India’s daunting challenge: There’s water everywhere, and nowhere](https://www.nationalgeographic.com/magazine/2020/08/indias-daunting-challenge-there-is-water-everywhere-and-nowhere-feature/)
 * [Ask HN: What is the best enterprise software you use every day?](https://news.ycombinator.com/item?id=23862903)
-* [Reinforcement Learning Under Moral Uncertainty](https://arxiv.org/abs/2006.04734)
 * [The GitHub Arctic Code Vault](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)
-* [Rust 1.45](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html)
+* [Reinforcement Learning Under Moral Uncertainty](https://arxiv.org/abs/2006.04734)
 * [Webgazer.js webcam eye tracking on the browser](https://webgazer.cs.brown.edu/)
+* [Rust 1.45](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html)
 * [Who is the greatest knife steel metallurgist of all time?](https://knifesteelnerds.com/2020/06/29/who-is-the-greatest-knife-steel-metallurgist-of-all-time/)
 * [Chronicles of Charnia](https://www.damninteresting.com/chronicles-of-charnia/)
 * [Continuations by example: Exceptions, time-traveling search, threads, and more](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
 * [Boy, 16, was given estrogen at L.A. juvenile hall, suit says](https://www.latimes.com/california/story/2020-07-15/teenage-boy-was-given-estrogen-developed-breast-tissue-while-in-l-a-county-juvenile-hall-lawsuit-alleges)
-* [Excess-3](https://en.wikipedia.org/wiki/Excess-3)
 ## nytimes.com
 
 
-* [Live Global Coronavirus News](https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html)
+* [Coronavirus Live News Updates](https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html)
 * [Russian Hackers Trying to Steal Coronavirus Vaccine Research](https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html)
 * [In the Same Towns, Private Schools Are Reopening While Public Schools Are Not](https://www.nytimes.com/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html)
 * [Mask Rules Expand Across U.S. as Clashes Over the Mandates Intensify](https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html)
@@ -89,10 +89,10 @@ layout: default
 * [The Designer Who Defined Modern Parisian Cool](https://www.nytimes.com/2020/07/16/t-magazine/isabel-marant.html)
 * [How ‘I May Destroy You’ Got Its Stunning Soundtrack](https://www.nytimes.com/2020/07/15/arts/television/i-may-destroy-you-soundtrack.html)
 * [How the Creators of ‘Cursed’ Conjured a Fresh Take on King Arthur](https://www.nytimes.com/2020/07/16/arts/television/cursed-netflix-frank-miller.html)
-* [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
+* [The Flu May Linger in the Air, Just Like the Coronavirus](https://www.nytimes.com/2020/07/14/health/flu-aerosols-coronavirus.html)
 * [First Coronavirus Vaccine Tested in Humans Shows Early Promise](https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html)
 * [Baby Was Infected With Coronavirus in Womb, Study Reports](https://www.nytimes.com/2020/07/14/health/coronavirus-pregnancy-covid-19.html)
-* [The Flu May Linger in the Air, Just Like the Coronavirus](https://www.nytimes.com/2020/07/14/health/flu-aerosols-coronavirus.html)
+* [Comet NEOWISE: How to See It in Night Skies](https://www.nytimes.com/article/neowise-comet.html)
 * [You May Not Know These 15 Songs. But You’ve Heard Them.](https://www.nytimes.com/2020/07/15/arts/music/pop-hip-hop-samples.html)
 * [Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’](https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html)
 * [How Exercise May Bolster the Brain](https://www.nytimes.com/2020/07/15/well/move/how-exercise-may-bolster-the-brain.html)
@@ -102,10 +102,10 @@ layout: default
 ## globo.com
 
 
+* [Terremoto de magnitude 6,9 sacode Papua-Nova Guiné e alerta de tsunami](https://oglobo.globo.com/mundo/terremoto-de-magnitude-69-sacode-papua-nova-guine-alerta-de-tsunami-24537190)
 * [Prazo para inscrições no Prouni termina nesta sexta-feira](https://oglobo.globo.com/sociedade/prazo-para-inscricoes-no-prouni-termina-nesta-sexta-feira-24535984)
 * [Cidadãos e cidadãos](https://oglobo.globo.com/opiniao/cidadaos-cidadaos-24536190)
 * [Ilegal é ilegal](https://oglobo.globo.com/opiniao/ilegal-ilegal-24536026)
-* [Imagem do Exército em risco](https://oglobo.globo.com/opiniao/imagem-do-exercito-em-risco-24536505)
 * [Bolsonaro, agora, renega suas ordens e culpa os subordinados](https://oglobo.globo.com/opiniao/bolsonaro-agora-renega-suas-ordens-culpa-os-subordinados-2-24535843)
 * [Festival gratuito do Itaú Cultural exibe 26 peças on-line](https://oglobo.globo.com/rioshow/festival-gratuito-do-itau-cultural-exibe-26-pecas-on-line-24535930)
 * [Julho das Pretas](https://oglobo.globo.com/opiniao/julho-das-pretas-24536599)

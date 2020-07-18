@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 12:34:39 UTC
+# indexed at 18/07/2020 13:12:25 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
-* [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
+* [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
 * [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
+* [Why do we stay logged in to YouTube, Reddit, and Twitter?](https://patwalls.com/logged-out)
 * [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
+* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
-* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
+* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
-* [U.S. Ranked Worst for Workers’ Rights Among Major Economies](https://www.bloomberg.com/news/articles/2020-06-18/u-s-ranked-worst-for-workers-rights-among-major-economies)
-* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
-* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
-* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
-* [The explosion of new coronavirus tests that could help to end the pandemic](https://www.nature.com/articles/d41586-020-02140-8)
-* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
-* [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
+* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
+* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
-* [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
-* [Amazon soya and beef exports 'linked to deforestation'](https://www.bbc.com/news/science-environment-53438680)
+* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
+* [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
 * [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
+* [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
+* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
+* [Things I wish I’d known about CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 ## nytimes.com
 
 
@@ -75,12 +75,12 @@ layout: default
 * [2 White Men Charged After Helping Pin Black Man to a Tree in Indiana, Officials Say](https://www.nytimes.com/2020/07/17/us/bloomington-indiana-vauhxx-booker.html)
 * [David Kaiser, Rockefeller Heir Who Fought Exxon Mobil, Dies at 50](https://www.nytimes.com/2020/07/16/business/energy-environment/david-kaiser-dead.html)
 * [‘Our Role Is to Reduce Their Grief’](https://www.nytimes.com/2020/07/18/world/middleeast/iraq-coronovirus-cemetery.html)
-* [For Families of 9/11 Victims, Virus Further Slows the Pace of Justice](https://www.nytimes.com/2020/07/18/us/politics/for-families-of-9-11-victims-virus-further-slows-the-pace-of-justice.html)
+* [For Families of 9/11 Victims, Virus Further Slows the Pace of Justice](https://www.nytimes.com/2020/07/18/us/politics/coronavirus-guantanamo-911-victims.html)
 * [Hackers Tell the Story of the Twitter Attack From the Inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
 * [Why Trump’s Attacks on John Roberts Aren’t Working With Some Conservatives](https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Au Pairs, in an Altered America](https://www.nytimes.com/2020/07/17/style/this-is-not-the-america-these-au-pairs-were-expecting.html)
@@ -88,10 +88,10 @@ layout: default
 * [At Old St. Pat’s, a History of Defiance](https://www.nytimes.com/2020/07/17/realestate/at-old-st-pats-a-history-of-defiance.html)
 * [The N.B.A. Bubble Is in the Magic’s Backyard. But They’re Not Quite at Home.](https://www.nytimes.com/2020/07/17/sports/nba-bubble-orlando-magic.html)
 * [‘Richard II’ Review: A Radio King With a Tottering Crown](https://www.nytimes.com/2020/07/17/theater/richard-ii-review-andre-holland.html)
-* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
-* [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
 * [Closest Pictures Ever Taken of Sun Show Tiny Campfire Flares](https://www.nytimes.com/2020/07/16/science/solar-orbiter-sun-images.html)
 * [California’s ‘Bear Whisperer’ Is Out of a Job](https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html)
+* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
+* [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [The End of Expanded Unemployment Benefits Is the Next Disaster](https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Reino Unido suspende atualização de dados sobre mortes por Covid-19](https://oglobo.globo.com/mundo/reino-unido-suspende-atualizacao-de-dados-sobre-mortes-por-covid-19-24539370)
 * [Casamento às escondidas da princesa Beatrice levantam rumores sobre manter o pai longe dos holofotes por conta do caso Jeffrey Epstein](https://oglobo.globo.com/ela/beleza/casamento-as-escondidas-da-princesa-beatrice-levantam-rumores-sobre-manter-pai-longe-dos-holofotes-por-conta-do-caso-jeffrey-epstein-1-24539343)
 * [Boletim das 8h: Brasil tem 2.049.140 casos e 77.964 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2049140-casos-77964-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24539325)
-* [Show de talentos virtual estimula a imaginação do público infantil](https://oglobo.globo.com/rio/bairros/show-de-talentos-virtual-estimula-imaginacao-do-publico-infantil-24538302)
 * [Brasileiros em Angola negam ataques xenófobos após crise envolvendo Igreja Universal do Reino de Deus](https://epoca.globo.com/mundo/brasileiros-em-angola-negam-ataques-xenofobos-apos-crise-envolvendo-igreja-universal-do-reino-de-deus-24539335)
 * ['Bolsonaro usa futebol de maneira oportunista e demagógica', diz historiador](https://epoca.globo.com/brasil/bolsonaro-usa-futebol-de-maneira-oportunista-demagogica-diz-historiador-1-24539315)
+* [Carioca passa a integrar júri do Grammy](https://epoca.globo.com/guilherme-amado/carioca-passa-integrar-juri-do-grammy-24538700)
 * [Ministério afirma que órgão que Regina Duarte assumirá tem 'mofo e pombo'](https://epoca.globo.com/guilherme-amado/ministerio-afirma-que-orgao-que-regina-duarte-assumira-tem-mofo-pombo-24538719)
-* [Quantos brasileiros concordam com a reabertura do comércio](https://epoca.globo.com/guilherme-amado/quantos-brasileiros-concordam-com-reabertura-do-comercio-24538674)
 * [Único sobrevivente da Primavera Árabe, Assad completa 20 anos no poder em meio a crise e poucos aliados](https://oglobo.globo.com/mundo/unico-sobrevivente-da-primavera-arabe-assad-completa-20-anos-no-poder-em-meio-crise-poucos-aliados-24538769)
 * [Crítica | O cinema de Jafar Panahi e o mundo confinado](https://epoca.globo.com/thiago-b-mendonca/critica-o-cinema-de-jafar-panahi-o-mundo-confinado-24538404)
 * [Coluna | As incertezas que desfilam pela Sapucaí](https://epoca.globo.com/lucas-prata/coluna-as-incertezas-que-desfilam-pela-sapucai-24538371)

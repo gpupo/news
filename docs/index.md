@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 03:13:07 UTC
+# indexed at 18/07/2020 03:34:46 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
-* [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
 * [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
+* [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
 * [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
+* [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
-* [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
-* [Ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 * [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
+* [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
+* [Ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 * [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/)
-* [Flexport is hiring software engineers for our platform for global trade](https://www.flexport.com/careers/department/engineering)
+* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
 * [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
-* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
-* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
+* [Flexport is hiring software engineers for our platform for global trade](https://www.flexport.com/careers/department/engineering)
 * [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
-* [The Oldschool PC Font Pack v2.0](https://int10h.org/oldschool-pc-fonts/readme/)
 * [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
-* [Straightened Trees](http://danieltemkin.com/StraightenedTrees)
+* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
+* [The Oldschool PC Font Pack v2.0](https://int10h.org/oldschool-pc-fonts/readme/)
 * [RecordRTC: JavaScript library for audio, video, screen, and canvas recording](https://recordrtc.org/)
+* [Straightened Trees](http://danieltemkin.com/StraightenedTrees)
 * [What changed in OpenSSL after heartbleed](https://arxiv.org/abs/2005.14242)
-* [How the heart influences what we perceive and fear](https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
+* [How the heart influences what we perceive and fear](https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/)
 * [Suspect is arrested in grisly killing of tech CEO Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-murder-arrest-tyrese-devon-haspil.html)
-* [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
 * [Cloudflare was down](https://www.cloudflarestatus.com/?hn=2020)
+* [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
 * [Improving Performance of PHP for Arm64 and Impact on Amazon EC2 M6g Instances](https://idk.dev/improving-performance-of-php-for-arm64-and-impact-on-amazon-ec2-m6g-instances/)
-* [Teachers are ready to quit rather than put their lives at risk](https://www.buzzfeednews.com/carolineodonovan/coronavirus-schools-teachers-fear-for-their-lives)
 ## nytimes.com
 
 
@@ -80,20 +80,20 @@ layout: default
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [Queen Knights Captain Tom, in a Rare Public Appearance](https://www.nytimes.com/2020/07/17/world/europe/queen-knights-captain-tom.html)
 * [Democrats Eye Trump’s Game Plan to Reverse Late Rule Changes](https://www.nytimes.com/2020/07/17/climate/trump-regulations-election.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Fary Isn’t Joking About Race in France Right Now](https://www.nytimes.com/2020/07/17/arts/fary-standup-france.html)
 * [Shakespeare Lost His Son to Plague. A Novel Asks How It Shaped His Art.](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [When a Corporate Picnic Plus Shakespeare Is Anything but Routine](https://www.nytimes.com/2020/07/16/theater/shakespeare-in-the-park-cantor-fitzgerald.html)
 * [A Portuguese Artist’s Chilled Tomato Soup](https://www.nytimes.com/2020/07/17/t-magazine/summer-recipes-arjamolho-soup-vanessa-barragao.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Supermarket Sweep’](https://www.nytimes.com/2020/07/17/arts/television/supermarket-sweep-netflix-amazon.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
-* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
 * [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
+* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [The End of Expanded Unemployment Benefits Is the Next Disaster](https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html)
 * [White Supremacy Was Her World. And Then She Left.](https://www.nytimes.com/2020/07/17/opinion/white-supremacy-hate-movements.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,7 +102,7 @@ layout: default
 ## globo.com
 
 
-* [Apesar de leis, frequentadores ignoram máscaras em bares na noite desta sexta-feira](https://oglobo.globo.com/rio/apesar-de-leis-frequentadores-ignoram-mascaras-em-bares-na-noite-desta-sexta-feira-24538889)
+* [Apesar de leis, frequentadores ignoram máscaras em bares, e guarda municipal só observa](https://oglobo.globo.com/rio/apesar-de-leis-frequentadores-ignoram-mascaras-em-bares-guarda-municipal-so-observa-24538889)
 * [Ford pega a trilha da nostalgia e relança o lendário Bronco](https://oglobo.globo.com/economia/carros/ford-pega-trilha-da-nostalgia-relanca-lendario-bronco-24538959)
 * [Testes com coalas podem ajudar a descobrir vacina para a clamídia](https://oglobo.globo.com/sociedade/testes-com-coalas-podem-ajudar-descobrir-vacina-para-clamidia-24530403)
 * [STF encaminha à PGR notícia-crime contra ministra Damares Alves](https://oglobo.globo.com/brasil/stf-encaminha-pgr-noticia-crime-contra-ministra-damares-alves-24538865)

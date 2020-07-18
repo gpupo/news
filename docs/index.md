@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 14:13:25 UTC
+# indexed at 18/07/2020 14:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [NoiseTorch: Real-time microphone noise suppression on Linux written in Go](https://github.com/lawl/NoiseTorch)
+* [Show HN: I built a free, simple login service. Would you use this?](https://login.land/)
+* [Fast Fashion stops innovation: designing better trouser pockets](https://sambleckley.com/writing/pockets.html)
+* [Beast of Gévaudan](https://www.history.com/news/beast-gevaudan-france-theories)
 * [Krita, OpenGL and Qt](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
 * [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
 * [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
+* [Swiss Political System: More Than You Ever Wanted to Know](http://250bpm.com/blog:161)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
 * [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
+* [Kinetic Artwork Attempts to Get a ‘Little Piece of Privacy’](https://www.thisiscolossal.com/2020/02/niklas-roy-little-piece-privacy/)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
 * [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
-* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
-* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
 * [Logged out](https://patwalls.com/logged-out)
+* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
 * [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
-* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
 * [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
+* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
-* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
 * [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
-* [Things I wish I’d known about CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
-* [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
-* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
-* [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
-* [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
+* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [Praise for John Lewis Pours in From Nation’s Political Elite](https://www.nytimes.com/2020/07/18/us/politics/john-lewis-dies-reaction.html)
 * [Still Marching on Washington, 50 Years Later](https://www.nytimes.com/2013/08/14/us/politics/50-years-later-fighting-the-same-civil-rights-battle.html)
 * [Mistrust of a Coronavirus Vaccine Could Imperil Widespread Immunity](https://www.nytimes.com/2020/07/18/health/coronavirus-anti-vaccine.html)
-* [Coronavirus News: Live Updates](https://www.nytimes.com/2020/07/18/world/coronavirus-news.html)
+* [Coronavirus Live Updates: ‘Red Zone’ Warning for 18 U.S. States](https://www.nytimes.com/2020/07/18/world/coronavirus-news.html)
 * [Treacherous Times for Dr. Fauci in the Sacred Cow Business](https://www.nytimes.com/2020/07/17/us/fauci-trump.html)
 * [Portland Protests: Local Leaders Urging Feds to Leave](https://www.nytimes.com/2020/07/17/us/portland-protests.html)
 * [Were the Actions of Federal Agents in Portland Legal?](https://www.nytimes.com/2020/07/17/us/politics/federal-agents-portland-arrests.html)
@@ -71,18 +71,18 @@ layout: default
 * [5 Ways the Coronavirus Has Changed Suburban Real Estate](https://www.nytimes.com/2020/07/17/realestate/coronavirus-suburbs-real-estate.html)
 * [Dustin Honken Executed: Third Federal Government Execution This Week](https://www.nytimes.com/2020/07/17/us/dustin-honken-federal-execution.html)
 * [Ginsburg Says Her Cancer Has Returned, but She’s ‘Fully Able’ to Remain on Court](https://www.nytimes.com/2020/07/17/us/justice-ruth-bader-ginsburg-cancer.html)
-* [‘Violent Fire’ Hits Cathedral in French City of Nantes](https://www.nytimes.com/2020/07/18/world/europe/fire-nantes-cathedral.html)
+* [Fire Hits Cathedral in French City of Nantes](https://www.nytimes.com/2020/07/18/world/europe/fire-nantes-cathedral.html)
 * [2 White Men Charged After Helping Pin Black Man to a Tree in Indiana, Officials Say](https://www.nytimes.com/2020/07/17/us/bloomington-indiana-vauhxx-booker.html)
 * [David Kaiser, Rockefeller Heir Who Fought Exxon Mobil, Dies at 50](https://www.nytimes.com/2020/07/16/business/energy-environment/david-kaiser-dead.html)
 * [‘Our Role Is to Reduce Their Grief’](https://www.nytimes.com/2020/07/18/world/middleeast/iraq-coronovirus-cemetery.html)
 * [For Families of 9/11 Victims, Virus Further Slows the Pace of Justice](https://www.nytimes.com/2020/07/18/us/politics/coronavirus-guantanamo-911-victims.html)
 * [Hackers Tell the Story of the Twitter Attack From the Inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
 * [Why Trump’s Attacks on John Roberts Aren’t Working With Some Conservatives](https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Au Pairs, in an Altered America](https://www.nytimes.com/2020/07/17/style/this-is-not-the-america-these-au-pairs-were-expecting.html)
 * [As Galleries Reopen, Two Critics Find Rewards Eclipse the Angst](https://www.nytimes.com/2020/07/16/arts/design/art-galleries-reopen-nyc.html)
 * [At Old St. Pat’s, a History of Defiance](https://www.nytimes.com/2020/07/17/realestate/at-old-st-pats-a-history-of-defiance.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [O que se sabe sobre o 'Rambo da Floresta Negra' preso após mega operação de 5 dias na Alemanha](https://epoca.globo.com/mundo/o-que-se-sabe-sobre-rambo-da-floresta-negra-preso-apos-mega-operacao-de-5-dias-na-alemanha-24539395)
+* [MPF recomenda mudança em parecer que exclui alunos com deficiência de retorno às aulas presenciais](https://oglobo.globo.com/sociedade/mpf-recomenda-mudanca-em-parecer-que-exclui-alunos-com-deficiencia-de-retorno-as-aulas-presenciais-24539392)
+* [Maior investimento da história do Benfica, Jesus pode assinar no dia de seu aniversário](https://oglobo.globo.com/esportes/maior-investimento-da-historia-do-benfica-jesus-pode-assinar-no-dia-de-seu-aniversario-24539400)
 * [Claro, TIM e Vivo querem fatiar operação de celular da Oi](https://oglobo.globo.com/economia/claro-tim-vivo-querem-fatiar-operacao-de-celular-da-oi-24539389)
 * [Quarentena no divã: 'Angústia, depressão, melancolia e gasto psíquico com higienização das compras', diz psicanalista](https://oglobo.globo.com/cultura/quarentena-no-diva-angustia-depressao-melancolia-gasto-psiquico-com-higienizacao-das-compras-diz-psicanalista-24539388)
 * [Morre aos 80 anos o congressista John Lewis, último símbolo da geração de Martin Luther King](https://oglobo.globo.com/mundo/morre-aos-80-anos-congressista-john-lewis-ultimo-simbolo-da-geracao-de-martin-luther-king-24539377)
 * [Embaixador do Brasil boicotou evento que homenageou Marielle em Paris](https://epoca.globo.com/brasil/embaixador-do-brasil-boicotou-evento-que-homenageou-marielle-em-paris-24539374)
 * [Apesar de autorização da prefeitura, principais pontos turísticos do Rio decidem reabrir só em agosto](https://oglobo.globo.com/rio/apesar-de-autorizacao-da-prefeitura-principais-pontos-turisticos-do-rio-decidem-reabrir-so-em-agosto-24539376)
-* [Reino Unido suspende atualização de dados sobre mortes por Covid-19](https://oglobo.globo.com/mundo/reino-unido-suspende-atualizacao-de-dados-sobre-mortes-por-covid-19-24539370)
-* [Boletim das 8h: Brasil tem 2.049.140 casos e 77.964 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2049140-casos-77964-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24539325)
-* [Carioca passa a integrar júri do Grammy](https://epoca.globo.com/guilherme-amado/carioca-passa-integrar-juri-do-grammy-24538700)
 * [‘O antônimo da alegria não é a tristeza, mas a apatia e a desistência’, diz Nilton Bonder, que lança novo livro](https://oglobo.globo.com/sociedade/o-antonimo-da-alegria-nao-a-tristeza-mas-apatia-a-desistencia-diz-nilton-bonder-que-lanca-novo-livro-24535877)
 * ['Decepcionado' com as Forças Armadas, Ciro Gomes tenta se construir como terceira via contra Lula e Bolsonaro](https://epoca.globo.com/guilherme-amado/decepcionado-com-as-forcas-armadas-ciro-gomes-tenta-se-construir-como-terceira-via-contra-lula-bolsonaro-24537030)

@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 16:13:12 UTC
+# indexed at 18/07/2020 16:34:23 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Booting to 'Hello Rust' on x86_64](https://micouy.github.io/posts/low-level-pt-1/)
 * [Mormonism and Multilevel Marketing Companies](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/institutions-the-social-capital-structure-and-multilevel-marketing-companies/D9F67620E7B64D6B473A348C0C2273FA)
+* [Booting to 'Hello Rust' on x86_64](https://micouy.github.io/posts/low-level-pt-1/)
 * [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [Show HN: I made an elegant SwiftUI timeline](https://github.com/ThasianX/ElegantTimeline-SwiftUI)
 * [NoiseTorch: Real-time microphone noise suppression on Linux written in Go](https://github.com/lawl/NoiseTorch)
-* [Hospitals Are Suddenly Short of Young Doctors Because of Visa Ban](https://www.propublica.org/article/hospitals-are-suddenly-short-of-young-doctors-because-of-trumps-visa-ban)
-* [Beast of Gévaudan](https://www.history.com/news/beast-gevaudan-france-theories)
-* [Kubectl – Configuration Guide](https://knowledgepill.it/posts/kubernetes-kubectl-client-config/)
-* [Krita, OpenGL and Qt](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
-* [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
-* [I lost my boyfriend to cancer 'conspiracy theories’](https://www.bbc.co.uk/bbcthree/article/72396917-47b0-4aac-856f-e213c3a0c3fa)
-* [Swiss Political System: More Than You Ever Wanted to Know](http://250bpm.com/blog:161)
 * [Learning Graph Structure with a Finite-State Automaton Layer](https://arxiv.org/abs/2007.04929)
+* [Hospitals Are Suddenly Short of Young Doctors Because of Visa Ban](https://www.propublica.org/article/hospitals-are-suddenly-short-of-young-doctors-because-of-trumps-visa-ban)
+* [Kubectl – Configuration Guide](https://knowledgepill.it/posts/kubernetes-kubectl-client-config/)
+* [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
+* [Krita, OpenGL and Qt](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
+* [Beast of Gévaudan](https://www.history.com/news/beast-gevaudan-france-theories)
+* [Swiss Political System: More Than You Ever Wanted to Know](http://250bpm.com/blog:161)
+* [I lost my boyfriend to cancer 'conspiracy theories’](https://www.bbc.co.uk/bbcthree/article/72396917-47b0-4aac-856f-e213c3a0c3fa)
 * [Kinetic Artwork Attempts to Get a ‘Little Piece of Privacy’](https://www.thisiscolossal.com/2020/02/niklas-roy-little-piece-privacy/)
 * [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
+* [Sequential Consistency in Practice](https://www.ldelossa.is/blog/sequential-consistency-in-practice)
 * [Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
-* [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
-* [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
-* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [Mormons Built the Next Silicon Valley While No One Was Looking](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478)
 * [IBM Power System E980 – Up to 64TB RAM per node [pdf]](http://www.redbooks.ibm.com/redpapers/pdfs/redp5510.pdf)
+* [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
+* [The brain's 7D sandcastles could be the key to consciousness (2017)](https://www.newscientist.com/article/mg23531450-200-the-brains-7d-sandcastles-could-be-the-key-to-consciousness/)
+* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Logged out](https://patwalls.com/logged-out)
 * [Show HN: I built a free, simple login service. Would you use this?](https://login.land/)
-* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
-* [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
-* [The brain's 7D sandcastles could be the key to consciousness (2017)](https://www.newscientist.com/article/mg23531450-200-the-brains-7d-sandcastles-could-be-the-key-to-consciousness/)
-* [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
+* [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
+* [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 ## nytimes.com
 
@@ -59,13 +59,13 @@ layout: default
 * [John Lewis Risked His Life for Justice](https://www.nytimes.com/2020/07/17/opinion/john-lewis.html)
 * [Anthony Fauci Versus Donald Trump](https://www.nytimes.com/2020/07/18/opinion/fauci-trump-coronavirus.html)
 * [50 Nights of Unrest in Portland](https://www.nytimes.com/2020/07/17/opinion/portland-protests-federal-agents.html)
+* [With the Coronavirus Pandemic, Republicans Are Flunking Microbe Economics](https://www.nytimes.com/2020/07/18/opinion/republicans-keep-flunking-microbe-economics.html)
 * [The Tenacity of the Franco-American Ideal](https://www.nytimes.com/2020/07/17/opinion/france-america-thomas-jefferson-race.html)
 * [I’m a Black Police Officer. Here’s How to Change the System.](https://www.nytimes.com/2020/07/16/opinion/police-funding-defund.html)
+* [American Crime and the Baltimore Model](https://www.nytimes.com/2020/07/17/opinion/policing-crime-baltimore.html)
 * [The Justice Department’s Shameful Rush to Federal Executions](https://www.nytimes.com/2020/07/17/opinion/justice-department-federal-execution.html)
 * [Our Life Was Languid. Then My Daughter’s Family Moved In.](https://www.nytimes.com/2020/07/17/opinion/coronavirus-family.html)
 * [The Legal System Should Not Be a Tool for Bullies](https://www.nytimes.com/2020/07/17/opinion/new-york-slapp-frivolous-lawsuits.html)
-* [Do Progressives Have a Free Speech Problem?](https://www.nytimes.com/2020/07/17/opinion/harpers-letter-free-speech.html)
-* [American Crime and the Baltimore Model](https://www.nytimes.com/2020/07/17/opinion/policing-crime-baltimore.html)
 * [‘White Fragility’ Is Everywhere. But Does Antiracism Training Work?](https://www.nytimes.com/2020/07/15/magazine/white-fragility-robin-diangelo.html)
 * [A Vintage Vampire-Slaying Kit Is Up for Auction](https://www.nytimes.com/2020/07/18/arts/vampire-slaying-kit-auction-uk.html)
 * [Amid the Storm, Dave Dombrowski Plots an M.L.B. Future in Nashville](https://www.nytimes.com/2020/07/16/sports/baseball/mlb-expansion-nashville.html)
@@ -78,11 +78,11 @@ layout: default
 * [For Families of 9/11 Victims, Virus Further Slows the Pace of Justice](https://www.nytimes.com/2020/07/18/us/politics/coronavirus-guantanamo-911-victims.html)
 * [How PG&E Is Racing to Improve Safety as Fire Season Approaches](https://www.nytimes.com/2020/07/18/business/energy-environment/pge-wildfire-california-summer.html)
 * [Why Trump’s Attacks on John Roberts Aren’t Working With Some Conservatives](https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Au Pairs, in an Altered America](https://www.nytimes.com/2020/07/17/style/this-is-not-the-america-these-au-pairs-were-expecting.html)
 * [As Galleries Reopen, Two Critics Find Rewards Eclipse the Angst](https://www.nytimes.com/2020/07/16/arts/design/art-galleries-reopen-nyc.html)
 * [At Old St. Pat’s, a History of Defiance](https://www.nytimes.com/2020/07/17/realestate/at-old-st-pats-a-history-of-defiance.html)
@@ -101,6 +101,7 @@ layout: default
 ## globo.com
 
 
+* [Boletim das 13h: Brasil tem 2.048.697 casos e 165 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-13h-brasil-tem-2048697-casos-165-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24539456)
 * [Formula 1: no GP da Hungria, Hamilton faz história com 90ª pole position da carreira](https://oglobo.globo.com/esportes/formula-1-no-gp-da-hungria-hamilton-faz-historia-com-90-pole-position-da-carreira-24539444)
 * [Pós-quarentena no divã: 'Desejo de viver intensamente, como se a vida tivesse ficado devendo', diz psicanalista](https://oglobo.globo.com/cultura/pos-quarentena-no-diva-desejo-de-viver-intensamente-como-se-vida-tivesse-ficado-devendo-diz-psicanalista-24539388)
 * [Casos de possível reinfecção por coronavírus são investigados no Hospital das Clínicas em São Paulo](https://oglobo.globo.com/sociedade/casos-de-possivel-reinfeccao-por-coronavirus-sao-investigados-no-hospital-das-clinicas-em-sao-paulo-24539419)
@@ -109,5 +110,4 @@ layout: default
 * [Maior investimento da história do Benfica, Jesus pode assinar no dia de seu aniversário](https://oglobo.globo.com/esportes/maior-investimento-da-historia-do-benfica-jesus-pode-assinar-no-dia-de-seu-aniversario-24539400)
 * [MPF recomenda mudança em parecer que exclui alunos com deficiência de retorno às aulas presenciais](https://oglobo.globo.com/sociedade/mpf-recomenda-mudanca-em-parecer-que-exclui-alunos-com-deficiencia-de-retorno-as-aulas-presenciais-24539392)
 * [Claro, TIM e Vivo querem fatiar operação de celular da Oi](https://oglobo.globo.com/economia/claro-tim-vivo-querem-fatiar-operacao-de-celular-da-oi-24539389)
-* [‘O antônimo da alegria não é a tristeza, mas a apatia e a desistência’, diz Nilton Bonder, que lança novo livro](https://oglobo.globo.com/sociedade/o-antonimo-da-alegria-nao-a-tristeza-mas-apatia-a-desistencia-diz-nilton-bonder-que-lanca-novo-livro-24535877)
 * ['Decepcionado' com as Forças Armadas, Ciro Gomes tenta se construir como terceira via contra Lula e Bolsonaro](https://epoca.globo.com/guilherme-amado/decepcionado-com-as-forcas-armadas-ciro-gomes-tenta-se-construir-como-terceira-via-contra-lula-bolsonaro-24537030)

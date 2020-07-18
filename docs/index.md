@@ -2,46 +2,47 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 04:13:30 UTC
+# indexed at 18/07/2020 04:34:40 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
-* [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [Krita, OpenGL and Qt](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
+* [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
+* [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
-* [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
+* [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
+* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
-* [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
 * [Ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 * [John Lewis, civil rights icon and longtime US congressman, dies](https://www.politico.com/news/2020/07/17/john-lewis-obit-civil-rights-congress-036212)
+* [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
 * [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/)
 * [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
-* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
-* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
-* [Flexport is hiring software engineers for our platform for global trade](https://www.flexport.com/careers/department/engineering)
 * [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
-* [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
-* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
-* [RecordRTC: JavaScript library for audio, video, screen, and canvas recording](https://recordrtc.org/)
+* [Flexport is hiring software engineers for our platform for global trade](https://www.flexport.com/careers/department/engineering)
+* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
+* [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees)
+* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
 * [What changed in OpenSSL after heartbleed](https://arxiv.org/abs/2005.14242)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [Suspect is arrested in grisly killing of tech CEO Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-murder-arrest-tyrese-devon-haspil.html)
+* [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
 ## nytimes.com
 
 
 * [John Lewis, Towering Figure of Civil Rights Era, Dies at 80](https://www.nytimes.com/2020/07/17/us/john-lewis-dead.html)
+* [Still Marching on Washington, 50 Years Later](https://www.nytimes.com/2013/08/14/us/politics/50-years-later-fighting-the-same-civil-rights-battle.html)
 * [Coronavirus Live Updates: Newsom Announces Rules Forcing Most California Schools to Start Remotely](https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html)
 * [No Bleach and Dirty Rags: How Some Janitors Are Asked to Keep You Virus-Free](https://www.nytimes.com/2020/07/17/us/coronavirus-janitors.html)
 * [Newsom Order Would Keep Most California Schools Online](https://www.nytimes.com/2020/07/17/us/california-schools-reopening-newsom.html)
@@ -80,11 +81,11 @@ layout: default
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [Queen Knights Captain Tom, in a Rare Public Appearance](https://www.nytimes.com/2020/07/17/world/europe/queen-knights-captain-tom.html)
 * [Democrats Eye Trump’s Game Plan to Reverse Late Rule Changes](https://www.nytimes.com/2020/07/17/climate/trump-regulations-election.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Fary Isn’t Joking About Race in France Right Now](https://www.nytimes.com/2020/07/17/arts/fary-standup-france.html)
 * [Shakespeare Lost His Son to Plague. A Novel Asks How It Shaped His Art.](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [When a Corporate Picnic Plus Shakespeare Is Anything but Routine](https://www.nytimes.com/2020/07/16/theater/shakespeare-in-the-park-cantor-fitzgerald.html)

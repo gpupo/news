@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 12:16:27 UTC
+# indexed at 18/07/2020 12:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
-* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [NoiseTorch: Real-time microphone noise suppression on Linux written in Go](https://github.com/lawl/NoiseTorch)
 * [Krita, OpenGL and Qt](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
 * [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
 * [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
+* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
 * [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
@@ -20,24 +20,24 @@ layout: default
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
 * [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
-* [Amazon soya and beef exports 'linked to deforestation'](https://www.bbc.com/news/science-environment-53438680)
 * [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
-* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
-* [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
 * [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
-* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
+* [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
-* [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
+* [U.S. Ranked Worst for Workers’ Rights Among Major Economies](https://www.bloomberg.com/news/articles/2020-06-18/u-s-ranked-worst-for-workers-rights-among-major-economies)
 * [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
+* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
+* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
+* [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
 * [The explosion of new coronavirus tests that could help to end the pandemic](https://www.nature.com/articles/d41586-020-02140-8)
+* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
-* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
-* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [Amazon soya and beef exports 'linked to deforestation'](https://www.bbc.com/news/science-environment-53438680)
 * [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
-* [Things I wish I’d known about CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 ## nytimes.com
 
 
@@ -78,20 +78,20 @@ layout: default
 * [For Families of 9/11 Victims, Virus Further Slows the Pace of Justice](https://www.nytimes.com/2020/07/18/us/politics/for-families-of-9-11-victims-virus-further-slows-the-pace-of-justice.html)
 * [Hackers Tell the Story of the Twitter Attack From the Inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
 * [Why Trump’s Attacks on John Roberts Aren’t Working With Some Conservatives](https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Au Pairs, in an Altered America](https://www.nytimes.com/2020/07/17/style/this-is-not-the-america-these-au-pairs-were-expecting.html)
 * [As Galleries Reopen, Two Critics Find Rewards Eclipse the Angst](https://www.nytimes.com/2020/07/16/arts/design/art-galleries-reopen-nyc.html)
 * [At Old St. Pat’s, a History of Defiance](https://www.nytimes.com/2020/07/17/realestate/at-old-st-pats-a-history-of-defiance.html)
 * [The N.B.A. Bubble Is in the Magic’s Backyard. But They’re Not Quite at Home.](https://www.nytimes.com/2020/07/17/sports/nba-bubble-orlando-magic.html)
 * [‘Richard II’ Review: A Radio King With a Tottering Crown](https://www.nytimes.com/2020/07/17/theater/richard-ii-review-andre-holland.html)
+* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
 * [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
 * [Closest Pictures Ever Taken of Sun Show Tiny Campfire Flares](https://www.nytimes.com/2020/07/16/science/solar-orbiter-sun-images.html)
 * [California’s ‘Bear Whisperer’ Is Out of a Job](https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html)
-* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [The End of Expanded Unemployment Benefits Is the Next Disaster](https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

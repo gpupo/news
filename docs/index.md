@@ -2,47 +2,48 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 01:13:39 UTC
+# indexed at 18/07/2020 01:34:47 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Levandowski files suit against Uber. Says he's owed $4.1B (.docx file)](https://filebin.ca/5Tmq93EmU5FZ/Levandowski-Uber-Complaint.docx)
 * [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
-* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Incident Report for Cloudflare](https://www.cloudflarestatus.com/incidents/b888fyhbygb8)
+* [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
-* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
-* [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
 * [Ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
+* [WebTorrent Desktop 0.23.0](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
-* [Levandowski files suit against Uber. Says he's owed $4.1B](https://filebin.ca/5Tmq93EmU5FZ/Levandowski-Uber-Complaint.docx)
+* [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
+* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/)
 * [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
-* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
-* [Cloudflare was down](https://www.cloudflarestatus.com/?hn=2020)
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees)
 * [RecordRTC: JavaScript library for audio, video, screen, and canvas recording](https://recordrtc.org/)
 * [The Oldschool PC Font Pack v2.0](https://int10h.org/oldschool-pc-fonts/readme/)
-* [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
+* [Cloudflare was down](https://www.cloudflarestatus.com/?hn=2020)
 * [What changed in OpenSSL after heartbleed](https://arxiv.org/abs/2005.14242)
 * [How the heart influences what we perceive and fear](https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/)
-* [A new and improved Twitter API](https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html)
+* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
+* [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
 * [Suspect is arrested in grisly killing of tech CEO Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-murder-arrest-tyrese-devon-haspil.html)
-* [Hackers tell the story of the Twitter attack from the inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
+* [A new and improved Twitter API](https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html)
 * [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
 * [Scientists uncover first atomic structure of Epstein-Bar virus nucleocapsid](https://phys.org/news/2020-07-scientists-uncover-atomic-epstein-bar-virus.html)
 * [Lessons from the awkward life and death of the Segway](https://www.bloomberg.com/news/articles/2020-07-15/rip-segway-the-dorky-grandfather-of-micromobility)
-* [RFC 8799: Limited Domains and Internet Protocols](https://www.rfc-editor.org/rfc/rfc8799.txt)
 * [Improving Performance of PHP for Arm64 and Impact on Amazon EC2 M6g Instances](https://idk.dev/improving-performance-of-php-for-arm64-and-impact-on-amazon-ec2-m6g-instances/)
+* [Show HN: A simple, free yoga practice app for everyone](https://www.dosome.yoga)
 ## nytimes.com
 
 
 * [Portland Protests: Local Leaders Urging Feds to Leave](https://www.nytimes.com/2020/07/17/us/portland-protests.html)
 * [Were the Actions of Federal Agents in Portland Legal?](https://www.nytimes.com/2020/07/17/us/politics/federal-agents-portland-arrests.html)
+* [Pentagon Sidesteps Trump to Ban the Confederate Flag](https://www.nytimes.com/2020/07/17/us/politics/pentagon-trump-confederate-symbols.html)
 * [Coronavirus Live Updates: Newsom Announces Rules Forcing Most California Schools to Start Remotely](https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html)
 * [No Bleach and Dirty Rags: How Some Janitors Are Asked to Keep You Virus-Free](https://www.nytimes.com/2020/07/17/us/coronavirus-janitors.html)
 * [New York City Eases Into Phase 4 of Reopening, but Indoor Limits Remain](https://www.nytimes.com/2020/07/17/nyregion/phase-4-nyc-reopen.html)
@@ -73,24 +74,24 @@ layout: default
 * [Dustin Honken Executed: Third Federal Government Execution This Week](https://www.nytimes.com/2020/07/17/us/dustin-honken-federal-execution.html)
 * [Breonna Taylor Shooting: Prosecutors Drop Felony Charges Against 87 Protesters](https://www.nytimes.com/2020/07/17/us/breonna-taylor-louisville-protests.html)
 * [Biden’s School Plan Draws Clear Contrast With Trump’s](https://www.nytimes.com/2020/07/17/us/politics/biden-schools-reopening.html)
-* [Business Updates: Mnuchin Tells Congress More Stimulus Is Needed](https://www.nytimes.com/live/2020/07/17/business/stock-market-today-coronavirus)
+* [2 White Men Charged After Helping Pin Black Man to a Tree in Indiana, Officials Say](https://www.nytimes.com/2020/07/17/us/bloomington-indiana-vauhxx-booker.html)
 * [David Kaiser, Rockefeller Heir Who Fought Exxon Mobil, Dies at 50](https://www.nytimes.com/2020/07/16/business/energy-environment/david-kaiser-dead.html)
 * [Voices From Travel’s Front Lines: ‘We Walk in Fear, We Work in Fear’](https://www.nytimes.com/2020/07/17/travel/coronavirus-travel-hospitality-workers.html)
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [Queen Knights Captain Tom, in a Rare Public Appearance](https://www.nytimes.com/2020/07/17/world/europe/queen-knights-captain-tom.html)
 * [Democrats Eye Trump’s Game Plan to Reverse Late Rule Changes](https://www.nytimes.com/2020/07/17/climate/trump-regulations-election.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Fary Isn’t Joking About Race in France Right Now](https://www.nytimes.com/2020/07/17/arts/fary-standup-france.html)
 * [Shakespeare Lost His Son to Plague. A Novel Asks How It Shaped His Art.](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [When a Corporate Picnic Plus Shakespeare Is Anything but Routine](https://www.nytimes.com/2020/07/16/theater/shakespeare-in-the-park-cantor-fitzgerald.html)
 * [A Portuguese Artist’s Chilled Tomato Soup](https://www.nytimes.com/2020/07/17/t-magazine/summer-recipes-arjamolho-soup-vanessa-barragao.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Supermarket Sweep’](https://www.nytimes.com/2020/07/17/arts/television/supermarket-sweep-netflix-amazon.html)
-* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
+* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
 * [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
 * [White Supremacy Was Her World. And Then She Left.](https://www.nytimes.com/2020/07/17/opinion/white-supremacy-hate-movements.html)
@@ -100,6 +101,7 @@ layout: default
 ## globo.com
 
 
+* [Carlos desiste de morar em Brasília e diz que concorrerá a reeleição no Rio](https://oglobo.globo.com/brasil/carlos-desiste-de-morar-em-brasilia-diz-que-concorrera-reeleicao-no-rio-24538952)
 * [Fiscais são aplaudidos por frequentadores de bares no Leblon, em clima diferente da outra fase da flexibilização](https://oglobo.globo.com/rio/fiscais-sao-aplaudidos-por-frequentadores-de-bares-no-leblon-em-clima-diferente-da-outra-fase-da-flexibilizacao-24538889)
 * [STF encaminha à PGR notícia-crime contra ministra Damares Alves](https://oglobo.globo.com/brasil/stf-encaminha-pgr-noticia-crime-contra-ministra-damares-alves-24538865)
 * [Boletim das 20h: Brasil se aproxima de 78 mil mortes por Covid-19, aponta consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/boletim-das-20h-brasil-se-aproxima-de-78-mil-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-24538617)
@@ -109,4 +111,3 @@ layout: default
 * [Em meio a imbróglio, administração da Cinemateca se nega a entregar chaves a Mario Frias](https://oglobo.globo.com/cultura/em-meio-imbroglio-administracao-da-cinemateca-se-nega-entregar-chaves-mario-frias-24538697)
 * [Pandemia, família, longo prazo: entenda por que Jesus trocou o Flamengo pelo Benfica](https://oglobo.globo.com/esportes/pandemia-familia-longo-prazo-entenda-por-que-jesus-trocou-flamengo-pelo-benfica-24538662)
 * [Universitários do ensino privado reivindicam auxílio emergencial estudantil para cursar a graduação durante a pandemia](https://oglobo.globo.com/sociedade/universitarios-do-ensino-privado-reivindicam-auxilio-emergencial-estudantil-para-cursar-graduacao-durante-pandemia-24536597)
-* [Após aumento de cães e gatos abandonados durante pandemia, secretaria cria catálogo virtual para incentivar adoção](https://oglobo.globo.com/rio/apos-aumento-de-caes-gatos-abandonados-durante-pandemia-secretaria-cria-catalogo-virtual-para-incentivar-adocao-24538270)

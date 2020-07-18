@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 20:34:35 UTC
+# indexed at 18/07/2020 21:12:24 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Hugelkultur: The Raised Garden Beds](https://richsoil.com/hugelkultur/)
+* [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 * [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [Notable – A Markdown-based note-taking app](https://github.com/notable/notable)
 * [Dixie cups became the breakout startup of the 1918 pandemic](https://www.fastcompany.com/90520298/how-dixie-cups-became-the-breakout-startup-of-the-1918-pandemic)
 * [Booting to 'Hello Rust' on x86_64](https://micouy.github.io/posts/low-level-pt-1/)
+* [Could IPO’s be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
 * [The Intel 8086 processor's registers: from chip to transistors](http://www.righto.com/2020/07/the-intel-8086-processors-registers.html)
-* [How Mormons built a startup ecosystem in Utah](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478)
+* [When Chevrolet Ruled Uzbekistan (2019)](https://www.ozy.com/flashback/how-chevrolet-ruled-uzbekistan/94984)
 * [Typed Lisp, a Primer (2019)](https://alhassy.github.io/TypedLisp.html)
+* [Swiss Political System: More Than You Ever Wanted to Know](http://250bpm.com/blog:161)
+* [How Mormons built a startup ecosystem in Utah](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478)
 * [Samsung Blu-ray players bricked because of an XML config file](https://www.theregister.com/2020/07/18/samsung_bluray_mass_dieoff_explained/)
 * [NoiseTorch: Real-time microphone noise suppression on Linux written in Go](https://github.com/lawl/NoiseTorch)
 * [Windows on Raspberry](https://www.worproject.ml/)
-* [Ask HN: Google removed my site from search results, what can I do?](https://news.ycombinator.com/item?id=23872811)
+* [Views on Error Handling](https://dannas.name/error-handling)
 * [Ancient human ancestors carved handaxe from a hippo femur 1.4M years ago: study](https://edition.cnn.com/2020/07/17/world/ancient-tool-hippo-handaxe-scn-trnd/index.html)
-* [Instant access to your shell init files](http://emacsredux.com/blog/2020/07/16/instant-access-to-your-shell-init-files/)
+* [How to speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+* [Ask HN: Google removed my site from search results, what can I do?](https://news.ycombinator.com/item?id=23872811)
+* [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [Learning Graph Structure with a Finite-State Automaton Layer](https://arxiv.org/abs/2007.04929)
-* [Writing with Synesthesia, Seeing Colors in Music](https://americansongwriter.com/finneas-on-synesthesia/)
-* [Falsehoods programmers believe about build systems (2012)](https://pozorvlak.dreamwidth.org/174323.html)
-* [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
 * [Team Improvement Techniques](http://www.dcaulfield.com/team-improvement-techniques/)
-* [Kubectl – Configuration Guide](https://knowledgepill.it/posts/kubernetes-kubectl-client-config/)
+* [PIFuHD: High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
+* [Instant access to your shell init files](http://emacsredux.com/blog/2020/07/16/instant-access-to-your-shell-init-files/)
+* [Writing with Synesthesia, Seeing Colors in Music](https://americansongwriter.com/finneas-on-synesthesia/)
+* [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
 * [The brain's 7D sandcastles could be the key to consciousness (2017)](https://www.newscientist.com/article/mg23531450-200-the-brains-7d-sandcastles-could-be-the-key-to-consciousness/)
 * [The History of the Picnic (2019)](https://www.historytoday.com/archive/historians-cookbook/history-picnic)
+* [Falsehoods programmers believe about build systems (2012)](https://pozorvlak.dreamwidth.org/174323.html)
 * [Did Einstein say that?: Testing content vs. context in quotations (2017)](https://osf.io/preprints/socarxiv/x8db2/)
 * [What Was the Beast of Gévaudan?](https://www.history.com/news/beast-gevaudan-france-theories)
-* [Ask HN: Dynamic memory/CPU provisioning for VMs?](https://news.ycombinator.com/item?id=23882896)
-* [Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [Hospitals are suddenly short of young doctors because of visa ban](https://www.propublica.org/article/hospitals-are-suddenly-short-of-young-doctors-because-of-trumps-visa-ban)
-* [Swiss Political System: More Than You Ever Wanted to Know](http://250bpm.com/blog:161)
-* [Kinetic Artwork Attempts to Get a ‘Little Piece of Privacy’](https://www.thisiscolossal.com/2020/02/niklas-roy-little-piece-privacy/)
-* [Sequential Consistency in Practice](https://www.ldelossa.is/blog/sequential-consistency-in-practice)
 ## nytimes.com
 
 
@@ -79,18 +79,18 @@ layout: default
 * [Washington N.F.L. Harassment Report Shocked Many, but Not Women](https://www.nytimes.com/2020/07/17/sports/football/sexual-harassment-washington-dan-snyder.html)
 * [How PG&E Is Racing to Improve Safety as Fire Season Approaches](https://www.nytimes.com/2020/07/18/business/energy-environment/pge-wildfire-california-summer.html)
 * [As Seasonal Rains Fall, Dispute Over Nile Dam Rushes Toward a Reckoning](https://www.nytimes.com/2020/07/18/world/middleeast/nile-dam-egypt-ethiopia.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Au Pairs, in an Altered America](https://www.nytimes.com/2020/07/17/style/this-is-not-the-america-these-au-pairs-were-expecting.html)
 * [As Galleries Reopen, Two Critics Find Rewards Eclipse the Angst](https://www.nytimes.com/2020/07/16/arts/design/art-galleries-reopen-nyc.html)
 * [At Old St. Pat’s, a History of Defiance](https://www.nytimes.com/2020/07/17/realestate/at-old-st-pats-a-history-of-defiance.html)
 * [The N.B.A. Bubble Is in the Magic’s Backyard. But They’re Not Quite at Home.](https://www.nytimes.com/2020/07/17/sports/nba-bubble-orlando-magic.html)
 * [‘Richard II’ Review: A Radio King With a Tottering Crown](https://www.nytimes.com/2020/07/17/theater/richard-ii-review-andre-holland.html)
-* [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
 * [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
+* [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
 * [California’s ‘Bear Whisperer’ Is Out of a Job](https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html)
 * [Closest Pictures Ever Taken of Sun Show Tiny Campfire Flares](https://www.nytimes.com/2020/07/16/science/solar-orbiter-sun-images.html)
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Flamengo prepara investida europeia e traça busca por treinador 'estilo Jesus'](https://oglobo.globo.com/esportes/flamengo-prepara-investida-europeia-traca-busca-por-treinador-estilo-jesus-24539851)
+* [‘Envergonhado’, Twitter informa que dados foram roubados em ataque hacker](https://oglobo.globo.com/economia/tecnologia/envergonhado-twitter-informa-que-dados-foram-roubados-em-ataque-hacker-24539871)
+* [Servidores do estado têm cobrança de empréstimo consignado suspensa por quatro meses](https://oglobo.globo.com/rio/servidores-do-estado-tem-cobranca-de-emprestimo-consignado-suspensa-por-quatro-meses-24539804)
 * [São Paulo já tem quase 20 mil mortos por Covid-19](https://oglobo.globo.com/sociedade/sao-paulo-ja-tem-quase-20-mil-mortos-por-covid-19-24539727)
-* [Governador do Rio suspende cobrança de empréstimo consignado por quatro meses](https://oglobo.globo.com/rio/governador-do-rio-suspende-cobranca-de-emprestimo-consignado-por-quatro-meses-24539804)
 * [Atuação da Lava-Jato em SP é questionada no Conselho Nacional do Ministério Público](https://oglobo.globo.com/brasil/atuacao-da-lava-jato-em-sp-questionada-no-conselho-nacional-do-ministerio-publico-24539572)
 * [Em rara aparição aos 83 anos, Sergio Cabral conta como era sua relação com Elizeth Cardoso](https://oglobo.globo.com/cultura/em-rara-aparicao-aos-83-anos-sergio-cabral-conta-como-era-sua-relacao-com-elizeth-cardoso-24539568)
 * [Coronavírus: Como o Chile precisou mudar estratégia contra a covid-19 após disparada de casos](https://epoca.globo.com/mundo/coronavirus-como-chile-precisou-mudar-estrategia-contra-covid-19-apos-disparada-de-casos-24539574)
 * [Décima vítima de intoxicação por cerveja da Backer morre em BH](https://oglobo.globo.com/sociedade/decima-vitima-de-intoxicacao-por-cerveja-da-backer-morre-em-bh-24539564)
 * [Polícia francesa suspeita que incêndio na catedral de Nantes foi criminoso](https://oglobo.globo.com/mundo/policia-francesa-suspeita-que-incendio-na-catedral-de-nantes-foi-criminoso-24539536)
 * [Ex de Bolsonaro comprou terrenos em Resende por R$ 160 mil e revendeu por quase R$ 2 milhões](https://epoca.globo.com/brasil/ex-de-bolsonaro-comprou-terrenos-em-resende-por-160-mil-revendeu-por-quase-2-milhoes-24539537)
-* ['Tem que perguntar para o secretário de Saúde', diz Witzel sobre fechamento de hospitais de campanha](https://oglobo.globo.com/rio/tem-que-perguntar-para-secretario-de-saude-diz-witzel-sobre-fechamento-de-hospitais-de-campanha-24539509)
-* [Boletim das 13h: Brasil tem 2.048.697 casos e 165 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-13h-brasil-tem-2048697-casos-165-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24539456)

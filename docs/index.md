@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 09:12:43 UTC
+# indexed at 18/07/2020 09:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -18,24 +18,24 @@ layout: default
 * [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
-* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
+* [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
+* [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
 * [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [The explosion of new coronavirus tests that could help to end the pandemic](https://www.nature.com/articles/d41586-020-02140-8)
-* [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
-* [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/)
-* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
 * [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
+* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
+* [DuckDuckGo is experiencing an issue..that might prevent..results](https://twitter.com/DuckDuckGo/status/1284408766822113280)
 * [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
-* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
-* [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
-* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
+* [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
 * [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
-* [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
+* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
+* [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
 * [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
+* [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
 * [Things I wish I’d known about CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 * [Hackers tell the story of the Twitter attack from the inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
 ## nytimes.com
@@ -81,19 +81,19 @@ layout: default
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [Voices From Travel’s Front Lines: ‘We Walk in Fear, We Work in Fear’](https://www.nytimes.com/2020/07/17/travel/coronavirus-travel-hospitality-workers.html)
 * [Democrats Eye Trump’s Game Plan to Reverse Late Rule Changes](https://www.nytimes.com/2020/07/17/climate/trump-regulations-election.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Fary Isn’t Joking About Race in France Right Now](https://www.nytimes.com/2020/07/17/arts/fary-standup-france.html)
 * [Shakespeare Lost His Son to Plague. A Novel Asks How It Shaped His Art.](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [When a Corporate Picnic Plus Shakespeare Is Anything but Routine](https://www.nytimes.com/2020/07/16/theater/shakespeare-in-the-park-cantor-fitzgerald.html)
 * [A Portuguese Artist’s Chilled Tomato Soup](https://www.nytimes.com/2020/07/17/t-magazine/summer-recipes-arjamolho-soup-vanessa-barragao.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Supermarket Sweep’](https://www.nytimes.com/2020/07/17/arts/television/supermarket-sweep-netflix-amazon.html)
-* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
 * [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [The End of Expanded Unemployment Benefits Is the Next Disaster](https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,10 +102,10 @@ layout: default
 ## globo.com
 
 
+* [Ministério da Saúde disparou pedido pró-cloroquina a 20 destinatários](https://epoca.globo.com/guilherme-amado/ministerio-da-saude-disparou-pedido-pro-cloroquina-20-destinatarios-24538729)
 * [Especialistas criticam governo por querer desativar Hospitais de Campanha e defendem nova função para as unidades](https://oglobo.globo.com/rio/especialistas-criticam-governo-por-querer-desativar-hospitais-de-campanha-defendem-nova-funcao-para-as-unidades-24538862)
 * [Confira o que é permitido e ainda proibido no Rio neste fim de semana](https://oglobo.globo.com/rio/confira-que-permitido-ainda-proibido-no-rio-neste-fim-de-semana-1-24539161)
 * [Gente que faz cinema ou gosta da sétima arte conta como tem aproveitado a quarentena para produzir e consumir filmes](https://oglobo.globo.com/rio/bairros/gente-que-faz-cinema-ou-gosta-da-setima-arte-conta-como-tem-aproveitado-quarentena-para-produzir-consumir-filmes-1-24539105)
-* [‘Não vamos resolver nada tocando fogo no parquinho’, defende o deputado Arthur Lira](https://oglobo.globo.com/brasil/nao-vamos-resolver-nada-tocando-fogo-no-parquinho-defende-deputado-arthur-lira-24538660)
 * [Lições de Jorge Jesus ao futebol brasileiro](https://oglobo.globo.com/esportes/licoes-de-jorge-jesus-ao-futebol-brasileiro-24539007)
 * [Almejado por Weintraub, Banco Mundial defende confinamento até controle da Covid](https://epoca.globo.com/guilherme-amado/almejado-por-weintraub-banco-mundial-defende-confinamento-ate-controle-da-covid-24538773)
 * [Teste de vacina chinesa no Brasil atrai 1 milhão de candidatos em cinco dias](https://epoca.globo.com/sociedade/teste-de-vacina-chinesa-no-brasil-atrai-1-milhao-de-candidatos-em-cinco-dias-24537794)

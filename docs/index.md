@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 10:34:45 UTC
+# indexed at 18/07/2020 11:12:00 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [Krita, OpenGL and Qt](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
+* [NoiseTorch: Real-time microphone noise suppression on Linux written in Go](https://github.com/lawl/NoiseTorch)
 * [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
 * [Former ICANN CEO is now co-CEO of the private equity firm that tried to buy .org](https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/)
 * [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
 * [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
+* [Show HN: Simple Ops – My new microstartup after three years of indie hacking](https://simpleops.io/)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
 * [WebTorrent Desktop 0.23](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
-* [An issue with DuckDuckGo Search may prevent you from getting results](https://twitter.com/DuckDuckGo/status/1284408766822113280)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
+* [Amazon soya and beef exports 'linked to deforestation'](https://www.bbc.com/news/science-environment-53438680)
 * [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 * [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
 * [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
 * [Patent No. 1 – July 31, 1790](https://explorepahistory.com/displayimage.php?imgId=1-2-988)
-* [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
-* [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
-* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
-* [The explosion of new coronavirus tests that could help to end the pandemic](https://www.nature.com/articles/d41586-020-02140-8)
+* [Vue v3.0.0-RC.1](https://github.com/vuejs/vue-next/releases/tag/v3.0.0-rc.1)
+* [Adventures in Beam Optimization for MQTT](https://www.ably.io/blog/beam-optimization-mqtt/)
 * [Color-Changing Ink Turns Clothes into Giant Chemical Sensors](https://www.scientificamerican.com/article/color-changing-ink-turns-clothes-into-giant-chemical-sensors/)
+* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
 * [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
+* [The explosion of new coronavirus tests that could help to end the pandemic](https://www.nature.com/articles/d41586-020-02140-8)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
-* [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
 * [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
-* [Levandowski files suit against Uber [pdf]](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
+* [Quantum Computing May Help Us Study Quantum Gravity](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
 * [Things I wish I’d known about CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 * [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
-* [Hackers tell the story of the Twitter attack from the inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
 ## nytimes.com
 
 
@@ -88,10 +88,10 @@ layout: default
 * [At Old St. Pat’s, a History of Defiance](https://www.nytimes.com/2020/07/17/realestate/at-old-st-pats-a-history-of-defiance.html)
 * [The N.B.A. Bubble Is in the Magic’s Backyard. But They’re Not Quite at Home.](https://www.nytimes.com/2020/07/17/sports/nba-bubble-orlando-magic.html)
 * [‘Richard II’ Review: A Radio King With a Tottering Crown](https://www.nytimes.com/2020/07/17/theater/richard-ii-review-andre-holland.html)
-* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
-* [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
-* [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
+* [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
+* [California’s ‘Bear Whisperer’ Is Out of a Job](https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html)
+* [Closest Pictures Ever Taken of Sun Show Tiny Campfire Flares](https://www.nytimes.com/2020/07/16/science/solar-orbiter-sun-images.html)
 * [Tyrese Haspil Is Charged With Grisly Murder of Tech C.E.O. Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-suspect-tyrese-devon-haspil.html)
 * [The End of Expanded Unemployment Benefits Is the Next Disaster](https://www.nytimes.com/2020/07/16/opinion/coronavirus-economy-unemployment.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Show de talentos virtual estimula a imaginação do público infantil](https://oglobo.globo.com/rio/bairros/show-de-talentos-virtual-estimula-imaginacao-do-publico-infantil-24538302)
+* [Brasileiros em Angola negam ataques xenófobos após crise envolvendo Igreja Universal do Reino de Deus](https://epoca.globo.com/mundo/brasileiros-em-angola-negam-ataques-xenofobos-apos-crise-envolvendo-igreja-universal-do-reino-de-deus-24539335)
 * ['Bolsonaro usa futebol de maneira oportunista e demagógica', diz historiador](https://epoca.globo.com/brasil/bolsonaro-usa-futebol-de-maneira-oportunista-demagogica-diz-historiador-1-24539315)
 * [Ministério da Saúde disparou pedido pró-cloroquina a 20 destinatários](https://epoca.globo.com/guilherme-amado/ministerio-da-saude-disparou-pedido-pro-cloroquina-20-destinatarios-24538729)
+* [Ministério afirma que órgão que Regina Duarte assumirá tem 'mofo e pombo'](https://epoca.globo.com/guilherme-amado/ministerio-afirma-que-orgao-que-regina-duarte-assumira-tem-mofo-pombo-24538719)
 * [Quantos brasileiros concordam com a reabertura do comércio](https://epoca.globo.com/guilherme-amado/quantos-brasileiros-concordam-com-reabertura-do-comercio-24538674)
-* [Gente que faz cinema ou gosta da sétima arte conta como tem aproveitado a quarentena para produzir e consumir filmes](https://oglobo.globo.com/rio/bairros/gente-que-faz-cinema-ou-gosta-da-setima-arte-conta-como-tem-aproveitado-quarentena-para-produzir-consumir-filmes-1-24539105)
-* [Almejado por Weintraub, Banco Mundial defende confinamento até controle da Covid](https://epoca.globo.com/guilherme-amado/almejado-por-weintraub-banco-mundial-defende-confinamento-ate-controle-da-covid-24538773)
+* [Único sobrevivente da Primavera Árabe, Assad completa 20 anos no poder em meio a crise e poucos aliados](https://oglobo.globo.com/mundo/unico-sobrevivente-da-primavera-arabe-assad-completa-20-anos-no-poder-em-meio-crise-poucos-aliados-24538769)
 * [Crítica | O cinema de Jafar Panahi e o mundo confinado](https://epoca.globo.com/thiago-b-mendonca/critica-o-cinema-de-jafar-panahi-o-mundo-confinado-24538404)
-* [Teste de vacina chinesa no Brasil atrai 1 milhão de candidatos em cinco dias](https://epoca.globo.com/sociedade/teste-de-vacina-chinesa-no-brasil-atrai-1-milhao-de-candidatos-em-cinco-dias-24537794)
-* [Paciente sobrevive à Covid-19 após 51 dias intubado nos EUA](https://epoca.globo.com/mundo/paciente-sobrevive-covid-19-apos-51-dias-intubado-nos-eua-24537897)
+* [Coluna | As incertezas que desfilam pela Sapucaí](https://epoca.globo.com/lucas-prata/coluna-as-incertezas-que-desfilam-pela-sapucai-24538371)
 * [Pré-candidatos à prefeitura de Niterói atuam como blogueiros durante a pandemia](https://oglobo.globo.com/rio/bairros/pre-candidatos-prefeitura-de-niteroi-atuam-como-blogueiros-durante-pandemia-24538329)
-* [Novo escândalo sexual gera mobilização inédita do movimento #MeToo no Egito](https://oglobo.globo.com/celina/novo-escandalo-sexual-gera-mobilizacao-inedita-do-movimento-metoo-no-egito-24536210)

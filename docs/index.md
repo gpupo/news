@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/07/2020 01:34:47 UTC
+# indexed at 18/07/2020 02:14:02 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Levandowski files suit against Uber. Says he's owed $4.1B (.docx file)](https://filebin.ca/5Tmq93EmU5FZ/Levandowski-Uber-Complaint.docx)
-* [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
+* [Levandowski files suit against Uber (.docx file)](https://ipfs.eternum.io/ipfs/Qmd9PTEtuSrKKtJQw36aNzpjJwZAdCdwCmUn4w21mmq74z/Levandowski-Uber-Complaint-1.pdf)
 * [Incident Report for Cloudflare](https://www.cloudflarestatus.com/incidents/b888fyhbygb8)
+* [Powerful AI Can Now Be Trained on a Single Computer](https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer)
 * [NewPipe – ad-free, open-source Android YouTube client](https://newpipe.schabi.org/)
+* [WebTorrent Desktop 0.23.0](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
 * [Bare metal Smalltalk-80 port to the Raspberry Pi](https://github.com/michaelengel/crosstalk)
 * [Germany’s top financial supervisor dismissed a decade of warnings about Wirecard](https://www.wsj.com/articles/how-germanys-sec-dismissed-a-decade-of-warnings-about-wirecard-11594907212)
-* [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
 * [Lies, damn lies, and front-end tracking](http://alexeymk.com/2020/07/14/lies-damn-list-and-front-end-tracking.html)
-* [Ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
-* [WebTorrent Desktop 0.23.0](https://github.com/webtorrent/webtorrent-desktop/blob/master/CHANGELOG.md#v0230---2020-07-15)
+* [UFO VPN claims zero-logs policy, leaks 20M user logs](https://www.comparitech.com/blog/vpn-privacy/ufo-vpn-data-exposure/)
 * [How do I design a game from scratch? A primer on core loops](https://teamavocado.co/core-loop/)
 * [The Floggings Will Continue Until Morale Improves](https://quoteinvestigator.com/2020/07/15/morale/)
-* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
+* [Ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 * [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/)
 * [Launch HN: Mindset Health (YC S19) – Hypnotherapy apps for chronic conditions](https://news.ycombinator.com/item?id=23875636)
-* [Straightened Trees](http://danieltemkin.com/StraightenedTrees)
+* [Richard Feynman cut straight to the heart of complex ideas](https://www.eliotpeper.com/2020/07/how-to-make-sense-of-complex-ideas.html)
+* [A new material helps transistors become vanishingly small](https://www.economist.com/science-and-technology/2020/07/18/a-new-material-helps-transistors-become-vanishingly-small)
+* [Drug cartel ‘narco-antennas’ make life dangerous for Mexico’s repairmen](https://www.reuters.com/article/us-mexico-telecoms-cartels-specialreport/special-report-drug-cartel-narco-antennas-make-life-dangerous-for-mexicos-cell-tower-repairmen-idUSKCN24G1DN)
 * [RecordRTC: JavaScript library for audio, video, screen, and canvas recording](https://recordrtc.org/)
+* [Straightened Trees](http://danieltemkin.com/StraightenedTrees)
 * [The Oldschool PC Font Pack v2.0](https://int10h.org/oldschool-pc-fonts/readme/)
-* [Cloudflare was down](https://www.cloudflarestatus.com/?hn=2020)
 * [What changed in OpenSSL after heartbleed](https://arxiv.org/abs/2005.14242)
+* [Cloudflare was down](https://www.cloudflarestatus.com/?hn=2020)
 * [How the heart influences what we perceive and fear](https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/)
-* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
 * [What Is an Individual? Biology Seeks Clues in Information Theory](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
 * [Suspect is arrested in grisly killing of tech CEO Fahim Saleh](https://www.nytimes.com/2020/07/17/nyregion/fahim-saleh-murder-arrest-tyrese-devon-haspil.html)
-* [A new and improved Twitter API](https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html)
 * [The evidence which suggests that Covid-19 is not a naturally evolved virus [pdf]](https://www.minervanett.no/files/2020/07/13/TheEvidenceNoNaturalEvol.pdf)
-* [Scientists uncover first atomic structure of Epstein-Bar virus nucleocapsid](https://phys.org/news/2020-07-scientists-uncover-atomic-epstein-bar-virus.html)
+* [On eve of bankruptcy, US firms shower executives with bonuses](https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses/on-eve-of-bankruptcy-us-firms-shower-execs-with-bonuses-idUSKCN24I1EE)
 * [Lessons from the awkward life and death of the Segway](https://www.bloomberg.com/news/articles/2020-07-15/rip-segway-the-dorky-grandfather-of-micromobility)
-* [Improving Performance of PHP for Arm64 and Impact on Amazon EC2 M6g Instances](https://idk.dev/improving-performance-of-php-for-arm64-and-impact-on-amazon-ec2-m6g-instances/)
-* [Show HN: A simple, free yoga practice app for everyone](https://www.dosome.yoga)
+* [A new and improved Twitter API](https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html)
+* [Scientists uncover first atomic structure of Epstein-Bar virus nucleocapsid](https://phys.org/news/2020-07-scientists-uncover-atomic-epstein-bar-virus.html)
 ## nytimes.com
 
 
@@ -81,19 +81,19 @@ layout: default
 * [Queen Knights Captain Tom, in a Rare Public Appearance](https://www.nytimes.com/2020/07/17/world/europe/queen-knights-captain-tom.html)
 * [Democrats Eye Trump’s Game Plan to Reverse Late Rule Changes](https://www.nytimes.com/2020/07/17/climate/trump-regulations-election.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Fary Isn’t Joking About Race in France Right Now](https://www.nytimes.com/2020/07/17/arts/fary-standup-france.html)
 * [Shakespeare Lost His Son to Plague. A Novel Asks How It Shaped His Art.](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [When a Corporate Picnic Plus Shakespeare Is Anything but Routine](https://www.nytimes.com/2020/07/16/theater/shakespeare-in-the-park-cantor-fitzgerald.html)
 * [A Portuguese Artist’s Chilled Tomato Soup](https://www.nytimes.com/2020/07/17/t-magazine/summer-recipes-arjamolho-soup-vanessa-barragao.html)
 * [Comfort Viewing: 3 Reasons I Love ‘Supermarket Sweep’](https://www.nytimes.com/2020/07/17/arts/television/supermarket-sweep-netflix-amazon.html)
-* [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
-* [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
 * [Global Methane Emissions Reach a Record High](https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html)
+* [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
+* [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](https://www.nytimes.com/2020/07/14/science/white-fluffy-ant-wasp.html)
+* [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [White Supremacy Was Her World. And Then She Left.](https://www.nytimes.com/2020/07/17/opinion/white-supremacy-hate-movements.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,10 +101,10 @@ layout: default
 ## globo.com
 
 
-* [Carlos desiste de morar em Brasília e diz que concorrerá a reeleição no Rio](https://oglobo.globo.com/brasil/carlos-desiste-de-morar-em-brasilia-diz-que-concorrera-reeleicao-no-rio-24538952)
 * [Fiscais são aplaudidos por frequentadores de bares no Leblon, em clima diferente da outra fase da flexibilização](https://oglobo.globo.com/rio/fiscais-sao-aplaudidos-por-frequentadores-de-bares-no-leblon-em-clima-diferente-da-outra-fase-da-flexibilizacao-24538889)
 * [STF encaminha à PGR notícia-crime contra ministra Damares Alves](https://oglobo.globo.com/brasil/stf-encaminha-pgr-noticia-crime-contra-ministra-damares-alves-24538865)
-* [Boletim das 20h: Brasil se aproxima de 78 mil mortes por Covid-19, aponta consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/boletim-das-20h-brasil-se-aproxima-de-78-mil-mortes-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-24538617)
+* [Petrobras perde recurso contra arbitragem da Vantage por caso de corrupção](https://oglobo.globo.com/economia/petrobras-perde-recurso-contra-arbitragem-da-vantage-por-caso-de-corrupcao-24539066)
+* [Carlos Bolsonaro diz que concorrerá a reeleição no Rio](https://oglobo.globo.com/brasil/carlos-bolsonaro-diz-que-concorrera-reeleicao-no-rio-24538952)
 * [Região Norte é a única no país com tendência de queda no número de mortes por covid-19](https://oglobo.globo.com/sociedade/regiao-norte-a-unica-no-pais-com-tendencia-de-queda-no-numero-de-mortes-por-covid-19-24538730)
 * ['Diferenças muito grandes' atravancam negociação de fundo de ajuda em cúpula europeia](https://oglobo.globo.com/mundo/diferencas-muito-grandes-atravancam-negociacao-de-fundo-de-ajuda-em-cupula-europeia-24538645)
 * [Guedes busca apoio da indústria para reforma tributária](https://oglobo.globo.com/economia/guedes-busca-apoio-da-industria-para-reforma-tributaria-24538751)

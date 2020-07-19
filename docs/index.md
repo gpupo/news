@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 00:38:31 UTC
+# indexed at 19/07/2020 01:13:54 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 * [Aren't We All Somewhere on the Spectrum of Disease?](https://thedeductible.com/2020/07/18/arent-we-all-somewhere-on-the-spectrum-of-disease/)
+* [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 * [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [Dixie cups became the breakout startup of the 1918 pandemic](https://www.fastcompany.com/90520298/how-dixie-cups-became-the-breakout-startup-of-the-1918-pandemic)
 * [Coursera Valued at $2.5B After a Finance Round of Additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
-* [Citrine: Localized Programming Language](http://citrine-lang.org)
+* [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
 * [Mandatory retirement: How ending mandatory retirement changed America (2011)](https://slate.com/human-interest/2011/04/mandatory-retirement-how-the-abolition-of-mandatory-retirement-continues-to-change-america-in-unexpected-ways.html)
+* [Citrine: Localized Programming Language](http://citrine-lang.org)
 * [Could IPO’s be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
 * [Booting to 'Hello Rust' on x86_64](https://micouy.github.io/posts/low-level-pt-1/)
 * [How Mormons built a startup ecosystem in Utah](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478)
 * [PIFuHD: High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
-* [NoiseTorch: Real-time microphone noise suppression on Linux written in Go](https://github.com/lawl/NoiseTorch)
 * [Typed Lisp, a Primer (2019)](https://alhassy.github.io/TypedLisp.html)
+* [Freeway project unearths a time when camels roamed San Diego](https://www.sandiegouniontribune.com/news/science/story/2020-07-17/fossil-find-ancient-camels)
 * [The Intel 8086 processor's registers: from chip to transistors](http://www.righto.com/2020/07/the-intel-8086-processors-registers.html)
-* [When Chevrolet Ruled Uzbekistan (2019)](https://www.ozy.com/flashback/how-chevrolet-ruled-uzbekistan/94984)
+* [Ultra-Black Camouflage in Deep-Sea Fishes [pdf]](https://www.cell.com/current-biology/pdf/S0960-9822(20)30860-5.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220308605%3Fshowall%3Dtrue)
 * [Ancient human ancestors carved handaxe from a hippo femur 1.4M years ago: study](https://edition.cnn.com/2020/07/17/world/ancient-tool-hippo-handaxe-scn-trnd/index.html)
+* [When Chevrolet Ruled Uzbekistan (2019)](https://www.ozy.com/flashback/how-chevrolet-ruled-uzbekistan/94984)
 * [Kinetic Artwork Attempts to Get a ‘Little Piece of Privacy’](https://www.thisiscolossal.com/2020/02/niklas-roy-little-piece-privacy/)
 * [Swiss Political System: More Than You Ever Wanted to Know](http://250bpm.com/blog:161)
-* [Ultra-Black Camouflage in Deep-Sea Fishes [pdf]](https://www.cell.com/current-biology/pdf/S0960-9822(20)30860-5.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220308605%3Fshowall%3Dtrue)
+* [Icelandair firing all its flight attendants, shifts their work to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
 * [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [The Untold Story of the Hamster, a.k.a. Mr. Saddlebags (2011)](https://www.smithsonianmag.com/science-nature/the-untold-story-of-the-hamster-aka-mr-saddlebags-1223774/)
 * [Samsung Blu-ray players bricked because of an XML config file](https://www.theregister.com/2020/07/18/samsung_bluray_mass_dieoff_explained/)
+* [Your Life Is Worth $10M, According to the Government](https://www.npr.org/sections/money/2020/07/17/870483369/your-life-is-worth-10-million-according-to-the-government)
 * [Learning Graph Structure with a Finite-State Automaton Layer](https://arxiv.org/abs/2007.04929)
 * [Writing with Synesthesia, Seeing Colors in Music](https://americansongwriter.com/finneas-on-synesthesia/)
 * [Team Improvement Techniques](http://www.dcaulfield.com/team-improvement-techniques/)
-* [Icelandair firing all its flight attendants, shifts their work to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
 * [What Was the Beast of Gévaudan?](https://www.history.com/news/beast-gevaudan-france-theories)
-* [Ask HN: Dynamic memory/CPU provisioning for VMs?](https://news.ycombinator.com/item?id=23882896)
-* [Oldschool PC fonts, release v2.0](https://int10h.org/oldschool-pc-fonts/readme/#history)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Blue Jays Can’t Play Games in Canada Because of Pandemic](https://www.nytimes.com/2020/07/18/sports/baseball/coronavirus-blue-jays-season.html)
 * [As Seasonal Rains Fall, Dispute Over Nile Dam Rushes Toward a Reckoning](https://www.nytimes.com/2020/07/18/world/middleeast/nile-dam-egypt-ethiopia.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [What We Eat During a Plague](https://www.nytimes.com/2020/07/16/t-magazine/eating-food-during-plague.html)
 * [It’s All About the Franklins … the Aretha Franklins](https://www.nytimes.com/2020/07/16/business/who-should-be-on-our-money.html)
 * [You’re Doomscrolling Again. Here’s How to Snap Out of It.](https://www.nytimes.com/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 05:12:04 UTC
+# indexed at 19/07/2020 05:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -12,16 +12,16 @@ layout: default
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 * [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 * [Show HN: Perfect Cookie Recipe Generator](https://thecookie.website/)
-* [Why companies lose their best innovators (2019)](https://www.forbes.com/sites/kmehta/2019/07/11/why-companies-lose-their-best-innovators/#72eade2032e1)
-* [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
+* [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
 * [Dixie cups became the breakout startup of the 1918 pandemic](https://www.fastcompany.com/90520298/how-dixie-cups-became-the-breakout-startup-of-the-1918-pandemic)
+* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
 * [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
 * [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
+* [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
 * [Freeway project unearths a time when camels roamed San Diego](https://www.sandiegouniontribune.com/news/science/story/2020-07-17/fossil-find-ancient-camels)
-* [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
 * [Samsung Blu-ray players bricked because of an XML config file](https://www.theregister.com/2020/07/18/samsung_bluray_mass_dieoff_explained/)
-* [Monoalphabetic Cipher: Encode and Decode Online](https://kifanga.com/tools/cipher/monoalphabetic-cipher)
 * [Booting to 'Hello Rust' on x86_64](https://micouy.github.io/posts/low-level-pt-1/)
+* [Monoalphabetic Cipher: Encode and Decode Online](https://kifanga.com/tools/cipher/monoalphabetic-cipher)
 * [Citrine: Localized Programming Language](http://citrine-lang.org)
 * [Windows on Raspberry](https://www.worproject.ml/)
 * [Could IPOs be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
@@ -30,13 +30,13 @@ layout: default
 * [The Intel 8086 processor's registers: from chip to transistors](http://www.righto.com/2020/07/the-intel-8086-processors-registers.html)
 * [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [How Mormons built a startup ecosystem in Utah](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478)
+* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 * [Views on Error Handling](https://dannas.name/error-handling)
 * [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [Ancient human ancestors carved handaxe from a hippo femur 1.4M years ago: study](https://edition.cnn.com/2020/07/17/world/ancient-tool-hippo-handaxe-scn-trnd/index.html)
-* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 * [When Chevrolet Ruled Uzbekistan (2019)](https://www.ozy.com/flashback/how-chevrolet-ruled-uzbekistan/94984)
-* [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
 * [Typed Lisp, a Primer (2019)](https://alhassy.github.io/TypedLisp.html)
+* [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
 * [Kinetic Artwork Attempts to Get a ‘Little Piece of Privacy’](https://www.thisiscolossal.com/2020/02/niklas-roy-little-piece-privacy/)
 ## nytimes.com
 
@@ -73,18 +73,18 @@ layout: default
 * [The Horror Novel Lurking in Your Busy Online Life](https://www.nytimes.com/2020/07/18/books/review/cyber-horror-virtual-life-uncanny-valley.html)
 * [Oakland Will Pay $32.7 Million to Settle Ghost Ship Fire Lawsuits](https://www.nytimes.com/2020/07/18/us/ghost-ship-fire-settlement.html)
 * [3 Dead After Glacier Tour Bus Rolls Over in Canadian Rockies](https://www.nytimes.com/2020/07/18/world/canada/bus-crash-glacier-jasper-alberta.html)
+* [Roger Stone Uses Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Someone Tore Down a Union Army Statue in Saratoga Springs. Why?](https://www.nytimes.com/2020/07/18/us/union-statue-saratoga-springs-ny.html)
 * [Blue Jays Can’t Play Games in Canada Because of Pandemic](https://www.nytimes.com/2020/07/18/sports/baseball/coronavirus-blue-jays-season.html)
-* [F.B.I. Agent in Russia Inquiry Saw Basis in Early 2017 to Doubt Dossier](https://www.nytimes.com/2020/07/17/us/politics/steele-dossier-peter-strzok.html)
 * [India Rounds Up Critics Under Cover of Virus Crisis, Activists Say](https://www.nytimes.com/2020/07/19/world/asia/india-activists-arrests-riots-coronavirus.html)
 * [China Is Dismantling the Empire of a Vanished Tycoon](https://www.nytimes.com/2020/07/18/business/china-xiao-jianhua.html)
 * [Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.](https://www.nytimes.com/2020/07/19/world/europe/tourism-virus-europe.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [What We Eat During a Plague](https://www.nytimes.com/2020/07/16/t-magazine/eating-food-during-plague.html)
 * [It’s All About the Franklins … the Aretha Franklins](https://www.nytimes.com/2020/07/16/business/who-should-be-on-our-money.html)
 * [You’re Doomscrolling Again. Here’s How to Snap Out of It.](https://www.nytimes.com/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 12:34:22 UTC
+# indexed at 19/07/2020 13:12:35 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Amazon FBA Brexit Bombshell – EFN and Pan-European FBA Ends for UK](https://tamebay.com/2020/07/amazon-fba-brexit-bombshell-efn-and-pan-european-fba-ends-for-uk.html)
+* [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [The Passport Payment (2000)](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
+* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
 * [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
-* [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
 * [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
-* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
+* [Tired of Note-Taking Apps](https://akkshaya.blog/2020/07/19/note-taking/)
+* [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
+* [Best Ad Blockers (and How to Easily Block Ads)](https://restoreprivacy.com/ad-blocker/)
 * [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
 * [Ecuadorian hummingbirds chirp ultrasonic songs of seduction](https://phys.org/news/2020-07-ecuadorian-hummingbirds-chirp-ultrasonic-songs.html)
 * [Support Diary: The LAN of 16M Hosts](http://prgmr.com/blog/2020/07/17/classful-networking.html)
 * [Why companies lose their best innovators (2019)](https://www.forbes.com/sites/kmehta/2019/07/11/why-companies-lose-their-best-innovators/#72eade2032e1)
-* [Show HN: Perfect Cookie Recipe Generator](https://thecookie.website/)
-* [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
 * [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
 * [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
-* [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
-* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
-* [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
-* [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
-* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
-* [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
-* [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
-* [Freeway project unearths a time when camels roamed San Diego](https://www.sandiegouniontribune.com/news/science/story/2020-07-17/fossil-find-ancient-camels)
-* [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [History of Russian Spacecrafts](http://www.russianspaceweb.com/spacecraft_manned_salyut.html)
+* [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
+* [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
+* [Debugging a dynamic linking bug in a Nix project](https://www.johnbcoughlin.com/posts/nix-dynamic-linking/)
+* [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
+* [Show HN: Perfect Cookie Recipe Generator](https://thecookie.website/)
+* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
+* [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
+* [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
+* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 * [Does playing chess make you smarter? Not really](https://www.straitstimes.com/singapore/education/does-playing-chess-make-you-smarter-not-really)
-* [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [Coronavirus doctor's diary: Why are people remaining ill for so long?](https://www.bbc.co.uk/news/stories-53368768)
+* [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 ## nytimes.com
 
 
@@ -55,9 +55,9 @@ layout: default
 * [To Make Orchestras More Diverse, End Blind Auditions](https://www.nytimes.com/2020/07/16/arts/music/blind-auditions-orchestras-race.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/17/briefing/11-of-our-best-weekend-reads.html)
 * [Coronavirus Surge, John Lewis, Fall Gardens: Your Weekend Briefing](https://www.nytimes.com/2020/07/19/briefing/coronavirus-surge-john-lewis-fall-gardens.html)
+* [The Man Who Cracked the Lottery](https://www.nytimes.com/2020/07/19/podcasts/the-daily/lottery-winner-scam.html)
 * [One: Wonderland](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html)
 * [The Unconventional Convention Season: A Conversation About the 2020 Election](https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html)
-* [The Pandemic Is Straining Airbnb](https://www.nytimes.com/2020/07/17/technology/airbnb-coronavirus.html)
 * [With Covid-19, Broadband Internet Access Is a Civil Rights Issue](https://www.nytimes.com/2020/07/18/opinion/sunday/broadband-internet-access-civil-rights.html)
 * [White Supremacy Was Her World. And Then She Left.](https://www.nytimes.com/2020/07/17/opinion/sunday/white-supremacy-hate-movements.html)
 * [Facing the Coronavirus and Racial Injustice, America Still Has Hope](https://www.nytimes.com/2020/07/16/opinion/sunday/coronavirus-blm-america-hope.html)
@@ -81,11 +81,11 @@ layout: default
 * [India Rounds Up Critics Under Cover of Virus Crisis, Activists Say](https://www.nytimes.com/2020/07/19/world/asia/india-activists-arrests-riots-coronavirus.html)
 * [Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.](https://www.nytimes.com/2020/07/19/world/europe/tourism-virus-europe.html)
 * [Parenting Inside Sports' Bubble: ‘This Is Mom’s Job. Work With Me.’](https://www.nytimes.com/2020/07/16/sports/soccer/parenting-bubble-nwsl-wnba.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Paired During a Medical Rotation, and Then in Life](https://www.nytimes.com/2020/07/17/fashion/weddings/paired-during-a-medical-rotation-and-then-in-life.html)
 * [How the Central Park Barber Spends His Sundays](https://www.nytimes.com/2020/07/17/nyregion/central-park-barber-nyc.html)
 * [Tips on Buying Bulbs for Fall Planting](https://www.nytimes.com/2020/07/15/realestate/Tips-bulbs-for-fall-planting-garden.html)
@@ -96,12 +96,14 @@ layout: default
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [Treacherous Times for Dr. Fauci in the Sacred Cow Business](https://www.nytimes.com/2020/07/17/us/fauci-trump.html)
+* [Trump’s White House Grows Bolder in Flouting Ethical Norms](https://www.nytimes.com/2020/07/16/us/politics/trump-goya-ivanka.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Disney suspende publicidade no Facebook, diz jornal](https://oglobo.globo.com/economia/disney-suspende-publicidade-no-facebook-diz-jornal-24540390)
 * [Obrigada aos meus dias ruins](https://oglobo.globo.com/ela/obrigada-aos-meus-dias-ruins-1-24540345)
 * [Haruma Miura, astro do cinema japonês, é encontrado morto aos 30 anos](https://oglobo.globo.com/cultura/haruma-miura-astro-do-cinema-japones-encontrado-morto-aos-30-anos-24540379)
 * [Irã suspende execução de três manifestantes de novembro de 2019](https://oglobo.globo.com/mundo/ira-suspende-execucao-de-tres-manifestantes-de-novembro-de-2019-24540369)
@@ -111,4 +113,3 @@ layout: default
 * [HQ 'A odisseia de Hakim' narra a saga de um refugiado sírio pelo Oriente Médio](https://oglobo.globo.com/cultura/hq-odisseia-de-hakim-narra-saga-de-um-refugiado-sirio-pelo-oriente-medio-24540205)
 * [Boletim das 8h: Brasil tem 2.075.361 casos e 78.821 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/boletim-das-8h-brasil-tem-2075361-casos-78821-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24540312)
 * [Escola Superior de Guerra vê boom de candidaturas desde 2018](https://epoca.globo.com/guilherme-amado/escola-superior-de-guerra-ve-boom-de-candidaturas-desde-2018-1-24538825)
-* [Registro de drones manteve ritmo de 2019 mesmo na pandemia](https://epoca.globo.com/guilherme-amado/registro-de-drones-manteve-ritmo-de-2019-mesmo-na-pandemia-1-24538648)

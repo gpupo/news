@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 11:34:20 UTC
+# indexed at 19/07/2020 12:16:42 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Passport Payment](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
+* [Amazon FBA Brexit Bombshell – EFN and Pan-European FBA Ends for UK](https://tamebay.com/2020/07/amazon-fba-brexit-bombshell-efn-and-pan-european-fba-ends-for-uk.html)
+* [The Passport Payment (2000)](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
 * [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
 * [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 * [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
-* [Support Diary: The LAN of 16M Hosts](http://prgmr.com/blog/2020/07/17/classful-networking.html)
-* [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
+* [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
 * [Ecuadorian hummingbirds chirp ultrasonic songs of seduction](https://phys.org/news/2020-07-ecuadorian-hummingbirds-chirp-ultrasonic-songs.html)
+* [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
+* [Support Diary: The LAN of 16M Hosts](http://prgmr.com/blog/2020/07/17/classful-networking.html)
 * [Why companies lose their best innovators (2019)](https://www.forbes.com/sites/kmehta/2019/07/11/why-companies-lose-their-best-innovators/#72eade2032e1)
-* [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
+* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [Show HN: Perfect Cookie Recipe Generator](https://thecookie.website/)
-* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
+* [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
 * [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
+* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
+* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
 * [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
 * [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
-* [Coronavirus doctor's diary: Why are people remaining ill for so long?](https://www.bbc.co.uk/news/stories-53368768)
-* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
 * [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
-* [Windows on Raspberry](https://www.worproject.ml/)
-* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 * [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
+* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 * [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 * [Freeway project unearths a time when camels roamed San Diego](https://www.sandiegouniontribune.com/news/science/story/2020-07-17/fossil-find-ancient-camels)
 * [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
+* [Coronavirus doctor's diary: Why are people remaining ill for so long?](https://www.bbc.co.uk/news/stories-53368768)
 * [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
-* [Dixie cups became the breakout startup of the 1918 pandemic](https://www.fastcompany.com/90520298/how-dixie-cups-became-the-breakout-startup-of-the-1918-pandemic)
-* [When Chevrolet Ruled Uzbekistan (2019)](https://www.ozy.com/flashback/how-chevrolet-ruled-uzbekistan/94984)
-* [Aren't we all somewhere on the spectrum of disease?](https://thedeductible.com/2020/07/18/arent-we-all-somewhere-on-the-spectrum-of-disease/)
+* [Does playing chess make you smarter? Not](https://www.straitstimes.com/singapore/education/does-playing-chess-make-you-smarter-not-really)
 ## nytimes.com
 
 
@@ -81,20 +81,20 @@ layout: default
 * [India Rounds Up Critics Under Cover of Virus Crisis, Activists Say](https://www.nytimes.com/2020/07/19/world/asia/india-activists-arrests-riots-coronavirus.html)
 * [Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.](https://www.nytimes.com/2020/07/19/world/europe/tourism-virus-europe.html)
 * [Parenting Inside Sports' Bubble: ‘This Is Mom’s Job. Work With Me.’](https://www.nytimes.com/2020/07/16/sports/soccer/parenting-bubble-nwsl-wnba.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Paired During a Medical Rotation, and Then in Life](https://www.nytimes.com/2020/07/17/fashion/weddings/paired-during-a-medical-rotation-and-then-in-life.html)
 * [How the Central Park Barber Spends His Sundays](https://www.nytimes.com/2020/07/17/nyregion/central-park-barber-nyc.html)
 * [Tips on Buying Bulbs for Fall Planting](https://www.nytimes.com/2020/07/15/realestate/Tips-bulbs-for-fall-planting-garden.html)
 * [Baseball Players Know They Shouldn’t Spit. But Old Habits Die Hard.](https://www.nytimes.com/2020/07/17/sports/baseball/baseball-mlb-coronavirus-spitting.html)
 * [Buying Fine Jewelry on Instagram (Without Tears)](https://www.nytimes.com/2020/07/17/fashion/jewelry-instagram-buying-online.html)
-* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
-* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
+* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Treacherous Times for Dr. Fauci in the Sacred Cow Business](https://www.nytimes.com/2020/07/17/us/fauci-trump.html)
 * [Trump Weighs In on the Death of John Lewis, One of His Most Vocal Critics](https://www.nytimes.com/2020/07/18/us/politics/john-lewis-trump.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Acuracidade](https://oglobo.globo.com/ela/acuracidade-24540336)
-* [Vamos virar o jogo?](https://oglobo.globo.com/ela/vamos-virar-jogo-24540351)
 * [Obrigada aos meus dias ruins](https://oglobo.globo.com/ela/obrigada-aos-meus-dias-ruins-24540345)
+* [Coronavírus: teste rápido de saliva poderia acabar com a pandemia de covid-19?](https://epoca.globo.com/sociedade/coronavirus-teste-rapido-de-saliva-poderia-acabar-com-pandemia-de-covid-19-24540371)
+* [Vamos virar o jogo?](https://oglobo.globo.com/ela/vamos-virar-jogo-24540351)
+* [Acuracidade](https://oglobo.globo.com/ela/acuracidade-24540336)
 * [HQ 'A odisseia de Hakim' narra a saga de um refugiado sírio pelo Oriente Médio](https://oglobo.globo.com/cultura/hq-odisseia-de-hakim-narra-saga-de-um-refugiado-sirio-pelo-oriente-medio-24540205)
 * [Boletim das 8h: Brasil tem 2.075.361 casos e 78.821 mortos por Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/boletim-das-8h-brasil-tem-2075361-casos-78821-mortos-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24540312)
 * [Vereadores do Rio tentam ganhar votos com ações da prefeitura contra Covid-19](https://epoca.globo.com/brasil/vereadores-do-rio-tentam-ganhar-votos-com-acoes-da-prefeitura-contra-covid-19-24534282)
 * [Coluna | Livros da quarentena: obras para retomar as ruas sem sair de casa](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-obras-para-retomar-as-ruas-sem-sair-de-casa-24539447)
 * [Escola Superior de Guerra vê boom de candidaturas desde 2018](https://epoca.globo.com/guilherme-amado/escola-superior-de-guerra-ve-boom-de-candidaturas-desde-2018-1-24538825)
-* [Roberto Jefferson quer PTB com viés religioso e imagem de um leão](https://epoca.globo.com/guilherme-amado/roberto-jefferson-quer-ptb-com-vies-religioso-imagem-de-um-leao-24538628)
 * [Registro de drones manteve ritmo de 2019 mesmo na pandemia](https://epoca.globo.com/guilherme-amado/registro-de-drones-manteve-ritmo-de-2019-mesmo-na-pandemia-1-24538648)

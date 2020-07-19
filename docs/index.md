@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 17:11:47 UTC
+# indexed at 19/07/2020 17:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-* [I Test in Prod (2019)](https://increment.com/testing/i-test-in-production/)
 * [Worms Armageddon Patch 3.8](https://store.steampowered.com/newshub/app/217200/view/4889171591903920896)
+* [The Value of Everything: Making and Taking in the Global Economy](https://marianamazzucato.com/publications/books/value-of-everything/)
+* [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
 * [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [The Passport Payment (2000)](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
+* [Insect-worn microcamera streams 5fps monochrome video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
+* [I Test in Prod (2019)](https://increment.com/testing/i-test-in-production/)
 * [Sirum (YC W15 Nonprofit) hiring fullstack engineers to make medicine affordable](https://sirum.breezy.hr/p/ef46b4b6d6cb-fullstack-engineer-1-atlanta-ga-preferred)
-* [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
 * [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
-* [Debuild: Web app builder with OpenAI's GPT-3](https://debuild.co/)
-* [The Value of Everything: Making and Taking in the Global Economy](https://marianamazzucato.com/publications/books/value-of-everything/)
-* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
-* [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
+* [Shall the West Pass Too? Whispers from Fallen Civilisations](https://www.themetasophist.com/chapter/whispers-from-fallen-civilisations)
+* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
 * [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
-* [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
-* [Debugging a dynamic linking bug in a Nix project](https://www.johnbcoughlin.com/posts/nix-dynamic-linking/)
-* [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
-* [Inheritance in C](https://arpitbhayani.me/blogs/inheritance-c)
+* [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
 * [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
+* [Debugging a dynamic linking bug in a Nix project](https://www.johnbcoughlin.com/posts/nix-dynamic-linking/)
 * [Virginia Woolf kept her brother alive in letters](https://www.newyorker.com/culture/culture-desk/how-virginia-woolf-kept-her-brother-alive-in-letters)
 * [This is Fine: Optimism and Emergency in the P2P Network](https://newdesigncongress.org/en/pub/this-is-fine/)
-* [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
-* [Shall the West Pass Too? Whispers from Fallen Civilisations](https://www.themetasophist.com/chapter/whispers-from-fallen-civilisations)
+* [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
+* [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
+* [Inheritance in C](https://arpitbhayani.me/blogs/inheritance-c)
 * [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
-* [Does playing chess make you smarter? A look at the evidence](https://theconversation.com/does-playing-chess-make-you-smarter-a-look-at-the-evidence-76062)
-* [Amazon’s UK FBA operations will be split from the EU](https://tamebay.com/2020/07/amazon-fba-brexit-bombshell-efn-and-pan-european-fba-ends-for-uk.html)
+* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
+* [Remdesivir will cost insurers $520 for a single vial. Production cost: 93 cents](https://theintercept.com/2020/07/01/coronavirus-treatment-drug-contracts-trump/)
+* [Ask HN: What's your favorite HN post?](https://news.ycombinator.com/item?id=23890036)
 ## nytimes.com
 
 
@@ -78,7 +78,7 @@ layout: default
 * [Dorothy Parker’s Ashes Could Be Moved. Again.](https://www.nytimes.com/2020/07/19/us/dorothy-parker-ashes-baltimore.html)
 * [The Tokyo Olympics Will Open a Year From Now. Maybe.](https://www.nytimes.com/2020/07/19/sports/2021-tokyo-olympics-protocols.html)
 * [With Tourists Gone, St. Patrick’s Cathedral Pleads for Help](https://www.nytimes.com/2020/07/19/nyregion/st-patricks-cathedral-pandemic-budget.html)
-* [Federal Officers Deployed in Portland Didn’t Have Proper Training, D.H.S. Memo Said](https://www.nytimes.com/2020/07/18/us/portland-protests.html)
+* [Showdown on Beach in Bulgaria Balloons Into Political Crisis](https://www.nytimes.com/2020/07/19/world/europe/bulgaria-protests.html)
 * [Financial Brokers Must Now Act in Your ‘Best Interest.’ What Does That Mean?](https://www.nytimes.com/2020/07/16/your-money/fiduciary-duty-investments-best-interest.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
@@ -90,10 +90,10 @@ layout: default
 * [Tips on Buying Bulbs for Fall Planting](https://www.nytimes.com/2020/07/15/realestate/Tips-bulbs-for-fall-planting-garden.html)
 * [How the Yankees Are Adapting to a Season of Distancing](https://www.nytimes.com/2020/07/17/sports/baseball/baseball-mlb-coronavirus-spitting.html)
 * [Buying Fine Jewelry on Instagram (Without Tears)](https://www.nytimes.com/2020/07/17/fashion/jewelry-instagram-buying-online.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

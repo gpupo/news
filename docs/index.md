@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 10:12:47 UTC
+# indexed at 19/07/2020 10:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Bit Division](https://danlark.org/2020/06/14/128-bit-division/)
 * [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
 * [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
-* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
 * [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
-* [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
+* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
 * [Why companies lose their best innovators (2019)](https://www.forbes.com/sites/kmehta/2019/07/11/why-companies-lose-their-best-innovators/#72eade2032e1)
+* [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
 * [Show HN: Perfect Cookie Recipe Generator](https://thecookie.website/)
 * [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
-* [Coronavirus doctor's diary: Why are people remaining ill for so long?](https://www.bbc.co.uk/news/stories-53368768)
+* [Support Diary: The LAN of 16M Hosts](http://prgmr.com/blog/2020/07/17/classful-networking.html)
 * [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
 * [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
+* [Coronavirus doctor's diary: Why are people remaining ill for so long?](https://www.bbc.co.uk/news/stories-53368768)
 * [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
 * [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
 * [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
-* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
-* [Support Diary: The LAN of 16M Hosts](http://prgmr.com/blog/2020/07/17/classful-networking.html)
 * [Windows on Raspberry](https://www.worproject.ml/)
+* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
 * [Freeway project unearths a time when camels roamed San Diego](https://www.sandiegouniontribune.com/news/science/story/2020-07-17/fossil-find-ancient-camels)
 * [PIFuHD: High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
 * [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
-* [Could IPOs be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
 * [Views on Error Handling](https://dannas.name/error-handling)
+* [Could IPOs be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
 * [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [Low-income housing has no impact on nearby home values (2016)](https://www.trulia.com/research/low-income-housing/)
 * [Show HN: Dockerfiler: declarative management of images built from Dockerfiles](https://github.com/jbergknoff/Dockerfiler)
+* [Aren't we all somewhere on the spectrum of disease?](https://thedeductible.com/2020/07/18/arent-we-all-somewhere-on-the-spectrum-of-disease/)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [Opera Can No Longer Ignore Its Race Problem](https://www.nytimes.com/2020/07/16/arts/music/opera-race-representation.html)
 * [To Make Orchestras More Diverse, End Blind Auditions](https://www.nytimes.com/2020/07/16/arts/music/blind-auditions-orchestras-race.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/17/briefing/11-of-our-best-weekend-reads.html)
+* [Coronavirus Surge, John Lewis, Fall Gardens: Your Weekend Briefing](https://www.nytimes.com/2020/07/19/briefing/coronavirus-surge-john-lewis-fall-gardens.html)
 * [One: Wonderland](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html)
 * [The Unconventional Convention Season: A Conversation About the 2020 Election](https://www.nytimes.com/2020/07/14/us/politics/2020-political-conventions.html)
 * [The Pandemic Is Straining Airbnb](https://www.nytimes.com/2020/07/17/technology/airbnb-coronavirus.html)
@@ -80,9 +81,9 @@ layout: default
 * [India Rounds Up Critics Under Cover of Virus Crisis, Activists Say](https://www.nytimes.com/2020/07/19/world/asia/india-activists-arrests-riots-coronavirus.html)
 * [Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.](https://www.nytimes.com/2020/07/19/world/europe/tourism-virus-europe.html)
 * [Parenting Inside Sports' Bubble: ‘This Is Mom’s Job. Work With Me.’](https://www.nytimes.com/2020/07/16/sports/soccer/parenting-bubble-nwsl-wnba.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Paired During a Medical Rotation, and Then in Life](https://www.nytimes.com/2020/07/17/fashion/weddings/paired-during-a-medical-rotation-and-then-in-life.html)
@@ -90,10 +91,10 @@ layout: default
 * [Tips on Buying Bulbs for Fall Planting](https://www.nytimes.com/2020/07/15/realestate/Tips-bulbs-for-fall-planting-garden.html)
 * [Baseball Players Know They Shouldn’t Spit. But Old Habits Die Hard.](https://www.nytimes.com/2020/07/17/sports/baseball/baseball-mlb-coronavirus-spitting.html)
 * [Buying Fine Jewelry on Instagram (Without Tears)](https://www.nytimes.com/2020/07/17/fashion/jewelry-instagram-buying-online.html)
+* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
 * [California’s ‘Bear Whisperer’ Is Out of a Job](https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html)
 * [Closest Pictures Ever Taken of Sun Show Tiny Campfire Flares](https://www.nytimes.com/2020/07/16/science/solar-orbiter-sun-images.html)
 * [She Tested Negative for Lyme Disease. So What Was Wrong?](https://www.nytimes.com/2020/07/15/magazine/borrelia-miyamotoi-diagnosis.html)
-* [Cave’s Clues Show It’s More Than Just Oldest Outhouse in the Americas](https://www.nytimes.com/2020/07/17/science/cave-poop-americas.html)
 * [Treacherous Times for Dr. Fauci in the Sacred Cow Business](https://www.nytimes.com/2020/07/17/us/fauci-trump.html)
 * [Trump Weighs In on the Death of John Lewis, One of His Most Vocal Critics](https://www.nytimes.com/2020/07/18/us/politics/john-lewis-trump.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Vereadores do Rio tentam ganhar votos com ações da prefeitura contra Covid-19](https://epoca.globo.com/brasil/vereadores-do-rio-tentam-ganhar-votos-com-acoes-da-prefeitura-contra-covid-19-24534282)
 * ['Não podemos fazer política de combate à pobreza com os olhos da riqueza', diz socióloga](https://epoca.globo.com/economia/nao-podemos-fazer-politica-de-combate-pobreza-com-os-olhos-da-riqueza-diz-sociologa-24540302)
 * [Coluna | Livros da quarentena: obras para retomar as ruas sem sair de casa](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-obras-para-retomar-as-ruas-sem-sair-de-casa-24539447)
 * [Advogados da família Bolsonaro tentam união contra Wassef](https://epoca.globo.com/guilherme-amado/advogados-da-familia-bolsonaro-tentam-uniao-contra-wassef-24539297)
-* [Entre a paixão e o legado, como fica o presente e o futuro do Flamengo sem Jesus](https://oglobo.globo.com/esportes/entre-paixao-o-legado-como-fica-presente-o-futuro-do-flamengo-sem-jesus-1-24540145)
 * [A jiboia branca filha da ‘Princesa Diamante’](https://oglobo.globo.com/rio/bairros/a-jiboia-branca-filha-da-princesa-diamante-1-24539555)
+* [Escola Superior de Guerra vê boom de candidaturas desde 2018](https://epoca.globo.com/guilherme-amado/escola-superior-de-guerra-ve-boom-de-candidaturas-desde-2018-1-24538825)
 * [Roberto Jefferson quer PTB com viés religioso e imagem de um leão](https://epoca.globo.com/guilherme-amado/roberto-jefferson-quer-ptb-com-vies-religioso-imagem-de-um-leao-24538628)
-* [As mensagens de texto entre Paulo Guedes e Rodrigo Maia](https://epoca.globo.com/guilherme-amado/as-mensagens-de-texto-entre-paulo-guedes-rodrigo-maia-24539286)
 * ['Estava quase deprimido. A peça me salvou', diz Mouhamed Harfouch, sobre espetáculo on-line que aborda machismo estrutural](https://oglobo.globo.com/rio/bairros/estava-quase-deprimido-peca-me-salvou-diz-mouhamed-harfouch-sobre-espetaculo-on-line-que-aborda-machismo-estrutural-1-24536382)
-* [Clementina de Jesus e 'O Canto dos Escravos'](https://oglobo.globo.com/celina/clementina-de-jesus-o-canto-dos-escravos-1-24537623)
+* [Registro de drones manteve ritmo de 2019 mesmo na pandemia](https://epoca.globo.com/guilherme-amado/registro-de-drones-manteve-ritmo-de-2019-mesmo-na-pandemia-1-24538648)
 * [Pandemia gera evasão de alunos da rede privada de Niterói](https://oglobo.globo.com/rio/bairros/pandemia-gera-evasao-de-alunos-da-rede-privada-de-niteroi-1-24538145)

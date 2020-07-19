@@ -2,48 +2,48 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 16:13:21 UTC
+# indexed at 19/07/2020 16:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
-* [Worms Armageddon Patch 3.8](https://store.steampowered.com/newshub/app/217200/view/4889171591903920896)
+* [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
+* [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [I Test in Prod (2019)](https://increment.com/testing/i-test-in-production/)
+* [Worms Armageddon Patch 3.8](https://store.steampowered.com/newshub/app/217200/view/4889171591903920896)
+* [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 * [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [The Passport Payment (2000)](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
-* [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
 * [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
 * [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
-* [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
 * [Debugging a dynamic linking bug in a Nix project](https://www.johnbcoughlin.com/posts/nix-dynamic-linking/)
+* [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
 * [Why companies lose their best innovators (2019)](https://www.forbes.com/sites/kmehta/2019/07/11/why-companies-lose-their-best-innovators/#72eade2032e1)
-* [This is Fine: Optimism and Emergency in the P2P Network](https://newdesigncongress.org/en/pub/this-is-fine/)
-* [Inheritance in C](https://arpitbhayani.me/blogs/inheritance-c)
-* [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
-* [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
-* [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
 * [Virginia Woolf kept her brother alive in letters](https://www.newyorker.com/culture/culture-desk/how-virginia-woolf-kept-her-brother-alive-in-letters)
-* [Does playing chess make you smarter? A look at the evidence](https://theconversation.com/does-playing-chess-make-you-smarter-a-look-at-the-evidence-76062)
+* [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
+* [This is Fine: Optimism and Emergency in the P2P Network](https://newdesigncongress.org/en/pub/this-is-fine/)
+* [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
+* [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
+* [Inheritance in C](https://arpitbhayani.me/blogs/inheritance-c)
 * [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
+* [Does playing chess make you smarter? A look at the evidence](https://theconversation.com/does-playing-chess-make-you-smarter-a-look-at-the-evidence-76062)
 * [Amazon’s UK FBA operations will be split from the EU](https://tamebay.com/2020/07/amazon-fba-brexit-bombshell-efn-and-pan-european-fba-ends-for-uk.html)
 * [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
-* [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
 * [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
+* [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
 * [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
 * [Support Diary: The LAN of 16M Hosts](http://prgmr.com/blog/2020/07/17/classful-networking.html)
-* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 ## nytimes.com
 
 
 * [Inside Trump’s Failure: The Rush to Abandon Leadership Role on the Virus](https://www.nytimes.com/2020/07/18/us/politics/trump-coronavirus-response-failure-leadership.html)
 * [Inside the Failure: 5 Takeaways on Trump’s Effort to Shift Responsibility](https://www.nytimes.com/2020/07/18/us/politics/trump-coronavirus-failure-takeaways.html)
-* [Coronavirus Live News Updates: Trump Calls Fauci ‘Alarmist'](https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html)
+* [Coronavirus Live Updates: Trump Calls Fauci ‘Alarmist'](https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html)
 * [This Border Town Was on the Rise. Then the Pandemic Hit.](https://www.nytimes.com/2020/07/18/us/coronavirus-canada-border-washington.html)
 * [Federal Aid Has So Far Averted Personal Bankruptcies, but Trouble Looms](https://www.nytimes.com/2020/07/17/business/personal-bankruptcies-coronavirus.html)
 * [As the Virus Deepens Financial Trouble, Colleges Turn to Layoffs](https://www.nytimes.com/2020/07/16/us/coronavirus-college-faculty-layoffs.html)
@@ -64,10 +64,10 @@ layout: default
 * [The Real White Fragility](https://www.nytimes.com/2020/07/18/opinion/sunday/white-fragility-meritocracy.html)
 * [If the Church Door Is Closed, Find the Sacred on the Road](https://www.nytimes.com/2020/07/19/opinion/if-the-church-door-is-closed-find-the-sacred-on-the-road.html)
 * [With Covid-19, Broadband Internet Access Is a Civil Rights Issue](https://www.nytimes.com/2020/07/18/opinion/sunday/broadband-internet-access-civil-rights.html)
+* [Testing Is on the Brink of Paralysis. That’s Very Bad News.](https://www.nytimes.com/2020/07/16/opinion/coronavirus-testing-us.html)
 * [John Lewis Risked His Life for Justice](https://www.nytimes.com/2020/07/17/opinion/john-lewis.html)
 * [The First Time John Lewis and I Integrated the Buses](https://www.nytimes.com/2020/07/18/opinion/john-lewis-dead.html)
 * [Please Don’t Make Me Risk Getting Covid-19 to Teach Your Child](https://www.nytimes.com/2020/07/18/opinion/sunday/covid-schools-reopen-teacher-safety.html)
-* [With the Coronavirus Pandemic, Republicans Are Flunking Microbe Economics](https://www.nytimes.com/2020/07/18/opinion/republicans-keep-flunking-microbe-economics.html)
 * [Why Intellectuals Support Dictators](https://www.nytimes.com/2020/07/19/books/review/twilight-of-democracy-anne-applebaum.html)
 * [Citi Bikes, Scooters, Skateboards: Anything but the Subway](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-subways-spread-nyc.html)
 * [How I Came Out About My Disability](https://www.nytimes.com/2020/07/13/us/disability-reveal.html)
@@ -90,10 +90,10 @@ layout: default
 * [Tips on Buying Bulbs for Fall Planting](https://www.nytimes.com/2020/07/15/realestate/Tips-bulbs-for-fall-planting-garden.html)
 * [How the Yankees Are Adapting to a Season of Distancing](https://www.nytimes.com/2020/07/17/sports/baseball/baseball-mlb-coronavirus-spitting.html)
 * [Buying Fine Jewelry on Instagram (Without Tears)](https://www.nytimes.com/2020/07/17/fashion/jewelry-instagram-buying-online.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Trump afirma que bandeira confederada é motivo de orgulho do Sul dos Estados Unidos](https://oglobo.globo.com/mundo/trump-afirma-que-bandeira-confederada-motivo-de-orgulho-do-sul-dos-estados-unidos-24540471)
+* [Desembargador de SP rasga multa por não usar máscara e chama guarda de 'analfabeto'](https://oglobo.globo.com/sociedade/desembargador-de-sp-rasga-multa-por-nao-usar-mascara-chama-guarda-de-analfabeto-24540488)
 * [Total de casos da Covid-19 sobe para 2.076.635 no Brasil, diz consórcio de veículos de imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/total-de-casos-da-covid-19-sobe-para-2076635-no-brasil-diz-consorcio-de-veiculos-de-imprensa-em-boletim-das-13h-24540470)
 * [Lewis Hamilton vence o GP da Hungria e assume liderança do Mundial de Formula 1](https://oglobo.globo.com/esportes/lewis-hamilton-vence-gp-da-hungria-assume-lideranca-do-mundial-de-formula-1-24540474)
 * [Rinocerontes raros morrem em inundações em parque da Índia](https://epoca.globo.com/mundo/rinocerontes-raros-morrem-em-inundacoes-em-parque-da-india-24540475)
 * [Mario Frias completa um mês à frente da Cultura em lua de mel com o bolsonarismo](https://oglobo.globo.com/cultura/mario-frias-completa-um-mes-frente-da-cultura-em-lua-de-mel-com-bolsonarismo-24540476)
-* [Trump afirma que bandeira confederada é motivo de orgulho no sul dos Estados Unidos](https://oglobo.globo.com/mundo/trump-afirma-que-bandeira-confederada-motivo-de-orgulho-no-sul-dos-estados-unidos-24540471)
 * [Após 'casamento' difícil de Regina Duarte, Mario Frias vive lua de mel com bolsonarismo](https://oglobo.globo.com/cultura/apos-casamento-dificil-de-regina-duarte-mario-frias-vive-lua-de-mel-com-bolsonarismo-24538215)
 * [Mencionado no escandaloso caso Epstein, príncipe Andrew não aparece nas fotos oficiais de casamento da filha](https://oglobo.globo.com/ela/gente/mencionado-no-escandaloso-caso-epstein-principe-andrew-nao-aparece-nas-fotos-oficiais-de-casamento-da-filha-24540460)
 * [Homem é imobilizado com arma de choque em ação da Guarda Municipal na Praia de Copacabana](https://oglobo.globo.com/rio/homem-imobilizado-com-arma-de-choque-em-acao-da-guarda-municipal-na-praia-de-copacabana-24540439)
-* [A economia entendeu que sem a floresta não há clima, chuva, agropecuária e nem futuro, diz Carlos Nobre](https://oglobo.globo.com/economia/a-economia-entendeu-que-sem-floresta-nao-ha-clima-chuva-agropecuaria-nem-futuro-diz-carlos-nobre-24540451)
 * [Conmebol colhe os louros da série sobre campanha do Flamengo na Libertadores 2019](https://epoca.globo.com/guilherme-amado/conmebol-colhe-os-louros-da-serie-sobre-campanha-do-flamengo-na-libertadores-2019-24538931)

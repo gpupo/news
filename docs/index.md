@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 22:12:33 UTC
+# indexed at 19/07/2020 22:34:35 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Study of over 1m people finds association between lifespan and blood iron levels](https://www.nature.com/articles/s41467-020-17312-3)
+* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
+* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-* [Magnets cannot exist under classical mechanics](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 * [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
+* [Magnets cannot exist under classical mechanics](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 * [Worms Armageddon Patch 3.8](https://store.steampowered.com/newshub/app/217200/view/4889171591903920896)
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
 * [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
-* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
-* [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
-* [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [The New Siberians](https://daily.jstor.org/the-new-siberians/)
+* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
+* [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
+* [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
+* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [The Passport Payment (2000)](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
 * [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
 * [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
+* [Positive-unlabeled learning (2017)](https://roywrightme.wordpress.com/2017/11/16/positive-unlabeled-learning/)
 * [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
-* [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
-* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
-* [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
-* [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
 * [Ask HN: CS Researchers, why did you choose your subfield and niche?](https://news.ycombinator.com/item?id=23891838)
+* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
+* [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
+* [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
 * [Peter Thiel's New Man in the Defense Department](https://www.defenseone.com/technology/2020/07/peter-thiels-new-man-defense-department/166851/)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
-* [Debugging a dynamic linking bug in a Nix project](https://www.johnbcoughlin.com/posts/nix-dynamic-linking/)
-* [Virginia Woolf kept her brother alive in letters](https://www.newyorker.com/culture/culture-desk/how-virginia-woolf-kept-her-brother-alive-in-letters)
+* [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 ## nytimes.com
 
 
@@ -51,7 +51,6 @@ layout: default
 * [Amid a Deadly Virus and Crippled Economy, One Form of Aid Has Proved Reliable: Food Stamps](https://www.nytimes.com/2020/07/19/us/politics/coronavirus-food-stamps.html)
 * [Are You Eligible for Food Stamps Now? Maybe, but It’s Complex](https://www.nytimes.com/2020/07/17/your-money/food-stamps-coronavirus.html)
 * [Wearing a Mask? It May Come From China’s Controversial Labor Program](https://www.nytimes.com/video/world/asia/100000007226041/china-coronavirus-masks-uighur-labor-ppe.html)
-* [Coronavirus Surge, John Lewis, Fall Gardens: Your Weekend Briefing](https://www.nytimes.com/2020/07/19/briefing/coronavirus-surge-john-lewis-fall-gardens.html)
 * [The Man Who Cracked the Lottery](https://www.nytimes.com/2020/07/19/podcasts/the-daily/lottery-winner-scam.html)
 * [One: Wonderland](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html)
 * [The Pandemic Is Straining Airbnb](https://www.nytimes.com/2020/07/17/technology/airbnb-coronavirus.html)
@@ -71,26 +70,26 @@ layout: default
 * [Petition Urges Trader Joe’s to Get Rid of ‘Racist Branding’](https://www.nytimes.com/2020/07/19/business/trader-joes-petition.html)
 * [Trump’s Hot-Button Fed Pick Faces Senate Committee Vote This Week](https://www.nytimes.com/2020/07/19/business/economy/judy-shelton-federal-reserve-vote.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
-* [Emirates Mars Mission: Watch the Launch](https://www.nytimes.com/2020/07/19/science/emirates-mars-mission.html)
+* [Emirates Mars Mission Launches From Japan](https://www.nytimes.com/2020/07/19/science/emirates-mars-mission.html)
 * [Nicaragua’s Ruling Sandinistas Fall Victim to Covid-19, Highlighting the Disease’s Spread](https://www.nytimes.com/2020/07/18/world/americas/coronavirus-nicaragua-sandinistas.html)
 * [Who Were the Freedom Riders?](https://www.nytimes.com/2020/07/18/us/politics/freedom-riders-john-lewis-work.html)
 * [With Tourists Gone, St. Patrick’s Cathedral Pleads for Help](https://www.nytimes.com/2020/07/19/nyregion/st-patricks-cathedral-pandemic-budget.html)
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Paired During a Medical Rotation, and Then in Life](https://www.nytimes.com/2020/07/17/fashion/weddings/paired-during-a-medical-rotation-and-then-in-life.html)
 * [How the Central Park Barber Spends His Sundays](https://www.nytimes.com/2020/07/17/nyregion/central-park-barber-nyc.html)
 * [Tips on Buying Bulbs for Fall Planting](https://www.nytimes.com/2020/07/15/realestate/Tips-bulbs-for-fall-planting-garden.html)
 * [How the Yankees Are Adapting to a Season of Distancing](https://www.nytimes.com/2020/07/17/sports/baseball/baseball-mlb-coronavirus-spitting.html)
 * [Buying Fine Jewelry on Instagram (Without Tears)](https://www.nytimes.com/2020/07/17/fashion/jewelry-instagram-buying-online.html)
+* [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
-* [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [Inside Trump’s Failure: The Rush to Abandon Leadership Role on the Virus](https://www.nytimes.com/2020/07/18/us/politics/trump-coronavirus-response-failure-leadership.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -98,6 +97,8 @@ layout: default
 ## globo.com
 
 
+* [Menos de um a cada quatro japoneses apoiam a realização dos Jogos Olímpicos de Tóquio, aponta pesquisa](https://oglobo.globo.com/esportes/menos-de-um-cada-quatro-japoneses-apoiam-realizacao-dos-jogos-olimpicos-de-toquio-aponta-pesquisa-24540807)
+* [Reportagem especial analisa os erros em comum de Brasil e Estados Unidos na pandemia](https://oglobo.globo.com/meu-oglobo/reportagem-especial-analisa-os-erros-em-comum-de-brasil-estados-unidos-na-pandemia-24540797)
 * [Morre Juan Marsé, aos 87 anos, o 'último romancista clássico da Espanha'](https://oglobo.globo.com/cultura/morre-juan-marse-aos-87-anos-ultimo-romancista-classico-da-espanha-1-24540733)
 * [Coronavírus: morre o presidente da Federação Boliviana de Futebol, César Salinas](https://oglobo.globo.com/esportes/coronavirus-morre-presidente-da-federacao-boliviana-de-futebol-cesar-salinas-24540755)
 * [Bolsonaro diz que Aliança pelo Brasil 'vai sair', mas admite alternativa](https://oglobo.globo.com/brasil/bolsonaro-diz-que-alianca-pelo-brasil-vai-sair-mas-admite-alternativa-1-24540740)
@@ -106,5 +107,3 @@ layout: default
 * [Unidos Venceremos: moradores de ocupação na Zona Oeste do Rio dão lição de solidariedade](https://oglobo.globo.com/rio/unidos-venceremos-moradores-de-ocupacao-na-zona-oeste-do-rio-dao-licao-de-solidariedade-24540737)
 * [Lewis Hamilton critica desmobilização em torno do racismo na Fórmula-1: 'Não está sendo levado a sério'](https://oglobo.globo.com/esportes/lewis-hamilton-critica-desmobilizacao-em-torno-do-racismo-na-formula-1-nao-esta-sendo-levado-serio-24540712)
 * [Rio ultrapassa marca de 12 mil mortes por Covid-19, com mais da metade na capital](https://oglobo.globo.com/rio/rio-ultrapassa-marca-de-12-mil-mortes-por-covid-19-com-mais-da-metade-na-capital-1-24540638)
-* [Twitter remove vídeo de Trump após reclamação da banda Linkin Park](https://oglobo.globo.com/cultura/twitter-remove-video-de-trump-apos-reclamacao-da-banda-linkin-park-24540620)
-* [Chelsea bate o Manchester United e vai à final da Copa da Inglaterra](https://oglobo.globo.com/esportes/chelsea-bate-manchester-united-vai-final-da-copa-da-inglaterra-24540600)

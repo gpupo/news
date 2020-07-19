@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 07:34:35 UTC
+# indexed at 19/07/2020 08:13:54 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
-* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
 * [Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
+* [Data-Transfer-Project](https://engineering.fb.com/security/data-transfer-project/)
 * [Hugelkultur: Raised Garden Beds](https://richsoil.com/hugelkultur/)
 * [Fast Vue SSR with Rust and QuickJS](https://github.com/galvez/fast-vue-ssr)
-* [Low-income housing has no impact on nearby home values (2016)](https://www.trulia.com/research/low-income-housing/)
 * [Show HN: Perfect Cookie Recipe Generator](https://thecookie.website/)
+* [Dixie cups became the breakout startup of the 1918 pandemic](https://www.fastcompany.com/90520298/how-dixie-cups-became-the-breakout-startup-of-the-1918-pandemic)
 * [The cpio trailer problem (2018)](https://entropymine.wordpress.com/2018/05/27/the-cpio-trailer-problem/)
 * [The event that eventually led to Newton writing and publishing the Principia](https://thonyc.wordpress.com/2020/07/15/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xl/)
 * [Icelandair letting go its flight attendants and shifting their duties to pilots](https://www.businessinsider.com/icelandair-fire-all-flight-attendants-make-pilots-do-job-2020-7)
-* [Dixie cups became the breakout startup of the 1918 pandemic](https://www.fastcompany.com/90520298/how-dixie-cups-became-the-breakout-startup-of-the-1918-pandemic)
-* [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
 * [Why companies lose their best innovators (2019)](https://www.forbes.com/sites/kmehta/2019/07/11/why-companies-lose-their-best-innovators/#72eade2032e1)
-* [Samsung Blu-ray players bricked because of an XML config file](https://www.theregister.com/2020/07/18/samsung_bluray_mass_dieoff_explained/)
+* [Optimizing Ray Tracing in Haskell](https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a)
+* [Low-income housing has no impact on nearby home values (2016)](https://www.trulia.com/research/low-income-housing/)
+* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
 * [Freeway project unearths a time when camels roamed San Diego](https://www.sandiegouniontribune.com/news/science/story/2020-07-17/fossil-find-ancient-camels)
 * [Coursera valued at $2.5B after a finance round of additional $130M](https://iblnews.org/coursera-valued-at-2-5-billion-after-a-finance-round-of-additional-130-million/)
 * [Windows on Raspberry](https://www.worproject.ml/)
 * [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
-* [Show HN: Dockerfiler: declarative management of images built from Dockerfiles](https://github.com/jbergknoff/Dockerfiler)
+* [Modeling the Human Trajectory](https://www.openphilanthropy.org/blog/modeling-human-trajectory)
 * [PIFuHD: High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
-* [Could IPOs be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
-* [The Intel 8086 processor's registers: from chip to transistors](http://www.righto.com/2020/07/the-intel-8086-processors-registers.html)
-* [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
+* [Show HN: Dockerfiler: declarative management of images built from Dockerfiles](https://github.com/jbergknoff/Dockerfiler)
 * [Views on Error Handling](https://dannas.name/error-handling)
-* [John Gilmore: History of Cygnus's Growth](https://minnie.tuhs.org/pipermail/tuhs/2020-May/021225.html)
+* [Could IPOs be replaced by blank check acquisitions (SPAC)?](https://www.quora.com/Could-IPO-s-be-replaced-by-blank-check-acquisitions-SPAC?share=1)
+* [On Trouser Pockets](https://sambleckley.com/writing/pockets.html)
 * [How ultra-black fish disappear in the deepest seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [Ancient human ancestors carved handaxe from a hippo femur 1.4M years ago: study](https://edition.cnn.com/2020/07/17/world/ancient-tool-hippo-handaxe-scn-trnd/index.html)
-* [Monoalphabetic Cipher: Encode and Decode Online](https://kifanga.com/tools/cipher/monoalphabetic-cipher)
 * [Typed Lisp, a Primer (2019)](https://alhassy.github.io/TypedLisp.html)
+* [Monoalphabetic Cipher: Encode and Decode Online](https://kifanga.com/tools/cipher/monoalphabetic-cipher)
+* [When Chevrolet Ruled Uzbekistan (2019)](https://www.ozy.com/flashback/how-chevrolet-ruled-uzbekistan/94984)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [China Is Dismantling the Empire of a Vanished Tycoon](https://www.nytimes.com/2020/07/18/business/china-xiao-jianhua.html)
 * [Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.](https://www.nytimes.com/2020/07/19/world/europe/tourism-virus-europe.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What We Eat During a Plague](https://www.nytimes.com/2020/07/16/t-magazine/eating-food-during-plague.html)
 * [It’s All About the Franklins … the Aretha Franklins](https://www.nytimes.com/2020/07/16/business/who-should-be-on-our-money.html)
 * [You’re Doomscrolling Again. Here’s How to Snap Out of It.](https://www.nytimes.com/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Após quarentena, Bolsonaro planeja agenda de inaugurações por estados como Bahia, São Paulo e Mato Grosso](https://oglobo.globo.com/brasil/apos-quarentena-bolsonaro-planeja-agenda-de-inauguracoes-por-estados-como-bahia-sao-paulo-mato-grosso-1-24540213)
 * [Ala ideológica admite perda de espaço no governo após gestos de Bolsonaro ao Congresso e STF](https://oglobo.globo.com/brasil/ala-ideologica-admite-perda-de-espaco-no-governo-apos-gestos-de-bolsonaro-ao-congresso-stf-1-24540261)
 * [Queixas sobre vendas pela internet dobram nos Procons](https://oglobo.globo.com/economia/defesa-do-consumidor/queixas-sobre-vendas-pela-internet-dobram-nos-procons-24539902)
-* [‘Desmatar é acabar com o futuro. Dá lucro a poucos por pouco tempo’, diz Carlos Nobre](https://oglobo.globo.com/economia/desmatar-acabar-com-futuro-da-lucro-poucos-por-pouco-tempo-diz-carlos-nobre-24540086)
 * [Policiais militares do Rio vão usar celulares para fichar bandidos](https://oglobo.globo.com/rio/policiais-militares-do-rio-vao-usar-celulares-para-fichar-bandidos-24540239)
 * [CGU projeta em R$ 1,9 bilhão sobrepreço de compras para combate ao coronavírus](https://oglobo.globo.com/brasil/cgu-projeta-em-19-bilhao-sobrepreco-de-compras-para-combate-ao-coronavirus-1-24540124)
 * [Nome forte para vaga no STF, André Mendonça atua contra crises e ganha espaço com Bolsonaro](https://oglobo.globo.com/brasil/nome-forte-para-vaga-no-stf-andre-mendonca-atua-contra-crises-ganha-espaco-com-bolsonaro-1-24540206)
 * [Artigo: Governantes podem tentar esquecer coronavírus, mas o desastre no enfrentamento da pandemia chegará às urnas](https://oglobo.globo.com/sociedade/artigo-governantes-podem-tentar-esquecer-coronavirus-mas-desastre-no-enfrentamento-da-pandemia-chegara-as-urnas-24539282)
 * [Aliados nos erros: Verba curta e falta de governança debilitam SUS diante da pandemia, dizem especialistas](https://oglobo.globo.com/sociedade/aliados-nos-erros-verba-curta-falta-de-governanca-debilitam-sus-diante-da-pandemia-dizem-especialistas-24539199)
+* [Dia do Futebol: Clube mais antigo do Brasil, Rio Grande completa 120 anos](https://oglobo.globo.com/esportes/dia-do-futebol-clube-mais-antigo-do-brasil-rio-grande-completa-120-anos-24539015)
+* [Última chamada para embarcar no Festival Delivery Rio](https://oglobo.globo.com/rioshow/ultima-chamada-para-embarcar-no-festival-delivery-rio-24538398)
 * ['A conta vem, e não só para aqueles que causaram o dano', diz Gisele Bündchen sobre política brasileira ambiental](https://oglobo.globo.com/ela/gente/a-conta-vem-nao-so-para-aqueles-que-causaram-dano-diz-gisele-bundchen-sobre-politica-brasileira-ambiental-24535559)

@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 07:13:12 UTC
+# indexed at 20/07/2020 07:34:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [DIY Video Hosting](https://tyler.io/diy-video-hosting/)
+* [Video Vectorization – reduce video size by about 95% for line-art based videos](https://vectorly.io/docs/technology/)
 * [In Praise of ZFS on Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
 * ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
-* [I Don't Want to Be a Founder](https://carolchen.me/blog/founding-bad/)
 * [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
 * [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
+* [I Don't Want to Be a Founder](https://carolchen.me/blog/founding-bad/)
 * [How Ruby on Rails Could Be Much Better (2008)](https://www.dreamhost.com/blog/how-ruby-on-rails-could-be-much-better/)
-* [Video Vectorization – reduce video size by about 95% for line-art based videos](https://vectorly.io/docs/technology/)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 * [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
@@ -24,17 +24,17 @@ layout: default
 * [Why do U.S. coins seem to be in short supply?](https://www.federalreserve.gov/faqs/why-do-us-coins-seem-to-be-in-short-supply-coin-shortage.htm)
 * [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
 * [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
+* [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
 * [Schools Beat Earlier Plagues with Outdoor Classes. We Should, Too](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-nyc-schools-reopening-outdoors.html)
-* [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
 * [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
+* [Man Dressed as Delivery Driver Executes Hit on Federal Judges House](https://abcnews.go.com/US/federal-judges-son-shot-killed-husband-injured-attack/story?id=71871708)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
-* [Man Dressed as Delivery Driver Executes Hit on Federal Judges House](https://abcnews.go.com/US/federal-judges-son-shot-killed-husband-injured-attack/story?id=71871708)
+* [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
 * [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 * [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 * [Worms Armageddon 3.8](https://worms2d.info/Worms_Armageddon_3.8_Features)
@@ -77,11 +77,11 @@ layout: default
 * [From Antifa to Mothers in Helmets, Diverse Elements Fuel Portland Protests](https://www.nytimes.com/2020/07/19/us/portland-protests.html)
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 01:34:43 UTC
+# indexed at 20/07/2020 02:14:34 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
-* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * ['Doomscrolling' Breeds Anxiety. Here's How to Stop the Cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
+* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
+* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [Worms Armageddon Patch 3.8](https://store.steampowered.com/newshub/app/217200/view/4889171591903920896)
-* [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
-* [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
-* [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
 * [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
+* [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
+* [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
 * [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
+* [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
 * [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
-* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
-* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
-* [Do Colorless Ideas Sleep Furiously? (1997)](http://www.mit.edu/people/dpolicar/writing/proseDP/text/colorlessIdeas.html)
-* [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
 * [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
-* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
+* [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
+* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 * [In a first, UAE spacecraft blasts off to Mars from Japan](https://www.smh.com.au/world/asia/in-a-first-uae-spacecraft-blasts-off-to-mars-from-japan-20200720-p55djq.html)
+* [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
+* [Do Colorless Ideas Sleep Furiously? (1997)](http://www.mit.edu/people/dpolicar/writing/proseDP/text/colorlessIdeas.html)
+* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
 * [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
-* [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
 * [Ask HN: CS Researchers, why did you choose your subfield and niche?](https://news.ycombinator.com/item?id=23891838)
 * [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
-* [Positive-unlabeled learning (2017)](https://roywrightme.wordpress.com/2017/11/16/positive-unlabeled-learning/)
+* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
+* [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
+* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 ## nytimes.com
 
 
@@ -88,9 +88,9 @@ layout: default
 * [Jane Walentas, Who Planted a Carousel in Dumbo, Dies at 76](https://www.nytimes.com/2020/07/17/nyregion/jane-walentas-dead.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
-* [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [What’s Better Than Caramelized Onions? Caramelized Peppers](https://www.nytimes.com/2020/07/17/dining/caramelized-pepper-pasta-recipe.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -99,6 +99,7 @@ layout: default
 ## globo.com
 
 
+* [Chile anuncia plano de desconfinamento gradual após mais de quatro meses de restrições](https://oglobo.globo.com/mundo/chile-anuncia-plano-de-desconfinamento-gradual-apos-mais-de-quatro-meses-de-restricoes-24540728)
 * [Em oito estados, pandemia têm tendência de queda, mas média móvel do Brasil continua estável](https://oglobo.globo.com/sociedade/em-oito-estados-pandemia-tem-tendencia-de-queda-mas-media-movel-do-brasil-continua-estavel-24540868)
 * [Carlos Ghosn classifica resultado da Renault e da Nissan como patético](https://oglobo.globo.com/economia/carlos-ghosn-classifica-resultado-da-renault-da-nissan-como-patetico-24540865)
 * [Atalanta e mais 20: Quem já está na fase de grupos da Liga dos Campeões 2020/2021](https://oglobo.globo.com/esportes/atalanta-mais-20-quem-ja-esta-na-fase-de-grupos-da-liga-dos-campeoes-20202021-24540864)
@@ -108,4 +109,3 @@ layout: default
 * [Coronavírus: morre o presidente da Federação Boliviana de Futebol, César Salinas](https://oglobo.globo.com/esportes/coronavirus-morre-presidente-da-federacao-boliviana-de-futebol-cesar-salinas-24540755)
 * [Menos de um a cada quatro japoneses apoia a realização dos Jogos Olímpicos de Tóquio, aponta pesquisa](https://oglobo.globo.com/esportes/menos-de-um-cada-quatro-japoneses-apoia-realizacao-dos-jogos-olimpicos-de-toquio-aponta-pesquisa-24540807)
 * [Reportagem especial analisa os erros em comum de Brasil e Estados Unidos na pandemia](https://oglobo.globo.com/meu-oglobo/reportagem-especial-analisa-os-erros-em-comum-de-brasil-estados-unidos-na-pandemia-24540797)
-* [Morre Juan Marsé, aos 87 anos, o 'último romancista clássico da Espanha'](https://oglobo.globo.com/cultura/morre-juan-marse-aos-87-anos-ultimo-romancista-classico-da-espanha-1-24540733)

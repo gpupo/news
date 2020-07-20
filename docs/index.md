@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 13:12:28 UTC
+# indexed at 20/07/2020 13:35:37 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Any claim without a URI should be treated as suspicious](https://shkspr.mobi/blog/2020/07/any-claim-without-a-uri-should-be-treated-as-suspicious/)
 * [Z80 Explorer – a Zilog Z80 netlist-level simulator](https://baltazarstudios.com/z80explorer/)
 * [DIY Video Hosting](https://tyler.io/diy-video-hosting/)
+* [Twitter Got Hacked, Is Mastodon Immune?](https://mikestone.me/twitter-got-hacked-is-mastodon-immune)
 * [Video Vectorization](https://vectorly.io/docs/technology/)
+* [eBay to sell classified ads unit to Adevinta for nearly $9B: source](https://www.reuters.com/article/us-ebay-classifieds-m-a/ebay-to-sell-classified-ads-unit-to-adevinta-for-nearly-9-billion-source-idUSKCN24L0ID)
 * [Minecraft@Home](https://minecraftathome.com/minecrafthome/)
 * [Why GPT-3 Matters](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/)
-* [Twitter Got Hacked, Is Mastodon Immune?](https://mikestone.me/twitter-got-hacked-is-mastodon-immune)
 * [TileDB Closes $15M Series A for Universal Data Engine](https://tiledb.com/blog/tiledb-closes-15m-series-a-for-industry-s-first-universal-data-engine-2020-07-14)
-* [eBay to sell classified ads unit to Adevinta for nearly $9B: source](https://www.reuters.com/article/us-ebay-classifieds-m-a/ebay-to-sell-classified-ads-unit-to-adevinta-for-nearly-9-billion-source-idUSKCN24L0ID)
 * [In Praise of ZFS on Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
+* [The German Problem with Tor](https://worldofmatthew.com/post/tor-german-avoid/)
 * [OpenAI should now change their name to ClosedAI](https://www.reddit.com/r/MachineLearning/comments/aqwcyx/discussion_openai_should_now_change_their_name_to/)
 * ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
+* [Generate UUIDs, that are Shakespearean grammatically correct sentences](https://github.com/Debdut/uuid-readable)
 * [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
 * [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
 * [Coronavirus protein treatment trial 'a breakthrough'](https://www.bbc.co.uk/news/health-53467022)
 * [I Don't Want to Be a Founder](https://carolchen.me/blog/founding-bad/)
-* [Generate UUIDs, that are Shakespearean grammatically correct sentences](https://github.com/Debdut/uuid-readable)
-* [Fact-check of viral climate misinformation quietly removed from Facebook](https://popular.info/p/fact-check-of-viral-climate-misinformation?token=eyJ1c2VyX2lkIjo3MzQyNTMsInBvc3RfaWQiOjczNzE5NSwiXyI6InltL3hkIiwiaWF0IjoxNTk1MjQzNDMwLCJleHAiOjE1OTUyNDcwMzAsImlzcyI6InB1Yi0xNjY0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.8KbuvtlorsxcLyrho1siReQsViHR6TPmpCGCtKDoMYk)
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
-* [Spotting Quantum Black Holes in the Lab](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
+* [Hospitals see significant drop in premature births during lockdown](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
+* [What’s shaking? Earthquake detection with submarine cables](https://cloud.google.com/blog/products/infrastructure/using-subsea-cables-to-detect-earthquakes)
 * [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 * [Schools Beat Earlier Plagues With Outdoor Classes](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-nyc-schools-reopening-outdoors.html)
-* [Hospitals see significant drop in premature births during lockdown](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
-* [Netflix teases desktops-as-a-service offering aimed at VFX creators](https://www.theregister.com/2020/07/20/netflix_netfx_desktop_as_a_service/)
 * [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
-* [Tunnels and Trolls](https://en.wikipedia.org/wiki/Tunnels_%26_Trolls)
 * [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
+* [Netflix teases desktops-as-a-service offering aimed at VFX creators](https://www.theregister.com/2020/07/20/netflix_netfx_desktop_as_a_service/)
+* [Tunnels and Trolls](https://en.wikipedia.org/wiki/Tunnels_%26_Trolls)
 ## nytimes.com
 
 
@@ -82,20 +82,20 @@ layout: default
 * [N.Y.C. Enters Phase 4, but Restaurants and Bars Are Left Behind](https://www.nytimes.com/2020/07/20/nyregion/nyc-phase-4-reopening-bars.html)
 * [Black Artists See Glaring Opportunism in Corporate Rush to Use Their Work](https://www.nytimes.com/2020/07/20/business/media/black-creatives-protests.html)
 * [From Antifa to Mothers in Helmets, Diverse Elements Fuel Portland Protests](https://www.nytimes.com/2020/07/19/us/portland-protests.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Without Music, Tanglewood Is Empty, Eerie and Beautiful](https://www.nytimes.com/2020/07/20/arts/music/tanglewood-berkshires-massachusetts.html)
 * [TV Was My Family’s Universal Translator](https://www.nytimes.com/2020/07/17/well/family/tv-was-my-familys-universal-translator.html)
 * [One N.H.L. Team's Time in Canada for Season Restart Is a Return](https://www.nytimes.com/2020/07/19/sports/hockey/coronavirus-nhl-canada-season.html)
 * [What’s Better Than Caramelized Onions? Caramelized Peppers](https://www.nytimes.com/2020/07/17/dining/caramelized-pepper-pasta-recipe.html)
 * [Downsizing From a Two-Bedroom to a Studio](https://www.nytimes.com/2020/07/20/realestate/downsizing-from-a-two-bedroom-to-a-studio.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
-* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
 * [During Coronavirus Lockdowns, Some Doctors Wondered: Where Are the Preemies?](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [Trump Leans Into False Virus Claims in Chris Wallace Interview](https://www.nytimes.com/2020/07/19/us/politics/trump-fox-interview-coronavirus-race.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Vacina candidata chinesa chega ao Brasil para testes contra a Covid-19](https://oglobo.globo.com/sociedade/vacina-candidata-chinesa-chega-ao-brasil-para-testes-contra-covid-19-1-24541192)
+* [Cão foge e percorre 80 km até sua antiga casa](https://epoca.globo.com/mundo/cao-foge-percorre-80-km-ate-sua-antiga-casa-24541311)
+* [Dólar inicia a semana com desvalorização frente ao real cotado a R$ 5,36; Bolsa sobe](https://oglobo.globo.com/economia/dolar-inicia-semana-com-desvalorizacao-frente-ao-real-cotado-r-536-bolsa-sobe-24541305)
+* [Embraer vê forte queda nas entregas do 2º trimestre com relação a mesmo período de 2019](https://oglobo.globo.com/economia/embraer-ve-forte-queda-nas-entregas-do-2-trimestre-com-relacao-mesmo-periodo-de-2019-24541286)
 * [Princesa Beatrice usou vestido e tiara da rainha em casamento privado](https://oglobo.globo.com/ela/gente/princesa-beatrice-usou-vestido-tiara-da-rainha-em-casamento-privado-24541253)
 * [Acervo de Daniel Azulay é leiloado em ação beneficente](https://oglobo.globo.com/cultura/acervo-de-daniel-azulay-leiloado-em-acao-beneficente-1-24541282)
 * [Percurso de Bielsa mostra que há muitas formas de ser influente no futebol, não apenas com títulos](https://oglobo.globo.com/esportes/percurso-de-bielsa-mostra-que-ha-muitas-formas-de-ser-influente-no-futebol-nao-apenas-com-titulos-24541270)
 * [Dermatologistas alertam para proteção dos raios ultravioletas mesmo em casa](https://oglobo.globo.com/ela/beleza/pele/dermatologistas-alertam-para-protecao-dos-raios-ultravioletas-mesmo-em-casa-24541268)
 * [Em razão da pandemia, Bola de Ouro não será entregue pela primeira vez na história](https://oglobo.globo.com/esportes/em-razao-da-pandemia-bola-de-ouro-nao-sera-entregue-pela-primeira-vez-na-historia-24541217)
-* [Caixa fará novos pagamentos de auxílio emergencial e FGTS nesta semana. Confira o calendário](https://oglobo.globo.com/economia/caixa-fara-novos-pagamentos-de-auxilio-emergencial-fgts-nesta-semana-confira-calendario-24541153)
-* [Uma das principais promessas de campanha de Witzel, câmeras de reconhecimento facial não funcionam mais desde o fim de 2019](https://oglobo.globo.com/rio/uma-das-principais-promessas-de-campanha-de-witzel-cameras-de-reconhecimento-facial-nao-funcionam-mais-desde-fim-de-2019-1-24541177)
-* [Brasil tem 2.100.112 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2100112-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24541160)
+* [Multa de jogadores protege Flamengo, que se prepara para segundo round contra Benfica](https://oglobo.globo.com/esportes/multa-de-jogadores-protege-flamengo-que-se-prepara-para-segundo-round-contra-benfica-24541109)
 * [De Gaulle, das brigas com Churchill ao discurso em rádio convocando franceses](https://epoca.globo.com/guilherme-amado/de-gaulle-das-brigas-com-churchill-ao-discurso-em-radio-convocando-franceses-24538614)

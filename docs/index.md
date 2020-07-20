@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/07/2020 23:35:57 UTC
+# indexed at 20/07/2020 00:38:17 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
+* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
-* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-* [The Fed: Why do U.S. coins seem to be in short supply?](https://www.federalreserve.gov/faqs/why-do-us-coins-seem-to-be-in-short-supply-coin-shortage.htm)
-* [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
 * [Worms Armageddon Patch 3.8](https://store.steampowered.com/newshub/app/217200/view/4889171591903920896)
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
-* [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
-* [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
+* [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
 * [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
-* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
-* [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
-* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
-* [The Passport Payment (2000)](https://web.archive.org/web/20031002153020/http://www.doublewide.net/)
+* [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
+* [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 * [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
+* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
+* [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
+* [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
+* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
+* [Do Colorless Ideas Sleep Furiously? (1997)](http://www.mit.edu/people/dpolicar/writing/proseDP/text/colorlessIdeas.html)
 * [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
-* [Positive-unlabeled learning (2017)](https://roywrightme.wordpress.com/2017/11/16/positive-unlabeled-learning/)
-* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
-* [Ask HN: CS Researchers, why did you choose your subfield and niche?](https://news.ycombinator.com/item?id=23891838)
-* [The Keynesian Revolution: A new biography of John Maynard Keynes](http://bostonreview.net/class-inequality/jonathan-kirshner-keynesian-revolution)
-* [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
+* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
+* [In a first, UAE spacecraft blasts off to Mars from Japan](https://www.smh.com.au/world/asia/in-a-first-uae-spacecraft-blasts-off-to-mars-from-japan-20200720-p55djq.html)
+* [Positive-unlabeled learning (2017)](https://roywrightme.wordpress.com/2017/11/16/positive-unlabeled-learning/)
 * [Spies in the Xerox Machine (1997)](https://electricalstrategies.com/about/in-the-news/spies-in-the-xerox-machine/)
+* [Ask HN: CS Researchers, why did you choose your subfield and niche?](https://news.ycombinator.com/item?id=23891838)
+* [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
+* [Debugging a dynamic linking bug in a Nix project](https://www.johnbcoughlin.com/posts/nix-dynamic-linking/)
 ## nytimes.com
 
 
@@ -77,10 +77,10 @@ layout: default
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Carlos Ghosn classifica resultado da Renault e da Nissan como patético](https://oglobo.globo.com/economia/carlos-ghosn-classifica-resultado-da-renault-da-nissan-como-patetico-24540865)
+* [Em oito estados, pandemia têm tendência de queda, mas média móvel do Brasil continua estável](https://oglobo.globo.com/sociedade/em-oito-estados-pandemia-tem-tendencia-de-queda-mas-media-movel-do-brasil-continua-estavel-24540868)
+* [Atalanta e mais 20: Quem já está na fase de grupos da Liga dos Campeões 2020/2021](https://oglobo.globo.com/esportes/atalanta-mais-20-quem-ja-esta-na-fase-de-grupos-da-liga-dos-campeoes-20202021-24540864)
+* [Atalanta e outros mais: Quem está na fase de grupos da Liga dos Campeões 2020/2021](https://oglobo.globo.com/esportes/atalanta-outros-mais-quem-esta-na-fase-de-grupos-da-liga-dos-campeoes-20202021-24540863)
 * [Hospital Samaritano de Botafogo zera os leitos de pacientes com coronavírus](https://oglobo.globo.com/rio/hospital-samaritano-de-botafogo-zera-os-leitos-de-pacientes-com-coronavirus-24540850)
 * [Boletim das 20h: Com 716 novas mortes, Brasil tem domingo com mais óbitos registrados em 24h, diz consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/boletim-das-20h-com-716-novas-mortes-brasil-tem-domingo-com-mais-obitos-registrados-em-24h-diz-consorcio-de-veiculos-da-imprensa-24540790)
 * [Coronavírus: morre o presidente da Federação Boliviana de Futebol, César Salinas](https://oglobo.globo.com/esportes/coronavirus-morre-presidente-da-federacao-boliviana-de-futebol-cesar-salinas-24540755)
 * [Menos de um a cada quatro japoneses apoia a realização dos Jogos Olímpicos de Tóquio, aponta pesquisa](https://oglobo.globo.com/esportes/menos-de-um-cada-quatro-japoneses-apoia-realizacao-dos-jogos-olimpicos-de-toquio-aponta-pesquisa-24540807)
-* [Bolsonaro diz que Aliança pelo Brasil 'vai sair', mas admite alternativa](https://oglobo.globo.com/brasil/bolsonaro-diz-que-alianca-pelo-brasil-vai-sair-mas-admite-alternativa-1-24540740)
 * [Reportagem especial analisa os erros em comum de Brasil e Estados Unidos na pandemia](https://oglobo.globo.com/meu-oglobo/reportagem-especial-analisa-os-erros-em-comum-de-brasil-estados-unidos-na-pandemia-24540797)
 * [Morre Juan Marsé, aos 87 anos, o 'último romancista clássico da Espanha'](https://oglobo.globo.com/cultura/morre-juan-marse-aos-87-anos-ultimo-romancista-classico-da-espanha-1-24540733)
-* [Estado é notificado e governador e secretário podem ser multados se não mantiverem hospitais de campanha abertos](https://oglobo.globo.com/rio/estado-notificado-governador-secretario-podem-ser-multados-se-nao-mantiverem-hospitais-de-campanha-abertos-24540731)
-* [Unidos Venceremos: moradores de ocupação na Zona Oeste do Rio dão lição de solidariedade](https://oglobo.globo.com/rio/unidos-venceremos-moradores-de-ocupacao-na-zona-oeste-do-rio-dao-licao-de-solidariedade-24540737)
-* [Lewis Hamilton critica desmobilização em torno do racismo na Fórmula-1: 'Não está sendo levado a sério'](https://oglobo.globo.com/esportes/lewis-hamilton-critica-desmobilizacao-em-torno-do-racismo-na-formula-1-nao-esta-sendo-levado-serio-24540712)

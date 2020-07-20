@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 23:12:27 UTC
+# indexed at 20/07/2020 23:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
-* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
 * [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
+* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
 * [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
 * [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
 * [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 * [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
 * [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
-* [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
+* [Certificate Transparency: a bird's-eye view](https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html)
+* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 * [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
+* [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
 * [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
+* [Pharo Smalltalk Overview](https://www.pharo.org/features)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
-* [Principles for great product managers](http://reeve.blog/blog/principles/)
 * [Turns out half the internet has a single-point-of-failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
+* [Principles for great product managers](http://reeve.blog/blog/principles/)
 * [Ways to think long-term: a cognitive toolkit for good ancestors](https://blog.longnow.org/02020/07/20/six-ways-to-think-long-term-a-cognitive-toolkit-for-good-ancestors/)
-* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
 * [Solving Sudoku with Graph Theory](https://rakhman.info/blog/solving-sudoku-with-graph-theory/)
+* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
 * [SafetyWing (YC W18) Is Hiring a Chief Revenue Officer](https://angel.co/company/safetywing-3/jobs/900187-chief-revenue-officer)
-* [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [The great vectors-versus-quaternions debate (2014)](https://fexpr.blogspot.com/2014/03/the-great-vectors-versus-quaternions.html)
-* [I asked GPT-3 to make a presentation for me](http://www.bemmu.com/gpt3-presentation)
+* [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
+* [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [Coronavirus: Oxford vaccine triggers immune response](https://www.bbc.co.uk/news/uk-53469839)
+* [I asked GPT-3 to make a presentation for me](http://www.bemmu.com/gpt3-presentation)
 * [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
 * [Ireland donates contact tracing app to Linux Foundation](https://www.nearform.com/blog/ireland-donates-contact-tracing-app-to-linux-foundation/)
-* [Show HN: YouTube Search Fixer – Firefox addon that removes unrelated suggestions](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/)
-* [Any claim without a URI should be treated as suspicious](https://shkspr.mobi/blog/2020/07/any-claim-without-a-uri-should-be-treated-as-suspicious/)
-* [A Look at Early Japanese Typewriters (2016)](https://filthyplaten.com/2016/07/23/__trashed/)
-* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 ## nytimes.com
 
 
@@ -50,8 +50,9 @@ layout: default
 * [Big Polling Leads Tend to Erode. Is Biden’s Edge Different?](https://www.nytimes.com/2020/07/20/upshot/biden-trump-poll.html)
 * [Live Biden vs. Trump 2020: Nikema Williams, Polls and Coronavirus](https://www.nytimes.com/2020/07/20/us/elections/biden-vs-trump.html)
 * [Portland Protests: A Navy Veteran Had a Question for the Feds. They Beat Him in Response.](https://www.nytimes.com/2020/07/20/us/portland-protests-navy-christopher-david.html)
+* [Defying Trump, Lawmakers Move to Strip Military Bases of Confederate Names](https://www.nytimes.com/2020/07/20/us/politics/congress-trump-confederate-base-names.html)
 * [‘Less Optimistic’ and ‘More Cautious’: Top C.E.O.s Fret as Virus Cases Rise](https://www.nytimes.com/2020/07/20/business/coronavirus-ceos-economy.html)
-* [Son of Esther Salas Is Killed: Roy Den Hollander, a Lawyer, Is Identified as Suspect](https://www.nytimes.com/2020/07/20/nyregion/esther-salas.html)
+* [Son of N.J. Judge Is Killed: Roy Den Hollander, a Lawyer, Is Identified as Suspect](https://www.nytimes.com/2020/07/20/nyregion/esther-salas.html)
 * [For Women in Afghan Security Forces, a Daily Battle](https://www.nytimes.com/2020/07/20/world/asia/afghanistan-women-police.html)
 * [The Japanese-American Sculptor Who, Despite Persecution, Made Her Mark](https://www.nytimes.com/2020/07/20/t-magazine/ruth-asawa.html)
 * [Stimulus, Biden, Polar Bears: Your Monday Evening Briefing](https://www.nytimes.com/2020/07/20/briefing/stimulus-biden-polar-bears.html)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Indígenas reclamam ao STF de tratamento humilhante do governo](https://oglobo.globo.com/brasil/indigenas-reclamam-ao-stf-de-tratamento-humilhante-do-governo-24542287)
+* [Vinte governadores divulgam carta apoiando texto da Câmara sobre Fundeb](https://oglobo.globo.com/sociedade/vinte-governadores-divulgam-carta-apoiando-texto-da-camara-sobre-fundeb-24542350)
 * [Via Varejo publica e apaga informações sobre vendas e ação atinge máxima histórica](https://oglobo.globo.com/economia/via-varejo-publica-apaga-informacoes-sobre-vendas-acao-atinge-maxima-historica-1-24542314)
+* [Petrobras vende 10% da TAG por R$ 1 bilhão para Engie e CDPQ](https://oglobo.globo.com/economia/petrobras-vende-10-da-tag-por-1-bilhao-para-engie-cdpq-24542346)
+* [Fusão com PCdoB ainda precisa ser discutida internamente, diz presidente do PSB](https://oglobo.globo.com/brasil/fusao-com-pcdob-ainda-precisa-ser-discutida-internamente-diz-presidente-do-psb-1-24542300)
 * [Maia defende corte de gastos para financiar desoneração da folha de pagamentos](https://oglobo.globo.com/economia/maia-defende-corte-de-gastos-para-financiar-desoneracao-da-folha-de-pagamentos-1-24542286)
-* [Fusão com PCdoB ainda precisa ser discutida internamente, diz presidente do PSB](https://oglobo.globo.com/brasil/fusao-com-pcdob-ainda-precisa-ser-discutida-internamente-diz-presidente-do-psb-24542300)
 * [Credores da Argentina rejeitam oferta de swap da dívida e fazem nova proposta](https://oglobo.globo.com/economia/credores-da-argentina-rejeitam-oferta-de-swap-da-divida-fazem-nova-proposta-24542335)
 * [Brasil chega a 80 mil mortes por Covid-19, aponta consórcio de veículos da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-chega-80-mil-mortes-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-20h-24542274)
 * [Bolsonaro busca 'conciliação' e age como 'moderador', diz Heleno](https://oglobo.globo.com/brasil/bolsonaro-busca-conciliacao-age-como-moderador-diz-heleno-1-24542281)
-* [Indígenas reclamam ao STF de tratamento humilhante do governo](https://oglobo.globo.com/brasil/indigenas-reclamam-ao-stf-de-tratamento-humilhante-do-governo-24542287)
-* [Casa Civil autoriza contratar filha de Braga Netto com salário de R$ 13 mil na ANS](https://oglobo.globo.com/brasil/casa-civil-autoriza-contratar-filha-de-braga-netto-com-salario-de-13-mil-na-ans-24542262)
 * [Flordelis falta a depoimento sobre menina que viveu em situação irregular em sua casa por oito anos](https://oglobo.globo.com/rio/flordelis-falta-depoimento-sobre-menina-que-viveu-em-situacao-irregular-em-sua-casa-por-oito-anos-24542268)
-* [WhatsApp: BC deve autorizar pagamentos pelo aplicativo se regras forem respeitadas, diz diretor](https://oglobo.globo.com/economia/whatsapp-bc-deve-autorizar-pagamentos-pelo-aplicativo-se-regras-forem-respeitadas-diz-diretor-24542259)

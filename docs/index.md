@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 02:14:34 UTC
+# indexed at 20/07/2020 02:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -23,21 +23,21 @@ layout: default
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
 * [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
 * [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
+* [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
-* [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
-* [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
-* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
-* [In a first, UAE spacecraft blasts off to Mars from Japan](https://www.smh.com.au/world/asia/in-a-first-uae-spacecraft-blasts-off-to-mars-from-japan-20200720-p55djq.html)
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
-* [Do Colorless Ideas Sleep Furiously? (1997)](http://www.mit.edu/people/dpolicar/writing/proseDP/text/colorlessIdeas.html)
-* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
+* [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
+* [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
+* [Building DIY LED strips for fun](https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/)
+* [In a first, UAE spacecraft blasts off to Mars from Japan](https://www.smh.com.au/world/asia/in-a-first-uae-spacecraft-blasts-off-to-mars-from-japan-20200720-p55djq.html)
+* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 * [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
-* [Ask HN: CS Researchers, why did you choose your subfield and niche?](https://news.ycombinator.com/item?id=23891838)
+* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
+* [Do Colorless Ideas Sleep Furiously? (1997)](http://www.mit.edu/people/dpolicar/writing/proseDP/text/colorlessIdeas.html)
 * [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
+* [Ask HN: CS Researchers, why did you choose your subfield and niche?](https://news.ycombinator.com/item?id=23891838)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
 * [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
-* [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 ## nytimes.com
 
 
@@ -77,20 +77,20 @@ layout: default
 * [From Antifa to Mothers in Helmets, Diverse Elements Fuel Portland Protests](https://www.nytimes.com/2020/07/19/us/portland-protests.html)
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)
 * [Jane Walentas, Who Planted a Carousel in Dumbo, Dies at 76](https://www.nytimes.com/2020/07/17/nyregion/jane-walentas-dead.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
-* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
-* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
+* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [What’s Better Than Caramelized Onions? Caramelized Peppers](https://www.nytimes.com/2020/07/17/dining/caramelized-pepper-pasta-recipe.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

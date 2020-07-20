@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 04:13:51 UTC
+# indexed at 20/07/2020 04:34:28 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
-* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
+* [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
+* [I Don't Want to Be a Founder and I Don't Think You Do Either](https://carolchen.me/blog/founding-bad/)
+* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
+* [How Ruby on Rails Could Be Much Better (2008)](https://www.dreamhost.com/blog/how-ruby-on-rails-could-be-much-better/)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+* [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
 * [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
 * [Why do U.S. coins seem to be in short supply?](https://www.federalreserve.gov/faqs/why-do-us-coins-seem-to-be-in-short-supply-coin-shortage.htm)
-* [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
 * [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
-* [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
 * [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
+* [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
 * [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 * [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
 * [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
 * [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
+* [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
 * [In a first, UAE spacecraft blasts off to Mars from Japan](https://www.smh.com.au/world/asia/in-a-first-uae-spacecraft-blasts-off-to-mars-from-japan-20200720-p55djq.html)
+* [Schools Beat Earlier Plagues with Outdoor Classes. We Should, Too](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-nyc-schools-reopening-outdoors.html)
+* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [The New Siberians](https://daily.jstor.org/the-new-siberians/)
-* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [Worms Armageddon 3.8](https://worms2d.info/Worms_Armageddon_3.8_Features)
 * [Do Colorless Ideas Sleep Furiously? (1997)](http://www.mit.edu/people/dpolicar/writing/proseDP/text/colorlessIdeas.html)
-* [OpenAI's GPT-3 may be the biggest thing since Bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
-* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
-* [The NBA bans customers from putting ‘freehongkong’ on customized league jerseys](https://twitter.com/ClayTravis/status/1282731020647895043)
 ## nytimes.com
 
 
@@ -78,19 +78,19 @@ layout: default
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)
 * [Jane Walentas, Who Planted a Carousel in Dumbo, Dies at 76](https://www.nytimes.com/2020/07/17/nyregion/jane-walentas-dead.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
-* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
-* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
+* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

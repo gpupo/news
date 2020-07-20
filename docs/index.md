@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 08:14:37 UTC
+# indexed at 20/07/2020 08:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [DIY Video Hosting](https://tyler.io/diy-video-hosting/)
 * [Video Vectorization – reduce video size by about 95% for line-art based videos](https://vectorly.io/docs/technology/)
 * [In Praise of ZFS on Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
-* ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
 * [Generate Easy to Remember, Readable UUIDs; Shakespearean; Grammatically Correct](https://github.com/Debdut/uuid-readable)
-* [Phase I trial shows 79% reduction in patients needing ventilation for Covid-19](https://www.bbc.co.uk/news/health-53467022)
+* ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
 * [Spotting Quantum Black Holes in the Lab](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
+* [Phase I trial shows 79% reduction in patients needing ventilation for Covid-19](https://www.bbc.co.uk/news/health-53467022)
 * [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
 * [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [How Ruby on Rails Could Be Much Better (2008)](https://www.dreamhost.com/blog/how-ruby-on-rails-could-be-much-better/)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [I Don't Want to Be a Founder](https://carolchen.me/blog/founding-bad/)
+* [OpenAI should now change their name to ClosedAI](https://www.reddit.com/r/MachineLearning/comments/aqwcyx/discussion_openai_should_now_change_their_name_to/)
 * [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
 * [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
 * [Why do U.S. coins seem to be in short supply?](https://www.federalreserve.gov/faqs/why-do-us-coins-seem-to-be-in-short-supply-coin-shortage.htm)
 * [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
-* [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
-* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
+* [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
+* [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 * [Schools Beat Earlier Plagues with Outdoor Classes. We Should, Too](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-nyc-schools-reopening-outdoors.html)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
 * [Man Dressed as Delivery Driver Executes Hit on Federal Judges House](https://abcnews.go.com/US/federal-judges-son-shot-killed-husband-injured-attack/story?id=71871708)
 * [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
+* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
-* [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
-* [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 ## nytimes.com
 
 
@@ -68,7 +68,7 @@ layout: default
 * [Black Artists on How to Change Classical Music](https://www.nytimes.com/2020/07/16/arts/music/black-classical-music-opera.html)
 * [Opera Can No Longer Ignore Its Race Problem](https://www.nytimes.com/2020/07/16/arts/music/opera-race-representation.html)
 * [To Make Orchestras More Diverse, End Blind Auditions](https://www.nytimes.com/2020/07/16/arts/music/blind-auditions-orchestras-race.html)
-* [Gunman Shoots Husband and Son of Federal Judge in New Jersey](https://www.nytimes.com/2020/07/19/nyregion/nj-judge-husband-son-shot.html)
+* [Gunman Shoots Husband and Son of a Federal Judge, Esther Salas, in New Jersey](https://www.nytimes.com/2020/07/19/nyregion/shooting-nj-judge-esther-salas.html)
 * [Trump’s Hot-Button Fed Pick Faces Senate Committee Vote This Week](https://www.nytimes.com/2020/07/19/business/economy/judy-shelton-federal-reserve-vote.html)
 * [Top State Dept. Officials Enabled Misconduct by Pompeo, Whistle-Blower Said](https://www.nytimes.com/2020/07/19/us/politics/pompeo-whistleblower.html)
 * [Petition Urges Trader Joe’s to Get Rid of ‘Racist Branding’](https://www.nytimes.com/2020/07/19/business/trader-joes-petition.html)
@@ -77,9 +77,9 @@ layout: default
 * [From Antifa to Mothers in Helmets, Diverse Elements Fuel Portland Protests](https://www.nytimes.com/2020/07/19/us/portland-protests.html)
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
@@ -88,9 +88,9 @@ layout: default
 * [Jane Walentas, Who Planted a Carousel in Dumbo, Dies at 76](https://www.nytimes.com/2020/07/17/nyregion/jane-walentas-dead.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
 * [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
-* [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Número de novas armas nas mãos de cidadãos comuns cresce 601% em dez anos](https://oglobo.globo.com/brasil/numero-de-novas-armas-nas-maos-de-cidadaos-comuns-cresce-601-em-dez-anos-24541024)
 * [Os desafios urgentes para o novo ministro da Educação](https://oglobo.globo.com/podcast/os-desafios-urgentes-para-novo-ministro-da-educacao-1-24540631)
 * [Demora na criação do Aliança faz deputados desistirem do partido anunciado por Bolsonaro](https://oglobo.globo.com/brasil/demora-na-criacao-do-alianca-faz-deputados-desistirem-do-partido-anunciado-por-bolsonaro-24540810)
 * [Líderes da esquerda discutem criação de novo partido para enfrentar Bolsonaro em 2022](https://oglobo.globo.com/brasil/lideres-da-esquerda-discutem-criacao-de-novo-partido-para-enfrentar-bolsonaro-em-2022-24541001)
 * [Número de novas armas nas mãos de cidadãos comuns cresce 601% em dez anos](https://oglobo.globo.com/brasil/numero-de-novas-armas-nas-maos-de-cidadaos-comuns-cresce-601-em-dez-anos-24540996)
-* [Em vácuo legal, STJ liberta acusados com pequena quantidade de drogas](https://oglobo.globo.com/sociedade/em-vacuo-legal-stj-liberta-acusados-com-pequena-quantidade-de-drogas-24541073)
-* [Reginaldo Faria sobre o gesto marcante em “Vale Tudo": 'Hoje é tanto corrupto que não ia ter banana suficiente'](https://oglobo.globo.com/cultura/revista-da-tv/reginaldo-faria-sobre-gesto-marcante-em-vale-tudo-hoje-tanto-corrupto-que-nao-ia-ter-banana-suficiente-24540998)
-* [Mais de R$ 1 bilhão em contratos emergenciais de combate à Covid-19 por prefeituras estão na mira dos órgãos de controle](https://oglobo.globo.com/rio/mais-de-1-bilhao-em-contratos-emergenciais-de-combate-covid-19-por-prefeituras-estao-na-mira-dos-orgaos-de-controle-24538623)
+* [Kalou, Jô e pacotão do Atlético-MG: janela de transferências aberta testa cofres dos clubes](https://oglobo.globo.com/esportes/kalou-jo-pacotao-do-atletico-mg-janela-de-transferencias-aberta-testa-cofres-dos-clubes-24541078)
+* [Atraso na criação do Aliança faz deputados bolsonaristas optarem por outros partidos](https://oglobo.globo.com/brasil/atraso-na-criacao-do-alianca-faz-deputados-bolsonaristas-optarem-por-outros-partidos-24540816)
+* [Líderes da esquerda discutem criação de novo partido para enfrentar Bolsonaro em 2022](https://oglobo.globo.com/brasil/lideres-da-esquerda-discutem-criacao-de-novo-partido-para-enfrentar-bolsonaro-em-2022-24541028)
 * [André Pellenz dirige primeiro longa rodado sem contato entre a equipe](https://oglobo.globo.com/cultura/andre-pellenz-dirige-primeiro-longa-rodado-sem-contato-entre-equipe-24538059)
-* [Reginaldo Faria: ‘Há anos o povo engole o cinismo dos corruptos’](https://oglobo.globo.com/cultura/reginaldo-faria-ha-anos-povo-engole-cinismo-dos-corruptos-24540542)
 * [Com novos protocolos, restaurantes e bares têm etiqueta adaptada](https://oglobo.globo.com/rioshow/com-novos-protocolos-restaurantes-bares-tem-etiqueta-adaptada-24540259)

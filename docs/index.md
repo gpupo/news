@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 10:13:52 UTC
+# indexed at 20/07/2020 10:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [DIY Video Hosting](https://tyler.io/diy-video-hosting/)
 * [Video Vectorization](https://vectorly.io/docs/technology/)
 * [Minecraft@Home](https://minecraftathome.com/minecrafthome/)
-* [Generate UUIDs, that are Shakespearean grammatically correct sentences](https://github.com/Debdut/uuid-readable)
-* [In Praise of ZFS on Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
 * [Demo of OpenAI's GPT-3 generating tweets given a word](https://thoughts.sushant-kumar.com/hong%20kong)
-* ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
-* [Spotting Quantum Black Holes in the Lab](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
+* [In Praise of ZFS on Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
 * [Why GPT-3 Matters](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/)
+* ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
+* [Generate UUIDs, that are Shakespearean grammatically correct sentences](https://github.com/Debdut/uuid-readable)
+* [Spotting Quantum Black Holes in the Lab](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715/)
 * [OpenAI should now change their name to ClosedAI](https://www.reddit.com/r/MachineLearning/comments/aqwcyx/discussion_openai_should_now_change_their_name_to/)
 * [Coronavirus: Protein treatment trial 'a breakthrough'](https://www.bbc.co.uk/news/health-53467022)
 * [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
 * [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
+* [TileDB Closes $15M Series A for Industry’s First Universal Data Engine](https://tiledb.com/blog/tiledb-closes-15m-series-a-for-industry-s-first-universal-data-engine-2020-07-14)
 * [How Ruby on Rails Could Be Much Better (2008)](https://www.dreamhost.com/blog/how-ruby-on-rails-could-be-much-better/)
 * [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
 * [Why do U.S. coins seem to be in short supply?](https://www.federalreserve.gov/faqs/why-do-us-coins-seem-to-be-in-short-supply-coin-shortage.htm)
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment)
-* [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
 * [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
+* [All of the World’s Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/)
 * [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [I Don't Want to Be a Founder](https://carolchen.me/blog/founding-bad/)
 * [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
+* [Hospitals see significant drop in premature births during lockdown](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
 * [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [Schools Beat Earlier Plagues with Outdoor Classes. We Should, Too](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-nyc-schools-reopening-outdoors.html)
-* [Hospitals see significant drop in premature births during lockdown](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
-* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 ## nytimes.com
 
 
@@ -78,20 +78,20 @@ layout: default
 * [N.Y.C. Enters Phase 4, but Restaurants and Bars Are Left Behind](https://www.nytimes.com/2020/07/20/nyregion/nyc-phase-4-reopening-bars.html)
 * [Black Artists See Glaring ‘Opportunism’ in Corporate Rush to Use Their Work](https://www.nytimes.com/2020/07/20/business/media/black-creatives-protests.html)
 * [From Antifa to Mothers in Helmets, Diverse Elements Fuel Portland Protests](https://www.nytimes.com/2020/07/19/us/portland-protests.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
 * [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)
 * [Jane Walentas, Who Planted a Carousel in Dumbo, Dies at 76](https://www.nytimes.com/2020/07/17/nyregion/jane-walentas-dead.html)
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
-* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
-* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
-* [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+* [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
+* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
+* [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
 * [Trump Leans Into False Virus Claims in Chris Wallace Interview](https://www.nytimes.com/2020/07/19/us/politics/trump-fox-interview-coronavirus-race.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Líderes da esquerda discutem criação de novo partido para enfrentar Bolsonaro em 2022](https://oglobo.globo.com/brasil/lideres-da-esquerda-discutem-criacao-de-novo-partido-para-enfrentar-bolsonaro-em-2022-24541001)
+* [Apreensão de armas de fogo pela polícia do Rio tem queda de 23% no primeiro semestre](https://oglobo.globo.com/rio/apreensao-de-armas-de-fogo-pela-policia-do-rio-tem-queda-de-23-no-primeiro-semestre-24541125)
 * [Número de novas armas nas mãos de cidadãos comuns cresce 601% em dez anos](https://oglobo.globo.com/brasil/numero-de-novas-armas-nas-maos-de-cidadaos-comuns-cresce-601-em-dez-anos-1-24540996)
 * [Esperar imunidade de rebanho 'é absurdo e antiético', diz líder de estudo que investiga quantos tiveram Covid-19 no Brasil](https://epoca.globo.com/brasil/esperar-imunidade-de-rebanho-absurdo-antietico-diz-lider-de-estudo-que-investiga-quantos-tiveram-covid-19-no-brasil-24541111)
 * [Ministros do STF dizem que proposta do Planalto para Fundeb, a ser votado esta semana, é inconstitucional](https://epoca.globo.com/guilherme-amado/ministros-do-stf-dizem-que-proposta-do-planalto-para-fundeb-ser-votado-esta-semana-inconstitucional-24538960)
 * [Reabertura faz dono de shopping já projetar Natal 2020 igual ao de 2019](https://epoca.globo.com/guilherme-amado/reabertura-faz-dono-de-shopping-ja-projetar-natal-2020-igual-ao-de-2019-1-24538939)
 * [Laboratório entrará esta semana na Anvisa com registro de antiviral russo para Covid, sem eficácia comprovada](https://epoca.globo.com/guilherme-amado/laboratorio-entrara-esta-semana-na-anvisa-com-registro-de-antiviral-russo-para-covid-sem-eficacia-comprovada-24538871)
-* ['Apocalypse now’ ganha três novos ângulos (incluindo mais recente corte do diretor) em streaming](https://oglobo.globo.com/rioshow/apocalypse-now-ganha-tres-novos-angulos-incluindo-mais-recente-corte-do-diretor-em-streaming-24540867)
 * [Enem do Bem: Projeto distribui apostila com conteúdo da prova a alunos sem internet](https://oglobo.globo.com/rio/bairros/enem-do-bem-projeto-distribui-apostila-com-conteudo-da-prova-alunos-sem-internet-24539592)
 * [Radioteatro: podcasts trazem dramatizações de clássicos da literatura brasileira](https://oglobo.globo.com/rio/bairros/radioteatro-podcasts-trazem-dramatizacoes-de-classicos-da-literatura-brasileira-24536321)
 * [Integrantes da Velha Guarda da Portela brilham em lives de samba durante a pandemia](https://oglobo.globo.com/rio/bairros/integrantes-da-velha-guarda-da-portela-brilham-em-lives-de-samba-durante-pandemia-24535202)
-* ['Dois times, um clube'? A equipe de futebol esquecida pelo supercampeão Liverpool](https://oglobo.globo.com/celina/dois-times-um-clube-equipe-de-futebol-esquecida-pelo-supercampeao-liverpool-24534059)

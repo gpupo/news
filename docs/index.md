@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 21:12:34 UTC
+# indexed at 20/07/2020 21:35:50 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
-* [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
 * [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
+* [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
+* [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
+* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
+* [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
+* [SafetyWing (YC W18) Is Hiring a Chief Revenue Officer](https://angel.co/company/safetywing-3/jobs/900187-chief-revenue-officer)
+* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
 * [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
-* [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
-* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
-* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
+* [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
 * [Turns out half the internet has a single-point-of-failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
+* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 * [Principles for great product managers](http://reeve.blog/blog/principles/)
 * [Ways to think long-term: a cognitive toolkit for good ancestors](https://blog.longnow.org/02020/07/20/six-ways-to-think-long-term-a-cognitive-toolkit-for-good-ancestors/)
 * [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
-* [Peter Thiel on Progress and Stagnation](https://docs.google.com/document/d/1zao_AyBhNb8TPWrQqgXn5NzNAgfEqzTIaFYos7wdqGI/edit?usp=drivesdk)
-* [I asked GPT-3 to make a presentation for me](http://www.bemmu.com/gpt3-presentation)
-* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
-* [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
+* [“They would have said faster horses” -great example of asking wrong question](https://codarium.substack.com/p/they-would-have-said-faster-horses)
 * [Coronavirus: Oxford vaccine triggers immune response](https://www.bbc.co.uk/news/uk-53469839)
 * [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [Ireland donates contact tracing app to Linux Foundation](https://www.nearform.com/blog/ireland-donates-contact-tracing-app-to-linux-foundation/)
-* [A Look at Early Japanese Typewriters (2016)](https://filthyplaten.com/2016/07/23/__trashed/)
-* [Any claim without a URI should be treated as suspicious](https://shkspr.mobi/blog/2020/07/any-claim-without-a-uri-should-be-treated-as-suspicious/)
+* [I asked GPT-3 to make a presentation for me](http://www.bemmu.com/gpt3-presentation)
 * [Show HN: YouTube Search Fixer – Firefox addon that removes unrelated suggestions](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/)
+* [Peter Thiel on Progress and Stagnation](https://docs.google.com/document/d/1zao_AyBhNb8TPWrQqgXn5NzNAgfEqzTIaFYos7wdqGI/edit?usp=drivesdk)
+* [Any claim without a URI should be treated as suspicious](https://shkspr.mobi/blog/2020/07/any-claim-without-a-uri-should-be-treated-as-suspicious/)
+* [A Look at Early Japanese Typewriters (2016)](https://filthyplaten.com/2016/07/23/__trashed/)
 * [Video Vectorization](https://vectorly.io/docs/technology/)
-* [Bugs and Battleships (2011)](http://blog.ezyang.com/2011/12/bugs-and-battleships/)
-* [Z80 Explorer – a Zilog Z80 netlist-level simulator](https://baltazarstudios.com/z80explorer/)
-* [Volunteer for coronavirus Phase 3 vaccine studies](https://www.coronaviruspreventionnetwork.org/)
-* [Minecraft@Home](https://minecraftathome.com/minecrafthome/)
-* [Draftbit (YC W18) is hiring engineers who like to make videos (contract)](https://draftbit.com/jobs/technical-content-creator-video)
 * [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
+* [Z80 Explorer – a Zilog Z80 netlist-level simulator](https://baltazarstudios.com/z80explorer/)
+* [Minecraft@Home](https://minecraftathome.com/minecrafthome/)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [Son of Esther Salas Is Killed: Roy Den Hollander, a Lawyer, Is Identified as Suspect](https://www.nytimes.com/2020/07/20/nyregion/esther-salas.html)
 * [For Women in Afghan Security Forces, a Daily Battle](https://www.nytimes.com/2020/07/20/world/asia/afghanistan-women-police.html)
 * [The Japanese-American Sculptor Who, Despite Persecution, Made Her Mark](https://www.nytimes.com/2020/07/20/t-magazine/ruth-asawa.html)
+* [Stimulus, Biden, Polar Bears: Your Monday Evening Briefing](https://www.nytimes.com/2020/07/20/briefing/stimulus-biden-polar-bears.html)
 * [The Life and Legacy of John Lewis](https://www.nytimes.com/2020/07/20/podcasts/the-daily/john-lewis.html)
 * [How Porky Pig Works From Home](https://www.nytimes.com/2020/07/20/technology/coronavirus-work-from-home.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
@@ -79,11 +80,10 @@ layout: default
 * [UK Suspends Extradition Treaty With Hong Kong Over Security Law](https://www.nytimes.com/2020/07/20/world/extradition-treaty-hong-kong.html)
 * [More Resignations, but No Sign Yet of a Change in Gaming Culture](https://www.nytimes.com/2020/07/19/technology/gaming-harassment.html)
 * [Yankee Stadium Area Is Hurting, and Baseball’s Return Won’t Help](https://www.nytimes.com/2020/07/20/nyregion/yankees-bronx-economy.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
 * [Tracy McGrady and Jermaine O’Neal Have Been Talking. They’re Starting a Sports Agency.](https://www.nytimes.com/2020/07/19/sports/basketball/tracy-mcgrady-jermaine-oneal-sports-agency.html)
 * [American Fashion Nominates the Designers of the Year. They Really Make You Think.](https://www.nytimes.com/2020/07/20/style/cfda-nominations.html)
 * [An Artist Captures 4 Months of Sidewalk Chalk Drawings](https://www.nytimes.com/2020/07/17/arts/esther-pearl-watson-diary-project.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Mundo tem três vacinas contra Covid-19 na última etapa de testagem, duas delas no Brasil](https://oglobo.globo.com/sociedade/mundo-tem-tres-vacinas-contra-covid-19-na-ultima-etapa-de-testagem-duas-delas-no-brasil-24542079)
 * [Flamengo entra em acordo com família de mais uma vítima do Ninho do Urubu](https://oglobo.globo.com/esportes/flamengo-entra-em-acordo-com-familia-de-mais-uma-vitima-do-ninho-do-urubu-24542091)
 * [De 163 iniciativas de vacina para Covid-19 no mundo, três estão na última etapa de testagem](https://oglobo.globo.com/sociedade/coronavirus/de-163-iniciativas-de-vacina-para-covid-19-no-mundo-tres-estao-na-ultima-etapa-de-testagem-24541837)
-* [Em meio a protestos, Putin nomeia novo governador para região no Extremo Oriente russo](https://oglobo.globo.com/mundo/em-meio-protestos-putin-nomeia-novo-governador-para-regiao-no-extremo-oriente-russo-24541942)
+* [Taxa de ocupação de UTI de Covid na rede estadual do Rio é de 41%, mas 36 esperam por vaga](https://oglobo.globo.com/rio/taxa-de-ocupacao-de-uti-de-covid-na-rede-estadual-do-rio-de-41-mas-36-esperam-por-vaga-24542116)
 * [Diretor médico de Organização Social investigada foi quinto maior doador da campanha de Wilson Witzel](https://oglobo.globo.com/rio/diretor-medico-de-organizacao-social-investigada-foi-quinto-maior-doador-da-campanha-de-wilson-witzel-1-24541960)
+* [Mundo tem três vacinas contra Covid-19 na última etapa de testagem, duas delas no Brasil](https://oglobo.globo.com/sociedade/mundo-tem-tres-vacinas-contra-covid-19-na-ultima-etapa-de-testagem-duas-delas-no-brasil-24542079)
+* [Em meio a protestos, Putin nomeia novo governador para região no Extremo Oriente russo](https://oglobo.globo.com/mundo/em-meio-protestos-putin-nomeia-novo-governador-para-regiao-no-extremo-oriente-russo-24541942)
 * [Sem pipoca nem refrigerante, cinemas reabrem na China](https://oglobo.globo.com/economia/sem-pipoca-nem-refrigerante-cinemas-reabrem-na-china-24542064)
-* [Ex-ditador do Sudão começa a ser julgado por golpe de Estado em 1989](https://oglobo.globo.com/mundo/ex-ditador-do-sudao-comeca-ser-julgado-por-golpe-de-estado-em-1989-24541865)
 * [Internado, Cacique Raoni apresenta melhora](https://epoca.globo.com/guilherme-amado/internado-cacique-raoni-apresenta-melhora-24542055)
 * [Demanda por voos internacionais cai 96% no segundo trimestre](https://epoca.globo.com/guilherme-amado/demanda-por-voos-internacionais-cai-96-no-segundo-trimestre-24541995)
 * [Rio registra 2,4 mil novos casos de Covid-19 e óbitos chegam a 12.161](https://oglobo.globo.com/rio/rio-registra-24-mil-novos-casos-de-covid-19-obitos-chegam-12161-24541964)

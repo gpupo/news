@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/07/2020 05:12:45 UTC
+# indexed at 20/07/2020 05:34:23 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Seven 'no log' VPN providers accused of leak 2TB of user data onto the internet](https://www.theregister.com/2020/07/17/ufo_vpn_database/)
 * ['Doomscrolling' breeds anxiety –  how to stop the cycle](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)
+* [DIY Video Hosting](https://tyler.io/diy-video-hosting/)
 * [I Don't Want to Be a Founder and I Don't Think You Do Either](https://carolchen.me/blog/founding-bad/)
-* [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
 * [How Ruby on Rails Could Be Much Better (2008)](https://www.dreamhost.com/blog/how-ruby-on-rails-could-be-much-better/)
+* [The Next Phase of the Retail Apocalypse: Stores Reborn as E-Commerce Warehouses](https://www.wsj.com/articles/the-next-phase-of-the-retail-apocalypse-stores-reborn-as-e-commerce-warehouses-11595044859)
 * [Why OKRs might not work at your company](https://svpg.com/team-objectives-overview/)
 * [Insect-worn microcamera streams video to phone 120 meters away](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [Fixing Mass Effect black blobs on modern AMD CPUs](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
+* [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 * [Binary Search: A new implementation that is up to 25% faster](https://github.com/scandum/binary_search)
 * [MIT OCW: Statistics for Applications (2016)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+* [Assasination attempt on the judge of the Epstein/Deutsche Bank case](https://www.cnn.com/2020/07/19/us/federal-judge-esther-salas-shooting-investigation/index.html)
 * [Why do U.S. coins seem to be in short supply?](https://www.federalreserve.gov/faqs/why-do-us-coins-seem-to-be-in-short-supply-coin-shortage.htm)
-* [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
 * [Pine64 announce the Pinecil, TS100 compatible RISC-V soldering iron](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
+* [Feeling unproductive? Maybe you should stop overthinking](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should)
 * [Schools Beat Earlier Plagues with Outdoor Classes. We Should, Too](https://www.nytimes.com/2020/07/17/nyregion/coronavirus-nyc-schools-reopening-outdoors.html)
 * [All of us test in production all the time (2019)](https://increment.com/testing/i-test-in-production/)
-* [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 * [Microsoft Analyzed Data on Its Newly Remote Workforce](https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce)
 * [Computation Graphs and Graph Computation](http://breandan.github.io/2020/06/30/graph-computation/)
 * [New Cobalt-free Li-ion battery reduces costs with similar design and performance](https://news.utexas.edu/2020/07/14/new-cobalt-free-lithium-ion-battery-reduces-costs-without-sacrificing-performance/)
-* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
-* [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [Show HN: Dendron – a roam like open source markdown note taking app](https://www.dendron.so/)
+* [Using neural-network soundscapes to protect natural environments](https://phys.org/news/2020-07-neural-network-soundscapes-natural-environments.html)
 * [Modelling the lanuage of the immune system with machine learning (first steps)](https://github.com/jostmey/MaxSnippetModel#statistical-classifiers-for-diagnosing-disease-from-immune-repertoires)
-* [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
+* [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [Tired of note-taking apps](https://akkshaya.blog/2020/07/19/note-taking/)
+* [Bohr–van Leeuwen theorem – magnetism in solids is a quantum mechanical effect](https://en.wikipedia.org/wiki/Bohr%E2%80%93van_Leeuwen_theorem)
 * [How e-commerce platform Elliot fell back down to Earth](https://www.modernretail.co/startups/how-e-commerce-platform-elliot-fell-back-down-to-earth/)
-* [In a first, UAE spacecraft blasts off to Mars from Japan](https://www.smh.com.au/world/asia/in-a-first-uae-spacecraft-blasts-off-to-mars-from-japan-20200720-p55djq.html)
 * [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-* [The New Siberians](https://daily.jstor.org/the-new-siberians/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [From Antifa to Mothers in Helmets, Diverse Elements Fuel Portland Protests](https://www.nytimes.com/2020/07/19/us/portland-protests.html)
 * [REI Faces Staff Backlash Over Response to Covid-19 Cases](https://www.nytimes.com/2020/07/19/business/coronavirus-rei-staff.html)
 * [India Offers Escape to Afghan Hindus and Sikhs Facing Attacks](https://www.nytimes.com/2020/07/19/world/asia/india-afghanistan-sikh-hindu.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Not Everyone Hates School at Home](https://www.nytimes.com/2020/07/16/well/family/not-everyone-hates-school-at-home.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Leeds United Promoted to Premier League](https://www.nytimes.com/2020/07/18/sports/soccer/leeds-united-premier-league.html)
 * [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
 * [No Coronavirus Reopening for Those at High Risk](https://www.nytimes.com/2020/07/10/realestate/high-risk-left-behind-as-the-world-reopens-coronavirus.html)
@@ -89,8 +89,8 @@ layout: default
 * [Sheet-Pan Summer](https://www.nytimes.com/2020/07/17/dining/sheet-pan-summer.html)
 * [Inside Johnson & Johnson’s Nonstop Hunt for a Coronavirus Vaccine](https://www.nytimes.com/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html)
 * [Beyond the Milky Way, a Galactic Wall](https://www.nytimes.com/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
-* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [365 Elephants Died in Botswana. The Cause Is a Mystery](https://www.nytimes.com/2020/07/06/science/elephants-dead-botswana.html)
+* [Could You Make a Snowball of Neutrinos?](https://www.nytimes.com/2020/07/07/science/neutrinos-snowball-randall-munroe.html)
 * [Roger Stone Denies Using Racial Slur on Radio Show](https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

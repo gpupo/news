@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 08:34:36 UTC
+# indexed at 21/07/2020 09:13:53 UTC
 
 
 ## news.ycombinator.com
@@ -12,38 +12,38 @@ layout: default
 * [Building a Developer Cult](https://subvert.substack.com/p/stripe-building-a-developer-cult)
 * [MagiCan](https://en.wikipedia.org/wiki/MagiCan)
 * [Wiki.js](http://wiki.js.org)
-* [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
 * [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
 * [Proteus Technology: New Material Is Strong, Light and Non-Cuttable](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
-* [The Many Faces of an Undying Programming Language](http://jakob.space/blog/thoughts-on-lisps.html)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
-* [UK Formally Abandons Europe’s Unified Patent Court](https://www.theregister.com/2020/07/21/uk_abandons_upc/)
+* [The Many Faces of an Undying Programming Language](http://jakob.space/blog/thoughts-on-lisps.html)
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
+* [Highly automated digital audio workstation extensible in Guile](https://www.zrythm.org)
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
 * [Pharo Smalltalk Overview](https://www.pharo.org/features)
 * [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
 * [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
-* [Highly automated digital audio workstation extensible in Guile](https://www.zrythm.org)
 * [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
+* [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
 * [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
-* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 * [Enduring Mental Health: Prevalence and Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5304549/)
 * [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
+* [Remark42: Self-Hosted, Lightweight Comment Engine](https://github.com/umputun/remark42)
 * [Exploiting Mucosal Immunity for Antiviral Vaccines](https://sci-hub.tw/10.1146/annurev-immunol-032414-112315)
-* [SpaceX successfully catches both fairing for the first time](https://www.engadget.com/space-x-falcon-9-005622474.html)
 * [Syntax highlighting is a waste of an information channel](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
+* [SpaceX successfully catches both fairing for the first time](https://www.engadget.com/space-x-falcon-9-005622474.html)
 * [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
-* [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
 * [Nostalgia Reimagined](https://aeon.co/essays/nostalgia-doesnt-need-real-memories-an-imagined-past-works-as-well)
-* [Remark42: Self-Hosted, Lightweight Comment Engine](https://github.com/umputun/remark42)
+* [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
+* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
+* [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 ## nytimes.com
 
 
 * [E.U. Adopts Groundbreaking Stimulus to Fight Coronavirus Recession](https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html)
 * [Coronavirus Live News Updates](https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html)
-* [Three Coronavirus Vaccine Developers Report Promising Initial Results](https://www.nytimes.com/2020/07/20/world/covid-coronavirus-vaccine.html)
+* [Oxford Covid Vaccine Among Those Developers Say Have Promising Initial Results](https://www.nytimes.com/2020/07/20/world/covid-coronavirus-vaccine.html)
 * [Trump Expands Federal Crackdown from Portland to Chicago](https://www.nytimes.com/2020/07/20/us/politics/trump-chicago-portland-federal-agents.html)
 * [Portland Protests: A Navy Veteran Had a Question for the Feds. They Beat Him in Response.](https://www.nytimes.com/2020/07/20/us/portland-protests-navy-christopher-david.html)
 * [Defying Trump, Lawmakers Move to Strip Military Bases of Confederate Names](https://www.nytimes.com/2020/07/20/us/politics/congress-trump-confederate-base-names.html)
@@ -79,9 +79,9 @@ layout: default
 * [Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers](https://www.nytimes.com/2020/07/20/business/energy-environment/chevron-noble-oil-mergers.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
 * [Hardcore Cyclists Head for the Hills … Mexico City’s](https://www.nytimes.com/2020/07/18/sports/cycling/coronavirus-mexico-city-biking.html)
 * [Oliver Stone’s Reel History](https://www.nytimes.com/2020/07/20/books/review/oliver-stone-chasing-the-light.html)
 * [‘I Have to Go in and Decolonize’: Europe’s Black Theater Makers Discuss the Scene](https://www.nytimes.com/2020/07/20/theater/theater-diversity-europe.html)
@@ -99,11 +99,11 @@ layout: default
 
 * [Nas categorias de base, uma geração de jogadores corre risco por causa da pandemia](https://oglobo.globo.com/esportes/nas-categorias-de-base-uma-geracao-de-jogadores-corre-risco-por-causa-da-pandemia-24542709)
 * [Futebol de base: sem calendário, jovens encaram dificuldades e voltam para a terra natal](https://oglobo.globo.com/esportes/futebol-de-base-sem-calendario-jovens-encaram-dificuldades-voltam-para-terra-natal-1-24542773)
+* [Aprovação de Bolsonaro caiu entre quem tem ensino superior](https://epoca.globo.com/guilherme-amado/aprovacao-de-bolsonaro-caiu-entre-quem-tem-ensino-superior-24542436)
 * [Emílio Odebrecht se desfaz de 400 cabeças de gado](https://epoca.globo.com/guilherme-amado/emilio-odebrecht-se-desfaz-de-400-cabecas-de-gado-24538977)
-* [Oi: consumidor precisará de atenção redobrada em caso de migração](https://oglobo.globo.com/economia/oi-consumidor-precisara-de-atencao-redobrada-em-caso-de-migracao-24542759)
 * [Flamengo como time a ser batido depende do acerto na procura do substituto de Jorge Jesus](https://oglobo.globo.com/esportes/flamengo-como-time-ser-batido-depende-do-acerto-na-procura-do-substituto-de-jorge-jesus-1-24542750)
 * [Governo promete mais R$ 1 bilhão a municípios de olho em votações no Congresso](https://oglobo.globo.com/brasil/governo-promete-mais-1-bilhao-municipios-de-olho-em-votacoes-no-congresso-24542605)
-* [Bar Hipódromo fecha as portas depois de 75 anos, e clientes fazem campanha em prol dos funcionários](https://oglobo.globo.com/rio/bar-hipodromo-fecha-as-portas-depois-de-75-anos-clientes-fazem-campanha-em-prol-dos-funcionarios-24542493)
 * [100 anos de Florestan Fernandes e Celso Furtado: como eles pensaram e ainda ajudam a pensar o Brasil](https://oglobo.globo.com/cultura/100-anos-de-florestan-fernandes-celso-furtado-como-eles-pensaram-ainda-ajudam-pensar-brasil-24534382)
 * [O que o governo quer mudar nos impostos que pagamos?](https://oglobo.globo.com/podcast/o-que-governo-quer-mudar-nos-impostos-que-pagamos-24542399)
+* [Para ter mais mulheres no centro do debate sobre fake news, FGV lista especialistas em regulação de novas tecnologias](https://oglobo.globo.com/celina/para-ter-mais-mulheres-no-centro-do-debate-sobre-fake-news-fgv-lista-especialistas-em-regulacao-de-novas-tecnologias-24541852)
 * ['Não toque em meu companheiro' resgata memórias de greve histórica, em retrato político-social do país](https://oglobo.globo.com/rioshow/nao-toque-em-meu-companheiro-resgata-memorias-de-greve-historica-em-retrato-politico-social-do-pais-24535266)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 03:13:33 UTC
+# indexed at 21/07/2020 03:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [First manufactured non-cuttable material](https://www.nature.com/articles/s41598-020-65976-0)
-* [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
 * [Stripe: Building a Developer Cult](https://subvert.substack.com/p/stripe-building-a-developer-cult)
+* [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
+* [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
 * [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
-* [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
-* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
-* [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
+* [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [Pharo Smalltalk Overview](https://www.pharo.org/features)
-* [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
+* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
-* [New material engineered to be non-cuttable defeats angle grinder, waterjet](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
+* [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
 * [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
+* [New material engineered to be non-cuttable defeats angle grinder, waterjet](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
 * [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
-* [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
 * [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
+* [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
 * [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
 * [SEC charges YouPlus and CEO with defrauding investors](https://www.sec.gov/news/press-release/2020-160)
-* [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
 * [Turns out half the internet has a single-point-of-failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
+* [A new study unveils the mechanism of the nanoparticle gelation transition](https://phys.org/news/2020-07-unveils-mechanism-nanoparticle-gelation-transition.html)
 * [Ways to think long-term: a cognitive toolkit for good ancestors](https://blog.longnow.org/02020/07/20/six-ways-to-think-long-term-a-cognitive-toolkit-for-good-ancestors/)
-* [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
-* [BuildZoom hiring to bring the construction industry online](https://jobs.lever.co/buildzoom)
 * [Abraham Wald's Work on Airplane Survivability (1984) [pdf]](https://people.ucsc.edu/~msmangel/Wald.pdf)
+* [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
 * [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
-* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
 * [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
+* [BuildZoom hiring to bring the construction industry online](https://jobs.lever.co/buildzoom)
+* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
 * [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
-* [Solving Sudoku with Graph Theory](https://rakhman.info/blog/solving-sudoku-with-graph-theory/)
+* [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Global Warming Is Driving Polar Bears Toward Extinction, Researchers Say](https://www.nytimes.com/2020/07/20/climate/polar-bear-extinction.html)
 * [Georgia Democrats Choose Nikema Williams to Fill John Lewis’s Seat in Congress](https://www.nytimes.com/2020/07/20/us/politics/john-lewis-successor-congress.html)
 * [Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers](https://www.nytimes.com/2020/07/20/business/energy-environment/chevron-noble-oil-mergers.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Hardcore Cyclists Head for the Hills … Mexico City’s](https://www.nytimes.com/2020/07/18/sports/cycling/coronavirus-mexico-city-biking.html)
 * [Oliver Stone’s Reel History](https://www.nytimes.com/2020/07/20/books/review/oliver-stone-chasing-the-light.html)
 * [‘I Have to Go in and Decolonize’: Europe’s Black Theater Makers Discuss the Scene](https://www.nytimes.com/2020/07/20/theater/theater-diversity-europe.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 01:14:34 UTC
+# indexed at 21/07/2020 01:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
 * [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
-* [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 * [Pharo Smalltalk Overview](https://www.pharo.org/features)
+* [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 * [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
-* [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
-* [BuildZoom hiring to bring the construction industry online](https://jobs.lever.co/buildzoom)
 * [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
-* [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
+* [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
+* [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
+* [BuildZoom hiring to bring the construction industry online](https://jobs.lever.co/buildzoom)
 * [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
+* [Abraham Wald's Work on Airplane Survivability (1984) [pdf]](https://people.ucsc.edu/~msmangel/Wald.pdf)
 * [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
 * [SEC charges YouPlus and CEO with defrauding investors](https://www.sec.gov/news/press-release/2020-160)
-* [Certificate Transparency: a bird's-eye view](https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html)
 * [Turns out half the internet has a single-point-of-failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
 * [Ways to think long-term: a cognitive toolkit for good ancestors](https://blog.longnow.org/02020/07/20/six-ways-to-think-long-term-a-cognitive-toolkit-for-good-ancestors/)
-* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
-* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
 * [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
+* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
+* [Certificate Transparency: a bird's-eye view](https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html)
+* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
 * [Solving Sudoku with Graph Theory](https://rakhman.info/blog/solving-sudoku-with-graph-theory/)
 * [Principles for great product managers](http://reeve.blog/blog/principles/)
-* [Quantum interference of currents in an atomtronic SQUID](https://www.nature.com/articles/s41467-020-17185-6)
 * [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
 * [Coronavirus: Oxford vaccine triggers immune response](https://www.bbc.co.uk/news/uk-53469839)
 * [Ireland donates contact tracing app to Linux Foundation](https://www.nearform.com/blog/ireland-donates-contact-tracing-app-to-linux-foundation/)
-* [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
+* [Quantum interference of currents in an atomtronic SQUID](https://www.nature.com/articles/s41467-020-17185-6)
 ## nytimes.com
 
 
@@ -73,7 +73,7 @@ layout: default
 * [Felony Charges Filed Against St. Louis Couple Who Pointed Guns at Protesters](https://www.nytimes.com/2020/07/20/us/mark-patricia-mccloskey-charges.html)
 * [U.S. Imposes Sanctions on 11 Chinese Companies Over Human Rights](https://www.nytimes.com/2020/07/20/business/economy/china-sanctions-uighurs-labor.html)
 * [Two Women Sue Fox News, Claiming Misconduct by Ed Henry and Others](https://www.nytimes.com/2020/07/20/business/media/fox-news-harassment-lawsuit-ed-henry.html)
-* [Nina Kapur, CBS2 Reporter, Dies After Revel Moped Accident](https://www.nytimes.com/2020/07/20/nyregion/revel-scooter-nina-kapur-dead.html)
+* [New York Reporter Nina Kapur Dies After Revel Moped Accident](https://www.nytimes.com/2020/07/20/nyregion/revel-scooter-nina-kapur-dead.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [With Tourists Gone, Bali Workers Return to Farms and Fishing](https://www.nytimes.com/2020/07/20/world/asia/bali-tourism-coronavirus.html)
 * [Global Warming Is Driving Polar Bears Toward Extinction, Researchers Say](https://www.nytimes.com/2020/07/20/climate/polar-bear-extinction.html)
@@ -81,16 +81,16 @@ layout: default
 * [Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers](https://www.nytimes.com/2020/07/20/business/energy-environment/chevron-noble-oil-mergers.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Hardcore Cyclists Head for the Hills … Mexico City’s](https://www.nytimes.com/2020/07/18/sports/cycling/coronavirus-mexico-city-biking.html)
 * [Oliver Stone’s Reel History](https://www.nytimes.com/2020/07/20/books/review/oliver-stone-chasing-the-light.html)
 * [‘I Have to Go in and Decolonize’: Europe’s Black Theater Makers Discuss the Scene](https://www.nytimes.com/2020/07/20/theater/theater-diversity-europe.html)
 * [Making Summer Fun Out of Plastic Trinkets and Sugary Cereal](https://www.nytimes.com/2020/07/17/parenting/kid-activities-summer.html)
 * [A Timeless Tomato Tart](https://www.nytimes.com/2020/07/17/dining/heirloom-tomato-tart-recipe.html)
-* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [During Coronavirus Lockdowns, Some Doctors Wondered: Where Are the Preemies?](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
 * [Marcella Hazan’s Tomato Sauce Trilogy](https://www.nytimes.com/2020/07/20/dining/marcella-hazan-tomato-sauce-recipe.html)
 * [As Trump Ignores Virus Crisis, Republicans Start to Break Ranks](https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro sanciona com vetos projeto que autoriza retomada de sorteios na TV](https://oglobo.globo.com/economia/bolsonaro-sanciona-com-vetos-projeto-que-autoriza-retomada-de-sorteios-na-tv-1-24542536)
+* [Paulo Marinho desafia Flávio Bolsonaro para acareação: 'É só marcar data'](https://epoca.globo.com/guilherme-amado/paulo-marinho-desafia-flavio-bolsonaro-para-acareacao-so-marcar-data-24542471)
 * [Via Varejo publica e apaga informações sobre vendas e ação atinge máxima histórica](https://oglobo.globo.com/economia/via-varejo-publica-apaga-informacoes-sobre-vendas-acao-atinge-maxima-historica-1-24542314)
-* [Indígenas reclamam ao STF de tratamento humilhante do governo](https://oglobo.globo.com/brasil/indigenas-reclamam-ao-stf-de-tratamento-humilhante-do-governo-24542287)
 * [Câmara aprova suspensão do pagamento de parcelas do Minha Casa Minha Vida](https://oglobo.globo.com/economia/camara-aprova-suspensao-do-pagamento-de-parcelas-do-minha-casa-minha-vida-24542488)
 * [Brasil chega a 80 mil mortes por Covid-19, aponta consórcio de veículos da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-chega-80-mil-mortes-por-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-20h-24542274)
 * [Vale aumenta produção de minério de ferro no 2º trimestre, apesar da pandemia](https://oglobo.globo.com/economia/vale-aumenta-producao-de-minerio-de-ferro-no-2-trimestre-apesar-da-pandemia-24542481)
 * [Petrobras vende 10% da TAG por R$ 1 bilhão para Engie e CDPQ](https://oglobo.globo.com/economia/petrobras-vende-10-da-tag-por-1-bilhao-para-engie-cdpq-24542346)
 * [Vinte governadores divulgam carta apoiando texto da Câmara sobre Fundeb](https://oglobo.globo.com/sociedade/vinte-governadores-divulgam-carta-apoiando-texto-da-camara-sobre-fundeb-1-24542350)
 * [Fusão com PCdoB ainda precisa ser discutida internamente, diz presidente do PSB](https://oglobo.globo.com/brasil/fusao-com-pcdob-ainda-precisa-ser-discutida-internamente-diz-presidente-do-psb-1-24542300)
-* [Maia defende corte de gastos para financiar desoneração da folha de pagamentos](https://oglobo.globo.com/economia/maia-defende-corte-de-gastos-para-financiar-desoneracao-da-folha-de-pagamentos-1-24542286)
 * [Credores da Argentina rejeitam oferta de swap da dívida e fazem nova proposta](https://oglobo.globo.com/economia/credores-da-argentina-rejeitam-oferta-de-swap-da-divida-fazem-nova-proposta-24542335)

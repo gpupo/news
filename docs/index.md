@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 02:14:34 UTC
+# indexed at 21/07/2020 02:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
-* [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
 * [Pharo Smalltalk Overview](https://www.pharo.org/features)
+* [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
+* [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
 * [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
+* [First manufactured non-cuttable material](https://www.nature.com/articles/s41598-020-65976-0)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
 * [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
 * [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
 * [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
 * [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
+* [New material engineered to be non-cuttable defeats angle grinder, waterjet](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 * [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
 * [SEC charges YouPlus and CEO with defrauding investors](https://www.sec.gov/news/press-release/2020-160)
-* [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
-* [Abraham Wald's Work on Airplane Survivability (1984) [pdf]](https://people.ucsc.edu/~msmangel/Wald.pdf)
-* [BuildZoom hiring to bring the construction industry online](https://jobs.lever.co/buildzoom)
 * [Turns out half the internet has a single-point-of-failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
 * [Ways to think long-term: a cognitive toolkit for good ancestors](https://blog.longnow.org/02020/07/20/six-ways-to-think-long-term-a-cognitive-toolkit-for-good-ancestors/)
+* [BuildZoom hiring to bring the construction industry online](https://jobs.lever.co/buildzoom)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
+* [Abraham Wald's Work on Airplane Survivability (1984) [pdf]](https://people.ucsc.edu/~msmangel/Wald.pdf)
 * [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
 * [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
-* [New material engineered to be non-cuttable defeats angle grinder, waterjet](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
+* [Reviving Patronage and Revolutionary Industrial Research](https://guzey.com/patronage-and-research-labs/)
+* [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
 * [Certificate Transparency: a bird's-eye view](https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html)
 * [Solving Sudoku with Graph Theory](https://rakhman.info/blog/solving-sudoku-with-graph-theory/)
-* [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
-* [Principles for great product managers](http://reeve.blog/blog/principles/)
-* [Coronavirus: Oxford vaccine triggers immune response](https://www.bbc.co.uk/news/uk-53469839)
 ## nytimes.com
 
 
@@ -79,19 +79,19 @@ layout: default
 * [Global Warming Is Driving Polar Bears Toward Extinction, Researchers Say](https://www.nytimes.com/2020/07/20/climate/polar-bear-extinction.html)
 * [Georgia Democrats Choose Nikema Williams to Fill John Lewis’s Seat in Congress](https://www.nytimes.com/2020/07/20/us/politics/john-lewis-successor-congress.html)
 * [Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers](https://www.nytimes.com/2020/07/20/business/energy-environment/chevron-noble-oil-mergers.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Hardcore Cyclists Head for the Hills … Mexico City’s](https://www.nytimes.com/2020/07/18/sports/cycling/coronavirus-mexico-city-biking.html)
 * [Oliver Stone’s Reel History](https://www.nytimes.com/2020/07/20/books/review/oliver-stone-chasing-the-light.html)
 * [‘I Have to Go in and Decolonize’: Europe’s Black Theater Makers Discuss the Scene](https://www.nytimes.com/2020/07/20/theater/theater-diversity-europe.html)
 * [Making Summer Fun Out of Plastic Trinkets and Sugary Cereal](https://www.nytimes.com/2020/07/17/parenting/kid-activities-summer.html)
 * [A Timeless Tomato Tart](https://www.nytimes.com/2020/07/17/dining/heirloom-tomato-tart-recipe.html)
 * [During Coronavirus Lockdowns, Some Doctors Wondered: Where Are the Preemies?](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
 * [Marcella Hazan’s Tomato Sauce Trilogy](https://www.nytimes.com/2020/07/20/dining/marcella-hazan-tomato-sauce-recipe.html)
 * [As Trump Ignores Virus Crisis, Republicans Start to Break Ranks](https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html)
 * [Trump Leans Into False Virus Claims in Chris Wallace Interview](https://www.nytimes.com/2020/07/19/us/politics/trump-fox-interview-coronavirus-race.html)
@@ -101,12 +101,12 @@ layout: default
 ## globo.com
 
 
-* [Câmara começa a discutir Fundeb, mas votação começa nesta terça](https://oglobo.globo.com/sociedade/camara-comeca-discutir-fundeb-mas-votacao-comeca-nesta-terca-24542764)
+* [Ligado ao PP, investigado na Lava Jato ganha cargo na Codevasf](https://oglobo.globo.com/brasil/ligado-ao-pp-investigado-na-lava-jato-ganha-cargo-na-codevasf-24542788)
+* [Câmara começa a discutir Fundeb, mas votação deve acontecer nesta terça](https://oglobo.globo.com/sociedade/camara-comeca-discutir-fundeb-mas-votacao-deve-acontecer-nesta-terca-24542764)
 * [Câmara aprova suspensão do pagamento de parcelas do Minha Casa Minha Vida](https://oglobo.globo.com/economia/camara-aprova-suspensao-do-pagamento-de-parcelas-do-minha-casa-minha-vida-1-24542488)
 * [Falha no vestibular do Mackenzie impede candidatos de concluírem a prova](https://oglobo.globo.com/sociedade/falha-no-vestibular-do-mackenzie-impede-candidatos-de-concluirem-prova-24542237)
 * [Bolsonaro sanciona com vetos projeto que autoriza retomada de sorteios na TV](https://oglobo.globo.com/economia/bolsonaro-sanciona-com-vetos-projeto-que-autoriza-retomada-de-sorteios-na-tv-1-24542536)
 * [Paulo Marinho desafia Flávio Bolsonaro para acareação: 'É só marcar data'](https://epoca.globo.com/guilherme-amado/paulo-marinho-desafia-flavio-bolsonaro-para-acareacao-so-marcar-data-24542471)
-* [Via Varejo publica e apaga informações sobre vendas e ação atinge máxima histórica](https://oglobo.globo.com/economia/via-varejo-publica-apaga-informacoes-sobre-vendas-acao-atinge-maxima-historica-1-24542314)
 * [Vale aumenta produção de minério de ferro no 2º trimestre, apesar da pandemia](https://oglobo.globo.com/economia/vale-aumenta-producao-de-minerio-de-ferro-no-2-trimestre-apesar-da-pandemia-24542481)
 * [Petrobras vende 10% da TAG por R$ 1 bilhão para Engie e CDPQ](https://oglobo.globo.com/economia/petrobras-vende-10-da-tag-por-1-bilhao-para-engie-cdpq-24542346)
 * [Vinte governadores divulgam carta apoiando texto da Câmara sobre Fundeb](https://oglobo.globo.com/sociedade/vinte-governadores-divulgam-carta-apoiando-texto-da-camara-sobre-fundeb-1-24542350)

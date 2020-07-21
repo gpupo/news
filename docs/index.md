@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 06:34:40 UTC
+# indexed at 21/07/2020 07:13:30 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
 * [Proteus Technology: New Material Is Strong, Light and Non-Cuttable](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
+* [Wiki.js](http://wiki.js.org)
 * [The Many Faces of an Undying Programming Language](http://jakob.space/blog/thoughts-on-lisps.html)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
 * [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
-* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
 * [Pharo Smalltalk Overview](https://www.pharo.org/features)
+* [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
 * [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
-* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
-* [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
 * [Enduring Mental Health: Prevalence and Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5304549/)
-* [Wiki.js](http://wiki.js.org)
 * [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
+* [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
+* [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
+* [Exploiting Mucosal Immunity for Antiviral Vaccines](https://sci-hub.tw/10.1146/annurev-immunol-032414-112315)
 * [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
 * [Nostalgia Reimagined](https://aeon.co/essays/nostalgia-doesnt-need-real-memories-an-imagined-past-works-as-well)
-* [Exploiting Mucosal Immunity for Antiviral Vaccines](https://sci-hub.tw/10.1146/annurev-immunol-032414-112315)
 * [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [Assessing Abstractions](https://stopa.io/post/245)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
 * [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
-* [A new study unveils the mechanism of the nanoparticle gelation transition](https://phys.org/news/2020-07-unveils-mechanism-nanoparticle-gelation-transition.html)
-* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
 * [Syntax highlighting is a waste of an information channel](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
+* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
 * [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
+* [Show HN: 3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 ## nytimes.com
 
 
@@ -51,7 +51,6 @@ layout: default
 * [Democrats Warn of Possible Foreign Disinformation Plot Targeting Congress](https://www.nytimes.com/2020/07/20/us/politics/congress-disinformation-biden-russia-ukraine.html)
 * [Son of N.J. Judge Is Killed: Roy Den Hollander, a Lawyer, Is Identified as Suspect](https://www.nytimes.com/2020/07/20/nyregion/esther-salas.html)
 * [For Women in Afghan Security Forces, a Daily Battle](https://www.nytimes.com/2020/07/20/world/asia/afghanistan-women-police.html)
-* [Stimulus, Biden, Polar Bears: Your Monday Evening Briefing](https://www.nytimes.com/2020/07/20/briefing/stimulus-biden-polar-bears.html)
 * [The Life and Legacy of John Lewis](https://www.nytimes.com/2020/07/20/podcasts/the-daily/john-lewis.html)
 * [How Porky Pig Works From Home](https://www.nytimes.com/2020/07/20/technology/coronavirus-work-from-home.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
@@ -78,19 +77,19 @@ layout: default
 * [Global Warming Is Driving Polar Bears Toward Extinction, Researchers Say](https://www.nytimes.com/2020/07/20/climate/polar-bear-extinction.html)
 * [Georgia Democrats Choose Nikema Williams to Fill John Lewis’s Seat in Congress](https://www.nytimes.com/2020/07/20/us/politics/john-lewis-successor-congress.html)
 * [Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers](https://www.nytimes.com/2020/07/20/business/energy-environment/chevron-noble-oil-mergers.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [Hardcore Cyclists Head for the Hills … Mexico City’s](https://www.nytimes.com/2020/07/18/sports/cycling/coronavirus-mexico-city-biking.html)
 * [Oliver Stone’s Reel History](https://www.nytimes.com/2020/07/20/books/review/oliver-stone-chasing-the-light.html)
 * [‘I Have to Go in and Decolonize’: Europe’s Black Theater Makers Discuss the Scene](https://www.nytimes.com/2020/07/20/theater/theater-diversity-europe.html)
 * [Making Summer Fun Out of Plastic Trinkets and Sugary Cereal](https://www.nytimes.com/2020/07/17/parenting/kid-activities-summer.html)
 * [A Timeless Tomato Tart](https://www.nytimes.com/2020/07/17/dining/heirloom-tomato-tart-recipe.html)
 * [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
-* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [During Coronavirus Lockdowns, Some Doctors Wondered: Where Are the Preemies?](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
+* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [Marcella Hazan’s Tomato Sauce Trilogy](https://www.nytimes.com/2020/07/20/dining/marcella-hazan-tomato-sauce-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

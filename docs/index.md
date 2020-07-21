@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 04:34:42 UTC
+# indexed at 21/07/2020 05:12:57 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Stripe: Building a Developer Cult](https://subvert.substack.com/p/stripe-building-a-developer-cult)
-* [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
 * [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 * [First manufactured non-cuttable material](https://www.nature.com/articles/s41598-020-65976-0)
+* [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
+* [MagiCan](https://en.wikipedia.org/wiki/MagiCan)
 * [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
-* [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
 * [New material engineered to be non-cuttable defeats angle grinder, waterjet](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
-* [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
+* [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
+* [Rare and hardest to crack Enigma code machine sells for $437k](https://www.zdnet.com/article/rare-and-hardest-to-crack-enigma-code-machine-sells-for-437000/)
 * [Dijo: A terminal-based habit tracker written in Rust](https://github.com/NerdyPepper/dijo)
 * [City Map Generator – Create procedural American-style cities in the browser](https://maps.probabletrain.com/)
-* [Pharo Smalltalk Overview](https://www.pharo.org/features)
 * [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41)
 * [Reasonably priced color e-ink display](https://www.waveshare.com/5.65inch-e-paper-module-f.htm)
-* [Assessing Abstractions](https://stopa.io/post/245)
+* [Pharo Smalltalk Overview](https://www.pharo.org/features)
 * [The Many Methods of Communicating with Submarines](https://hackaday.com/2020/07/15/the-many-methods-of-communicating-with-submarines/)
 * [Why it’s hard to kill the Bloomberg terminal (2019)](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 * [Reactive Probabilistic Programming](https://arxiv.org/abs/1908.07563)
+* [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
 * [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [Maximum Entropy Intuition for Fundamental Statistical Distributions](https://longintuition.com/2020/07/20/max-entropy-intuition.html)
-* [Mars images rendered in 4K [video]](https://www.youtube.com/watch?v=ZEyAs3NWH4A)
-* [A new study unveils the mechanism of the nanoparticle gelation transition](https://phys.org/news/2020-07-unveils-mechanism-nanoparticle-gelation-transition.html)
+* [The Many Faces of an Undying Programming Language (Lisp)](http://jakob.space/blog/thoughts-on-lisps.html)
+* [Assessing Abstractions](https://stopa.io/post/245)
 * [Turns out half the internet has a single-point-of-failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
-* [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
+* [A new study unveils the mechanism of the nanoparticle gelation transition](https://phys.org/news/2020-07-unveils-mechanism-nanoparticle-gelation-transition.html)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
-* [SEC charges YouPlus and CEO with defrauding investors](https://www.sec.gov/news/press-release/2020-160)
-* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
+* [Show HN: GUIs for Faster ML Prototyping and Sharing](http://github.com/gradio-app/gradio)
+* [Yoloface-500k-v2:Faster and more accurate](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#wider-face-val)
 * [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
-* [Fernando Pessoa’s Disappearing Act (2017)](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act)
-* [Abraham Wald's Work on Airplane Survivability (1984) [pdf]](https://people.ucsc.edu/~msmangel/Wald.pdf)
+* [Lincos language](https://en.wikipedia.org/wiki/Lincos_language)
 ## nytimes.com
 
 
@@ -81,16 +81,19 @@ layout: default
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Hardcore Cyclists Head for the Hills … Mexico City’s](https://www.nytimes.com/2020/07/18/sports/cycling/coronavirus-mexico-city-biking.html)
 * [Oliver Stone’s Reel History](https://www.nytimes.com/2020/07/20/books/review/oliver-stone-chasing-the-light.html)
 * [‘I Have to Go in and Decolonize’: Europe’s Black Theater Makers Discuss the Scene](https://www.nytimes.com/2020/07/20/theater/theater-diversity-europe.html)
 * [Making Summer Fun Out of Plastic Trinkets and Sugary Cereal](https://www.nytimes.com/2020/07/17/parenting/kid-activities-summer.html)
 * [A Timeless Tomato Tart](https://www.nytimes.com/2020/07/17/dining/heirloom-tomato-tart-recipe.html)
-* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
-* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
 * [During Coronavirus Lockdowns, Some Doctors Wondered: Where Are the Preemies?](https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html)
+* [Why We Still Don’t Know Enough About Covid-19 and Pregnancy](https://www.nytimes.com/2020/07/10/parenting/pregnancy/pregnancy-coronavirus-data.html)
+* [Some Polynesians Carry Native American DNA, Study Finds](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [As Trump Ignores Virus Crisis, Republicans Start to Break Ranks](https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html)
+* [How to Date During a Pandemic](https://www.nytimes.com/2020/07/18/at-home/coronavirus-pandemic-dating.html)
+* [Representative Steve Watkins of Kansas Is Charged With Voter Fraud](https://www.nytimes.com/2020/07/14/us/steve-watkins-voter-fraud-kansas.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

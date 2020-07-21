@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 14:14:21 UTC
+# indexed at 21/07/2020 14:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
-* [Invert, Always, Invert](https://www.anup.io/2020/07/20/invert-always-invert/)
-* [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 * [Common mistakes writing React components with hooks](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
 * [AMD Launches 12 Desktop Renoir Ryzen 4000G Series APUs: But You Can’t Buy Them](https://www.anandtech.com/show/15921/amd-launches-12-desktop-renoir-ryzen-4000g-series-apus-but-you-cant-buy-them)
+* [Invert, Always, Invert](https://www.anup.io/2020/07/20/invert-always-invert/)
+* [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+* [AI in physics: are we facing a scientific revolution?](https://www.4alltech.com/2020/07/ai-in-physics-are-we-facing-science.html)
 * [Brick Block [desktop only]](http://oskarstalberg.com/game/house/index.html)
 * [Harvard CS professor David Malan built a distance-learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire)
-* [AI in physics: are we facing a scientific revolution?](https://www.4alltech.com/2020/07/ai-in-physics-are-we-facing-science.html)
 * [Highly automated digital audio workstation extensible in Guile](https://www.zrythm.org)
 * [Building a Developer Cult](https://subvert.substack.com/p/stripe-building-a-developer-cult)
 * [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
 * [Wiki.js](http://wiki.js.org)
-* [MagiCan](https://en.wikipedia.org/wiki/MagiCan)
+* [Facebook overrides fact-checks when climate science is “opinion”](https://arstechnica.com/tech-policy/2020/07/facebook-overrides-fact-checks-when-climate-science-is-opinion/)
 * [A man trying to automate Thailand’s hospitals](https://restofworld.org/2020/the-man-trying-to-automate-thailands-hospitals/)
+* [MagiCan](https://en.wikipedia.org/wiki/MagiCan)
 * [Proteus Technology: New Material Is Strong, Light and Non-Cuttable](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [Remark42: Self-Hosted, Lightweight Comment Engine](https://github.com/umputun/remark42)
 * [The Many Faces of an Undying Programming Language](http://jakob.space/blog/thoughts-on-lisps.html)
-* [Facebook overrides fact-checks when climate science is “opinion”](https://arstechnica.com/tech-policy/2020/07/facebook-overrides-fact-checks-when-climate-science-is-opinion/)
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
-* [Glide (YC W19) is hiring a product designer and two engineers](https://news.ycombinator.com/item?id=23906144)
 * [The Adjacent User Theory](https://andrewchen.co/the-adjacent-user-theory/)
-* [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
+* [Glide (YC W19) is hiring a product designer and two engineers](https://news.ycombinator.com/item?id=23906144)
 * [Bonneville can be a tough place (2008)](https://saltflats.com/stuck.htm)
-* [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
+* [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
+* [Simple Made Easy (2011)](https://www.infoq.com/presentations/Simple-Made-Easy/)
 * [SpaceX successfully catches both fairing for the first time](https://www.engadget.com/space-x-falcon-9-005622474.html)
+* [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
 * [Enduring Mental Health: Prevalence and Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5304549/)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
-* [Simple Made Easy (2011)](https://www.infoq.com/presentations/Simple-Made-Easy/)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
-* [Nostalgia Reimagined](https://aeon.co/essays/nostalgia-doesnt-need-real-memories-an-imagined-past-works-as-well)
+* [Jelly 2, World's Smallest Android 10 4G Smartphone](https://www.kickstarter.com/projects/jellyphone/jelly-2-worlds-smallest-android-10-4g-smartphone)
 ## nytimes.com
 
 
+* [On Portland’s Streets, Chaotic Scenes Continue Tradition of Protest](https://www.nytimes.com/2020/07/21/us/portland-protests.html)
 * [Trump Expands Federal Crackdown from Portland to Chicago](https://www.nytimes.com/2020/07/20/us/politics/trump-chicago-portland-federal-agents.html)
-* [Defying Trump, Lawmakers Move to Strip Military Bases of Confederate Names](https://www.nytimes.com/2020/07/20/us/politics/congress-trump-confederate-base-names.html)
 * [Felony Charges for Detroit Police Officer Accused of Shooting 3 Journalists with Rubber Pellets During Protests](https://www.nytimes.com/2020/07/21/us/detroit-police-shooting-journalists.html)
 * [Coronavirus Live Updates: E.U. Agrees to Landmark Stimulus Deal](https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html)
 * [This Hospital Cost $52 Million. It Treated 79 Virus Patients.](https://www.nytimes.com/2020/07/21/nyregion/coronavirus-hospital-usta-queens.html)
@@ -76,7 +76,7 @@ layout: default
 * [Building Accessibility Into America, Literally](https://www.nytimes.com/2020/07/20/arts/disabilities-architecture-design.html)
 * [Worried About Crowded Planes? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
 * [Stocks Gain After E.U. Leaders Approve Stimulus Pact: Live Business Updates](https://www.nytimes.com/live/2020/07/21/business/stock-market-today-coronavirus)
-* [Climate Change Poses ‘Systemic Threat’ to the Economy, Big Investors Warn](https://www.nytimes.com/2020/07/21/climate/investors-climate-threat-regulators.html)
+* [Michael Cohen Claims in Suit He Was Imprisoned to Stop Trump Book](https://www.nytimes.com/2020/07/21/nyregion/michael-cohen-trump-book.html)
 * [Cathy Areu and Jennifer Eckhart Sue Fox News and Hosts, Claiming Misconduct](https://www.nytimes.com/2020/07/20/business/media/areu-eckhart-fox-news-harassment-lawsuit.html)
 * [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [Ailey II Drops Director, Citing ‘Inappropriate’ Communications](https://www.nytimes.com/2020/07/20/arts/dance/ailey-ii-troy-powell.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
+* [Conheça os 10 pontos principais do acordo de reconstrução pós-pandemia da União Europeia](https://oglobo.globo.com/mundo/conheca-os-10-pontos-principais-do-acordo-de-reconstrucao-pos-pandemia-da-uniao-europeia-24543058)
+* [Festas de Seripieri reuniam Lula, Serra, Alckmin e até Alexandre de Moraes](https://epoca.globo.com/guilherme-amado/festas-de-seripieri-reuniam-lula-serra-alckmin-ate-alexandre-de-moraes-24543135)
+* [Via Varejo informa que resultados de vendas publicados no Twitter não foram autorizados](https://oglobo.globo.com/economia/via-varejo-informa-que-resultados-de-vendas-publicados-no-twitter-nao-foram-autorizados-24543104)
 * [Estudante some após sair de festa e é encontrado morto, em Niterói; portal pede pistas](https://oglobo.globo.com/rio/estudante-some-apos-sair-de-festa-e-encontrado-morto-em-niteroi-portal-pede-pistas-24543140)
 * [Bem-estar em degustação: conheça serviços que podem ser testados gratuitamente](https://oglobo.globo.com/rio/bairros/bem-estar-em-degustacao-conheca-servicos-que-podem-ser-testados-gratuitamente-1-24536307)
-* [Festas de Seripieiri reuniam Lula, Serra, Alckmin e até Alexandre de Moraes](https://epoca.globo.com/guilherme-amado/festas-de-seripieiri-reuniam-lula-serra-alckmin-ate-alexandre-de-moraes-24543135)
 * [Investigações da Lava-Jato eleitoral em SP contrariam previsão pessimista](https://oglobo.globo.com/analitico/investigacoes-da-lava-jato-eleitoral-em-sp-contrariam-previsao-pessimista-24543111)
 * [Ex-diretor de empresa do grupo Qualicorp admitiu caixa dois para Serra em delação premiada](https://oglobo.globo.com/brasil/ex-diretor-de-empresa-do-grupo-qualicorp-admitiu-caixa-dois-para-serra-em-delacao-premiada-24543088)
 * [Bancos já podem ofertar nova modalidade de crédito imobiliário](https://oglobo.globo.com/economia/bancos-ja-podem-ofertar-nova-modalidade-de-credito-imobiliario-24543094)
-* [Conheça os 10 pontos principais do acordo de reconstrução pós-pandemia da União Europeia](https://oglobo.globo.com/mundo/conheca-os-10-pontos-principais-do-acordo-de-reconstrucao-pos-pandemia-da-uniao-europeia-24543058)
-* [Via Varejo informa que resultados de vendas publicados no Twitter não foram autorizados](https://oglobo.globo.com/economia/via-varejo-informa-que-resultados-de-vendas-publicados-no-twitter-nao-foram-autorizados-24543104)
 * [Desenvolvedora de Oxford não descarta vacina contra a Covid-19 neste ano, mas sugere cautela](https://oglobo.globo.com/sociedade/desenvolvedora-de-oxford-nao-descarta-vacina-contra-covid-19-neste-ano-mas-sugere-cautela-24543070)
 * [Nove pessoas são presas suspeitas de piratear e vender material de cursos preparatórios para concursos públicos](https://oglobo.globo.com/rio/nove-pessoas-sao-presas-suspeitas-de-piratear-vender-material-de-cursos-preparatorios-para-concursos-publicos-24543062)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/07/2020 12:16:45 UTC
+# indexed at 21/07/2020 12:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -15,12 +15,12 @@ layout: default
 * [Highly automated digital audio workstation extensible in Guile](https://www.zrythm.org)
 * [Building a Developer Cult](https://subvert.substack.com/p/stripe-building-a-developer-cult)
 * [Wiki.js](http://wiki.js.org)
-* [Glide (YC W19) is hiring a product designer and two engineers](https://news.ycombinator.com/item?id=23906144)
 * [A man trying to automate Thailand’s hospitals](https://restofworld.org/2020/the-man-trying-to-automate-thailands-hospitals/)
 * [‘Strong Opinions, Weakly Held’ Doesn't Work That Well](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/)
+* [Glide (YC W19) is hiring a product designer and two engineers](https://news.ycombinator.com/item?id=23906144)
 * [MagiCan](https://en.wikipedia.org/wiki/MagiCan)
-* [Proteus Technology: New Material Is Strong, Light and Non-Cuttable](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [New material that cannot be cut](https://www.newscientist.com/article/2249275-material-that-cannot-be-cut-would-make-the-ultimate-bike-lock)
+* [Proteus Technology: New Material Is Strong, Light and Non-Cuttable](https://scitechdaily.com/proteus-technology-new-material-is-strong-light-and-non-cuttable/)
 * [The Many Faces of an Undying Programming Language](http://jakob.space/blog/thoughts-on-lisps.html)
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
 * [Remark42: Self-Hosted, Lightweight Comment Engine](https://github.com/umputun/remark42)
@@ -31,8 +31,8 @@ layout: default
 * [The FBI is secretly using Sabre as a global travel surveillance tool](https://www.forbes.com/sites/thomasbrewster/2020/07/16/the-fbi-is-secretly-using-a-2-billion-company-for-global-travel-surveillance--the-us-could-do-the-same-to-track-covid-19)
 * [Enduring Mental Health: Prevalence and Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5304549/)
 * [SpaceX successfully catches both fairing for the first time](https://www.engadget.com/space-x-falcon-9-005622474.html)
-* [Bonneville can be a tough place (2008)](https://saltflats.com/stuck.htm)
 * [Launch HN: Reflect (YC S20) – No-code test automation for web apps](https://news.ycombinator.com/item?id=23897626)
+* [Bonneville can be a tough place (2008)](https://saltflats.com/stuck.htm)
 * [Zoom Earth: Website lets you look at live satellite photos of earths surface](https://zoom.earth/)
 * [Exploiting Mucosal Immunity for Antiviral Vaccines](https://sci-hub.tw/10.1146/annurev-immunol-032414-112315)
 * [The chemfp project: problems selling free software](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0398-8#Sec24)
@@ -51,8 +51,8 @@ layout: default
 * [Facing Financial Crisis, New York's MTA Subway Braces For Deep Cuts](https://www.nytimes.com/2020/07/21/nyregion/mta-subway-financial-cuts.html)
 * [Oxford Covid Vaccine Among Those Developers Say Have Promising Initial Results](https://www.nytimes.com/2020/07/20/world/covid-coronavirus-vaccine.html)
 * [High Voter Turnout and Record Fund-Raising Give Democrats Hope for November](https://www.nytimes.com/2020/07/21/us/politics/fundraising-voters-election.html)
+* [Biden vs. Trump: Live Updates for the 2020 Election](https://www.nytimes.com/2020/07/21/us/elections/biden-vs-trump.html)
 * [‘No One’ Protected British Democracy From Russia, U.K. Report Concludes](https://www.nytimes.com/2020/07/21/world/europe/uk-russia-report.html)
-* [Democrats Warn of Possible Foreign Disinformation Plot Targeting Congress](https://www.nytimes.com/2020/07/20/us/politics/congress-disinformation-biden-russia-ukraine.html)
 * [Concerts Aren’t Back. Livestreams Are Ubiquitous. Can They Do the Job?](https://www.nytimes.com/2020/07/21/arts/music/concerts-livestreams.html)
 * [Erykah Badu Is Blazing a New Trail (From Badubotron)](https://www.nytimes.com/2020/07/21/arts/music/erykah-badu-livestreams.html)
 * [Intimacy Is Overrated: Concerts in the Livestream Era](https://www.nytimes.com/2020/07/21/arts/music/livestreams-intimacy.html)
@@ -83,20 +83,20 @@ layout: default
 * [Corporate Political Donations Clash With Company Causes](https://www.nytimes.com/2020/07/21/business/dealbook/corporate-political-donations.html)
 * [New Emails Show How Energy Industry Moved Fast to Undo Curbs](https://www.nytimes.com/2020/07/21/climate/trump-methane-climate-change.html)
 * [Son of N.J. Judge Is Killed: Roy Den Hollander, a Lawyer, Is Identified as Suspect](https://www.nytimes.com/2020/07/20/nyregion/esther-salas.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [‘It’s a Risk for Everybody’: Why a Jazz Pianist Chose to Perform](https://www.nytimes.com/2020/07/20/arts/music/bill-charlap-coronavirus.html)
 * [Overlooked No More: Brad Lomax, a Bridge Between Civil Rights Movements](https://www.nytimes.com/2020/07/08/obituaries/brad-lomax-overlooked.html)
 * [N.F.L. Players Say #WeWantToPlay but Question Training Camp Safety](https://www.nytimes.com/2020/07/20/sports/football/nfl-training-camp-players.html)
 * [Trevor Noah Praises Fox News Host for Actually Questioning Trump](https://www.nytimes.com/2020/07/21/arts/television/late-night-fox-news-trump-chris-wallace-elephant.html)
 * [The Book Review in Quarantine](https://www.nytimes.com/2020/07/19/insider/times-book-review-remote.html)
-* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
+* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
 * [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
 * [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
-* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
+* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [New York Reporter Nina Kapur Dies After Revel Moped Accident](https://www.nytimes.com/2020/07/20/nyregion/revel-scooter-nina-kapur-dead.html)
 * [As Trump Ignores Virus Crisis, Republicans Start to Break Ranks](https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
-* [Aluguel na pandemia: corretoras parcelam no cartão ou pagam no lugar do inquilino para evitar devolução de imóveis](https://oglobo.globo.com/economia/aluguel-na-pandemia-corretoras-parcelam-no-cartao-ou-pagam-no-lugar-do-inquilino-para-evitar-devolucao-de-imoveis-24542763)
+* [Aos 18 anos, filha de Cindy Crawford posa nua para revista japonesa](https://oglobo.globo.com/ela/gente/aos-18-anos-filha-de-cindy-crawford-posa-nua-para-revista-japonesa-24542987)
+* ['Meu marido morreu de covid-19 e só encontrei seu corpo quase quatro meses depois'](https://epoca.globo.com/mundo/meu-marido-morreu-de-covid-19-so-encontrei-seu-corpo-quase-quatro-meses-depois-24542980)
+* [Preso hoje, dono da Qualicorp emprestava jatinho e helicóptero a Lula e tucanos](https://epoca.globo.com/guilherme-amado/preso-hoje-dono-da-qualicorp-emprestava-jatinho-helicoptero-lula-tucanos-1-24542933)
 * [Jeff Bezos, da Amazon, fica US$ 13 bi mais rico num único dia](https://oglobo.globo.com/economia/jeff-bezos-da-amazon-fica-us-13-bi-mais-rico-num-unico-dia-1-24542943)
 * [Sabrina Sato ousa no look e diz: 'Depois que a Zoe dorme, mamãe dá o close'](https://oglobo.globo.com/ela/gente/sabrina-sato-ousa-no-look-diz-depois-que-zoe-dorme-mamae-da-close-24542941)
 * [Corregedoria do TJ-RJ investiga paralisação em processos de execução fiscal que já beiram R$ 260 milhões](https://oglobo.globo.com/rio/corregedoria-do-tj-rj-investiga-paralisacao-em-processos-de-execucao-fiscal-que-ja-beiram-260-milhoes-24542920)
-* [Preso hoje, dono da Qualicorp emprestava jatinho e helicóptero a Lula e tucanos](https://epoca.globo.com/guilherme-amado/preso-hoje-dono-da-qualicorp-emprestava-jatinho-helicoptero-lula-tucanos-1-24542933)
 * [Governo cria comitê para coordenar ações do novo marco legal do saneamento](https://oglobo.globo.com/economia/governo-cria-comite-para-coordenar-acoes-do-novo-marco-legal-do-saneamento-24542961)
 * [LinkedIn corta quase mil empregos devido à crise do coronavírus](https://oglobo.globo.com/economia/linkedin-corta-quase-mil-empregos-devido-crise-do-coronavirus-1-24542901)
-* [Brasil tem 2.122.577 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2122577-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24542869)
 * [Saem os templários e Da Vinci, entra o Maestro Ratinho: Dan Brown para crianças](https://epoca.globo.com/guilherme-amado/saem-os-templarios-da-vinci-entra-maestro-ratinho-dan-brown-para-criancas-24542796)
 * [Cuba faz reformas econômicas para enfrentar aperto das sanções americanas e pandemia](https://oglobo.globo.com/mundo/cuba-faz-reformas-economicas-para-enfrentar-aperto-das-sancoes-americanas-pandemia-24541986)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 05:12:52 UTC
+# indexed at 22/07/2020 05:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
-* [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
+* [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
 * [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
+* [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
 * [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
-* [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
 * [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+* [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
+* [Nothingness](https://plato.stanford.edu/entries/nothingness/)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
-* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
-* [Svelte and TypeScript](https://svelte.dev/blog/svelte-and-typescript)
 * [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
 * [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
+* [Svelte and TypeScript](https://svelte.dev/blog/svelte-and-typescript)
+* [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
 * [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [Safely Reviving Shared Memory](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/)
 * [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
-* [Nothingness](https://plato.stanford.edu/entries/nothingness/)
+* [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
 * [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
 * [FounderPool: A community for founders to share risk and diversify their equity](http://www.founderpools.com)
-* [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
 * [Life without line numbers for 6% smaller Go binaries](https://commaok.xyz/post/no-line-numbers/)
 * [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
 * [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
-* [Costco Convinces Brands to Cannibalize Themselves](https://napkinmath.substack.com/p/how-costco-convinces-brands-to-cannibalize)
+* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
 * [One of the earliest science fiction books was written by a 1660s duchess (2016)](https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess)
 * [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
-* [LinkedIn to cut 960 jobs worldwide](https://www.bbc.com/news/business-53484764)
 * [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
-* [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
+* [LinkedIn to cut 960 jobs worldwide](https://www.bbc.com/news/business-53484764)
 ## nytimes.com
 
 
@@ -82,20 +82,20 @@ layout: default
 * [Powerful Ohio Republican Is Arrested in $60 Million Corruption Scheme](https://www.nytimes.com/2020/07/21/us/larry-householder-ohio-speaker-arrested.html)
 * [Angela Merkel Guides the E.U. to a Stimulus Deal, However Imperfect](https://www.nytimes.com/2020/07/21/world/europe/european-union-coronavirus-aid.html)
 * [2 Killed in Jet Ski Crash as Waters Get Crowded During Pandemic](https://www.nytimes.com/2020/07/21/nyregion/jet-ski-accident-bronx-nyc.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [A Retelling of American History — in Neon](https://www.nytimes.com/2020/07/20/t-magazine/maya-stovall.html)
 * [Paul Fusco, Photographer on a Funeral Train, Dies at 89](https://www.nytimes.com/2020/07/21/arts/paul-fusco-photographer-dies.html)
 * [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](https://www.nytimes.com/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
-* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
+* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
 * [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
-* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
+* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -103,10 +103,10 @@ layout: default
 ## globo.com
 
 
+* [Sem Jesus, Flamengo volta aos treinos sob comando de Mauricio Souza e encaminhando saídas](https://oglobo.globo.com/esportes/sem-jesus-flamengo-volta-aos-treinos-sob-comando-de-mauricio-souza-encaminhando-saidas-24543938)
 * [De madrugada, deputados tentam aprovar ajuda de R$ 4 bilhões para empresas de ônibus](https://oglobo.globo.com/brasil/de-madrugada-deputados-tentam-aprovar-ajuda-de-4-bilhoes-para-empresas-de-onibus-24544525)
 * [Jacinda Ardern, premier da Nova Zelândia, demite ministro por denúncias de relacionamento inapropriado](https://oglobo.globo.com/mundo/jacinda-ardern-premier-da-nova-zelandia-demite-ministro-por-denuncias-de-relacionamento-inapropriado-24544426)
 * [Impressões ao dirigir: na cidade e na estrada com o VW Nivus](https://oglobo.globo.com/economia/carros/impressoes-ao-dirigir-na-cidade-na-estrada-com-vw-nivus-24544320)
-* [Pesquisadores desenvolvem exame de sangue capaz de diagnosticar cinco tipos de câncer](https://oglobo.globo.com/sociedade/pesquisadores-desenvolvem-exame-de-sangue-capaz-de-diagnosticar-cinco-tipos-de-cancer-24544383)
 * [É preciso fazer uma aposta firme nas vacinas](https://oglobo.globo.com/opiniao/e-preciso-fazer-uma-aposta-firme-nas-vacinas-24544199)
 * [Sem os bailes da vida](https://oglobo.globo.com/opiniao/sem-os-bailes-da-vida-24543999)
 * [Da distopia à utopia](https://oglobo.globo.com/opiniao/da-distopia-utopia-24544026)

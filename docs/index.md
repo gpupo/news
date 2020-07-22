@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 10:13:26 UTC
+# indexed at 22/07/2020 10:34:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Experimental Blood Test Detects Cancer Up to Four Years Before Symptoms Appear](https://www.scientificamerican.com/article/experimental-blood-test-detects-cancer-up-to-four-years-before-symptoms-appear/)
-* [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [Bangladesh's economy relies heavily on Facebook](https://restofworld.org/2020/bangladesh-economy-runs-on-facebook/)
+* [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
 * [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
-* [Our Ghost Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future)
-* [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
-* [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
-* [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
+* [GraphQL Query Generator Library by IBM](https://blog.graphqleditor.com/graphql-query-generator/)
 * [The United Nations of Uniqlo](https://www.economist.com/1843/2020/07/06/the-united-nations-of-uniqlo)
-* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+* [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
+* [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
+* [Our Ghost Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future)
+* [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
+* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
-* [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
 * [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
+* [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
 * [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
 * [Very Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
-* [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 * [Mountain Beavers and Control of Mountain Beaver Damage (2005)](https://web.archive.org/web/20181202200300/http://icwdm.org/handbook/rodents/MountainBeaver.asp)
+* [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+* [New KDE Slimbook launched with Ryzan-4000 series processor](https://www.neowin.net/news/new-kde-slimbook-launched-with-ryzan-4000-series-processor)
 * [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
+* [Show HN: Single JavaScript API Client for Google Sheets and MS Excel APIs](https://github.com/odwyersoftware/sheet2api-js)
 * [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
 * [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
-* [New KDE Slimbook launched with Ryzan-4000 series processor](https://www.neowin.net/news/new-kde-slimbook-launched-with-ryzan-4000-series-processor)
 * [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
 * [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
-* [Hands-on: The $300 Kano PC, a “build-it-yourself” Chromebook competitor](https://arstechnica.com/gadgets/2020/07/hands-on-the-300-kano-pc-a-build-it-yourself-chromebook-competitor/)
 * [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
-* [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
 ## nytimes.com
 
 
@@ -83,16 +83,16 @@ layout: default
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [A Retelling of American History — in Neon](https://www.nytimes.com/2020/07/20/t-magazine/maya-stovall.html)
-* [Paul Fusco, Photographer on a Funeral Train, Dies at 89](https://www.nytimes.com/2020/07/21/arts/paul-fusco-photographer-dies.html)
-* [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](https://www.nytimes.com/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
-* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
-* [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [When the Bake Sale Goes Global, Millions Are Raised to Fight Injustice](https://www.nytimes.com/2020/07/21/dining/bake-sale-activism-racism.html)
+* [As Summer Takes Hold, So Do the Jumping Worms](https://www.nytimes.com/2020/07/22/realestate/as-summer-takes-hold-so-do-the-jumping-worms.html)
+* [Why a Medical Interpreter Felt ‘Disposable’ Amid Covid-19](https://www.nytimes.com/2020/07/20/us/medical-interpreter-covid-hospitals-coronavirus.html)
+* [Late Night on Trump’s Virus Briefings: ‘The Reboot Nobody Asked For’](https://www.nytimes.com/2020/07/22/arts/television/late-night-trump-coronavirus-briefings-portland.html)
+* [This Chicken Salad Comes With a Kick](https://www.nytimes.com/2020/07/20/dining/celery-chicken-salad-recipe.html)
 * [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
+* [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
+* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
 * [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Alexandria Ocasio-Cortez Embraces Republican Ted Yoho's Insult](https://www.nytimes.com/2020/07/21/us/politics/alexandria-ocasio-cortez-ted-yoho.html)
@@ -102,12 +102,12 @@ layout: default
 ## globo.com
 
 
+* [Ex-capa da Playboy presa cobrava R$ 1 mil por sexo com cocaína, diz polícia](https://epoca.globo.com/brasil/ex-capa-da-playboy-presa-cobrava-1-mil-por-sexo-com-cocaina-diz-policia-24543805)
+* [Consulado chinês em Houston é fechado para 'proteger propriedade intelectual dos EUA'](https://oglobo.globo.com/mundo/consulado-chines-em-houston-fechado-para-proteger-propriedade-intelectual-dos-eua-24544570)
 * [Quinze anos sem Jean Charles de Menezes: 'Minha dor ainda não acabou', diz mãe](https://epoca.globo.com/mundo/quinze-anos-sem-jean-charles-de-menezes-minha-dor-ainda-nao-acabou-diz-mae-24544562)
-* [Apesar de adiamento das Eliminatórias, seleção não fará amistosos em setembro](https://oglobo.globo.com/esportes/apesar-de-adiamento-das-eliminatorias-selecao-nao-fara-amistosos-em-setembro-24544524)
 * [Queimadas no Pantanal aumentam 189% em um ano](https://oglobo.globo.com/sociedade/sustentabilidade/queimadas-no-pantanal-aumentam-189-em-um-ano-1-24544466)
 * [Queimadas no Pantanal aumentam 189% em um ano, e ONGs internacionais se reúnem para pressionar governo](https://oglobo.globo.com/sociedade/sustentabilidade/queimadas-no-pantanal-aumentam-189-em-um-ano-ongs-internacionais-se-reunem-para-pressionar-governo-24544418)
 * [Ipea: de reciclagem de carros a ensino em tempo integral, confira 33 propostas de estímulo à economia](https://oglobo.globo.com/economia/ipea-de-reciclagem-de-carros-ensino-em-tempo-integral-confira-33-propostas-de-estimulo-economia-24543903)
-* [EBC convoca funcionários de volta ao trabalho presencial](https://epoca.globo.com/guilherme-amado/ebc-convoca-funcionarios-de-volta-ao-trabalho-presencial-24544236)
 * [Prisão em SC vê explosão de Covid: metade dos presos contaminada](https://epoca.globo.com/guilherme-amado/prisao-em-sc-ve-explosao-de-covid-metade-dos-presos-contaminada-24544142)
 * [Por João Pedro, George Floyd e tantos outros: cantor Caio Batalha dá voz a negros da periferia](https://oglobo.globo.com/rio/bairros/por-joao-pedro-george-floyd-tantos-outros-cantor-caio-batalha-da-voz-negros-da-periferia-24536373)
 * [Diretor de filmes e séries caça talentos na Zona Norte](https://oglobo.globo.com/rio/bairros/diretor-de-filmes-series-caca-talentos-na-zona-norte-24535157)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 16:13:55 UTC
+# indexed at 22/07/2020 16:34:18 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Show HN: UI Playbook – A documented collection of UI components](https://uiplaybook.dev)
 * [Mathematicians Will Never Stop Proving the Prime Number Theorem](https://www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/)
 * [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
+* [Is Every Game of Slay the Spire Winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [Ask HN: Resources to start learning about quantum computing?](https://news.ycombinator.com/item?id=23914992)
-* [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
-* [Data Visualization Catalog](https://datavizcatalogue.com/index.html)
 * [Debugging Incidents in Google's Distributed Systems](https://queue.acm.org/detail.cfm?id=3404974)
-* [Pachyderm is hiring K8s DevOps and Golang Devs](https://jobs.lever.co/pachyderm/)
+* [Data Visualization Catalog](https://datavizcatalogue.com/index.html)
+* [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [Y Combinator has lost its soul: A YC founder's perspective](https://twitter.com/AdamNeumannsCoS/status/1285651161723342848)
+* [Pachyderm is hiring K8s DevOps and Golang Devs](https://jobs.lever.co/pachyderm/)
 * [Online classes are not worth cost of full tuition](https://www.thestar.com/opinion/contributors/2020/07/20/online-classes-are-not-worth-cost-of-full-tuition.html)
 * [Twilio: Someone broke into our AWS S3 silo, added 'non-malicious' code to JS SDK](https://www.theregister.com/2020/07/21/twilio_sdk_code_injection/)
 * [The AN-225: How the Cold War created the world's largest airplane](https://www.cnn.com/travel/article/an-225-worlds-largest-airplane/index.html)
 * [Slack Files EU Competition Complaint Against Microsoft](https://slackhq.com/slack-files-eu-competition-complaint-against-microsoft)
-* [The United Nations of Uniqlo](https://www.economist.com/1843/2020/07/06/the-united-nations-of-uniqlo)
 * [ListenBrainz moves to TimescaleDB](https://blog.metabrainz.org/2020/07/22/listenbrainz-moves-to-timescaledb/)
+* [The United Nations of Uniqlo](https://www.economist.com/1843/2020/07/06/the-united-nations-of-uniqlo)
 * [Population Socioeconomics Predicted Using Wastewater](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00392)
 * [Show HN: Free API service for crypto and foreign exchange rates](https://www.exchangerate.host/)
 * [In Bangladesh, the majority of e-commerce now happens on Facebook](https://restofworld.org/2020/bangladesh-economy-runs-on-facebook/)
-* [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
-* [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
 * [GraphQL Query Generator](https://blog.graphqleditor.com/graphql-query-generator/)
+* [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
 * [Rust – How do I create a global, mutable singleton? (2015)](https://stackoverflow.com/questions/27791532/how-do-i-create-a-global-mutable-singleton)
-* [Show HN: Single JavaScript API Client for Google Sheets and MS Excel APIs](https://github.com/odwyersoftware/sheet2api-js)
+* [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
 * [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
-* [Lego Helicopter Kit Cancelled 10 Days Before Release](https://www.gizmodo.co.uk/2020/07/lego-helicopter-kit-cancelled-10-days-before-release/)
+* [Show HN: Single JavaScript API Client for Google Sheets and MS Excel APIs](https://github.com/odwyersoftware/sheet2api-js)
 ## nytimes.com
 
 
@@ -85,8 +85,8 @@ layout: default
 * [In Electric Car Market, It’s Tesla and a Jumbled Field of Also-Rans](https://www.nytimes.com/2020/07/22/business/tesla-electric-car-audi-polestar.html)
 * [Andrew Mlangeni, Ally of Mandela in Anti-Apartheid Struggle, Dies at 95](https://www.nytimes.com/2020/07/22/world/africa/andrew-mlangeni-dead.html)
 * [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
 * [When the Bake Sale Goes Global, Millions Are Raised to Fight Injustice](https://www.nytimes.com/2020/07/21/dining/bake-sale-activism-racism.html)
@@ -94,10 +94,10 @@ layout: default
 * [Why a Medical Interpreter Felt ‘Disposable’ Amid Covid-19](https://www.nytimes.com/2020/07/20/us/medical-interpreter-covid-hospitals-coronavirus.html)
 * [Late Night on Trump’s Virus Briefings: ‘The Reboot Nobody Asked For’](https://www.nytimes.com/2020/07/22/arts/television/late-night-trump-coronavirus-briefings-portland.html)
 * [This Chicken Salad Comes With a Kick](https://www.nytimes.com/2020/07/20/dining/celery-chicken-salad-recipe.html)
-* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
-* [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
 * [Vampire Bats Self-Isolate, Too](https://www.nytimes.com/2020/07/22/science/vampire-bats-viruses.html)
+* [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
 * [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
+* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Alexandria Ocasio-Cortez Embraces Republican Ted Yoho's Insult](https://www.nytimes.com/2020/07/21/us/politics/alexandria-ocasio-cortez-ted-yoho.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
+* [Crianças pulam de prédio na França e escapam de incêndio](https://oglobo.globo.com/mundo/criancas-pulam-de-predio-na-franca-escapam-de-incendio-24545017)
+* [EUA fecham acordo de quase US$ 2 bilhões para 100 milhões de doses de vacina da Pfizer e BioNTech](https://oglobo.globo.com/sociedade/eua-fecham-acordo-de-quase-us-2-bilhoes-para-100-milhoes-de-doses-de-vacina-da-pfizer-biontech-24544972)
+* [Governo descumpre ordem do STF para criar barreiras sanitárias em terras indígenas com povos isolados](https://oglobo.globo.com/brasil/governo-descumpre-ordem-do-stf-para-criar-barreiras-sanitarias-em-terras-indigenas-com-povos-isolados-24544931)
+* [Violência contra a mulher: subnotificação preocupa autoridades de Niterói durante o isolamento social](https://oglobo.globo.com/rio/bairros/violencia-contra-mulher-subnotificacao-preocupa-autoridades-de-niteroi-durante-isolamento-social-24544869)
 * [Com Serena Williams entre as fundadoras, time de futebol feminino de Los Angeles abraça causa por salários iguais](https://oglobo.globo.com/esportes/com-serena-williams-entre-as-fundadoras-time-de-futebol-feminino-de-los-angeles-abraca-causa-por-salarios-iguais-24545011)
 * [Câmara autoriza prorrogação até novembro do auxílio de até R$ 16 bilhões a estados e municípios](https://oglobo.globo.com/economia/camara-autoriza-prorrogacao-ate-novembro-do-auxilio-de-ate-16-bilhoes-estados-municipios-24545006)
-* [Crianças pulam de prédio na França e escapam de incêndio](https://oglobo.globo.com/mundo/criancas-pulam-de-predio-na-franca-escapam-de-incendio-24545017)
 * [Rússia condena historiador que investigou crimes de Stalin a três anos e meio de prisão](https://oglobo.globo.com/mundo/russia-condena-historiador-que-investigou-crimes-de-stalin-tres-anos-meio-de-prisao-24544959)
-* [Em meio à guerra fria entre Maia e Lira, centrão 'bolsonarista' decepciona governo no Fundeb](https://oglobo.globo.com/brasil/em-meio-guerra-fria-entre-maia-lira-centrao-bolsonarista-decepciona-governo-no-fundeb-24544951)
 * [Brasil tem 81.828 mortes por Covid-19, informa consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-81828-mortes-por-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24544944)
 * [Auxílio emergencial: suspeitas de fraude atingem 1,3 milhão de CPFs, o que levou ao bloqueio de contas pela Caixa](https://oglobo.globo.com/economia/auxilio-emergencial-suspeitas-de-fraude-atingem-13-milhao-de-cpfs-que-levou-ao-bloqueio-de-contas-pela-caixa-24544928)
-* [Governo descumpre ordem do STF para criar barreiras sanitárias em terras indígenas com povos isolados](https://oglobo.globo.com/brasil/governo-descumpre-ordem-do-stf-para-criar-barreiras-sanitarias-em-terras-indigenas-com-povos-isolados-24544931)
 * [Trump mira eleitores em duelo com repercussão que irá além de China e EUA](https://oglobo.globo.com/analitico/trump-mira-eleitores-em-duelo-com-repercussao-que-ira-alem-de-china-eua-24544969)
-* [EUA fecham acordo de quase US$ 2 bilhões para 100 milhões de doses de vacina da Pfizer e BioNTech](https://oglobo.globo.com/sociedade/eua-fecham-acordo-de-quase-us-2-bilhoes-para-100-milhoes-de-doses-de-vacina-da-pfizer-biontech-24544972)

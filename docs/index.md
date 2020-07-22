@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 11:12:24 UTC
+# indexed at 22/07/2020 11:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Experimental Blood Test Detects Cancer Up to Four Years Before Symptoms Appear](https://www.scientificamerican.com/article/experimental-blood-test-detects-cancer-up-to-four-years-before-symptoms-appear/)
 * [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
-* [Bangladesh's economy relies heavily on Facebook](https://restofworld.org/2020/bangladesh-economy-runs-on-facebook/)
-* [The United Nations of Uniqlo](https://www.economist.com/1843/2020/07/06/the-united-nations-of-uniqlo)
-* [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
 * [The AN-225: How the Cold War created the world's largest airplane](https://www.cnn.com/travel/article/an-225-worlds-largest-airplane/index.html)
 * [GraphQL Query Generator Library by IBM](https://blog.graphqleditor.com/graphql-query-generator/)
+* [In Bangladesh, the majority of e-commerce now happens on Facebook](https://restofworld.org/2020/bangladesh-economy-runs-on-facebook/)
+* [The United Nations of Uniqlo](https://www.economist.com/1843/2020/07/06/the-united-nations-of-uniqlo)
+* [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
 * [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
 * [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
-* [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
 * [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
+* [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
-* [Our Ghost Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future)
 * [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-* [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
+* [Our Ghost Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future)
+* [Why ListenBrainz Moved from InfluxDB to TimescaleDB](https://blog.metabrainz.org/2020/07/22/listenbrainz-moves-to-timescaledb/)
 * [Show HN: Single JavaScript API Client for Google Sheets and MS Excel APIs](https://github.com/odwyersoftware/sheet2api-js)
-* [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
-* [Very Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
+* [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
 * [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
+* [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
 * [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
-* [To Build a Better Ballot (2016)](https://ncase.me/ballot/)
-* [New KDE Slimbook launched with Ryzan-4000 series processor](https://www.neowin.net/news/new-kde-slimbook-launched-with-ryzan-4000-series-processor)
+* [Very Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
 * [Mountain Beavers and Control of Mountain Beaver Damage (2005)](https://web.archive.org/web/20181202200300/http://icwdm.org/handbook/rodents/MountainBeaver.asp)
-* [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
+* [New KDE Slimbook launched with Ryzan-4000 series processor](https://www.neowin.net/news/new-kde-slimbook-launched-with-ryzan-4000-series-processor)
+* [To Build a Better Ballot (2016)](https://ncase.me/ballot/)
 * [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
+* [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
 * [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
 * [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
 * [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
-* [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
 ## nytimes.com
 
 
@@ -75,15 +75,15 @@ layout: default
 * [14 People Are Shot Near Chicago Funeral Home](https://www.nytimes.com/2020/07/21/us/chicago-shooting-funeral-home.html)
 * [Twitter Bans QAnon Accounts](https://www.nytimes.com/2020/07/21/technology/twitter-bans-qanon-accounts.html)
 * [Army Soldier Sentenced to 3 Years in Accident That Killed West Point Cadet](https://www.nytimes.com/2020/07/21/us/west-point-accident-soldier-convicted.html)
-* [Parts of Alaska Briefly Under Tsunami Warning After Powerful Quake Hits](https://www.nytimes.com/2020/07/22/us/alaska-earthquake-tsunami-warning.html)
+* [Tensions Between U.S. and China Rattle Investors: Live Business Updates](https://www.nytimes.com/live/2020/07/22/business/stock-market-today-coronavirus)
 * [Trump’s Warm Words for Ghislaine Maxwell: ‘I Just Wish Her Well’](https://www.nytimes.com/2020/07/21/nyregion/trump-ghislaine-maxwell-jeffrey-epstein.html)
 * [Pro-Police Rallies Draw Counterprotesters and Clashes](https://www.nytimes.com/2020/07/22/nyregion/ny-back-the-blue-lives-matter-rallies.html)
 * [What Do Sweden and Mexico Have in Common? A Feminist Foreign Policy](https://www.nytimes.com/2020/07/21/us/sweden-feminist-foreign-policy.html)
 * [In Electric Car Market, It’s Tesla and a Jumbled Field of Also-Rans](https://www.nytimes.com/2020/07/22/business/tesla-electric-car-audi-polestar.html)
 * [Andrew Mlangeni, Ally of Mandela in Anti-Apartheid Struggle, Dies at 95](https://www.nytimes.com/2020/07/22/world/africa/andrew-mlangeni-dead.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [When the Bake Sale Goes Global, Millions Are Raised to Fight Injustice](https://www.nytimes.com/2020/07/21/dining/bake-sale-activism-racism.html)
@@ -103,8 +103,9 @@ layout: default
 ## globo.com
 
 
+* [Sem procuração, advogado que acompanhou Flávio Bolsonaro na casa de Paulo Marinho foi identificado por Márcia como do 'caso do Queiroz'](https://oglobo.globo.com/brasil/sem-procuracao-advogado-que-acompanhou-flavio-bolsonaro-na-casa-de-paulo-marinho-foi-identificado-por-marcia-como-do-caso-do-queiroz-24544608)
+* [NBA: jogos-treinos começam nesta quarta; liga terá mensagem antirracismo nas quadras de Orlando](https://oglobo.globo.com/esportes/nba-jogos-treinos-comecam-nesta-quarta-liga-tera-mensagem-antirracismo-nas-quadras-de-orlando-24544580)
 * [EUA ordena fechamento de consulado chinês em Houston, e China promete retaliação](https://oglobo.globo.com/mundo/eua-ordena-fechamento-de-consulado-chines-em-houston-china-promete-retaliacao-24544570)
-* [NBA: jogos-treinos começam nesta quarta, e liga terá mensagem antirracismo nas quadras de Orlando](https://oglobo.globo.com/esportes/nba-jogos-treinos-comecam-nesta-quarta-liga-tera-mensagem-antirracismo-nas-quadras-de-orlando-24544580)
 * [Vacina chinesa testada em SP vai chegar a voluntários de outros estados](https://epoca.globo.com/brasil/vacina-chinesa-testada-em-sp-vai-chegar-voluntarios-de-outros-estados-24544585)
 * [Brasil tem 2.167.988 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2167988-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24544592)
 * [Ipea: de reciclagem de carros a prorrogação da redução de jornada, confira 33 propostas de estímulo à economia](https://oglobo.globo.com/economia/ipea-de-reciclagem-de-carros-prorrogacao-da-reducao-de-jornada-confira-33-propostas-de-estimulo-economia-24543903)
@@ -112,4 +113,3 @@ layout: default
 * [Quinze anos sem Jean Charles de Menezes: 'Minha dor ainda não acabou', diz mãe](https://epoca.globo.com/mundo/quinze-anos-sem-jean-charles-de-menezes-minha-dor-ainda-nao-acabou-diz-mae-24544562)
 * [Queimadas no Pantanal aumentam 189% em um ano, e ONGs internacionais se reúnem para pressionar governo](https://oglobo.globo.com/sociedade/sustentabilidade/queimadas-no-pantanal-aumentam-189-em-um-ano-ongs-internacionais-se-reunem-para-pressionar-governo-24544418)
 * [Prisão em SC vê explosão de Covid: metade dos presos contaminada](https://epoca.globo.com/guilherme-amado/prisao-em-sc-ve-explosao-de-covid-metade-dos-presos-contaminada-24544142)
-* [Diretor de filmes e séries caça talentos na Zona Norte](https://oglobo.globo.com/rio/bairros/diretor-de-filmes-series-caca-talentos-na-zona-norte-24535157)

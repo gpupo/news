@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 07:13:18 UTC
+# indexed at 22/07/2020 07:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
 * [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
-* [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
-* [Nothingness](https://plato.stanford.edu/entries/nothingness/)
-* [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
 * [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-* [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
+* [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
+* [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
+* [Nothingness](https://plato.stanford.edu/entries/nothingness/)
 * [Mountain Beavers and Control of Mountain Beaver Damage (2005)](https://web.archive.org/web/20181202200300/http://icwdm.org/handbook/rodents/MountainBeaver.asp)
 * [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
-* [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+* [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
-* [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
+* [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+* [Very Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
 * [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
-* [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
-* [(Very) Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
+* [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
 * [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
-* [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
+* [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
 * [Safely Reviving Shared Memory](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/)
+* [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
 * [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
 * [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
 * [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
-* [One of the earliest science fiction books was written by a 1660s duchess (2016)](https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess)
 * [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
 * [Hands-on: The $300 Kano PC, a “build-it-yourself” Chromebook competitor](https://arstechnica.com/gadgets/2020/07/hands-on-the-300-kano-pc-a-build-it-yourself-chromebook-competitor/)
+* [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
 ## nytimes.com
 
 
@@ -79,12 +79,12 @@ layout: default
 * [When John Lewis Cosplayed at Comic-Con as His Younger Self](https://www.nytimes.com/2020/07/21/us/politics/john-lewis-comic-con.html)
 * [Powerful Ohio Republican Is Arrested in $60 Million Corruption Scheme](https://www.nytimes.com/2020/07/21/us/larry-householder-ohio-speaker-arrested.html)
 * [Angela Merkel Guides the E.U. to a Stimulus Deal, However Imperfect](https://www.nytimes.com/2020/07/21/world/europe/european-union-coronavirus-aid.html)
-* [2 Killed in Jet Ski Crash as Waters Get Crowded During Pandemic](https://www.nytimes.com/2020/07/21/nyregion/jet-ski-accident-bronx-nyc.html)
+* [Andrew Mlangeni, Ally of Mandela in Anti-Apartheid Struggle, Dies at 95](https://www.nytimes.com/2020/07/22/world/africa/andrew-mlangeni-dead.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [A Retelling of American History — in Neon](https://www.nytimes.com/2020/07/20/t-magazine/maya-stovall.html)
 * [Paul Fusco, Photographer on a Funeral Train, Dies at 89](https://www.nytimes.com/2020/07/21/arts/paul-fusco-photographer-dies.html)
 * [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)

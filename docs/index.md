@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 04:35:27 UTC
+# indexed at 22/07/2020 05:12:52 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
 * [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
-* [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 * [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
+* [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
 * [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
-* [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
-* [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
-* [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
 * [Svelte and TypeScript](https://svelte.dev/blog/svelte-and-typescript)
+* [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
+* [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
+* [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [Safely Reviving Shared Memory](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/)
+* [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
+* [Nothingness](https://plato.stanford.edu/entries/nothingness/)
 * [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
-* [Life without line numbers for 6% smaller Go binaries](https://commaok.xyz/post/no-line-numbers/)
 * [FounderPool: A community for founders to share risk and diversify their equity](http://www.founderpools.com)
-* [Costco Convinces Brands to Cannibalize Themselves](https://napkinmath.substack.com/p/how-costco-convinces-brands-to-cannibalize)
+* [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
+* [Life without line numbers for 6% smaller Go binaries](https://commaok.xyz/post/no-line-numbers/)
+* [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
 * [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
-* [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
+* [Costco Convinces Brands to Cannibalize Themselves](https://napkinmath.substack.com/p/how-costco-convinces-brands-to-cannibalize)
 * [One of the earliest science fiction books was written by a 1660s duchess (2016)](https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess)
-* [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
-* [NeurIPS 2020 “English to Bash” Competition Goes Live](http://nlc2cmd.us-east.mybluemix.net/#/)
 * [LinkedIn to cut 960 jobs worldwide](https://www.bbc.com/news/business-53484764)
-* [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
 * [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
-* [The Venus of Laussel – La Femme à La Corne](https://www.donsmaps.com/lacornevenus.html)
+* [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
 ## nytimes.com
 
 
@@ -93,9 +93,9 @@ layout: default
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](https://www.nytimes.com/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
 * [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
-* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
 * [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
+* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

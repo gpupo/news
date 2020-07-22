@@ -2,18 +2,20 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 08:14:57 UTC
+# indexed at 22/07/2020 08:34:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
+* [Experimental Blood Test Detects Cancer Up to Four Years Before Symptoms Appear](https://www.scientificamerican.com/article/experimental-blood-test-detects-cancer-up-to-four-years-before-symptoms-appear/)
 * [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
 * [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
 * [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
-* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+* [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
+* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
 * [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
@@ -21,12 +23,11 @@ layout: default
 * [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
 * [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
-* [Mountain Beavers and Control of Mountain Beaver Damage (2005)](https://web.archive.org/web/20181202200300/http://icwdm.org/handbook/rodents/MountainBeaver.asp)
 * [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 * [Very Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
+* [Mountain Beavers and Control of Mountain Beaver Damage (2005)](https://web.archive.org/web/20181202200300/http://icwdm.org/handbook/rodents/MountainBeaver.asp)
 * [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
 * [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
-* [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
 * [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
@@ -35,9 +36,8 @@ layout: default
 * [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
 * [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
 * [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
-* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
 * [Hands-on: The $300 Kano PC, a “build-it-yourself” Chromebook competitor](https://arstechnica.com/gadgets/2020/07/hands-on-the-300-kano-pc-a-build-it-yourself-chromebook-competitor/)
-* [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
+* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
 ## nytimes.com
 
 
@@ -73,17 +73,17 @@ layout: default
 * [14 People Are Shot Near Chicago Funeral Home](https://www.nytimes.com/2020/07/21/us/chicago-shooting-funeral-home.html)
 * [Twitter Takedown Targets QAnon Accounts](https://www.nytimes.com/2020/07/21/technology/twitter-bans-qanon-accounts.html)
 * [Army Soldier Sentenced to 3 Years in Accident That Killed West Point Cadet](https://www.nytimes.com/2020/07/21/us/west-point-accident-soldier-convicted.html)
-* [Judge Declines to Release Girl, 15, Held for Skipping Online Schoolwork](https://www.nytimes.com/2020/07/21/us/michigan-teen-coursework-detention.html)
+* [Parts of Alaska Under Tsunami Warning After Powerful Quake Hits](https://www.nytimes.com/2020/07/22/us/alaska-earthquake-tsunami-warning.html)
 * [Republicans Heap Criticism on Liz Cheney, Calling Her Disloyal to Trump](https://www.nytimes.com/2020/07/21/us/politics/liz-cheney-house-republicans.html)
 * [When John Lewis Cosplayed at Comic-Con as His Younger Self](https://www.nytimes.com/2020/07/21/us/politics/john-lewis-comic-con.html)
 * [Powerful Ohio Republican Is Arrested in $60 Million Corruption Scheme](https://www.nytimes.com/2020/07/21/us/larry-householder-ohio-speaker-arrested.html)
-* [Angela Merkel Guides the E.U. to a Stimulus Deal, However Imperfect](https://www.nytimes.com/2020/07/21/world/europe/european-union-coronavirus-aid.html)
+* [Judge Declines to Release Girl, 15, Held for Skipping Online Schoolwork](https://www.nytimes.com/2020/07/21/us/michigan-teen-coursework-detention.html)
 * [Andrew Mlangeni, Ally of Mandela in Anti-Apartheid Struggle, Dies at 95](https://www.nytimes.com/2020/07/22/world/africa/andrew-mlangeni-dead.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [A Retelling of American History — in Neon](https://www.nytimes.com/2020/07/20/t-magazine/maya-stovall.html)
 * [Paul Fusco, Photographer on a Funeral Train, Dies at 89](https://www.nytimes.com/2020/07/21/arts/paul-fusco-photographer-dies.html)
 * [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)

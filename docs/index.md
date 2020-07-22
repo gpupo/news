@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 09:12:56 UTC
+# indexed at 22/07/2020 09:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -11,7 +11,9 @@ layout: default
 * [Experimental Blood Test Detects Cancer Up to Four Years Before Symptoms Appear](https://www.scientificamerican.com/article/experimental-blood-test-detects-cancer-up-to-four-years-before-symptoms-appear/)
 * [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
+* [Bangladesh's economy relies heavily on Facebook](https://restofworld.org/2020/bangladesh-economy-runs-on-facebook/)
 * [Medium is not the home for your ideas](https://hulry.com/medium-vs-own-blog/)
+* [Our Ghost Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future)
 * [Trump administration establishes $75M quantum computing centers](https://thehill.com/policy/cybersecurity/508305-trump-administration-establishes-75-million-quantum-computing-centers)
 * [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
 * [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
@@ -19,7 +21,6 @@ layout: default
 * [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
 * [NES Emulator on Arduino](https://hackaday.com/2020/07/15/arduino-plays-nes-games/)
-* [Our Ghost Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future)
 * [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
 * [NoSQL GUI Application](https://github.com/fastogt/fastonosql)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
@@ -31,12 +32,11 @@ layout: default
 * [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
 * [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
-* [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
 * [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
+* [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
 * [Hands-on: The $300 Kano PC, a “build-it-yourself” Chromebook competitor](https://arstechnica.com/gadgets/2020/07/hands-on-the-300-kano-pc-a-build-it-yourself-chromebook-competitor/)
 * [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
 * [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
-* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
 * [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
 ## nytimes.com
 
@@ -71,7 +71,7 @@ layout: default
 * [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
 * [In Alex Trebek’s Reluctant, Moving Memoir, Life Is All About the Next Question](https://www.nytimes.com/2020/07/21/books/review-answer-is-alex-trebek-jeopardy-memoir.html)
 * [14 People Are Shot Near Chicago Funeral Home](https://www.nytimes.com/2020/07/21/us/chicago-shooting-funeral-home.html)
-* [Twitter Takedown Targets QAnon Accounts](https://www.nytimes.com/2020/07/21/technology/twitter-bans-qanon-accounts.html)
+* [Twitter Bans QAnon Accounts](https://www.nytimes.com/2020/07/21/technology/twitter-bans-qanon-accounts.html)
 * [Army Soldier Sentenced to 3 Years in Accident That Killed West Point Cadet](https://www.nytimes.com/2020/07/21/us/west-point-accident-soldier-convicted.html)
 * [Parts of Alaska Briefly Under Tsunami Warning After Powerful Quake Hits](https://www.nytimes.com/2020/07/22/us/alaska-earthquake-tsunami-warning.html)
 * [Trump’s Warm Words for Ghislaine Maxwell: ‘I Just Wish Her Well’](https://www.nytimes.com/2020/07/21/nyregion/trump-ghislaine-maxwell-jeffrey-epstein.html)
@@ -79,20 +79,20 @@ layout: default
 * [Powerful Ohio Republican Is Arrested in $60 Million Corruption Scheme](https://www.nytimes.com/2020/07/21/us/larry-householder-ohio-speaker-arrested.html)
 * [Judge Declines to Release Girl, 15, Held for Skipping Online Schoolwork](https://www.nytimes.com/2020/07/21/us/michigan-teen-coursework-detention.html)
 * [Andrew Mlangeni, Ally of Mandela in Anti-Apartheid Struggle, Dies at 95](https://www.nytimes.com/2020/07/22/world/africa/andrew-mlangeni-dead.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [A Retelling of American History — in Neon](https://www.nytimes.com/2020/07/20/t-magazine/maya-stovall.html)
 * [Paul Fusco, Photographer on a Funeral Train, Dies at 89](https://www.nytimes.com/2020/07/21/arts/paul-fusco-photographer-dies.html)
 * [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](https://www.nytimes.com/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
-* [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
-* [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
 * [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
 * [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
+* [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
+* [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Alexandria Ocasio-Cortez Embraces Republican Ted Yoho's Insult](https://www.nytimes.com/2020/07/21/us/politics/alexandria-ocasio-cortez-ted-yoho.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -101,8 +101,8 @@ layout: default
 ## globo.com
 
 
+* [Apesar de adiamento das Eliminatórias, seleção não fará amistosos em setembro](https://oglobo.globo.com/esportes/apesar-de-adiamento-das-eliminatorias-selecao-nao-fara-amistosos-em-setembro-24544524)
 * [Qual é o poder de fogo da Lava-Jato eleitoral?](https://oglobo.globo.com/podcast/qual-o-poder-de-fogo-da-lava-jato-eleitoral-1-24544400)
-* ['A prefeitura parece estar lavando as mãos' diz especialista sobre retorno das aulas presenciais de forma voluntária](https://oglobo.globo.com/rio/a-prefeitura-parece-estar-lavando-as-maos-diz-especialista-sobre-retorno-das-aulas-presenciais-de-forma-voluntaria-24544464)
 * [Informações inconsistentes em banco de dados do Ministério da Saúde dificultam ações contra a Covid-19](https://oglobo.globo.com/sociedade/informacoes-inconsistentes-em-banco-de-dados-do-ministerio-da-saude-dificultam-acoes-contra-covid-19-24544437)
 * [Livro reúne obra jornalística de Gabriel García Márquez, do repórter-raiz ao cronista fantástico](https://oglobo.globo.com/cultura/livro-reune-obra-jornalistica-de-gabriel-garcia-marquez-do-reporter-raiz-ao-cronista-fantastico-24533689)
 * [Força-tarefa no PSL para segurar Major Olímpio](https://epoca.globo.com/guilherme-amado/forca-tarefa-no-psl-para-segurar-major-olimpio-24544276)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 04:13:55 UTC
+# indexed at 22/07/2020 04:35:27 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118)
 * [Build a toy quantum computer at home](https://www.dhruvonmath.com/2020/07/19/quantum-computers/)
-* [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
 * [We Need a Yelp for Doctoral Programs](https://community.chronicle.com/news/2283-why-we-need-a-yelp-for-doctoral-programs)
+* [It's Time to Start Writing (2019)](https://alexnixon.github.io/2019/12/10/writing.html)
 * [How and why I attempt to use Links as main browser](https://dataswamp.org/~lich/musings/links-browser.html)
 * [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)
 * [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 * [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
+* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
 * [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
 * [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
-* [The Problem with Solano County's Rail Plan](https://solanorail.blogspot.com/2020/07/the-problem-with-solano-countys-rail.html)
-* [Safely Reviving Shared Memory](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/)
 * [Svelte and TypeScript](https://svelte.dev/blog/svelte-and-typescript)
+* [Safely Reviving Shared Memory](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/)
 * [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
 * [Life without line numbers for 6% smaller Go binaries](https://commaok.xyz/post/no-line-numbers/)
-* [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
-* [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
 * [FounderPool: A community for founders to share risk and diversify their equity](http://www.founderpools.com)
-* [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
-* [One of the earliest science fiction books was written by a 1660s duchess (2016)](https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess)
 * [Costco Convinces Brands to Cannibalize Themselves](https://napkinmath.substack.com/p/how-costco-convinces-brands-to-cannibalize)
+* [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
+* [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
+* [Best Paper Awards at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/)
+* [One of the earliest science fiction books was written by a 1660s duchess (2016)](https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess)
 * [SlateStarCodex Is Back Up](https://slatestarcodex.com/)
 * [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
 * [NeurIPS 2020 “English to Bash” Competition Goes Live](http://nlc2cmd.us-east.mybluemix.net/#/)
 * [LinkedIn to cut 960 jobs worldwide](https://www.bbc.com/news/business-53484764)
-* [The Venus of Laussel – La Femme à La Corne](https://www.donsmaps.com/lacornevenus.html)
 * [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
 * [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
+* [The Venus of Laussel – La Femme à La Corne](https://www.donsmaps.com/lacornevenus.html)
 ## nytimes.com
 
 
@@ -82,20 +82,20 @@ layout: default
 * [Powerful Ohio Republican Is Arrested in $60 Million Corruption Scheme](https://www.nytimes.com/2020/07/21/us/larry-householder-ohio-speaker-arrested.html)
 * [Angela Merkel Guides the E.U. to a Stimulus Deal, However Imperfect](https://www.nytimes.com/2020/07/21/world/europe/european-union-coronavirus-aid.html)
 * [2 Killed in Jet Ski Crash as Waters Get Crowded During Pandemic](https://www.nytimes.com/2020/07/21/nyregion/jet-ski-accident-bronx-nyc.html)
-* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [Keeping Kids Curious About Their Bodies Without Shame](https://www.nytimes.com/2020/07/16/parenting/kids-body-boundaries.html)
 * [A Retelling of American History — in Neon](https://www.nytimes.com/2020/07/20/t-magazine/maya-stovall.html)
 * [Paul Fusco, Photographer on a Funeral Train, Dies at 89](https://www.nytimes.com/2020/07/21/arts/paul-fusco-photographer-dies.html)
 * [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](https://www.nytimes.com/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
+* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
+* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
 * [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
-* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
-* [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

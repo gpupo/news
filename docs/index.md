@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 01:14:26 UTC
+# indexed at 22/07/2020 01:34:49 UTC
 
 
 ## news.ycombinator.com
@@ -15,28 +15,28 @@ layout: default
 * [The Cadence: How to Operate a SaaS Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
 * [LinkedIn to cut 960 jobs worldwide](https://www.bbc.com/news/business-53484764)
 * [Show HN: Datagridxl.js – No-nonsense fast Excel-like data table library](https://datagridxl.com)
-* [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
-* [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
 * [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
+* [Turing and Wittgenstein on Logic and Mathematics [pdf]](https://www.britishwittgensteinsociety.org/wp-content/uploads/documents/lectures/Turing-and-Wittgenstein-on-Logic-and-Mathematics.pdf)
+* [Old-School Disk Partitions](https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html)
 * [Safely Reviving Shared Memory](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/)
 * [Big Sur is both 10.16 and 11.0](https://eclecticlight.co/2020/07/21/big-sur-is-both-10-16-and-11-0-its-official/)
+* [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
 * [Elo sucks – better multiplayer rating systems for smaller games (2019)](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f)
 * [Harvard CS professor David Malan built a distance-learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire)
-* [Volcanoes on Venus are still active](https://phys.org/news/2020-07-scientists-volcanoes-venus.html)
-* [Life without line numbers for 6% smaller Go binaries](https://commaok.xyz/post/no-line-numbers/)
 * [Svelte and TypeScript](https://svelte.dev/blog/svelte-and-typescript)
 * [RIP ROP: CET Internals in Windows 20H1](https://windows-internals.com/cet-on-windows/)
+* [Life without line numbers for 6% smaller Go binaries](https://commaok.xyz/post/no-line-numbers/)
 * [The Birth of New Spain](https://www.laphamsquarterly.org/roundtable/birth-new-spain)
 * [Open-Source Music Production Tools](https://midination.com/free-music-production-software/)
 * [FounderPool: A community for founders to share risk and diversify their equity](http://www.founderpools.com)
 * [AI in physics: are we facing a scientific revolution?](https://www.4alltech.com/2020/07/ai-in-physics-are-we-facing-science.html)
 * [One of the earliest science fiction books was written by a 1660s duchess (2016)](https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess)
+* [Eric Schmidt is working to launch a university](https://www.businessinsider.com/google-eric-schmidt-us-digital-service-academy-2020-7)
 * [The Venus of Laussel – La Femme à La Corne](https://www.donsmaps.com/lacornevenus.html)
 * [Bidi Brackets for Dummies](https://www.unicode.org/notes/tn39/)
-* [Eric Schmidt is working to launch a university](https://www.businessinsider.com/google-eric-schmidt-us-digital-service-academy-2020-7)
 * [NeurIPS 2020 “English to Bash” Competition Goes Live](http://nlc2cmd.us-east.mybluemix.net/#/)
-* [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
 * [Launch HN: Charityvest (YC S20) – Employee charitable funds and gift matching](https://news.ycombinator.com/item?id=23907902)
+* [Invert, always, invert](https://www.anup.io/2020/07/20/invert-always-invert/)
 * [A man trying to automate Thailand’s hospitals](https://restofworld.org/2020/the-man-trying-to-automate-thailands-hospitals/)
 ## nytimes.com
 
@@ -74,7 +74,7 @@ layout: default
 * [A Land Art Pioneer’s Adventures in Time and Space](https://www.nytimes.com/2020/07/21/t-magazine/charles-ross-artist.html)
 * [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
 * [In Alex Trebek’s Reluctant, Moving Memoir, Life Is All About the Next Question](https://www.nytimes.com/2020/07/21/books/review-answer-is-alex-trebek-jeopardy-memoir.html)
-* [Ocasio-Cortez Embraces a Republican’s Insult](https://www.nytimes.com/2020/07/21/us/politics/alexandria-ocasio-cortez-ted-yoho.html)
+* [Alexandria Ocasio-Cortez Embraces Republican Ted Yoho's Insult](https://www.nytimes.com/2020/07/21/us/politics/alexandria-ocasio-cortez-ted-yoho.html)
 * [Police Find Body in Building Burned Down During George Floyd Protests](https://www.nytimes.com/2020/07/21/us/body-minneapolis-protests-floyd.html)
 * [Judge Declines to Release Girl, 15, Held for Skipping Online Schoolwork](https://www.nytimes.com/2020/07/21/us/michigan-teen-coursework-detention.html)
 * [Republicans Heap Criticism on Liz Cheney, Calling Her Disloyal to Trump](https://www.nytimes.com/2020/07/21/us/politics/liz-cheney-house-republicans.html)
@@ -92,10 +92,10 @@ layout: default
 * [10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](https://www.nytimes.com/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
-* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home](https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html)
-* [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
+* [The Wilderness of Rare Genetic Diseases and the Parents Navigating It](https://www.nytimes.com/2020/07/07/parenting/rare-genetic-diseases-children.html)
 * [Trump Says He ‘Aced’ a Cognitive Test. What Does That Really Mean?](https://www.nytimes.com/article/trump-cognitive-test.html)
+* [Scientific Panel Urges That Schools Reopen](https://www.nytimes.com/2020/07/15/health/coronavirus-schools-reopening.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [New York Reporter Nina Kapur Dies After Revel Moped Accident](https://www.nytimes.com/2020/07/20/nyregion/revel-scooter-nina-kapur-dead.html)
 * [Trump’s Occupation of American Cities Has Begun](https://www.nytimes.com/2020/07/20/opinion/portland-protests-trump.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Câmara aprova em dois turnos texto do novo Fundeb](https://oglobo.globo.com/sociedade/camara-aprova-em-dois-turnos-texto-do-novo-fundeb-24544046)
-* [Cabral vai apresentar à Justiça carta escrita por Paes em 2014 para tentar comprovar proximidade](https://oglobo.globo.com/brasil/cabral-vai-apresentar-justica-carta-escrita-por-paes-em-2014-para-tentar-comprovar-proximidade-1-24544210)
-* [Pais, alunos e professores das redes particular e pública temem a volta às aulas](https://oglobo.globo.com/rio/pais-alunos-professores-das-redes-particular-publica-temem-volta-as-aulas-1-24543744)
-* [Bolsonaristas votam contra Fundeb](https://epoca.globo.com/guilherme-amado/bolsonaristas-votam-contra-fundeb-24544277)
-* [Polícia investiga realização de videoclipe no Jacarezinho; imagens mostram homens com armas para o alto](https://oglobo.globo.com/rio/policia-investiga-realizacao-de-videoclipe-no-jacarezinho-imagens-mostram-homens-com-armas-para-alto-24544182)
-* [Dona da OLX compra negócio de classificados do eBay por US$ 9,2 bilhões](https://oglobo.globo.com/economia/dona-da-olx-compra-negocio-de-classificados-do-ebay-por-us-92-bilhoes-24544232)
+* [Após apoiar desembargador que rasgou multa, presidente de comissão da OAB de Santo André é destituído](https://oglobo.globo.com/sociedade/apos-apoiar-desembargador-que-rasgou-multa-presidente-de-comissao-da-oab-de-santo-andre-destituido-24544378)
+* [Ancine divulga lista de mais de quatro mil análises pendentes, incluindo obras de 15 anos atrás](https://oglobo.globo.com/cultura/ancine-divulga-lista-de-mais-de-quatro-mil-analises-pendentes-incluindo-obras-de-15-anos-atras-24544290)
+* [Flávio elogia postura de ‘distensionamento’ de Bolsonaro](https://oglobo.globo.com/brasil/flavio-elogia-postura-de-distensionamento-de-bolsonaro-24544372)
 * [Tribunal de Justiça confirma absolvição de Haddad em processo por improbidade administrativa](https://oglobo.globo.com/brasil/tribunal-de-justica-confirma-absolvicao-de-haddad-em-processo-por-improbidade-administrativa-24544187)
+* [Cabral vai apresentar à Justiça carta escrita por Paes em 2014 para tentar comprovar proximidade](https://oglobo.globo.com/brasil/cabral-vai-apresentar-justica-carta-escrita-por-paes-em-2014-para-tentar-comprovar-proximidade-1-24544210)
+* [Polícia investiga realização de videoclipe no Jacarezinho; imagens mostram homens com armas para o alto](https://oglobo.globo.com/rio/policia-investiga-realizacao-de-videoclipe-no-jacarezinho-imagens-mostram-homens-com-armas-para-alto-24544182)
+* [Câmara aprova em dois turnos texto do novo Fundeb](https://oglobo.globo.com/sociedade/camara-aprova-em-dois-turnos-texto-do-novo-fundeb-24544046)
+* [Bolsonaristas votam contra Fundeb](https://epoca.globo.com/guilherme-amado/bolsonaristas-votam-contra-fundeb-24544277)
+* [Dona da OLX compra negócio de classificados do eBay por US$ 9,2 bilhões](https://oglobo.globo.com/economia/dona-da-olx-compra-negocio-de-classificados-do-ebay-por-us-92-bilhoes-24544232)
 * [Toffoli concede domiciliar a idosa com HIV, diabetes e hipertensão](https://epoca.globo.com/guilherme-amado/toffoli-concede-domiciliar-idosa-com-hiv-diabetes-hipertensao-24544208)
-* [Pandemia prejudica mais as mulheres e pode aumentar desigualdade de gênero, alerta Fundo Monetário](https://oglobo.globo.com/economia/pandemia-prejudica-mais-as-mulheres-pode-aumentar-desigualdade-de-genero-alerta-fundo-monetario-24544020)
-* [Guerra no TCM do Rio, mais um round](https://epoca.globo.com/guilherme-amado/guerra-no-tcm-do-rio-mais-um-round-24544158)

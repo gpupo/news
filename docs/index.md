@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/07/2020 19:12:38 UTC
+# indexed at 22/07/2020 19:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
 * [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
-* [The trauma of Facebook’s content moderators](https://restofworld.org/2020/facebook-international-content-moderators/)
 * [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/)
+* [The trauma of Facebook’s content moderators](https://restofworld.org/2020/facebook-international-content-moderators/)
 * [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
-* [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
 * [Mathematicians Discover the Perfect Way to Multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-* [Apple’s app store and other digital marketplaces [pdf]](https://www.analysisgroup.com/globalassets/insights/publishing/apples_app_store_and_other_digital_marketplaces_a_comparison_of_commission_rates.pdf)
+* [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
 * [Bacteria and Colon Cancer](https://blogs.sciencemag.org/pipeline/archives/2020/07/22/bacteria-and-colon-cancer)
-* [ReadMe (YC W15) is hiring a React engineer for our Slate-based markdown editor](https://readme.com/careers#slatereact-engineer)
+* [Apple’s app store and other digital marketplaces [pdf]](https://www.analysisgroup.com/globalassets/insights/publishing/apples_app_store_and_other_digital_marketplaces_a_comparison_of_commission_rates.pdf)
 * [Exploring Fully Homomorphic Encryption](https://vitalik.ca/general/2020/07/20/homomorphic.html)
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+* [People Loved Nikola but Not Its Warrants](https://www.bloomberg.com/opinion/articles/2020-07-21/people-loved-nikola-but-not-its-warrants)
+* [ReadMe (YC W15) is hiring a React engineer for our Slate-based markdown editor](https://readme.com/careers#slatereact-engineer)
 * [Debugging Incidents in Google's Distributed Systems](https://queue.acm.org/detail.cfm?id=3404974)
 * [Ask HN: Resources to start learning about quantum computing?](https://news.ycombinator.com/item?id=23914992)
 * [Mathematicians will never stop proving the Prime Number Theorem](https://www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/)
 * [How you 'attach' to people may explain a lot about your inner life](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health)
 * [Data Visualization Catalog](https://datavizcatalogue.com/index.html)
 * [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
-* [Is every game of Slay the Spire winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
-* [Population Socioeconomics Predicted Using Wastewater](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00392)
 * [Deception as a Way of Knowing: A Conversation with Anthony Grafton (2009)](http://www.cabinetmagazine.org/issues/33/burnett_grafton.php)
-* [Online classes are not worth cost of full tuition](https://www.thestar.com/opinion/contributors/2020/07/20/online-classes-are-not-worth-cost-of-full-tuition.html)
+* [Population Socioeconomics Predicted Using Wastewater](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00392)
 * [Experimental blood test detects cancer up to four years before symptoms appear](https://www.scientificamerican.com/article/experimental-blood-test-detects-cancer-up-to-four-years-before-symptoms-appear/)
+* [Online classes are not worth cost of full tuition](https://www.thestar.com/opinion/contributors/2020/07/20/online-classes-are-not-worth-cost-of-full-tuition.html)
+* [Is every game of Slay the Spire winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
 * [Y Combinator has lost its soul: A YC founder's perspective](https://twitter.com/AdamNeumannsCoS/status/1285651161723342848)
 * [ListenBrainz moves to TimescaleDB](https://blog.metabrainz.org/2020/07/22/listenbrainz-moves-to-timescaledb/)
 * [The AN-225: How the Cold War created the world's largest airplane](https://www.cnn.com/travel/article/an-225-worlds-largest-airplane/index.html)
 * [Show HN: Free API service for crypto and foreign exchange rates](https://www.exchangerate.host/)
 * [The United Nations of Uniqlo](https://www.economist.com/1843/2020/07/06/the-united-nations-of-uniqlo)
 * [Twilio: Someone broke into our AWS S3 silo, added 'non-malicious' code to JS SDK](https://www.theregister.com/2020/07/21/twilio_sdk_code_injection/)
-* [Brain connectivity levels are equal in all mammals, including humans: study](https://www.aftau.org/press-release---brain-connectivity---july-20-2020)
 ## nytimes.com
 
 
@@ -78,20 +78,19 @@ layout: default
 * [Trump vs. Biden 2020: Live Election Updates](https://www.nytimes.com/2020/07/22/us/elections/biden-vs-trump.html)
 * [Tim Bray is Not Done With Amazon](https://www.nytimes.com/2020/07/22/technology/amazon-critic-tim-bray.html)
 * [A Girl’s Heroic Battle Against the Taliban Was Also a Family Feud](https://www.nytimes.com/2020/07/22/world/asia/afghan-hero-woman-taliban.html)
-* [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [The Rembrandt Self-Portrait That Has Long Captivated Pat Steir](https://www.nytimes.com/2020/07/21/t-magazine/pat-steir.html)
 * [When Brad Photographed Gwyneth](https://www.nytimes.com/2020/07/22/style/gwyneth-paltrow-valentino-ad-campaign.html)
 * [Review: Reliving ‘Private Lives,’ This Time Mostly Women’s](https://www.nytimes.com/2020/07/21/theater/review-short-new-play-festival-private-lives.html)
 * [Help! My Ship Is Supposedly Still Sailing, and I Don’t Want to Be On Board](https://www.nytimes.com/2020/07/22/travel/virus-cruise-refunds.html)
 * [12 Forgotten Classics by Women-Led New Wave Bands](https://www.nytimes.com/2020/07/22/arts/music/women-new-wave-playlist.html)
+* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
 * [Vampire Bats Self-Isolate, Too](https://www.nytimes.com/2020/07/22/science/vampire-bats-viruses.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Alexandria Ocasio-Cortez Embraces Republican Ted Yoho's Insult](https://www.nytimes.com/2020/07/21/us/politics/alexandria-ocasio-cortez-ted-yoho.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -100,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Caixa vai suspender prestações da casa própria por mais dois meses](https://oglobo.globo.com/economia/caixa-vai-suspender-prestacoes-da-casa-propria-por-mais-dois-meses-24545398)
+* [Israel prende dois líderes culturais palestinos em Jerusalém](https://oglobo.globo.com/mundo/israel-prende-dois-lideres-culturais-palestinos-em-jerusalem-24545280)
+* [Com risco de faltar dinheiro para pagar auxílio emergencial, governo libera mais R$ 438 milhões para impressão de cédulas](https://oglobo.globo.com/economia/com-risco-de-faltar-dinheiro-para-pagar-auxilio-emergencial-governo-libera-mais-438-milhoes-para-impressao-de-cedulas-24545397)
 * [Enquanto ameaça enviar policiais para cidades democratas, Trump lança campanha que enfatiza lei e ordem](https://oglobo.globo.com/mundo/enquanto-ameaca-enviar-policiais-para-cidades-democratas-trump-lanca-campanha-que-enfatiza-lei-ordem-24545080)
+* [Amazon e Apple são investigadas na Itália por práticas anticoncorrência](https://oglobo.globo.com/economia/amazon-apple-sao-investigadas-na-italia-por-praticas-anticoncorrencia-1-24545360)
+* [Como navios 'invisíveis' chineses matam pescadores em 'barcos-fantasma' no Mar do Japão](https://epoca.globo.com/mundo/como-navios-invisiveis-chineses-matam-pescadores-em-barcos-fantasma-no-mar-do-japao-24544794)
 * [Sem padrão nacional para balanço sobre pandemia, EUA têm dados falhos para rastrear e acompanhar vírus](https://oglobo.globo.com/mundo/sem-padrao-nacional-para-balanco-sobre-pandemia-eua-tem-dados-falhos-para-rastrear-acompanhar-virus-24543901)
 * [A lição que fica para o governo Bolsonaro depois da votação do Fundeb](https://oglobo.globo.com/analitico/a-licao-que-fica-para-governo-bolsonaro-depois-da-votacao-do-fundeb-24545301)
-* [Israel prende dois líderes culturais palestinos em Jerusalém](https://oglobo.globo.com/mundo/israel-prende-dois-lideres-culturais-palestinos-em-jerusalem-24545280)
 * [Reino Unido vai proteger Nokia e Ericsson após saída da Huawei do país, diz ministro](https://oglobo.globo.com/economia/reino-unido-vai-proteger-nokia-ericsson-apos-saida-da-huawei-do-pais-diz-ministro-1-24545285)
 * [Advogado é flagrado tentando entrar em presídio do Rio com 115 chips de celular escondidos em papel higiênico](https://oglobo.globo.com/rio/advogado-flagrado-tentando-entrar-em-presidio-do-rio-com-115-chips-de-celular-escondidos-em-papel-higienico-1-24545283)
-* [Unicamp cancela ingresso para universidade por meio do Enem](https://oglobo.globo.com/sociedade/unicamp-cancela-ingresso-para-universidade-por-meio-do-enem-24545266)
-* [Princesa Beatrice pediu vestido da rainha emprestado de última hora para o casamento](https://oglobo.globo.com/ela/gente/princesa-beatrice-pediu-vestido-da-rainha-emprestado-de-ultima-hora-para-casamento-24545259)
-* [Temendo despejo, moradores de comunidade em Vargem Pequena se recusam a fazer cadastro para aluguel social](https://oglobo.globo.com/rio/bairros/temendo-despejo-moradores-de-comunidade-em-vargem-pequena-se-recusam-fazer-cadastro-para-aluguel-social-24545104)
-* [Coluna | Prestes a assumir presidência do Supremo, Fux lamenta: 'Não vai ter festa'](https://epoca.globo.com/carolina-brigido/coluna-prestes-assumir-presidencia-do-supremo-fux-lamenta-nao-vai-ter-festa-24545255)

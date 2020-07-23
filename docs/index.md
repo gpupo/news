@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 05:14:07 UTC
+# indexed at 23/07/2020 05:34:48 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
 * [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
 * [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
-* [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
+* [An Insomniac's journey to regular sleep](https://www.sleepedy.com/articles/insomniac-journey-to-better-sleep)
 * [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
+* [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
 * [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
 * [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
-* [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/)
 * [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
+* [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/)
 * [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
+* [IPv4, IPv6, and a sudden change in attitude](https://apenwarr.ca/log/20200708)
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
 * [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
-* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [Flash Game History](http://www.flashgamehistory.com/)
+* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [On Lacework](https://unthinking.photography/articles/on-lacework)
 * [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-* [Amazon Ion](https://amzn.github.io/ion-docs/)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
+* [Amazon Ion](https://amzn.github.io/ion-docs/)
 * [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
-* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
-* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
-* [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
 * [LWN pays $300 for a well-written article from new authors](https://lwn.net/op/AuthorGuide.lwn)
+* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
+* [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
+* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
 * [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
-* [Show HN: Biff – Self-hosted Firebase alternative for Clojure](https://findka.com/biff/)
-* [Is every game of Slay the Spire winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
-* [Active-matrix organic light-emitting diode display on human skin](https://phys.org/news/2020-07-active-matrix-light-emitting-diode-human-skin.html)
+* [One-Third of U.S. Museums May Not Survive the Year, Survey Finds](https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds)
 ## nytimes.com
 
 
@@ -82,8 +82,8 @@ layout: default
 * [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [Four Artists on the Future of Video Art](https://www.nytimes.com/2020/07/22/t-magazine/video-art.html)
 * [When Brad Photographed Gwyneth](https://www.nytimes.com/2020/07/22/style/gwyneth-paltrow-valentino-ad-campaign.html)
 * [Annie Ross, Jazz Vocalist of ‘Twisted’ Renown, Dies at 89](https://www.nytimes.com/2020/07/22/arts/music/annie-ross-dies.html)
@@ -100,9 +100,9 @@ layout: default
 ## globo.com
 
 
+* [Rio tem site que informa que cidades no estado já estão recebendo turistas](https://oglobo.globo.com/boa-viagem/rio-tem-site-que-informa-que-cidades-no-estado-ja-estao-recebendo-turistas-24546422)
 * [Oi deixa de lado oferta de concorrentes e negocia venda da telefonia celular para a Highline](https://oglobo.globo.com/economia/oi-deixa-de-lado-oferta-de-concorrentes-negocia-venda-da-telefonia-celular-para-highline-24546418)
 * [Primeiros humanos teriam chegado à América do Norte 15 mil anos antes do que se pensava](https://oglobo.globo.com/sociedade/primeiros-humanos-teriam-chegado-america-do-norte-15-mil-anos-antes-do-que-se-pensava-24545048)
-* [Fundeb não atende Bolsonaro, mas recursos para ensino básico aumentam](https://oglobo.globo.com/opiniao/fundeb-nao-atende-bolsonaro-mas-recursos-para-ensino-basico-aumentam-24545594)
 * [Gabigol se diz 'mais preparado' para volta à Europa e agradece Jesus: 'Mudou minha forma de pensar'](https://oglobo.globo.com/esportes/gabigol-se-diz-mais-preparado-para-volta-europa-agradece-jesus-mudou-minha-forma-de-pensar-24545987)
 * [Deixando a cloroquina para trás](https://oglobo.globo.com/opiniao/deixando-cloroquina-para-tras-24545543)
 * [Caminhar com Mandela](https://oglobo.globo.com/opiniao/caminhar-com-mandela-24545349)

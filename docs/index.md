@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 04:14:42 UTC
+# indexed at 23/07/2020 04:34:16 UTC
 
 
 ## news.ycombinator.com
@@ -23,11 +23,11 @@ layout: default
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
 * [On Lacework](https://unthinking.photography/articles/on-lacework)
 * [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
-* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
 * [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [Flash Game History](http://www.flashgamehistory.com/)
-* [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
+* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
 * [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
+* [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
 * [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
@@ -36,8 +36,8 @@ layout: default
 * [Show HN: Biff – Self-hosted Firebase alternative for Clojure](https://findka.com/biff/)
 * [Is every game of Slay the Spire winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
 * [Active-matrix organic light-emitting diode display on human skin](https://phys.org/news/2020-07-active-matrix-light-emitting-diode-human-skin.html)
+* [LWN pays $300 for a well-written article from new authors](https://lwn.net/op/AuthorGuide.lwn)
 * [A Full-Motion-Video Consulting Detective](https://www.filfre.net/2017/10/a-full-motion-video-consulting-detective/)
-* [Consider getting a “DIY” degree online instead of a traditional CS major](https://www.pashabitz.com/posts/undergrad-altenative/)
 ## nytimes.com
 
 
@@ -51,7 +51,7 @@ layout: default
 * [Trump Denies Talking to Ambassador About Moving British Open to His Resort](https://www.nytimes.com/2020/07/22/us/politics/trump-turnberry-british-open.html)
 * [2nd Killing Linked to 'Anti-Feminist' Suspect Roy Hollander in Death of Esther Salas' Son](https://www.nytimes.com/2020/07/22/nyregion/roy-hollander-esther-salas.html)
 * [Tesla Turns a Profit in a Pandemic-Squeezed Quarter](https://www.nytimes.com/2020/07/22/business/tesla-profit-elon-musk.html)
-* [China’s Mars Launch: When to Watch](https://www.nytimes.com/2020/07/22/science/mars-china-launch.html)
+* [Watch China’s Tianwen-1 Mars Launch](https://www.nytimes.com/2020/07/22/science/mars-china-launch.html)
 * [Coronavirus Vaccine, China, Baseball: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/07/22/briefing/vaccine-china-baseball-.html)
 * [The Science of School Reopenings](https://www.nytimes.com/2020/07/22/podcasts/the-daily/school-reopenings-coronavirus.html)
 * [Health Care Comes to Us](https://www.nytimes.com/2020/07/22/technology/coronavirus-telemedicine.html)
@@ -79,11 +79,11 @@ layout: default
 * [Trump Defends His Cognitive Testing Results on Fox News. Again.](https://www.nytimes.com/2020/07/22/us/politics/trump-cognitive-test-results.html)
 * [In Liverpool, a Private Party Is Packaged for the Masses](https://www.nytimes.com/2020/07/22/sports/soccer/liverpool-chelsea-premier-league.html)
 * [House Votes to Remove Confederate Statues From U.S. Capitol](https://www.nytimes.com/2020/07/22/us/politics/confederate-statues-us-capitol.html)
-* [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
-* [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
+* [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
 * [Four Artists on the Future of Video Art](https://www.nytimes.com/2020/07/22/t-magazine/video-art.html)
 * [When Brad Photographed Gwyneth](https://www.nytimes.com/2020/07/22/style/gwyneth-paltrow-valentino-ad-campaign.html)
 * [Annie Ross, Jazz Vocalist of ‘Twisted’ Renown, Dies at 89](https://www.nytimes.com/2020/07/22/arts/music/annie-ross-dies.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 08:15:09 UTC
+# indexed at 23/07/2020 08:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Joscha Bach: Artificial Consciousness and the Nature of Reality [video]](https://www.youtube.com/watch?v=P-2P3MSZrBM)
 * [Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages)
 * [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
-* [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 * [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
+* [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 * [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
 * [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
-* [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
-* [One-Third of U.S. Museums May Not Survive the Year, Survey Finds](https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds)
 * [LWN pays $300 for a well-written article from new authors](https://lwn.net/op/AuthorGuide.lwn)
+* [One-Third of U.S. Museums May Not Survive the Year, Survey Finds](https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds)
+* [Bitwarden second security audit report](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/)
 * [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
-* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html)
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
-* [CareRev (YC S16) is hiring a senior Android developer](https://grnh.se/9c2fb4393us)
+* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
+* [Flash Game History](http://www.flashgamehistory.com/)
+* [CareRev (YC S16) is hiring a senior Android developer](https://grnh.se/9c2fb4393us)
 * [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
 * [Why Most Founders Don’t Take Good Advice](https://hardfork.substack.com/p/why-most-founders-dont-take-good)
-* [Flash Game History](http://www.flashgamehistory.com/)
 * [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
-* [Bitwarden second security audit report](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
-* [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
-* [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
+* [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
+* [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
+* [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
 ## nytimes.com
 
 
@@ -78,33 +78,32 @@ layout: default
 * [Trump Defends His Cognitive Testing Results on Fox News. Again.](https://www.nytimes.com/2020/07/22/us/politics/trump-cognitive-test-results.html)
 * [In Liverpool, a Private Party Is Packaged for the Masses](https://www.nytimes.com/2020/07/22/sports/soccer/liverpool-chelsea-premier-league.html)
 * [House Votes to Remove Confederate Statues From U.S. Capitol](https://www.nytimes.com/2020/07/22/us/politics/confederate-statues-us-capitol.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
-* [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
-* [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
+* [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [Four Artists on the Future of Video Art](https://www.nytimes.com/2020/07/22/t-magazine/video-art.html)
 * [When Brad Photographed Gwyneth](https://www.nytimes.com/2020/07/22/style/gwyneth-paltrow-valentino-ad-campaign.html)
 * [Annie Ross, Jazz Vocalist of ‘Twisted’ Renown, Dies at 89](https://www.nytimes.com/2020/07/22/arts/music/annie-ross-dies.html)
 * [The Consolations of Jane Austen](https://www.nytimes.com/2020/07/21/books/review/austen-years-rachel-cohen.html)
 * [7 Podcasts to Lighten the Mood](https://www.nytimes.com/2020/07/22/arts/comedy-funny-podcasts.html)
-* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
-* [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
 * [Vampire Bats Self-Isolate, Too](https://www.nytimes.com/2020/07/22/science/vampire-bats-viruses.html)
+* [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
+* [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
+* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Reforma tributária: na próxima fase, governo vai mirar nas deduções do Imposto de Renda](https://oglobo.globo.com/economia/reforma-tributaria-na-proxima-fase-governo-vai-mirar-nas-deducoes-do-imposto-de-renda-24546423)
 * [‘Maioria dos produtores rurais tem preocupação com meio ambiente e tenta trabalhar’, diz Tereza Cristina](https://oglobo.globo.com/economia/maioria-dos-produtores-rurais-tem-preocupacao-com-meio-ambiente-tenta-trabalhar-diz-tereza-cristina-24546406)
 * [Reforma tributária: Setor de serviços diz a Guedes que tributo pode triplicar](https://oglobo.globo.com/economia/reforma-tributaria-setor-de-servicos-diz-guedes-que-tributo-pode-triplicar-24546395)
 * [Encontros O GLOBO voltam em versão on-line nesta sexta-feira](https://oglobo.globo.com/sociedade/encontros-globo-voltam-em-versao-on-line-nesta-sexta-feira-24546359)
+* [Vídeo mostra motorista alcoolizado atropelando cinco no Itanhangá; uma das vítimas perdeu a perna](https://oglobo.globo.com/rio/video-mostra-motorista-alcoolizado-atropelando-cinco-no-itanhanga-uma-das-vitimas-perdeu-perna-24546084)
 * [Crivella busca general para vice em sua chapa para reeleição à Prefeitura do Rio](https://oglobo.globo.com/brasil/crivella-busca-general-para-vice-em-sua-chapa-para-reeleicao-prefeitura-do-rio-24546235)
 * [Moacyr Luz: 'Samba sem aglomeração é como gol sem abraço'](https://oglobo.globo.com/cultura/moacyr-luz-samba-sem-aglomeracao-como-gol-sem-abraco-24542182)
+* [Raio-X: qual técnico pode fazer o Flamengo jogar na mesma filosofia de Jorge Jesus?](https://oglobo.globo.com/esportes/raio-qual-tecnico-pode-fazer-flamengo-jogar-na-mesma-filosofia-de-jorge-jesus-24546090)
 * [PEC do Fim do foro privilegiado está parada na Câmara dos Deputados](https://oglobo.globo.com/brasil/pec-do-fim-do-foro-privilegiado-esta-parada-na-camara-dos-deputados-24546193)
 * [Tensão entre EUA e China representa nova guerra fria?](https://oglobo.globo.com/podcast/tensao-entre-eua-china-representa-nova-guerra-fria-24546085)
 * [Turismo espacial: de balões a hotéis infláveis, como viajaremos para fora da Terra](https://oglobo.globo.com/boa-viagem/turismo-espacial-de-baloes-hoteis-inflaveis-como-viajaremos-para-fora-da-terra-24546083)
-* [Nick Cave canta, na intimidade de um teatro vazio, para o planeta inteiro](https://oglobo.globo.com/cultura/nick-cave-canta-na-intimidade-de-um-teatro-vazio-para-planeta-inteiro-24545705)

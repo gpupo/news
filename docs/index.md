@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 03:34:16 UTC
+# indexed at 23/07/2020 04:14:42 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Breach exposed more than one million DNA profiles on a major genealogy database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
-* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
 * [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
-* [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
+* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
 * [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
+* [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
 * [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
 * [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
-* [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
 * [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
+* [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
 * [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
-* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
 * [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
 * [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/)
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
+* [On Lacework](https://unthinking.photography/articles/on-lacework)
 * [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
+* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
+* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [Flash Game History](http://www.flashgamehistory.com/)
 * [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
-* [On Lacework](https://unthinking.photography/articles/on-lacework)
+* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
 * [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
-* [Why GNU grep is fast?](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
-* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
-* [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
 * [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
+* [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
 * [Show HN: Biff – Self-hosted Firebase alternative for Clojure](https://findka.com/biff/)
-* [Active-matrix organic light-emitting diode display on human skin](https://phys.org/news/2020-07-active-matrix-light-emitting-diode-human-skin.html)
 * [Is every game of Slay the Spire winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
+* [Active-matrix organic light-emitting diode display on human skin](https://phys.org/news/2020-07-active-matrix-light-emitting-diode-human-skin.html)
 * [A Full-Motion-Video Consulting Detective](https://www.filfre.net/2017/10/a-full-motion-video-consulting-detective/)
+* [Consider getting a “DIY” degree online instead of a traditional CS major](https://www.pashabitz.com/posts/undergrad-altenative/)
 ## nytimes.com
 
 
@@ -51,6 +51,7 @@ layout: default
 * [Trump Denies Talking to Ambassador About Moving British Open to His Resort](https://www.nytimes.com/2020/07/22/us/politics/trump-turnberry-british-open.html)
 * [2nd Killing Linked to 'Anti-Feminist' Suspect Roy Hollander in Death of Esther Salas' Son](https://www.nytimes.com/2020/07/22/nyregion/roy-hollander-esther-salas.html)
 * [Tesla Turns a Profit in a Pandemic-Squeezed Quarter](https://www.nytimes.com/2020/07/22/business/tesla-profit-elon-musk.html)
+* [China’s Mars Launch: When to Watch](https://www.nytimes.com/2020/07/22/science/mars-china-launch.html)
 * [Coronavirus Vaccine, China, Baseball: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/07/22/briefing/vaccine-china-baseball-.html)
 * [The Science of School Reopenings](https://www.nytimes.com/2020/07/22/podcasts/the-daily/school-reopenings-coronavirus.html)
 * [Health Care Comes to Us](https://www.nytimes.com/2020/07/22/technology/coronavirus-telemedicine.html)
@@ -75,14 +76,14 @@ layout: default
 * [New York Times to Buy Production Company Behind ‘Serial’ Podcast](https://www.nytimes.com/2020/07/22/business/media/new-york-times-serial.html)
 * [Hells Angels Accused in Brazen Killing of Rival Biker Gang Leader](https://www.nytimes.com/2020/07/22/nyregion/hells-angels-bronx-pagans-murder.html)
 * [For Palestinian Police, Much to Lose if Israel Annexes West Bank Land](https://www.nytimes.com/2020/07/22/world/middleeast/palestinian-police-annex-israel.html)
+* [Trump Defends His Cognitive Testing Results on Fox News. Again.](https://www.nytimes.com/2020/07/22/us/politics/trump-cognitive-test-results.html)
+* [In Liverpool, a Private Party Is Packaged for the Masses](https://www.nytimes.com/2020/07/22/sports/soccer/liverpool-chelsea-premier-league.html)
 * [House Votes to Remove Confederate Statues From U.S. Capitol](https://www.nytimes.com/2020/07/22/us/politics/confederate-statues-us-capitol.html)
-* [Charles Evers, Businessman and Civil Rights Leader, Dies at 97](https://www.nytimes.com/2020/07/22/us/charles-evers-dead.html)
-* [China’s Mars Launch: When to Watch](https://www.nytimes.com/2020/07/22/science/mars-china-launch.html)
+* [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
+* [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
-* [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
 * [Four Artists on the Future of Video Art](https://www.nytimes.com/2020/07/22/t-magazine/video-art.html)
 * [When Brad Photographed Gwyneth](https://www.nytimes.com/2020/07/22/style/gwyneth-paltrow-valentino-ad-campaign.html)
 * [Annie Ross, Jazz Vocalist of ‘Twisted’ Renown, Dies at 89](https://www.nytimes.com/2020/07/22/arts/music/annie-ross-dies.html)
@@ -93,7 +94,6 @@ layout: default
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
 * [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [I Spoke With Anthony Fauci. He Says His Inbox Isn’t Pretty.](https://www.nytimes.com/2020/07/21/opinion/anthony-fauci-coronavirus.html)
-* [3 Friends ‘Massacred’ During Florida Fishing Trip, Police Say](https://www.nytimes.com/2020/07/20/us/polk-county-florida-fishing-deaths.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -102,7 +102,6 @@ layout: default
 
 * [Oi deixa de lado oferta de concorrentes e negocia venda da telefonia celular para a Highline](https://oglobo.globo.com/economia/oi-deixa-de-lado-oferta-de-concorrentes-negocia-venda-da-telefonia-celular-para-highline-24546418)
 * [Líderes mundiais gravarão vídeos em vez de viajarem até a ONU para Assembleia Geral em setembro](https://oglobo.globo.com/mundo/lideres-mundiais-gravarao-videos-em-vez-de-viajarem-ate-onu-para-assembleia-geral-em-setembro-24546392)
-* [Senado do Chile aprova saques de fundos de pensão e abre espaço para reforma previdenciária](https://oglobo.globo.com/mundo/senado-do-chile-aprova-saques-de-fundos-de-pensao-abre-espaco-para-reforma-previdenciaria-24545536)
 * [Primeiros humanos teriam chegado à América do Norte 15 mil anos antes do que se pensava](https://oglobo.globo.com/sociedade/primeiros-humanos-teriam-chegado-america-do-norte-15-mil-anos-antes-do-que-se-pensava-24545048)
 * [Fundeb não atende Bolsonaro, mas recursos para ensino básico aumentam](https://oglobo.globo.com/opiniao/fundeb-nao-atende-bolsonaro-mas-recursos-para-ensino-basico-aumentam-24545594)
 * [Deixando a cloroquina para trás](https://oglobo.globo.com/opiniao/deixando-cloroquina-para-tras-24545543)
@@ -110,3 +109,4 @@ layout: default
 * [Uma proposta tardia, tímida e injusta](https://oglobo.globo.com/opiniao/uma-proposta-tardia-timida-injusta-24545293)
 * [O Brasil é melhor assim](https://oglobo.globo.com/opiniao/o-brasil-melhor-assim-1-24545244)
 * [Retratações](https://oglobo.globo.com/opiniao/retratacoes-24544903)
+* [Escutar os entregadores, sempre](https://oglobo.globo.com/opiniao/escutar-os-entregadores-sempre-24543851)

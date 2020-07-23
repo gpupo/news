@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 05:34:48 UTC
+# indexed at 23/07/2020 06:14:28 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Breach exposed more than one million DNA profiles on a major genealogy database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
-* [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
 * [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
 * [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
-* [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
-* [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
-* [An Insomniac's journey to regular sleep](https://www.sleepedy.com/articles/insomniac-journey-to-better-sleep)
-* [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
+* [IPv4, IPv6, and a sudden change in attitude](https://apenwarr.ca/log/20200708)
+* [Ask HN: Is all of FAANG like this?](https://news.ycombinator.com/item?id=23917131)
 * [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
+* [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
 * [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
 * [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
 * [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
-* [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/)
+* [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
 * [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
-* [IPv4, IPv6, and a sudden change in attitude](https://apenwarr.ca/log/20200708)
+* [Joscha Bach: Artificial Consciousness and the Nature of Reality [video]](https://www.youtube.com/watch?v=P-2P3MSZrBM)
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
-* [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
 * [Flash Game History](http://www.flashgamehistory.com/)
 * [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
-* [On Lacework](https://unthinking.photography/articles/on-lacework)
+* [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
 * [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
+* [LWN pays $300 for a well-written article from new authors](https://lwn.net/op/AuthorGuide.lwn)
+* [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
+* [1SecondPainting: Generate abstract paintings in one click](https://1secondpainting.com/)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
-* [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
-* [LWN pays $300 for a well-written article from new authors](https://lwn.net/op/AuthorGuide.lwn)
-* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
+* [A Conversation with an iTunes Card Scammer](https://medium.com/@brothke/a-conversation-with-an-itunes-card-scammer-6fc8ca8f9e83)
+* [On Lacework](https://unthinking.photography/articles/on-lacework)
 * [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
+* [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
 * [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
-* [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
-* [One-Third of U.S. Museums May Not Survive the Year, Survey Finds](https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds)
+* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
+* [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
 ## nytimes.com
 
 
@@ -51,7 +51,7 @@ layout: default
 * [Trump Denies Talking to Ambassador About Moving British Open to His Resort](https://www.nytimes.com/2020/07/22/us/politics/trump-turnberry-british-open.html)
 * [2nd Killing Linked to 'Anti-Feminist' Suspect Roy Hollander in Death of Esther Salas' Son](https://www.nytimes.com/2020/07/22/nyregion/roy-hollander-esther-salas.html)
 * [Tesla Turns a Profit in a Pandemic-Squeezed Quarter](https://www.nytimes.com/2020/07/22/business/tesla-profit-elon-musk.html)
-* [China’s Tianwen-1 Mission Launches Toward Mars](https://www.nytimes.com/2020/07/22/science/mars-china-launch.html)
+* [China’s Mars Tianwen-1 Mission Launches on Months-Long Journey](https://www.nytimes.com/2020/07/22/science/mars-china-launch.html)
 * [Coronavirus Vaccine, China, Baseball: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/07/22/briefing/vaccine-china-baseball-.html)
 * [The Science of School Reopenings](https://www.nytimes.com/2020/07/22/podcasts/the-daily/school-reopenings-coronavirus.html)
 * [Health Care Comes to Us](https://www.nytimes.com/2020/07/22/technology/coronavirus-telemedicine.html)
@@ -89,10 +89,10 @@ layout: default
 * [Annie Ross, Jazz Vocalist of ‘Twisted’ Renown, Dies at 89](https://www.nytimes.com/2020/07/22/arts/music/annie-ross-dies.html)
 * [The Consolations of Jane Austen](https://www.nytimes.com/2020/07/21/books/review/austen-years-rachel-cohen.html)
 * [7 Podcasts to Lighten the Mood](https://www.nytimes.com/2020/07/22/arts/comedy-funny-podcasts.html)
-* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
 * [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
 * [Vampire Bats Self-Isolate, Too](https://www.nytimes.com/2020/07/22/science/vampire-bats-viruses.html)
+* [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [I Spoke With Anthony Fauci. He Says His Inbox Isn’t Pretty.](https://www.nytimes.com/2020/07/21/opinion/anthony-fauci-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -100,7 +100,7 @@ layout: default
 ## globo.com
 
 
-* [Rio tem site que informa que cidades no estado já estão recebendo turistas](https://oglobo.globo.com/boa-viagem/rio-tem-site-que-informa-que-cidades-no-estado-ja-estao-recebendo-turistas-24546422)
+* [Estado do Rio tem site que informa que cidades já estão recebendo turistas](https://oglobo.globo.com/boa-viagem/estado-do-rio-tem-site-que-informa-que-cidades-ja-estao-recebendo-turistas-24546422)
 * [Oi deixa de lado oferta de concorrentes e negocia venda da telefonia celular para a Highline](https://oglobo.globo.com/economia/oi-deixa-de-lado-oferta-de-concorrentes-negocia-venda-da-telefonia-celular-para-highline-24546418)
 * [Primeiros humanos teriam chegado à América do Norte 15 mil anos antes do que se pensava](https://oglobo.globo.com/sociedade/primeiros-humanos-teriam-chegado-america-do-norte-15-mil-anos-antes-do-que-se-pensava-24545048)
 * [Gabigol se diz 'mais preparado' para volta à Europa e agradece Jesus: 'Mudou minha forma de pensar'](https://oglobo.globo.com/esportes/gabigol-se-diz-mais-preparado-para-volta-europa-agradece-jesus-mudou-minha-forma-de-pensar-24545987)

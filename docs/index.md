@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 10:13:33 UTC
+# indexed at 23/07/2020 10:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
 * [The vocal ranges of the greatest artists of all time](https://www.concerthotels.com/worlds-greatest-vocal-ranges)
 * [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
+* [Bitwarden second security audit report](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/)
 * [Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages)
 * [Modal (YC W16) Is Hiring a Principal Architect](https://jobs.lever.co/modal/3da3afed-0701-4905-8f2c-ceb817411b19)
-* [Bitwarden second security audit report](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/)
 * [Joscha Bach: Artificial Consciousness and the Nature of Reality [video]](https://www.youtube.com/watch?v=P-2P3MSZrBM)
-* [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
 * [Why is CSS the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
+* [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
 * [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
 * [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
-* [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
-* [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
 * [Ask HN: Is all of FAANG like this?](https://news.ycombinator.com/item?id=23917131)
+* [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
+* [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 * [One-Third of U.S. Museums May Not Survive the Year, Survey Finds](https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds)
 * [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html)
-* [Flash Game History](http://www.flashgamehistory.com/)
 * [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
-* [Why Most Founders Don’t Take Good Advice](https://hardfork.substack.com/p/why-most-founders-dont-take-good)
+* [Flash Game History](http://www.flashgamehistory.com/)
 * [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
+* [Why Most Founders Don’t Take Good Advice](https://hardfork.substack.com/p/why-most-founders-dont-take-good)
+* [XNect: Real-Time Multi-Person 3D Motion Capture with a Single RGB Camera](https://gvv.mpi-inf.mpg.de/projects/XNect/)
 * [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
-* [XNect: Real-Time Multi-Person 3D Motion Capture with a Single RGB Camera](https://gvv.mpi-inf.mpg.de/projects/XNect/)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
+* [Central Banks Have Become Irrelevant](https://themarket.ch/interview/russell-napier-central-banks-have-become-irrelevant-ld.2323)
 * [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
 * [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
-* [Central Banks Have Become Irrelevant](https://themarket.ch/interview/russell-napier-central-banks-have-become-irrelevant-ld.2323)
 ## nytimes.com
 
 
@@ -77,8 +77,8 @@ layout: default
 * [Trump Defends His Cognitive Testing Results on Fox News. Again.](https://www.nytimes.com/2020/07/22/us/politics/trump-cognitive-test-results.html)
 * [2nd Killing Linked to 'Anti-Feminist' Suspect Roy Hollander in Death of Esther Salas' Son](https://www.nytimes.com/2020/07/22/nyregion/roy-hollander-esther-salas.html)
 * [Its Top Curator Gone, SFMOMA Reviews Its Record on Race](https://www.nytimes.com/2020/07/22/arts/design/sfmoma-gary-garrels-resignation.html)
-* [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
 * [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
@@ -99,6 +99,8 @@ layout: default
 ## globo.com
 
 
+* [Sopas para dar aquela aquecida no friozinho carioca](https://oglobo.globo.com/rio/bairros/sopas-para-dar-aquela-aquecida-no-friozinho-carioca-2-24538081)
+* [Polícia investiga agenda VIP no DF de ex-capa da Playboy presa por tráfico](https://epoca.globo.com/brasil/policia-investiga-agenda-vip-no-df-de-ex-capa-da-playboy-presa-por-trafico-24546396)
 * [Polícia Civil e Ministério Público do Rio fazem operação que mira o Iabas](https://oglobo.globo.com/rio/policia-civil-ministerio-publico-do-rio-fazem-operacao-que-mira-iabas-24546458)
 * [Apesar da crise do coronavírus, Petrobras e Vale mantêm metas de produção para 2020](https://oglobo.globo.com/economia/apesar-da-crise-do-coronavirus-petrobras-vale-mantem-metas-de-producao-para-2020-24545648)
 * [TV Globo marca debate eleitoral de primeiro turno](https://epoca.globo.com/guilherme-amado/tv-globo-marca-debate-eleitoral-de-primeiro-turno-24546402)
@@ -106,6 +108,4 @@ layout: default
 * [Major Olimpio recua sobre sair do PSL: ‘Bivar tem um grande coração, não falou com Bolsonaro por mal’](https://epoca.globo.com/guilherme-amado/major-olimpio-recua-sobre-sair-do-psl-bivar-tem-um-grande-coracao-nao-falou-com-bolsonaro-por-mal-24544362)
 * [Vídeo mostra motorista alcoolizado atropelando cinco no Itanhangá; uma das vítimas perdeu a perna](https://oglobo.globo.com/rio/video-mostra-motorista-alcoolizado-atropelando-cinco-no-itanhanga-uma-das-vitimas-perdeu-perna-24546084)
 * [Raio-X: qual técnico pode fazer o Flamengo jogar na mesma filosofia de Jorge Jesus?](https://oglobo.globo.com/esportes/raio-qual-tecnico-pode-fazer-flamengo-jogar-na-mesma-filosofia-de-jorge-jesus-24546090)
-* [Tensão entre EUA e China representa nova guerra fria?](https://oglobo.globo.com/podcast/tensao-entre-eua-china-representa-nova-guerra-fria-24546085)
 * [Projeto social arrecada doações para moradores da comunidade do Jacarezinho](https://oglobo.globo.com/rio/bairros/projeto-social-arrecada-doacoes-para-moradores-da-comunidade-do-jacarezinho-24545353)
-* [Sopas para dar aquela aquecida no friozinho carioca](https://oglobo.globo.com/rio/bairros/sopas-para-dar-aquela-aquecida-no-friozinho-carioca-1-24538081)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 06:14:28 UTC
+# indexed at 23/07/2020 06:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Breach exposed more than one million DNA profiles on a major genealogy database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
-* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
 * [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
-* [IPv4, IPv6, and a sudden change in attitude](https://apenwarr.ca/log/20200708)
+* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
+* [Rust Explained in Simple English](https://github.com/Dhghomon/easy_rust)
 * [Ask HN: Is all of FAANG like this?](https://news.ycombinator.com/item?id=23917131)
+* [IPv4, IPv6, and a sudden change in attitude](https://apenwarr.ca/log/20200708)
+* [CareRev (YC S16) is hiring a senior Android developer](https://grnh.se/9c2fb4393us)
+* [1SecondPainting: Generate abstract paintings in one click](https://1secondpainting.com/)
 * [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
-* [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
 * [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
+* [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
 * [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
 * [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
-* [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
-* [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
 * [Joscha Bach: Artificial Consciousness and the Nature of Reality [video]](https://www.youtube.com/watch?v=P-2P3MSZrBM)
+* [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
+* [What is GPT-3? written in layman's terms](https://tinkeredthinking.com/index.php?id=841)
 * [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
+* [A Conversation with an iTunes Card Scammer](https://medium.com/@brothke/a-conversation-with-an-itunes-card-scammer-6fc8ca8f9e83)
 * [Flash Game History](http://www.flashgamehistory.com/)
-* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
+* [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
 * [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
 * [LWN pays $300 for a well-written article from new authors](https://lwn.net/op/AuthorGuide.lwn)
 * [Understand seed round dynamics in Silicon Valley](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in)
-* [1SecondPainting: Generate abstract paintings in one click](https://1secondpainting.com/)
-* [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
-* [A Conversation with an iTunes Card Scammer](https://medium.com/@brothke/a-conversation-with-an-itunes-card-scammer-6fc8ca8f9e83)
-* [On Lacework](https://unthinking.photography/articles/on-lacework)
+* [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
 * [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
 * [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
-* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
-* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
-* [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
+* [Why Most Founders Don’t Take Good Advice](https://hardfork.substack.com/p/why-most-founders-dont-take-good)
+* [On Lacework](https://unthinking.photography/articles/on-lacework)
 ## nytimes.com
 
 
@@ -80,8 +80,8 @@ layout: default
 * [In Liverpool, a Private Party Is Packaged for the Masses](https://www.nytimes.com/2020/07/22/sports/soccer/liverpool-chelsea-premier-league.html)
 * [House Votes to Remove Confederate Statues From U.S. Capitol](https://www.nytimes.com/2020/07/22/us/politics/confederate-statues-us-capitol.html)
 * [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [When Playtime and Covid Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
 * [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [Four Artists on the Future of Video Art](https://www.nytimes.com/2020/07/22/t-magazine/video-art.html)
@@ -89,9 +89,9 @@ layout: default
 * [Annie Ross, Jazz Vocalist of ‘Twisted’ Renown, Dies at 89](https://www.nytimes.com/2020/07/22/arts/music/annie-ross-dies.html)
 * [The Consolations of Jane Austen](https://www.nytimes.com/2020/07/21/books/review/austen-years-rachel-cohen.html)
 * [7 Podcasts to Lighten the Mood](https://www.nytimes.com/2020/07/22/arts/comedy-funny-podcasts.html)
-* [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
 * [Vampire Bats Self-Isolate, Too](https://www.nytimes.com/2020/07/22/science/vampire-bats-viruses.html)
+* [Play Therapy Can Help Kids Speak the Unspeakable](https://www.nytimes.com/2020/07/21/parenting/play-therapy.html)
+* [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
 * [Black Children Are More Likely to Die After Surgery Than White Peers, Study Shows](https://www.nytimes.com/2020/07/20/health/black-children-surgery-deaths.html)
 * [I Spoke With Anthony Fauci. He Says His Inbox Isn’t Pretty.](https://www.nytimes.com/2020/07/21/opinion/anthony-fauci-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

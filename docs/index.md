@@ -2,29 +2,33 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 02:34:22 UTC
+# indexed at 23/07/2020 03:13:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Breach Exposed More Than One Million DNA Profiles on a Major Genealogy Database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
-* [Instacart Customers’ Data Is Being Sold Online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
+* [Breach exposed more than one million DNA profiles on a major genealogy database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
+* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
 * [macOS 11 Virtualization Framework to Run Linux in a VM](https://developer.apple.com/documentation/virtualization)
 * [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO](https://www.eso.org/public/news/eso2011/?lang)
+* [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
 * [Show HN: MineSweeper implemented in 100% CSS and HTML – no JavaScript](https://github.com/propjockey/css-sweeper#readme)
 * [Show HN: React Guitar – A guitar component for React](https://react-guitar.com)
+* [XIX (YC W17) Is Hiring Engineers and Sales Reps in San Francisco](https://jobs.lever.co/xix)
 * [New Data on T Cells and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus)
+* [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
 * [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/)
 * [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/)
-* [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
+* [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
 * [Flash Game History](http://www.flashgamehistory.com/)
 * [A React implementation of Spectrum, Adobe’s design system](https://react-spectrum.adobe.com/react-spectrum/)
-* [New Features in Gnuplot 5.4](https://lwn.net/SubscriberLink/826456/2ea90dd464e104d5/)
+* [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
 * [Mathematicians discover a perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
 * [Amazon Ion](https://amzn.github.io/ion-docs/)
-* [Terminal Server on a Budget](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/)
 * [Aristotle's Lost Book on Magic (2018)](https://www.ancientmedicine.org/home/2018/3/11/aristotles-lost-book-on-magic)
+* [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
+* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
 * [Semgrep: Lightweight static analysis for many languages](https://github.com/returntocorp/semgrep)
 * [Active-matrix organic light-emitting diode display on human skin](https://phys.org/news/2020-07-active-matrix-light-emitting-diode-human-skin.html)
 * [Show HN: Biff – Self-hosted Firebase alternative for Clojure](https://findka.com/biff/)
@@ -32,12 +36,8 @@ layout: default
 * [Is every game of Slay the Spire winnable?](https://forgottenarbiter.github.io/Is-Every-Seed-Winnable/)
 * [A Full-Motion-Video Consulting Detective](https://www.filfre.net/2017/10/a-full-motion-video-consulting-detective/)
 * [Towards native security defenses for the web ecosystem](https://security.googleblog.com/2020/07/towards-native-security-defenses-for.html)
-* [On Laughter and Dreaming in Pushkin (2017) [pdf]](https://scholar.harvard.edu/files/spellberg/files/spellberg_laughteranddreaminginpushkin.pdf)
 * [Consider getting a “DIY” degree online instead of a traditional CS major](https://www.pashabitz.com/posts/undergrad-altenative/)
 * [Show HN: Gitern is a Git host for hackers](https://gitern.com)
-* [YC's Work at a Startup lets you create one application for hundreds of eng jobs](https://www.workatastartup.com/?utm_source=hn_jobs)
-* [Debugging Incidents in Google's Distributed Systems](https://queue.acm.org/detail.cfm?id=3404974)
-* [Launch HN: Reploy (YC S20) – Instant fullstack staging environments for web apps](https://news.ycombinator.com/item?id=23917956)
 ## nytimes.com
 
 
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Líderes mundiais gravarão vídeos em vez de viajarem até a ONU para Assembleia Geral em setembro](https://oglobo.globo.com/mundo/lideres-mundiais-gravarao-videos-em-vez-de-viajarem-ate-onu-para-assembleia-geral-em-setembro-24546392)
 * [Senado do Chile aprova saques de fundos de pensão e abre espaço para reforma previdenciária](https://oglobo.globo.com/mundo/senado-do-chile-aprova-saques-de-fundos-de-pensao-abre-espaco-para-reforma-previdenciaria-24545536)
-* [Coronavírus: Paulistão retorna em dia de recorde de novos casos em São Paulo e no Brasil](https://oglobo.globo.com/esportes/coronavirus-paulistao-retorna-em-dia-de-recorde-de-novos-casos-em-sao-paulo-no-brasil-24546211)
-* [Casos de coronavírus nas prisões quase dobram em um mês](https://oglobo.globo.com/sociedade/casos-de-coronavirus-nas-prisoes-quase-dobram-em-um-mes-24546236)
+* [Primeiros humanos teriam chegado à América do Norte 15 mil anos antes do que se pensava](https://oglobo.globo.com/sociedade/primeiros-humanos-teriam-chegado-america-do-norte-15-mil-anos-antes-do-que-se-pensava-24545048)
 * [Maia elogia Guedes e admite reaproximação com ministro](https://oglobo.globo.com/economia/maia-elogia-guedes-admite-reaproximacao-com-ministro-24546277)
-* [Regiões Norte e Nordeste concentram estados com tendência de queda nas mortes por Covid-19](https://oglobo.globo.com/sociedade/regioes-norte-nordeste-concentram-estados-com-tendencia-de-queda-nas-mortes-por-covid-19-24545992)
-* [Filha de Braga Netto desiste de ocupar cargo na ANS](https://oglobo.globo.com/brasil/filha-de-braga-netto-desiste-de-ocupar-cargo-na-ans-1-24546068)
-* [Clint Eastwood processa empresas que usaram seu nome para vender canabidiol](https://oglobo.globo.com/cultura/clint-eastwood-processa-empresas-que-usaram-seu-nome-para-vender-canabidiol-24546181)
-* [Aposta de Atibaia (SP) ganha R$ 28 milhões na Mega-Sena](https://oglobo.globo.com/brasil/aposta-de-atibaia-sp-ganha-28-milhoes-na-mega-sena-24534505)
-* [Brasil estuda aquisição de quarta opção de vacina contra Covid-19, diz Pazuello](https://oglobo.globo.com/sociedade/brasil-estuda-aquisicao-de-quarta-opcao-de-vacina-contra-covid-19-diz-pazuello-24545908)
-* [TJ-RJ mantém liminares que obrigam governo estadual a entregar alimentos aos alunos durante pandemia](https://oglobo.globo.com/rio/tj-rj-mantem-liminares-que-obrigam-governo-estadual-entregar-alimentos-aos-alunos-durante-pandemia-1-24545925)
+* [Fundeb não atende Bolsonaro, mas recursos para ensino básico aumentam](https://oglobo.globo.com/opiniao/fundeb-nao-atende-bolsonaro-mas-recursos-para-ensino-basico-aumentam-24545594)
+* [Deixando a cloroquina para trás](https://oglobo.globo.com/opiniao/deixando-cloroquina-para-tras-24545543)
+* [Caminhar com Mandela](https://oglobo.globo.com/opiniao/caminhar-com-mandela-24545349)
+* [Uma proposta tardia, tímida e injusta](https://oglobo.globo.com/opiniao/uma-proposta-tardia-timida-injusta-24545293)
+* [O Brasil é melhor assim](https://oglobo.globo.com/opiniao/o-brasil-melhor-assim-1-24545244)
+* [Retratações](https://oglobo.globo.com/opiniao/retratacoes-24544903)

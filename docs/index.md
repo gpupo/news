@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/07/2020 15:13:07 UTC
+# indexed at 23/07/2020 15:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -10,32 +10,32 @@ layout: default
 
 * [Cognitect Joins Nubank](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank)
 * [Show HN: TinyPilot – Build a KVM over IP for Under $100 Using a Raspberry Pi](https://mtlynch.io/tinypilot/)
+* [The History, Status, and Future of FPGAs](https://queue.acm.org/detail.cfm?id=3411759)
 * [1SecondPainting: Generate abstract paintings in one click](https://1secondpainting.com/)
 * [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
 * [KDE Slimbook: Linux Laptop with Ryzen 4000](https://kde.slimbook.es/)
-* [The History, Status, and Future of FPGAs](https://queue.acm.org/detail.cfm?id=3411759)
 * [Why is CSS the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
+* [Swiss police automated crime predictions but has little to show for it](https://algorithmwatch.org/en/story/swiss-predictive-policing/)
 * [BBS Graphics History: Pretty Until the Web Showed Up](https://tedium.co/2020/07/21/bbs-graphics-history-ripscrip-naplps/)
 * [Bitwarden second security audit report](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/)
-* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
-* [Swiss police automated crime predictions but has little to show for it](https://algorithmwatch.org/en/story/swiss-predictive-policing/)
 * [A Random Sampling of Internet Service Prices Around the World](https://cheapskatesguide.org/articles/world-internet-prices.html)
+* [The personal info of what could be Instacart customers is being sold online](https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online)
+* [Show HN: A Minimalists Search Engine](http://wiby.org)
 * [Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages)
 * [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-* [Breach exposed more than one million DNA profiles on a major genealogy database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
 * [Stacked images of the comet, photobombed by Starlink satellites](https://twitter.com/djulik/status/1286053695956881409)
-* [Siberian heatwave of 2020 almost impossible without climate change](https://www.worldweatherattribution.org/siberian-heatwave-of-2020-almost-impossible-without-climate-change)
+* [Breach exposed more than one million DNA profiles on a major genealogy database](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
+* [Ask HN: Is all of FAANG like this?](https://news.ycombinator.com/item?id=23917131)
 * [Joscha Bach: Artificial Consciousness and the Nature of Reality [video]](https://www.youtube.com/watch?v=P-2P3MSZrBM)
 * [Unmasking China's Invisible Fleet](https://newsinteractives.cbc.ca/longform/china-at-sea)
-* [Show HN: A Minimalists Search Engine](http://wiby.org)
-* [Ask HN: Is all of FAANG like this?](https://news.ycombinator.com/item?id=23917131)
 * [One-Third of U.S. Museums May Not Survive the Year, Survey Finds](https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds)
 * [Verified seL4 on secure RISC-V processors](https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml)
+* [Use of Assertions (2014)](https://blog.regehr.org/archives/1091)
 * [Build an arcade machine at home](https://lokalise.com/blog/build-an-arcade-machine-at-home-step-by-step-guide/)
 * [The Imprisoner’s Dilemma](https://www.bloomberg.com/news/features/2020-07-22/as-virus-surges-so-do-calls-to-release-prisoners)
-* [Use of Assertions (2014)](https://blog.regehr.org/archives/1091)
-* [Garmin Is Down](https://connect.garmin.com/status/)
 * [IPv4, IPv6, and a sudden change in attitude](https://apenwarr.ca/log/20200708)
+* [Ask HN: Should a remote employee’s salary be tied to their physical location?](https://news.ycombinator.com/item?id=23927974)
+* [Defining the ’90s Music Canon](https://pudding.cool/2020/07/song-decay)
 * [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 * [XNect: Real-Time Multi-Person 3D Motion Capture with a Single RGB Camera](https://gvv.mpi-inf.mpg.de/projects/XNect/)
 ## nytimes.com
@@ -81,9 +81,9 @@ layout: default
 * [Trump Defends His Cognitive Testing Results on Fox News. Again.](https://www.nytimes.com/2020/07/22/us/politics/trump-cognitive-test-results.html)
 * [2nd Killing Linked to 'Anti-Feminist' Suspect Roy Den Hollander](https://www.nytimes.com/2020/07/22/nyregion/roy-den-hollander-esther-salas.html)
 * [Within Days, Florida Family Loses Two Siblings to Coronavirus](https://www.nytimes.com/2020/07/22/us/florida-mother-2-children-covid-19.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [When Playtime and the Coronavirus Collide](https://www.nytimes.com/2020/07/21/parenting/imaginative-play-kids-quarantine.html)
 * [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
 * [How This N.Y. Island Went From Tourist Hot Spot to Emergency Garden](https://www.nytimes.com/2020/07/23/nyregion/governors-island-nyc-urban-farm.html)
@@ -92,9 +92,9 @@ layout: default
 * [Stephen Colbert Thinks Trump’s ‘Virus-Side Chat’ Came a Bit Late](https://www.nytimes.com/2020/07/23/arts/television/late-night-trump-coronavirus-briefing-masks.html)
 * [Do You Really Want That Wedding Cake a Year Later?](https://www.nytimes.com/2020/07/22/fashion/weddings/do-you-really-want-that-wedding-cake-a-year-later.html)
 * [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
-* [How to Reopen Schools: What Science and Other Countries Teach Us](https://www.nytimes.com/2020/07/11/health/coronavirus-schools-reopen.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How to Reopen Schools: What Science and Other Countries Teach Us](https://www.nytimes.com/2020/07/11/health/coronavirus-schools-reopen.html)
+* [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [When Brad Photographed Gwyneth](https://www.nytimes.com/2020/07/22/style/gwyneth-paltrow-valentino-ad-campaign.html)
 * [3 Charged in ‘Massacre’ of 3 Friends During Florida Fishing Trip](https://www.nytimes.com/2020/07/22/us/florida-fishing-murders-arrest.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Coluna | O privilégio do traficante](https://epoca.globo.com/giampaolo-morgado-braga/coluna-o-privilegio-do-traficante-24547023)
+* [New York Times nomeia a mais jovem presidente de sua história](https://oglobo.globo.com/economia/new-york-times-nomeia-mais-jovem-presidente-de-sua-historia-24546967)
 * [Alexandre de Moraes encaminha à PGR notícia-crime que mira Bolsonaro](https://oglobo.globo.com/brasil/alexandre-de-moraes-encaminha-pgr-noticia-crime-que-mira-bolsonaro-24546988)
 * [A poucos meses das eleições, Trump amplia envio de forças federais a cidades para restaurar 'ordem'](https://epoca.globo.com/mundo/a-poucos-meses-das-eleicoes-trump-amplia-envio-de-forcas-federais-cidades-para-restaurar-ordem-24546973)
 * [Presidente do Inep está com Covid-19](https://oglobo.globo.com/sociedade/presidente-do-inep-esta-com-covid-19-24546979)
 * [Argentina vai pagar para infectados pelo novo coronavírius aceitarem o isolamento social](https://oglobo.globo.com/mundo/argentina-vai-pagar-para-infectados-pelo-novo-coronavirius-aceitarem-isolamento-social-24546754)
-* ['Pessoa, mulher, homem': Trump defende seu teste cognitivo e desafia Biden a fazê-lo](https://oglobo.globo.com/mundo/pessoa-mulher-homem-trump-defende-seu-teste-cognitivo-desafia-biden-faze-lo-24546856)
 * [Drive-ins no fim de semana: 'Cinema Paradiso', 'Mamma mia' e 'Central do Brasil' são destaque](https://oglobo.globo.com/rioshow/drive-ins-no-fim-de-semana-cinema-paradiso-mamma-mia-central-do-brasil-sao-destaque-1-24545269)
 * [ONU propõe renda básica para os 2,7 bilhões mais pobres que vivem em países em desenvolvimento](https://oglobo.globo.com/economia/onu-propoe-renda-basica-para-os-27-bilhoes-mais-pobres-que-vivem-em-paises-em-desenvolvimento-24546798)
 * [Juiz eleitoral absolve ex-governador Fernando Pimentel de acusação de caixa dois](https://oglobo.globo.com/brasil/juiz-eleitoral-absolve-ex-governador-fernando-pimentel-de-acusacao-de-caixa-dois-24546905)
-* [Inaugurado após flexibilização do distanciamento social, bar e restaurante no Maracanã faz planos para o futuro](https://oglobo.globo.com/rio/bairros/inaugurado-apos-flexibilizacao-do-distanciamento-social-bar-restaurante-no-maracana-faz-planos-para-futuro-24546865)
 * [Ouça a última parceria entre Aldir Blanc e Moacyr Luz](https://oglobo.globo.com/cultura/ouca-ultima-parceria-entre-aldir-blanc-moacyr-luz-24546868)

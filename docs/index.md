@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/07/2020 07:34:37 UTC
+# indexed at 24/07/2020 08:15:21 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Nvidia will build 700-petaflop supercomputer for University of Florida](https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/)
 * [More than 1k people at Twitter had ability to aid hack of accounts](https://www.reuters.com/article/us-twitter-cyber-access-exclusive/exclusive-more-than-1000-people-at-twitter-had-ability-to-aid-hack-of-accounts-idUSKCN24O34E)
+* [Best Data Science Books According to the Experts – Built In](https://builtin.com/data-science/data-science-books)
 * [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance)
-* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
+* [Show HN: How I made simple Geolocation service which handles 6m+ req/mo for $5](https://maxkostinevich.com/blog/serverless-geolocation/)
 * [Put tiny businesses back into residential neighborhoods](https://www.fastcompany.com/90530672/with-downtowns-staying-abandoned-put-tiny-businesses-back-into-residential-neighborhoods)
 * [Go command support for embedded static assets (files)](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)
-* [Best Data Science Books According to the Experts – Built In](https://builtin.com/data-science/data-science-books)
-* [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [Who gets invited to the party?](https://medium.com/@cyril0allen/who-gets-invited-to-the-party-246a1ba6849a)
+* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
+* [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL)
 * [Good Logging](https://henrikwarne.com/2020/07/23/good-logging/)
 * [Hacker95.css – Make Hacker News look like Windows 95](https://github.com/chowderman/Hacker95)
 * [You advocate a ________ approach to calendar reform (2013)](https://qntm.org/calendar)
 * [Japan top court tells Twitter to disclose retweeters' info](https://www.japantimes.co.jp/news/2020/07/22/national/japan-top-court-tells-twitter-disclose-retweeters-info/)
-* [Buy on Google is now open and commission-free](https://blog.google/products/shopping/buy-on-google-is-zero-commission/)
 * [Flaring from Oil and Gas Development and Birth Outcomes in the Eagle Ford Shale](https://ehp.niehs.nih.gov/doi/10.1289/EHP6394)
-* [Recursive, a free variable font for code and UI, now on Google Fonts](https://fonts.google.com/specimen/Recursive)
-* [Amazon met with startups about investing, then launched competing products](https://www.wsj.com/articles/amazon-tech-startup-echo-bezos-alexa-investment-fund-11595520249)
+* [Buy on Google is now open and commission-free](https://blog.google/products/shopping/buy-on-google-is-zero-commission/)
 * [Show HN: React SpreadSheet – Google Sheets-like performance](http://rowsncolumns.app)
-* [Maintaining Stable Stability](https://lwn.net/SubscriberLink/825536/7311170740a885ea/)
-* [My thoughts in response to the lawsuit against the Internet Archive](http://blog.archive.org/2020/07/22/libraries-have-been-bringing-older-books-to-digital-learners-four-publishers-sue-to-stop-it/)
+* [Garmin Outage Persists After 24 Hours Downtime](https://twitter.com/GarminFitness/status/1286273563096489985)
 * [Show HN: Draw L-Systems with Common Lisp](https://github.com/FdelMazo/cl-aristid)
-* [The Digitized Culture Wars](https://theconvivialsociety.substack.com/p/the-digitized-culture-wars)
+* [My thoughts in response to the lawsuit against the Internet Archive](http://blog.archive.org/2020/07/22/libraries-have-been-bringing-older-books-to-digital-learners-four-publishers-sue-to-stop-it/)
 * [Intel grew revenues in Q2 2020, but key manufacturing upgrade delayed](https://venturebeat.com/2020/07/23/intel-grew-revenues-20-to-19-7-billion-in-q2-but-manufacturing-upgrade-delayed/)
-* [Judge rules Seattle media companies must hand over protest images to police](https://www.seattletimes.com/seattle-news/judge-rules-seattle-media-companies-must-hand-over-protest-images-to-police/)
+* [The Digitized Culture Wars](https://theconvivialsociety.substack.com/p/the-digitized-culture-wars)
 * [Show HN: TinyPilot – Build a KVM over IP using a Raspberry Pi](https://mtlynch.io/tinypilot/)
 * [BBC Basic Console Mode](https://www.bbcbasic.co.uk/console/)
+* [Maintaining Stable Stability](https://lwn.net/SubscriberLink/825536/7311170740a885ea/)
 * [Launch HN: Sidekick (YC S20) – A hardware device to connect remote teams](https://news.ycombinator.com/item?id=23928666)
-* [Nubank acquires Cognitect](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank)
 * [Forgotten Best Sellers](https://www.laphamsquarterly.org/roundtable/forgotten-best-sellers)
+* [Nubank acquires Cognitect](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank)
+* [Inventing the Beach: The unnatural history of a natural place (2016)](https://www.smithsonianmag.com/history/inventing-beach-unnatural-history-natural-place-180959538/)
 ## nytimes.com
 
 
@@ -76,16 +76,16 @@ layout: default
 * [Feds Sending Tactical Team to Seattle, Expanding Presence Beyond Portland](https://www.nytimes.com/2020/07/23/us/seattle-protests-feds.html)
 * [Prince Harry and Meghan Sue Over Photos of Their Son, Archie](https://www.nytimes.com/2020/07/23/us/meghan-harry-paparazzi.html)
 * [Trump Moves to Roll Back Obama Program Addressing Housing Discrimination](https://www.nytimes.com/2020/07/23/us/politics/trump-housing-discrimination-suburbs.html)
-* [Hearst Magazines President Troy Young Resigns](https://www.nytimes.com/2020/07/23/business/troy-young-hearst-magazines.html)
+* [Thailand Drops All Charges Against Red Bull Heir in Deadly Crash](https://www.nytimes.com/2020/07/24/world/asia/thailand-crash-red-bull-heir.html)
 * [On Opening Day, a Rarity for M.L.B.: Support for Black Lives Matter](https://www.nytimes.com/2020/07/23/sports/baseball/mlb-black-lives-matter.html)
 * [Testing Bottlenecks Threaten N.Y.C.’s Ability to Contain Virus](https://www.nytimes.com/2020/07/23/nyregion/coronavirus-testing-nyc.html)
 * [A Hedge Fund Bailout Highlights How Regulators Ignored Big Risks](https://www.nytimes.com/2020/07/23/business/economy/hedge-fund-bailout-dodd-frank.html)
 * [Yoo Hyuk-kee, South Korea’s Most-Wanted Man, Arrested in New York](https://www.nytimes.com/2020/07/23/world/asia/south-korea-fugitive-ferry-disaster.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
 * [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Eight Artists on the Influence of Tom of Finland](https://www.nytimes.com/2020/07/23/t-magazine/tom-of-finland.html)
 * [The Pleasure of Watching Charlize Theron Throw a Punch](https://www.nytimes.com/2020/07/23/movies/charlize-theron-old-guard.html)
 * [Mookie Betts Arrives as a Capstone to the Dodgers’ Patient Project](https://www.nytimes.com/2020/07/23/sports/mookie-betts-dodgers.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [O recado do centrão a Bolsonaro na votação do Fundeb](https://oglobo.globo.com/podcast/o-recado-do-centrao-bolsonaro-na-votacao-do-fundeb-1-24549045)
+* [Mansur: derrocada do La Coruña serve de alerta ao futebol brasileiro](https://oglobo.globo.com/esportes/mansur-derrocada-do-la-coruna-serve-de-alerta-ao-futebol-brasileiro-24547945)
+* [Jogos Olímpicos começariam nesta sexta; saiba como estão os atletas do Brasil que lutam para voltar à boa forma](https://oglobo.globo.com/esportes/jogos-olimpicos-comecariam-nesta-sexta-saiba-como-estao-os-atletas-do-brasil-que-lutam-para-voltar-boa-forma-24543320)
 * [Por que o setor de viagens corporativas pode levar anos para se recuperar da pandemia](https://oglobo.globo.com/boa-viagem/por-que-setor-de-viagens-corporativas-pode-levar-anos-para-se-recuperar-da-pandemia-24549082)
 * [Coronavírus: na retomada de atividades, ação rápida é essencial, diz BID](https://oglobo.globo.com/economia/coronavirus-na-retomada-de-atividades-acao-rapida-essencial-diz-bid-24548940)
-* [Oferta da Highline pela operação móvel da Oi gera reação de rivais](https://oglobo.globo.com/economia/oferta-da-highline-pela-operacao-movel-da-oi-gera-reacao-de-rivais-24548808)
 * [Sérgio Ricardo era a voz de um Brasil que já foi moderno e plural](https://oglobo.globo.com/cultura/sergio-ricardo-era-voz-de-um-brasil-que-ja-foi-moderno-plural-24548625)
 * [Pedro Fernandes é investigado pela Polícia Civil por suposta participação em esquema de propina](https://oglobo.globo.com/rio/pedro-fernandes-investigado-pela-policia-civil-por-suposta-participacao-em-esquema-de-propina-24548839)
 * [Secretário de Educação de Witzel é investigado, suspeito de receber propina](https://oglobo.globo.com/rio/secretario-de-educacao-de-witzel-investigado-suspeito-de-receber-propina-24548812)
-* [Nona edição do Veste Rio terá mentorias com nomes de peso do mercado da moda](https://oglobo.globo.com/ela/moda/nona-edicao-do-veste-rio-tera-mentorias-com-nomes-de-peso-do-mercado-da-moda-24547209)
-* [Covid-19 mata mais rapidamente pacientes em Roraima do que em Santa Catarina, mostra estudo](https://oglobo.globo.com/sociedade/covid-19-mata-mais-rapidamente-pacientes-em-roraima-do-que-em-santa-catarina-mostra-estudo-24546838)
-* [Escola mais antiga de Duque de Caxias é invadida pela segunda vez em seis meses](https://oglobo.globo.com/rio/escola-mais-antiga-de-duque-de-caxias-invadida-pela-segunda-vez-em-seis-meses-24547930)
+* [No Japão, opiniões divididas sobre Olimpíada em 2021](https://oglobo.globo.com/esportes/no-japao-opinioes-divididas-sobre-olimpiada-em-2021-24546937)
 * [Senegalesa vira sensação mundial em vídeos de dança com patins](https://oglobo.globo.com/ela/gente/senegalesa-vira-sensacao-mundial-em-videos-de-danca-com-patins-1-24546764)

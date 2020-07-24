@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/07/2020 12:19:16 UTC
+# indexed at 24/07/2020 12:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -10,41 +10,41 @@ layout: default
 
 * [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
 * [Show HN: How I made simple Geolocation service which handles 6m+ req/mo for $5](https://maxkostinevich.com/blog/serverless-geolocation/)
-* [More than 1k people at Twitter had ability to aid hack of accounts](https://www.reuters.com/article/us-twitter-cyber-access-exclusive/exclusive-more-than-1000-people-at-twitter-had-ability-to-aid-hack-of-accounts-idUSKCN24O34E)
 * [Best Data Science Books According to the Experts](https://builtin.com/data-science/data-science-books)
 * [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance)
+* [More than 1k people at Twitter had ability to aid hack of accounts](https://www.reuters.com/article/us-twitter-cyber-access-exclusive/exclusive-more-than-1000-people-at-twitter-had-ability-to-aid-hack-of-accounts-idUSKCN24O34E)
 * [Cold Showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
-* [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
 * [Nvidia will build 700-petaflop supercomputer for University of Florida](https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/)
+* [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
 * [Put tiny businesses back into residential neighborhoods](https://www.fastcompany.com/90530672/with-downtowns-staying-abandoned-put-tiny-businesses-back-into-residential-neighborhoods)
 * [Who gets invited to the party?](https://medium.com/@cyril0allen/who-gets-invited-to-the-party-246a1ba6849a)
 * [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [Higher math proficiency test: An extended-problem-solving skill evaluation tool](https://mathvault.ca/math-test/)
-* [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL)
 * [Hacker95.css – Make Hacker News look like Windows 95](https://github.com/chowderman/Hacker95)
 * [Good Logging](https://henrikwarne.com/2020/07/23/good-logging/)
-* [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [“Kharkovchanka” – The Colossal Soviet Antarctic Cruisers [video]](https://www.youtube.com/watch?v=f6R-h06IsJw)
-* [Go command support for embedded static assets (files)](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)
-* [You advocate a ________ approach to calendar reform (2013)](https://qntm.org/calendar)
-* [The Brave New World of Chemical Romance](http://m.nautil.us/issue/88/love--sex/the-brave-new-world-of-chemical-romance)
-* [Flaring from Oil and Gas Development and Birth Outcomes in the Eagle Ford Shale](https://ehp.niehs.nih.gov/doi/10.1289/EHP6394)
+* [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [Order Temporarily Blocks Feds from Targeting Press and Legal Observers](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/07/23/894953202/order-temporarily-blocks-feds-from-targeting-press-and-legal-observers-in-portla)
+* [Go command support for embedded static assets (files)](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)
+* [The Brave New World of Chemical Romance](http://m.nautil.us/issue/88/love--sex/the-brave-new-world-of-chemical-romance)
+* [You advocate a ________ approach to calendar reform (2013)](https://qntm.org/calendar)
+* [What A.I. Learned from the Internet](https://artistdetective.wordpress.com/2020/03/07/what-ai-learned-from-the-internet/)
+* [Flaring from Oil and Gas Development and Birth Outcomes in the Eagle Ford Shale](https://ehp.niehs.nih.gov/doi/10.1289/EHP6394)
 * [Japan top court tells Twitter to disclose retweeters' info](https://www.japantimes.co.jp/news/2020/07/22/national/japan-top-court-tells-twitter-disclose-retweeters-info/)
 * [72% of Americans say social media companies have too much political influence](https://www.pewresearch.org/fact-tank/2020/07/22/most-americans-say-social-media-companies-have-too-much-power-influence-in-politics/)
-* [Ludic Fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy)
 * [Show HN: Draw L-Systems with Common Lisp](https://github.com/FdelMazo/cl-aristid)
 * [Show HN: TinyPilot – Build a KVM over IP using a Raspberry Pi](https://mtlynch.io/tinypilot/)
+* [Ludic Fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy)
 * [BBC Basic Console Mode](https://www.bbcbasic.co.uk/console/)
 * [Nubank acquires Cognitect](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank)
-* [Launch HN: Sidekick (YC S20) – A hardware device to connect remote teams](https://news.ycombinator.com/item?id=23928666)
+* [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL)
 ## nytimes.com
 
 
 * [Coronavirus Live Updates](https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html)
 * [Trump Abruptly Cancels Republican Convention in Jacksonville: ‘It’s Not the Right Time’](https://www.nytimes.com/2020/07/23/us/politics/jacksonville-rnc.html)
-* [Shut Chengdu Consulate, China Tells U.S., in Retaliation for Houston](https://www.nytimes.com/2020/07/24/world/asia/china-us-consulate-chengdu.html)
-* [China's Communist Party Expels Ren Zhiqiang, Escalating War on Dissent](https://www.nytimes.com/2020/07/24/world/asia/china-communist-party-ren-zhiqiang.html)
+* [China Orders U.S. to Shut Chengdu Consulate, Retaliating for Houston](https://www.nytimes.com/2020/07/24/world/asia/china-us-consulate-chengdu.html)
+* [Ren Zhiqiang, a Chinese Tycoon, Denounced Xi Jinping. Now He Faces Prosecution](https://www.nytimes.com/2020/07/24/world/asia/china-communist-party-ren-zhiqiang.html)
 * [‘It’s Emotional Whiplash’: California Is Once Again at the Center of the Virus Crisis](https://www.nytimes.com/2020/07/23/us/california-covid-19-cases.html)
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
 * [With Officials’ Backing, Dubious Virus Remedies Surge in Latin America](https://www.nytimes.com/2020/07/23/world/americas/chlorine-coronavirus-bolivia-latin-america.html)
@@ -82,8 +82,8 @@ layout: default
 * [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
 * [5 New Yorkers Escaped the City for Fresh Air and Space. Was It Worth It?](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-quick-escapes-nyc.html)
 * [12 Summer Sparkling Wines, Because Who Needs a Reason](https://www.nytimes.com/2020/07/23/dining/drinks/best-sparkling-wines.html)
 * [London’s West End Comes Out of Lockdown. For an Afternoon.](https://www.nytimes.com/2020/07/23/theater/west-end-london-virus.html)
@@ -102,6 +102,7 @@ layout: default
 
 
 * [Em uma semana, cai em 2 milhões número de brasileiros afastados do trabalho devido a pandemia](https://oglobo.globo.com/economia/em-uma-semana-cai-em-2-milhoes-numero-de-brasileiros-afastados-do-trabalho-devido-pandemia-24549208)
+* [Mel Gibson ficou uma semana internado com coronavírus](https://oglobo.globo.com/ela/gente/mel-gibson-ficou-uma-semana-internado-com-coronavirus-24549225)
 * [Médicos debatem cuidados com outras doenças durante a pandemia; acompanhe ao vivo às 10h](https://oglobo.globo.com/sociedade/saude/encontros-o-globo-saude-e-bem-estar/medicos-debatem-cuidados-com-outras-doencas-durante-pandemia-acompanhe-ao-vivo-as-10h-24545474)
 * [Ridley Scott e Kevin Macdonald pedem que as pessoas filmem o seu dia 25 de julho para documentário](https://oglobo.globo.com/cultura/ridley-scott-kevin-macdonald-pedem-que-as-pessoas-filmem-seu-dia-25-de-julho-para-documentario-24549174)
 * [Como a pandemia afetou relação entre Bolsonaro e o comandante do Exército](https://epoca.globo.com/brasil/como-pandemia-afetou-relacao-entre-bolsonaro-o-comandante-do-exercito-24549213)
@@ -109,5 +110,4 @@ layout: default
 * [Dez hambúrgueres do Festival Delivery Rio para você aproveitar](https://oglobo.globo.com/rioshow/dez-hamburgueres-do-festival-delivery-rio-para-voce-aproveitar-24540316)
 * [Bolsas despencam na Ásia, com tensão entre China e EUA. Mercado europeu abre em queda](https://oglobo.globo.com/economia/bolsas-despencam-na-asia-com-tensao-entre-china-eua-mercado-europeu-abre-em-queda-24549166)
 * [Amigo de homem que atropelou cinco na Zona Oeste do Rio admitiu que os dois haviam bebido](https://oglobo.globo.com/rio/amigo-de-homem-que-atropelou-cinco-na-zona-oeste-do-rio-admitiu-que-os-dois-haviam-bebido-24549191)
-* [Escolas do Rio pedem à prefeitura retorno da educação infantil](https://oglobo.globo.com/rio/escolas-do-rio-pedem-prefeitura-retorno-da-educacao-infantil-1-24549175)
 * [O novo projeto de Cauã Reymond com a Globoplay](https://epoca.globo.com/guilherme-amado/o-novo-projeto-de-caua-reymond-com-globoplay-24547854)

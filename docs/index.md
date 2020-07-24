@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 24/07/2020 11:12:42 UTC
+# indexed at 24/07/2020 11:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: How I made simple Geolocation service which handles 6m+ req/mo for $5](https://maxkostinevich.com/blog/serverless-geolocation/)
+* [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
 * [72% of Americans say social media companies have too much political influence](https://www.pewresearch.org/fact-tank/2020/07/22/most-americans-say-social-media-companies-have-too-much-power-influence-in-politics/)
 * [More than 1k people at Twitter had ability to aid hack of accounts](https://www.reuters.com/article/us-twitter-cyber-access-exclusive/exclusive-more-than-1000-people-at-twitter-had-ability-to-aid-hack-of-accounts-idUSKCN24O34E)
 * [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance)
-* [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
-* [Nvidia will build 700-petaflop supercomputer for University of Florida](https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/)
-* [Best Data Science Books According to the Experts – Built In](https://builtin.com/data-science/data-science-books)
+* [Best Data Science Books According to the Experts](https://builtin.com/data-science/data-science-books)
 * [Cold Showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
-* [Order Temporarily Blocks Feds from Targeting Press and Legal Observers](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/07/23/894953202/order-temporarily-blocks-feds-from-targeting-press-and-legal-observers-in-portla)
+* [Nvidia will build 700-petaflop supercomputer for University of Florida](https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/)
 * [Put tiny businesses back into residential neighborhoods](https://www.fastcompany.com/90530672/with-downtowns-staying-abandoned-put-tiny-businesses-back-into-residential-neighborhoods)
-* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [Who gets invited to the party?](https://medium.com/@cyril0allen/who-gets-invited-to-the-party-246a1ba6849a)
+* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [Hacker95.css – Make Hacker News look like Windows 95](https://github.com/chowderman/Hacker95)
 * [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL)
 * [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [Good Logging](https://henrikwarne.com/2020/07/23/good-logging/)
+* [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
+* [“Kharkovchanka” – The Colossal Soviet Antarctic Cruisers [video]](https://www.youtube.com/watch?v=f6R-h06IsJw)
 * [Higher math proficiency test: An extended-problem-solving skill evaluation tool](https://mathvault.ca/math-test/)
 * [You advocate a ________ approach to calendar reform (2013)](https://qntm.org/calendar)
 * [Go command support for embedded static assets (files)](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)
-* [Buy on Google is now open and commission-free](https://blog.google/products/shopping/buy-on-google-is-zero-commission/)
 * [Flaring from Oil and Gas Development and Birth Outcomes in the Eagle Ford Shale](https://ehp.niehs.nih.gov/doi/10.1289/EHP6394)
-* [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
 * [Japan top court tells Twitter to disclose retweeters' info](https://www.japantimes.co.jp/news/2020/07/22/national/japan-top-court-tells-twitter-disclose-retweeters-info/)
-* [The Brave New World of Chemical Romance](http://m.nautil.us/issue/88/love--sex/the-brave-new-world-of-chemical-romance)
 * [Ludic Fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy)
 * [Garmin Outage Persists After 24 Hours Downtime](https://twitter.com/GarminFitness/status/1286273563096489985)
+* [The Brave New World of Chemical Romance](http://m.nautil.us/issue/88/love--sex/the-brave-new-world-of-chemical-romance)
 * [Show HN: Draw L-Systems with Common Lisp](https://github.com/FdelMazo/cl-aristid)
 * [Show HN: TinyPilot – Build a KVM over IP using a Raspberry Pi](https://mtlynch.io/tinypilot/)
 * [BBC Basic Console Mode](https://www.bbcbasic.co.uk/console/)
+* [Nubank acquires Cognitect](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank)
 * [Intel grew revenues in Q2 2020, but key manufacturing upgrade delayed](https://venturebeat.com/2020/07/23/intel-grew-revenues-20-to-19-7-billion-in-q2-but-manufacturing-upgrade-delayed/)
 ## nytimes.com
 
@@ -51,7 +51,7 @@ layout: default
 * [How One of America’s Whitest Cities Became the Center of B.L.M. Protests](https://www.nytimes.com/2020/07/24/us/portland-oregon-protests-white-race.html)
 * [Will It Take a Clever Acronym to Stop Racially Motivated 911 Calls?](https://www.nytimes.com/2020/07/24/briefing/caren-act-911-san-francisco.html)
 * [‘Person. Woman. Man. Camera. TV.’ Didn’t Mean What Trump Hoped It Did](https://www.nytimes.com/2020/07/23/us/politics/person-woman-man-camera-tv-trump.html)
-* [A.O.C. Unleashes a Viral Condemnation of Sexism in Congress](https://www.nytimes.com/2020/07/23/us/alexandria-ocasio-cortez-sexism-congress.html)
+* [A.O.C. Speech Unleashes Condemnation of Sexism in Congress](https://www.nytimes.com/2020/07/23/us/alexandria-ocasio-cortez-sexism-congress.html)
 * [A More Accessible World](https://www.nytimes.com/2020/07/24/briefing/china-alexandria-ocasio-cortez-ufo-your-friday-briefing.html)
 * [Why It’s Taking So Long for New Yorkers to Get Test Results](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-test-results-nyc.html)
 * [The Battle for a Baseball Season](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
@@ -80,10 +80,10 @@ layout: default
 * [“Immigration Nation” Drew Complaints From ICE, Filmmakers Say](https://www.nytimes.com/2020/07/23/us/trump-immigration-nation-netflix.html)
 * [On Opening Day, a Rarity for M.L.B.: Support for Black Lives Matter](https://www.nytimes.com/2020/07/23/sports/baseball/mlb-black-lives-matter.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
-* [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
+* [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
 * [5 New Yorkers Escaped the City for Fresh Air and Space. Was It Worth It?](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-quick-escapes-nyc.html)
 * [12 Summer Sparkling Wines, Because Who Needs a Reason](https://www.nytimes.com/2020/07/23/dining/drinks/best-sparkling-wines.html)
 * [London’s West End Comes Out of Lockdown. For an Afternoon.](https://www.nytimes.com/2020/07/23/theater/west-end-london-virus.html)
@@ -91,8 +91,8 @@ layout: default
 * [8 Things to Do This Weekend](https://www.nytimes.com/2020/07/23/arts/things-to-do-weekend-coronavirus.html)
 * [3 Great Mysteries About Life on Mars](https://www.nytimes.com/2020/07/24/science/mars-life-water.html)
 * [The Lightness of Being a Couch Potato May Work to Keep Us Fat](https://www.nytimes.com/2020/07/22/well/move/the-lightness-of-being-a-couch-potato-may-work-to-keep-us-fat.html)
-* [Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds](https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html)
 * [With Covid-19, a Seismic Quiet Like No Other](https://www.nytimes.com/2020/07/23/science/coronavirus-seismic-activity.html)
+* [Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds](https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html)
 * [As Summer Takes Hold, So Do the Jumping Worms](https://www.nytimes.com/2020/07/22/realestate/invasive-jumping-worm-garden-summer.html)
 * [Prince Harry and Meghan Sue Over Photos of Their Son, Archie](https://www.nytimes.com/2020/07/23/us/meghan-harry-paparazzi.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Ex-secretário estadual de Saúde do Rio, Edmar Santos vira réu em vira réu em ação sobre fraudes](https://oglobo.globo.com/rio/ex-secretario-estadual-de-saude-do-rio-edmar-santos-vira-reu-em-vira-reu-em-acao-sobre-fraudes-24549155)
+* [Bolsas despencam na Ásia, com tensão entre China e EUA. Mercado europeu abre em queda](https://oglobo.globo.com/economia/bolsas-despencam-na-asia-com-tensao-entre-china-eua-mercado-europeu-abre-em-queda-24549166)
+* [Escolas do Rio pedem à prefeitura retorno da educação infantil](https://oglobo.globo.com/rio/escolas-do-rio-pedem-prefeitura-retorno-da-educacao-infantil-1-24549175)
+* [Ex-secretário estadual de Saúde do Rio, Edmar Santos vira réu em ação sobre fraudes](https://oglobo.globo.com/rio/ex-secretario-estadual-de-saude-do-rio-edmar-santos-vira-reu-em-acao-sobre-fraudes-24549155)
 * [Brasil tem 2.292.286 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2292286-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24549164)
+* [Democratas preparam estratégias para 'cenário de pesadelo' caso Trump não aceite o resultado das eleições](https://oglobo.globo.com/mundo/democratas-preparam-estrategias-para-cenario-de-pesadelo-caso-trump-nao-aceite-resultado-das-eleicoes-24547454)
+* [Além da Mangueira, outras escolas sofrem com falta de dinheiro e dispensam funcionários](https://oglobo.globo.com/rio/alem-da-mangueira-outras-escolas-sofrem-com-falta-de-dinheiro-dispensam-funcionarios-24549162)
 * ['Se Fundeb não existisse, não teria vaga para todas as crianças', diz especialista em financiamento da educação](https://oglobo.globo.com/sociedade/se-fundeb-nao-existisse-nao-teria-vaga-para-todas-as-criancas-diz-especialista-em-financiamento-da-educacao-24546934)
 * [Aliados de Bolsonaro indicam parentes para cargos em órgãos do governo](https://oglobo.globo.com/brasil/aliados-de-bolsonaro-indicam-parentes-para-cargos-em-orgaos-do-governo-24549140)
-* [Cloroquina: estudo brasileiro 'padrão ouro' reforça evidências mundiais de que medicamento é ineficaz, dizem autores](https://epoca.globo.com/brasil/cloroquina-estudo-brasileiro-padrao-ouro-reforca-evidencias-mundiais-de-que-medicamento-ineficaz-dizem-autores-24549127)
-* [Assassinatos de 149 mineiros revelam corrida do ouro com tortura e desmatamento na Venezuela](https://epoca.globo.com/mundo/assassinatos-de-149-mineiros-revelam-corrida-do-ouro-com-tortura-desmatamento-na-venezuela-24549125)
-* [Pandemia evidencia que o Brasil gasta pouco e mal em saúde pública, diz diretor da OCDE](https://epoca.globo.com/mundo/pandemia-evidencia-que-brasil-gasta-pouco-mal-em-saude-publica-diz-diretor-da-ocde-24549129)
 * [O pedido de ajuda de Witzel a Eduardo Paes](https://epoca.globo.com/guilherme-amado/o-pedido-de-ajuda-de-witzel-eduardo-paes-1-24547814)
-* [Médicos pedem ajuda para comunidades da Zona Sul](https://oglobo.globo.com/rio/bairros/medicos-pedem-ajuda-para-comunidades-da-zona-sul-1-24537905)
 * [Shoppings da Zona Norte oferecem testes para detecção de Covid-19](https://oglobo.globo.com/rio/bairros/shoppings-da-zona-norte-oferecem-testes-para-deteccao-de-covid-19-1-24545734)

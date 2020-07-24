@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/07/2020 19:12:48 UTC
+# indexed at 24/07/2020 19:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
-* [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Reporters are leaving newsrooms for newsletters](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
+* [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
-* [How ftrace was able to brick e1000e network cards (2008)](https://lwn.net/Articles/304105/)
 * [Unofficial Guide to Datomic Internals (2014)](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/)
+* [How ftrace was able to brick e1000e network cards (2008)](https://lwn.net/Articles/304105/)
 * [FAA issues emergency directive on 2,000 Boeing 737 NG, Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
-* [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
 * [The Eastland Disaster Killed More Passengers Than the Titanic and the Lusitania](https://www.smithsonianmag.com/history/eastland-disaster-killed-more-passengers-titanic-and-lusitania-why-has-it-been-forgotten-180953146/)
+* [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
 * [The 20th anniversary of the Power Mac G4 Cube](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/)
+* [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
 * [Cold Showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
 * [Apple has started making the iPhone 11 at the Foxconn plant near Chennai](https://m.economictimes.com/tech/hardware/the-i-in-iphone-11-now-stands-for-india-made/articleshow/77135725.cms)
-* [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
 * [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
 * [We’re treating self-improvement like a software upgrade](https://medium.com/team-human/were-treating-self-improvement-like-a-software-upgrade-b25a8e3a80c6)
-* [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
 * [Ancient African skull sheds light on American crocodile origins](https://phys.org/news/2020-07-ancient-african-skull-american-crocodile.html)
-* [Editorial board of Index and more than 70 staff members resign](https://index.hu/english/2020/07/24/editorial_board_of_index_resigns/)
-* [Erythrocyte omega-3 index, ambient fine particle exposure and brain aging](https://n.neurology.org/content/early/2020/07/15/WNL.0000000000010074)
-* [The Cincinnati Privy Disaster of 1904](https://beltmag.com/cincinnati-privy-disaster-1904/)
+* [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
 * [Show HN: SessionForward – Simple user session replays and heatmaps](https://www.sessionforward.com/)
+* [Erythrocyte omega-3 index, ambient fine particle exposure and brain aging](https://n.neurology.org/content/early/2020/07/15/WNL.0000000000010074)
+* [Editorial board of Index and more than 70 staff members resign](https://index.hu/english/2020/07/24/editorial_board_of_index_resigns/)
 * [The Covid-19 pandemic is forcing a rethink in macroeconomics](https://www.economist.com/briefing/2020/07/25/the-covid-19-pandemic-is-forcing-a-rethink-in-macroeconomics)
-* [Shadow attacks: hiding and replacing content in signed PDFs](https://pdf-insecurity.org/)
-* [Best Data Science Books According to the Experts](https://builtin.com/data-science/data-science-books)
-* [Mail for Good](https://github.com/freeCodeCamp/mail-for-good/tree/heroku/stable)
-* [Kharkovchanka – Soviet Antarctic Cruisers [video]](https://www.youtube.com/watch?v=f6R-h06IsJw)
 * [Pentagon's UFO Unit to Disclose Some of Its Findings to the Public](https://www.sciencetimes.com/articles/26600/20200724/pentagons-ufo-unit-disclose-findings-public.htm)
-* [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
+* [Mail for Good](https://github.com/freeCodeCamp/mail-for-good/tree/heroku/stable)
+* [The Cincinnati Privy Disaster of 1904](https://beltmag.com/cincinnati-privy-disaster-1904/)
+* [Best Data Science Books According to the Experts](https://builtin.com/data-science/data-science-books)
+* [Kharkovchanka – Soviet Antarctic Cruisers [video]](https://www.youtube.com/watch?v=f6R-h06IsJw)
+* [Shadow attacks: hiding and replacing content in signed PDFs](https://pdf-insecurity.org/)
 * [Ludic Fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy)
+* [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [Spain’s Coronavirus Crisis Accelerated as Warnings Went Unheeded](https://www.nytimes.com/2020/04/07/world/europe/spain-coronavirus.html)
 * [Who Gets the Covid-19 Vaccine First? Here’s One Idea](https://www.nytimes.com/2020/07/23/health/coronavirus-vaccine-allocation.html)
 * [White Flight From Trump? What a Decisive Biden Win Could Look Like](https://www.nytimes.com/2020/07/24/upshot/biden-polls-demographics.html)
-* [Biden vs. Trump: Live Updates on the 2020 Election and Jacksonville Convention](https://www.nytimes.com/2020/07/24/us/elections/2020-presidential-election.html)
+* [2020 Election Live Updates: Requiem for a Republican Convention](https://www.nytimes.com/2020/07/24/us/elections/2020-presidential-election.html)
 * [Gold vs. Salmon: An Alaska Mine Project Just Got a Boost](https://www.nytimes.com/2020/07/24/climate/pebble-mine-alaska-environment.html)
 * [How One of America’s Whitest Cities Became the Center of B.L.M. Protests](https://www.nytimes.com/2020/07/24/us/portland-oregon-protests-white-race.html)
 * [Shot Twice in the Back: A Case Tests the ‘Fleeing Felon’ Defense](https://www.nytimes.com/2020/07/23/us/colorado-fleeing-felon-rule.html)
@@ -63,7 +63,7 @@ layout: default
 * [The Next Global Flash Point](https://www.nytimes.com/2020/07/24/opinion/Turkey-libya-russia.html)
 * [They Want Your Attention. Don’t Give It to Them.](https://www.nytimes.com/2020/07/23/opinion/cancel-culture.html)
 * [The Future of Nonconformity](https://www.nytimes.com/2020/07/23/opinion/substack-newsletters-writers.html)
-* [Join David Brooks on Twitter to discuss today’s column](https://twitter.com/nytopinion/status/1286709031835275264)
+* [David Brooks discussed today’s column on Twitter](https://twitter.com/nytopinion/status/1286709031835275264)
 * [America Is Still No. 1. Here’s How It Can Stay There.](https://www.nytimes.com/2020/07/24/opinion/united-states-europe-china.html)
 * [Tech Is About Power. And These Four Moguls Have Too Much of It.](https://www.nytimes.com/2020/07/23/opinion/tech-moguls-congressional-hearing.html)
 * [Tyler Mitchell: ‘Black Beauty Is an Act of Justice’](https://www.nytimes.com/2020/07/24/arts/design/tyler-mitchell-book.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Irã diz que jato americano cometeu ato de terrorismo ao 'ameaçar' avião civil iraniano](https://oglobo.globo.com/mundo/ira-diz-que-jato-americano-cometeu-ato-de-terrorismo-ao-ameacar-aviao-civil-iraniano-24549851)
+* [Entre os bloqueados no Twitter, dono da Smartfit submerge](https://epoca.globo.com/guilherme-amado/entre-os-bloqueados-no-twitter-dono-da-smartfit-submerge-24549903)
 * [Polícia suspeita de fraudes na Leão XIII na gestão Witzel; Crivella nomeou investigado subsecretário](https://oglobo.globo.com/rio/policia-suspeita-de-fraudes-na-leao-xiii-na-gestao-witzel-crivella-nomeou-investigado-subsecretario-24549753)
 * [Após episódios de violência policial, bancada da bala de SP quer acabar com ouvidoria da polícia](https://oglobo.globo.com/brasil/apos-episodios-de-violencia-policial-bancada-da-bala-de-sp-quer-acabar-com-ouvidoria-da-policia-24549810)
 * [Parque Nacional da Tijuca adotará fiscalização mais rígida e multas a partir do fim de semana](https://oglobo.globo.com/rio/parque-nacional-da-tijuca-adotarafiscalizacao-mais-rigida-multas-partir-do-fim-de-semana-1-24549795)
 * [Disputa pela telefonia celular da Oi retrata a luta por sobrevivência no setor](https://oglobo.globo.com/analitico/disputa-pela-telefonia-celular-da-oi-retrata-luta-por-sobrevivencia-no-setor-1-24549804)
-* [Irã diz que jato americano cometeu ato de terrorismo ao 'ameaçar' avião civil iraniano](https://oglobo.globo.com/mundo/ira-diz-que-jato-americano-cometeu-ato-de-terrorismo-ao-ameacar-aviao-civil-iraniano-24549851)
 * [Polícia Civil apura suspeita de fraudes na Leão XIII na gestão Witzel; Crivella nomeou investigado subsecretário](https://oglobo.globo.com/rio/policia-civil-apura-suspeita-de-fraudes-na-leao-xiii-na-gestao-witzel-crivella-nomeou-investigado-subsecretario-1-24549838)
 * [General da reserva morre com Covid em Brasília](https://epoca.globo.com/guilherme-amado/general-da-reserva-morre-com-covid-em-brasilia-24549813)
 * [Trump quer que escolas reabram, mas a do filho dele não vai abrir](https://oglobo.globo.com/mundo/trump-quer-que-escolas-reabram-mas-do-filho-dele-nao-vai-abrir-24549712)
-* [Mulheres que pediram ajuda contra violência no México dobram na pandemia](https://oglobo.globo.com/mundo/mulheres-que-pediram-ajuda-contra-violencia-no-mexico-dobram-na-pandemia-24549703)
 * [Documento mostra que Planalto foi advertido sobre ampliar atividades essenciais](https://epoca.globo.com/guilherme-amado/documento-mostra-que-planalto-foi-advertido-sobre-ampliar-atividades-essenciais-24549700)

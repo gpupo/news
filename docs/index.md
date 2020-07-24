@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 24/07/2020 06:14:24 UTC
+# indexed at 24/07/2020 06:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
 * [More than 1k people at Twitter had ability to aid hack of accounts](https://www.reuters.com/article/us-twitter-cyber-access-exclusive/exclusive-more-than-1000-people-at-twitter-had-ability-to-aid-hack-of-accounts-idUSKCN24O34E)
-* [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance)
 * [Nvidia will build 700-petaflop supercomputer for University of Florida](https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/)
+* [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance)
 * [Put tiny businesses back into residential neighborhoods](https://www.fastcompany.com/90530672/with-downtowns-staying-abandoned-put-tiny-businesses-back-into-residential-neighborhoods)
+* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [Go command support for embedded static assets (files)](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)
-* [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL)
 * [Who gets invited to the party?](https://medium.com/@cyril0allen/who-gets-invited-to-the-party-246a1ba6849a)
+* [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL)
 * [You advocate a ________ approach to calendar reform (2013)](https://qntm.org/calendar)
 * [Hacker95.css – Make Hacker News look like Windows 95](https://github.com/chowderman/Hacker95)
-* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [Japan top court tells Twitter to disclose retweeters' info](https://www.japantimes.co.jp/news/2020/07/22/national/japan-top-court-tells-twitter-disclose-retweeters-info/)
 * [Buy on Google is now open and commission-free](https://blog.google/products/shopping/buy-on-google-is-zero-commission/)
-* [Judge rules Seattle media companies must hand over protest images to police](https://www.seattletimes.com/seattle-news/judge-rules-seattle-media-companies-must-hand-over-protest-images-to-police/)
+* [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [Recursive, a free variable font for code and UI, now on Google Fonts](https://fonts.google.com/specimen/Recursive)
+* [Judge rules Seattle media companies must hand over protest images to police](https://www.seattletimes.com/seattle-news/judge-rules-seattle-media-companies-must-hand-over-protest-images-to-police/)
 * [Flaring from Oil and Gas Development and Birth Outcomes in the Eagle Ford Shale](https://ehp.niehs.nih.gov/doi/10.1289/EHP6394)
 * [Amazon met with startups about investing, then launched competing products](https://www.wsj.com/articles/amazon-tech-startup-echo-bezos-alexa-investment-fund-11595520249)
 * [Show HN: React SpreadSheet – Google Sheets-like performance](http://rowsncolumns.app)
-* [My thoughts in response to the lawsuit against the Internet Archive](http://blog.archive.org/2020/07/22/libraries-have-been-bringing-older-books-to-digital-learners-four-publishers-sue-to-stop-it/)
 * [Show HN: Draw L-Systems with Common Lisp](https://github.com/FdelMazo/cl-aristid)
-* [The Digitized Culture Wars](https://theconvivialsociety.substack.com/p/the-digitized-culture-wars)
+* [My thoughts in response to the lawsuit against the Internet Archive](http://blog.archive.org/2020/07/22/libraries-have-been-bringing-older-books-to-digital-learners-four-publishers-sue-to-stop-it/)
 * [GoodJob – a Postgres-based ActiveJob back end for Ruby on Rails](https://island94.org/2020/07/introducing-goodjob-1-0)
+* [The Digitized Culture Wars](https://theconvivialsociety.substack.com/p/the-digitized-culture-wars)
 * [Intel grew revenues in Q2 2020, but key manufacturing upgrade delayed](https://venturebeat.com/2020/07/23/intel-grew-revenues-20-to-19-7-billion-in-q2-but-manufacturing-upgrade-delayed/)
 * [BBC Basic Console Mode](https://www.bbcbasic.co.uk/console/)
-* [The History, Status, and Future of FPGAs](https://queue.acm.org/detail.cfm?id=3411759)
 * [Show HN: TinyPilot – Build a KVM over IP using a Raspberry Pi](https://mtlynch.io/tinypilot/)
-* [Sofa Mobility Report: Building mobility analytics similar to Apple and Google](https://towardsdatascience.com/sofa-mobility-report-30e3297c987e)
 * [Launch HN: Sidekick (YC S20) – A hardware device to connect remote teams](https://news.ycombinator.com/item?id=23928666)
 * [Forgotten Best Sellers](https://www.laphamsquarterly.org/roundtable/forgotten-best-sellers)
 * [Nubank acquires Cognitect](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank)
+* [Sofa Mobility Report: Building mobility analytics similar to Apple and Google](https://towardsdatascience.com/sofa-mobility-report-30e3297c987e)
 * [Inventing the Beach: The unnatural history of a natural place (2016)](https://www.smithsonianmag.com/history/inventing-beach-unnatural-history-natural-place-180959538/)
 ## nytimes.com
 
@@ -85,18 +85,18 @@ layout: default
 * [Yoo Hyuk-kee, South Korea’s Most-Wanted Man, Arrested in New York](https://www.nytimes.com/2020/07/23/world/asia/south-korea-fugitive-ferry-disaster.html)
 * [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Eight Artists on the Influence of Tom of Finland](https://www.nytimes.com/2020/07/23/t-magazine/tom-of-finland.html)
 * [The Pleasure of Watching Charlize Theron Throw a Punch](https://www.nytimes.com/2020/07/23/movies/charlize-theron-old-guard.html)
 * [Mookie Betts Arrives as a Capstone to the Dodgers’ Patient Project](https://www.nytimes.com/2020/07/23/sports/mookie-betts-dodgers.html)
 * [‘Amulet’ Review: A Man in Dark Times and Deep Trouble](https://www.nytimes.com/2020/07/22/movies/amulet-review.html)
 * [When Grandparents Are Estranged From Their Grandchildren](https://www.nytimes.com/2020/07/23/well/family/estrangement-grandparents-grandchildren.html)
+* [How to Reopen Schools: What Science and Other Countries Teach Us](https://www.nytimes.com/2020/07/11/health/coronavirus-schools-reopen.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Wildlife Trade Spreads Coronaviruses as Animals Get to Market](https://www.nytimes.com/2020/06/19/science/coronavirus-rats-vietnam.html)
 * [Small Worlds With Lava Oceans Might Have Given Us Meteorites](https://www.nytimes.com/2020/06/22/science/meteorites-chondrites-chondrules.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [How to Reopen Schools: What Science and Other Countries Teach Us](https://www.nytimes.com/2020/07/11/health/coronavirus-schools-reopen.html)
 * [As Summer Takes Hold, So Do the Jumping Worms](https://www.nytimes.com/2020/07/22/realestate/invasive-jumping-worm-garden-summer.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

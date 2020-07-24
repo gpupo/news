@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 24/07/2020 15:12:43 UTC
+# indexed at 24/07/2020 15:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Editorial board of Index and more than 70 staff members resign](https://index.hu/english/2020/07/24/editorial_board_of_index_resigns/)
-* [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
+* [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [FAA issues emergency directive on 2,000 Boeing 737 NG Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
-* [Show HN: How I made simple Geolocation service which handles 6m+ req/mo for $5](https://maxkostinevich.com/blog/serverless-geolocation/)
 * [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
+* [Paul Graham Essay Notes](https://www.notion.so/Paul-Graham-Essay-Notes-c7e4b66321434ecfac25d475607f4f83)
+* [Show HN: How I made simple Geolocation service which handles 6m+ req/mo for $5](https://maxkostinevich.com/blog/serverless-geolocation/)
 * [We’re treating self-improvement like a software upgrade](https://medium.com/team-human/were-treating-self-improvement-like-a-software-upgrade-b25a8e3a80c6)
-* [Cold Showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
 * [The Covid-19 pandemic is forcing a rethink in macroeconomics](https://www.economist.com/briefing/2020/07/25/the-covid-19-pandemic-is-forcing-a-rethink-in-macroeconomics)
+* [Cold Showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
 * [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
 * [Mail for Good](https://github.com/freeCodeCamp/mail-for-good/tree/heroku/stable)
-* [Best Data Science Books According to the Experts](https://builtin.com/data-science/data-science-books)
 * [Erythrocyte omega-3 index, ambient fine particle exposure and brain aging](https://n.neurology.org/content/early/2020/07/15/WNL.0000000000010074)
-* [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
+* [Best Data Science Books According to the Experts](https://builtin.com/data-science/data-science-books)
 * [Ask HN: Is it just me? why is “news” so addictive?](https://news.ycombinator.com/item?id=23938007)
+* [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
 * [“Kharkovchanka” – The Colossal Soviet Antarctic Cruisers [video]](https://www.youtube.com/watch?v=f6R-h06IsJw)
-* [Ask HN: Are there any software jobs in nature/animal conservation?](https://news.ycombinator.com/item?id=23938635)
 * [Nvidia will build 700-petaflop supercomputer for University of Florida](https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/)
-* [Who gets invited to the party?](https://medium.com/@cyril0allen/who-gets-invited-to-the-party-246a1ba6849a)
 * [What A.I. Learned from the Internet](https://artistdetective.wordpress.com/2020/03/07/what-ai-learned-from-the-internet/)
+* [Who gets invited to the party?](https://medium.com/@cyril0allen/who-gets-invited-to-the-party-246a1ba6849a)
+* [Unofficial Guide to Datomic Internals](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/)
 * [The Museum of Whales You Will Never See](https://granta.com/the-museum-of-whales-you-will-never-see/)
-* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [Put tiny businesses back into residential neighborhoods](https://www.fastcompany.com/90530672/with-downtowns-staying-abandoned-put-tiny-businesses-back-into-residential-neighborhoods)
-* [Hacker95.css – Make Hacker News look like Windows 95](https://github.com/chowderman/Hacker95)
+* [How to validate your startup idea quickly](https://amanjain.substack.com/p/how-to-validate-your-startup-idea)
 * [The Brave New World of Chemical Romance](http://m.nautil.us/issue/88/love--sex/the-brave-new-world-of-chemical-romance)
+* [Hacker95.css – Make Hacker News look like Windows 95](https://github.com/chowderman/Hacker95)
 * [Cave discoveries suggest humans reached Americas much earlier than thought](https://www.nature.com/articles/d41586-020-02190-y)
 * [You advocate a ________ approach to calendar reform (2013)](https://qntm.org/calendar)
 * [Higher math proficiency test: An extended-problem-solving skill evaluation tool](https://mathvault.ca/math-test/)
-* [Good Logging](https://henrikwarne.com/2020/07/23/good-logging/)
 * [Perseverance Toward Life Goals Can Fend Off Depression, Anxiety, Panic Disorders](https://www.apa.org/news/press/releases/2019/05/goals-perseverance)
 ## nytimes.com
 
 
-* [Coronavirus Live Updates](https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html)
+* [Coronavirus Live Updates: C.D.C. Issues New Schools Guidance](https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html)
 * [Trump Abruptly Cancels Republican Convention in Jacksonville: ‘It’s Not the Right Time’](https://www.nytimes.com/2020/07/23/us/politics/jacksonville-rnc.html)
 * [Did New York Just Get the Nation’s Most Liberal Legislature?](https://www.nytimes.com/2020/07/24/nyregion/progressive-primaries-ny-legislature.html)
 * [Biden vs. Trump Updates: Jacksonville Convention Is Canceled](https://www.nytimes.com/2020/07/24/us/elections/trump-vs-biden.html)
@@ -62,7 +62,7 @@ layout: default
 * [Meet the New C.D.C. Director: Walmart](https://www.nytimes.com/2020/07/24/opinion/walmart-coronavirus-masks.html)
 * [China Is Harvesting the DNA of Its People. Is This the Future of Policing?](https://www.nytimes.com/2020/07/24/opinion/china-dna-police.html)
 * [That Flour You Bought Could Be the Future of the U.S. Economy](https://www.nytimes.com/2020/07/24/opinion/us-grain-industry.html)
-* [The World Is Changing. Here’s How the U.S. Can Stay No. 1.](https://www.nytimes.com/2020/07/24/opinion/united-states-europe-china.html)
+* [America Is Still No. 1. Here’s How It Can Stay There.](https://www.nytimes.com/2020/07/24/opinion/united-states-europe-china.html)
 * [Tech Is About Power. And These Four Moguls Have Too Much of It.](https://www.nytimes.com/2020/07/23/opinion/tech-moguls-congressional-hearing.html)
 * [The Future of Nonconformity](https://www.nytimes.com/2020/07/23/opinion/substack-newsletters-writers.html)
 * [This Column Is Not About Cancel Culture](https://www.nytimes.com/2020/07/23/opinion/cancel-culture.html)
@@ -78,19 +78,19 @@ layout: default
 * [A.O.C. Speech Unleashes Condemnation of Sexism in Congress](https://www.nytimes.com/2020/07/23/us/alexandria-ocasio-cortez-sexism-congress.html)
 * [How Republicans Are Beginning to Diverge From Trump](https://www.nytimes.com/2020/07/23/us/trump-republicans-coronavirus-stimulus.html)
 * [“Immigration Nation” Drew Complaints From ICE, Filmmakers Say](https://www.nytimes.com/2020/07/23/us/trump-immigration-nation-netflix.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards,Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
 * [Your Kid Doesn’t Need to Be LeBron or Serena](https://www.nytimes.com/2020/07/21/parenting/kids-sports.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [5 New Yorkers Escaped the City for Fresh Air and Space. Was It Worth It?](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-quick-escapes-nyc.html)
 * [12 Summer Sparkling Wines, Because Who Needs a Reason](https://www.nytimes.com/2020/07/23/dining/drinks/best-sparkling-wines.html)
 * [London’s West End Comes Out of Lockdown. For an Afternoon.](https://www.nytimes.com/2020/07/23/theater/west-end-london-virus.html)
 * [Late Night Isn’t Impressed with Trump’s Cognitive Dissonance](https://www.nytimes.com/2020/07/24/arts/television/late-night-trump-cognitive-test-washington-football-team.html)
 * [8 Things to Do This Weekend](https://www.nytimes.com/2020/07/23/arts/things-to-do-weekend-coronavirus.html)
 * [The Lightness of Being a Couch Potato May Work to Keep Us Fat](https://www.nytimes.com/2020/07/22/well/move/the-lightness-of-being-a-couch-potato-may-work-to-keep-us-fat.html)
-* [Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds](https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html)
 * [With Covid-19, a Seismic Quiet Like No Other](https://www.nytimes.com/2020/07/23/science/coronavirus-seismic-activity.html)
+* [Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds](https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html)
 * [3 Great Mysteries About Life on Mars](https://www.nytimes.com/2020/07/24/science/mars-life-water.html)
 * [‘Person. Woman. Man. Camera. TV.’ Didn’t Mean What Trump Hoped It Did](https://www.nytimes.com/2020/07/23/us/politics/person-woman-man-camera-tv-trump.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -99,7 +99,8 @@ layout: default
 ## globo.com
 
 
-* [GP do Brasil está fora do calendário deste ano da Fórmula 1](https://oglobo.globo.com/esportes/gp-do-brasil-esta-fora-do-calendario-deste-ano-da-formula-1-24549355)
+* [GP do Brasil está fora do calendário deste ano da Fórmula 1](https://oglobo.globo.com/esportes/gp-do-brasil-esta-fora-do-calendario-deste-ano-da-formula-1-1-24549355)
+* ['Meu bisavô africano vendeu escravos, mas não deve ser julgado pelos padrões atuais', diz escritora negra](https://epoca.globo.com/mundo/meu-bisavo-africano-vendeu-escravos-mas-nao-deve-ser-julgado-pelos-padroes-atuais-diz-escritora-negra-1-24549338)
 * [Detran retoma provas teóricas e serviços de habilitação a partir de segunda-feira](https://oglobo.globo.com/rio/detran-retoma-provas-teoricas-servicos-de-habilitacao-partir-de-segunda-feira-24549438)
 * [Como funciona o algoritmo que decide as datas das estreias de Hollywood](https://oglobo.globo.com/cultura/comofunciona-oalgoritmo-que-decide-as-datas-das-estreias-dehollywood-24546625)
 * [Disney adia estreia de 'Mulan' por tempo indeterminado](https://oglobo.globo.com/rioshow/disney-adia-estreia-de-mulan-por-tempo-indeterminado-24549311)
@@ -107,5 +108,4 @@ layout: default
 * [Caixa deposita nesta sexta-feira novas parcelas do auxílio emergencial para nascidos em fevereiro](https://oglobo.globo.com/economia/caixa-deposita-nesta-sexta-feira-novas-parcelas-do-auxilio-emergencial-para-nascidos-em-fevereiro-24549287)
 * [Diagnóstico final](https://epoca.globo.com/allan-sieber/diagnostico-final-24549385)
 * [Escritório de direitos humanos da ONU pede que EUA não usem força desproporcional contra protestos](https://oglobo.globo.com/mundo/escritorio-de-direitos-humanos-da-onu-pede-que-eua-nao-usem-forca-desproporcional-contra-protestos-24549377)
-* ['Meu bisavô africano vendeu escravos, mas não deve ser julgado pelos padrões atuais', diz escritora negra](https://epoca.globo.com/mundo/meu-bisavo-africano-vendeu-escravos-mas-nao-deve-ser-julgado-pelos-padroes-atuais-diz-escritora-negra-24549338)
 * [Itamaraty atua para aéreas brasileiras ficarem no Aeroparque, aeroporto central em Buenos Aires](https://epoca.globo.com/guilherme-amado/itamaraty-atua-para-aereas-brasileiras-ficarem-no-aeroparque-aeroporto-central-em-buenos-aires-24548249)

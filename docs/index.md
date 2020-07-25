@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 21:12:55 UTC
+# indexed at 25/07/2020 21:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -12,46 +12,46 @@ layout: default
 * [Dance is superior to repetitive physical exercise in inducing brain plasticity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [In a GPT-3 World, Anonymity Prevents Free Speech](https://jayriverlong.github.io/2020/07/24/gpt3.html)
 * [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
-* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
-* [D.E. Shaw, the first great quant hedge fund (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
+* [D.E. Shaw, the first great quant hedge fund (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Noprocrast](https://tutswiki.com/noprocrast/)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
 * [A browser plugin for Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
+* [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
 * [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
-* [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
 * [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
-* [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
 * [Show HN: iDoRecall – Spaced Repetition Flashcards](https://www.iDoRecall.com/)
 * [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
-* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
-* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
-* [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
+* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
+* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
+* [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
 * [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
-* [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-* [One of Canada's most prolific romance scammers](https://www.chatelaine.com/living/romance-scammer-canada-marcel-andre-vautour/)
-* [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
 * [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+* [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
+* [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
+* [One of Canada's most prolific romance scammers](https://www.chatelaine.com/living/romance-scammer-canada-marcel-andre-vautour/)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
 * [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
 ## nytimes.com
 
 
-* [Regis Philbin, TV’s Indignant Everyman, Dies at 88](https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html)
 * [Live Coronavirus Updates: World News](https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html)
 * [Corporate Insiders Pocket $1 Billion in Rush for Coronavirus Vaccine](https://www.nytimes.com/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html)
 * [Officials Push U.S.-China Relations Toward Point of No Return](https://www.nytimes.com/2020/07/25/world/asia/us-china-trump-xi.html)
 * [Once a Source of U.S.-China Tension, Trade Emerges as an Area of Calm](https://www.nytimes.com/2020/07/25/business/economy/us-china-trade-diplomacy.html)
 * [Federal Agents Push Into Portland Streets, Stretching Limits of Their Authority](https://www.nytimes.com/2020/07/25/us/portland-federal-legal-jurisdiction-courts.html)
 * [A ‘Wall of Vets’ Joins the Front Lines of Portland Protests](https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html)
+* [John Lewis, Son of Alabama, Makes His Last Journey Home](https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html)
 * [Anatomy of an Election ‘Meltdown’ in Georgia](https://www.nytimes.com/2020/07/25/us/politics/georgia-election-voting-problems.html)
 * [A 2020 Question 100 Days Out: Will the Elections Be Free and Fair?](https://www.nytimes.com/2020/07/25/us/politics/2020-election-voter-fraud-interference.html)
 * [Will Trump’s Abrupt Shift on Coronavirus Re-energize His Campaign?](https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html)
-* [John Lewis, Son of Alabama, Makes His Last Journey Home](https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html)
+* [Regis Philbin, TV’s Indignant Everyman, Dies at 88](https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html)
 * [The Battle for a Baseball Season](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
@@ -79,11 +79,11 @@ layout: default
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [How Rob Manfred Navigated a Summer of Peril for Baseball](https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -100,6 +100,8 @@ layout: default
 ## globo.com
 
 
+* [Rio registra 154 mortes e 1.414 novos casos de coronavírus em 24 horas](https://oglobo.globo.com/rio/rio-registra-154-mortes-1414-novos-casos-de-coronavirus-em-24-horas-24551732)
+* ['Maratonador' ou 'meditativo'? Pesquisa mapeia perfil do usuário de streaming](https://oglobo.globo.com/cultura/maratonador-ou-meditativo-pesquisa-mapeia-perfil-do-usuario-de-streaming-24551646)
 * [Cotado para a vaga de Jorge Jesus no Flamengo consegue façanha em Portugal e fala de propostas](https://oglobo.globo.com/esportes/cotado-para-vaga-de-jorge-jesus-no-flamengo-consegue-facanha-em-portugal-fala-de-propostas-24551712)
 * ['Tinha ficado chateada, mas foi superado', diz Bia Kicis após visita de Bolsonaro](https://oglobo.globo.com/brasil/tinha-ficado-chateada-mas-foi-superado-diz-bia-kicis-apos-visita-de-bolsonaro-1-24551703)
 * [Reino Unido põe em quarentena viajantes vindos da Espanha](https://oglobo.globo.com/mundo/reino-unido-poe-em-quarentena-viajantes-vindos-da-espanha-24551568)
@@ -108,5 +110,3 @@ layout: default
 * [Novas leis do Rio ajudam o bolso na pandemia, de desconto nas escolas a cancelamento de contratos](https://oglobo.globo.com/economia/defesa-do-consumidor/novas-leis-do-rio-ajudam-bolso-na-pandemia-de-desconto-nas-escolas-cancelamento-de-contratos-24551606)
 * [Barragens de minério de ouro interditadas por risco de rompimento em MT não têm plano emergencial](https://oglobo.globo.com/brasil/barragens-de-minerio-de-ouro-interditadas-por-risco-de-rompimento-em-mt-nao-tem-plano-emergencial-1-24551622)
 * [Parque de Madureira tem movimento tímido no primeiro sábado após reabertura](https://oglobo.globo.com/rio/parque-de-madureira-tem-movimento-timido-no-primeiro-sabado-apos-reabertura-24551570)
-* [Cacique Raoni recebe alta médica e agradece apoio durante internação](https://oglobo.globo.com/sociedade/cacique-raoni-recebe-alta-medica-agradece-apoio-durante-internacao-24551560)
-* [Coluna | Mr. West goes to Washington ou Kanye West e a terceira via (não falei para onde)](https://epoca.globo.com/colunistas/coluna-mr-west-goes-to-washington-ou-kanye-west-a-terceira-via-nao-falei-para-onde-24549937)

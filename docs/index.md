@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 09:13:13 UTC
+# indexed at 25/07/2020 09:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -10,26 +10,27 @@ layout: default
 
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
-* [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
 * [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
+* [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
 * [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 * [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
+* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
+* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
+* [Mozilla sending political ads via Firefox push notification](https://www.reddit.com/r/firefox/comments/hx8737/why_did_i_just_receive_an_ad_for_mozillas_blog/)
 * [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
-* [Videos Show How Federal Officers Escalated Violence in Portland](https://www.nytimes.com/video/us/100000007243995/portland-protests-federal-government.html)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [Videos Show How Federal Officers Escalated Violence in Portland](https://www.nytimes.com/video/us/100000007243995/portland-protests-federal-government.html)
+* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Machine Learning Research at Apple](https://machinelearning.apple.com)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
 * [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
 * [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
-* [Mozilla sending political ads via Firefox push notification](https://www.reddit.com/r/firefox/comments/hx8737/why_did_i_just_receive_an_ad_for_mozillas_blog/)
+* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [The Great Climate Migration Has Begun](https://www.nytimes.com/interactive/2020/07/23/magazine/climate-migration.html)
-* [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
 * [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
@@ -37,7 +38,6 @@ layout: default
 * [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
-* [55% Yelp businesses that were temp closed are now perm](https://www.washingtonpost.com/business/2020/07/23/permanent-business-closures-yelp/)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [At Wall Street Journal, News Staff and Opinion Side Clash](https://www.nytimes.com/2020/07/24/business/media/wall-street-journal-news-opinion-clash-letter.html)
 * [‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire](https://www.nytimes.com/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
 * [Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny](https://www.nytimes.com/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Convertibles for Summer Driving: Going Topless and Turning Heads](https://www.nytimes.com/2020/07/23/business/convertibles-summer-driving.html)
 * [LeBron James Still Reigns as the N.B.A. Returns](https://www.nytimes.com/2020/07/24/sports/basketball/nba-lebron-james-lakers.html)
 * [A Spellbinding Debut Leaps Across Genres to Recreate the Confusion of Trauma](https://www.nytimes.com/2020/07/24/books/review/kate-reed-petty-true-story.html)
@@ -102,6 +102,7 @@ layout: default
 
 
 * [Salles contrata ex-ministro de Temer para defendê-lo em processo de fraude](https://epoca.globo.com/guilherme-amado/salles-contrata-ex-ministro-de-temer-para-defende-lo-em-processo-de-fraude-24550720)
+* [Presidente do PSL em São Paulo: 'Joice é candidatíssima'](https://epoca.globo.com/guilherme-amado/presidente-do-psl-em-sao-paulo-joice-candidatissima-24551145)
 * [Nem 'afrogoogle', nem 'wikipreta': mulheres negras têm muito mais a dizer além de racismo](https://oglobo.globo.com/celina/nem-afrogoogle-nem-wikipreta-mulheres-negras-tem-muito-mais-dizer-alem-de-racismo-24550138)
 * [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)
 * [Pesquisadores criam aplicativo para diagnóstico da Covid-19 a partir de raio-x dos pulmões](https://epoca.globo.com/brasil/pesquisadores-criam-aplicativo-para-diagnostico-da-covid-19-partir-de-raio-dos-pulmoes-24550251)
@@ -109,5 +110,4 @@ layout: default
 * ['Vai ser difícil o país se recuperar, porque entramos nessa crise saindo dos efeitos da anterior', diz Mayara Santiago](https://oglobo.globo.com/celina/vai-ser-dificil-pais-se-recuperar-porque-entramos-nessa-crise-saindo-dos-efeitos-da-anterior-diz-mayara-santiago-24550006)
 * ['Não temos que ser tolerados, mas sim, respeitados', diz Mãe Meninazinha de Oxum](https://oglobo.globo.com/celina/nao-temos-que-ser-tolerados-mas-sim-respeitados-diz-mae-meninazinha-de-oxum-24550005)
 * [No Dia da Mulher Negra, entenda as origens da data e conheça a história de Tereza de Benguela](https://oglobo.globo.com/celina/no-dia-da-mulher-negra-entenda-as-origens-da-data-conheca-historia-de-tereza-de-benguela-24549670)
-* [David Guetta e Katy Perry se apresentam em edição virtual do Tomorrowland](https://oglobo.globo.com/rioshow/david-guetta-katy-perry-se-apresentam-em-edicao-virtual-do-tomorrowland-24550234)
 * [Eleita uma das executivas da área jurídica mais admiradas do país, Ianda Lopes fala sobre os desafios do setor na pandemia](https://oglobo.globo.com/celina/eleita-uma-das-executivas-da-area-juridica-mais-admiradas-do-pais-ianda-lopes-fala-sobre-os-desafios-do-setor-na-pandemia-24549919)

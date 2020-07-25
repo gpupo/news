@@ -2,32 +2,33 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 07:34:37 UTC
+# indexed at 25/07/2020 08:14:26 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
 * [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
-* [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
 * [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
+* [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
+* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
 * [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 * [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
-* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
 * [Machine Learning Research at Apple](https://machinelearning.apple.com)
+* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
-* [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
 * [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
+* [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
+* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [Reporters are leaving newsrooms for newsletters](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
-* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [The Eastland disaster killed more passengers than the Titanic and the Lusitania](https://www.smithsonianmag.com/history/eastland-disaster-killed-more-passengers-titanic-and-lusitania-why-has-it-been-forgotten-180953146/)
+* [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
 * [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
 * [The source of the e1000e corruption bug (2008)](https://lwn.net/Articles/304105/)
 * [55% Yelp businesses that were temp closed are now perm](https://www.washingtonpost.com/business/2020/07/23/permanent-business-closures-yelp/)
@@ -35,9 +36,8 @@ layout: default
 * [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
-* [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
-* [The Desolate Visions of Andy Warhol](https://newrepublic.com/article/158587/desolate-visions-andy-warhol)
 * [Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/)
+* [The Desolate Visions of Andy Warhol](https://newrepublic.com/article/158587/desolate-visions-andy-warhol)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [At Wall Street Journal, News Staff and Opinion Side Clash](https://www.nytimes.com/2020/07/24/business/media/wall-street-journal-news-opinion-clash-letter.html)
 * [‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire](https://www.nytimes.com/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
 * [Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny](https://www.nytimes.com/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Convertibles for Summer Driving: Going Topless and Turning Heads](https://www.nytimes.com/2020/07/23/business/convertibles-summer-driving.html)
 * [LeBron James Still Reigns as the N.B.A. Returns](https://www.nytimes.com/2020/07/24/sports/basketball/nba-lebron-james-lakers.html)
 * [A Spellbinding Debut Leaps Across Genres to Recreate the Confusion of Trauma](https://www.nytimes.com/2020/07/24/books/review/kate-reed-petty-true-story.html)
@@ -101,9 +101,9 @@ layout: default
 ## globo.com
 
 
+* [Por que, mesmo em meio à crise financeira, o Botafogo segue contratando?](https://oglobo.globo.com/esportes/por-que-mesmo-em-meio-crise-financeira-botafogo-segue-contratando-24550125)
 * [Teles correm para oferecer o ‘quase 5G’](https://oglobo.globo.com/economia/teles-correm-para-oferecer-quase-5g-24550847)
 * [Supervia diz ter prejuízo com redução de embarques durante a pandemia, mas trens vêm circulando lotados](https://oglobo.globo.com/rio/supervia-diz-ter-prejuizo-com-reducao-de-embarques-durante-pandemia-mas-trens-vem-circulando-lotados-1-24551106)
-* [Bares e restaurantes do Rio apelam para leilões na hora de fechar de vez a conta por causa da pandemia](https://oglobo.globo.com/rio/bares-restaurantes-do-rio-apelam-para-leiloes-na-hora-de-fechar-de-vez-conta-por-causa-da-pandemia-24551066)
 * [Lei do Gerson](https://oglobo.globo.com/brasil/lei-do-gerson-24551050)
 * [Retomada de atendimentos médicos de rotina é tema do evento 'Encontros O GLOBO'](https://oglobo.globo.com/sociedade/retomada-de-atendimentos-medicos-de-rotina-tema-do-evento-encontros-globo-24551014)
 * [Retorno de André Moura à Casa Civil não deve impedir impeachment de Witzel, dizem deputados](https://oglobo.globo.com/rio/retorno-de-andre-moura-casa-civil-nao-deve-impedir-impeachment-de-witzel-dizem-deputados-24551027)

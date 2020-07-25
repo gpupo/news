@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 20:14:59 UTC
+# indexed at 25/07/2020 20:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Dance is superior to repetitive physical exercise in inducing brain plasticity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
+* [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
+* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
+* [Ask HN: Former software engineers, what are you doing now?](https://news.ycombinator.com/item?id=23951850)
+* [Doing Stupid Stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [Noprocrast](https://tutswiki.com/noprocrast/)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
-* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 * [D.E. Shaw, the first great quant hedge fund (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
-* [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
-* [Ask HN: Former software engineers, what are you doing now?](https://news.ycombinator.com/item?id=23951850)
 * [A browser plugin for Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
-* [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
 * [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
 * [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
+* [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
 * [Show HN: iDoRecall – Spaced Repetition Flashcards](https://www.iDoRecall.com/)
-* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
+* [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
 * [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
-* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
-* [One of Canada's most prolific romance scammers](https://www.chatelaine.com/living/romance-scammer-canada-marcel-andre-vautour/)
+* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
+* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 * [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-* [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+* [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
 * [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
-* [How Iceland got teens to say no to drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
+* [One of Canada's most prolific romance scammers](https://www.chatelaine.com/living/romance-scammer-canada-marcel-andre-vautour/)
+* [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
-* [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [How Rob Manfred Navigated a Summer of Peril for Baseball](https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Reino Unido e Bélgica põem em quarentena viajantes vindos da Espanha](https://oglobo.globo.com/mundo/reino-unido-belgica-poem-em-quarentena-viajantes-vindos-da-espanha-24551568)
+* [Youtuber Karol Eller é denunciada por porte ilegal de arma, denunciação caluniosa e lesão corporal](https://oglobo.globo.com/rio/youtuber-karol-eller-denunciada-por-porte-ilegal-de-arma-denunciacao-caluniosa-lesao-corporal-24551653)
 * [Cariocas enchem as praias neste sábado, mesmo com proibição de permanência nas areias](https://oglobo.globo.com/rio/cariocas-enchem-as-praias-neste-sabado-mesmo-com-proibicao-de-permanencia-nas-areias-24551597)
+* [Reino Unido e Bélgica põem em quarentena viajantes vindos da Espanha](https://oglobo.globo.com/mundo/reino-unido-belgica-poem-em-quarentena-viajantes-vindos-da-espanha-24551568)
 * [Novas leis do Rio ajudam o bolso na pandemia, de desconto nas escolas a cancelamento de contratos](https://oglobo.globo.com/economia/defesa-do-consumidor/novas-leis-do-rio-ajudam-bolso-na-pandemia-de-desconto-nas-escolas-cancelamento-de-contratos-24551606)
 * [Barragens de minério de ouro interditadas por risco de rompimento em MT não têm plano emergencial](https://oglobo.globo.com/brasil/barragens-de-minerio-de-ouro-interditadas-por-risco-de-rompimento-em-mt-nao-tem-plano-emergencial-1-24551622)
 * [Parque de Madureira tem movimento tímido no primeiro sábado após reabertura](https://oglobo.globo.com/rio/parque-de-madureira-tem-movimento-timido-no-primeiro-sabado-apos-reabertura-24551570)
 * [Cacique Raoni recebe alta médica e agradece apoio durante internação](https://oglobo.globo.com/sociedade/cacique-raoni-recebe-alta-medica-agradece-apoio-durante-internacao-24551560)
 * [Três nomes ganham força para substituir Novaes na presidência do BB. Saiba quem são](https://oglobo.globo.com/economia/tres-nomes-ganham-forca-para-substituir-novaes-na-presidencia-do-bb-saiba-quem-sao-24551525)
 * [Alemanha considera teste obrigatório de coronavírus para turistas](https://oglobo.globo.com/mundo/alemanha-considera-teste-obrigatorio-de-coronavirus-para-turistas-24551548)
-* [Fortemente atingido pelo coronavírus, Sul do Texas está sob ameaça do furacão Hanna](https://oglobo.globo.com/mundo/fortemente-atingido-pelo-coronavirus-sul-do-texas-esta-sob-ameaca-do-furacao-hanna-24551541)
 * [Coluna | Mr. West goes to Washington ou Kanye West e a terceira via (não falei para onde)](https://epoca.globo.com/colunistas/coluna-mr-west-goes-to-washington-ou-kanye-west-a-terceira-via-nao-falei-para-onde-24549937)

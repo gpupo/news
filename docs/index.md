@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 22:12:49 UTC
+# indexed at 25/07/2020 22:34:26 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Doing Stupid Stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
-* [In a GPT-3 World, Anonymity Prevents Free Speech](https://jayriverlong.github.io/2020/07/24/gpt3.html)
-* [Dance is superior to repetitive physical exercise in inducing brain plasticity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
+* [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
+* [Dance is superior to repetitive physical exercise in brain plasticity: study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
 * [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
-* [How LSD Almost Became the 13th Step](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/)
+* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
+* [D.E. Shaw and how computer geeks and English majors transformed Wall St. (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Noprocrast](https://tutswiki.com/noprocrast/)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
 * [A browser plugin for Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
-* [D.E. Shaw, the first great quant hedge fund (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
-* [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
 * [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
+* [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
+* [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/)
+* [Are “reversible” computers more energy efficient, faster? (2004)](https://www.eetimes.com/are-reversible-computers-more-energy-efficient-faster/)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
 * [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
-* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
+* [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
-* [Show HN: iDoRecall – Spaced Repetition Flashcards](https://www.iDoRecall.com/)
+* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
-* [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+* [Show HN: iDoRecall – Spaced Repetition Flashcards](https://www.iDoRecall.com/)
 * [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
+* [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+* [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
 * [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
-* [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 * [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
-* [One of Canada's most prolific romance scammers](https://www.chatelaine.com/living/romance-scammer-canada-marcel-andre-vautour/)
+* [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
-* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [How Rob Manfred Navigated a Summer of Peril for Baseball](https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -100,6 +100,7 @@ layout: default
 ## globo.com
 
 
+* [Fluminense vence o Botafogo em primeiro amistoso preparativo para o Brasileiro](https://oglobo.globo.com/esportes/fluminense-vence-botafogo-em-primeiro-amistoso-preparativo-para-brasileiro-24551770)
 * [Feiras de adoção de animais estão liberadas no Rio a partir deste sábado](https://oglobo.globo.com/rio/feiras-de-adocao-de-animais-estao-liberadas-no-rio-partir-deste-sabado-1-24551722)
 * [Presidente de comissão do Congresso quer aprovar relatório da reforma tributária até 15 de outubro](https://oglobo.globo.com/economia/presidente-de-comissao-do-congresso-quer-aprovar-relatorio-da-reforma-tributaria-ate-15-de-outubro-24551490)
 * [Rio registra 154 mortes e 1.414 novos casos de coronavírus em 24 horas](https://oglobo.globo.com/rio/rio-registra-154-mortes-1414-novos-casos-de-coronavirus-em-24-horas-24551732)
@@ -107,6 +108,5 @@ layout: default
 * [Cotado para a vaga de Jorge Jesus no Flamengo consegue façanha em Portugal e fala de propostas](https://oglobo.globo.com/esportes/cotado-para-vaga-de-jorge-jesus-no-flamengo-consegue-facanha-em-portugal-fala-de-propostas-24551712)
 * ['Tinha ficado chateada, mas foi superado', diz Bia Kicis após visita de Bolsonaro](https://oglobo.globo.com/brasil/tinha-ficado-chateada-mas-foi-superado-diz-bia-kicis-apos-visita-de-bolsonaro-1-24551703)
 * [Youtuber Karol Eller é denunciada por porte ilegal de arma, denunciação caluniosa e lesão corporal](https://oglobo.globo.com/rio/youtuber-karol-eller-denunciada-por-porte-ilegal-de-arma-denunciacao-caluniosa-lesao-corporal-24551653)
-* [Cariocas enchem as praias neste sábado, mesmo com proibição de permanência nas areias](https://oglobo.globo.com/rio/cariocas-enchem-as-praias-neste-sabado-mesmo-com-proibicao-de-permanencia-nas-areias-24551597)
 * [Novas leis do Rio ajudam o bolso na pandemia, de desconto nas escolas a cancelamento de contratos](https://oglobo.globo.com/economia/defesa-do-consumidor/novas-leis-do-rio-ajudam-bolso-na-pandemia-de-desconto-nas-escolas-cancelamento-de-contratos-24551606)
 * [Barragens de minério de ouro interditadas por risco de rompimento em MT não têm plano emergencial](https://oglobo.globo.com/brasil/barragens-de-minerio-de-ouro-interditadas-por-risco-de-rompimento-em-mt-nao-tem-plano-emergencial-1-24551622)

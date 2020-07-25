@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 04:14:35 UTC
+# indexed at 25/07/2020 04:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
 * [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
-* [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
+* [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
 * [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
 * [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [Reporters are leaving newsrooms for newsletters](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
 * [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
-* [WindTerm 1.4 – A Professional SSH/SFTP/Shell/Telnet/Serial Client for DevOps](https://github.com/kingToolbox/WindTerm)
-* [FAA issues emergency directive on 2,000 Boeing 737 NG, Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
 * [Unofficial Guide to Datomic Internals (2014)](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/)
 * [The Eastland disaster killed more passengers than the Titanic and the Lusitania](https://www.smithsonianmag.com/history/eastland-disaster-killed-more-passengers-titanic-and-lusitania-why-has-it-been-forgotten-180953146/)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 * [Tiny Tiny RSS](https://tt-rss.org/)
-* [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
 * [The source of the e1000e corruption bug (2008)](https://lwn.net/Articles/304105/)
+* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 * [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
 * [The Desolate Visions of Andy Warhol](https://newrepublic.com/article/158587/desolate-visions-andy-warhol)
 * [The 20th anniversary of the Power Mac G4 Cube](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/)
+* [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/)
 * [SPAC Man Begins](https://alexdanco.com/2020/07/24/spac-man-begins/)
 * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [FAA issues emergency directive on 2,000 Boeing 737 NG, Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
+* [Cold Showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [At Wall Street Journal, News Staff and Opinion Side Clash](https://www.nytimes.com/2020/07/24/business/media/wall-street-journal-news-opinion-clash-letter.html)
 * [‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire](https://www.nytimes.com/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
 * [Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny](https://www.nytimes.com/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Convertibles for Summer Driving: Going Topless and Turning Heads](https://www.nytimes.com/2020/07/23/business/convertibles-summer-driving.html)
 * [LeBron James Still Reigns as the N.B.A. Returns](https://www.nytimes.com/2020/07/24/sports/basketball/nba-lebron-james-lakers.html)
 * [A Spellbinding Debut Leaps Across Genres to Recreate the Confusion of Trauma](https://www.nytimes.com/2020/07/24/books/review/kate-reed-petty-true-story.html)

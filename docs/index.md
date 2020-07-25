@@ -2,56 +2,54 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 17:12:35 UTC
+# indexed at 25/07/2020 17:34:18 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
 * [Noprocrast](https://tutswiki.com/noprocrast/)
+* [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
 * [Firefox in Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
 * [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
+* [Dance is superior to repetitive physical exercise in inducing brain plasticity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
-* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
+* [A Misfit Group of Computer Geeks and English Majors Transformed Wall Street](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
-* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
+* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
+* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
 * [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
 * [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [Intel Gen12/Xe Graphics Have AV1 Accelerated Decode – Linux Support Lands](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Gen12-Xe-AV1-Decode-Media)
-* [How Iceland Got Teens to Say No to Drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
-* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
-* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
-* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
+* [Building an Offline Page for Theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
+* [Intel Gen12/Xe Graphics Have AV1 Accelerated Decode – Linux Support Lands](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Gen12-Xe-AV1-Decode-Media)
+* [A visual catalogue of the colors mentioned in Goethe’s Theory of Colors(1810)](https://www.c82.net/work/?id=380)
+* [Teaching Isn’t About Managing Behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
+* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
+* [Cryptography Is Not Magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
+* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
+* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [How Iceland Got Teens to Say No to Drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
+* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
 * [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
-* [A combo of fasting plus vitamin C is effective for hard-to-treat cancers in mice](https://www.sciencedaily.com/releases/2020/05/200512151941.htm)
 * [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
+* [A combo of fasting plus vitamin C is effective for hard-to-treat cancers in mice](https://www.sciencedaily.com/releases/2020/05/200512151941.htm)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
-* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
-* [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
-* [America’s Largest Unions Are Calling on the FTC to Stop Amazon](https://www.vice.com/en_us/article/ep45jm/americas-largest-unions-are-calling-on-the-ftc-to-stop-amazon)
-* [The First Best Seller: On Samuel Richardson’s Pamela](https://www.laphamsquarterly.org/roundtable/first-best-seller)
-* [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
 ## nytimes.com
 
 
 * [Live Coronavirus Updates: World News](https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html)
-* [After Early Success, Israel’s Netanyahu Faces Fury for Flubbing Virus Fight](https://www.nytimes.com/2020/07/24/world/middleeast/israel-virus-protests-netanyahu.html)
 * [Corporate Insiders Pocket $1 Billion in Rush for Coronavirus Vaccine](https://www.nytimes.com/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html)
-* [What Arizona’s Tenuous Coronavirus Plateau Could Teach Us](https://www.nytimes.com/2020/07/24/us/coronavirus-arizona.html)
 * [Officials Push U.S.-China Relations Toward Point of No Return](https://www.nytimes.com/2020/07/25/world/asia/us-china-trump-xi.html)
 * [Once a Source of U.S.-China Tension, Trade Emerges as an Area of Calm](https://www.nytimes.com/2020/07/25/business/economy/us-china-trade-diplomacy.html)
 * [Federal Agents Push Into Portland Streets, Stretching Limits of Their Authority](https://www.nytimes.com/2020/07/25/us/portland-federal-legal-jurisdiction-courts.html)
 * [Mothers’ Power in U.S. Protests Echoes a Global Tradition](https://www.nytimes.com/2020/07/25/world/americas/protest-moms-power-police.html)
 * [A ‘Wall of Vets’ Joins the Front Lines of Portland Protests](https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html)
 * [Anatomy of an Election ‘Meltdown’ in Georgia](https://www.nytimes.com/2020/07/25/us/politics/georgia-election-voting-problems.html)
-* [Thanks to Trump, Jacksonville Becomes Political Roadkill](https://www.nytimes.com/2020/07/25/us/politics/trump-rnc-jacksonville.html)
+* [A 2020 Question 100 Days Out: Will the Elections Be Free and Fair?](https://www.nytimes.com/2020/07/25/us/politics/2020-election-voter-fraud-interference.html)
 * [President Trump Bows to Reality: This Week in the 2020 Race](https://www.nytimes.com/2020/07/25/us/politics/trump-biden-polls-coronavirus.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html)
 * [The Battle for a Baseball Season](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
@@ -72,7 +70,7 @@ layout: default
 * [An Upended Fitness Industry Sweats Over Black Lives Matter](https://www.nytimes.com/2020/07/23/style/peloton-black-lives-matter-ride-soul-cycle-y7.html)
 * [Your Used Mask Needs to Make It to the Trash Can](https://www.nytimes.com/2020/07/25/climate/covid-masks-discarded.html)
 * [Protests Swell in Russia’s Far East in a Stark New Challenge to Putin](https://www.nytimes.com/2020/07/25/world/europe/russia-protests-putin-khabarovsk.html)
-* [Hurricane Hanna Could Batter Texas Region Struggling With Coronavirus](https://www.nytimes.com/2020/07/25/us/hanna-storm-texas.html)
+* [Hurricane Hanna: Storm Hits Texas Region Struggling With Virus](https://www.nytimes.com/2020/07/25/us/hanna-storm-texas.html)
 * [Misogynistic Lawyer Who Killed Judge’s Son Had List of Possible Targets](https://www.nytimes.com/2020/07/25/nyregion/roy-den-hollander-esther-salas-list.html)
 * [Flooding in India Kills Scores of Animals, Including Endangered Rhinos](https://www.nytimes.com/2020/07/25/world/asia/india-floods-rhinos.html)
 * [A Viewer Spotted a Lump on Her Neck. Now, She’s Having a Tumor Removed.](https://www.nytimes.com/2020/07/25/us/victoria-price-thyroid-cancer.html)
@@ -94,7 +92,6 @@ layout: default
 * [Why the ‘Super Weird’ Moons of Mars Fascinate Scientists](https://www.nytimes.com/2020/07/25/science/mars-moons-phobos-deimos.html)
 * [Viking Age Smallpox Complicates Story of Viral Evolution](https://www.nytimes.com/2020/07/23/science/smallpox-vikings-genetics.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
-* [‘Person. Woman. Man. Camera. TV.’ Didn’t Mean What Trump Hoped It Did](https://www.nytimes.com/2020/07/23/us/politics/person-woman-man-camera-tv-trump.html)
 * [How Much Watching Time Do You Have This Weekend?](https://www.nytimes.com/2020/07/23/arts/television/Wynonna-Earp-hannibal-meerkat-manor.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -102,6 +99,8 @@ layout: default
 ## globo.com
 
 
+* [Protestos desafiam o Kremlin no Extremo Oriente russo](https://oglobo.globo.com/mundo/protestos-desafiam-kremlin-no-extremo-oriente-russo-24551528)
+* [Covid-19: jogos das divisões de acesso da Espanha são adiados e ameaçam programação da próxima temporada](https://oglobo.globo.com/esportes/covid-19-jogos-das-divisoes-de-acesso-da-espanha-sao-adiados-ameacam-programacao-da-proxima-temporada-24551534)
 * [Morre o mestre do blues Peter Green, um dos fundadores do Fleetwood Mac, aos 73 anos](https://oglobo.globo.com/cultura/morre-mestre-do-blues-peter-green-um-dos-fundadores-do-fleetwood-mac-aos-73-anos-24551497)
 * [Justiça libera demolições de prédios irregulares na Gardênia Azul, na Zona Oeste do Rio](https://oglobo.globo.com/rio/justica-libera-demolicoes-de-predios-irregulares-na-gardenia-azul-na-zona-oeste-do-rio-24551513)
 * [Brasil tem a 85.562 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-85562-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24551484)
@@ -109,6 +108,4 @@ layout: default
 * [Com rosto ainda desconhecido, primeira escritora negra do Brasil é redescoberta após décadas de anonimato](https://epoca.globo.com/cultura/com-rosto-ainda-desconhecido-primeira-escritora-negra-do-brasil-redescoberta-apos-decadas-de-anonimato-24551458)
 * [Os países que foram 'exemplo' mas sofrem agora com segunda onda de Covid-19](https://epoca.globo.com/mundo/os-paises-que-foram-exemplo-mas-sofrem-agora-com-segunda-onda-de-covid-19-24551489)
 * [Com Covid-19, ministro da Educação diz que teve início de pneumonia](https://oglobo.globo.com/sociedade/com-covid-19-ministro-da-educacao-diz-que-teve-inicio-de-pneumonia-24551446)
-* [Morre o ex-deputado federal José Mentor, vítima de coronavírus](https://oglobo.globo.com/brasil/morre-ex-deputado-federal-jose-mentor-vitima-de-coronavirus-24551415)
 * [Médicas publicam selfies de biquíni em protesto contra estudo sobre conduta inapropriada](https://epoca.globo.com/sociedade/medicas-publicam-selfies-de-biquini-em-protesto-contra-estudo-sobre-conduta-inapropriada-24551412)
-* [Com Kalou e Honda no Botafogo, Montenegro sonha alto: 'Queremos o título, mas vai ser difícil'](https://oglobo.globo.com/esportes/com-kalou-honda-no-botafogo-montenegro-sonha-alto-queremos-titulo-mas-vai-ser-dificil-24551418)

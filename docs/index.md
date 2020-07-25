@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 02:14:48 UTC
+# indexed at 25/07/2020 02:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
 * [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
-* [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
+* [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
 * [Machine Learning Research at Apple](https://machinelearning.apple.com)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
-* [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
+* [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
+* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 * [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
+* [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
 * [Reporters are leaving newsrooms for newsletters](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
 * [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
 * [FAA issues emergency directive on 2,000 Boeing 737 NG, Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
 * [Unofficial Guide to Datomic Internals (2014)](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/)
-* [Tiny Tiny RSS](https://tt-rss.org/)
 * [The Eastland disaster killed more passengers than the Titanic and the Lusitania](https://www.smithsonianmag.com/history/eastland-disaster-killed-more-passengers-titanic-and-lusitania-why-has-it-been-forgotten-180953146/)
-* [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
+* [Tiny Tiny RSS](https://tt-rss.org/)
 * [The source of the e1000e corruption bug (2008)](https://lwn.net/Articles/304105/)
-* [The 20th anniversary of the Power Mac G4 Cube](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/)
 * [The Desolate Visions of Andy Warhol](https://newrepublic.com/article/158587/desolate-visions-andy-warhol)
+* [The 20th anniversary of the Power Mac G4 Cube](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/)
 * [SPAC Man Begins](https://alexdanco.com/2020/07/24/spac-man-begins/)
 * [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
-* [The Four Quadrants of Conformism](http://paulgraham.com/conformism.html)
 * [Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/)
+* [Apple for the first time makes a top-of-the-line iPhone model in India](https://m.economictimes.com/tech/hardware/the-i-in-iphone-11-now-stands-for-india-made/articleshow/77135725.cms)
 * [NIST’s Post-Quantum Cryptography Program Enters ‘Selection Round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
 * [We’re treating self-improvement like a software upgrade](https://medium.com/team-human/were-treating-self-improvement-like-a-software-upgrade-b25a8e3a80c6)
-* [Apple for the first time makes a top-of-the-line iPhone model in India](https://m.economictimes.com/tech/hardware/the-i-in-iphone-11-now-stands-for-india-made/articleshow/77135725.cms)
+* [Mail for Good](https://github.com/freeCodeCamp/mail-for-good/tree/heroku/stable)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [At Wall Street Journal, News Staff and Opinion Side Clash](https://www.nytimes.com/2020/07/24/business/media/wall-street-journal-news-opinion-clash-letter.html)
 * [‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire](https://www.nytimes.com/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
 * [Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny](https://www.nytimes.com/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Convertibles for Summer Driving: Going Topless and Turning Heads](https://www.nytimes.com/2020/07/23/business/convertibles-summer-driving.html)
 * [LeBron James Still Reigns as the N.B.A. Returns](https://www.nytimes.com/2020/07/24/sports/basketball/nba-lebron-james-lakers.html)
 * [A Spellbinding Debut Leaps Across Genres to Recreate the Confusion of Trauma](https://www.nytimes.com/2020/07/24/books/review/kate-reed-petty-true-story.html)

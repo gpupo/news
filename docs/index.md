@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 18:14:09 UTC
+# indexed at 25/07/2020 18:34:46 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Noprocrast](https://tutswiki.com/noprocrast/)
 * [Dance is superior to repetitive physical exercise in inducing brain plasticity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
+* [Noprocrast](https://tutswiki.com/noprocrast/)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
-* [Firefox in Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
 * [A Misfit Group of Computer Geeks and English Majors Transformed Wall Street](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
+* [Firefox in Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
-* [A visual catalogue of the colors mentioned in Goethe’s Theory of Colors(1810)](https://www.c82.net/work/?id=380)
-* [Teaching Isn’t About Managing Behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
 * [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
+* [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
+* [Teaching Isn’t About Managing Behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
 * [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
-* [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
-* [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
-* [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
+* [Bloom filters debunked: Dispelling 30 Years of bad math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
+* [A visual catalogue of the colors mentioned in Goethe’s Theory of Colors(1810)](https://www.c82.net/work/?id=380)
 * [Cryptography Is Not Magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
-* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
+* [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
 * [Building an Offline Page for Theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
+* [The Brave New World of Chemical Romance](http://nautil.us/issue/88/love--sex/the-brave-new-world-of-chemical-romance)
+* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
 * [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
+* [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
+* [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
 * [Intel Gen12/Xe Graphics Have AV1 Accelerated Decode – Linux Support Lands](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Gen12-Xe-AV1-Decode-Media)
+* [Processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 * [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
-* [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 * [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
 * [How Iceland Got Teens to Say No to Drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
-* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
-* [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
 * [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
-* [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
-* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
+* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [Compensation for Embassy Bombing Victims Could Imperil Thaw With Sudan](https://www.nytimes.com/2020/07/25/us/politics/sudan-compensation-embassy-bombings.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Alemanha considera teste obrigatório de coronavírus para turistas](https://oglobo.globo.com/mundo/alemanha-considera-teste-obrigatorio-de-coronavirus-para-turistas-24551548)
+* [Cacique Raoni recebe alta médica e agradece apoio durante internação](https://oglobo.globo.com/sociedade/cacique-raoni-recebe-alta-medica-agradece-apoio-durante-internacao-24551560)
+* [Brasil tem 85.562 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-85562-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24551484)
 * [Três nomes ganham força para substituir Novaes na presidência do BB. Saiba quem são](https://oglobo.globo.com/economia/tres-nomes-ganham-forca-para-substituir-novaes-na-presidencia-do-bb-saiba-quem-sao-24551525)
+* [Alemanha considera teste obrigatório de coronavírus para turistas](https://oglobo.globo.com/mundo/alemanha-considera-teste-obrigatorio-de-coronavirus-para-turistas-24551548)
 * [Fortemente atingido pelo coronavírus, Sul do Texas está sob ameaça do furacão Hanna](https://oglobo.globo.com/mundo/fortemente-atingido-pelo-coronavirus-sul-do-texas-esta-sob-ameaca-do-furacao-hanna-24551541)
 * [Protestos desafiam o Kremlin no Extremo Oriente russo](https://oglobo.globo.com/mundo/protestos-desafiam-kremlin-no-extremo-oriente-russo-24551528)
 * [Covid-19: jogos das divisões de acesso da Espanha são adiados e programação da próxima temporada fica ameaçada](https://oglobo.globo.com/esportes/covid-19-jogos-das-divisoes-de-acesso-da-espanha-sao-adiados-programacao-da-proxima-temporada-fica-ameacada-24551534)
 * [Morre o mestre do blues Peter Green, um dos fundadores do Fleetwood Mac, aos 73 anos](https://oglobo.globo.com/cultura/morre-mestre-do-blues-peter-green-um-dos-fundadores-do-fleetwood-mac-aos-73-anos-24551497)
 * [Justiça libera demolições de prédios irregulares na Gardênia Azul, na Zona Oeste do Rio](https://oglobo.globo.com/rio/justica-libera-demolicoes-de-predios-irregulares-na-gardenia-azul-na-zona-oeste-do-rio-24551513)
-* [Brasil tem a 85.562 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-85562-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24551484)
-* [Os países que foram 'exemplo' mas sofrem agora com segunda onda de Covid-19](https://epoca.globo.com/mundo/os-paises-que-foram-exemplo-mas-sofrem-agora-com-segunda-onda-de-covid-19-24551489)
 * [Coluna | Mr. West goes to Washington ou Kanye West e a terceira via (não falei para onde)](https://epoca.globo.com/colunistas/coluna-mr-west-goes-to-washington-ou-kanye-west-a-terceira-via-nao-falei-para-onde-24549937)

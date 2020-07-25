@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 19:12:36 UTC
+# indexed at 25/07/2020 19:35:56 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Dance is superior to repetitive physical exercise in inducing brain plasticity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [Noprocrast](https://tutswiki.com/noprocrast/)
-* [Even as India urbanises, caste discrimination remains rife](https://www.economist.com/asia/2020/07/23/even-as-india-urbanises-caste-discrimination-remains-rife)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
 * [D.E. Shaw, the first great quant hedge fund (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [A browser plugin for Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
+* [How to Survive Ransomware Attack Without Paying Ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 * [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
 * [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [Bloom filters debunked: Dispelling 30 Years of bad math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
-* [Show HN: iDoRecall – Spaced Repetition Flashcards](https://www.iDoRecall.com/)
 * [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
+* [Show HN: iDoRecall – Spaced Repetition Flashcards](https://www.iDoRecall.com/)
 * [How Iceland got teens to say no to drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
-* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
-* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
-* [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
 * [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
-* [Building an Offline Page for Theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
+* [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
+* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Redux Overview and Concepts – Reimagined Redux Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-* [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
+* [Building an Offline Page for Theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
 * [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
-* [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
-* [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
-* [Processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
+* [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
+* [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
+* [Processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 * [Machu Picchu was purposely built on intersecting fault lines: research (2019)](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
+* [Even as India urbanises, caste discrimination remains rife](https://www.economist.com/asia/2020/07/23/even-as-india-urbanises-caste-discrimination-remains-rife)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [A ‘Wall of Vets’ Joins the Front Lines of Portland Protests](https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html)
 * [Anatomy of an Election ‘Meltdown’ in Georgia](https://www.nytimes.com/2020/07/25/us/politics/georgia-election-voting-problems.html)
 * [A 2020 Question 100 Days Out: Will the Elections Be Free and Fair?](https://www.nytimes.com/2020/07/25/us/politics/2020-election-voter-fraud-interference.html)
-* [President Trump Bows to Reality: This Week in the 2020 Race](https://www.nytimes.com/2020/07/25/us/politics/trump-biden-polls-coronavirus.html)
+* [Will Trump’s Abrupt Shift on Coronavirus Re-energize His Campaign?](https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html)
 * [The Battle for a Baseball Season](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
@@ -77,11 +77,11 @@ layout: default
 * [The F.B.I. Pledged to Keep a Source Anonymous. Trump Allies Aided His Unmasking.](https://www.nytimes.com/2020/07/25/us/politics/igor-danchenko-steele-dossier.html)
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [How Rob Manfred Navigated a Summer of Peril for Baseball](https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -99,8 +99,8 @@ layout: default
 ## globo.com
 
 
+* [Parque de Madureira tem movimento tímido no primeiro sábado após reabertura](https://oglobo.globo.com/rio/parque-de-madureira-tem-movimento-timido-no-primeiro-sabado-apos-reabertura-24551570)
 * [Cacique Raoni recebe alta médica e agradece apoio durante internação](https://oglobo.globo.com/sociedade/cacique-raoni-recebe-alta-medica-agradece-apoio-durante-internacao-24551560)
-* [Brasil tem 85.562 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-85562-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24551484)
 * [Três nomes ganham força para substituir Novaes na presidência do BB. Saiba quem são](https://oglobo.globo.com/economia/tres-nomes-ganham-forca-para-substituir-novaes-na-presidencia-do-bb-saiba-quem-sao-24551525)
 * [Alemanha considera teste obrigatório de coronavírus para turistas](https://oglobo.globo.com/mundo/alemanha-considera-teste-obrigatorio-de-coronavirus-para-turistas-24551548)
 * [Fortemente atingido pelo coronavírus, Sul do Texas está sob ameaça do furacão Hanna](https://oglobo.globo.com/mundo/fortemente-atingido-pelo-coronavirus-sul-do-texas-esta-sob-ameaca-do-furacao-hanna-24551541)

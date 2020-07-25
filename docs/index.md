@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 11:12:40 UTC
+# indexed at 25/07/2020 11:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [ICE Confirms New Foreign Students Can't Take Online-Only Course Loads in the US](https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895223219/ice-confirms-new-foreign-students-cant-take-online-only-course-loads-in-the-u-s)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
 * [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
-* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
-* [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
-* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
+* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
+* [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
+* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
-* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
-* [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Thinking of a Cybersecurity Career? Read This](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
-* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
-* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
-* [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
-* [Machine Learning Research at Apple](https://machinelearning.apple.com)
-* [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
-* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
-* [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
-* [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
-* [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
-* [War Between Greece and Turkey Is Now a Real Possibility](https://nationalinterest.org/blog/buzz/war-between-greece-and-turkey-now-real-possibility-165465)
+* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
 * [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
+* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
+* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
+* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
+* [Machine Learning Research at Apple](https://machinelearning.apple.com)
+* [ICE Confirms New Foreign Students Can't Take Online-Only Course Loads in the US](https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895223219/ice-confirms-new-foreign-students-cant-take-online-only-course-loads-in-the-u-s)
+* [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
+* [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
+* [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
+* [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
+* [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
 * [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
+* [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
 * [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
-* [How Wong Kar-wai inspired filmmakers like Sofia Coppola and Barry Jenkin](https://www.scmp.com/magazines/style/celebrity/article/3093301/how-wong-kar-wai-hong-kong-director-mood-love-chungking)
+* [Videos Show How Federal Officers Escalated Violence in Portland](https://www.nytimes.com/video/us/100000007243995/portland-protests-federal-government.html)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [The F.B.I. Pledged to Keep a Source Anonymous. Trump Allies Aided His Unmasking.](https://www.nytimes.com/2020/07/25/us/politics/igor-danchenko-steele-dossier.html)
 * [Hungary’s Independent Press Takes Another Blow and Reporters Quit](https://www.nytimes.com/2020/07/24/world/europe/hungary-poland-media-freedom-index.html)
 * [Compensation for Embassy Bombing Victims Could Imperil Thaw With Sudan](https://www.nytimes.com/2020/07/25/us/politics/sudan-compensation-embassy-bombings.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -102,12 +102,12 @@ layout: default
 
 
 * [Brasil tem 2.349.302 casos de Covid-19, segundo consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2349302-casos-de-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24551324)
+* [Imagens para o futuro](https://oglobo.globo.com/cultura/imagens-para-futuro-24551356)
 * [Gisele Bündchen fala sobre casamento de 11 anos com Tom Brady: 'Qualquer relacionamento tem seus desafios'](https://oglobo.globo.com/ela/gente/gisele-bundchen-fala-sobre-casamento-de-11-anos-com-tom-brady-qualquer-relacionamento-tem-seus-desafios-24551325)
 * ['Em uma semana, perdi pai, avós e tio', diz parente de 12 infectados por coronavírus no RS](https://epoca.globo.com/sociedade/em-uma-semana-perdi-pai-avos-tio-diz-parente-de-12-infectados-por-coronavirus-no-rs-24547136)
 * [Deputado cobra ministro sobre processo de Luciano Hang no Iphan](https://epoca.globo.com/guilherme-amado/deputado-cobra-ministro-sobre-processo-de-luciano-hang-no-iphan-1-24551177)
 * [Witzel muda comando da Loterj](https://epoca.globo.com/guilherme-amado/witzel-muda-comando-da-loterj-24551157)
 * [Manifestantes vão às ruas contra planos da Polônia de abandonar acordo sobre violência doméstica](https://oglobo.globo.com/mundo/manifestantes-vao-as-ruas-contra-planos-da-polonia-de-abandonar-acordo-sobre-violencia-domestica-24550865)
 * [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)
-* [Claude Troisgros e Batista levam suas receitas gourmet para novo polo gastronômico no NorteShopping](https://oglobo.globo.com/rio/bairros/claude-troisgros-batista-levam-suas-receitas-gourmet-para-novo-polo-gastronomico-no-norteshopping-1-24546935)
 * [Na contramão da crise, a coragem de inaugurar uma loja ou expandir os negócios](https://oglobo.globo.com/rio/bairros/na-contramao-da-crise-coragem-de-inaugurar-uma-loja-ou-expandir-os-negocios-24549938)
 * [Coluna | Bolsonaro sonha com genocídio](https://epoca.globo.com/michel-gherman/coluna-bolsonaro-sonha-com-genocidio-24549855)

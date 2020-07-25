@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 06:14:36 UTC
+# indexed at 25/07/2020 06:35:09 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
 * [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
+* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
-* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Machine Learning Research at Apple](https://machinelearning.apple.com)
-* [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
+* [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
 * [Reporters are leaving newsrooms for newsletters](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
 * [The Eastland disaster killed more passengers than the Titanic and the Lusitania](https://www.smithsonianmag.com/history/eastland-disaster-killed-more-passengers-titanic-and-lusitania-why-has-it-been-forgotten-180953146/)
 * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
-* [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
 * [The source of the e1000e corruption bug (2008)](https://lwn.net/Articles/304105/)
 * [55% Yelp businesses that were temp closed are now perm](https://www.washingtonpost.com/business/2020/07/23/permanent-business-closures-yelp/)
+* [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
+* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [The Desolate Visions of Andy Warhol](https://newrepublic.com/article/158587/desolate-visions-andy-warhol)
-* [Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/)
 * [The 20th anniversary of the Power Mac G4 Cube](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/)
 * [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
+* [Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/)
 * [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+* [FAA issues emergency directive on 2,000 Boeing 737 NG, Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
 ## nytimes.com
 
 
@@ -81,8 +81,8 @@ layout: default
 * [At Wall Street Journal, News Staff and Opinion Side Clash](https://www.nytimes.com/2020/07/24/business/media/wall-street-journal-news-opinion-clash-letter.html)
 * [‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire](https://www.nytimes.com/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
 * [Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny](https://www.nytimes.com/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
@@ -102,8 +102,8 @@ layout: default
 ## globo.com
 
 
+* [Como é a nova geração do Peugeot 208, que chegará da Argentina em setembro](https://oglobo.globo.com/economia/carros/como-a-nova-geracao-do-peugeot-208-que-chegara-da-argentina-em-setembro-24551283)
 * [Martín Fernandez: Ódio nas redes sociais é vitória do vírus](https://oglobo.globo.com/esportes/martin-fernandez-odio-nas-redes-sociais-vitoria-do-virus-24551160)
-* [Postura anti-Ciência paralisa a Saúde](https://oglobo.globo.com/opiniao/postura-anti-ciencia-paralisa-saude-1-24550542)
 * [Assim como Rafinha, Domènec Torrent é citado em livro de Guardiola; veja os trechos](https://oglobo.globo.com/esportes/assim-como-rafinha-domenec-torrent-citado-em-livro-de-guardiola-veja-os-trechos-24550901)
 * [Ídolo em Portugal, Carlos Carvalhal pode fazer história no Rio Ave antes de reunião com Flamengo](https://oglobo.globo.com/esportes/idolo-em-portugal-carlos-carvalhal-pode-fazer-historia-no-rio-ave-antes-de-reuniao-com-flamengo-24550800)
 * [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 16:13:47 UTC
+# indexed at 25/07/2020 16:34:22 UTC
 
 
 ## news.ycombinator.com
@@ -16,27 +16,27 @@ layout: default
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
 * [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
-* [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
+* [Understanding Null Safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
 * [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
 * [Intel Gen12/Xe Graphics Have AV1 Accelerated Decode – Linux Support Lands](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Gen12-Xe-AV1-Decode-Media)
-* [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
-* [US universities under pressure to cut fees because of remote learning](https://www.ft.com/content/41bdaca1-1988-4fac-9204-4ff4e70b36cc)
+* [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
 * [How Iceland Got Teens to Say No to Drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
-* [Homeland Security Was Destined to Become a Secret Police Force](https://www.newyorker.com/news/our-columnists/the-dhs-was-destined-to-become-a-secret-police-force)
-* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
 * [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
+* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [Homeland Security Was Destined to Become a Secret Police Force](https://www.newyorker.com/news/our-columnists/the-dhs-was-destined-to-become-a-secret-police-force)
 * [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
-* [The First Best Seller: On Samuel Richardson’s Pamela](https://www.laphamsquarterly.org/roundtable/first-best-seller)
 * [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
 * [A combo of fasting plus vitamin C is effective for hard-to-treat cancers in mice](https://www.sciencedaily.com/releases/2020/05/200512151941.htm)
 * [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
-* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
+* [The First Best Seller: On Samuel Richardson’s Pamela](https://www.laphamsquarterly.org/roundtable/first-best-seller)
+* [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
 * [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
+* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
 ## nytimes.com
 
@@ -80,11 +80,11 @@ layout: default
 * [The F.B.I. Pledged to Keep a Source Anonymous. Trump Allies Aided His Unmasking.](https://www.nytimes.com/2020/07/25/us/politics/igor-danchenko-steele-dossier.html)
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [Compensation for Embassy Bombing Victims Could Imperil Thaw With Sudan](https://www.nytimes.com/2020/07/25/us/politics/sudan-compensation-embassy-bombings.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -103,8 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Morre o músico Peter Green, um dos fundadores do Fleetwood Mac, aos 73 anos](https://oglobo.globo.com/cultura/morre-musico-peter-green-um-dos-fundadores-do-fleetwood-mac-aos-73-anos-24551497)
 * [Brasil tem a 85.562 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-85562-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24551484)
 * [Festa de réveillon de Copacabana é suspensa pela prefeitura devido à pandemia da Covid-19](https://oglobo.globo.com/rio/festa-de-reveillon-de-copacabana-suspensa-pela-prefeitura-devido-pandemia-da-covid-19-24551474)
 * [Após divulgar resultado negativo para Covid-19, Bolsonaro passeia de moto por Brasília](https://oglobo.globo.com/brasil/apos-divulgar-resultado-negativo-para-covid-19-bolsonaro-passeia-de-moto-por-brasilia-24551414)
-* [Sem pedir autorização, Carla Zambelli usa música de Tom Zé e Wisnik em vídeo que exalta Bolsonaro](https://oglobo.globo.com/cultura/sem-pedir-autorizacao-carla-zambelli-usa-musica-de-tom-ze-wisnik-em-video-que-exalta-bolsonaro-24551409)
 * [Com rosto ainda desconhecido, primeira escritora negra do Brasil é redescoberta após décadas de anonimato](https://epoca.globo.com/cultura/com-rosto-ainda-desconhecido-primeira-escritora-negra-do-brasil-redescoberta-apos-decadas-de-anonimato-24551458)
+* [Os países que foram 'exemplo' mas sofrem agora com segunda onda de Covid-19](https://epoca.globo.com/mundo/os-paises-que-foram-exemplo-mas-sofrem-agora-com-segunda-onda-de-covid-19-24551489)
+* [Com Covid-19, ministro da Educação diz que teve início de pneumonia](https://oglobo.globo.com/sociedade/com-covid-19-ministro-da-educacao-diz-que-teve-inicio-de-pneumonia-24551446)
+* [Morre o ex-deputado federal José Mentor, vítima de coronavírus](https://oglobo.globo.com/brasil/morre-ex-deputado-federal-jose-mentor-vitima-de-coronavirus-24551415)
+* [Médicas publicam selfies de biquíni em protesto contra estudo sobre conduta inapropriada](https://epoca.globo.com/sociedade/medicas-publicam-selfies-de-biquini-em-protesto-contra-estudo-sobre-conduta-inapropriada-24551412)
+* [Com Kalou e Honda no Botafogo, Montenegro sonha alto: 'Queremos o título, mas vai ser difícil'](https://oglobo.globo.com/esportes/com-kalou-honda-no-botafogo-montenegro-sonha-alto-queremos-titulo-mas-vai-ser-dificil-24551418)

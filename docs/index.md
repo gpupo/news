@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 15:12:51 UTC
+# indexed at 25/07/2020 15:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
+* [Noprocrast](https://tutswiki.com/noprocrast/)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
-* [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
-* [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
-* [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
-* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
-* [Homeland Security Was Destined to Become a Secret Police Force](https://www.newyorker.com/news/our-columnists/the-dhs-was-destined-to-become-a-secret-police-force)
-* [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
-* [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
-* [How Iceland Got Teens to Say No to Drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
-* [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
-* [Intel Gen12/Xe Graphics Have AV1 Accelerated Decode – Linux Support Lands](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Gen12-Xe-AV1-Decode-Media)
-* [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
-* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
-* [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
-* [A combo of fasting plus vitamin C is effective for hard-to-treat cancers in mice](https://www.sciencedaily.com/releases/2020/05/200512151941.htm)
 * [Firefox in Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
+* [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
+* [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
+* [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
+* [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
+* [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
+* [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
+* [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [How Iceland Got Teens to Say No to Drugs (2017)](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
+* [Homeland Security Was Destined to Become a Secret Police Force](https://www.newyorker.com/news/our-columnists/the-dhs-was-destined-to-become-a-secret-police-force)
+* [Intel Gen12/Xe Graphics Have AV1 Accelerated Decode – Linux Support Lands](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Gen12-Xe-AV1-Decode-Media)
+* [The First Best Seller: On Samuel Richardson’s Pamela](https://www.laphamsquarterly.org/roundtable/first-best-seller)
+* [Chinua Achebe, the Art of Fiction No. 139 (1994)](https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe)
+* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
 * [US universities under pressure to cut fees because of remote learning](https://www.ft.com/content/41bdaca1-1988-4fac-9204-4ff4e70b36cc)
-* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
+* [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
+* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [A combo of fasting plus vitamin C is effective for hard-to-treat cancers in mice](https://www.sciencedaily.com/releases/2020/05/200512151941.htm)
 * [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
-* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
-* [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
-* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
+* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
+* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
+* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
-* [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
+* [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
+* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 ## nytimes.com
 
 
-* [Live Coronavirus News: World Updates](https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html)
+* [Live Coronavirus Updates: World News](https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html)
 * [After Early Success, Israel’s Netanyahu Faces Fury for Flubbing Virus Fight](https://www.nytimes.com/2020/07/24/world/middleeast/israel-virus-protests-netanyahu.html)
 * [Corporate Insiders Pocket $1 Billion in Rush for Coronavirus Vaccine](https://www.nytimes.com/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html)
 * [What Arizona’s Tenuous Coronavirus Plateau Could Teach Us](https://www.nytimes.com/2020/07/24/us/coronavirus-arizona.html)
@@ -81,8 +81,8 @@ layout: default
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Após divulgar resultado negativo para Covid-19, Bolsonaro passeia de moto por Brasília](https://oglobo.globo.com/brasil/apos-divulgar-resultado-negativo-para-covid-19-bolsonaro-passeia-de-moto-por-brasilia-24551414)
+* [Festa de réveillon no Rio é suspensa pela prefeitura devido à pandemia da Covid-19](https://oglobo.globo.com/rio/festa-de-reveillon-no-rio-suspensa-pela-prefeitura-devido-pandemia-da-covid-19-24551474)
 * [Com rosto ainda desconhecido, primeira escritora negra do Brasil é redescoberta após décadas de anonimato](https://epoca.globo.com/cultura/com-rosto-ainda-desconhecido-primeira-escritora-negra-do-brasil-redescoberta-apos-decadas-de-anonimato-24551458)
 * [Com Covid-19, ministro da Educação diz que teve início de pneumonia](https://oglobo.globo.com/sociedade/com-covid-19-ministro-da-educacao-diz-que-teve-inicio-de-pneumonia-24551446)
 * [Morre o ex-deputado federal José Mentor, vítima de coronavírus](https://oglobo.globo.com/brasil/morre-ex-deputado-federal-jose-mentor-vitima-de-coronavirus-24551415)
 * [Médicas publicam selfies de biquíni em protesto contra estudo sobre conduta inapropriada](https://epoca.globo.com/sociedade/medicas-publicam-selfies-de-biquini-em-protesto-contra-estudo-sobre-conduta-inapropriada-24551412)
-* [Após divulgar resultado negativo para Covid-19, Bolsonaro passeia de moto por Brasília](https://oglobo.globo.com/brasil/apos-divulgar-resultado-negativo-para-covid-19-bolsonaro-passeia-de-moto-por-brasilia-24551414)
 * [Sem pedir autorização, Carla Zambelli usa música de Tom Zé e Wisnik em vídeo que exalta Bolsonaro](https://oglobo.globo.com/cultura/sem-pedir-autorizacao-carla-zambelli-usa-musica-de-tom-ze-wisnik-em-video-que-exalta-bolsonaro-24551409)
 * [Com Kalou e Honda no Botafogo, Montenegro sonha alto: 'Queremos o título, mas vai ser difícil'](https://oglobo.globo.com/esportes/com-kalou-honda-no-botafogo-montenegro-sonha-alto-queremos-titulo-mas-vai-ser-dificil-24551418)
 * [Manutenção noturna é retomada em túneis, viadutos e elevados a partir de segunda-feira; veja o cronograma](https://oglobo.globo.com/rio/manutencao-noturna-retomada-em-tuneis-viadutos-elevados-partir-de-segunda-feira-veja-cronograma-24551391)
-* [Líderes de diferentes países perdem apoio por gestão da pandemia, segundo pesquisa](https://oglobo.globo.com/mundo/lideres-de-diferentes-paises-perdem-apoio-por-gestao-da-pandemia-segundo-pesquisa-24551396)
 * [Retrato reúne família Hickmann e top do clã rebate comentário de seguidor](https://oglobo.globo.com/ela/gente/retrato-reune-familia-hickmann-top-do-cla-rebate-comentario-de-seguidor-24551403)

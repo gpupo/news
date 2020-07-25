@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 13:34:33 UTC
+# indexed at 25/07/2020 14:13:51 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Show HN: A simple CLI tool to generate satellite images of a location.](https://github.com/plant99/felicette)
+* [Pentagon’s UFO unit will make some findings public](https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-pentagon-ufo-unit-20200723-b3akzzy44zdgxc3bmhgko6nkgm-story.html)
+* [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
 * [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
+* [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
-* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
-* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
-* [Whose bug is it anyway?](https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/)
 * [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
-* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
+* [New 3D depigmentation technique enables high-res imaging of intact organisms](https://advances.sciencemag.org/content/6/22/eaba0365)
+* [Convert paper-based notes to HTML content with Google Vision API](https://itnext.io/convert-paper-based-notes-to-html-content-with-google-vision-api-e398fdb45cb9)
+* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
 * [A combo of fasting plus vitamin C is effective for hard-to-treat cancers in mice](https://www.sciencedaily.com/releases/2020/05/200512151941.htm)
-* [Thinking of a Cybersecurity Career? Read This](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+* [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
+* [How Iceland Got Teens to Say No to Drugs](https://www.theatlantic.com/health/archive/2017/01/teens-drugs-iceland/513668/)
 * [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
 * [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
-* [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
+* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
+* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
+* [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
+* [Local TV set to air discredited 'Plandemic' researcher's conspiracy theory](https://www.cnn.com/2020/07/24/media/sinclair-fauci-conspiracy-bolling/index.html)
 * [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
 * [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
-* [Japanese Architecture of the 1980-90s (2019)](https://twitter.com/Furmadamadam/status/1171760223914266625)
 * [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
-* [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
-* [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [Hungary’s Independent Press Takes Another Blow and Reporters Quit](https://www.nytimes.com/2020/07/24/world/europe/hungary-poland-media-freedom-index.html)
 * [Compensation for Embassy Bombing Victims Could Imperil Thaw With Sudan](https://www.nytimes.com/2020/07/25/us/politics/sudan-compensation-embassy-bombings.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -93,6 +93,7 @@ layout: default
 * [Why the ‘Super Weird’ Moons of Mars Fascinate Scientists](https://www.nytimes.com/2020/07/25/science/mars-moons-phobos-deimos.html)
 * [Viking Age Smallpox Complicates Story of Viral Evolution](https://www.nytimes.com/2020/07/23/science/smallpox-vikings-genetics.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
+* [6 Steps to the Best Barbecued Ribs](https://www.nytimes.com/2020/07/24/dining/bbq-ribs-recipe.html)
 * [My House Has Not Kept Up With the Pandemic](https://www.nytimes.com/2020/07/24/realestate/pandemic-housekeeping.html)
 * [‘Person. Woman. Man. Camera. TV.’ Didn’t Mean What Trump Hoped It Did](https://www.nytimes.com/2020/07/23/us/politics/person-woman-man-camera-tv-trump.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro anuncia teste negativo e volta a fazer propaganda de hidroxicloroquina](https://oglobo.globo.com/brasil/bolsonaro-anuncia-teste-negativo-volta-fazer-propaganda-de-hidroxicloroquina-24551377)
+* [Após divulgar resultado negativo para Covid-19, Bolsonaro passeia de moto por Brasília](https://oglobo.globo.com/brasil/apos-divulgar-resultado-negativo-para-covid-19-bolsonaro-passeia-de-moto-por-brasilia-24551414)
+* [Com Kalou e Honda no Botafogo, Montenegro sonha alto: 'Queremos o título, mas vai ser difícil'](https://oglobo.globo.com/esportes/com-kalou-honda-no-botafogo-montenegro-sonha-alto-queremos-titulo-mas-vai-ser-dificil-24551418)
 * [Sem pedir autorização, Carla Zambelli usa música de Tom Zé e Wisnik em vídeo que exalta Bolsonaro](https://oglobo.globo.com/cultura/sem-pedir-autorizacao-carla-zambelli-usa-musica-de-tom-ze-wisnik-em-video-que-exalta-bolsonaro-24551409)
+* [Morre o ex-deputado federal José Mentor, vítima de coronavírus](https://oglobo.globo.com/brasil/morre-ex-deputado-federal-jose-mentor-vitima-de-coronavirus-24551415)
+* [Manutenção noturna é retomada em túneis, viadutos e elevados a partir de segunda-feira; veja o cronograma](https://oglobo.globo.com/rio/manutencao-noturna-retomada-em-tuneis-viadutos-elevados-partir-de-segunda-feira-veja-cronograma-24551391)
 * [Líderes de diferentes países perdem apoio por gestão da pandemia, segundo pesquisa](https://oglobo.globo.com/mundo/lideres-de-diferentes-paises-perdem-apoio-por-gestao-da-pandemia-segundo-pesquisa-24551396)
 * [Retrato reúne família Hickmann e top do clã rebate comentário de seguidor](https://oglobo.globo.com/ela/gente/retrato-reune-familia-hickmann-top-do-cla-rebate-comentario-de-seguidor-24551403)
-* [Manutenção é retomada em túneis, viadutos e elevados a partir de segunda-feira; veja o cronograma](https://oglobo.globo.com/rio/manutencao-retomada-em-tuneis-viadutos-elevados-partir-de-segunda-feira-veja-cronograma-24551391)
-* [Considerada exemplo na luta contra a Covid-19, Coreia do Sul registra maior aumento diário de casos em quatro meses](https://oglobo.globo.com/mundo/considerada-exemplo-na-luta-contra-covid-19-coreia-do-sul-registra-maior-aumento-diario-de-casos-em-quatro-meses-24551369)
 * [Cidadão de Cingapura admite ter atuado como espião da China nos EUA](https://oglobo.globo.com/mundo/cidadao-de-cingapura-admite-ter-atuado-como-espiao-da-china-nos-eua-24551379)
-* [Bolsonaro anuncia teste negativo e volta a fazer propaganda de hidroxicloroquina](https://oglobo.globo.com/brasil/bolsonaro-anuncia-teste-negativo-volta-fazer-propaganda-de-hidroxicloroquina-24551377)
-* [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)
-* [Com máscara e andador, falso idoso rouba mais de R$ 500 mil em cassinos nos EUA](https://epoca.globo.com/mundo/com-mascara-andador-falso-idoso-rouba-mais-de-500-mil-em-cassinos-nos-eua-24551368)
 * [Direita e centro-direita de Recife negociam chapa única](https://epoca.globo.com/guilherme-amado/direita-centro-direita-de-recife-negociam-chapa-unica-24551167)

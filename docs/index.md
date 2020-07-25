@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 12:17:07 UTC
+# indexed at 25/07/2020 12:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,6 +10,7 @@ layout: default
 
 * [Banks are slow to increase rates on savings accounts, but quick to reduce them](http://jpkoning.blogspot.com/2020/06/banks-are-slow-to-increase-rates-on.html)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
+* [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
 * [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
 * [Blackbaud hack: More UK universities confirm breach](https://www.bbc.com/news/technology-53528329)
@@ -17,27 +18,26 @@ layout: default
 * [Acorn Archimedes – A Technical Introduction (1987) [video]](https://www.youtube.com/watch?v=KKTa54UikgE)
 * [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
-* [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Thinking of a Cybersecurity Career? Read This](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
-* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
+* [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
-* [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
+* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
+* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
+* [Latency and the Quest for Interactivity (1996) [pdf]](http://www.stuartcheshire.org/papers/LatencyQuest.pdf)
 * [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [Machine Learning Research at Apple](https://machinelearning.apple.com)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
+* [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
 * [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
-* [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
-* [Japanese Architecture of the 1980-90s (2019)](https://twitter.com/Furmadamadam/status/1171760223914266625)
 * [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
-* [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
 * [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
+* [Japanese Architecture of the 1980-90s (2019)](https://twitter.com/Furmadamadam/status/1171760223914266625)
+* [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
+* [ICE Confirms New Foreign Students Can't Take Online-Only Course Loads in the US](https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895223219/ice-confirms-new-foreign-students-cant-take-online-only-course-loads-in-the-u-s)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [The F.B.I. Pledged to Keep a Source Anonymous. Trump Allies Aided His Unmasking.](https://www.nytimes.com/2020/07/25/us/politics/igor-danchenko-steele-dossier.html)
 * [Hungary’s Independent Press Takes Another Blow and Reporters Quit](https://www.nytimes.com/2020/07/24/world/europe/hungary-poland-media-freedom-index.html)
 * [Compensation for Embassy Bombing Victims Could Imperil Thaw With Sudan](https://www.nytimes.com/2020/07/25/us/politics/sudan-compensation-embassy-bombings.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -101,6 +101,7 @@ layout: default
 ## globo.com
 
 
+* [Considerada exemplo na luta contra a Covid-19, Coreia do Sul registra maior número de casos em quatro meses](https://oglobo.globo.com/mundo/considerada-exemplo-na-luta-contra-covid-19-coreia-do-sul-registra-maior-numero-de-casos-em-quatro-meses-24551369)
 * [Com máscara e andador, falso idoso rouba mais de R$ 500 mil em cassinos nos EUA](https://epoca.globo.com/mundo/com-mascara-andador-falso-idoso-rouba-mais-de-500-mil-em-cassinos-nos-eua-24551368)
 * [Brasil tem 2.349.302 casos de Covid-19, segundo consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2349302-casos-de-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24551324)
 * [Em suas ‘anotações’, russo Mikhail Bulgákov mostra atenção ao detalhe e pendor pelos devaneios](https://oglobo.globo.com/cultura/em-suas-anotacoes-russo-mikhail-bulgakov-mostra-atencao-ao-detalhe-pendor-pelos-devaneios-24551364)
@@ -109,5 +110,4 @@ layout: default
 * [Imagens para o futuro](https://oglobo.globo.com/cultura/imagens-para-futuro-24551356)
 * [Daniela Arbex e a vida da médium Isabel Salomão de Campos](https://epoca.globo.com/guilherme-amado/daniela-arbex-a-vida-da-medium-isabel-salomao-de-campos-24551166)
 * [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)
-* [Coluna | Bolsonaro sonha com genocídio](https://epoca.globo.com/michel-gherman/coluna-bolsonaro-sonha-com-genocidio-24549855)
 * [Coluna | Lições de Ricardo Piglia para suportar o horror do presente](https://epoca.globo.com/ruan-de-sousa-gabriel/coluna-licoes-de-ricardo-piglia-para-suportar-horror-do-presente-24549411)

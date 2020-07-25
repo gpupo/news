@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 05:34:34 UTC
+# indexed at 25/07/2020 06:14:36 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
 * [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
+* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
-* [Machine Learning Research at Apple](https://machinelearning.apple.com)
+* [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
+* [Machine Learning Research at Apple](https://machinelearning.apple.com)
 * [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
 * [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
-* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
-* [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
-* [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
+* [A few negative online reviews early on can hurt a restaurant](https://news.osu.edu/how-a-few-negative-online-reviews-early-on-can-hurt-a-restaurant/)
 * [Reporters are leaving newsrooms for newsletters](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
-* [Unofficial Guide to Datomic Internals (2014)](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/)
 * [The Eastland disaster killed more passengers than the Titanic and the Lusitania](https://www.smithsonianmag.com/history/eastland-disaster-killed-more-passengers-titanic-and-lusitania-why-has-it-been-forgotten-180953146/)
-* [The source of the e1000e corruption bug (2008)](https://lwn.net/Articles/304105/)
-* [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
 * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
+* [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
+* [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
+* [The source of the e1000e corruption bug (2008)](https://lwn.net/Articles/304105/)
+* [55% Yelp businesses that were temp closed are now perm](https://www.washingtonpost.com/business/2020/07/23/permanent-business-closures-yelp/)
 * [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
 * [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
 * [The Desolate Visions of Andy Warhol](https://newrepublic.com/article/158587/desolate-visions-andy-warhol)
 * [Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/)
 * [The 20th anniversary of the Power Mac G4 Cube](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 * [Indian IT consultancies struggle against technological obsolescence](https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence)
-* [55% Yelp businesses that were temp closed are now perm](https://www.washingtonpost.com/business/2020/07/23/permanent-business-closures-yelp/)
-* [FAA issues emergency directive on 2,000 Boeing 737 NG, Classic planes](https://www.reuters.com/article/us-boeing-737ng/faa-issues-emergency-directive-on-2000-boeing-737-ng-classic-planes-idUSKCN24P1KS)
+* [Emulating Nintendo Switch Games on Linux](https://boilingsteam.com/emulating-nintendo-switch-games-on-linux/)
+* [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire](https://www.nytimes.com/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
 * [Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny](https://www.nytimes.com/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
-* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Convertibles for Summer Driving: Going Topless and Turning Heads](https://www.nytimes.com/2020/07/23/business/convertibles-summer-driving.html)
 * [LeBron James Still Reigns as the N.B.A. Returns](https://www.nytimes.com/2020/07/24/sports/basketball/nba-lebron-james-lakers.html)
 * [A Spellbinding Debut Leaps Across Genres to Recreate the Confusion of Trauma](https://www.nytimes.com/2020/07/24/books/review/kate-reed-petty-true-story.html)
@@ -103,9 +103,9 @@ layout: default
 
 
 * [Martín Fernandez: Ódio nas redes sociais é vitória do vírus](https://oglobo.globo.com/esportes/martin-fernandez-odio-nas-redes-sociais-vitoria-do-virus-24551160)
-* [Paulo Marinho diz que Victor Granado afirmou que valores movimentados por Queiroz eram superiores a R$1,2 milhão](https://oglobo.globo.com/brasil/paulo-marinho-diz-que-victor-granado-afirmou-que-valores-movimentados-por-queiroz-eram-superiores-r12-milhao-24551078)
-* [Hidroxicloroquina: Medicamento doado pelos EUA vai para laboratório do Exército diante de rejeição dos estados](https://oglobo.globo.com/sociedade/hidroxicloroquina-medicamento-doado-pelos-eua-vai-para-laboratorio-do-exercito-diante-de-rejeicao-dos-estados-24550805)
 * [Postura anti-Ciência paralisa a Saúde](https://oglobo.globo.com/opiniao/postura-anti-ciencia-paralisa-saude-1-24550542)
+* [Assim como Rafinha, Domènec Torrent é citado em livro de Guardiola; veja os trechos](https://oglobo.globo.com/esportes/assim-como-rafinha-domenec-torrent-citado-em-livro-de-guardiola-veja-os-trechos-24550901)
+* [Ídolo em Portugal, Carlos Carvalhal pode fazer história no Rio Ave antes de reunião com Flamengo](https://oglobo.globo.com/esportes/idolo-em-portugal-carlos-carvalhal-pode-fazer-historia-no-rio-ave-antes-de-reuniao-com-flamengo-24550800)
 * [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)
 * [A tristeza tem sempre uma esperança](https://oglobo.globo.com/opiniao/a-tristeza-tem-sempre-uma-esperanca-24550107)
 * [Barreiras eleitorais obrigam à fusão partidária e reduzem fragmentação](https://oglobo.globo.com/opiniao/barreiras-eleitorais-obrigam-fusao-partidaria-reduzem-fragmentacao-24550267)

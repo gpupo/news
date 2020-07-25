@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/07/2020 10:13:11 UTC
+# indexed at 25/07/2020 10:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
+* [ICE Confirms New Foreign Students Can't Take Online-Only Course Loads in the US](https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895223219/ice-confirms-new-foreign-students-cant-take-online-only-course-loads-in-the-u-s)
 * [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
 * [Bloomfilters debunked: Dispelling 30 Years of math with Coq](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html)
-* [ICE Confirms New Foreign Students Can't Take Online-Only Course Loads in the US](https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895223219/ice-confirms-new-foreign-students-cant-take-online-only-course-loads-in-the-u-s)
 * [Show HN: I made a minimalist spaced repetition tool](https://memordo.com)
-* [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
 * [On Liberating My Smartwatch from Cloud Services](https://www.bunniestudios.com/blog/?p=5863)
 * [Townscaper – A building game inspired by the design of Scandinavian cities](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town)
 * [Research Suggests Machu Picchu Was Purposely Built on Intersecting Fault Lines](https://www.smithsonianmag.com/smart-news/machu-picchu-was-purposely-built-top-intersecting-fault-lines-180973216/)
 * [Digikam 7.0 Released with Neural network-based face Recognition](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [Videos Show How Federal Officers Escalated Violence in Portland](https://www.nytimes.com/video/us/100000007243995/portland-protests-federal-government.html)
-* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
-* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
+* [Wayland and LVGL on PinePhone with Ubuntu Touch](https://lupyuen.github.io/pinetime-rust-mynewt/articles/wayland)
+* [Kernel state based fuzzer: a LLVM approach](https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/kstate_resource.md)
+* [Videos Show How Federal Officers Escalated Violence in Portland](https://www.nytimes.com/video/us/100000007243995/portland-protests-federal-government.html)
 * [Regional Air Mobility: Why we don’t plan to operate flights under 20km](https://lilium.com/newsroom-detail/why-regional-air-mobility)
+* [Datahike: Durable Datalog database powered by an efficient Datalog query engine](https://github.com/replikativ/datahike)
 * [Wolfsort: An ultra-fast hybrid radix sort algorithm](https://github.com/scandum/wolfsort)
 * [Machine Learning Research at Apple](https://machinelearning.apple.com)
+* [Thinking of a Cybersecurity Career? Read This](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
 * [Saliva based Covid test: results in 45 minutes](https://www.colorado.edu/today/2020/07/22/new-covid-19-test-returns-results-45-minutes-without-nasal-swab)
+* [Independently Poor: A Twist on FU Money – a.k.a. “FU, Money”](https://streetlifesolutions.blogspot.com/2020/07/independently-poor-twist-on-fu-money.html)
 * [Dividing front end from back end is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern)
 * [Remains of the Palace of Axayácatl and a house built by Cortés are discovered](https://www.inah.gob.mx/boletines/9259-remains-of-the-palace-of-axayacatl-and-a-house-built-by-order-of-cortes-are-discovered-in-monte-de-piedad-building)
+* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Avoid character-by-character processing when performance matters](https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/)
-* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [Acorn Archimedes – A Technical Introduction – 1987 BBC VHS Video](https://www.youtube.com/watch?v=KKTa54UikgE)
 * [World's biggest museum exhibition of Bob Ross paintings. How'd it wind up in BC?](https://www.cbc.ca/arts/it-s-the-world-s-biggest-museum-exhibition-of-bob-ross-paintings-so-how-d-it-wind-up-in-b-c-1.5659949)
-* [Mozilla sending political ads via Firefox push notification](https://www.reddit.com/r/firefox/comments/hx8737/why_did_i_just_receive_an_ad_for_mozillas_blog/)
 * [When Hubble stared at nothing for 100 hours (2015)](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
+* [How Wong Kar-wai inspired filmmakers like Sofia Coppola and Barry Jenkin](https://www.scmp.com/magazines/style/celebrity/article/3093301/how-wong-kar-wai-hong-kong-director-mood-love-chungking)
 * [FDA Updates on Hand Sanitizers with Methanol](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol)
 * [Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
-* [To Get More Replies, Say Less (2017)](https://www.gkogan.co/blog/increase-reply-rates/)
-* [Amazon Warehouse scam: 16TB HDD swapped for 8TB, returned for full refund](https://twitter.com/BlissWallpaper/status/1286419567783432193)
-* [I’m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=23940345)
 ## nytimes.com
 
 
@@ -81,9 +81,9 @@ layout: default
 * [Compensation for Embassy Bombing Victims Could Imperil Thaw With Sudan](https://www.nytimes.com/2020/07/25/us/politics/sudan-compensation-embassy-bombings.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [‘Almost Famous’: The Oral History of a Golden God’s Acid Trip](https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html)
 * [Welcome to the Great Indoors: Museums Beckon in the Berkshires](https://www.nytimes.com/2020/07/23/arts/design/massmoca-clark-art-museum.html)
 * [A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp](https://www.nytimes.com/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Gisele Bündchen fala sobre casamento de 11 anos com Tom Brady: 'Qualquer relacionamento tem seus desafios'](https://oglobo.globo.com/ela/gente/gisele-bundchen-fala-sobre-casamento-de-11-anos-com-tom-brady-qualquer-relacionamento-tem-seus-desafios-24551325)
+* ['Em uma semana, perdi pai, avós e tio', diz parente de 12 infectados por coronavírus no RS](https://epoca.globo.com/sociedade/em-uma-semana-perdi-pai-avos-tio-diz-parente-de-12-infectados-por-coronavirus-no-rs-24547136)
+* [Deputado cobra ministro sobre processo de Luciano Hang no Iphan](https://epoca.globo.com/guilherme-amado/deputado-cobra-ministro-sobre-processo-de-luciano-hang-no-iphan-1-24551177)
+* [Witzel muda comando da Loterj](https://epoca.globo.com/guilherme-amado/witzel-muda-comando-da-loterj-24551157)
 * [Presidente do PSL em São Paulo: 'Joice é candidatíssima'](https://epoca.globo.com/guilherme-amado/presidente-do-psl-em-sao-paulo-joice-candidatissima-24551145)
 * [Renovação urbana e mobilidade atraem novos olhares para o Jardim Oceânico](https://oglobo.globo.com/economia/renovacao-urbana-mobilidade-atraem-novos-olhares-para-jardim-oceanico-24550618)
-* [Pesquisadores criam aplicativo para diagnóstico da Covid-19 a partir de raio-x dos pulmões](https://epoca.globo.com/brasil/pesquisadores-criam-aplicativo-para-diagnostico-da-covid-19-partir-de-raio-dos-pulmoes-24550251)
 * [Claude Troisgros e Batista levam suas receitas gourmet para novo polo gastronômico no NorteShopping](https://oglobo.globo.com/rio/bairros/claude-troisgros-batista-levam-suas-receitas-gourmet-para-novo-polo-gastronomico-no-norteshopping-1-24546935)
-* ['Em um semana, perdi pai, avós e tio', diz membro de família com 12 infectados por coronavírus no RS](https://epoca.globo.com/sociedade/em-um-semana-perdi-pai-avos-tio-diz-membro-de-familia-com-12-infectados-por-coronavirus-no-rs-24547136)
 * [Reserva Cultural, em Niterói, retoma parte das atividades](https://oglobo.globo.com/rio/bairros/reserva-cultural-em-niteroi-retoma-parte-das-atividades-24550144)
 * [Pretas Cervejeiras combinam a paixão pela gelada com o debate sobre racismo](https://oglobo.globo.com/celina/pretas-cervejeiras-combinam-paixao-pela-gelada-com-debate-sobre-racismo-24550097)
-* ['Não temos que ser tolerados, mas sim, respeitados', diz Mãe Meninazinha de Oxum](https://oglobo.globo.com/celina/nao-temos-que-ser-tolerados-mas-sim-respeitados-diz-mae-meninazinha-de-oxum-24550005)
-* [Eleita uma das executivas da área jurídica mais admiradas do país, Ianda Lopes fala sobre os desafios do setor na pandemia](https://oglobo.globo.com/celina/eleita-uma-das-executivas-da-area-juridica-mais-admiradas-do-pais-ianda-lopes-fala-sobre-os-desafios-do-setor-na-pandemia-24549919)
 * [Na contramão da crise, a coragem de inaugurar uma loja ou expandir os negócios](https://oglobo.globo.com/rio/bairros/na-contramao-da-crise-coragem-de-inaugurar-uma-loja-ou-expandir-os-negocios-24549938)

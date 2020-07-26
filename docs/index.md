@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 05:34:19 UTC
+# indexed at 26/07/2020 06:14:40 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
-* [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
-* [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
+* [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [Dance is superior to repetitive physical exercise in brain plasticity: study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
+* [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
 * [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
 * [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
-* [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
+* [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
 * [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
-* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
+* [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
 * [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
 * [D.E. Shaw and how computer geeks and English majors transformed Wall St. (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Zucchinis linked to rare poisonings in England](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
-* [Building the ultimate home office again](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
-* [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
+* [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
 * [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
-* [Building an Offline Page for Theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
+* [Building the ultimate home office again](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [Novel 'on-off' switch discovered in plant defenses](https://phys.org/news/2020-07-on-off-defenses.html)
 * [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
+* [Novel 'on-off' switch discovered in plant defenses](https://phys.org/news/2020-07-on-off-defenses.html)
 * [Are “reversible” computers more energy efficient, faster? (2004)](https://www.eetimes.com/are-reversible-computers-more-energy-efficient-faster/)
 * [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
-* [Show HN: Spaced-repetition flashcards linked to your learning materials](https://www.iDoRecall.com/)
 * [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
-* [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
+* [Show HN: Spaced-repetition flashcards linked to your learning materials](https://www.iDoRecall.com/)
+* [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Sun Ra: ‘I’m Everything and Nothing’](https://www.nybooks.com/articles/2020/07/23/sun-ra-everything-nothing/)
+* [LSD Chemist William Pickard to Be Released from Prison](https://www.psymposia.com/magazine/william-leonard-pickard-lsd/)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Plane With Six Aboard Crashes Into Backyard in Utah City](https://www.nytimes.com/2020/07/25/us/plane-crash-west-jordan-utah.html)
 * [Congress Was Already Broken. The Coronavirus Could Make It Worse.](https://www.nytimes.com/2020/07/25/us/congress-broken-partisanship-coronavirus.html)
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports](https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html)
 * [Looking at Epic Poetry Through 21st-Century Eyes](https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html)
 * [‘Radioactive’ Review: Marie Curie and the Science of Autonomy](https://www.nytimes.com/2020/07/23/movies/radioactive-review.html)
@@ -91,6 +91,7 @@ layout: default
 * [Viking Age Smallpox Complicates Story of Viral Evolution](https://www.nytimes.com/2020/07/23/science/smallpox-vikings-genetics.html)
 * [How Ultra-Black Fish Disappear in the Deepest Seas](https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html)
 * [The Pleasure of Watching Charlize Theron Throw a Punch](https://www.nytimes.com/2020/07/23/movies/charlize-theron-old-guard.html)
+* [They Want Your Attention. Don’t Give It to Them.](https://www.nytimes.com/2020/07/23/opinion/cancel-culture.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

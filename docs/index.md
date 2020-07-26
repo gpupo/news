@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 15:13:08 UTC
+# indexed at 26/07/2020 15:35:10 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
+* [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
+* [Headphones are collecting too much personal data](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Young dolphins pick their friends wisely](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
-* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Topological magnet exhibits exotic quantum effects at room temperature](https://www.nature.com/articles/s41586-020-2482-7)
+* [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
-* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 * [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
+* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
 * [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
-* [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
+* [Bartosz Milewski – Basics of Haskell](https://github.com/raviksharma/bartosz-basics-of-haskell)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
-* [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
+* [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
-* [The Surprise AWS Bill Heard Far and Wide](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
+* [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
 * [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
-* [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
-* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
+* [Oak: A more portable alternative to C, powered by Brainfuck-inspired technology](https://github.com/adam-mcdaniel/oakc)
+* [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
 * [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
 * [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
-* [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
-* [Ask HN: What are you using new programming languages for?](https://news.ycombinator.com/item?id=23956851)
-* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
+* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [As the World Gets Tougher on China, Japan Tries to Thread a Needle](https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html)
 * [Don’t Ban TikTok. Make an Example of It.](https://www.nytimes.com/2020/07/26/technology/tiktok-china-ban-model.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -97,11 +97,11 @@ layout: default
 ## globo.com
 
 
+* [Egito e Romênia: os bailes funk que lotam em meio à pandemia](https://oglobo.globo.com/rio/egito-romenia-os-bailes-funk-que-lotam-em-meio-pandemia-24552056)
 * [Prefeitura de São Paulo decide que atividades culturais voltarão mais tarde, mesmo com liberação no estado](https://oglobo.globo.com/cultura/prefeitura-de-sao-paulo-decide-que-atividades-culturais-voltarao-mais-tarde-mesmo-com-liberacao-no-estado-24552121)
 * [GM faz recall de Celta e Chevrolet Classic por falha em airbag](https://oglobo.globo.com/economia/defesa-do-consumidor/gm-faz-recall-de-celta-chevrolet-classic-por-falha-em-airbag-24552096)
 * [CNJ não foi rígido com juiz que deu 'carteirada' e voz de prisão em aeroporto](https://oglobo.globo.com/sociedade/cnj-nao-foi-rigido-com-juiz-que-deu-carteirada-voz-de-prisao-em-aeroporto-24552111)
 * [Manhã de domingo com descumprimento de regras](https://oglobo.globo.com/rio/manha-de-domingo-com-descumprimento-de-regras-24552085)
-* [Egito e Romênia: os bailes funk que lotam em meio à pandemia](https://oglobo.globo.com/rio/egito-romenia-os-bailes-funk-que-lotam-em-meio-pandemia-24552056)
 * [Setor de comércio e serviços deve puxar a retomada econômica em Niterói](https://oglobo.globo.com/rio/bairros/setor-de-comercio-servicos-deve-puxar-retomada-economica-em-niteroi-1-24550615)
 * [Casos de Covid-19 no mundo passam de 16 milhões e Coreia do Norte se declara em alerta](https://oglobo.globo.com/mundo/casos-de-covid-19-no-mundo-passam-de-16-milhoes-coreia-do-norte-se-declara-em-alerta-24552071)
 * [Reportagem mostra avanço da pandemia sobre cidade do interior do Estado do Rio](https://oglobo.globo.com/meu-oglobo/reportagem-mostra-avanco-da-pandemia-sobre-cidade-do-interior-do-estado-do-rio-24552088)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 12:17:10 UTC
+# indexed at 26/07/2020 12:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -13,22 +13,20 @@ layout: default
 * [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
 * [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
-* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
 * [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
-* [If you’re not terrified about Facebook, you haven’t been paying attention](https://www.theguardian.com/commentisfree/2020/jul/26/with-facebook-we-are-already-through-the-looking-glass)
-* [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
-* [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
-* [No more religious exemptions: Montreal is taxing churches (2017)](https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164)
-* [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
+* [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
+* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
+* [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
+* [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
+* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
+* [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 * [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
 * [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
-* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
+* [No more religious exemptions: Montreal is taxing churches (2017)](https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164)
 * [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
-* [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
 * [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
-* [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 * [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
@@ -37,6 +35,8 @@ layout: default
 * [Re-Frame: Build web apps in ClojureScript and React](http://day8.github.io/re-frame/)
 * [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
 * [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
+* [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
+* [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [All Your Passwords Are Belong to FPGA](https://hackaday.com/2020/05/15/all-your-passwords-are-belong-to-fpga/)
 ## nytimes.com
 
@@ -77,11 +77,11 @@ layout: default
 * [Regis Philbin, TV’s Enduring Everyman, Dies at 88](https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html)
 * [As the World Gets Tougher on China, Japan Tries to Thread a Needle](https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html)
 * [Don’t Ban TikTok. Make an Example of It.](https://www.nytimes.com/2020/07/26/technology/tiktok-china-ban-model.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Rio volta a apresentar tendência de alta nas mortes por covid-19 após quase dois meses](https://oglobo.globo.com/sociedade/rio-volta-apresentar-tendencia-de-alta-nas-mortes-por-covid-19-apos-quase-dois-meses-24552029)
+* [Empresas abrem vagas para home office. Saiba como se preparar para a entrevista virtual](https://oglobo.globo.com/economia/empresas-abrem-vagas-para-home-office-saiba-como-se-preparar-para-entrevista-virtual-24551844)
 * [Uma boa ideia](https://oglobo.globo.com/ela/uma-boa-ideia-24552033)
 * [Um passado à frente](https://oglobo.globo.com/ela/um-passado-frente-24552031)
 * [Inalterável gerúndio](https://oglobo.globo.com/ela/inalteravel-gerundio-24552027)
-* [Empresas abrem vagas para home office. Saiba como se preparar para a entrevista virtual](https://oglobo.globo.com/economia/empresas-abrem-vagas-para-home-office-saiba-como-se-preparar-para-entrevista-virtual-24551844)
 * [Saiba como reabrem os espaços culturais no Rio; a previsão é 16 de agosto](https://oglobo.globo.com/rioshow/saiba-como-reabrem-os-espacos-culturais-no-rio-previsao-16-de-agosto-24547348)
 * ['Quantas meninas não denunciam por vergonha como minha filha?', diz pai de jovem que se matou após estupro](https://epoca.globo.com/sociedade/quantas-meninas-nao-denunciam-por-vergonha-como-minha-filha-diz-pai-de-jovem-que-se-matou-apos-estupro-24552009)
 * [Brasil tem 86 mil mortes e 2,3 milhões de infectados, mostra consórcio de veículos de imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-86-mil-mortes-23-milhoes-de-infectados-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-8h-1-24551994)
-* ['Ninguém aguenta brigas todos os dias', diz ministro das Comunicações a respeito de mudança de tom de Bolsonaro](https://oglobo.globo.com/brasil/ninguem-aguenta-brigas-todos-os-dias-diz-ministro-das-comunicacoes-respeito-de-mudanca-de-tom-de-bolsonaro-24551996)
 * [A peça preferida de Ariano Suassuna é reeditada](https://epoca.globo.com/guilherme-amado/a-peca-preferida-de-ariano-suassuna-reeditada-24551161)
 * [Coluna | Por que a imagem da mulher negra está no centro das eleições 2020](https://epoca.globo.com/colunistas/coluna-por-que-imagem-da-mulher-negra-esta-no-centro-das-eleicoes-2020-24549787)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 21:12:44 UTC
+# indexed at 26/07/2020 21:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -12,40 +12,40 @@ layout: default
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
+* [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
 * [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Facebook has blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
-* [Centuries-Old Paintings Help Researchers Track Food Evolution](https://www.smithsonianmag.com/smart-news/how-paintings-can-teach-us-about-evolution-food-180975381/)
+* [Centuries-old paintings help researchers track food evolution](https://www.smithsonianmag.com/smart-news/how-paintings-can-teach-us-about-evolution-food-180975381/)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 * [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
-* [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
 * [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
-* [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
+* [Remote work is not necessarily a good thing for the worker](https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/)
 * [The Silicon Factor (1980) [video]](https://clp.bbcrewind.co.uk/cd93f5ddfdc398b0c62e9e2456e0124a)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
+* [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
 * [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
-* [A new class of magnet that exhibits novel quantum effects](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
+* [Signing .jars is not worth the effort](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
 * [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
+* [A new class of magnet that exhibits novel quantum effects](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
 * [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
-* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
 * [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
-* [Publishing thousands of police discipline records that New York kept secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [Publishing thousands of police discipline records that New York kept secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
+* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
 * [Biologists Home in on Turing Patterns (2013)](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
-* [Environments: under the hood of variables – Deep JavaScript chapter](https://exploringjs.com/deep-js/ch_environments.html)
-* [The First Best Seller: Samuel Richardson’s Pamela](https://www.laphamsquarterly.org/roundtable/first-best-seller)
 ## nytimes.com
 
 
 * [Fires and Pepper Spray in Seattle as Police Protests Widen Across U.S.](https://www.nytimes.com/2020/07/25/us/protests-seattle-portland.html)
 * [Garrett Foster Brought His Gun to Austin Protests. Then He Was Shot Dead.](https://www.nytimes.com/2020/07/26/us/austin-shooting-texas-protests.html)
 * [Coronavirus in Texas: ‘You Do the Right Things, and Still You Get It’](https://www.nytimes.com/2020/07/26/us/coronavirus-family-houston-masks.html)
-* [The Coronavirus Turns Midtown Into a Ghost Town, Causing an Economic Crisis](https://www.nytimes.com/2020/07/26/nyregion/nyc-coronavirus-time-life-building.html)
 * [Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question](https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html)
+* [Trump Officials Float Idea of Narrow Bill to Extend Unemployment Benefits](https://www.nytimes.com/2020/07/26/us/politics/coronavirus-stimulus-bill-unemployment.html)
 * [Selma Helped Define John Lewis’s Life. In Death, He Returned One Last Time.](https://www.nytimes.com/2020/07/26/us/selma-john-lewis-memorial.html)
 * [From Alabama to the Capitol, the Journey to Honor John Lewis](https://www.nytimes.com/2020/07/25/us/photos-john-lewis-memorial.html)
 * [Robert E. Lee High in Virginia Will Be Renamed for John Lewis, District Says](https://www.nytimes.com/2020/07/24/us/robert-e-lee-high-school-john-lewis.html)
@@ -79,11 +79,10 @@ layout: default
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
 * [Sledding Athletes Are Taking Their Lives. Did Brain-Rattling Rides and High-Speed Crashes Damage Their Brains?](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Your Brother (or Sister or Mother) Is Asking for Money. Now What?](https://www.nytimes.com/2020/06/24/business/lending-money-to-family-coronavirus.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [A Virus Walks Into a Bar …](https://www.nytimes.com/2020/06/25/well/live/coronavirus-spread-bars-transmission.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -100,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Equipe de Guedes tem terceira baixa em menos de um mês](https://oglobo.globo.com/economia/equipe-de-guedes-tem-terceira-baixa-em-menos-de-um-mes-1-24552225)
-* [Champions League: veja a lista dos 24 classificados à fase de grupos da edição 2020/2021](https://oglobo.globo.com/esportes/champions-league-veja-lista-dos-24-classificados-fase-de-grupos-da-edicao-20202021-24552323)
 * [Live do grupo de pagode 'Aglomerou' é interrompida por operação da Polícia Civil em Angra dos Reis; vídeo](https://oglobo.globo.com/rio/live-do-grupo-de-pagode-aglomerou-interrompida-por-operacao-da-policia-civil-em-angra-dos-reis-video-24552393)
+* [Equipe de Guedes tem terceira baixa em menos de um mês](https://oglobo.globo.com/economia/equipe-de-guedes-tem-terceira-baixa-em-menos-de-um-mes-1-24552225)
+* [SP chega a 21.606 mortes por Covid-19](https://oglobo.globo.com/sociedade/sp-chega-21606-mortes-por-covid-19-24552370)
+* [Champions League: veja a lista dos 24 classificados à fase de grupos da edição 2020/2021](https://oglobo.globo.com/esportes/champions-league-veja-lista-dos-24-classificados-fase-de-grupos-da-edicao-20202021-24552323)
 * [Tribunal de Justiça libera tramitação de projeto que prevê mudanças urbanísticas durante a pandemia de Covid-19](https://oglobo.globo.com/rio/tribunal-de-justica-libera-tramitacao-de-projeto-que-preve-mudancas-urbanisticas-durante-pandemia-de-covid-19-24552199)
 * [Moradores da Rua Umari, em Laranjeiras, se juntam para transmitir lives das varandas](https://oglobo.globo.com/rio/moradores-da-rua-umari-em-laranjeiras-se-juntam-para-transmitir-lives-das-varandas-24552154)
 * [Cortejo de homenagem a John Lewis passa por emblemática ponte em Selma, símbolo da luta pelos direitos civis nos EUA](https://oglobo.globo.com/mundo/cortejo-de-homenagem-john-lewis-passa-por-emblematica-ponte-em-selma-simbolo-da-luta-pelos-direitos-civis-nos-eua-24552373)
 * [Morre Olivia de Havilland, de 'E o vento levou', aos 104 anos](https://oglobo.globo.com/cultura/morre-olivia-de-havilland-de-o-vento-levou-aos-104-anos-24552216)
-* [SP chega a 21.606 mortes por Covid-19](https://oglobo.globo.com/sociedade/sp-chega-21606-mortes-por-covid-19-24552370)
 * [Colunistas e convidados abordam em lives do GLOBO temas mais urgentes da atualidade](https://oglobo.globo.com/95-anos/colunistas-convidados-abordam-em-lives-do-globo-temas-mais-urgentes-da-atualidade-24552279)
 * [Nos 95 anos do GLOBO, reflexões sobre o futuro](https://oglobo.globo.com/95-anos/nos-95-anos-do-globo-reflexoes-sobre-futuro-24552278)

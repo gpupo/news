@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 14:34:52 UTC
+# indexed at 26/07/2020 15:13:08 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
-* [The Surprise AWS Bill Heard Far and Wide](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
-* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
-* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
+* [Young dolphins pick their friends wisely](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
+* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Topological magnet exhibits exotic quantum effects at room temperature](https://www.nature.com/articles/s41586-020-2482-7)
-* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 * [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
-* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
+* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
 * [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
-* [Young dolphins pick their friends wisely](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
+* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
 * [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
-* [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
 * [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
+* [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
 * [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
-* [Infographic: Why should we wear face masks? Transmission Rate vs. Infection Risk](https://askabout.io/covid-19/ask/why-should-most-people-wear-masks/)
-* [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
-* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
-* [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
-* [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
-* [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
-* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
-* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
-* [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
 * [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [The Surprise AWS Bill Heard Far and Wide](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
+* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
+* [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
+* [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
+* [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
+* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
+* [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
+* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
+* [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
+* [Ask HN: What are you using new programming languages for?](https://news.ycombinator.com/item?id=23956851)
 * [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 ## nytimes.com
 
 
 * [Fires and Pepper Spray in Seattle as Police Protests Widen Across U.S.](https://www.nytimes.com/2020/07/25/us/protests-seattle-portland.html)
-* [‘You Do the Right Things, and Still You Get It’](https://www.nytimes.com/2020/07/26/us/coronavirus-family-houston-masks.html)
+* [Coronavirus in Texas: ‘You Do the Right Things, and Still You Get It’](https://www.nytimes.com/2020/07/26/us/coronavirus-family-houston-masks.html)
 * [The Coronavirus Turns Midtown Into a Ghost Town, Causing an Economic Crisis](https://www.nytimes.com/2020/07/26/nyregion/nyc-coronavirus-time-life-building.html)
 * [Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question](https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html)
 * [Disability Pride: The High Expectations of a New Generation](https://www.nytimes.com/2020/07/17/style/americans-with-disabilities-act.html)
@@ -77,10 +77,10 @@ layout: default
 * [Regis Philbin, TV’s Enduring Everyman, Dies at 88](https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html)
 * [As the World Gets Tougher on China, Japan Tries to Thread a Needle](https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html)
 * [Don’t Ban TikTok. Make an Example of It.](https://www.nytimes.com/2020/07/26/technology/tiktok-china-ban-model.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Prefeitura de São Paulo decide que atividades culturais voltarão mais tarde, mesmo com liberação no estado](https://oglobo.globo.com/cultura/prefeitura-de-sao-paulo-decide-que-atividades-culturais-voltarao-mais-tarde-mesmo-com-liberacao-no-estado-24552121)
+* [GM faz recall de Celta e Chevrolet Classic por falha em airbag](https://oglobo.globo.com/economia/defesa-do-consumidor/gm-faz-recall-de-celta-chevrolet-classic-por-falha-em-airbag-24552096)
+* [CNJ não foi rígido com juiz que deu 'carteirada' e voz de prisão em aeroporto](https://oglobo.globo.com/sociedade/cnj-nao-foi-rigido-com-juiz-que-deu-carteirada-voz-de-prisao-em-aeroporto-24552111)
 * [Manhã de domingo com descumprimento de regras](https://oglobo.globo.com/rio/manha-de-domingo-com-descumprimento-de-regras-24552085)
+* [Egito e Romênia: os bailes funk que lotam em meio à pandemia](https://oglobo.globo.com/rio/egito-romenia-os-bailes-funk-que-lotam-em-meio-pandemia-24552056)
 * [Setor de comércio e serviços deve puxar a retomada econômica em Niterói](https://oglobo.globo.com/rio/bairros/setor-de-comercio-servicos-deve-puxar-retomada-economica-em-niteroi-1-24550615)
 * [Casos de Covid-19 no mundo passam de 16 milhões e Coreia do Norte se declara em alerta](https://oglobo.globo.com/mundo/casos-de-covid-19-no-mundo-passam-de-16-milhoes-coreia-do-norte-se-declara-em-alerta-24552071)
 * [Reportagem mostra avanço da pandemia sobre cidade do interior do Estado do Rio](https://oglobo.globo.com/meu-oglobo/reportagem-mostra-avanco-da-pandemia-sobre-cidade-do-interior-do-estado-do-rio-24552088)
 * [Eleição nos EUA: situação de Trump é mais difícil do que a cem dias da votação em 2016](https://oglobo.globo.com/mundo/eleicao-nos-eua-situacao-de-trump-mais-dificil-do-que-cem-dias-da-votacao-em-2016-24552082)
-* [Cresce procura por apartamento 'garden', novo nome para o velho térreo com jardim](https://oglobo.globo.com/economia/cresce-procura-por-apartamento-garden-novo-nome-para-velho-terreo-com-jardim-1-24551846)
-* [Egito e Romênia: os bailes funk que lotam em meio à pandemia](https://oglobo.globo.com/rio/egito-romenia-os-bailes-funk-que-lotam-em-meio-pandemia-24552056)
-* [Rio volta a apresentar tendência de alta nas mortes por Covid-19 após quase dois meses](https://oglobo.globo.com/sociedade/rio-volta-apresentar-tendencia-de-alta-nas-mortes-por-covid-19-apos-quase-dois-meses-24552029)
-* [A peça preferida de Ariano Suassuna é reeditada](https://epoca.globo.com/guilherme-amado/a-peca-preferida-de-ariano-suassuna-reeditada-24551161)
-* [Coluna | Por que a imagem da mulher negra está no centro das eleições 2020](https://epoca.globo.com/colunistas/coluna-por-que-imagem-da-mulher-negra-esta-no-centro-das-eleicoes-2020-24549787)
+* [Nove meses depois, por que Lula ainda está menor do que quando entrou na prisão](https://epoca.globo.com/guilherme-amado/nove-meses-depois-por-que-lula-ainda-esta-menor-do-que-quando-entrou-na-prisao-24538990)

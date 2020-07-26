@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 14:14:08 UTC
+# indexed at 26/07/2020 14:34:52 UTC
 
 
 ## news.ycombinator.com
 
 
-* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
 * [The Surprise AWS Bill Heard Far and Wide](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
+* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
+* [Topological magnet exhibits exotic quantum effects at room temperature](https://www.nature.com/articles/s41586-020-2482-7)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 * [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
-* [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
 * [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
-* [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
+* [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
+* [Young dolphins pick their friends wisely](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
+* [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
-* [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
+* [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
 * [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
-* [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
+* [Infographic: Why should we wear face masks? Transmission Rate vs. Infection Risk](https://askabout.io/covid-19/ask/why-should-most-people-wear-masks/)
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
 * [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
-* [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
 * [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
-* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
-* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
 * [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
-* [Infographic: Why should we wear face masks? Transmission Rate vs. Infection Risk](https://askabout.io/covid-19/ask/why-should-most-people-wear-masks/)
-* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
-* [Who’s sharing my data, and who the hell is Dave M. Rogenmoser?](https://blog.gingerlime.com/2020/whos-sharing-my-data-and-who-the-hell-is-dave-m-rogenmoser/)
+* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
+* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
+* [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
+* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
-* [Dance is superior to repetitive physical exercise for brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
-* [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
+* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 ## nytimes.com
 
 
@@ -49,10 +49,10 @@ layout: default
 * [After #OscarsSoWhite, Disability Waits for Its Moment](https://www.nytimes.com/2020/07/19/arts/after-oscarssowhite-disability-waits-for-its-moment.html)
 * [John Lewis, Son of Alabama, Makes His Last Journey Home](https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html)
 * [From Alabama to the Capitol, the Journey to Honor John Lewis](https://www.nytimes.com/2020/07/25/us/photos-john-lewis-memorial.html)
-* [](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
+* [Sledding Athletes Are Taking Their Lives. Did Brain-Rattling Rides and High-Speed Crashes Damage Their Brains?](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html)
 * [Coronavirus, Hurricane Hanna, Regis Philbin: Your Weekend Briefing](https://www.nytimes.com/2020/07/26/briefing/coronavirus-hurricane-hanna-regis-philbin.html)
-* [The Battle for a Baseball Season](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
+* [The Sunday Read: ‘The Accusation’](https://www.nytimes.com/2020/07/26/podcasts/the-daily/the-accusation-the-sunday-read.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [Reopening Schools Is Way Harder Than It Should Be](https://www.nytimes.com/2020/07/23/sunday-review/reopening-schools-coronavirus.html)
@@ -77,11 +77,11 @@ layout: default
 * [Regis Philbin, TV’s Enduring Everyman, Dies at 88](https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html)
 * [As the World Gets Tougher on China, Japan Tries to Thread a Needle](https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html)
 * [Don’t Ban TikTok. Make an Example of It.](https://www.nytimes.com/2020/07/26/technology/tiktok-china-ban-model.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -98,11 +98,11 @@ layout: default
 
 
 * [Manhã de domingo com descumprimento de regras](https://oglobo.globo.com/rio/manha-de-domingo-com-descumprimento-de-regras-24552085)
+* [Setor de comércio e serviços deve puxar a retomada econômica em Niterói](https://oglobo.globo.com/rio/bairros/setor-de-comercio-servicos-deve-puxar-retomada-economica-em-niteroi-1-24550615)
 * [Casos de Covid-19 no mundo passam de 16 milhões e Coreia do Norte se declara em alerta](https://oglobo.globo.com/mundo/casos-de-covid-19-no-mundo-passam-de-16-milhoes-coreia-do-norte-se-declara-em-alerta-24552071)
 * [Reportagem mostra avanço da pandemia sobre cidade do interior do Estado do Rio](https://oglobo.globo.com/meu-oglobo/reportagem-mostra-avanco-da-pandemia-sobre-cidade-do-interior-do-estado-do-rio-24552088)
 * [Eleição nos EUA: situação de Trump é mais difícil do que a cem dias da votação em 2016](https://oglobo.globo.com/mundo/eleicao-nos-eua-situacao-de-trump-mais-dificil-do-que-cem-dias-da-votacao-em-2016-24552082)
 * [Cresce procura por apartamento 'garden', novo nome para o velho térreo com jardim](https://oglobo.globo.com/economia/cresce-procura-por-apartamento-garden-novo-nome-para-velho-terreo-com-jardim-1-24551846)
-* [Empresas abrem vagas para home office. Saiba como se preparar para a entrevista virtual](https://oglobo.globo.com/economia/empresas-abrem-vagas-para-home-office-saiba-como-se-preparar-para-entrevista-virtual-24551844)
 * [Egito e Romênia: os bailes funk que lotam em meio à pandemia](https://oglobo.globo.com/rio/egito-romenia-os-bailes-funk-que-lotam-em-meio-pandemia-24552056)
 * [Rio volta a apresentar tendência de alta nas mortes por Covid-19 após quase dois meses](https://oglobo.globo.com/sociedade/rio-volta-apresentar-tendencia-de-alta-nas-mortes-por-covid-19-apos-quase-dois-meses-24552029)
 * [A peça preferida de Ariano Suassuna é reeditada](https://epoca.globo.com/guilherme-amado/a-peca-preferida-de-ariano-suassuna-reeditada-24551161)

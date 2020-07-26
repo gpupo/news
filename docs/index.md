@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 16:13:58 UTC
+# indexed at 26/07/2020 16:35:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
-* [Headphones are collecting too much personal data](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Bartosz Milewski’s Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
-* [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [Young dolphins pick their friends wisely](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
-* [Topological magnet exhibits exotic quantum effects at room temperature](https://www.nature.com/articles/s41586-020-2482-7)
+* [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
+* [Topological magnet exhibits exotic quantum effects at room temperature](https://www.nature.com/articles/s41586-020-2482-7)
+* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
 * [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
+* [We’re Publishing Thousands of Police Discipline Records New York Kept Secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
 * [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
-* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
 * [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
-* [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
-* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
-* [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
+* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
+* [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
-* [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
+* [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
 * [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
+* [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
 * [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
-* [We’re Publishing Thousands of Police Discipline Records New York Kept Secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
-* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
-* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
-* [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
+* [Oak: A more portable alternative to C, powered by Brainfuck-inspired technology](https://github.com/adam-mcdaniel/oakc)
+* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [As the World Gets Tougher on China, Japan Tries to Thread a Needle](https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html)
 * [Don’t Ban TikTok. Make an Example of It.](https://www.nytimes.com/2020/07/26/technology/tiktok-china-ban-model.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -98,11 +98,11 @@ layout: default
 ## globo.com
 
 
-* [Prefeitura de São Paulo decide que atividades culturais voltarão mais tarde, mesmo com liberação no estado](https://oglobo.globo.com/cultura/prefeitura-de-sao-paulo-decide-que-atividades-culturais-voltarao-mais-tarde-mesmo-com-liberacao-no-estado-1-24552121)
+* [GM faz recall de Celta e Chevrolet Classic por falha em airbag](https://oglobo.globo.com/economia/defesa-do-consumidor/gm-faz-recall-de-celta-chevrolet-classic-por-falha-em-airbag-1-24552096)
 * [Brasil ultrapassa 2,4 milhões de infectados por Covid-19, mostra consórcio de veículos de imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-24-milhoes-de-infectados-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-13h-1-24552137)
-* [Isolamento reduziu taxa de transmissão do coronavírus no Brasil de três para 1,6, diz estudo](https://oglobo.globo.com/sociedade/isolamento-reduziu-taxa-de-transmissao-do-coronavirus-no-brasil-de-tres-para-16-diz-estudo-24552161)
+* [Isolamento reduziu taxa de transmissão do coronavírus no Brasil pela metade, diz estudo](https://oglobo.globo.com/sociedade/isolamento-reduziu-taxa-de-transmissao-do-coronavirus-no-brasil-pela-metade-diz-estudo-24552161)
+* [Prefeitura de São Paulo decide que atividades culturais voltarão mais tarde, mesmo com liberação no estado](https://oglobo.globo.com/cultura/prefeitura-de-sao-paulo-decide-que-atividades-culturais-voltarao-mais-tarde-mesmo-com-liberacao-no-estado-1-24552121)
 * [Bolsonaristas fazem 'êxodo' na internet para tentar driblar ordem do STF](https://oglobo.globo.com/brasil/bolsonaristas-fazem-exodo-na-internet-para-tentar-driblar-ordem-do-stf-24552143)
-* [GM faz recall de Celta e Chevrolet Classic por falha em airbag](https://oglobo.globo.com/economia/defesa-do-consumidor/gm-faz-recall-de-celta-chevrolet-classic-por-falha-em-airbag-24552096)
 * [CNJ não foi rígido com juiz que deu 'carteirada' e voz de prisão em aeroporto](https://oglobo.globo.com/sociedade/cnj-nao-foi-rigido-com-juiz-que-deu-carteirada-voz-de-prisao-em-aeroporto-24552111)
 * [Manhã de domingo com descumprimento de regras](https://oglobo.globo.com/rio/manha-de-domingo-com-descumprimento-de-regras-24552085)
 * [Setor de comércio e serviços deve puxar a retomada econômica em Niterói](https://oglobo.globo.com/rio/bairros/setor-de-comercio-servicos-deve-puxar-retomada-economica-em-niteroi-1-24550615)

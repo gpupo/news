@@ -2,32 +2,34 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 09:37:03 UTC
+# indexed at 26/07/2020 10:13:26 UTC
 
 
 ## news.ycombinator.com
 
 
 * [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
+* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
 * [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
+* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
 * [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
-* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
-* [No more religious exemptions: Montreal is taxing churches (2017)](https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164)
-* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
 * [“Irregardless” is part of a penumbra of unorthodox English words](https://www.economist.com/books-and-arts/2020/07/25/the-shadowlands-of-language)
-* [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
+* [No more religious exemptions: Montreal is taxing churches (2017)](https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164)
 * [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
 * [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
+* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
+* [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
-* [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
+* [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
+* [All Your Passwords Are Belong to FPGA](https://hackaday.com/2020/05/15/all-your-passwords-are-belong-to-fpga/)
 * [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
-* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 * [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
+* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 * [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
 * [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
 * [An origin story for a family of oddball meteorites](https://phys.org/news/2020-07-story-family-oddball-meteorites.html)
@@ -36,8 +38,6 @@ layout: default
 * [Zucchinis linked to rare poisonings in England](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [Ask HN: Is it possible to get PhD without completing bachelors](https://news.ycombinator.com/item?id=23955493)
-* [All Your Passwords Are Belong to FPGA](https://hackaday.com/2020/05/15/all-your-passwords-are-belong-to-fpga/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Small Plane Crashes Into Backyard in Utah City, Killing 3](https://www.nytimes.com/2020/07/25/us/plane-crash-west-jordan-utah.html)
 * [Congress Was Already Broken. The Coronavirus Could Make It Worse.](https://www.nytimes.com/2020/07/25/us/congress-broken-partisanship-coronavirus.html)
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports](https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html)
 * [Looking at Epic Poetry Through 21st-Century Eyes](https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html)
 * [‘Radioactive’ Review: Marie Curie and the Science of Autonomy](https://www.nytimes.com/2020/07/23/movies/radioactive-review.html)
@@ -99,12 +99,12 @@ layout: default
 
 
 * [A insegurança jurídica de se fazer cinema no Brasil](https://oglobo.globo.com/cultura/filmes/a-inseguranca-juridica-de-se-fazer-cinema-no-brasil-24551800)
-* [Covid-19 avança pelo Estado do Rio e aflige até as áreas rurais](https://oglobo.globo.com/rio/covid-19-avanca-pelo-estado-do-rio-aflige-ate-as-areas-rurais-24551787)
+* [Após transplantede medula, paciente comemora aniversário de casamento no hospital](https://oglobo.globo.com/rio/bairros/apos-transplantede-medula-paciente-comemora-aniversario-de-casamento-no-hospital-1-24550363)
 * [De volta após paralisação, times podem jogar a cada 3,4 dias até fim de 2021](https://oglobo.globo.com/esportes/de-volta-apos-paralisacao-times-podem-jogar-cada-34-dias-ate-fim-de-2021-24551877)
 * [Marcelo Barreto: Jogos Olímpicos se tornaram a esperança de que o esporte vença o novo normal](https://oglobo.globo.com/esportes/marcelo-barreto-jogos-olimpicos-se-tornaram-esperanca-de-que-esporte-venca-novo-normal-24551854)
 * [Ponto Cine transmite peça de teatro para enfrentar crise financeira](https://oglobo.globo.com/rioshow/ponto-cine-transmite-peca-de-teatro-para-enfrentar-crise-financeira-24546547)
 * [Psicanalistas explicam por que algumas pessoas resistem a obedecer regras sanitárias contra a Covid-19](https://oglobo.globo.com/sociedade/psicanalistas-explicam-por-que-algumas-pessoas-resistem-obedecer-regras-sanitarias-contra-covid-19-24551247)
-* [Veja como funciona o Colégio Eleitoral nos EUA](https://oglobo.globo.com/mundo/veja-como-funciona-colegio-eleitoral-nos-eua-24551163)
 * [Veja quais são os riscos de contaminação pelo novo coronavírus em 15 atividades do dia a dia](https://oglobo.globo.com/sociedade/veja-quais-sao-os-riscos-de-contaminacao-pelo-novo-coronavirus-em-15-atividades-do-dia-dia-24551008)
 * [Ministério do Turismo planeja liberar cassinos no Brasil até 2023](https://epoca.globo.com/guilherme-amado/ministerio-do-turismo-planeja-liberar-cassinos-no-brasil-ate-2023-1-24551036)
 * [Secretaria da Cultura desativa escritórios regionais que operacionalizavam Lei Rouanet](https://epoca.globo.com/guilherme-amado/secretaria-da-cultura-desativa-escritorios-regionais-que-operacionalizavam-lei-rouanet-1-24551055)
+* [Cozinhas maiores e espaço para trabalhar: setor imobiliário encontra cliente com exigências diferentes na retomada](https://oglobo.globo.com/rio/bairros/cozinhas-maiores-espaco-para-trabalhar-setor-imobiliario-encontra-cliente-com-exigencias-diferentes-na-retomada-24547602)

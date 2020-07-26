@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 18:13:57 UTC
+# indexed at 26/07/2020 18:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
+* [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
 * [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
-* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-* [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
-* [Topological magnet exhibits exotic quantum effects at room temperature](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
-* [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
+* [Signing .jars is not worth the effort](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
-* [We’re Publishing Thousands of Police Discipline Records New York Kept Secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
-* [Signing .jars Is Worthless](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
-* [ToaruOS: A Hobby Operating System](http://toaruos.org/)
-* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [A new class of magnet that exhibits novel quantum effects](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
 * [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
+* [ToaruOS: A Hobby Operating System](http://toaruos.org/)
+* [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
+* [Publishing thousands of police discipline records that New York kept secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
+* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
 * [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
 * [Juvenile social dynamics reflect adult reproductive strategies in dolphins](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
-* [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
-* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
-* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
+* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
+* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
+* [Oak: A more portable alternative to C, powered by Brainfuck-inspired technology](https://github.com/adam-mcdaniel/oakc)
+* [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
 * [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
-* [Oak: A more portable alternative to C, powered by Brainfuck-inspired technology](https://github.com/adam-mcdaniel/oakc)
+* [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 ## nytimes.com
 
 
@@ -77,10 +77,10 @@ layout: default
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
 * [What Are Pandemic School Pods?](https://www.nytimes.com/2020/07/22/parenting/school-pods-coronavirus.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Equipe de Guedes tem terceira baixa em menos de um mês](https://oglobo.globo.com/economia/equipe-de-guedes-tem-terceira-baixa-em-menos-de-um-mes-24552225)
-* [Moro diz que sua presença no governo Bolsonaro foi usada como desculpa para demonstrar supostos avanços na agenda anticorrupção](https://oglobo.globo.com/brasil/moro-diz-que-sua-presenca-no-governo-bolsonaro-foi-usada-como-desculpa-para-demonstrar-supostos-avancos-na-agenda-anticorrupcao-24552220)
+* [Morre Olivia de Havilland, de 'E o vento levou', aos 104 anos](https://oglobo.globo.com/cultura/morre-olivia-de-havilland-de-o-vento-levou-aos-104-anos-24552216)
+* [Isolamento reduziu taxa de transmissão do coronavírus no Brasil pela metade, diz estudo](https://oglobo.globo.com/sociedade/isolamento-reduziu-taxa-de-transmissao-do-coronavirus-no-brasil-pela-metade-diz-estudo-24552161)
+* [Equipe de Guedes tem terceira baixa em menos de um mês](https://oglobo.globo.com/economia/equipe-de-guedes-tem-terceira-baixa-em-menos-de-um-mes-1-24552225)
+* [Moro diz que sua presença no governo Bolsonaro foi usada como desculpa para demonstrar supostos avanços na agenda anticorrupção](https://oglobo.globo.com/brasil/moro-diz-que-sua-presenca-no-governo-bolsonaro-foi-usada-como-desculpa-para-demonstrar-supostos-avancos-na-agenda-anticorrupcao-1-24552220)
 * [Liverpool encerra campanha vitoriosa com goleada; Chelsea e United confirmam vaga na Champions](https://oglobo.globo.com/esportes/liverpool-encerra-campanha-vitoriosa-com-goleada-chelsea-united-confirmam-vaga-na-champions-24552196)
 * [PRF apreende guincho com 2 carros e 50 kg de pasta base de cocaína escondidos em ração animal](https://oglobo.globo.com/rio/prf-apreende-guincho-com-2-carros-50-kg-de-pasta-base-de-cocaina-escondidos-em-racao-animal-24552213)
 * [Protestos contra racismo e violência policial se espalham pelos EUA](https://oglobo.globo.com/mundo/protestos-contra-racismo-violencia-policial-se-espalham-pelos-eua-24552167)
 * [Festa de réveillon no Rio terá formato diferente ainda a ser definido, garante prefeitura](https://oglobo.globo.com/rio/festa-de-reveillon-no-rio-tera-formato-diferente-ainda-ser-definido-garante-prefeitura-24552184)
 * [Flores, chocolate e vídeos no Dia dos Avós à distância](https://oglobo.globo.com/rio/flores-chocolate-videos-no-dia-dos-avos-distancia-24552151)
 * [Voluntário confessa ser autor do incêndio da catedral francesa de Nantes](https://oglobo.globo.com/mundo/voluntario-confessa-ser-autor-do-incendio-da-catedral-francesa-de-nantes-1-24552188)
-* [Brasil ultrapassa 2,4 milhões de infectados por Covid-19, mostra consórcio de veículos de imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-24-milhoes-de-infectados-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-13h-1-24552137)
-* [Isolamento reduziu taxa de transmissão do coronavírus no Brasil pela metade, diz estudo](https://oglobo.globo.com/sociedade/isolamento-reduziu-taxa-de-transmissao-do-coronavirus-no-brasil-pela-metade-diz-estudo-24552161)

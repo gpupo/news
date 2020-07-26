@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 08:35:10 UTC
+# indexed at 26/07/2020 09:12:57 UTC
 
 
 ## news.ycombinator.com
 
 
-* [No more religious exemptions: Montreal is taxing churches (2017)](https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164)
 * [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
-* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
-* [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
-* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
+* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
+* [No more religious exemptions: Montreal is taxing churches (2017)](https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
+* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
+* [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
 * [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
+* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
 * [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
-* [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
 * [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
 * [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
-* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
+* [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 * [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
+* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 * [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
 * [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
 * [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 * [Re-Frame: Build web apps in ClojureScript and React](http://day8.github.io/re-frame/)
-* [D.E. Shaw and how computer geeks and English majors transformed Wall St. (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Dance is superior to repetitive physical exercise in brain plasticity: study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [Zucchinis linked to rare poisonings in England](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
+* [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
-* [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
+* [An origin story for a family of oddball meteorites](https://phys.org/news/2020-07-story-family-oddball-meteorites.html)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
-* [Novel 'on-off' switch discovered in plant defenses](https://phys.org/news/2020-07-on-off-defenses.html)
-* [Show HN: Spaced-repetition flashcards linked to your learning materials](https://www.iDoRecall.com/)
-* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
 * [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
-* [Are “reversible” computers more energy efficient, faster? (2004)](https://www.eetimes.com/are-reversible-computers-more-energy-efficient-faster/)
+* [Novel 'on-off' switch discovered in plant defenses](https://phys.org/news/2020-07-on-off-defenses.html)
+* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
 ## nytimes.com
 
 
@@ -51,6 +51,7 @@ layout: default
 * [John Lewis, Son of Alabama, Makes His Last Journey Home](https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html)
 * [Will Trump’s Abrupt Shift on Coronavirus Re-energize His Campaign?](https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html)
+* [Coronavirus, Hurricane Hanna, Regis Philbin: Your Weekend Briefing](https://www.nytimes.com/2020/07/26/briefing/coronavirus-hurricane-hanna-regis-philbin.html)
 * [The Battle for a Baseball Season](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
@@ -77,10 +78,10 @@ layout: default
 * [Congress Was Already Broken. The Coronavirus Could Make It Worse.](https://www.nytimes.com/2020/07/25/us/congress-broken-partisanship-coronavirus.html)
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports](https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html)
 * [Looking at Epic Poetry Through 21st-Century Eyes](https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html)
 * [‘Radioactive’ Review: Marie Curie and the Science of Autonomy](https://www.nytimes.com/2020/07/23/movies/radioactive-review.html)
@@ -100,10 +101,10 @@ layout: default
 * [A insegurança jurídica de se fazer cinema no Brasil](https://oglobo.globo.com/cultura/filmes/a-inseguranca-juridica-de-se-fazer-cinema-no-brasil-24551800)
 * [Covid-19 avança pelo Estado do Rio e aflige até as áreas rurais](https://oglobo.globo.com/rio/covid-19-avanca-pelo-estado-do-rio-aflige-ate-as-areas-rurais-24551787)
 * [De volta após paralisação, times podem jogar a cada 3,4 dias até fim de 2021](https://oglobo.globo.com/esportes/de-volta-apos-paralisacao-times-podem-jogar-cada-34-dias-ate-fim-de-2021-24551877)
-* [PM leva menos tempo para atender chamados na Zona Sul](https://oglobo.globo.com/rio/pm-leva-menos-tempo-para-atender-chamados-na-zona-sul-24551901)
 * [Marcelo Barreto: Jogos Olímpicos se tornaram a esperança de que o esporte vença o novo normal](https://oglobo.globo.com/esportes/marcelo-barreto-jogos-olimpicos-se-tornaram-esperanca-de-que-esporte-venca-novo-normal-24551854)
 * [Ponto Cine transmite peça de teatro para enfrentar crise financeira](https://oglobo.globo.com/rioshow/ponto-cine-transmite-peca-de-teatro-para-enfrentar-crise-financeira-24546547)
 * [Psicanalistas explicam por que algumas pessoas resistem a obedecer regras sanitárias contra a Covid-19](https://oglobo.globo.com/sociedade/psicanalistas-explicam-por-que-algumas-pessoas-resistem-obedecer-regras-sanitarias-contra-covid-19-24551247)
 * [Coronavírus se espalha pelo interior do Rio, onde capacidade limitada de atendimento médico preocupa](https://oglobo.globo.com/rio/coronavirus-se-espalha-pelo-interior-do-rio-onde-capacidade-limitada-de-atendimento-medico-preocupa-24551780)
 * [Enquete GDA: latino-americanos têm priorizado informações confiáveis sobre a pandemia](https://oglobo.globo.com/mundo/enquete-gda-latino-americanos-tem-priorizado-informacoes-confiaveis-sobre-pandemia-24550871)
 * [Veja como funciona o Colégio Eleitoral nos EUA](https://oglobo.globo.com/mundo/veja-como-funciona-colegio-eleitoral-nos-eua-24551163)
+* [Veja quais são os riscos de contaminação pelo novo coronavírus em 15 atividades do dia a dia](https://oglobo.globo.com/sociedade/veja-quais-sao-os-riscos-de-contaminacao-pelo-novo-coronavirus-em-15-atividades-do-dia-dia-24551008)

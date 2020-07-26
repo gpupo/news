@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 13:12:38 UTC
+# indexed at 26/07/2020 13:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -19,31 +19,31 @@ layout: default
 * [Founder-Investor Fit](https://nbt.substack.com/p/founder-investor-fit)
 * [Oak: An infinitely portable language powered by brainf*% inspired technology](https://github.com/adam-mcdaniel/oakc)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
-* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
-* [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
 * [Running DOS Apps on Windows](https://gekk.info/articles/dosapps.html)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 * [“The Far Side” Returns to a Weird World](https://www.newyorker.com/culture/culture-desk/the-far-side-returns-to-a-weird-world)
-* [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
+* [Show HN: Open-source isolated browser, free for journalists etc.](https://github.com/dosyago/BrowserGap)
+* [Ice-forth: A self-hosted Forth on the 6502 for creating NES cartridges](https://github.com/RussellSprouts/ice-forth)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
-* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
-* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
+* [Who’s sharing my data, and who the hell is Dave M. Rogenmoser?](https://blog.gingerlime.com/2020/whos-sharing-my-data-and-who-the-hell-is-dave-m-rogenmoser/)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
-* [Who’s sharing my data? and who the hell is Dave M. Rogenmoser?](https://blog.gingerlime.com/2020/whos-sharing-my-data-and-who-the-hell-is-dave-m-rogenmoser/)
-* [German police can access any WhatsApp message without any malware](https://androidrookies.com/german-police-can-access-any-whatsapp-message-without-any-malware/)
+* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [Dance is superior to repetitive physical exercise for brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [Doing stupid stuff with GitHub Actions](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
-* [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
-* [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
-* [Re-Frame: Build web apps in ClojureScript and React](http://day8.github.io/re-frame/)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
+* [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
+* [Re-Frame: Build web apps in ClojureScript and React](http://day8.github.io/re-frame/)
+* [All Your Passwords Are Belong to FPGA](https://hackaday.com/2020/05/15/all-your-passwords-are-belong-to-fpga/)
+* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
+* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
 ## nytimes.com
 
 
 * [Fires and Pepper Spray in Seattle as Police Protests Widen Across U.S.](https://www.nytimes.com/2020/07/25/us/protests-seattle-portland.html)
 * [‘You Do the Right Things, and Still You Get It’](https://www.nytimes.com/2020/07/26/us/coronavirus-family-houston-masks.html)
-* [Empty Towers, No Power Lunches: Ghostly Midtown Is Omen for N.Y.C.](https://www.nytimes.com/2020/07/26/nyregion/nyc-coronavirus-time-life-building.html)
+* [The Virus Turns Midtown Into a Ghost Town, Causing an Economic Crisis](https://www.nytimes.com/2020/07/26/nyregion/nyc-coronavirus-time-life-building.html)
 * [Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question](https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html)
 * [Disability Pride: The High Expectations of a New Generation](https://www.nytimes.com/2020/07/17/style/americans-with-disabilities-act.html)
 * [After #OscarsSoWhite, Disability Waits for Its Moment](https://www.nytimes.com/2020/07/19/arts/after-oscarssowhite-disability-waits-for-its-moment.html)
@@ -97,4 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Casos de covid-19 no mundo passam de 16 milhões e Coreia do Norte se declara em alerta](https://oglobo.globo.com/mundo/casos-de-covid-19-no-mundo-passam-de-16-milhoes-coreia-do-norte-se-declara-em-alerta-24552071)
+* [Cresce procura por apartamento 'garden', novo nome para o velho térreo com jardim](https://oglobo.globo.com/economia/cresce-procura-por-apartamento-garden-novo-nome-para-velho-terreo-com-jardim-1-24551846)
+* [Empresas abrem vagas para home office. Saiba como se preparar para a entrevista virtual](https://oglobo.globo.com/economia/empresas-abrem-vagas-para-home-office-saiba-como-se-preparar-para-entrevista-virtual-24551844)
 * [Egito e Romênia: os bailes funk que lotam em meio à pandemia](https://oglobo.globo.com/rio/egito-romenia-os-bailes-funk-que-lotam-em-meio-pandemia-24552056)
+* [Rio volta a apresentar tendência de alta nas mortes por Covid-19 após quase dois meses](https://oglobo.globo.com/sociedade/rio-volta-apresentar-tendencia-de-alta-nas-mortes-por-covid-19-apos-quase-dois-meses-24552029)
+* [Uma boa ideia](https://oglobo.globo.com/ela/uma-boa-ideia-24552033)
+* [Um passado à frente](https://oglobo.globo.com/ela/um-passado-frente-24552031)
+* [Inalterável gerúndio](https://oglobo.globo.com/ela/inalteravel-gerundio-24552027)
+* [A peça preferida de Ariano Suassuna é reeditada](https://epoca.globo.com/guilherme-amado/a-peca-preferida-de-ariano-suassuna-reeditada-24551161)
+* [Coluna | Por que a imagem da mulher negra está no centro das eleições 2020](https://epoca.globo.com/colunistas/coluna-por-que-imagem-da-mulher-negra-esta-no-centro-das-eleicoes-2020-24549787)

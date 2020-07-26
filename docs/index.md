@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 03:13:17 UTC
+# indexed at 26/07/2020 03:34:27 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Dance is superior to repetitive physical exercise in brain plasticity: study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
 * [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
-* [America’s Looming Primary-Care Crisis](https://www.newyorker.com/science/medical-dispatch/americas-looming-primary-care-crisis)
+* [Stanford's John Ioannidis Tried to Warn Trump Against Lockdowns in March](https://www.buzzfeednews.com/article/stephaniemlee/ioannidis-trump-white-house-coronavirus-lockdowns)
 * [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
+* [America’s Looming Primary-Care Crisis](https://www.newyorker.com/science/medical-dispatch/americas-looming-primary-care-crisis)
 * [D.E. Shaw and how computer geeks and English majors transformed Wall St. (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
 * [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
-* [Zucchinis linked to rare poisonings in England](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
 * [Building the ultimate home office again](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
+* [D3js Tree of Wittgenstein's Tractatus](https://pbellon.github.io/tractatus-tree/#/)
+* [Zucchinis linked to rare poisonings in England](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
 * [A browser plugin for Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
+* [Everything you need (and don't need) to know about PHP's type system](https://thephp.website/en/issue/php-type-system/)
 * [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 * [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
-* [Novel 'on-off' switch discovered in plant defenses](https://phys.org/news/2020-07-on-off-defenses.html)
 * [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
+* [Novel 'on-off' switch discovered in plant defenses](https://phys.org/news/2020-07-on-off-defenses.html)
 * [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
 * [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
-* [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
-* [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
-* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Are “reversible” computers more energy efficient, faster? (2004)](https://www.eetimes.com/are-reversible-computers-more-energy-efficient-faster/)
-* [Show HN: Spaced-repetition flashcards linked to your learning materials](https://www.iDoRecall.com/)
-* [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
+* [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
+* [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
+* [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
-* [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/)
-* [Instagram promises to fix bug after always accessing the camera on iOS 14](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
+* [Show HN: Spaced-repetition flashcards linked to your learning materials](https://www.iDoRecall.com/)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [Officials Push U.S.-China Relations Toward Point of No Return](https://www.nytimes.com/2020/07/25/world/asia/us-china-trump-xi.html)
 * [As the World Gets Tougher on China, Japan Tries to Thread a Needle](https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html)
 * [Federal Agents Push Into Portland Streets, Stretching Limits of Their Authority](https://www.nytimes.com/2020/07/25/us/portland-federal-legal-jurisdiction-courts.html)
-* [Seattle Protests: Fires and Pepper Spray as Thousands March Through City](https://www.nytimes.com/2020/07/25/us/protests-seattle-portland.html)
+* [Seattle Protests: Fires and Tear Gas as Thousands March Through City](https://www.nytimes.com/2020/07/25/us/protests-seattle-portland.html)
 * [A ‘Wall of Vets’ Joins the Front Lines of Portland Protests](https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html)
 * [John Lewis, Son of Alabama, Makes His Last Journey Home](https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html)
 * [Will Trump’s Abrupt Shift on Coronavirus Re-energize His Campaign?](https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html)
@@ -57,10 +57,10 @@ layout: default
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
 * [In Portland’s So-Called War Zone, It’s the Troops Who Provide the Menace](https://www.nytimes.com/2020/07/25/opinion/sunday/portland-protest-federal-troops.html)
 * [A Visit to the Classrooms the Kids Left Behind](https://www.nytimes.com/2020/07/25/opinion/school-coronavirus-reopening.html)
-* [A.O.C. and the Daughter Defense](https://www.nytimes.com/2020/07/25/opinion/aoc-daughters-ted-yoho.html)
+* [A.O.C. and the Daughter Defense](https://www.nytimes.com/2020/07/25/sunday-review/aoc-daughters-ted-yoho.html)
 * [Who Gets to Be a ‘Naked Athena’?](https://www.nytimes.com/2020/07/25/opinion/portland-protests-white.html)
-* [How to Give Children Joy, Even During a Pandemic](https://www.nytimes.com/2020/07/23/opinion/coronavirus-parenting-joy.html)
 * [A ‘Safety Net’ That’s a Kafkaesque Mess](https://www.nytimes.com/2020/07/25/opinion/a-safety-net-thats-a-kafkaesque-mess.html)
+* [How to Give Children Joy, Even During a Pandemic](https://www.nytimes.com/2020/07/23/opinion/coronavirus-parenting-joy.html)
 * [A.O.C. and the Jurassic Jerks](https://www.nytimes.com/2020/07/25/opinion/aoc-yoho-trump-2020.html)
 * [Donald Trump Is the Best Ever President in the History of the Cosmos](https://www.nytimes.com/2020/07/25/opinion/sunday/trump-lies.html)
 * [The Ghost of Margaret Sanger](https://www.nytimes.com/2020/07/25/opinion/abortion-racism-margaret-sanger.html)

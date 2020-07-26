@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 19:12:51 UTC
+# indexed at 26/07/2020 19:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
 * [Facebook has blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
-* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
-* [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
-* [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
+* [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
+* [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
 * [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
-* [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
+* [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
 * [Signing .jars is not worth the effort](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
+* [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
+* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
 * [A new class of magnet that exhibits novel quantum effects](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
 * [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
-* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
-* [Carbon monoxide treatment to enhance meat appearance has FDA approval](https://www.insideedition.com/investigative/20016-is-some-store-bought-meat-blasted-with-carbon-monoxide-to-keep-it-red-and-juicy)
-* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
-* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
-* [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
 * [Remote work is not necessarily a good thing for the worker](https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/)
-* [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
+* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
+* [The First Best Seller: Samuel Richardson’s Pamela](https://www.laphamsquarterly.org/roundtable/first-best-seller)
+* [PCSX2 – The Playstation 2 emulator – Q2 2020 Progress Report](https://pcsx2.net/295-q2-2020-progress-report.html)
+* [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [Facebook Unpublished Anti-Trump Group MeidasTouch](https://twitter.com/MeidasTouch/status/1287401010411892736)
 * [Publishing thousands of police discipline records that New York kept secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
-* [Biologists Home in on Turing Patterns (2013)](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
+* [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
+* [Carbon monoxide treatment to enhance meat appearance has FDA approval (2016)](https://www.insideedition.com/investigative/20016-is-some-store-bought-meat-blasted-with-carbon-monoxide-to-keep-it-red-and-juicy)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
-* [Open-endedness: The last grand challenge (2017)](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
-* [Environments: under the hood of variables – Deep JavaScript chapter](https://exploringjs.com/deep-js/ch_environments.html)
-* [Juvenile social dynamics reflect adult reproductive strategies in dolphins](https://today.duke.edu/2020/07/young-dolphins-pick-their-friends-wisely)
-* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [Biologists Home in on Turing Patterns (2013)](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
 * [What Are Pandemic School Pods?](https://www.nytimes.com/2020/07/22/parenting/school-pods-coronavirus.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Moradores da Rua Umari, em Laranjeiras, se juntam para transmitir lives das varandas](https://oglobo.globo.com/rio/moradores-da-rua-umari-em-laranjeiras-se-juntam-para-transmitir-lives-das-varandas-24552154)
 * [Morre Olivia de Havilland, de 'E o vento levou', aos 104 anos](https://oglobo.globo.com/cultura/morre-olivia-de-havilland-de-o-vento-levou-aos-104-anos-24552216)
+* [Champions: Ligas nacionais definem 24 classificados diretos à fase de grupos](https://oglobo.globo.com/esportes/champions-ligas-nacionais-definem-24-classificados-diretos-fase-de-grupos-24552323)
+* [Moradores da Rua Umari, em Laranjeiras, se juntam para transmitir lives das varandas](https://oglobo.globo.com/rio/moradores-da-rua-umari-em-laranjeiras-se-juntam-para-transmitir-lives-das-varandas-24552154)
 * [Colunistas e convidados abordam em lives do GLOBO temas mais urgentes da atualidade](https://oglobo.globo.com/95-anos/colunistas-convidados-abordam-em-lives-do-globo-temas-mais-urgentes-da-atualidade-24552279)
 * [Equipe de Guedes tem terceira baixa em menos de um mês](https://oglobo.globo.com/economia/equipe-de-guedes-tem-terceira-baixa-em-menos-de-um-mes-1-24552225)
 * [Nos 95 anos do GLOBO, reflexões sobre o futuro](https://oglobo.globo.com/95-anos/nos-95-anos-do-globo-reflexoes-sobre-futuro-24552278)
 * [Moro diz que sua presença no governo Bolsonaro foi usada como desculpa para demonstrar supostos avanços na agenda anticorrupção](https://oglobo.globo.com/brasil/moro-diz-que-sua-presenca-no-governo-bolsonaro-foi-usada-como-desculpa-para-demonstrar-supostos-avancos-na-agenda-anticorrupcao-1-24552220)
 * [Liverpool encerra campanha vitoriosa com goleada; Chelsea e United confirmam vaga na Champions](https://oglobo.globo.com/esportes/liverpool-encerra-campanha-vitoriosa-com-goleada-chelsea-united-confirmam-vaga-na-champions-24552196)
 * [PRF apreende guincho com 2 carros e 50 kg de pasta base de cocaína escondidos em ração animal](https://oglobo.globo.com/rio/prf-apreende-guincho-com-2-carros-50-kg-de-pasta-base-de-cocaina-escondidos-em-racao-animal-24552213)
-* [Protestos contra racismo e violência policial se espalham pelos EUA](https://oglobo.globo.com/mundo/protestos-contra-racismo-violencia-policial-se-espalham-pelos-eua-24552167)
 * [Voluntário confessa ser autor do incêndio da catedral francesa de Nantes](https://oglobo.globo.com/mundo/voluntario-confessa-ser-autor-do-incendio-da-catedral-francesa-de-nantes-1-24552188)

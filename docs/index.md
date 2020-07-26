@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 17:12:55 UTC
+# indexed at 26/07/2020 17:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
 * [Grit Has a Negligible Effect on Success Compared to Intelligence](https://journals.sagepub.com/doi/abs/10.1177/1948550620920531)
 * [Topological magnet exhibits exotic quantum effects at room temperature](https://www.nature.com/articles/s41586-020-2482-7)
-* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
-* [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
 * [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play)
-* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-* [ToaruOS: A Hobby Operating System](http://toaruos.org/)
+* [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
+* [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
 * [Signing .jars Is Worthless](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
-* [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
 * [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
+* [GitHub Readme Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+* [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
+* [ToaruOS: A Hobby Operating System](http://toaruos.org/)
 * [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
-* [OpenJDK Migrates to GitHub](https://www.infoq.com/news/2020/07/openjdk-github-migration/)
-* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
-* [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
 * [We’re Publishing Thousands of Police Discipline Records New York Kept Secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
+* [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
+* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [Biologists Home in on Turing Patterns](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)
 * [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development)
 * [Deep JavaScript chapter: How do environments and closures work in JavaScript?](https://exploringjs.com/deep-js/ch_environments.html)
-* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [U.S. eyes building nuclear power plants on the moon, Mars](https://time.com/5871667/nuclear-power-plant-moon/)
 * [Airbus Eyes Hydrogen Power for Airliner in Next Decade](https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade)
 * [Questions that changed my life (2016)](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life)
 * [Facebook Has Blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [How to effectively evade the GDPR and the reach of the DPA](https://blog.zoller.lu/2020/05/how-to-effectively-evade-gdpr-and-reach.html)
+* [Public asked to report receipt of any unsolicited packages of seeds](http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml)
 ## nytimes.com
 
 
@@ -78,8 +78,8 @@ layout: default
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
 * [What Are Pandemic School Pods?](https://www.nytimes.com/2020/07/22/parenting/school-pods-coronavirus.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Réveillon do Rio deve ter recursos visuais distribuídos pela cidade](https://oglobo.globo.com/rio/reveillon-do-rio-deve-ter-recursos-visuais-distribuidos-pela-cidade-24552184)
-* [Flores, chocolate e vídeos para celebrar o Dia dos Avós à distância](https://oglobo.globo.com/rio/flores-chocolate-videos-para-celebrar-dia-dos-avos-distancia-1-24552151)
+* [Liverpool encerra campanha vitoriosa com goleada, mas não bate todos os recordes do City](https://oglobo.globo.com/esportes/liverpool-encerra-campanha-vitoriosa-com-goleada-mas-nao-bate-todos-os-recordes-do-city-24552196)
+* [Réveillon no Rio terá um outro formato ainda não definido, garante prefeitura](https://oglobo.globo.com/rio/reveillon-no-rio-tera-um-outro-formato-ainda-nao-definido-garante-prefeitura-24552184)
+* [Voluntário confessa ser autor do incêndio da catedral francesa de Nantes](https://oglobo.globo.com/mundo/voluntario-confessa-ser-autor-do-incendio-da-catedral-francesa-de-nantes-1-24552188)
+* [Flores, chocolate e vídeos no Dia dos Avós à distância](https://oglobo.globo.com/rio/flores-chocolate-videos-no-dia-dos-avos-distancia-24552151)
 * [Protestos contra racismo e violência policial se espalham pelos EUA](https://oglobo.globo.com/mundo/protestos-contra-racismo-violencia-policial-se-espalham-pelos-eua-24552167)
-* [GM faz recall de Celta e Chevrolet Classic por falha em airbag](https://oglobo.globo.com/economia/defesa-do-consumidor/gm-faz-recall-de-celta-chevrolet-classic-por-falha-em-airbag-1-24552096)
 * [Brasil ultrapassa 2,4 milhões de infectados por Covid-19, mostra consórcio de veículos de imprensa no boletim das 13h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-24-milhoes-de-infectados-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-13h-1-24552137)
 * [Isolamento reduziu taxa de transmissão do coronavírus no Brasil pela metade, diz estudo](https://oglobo.globo.com/sociedade/isolamento-reduziu-taxa-de-transmissao-do-coronavirus-no-brasil-pela-metade-diz-estudo-24552161)
 * [Prefeitura de São Paulo decide que atividades culturais voltarão mais tarde, mesmo com liberação no estado](https://oglobo.globo.com/cultura/prefeitura-de-sao-paulo-decide-que-atividades-culturais-voltarao-mais-tarde-mesmo-com-liberacao-no-estado-1-24552121)
 * [Bolsonaristas fazem 'êxodo' na internet para tentar driblar ordem do STF](https://oglobo.globo.com/brasil/bolsonaristas-fazem-exodo-na-internet-para-tentar-driblar-ordem-do-stf-24552143)
-* [CNJ não foi rígido com juiz que deu 'carteirada' e voz de prisão em aeroporto](https://oglobo.globo.com/sociedade/cnj-nao-foi-rigido-com-juiz-que-deu-carteirada-voz-de-prisao-em-aeroporto-24552111)
 * [Nove meses depois, por que Lula ainda está menor do que quando entrou na prisão](https://epoca.globo.com/guilherme-amado/nove-meses-depois-por-que-lula-ainda-esta-menor-do-que-quando-entrou-na-prisao-24538990)

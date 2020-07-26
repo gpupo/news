@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 01:14:27 UTC
+# indexed at 26/07/2020 01:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Dance is superior to repetitive physical exercise in brain plasticity: study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [Typometer: A tool to measure and analyze the visual latency of text editors](https://pavelfatin.com/typometer/)
 * [America’s Looming Primary-Care Crisis](https://www.newyorker.com/science/medical-dispatch/americas-looming-primary-care-crisis)
-* [Zucchinis linked to rare poisonings in England – Food Safety News](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
 * [Ask HN: What are some good resources to learn business administration/finance?](https://news.ycombinator.com/item?id=23947818)
+* [Zucchinis linked to rare poisonings in England – Food Safety News](https://www.foodsafetynews.com/2020/07/zucchinis-linked-to-rare-poisonings-in-england/)
 * [How to survive a ransomware attack without paying the ransom](https://www.bloomberg.com/news/features/2020-07-23/how-to-survive-ransomware-attack-without-paying-ransom)
 * [D.E. Shaw and how computer geeks and English majors transformed Wall St. (2018)](https://nymag.com/intelligencer/2018/01/d-e-shaw-the-first-great-quant-hedge-fund.html)
 * [Show HN: A simple CLI tool to generate satellite images of a location](https://github.com/plant99/felicette)
 * [Open-Source Version Control System for Machine Learning Projects](https://dvc.org/)
+* [Building the ultimate home office again](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
 * [A browser plugin for Unity](https://blog.mozvr.com/a-browser-plugin-for-unity/)
+* [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
 * [What's the point of a Covid-19 test that takes 19 days for results?](https://www.buzzfeednews.com/article/davidmack/coronavirus-testing-delays-backlog)
 * [Ansible-Defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
-* [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias)
 * [Show HN: Textdb.dev – simple data sharing for fun projects](https://textdb.dev)
-* [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/)
-* [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
-* [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Teaching isn’t about managing behavior](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
+* [Inside the 8086 processor, tiny charge pumps create a negative voltage](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
+* [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/)
+* [Digikam 7.0: Open-source photo management](https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/)
 * [Goethe’s Colors: A Visual Catalogue](https://www.c82.net/work/?id=380)
 * [Thinking of a Cybersecurity Career?](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
 * [‘Alexandrian’ glass confirmed by hafnium isotopes](https://www.nature.com/articles/s41598-020-68089-w)
 * [Cryptography is not magic](http://loup-vaillant.fr/articles/crypto-is-not-magic)
+* [Are “reversible” computers more energy efficient, faster? (2004)](https://www.eetimes.com/are-reversible-computers-more-energy-efficient-faster/)
 * [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety)
 * [Show HN: Spaced-repetition flashcards linked to your learning materials](https://www.iDoRecall.com/)
 * [Instagram caught keeping iOS camera on during usage](https://9to5mac.com/2020/07/25/instagram-promises-to-fix-bug-after-being-exposed-by-always-accessing-the-camera-on-ios-14/)
-* [Are “reversible” computers more energy efficient, faster? (2004)](https://www.eetimes.com/are-reversible-computers-more-energy-efficient-faster/)
-* [The History of Paper](https://www.papersizes.org/paper-history-overview.htm)
 * [Smartphone contact tracing has failed everywhere](https://eclecticlight.co/2020/07/25/smartphone-contact-tracing-has-failed-everywhere/)
 ## nytimes.com
 
@@ -78,11 +78,11 @@ layout: default
 * [Plane With Six Aboard Crashes Into Backyard in Utah City](https://www.nytimes.com/2020/07/25/us/plane-crash-west-jordan-utah.html)
 * [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
 * [Take Coronavirus More Seriously, Say Olympic Rowers Who Got It](https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports](https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html)
 * [Looking at Epic Poetry Through 21st-Century Eyes](https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html)
 * [‘Radioactive’ Review: Marie Curie and the Science of Autonomy](https://www.nytimes.com/2020/07/23/movies/radioactive-review.html)
@@ -98,6 +98,7 @@ layout: default
 ## globo.com
 
 
+* [Mega-Sena acumula e próximo sorteio pode pagar R$ 6,6 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-66-milhoes-24551911)
 * [Flamengo se reúne com Domènec Torrent em Madrid em primeiro de série de encontros](https://oglobo.globo.com/esportes/flamengo-se-reune-com-domenec-torrent-em-madrid-em-primeiro-de-serie-de-encontros-24551834)
 * [Bolsonaro recorre ao STF contra decisões que retiraram perfis de apoiadores de redes sociais](https://oglobo.globo.com/brasil/bolsonaro-recorre-ao-stf-contra-decisoes-que-retiraram-perfis-de-apoiadores-de-redes-sociais-24551839)
 * [Rede entra com ação para STF suspender investigação do governo Bolsonaro contra opositores políticos](https://epoca.globo.com/guilherme-amado/rede-entra-com-acao-para-stf-suspender-investigacao-do-governo-bolsonaro-contra-opositores-politicos-24551858)
@@ -107,4 +108,3 @@ layout: default
 * [Feiras de adoção de animais estão liberadas no Rio a partir deste sábado](https://oglobo.globo.com/rio/feiras-de-adocao-de-animais-estao-liberadas-no-rio-partir-deste-sabado-1-24551722)
 * [Presidente de comissão do Congresso quer aprovar relatório da reforma tributária até 15 de outubro](https://oglobo.globo.com/economia/presidente-de-comissao-do-congresso-quer-aprovar-relatorio-da-reforma-tributaria-ate-15-de-outubro-24551490)
 * [Rio registra 154 mortes e 1.414 novos casos de coronavírus em 24 horas](https://oglobo.globo.com/rio/rio-registra-154-mortes-1414-novos-casos-de-coronavirus-em-24-horas-24551732)
-* ['Maratonador' ou 'meditativo'? Pesquisa mapeia perfil do usuário de streaming](https://oglobo.globo.com/cultura/maratonador-ou-meditativo-pesquisa-mapeia-perfil-do-usuario-de-streaming-24551646)

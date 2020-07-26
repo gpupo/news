@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/07/2020 22:13:08 UTC
+# indexed at 26/07/2020 22:34:19 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
 * [Facebook has blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
 * [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
+* [It's time to get serious about research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
+* [The David Peters Problem](http://tetzoo.com/blog/2020/7/23/the-david-peters-problem)
 * [Centuries-old paintings help researchers track food evolution](https://www.smithsonianmag.com/smart-news/how-paintings-can-teach-us-about-evolution-food-180975381/)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
 * [Google reportedly peeks into Android data to gain edge over third-party apps](https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/)
 * [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
 * [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
-* [Worlds Apart: Sci-Fi Visions of Altered Reality](https://www.nybooks.com/daily/2019/07/25/worlds-apart-sci-fi-visions-of-altered-reality/)
 * [Remote work is not necessarily a good thing for the worker](https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/)
-* [The David Peters Problem](http://tetzoo.com/blog/2020/7/23/the-david-peters-problem)
-* [The Silicon Factor (1980) [video]](https://clp.bbcrewind.co.uk/cd93f5ddfdc398b0c62e9e2456e0124a)
-* [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
+* [Worlds Apart: Sci-Fi Visions of Altered Reality](https://www.nybooks.com/daily/2019/07/25/worlds-apart-sci-fi-visions-of-altered-reality/)
 * [What if carbon removal becomes the new Big Oil?](https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil)
+* [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
+* [The Silicon Factor (1980) [video]](https://clp.bbcrewind.co.uk/cd93f5ddfdc398b0c62e9e2456e0124a)
 * [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
 * [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
 * [Signing .jars is not worth the effort](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
 * [A new class of magnet that exhibits novel quantum effects](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
-* [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
 * [Langcraft: Compile LLVM IR to Minecraft data packs](https://github.com/SuperTails/langcraft)
-* [Publishing thousands of police discipline records that New York kept secret](https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note)
-* [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
+* [The Overfitted Brain: Dreams evolved to assist generalization](https://arxiv.org/abs/2007.09560)
 * [Pinebook Pro longer term usage report](https://nibblestew.blogspot.com/2020/07/pinebook-pro-longer-term-usage-report.html)
+* [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
 * [Sledding Athletes Are Taking Their Lives. Did Brain-Rattling Rides and High-Speed Crashes Damage Their Brains?](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Next Stop: Marriage](https://www.nytimes.com/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
 * [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](https://www.nytimes.com/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
 * [12 Artists On: The Financial Crisis](https://www.nytimes.com/2020/07/21/t-magazine/art-financial-crisis.html)
@@ -101,6 +101,7 @@ layout: default
 ## globo.com
 
 
+* [Entidades sindicais de saúde acusam Bolsonaro de crimes contra a Humanidade em corte penal internacional](https://oglobo.globo.com/sociedade/entidades-sindicais-de-saude-acusam-bolsonaro-de-crimes-contra-humanidade-em-corte-penal-internacional-24552471)
 * [Rio registra 27 mortes por Covid-19 e capital ultrapassa marca de 8 mil óbitos](https://oglobo.globo.com/rio/rio-registra-27-mortes-por-covid-19-capital-ultrapassa-marca-de-8-mil-obitos-24552405)
 * [Cortejo de homenagem a John Lewis passa por emblemática ponte em Selma, símbolo da luta pelos direitos civis nos EUA](https://oglobo.globo.com/mundo/cortejo-de-homenagem-john-lewis-passa-por-emblematica-ponte-em-selma-simbolo-da-luta-pelos-direitos-civis-nos-eua-24552373)
 * [Flamengo chega a Portugal para se encontrar com técnico Carlos Carvalhal](https://oglobo.globo.com/esportes/flamengo-chega-portugal-para-se-encontrar-com-tecnico-carlos-carvalhal-24552461)
@@ -110,4 +111,3 @@ layout: default
 * [Champions League: veja a lista dos 24 classificados à fase de grupos da edição 2020/2021](https://oglobo.globo.com/esportes/champions-league-veja-lista-dos-24-classificados-fase-de-grupos-da-edicao-20202021-24552323)
 * [Tribunal de Justiça libera tramitação de projeto que prevê mudanças urbanísticas durante a pandemia de Covid-19](https://oglobo.globo.com/rio/tribunal-de-justica-libera-tramitacao-de-projeto-que-preve-mudancas-urbanisticas-durante-pandemia-de-covid-19-24552199)
 * [Moradores da Rua Umari, em Laranjeiras, se juntam para transmitir lives das varandas](https://oglobo.globo.com/rio/moradores-da-rua-umari-em-laranjeiras-se-juntam-para-transmitir-lives-das-varandas-24552154)
-* [Colunistas e convidados abordam em lives do GLOBO temas mais urgentes da atualidade](https://oglobo.globo.com/95-anos/colunistas-convidados-abordam-em-lives-do-globo-temas-mais-urgentes-da-atualidade-24552279)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 10:13:44 UTC
+# indexed at 27/07/2020 10:34:22 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
-* [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
 * [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+* [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
 * [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
 * [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
-* [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
 * [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
+* [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
+* [Show HN: Coding Challenges for Recruiters](https://entrevistame.com/)
 * [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
 * [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
 * [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
-* [Show HN: Coding Challenges for Recruiters](https://entrevistame.com/)
-* [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
+* [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
-* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
 * [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
-* [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
+* [The Electric Car Atop Europe’s Sales Charts Isn’t a Tesla or VW](https://www.bloomberg.com/news/articles/2020-07-24/the-electric-car-atop-europe-s-sales-charts-isn-t-a-tesla-or-vw)
+* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
 * [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
+* [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
 * [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
-* [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
-* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
+* [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
 * [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
+* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
 * [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
-* [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Jeff Bezos Cast in a Role He Never Wanted: Amazon’s D.C. Defender](https://www.nytimes.com/2020/07/27/business/jeff-bezos-amazon-congress.html)
 * [Did Hearst’s Culture Kill Hearst’s Biggest Magazine Story?](https://www.nytimes.com/2020/07/26/business/media/hearst-culture-magazines.html)
 * [These Businesses Lasted Decades. The Virus Closed Them for Good.](https://www.nytimes.com/2020/07/27/nyregion/coronavirus-small-business-nyc.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Sultry Nights and Magnolia Trees: New York City Is Now Subtropical](https://www.nytimes.com/2020/07/24/nyregion/climate-change-nyc.html)
 * [A Life Full of Meaning](https://www.nytimes.com/2020/07/24/well/family/a-life-full-of-meaning.html)
 * [Where the Sick Get Sicker and the Sane Are Driven Mad: Behind Bars](https://www.nytimes.com/2020/07/21/books/review/waiting-for-an-echo-christine-montross.html)
@@ -98,8 +98,8 @@ layout: default
 ## globo.com
 
 
-* ['Isso não é gente': os áudios com ataques a indígenas na pandemia que se tornaram alvos do MPF](https://epoca.globo.com/brasil/isso-nao-gente-os-audios-com-ataques-indigenas-na-pandemia-que-se-tornaram-alvos-do-mpf-24552614)
 * [Espião da China recrutava informantes americanos no LinkedIn](https://epoca.globo.com/mundo/espiao-da-china-recrutava-informantes-americanos-no-linkedin-24552616)
+* ['Isso não é gente': os áudios com ataques a indígenas na pandemia que se tornaram alvos do MPF](https://epoca.globo.com/brasil/isso-nao-gente-os-audios-com-ataques-indigenas-na-pandemia-que-se-tornaram-alvos-do-mpf-24552614)
 * [Antes de ganhar cargo, filha de Pazuello alegou à Justiça ter baixa renda](https://epoca.globo.com/guilherme-amado/antes-de-ganhar-cargo-filha-de-pazuello-alegou-justica-ter-baixa-renda-24551149)
 * [Governo federal desembolsou R$ 384 bi nos últimos 26 anos a pensionistas civis](https://epoca.globo.com/guilherme-amado/governo-federal-desembolsou-384-bi-nos-ultimos-26-anos-pensionistas-civis-24539257)
 * [Saiba como recordista do salto com vara, 'o próximo Bolt', encarou a quarentena](https://oglobo.globo.com/esportes/saiba-como-recordista-do-salto-com-vara-proximo-bolt-encarou-quarentena-24545046)

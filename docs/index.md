@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 05:13:06 UTC
+# indexed at 27/07/2020 05:34:16 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [It's time to get serious about research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
-* [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
+* [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
+* [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
 * [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
+* [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
+* [Everyone’s a Day Trader Now](https://www.wsj.com/articles/everyones-a-day-trader-now-11595649609)
 * [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
 * [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
-* [Everyone’s a Day Trader Now](https://www.wsj.com/articles/everyones-a-day-trader-now-11595649609)
 * [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
-* [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
 * [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
+* [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
+* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
 * [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
 * [Remote work is not necessarily a good thing for the worker](https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/)
-* [Lost World: Schieks Cave (2009)](http://gregbrick.org/schieks_cave)
 * [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
-* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
-* [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
+* [Lost World: Schieks Cave (2009)](http://gregbrick.org/schieks_cave)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
+* [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
 * [VM Computers](https://www.curseforge.com/minecraft/mc-mods/vm-computers)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
-* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
-* [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
+* [ProPublica posts NYPD records, bypassing judge’s blockade](https://apnews.com/b58c024d68048781af36f2c631290779)
 * [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
-* [Luigi Model found in Mario 64 source code](https://twitter.com/bigcti/status/1287127746120998912)
-* [Centuries-old paintings help researchers track food evolution](https://www.smithsonianmag.com/smart-news/how-paintings-can-teach-us-about-evolution-food-180975381/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [Hurricane’s Choice for Texans: Shelter From the Virus or the Storm](https://www.nytimes.com/2020/07/26/us/virus-texas-storm.html)
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [An Artist Who Reanimates Extinct Species](https://www.nytimes.com/2020/07/23/t-magazine/marguerite-humeau.html)
 * [Me, My Relationship and PTSD](https://www.nytimes.com/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)
 * [Premier League: Aston Villa Stays Up; United and Chelsea Return to Champions League](https://www.nytimes.com/2020/07/26/sports/soccer/premier-league-decision-day.html)

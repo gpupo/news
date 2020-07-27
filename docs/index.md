@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 21:11:23 UTC
+# indexed at 27/07/2020 21:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
-* [How Did Anyone Do Math in Roman Numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
+* [How did anyone do math in Roman numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
 * [Ted Williams's Strike Zone](https://deadspin.com/the-beautiful-infographics-of-ted-williamss-the-scienc-1511889371)
 * [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
+* [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [Garmin obtains decryption key after ransomware attack](https://news.sky.com/story/garmin-obtains-decryption-key-after-ransomware-attack-12036761)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 * [Afghan opium growers have switched to solar power](https://www.bbc.com/news/science-environment-53450688)
+* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 * [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
-* [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
-* [Fish in a Barrel Memory Safety Bounty Program](https://github.com/fishinabarrel/bounty)
-* [Extremal Combinatorics With Applications in Computer Science](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
 * [Next.js 9.5 – Redirects and Rewrites, Webpack 5 Beta](https://nextjs.org/blog/next-9-5)
-* [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
+* [Extremal Combinatorics With Applications in Computer Science](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
+* [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
 * [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
+* [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
+* [Fish in a Barrel Memory Safety Bounty Program](https://github.com/fishinabarrel/bounty)
+* [Sailor pictured with laser rifle on board USS Minnesota nuclear sub](https://www.thedrive.com/the-war-zone/35106/check-out-this-sailor-holding-a-laser-dazzler-rifle-aboard-nuclear-submarine-uss-minnesota)
 * [Nimble (YC S17) is hiring full-stack dev (React/Django)](https://news.ycombinator.com/item?id=23968175)
 * [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
-* [Forster in Cambridge](https://lrb.co.uk/the-paper/v42/n15/richard-shone/forster-in-cambridge)
-* [Interactive Comparison of Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
 * [Google to keep employees home until summer 2021](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
-* [Sailor pictured with laser rifle on board USS Minnesota nuclear sub](https://www.thedrive.com/the-war-zone/35106/check-out-this-sailor-holding-a-laser-dazzler-rifle-aboard-nuclear-submarine-uss-minnesota)
+* [Interactive Comparison of Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
 * [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
-* [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://techcrunch.com/2020/07/27/cloudflare-launches-workers-unbound-the-next-evolution-of-its-serverless-platform/)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [John Lewis to Lie in State in the Capitol Rotunda](https://www.nytimes.com/2020/07/27/us/politics/john-lewis-memorial.html)
 * [Susan Rice Wants to Run for Office. Will Her First Campaign Be for V.P.?](https://www.nytimes.com/2020/07/27/us/politics/susan-rice-biden-vice-president.html)
 * [Joe Biden’s Vice-Presidential Pick: Who’s in the Running?](https://www.nytimes.com/article/biden-vice-president-2020.html)
-* [Live Biden vs Trump 2020 Election Updates](https://www.nytimes.com/2020/07/27/us/elections/biden-vs-trump.html)
+* [Live 2020 Election Updates: Biden vs. Trump](https://www.nytimes.com/2020/07/27/us/elections/biden-vs-trump.html)
 * [Hotels Are Promoting the Nostalgia of the Family Road Trip](https://www.nytimes.com/2020/07/27/business/hotels-marketing-coronavirus.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [They Crossed Oceans to Lift Their Families Out of Poverty. Now, They Need Help.](https://www.nytimes.com/2020/07/27/business/global-remittances-coronavirus.html)
@@ -71,7 +71,7 @@ layout: default
 * [On the Lookout for Moose on Michigan’s Isle Royale](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html)
 * [Taylor Swift's 'Folklore' Review: A Pop Star Done With Pop](https://www.nytimes.com/2020/07/26/arts/music/taylor-swift-folklore-review.html)
 * [The Celebrity Bookshelf Detective Is Back](https://www.nytimes.com/2020/07/27/books/tom-hanks-gwyneth-paltrow-bookshelves.html)
-* [Kenneth L. Marcus, Education Dept.'s Civil Rights Chief Steps Down](https://www.nytimes.com/2020/07/27/us/politics/kenneth-marcus-education-department.html)
+* [Trump Again Tries to Block Subpoena for Taxes, Calling It ‘Wildly Overbroad’](https://www.nytimes.com/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
 * [Two Teenagers Are Among 8 Killed on Deadly Day in New York City](https://www.nytimes.com/2020/07/27/nyregion/nyc-shootings-weekend.html)
 * [Israel Says It Thwarted a Hezbollah Raid at Lebanon Border](https://www.nytimes.com/2020/07/27/world/middleeast/israel-hezbollah-lebanon-fighting.html)
 * [Kansai Yamamoto, Designer With Ziggy Stardust as a Client, Dies at 76](https://www.nytimes.com/2020/07/27/fashion/kansai-yamamoto-david-bowie-japanese-fashion-designer-dies.html)
@@ -80,11 +80,11 @@ layout: default
 * [U.K.'s New Coronavirus Tactic: Urge Britons to Lose Weight](https://www.nytimes.com/2020/07/27/world/europe/uk-boris-johnson-coronavirus-obesity.html)
 * [As N.F.L. Fights Racism and Sexism, Team Owners Undercut the Message](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html)
 * [Upsides for Some Remote Workers; Lost Pay and Security for Others](https://www.nytimes.com/2020/07/26/business/economy/labor-remote-work-coronavirus.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Living With Edmund White](https://www.nytimes.com/2020/07/24/books/edmund-white-a-saint-from-texas.html)
 * [Coming of Age on Mars](https://www.nytimes.com/2020/07/27/science/mars-sarah-stewart-johnson.html)
 * [An All-Day Journey Through Baseball’s Weird New Season](https://www.nytimes.com/2020/07/26/sports/baseball/mlb-season.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Departamento de Justiça e CVM americanos investigam Johnson & Johnson por propina no Rio](https://epoca.globo.com/guilherme-amado/departamento-de-justica-cvm-americanos-investigam-johnson-johnson-por-propina-no-rio-24553551)
-* ['Novo' réveillon é estudado pela Prefeitura do Rio: sem aglomerações, voltado para a reflexão e inspirado na França](https://oglobo.globo.com/rio/novo-reveillon-estudado-pela-prefeitura-do-rio-sem-aglomeracoes-voltado-para-reflexao-inspirado-na-franca-24553539)
-* [Suspeito de matar a própria mãe, homem é preso em São Gonçalo](https://oglobo.globo.com/rio/suspeito-de-matar-propria-mae-homem-preso-em-sao-goncalo-24553562)
-* [Um dos filmes mais esperados do ano, 'Tenet', de Christopher Nolan, ganha data de estreia](https://oglobo.globo.com/cultura/um-dos-filmes-mais-esperados-do-ano-tenet-de-christopher-nolan-ganha-data-de-estreia-24553502)
-* ['O pensamento de todos é a vontade de ajudar', diz voluntário brasileiro que tomou a vacina de Oxford](https://oglobo.globo.com/sociedade/coronavirus/o-pensamento-de-todos-a-vontade-de-ajudar-diz-voluntario-brasileiro-que-tomou-vacina-de-oxford-24553020)
-* [Egito prende cinco influenciadoras digitais por portagens no TikTok](https://oglobo.globo.com/mundo/egito-prende-cinco-influenciadoras-digitais-por-portagens-no-tiktok-24553446)
+* [Rio e Piauí mostram que área social não precisa só de dinheiro](https://oglobo.globo.com/analitico/rio-piaui-mostram-que-area-social-nao-precisa-so-de-dinheiro-24553466)
+* [Leilão de 5 mil peças de hotel no Rio tem lances a partir de R$ 20](https://oglobo.globo.com/economia/leilao-de-5-mil-pecas-de-hotel-no-rio-tem-lances-partir-de-20-24553579)
 * [Carta de bispos amplia racha na CNBB sobre relação com governo Bolsonaro](https://oglobo.globo.com/brasil/carta-de-bispos-amplia-racha-na-cnbb-sobre-relacao-com-governo-bolsonaro-24553523)
-* [A pedido de Aras, presidente do STF arquiva abertura de inquéritos da delação de Cabral](https://oglobo.globo.com/brasil/a-pedido-de-aras-presidente-do-stf-arquiva-abertura-de-inqueritos-da-delacao-de-cabral-24553484)
+* ['Novo' réveillon é estudado pela Prefeitura do Rio: sem aglomerações, voltado para a reflexão e inspirado na França](https://oglobo.globo.com/rio/novo-reveillon-estudado-pela-prefeitura-do-rio-sem-aglomeracoes-voltado-para-reflexao-inspirado-na-franca-24553539)
+* [Suspeito de matar a própria mãe é preso em São Gonçalo](https://oglobo.globo.com/rio/suspeito-de-matar-propria-mae-preso-em-sao-goncalo-24553562)
+* [Angélica Freitas e a poesia de um país que ‘não passou de projeto’](https://epoca.globo.com/guilherme-amado/angelica-freitas-a-poesia-de-um-pais-que-nao-passou-de-projeto-24553557)
+* ['O pensamento de todos é a vontade de ajudar', diz voluntário brasileiro que tomou a vacina de Oxford](https://oglobo.globo.com/sociedade/coronavirus/o-pensamento-de-todos-a-vontade-de-ajudar-diz-voluntario-brasileiro-que-tomou-vacina-de-oxford-24553020)
+* [Departamento de Justiça e CVM americanos investigam Johnson & Johnson por propina no Rio](https://epoca.globo.com/guilherme-amado/departamento-de-justica-cvm-americanos-investigam-johnson-johnson-por-propina-no-rio-24553551)
+* [Um dos filmes mais esperados do ano, 'Tenet', de Christopher Nolan, ganha data de estreia](https://oglobo.globo.com/cultura/um-dos-filmes-mais-esperados-do-ano-tenet-de-christopher-nolan-ganha-data-de-estreia-24553502)
 * [Facebook adia divulgação de resultados para Zuckerberg participar de audiência no Congresso](https://oglobo.globo.com/economia/facebook-adia-divulgacao-de-resultados-para-zuckerberg-participar-de-audiencia-no-congresso-24553277)
-* [Vídeo mostra milicianos armados em festa em Angra dos Reis antes de chegada da polícia](https://epoca.globo.com/rio/video-mostra-milicianos-armados-em-festa-em-angra-dos-reis-antes-de-chegada-da-policia-24553300)

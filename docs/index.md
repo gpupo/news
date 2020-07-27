@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 00:39:21 UTC
+# indexed at 27/07/2020 01:14:18 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
-* [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [Facebook has blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
-* [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
-* [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
-* [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
-* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
-* [The David Peters Problem](http://tetzoo.com/blog/2020/7/23/the-david-peters-problem)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
+* [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [Dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
+* [Basics of Haskell – Code and exercises](https://github.com/raviksharma/bartosz-basics-of-haskell)
+* [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
+* [Colorize Your CLI](https://danyspin97.org/blog/colorize-your-cli/)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Remote work is not necessarily a good thing for the worker](https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/)
+* [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
-* [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
+* [The David Peters Problem](http://tetzoo.com/blog/2020/7/23/the-david-peters-problem)
 * [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
+* [Finding Gene Cernan's Missing Moon Camera](https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera)
+* [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
+* [VM Computers](https://www.curseforge.com/minecraft/mc-mods/vm-computers)
 * [Centuries-old paintings help researchers track food evolution](https://www.smithsonianmag.com/smart-news/how-paintings-can-teach-us-about-evolution-food-180975381/)
 * [Luigi Model found in Mario 64 source code](https://twitter.com/bigcti/status/1287127746120998912)
-* [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
 * [A man who grows fields full of tables and chairs (2015)](https://www.bbc.com/news/business-32977012)
 * [Research Based on the .NET Runtime](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
+* [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
 * [Signing .jars is not worth the effort](https://quanttype.net/posts/2020-07-26-signing-jars-is-worthless.html)
-* [Worlds Apart: Sci-Fi Visions of Altered Reality](https://www.nybooks.com/daily/2019/07/25/worlds-apart-sci-fi-visions-of-altered-reality/)
 * [Demystifying MLsub – The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
-* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
-* [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
 * [Triputer](http://cpu-ns32k.net/TRIPUTER.html)
-* [A new class of magnet that exhibits novel quantum effects](https://phys.org/news/2020-07-scientists-topological-magnet-exotic-quantum.html)
-* [A Surprise AWS Bill](https://chrisshort.net/the-aws-bill-heard-around-the-world/)
+* [An Intel 8080 Assembler and Online Simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
+* [Worlds Apart: Sci-Fi Visions of Altered Reality](https://www.nybooks.com/daily/2019/07/25/worlds-apart-sci-fi-visions-of-altered-reality/)
 ## nytimes.com
 
 
@@ -77,10 +77,10 @@ layout: default
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [Hurricane’s Choice for Texans: Shelter From the Virus or the Storm](https://www.nytimes.com/2020/07/26/us/virus-texas-storm.html)
 * [Everlane’s Promise of ‘Radical Transparency’ Unravels](https://www.nytimes.com/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [An Artist Who Reanimates Extinct Species](https://www.nytimes.com/2020/07/23/t-magazine/marguerite-humeau.html)
 * [Me, My Relationship and PTSD](https://www.nytimes.com/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)

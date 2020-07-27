@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 17:10:56 UTC
+# indexed at 27/07/2020 17:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
+* [The falsehoods of anti-AGPL propaganda – Drew DeVault’s Blog](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 * [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
-* [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 * [Apache Arrow 1.0.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
+* [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
+* [Sailor pictured with laser rifle on board USS Minnesota nuclear sub](https://www.thedrive.com/the-war-zone/35106/check-out-this-sailor-holding-a-laser-dazzler-rifle-aboard-nuclear-submarine-uss-minnesota)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [Spies Can Eavesdrop by Watching a Light Bulb's Vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
 * [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
 * [Extremal Combinatorics With Applications in Computer Science](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
-* [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847)
+* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 * [It’s Easier to Manage 4 People Than It Is to Manage 1 Person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
-* [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
-* [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
 * [What the heroin industry can teach us about solar power](https://www.bbc.com/news/science-environment-53450688)
+* [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847)
+* [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
+* [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
 * [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://techcrunch.com/2020/07/27/cloudflare-launches-workers-unbound-the-next-evolution-of-its-serverless-platform/)
-* [Ancient microbial arms race sharpened our immune system but left us vulnerable](https://www.sciencemag.org/news/2020/07/ancient-microbial-arms-race-sharpened-our-immune-system-also-left-us-vulnerable)
+* [The house servant who pioneered the franchising business model](https://thehustle.co/martha-matilda-harper-inventor-of-franchising/)
 * [BackerKit (YC S12) is hiring our second Product Manager](https://jobs.lever.co/backerkit/78009a7b-34ba-46f3-ac96-34ba7e28789a)
-* [Interactive Comparison of Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
-* [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
 * [Optimizing an Open Source Texture Synthesis Library](http://peterstefek.me/texture-optimization.html)
-* [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
+* [Ancient microbial arms race sharpened our immune system but left us vulnerable](https://www.sciencemag.org/news/2020/07/ancient-microbial-arms-race-sharpened-our-immune-system-also-left-us-vulnerable)
+* [Interactive Comparison of Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
 * [Google will let employees work from home until at least next summer](https://www.cnn.com/2020/07/27/tech/google-work-from-home-extension/index.html)
-* [Appreciating accessibility with a broken collar bone](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
-* [Fanouts and Percentiles: Visualizing Latency in Distributed Systems](https://paulcavallaro.com/blog/fanouts-and-percentiles/)
-* [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
-* [Sony’s wearable air conditioner is pretty cool](https://www.theverge.com/2020/7/22/21333837/sony-reon-pocket-hands-on-wearable-air-conditioner-japan)
-* [ADLPlug: FM Chip Synthesizer](https://github.com/jpcima/ADLplug)
-* [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-* [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
+* [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
+* [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
+* [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [SiGe process pushes reconfigurable FPGA to 5 GHz (2001)](https://www.eetimes.com/sige-process-pushes-reconfigurable-fpga-to-5-ghz/)
-* [Before Hack, Twitter Contractors Caught Spying on Users Including Beyonce](https://www.bloomberg.com/news/articles/2020-07-27/twitter-s-security-woes-included-broad-access-to-user-accounts)
+* [Fanouts and Percentiles: Visualizing Latency in Distributed Systems](https://paulcavallaro.com/blog/fanouts-and-percentiles/)
+* [Appreciating accessibility with a broken collar bone](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [U.K.'s New Coronavirus Tactic: Urge Britons to Lose Weight](https://www.nytimes.com/2020/07/27/world/europe/uk-boris-johnson-coronavirus-obesity.html)
 * [As N.F.L. Fights Racism and Sexism, Team Owners Undercut the Message](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html)
 * [Upsides for Some Remote Workers; Lost Pay and Security for Others](https://www.nytimes.com/2020/07/26/business/economy/labor-remote-work-coronavirus.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Worried About Crowded Flights? Know Where Your Airline Stands](https://www.nytimes.com/2020/07/21/travel/crowded-flights-coronavirus.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
 * [Living With Edmund White](https://www.nytimes.com/2020/07/24/books/edmund-white-a-saint-from-texas.html)
 * [Coming of Age on Mars](https://www.nytimes.com/2020/07/27/science/mars-sarah-stewart-johnson.html)
 * [An All-Day Journey Through Baseball’s Weird New Season](https://www.nytimes.com/2020/07/26/sports/baseball/mlb-season.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Polarização prejudica políticas públicas e imagem do país no exterior, dizem autoridades](https://oglobo.globo.com/95-anos/polarizacao-prejudica-politicas-publicas-imagem-do-pais-no-exterior-dizem-autoridades-24553004)
+* [Deputado do PSL que ambiciona prefeitura do Rio é excluído de evento do partido](https://epoca.globo.com/guilherme-amado/deputado-do-psl-que-ambiciona-prefeitura-do-rio-excluido-de-evento-do-partido-24553154)
+* [Coreia do Norte isola cidade depois de revelar caso suspeito de Covid-19](https://oglobo.globo.com/mundo/coreia-do-norte-isola-cidade-depois-de-revelar-caso-suspeito-de-covid-19-24553149)
+* [Manutenção noturna de túneis, elevados e viadutos é retomada a partir desta segunda-feira; veja cronograma](https://oglobo.globo.com/rio/manutencao-noturna-de-tuneis-elevados-viadutos-retomada-partir-desta-segunda-feira-veja-cronograma-24553152)
+* [Doria diz que vacina poderá estar disponível em janeiro](https://oglobo.globo.com/sociedade/doria-diz-que-vacina-podera-estar-disponivel-em-janeiro-24553147)
 * [Secretário de Saúde diz que hospitais de campanha serão desmontados e cita leitos em excesso: 'que bom que errei na previsão'](https://oglobo.globo.com/rio/secretario-de-saude-diz-que-hospitais-de-campanha-serao-desmontados-cita-leitos-em-excesso-que-bom-que-errei-na-previsao-24553117)
 * [Dobra número de países com recorde diários de casos de covid-19](https://epoca.globo.com/mundo/dobra-numero-de-paises-com-recorde-diarios-de-casos-de-covid-19-24553116)
 * [Vietnã decide retirar 80 mil turistas de cidade após três novos casos de coronavírus](https://epoca.globo.com/mundo/vietna-decide-retirar-80-mil-turistas-de-cidade-apos-tres-novos-casos-de-coronavirus-24553036)
-* [Polícia identifica dois participantes de festa de uma milícia, na Costa Verde do Rio](https://oglobo.globo.com/rio/policia-identifica-dois-participantes-de-festa-de-uma-milicia-na-costa-verde-do-rio-24553056)
 * [Príncipe Harry se ofendeu com conselho do irmão sobre Meghan, diz livro](https://epoca.globo.com/mundo/principe-harry-se-ofendeu-com-conselho-do-irmao-sobre-meghan-diz-livro-24553109)
 * [Novos surtos de coronavírus na Espanha aumentam temor de 'segunda onda' na Europa](https://epoca.globo.com/mundo/novos-surtos-de-coronavirus-na-espanha-aumentam-temor-de-segunda-onda-na-europa-24553104)
-* [Protestos com vidros quebrados são o que Trump esperava](https://oglobo.globo.com/analitico/protestos-com-vidros-quebrados-sao-que-trump-esperava-24553069)
 * [Home office na praia: ilha paradisíaca oferece visto de trabalho na pandemia](https://epoca.globo.com/mundo/home-office-na-praia-ilha-paradisiaca-oferece-visto-de-trabalho-na-pandemia-24553089)
-* [Executivos lucram mais de US$ 1 bi em corrida pela vacina contra Covid-19 nos EUA](https://epoca.globo.com/economia/executivos-lucram-mais-de-us-1-bi-em-corrida-pela-vacina-contra-covid-19-nos-eua-24552907)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 11:12:46 UTC
+# indexed at 27/07/2020 11:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -13,40 +13,41 @@ layout: default
 * [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
 * [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
-* [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
+* [Imperial Wars Always Come Home](https://patrickwyman.substack.com/p/imperial-wars-always-come-home)
 * [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+* [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
 * [The Electric Car Atop Europe’s Sales Charts Isn’t a Tesla or VW](https://www.bloomberg.com/news/articles/2020-07-24/the-electric-car-atop-europe-s-sales-charts-isn-t-a-tesla-or-vw)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
 * [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
 * [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
 * [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
 * [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
-* [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
 * [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
-* [ADLPlug: FM Chip Synthesizer](https://github.com/jpcima/ADLplug)
+* [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
 * [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
-* [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
+* [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
+* [ADLPlug: FM Chip Synthesizer](https://github.com/jpcima/ADLplug)
 * [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
 * [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
 * [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
-* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
-* [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
 * [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
-* [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
+* [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
 ## nytimes.com
 
 
 * [Cities in Bind as Turmoil Spreads Far Beyond Portland](https://www.nytimes.com/2020/07/26/us/protests-portland-seattle-trump.html)
 * [Hoping to Understand the Virus, Everyone Is Parsing a Mountain of Data](https://www.nytimes.com/2020/07/27/us/coronavirus-data.html)
-* [Coronavirus Live Updates: Birx Urges Bar Closures and Limits on Gatherings](https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html)
+* [Coronavirus Live Updates: Moderna Begins Large Vaccine Trial With 30,000 Americans](https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html)
 * [Why Montana Is a Test Case for Democrats’ Winning the Senate](https://www.nytimes.com/2020/07/27/us/politics/montana-senate-bullock-daines.html)
 * [Joe Biden’s Vice-Presidential Pick: Who’s in the Running?](https://www.nytimes.com/article/biden-vice-president-2020.html)
 * [A Liberal Town Built Around Confederate Generals Rethinks Its Identity](https://www.nytimes.com/2020/07/26/us/politics/lexington-va-confederate-generals.html)
+* [Your Coronavirus Antibodies Are Disappearing. Should You Care?](https://www.nytimes.com/2020/07/26/health/coronvirus-antibody-tests.html)
 * [You Won’t Find These Masks at 7-Eleven](https://www.nytimes.com/2020/07/27/business/fashion-masks-coronavirus.html)
 * [Inside the Violent and Misogynistic World of Roy Den Hollander](https://www.nytimes.com/2020/07/26/nyregion/roy-den-hollander-judge.html)
 * [For the N.B.A., a Long, Strange Road Trip to the Finals](https://www.nytimes.com/2020/07/27/sports/basketball/coronavirus-nba-season-bubble-disney-world.html)
@@ -78,11 +79,11 @@ layout: default
 * [Jeff Bezos Cast in a Role He Never Wanted: Amazon’s D.C. Defender](https://www.nytimes.com/2020/07/27/business/jeff-bezos-amazon-congress.html)
 * [Did Hearst’s Culture Kill Hearst’s Biggest Magazine Story?](https://www.nytimes.com/2020/07/26/business/media/hearst-culture-magazines.html)
 * [These Businesses Lasted Decades. The Virus Closed Them for Good.](https://www.nytimes.com/2020/07/27/nyregion/coronavirus-small-business-nyc.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Sultry Nights and Magnolia Trees: New York City Is Now Subtropical](https://www.nytimes.com/2020/07/24/nyregion/climate-change-nyc.html)
 * [A Life Full of Meaning](https://www.nytimes.com/2020/07/24/well/family/a-life-full-of-meaning.html)
 * [Where the Sick Get Sicker and the Sane Are Driven Mad: Behind Bars](https://www.nytimes.com/2020/07/21/books/review/waiting-for-an-echo-christine-montross.html)
@@ -99,12 +100,12 @@ layout: default
 ## globo.com
 
 
+* [Criada por consultora da ONU, plataforma de ensino oferece educação antirracista e feminista que valoriza narrativas negras](https://oglobo.globo.com/celina/criada-por-consultora-da-onu-plataforma-de-ensino-oferece-educacao-antirracista-feminista-que-valoriza-narrativas-negras-24552116)
+* [Auxílio emergencial: pagamentos de novas parcelas começam nesta segunda-feira; Caixa desbloqueia mais contas](https://oglobo.globo.com/economia/auxilio-emergencial-pagamentos-de-novas-parcelas-comecam-nesta-segunda-feira-caixa-desbloqueia-mais-contas-24552668)
 * [Linha Vermelha tem trânsito intenso no sentido Centro devido a acidente entre carro e moto](https://oglobo.globo.com/rio/linha-vermelha-tem-transito-intenso-no-sentido-centro-devido-acidente-entre-carro-moto-24552660)
 * [Brasil tem 2.420.143 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2420143-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24552637)
 * [Três chefes do tráfico voltam ao Rio após mais de quatro anos em presídios federais](https://oglobo.globo.com/rio/tres-chefes-do-trafico-voltam-ao-rio-apos-mais-de-quatro-anos-em-presidios-federais-24552635)
 * ['Adeus, iFood': entregadores tentam criar cooperativa para trabalhar sem patrão](https://epoca.globo.com/brasil/adeus-ifood-entregadores-tentam-criar-cooperativa-para-trabalhar-sem-patrao-24552636)
-* [Espião da China recrutava informantes americanos no LinkedIn](https://epoca.globo.com/mundo/espiao-da-china-recrutava-informantes-americanos-no-linkedin-24552616)
-* ['Isso não é gente': os áudios com ataques a indígenas na pandemia que se tornaram alvos do MPF](https://epoca.globo.com/brasil/isso-nao-gente-os-audios-com-ataques-indigenas-na-pandemia-que-se-tornaram-alvos-do-mpf-24552614)
 * [Pressionado por deputados, governo prioriza repasses para municípios no combate ao coronavírus](https://oglobo.globo.com/brasil/pressionado-por-deputados-governo-prioriza-repasses-para-municipios-no-combate-ao-coronavirus-24552494)
 * [Restauração dos monumentos da Ilha da Boa Viagem começa esta semana](https://oglobo.globo.com/rio/bairros/restauracao-dos-monumentos-da-ilha-da-boa-viagem-comeca-esta-semana-24550757)
 * [JHSF quadruplica VGV em São Paulo](https://epoca.globo.com/guilherme-amado/jhsf-quadruplica-vgv-em-sao-paulo-24551108)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 09:13:45 UTC
+# indexed at 27/07/2020 09:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -23,21 +23,21 @@ layout: default
 * [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
-* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
-* [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
 * [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
-* [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
+* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
+* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
 * [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
+* [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
+* [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
-* [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
-* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
-* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
-* [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
-* [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
+* [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
+* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
 * [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
+* [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
+* [Lost World: Schieks Cave (2009)](http://gregbrick.org/schieks_cave)
 ## nytimes.com
 
 
@@ -53,6 +53,7 @@ layout: default
 * [In Era of Sickness, Doctors Prescribe Unusual Cure: Voting](https://www.nytimes.com/2020/07/25/us/in-era-of-sickness-doctors-prescribe-unusual-cure-voting.html)
 * [Inside the Violent and Misogynistic World of Roy Den Hollander](https://www.nytimes.com/2020/07/26/nyregion/roy-den-hollander-judge.html)
 * [Did Hearst’s Culture Kill Hearst’s Biggest Magazine Story?](https://www.nytimes.com/2020/07/26/business/media/hearst-culture-magazines.html)
+* [The Uncertain Future of Midtown](https://www.nytimes.com/2020/07/27/nyregion/nyc-midtown-manhattan-coronavirus.html)
 * [The Sunday Read: ‘The Accusation’](https://www.nytimes.com/2020/07/26/podcasts/the-daily/the-accusation-the-sunday-read.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
 * [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
@@ -78,11 +79,10 @@ layout: default
 * [Hurricane’s Choice for Texans: Shelter From the Virus or the Storm](https://www.nytimes.com/2020/07/26/us/virus-texas-storm.html)
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [A Saudi Spy Chief Hid Abroad. With Appeals and Threats, M.B.S. Tried to Bring Him Back](https://www.nytimes.com/2020/07/24/world/middleeast/Saudi-spy-mbs-extradition.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
-* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
 * [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
+* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [An Artist Who Reanimates Extinct Species](https://www.nytimes.com/2020/07/23/t-magazine/marguerite-humeau.html)
 * [Me, My Relationship and PTSD](https://www.nytimes.com/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)
 * [Premier League: Aston Villa Stays Up; United and Chelsea Return to Champions League](https://www.nytimes.com/2020/07/26/sports/soccer/premier-league-decision-day.html)

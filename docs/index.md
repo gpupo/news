@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 13:13:14 UTC
+# indexed at 27/07/2020 13:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
+* [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847)
 * [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
-* [Ancient microbial arms race sharpened immune system–but also left us vulnerable](https://www.sciencemag.org/news/2020/07/ancient-microbial-arms-race-sharpened-our-immune-system-also-left-us-vulnerable)
 * [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+* [Ancient microbial arms race sharpened our immune system but left us vulnerable](https://www.sciencemag.org/news/2020/07/ancient-microbial-arms-race-sharpened-our-immune-system-also-left-us-vulnerable)
 * [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
-* [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [What the heroin industry can teach us about solar power](https://www.bbc.com/news/science-environment-53450688)
-* [Imperial Wars Always Come Home](https://patrickwyman.substack.com/p/imperial-wars-always-come-home)
+* [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
 * [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
+* [Imperial Wars Always Come Home](https://patrickwyman.substack.com/p/imperial-wars-always-come-home)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
 * [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
 * [ADLPlug: FM Chip Synthesizer](https://github.com/jpcima/ADLplug)
 * [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
-* [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
-* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
-* [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
+* [The Electric Car Atop Europe’s Sales Charts Isn’t a Tesla or VW](https://www.bloomberg.com/news/articles/2020-07-24/the-electric-car-atop-europe-s-sales-charts-isn-t-a-tesla-or-vw)
+* [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
+* [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
 * [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
 * [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
+* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
+* [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
 * [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
-* [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
 * [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
+* [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
 * [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
-* [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
-* [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
 * [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
-* [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
 * [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
 ## nytimes.com
 
@@ -47,9 +47,9 @@ layout: default
 * [Why Montana Is a Test Case for Democrats’ Winning the Senate](https://www.nytimes.com/2020/07/27/us/politics/montana-senate-bullock-daines.html)
 * [Joe Biden’s Vice-Presidential Pick: Who’s in the Running?](https://www.nytimes.com/article/biden-vice-president-2020.html)
 * [Biden vs. Trump: Live Updates for the 2020 Election](https://www.nytimes.com/2020/07/27/us/elections/biden-vs-trump.html)
+* [John Lewis Is the First Black Lawmaker to Lie in State in the Capitol Rotunda](https://www.nytimes.com/2020/07/27/us/politics/john-lewis-memorial.html)
 * [Your Coronavirus Antibodies Are Disappearing. Should You Care?](https://www.nytimes.com/2020/07/26/health/coronvirus-antibody-tests.html)
 * [You Won’t Find These Masks at 7-Eleven](https://www.nytimes.com/2020/07/27/business/fashion-masks-coronavirus.html)
-* [Inside the Violent and Misogynistic World of Roy Den Hollander](https://www.nytimes.com/2020/07/26/nyregion/roy-den-hollander-judge.html)
 * [For the N.B.A., a Long, Strange Road Trip to the Finals](https://www.nytimes.com/2020/07/27/sports/basketball/coronavirus-nba-season-bubble-disney-world.html)
 * [A Small, Enduring Bloc](https://www.nytimes.com/2020/07/27/briefing/john-lewis-portland-coronavirus.html)
 * [The Uncertain Future of Midtown](https://www.nytimes.com/2020/07/27/nyregion/nyc-midtown-manhattan-coronavirus.html)
@@ -83,8 +83,8 @@ layout: default
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
 * [Sultry Nights and Magnolia Trees: New York City Is Now Subtropical](https://www.nytimes.com/2020/07/24/nyregion/climate-change-nyc.html)
 * [A Life Full of Meaning](https://www.nytimes.com/2020/07/24/well/family/a-life-full-of-meaning.html)
 * [Where the Sick Get Sicker and the Sane Are Driven Mad: Behind Bars](https://www.nytimes.com/2020/07/21/books/review/waiting-for-an-echo-christine-montross.html)
@@ -94,20 +94,19 @@ layout: default
 * [A Possible Weapon Against the Pandemic: Printing Human Tissue](https://www.nytimes.com/2020/07/27/science/bioprinting-covid-19-tests.html)
 * [Nature’s Noisiest Liars Carry Secrets in Their Calls](https://www.nytimes.com/2020/07/21/science/mammals-vocal-learning.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [Trump Backs Out of Throwing Pitch at Yankees Game](https://www.nytimes.com/2020/07/26/sports/baseball/trump-yankees-pitch-deblasio.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Patrimônio de bilionários brasileiros cresceu US$ 34 bilhões durante a pandemia, diz Oxfam](https://oglobo.globo.com/economia/patrimonio-de-bilionarios-brasileiros-cresceu-us-34-bilhoes-durante-pandemia-diz-oxfam-1-24552725)
+* [Tóquio abre instalações vazias dos Jogos Olímpicos para uso público](https://oglobo.globo.com/esportes/toquio-abre-instalacoes-vazias-dos-jogos-olimpicos-para-uso-publico-24552755)
+* [Vídeo mostra confronto no Morro Cerro-Corá, no Cosme Velho](https://oglobo.globo.com/rio/video-mostra-confronto-no-morro-cerro-cora-no-cosme-velho-24552786)
 * [Peru ultrapassa 380 mil casos do novo coronavírus](https://oglobo.globo.com/mundo/peru-ultrapassa-380-mil-casos-do-novo-coronavirus-24552699)
 * [Relatório do Banco Mundial destaca êxito de Sobral (CE) em índices de aprendizagem](https://oglobo.globo.com/sociedade/relatorio-do-banco-mundial-destaca-exito-de-sobral-ce-em-indices-de-aprendizagem-24552775)
 * [Thaila Ayala relança marca de roupas após polêmica: 'Não quisemos romantizar a pandemia'](https://oglobo.globo.com/ela/gente/thaila-ayala-relanca-marca-de-roupas-apos-polemica-nao-quisemos-romantizar-pandemia-24552752)
 * [Morre, aos 76 anos, o estilista japonês Kansai Yamamoto](https://oglobo.globo.com/ela/moda/morre-aos-76-anos-estilista-japones-kansai-yamamoto-24552741)
-* [Tóquio abre instalações vazias dos Jogos Olímpicos para uso público](https://oglobo.globo.com/esportes/toquio-abre-instalacoes-vazias-dos-jogos-olimpicos-para-uso-publico-24552755)
 * [Portal pede pistas de três suspeitos de participar da chacina de Anchieta](https://oglobo.globo.com/rio/portal-pede-pistas-de-tres-suspeitos-de-participar-da-chacina-de-anchieta-24552728)
-* [FGTS emergencial: Caixa libera até R$ 1.045 para nascidos em maio nesta segunda. Veja calendário](https://oglobo.globo.com/economia/fgts-emergencial-caixa-libera-ate-1045-para-nascidos-em-maio-nesta-segunda-veja-calendario-24552685)
 * [Marina Ruy Barbosa participa da 'Entrevista na janela', série de vídeos produzida pelo GLOBO](https://oglobo.globo.com/ela/gente/marina-ruy-barbosa-participa-da-entrevista-na-janela-serie-de-videos-produzida-pelo-globo-24551393)
 * [Associação de Petróleo alerta que atraso em regulação pode afetar leilão de gás](https://epoca.globo.com/guilherme-amado/associacao-de-petroleo-alerta-que-atraso-em-regulacao-pode-afetar-leilao-de-gas-1-24550908)
-* [Governo federal autoriza captação de patrocínio para peça de Gabriel Chalita](https://epoca.globo.com/guilherme-amado/governo-federal-autoriza-captacao-de-patrocinio-para-peca-de-gabriel-chalita-24550814)

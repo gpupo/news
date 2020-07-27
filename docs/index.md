@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 06:34:37 UTC
+# indexed at 27/07/2020 07:13:37 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
 * [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
-* [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
-* [Everyone’s a Day Trader Now](https://www.wsj.com/articles/everyones-a-day-trader-now-11595649609)
+* [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
 * [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
 * [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
 * [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
-* [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
 * [Warren Buffett 1997 Email Exchange on Microsoft [pdf]](http://sabercapitalmgt.com/wp-content/uploads/2019/12/BuffettRaikesemails.pdf)
+* [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
-* [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
+* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
 * [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
 * [Audio from Scratch with Go: Stereo Panning](https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/)
+* [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
+* [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
+* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
 * [Mao Kun Map](https://en.wikipedia.org/wiki/Mao_Kun_map)
 * [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
-* [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
-* [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
 * [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
 * [Lost World: Schieks Cave (2009)](http://gregbrick.org/schieks_cave)
 * [VM Computers](https://www.curseforge.com/minecraft/mc-mods/vm-computers)
 * [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
 * [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
-* [Luigi Model found in Mario 64 source code](https://twitter.com/bigcti/status/1287127746120998912)
 * [Facebook has blocked Dreamwidth](https://andrewducker.dreamwidth.org/3861716.html)
+* [Luigi Model found in Mario 64 source code](https://twitter.com/bigcti/status/1287127746120998912)
 ## nytimes.com
 
 
@@ -78,11 +78,10 @@ layout: default
 * [Hurricane’s Choice for Texans: Shelter From the Virus or the Storm](https://www.nytimes.com/2020/07/26/us/virus-texas-storm.html)
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [A Saudi Spy Chief Hid Abroad. With Appeals and Threats, M.B.S. Tried to Bring Him Back](https://www.nytimes.com/2020/07/24/world/middleeast/Saudi-spy-mbs-extradition.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
 * [An Artist Who Reanimates Extinct Species](https://www.nytimes.com/2020/07/23/t-magazine/marguerite-humeau.html)
 * [Me, My Relationship and PTSD](https://www.nytimes.com/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)
 * [Premier League: Aston Villa Stays Up; United and Chelsea Return to Champions League](https://www.nytimes.com/2020/07/26/sports/soccer/premier-league-decision-day.html)
@@ -99,7 +98,6 @@ layout: default
 
 
 * [Veja quais são os jogos das quartas de final do Campeonato Paulista](https://oglobo.globo.com/esportes/veja-quais-sao-os-jogos-das-quartas-de-final-do-campeonato-paulista-24552584)
-* [Brasil atinge 87.052 óbitos por coronavírus, destaca consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-atinge-87052-obitos-por-coronavirus-destaca-consorcio-de-veiculos-de-imprensa-24552364)
 * [Um novo ‘cordão sanitário’](https://oglobo.globo.com/opiniao/um-novo-cordao-sanitario-24550371)
 * [Bibliotecas em chamas](https://oglobo.globo.com/opiniao/bibliotecas-em-chamas-24550357)
 * [Segunda sem carne: receita de estrogonofe de cogumelo Paris](https://oglobo.globo.com/rioshow/segunda-sem-carne-receita-de-estrogonofe-de-cogumelo-paris-24552376)
@@ -108,3 +106,4 @@ layout: default
 * [Resultados pífios na política de emprego e de qualificação](https://oglobo.globo.com/opiniao/resultados-pifios-na-politica-de-emprego-de-qualificacao-1-24549550)
 * [Educação só para constar](https://oglobo.globo.com/opiniao/educacao-so-para-constar-24550385)
 * [Quem ganha com o custo Brasil?](https://oglobo.globo.com/opiniao/quem-ganha-com-custo-brasil-24550078)
+* [Do restaurante direto para a despensa da sua casa](https://oglobo.globo.com/rioshow/do-restaurante-direto-para-despensa-da-sua-casa-1-24549714)

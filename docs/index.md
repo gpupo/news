@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 08:34:25 UTC
+# indexed at 27/07/2020 09:13:45 UTC
 
 
 ## news.ycombinator.com
@@ -12,11 +12,11 @@ layout: default
 * [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
 * [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
+* [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
 * [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
 * [Named arguments are coming in PHP 8](https://stitcher.io/blog/php-8-named-arguments)
-* [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [One company's plan to build a search engine Google can't beat](https://www.protocol.com/neeva-search)
 * [Harry Eng, the Master of the “Impossible Bottle”](https://www.puzzlemuseum.com/puzzles/amb/eng_botts/harry-eng.htm)
 * [50 authors, 50 science fiction stories shorter than novels](https://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html)
@@ -25,19 +25,19 @@ layout: default
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
 * [Reading Hard-to-Read Gravestones (2014)](https://organizeyourfamilyhistory.com/reading-hard-read-gravestones/)
-* [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
 * [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
-* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
-* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
-* [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
-* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
 * [Show HN: Kardius – find people like you, near you – made with Rust and Rocket](https://www.kardius.com/)
+* [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
+* [Small mail server best current practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
 * [Research Based on the .NET Runtime (2019)](http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/)
+* [A dying teenager who wanted world peace (and love)](https://www.bbc.com/news/stories-52763560)
+* [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
+* [Headphones are collecting too much personal data (2019)](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/)
+* [Show HN: MathLingua – The Language of Mathematics](http://www.mathlingua.org/)
 * [Olivia de Havilland, sophisticated star of Hollywood's golden age, dies at 104](https://www.hollywoodreporter.com/news/olivia-de-havilland-dead-gone-wind-adventures-robin-hood-star-was-104-720040)
 * [About Ron Graham](http://www.math.ucsd.edu/~fan/ron/)
-* [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
 * [Run PHP in the browser through Babel](https://gitlab.com/kornelski/babel-preset-php)
-* [Lost World: Schieks Cave (2009)](http://gregbrick.org/schieks_cave)
+* [This month in 1939: How dead cattle led to the discovery of warfarin](http://www.pmlive.com/pharma_news/how_dead_cattle_led_to_the_discovery_of_warfarin_485464)
 ## nytimes.com
 
 
@@ -69,20 +69,20 @@ layout: default
 * [In Portland’s So-Called War Zone, It’s the Troops Who Provide the Menace](https://www.nytimes.com/2020/07/25/opinion/sunday/portland-protest-federal-troops.html)
 * [As a Teenager, I Hated Johnny Carson. Then Came the Pandemic.](https://www.nytimes.com/2020/07/26/arts/television/johnny-carson-tonight-show.html)
 * [Taylor Swift's "Folklore" Review: A Pop Star Done With Pop](https://www.nytimes.com/2020/07/26/arts/music/taylor-swift-folklore-review.html)
-* [Trump Backs Out of Throwing Pitch at Yankees Game](https://www.nytimes.com/2020/07/26/sports/baseball/trump-yankees-pitch-deblasio.html)
+* [Education Dept.’s Civil Rights Chief Steps Down Amid Controversy](https://www.nytimes.com/2020/07/27/us/politics/kenneth-marcus-education-department.html)
 * [States Issue Warnings About Seed Packets From China](https://www.nytimes.com/2020/07/26/us/seeds-from-china-mail.html)
-* [Quarantine Order Blindsides Britons Returning From Spain](https://www.nytimes.com/2020/07/26/world/europe/Spain-quarantine-UK-travel.html)
+* [Travelers From Spain Must Self-Isolate, U.K. Abruptly Announces](https://www.nytimes.com/2020/07/26/world/europe/Spain-quarantine-UK-travel.html)
 * [Hurricane Douglas: Hawaii Braces for 'Triple Threat'](https://www.nytimes.com/2020/07/26/us/hurricane-douglas-hawaii.html)
 * [Peter Green, Fleetwood Mac’s Founder, Is Dead at 73](https://www.nytimes.com/2020/07/26/arts/music/peter-green-dead.html)
 * [For French-Algerian Families, Virus Disrupts Cherished Summer Ritual](https://www.nytimes.com/2020/07/26/world/europe/france-algeria-summer-vacations.html)
 * [Hurricane’s Choice for Texans: Shelter From the Virus or the Storm](https://www.nytimes.com/2020/07/26/us/virus-texas-storm.html)
 * [Olivia de Havilland, a Star of ‘Gone With the Wind,’ Dies at 104](https://www.nytimes.com/2020/07/26/movies/olivia-de-havilland-dead.html)
 * [A Saudi Spy Chief Hid Abroad. With Appeals and Threats, M.B.S. Tried to Bring Him Back](https://www.nytimes.com/2020/07/24/world/middleeast/Saudi-spy-mbs-extradition.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [Where the Wild Things Play](https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
+* [How to Workout Without a Gym](https://www.nytimes.com/2020/06/27/at-home/workout-without-a-gym-coronavirus.html)
+* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
 * [An Artist Who Reanimates Extinct Species](https://www.nytimes.com/2020/07/23/t-magazine/marguerite-humeau.html)
 * [Me, My Relationship and PTSD](https://www.nytimes.com/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)
 * [Premier League: Aston Villa Stays Up; United and Chelsea Return to Champions League](https://www.nytimes.com/2020/07/26/sports/soccer/premier-league-decision-day.html)
@@ -91,7 +91,7 @@ layout: default
 * [The Doctor From Nazi Germany and the Search for Life on Mars](https://www.nytimes.com/2020/07/24/science/mars-jars-strughold.html)
 * [Global Warming Is Driving Polar Bears Toward Extinction, Researchers Say](https://www.nytimes.com/2020/07/20/climate/polar-bear-extinction.html)
 * [Does Blood Type Affect Your Risk Of Coronavirus? Probably Not, New Studies Say](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html)
-* [Learn to Draw](https://www.nytimes.com/2020/07/25/at-home/coronavirus-learn-to-draw.html)
+* [Trump Backs Out of Throwing Pitch at Yankees Game](https://www.nytimes.com/2020/07/26/sports/baseball/trump-yankees-pitch-deblasio.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -99,8 +99,8 @@ layout: default
 
 
 * [Brasil tem déficit de 18 mil leitos hospitalares no SUS, diz Conselho Federal de Medicina](https://oglobo.globo.com/sociedade/brasil-tem-deficit-de-18-mil-leitos-hospitalares-no-sus-diz-conselho-federal-de-medicina-24552347)
-* [Um dos bandidos mais procurados do Rio, o miliciano Ecko seria o alvo da operação que interrompeu live de pagode em Angra](https://oglobo.globo.com/rio/um-dos-bandidos-mais-procurados-do-rio-miliciano-ecko-seria-alvo-da-operacao-que-interrompeu-live-de-pagode-em-angra-24552591)
 * [Número de patrocínios cresce, e clubes vislumbram novos acordos com volta do futebol](https://oglobo.globo.com/esportes/numero-de-patrocinios-cresce-clubes-vislumbram-novos-acordos-com-volta-do-futebol-24552598)
+* [Governo federal desembolsou R$ 384 bi nos últimos 26 anos a pensionistas civis](https://epoca.globo.com/guilherme-amado/governo-federal-desembolsou-384-bi-nos-ultimos-26-anos-pensionistas-civis-24539257)
 * [Mansur: Debate em torno de São Paulo e Corinthians é uma aula prática de Brasil](https://oglobo.globo.com/esportes/mansur-debate-em-torno-de-sao-paulo-corinthians-uma-aula-pratica-de-brasil-24552594)
 * [Alvo do Flamengo, Carvalhal tem sonho de voltar à Inglaterra e trauma recente com violência](https://oglobo.globo.com/esportes/alvo-do-flamengo-carvalhal-tem-sonho-de-voltar-inglaterra-trauma-recente-com-violencia-24552493)
 * [Saiba como recordista do salto com vara, 'o próximo Bolt', encarou a quarentena](https://oglobo.globo.com/esportes/saiba-como-recordista-do-salto-com-vara-proximo-bolt-encarou-quarentena-24545046)

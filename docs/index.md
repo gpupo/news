@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 22:12:49 UTC
+# indexed at 27/07/2020 22:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -10,38 +10,38 @@ layout: default
 
 * [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
-* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
+* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
 * [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
 * [How did anyone do math in Roman numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
-* [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
 * [Why Bitcoin is not a socialist’s ally](https://www.yanisvaroufakis.eu/2020/07/27/why-bitcoin-is-the-not-socialists-ally-reply-to-ben-arc/)
+* [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
 * [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Weird Shell – Structural Regular Expressions Unix Shell Made in Rust](https://git.sr.ht/~tudor/rwsh)
 * [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [Garmin obtains decryption key after ransomware attack](https://news.sky.com/story/garmin-obtains-decryption-key-after-ransomware-attack-12036761)
-* [Weird Shell – Structural Regular Expressions Unix Shell Made in Rust](https://git.sr.ht/~tudor/rwsh)
 * [Afghan opium growers have switched to solar power](https://www.bbc.com/news/science-environment-53450688)
 * [Next.js 9.5 – Redirects and Rewrites, Webpack 5 Beta](https://nextjs.org/blog/next-9-5)
 * [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 * [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
 * [Extremal Combinatorics With Applications in Computer Science](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
 * [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
-* [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 * [Fish in a Barrel Memory Safety Bounty Program](https://github.com/fishinabarrel/bounty)
-* [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
-* [Nimble (YC S17) is hiring full-stack dev (React/Django)](https://news.ycombinator.com/item?id=23968175)
+* [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 * [Google to keep employees home until summer 2021](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
+* [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
 * [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
+* [Nimble (YC S17) is hiring full-stack dev (React/Django)](https://news.ycombinator.com/item?id=23968175)
 ## nytimes.com
 
 
-* [Coronavirus Live Updates: G.O.P. Seeks to Cut $600 Weekly Jobless Aid by Two-Thirds](https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html)
+* [GOP Seeks to Cut $600 Weekly Jobless Aid by Two-Thirds: Live Updates](https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html)
 * [The Doctor Behind the Disputed Covid Data](https://www.nytimes.com/2020/07/27/science/coronavirus-retracted-studies-data.html)
 * [Miami Marlins Outbreak Postpones 2 Games and Rocks M.L.B.’s Return](https://www.nytimes.com/2020/07/27/sports/baseball/marlins-game-canceled.html)
 * [Of Wine, Hand Sanitizer and Heartbreak](https://www.nytimes.com/2020/07/27/world/europe/france-alsace-wine-coronavirus.html)
@@ -75,17 +75,17 @@ layout: default
 * [National Guard Officer Says Police Used ‘Excessive’ Force at White House Clash](https://www.nytimes.com/2020/07/27/us/politics/national-guard-excessive-force-lafayette-square.html)
 * [Two Teenagers Are Among 8 Killed on Deadly Day in New York City](https://www.nytimes.com/2020/07/27/nyregion/nyc-shootings-weekend.html)
 * [E.P.A. Inspector General to Investigate Trump’s Biggest Climate Rollback](https://www.nytimes.com/2020/07/27/climate/trump-fuel-efficiency-rule.html)
-* [Kansai Yamamoto, Designer With Ziggy Stardust as a Client, Dies at 76](https://www.nytimes.com/2020/07/27/fashion/kansai-yamamoto-david-bowie-japanese-fashion-designer-dies.html)
+* [New Gold Rush Pushes Price to Record Highs](https://www.nytimes.com/2020/07/27/business/gold-prices-record-high.html)
 * [Taliban Executes Female Prison Guard, and U.N. Raises Concern Over Afghan Violence](https://www.nytimes.com/2020/07/27/world/asia/taliban-executes-guard-afghanistan.html)
 * [Why Montana Is a Test Case for Democrats’ Winning the Senate](https://www.nytimes.com/2020/07/27/us/politics/montana-senate-bullock-daines.html)
 * [U.K.'s New Coronavirus Tactic: Urge Britons to Lose Weight](https://www.nytimes.com/2020/07/27/world/europe/uk-boris-johnson-coronavirus-obesity.html)
 * [As N.F.L. Fights Racism and Sexism, Team Owners Undercut the Message](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html)
 * [Upsides for Some Remote Workers; Lost Pay and Security for Others](https://www.nytimes.com/2020/07/26/business/economy/labor-remote-work-coronavirus.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Living With Edmund White](https://www.nytimes.com/2020/07/24/books/edmund-white-a-saint-from-texas.html)
 * [Coming of Age on Mars](https://www.nytimes.com/2020/07/27/science/mars-sarah-stewart-johnson.html)
 * [An All-Day Journey Through Baseball’s Weird New Season](https://www.nytimes.com/2020/07/26/sports/baseball/mlb-season.html)
@@ -103,12 +103,12 @@ layout: default
 ## globo.com
 
 
-* ['Novo' réveillon é estudado pela Prefeitura do Rio: sem aglomerações, voltado para a reflexão e inspirado na França](https://oglobo.globo.com/rio/novo-reveillon-estudado-pela-prefeitura-do-rio-sem-aglomeracoes-voltado-para-reflexao-inspirado-na-franca-24553539)
-* [Carta de bispos amplia racha na CNBB sobre relação com governo Bolsonaro](https://oglobo.globo.com/brasil/carta-de-bispos-amplia-racha-na-cnbb-sobre-relacao-com-governo-bolsonaro-1-24553523)
 * [Tenor Andrea Bocelli critica governo italiano por quarentena e diz que não acredita no coronavírus](https://oglobo.globo.com/mundo/tenor-andrea-bocelli-critica-governo-italiano-por-quarentena-diz-que-nao-acredita-no-coronavirus-24553640)
-* [Justiça homologa recuperação da Odebrecht](https://oglobo.globo.com/economia/justica-homologa-recuperacao-da-odebrecht-24553614)
+* [Rodrigo Rodrigues: boletim médico informa que jornalista segue em coma induzido após necessidade de procedimento no cérebro](https://oglobo.globo.com/esportes/rodrigo-rodrigues-boletim-medico-informa-que-jornalista-segue-em-coma-induzido-apos-necessidade-de-procedimento-no-cerebro-24553670)
+* [Rio tem semana com mais casos registrados de Covid-19 em julho: 40% só na Baixada e no Norte; número de mortes chega a 12,8 mil](https://oglobo.globo.com/rio/rio-tem-semana-com-mais-casos-registrados-de-covid-19-em-julho-40-so-na-baixada-no-norte-numero-de-mortes-chega-128-mil-24553547)
+* [Rio fará consulta à população carioca sobre festa de réveillon, afetada pela pandemia](https://oglobo.globo.com/rio/rio-fara-consulta-populacao-carioca-sobre-festa-de-reveillon-afetada-pela-pandemia-24553680)
+* [Justiça homologa plano de recuperação da Odebrecht](https://oglobo.globo.com/economia/justica-homologa-plano-de-recuperacao-da-odebrecht-24553614)
 * [Mortes por causas naturais voltam a índices pré-pandemia em São Paulo](https://oglobo.globo.com/sociedade/mortes-por-causas-naturais-voltam-indices-pre-pandemia-em-sao-paulo-24553568)
-* [Suspeito de matar a própria mãe é preso em São Gonçalo](https://oglobo.globo.com/rio/suspeito-de-matar-propria-mae-preso-em-sao-goncalo-24553562)
 * [Rio e Piauí mostram que área social não precisa só de dinheiro](https://oglobo.globo.com/analitico/rio-piaui-mostram-que-area-social-nao-precisa-so-de-dinheiro-24553466)
 * [Leilão de 5 mil peças de hotel no Rio tem lances a partir de R$ 20](https://oglobo.globo.com/economia/leilao-de-5-mil-pecas-de-hotel-no-rio-tem-lances-partir-de-20-24553579)
 * [Angélica Freitas e a poesia de um país que ‘não passou de projeto’](https://epoca.globo.com/guilherme-amado/angelica-freitas-a-poesia-de-um-pais-que-nao-passou-de-projeto-24553557)

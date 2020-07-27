@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 20:34:30 UTC
+# indexed at 27/07/2020 21:11:23 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
 * [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
-* [Ted Williams's Strike Zone](https://deadspin.com/the-beautiful-infographics-of-ted-williamss-the-scienc-1511889371)
 * [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
+* [How Did Anyone Do Math in Roman Numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
+* [Ted Williams's Strike Zone](https://deadspin.com/the-beautiful-infographics-of-ted-williamss-the-scienc-1511889371)
 * [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [Garmin obtains decryption key after ransomware attack](https://news.sky.com/story/garmin-obtains-decryption-key-after-ransomware-attack-12036761)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
-* [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 * [Afghan opium growers have switched to solar power](https://www.bbc.com/news/science-environment-53450688)
+* [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 * [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
 * [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
 * [Fish in a Barrel Memory Safety Bounty Program](https://github.com/fishinabarrel/bounty)
 * [Extremal Combinatorics With Applications in Computer Science](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
-* [Nimble (YC S17) is hiring full-stack dev (React/Django)](https://news.ycombinator.com/item?id=23968175)
+* [Next.js 9.5 – Redirects and Rewrites, Webpack 5 Beta](https://nextjs.org/blog/next-9-5)
 * [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 * [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
-* [Sailor pictured with laser rifle on board USS Minnesota nuclear sub](https://www.thedrive.com/the-war-zone/35106/check-out-this-sailor-holding-a-laser-dazzler-rifle-aboard-nuclear-submarine-uss-minnesota)
+* [Nimble (YC S17) is hiring full-stack dev (React/Django)](https://news.ycombinator.com/item?id=23968175)
 * [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
-* [Interactive Comparison of Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
-* [Show HN: Acquisition Blog Post Generator](https://thisstartupacquisitionannouncementdoesnotexist.ajnisbet.com/)
-* [Google to keep employees home until summer 2021](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
 * [Forster in Cambridge](https://lrb.co.uk/the-paper/v42/n15/richard-shone/forster-in-cambridge)
-* [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://techcrunch.com/2020/07/27/cloudflare-launches-workers-unbound-the-next-evolution-of-its-serverless-platform/)
+* [Interactive Comparison of Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
+* [Google to keep employees home until summer 2021](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
+* [Sailor pictured with laser rifle on board USS Minnesota nuclear sub](https://www.thedrive.com/the-war-zone/35106/check-out-this-sailor-holding-a-laser-dazzler-rifle-aboard-nuclear-submarine-uss-minnesota)
 * [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
-* [Optimizing an Open Source Texture Synthesis Library](http://peterstefek.me/texture-optimization.html)
-* [Appreciating accessibility with a broken collar bone](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
+* [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://techcrunch.com/2020/07/27/cloudflare-launches-workers-unbound-the-next-evolution-of-its-serverless-platform/)
 ## nytimes.com
 
 
@@ -66,7 +66,7 @@ layout: default
 * [Colonialism Made the Modern World. Let’s Remake It.](https://www.nytimes.com/2020/07/27/opinion/decolonization-statues.html)
 * [Trump’s Nakedly Political Pandemic Pivot](https://www.nytimes.com/2020/07/26/opinion/trump-coronavirus-convention.html)
 * [The Death Penalty Can Ensure ‘Justice Is Being Done’](https://www.nytimes.com/2020/07/27/opinion/federal-death-penalty.html)
-* [Look to Local Prosecutors for Police Reform](https://www.nytimes.com/2020/07/27/opinion/Boudin-prosecutor-reform.html)
+* [The Police Answer to Us. What Will We Do About It?](https://www.nytimes.com/2020/07/27/opinion/Boudin-prosecutor-reform.html)
 * [As Federal Forces Confront Protesters](https://www.nytimes.com/2020/07/27/opinion/letters/protests-portland.html)
 * [On the Lookout for Moose on Michigan’s Isle Royale](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html)
 * [Taylor Swift's 'Folklore' Review: A Pop Star Done With Pop](https://www.nytimes.com/2020/07/26/arts/music/taylor-swift-folklore-review.html)
@@ -80,11 +80,11 @@ layout: default
 * [U.K.'s New Coronavirus Tactic: Urge Britons to Lose Weight](https://www.nytimes.com/2020/07/27/world/europe/uk-boris-johnson-coronavirus-obesity.html)
 * [As N.F.L. Fights Racism and Sexism, Team Owners Undercut the Message](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html)
 * [Upsides for Some Remote Workers; Lost Pay and Security for Others](https://www.nytimes.com/2020/07/26/business/economy/labor-remote-work-coronavirus.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Living With Edmund White](https://www.nytimes.com/2020/07/24/books/edmund-white-a-saint-from-texas.html)
 * [Coming of Age on Mars](https://www.nytimes.com/2020/07/27/science/mars-sarah-stewart-johnson.html)
 * [An All-Day Journey Through Baseball’s Weird New Season](https://www.nytimes.com/2020/07/26/sports/baseball/mlb-season.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [A pedido de Aras, Toffoli arquiva abertura de inquéritos da delação de Sergio Cabral](https://oglobo.globo.com/brasil/a-pedido-de-aras-toffoli-arquiva-abertura-de-inqueritos-da-delacao-de-sergio-cabral-24553438)
-* [Espanha tenta salvar turismo após aumento de casos e restrições de viagens ao país](https://oglobo.globo.com/mundo/espanha-tenta-salvar-turismo-apos-aumento-de-casos-restricoes-de-viagens-ao-pais-1-24553425)
+* [Departamento de Justiça e CVM americanos investigam Johnson & Johnson por propina no Rio](https://epoca.globo.com/guilherme-amado/departamento-de-justica-cvm-americanos-investigam-johnson-johnson-por-propina-no-rio-24553551)
+* ['Novo' réveillon é estudado pela Prefeitura do Rio: sem aglomerações, voltado para a reflexão e inspirado na França](https://oglobo.globo.com/rio/novo-reveillon-estudado-pela-prefeitura-do-rio-sem-aglomeracoes-voltado-para-reflexao-inspirado-na-franca-24553539)
+* [Suspeito de matar a própria mãe, homem é preso em São Gonçalo](https://oglobo.globo.com/rio/suspeito-de-matar-propria-mae-homem-preso-em-sao-goncalo-24553562)
+* [Um dos filmes mais esperados do ano, 'Tenet', de Christopher Nolan, ganha data de estreia](https://oglobo.globo.com/cultura/um-dos-filmes-mais-esperados-do-ano-tenet-de-christopher-nolan-ganha-data-de-estreia-24553502)
+* ['O pensamento de todos é a vontade de ajudar', diz voluntário brasileiro que tomou a vacina de Oxford](https://oglobo.globo.com/sociedade/coronavirus/o-pensamento-de-todos-a-vontade-de-ajudar-diz-voluntario-brasileiro-que-tomou-vacina-de-oxford-24553020)
 * [Egito prende cinco influenciadoras digitais por portagens no TikTok](https://oglobo.globo.com/mundo/egito-prende-cinco-influenciadoras-digitais-por-portagens-no-tiktok-24553446)
-* [Equipe econômica quer antecipar envio da segunda etapa da reforma tributária ao Congresso](https://oglobo.globo.com/economia/equipe-economica-quer-antecipar-envio-da-segunda-etapa-da-reforma-tributaria-ao-congresso-24553324)
-* [Sindicato de Estabelecimentos de Ensino defende volta volta às aulas: 'Estudos só confundiram'; vídeo gera polêmica nas redes](https://oglobo.globo.com/rio/sindicato-de-estabelecimentos-de-ensino-defende-volta-volta-as-aulas-estudos-so-confundiram-video-gera-polemica-nas-redes-24553406)
-* [Flamengo fecha acordo com sétima família de vítimas do incêndio do Ninho do Urubu](https://oglobo.globo.com/esportes/flamengo-fecha-acordo-com-setima-familia-de-vitimas-do-incendio-do-ninho-do-urubu-24553365)
-* [Bolsonaro deve retomar viagens com visitas a Bahia, Piauí e Rio Grande do Sul](https://oglobo.globo.com/brasil/bolsonaro-deve-retomar-viagens-com-visitas-bahia-piaui-rio-grande-do-sul-1-24553327)
-* [Youtuber vira ré em ação por denunciação caluniosa, agressão e porte ilegal de arma](https://epoca.globo.com/brasil/youtuber-vira-re-em-acao-por-denunciacao-caluniosa-agressao-porte-ilegal-de-arma-24553322)
-* [Carlos Carvalhal recusa proposta e não será treinador do Flamengo, diz jornal](https://oglobo.globo.com/esportes/carlos-carvalhal-recusa-proposta-nao-sera-treinador-do-flamengo-diz-jornal-24553369)
-* [Itamaraty pediu visto para Weintraub entrar nos EUA usando dados de passaporte diplomático](https://oglobo.globo.com/brasil/itamaraty-pediu-visto-para-weintraub-entrar-nos-eua-usando-dados-de-passaporte-diplomatico-1-24553345)
+* [Carta de bispos amplia racha na CNBB sobre relação com governo Bolsonaro](https://oglobo.globo.com/brasil/carta-de-bispos-amplia-racha-na-cnbb-sobre-relacao-com-governo-bolsonaro-24553523)
+* [A pedido de Aras, presidente do STF arquiva abertura de inquéritos da delação de Cabral](https://oglobo.globo.com/brasil/a-pedido-de-aras-presidente-do-stf-arquiva-abertura-de-inqueritos-da-delacao-de-cabral-24553484)
+* [Facebook adia divulgação de resultados para Zuckerberg participar de audiência no Congresso](https://oglobo.globo.com/economia/facebook-adia-divulgacao-de-resultados-para-zuckerberg-participar-de-audiencia-no-congresso-24553277)
+* [Vídeo mostra milicianos armados em festa em Angra dos Reis antes de chegada da polícia](https://epoca.globo.com/rio/video-mostra-milicianos-armados-em-festa-em-angra-dos-reis-antes-de-chegada-da-policia-24553300)

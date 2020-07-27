@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 23:12:42 UTC
+# indexed at 27/07/2020 23:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
-* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
-* [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
-* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
+* [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
+* [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
+* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
 * [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
-* [How did anyone do math in Roman numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
-* [Make School is recruiting an adjunct faculty to teach at an HBCU](https://docs.google.com/document/d/1UgK8Lb8vQLPijElrQEl2t0bZqwu28xBdQRKAbjLj21Y/preview)
 * [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
 * [Show HN: Routine Ops – Schedule recurring tasks by role](https://routineops.com)
-* [Weird Shell – Structural Regular Expressions Unix Shell Made in Rust](https://git.sr.ht/~tudor/rwsh)
 * [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
+* [Make School is recruiting an adjunct faculty to teach at an HBCU](https://docs.google.com/document/d/1UgK8Lb8vQLPijElrQEl2t0bZqwu28xBdQRKAbjLj21Y/preview)
 * [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Weird Shell – Structural Regular Expressions Unix Shell Made in Rust](https://git.sr.ht/~tudor/rwsh)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+* [Garmin obtains decryption key after ransomware attack](https://news.sky.com/story/garmin-obtains-decryption-key-after-ransomware-attack-12036761)
 * [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
-* [Garmin obtains decryption key after ransomware attack](https://news.sky.com/story/garmin-obtains-decryption-key-after-ransomware-attack-12036761)
 * [Afghan opium growers have switched to solar power](https://www.bbc.com/news/science-environment-53450688)
 * [Next.js 9.5 – Redirects and Rewrites, Webpack 5 Beta](https://nextjs.org/blog/next-9-5)
 * [The code I’m still ashamed of (2016)](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 * [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
 * [Extremal Combinatorics With Applications in Computer Science](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
 * [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
-* [Fish in a Barrel Memory Safety Bounty Program](https://github.com/fishinabarrel/bounty)
-* [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
+* [How did anyone do math in Roman numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
 * [Google to keep employees home until summer 2021](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
+* [The terms of the AGPL are pretty easy to comply with](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
+* [Fish in a Barrel Memory Safety Bounty Program](https://github.com/fishinabarrel/bounty)
 * [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
 ## nytimes.com
 
@@ -50,7 +50,7 @@ layout: default
 * [John Lewis to Lie in State in the Capitol Rotunda](https://www.nytimes.com/2020/07/27/us/politics/john-lewis-memorial.html)
 * [Susan Rice Wants to Run for Office. Will Her First Campaign Be for V.P.?](https://www.nytimes.com/2020/07/27/us/politics/susan-rice-biden-vice-president.html)
 * [Trump Again Tries to Block Subpoena for Taxes, Calling It ‘Wildly Overbroad’](https://www.nytimes.com/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
-* [Live 2020 Election Updates: Biden vs. Trump](https://www.nytimes.com/2020/07/27/us/elections/biden-vs-trump.html)
+* [Biden vs. Trump: Live Updates on the 2020 Election](https://www.nytimes.com/2020/07/27/us/elections/biden-vs-trump.html)
 * [Hotels Are Promoting the Nostalgia of the Family Road Trip](https://www.nytimes.com/2020/07/27/business/hotels-marketing-coronavirus.html)
 * [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [They Crossed Oceans to Lift Their Families Out of Poverty. Now, They Need Help.](https://www.nytimes.com/2020/07/27/business/global-remittances-coronavirus.html)
@@ -78,12 +78,12 @@ layout: default
 * [New Gold Rush Pushes Price to Record Highs](https://www.nytimes.com/2020/07/27/business/gold-prices-record-high.html)
 * [Taliban Executes Female Prison Guard, and U.N. Raises Concern Over Afghan Violence](https://www.nytimes.com/2020/07/27/world/asia/taliban-executes-guard-afghanistan.html)
 * [Why Montana Is a Test Case for Democrats’ Winning the Senate](https://www.nytimes.com/2020/07/27/us/politics/montana-senate-bullock-daines.html)
+* [Hilary Mantel and Anne Tyler in Running for Booker Prize](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
 * [U.K.'s New Coronavirus Tactic: Urge Britons to Lose Weight](https://www.nytimes.com/2020/07/27/world/europe/uk-boris-johnson-coronavirus-obesity.html)
 * [As N.F.L. Fights Racism and Sexism, Team Owners Undercut the Message](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html)
-* [Upsides for Some Remote Workers; Lost Pay and Security for Others](https://www.nytimes.com/2020/07/26/business/economy/labor-remote-work-coronavirus.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [That Almost Apology for the 1980 Olympic Boycott Helps. A Little.](https://www.nytimes.com/2020/07/27/sports/olympics/1980-boycott.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Com mais 26.496 novos registros, Brasil tem 2.443.480 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/com-mais-26496-novos-registros-brasil-tem-2443480-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-20h-24553633)
-* [Paraguai adia eleições municipais por um ano por causa da pandemia](https://oglobo.globo.com/mundo/paraguai-adia-eleicoes-municipais-por-um-ano-por-causa-da-pandemia-24553772)
-* [Rio fará consulta à população carioca sobre festa de réveillon, afetada pela pandemia](https://oglobo.globo.com/rio/rio-fara-consulta-populacao-carioca-sobre-festa-de-reveillon-afetada-pela-pandemia-24553680)
+* [Seis prefeitos dos EUA pedem ao Congresso que suspenda envio de tropas federais para suas cidades](https://oglobo.globo.com/mundo/seis-prefeitos-dos-eua-pedem-ao-congresso-que-suspenda-envio-de-tropas-federais-para-suas-cidades-24553851)
 * [Conselho Nacional de Educação altera parecer sobre volta às aulas de estudantes com deficiência](https://oglobo.globo.com/sociedade/conselho-nacional-de-educacao-altera-parecer-sobre-volta-as-aulas-de-estudantes-com-deficiencia-24553647)
+* [Ancine libera verba de auxílio emergencial para pequeno exibidor](https://oglobo.globo.com/cultura/ancine-libera-verba-de-auxilio-emergencial-para-pequeno-exibidor-24553841)
+* [Com 26.496 novos registros, Brasil tem 2.443.480 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/com-26496-novos-registros-brasil-tem-2443480-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-20h-24553633)
+* [Paraguai adia eleições municipais por um ano por causa da pandemia](https://oglobo.globo.com/mundo/paraguai-adia-eleicoes-municipais-por-um-ano-por-causa-da-pandemia-1-24553772)
+* [Rio abrirá refeitório de 168 escolas municipais para garantir alimento aos alunos](https://oglobo.globo.com/rio/rio-abrira-refeitorio-de-168-escolas-municipais-para-garantir-alimento-aos-alunos-24553802)
+* [Crivella diz que Rio fará consulta à população carioca sobre festa de réveillon, afetada pela pandemia](https://oglobo.globo.com/rio/crivella-diz-que-rio-fara-consulta-populacao-carioca-sobre-festa-de-reveillon-afetada-pela-pandemia-24553680)
 * [Rio tem semana com mais casos registrados de Covid-19 em julho: 40% só na Baixada e no Norte; número de mortes chega a 12,8 mil](https://oglobo.globo.com/rio/rio-tem-semana-com-mais-casos-registrados-de-covid-19-em-julho-40-so-na-baixada-no-norte-numero-de-mortes-chega-128-mil-24553547)
 * [Rodrigo Rodrigues segue em coma induzido após procedimento no cérebro](https://oglobo.globo.com/esportes/rodrigo-rodrigues-segue-em-coma-induzido-apos-procedimento-no-cerebro-24553670)
 * [Tenor Andrea Bocelli critica governo italiano por quarentena e diz que não acredita no coronavírus](https://oglobo.globo.com/mundo/tenor-andrea-bocelli-critica-governo-italiano-por-quarentena-diz-que-nao-acredita-no-coronavirus-24553640)
-* [Justiça homologa plano de recuperação da Odebrecht](https://oglobo.globo.com/economia/justica-homologa-plano-de-recuperacao-da-odebrecht-24553614)
-* [Rio e Piauí mostram que área social não precisa só de dinheiro](https://oglobo.globo.com/analitico/rio-piaui-mostram-que-area-social-nao-precisa-so-de-dinheiro-24553466)
-* [Leilão de 5 mil peças de hotel no Rio tem lances a partir de R$ 20](https://oglobo.globo.com/economia/leilao-de-5-mil-pecas-de-hotel-no-rio-tem-lances-partir-de-20-24553579)

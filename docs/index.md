@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 27/07/2020 15:13:24 UTC
+# indexed at 27/07/2020 15:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847)
 * [The Rise of Synthetic Audio Deepfakes](https://www.nisos.com/white-papers/rise_synthetic_audio_deepfakes)
+* [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
 * [What the heroin industry can teach us about solar power](https://www.bbc.com/news/science-environment-53450688)
 * [Show HN: Emergency Remote – Actions to win remote work](https://www.emergencyremote.com/emergencyremote)
 * [ACCC alleges Google misled consumers about expanded use of personal data](https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data)
-* [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
-* [Ancient microbial arms race sharpened our immune system but left us vulnerable](https://www.sciencemag.org/news/2020/07/ancient-microbial-arms-race-sharpened-our-immune-system-also-left-us-vulnerable)
 * [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://techcrunch.com/2020/07/27/cloudflare-launches-workers-unbound-the-next-evolution-of-its-serverless-platform/)
+* [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Are we in an AI Overhang?](https://www.lesswrong.com/posts/N6vZEnCn6A95Xn39p/are-we-in-an-ai-overhang)
+* [Apache Arrow 1.0.0 Released](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
+* [Ancient microbial arms race sharpened our immune system but left us vulnerable](https://www.sciencemag.org/news/2020/07/ancient-microbial-arms-race-sharpened-our-immune-system-also-left-us-vulnerable)
 * [GnuTLS audit: passive cleartext recovery attack](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 * [Appearances vs. Experiences: What Makes Us Happy](https://fs.blog/2020/07/appearances-vs-experiences/)
-* [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
 * [Sony’s wearable air conditioner is pretty cool](https://www.theverge.com/2020/7/22/21333837/sony-reon-pocket-hands-on-wearable-air-conditioner-japan)
+* [Amazon gets priority while mail gets delayed, say US letter carriers](https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/)
 * [ADLPlug: FM Chip Synthesizer](https://github.com/jpcima/ADLplug)
 * [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-* [Appreciating accessibility with a broken collar bone](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
-* [Google to Keep Employees Home Until Summer 2021 Amid Coronavirus Pandemic](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
+* [A Brilliant Book on Combinatorics](https://rjlipton.wordpress.com/2020/07/27/a-brilliant-book-on-combinatorics/)
 * [Show HN: Simplemvc.js – A highly opinionated web back end framework](https://jeremyaboyd.com/post/simplemvc-js)
+* [NSA-tapped undersea cables, North Pacific Ocean, 2016](https://link.springer.com/article/10.1057/s42984-020-00014-x)
+* [Google to Keep Employees Home Until Summer 2021 Amid Coronavirus Pandemic](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201)
+* [Appreciating accessibility with a broken collar bone](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
 * [Sledding athletes are taking their lives](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
-* [Show HN: Stretchbit – your personal health coach](https://play.google.com/store/apps/details?id=com.nolimit.stretchbit&referrer=utm_source%3Dycombinator)
 * [Life under quartz: Hypolithic mosses in the Mojave Desert](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235928)
 * [Docker Releases Plugin for Simplified Deployments into AWS](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)
-* [The Electric Car Atop Europe’s Sales Charts Isn’t a Tesla or VW](https://www.bloomberg.com/news/articles/2020-07-24/the-electric-car-atop-europe-s-sales-charts-isn-t-a-tesla-or-vw)
 * [Dam built by robots? Japan's Obayashi tests it out](https://asia.nikkei.com/Business/Engineering-Construction/Dam-built-by-robots-Japan-s-Obayashi-tests-it-out)
+* [The Electric Car Atop Europe’s Sales Charts Isn’t a Tesla or VW](https://www.bloomberg.com/news/articles/2020-07-24/the-electric-car-atop-europe-s-sales-charts-isn-t-a-tesla-or-vw)
 * [New ‘Meow’ attack has deleted almost 4k unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 * [Cracking down on research fraud](https://undark.org/2020/07/23/cracking-down-on-research-fraud)
-* [I couldn't buy a car because my email address was 'invalid'](https://shaungallagher.pressbin.com/blog/invalid-email.html?ref=hn)
-* [Regulating Technology](https://www.ben-evans.com/benedictevans/2020/7/23/regulating-technology)
-* [Cerne Abbas Giant: Snails show chalk hill figure 'not prehistoric'](https://www.bbc.com/news/uk-england-dorset-53313064)
 ## nytimes.com
 
 
@@ -55,7 +55,7 @@ layout: default
 * [The Uncertain Future of Midtown](https://www.nytimes.com/2020/07/27/nyregion/nyc-midtown-manhattan-coronavirus.html)
 * [The Mistakes New York Made](https://www.nytimes.com/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
-* [Sign Up: ‘At Home’](https://www.nytimes.com/newsletters/at-home)
+* [Remote Working Risks, Benefits, Winners and Losers](https://www.nytimes.com/2020/07/27/business/dealbook/remote-work-risks.html)
 * [In Stockton, a Powerful Program to Prevent Violence](https://www.nytimes.com/2020/07/27/us/stockton-advance-peace-program.html)
 * [A Trumpless Future Is Hard to Get Your Head Around](https://www.nytimes.com/2020/07/27/opinion/biden-trump-2020-vp.html)
 * [What America’s Coronavirus Response Looks Like Abroad](https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html)
@@ -66,7 +66,7 @@ layout: default
 * [Slowly, Italy Is Waking From the Coronavirus Nightmare](https://www.nytimes.com/2020/07/27/opinion/italy-coronavirus.html)
 * [Donald Trump Is the Best Ever President in the History of the Cosmos](https://www.nytimes.com/2020/07/25/opinion/sunday/trump-lies.html)
 * [We’re 20 Percent of America, and We’re Still Invisible](https://www.nytimes.com/2020/07/26/opinion/Americans-with-disabilities-act.html)
-* [The Federal Death Penalty Can Be Administered Fairly](https://www.nytimes.com/2020/07/27/opinion/federal-death-penalty.html)
+* [The Death Penalty Can Ensure ‘Justice Is Being Done’](https://www.nytimes.com/2020/07/27/opinion/federal-death-penalty.html)
 * [Medical School, Blackness and Blame](https://www.nytimes.com/2020/07/27/opinion/coronavirus-medicine-blackness.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [The Celebrity Bookshelf Detective Is Back](https://www.nytimes.com/2020/07/27/books/tom-hanks-gwyneth-paltrow-bookshelves.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Primeiro ministro incentiva britânicos a perderem peso e cita própria dificuldade](https://oglobo.globo.com/mundo/primeiro-ministro-incentiva-britanicos-perderem-peso-cita-propria-dificuldade-24552985)
+* [Miliciano é preso por homicídio e ocultação de cadáver de engenheiro, morto a pedido da ex-mulher](https://oglobo.globo.com/rio/miliciano-preso-por-homicidio-ocultacao-de-cadaver-de-engenheiro-morto-pedido-da-ex-mulher-24552988)
+* [Casas de festas com áreas externas são as mais procuradas na reabertura](https://oglobo.globo.com/rio/bairros/casas-de-festas-com-areas-externas-sao-as-mais-procuradas-na-reabertura-24547767)
+* [Ouro bate recorde, e megainvestidor Mark Mobius recomenda 'comprar agora'](https://oglobo.globo.com/economia/ouro-bate-recorde-megainvestidor-mark-mobius-recomenda-comprar-agora-24552982)
 * [PGR aponta em denúncia movimentação que soma R$ 1,6 milhão feita por mulher de desembargador do Rio](https://oglobo.globo.com/rio/pgr-aponta-em-denuncia-movimentacao-que-soma-16-milhao-feita-por-mulher-de-desembargador-do-rio-24552901)
 * [Mulher de desembargador do Rio recebeu depósitos de R$ 1,6 milhão em dinheiro vivo, diz PGR](https://oglobo.globo.com/rio/mulher-de-desembargador-do-rio-recebeu-depositos-de-16-milhao-em-dinheiro-vivo-diz-pgr-1-24552861)
 * [Moderna: candidata a vacina contra Covid-19 entra em estágio avançado de testes](https://oglobo.globo.com/sociedade/moderna-candidata-vacina-contra-covid-19-entra-em-estagio-avancado-de-testes-24552863)
 * [Vários países asiáticos voltam a adotar medidas de isolamento após surtos da Covid-19](https://oglobo.globo.com/mundo/varios-paises-asiaticos-voltam-adotar-medidas-de-isolamento-apos-surtos-da-covid-19-24552697)
-* [Presidente do STJ testa positivo para Covid-19](https://oglobo.globo.com/brasil/presidente-do-stj-testa-positivo-para-covid-19-24552843)
 * [Quem é Jeanne Baret, a francesa corajosa homenageada pelo doodle do google](https://oglobo.globo.com/celina/quem-jeanne-baret-francesa-corajosa-homenageada-pelo-doodle-do-google-24552806)
 * [Qual será o Bolsonaro pós-Covid-19?](https://oglobo.globo.com/analitico/qual-sera-bolsonaro-pos-covid-19-24552833)
-* [Camisa de Michael Jordan do dia da assinatura com o Chicago Bulls será leiloada](https://oglobo.globo.com/esportes/camisa-de-michael-jordan-do-dia-da-assinatura-com-chicago-bulls-sera-leiloada-24552836)
-* [Morre John Saxon, de 'Operação Dragão' e 'A hora do pesadelo', aos 83 anos](https://oglobo.globo.com/cultura/morre-john-saxon-de-operacao-dragao-a-hora-do-pesadelo-aos-83-anos-24552797)
-* [OMS: Pandemia da Covid-19 é de longe pior emergência global de saúde](https://oglobo.globo.com/sociedade/oms-pandemia-da-covid-19-de-longe-pior-emergencia-global-de-saude-24552838)

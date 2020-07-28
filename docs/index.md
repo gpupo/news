@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 10:13:59 UTC
+# indexed at 28/07/2020 10:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
 * [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
+* [We thought it was just a respiratory virus](https://www.ucsf.edu/magazine/covid-body)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
-* [We thought it was just a respiratory virus](https://www.ucsf.edu/magazine/covid-body)
 * [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
 * [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
-* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
-* [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
+* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
+* [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
 * [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
-* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
 * [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
+* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
+* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Proximal Policy Optimization for Playing Super Mario Bros](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
 * [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
-* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
-* [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* [Roam Research reaches $1m ARR in 6 weeks](https://www.indiehackers.com/post/roam-research-reaches-1m-arr-in-6-weeks-20faee74e6)
 * [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
-* [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
+* [Roam Research reaches $1m ARR in 6 weeks](https://www.indiehackers.com/post/roam-research-reaches-1m-arr-in-6-weeks-20faee74e6)
+* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Deadspin Staffers Who Quit Start Defector](https://www.nytimes.com/2020/07/28/business/media/deadspin-staffers-start-defector.html)
 * [Trump Announced, Then Canceled, a Yankees Pitch. Both Came as a Surprise.](https://www.nytimes.com/2020/07/27/us/politics/trump-yankees-fauci.html)
 * [In Russia’s Far East, a New Face of Resistance to Putin’s Reign](https://www.nytimes.com/2020/07/28/world/europe/russias-far-east-protests-putin.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Black Plays Are Knocking on Broadway’s Door. Will It Open?](https://www.nytimes.com/2020/07/22/theater/black-plays-broadway.html)
 * [Michelle Wie West on Motherhood, Pain and a Possible Return to Golf](https://www.nytimes.com/2020/07/24/sports/golf/michelle-wie-golf.html)
 * [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](https://www.nytimes.com/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
@@ -93,8 +93,9 @@ layout: default
 * [A Possible Weapon Against the Pandemic: Printing Human Tissue](https://www.nytimes.com/2020/07/27/science/bioprinting-covid-19-tests.html)
 * [Nature’s Noisiest Liars Carry Secrets in Their Calls](https://www.nytimes.com/2020/07/21/science/mammals-vocal-learning.html)
 * [Scientists Accidentally Bred the Fish Version of a Liger](https://www.nytimes.com/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-* [Finding Balance in a Summer Side](https://www.nytimes.com/2020/07/27/dining/cucumbers-yogurt-recipe.html)
 * [Who Gets to Be a ‘Naked Athena’?](https://www.nytimes.com/2020/07/25/opinion/sunday/portland-protests-white.html)
+* [The Great Au Pair Rush](https://www.nytimes.com/2020/07/25/business/the-great-au-pair-rush.html)
+* [‘Ellen DeGeneres Show’ Workplace to Be Reviewed by WarnerMedia](https://www.nytimes.com/2020/07/27/business/media/ellen-degeneres-show-investigation.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

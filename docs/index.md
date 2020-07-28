@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 15:13:52 UTC
+# indexed at 28/07/2020 15:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Data Runner Watch Prototype – Modded Casio F91W](https://n-o-d-e.net/datarunner.html)
 * [Banned math book](https://www.johndcook.com/blog/2020/07/22/banned-math-book/)
 * [The Regular Expression Visualizer, Simulator and Cross-Compiler Tool](https://blog.robertelder.org/regular-expression-visualizer/)
-* [Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
 * [Porting a macOS Clojure Dev Setup to Windows WSL2](https://blog.michielborkent.nl/2020/07/26/remote-wsl2-clojure/)
+* [Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
 * [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
-* [Otto: Friendly Machine Learning Assistant](https://github.com/KartikChugh/Otto)
-* [The worst tool for the job](https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/)
-* [Google’s Top Search Result? Surprise, It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors)
 * [Einstein’s Thought Experiments](http://backreaction.blogspot.com/2020/07/einsteins-greatest-legacy-thought.html)
-* [Intel Ponte Vecchio GPU Will Be Made on TSMC 6nm Process, CPUs Could Be TSMC 3nm](https://wccftech.com/intel-ponte-vecchio-gpu-tsmc-6nm/)
-* [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
-* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+* [The worst tool for the job](https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/)
+* [Otto: Friendly Machine Learning Assistant](https://github.com/KartikChugh/Otto)
+* [Google’s Top Search Result? Surprise, It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors)
 * [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
+* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
 * [How the Simulmatics Corporation Invented the Future](https://www.newyorker.com/magazine/2020/08/03/how-the-simulmatics-corporation-invented-the-future)
-* [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
-* [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
+* [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
+* [Interview with a Pornhub Web Developer](https://davidwalsh.name/pornhub-interview)
 * [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
-* [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
+* [MI6 tried to intervene independent court by stopping judge seeing legal papers](https://www.theregister.com/2020/07/28/mi6_investigatory_powers_tribunal_interference/)
+* [Intel Ponte Vecchio GPU Will Be Made on TSMC 6nm Process, CPUs Could Be TSMC 3nm](https://wccftech.com/intel-ponte-vecchio-gpu-tsmc-6nm/)
+* [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
+* [Yandex Image Search is better than Google with “fuzzy” images](https://news.ycombinator.com/item?id=23976172)
 * [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
-* [Distributed system definition at DEC SRC bulletin board (1987)](https://lamport.azurewebsites.net/pubs/distributed-system.txt)
+* [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
+* [Distributed system definition at DEC SRC bulletin board (1987)](https://lamport.azurewebsites.net/pubs/distributed-system.txt)
 * [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
-* [MI6 tried to intervene independent court by stopping judge seeing legal papers](https://www.theregister.com/2020/07/28/mi6_investigatory_powers_tribunal_interference/)
-* [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
 ## nytimes.com
 
 
@@ -49,7 +49,7 @@ layout: default
 * [Like Father, Like Son: President Trump Lets Others Mourn](https://www.nytimes.com/2020/07/28/us/politics/donald-fred-trump.html)
 * [How Local Covid Deaths Are Affecting Vote Choice](https://www.nytimes.com/2020/07/28/upshot/polling-trump-virus-election.html)
 * [Biden vs. Trump: Live 2020 Election Updates](https://www.nytimes.com/2020/07/28/us/elections/biden-vs-trump.html)
-* [Amazon, Apple, Facebook and Google Prepare for Their ‘Big Tobacco Moment’](https://www.nytimes.com/2020/07/28/technology/amazon-apple-facebook-google-antitrust-hearing.html)
+* [Tech C.E.O.s From Amazon, Apple, Facebook and Google to Testify Before Congress](https://www.nytimes.com/2020/07/28/technology/amazon-apple-facebook-google-antitrust-hearing.html)
 * [Their Businesses Went Virtual. Then Apple Wanted a Cut.](https://www.nytimes.com/2020/07/28/technology/apple-app-store-airbnb-classpass.html)
 * [Nissan Expects a Record $4.5 Billion Loss: Live Business Updates](https://www.nytimes.com/live/2020/07/28/business/stock-market-today-coronavirus)
 * [2020 Emmy Nominations: Live Updates](https://www.nytimes.com/2020/07/28/arts/television/emmy-nominations.html)
@@ -75,7 +75,7 @@ layout: default
 * [One of America’s Oldest Gun Makers Files for Bankruptcy for 2nd Time](https://www.nytimes.com/2020/07/28/business/remington-bankruptcy-guns.html)
 * [Revel Suspends Moped Service in New York City After Two Deaths](https://www.nytimes.com/2020/07/28/nyregion/revel-scooters-death-nyc.html)
 * [Najib Razak, Malaysia’s Former Prime Minister, Found Guilty in Graft Trial](https://www.nytimes.com/2020/07/28/world/asia/malaysia-1mdb-najib.html)
-* [Booker Prize Longlist Includes Hilary Mantel and Anne Tyler](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
+* [Coronavirus: U.K. Quarantine Order Attacked by Spain's Prime Minister](https://www.nytimes.com/2020/07/28/world/europe/spain-britain-quarantine-order.html)
 * [Georgia Senator Is Criticized for Ad Enlarging Jewish Opponent Jon Ossoff's Nose](https://www.nytimes.com/2020/07/27/us/politics/jon-ossoff-david-perdue-ad.html)
 * [Peaceful Protesters With ‘Room for Rage’ Sympathize With Aggressive Tactics](https://www.nytimes.com/2020/07/27/us/protests-divisions-blm.html)
 * [Deadspin Staffers Who Quit Start Defector](https://www.nytimes.com/2020/07/28/business/media/deadspin-staffers-start-defector.html)
@@ -83,9 +83,9 @@ layout: default
 * [In Russia’s Far East, a New Face of Resistance to Putin’s Reign](https://www.nytimes.com/2020/07/28/world/europe/russias-far-east-protests-putin.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Black Plays Are Knocking on Broadway’s Door. Will It Open?](https://www.nytimes.com/2020/07/22/theater/black-plays-broadway.html)
 * [Michelle Wie West on Motherhood, Pain and a Possible Return to Golf](https://www.nytimes.com/2020/07/24/sports/golf/michelle-wie-golf.html)
 * [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](https://www.nytimes.com/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Obituário: Rodrigo Rodrigues, apresentador de TV, um agregador nato](https://oglobo.globo.com/esportes/obituario-rodrigo-rodrigues-apresentador-de-tv-um-agregador-nato-24554636)
+* [Cavendish é condenado a 11 anos e 8 meses de prisão](https://oglobo.globo.com/brasil/cavendish-condenado-a11-anos-8-meses-de-prisao-24554743)
 * [Chanceler de Bolsonaro diz que Brasil está preparado para trabalhar com Biden](https://oglobo.globo.com/mundo/chanceler-de-bolsonaro-diz-que-brasil-esta-preparado-para-trabalhar-com-biden-24554660)
-* [Brasil fecha 1,2 milhão de vagas com carteira no 1º semestre, mas demissões recuam em junho](https://oglobo.globo.com/economia/brasil-fecha-12-milhao-de-vagas-com-carteira-no-1-semestre-mas-demissoes-recuam-em-junho-24554628)
+* [Inclusão e diversidade são fundamentais para a educação, apontam especialistas](https://oglobo.globo.com/95-anos/inclusao-diversidade-sao-fundamentais-para-educacao-apontam-especialistas-24554556)
 * [Ex-primeiro-ministro da Malásia é condenado a 12 anos de prisão por corrupção](https://oglobo.globo.com/mundo/ex-primeiro-ministro-da-malasia-condenado-12-anos-de-prisao-por-corrupcao-24554699)
-* [Homem é preso acusado de atear fogo em carro para receber seguro e causar o maior incêndio do ano em Petrópolis](https://oglobo.globo.com/rio/homem-preso-acusado-de-atear-fogo-em-carro-para-receber-seguro-causar-maior-incendio-do-ano-em-petropolis-24554659)
 * [Lisboa tem novo museu dedicado à relação dos portugueses com o bacalhau](https://oglobo.globo.com/boa-viagem/lisboa-tem-novo-museu-dedicado-relacao-dos-portugueses-com-bacalhau-24554669)
 * [Tubarões estão 'funcionalmente extintos' em 20% dos recifes, diz pesquisa](https://epoca.globo.com/sociedade/tubaroes-estao-funcionalmente-extintos-em-20-dos-recifes-diz-pesquisa-1-24554674)
 * [OMS: pandemia de Covid-19 não é sazonal, e sim 'uma grande onda'](https://oglobo.globo.com/sociedade/oms-pandemia-de-covid-19-nao-sazonal-sim-uma-grande-onda-24554648)
 * [Dólar sobe, negociado na faixa de R$ 5,20, à espera da reunião do BC americano; Bolsa recua](https://oglobo.globo.com/economia/dolar-sobe-negociado-na-faixa-de-520-espera-da-reuniao-do-bc-americano-bolsa-recua-24554668)
-* [Caso Madeleine McCann: polícia faz buscas em terreno na Alemanha](https://epoca.globo.com/mundo/caso-madeleine-mccann-policia-faz-buscas-em-terreno-na-alemanha-24554655)
 * [Uma oportunidade para o mercado de luxo](https://epoca.globo.com/guilherme-amado/uma-oportunidade-para-mercado-de-luxo-24554048)

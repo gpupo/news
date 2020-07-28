@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 06:34:28 UTC
+# indexed at 28/07/2020 07:13:47 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
-* [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Not an Amazon Problem](https://www.tbray.org/ongoing/When/202x/2020/07/23/Not-an-Amazon-Problem)
+* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+* [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
-* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
-* [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
-* [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
-* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
+* [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
 * [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
-* [Accounting for Layman – The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html)
-* [BuildZoom (better way to build custom homes) is hiring in Scottsdale](https://jobs.lever.co/buildzoom)
+* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
+* [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
 * [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
-* [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
-* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
-* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
 * [Proximal Policy Optimization for Playing Super Mario Bros](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
-* [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
-* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
-* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Quit Twitter (2019)](https://medium.com/swlh/why-you-should-quit-twitter-9b93396def2d)
+* [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
+* [BuildZoom (better way to build custom homes) is hiring in Scottsdale](https://jobs.lever.co/buildzoom)
+* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
+* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
+* [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
+* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
 * [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
+* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
 * [Next.js 9.5](https://nextjs.org/blog/next-9-5)
 * [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
-* [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 ## nytimes.com
 
 
@@ -54,7 +54,6 @@ layout: default
 * [Barr Defends Protest Response and Criticizes Russia Inquiry Ahead of Testimony](https://www.nytimes.com/2020/07/27/us/politics/william-barr-house-judiciary-hearing.html)
 * [Susan Rice Wants to Run for Office. Will Her First Campaign Be for V.P.?](https://www.nytimes.com/2020/07/27/us/politics/susan-rice-biden-vice-president.html)
 * [Trump Again Tries to Block Subpoena for Taxes, Calling It ‘Wildly Overbroad’](https://www.nytimes.com/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
-* [Jobless Aid, Data Overload, Baseball: Your Monday Evening Briefing](https://www.nytimes.com/2020/07/27/briefing/jobless-aid-data-overload-baseball.html)
 * [The Mistakes New York Made](https://www.nytimes.com/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
 * [Remote Working Risks, Benefits, Winners and Losers](https://www.nytimes.com/2020/07/27/business/dealbook/remote-work-risks.html)
@@ -81,11 +80,11 @@ layout: default
 * [Hilary Mantel and Anne Tyler in Running for Booker Prize](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
 * [What To Watch For at the 2020 Emmy Nominations](https://www.nytimes.com/2020/07/28/arts/television/emmys-2020.html)
 * [Poland Considers Leaving Treaty on Domestic Violence, Spurring Outcry](https://www.nytimes.com/2020/07/27/world/europe/poland-domestic-violence-treaty.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [That Almost Apology for the 1980 Olympic Boycott Helps. A Little.](https://www.nytimes.com/2020/07/27/sports/olympics/1980-boycott.html)
 * ['Challenge Accepted' on Instagram: Black and White Selfies for Women](https://www.nytimes.com/2020/07/27/style/challenge-accepted-instagram.html)
 * [Drone Music, Stretched and Sliced](https://www.nytimes.com/2020/07/27/arts/music/david-first-drone-music.html)

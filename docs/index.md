@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 04:34:31 UTC
+# indexed at 28/07/2020 05:12:53 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
-* [1980s Yugoslavia’s Galaksija DIY computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
 * [Calgary doctor says 40% drop in preterm births during lockdown is global trend](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
+* [1980s Yugoslavia’s Galaksija DIY computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
-* [Research shows irradiation may dramatically reduce corrosion from molten salts](https://www.nature.com/articles/s41467-020-17244-y)
-* [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
+* [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
+* [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
 * [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
-* [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
+* [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
-* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
 * [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
-* [How did anyone do math in Roman numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
-* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
+* [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
+* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
+* [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
 * [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://blog.cloudflare.com/introducing-workers-unbound/)
-* [Can no longer send money via Gmail](https://support.google.com/pay/answer/9868649?hl=en)
-* [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
+* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
+* [Accounting for Layman – The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html)
+* [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
 * [The Grace of Manta Rays](http://oceans.nautil.us/feature/590/the-grace-of-manta-rays)
 * [Alignment](https://gazzini.com/essays/posts/alignment/)
+* [Next.js 9.5](https://nextjs.org/blog/next-9-5)
 * [Witches of Belvoir 'may have been framed' (2013)](https://www.bbc.com/news/uk-england-24748721)
-* [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
-* [Draftbit (YC W18) is hiring a Product Manager to build the future of no-code](https://draftbit.com/jobs/product-manager)
-* [Next.js 9.5 – Redirects and Rewrites, Webpack 5 Beta](https://nextjs.org/blog/next-9-5)
 * [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-* [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Draftbit (YC W18) is hiring a Product Manager to build the future of no-code](https://draftbit.com/jobs/product-manager)
 ## nytimes.com
 
 
 * [As Republicans Embrace Cut in Jobless Aid, Divisions Weaken Their Leverage](https://www.nytimes.com/2020/07/27/us/politics/republicans-jobless-aid.html)
-* [Coronavirus Live Updates: New Research Boosts Evidence of Masks’ Utility, Some Experts Say](https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html)
+* [Coronavirus Live Updates: Research Boosts Evidence of Masks’ Utility, Some Experts Say](https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html)
 * [The Doctor Behind the Disputed Covid Data](https://www.nytimes.com/2020/07/27/science/coronavirus-retracted-studies-data.html)
 * [A Small Georgia City Plans to Put Students in Classrooms This Week](https://www.nytimes.com/2020/07/27/us/covid-georgia-schools-masks.html)
 * [Chainsmokers Concert in Hamptons Is Under Investigation by Cuomo](https://www.nytimes.com/2020/07/27/nyregion/hamptons-chainsmokers-concert-social-distancing.html)
@@ -53,6 +53,7 @@ layout: default
 * [Barr Defends Protest Response and Criticizes Russia Inquiry Ahead of Testimony](https://www.nytimes.com/2020/07/27/us/politics/william-barr-house-judiciary-hearing.html)
 * [Susan Rice Wants to Run for Office. Will Her First Campaign Be for V.P.?](https://www.nytimes.com/2020/07/27/us/politics/susan-rice-biden-vice-president.html)
 * [Trump Again Tries to Block Subpoena for Taxes, Calling It ‘Wildly Overbroad’](https://www.nytimes.com/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
+* [Najib Razak, Malaysia’s Former Prime Minister, Found Guilty in Graft Trial](https://www.nytimes.com/2020/07/28/world/asia/malaysia-1mdb-najib.html)
 * [Jobless Aid, Data Overload, Baseball: Your Monday Evening Briefing](https://www.nytimes.com/2020/07/27/briefing/jobless-aid-data-overload-baseball.html)
 * [The Mistakes New York Made](https://www.nytimes.com/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
@@ -71,8 +72,8 @@ layout: default
 * [Urban Explorers Give Modern Ruins a Second Life](https://www.nytimes.com/2020/07/27/us/abandoned-properties-to-explore.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [‘We Were Somewhere in the 50s When We Noticed a Brass Quartet’](https://www.nytimes.com/2020/07/26/nyregion/metropolitan-diary.html)
+* [One of America’s Oldest Gun Makers Files for Bankruptcy for 2nd Time](https://www.nytimes.com/2020/07/28/business/remington-bankruptcy-guns.html)
 * [Two Teenagers Are Among 8 Killed on Deadly Day in New York City](https://www.nytimes.com/2020/07/27/nyregion/nyc-shootings-weekend.html)
-* [National Guard Officer Says Police Used ‘Excessive’ Force at White House Clash](https://www.nytimes.com/2020/07/27/us/politics/national-guard-excessive-force-lafayette-square.html)
 * [Georgia Senator Is Criticized for Ad Enlarging Jewish Opponent Jon Ossoff's Nose](https://www.nytimes.com/2020/07/27/us/politics/jon-ossoff-david-perdue-ad.html)
 * [Florida Man Bought Lamborghini With Coronavirus Aid, U.S. Say](https://www.nytimes.com/2020/07/27/us/lamborghini-ppp-covid-19.html)
 * [‘Ellen DeGeneres Show’ Workplace to Be Reviewed by WarnerMedia](https://www.nytimes.com/2020/07/27/business/media/ellen-degeneres-show-investigation.html)
@@ -80,8 +81,8 @@ layout: default
 * [Hilary Mantel and Anne Tyler in Running for Booker Prize](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
 * [What To Watch For at the 2020 Emmy Nominations](https://www.nytimes.com/2020/07/28/arts/television/emmys-2020.html)
 * [Poland Considers Leaving Treaty on Domestic Violence, Spurring Outcry](https://www.nytimes.com/2020/07/27/world/europe/poland-domestic-violence-treaty.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
@@ -103,7 +104,7 @@ layout: default
 
 
 * [Nova Zelândia suspende tratado de extradição com Hong Kong](https://oglobo.globo.com/mundo/nova-zelandia-suspende-tratado-de-extradicao-com-hong-kong-24554322)
-* [Inscrições para o Fies começam hoje com 30 mil vagas](https://oglobo.globo.com/sociedade/inscricoes-para-fies-comecam-hoje-com-30-mil-vagas-24553645)
+* [Quem é Domènec Torrent, o alvo do Flamengo que foi auxiliar de Guardiola por dez anos](https://oglobo.globo.com/esportes/flamengo/quem-domenec-torrent-alvo-do-flamengo-que-foi-auxiliar-de-guardiola-por-dez-anos-24554314)
 * [Crítica de 'Macabro', filme de Marcos Prado](https://oglobo.globo.com/cultura/critica-de-macabro-filme-de-marcos-prado-24554038)
 * [‘Macabro’, de Marcos Prado, retrata crimes de necrofilia que aterrorizaram região serrana do Rio nos anos 1990](https://oglobo.globo.com/cultura/macabro-de-marcos-prado-retrata-crimes-de-necrofilia-que-aterrorizaram-regiao-serrana-do-rio-nos-anos-1990-24553663)
 * [Um lobby de alto risco](https://oglobo.globo.com/opiniao/um-lobby-de-alto-risco-24553751)

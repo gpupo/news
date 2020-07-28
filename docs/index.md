@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 11:13:00 UTC
+# indexed at 28/07/2020 11:34:25 UTC
 
 
 ## news.ycombinator.com
 
 
-* [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
 * [Intel Ponte Vecchio GPU Will Be Made on TSMC 6nm Process, CPUs Could Be TSMC 3nm](https://wccftech.com/intel-ponte-vecchio-gpu-tsmc-6nm/)
-* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+* [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
+* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
 * [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
 * [Not an Amazon Problem](https://www.tbray.org/ongoing/When/202x/2020/07/23/Not-an-Amazon-Problem)
-* [We thought it was just a respiratory virus](https://www.ucsf.edu/magazine/covid-body)
-* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
+* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
+* [We thought it was just a respiratory virus](https://www.ucsf.edu/magazine/covid-body)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
 * [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
 * [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
-* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
-* [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
-* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [Researchers “Translate” Bat Talk. Turns Out, They Argue–A Lot](https://www.smithsonianmag.com/smart-news/researchers-translate-bat-talk-and-they-argue-lot-180961564/)
+* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
+* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
+* [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
 * [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
 * [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
 * [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
-* [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
-* [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
-* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [Proximal Policy Optimization for Playing Super Mario Bros](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
+* [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
+* [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
+* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Roam Research reaches $1m ARR in 6 weeks](https://www.indiehackers.com/post/roam-research-reaches-1m-arr-in-6-weeks-20faee74e6)
 * [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
-* [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 ## nytimes.com
 
 
@@ -51,6 +51,7 @@ layout: default
 * [A Small Georgia City Plans to Put Students in Classrooms This Week](https://www.nytimes.com/2020/07/27/us/covid-georgia-schools-masks.html)
 * [Amazon, Apple, Facebook and Google Prepare for Their ‘Big Tobacco Moment’](https://www.nytimes.com/2020/07/28/technology/amazon-apple-facebook-google-antitrust-hearing.html)
 * [Their Businesses Went Virtual. Then Apple Wanted a Cut.](https://www.nytimes.com/2020/07/28/technology/apple-app-store-airbnb-classpass.html)
+* [Nissan Expects a Record $4.5 Billion Loss: Live Business Updates](https://www.nytimes.com/live/2020/07/28/business/stock-market-today-coronavirus)
 * [Najib Razak, Malaysia’s Former Prime Minister, Found Guilty in Graft Trial](https://www.nytimes.com/2020/07/28/world/asia/malaysia-1mdb-najib.html)
 * [All Spikes Aren’t Equal](https://www.nytimes.com/2020/07/28/briefing/william-barr-mlb-john-lewis.html)
 * ['Black Lives Matter' Mural Outside Trump Tower Is Vandalized Multiple Times](https://www.nytimes.com/2020/07/28/nyregion/blm-trump-tower.html)
@@ -79,8 +80,8 @@ layout: default
 * [Deadspin Staffers Who Quit Start Defector](https://www.nytimes.com/2020/07/28/business/media/deadspin-staffers-start-defector.html)
 * [Trump Announced, Then Canceled, a Yankees Pitch. Both Came as a Surprise.](https://www.nytimes.com/2020/07/27/us/politics/trump-yankees-fauci.html)
 * [In Russia’s Far East, a New Face of Resistance to Putin’s Reign](https://www.nytimes.com/2020/07/28/world/europe/russias-far-east-protests-putin.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [PM faz operação na Praça Seca após intenso tiroteio e disputa de território entre criminosos](https://oglobo.globo.com/rio/pm-faz-operacao-na-praca-seca-apos-intenso-tiroteio-disputa-de-territorio-entre-criminosos-1-24554363)
+* [Brooklyn Beckham ficou de joelhos em novas fotos de noivado com Nicola Peltz](https://oglobo.globo.com/ela/gente/brooklyn-beckham-ficou-de-joelhos-em-novas-fotos-de-noivado-com-nicola-peltz-24554400)
+* [Governo do Paraná confirma parceria com laboratório chinês em vacina contra Covid-19](https://epoca.globo.com/sociedade/governo-do-parana-confirma-parceria-com-laboratorio-chines-em-vacina-contra-covid-19-24553932)
+* [Para atrair passageiros, empresa aérea banca tratamento para Covid-19 e até funeral](https://epoca.globo.com/economia/para-atrair-passageiros-empresa-aerea-banca-tratamento-para-covid-19-ate-funeral-24554398)
+* [Documentário sobre prisão de Caetano Veloso em 1968 é selecionado para Festival de Veneza](https://oglobo.globo.com/cultura/documentario-sobre-prisao-de-caetano-veloso-em-1968-selecionado-para-festival-de-veneza-24554388)
+* [Especialistas repudiam vídeo de sindicato que defende volta às aulas e diz que ‘trancar todos em casa não é ciência’](https://oglobo.globo.com/rio/especialistas-repudiam-video-de-sindicato-que-defende-volta-as-aulas-diz-que-trancar-todos-em-casa-nao-ciencia-24554391)
+* [Brasil tem 2.447.917 casos de Covid-19, aponta consórcio de veículos da imprensa no boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2447917-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-8h-24554387)
 * [Polícia identifica três PMs na festa da milícia em Angra dos Reis](https://oglobo.globo.com/rio/policia-identifica-tres-pms-na-festa-da-milicia-em-angra-dos-reis-24554377)
 * [Por que há vacinas injetáveis, em gotas e por via nasal — e como deve ser proteção contra Covid-19](https://epoca.globo.com/sociedade/por-que-ha-vacinas-injetaveis-em-gotas-por-via-nasal-e-como-deve-ser-protecao-contra-covid-19-24554370)
-* [Retorno de culto em igreja nos EUA causa 40 infectados por coronavírus](https://epoca.globo.com/mundo/retorno-de-culto-em-igreja-nos-eua-causa-40-infectados-por-coronavirus-24553342)
 * [Manifestações contra crise da Covid-19 e corrupção atingem Benjamin Netanyahu](https://oglobo.globo.com/mundo/manifestacoes-contra-crise-da-covid-19-corrupcao-atingem-benjamin-netanyahu-24554303)
-* [Partidos poderão distribuir dinheiro para campanha a candidatos por app](https://epoca.globo.com/guilherme-amado/partidos-poderao-distribuir-dinheiro-para-campanha-candidatos-por-app-24553955)
 * [Estudo propõe aumentar isentos e impostos para mais ricos](https://epoca.globo.com/guilherme-amado/estudo-propoe-aumentar-isentos-impostos-para-mais-ricos-24553948)
-* [Com público até maior que o de antes da pandemia, shoppings da Barra ganham novos restaurantes e lojas](https://oglobo.globo.com/rio/bairros/com-publico-ate-maior-que-de-antes-da-pandemia-shoppings-da-barra-ganham-novos-restaurantes-lojas-24549587)
-* [Saúde! Um brinde ao aumento nas vendas de vinho na quarentena](https://oglobo.globo.com/rio/bairros/saude-um-brinde-ao-aumento-nas-vendas-de-vinho-na-quarentena-24549035)
-* [Prevista para ser iniciada em novembro, dragagem do Canal de São Lourenço anima setores naval e pesqueiro de Niterói](https://oglobo.globo.com/rio/bairros/prevista-para-ser-iniciada-em-novembro-dragagem-do-canal-de-sao-lourenco-anima-setores-naval-pesqueiro-de-niteroi-1-24549941)

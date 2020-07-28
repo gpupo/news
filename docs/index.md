@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 12:17:34 UTC
+# indexed at 28/07/2020 12:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
-* [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
-* [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
 * [Distributed system definition at DEC SRC bulletin board (1987)](https://lamport.azurewebsites.net/pubs/distributed-system.txt)
+* [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
+* [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
+* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
 * [Researchers “Translate” Bat Talk (2016)](https://www.smithsonianmag.com/smart-news/researchers-translate-bat-talk-and-they-argue-lot-180961564/)
 * [We thought it was just a respiratory virus](https://www.ucsf.edu/magazine/covid-body)
-* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
-* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
 * [Not an Amazon Problem](https://www.tbray.org/ongoing/When/202x/2020/07/23/Not-an-Amazon-Problem)
-* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
-* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
-* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
-* [Proximal Policy Optimization for Playing Super Mario Bros](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
+* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
+* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
+* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
 * [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
 * [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
+* [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Roam Research reaches $1m ARR in 6 weeks](https://www.indiehackers.com/post/roam-research-reaches-1m-arr-in-6-weeks-20faee74e6)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [Deadspin Staffers Who Quit Start Defector](https://www.nytimes.com/2020/07/28/business/media/deadspin-staffers-start-defector.html)
 * [Trump Announced, Then Canceled, a Yankees Pitch. Both Came as a Surprise.](https://www.nytimes.com/2020/07/27/us/politics/trump-yankees-fauci.html)
 * [In Russia’s Far East, a New Face of Resistance to Putin’s Reign](https://www.nytimes.com/2020/07/28/world/europe/russias-far-east-protests-putin.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Black Plays Are Knocking on Broadway’s Door. Will It Open?](https://www.nytimes.com/2020/07/22/theater/black-plays-broadway.html)
 * [Michelle Wie West on Motherhood, Pain and a Possible Return to Golf](https://www.nytimes.com/2020/07/24/sports/golf/michelle-wie-golf.html)
 * [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](https://www.nytimes.com/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Fãs reagem ao anúncio de álbum de estreia do fenômeno do k-pop Blackpink](https://oglobo.globo.com/cultura/fas-reagem-ao-anuncio-de-album-de-estreia-do-fenomeno-do-pop-blackpink-24554452)
+* [Ex-secretário-geral do PT, Silvinho 'Land Rover' é condenado pela Lava-Jato](https://oglobo.globo.com/brasil/ex-secretario-geral-do-pt-silvinho-land-rover-condenado-pela-lava-jato-24554503)
+* [TikTok: o que se sabe sobre empresa por trás do aplicativo e seu enigmático dono](https://epoca.globo.com/economia/tiktok-que-se-sabe-sobre-empresa-por-tras-do-aplicativo-seu-enigmatico-dono-1-24554479)
+* [Google e Facebook: anúncios direcionados são alvo de projeto de lei nos EUA](https://oglobo.globo.com/economia/google-facebook-anuncios-direcionados-sao-alvo-de-projeto-de-lei-nos-eua-24554470)
+* [Assista ao debate 'Educação para diversidade' com colunistas do GLOBO e convidado](https://oglobo.globo.com/95-anos/assista-ao-debate-educacao-para-diversidade-com-colunistas-do-globo-convidado-24554424)
+* [Fãs reagem ao anúncio do primeiro álbum do grupo de k-pop Blackpink](https://oglobo.globo.com/cultura/fas-reagem-ao-anuncio-do-primeiro-album-do-grupo-de-pop-blackpink-24554452)
 * [Bolsonaro e Guedes buscam executivos de mercado para presidência do BB](https://oglobo.globo.com/economia/bolsonaro-guedes-buscam-executivos-de-mercado-para-presidencia-do-bb-1-24554409)
 * [Barroso defende reserva de recursos eleitorais para candidatos negros](https://oglobo.globo.com/95-anos/barroso-defende-reserva-de-recursos-eleitorais-para-candidatos-negros-24554392)
-* [Ao vivo: assista ao debate 'Educação para diversidade' com colunistas do GLOBO e convidado](https://oglobo.globo.com/95-anos/ao-vivo-assista-ao-debate-educacao-para-diversidade-com-colunistas-do-globo-convidado-24554424)
 * [Operação cumpre 212 mandados de busca e apreensão e de prisão em 11 estados contra facção criminosa](https://oglobo.globo.com/brasil/operacao-cumpre-212-mandados-de-busca-apreensao-de-prisao-em-11-estados-contra-faccao-criminosa-24554415)
 * [Brooklyn Beckham ficou de joelhos em novas fotos de noivado com Nicola Peltz](https://oglobo.globo.com/ela/gente/brooklyn-beckham-ficou-de-joelhos-em-novas-fotos-de-noivado-com-nicola-peltz-24554400)
-* [Governo do Paraná confirma parceria com laboratório chinês em vacina contra Covid-19](https://epoca.globo.com/sociedade/governo-do-parana-confirma-parceria-com-laboratorio-chines-em-vacina-contra-covid-19-24553932)
-* [Para atrair passageiros, empresa aérea banca tratamento para Covid-19 e até funeral](https://epoca.globo.com/economia/para-atrair-passageiros-empresa-aerea-banca-tratamento-para-covid-19-ate-funeral-24554398)
-* [Documentário sobre prisão de Caetano Veloso em 1968 é selecionado para Festival de Veneza](https://oglobo.globo.com/cultura/documentario-sobre-prisao-de-caetano-veloso-em-1968-selecionado-para-festival-de-veneza-24554388)
 * [O novo livro das democracias em crise](https://epoca.globo.com/guilherme-amado/o-novo-livro-das-democracias-em-crise-24553929)

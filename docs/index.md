@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 08:34:40 UTC
+# indexed at 28/07/2020 09:13:31 UTC
 
 
 ## news.ycombinator.com
 
 
 * [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
-* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
+* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
 * [Not an Amazon Problem](https://www.tbray.org/ongoing/When/202x/2020/07/23/Not-an-Amazon-Problem)
-* [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
-* [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
+* [We Don’t Need to Work So Much (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
-* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
+* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
+* [Socialism’s DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
+* [Lowkey (YC S18) is hiring full-stack engineers passionate about gaming (remote ok)](https://lowkey.gg)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
 * [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
-* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 * [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
 * [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
 * [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
-* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
-* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
 * [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
+* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
+* [We Thought It Was Just a Respiratory Virus We Were Wrong](https://www.ucsf.edu/magazine/covid-body)
+* [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
 * [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
 * [Proximal Policy Optimization for Playing Super Mario Bros](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
-* [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
-* [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
 * [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
-* [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
-* [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
-* [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
+* [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
+* [Roam Research reaches $1m ARR in 6 weeks](https://www.indiehackers.com/post/roam-research-reaches-1m-arr-in-6-weeks-20faee74e6)
+* [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
+* [ITER Live: Start of Machine Assembly](https://youtu.be/2-7GyVLKE6A)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [Booker Prize Longlist Includes Hilary Mantel and Anne Tyler](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
 * [What To Watch For at the 2020 Emmy Nominations](https://www.nytimes.com/2020/07/28/arts/television/emmys-2020.html)
 * [Poland Considers Leaving Treaty on Domestic Violence, Spurring Outcry](https://www.nytimes.com/2020/07/27/world/europe/poland-domestic-violence-treaty.html)
-* [What to Say When People Tell You Their Coronavirus Fears](https://www.nytimes.com/2020/07/03/smarter-living/coronavirus-fears-empathy.html)
-* [How to Make Smartphones Last Longer](https://www.nytimes.com/2020/07/01/technology/personaltech/make-your-tech-last-longer.html)
-* [Rituals Keep These Athletes Grounded. They Can Help Parents, Too.](https://www.nytimes.com/2020/07/06/parenting/rituals-pandemic-kids-athletes.html)
-* [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards, Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
-* [How Are My Kids Still Getting Sick in Lockdown?](https://www.nytimes.com/2020/06/24/parenting/virus-kids-sick-quarantine-infection.html)
+* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [That Almost Apology for the 1980 Olympic Boycott Helps. A Little.](https://www.nytimes.com/2020/07/27/sports/olympics/1980-boycott.html)
 * ['Challenge Accepted' on Instagram: Black and White Selfies for Women](https://www.nytimes.com/2020/07/27/style/challenge-accepted-instagram.html)
 * [Drone Music, Stretched and Sliced](https://www.nytimes.com/2020/07/27/arts/music/david-first-drone-music.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Candidatos do centrão a suceder Maia são pressionados a mostrar independência do governo](https://oglobo.globo.com/brasil/candidatos-do-centrao-suceder-maia-sao-pressionados-mostrar-independencia-do-governo-24554289)
 * [Silvia Machete lança disco em inglês com 'canções de uma mulher apaixonada'](https://oglobo.globo.com/cultura/silvia-machete-lanca-disco-em-ingles-com-cancoes-de-uma-mulher-apaixonada-24553787)
-* [Isolamento social diminui resgate de animais silvestres no Rio: cerca de 4 por dia](https://oglobo.globo.com/rio/isolamento-social-diminui-resgate-de-animais-silvestres-no-rio-cerca-de-4-por-dia-24554249)
-* [Adoção do ensino híbrido é o próximo nó da educação em tempos de pandemia](https://oglobo.globo.com/sociedade/adocao-do-ensino-hibrido-o-proximo-no-da-educacao-em-tempos-de-pandemia-24554046)
 * [Teto de gastos: despesas do governo só vão poder crescer R$ 31 bi em 2021](https://oglobo.globo.com/economia/teto-de-gastos-despesas-do-governo-so-vao-poder-crescer-31-bi-em-2021-24554241)
 * [O Tribunal Penal Internacional, Bolsonaro e o combate à Covid](https://oglobo.globo.com/podcast/o-tribunal-penal-internacional-bolsonaro-o-combate-covid-1-24554233)
 * [Em meio à crise, Estado do Rio busca prorrogar Regime de Recuperação Fiscal, que encerra em setembro](https://oglobo.globo.com/rio/em-meio-crise-estado-do-rio-busca-prorrogar-regime-de-recuperacao-fiscal-que-encerra-em-setembro-24554263)
+* [Acusado de violência doméstica, juiz auxiliar de Toffoli é proibido de se aproximar da ex-mulher](https://epoca.globo.com/guilherme-amado/acusado-de-violencia-domestica-juiz-auxiliar-de-toffoli-proibido-de-se-aproximar-da-ex-mulher-24554232)
 * [Ação mapeia moradores do Vidigal para acelerar e organizar doações durante a pandemia: mais de 2,5 mil pessoas já foram ajudadas](https://oglobo.globo.com/rio/acao-mapeia-moradores-do-vidigal-para-acelerar-organizar-doacoes-durante-pandemia-mais-de-25-mil-pessoas-ja-foram-ajudadas-24554236)
 * [Metade na escola, metade em casa: ensino híbrido é o próximo nó da educação em tempos de pandemia](https://oglobo.globo.com/sociedade/educacao/metade-na-escola-metade-em-casa-ensino-hibrido-o-proximo-no-da-educacao-em-tempos-de-pandemia-24554153)
 * [Marcelo Bielsa, o adorável vencedor](https://oglobo.globo.com/esportes/marcelo-bielsa-adoravel-vencedor-24553958)
-* ['Militares perdem se ficam expostos' no governo, afirma antropólogo que estuda Forças Armadas](https://oglobo.globo.com/brasil/militares-perdem-se-ficam-expostos-no-governo-afirma-antropologo-que-estuda-forcas-armadas-24553686)
+* [Ela levantou uma bandeira do Orgulho LGBT+ em um show no Egito. O que aconteceu depois foi uma sequência de tragédias](https://oglobo.globo.com/celina/ela-levantou-uma-bandeira-do-orgulho-lgbt-em-um-show-no-egito-que-aconteceu-depois-foi-uma-sequencia-de-tragedias-24547508)

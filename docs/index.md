@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 13:13:09 UTC
+# indexed at 28/07/2020 13:34:31 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Google’s Top Search Result? Surprise, It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors)
-* [Data Runner Watch Prototype (Modded Casio F91W)](https://n-o-d-e.net/datarunner.html)
-* [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
+* [Banned math book](https://www.johndcook.com/blog/2020/07/22/banned-math-book/)
+* [Data Runner Watch Prototype – Modded Casio F91W](https://n-o-d-e.net/datarunner.html)
 * [The Regular Expression Visualizer, Simulator and Cross-Compiler Tool](https://blog.robertelder.org/regular-expression-visualizer/)
-* [Banned Math Book](https://www.johndcook.com/blog/2020/07/22/banned-math-book/)
+* [WasmBoxC: Simple, Fast, and VM-Less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
+* [Google’s Top Search Result? Surprise, It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors)
+* [Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
+* [The worst tool for the job](https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/)
+* [Otto: Friendly Machine Learning Assistant](https://github.com/KartikChugh/Otto)
 * [The Toxoplasma of Rage (2014)](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+* [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
 * [We thought it was just a respiratory virus](https://www.ucsf.edu/magazine/covid-body)
 * [The Galaksija computer was a craze in 1980s Yugoslavia](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Distributed system definition at DEC SRC bulletin board (1987)](https://lamport.azurewebsites.net/pubs/distributed-system.txt)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
+* [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
 * [Intel Ponte Vecchio GPU Will Be Made on TSMC 6nm Process, CPUs Could Be TSMC 3nm](https://wccftech.com/intel-ponte-vecchio-gpu-tsmc-6nm/)
 * [Floating-Point Formats and Deep Learning](https://eigenfoo.xyz/floating-point-deep-learning/)
 * [The Double-Entry Counting Method (2016)](https://beancount.github.io/docs/the_double_entry_counting_method.html)
 * [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [Researchers “Translate” Bat Talk (2016)](https://www.smithsonianmag.com/smart-news/researchers-translate-bat-talk-and-they-argue-lot-180961564/)
 * [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
+* [Show HN: An Actually-Tiny Basic for Arduino](https://github.com/trevorjay/atinybasic)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
 * [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
 * [Not an Amazon Problem](https://www.tbray.org/ongoing/When/202x/2020/07/23/Not-an-Amazon-Problem)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* [Show HN: An *Actually* Tiny Basic for Arduino](https://github.com/trevorjay/atinybasic)
-* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
-* [Proximal Policy Optimization for Playing Super Mario Bros](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
-* [Fewer premature babies born since Covid-19 lockdown](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
-* [11M households could be evicted over the next four months](https://www.fastcompany.com/90532305/11-million-households-could-be-evicted-over-the-next-four-months)
-* [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
-* [Corecursion and coinduction: how they relate to recursion and induction [pdf]](http://www.cl.cam.ac.uk/~mjcg/plans/Coinduction.pdf)
+* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Deadspin Staffers Who Quit Start Defector](https://www.nytimes.com/2020/07/28/business/media/deadspin-staffers-start-defector.html)
 * [Trump Announced, Then Canceled, a Yankees Pitch. Both Came as a Surprise.](https://www.nytimes.com/2020/07/27/us/politics/trump-yankees-fauci.html)
 * [In Russia’s Far East, a New Face of Resistance to Putin’s Reign](https://www.nytimes.com/2020/07/28/world/europe/russias-far-east-protests-putin.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
-* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
-* [Your Trusty Maps App Can Help You Navigate the Pandemic](https://www.nytimes.com/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Black Plays Are Knocking on Broadway’s Door. Will It Open?](https://www.nytimes.com/2020/07/22/theater/black-plays-broadway.html)
 * [Michelle Wie West on Motherhood, Pain and a Possible Return to Golf](https://www.nytimes.com/2020/07/24/sports/golf/michelle-wie-golf.html)
 * [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](https://www.nytimes.com/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Twitter retira postagem de Trump por promover desinformação sobre o novo coronavírus](https://oglobo.globo.com/mundo/twitter-retira-postagem-de-trump-por-promover-desinformacao-sobre-novo-coronavirus-24554504)
+* [Facebook obtém prorrogação temporária em pedido de dados da União Europeia](https://oglobo.globo.com/economia/facebook-obtem-prorrogacao-temporaria-em-pedido-de-dados-da-uniao-europeia-24554550)
+* [Museu da Imagem e do Som tem conclusão das obras adiada até 2022](https://oglobo.globo.com/cultura/museu-da-imagem-do-som-tem-conclusao-das-obras-adiada-ate-2022-1-24554562)
 * [Alerj analisa levar todos os 70 deputados estaduais para nova comissão de impeachment de Witzel](https://oglobo.globo.com/rio/alerj-analisa-levar-todos-os-70-deputados-estaduais-para-nova-comissao-de-impeachment-de-witzel-24554517)
+* [Veste Rio: ciclo de mentorias acontece nesta terça e quarta-feira](https://oglobo.globo.com/ela/moda/veste-rio-ciclo-de-mentorias-acontece-nesta-terca-quarta-feira-24554542)
 * [Com greve suspensa de madrugada, estações do Metrô de SP amanhecem fechadas](https://oglobo.globo.com/sociedade/com-greve-suspensa-de-madrugada-estacoes-do-metro-de-sp-amanhecem-fechadas-24554526)
 * [Assessores ligados à ala ideológica são exonerados do MEC](https://oglobo.globo.com/sociedade/assessores-ligados-ala-ideologica-sao-exonerados-do-mec-24554543)
 * [Covid-19: Unicef prevê quase 7 milhões a mais de crianças desnutridas](https://epoca.globo.com/mundo/covid-19-unicef-preve-quase-7-milhoes-mais-de-criancas-desnutridas-24554540)
-* [Investimento direto no país registra menor resultado para o primeiro semestre desde 2015](https://oglobo.globo.com/economia/investimento-direto-no-pais-registra-menor-resultado-para-primeiro-semestre-desde-2015-1-24554520)
-* [Ex-secretário-geral do PT, Silvinho 'Land Rover' é condenado pela Lava-Jato](https://oglobo.globo.com/brasil/ex-secretario-geral-do-pt-silvinho-land-rover-condenado-pela-lava-jato-1-24554503)
-* [Listamos oito destaques da explosiva biografia de Harry e Meghan](https://oglobo.globo.com/ela/gente/listamos-oito-destaques-da-explosiva-biografia-de-harry-meghan-24554454)
 * [Zeca Pagodinho prepara live do Dia dos Pais e anuncia que será avô de novo: 'Vem mais um boneco aí'](https://oglobo.globo.com/cultura/zeca-pagodinho-prepara-live-do-dia-dos-pais-anuncia-que-sera-avo-de-novo-vem-mais-um-boneco-ai-24543493)
-* [Google e Facebook: anúncios direcionados são alvo de projeto de lei nos EUA](https://oglobo.globo.com/economia/google-facebook-anuncios-direcionados-sao-alvo-de-projeto-de-lei-nos-eua-24554470)
 * [Comunicação digital do Banco do Brasil em novas mãos](https://epoca.globo.com/guilherme-amado/comunicacao-digital-do-banco-do-brasil-em-novas-maos-1-24554117)

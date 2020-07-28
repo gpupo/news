@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 03:13:25 UTC
+# indexed at 28/07/2020 03:34:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
+* [Can no longer send money via Gmail](https://support.google.com/pay/answer/9868649?hl=en)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
 * [Research shows irradiation may dramatically reduce corrosion from molten salts](https://www.nature.com/articles/s41467-020-17244-y)
+* [Socialism’s DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* [Can no longer send money via Gmail](https://support.google.com/pay/answer/9868649?hl=en)
 * [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 * [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
-* [Socialism’s DIY Computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
 * [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
 * [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
-* [Draftbit (YC W18) is hiring a Product Manager to build the future of no-code](https://draftbit.com/jobs/product-manager)
-* [Witches of Belvoir 'may have been framed' (2013)](https://www.bbc.com/news/uk-england-24748721)
 * [How did anyone do math in Roman numerals?](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
 * [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://blog.cloudflare.com/introducing-workers-unbound/)
-* [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
+* [Draftbit (YC W18) is hiring a Product Manager to build the future of no-code](https://draftbit.com/jobs/product-manager)
 * [Alignment](https://gazzini.com/essays/posts/alignment/)
+* [Witches of Belvoir 'may have been framed' (2013)](https://www.bbc.com/news/uk-england-24748721)
+* [It’s easier to manage four people than one person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 * [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
 * [The Grace of Manta Rays](http://oceans.nautil.us/feature/590/the-grace-of-manta-rays)
-* [Show HN: Would You Survive the Titanic?](https://www.gradio.app/hub/hub-titanic)
+* [Xinjiang is prototype for fully totalitarian state: Taiwan minister](https://asia.nikkei.com/Politics/International-relations/Xinjiang-is-prototype-for-fully-totalitarian-state-Taiwan-minister)
 * [Next.js 9.5 – Redirects and Rewrites, Webpack 5 Beta](https://nextjs.org/blog/next-9-5)
+* [Show HN: Would You Survive the Titanic?](https://www.gradio.app/hub/hub-titanic)
+* [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-* [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
-* [Show HN: Routine Ops – Schedule recurring tasks by role](https://routineops.com)
 * [Launch HN: Daybreak Health (YC S20) – Online counseling designed for teens](https://news.ycombinator.com/item?id=23965855)
 ## nytimes.com
 
@@ -81,11 +81,11 @@ layout: default
 * [Hilary Mantel and Anne Tyler in Running for Booker Prize](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
 * [U.K.'s New Coronavirus Tactic: Urge Britons to Lose Weight](https://www.nytimes.com/2020/07/27/world/europe/uk-boris-johnson-coronavirus-obesity.html)
 * [As N.F.L. Fights Racism and Sexism, Team Owners Undercut the Message](https://www.nytimes.com/2020/07/25/sports/football/woody-johnson-trump-jets.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
 * [That Almost Apology for the 1980 Olympic Boycott Helps. A Little.](https://www.nytimes.com/2020/07/27/sports/olympics/1980-boycott.html)
 * ['Challenge Accepted' on Instagram: Black and White Selfies for Women](https://www.nytimes.com/2020/07/27/style/challenge-accepted-instagram.html)
 * [Drone Music, Stretched and Sliced](https://www.nytimes.com/2020/07/27/arts/music/david-first-drone-music.html)

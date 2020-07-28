@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 05:12:53 UTC
+# indexed at 28/07/2020 05:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Intel ousts its chief engineer, shakes up technical group after delays](https://www.reuters.com/article/us-intel-reorganization/intel-ousts-its-chief-engineer-shakes-up-technical-group-after-delays-idUSKCN24S2O6)
 * [Remington Arms Declares Bankruptcy](https://www.wsj.com/articles/remington-arms-declares-bankruptcy-despite-surging-gun-demand-11595903187)
-* [Calgary doctor says 40% drop in preterm births during lockdown is global trend](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [1980s Yugoslavia’s Galaksija DIY computer](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer)
+* [Calgary doctor says 40% drop in preterm births during lockdown is global trend](https://www.cbc.ca/news/canada/calgary/fewer-premature-preterm-babies-born-during-pandemic-calgary-around-the-world-1.5665089)
 * [Double Entry Accounting for Developers](https://django-hordak.readthedocs.io/en/latest/accounting-for-developers.html)
 * [Proton irradiation decelerates intergranular corrosion of Ni-Cr alloys](https://www.nature.com/articles/s41467-020-17244-y)
 * [How GPT3 Works – Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [Facebook sues EU antitrust regulator for excessive data requests](https://www.reuters.com/article/us-eu-facebook-antitrust/facebook-sues-eu-antitrust-regulator-for-excessive-data-requests-idUSKCN24S2BN)
-* [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
+* [BuildZoom (better way to build custom homes) is hiring in Scottsdale](https://jobs.lever.co/buildzoom)
 * [How Did the Casio F91W Become a Terrorist Icon?](https://reaperfeed.com/how-did-the-casio-f91w-become-a-terrorist-icon/)
-* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
+* [Usability of Footnotes](https://shkspr.mobi/blog/2020/07/usability-of-footnotes/)
 * [Procedural cityscapes creation: Openstreetmap import in Unity and Houdini Engine](http://stinaflodstrom.com/projects/osm/osm.html)
+* [Quiet route planning for pedestrians in traffic noise polluted environments](http://k1z.blog.uni-heidelberg.de/2020/07/15/quiet-route-planning-for-pedestrians-in-traffic-noise-polluted-environments/)
 * [Show HN: Neural text to speech with dozens of celebrity voices](http://vocodes.com)
 * [Spies can eavesdrop by watching a light bulb's vibrations](https://www.wired.com/story/lamphone-light-bulb-vibration-spying/)
-* [Apache Arrow 1.0](https://arrow.apache.org/blog/2020/07/24/1.0.0-release/)
-* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
-* [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
-* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
-* [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
 * [Cloudflare launches Workers Unbound, next evolution of its serverless platform](https://blog.cloudflare.com/introducing-workers-unbound/)
+* [How did anyone do math in Roman numerals? (2017)](https://www.washingtoncitypaper.com/columns/straight-dope/article/20854121/how-did-anyone-do-math-in-roman-numerals)
 * [A new way to control experimentation with dreams](http://news.mit.edu/2020/targeted-dream-incubation-dormio-mit-media-lab-0721)
+* [Gmail, Contacts, Assistant and Messages apps no longer support sending money](https://support.google.com/pay/answer/9868649?hl=en)
+* [Airbus' self-flying plane just completed taxi, take-off, and landing tests](https://www.businessinsider.com/airbus-completes-autonomous-taxi-take-off-and-landing-tests-2020-7)
+* [Google Drive – How do I stop others from sharing files with me?](https://support.google.com/drive/thread/3708017?hl=en)
 * [Accounting for Layman – The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html)
+* [30 years of family videos in an AI archive](https://blog.google/products/photos/30-years-family-videos-ai-archive/)
 * [Ted Williams's Strike Zone](http://tedwilliams.com/_data/hzone.htm)
+* [Next.js 9.5](https://nextjs.org/blog/next-9-5)
 * [The Grace of Manta Rays](http://oceans.nautil.us/feature/590/the-grace-of-manta-rays)
 * [Alignment](https://gazzini.com/essays/posts/alignment/)
-* [Next.js 9.5](https://nextjs.org/blog/next-9-5)
+* [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
 * [Witches of Belvoir 'may have been framed' (2013)](https://www.bbc.com/news/uk-england-24748721)
-* [Show HN: UnnaturalScrollWheels – Better scroll wheel settings for macOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-* [Draftbit (YC W18) is hiring a Product Manager to build the future of no-code](https://draftbit.com/jobs/product-manager)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Hilary Mantel and Anne Tyler in Running for Booker Prize](https://www.nytimes.com/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
 * [What To Watch For at the 2020 Emmy Nominations](https://www.nytimes.com/2020/07/28/arts/television/emmys-2020.html)
 * [Poland Considers Leaving Treaty on Domestic Violence, Spurring Outcry](https://www.nytimes.com/2020/07/27/world/europe/poland-domestic-violence-treaty.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
+* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [That Almost Apology for the 1980 Olympic Boycott Helps. A Little.](https://www.nytimes.com/2020/07/27/sports/olympics/1980-boycott.html)
 * ['Challenge Accepted' on Instagram: Black and White Selfies for Women](https://www.nytimes.com/2020/07/27/style/challenge-accepted-instagram.html)
 * [Drone Music, Stretched and Sliced](https://www.nytimes.com/2020/07/27/arts/music/david-first-drone-music.html)
@@ -103,8 +103,8 @@ layout: default
 ## globo.com
 
 
-* [Nova Zelândia suspende tratado de extradição com Hong Kong](https://oglobo.globo.com/mundo/nova-zelandia-suspende-tratado-de-extradicao-com-hong-kong-24554322)
 * [Quem é Domènec Torrent, o alvo do Flamengo que foi auxiliar de Guardiola por dez anos](https://oglobo.globo.com/esportes/flamengo/quem-domenec-torrent-alvo-do-flamengo-que-foi-auxiliar-de-guardiola-por-dez-anos-24554314)
+* [Nova Zelândia suspende tratado de extradição com Hong Kong](https://oglobo.globo.com/mundo/nova-zelandia-suspende-tratado-de-extradicao-com-hong-kong-24554322)
 * [Crítica de 'Macabro', filme de Marcos Prado](https://oglobo.globo.com/cultura/critica-de-macabro-filme-de-marcos-prado-24554038)
 * [‘Macabro’, de Marcos Prado, retrata crimes de necrofilia que aterrorizaram região serrana do Rio nos anos 1990](https://oglobo.globo.com/cultura/macabro-de-marcos-prado-retrata-crimes-de-necrofilia-que-aterrorizaram-regiao-serrana-do-rio-nos-anos-1990-24553663)
 * [Um lobby de alto risco](https://oglobo.globo.com/opiniao/um-lobby-de-alto-risco-24553751)

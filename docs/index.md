@@ -2,13 +2,14 @@
 layout: default
 ---
 
-# indexed at 28/07/2020 22:14:25 UTC
+# indexed at 28/07/2020 22:34:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Iter: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
+* [All-you-can-eat study shows body copes well with one-off calorie indulgence](https://www.bath.ac.uk/announcements/all-you-can-eat-pizza-study-shows-body-copes-surprisingly-well-with-one-off-calorie-indulgence/)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
 * [GitHub Public Roadmap](https://github.com/github/roadmap)
@@ -16,32 +17,32 @@ layout: default
 * [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
 * [OCaml: Add support to iOS/Mac ARM64](https://github.com/ocaml/ocaml/pull/9699)
-* [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
 * [Scientists pull living microbes, possibly 100M years old, from beneath the sea](https://www.sciencemag.org/news/2020/07/scientists-pull-living-microbes-100-million-years-beneath-sea)
+* [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
 * [Interview with a Pornhub web developer (2019)](https://davidwalsh.name/pornhub-interview)
 * [The Soul of a New Machine: Rethinking the Computer [video]](https://www.youtube.com/watch?v=vvZA9n3e5pc&list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 * [MailTrackerBlocker – email tracker and spy pixel blocker plugin for Apple Mail](https://apparition47.github.io/MailTrackerBlocker/)
-* [Optical Disc Data Rot: Burned CDs going bad](https://www.howtogeek.com/682807/the-cds-you-burned-are-going-bad-heres-what-you-need-to-do/)
-* [Eye Shapes of the Animal World Hint at Differences in Our Lifestyles (2015)](https://www.npr.org/sections/health-shots/2015/08/07/430149677/eye-shapes-of-the-animal-world-hint-at-differences-in-our-lifestyles)
-* [How to track costs in multi-tenant Amazon EKS clusters](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
-* [How to be a Roman emperor](https://www.the-tls.co.uk/articles/how-to-be-a-roman-emperor-essay-mary-beard/)
 * [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
-* [Repl.it is hiring front end, fullstack, and designers to revolutionize computing](https://repl.it/jobs)
+* [Optical Disc Data Rot: Burned CDs going bad](https://www.howtogeek.com/682807/the-cds-you-burned-are-going-bad-heres-what-you-need-to-do/)
+* [International cyber law: interactive toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
+* [How to track costs in multi-tenant Amazon EKS clusters](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
 * [Firefox 79](https://hacks.mozilla.org/2020/07/firefox-79/)
+* [How to be a Roman emperor](https://www.the-tls.co.uk/articles/how-to-be-a-roman-emperor-essay-mary-beard/)
+* [Repl.it is hiring front end, fullstack, and designers to revolutionize computing](https://repl.it/jobs)
+* [Eye Shapes of the Animal World Hint at Differences in Our Lifestyles (2015)](https://www.npr.org/sections/health-shots/2015/08/07/430149677/eye-shapes-of-the-animal-world-hint-at-differences-in-our-lifestyles)
 * [Forster in Cambridge](https://lrb.co.uk/the-paper/v42/n15/richard-shone/forster-in-cambridge)
 * [The Regular Expression Visualizer, Simulator and Cross-Compiler Tool](https://blog.robertelder.org/regular-expression-visualizer/)
 * [Data Runner Watch Prototype – Modded Casio F91W](https://n-o-d-e.net/datarunner.html)
+* [Benchmarking the Major Cloud Vision AutoML Tools](https://blog.roboflow.ai/automl-vs-rekognition-vs-custom-vision/)
 * [The worst tool for the job](https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/)
 * [Google’s top search result is Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors)
-* [Benchmarking the Major Cloud Vision AutoML Tools](https://blog.roboflow.ai/automl-vs-rekognition-vs-custom-vision/)
-* [Iroquois Nationals, barred from World Games, gave gift of lacrosse to the world](https://www.cbc.ca/radio/asithappens/as-it-happens-monday-edition-1.5664460/iroquois-nationals-barred-from-world-games-say-their-people-gave-gift-of-lacrosse-to-the-world-1.5664618)
 * [Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
-* [Density raises $51M Series C led by Kleiner Perkins](https://www.density.io/blog/kleiner/)
 ## nytimes.com
 
 
 * [Barr Testimony: Highlights of Combative Hearing on Protests, Stone Case and More](https://www.nytimes.com/2020/07/28/us/politics/william-barr-house-judiciary-hearing.html)
+* [From the Start, Federal Agents Demanded a Role in Suppressing Anti-Racism Protests](https://www.nytimes.com/2020/07/28/us/federal-agents-portland-seattle-protests.html)
 * [Fact Check: How Violent Are the Portland Protests?](https://www.nytimes.com/2020/07/28/us/portland-protests-violence-tactics-barr-fact-check.html)
 * [‘Red Zone’ List Has Grown to 21 States, According to Report: Live Updates](https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html)
 * [Misleading Virus Video, Pushed by the Trumps, Spreads Online](https://www.nytimes.com/2020/07/28/technology/virus-video-trump.html)
@@ -81,10 +82,10 @@ layout: default
 * [Uber and Lyft Drivers Win Ruling on Unemployment Benefits](https://www.nytimes.com/2020/07/28/business/economy/lyft-uber-drivers-unemployment.html)
 * [Coronavirus Overwhelms Texas Funeral Homes](https://www.nytimes.com/2020/07/28/us/coronavirus-texas-funeral-homes.html)
 * [‘A Big Correction’: Pandemic Brings Change to ‘Bloated’ Ad Industry](https://www.nytimes.com/2020/07/28/business/media/coronavirus-pandemic-advertising-industry.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Overlooked No More: Cheryl Marie Wade, a Performer Who Refused to Hide](https://www.nytimes.com/2020/07/23/obituaries/cheryl-marie-wade-overlooked.html)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Auxílio emergencial: mais 805 mil cadastros são liberados para pagamento; Veja como consultar a inscrição](https://oglobo.globo.com/economia/auxilio-emergencial-mais-805-mil-cadastros-sao-liberados-para-pagamento-veja-como-consultar-inscricao-24555207)
-* [Lances por barras de ouro e diamantes de Cabral já passam de R$ 1,5 milhão](https://oglobo.globo.com/brasil/lances-por-barras-de-ouro-diamantes-de-cabral-ja-passam-de-15-milhao-1-24555505)
+* [Sindicato Estadual dos Profissionais de Educação aciona a Justiça para barrar a reabertura de refeitórios em 168 escolas municipais](https://oglobo.globo.com/rio/sindicato-estadual-dos-profissionais-de-educacao-aciona-justica-para-barrar-reabertura-de-refeitorios-em-168-escolas-municipais-24555523)
+* [Câmara terá novo bloco alinhado ao governo com PSL, PSC, PTB e PROS](https://oglobo.globo.com/brasil/camara-tera-novo-bloco-alinhado-ao-governo-com-psl-psc-ptb-pros-24555527)
 * [Em depoimento, Marinho confirma que Bebianno avisou Bolsonaro sobre vazamento de operação](https://oglobo.globo.com/brasil/em-depoimento-marinho-confirma-que-bebianno-avisou-bolsonaro-sobre-vazamento-de-operacao-24555489)
+* [Lances por barras de ouro e diamantes de Cabral já passam de R$ 1,5 milhão](https://oglobo.globo.com/brasil/lances-por-barras-de-ouro-diamantes-de-cabral-ja-passam-de-15-milhao-1-24555505)
+* [Auxílio emergencial: mais 805 mil cadastros são liberados para pagamento; Veja como consultar a inscrição](https://oglobo.globo.com/economia/auxilio-emergencial-mais-805-mil-cadastros-sao-liberados-para-pagamento-veja-como-consultar-inscricao-24555207)
 * [Rússia lança segundo teste em humanos de vacina contra a Covid-19](https://oglobo.globo.com/sociedade/russia-lanca-segundo-teste-em-humanos-de-vacina-contra-covid-19-24550158)
 * ['A contrapartida é uma metodologia. Mas não é vale um tudo', diz secretária municipal de Urbanismo sobre a 'lei dos puxadinhos'](https://oglobo.globo.com/rio/a-contrapartida-uma-metodologiamas-nao-vale-um-tudo-diz-secretaria-municipal-de-urbanismo-sobre-lei-dos-puxadinhos-24555451)
 * [Atividades esportivas coletivas nas praias de Niterói estão liberadas a partir de quarta-feira](https://oglobo.globo.com/rio/bairros/atividades-esportivas-coletivas-nas-praias-de-niteroi-estao-liberadas-partir-de-quarta-feira-24555298)
 * [Emmy 2020: saiba onde assistir aos principais indicados](https://oglobo.globo.com/rioshow/emmy-2020-saiba-onde-assistir-aos-principais-indicados-24555363)
-* [Em plano contra desigualdade econômica racial, Biden promete investimento bilionário e representatividade no Banco Central americano](https://oglobo.globo.com/mundo/em-plano-contra-desigualdade-economica-racial-biden-promete-investimento-bilionario-representatividade-no-banco-central-americano-24555394)
 * [Brasil já tem 86% dos shoppings reabertos](https://epoca.globo.com/guilherme-amado/brasil-ja-tem-86-dos-shoppings-reabertos-24555419)
-* [Rio ultrapassa a marca de 13 mil mortes pelo coronavírus e registra 1.805 novos casos em 24 horas](https://oglobo.globo.com/rio/rio-ultrapassa-marca-de-13-mil-mortes-pelo-coronavirus-registra-1805-novos-casos-em-24-horas-24555404)

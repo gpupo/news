@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 10:14:02 UTC
+# indexed at 29/07/2020 10:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
-* [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
+* [Nuclear Fusion Project, Iter begins assembly](https://www.theguardian.com/environment/2020/jul/28/worlds-largest-nuclear-fusion-project-under-assembly-in-france)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
+* [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
-* [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
-* [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
-* [Who was the first literary schlub?](https://statmodeling.stat.columbia.edu/2020/07/26/when-was-the-first-literary-schlub/)
-* [Bitoduc: A French dictionnary for CS related words](https://bitoduc.fr/)
-* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
+* [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Stop Abusing Semver](https://samver.org/)
-* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
+* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
+* [Who was the first literary schlub?](https://statmodeling.stat.columbia.edu/2020/07/26/when-was-the-first-literary-schlub/)
 * [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
+* [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
+* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
+* [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
 * [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
-* [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
 * [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
-* [GitHub Public Roadmap](https://github.com/github/roadmap)
+* [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
+* [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [Turkey Passes Law Extending Sweeping Powers Over Social Media](https://www.nytimes.com/2020/07/29/world/europe/turkey-social-media-control.html)
 * [Apple, Google, Facebook and Amazon C.E.O.s Are Testifying Before Congress. Here's What to Know.](https://www.nytimes.com/2020/07/29/technology/tech-ceos-congress-what-to-know.html)
 * [Why Revel Suspended Moped Service in N.Y.C.](https://www.nytimes.com/2020/07/29/nyregion/revel-mopeds-nyc.html)
-* [Why $600 Checks Are Tearing Republicans Apart](https://www.nytimes.com/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
+* [Confronting China](https://www.nytimes.com/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
 * [The Yearning for the Unexplained](https://www.nytimes.com/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
 * [Amazon Has Too Much Power. Take It Back.](https://www.nytimes.com/2020/07/29/opinion/amazon-union-congress-antitrust.html)
@@ -77,11 +77,11 @@ layout: default
 * [‘Hidden Gem’ Made Popular by TikTok Is Shut to Keep Out-of-Towners Away](https://www.nytimes.com/2020/07/29/nyregion/lake-solitude-closed-racism.html)
 * [GDP Q2 Report: Why You'll See Two Figures for Decline](https://www.nytimes.com/2020/07/29/business/economy/us-gdp-report.html)
 * [M.L.B.’s Botched Return Could Be a Warning for the N.F.L.](https://www.nytimes.com/2020/07/29/sports/football/nfl-mlb-opting-out.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [The Essential Tana French](https://www.nytimes.com/2020/07/29/books/the-essential-tana-french.html)
 * [Making a Move During the Pandemic? Not So Fast](https://www.nytimes.com/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
 * [Kerry Washington on Her 4 Emmy Nods and Issues of Race in Her Work](https://www.nytimes.com/2020/07/28/arts/television/kerry-washington-emmys-little-fires.html)
@@ -101,9 +101,9 @@ layout: default
 ## globo.com
 
 
-* [Depois de intervir no caso de Cabral, Aras sugere mudanças em delações da PF](https://oglobo.globo.com/brasil/depois-de-intervir-no-caso-de-cabral-aras-sugere-mudancas-em-delacoes-da-pf-24555695)
+* [Tiroteio no Complexo do Lins interdita a Grajaú-Jacarepaguá](https://oglobo.globo.com/rio/tiroteio-no-complexo-do-lins-interdita-grajau-jacarepagua-24556085)
+* [Depois de intervir no caso de Cabral, Aras sugere mudanças em delações da PF](https://oglobo.globo.com/brasil/depois-de-intervir-no-caso-de-cabral-aras-sugere-mudancas-em-delacoes-da-pf-1-24555695)
 * [Surto de Covid-19 no navio Diamond Princess foi iniciado por uma única pessoa](https://oglobo.globo.com/sociedade/surto-de-covid-19-no-navio-diamond-princess-foi-iniciado-por-uma-unica-pessoa-24555885)
-* [A fritura dos governadores da 'nova política'](https://oglobo.globo.com/podcast/a-fritura-dos-governadores-da-nova-politica-1-24556021)
 * [Reforma tributária de Guedes acena com taxação ao setor livreiro, que teme efeito 'devastador'](https://oglobo.globo.com/cultura/reforma-tributaria-de-guedes-acena-com-taxacao-ao-setor-livreiro-que-teme-efeito-devastador-24549569)
 * [Investigado, deputado bolsonarista interrompe pagamentos em dinheiro vivo a consultoria](https://epoca.globo.com/guilherme-amado/investigado-deputado-bolsonarista-interrompe-pagamentos-em-dinheiro-vivo-consultoria-24555864)
 * [TSE terá margem apertada em abuso de poder religioso](https://epoca.globo.com/guilherme-amado/tse-tera-margem-apertada-em-abuso-de-poder-religioso-24555780)

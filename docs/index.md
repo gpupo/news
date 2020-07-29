@@ -2,29 +2,33 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 15:13:44 UTC
+# indexed at 29/07/2020 15:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
+* [TheirTube – A website that simulates YouTube through the eyes of a flat earther](http://www.their.tube)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
 * [Interactive Generative Art](http://weavesilk.com/?ika/)
 * [Del.icio.us](http://del.icio.us/)
 * [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
+* [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
 * [Airbus to build 'first interplanetary cargo ship'](https://www.bbc.com/news/science-environment-53575353)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [TikTok's new CEO says company will reveal how its algorithms work](https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithms-work-aff01b6c-8f33-454f-9b4a-7d52292ce501.html)
 * [Debug Programs Using GDB on Redox OS](https://www.redox-os.org/news/public-announcement-gdb/)
-* [Thoughts about the difference between European and American H/W and S/W design](https://liam-on-linux.livejournal.com/72876.html)
+* [Americans Aren’t Making Babies, and That’s Bad for the Economy](https://www.bloombergquint.com/businessweek/coronavirus-pandemic-americans-aren-t-making-babies-in-crisis)
 * [I ️love ARM](https://www.20i.com/blog/i-love-arm/)
-* [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
+* [Thoughts about the difference between European and American H/W and S/W design](https://liam-on-linux.livejournal.com/72876.html)
 * [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
-* [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
+* [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
+* [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
+* [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
 * [An Elegy for the Landline in Literature](https://www.newyorker.com/books/page-turner/an-elegy-for-the-landline-in-literature)
 * [Nuclear Fusion Project, Iter begins assembly](https://www.theguardian.com/environment/2020/jul/28/worlds-largest-nuclear-fusion-project-under-assembly-in-france)
@@ -34,15 +38,11 @@ layout: default
 * [Bitoduc: A French dictionnary for CS related words](https://bitoduc.fr/)
 * [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
 * [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
-* [CEOs of Amazon, Apple, Facebook, and Google prepare their antitrust defense](https://www.techspot.com/news/86160-ceos-amazon-apple-facebook-google-preparing-their-defense.html)
-* [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
-* [How to Become Convincing](https://dcgross.com/how-to-convince-people/)
-* [JP-7](https://en.wikipedia.org/wiki/JP-7)
 ## nytimes.com
 
 
-* [A Viral Epidemic Splintering Into Deadly Pieces](https://www.nytimes.com/2020/07/29/health/coronavirus-future-america.html)
 * [Live Coronavirus Updates](https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html)
+* [A Viral Epidemic Splintering Into Deadly Pieces](https://www.nytimes.com/2020/07/29/health/coronavirus-future-america.html)
 * [City Praises Contact-Tracing Program. Workers Call Rollout a ‘Disaster.’](https://www.nytimes.com/2020/07/29/nyregion/new-york-contact-tracing.html)
 * [Mandatory Masks, but Limited Enforcement, at Walmart and Other Stores](https://www.nytimes.com/2020/07/29/business/coronavirus-masks-stores-walmart.html)
 * [Divided and Demoralized on Virus Aid, Republicans Ask, ‘What’s in the Bill?’](https://www.nytimes.com/2020/07/29/us/republicans-congress-virus-aid.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Com aumento de golpes, brasileiros compartilham menos seus dados pela internet](https://oglobo.globo.com/economia/com-aumento-de-golpes-brasileiros-compartilham-menos-seus-dados-pela-internet-24555997)
 * [Pronampe: Deputados votam crédito extra de R$12 bi para pequena empresa nesta quarta](https://oglobo.globo.com/economia/pronampe-deputados-votam-credito-extra-de-r12-bi-para-pequena-empresa-nesta-quarta-24556417)
+* [Governos tem direito de impor restrições a protestos para conter coronavírus, diz ONU](https://oglobo.globo.com/mundo/governos-tem-direito-de-impor-restricoes-protestos-para-conter-coronavirus-diz-onu-24556463)
 * ['Judiciário vem sendo utilizado por partidos políticos', diz Mourão](https://oglobo.globo.com/brasil/judiciario-vem-sendo-utilizado-por-partidos-politicos-diz-mourao-24556411)
-* [Sintomas da Covid-19: crescem buscas na internet pelo termo em estados com aumento de casos](https://oglobo.globo.com/sociedade/coronavirus/sintomas-da-covid-19-crescem-buscas-na-internet-pelo-termo-em-estados-com-aumento-de-casos-24556368)
+* [Sintomas da Covid-19: crescem buscas digitais pelo termo em estados com aumento de casos](https://oglobo.globo.com/sociedade/coronavirus/sintomas-da-covid-19-crescem-buscas-digitais-pelo-termo-em-estados-com-aumento-de-casos-24556368)
+* [Ministro do STF diz que governos estaduais e municipais têm competência para ditar regras para combate à pandemia](https://oglobo.globo.com/brasil/ministro-do-stf-diz-que-governos-estaduais-municipais-tem-competencia-para-ditar-regras-para-combate-pandemia-24556461)
+* [Com aumento de golpes, brasileiros compartilham menos seus dados pela internet](https://oglobo.globo.com/economia/com-aumento-de-golpes-brasileiros-compartilham-menos-seus-dados-pela-internet-24555997)
+* ['Lei do Puxadinho' aprovada: Veja como votaram os vereadores](https://oglobo.globo.com/rio/lei-do-puxadinho-aprovada-veja-como-votaram-os-vereadores-24556401)
 * [Roraima foi estado em que internados por Covid-19 mais morreram](https://epoca.globo.com/guilherme-amado/roraima-foi-estado-em-que-internados-por-covid-19-mais-morreram-24554108)
 * [Como médica ajudou a preservar os seios de milhares de vítimas de câncer mama no mundo](https://epoca.globo.com/sociedade/como-medica-ajudou-preservar-os-seios-de-milhares-de-vitimas-de-cancer-mama-no-mundo-24556437)
-* ['Lei do Puxadinho' aprovada: Veja como votaram os vereadores](https://oglobo.globo.com/rio/lei-do-puxadinho-aprovada-veja-como-votaram-os-vereadores-24556401)
 * [PF se despede este ano do Máscara Negra, seu prédio central](https://epoca.globo.com/guilherme-amado/pf-se-despede-este-ano-do-mascara-negra-seu-predio-central-1-24556346)
-* [Edmar Santos e outros suspeitos de envolvimento na compra de 820 mil testes para Covid têm bens bloqueados](https://oglobo.globo.com/rio/edmar-santos-outros-suspeitos-de-envolvimento-na-compra-de-820-mil-testes-para-covid-tem-bens-bloqueados-24556337)
-* [Embraport não cumpre decisão do Cade e mantém cobrança de taxa portuária](https://epoca.globo.com/guilherme-amado/embraport-nao-cumpre-decisao-do-cade-mantem-cobranca-de-taxa-portuaria-24556331)

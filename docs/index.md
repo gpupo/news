@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 07:13:55 UTC
+# indexed at 29/07/2020 07:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
-* [Hiring Without Whiteboards – Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
+* [Why Do People Stay Poor? [pdf]](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
+* [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
 * [GitHub Public Roadmap](https://github.com/github/roadmap)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
-* [Why Do People Stay Poor? [pdf]](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
-* [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
-* [Perfect Edition: A lightweight, responsive web e-book template](https://github.com/robinsloan/perfect-edition)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
+* [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
+* [Perfect Edition: A lightweight, responsive web e-book template](https://github.com/robinsloan/perfect-edition)
+* [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 * [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
-* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
+* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
-* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
 * [Scientists pull living microbes, possibly 100M years old, from beneath the sea](https://www.sciencemag.org/news/2020/07/scientists-pull-living-microbes-100-million-years-beneath-sea)
+* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
 * [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
 * [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
 * [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
-* [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
+* [Stop Abusing Semver](https://samver.org/)
 * [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
-* [The Soul of a New Machine: Rethinking the Computer [video]](https://www.youtube.com/watch?v=vvZA9n3e5pc&list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 ## nytimes.com
 
 
@@ -78,10 +78,11 @@ layout: default
 * [Minneapolis Police Link ‘Umbrella Man’ to White Supremacy Group](https://www.nytimes.com/2020/07/28/us/umbrella-man-identified-minneapolis.html)
 * [GDP Q2 Report: Why You'll See Two Figures for Decline](https://www.nytimes.com/2020/07/29/business/economy/us-gdp-report.html)
 * [North Korea Thinks He Brought Covid-19. South Korea Wants to Arrest Him.](https://www.nytimes.com/2020/07/28/world/asia/north-korea-defector-coronavirus.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
-* [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Aimee Bender’s Latest Is a Proustian Reverie](https://www.nytimes.com/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
@@ -105,8 +106,8 @@ layout: default
 * [100 anos de O GLOBO: editores escolhem os fatos que gostariam de ver estampados na capa do jornal](https://oglobo.globo.com/95-anos/100-anos-de-globo-editores-escolhem-os-fatos-que-gostariam-de-ver-estampados-na-capa-do-jornal-24556052)
 * [Leitores buscam informação relevante e checada por profissionais](https://oglobo.globo.com/95-anos/leitores-buscam-informacao-relevante-checada-por-profissionais-24555518)
 * [No jornal desde 1984, Chico Caruso homenageia os 95 anos de O GLOBO com charge especial](https://oglobo.globo.com/95-anos/no-jornal-desde-1984-chico-caruso-homenageia-os-95-anos-de-globo-com-charge-especial-24556050)
-* [O inimaginável: como a Redação cobre a pandemia mantendo-se vibrante à distância](https://oglobo.globo.com/95-anos/o-inimaginavel-como-redacao-cobre-pandemia-mantendo-se-vibrante-distancia-24555936)
-* [O futuro da imprensa é estar em tudo: qual o desafio dos jornais nos próximos anos](https://oglobo.globo.com/95-anos/o-futuro-da-imprensa-estar-em-tudo-qual-desafio-dos-jornais-nos-proximos-anos-24555221)
-* [Sonar, Analítico, Ao Ponto: O GLOBO lança novos meios digitais de informar e consumir notícia](https://oglobo.globo.com/95-anos/sonar-analitico-ao-ponto-globo-lanca-novos-meios-digitais-de-informar-consumir-noticia-24556034)
-* [Sem medo da crise: ao longo dos anos, O GLOBO se reinventou diante de desafios](https://oglobo.globo.com/95-anos/sem-medo-da-crise-ao-longo-dos-anos-globo-se-reinventou-diante-de-desafios-24554903)
-* [Reflexões sobre cidadania: especialistas apontam quatro desafios dos próximos anos](https://oglobo.globo.com/95-anos/reflexoes-sobre-cidadania-especialistas-apontam-quatro-desafios-dos-proximos-anos-24556000)
+* [Nave da Virgin Galactic terá câmeras para selfies e duas janelas por passageiro](https://oglobo.globo.com/boa-viagem/nave-da-virgin-galactic-tera-cameras-para-selfies-duas-janelas-por-passageiro-24556056)
+* [Páginas (e telas) de história: desde 1925, leitor recebe apuração alentada e informação exclusiva](https://oglobo.globo.com/95-anos/paginas-telas-de-historia-desde-1925-leitor-recebe-apuracao-alentada-informacao-exclusiva-24555715)
+* [Com decisão do STF, Witzel deve ganhar 20 dias de fôlego no processo de impeachment, mas cenário na Alerj não deve mudar](https://oglobo.globo.com/rio/com-decisao-do-stf-witzel-deve-ganhar-20-dias-de-folego-no-processo-de-impeachment-mas-cenario-na-alerj-nao-deve-mudar-24555711)
+* [Embaixador dos EUA alerta que se Brasil 'não banir' a Huawei enfrentará 'consequências'](https://oglobo.globo.com/economia/embaixador-dos-eua-alerta-que-se-brasil-nao-banir-huawei-enfrentara-consequencias-24555785)
+* [Sedentarismo acelera perda de massa muscular: especialistas dão dicas de como voltar a se mexer em casa](https://oglobo.globo.com/ela/ageless/sedentarismo-acelera-perda-de-massa-muscular-especialistas-dao-dicas-de-como-voltar-se-mexer-em-casa-24552928)

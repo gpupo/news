@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 06:15:27 UTC
+# indexed at 29/07/2020 06:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,26 +10,27 @@ layout: default
 
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
-* [Hiring Without Whiteboards – Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
+* [Hiring Without Whiteboards – Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
 * [GitHub Public Roadmap](https://github.com/github/roadmap)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
+* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [Perfect Edition: A lightweight, responsive web e-book template](https://github.com/robinsloan/perfect-edition)
-* [How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
 * [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
-* [Riding the Rays by Douglas Adams (1992)](https://douglasadams.com/dna/980707-08-a.html)
-* [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
+* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
+* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
-* [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
+* [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
+* [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
 * [Scientists pull living microbes, possibly 100M years old, from beneath the sea](https://www.sciencemag.org/news/2020/07/scientists-pull-living-microbes-100-million-years-beneath-sea)
+* [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
 * [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
 * [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
@@ -37,7 +38,6 @@ layout: default
 * [The Soul of a New Machine: Rethinking the Computer [video]](https://www.youtube.com/watch?v=vvZA9n3e5pc&list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 * [How to be a Roman emperor](https://www.the-tls.co.uk/articles/how-to-be-a-roman-emperor-essay-mary-beard/)
 * [MailTrackerBlocker – email tracker and spy pixel blocker plugin for Apple Mail](https://apparition47.github.io/MailTrackerBlocker/)
-* [International cyber law: interactive toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 ## nytimes.com
 
 
@@ -82,8 +82,8 @@ layout: default
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Aimee Bender’s Latest Is a Proustian Reverie](https://www.nytimes.com/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
@@ -102,9 +102,9 @@ layout: default
 ## globo.com
 
 
+* [Câmara do Rio aprova projeto da ‘Lei do Puxadinho’](https://oglobo.globo.com/rio/camara-do-rio-aprova-projeto-da-lei-do-puxadinho-24555954)
 * [Saiba quem Domènec Torrent pode levar para o Flamengo para formar a comissão técnica](https://oglobo.globo.com/esportes/flamengo/saiba-quem-domenec-torrent-pode-levar-para-flamengo-para-formar-comissao-tecnica-24555786)
 * [Felipe Conceição, técnico do Bragantino: 'Se meu time não for agressivo, estarei triste à beira do campo'](https://oglobo.globo.com/esportes/felipe-conceicao-tecnico-do-bragantino-se-meu-time-nao-for-agressivo-estarei-triste-beira-do-campo-24555574)
-* [Câmara do Rio aprova projeto da ‘Lei do Puxadinho’](https://oglobo.globo.com/rio/camara-do-rio-aprova-projeto-da-lei-do-puxadinho-24555954)
 * [Witzel e a confusão entre Justiça e política](https://oglobo.globo.com/opiniao/witzel-a-confusao-entre-justica-politica-24555728)
 * [Cresce a perspectiva de regulação mais dura das gigantes digitais](https://oglobo.globo.com/opiniao/cresce-perspectiva-de-regulacao-mais-dura-das-gigantes-digitais-24555738)
 * [A opção democrática](https://oglobo.globo.com/opiniao/a-opcao-democratica-24555571)

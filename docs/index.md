@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 23:13:05 UTC
+# indexed at 29/07/2020 23:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Bezos: No guarantee Amazon didn't exploit third-party seller data](https://www.axios.com/bezos-no-guarantee-amazon-didnt-exploit-third-party-seller-data-9f31e00d-1e4b-4eaa-88b3-3d50a87be5e7.html)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
+* [Bezos: No guarantee Amazon didn't exploit third-party seller data](https://www.axios.com/bezos-no-guarantee-amazon-didnt-exploit-third-party-seller-data-9f31e00d-1e4b-4eaa-88b3-3d50a87be5e7.html)
+* [Tihle: A unique TI calculator emulator](https://www.taricorp.net/2020/introducing-tihle/)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [Del.icio.us](http://del.icio.us/)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [LifeLabs goes to court to block privacy watchdogs from probing 2019 data breach](https://www.cbc.ca/news/business/lifelabs-data-breach-1.5667618)
-* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
+* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
+* [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
+* [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
-* [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
 * [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
-* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
-* [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
+* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 * [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
+* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
 * [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
+* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
 * [Interactive Generative Art](http://weavesilk.com/?ika/)
 * [The harmful impact of Audible-exclusive audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
-* [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas)
-* [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [New Push to Get Rid of Pennies in Pandemic Coin Shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html)
 * [Benches Clear in First Astros-Dodgers Game Since Cheating Revelations](https://www.nytimes.com/2020/07/29/sports/baseball/dodgers-astros-fight.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Brasil supera marcas de 90 mil mortes e 2,5 milhões de casos de coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/brasil-supera-marcas-de-90-mil-mortes-25-milhoes-de-casos-de-coronavirus-diz-consorcio-de-veiculos-de-imprensa-24557417)
-* [Justiça aceita denúncia e Serra e sua filha, Verônica, viram réus](https://oglobo.globo.com/brasil/justica-aceita-denuncia-serra-sua-filha-veronica-viram-reus-24557504)
+* [Órgão da PGR pede a Aras que mantenha estrutura e prorrogue forças-tarefas](https://oglobo.globo.com/brasil/orgao-da-pgr-pede-aras-que-mantenha-estrutura-prorrogue-forcas-tarefas-24557590)
 * [Serra vira réu, mas Toffoli suspende investigações contra na 1ª instância e na Justiça Eleitoral](https://oglobo.globo.com/brasil/serra-vira-reu-mas-toffoli-suspende-investigacoes-contra-na-1-instancia-na-justica-eleitoral-24557501)
+* [Brasil supera marcas de 90 mil mortes e 2,5 milhões de casos de coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/brasil-supera-marcas-de-90-mil-mortes-25-milhoes-de-casos-de-coronavirus-diz-consorcio-de-veiculos-de-imprensa-1-24557417)
+* [Justiça aceita denúncia e Serra e sua filha, Verônica, viram réus](https://oglobo.globo.com/brasil/justica-aceita-denuncia-serra-sua-filha-veronica-viram-reus-24557504)
 * [É #FAKE que vacinas contra o novo coronavírus possam gerar seres geneticamente modificados](https://oglobo.globo.com/fato-ou-fake/e-fake-que-vacinas-contra-novo-coronavirus-possam-gerar-seres-geneticamente-modificados-24557523)
 * [Drive-ins no fim de semana: 'A vida é bela', 'Macabro' e 'Bacurau' são destaques](https://oglobo.globo.com/rioshow/drive-ins-no-fim-de-semana-vida-bela-macabro-bacurau-sao-destaques-24556591)
 * [Missa transmitida on-line, em tempo real, celebra os 95 anos do jornal O Globo](https://oglobo.globo.com/rio/missa-transmitida-on-line-em-tempo-real-celebra-os-95-anos-do-jornal-globo-1-24557323)
 * [Marco Aurélio nega anular buscas no gabinete do deputado Paulinho da Força](https://oglobo.globo.com/brasil/marco-aurelio-nega-anular-buscas-no-gabinete-do-deputado-paulinho-da-forca-24557414)
 * [Cientistas resolvem mistério da origem das pedras de Stonehenge](https://oglobo.globo.com/sociedade/cientistas-resolvem-misterio-da-origem-das-pedras-de-stonehenge-24557112)
 * [PGR diz que Corregedoria investiga ‘caixa de segredos’ da Lava Jato](https://epoca.globo.com/guilherme-amado/pgr-diz-que-corregedoria-investiga-caixa-de-segredos-da-lava-jato-24556956)
-* [Deputado americano que repreendeu família Bolsonaro diz que presidente põe milhões de brasileiros em risco](https://epoca.globo.com/mundo/deputado-americano-que-repreendeu-familia-bolsonaro-diz-que-presidente-poe-milhoes-de-brasileiros-em-risco-24557408)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 11:13:06 UTC
+# indexed at 29/07/2020 11:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Del.icio.us](http://del.icio.us/)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
+* [You Can Now Debug Programs Using GDB on Redox OS – Redox – Your Next(Gen) OS](https://www.redox-os.org/news/public-announcement-gdb/)
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
-* [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [I ️love ARM](https://www.20i.com/blog/i-love-arm/)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
+* [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+* [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
 * [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
-* [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [Nuclear Fusion Project, Iter begins assembly](https://www.theguardian.com/environment/2020/jul/28/worlds-largest-nuclear-fusion-project-under-assembly-in-france)
+* [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
-* [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
-* [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
-* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
-* [JP-7](https://en.wikipedia.org/wiki/JP-7)
-* [Stop Abusing Semver](https://samver.org/)
 * [Bitoduc: A French dictionnary for CS related words](https://bitoduc.fr/)
+* [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
+* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
+* [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
+* [Stop Abusing Semver](https://samver.org/)
+* [JP-7](https://en.wikipedia.org/wiki/JP-7)
 * [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
 * [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
 * [Who was the first literary schlub?](https://statmodeling.stat.columbia.edu/2020/07/26/when-was-the-first-literary-schlub/)
-* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
 ## nytimes.com
 
 
@@ -80,9 +80,9 @@ layout: default
 * [M.L.B.’s Botched Return Could Be a Warning for the N.F.L.](https://www.nytimes.com/2020/07/29/sports/football/nfl-mlb-opting-out.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [The Essential Tana French](https://www.nytimes.com/2020/07/29/books/the-essential-tana-french.html)
 * [Making a Move During the Pandemic? Not So Fast](https://www.nytimes.com/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
 * [Kerry Washington on Her 4 Emmy Nods and Issues of Race in Her Work](https://www.nytimes.com/2020/07/28/arts/television/kerry-washington-emmys-little-fires.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Mototaxista é baleado durante troca de tiros entre PMs e traficantes, no Vidigal](https://oglobo.globo.com/rio/mototaxista-baleado-durante-troca-de-tiros-entre-pms-traficantes-no-vidigal-1-24556125)
+* [MEC demite Secretário de Regulação e Supervisão da Educação Superior](https://oglobo.globo.com/sociedade/mec-demite-secretario-de-regulacao-supervisao-da-educacao-superior-24556130)
+* [Tiroteio no Complexo do Lins interditou a Grajaú-Jacarepaguá](https://oglobo.globo.com/rio/tiroteio-no-complexo-do-lins-interditou-grajau-jacarepagua-1-24556085)
+* [PF realiza operação contra desmatamento ilegal no Pará](https://oglobo.globo.com/brasil/pf-realiza-operacao-contra-desmatamento-ilegal-no-para-24556118)
+* [Investigado, deputado bolsonarista interrompe pagamentos em dinheiro vivo a consultoria](https://epoca.globo.com/guilherme-amado/investigado-deputado-bolsonarista-interrompe-pagamentos-em-dinheiro-vivo-consultoria-1-24555864)
 * [Boletim das 8h: Brasil tem 2.488.452 casos de Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2488452-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24556105)
 * [PF realiza operação contra desmatamento no Pará](https://oglobo.globo.com/brasil/pf-realiza-operacao-contra-desmatamento-no-para-24556112)
-* [Tiroteio no Complexo do Lins interditou a Grajaú-Jacarepaguá](https://oglobo.globo.com/rio/tiroteio-no-complexo-do-lins-interditou-grajau-jacarepagua-24556085)
 * [Operação da PF mira tráfico internacional de armas em 8 estados](https://oglobo.globo.com/brasil/operacao-da-pf-mira-trafico-internacional-de-armas-em-8-estados-24556093)
 * [Uso de máscaras pode diminuir dose viral e sintomas da Covid-19, diz estudo](https://oglobo.globo.com/sociedade/uso-de-mascaras-pode-diminuir-dose-viral-sintomas-da-covid-19-diz-estudo-24555468)
 * [Pesquisa mostra que mortes pelo coronavírus prejudicam apoio a Trump e Partido Republicano](https://oglobo.globo.com/mundo/pesquisa-mostra-que-mortes-pelo-coronavirus-prejudicam-apoio-trump-partido-republicano-24555736)
-* [Investigado, deputado bolsonarista interrompe pagamentos em dinheiro vivo a consultoria](https://epoca.globo.com/guilherme-amado/investigado-deputado-bolsonarista-interrompe-pagamentos-em-dinheiro-vivo-consultoria-24555864)
-* [De drive-thru a mudanças visuais, shoppings da Zona Sul se renovam](https://oglobo.globo.com/rio/bairros/de-drive-thru-mudancas-visuais-shoppings-da-zona-sul-se-renovam-24550115)
-* [Mercado imobiliário em Niterói prevê até 30% de aumento nas vendas](https://oglobo.globo.com/rio/bairros/mercado-imobiliario-em-niteroi-preve-ate-30-de-aumento-nas-vendas-1-24550833)
-* [Escola canadense fundada em São Paulo chega ao Rio](https://oglobo.globo.com/rio/bairros/escola-canadense-fundada-em-sao-paulo-chega-ao-rio-24555432)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 04:14:31 UTC
+# indexed at 29/07/2020 04:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -10,17 +10,18 @@ layout: default
 
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
-* [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
 * [Hiring Without Whiteboards – Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
+* [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
 * [GitHub Public Roadmap](https://github.com/github/roadmap)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [The Physics of Brute Force (and how it relates to cryptography)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Riding the Rays by Douglas Adams (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
 * [Perfect Edition: A lightweight, responsive web e-book template](https://github.com/robinsloan/perfect-edition)
-* [How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
+* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
+* [How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
 * [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
@@ -29,14 +30,13 @@ layout: default
 * [OCaml: Add support to iOS/Mac ARM64](https://github.com/ocaml/ocaml/pull/9699)
 * [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
 * [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
-* [The Physics of Brute Force (and how it relates to cryptography)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
-* [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
 * [The Soul of a New Machine: Rethinking the Computer [video]](https://www.youtube.com/watch?v=vvZA9n3e5pc&list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
-* [Jerry (YC S17) is hiring a senior engineer (Toronto, Silicon Valley)](https://apply.workable.com/jerry/j/FA1F4C0876/)
-* [MailTrackerBlocker – email tracker and spy pixel blocker plugin for Apple Mail](https://apparition47.github.io/MailTrackerBlocker/)
-* [How to be a Roman emperor](https://www.the-tls.co.uk/articles/how-to-be-a-roman-emperor-essay-mary-beard/)
+* [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
 * [Statement by Jeff Bezos to the U.S. House Committee on the Judiciary](https://blog.aboutamazon.com/policy/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary)
+* [MailTrackerBlocker – email tracker and spy pixel blocker plugin for Apple Mail](https://apparition47.github.io/MailTrackerBlocker/)
+* [Jerry (YC S17) is hiring a senior engineer (Toronto, Silicon Valley)](https://apply.workable.com/jerry/j/FA1F4C0876/)
+* [How to be a Roman emperor](https://www.the-tls.co.uk/articles/how-to-be-a-roman-emperor-essay-mary-beard/)
 * [International cyber law: interactive toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 ## nytimes.com
 
@@ -79,11 +79,11 @@ layout: default
 * [Minneapolis Police Link ‘Umbrella Man’ to White Supremacy Group](https://www.nytimes.com/2020/07/28/us/umbrella-man-identified-minneapolis.html)
 * [GDP Q2 Report: Why You'll See Two Figures for Decline](https://www.nytimes.com/2020/07/29/business/economy/us-gdp-report.html)
 * [North Korea Thinks He Brought Covid-19. South Korea Wants to Arrest Him.](https://www.nytimes.com/2020/07/28/world/asia/north-korea-defector-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Aimee Bender’s Latest Is a Proustian Reverie](https://www.nytimes.com/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)

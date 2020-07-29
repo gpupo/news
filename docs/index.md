@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 21:13:38 UTC
+# indexed at 29/07/2020 21:34:20 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [Del.icio.us](http://del.icio.us/)
-* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [The Harmful Impact of Audible Exclusive Audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
-* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
-* [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
-* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
-* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
-* [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
-* [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
 * [Show HN: One click to your next meeting](https://meetingbar.onrender.com)
+* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
+* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
+* [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
+* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
+* [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
+* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
+* [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
+* [A long list of GRUB2 secure-boot holes](https://lwn.net/Articles/827403/)
 * [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
-* [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+* [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 * [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
-* [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
-* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [Interactive Generative Art](http://weavesilk.com/?ika/)
+* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
 * [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas)
-* [Woodman’s Markets to deploy aisle-roving robots](https://www.supermarketnews.com/retail-financial/woodman-s-markets-deploy-aisle-roving-robots)
+* [Interactive Generative Art](http://weavesilk.com/?ika/)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
-* [Release Notes for Safari Technology Preview 111](https://webkit.org/blog/10967/release-notes-for-safari-technology-preview-111/)
+* [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
+* [Woodman’s Markets to deploy aisle-roving robots](https://www.supermarketnews.com/retail-financial/woodman-s-markets-deploy-aisle-roving-robots)
 * [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
+* [Release Notes for Safari Technology Preview 111](https://webkit.org/blog/10967/release-notes-for-safari-technology-preview-111/)
 * [Why Do People Stay Poor? [pdf]](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
-* [A clue to van Gogh’s final days is found in his last painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
-* [Microsoft Joins the Blender Development Fund](https://www.blender.org/press/microsoft-joins-the-blender-development-fund/)
 ## nytimes.com
 
 
@@ -78,10 +78,11 @@ layout: default
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
 * [New Push to Get Rid of Pennies in Pandemic Coin Shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html)
 * [Benches Clear in First Astros-Dodgers Game Since Cheating Revelations](https://www.nytimes.com/2020/07/29/sports/baseball/dodgers-astros-fight.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [Adding a New Name to the Canon in Clay: Doyle Lane](https://www.nytimes.com/2020/07/29/arts/design/doyle-lane-ceramics.html)
 * [Trading Sand and Sea for TikTok Challenges](https://www.nytimes.com/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -99,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Toffoli defende prazo de oito anos para juiz ser candidato e Maia promete pautar sugestão 'em breve'](https://oglobo.globo.com/brasil/toffoli-defende-prazo-de-oito-anos-para-juiz-ser-candidato-maia-promete-pautar-sugestao-em-breve-24557269)
-* [Após pressão de Anitta e outros artistas, Câmara aprova MP sem alteração na arrecadação de direitos autorais](https://oglobo.globo.com/cultura/apos-pressao-de-anitta-outros-artistas-camara-aprova-mp-sem-alteracao-na-arrecadacao-de-direitos-autorais-24557227)
-* [Vigilância Sanitária vai apontar formas mais seguras de celebrar o réveillon do Rio](https://oglobo.globo.com/rio/vigilancia-sanitaria-vai-apontar-formas-mais-seguras-de-celebrar-reveillon-do-rio-24557042)
-* [Bezos, Zuckerberg e Musk já ganharam US$ 115 bilhões somente este ano](https://oglobo.globo.com/economia/bezos-zuckerberg-musk-ja-ganharam-us-115-bilhoes-somente-este-ano-24557128)
+* [Governo decide reabrir fronteiras aéreas para turistas](https://oglobo.globo.com/sociedade/governo-decide-reabrir-fronteiras-aereas-para-turistas-24557302)
 * [Flamengo acerta detalhes com Torrent e espera assinatura para oficializar treinador](https://oglobo.globo.com/esportes/flamengo/flamengo-acerta-detalhes-com-torrent-espera-assinatura-para-oficializar-treinador-24557199)
-* [Banco Central anuncia nota de R$ 200, e internet sugere rostos famosos para ilustrar cédula](https://oglobo.globo.com/economia/banco-central-anuncia-nota-de-200-internet-sugere-rostos-famosos-para-ilustrar-cedula-24557061)
-* [Senado aprova auxílio de R$ 16 bilhões a estados e municípios](https://oglobo.globo.com/economia/senado-aprova-auxilio-de-16-bilhoes-estados-municipios-24557169)
-* [É #FAKE que imagem prove que primeira voluntária não recebeu vacina contra a Covid-19 em SP](https://oglobo.globo.com/fato-ou-fake/e-fake-que-imagem-prove-que-primeira-voluntaria-nao-recebeu-vacina-contra-covid-19-em-sp-24557166)
-* [‘Não tem alegria maior do que cantar com jovens’, diz Bituca](https://oglobo.globo.com/rioshow/nao-tem-alegria-maior-do-que-cantar-com-jovens-diz-bituca-24557146)
+* [Filosofia em tempos de pandemia](https://epoca.globo.com/guilherme-amado/filosofia-em-tempos-de-pandemia-24557305)
+* [Rio registra 165 mortes por Covid-19 e 2.008 novos casos da doença em 24 horas](https://oglobo.globo.com/rio/rio-registra-165-mortes-por-covid-19-2008-novos-casos-da-doenca-em-24-horas-24557292)
+* [Ações da Kodak sobem 318%, após acordo com governo dos EUA para produção de insumo farmacêutico](https://oglobo.globo.com/economia/acoes-da-kodak-sobem-318-apos-acordo-com-governo-dos-eua-para-producao-de-insumo-farmaceutico-24557297)
+* [Após pressão de Anitta e outros artistas, Câmara aprova MP sem alteração na arrecadação de direitos autorais](https://oglobo.globo.com/cultura/apos-pressao-de-anitta-outros-artistas-camara-aprova-mp-sem-alteracao-na-arrecadacao-de-direitos-autorais-24557227)
+* [Toffoli defende prazo de oito anos para juiz ser candidato e Maia promete pautar sugestão 'em breve'](https://oglobo.globo.com/brasil/toffoli-defende-prazo-de-oito-anos-para-juiz-ser-candidato-maia-promete-pautar-sugestao-em-breve-24557269)
+* [O que a cédula de R$ 200 diz sobre o brasileiro e seu dinheiro](https://oglobo.globo.com/analitico/o-que-cedula-de-200-diz-sobre-brasileiro-seu-dinheiro-24557261)
+* [Bezos, Zuckerberg e Musk já ganharam US$ 115 bilhões somente este ano](https://oglobo.globo.com/economia/bezos-zuckerberg-musk-ja-ganharam-us-115-bilhoes-somente-este-ano-24557128)
 * [O elogio e o pedido de Eduardo Suplicy a Paulo Guedes](https://epoca.globo.com/guilherme-amado/o-elogio-o-pedido-de-eduardo-suplicy-paulo-guedes-1-24555402)

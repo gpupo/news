@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 19:13:08 UTC
+# indexed at 29/07/2020 19:35:58 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
+* [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [Del.icio.us](http://del.icio.us/)
 * [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
 * [The Harmful Impact of Audible Exclusive Audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
+* [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
-* [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
+* [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
 * [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
 * [Interactive Generative Art](http://weavesilk.com/?ika/)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
 * [Release Notes for Safari Technology Preview 111](https://webkit.org/blog/10967/release-notes-for-safari-technology-preview-111/)
 * [Student group leader arrested on suspicion of inciting secession in HK](https://hongkongfp.com/2020/07/29/breaking-pro-independence-student-group-leader-arrested-on-suspicion-of-inciting-secession-under-hong-kongs-security-law/)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
 * [Microsoft Joins the Blender Development Fund](https://www.blender.org/press/microsoft-joins-the-blender-development-fund/)
-* [U.S. prosecutors seek 27 months imprisonment for former Uber self-driving head](https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKCN24U125)
-* [The Age of Mass Surveillance Will Not Last Forever](https://www.wired.com/story/the-age-of-mass-surveillance-will-not-last-forever/)
-* [TikTok's new CEO says company will reveal how its algorithms work](https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithms-work-aff01b6c-8f33-454f-9b4a-7d52292ce501.html)
-* [A Clue to van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
+* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [A plunge in incoming sunlight may have triggered 'Snowball Earths'](https://phys.org/news/2020-07-plunge-incoming-sunlight-triggered-snowball.html)
+* [The Age of Mass Surveillance Will Not Last Forever](https://www.wired.com/story/the-age-of-mass-surveillance-will-not-last-forever/)
+* [A Clue to van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
+* [TikTok's new CEO says company will reveal how its algorithms work](https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithms-work-aff01b6c-8f33-454f-9b4a-7d52292ce501.html)
 * [Autonomous Robots Rule: Largest Rollout in Grocery Industry](https://www.badger-technologies.com/blog/autonomous-robots-rule.html)
-* [How to Choose a Neutral Net Architecture for Medical Image Segmentation](https://innolitics.com/articles/medical-image-segmentation-overview/)
 * [Airbus to build 'first interplanetary cargo ship'](https://www.bbc.com/news/science-environment-53575353)
 * [Zoom Security Exploit – Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
-* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [How to Choose a Neutral Net Architecture for Medical Image Segmentation](https://innolitics.com/articles/medical-image-segmentation-overview/)
 * [Debug Programs Using GDB on Redox OS](https://www.redox-os.org/news/public-announcement-gdb/)
 ## nytimes.com
 
@@ -77,11 +77,11 @@ layout: default
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
 * [Migrants Adrift Off Malta Called for Help. Then They Waited. And Waited.](https://www.nytimes.com/2020/07/27/world/europe/migrant-boat-malta-stranded.html)
 * [Benches Clear in First Astros-Dodgers Game Since Cheating Revelations](https://www.nytimes.com/2020/07/29/sports/baseball/dodgers-astros-fight.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Adding a New Name to the Canon in Clay: Doyle Lane](https://www.nytimes.com/2020/07/29/arts/design/doyle-lane-ceramics.html)
 * [Trading Sand and Sea for TikTok Challenges](https://www.nytimes.com/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -93,20 +93,19 @@ layout: default
 * [This Moss Uses Quartz as a Parasol](https://www.nytimes.com/2020/07/29/science/moss-quartz-biology-syntrichia.html)
 * [Longer, Slower, Farther: Savoring the Prospects of Future Travels](https://www.nytimes.com/2020/07/28/travel/future-travel-bucket-list-coronavirus.html)
 * [The Cult of Selfishness Is Killing America](https://www.nytimes.com/2020/07/27/opinion/us-republicans-coronavirus.html)
-* [Great White Shark Kills NYC Woman Near Bailey Island, Maine](https://www.nytimes.com/2020/07/28/us/shark-attack-harpswell-maine.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [EUA anunciam retirada de 12 mil soldados da Alemanha, em represália de Trump a Merkel](https://oglobo.globo.com/mundo/eua-anunciam-retirada-de-12-mil-soldados-da-alemanha-em-represalia-de-trump-merkel-24556986)
+* [É #FAKE que foto mostre jovem com rosto inchado após tomar vacina chinesa contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-jovem-com-rosto-inchado-apos-tomar-vacina-chinesa-contra-covid-19-24557033)
+* [Tortura e estupro na rota dos migrantes em direção à Europa: 'Um grito de desespero e raiva'](https://epoca.globo.com/mundo/tortura-estupro-na-rota-dos-migrantes-em-direcao-europa-um-grito-de-desespero-raiva-24557027)
+* [União Europeia se recusa a dar ajuda às cidades polonesas devido à política anti-LGBTI](https://oglobo.globo.com/mundo/uniao-europeia-se-recusa-dar-ajuda-as-cidades-polonesas-devido-politica-anti-lgbti-24557006)
+* [Ciência e jornalismo devem caminhar juntos, afirmam especialistas](https://oglobo.globo.com/95-anos/ciencia-jornalismo-devem-caminhar-juntos-afirmam-especialistas-24555212)
 * [A senadores, Aras volta a criticar Lava-Jato: 'República não combina com heróis'](https://oglobo.globo.com/brasil/a-senadores-aras-volta-criticar-lava-jato-republica-nao-combina-com-herois-24556990)
 * [Covid-19: Reino Unido garante 60 milhões de doses de vacina em acordo com farmacêuticas](https://oglobo.globo.com/sociedade/covid-19-reino-unido-garante-60-milhoes-de-doses-de-vacina-em-acordo-com-farmaceuticas-24556855)
-* [EUA anunciam retirada de 12 mil soldados da Alemanha em represália de Trump a Merkel](https://oglobo.globo.com/mundo/eua-anunciam-retirada-de-12-mil-soldados-da-alemanha-em-represalia-de-trump-merkel-24556986)
 * [É #FAKE que Felipe Neto fez post pedófilo no Twitter associando crianças a doces](https://oglobo.globo.com/fato-ou-fake/e-fake-que-felipe-neto-fez-post-pedofilo-no-twitter-associando-criancas-doces-24556982)
-* [Sem barreira sanitária, aldeia que fica a 15 km de roçado de índios isolados registra primeiro caso de Covid-19](https://oglobo.globo.com/brasil/sem-barreira-sanitaria-aldeia-que-fica-15-km-de-rocado-de-indios-isolados-registra-primeiro-caso-de-covid-19-24556910)
 * [Brasil terá nota de R$ 200 até o fim de agosto, anuncia BC](https://oglobo.globo.com/economia/brasil-tera-nota-de-200-ate-fim-de-agosto-anuncia-bc-24556952)
 * [Como a cidade mais branca dos EUA foi parar no centro dos protestos antirracismo](https://epoca.globo.com/mundo/como-cidade-mais-branca-dos-eua-foi-parar-no-centro-dos-protestos-antirracismo-24556966)
-* [Jovem morto durante tiroteio entre milicianos e traficantes na Praça Seca é sepultado: 'A gente só quer que isso acabe', diz família](https://oglobo.globo.com/rio/jovem-morto-durante-tiroteio-entre-milicianos-traficantes-na-praca-seca-sepultado-gente-so-quer-que-isso-acabe-diz-familia-24556939)
-* [É #FAKE que vacina chinesa em testes no Brasil use células de fetos abortados](https://oglobo.globo.com/fato-ou-fake/e-fake-que-vacina-chinesa-em-testes-no-brasil-use-celulas-de-fetos-abortados-24556933)
-* [Djokovic, Nadal e Serena vão disputar torneio preparatório para US Open](https://oglobo.globo.com/esportes/djokovic-nadal-serena-vao-disputar-torneio-preparatorio-para-us-open-24556914)

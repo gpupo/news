@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 14:14:40 UTC
+# indexed at 29/07/2020 14:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Del.icio.us](http://del.icio.us/)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
 * [Airbus to build 'first interplanetary cargo ship'](https://www.bbc.com/news/science-environment-53575353)
-* [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
-* [Some scientists are taking a DIY coronavirus vaccine](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine)
 * [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
+* [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
+* [Thoughts about the difference between European and American H/W and S/W design](https://liam-on-linux.livejournal.com/72876.html)
 * [Debug Programs Using GDB on Redox OS](https://www.redox-os.org/news/public-announcement-gdb/)
-* [Joseph McCarthy and the Force of Political Falsehoods](https://www.newyorker.com/magazine/2020/08/03/joseph-mccarthy-and-the-force-of-political-falsehoods)
+* [I ️love ARM](https://www.20i.com/blog/i-love-arm/)
 * [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
-* [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
 * [An Elegy for the Landline in Literature](https://www.newyorker.com/books/page-turner/an-elegy-for-the-landline-in-literature)
-* [Random Strings and Integers That Aren’t](https://www.endpoint.com/blog/2020/07/02/random-strings-and-integers-that-actually-arent)
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
-* [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
 * [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
-* [Nuclear Fusion Project, Iter begins assembly](https://www.theguardian.com/environment/2020/jul/28/worlds-largest-nuclear-fusion-project-under-assembly-in-france)
+* [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
+* [Joseph McCarthy and the Force of Political Falsehoods](https://www.newyorker.com/magazine/2020/08/03/joseph-mccarthy-and-the-force-of-political-falsehoods)
+* [Nuclear Fusion Project, Iter begins assembly](https://www.theguardian.com/environment/2020/jul/28/worlds-largest-nuclear-fusion-project-under-assembly-in-france)
+* [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
-* [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
-* [Stop Abusing Semver](https://samver.org/)
 * [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
+* [Stop Abusing Semver](https://samver.org/)
+* [Bitoduc: A French dictionnary for CS related words](https://bitoduc.fr/)
+* [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
 * [JP-7](https://en.wikipedia.org/wiki/JP-7)
 * [CEOs of Amazon, Apple, Facebook, and Google prepare their antitrust defense](https://www.techspot.com/news/86160-ceos-amazon-apple-facebook-google-preparing-their-defense.html)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 ## nytimes.com
 
 
@@ -68,7 +68,7 @@ layout: default
 * [If Our Masks Could Speak](https://www.nytimes.com/2020/07/28/opinion/coronavirus-masks.html)
 * [John Donaldson, a Black Baseball Great, Still Not in the Hall of Fame](https://www.nytimes.com/2020/07/29/opinion/john-donaldson-baseball-black-players.html)
 * [Remdesivir Could Be in Short Supply. Here’s a Fix.](https://www.nytimes.com/2020/07/28/opinion/remdesivir-shortage-coronavirus.html)
-* [The Struggle for a New Uganda](https://www.nytimes.com/2020/07/29/opinion/uganda-museveni-repression.html)
+* [My Torture at the Hands of America’s Favorite African Strongman](https://www.nytimes.com/2020/07/29/opinion/uganda-museveni-repression.html)
 * [Why NASA Picked Jezero Crater for the Perseverance Rover](https://www.nytimes.com/2020/07/28/science/nasa-jezero-perseverance.html)
 * [The Great Au Pair Rush](https://www.nytimes.com/2020/07/25/business/the-great-au-pair-rush.html)
 * [Turkey Passes Law Extending Sweeping Powers Over Social Media](https://www.nytimes.com/2020/07/29/world/europe/turkey-social-media-control.html)
@@ -80,11 +80,11 @@ layout: default
 * [‘Hidden Gem’ Made Popular by TikTok Is Shut to Keep Out-of-Towners Away](https://www.nytimes.com/2020/07/29/nyregion/lake-solitude-closed-racism.html)
 * [Michigan Threatens to Slip From Trump as He Goes Quiet on Airwaves](https://www.nytimes.com/2020/07/29/us/politics/michigan-trump-biden-2020.html)
 * [M.L.B.’s Botched Return Could Be a Warning for the N.F.L.](https://www.nytimes.com/2020/07/29/sports/football/nfl-mlb-opting-out.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [The Essential Tana French](https://www.nytimes.com/2020/07/29/books/the-essential-tana-french.html)
 * [Making a Move During the Pandemic? Not So Fast](https://www.nytimes.com/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
 * [Kerry Washington on Her 4 Emmy Nods and Issues of Race in Her Work](https://www.nytimes.com/2020/07/28/arts/television/kerry-washington-emmys-little-fires.html)
@@ -102,9 +102,9 @@ layout: default
 ## globo.com
 
 
-* [PF se despede este ano do Máscara Negra, seu prédio central](https://epoca.globo.com/guilherme-amado/pf-se-despede-este-ano-do-mascara-negra-seu-predio-central-24556346)
+* [PF se despede este ano do Máscara Negra, seu prédio central](https://epoca.globo.com/guilherme-amado/pf-se-despede-este-ano-do-mascara-negra-seu-predio-central-1-24556346)
+* [Aprovação de vacina russa contra Covid-19 pode ocorrer já em agosto](https://oglobo.globo.com/sociedade/coronavirus/aprovacao-de-vacina-russa-contra-covid-19-pode-ocorrer-ja-em-agosto-24556253)
 * [Edmar Santos e outros suspeitos de envolvimento na compra de 820 mil testes para Covid têm bens bloqueados](https://oglobo.globo.com/rio/edmar-santos-outros-suspeitos-de-envolvimento-na-compra-de-820-mil-testes-para-covid-tem-bens-bloqueados-24556337)
-* [Aprovação de vacina russa contra Covid-19 pode ocorrer em agosto](https://oglobo.globo.com/sociedade/coronavirus/aprovacao-de-vacina-russa-contra-covid-19-pode-ocorrer-em-agosto-24556253)
 * [Universidades estaduais de SP divulgam calendário do vestibular 2021](https://oglobo.globo.com/sociedade/universidades-estaduais-de-sp-divulgam-calendario-do-vestibular-2021-24556305)
 * [Embraport não cumpre decisão do Cade e mantém cobrança de taxa portuária](https://epoca.globo.com/guilherme-amado/embraport-nao-cumpre-decisao-do-cade-mantem-cobranca-de-taxa-portuaria-24556331)
 * [Vacina da Moderna gera anticorpos em macacos e anima corrida mundial contra Covid-19](https://epoca.globo.com/mundo/vacina-da-moderna-gera-anticorpos-em-macacos-anima-corrida-mundial-contra-covid-19-24556288)

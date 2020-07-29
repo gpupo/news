@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 20:15:39 UTC
+# indexed at 29/07/2020 20:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Del.icio.us](http://del.icio.us/)
 * [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [The Harmful Impact of Audible Exclusive Audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
+* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
+* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 * [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
-* [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
 * [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
-* [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas)
+* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
+* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 * [Interactive Generative Art](http://weavesilk.com/?ika/)
 * [Release Notes for Safari Technology Preview 111](https://webkit.org/blog/10967/release-notes-for-safari-technology-preview-111/)
+* [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas)
+* [Woodman’s Markets to deploy aisle-roving robots](https://www.supermarketnews.com/retail-financial/woodman-s-markets-deploy-aisle-roving-robots)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
-* [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
-* [Student group leader arrested on suspicion of inciting secession in HK](https://hongkongfp.com/2020/07/29/breaking-pro-independence-student-group-leader-arrested-on-suspicion-of-inciting-secession-under-hong-kongs-security-law/)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
+* [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
 * [A clue to van Gogh’s final days is found in his last painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Microsoft Joins the Blender Development Fund](https://www.blender.org/press/microsoft-joins-the-blender-development-fund/)
 * [Why Do People Stay Poor? [pdf]](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
 * [Independence, autonomy, and too many small teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
-* [The Age of Mass Surveillance Will Not Last Forever](https://www.wired.com/story/the-age-of-mass-surveillance-will-not-last-forever/)
-* [A plunge in incoming sunlight may have triggered 'Snowball Earths'](https://phys.org/news/2020-07-plunge-incoming-sunlight-triggered-snowball.html)
 * [TheirTube – How do the recommended videos look on their Youtube home page?](http://www.their.tube)
-* [Autonomous Robots Rule: Largest Rollout in Grocery Industry](https://www.badger-technologies.com/blog/autonomous-robots-rule.html)
+* [A plunge in incoming sunlight may have triggered 'Snowball Earths'](https://phys.org/news/2020-07-plunge-incoming-sunlight-triggered-snowball.html)
 ## nytimes.com
 
 
@@ -56,6 +56,7 @@ layout: default
 * [Confronting China](https://www.nytimes.com/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
 * [Congress Doesn’t Get Big Tech. By Design.](https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
+* [Help Me Find Trump’s ‘Anarchists’ in Portland](https://www.nytimes.com/2020/07/29/opinion/portland-protests-trump.html)
 * [We Lost the Battle for the Republican Party’s Soul Long Ago](https://www.nytimes.com/2020/07/29/opinion/trump-republican-party-racism.html)
 * [Bernie Sanders Is Asking for Masks for All](https://www.nytimes.com/2020/07/29/opinion/us-coronavirus-masks.html)
 * [Opening Schools Won’t Be Easy, but Here’s How to Do It Safely](https://www.nytimes.com/2020/07/29/opinion/coronavirus-schools-reopen.html)
@@ -65,7 +66,6 @@ layout: default
 * [How Do You Know a Human Wrote This?](https://www.nytimes.com/2020/07/29/opinion/gpt-3-ai-automation.html)
 * [If Our Masks Could Speak](https://www.nytimes.com/2020/07/28/opinion/coronavirus-masks.html)
 * [How to Hold Big Tech’s Feet to the Fire](https://www.nytimes.com/2020/07/28/opinion/tech-ceo-hearing-congress.html)
-* [Don’t Fear Dying. Fear Violence.](https://www.nytimes.com/2020/07/29/opinion/jainism-nonviolence-death.html)
 * [I Cured My Pandemic Anxiety By Making Tiny Food Out of Clay](https://www.nytimes.com/2020/07/29/opinion/food-covid-quarantine-clay.html)
 * [Luis Barragán’s Forgotten Works, Revisited](https://www.nytimes.com/2020/07/24/t-magazine/luis-barragan.html)
 * [The Pandemic Could End the Age of Midpriced Dining](https://www.nytimes.com/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
@@ -76,11 +76,12 @@ layout: default
 * [Two Women Charged in Attack on Wisconsin State Senator Tim Carpenter](https://www.nytimes.com/2020/07/29/us/wisconsin-tim-carpenter-attacked.html)
 * [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](https://www.nytimes.com/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
-* [Migrants Adrift Off Malta Called for Help. Then They Waited. And Waited.](https://www.nytimes.com/2020/07/27/world/europe/migrant-boat-malta-stranded.html)
+* [New Push to Get Rid of Pennies in Pandemic Coin Shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html)
 * [Benches Clear in First Astros-Dodgers Game Since Cheating Revelations](https://www.nytimes.com/2020/07/29/sports/baseball/dodgers-astros-fight.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [How to Introduce a New Baby to Their Sibling](https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html)
 * [Adding a New Name to the Canon in Clay: Doyle Lane](https://www.nytimes.com/2020/07/29/arts/design/doyle-lane-ceramics.html)
 * [Trading Sand and Sea for TikTok Challenges](https://www.nytimes.com/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -98,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Polícia de La Paz já recolheu 3.300 corpos durante a pandemia](https://oglobo.globo.com/mundo/policia-de-la-paz-ja-recolheu-3300-corpos-durante-pandemia-24557082)
+* [Vigilancia sanitária vai apontar formas mais seguras de celebrar o reveillón do Rio](https://oglobo.globo.com/rio/vigilancia-sanitaria-vai-apontar-formas-mais-seguras-de-celebrar-reveillon-do-rio-24557042)
 * [Paraguai endurece medidas de restrição na fronteira com o Brasil devido ao coronavírus](https://oglobo.globo.com/mundo/paraguai-endurece-medidas-de-restricao-na-fronteira-com-brasil-devido-ao-coronavirus-24557109)
-* [Estados Unidos atingem marca de 150 mil mortos pela Covid-19](https://oglobo.globo.com/mundo/estados-unidos-atingem-marca-de-150-mil-mortos-pela-covid-19-24556991)
-* [Executivos das 'big techs' depõem no Congresso americano e rebatem acusações](https://oglobo.globo.com/economia/executivos-das-big-techs-depoem-no-congresso-americano-rebatem-acusacoes-24557130)
-* [Governo coloca instrutor de tiro para atuar na elaboração de normas sobre armas](https://oglobo.globo.com/brasil/governo-coloca-instrutor-de-tiro-para-atuar-na-elaboracao-de-normas-sobre-armas-1-24557087)
-* [Tik Tok representa risco de segurança nacional aos EUA? Governo americano vai decidir nesta semana](https://oglobo.globo.com/economia/tecnologia/tik-tok-representa-risco-de-seguranca-nacional-aos-eua-governo-americano-vai-decidir-nesta-semana-24556615)
+* [Senado aprova auxílio de R$ 16 bilhões a estados e municípios](https://oglobo.globo.com/economia/senado-aprova-auxilio-de-16-bilhoes-estados-municipios-24557169)
+* [É #FAKE que imagem prove que primeira voluntária não recebeu vacina contra a Covid-19 em SP](https://oglobo.globo.com/fato-ou-fake/e-fake-que-imagem-prove-que-primeira-voluntaria-nao-recebeu-vacina-contra-covid-19-em-sp-24557166)
+* [Executivos das 'big techs' depõem no Congresso americano e rebatem acusações](https://oglobo.globo.com/economia/executivos-das-big-techs-depoem-no-congresso-americano-rebatem-acusacoes-1-24557130)
 * [Força-tarefa de SP diz que processos seguem critérios legais](https://oglobo.globo.com/brasil/forca-tarefa-de-sp-diz-que-processos-seguem-criterios-legais-24557121)
-* [Em depoimento no Congresso dos EUA, Facebook decide que a melhor defesa é o ataque](https://oglobo.globo.com/economia/em-depoimento-no-congresso-dos-eua-facebook-decide-que-melhor-defesa-o-ataque-24557000)
-* [Caixa paga auxílio emergencial para extremista Sara Giromini](https://epoca.globo.com/guilherme-amado/caixa-paga-auxilio-emergencial-para-extremista-sara-giromini-24557054)
-* [É #FAKE que foto mostre jovem com rosto inchado após tomar vacina chinesa contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-jovem-com-rosto-inchado-apos-tomar-vacina-chinesa-contra-covid-19-24557033)
+* [Estados Unidos atingem marca de 150 mil mortos pela Covid-19](https://oglobo.globo.com/mundo/estados-unidos-atingem-marca-de-150-mil-mortos-pela-covid-19-24556991)
+* [Tik Tok representa risco de segurança nacional aos EUA? Governo americano vai decidir nesta semana](https://oglobo.globo.com/economia/tecnologia/tik-tok-representa-risco-de-seguranca-nacional-aos-eua-governo-americano-vai-decidir-nesta-semana-24556615)
+* [‘Não tem alegria maior do que cantar com jovens’, diz Bituca](https://oglobo.globo.com/rioshow/nao-tem-alegria-maior-do-que-cantar-com-jovens-diz-bituca-24557146)
+* [Governo coloca instrutor de tiro para atuar na elaboração de normas sobre armas](https://oglobo.globo.com/brasil/governo-coloca-instrutor-de-tiro-para-atuar-na-elaboracao-de-normas-sobre-armas-1-24557087)

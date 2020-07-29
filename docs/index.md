@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 01:14:57 UTC
+# indexed at 29/07/2020 01:35:08 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
-* [How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
-* [Hiring Without Whiteboards – Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
+* [How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [Jerry (YC S17) is hiring a senior engineer (Toronto, Silicon Valley)](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [GitHub Public Roadmap](https://github.com/github/roadmap)
+* [Hiring Without Whiteboards – Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 * [Perfect Edition: A lightweight, responsive web e-book template](https://github.com/robinsloan/perfect-edition)
 * [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
-* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
-* [Stop Abusing Semver](https://samver.org/)
+* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
+* [Stop Abusing Semver](https://samver.org/)
 * [Scientists pull living microbes, possibly 100M years old, from beneath the sea](https://www.sciencemag.org/news/2020/07/scientists-pull-living-microbes-100-million-years-beneath-sea)
 * [OCaml: Add support to iOS/Mac ARM64](https://github.com/ocaml/ocaml/pull/9699)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
 * [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
-* [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
+* [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
-* [The Soul of a New Machine: Rethinking the Computer [video]](https://www.youtube.com/watch?v=vvZA9n3e5pc&list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
-* [International cyber law: interactive toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 * [Australia doubling fees for arts and humanities degrees](https://www.bbc.com/worklife/article/20200728-why-australia-is-charging-more-to-study-history)
-* [Eye Shapes of the Animal World Hint at Differences in Our Lifestyles (2015)](https://www.npr.org/sections/health-shots/2015/08/07/430149677/eye-shapes-of-the-animal-world-hint-at-differences-in-our-lifestyles)
+* [The Soul of a New Machine: Rethinking the Computer [video]](https://www.youtube.com/watch?v=vvZA9n3e5pc&list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+* [Statement by Jeff Bezos to the U.S. House Committee on the Judiciary](https://blog.aboutamazon.com/policy/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary)
+* [International cyber law: interactive toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 * [MailTrackerBlocker – email tracker and spy pixel blocker plugin for Apple Mail](https://apparition47.github.io/MailTrackerBlocker/)
 * [How to be a Roman emperor](https://www.the-tls.co.uk/articles/how-to-be-a-roman-emperor-essay-mary-beard/)
+* [Eye Shapes of the Animal World Hint at Differences in Our Lifestyles (2015)](https://www.npr.org/sections/health-shots/2015/08/07/430149677/eye-shapes-of-the-animal-world-hint-at-differences-in-our-lifestyles)
 * [Firefox 79](https://hacks.mozilla.org/2020/07/firefox-79/)
 * [The worst tool for the job](https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/)
-* [How to track costs in multi-tenant Amazon EKS clusters](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
-* [The Regular Expression Visualizer, Simulator and Cross-Compiler Tool](https://blog.robertelder.org/regular-expression-visualizer/)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [Coronavirus Overwhelms Texas Funeral Homes](https://www.nytimes.com/2020/07/28/us/coronavirus-texas-funeral-homes.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Aimee Bender’s Latest Is a Proustian Reverie](https://www.nytimes.com/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Apoiadores de Evo Morales anunciam greve e fazem protesto contra adiamento das eleições](https://oglobo.globo.com/mundo/apoiadores-de-evo-morales-anunciam-greve-fazem-protesto-contra-adiamento-das-eleicoes-24555620)
+* [Com 1.600 novas mortes, EUA tem maior número de óbitos em 24h por Covid-19 deste maio](https://oglobo.globo.com/mundo/com-1600-novas-mortes-eua-tem-maior-numero-de-obitos-em-24h-por-covid-19-deste-maio-24555890)
 * [Aras afirma que força-tarefa da Lava-Jato em Curitiba tem 'caixas de segredos'](https://oglobo.globo.com/brasil/aras-afirma-que-forca-tarefa-da-lava-jato-em-curitiba-tem-caixas-de-segredos-1-24555741)
+* [Na investigação do vazamento na PF para Flávio, importam os detalhes](https://oglobo.globo.com/analitico/na-investigacao-do-vazamento-na-pf-para-flavio-importam-os-detalhes-1-24555612)
+* [Apoiadores de Evo Morales anunciam greve e fazem protesto contra adiamento das eleições](https://oglobo.globo.com/mundo/apoiadores-de-evo-morales-anunciam-greve-fazem-protesto-contra-adiamento-das-eleicoes-24555620)
 * [Mortes por coronavírus avançam em nove estados e caem em oito](https://oglobo.globo.com/sociedade/coronavirus/mortes-por-coronavirus-avancam-em-nove-estados-caem-em-oito-1-24555792)
 * [Bolsonaro veta projeto que dava preferência às mães no pagamento do auxílio emergencial](https://oglobo.globo.com/economia/bolsonaro-veta-projeto-que-dava-preferencia-as-maes-no-pagamento-do-auxilio-emergencial-24555795)
 * [Grupo Companhia das Letras anuncia editor de diversidade e ações inclusivas](https://oglobo.globo.com/cultura/grupo-companhia-das-letras-anuncia-editor-de-diversidade-acoes-inclusivas-24555587)
 * [Plataforma da Petrobras no Campo de Búzios tem sete contaminados pela Covid-19](https://oglobo.globo.com/economia/plataforma-da-petrobras-no-campo-de-buzios-tem-sete-contaminados-pela-covid-19-24555638)
-* [Na investigação do vazamento na PF para Flávio, importam os detalhes](https://oglobo.globo.com/analitico/na-investigacao-do-vazamento-na-pf-para-flavio-importam-os-detalhes-1-24555612)
 * [País registra 2.484.649 infecções por coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/pais-registra-2484649-infeccoes-por-coronavirus-diz-consorcio-de-veiculos-de-imprensa-24555344)
 * [Charlie Brown Jr. estará na trilha de nova versão do game 'Tony Hawk's pro skater'](https://oglobo.globo.com/cultura/charlie-brown-jr-estara-na-trilha-de-nova-versao-do-game-tony-hawks-pro-skater-24555599)
-* [Detran-RJ anuncia novas regras para empresas que desmontam e recuperam veículos no Estado](https://oglobo.globo.com/rio/detran-rj-anuncia-novas-regras-para-empresas-que-desmontam-recuperam-veiculos-no-estado-24555565)

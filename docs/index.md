@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 22:13:40 UTC
+# indexed at 29/07/2020 22:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
-* [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
+* [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [Del.icio.us](http://del.icio.us/)
-* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
+* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
-* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
-* [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
+* [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
+* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
-* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
 * [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
+* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 * [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
+* [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
+* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
+* [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
 * [Interactive Generative Art](http://weavesilk.com/?ika/)
 * [The harmful impact of Audible-exclusive audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
 * [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas)
-* [AMD Reports Q2 2020 Earnings](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
-* [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
 * [The Antitrust Hearing, the Role of Congress, CEO Questions](https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/)
 * [Why Do People Stay Poor? [pdf]](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
 * [Woodman’s Markets to deploy aisle-roving robots](https://www.supermarketnews.com/retail-financial/woodman-s-markets-deploy-aisle-roving-robots)
-* [Independence, autonomy, and too many small teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [Microsoft Joins the Blender Development Fund](https://www.blender.org/press/microsoft-joins-the-blender-development-fund/)
+* [A clue to van Gogh’s final days is found in his last painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
 * [New Push to Get Rid of Pennies in Pandemic Coin Shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html)
 * [Benches Clear in First Astros-Dodgers Game Since Cheating Revelations](https://www.nytimes.com/2020/07/29/sports/baseball/dodgers-astros-fight.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [Adding a New Name to the Canon in Clay: Doyle Lane](https://www.nytimes.com/2020/07/29/arts/design/doyle-lane-ceramics.html)
 * [Trading Sand and Sea for TikTok Challenges](https://www.nytimes.com/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -104,12 +104,12 @@ layout: default
 
 
 * [Marco Aurélio nega anular buscas no gabinete do deputado Paulinho da Força](https://oglobo.globo.com/brasil/marco-aurelio-nega-anular-buscas-no-gabinete-do-deputado-paulinho-da-forca-24557414)
-* [Tentativa de roubo deixa uma pessoa baleada em mercado da Tijuca](https://oglobo.globo.com/rio/tentativa-de-roubo-deixa-uma-pessoa-baleada-em-mercado-da-tijuca-1-24557338)
 * [Missa transmitida on-line, em tempo real, celebra os 95 anos do jornal O Globo](https://oglobo.globo.com/rio/missa-transmitida-on-line-em-tempo-real-celebra-os-95-anos-do-jornal-globo-1-24557323)
+* [Cientistas resolvem mistério da origem das pedras de Stonehenge](https://oglobo.globo.com/sociedade/cientistas-resolvem-misterio-da-origem-das-pedras-de-stonehenge-24557112)
+* [Tentativa de roubo deixa uma pessoa baleada em mercado da Tijuca](https://oglobo.globo.com/rio/tentativa-de-roubo-deixa-uma-pessoa-baleada-em-mercado-da-tijuca-1-24557338)
 * [PGR diz que Corregedoria investiga ‘caixa de segredos’ da Lava Jato](https://epoca.globo.com/guilherme-amado/pgr-diz-que-corregedoria-investiga-caixa-de-segredos-da-lava-jato-24556956)
 * [Câmara aprova MP que dispensa reembolso ao consumidor por cancelamento de eventos e serviços de cultura e turismo](https://oglobo.globo.com/economia/camara-aprova-mp-que-dispensa-reembolso-ao-consumidor-por-cancelamento-de-eventos-servicos-de-cultura-turismo-1-24557366)
 * [Deputado americano que repreendeu família Bolsonaro diz que presidente põe milhões de brasileiros em risco](https://epoca.globo.com/mundo/deputado-americano-que-repreendeu-familia-bolsonaro-diz-que-presidente-poe-milhoes-de-brasileiros-em-risco-24557408)
 * [Senado aprova MP que facilita crédito a pequenas e médias empresas](https://oglobo.globo.com/economia/senado-aprova-mp-que-facilita-credito-pequenas-medias-empresas-24557382)
 * [Governo decide reabrir fronteiras aéreas para turistas](https://oglobo.globo.com/sociedade/coronavirus/governo-decide-reabrir-fronteiras-aereas-para-turistas-24557302)
-* [Ações da Kodak sobem 318%, após acordo com governo dos EUA para produção de insumo farmacêutico](https://oglobo.globo.com/economia/acoes-da-kodak-sobem-318-apos-acordo-com-governo-dos-eua-para-producao-de-insumo-farmaceutico-24557297)
 * [Filosofia em tempos de pandemia](https://epoca.globo.com/guilherme-amado/filosofia-em-tempos-de-pandemia-24557305)

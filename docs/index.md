@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 08:34:48 UTC
+# indexed at 29/07/2020 09:13:58 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Del.icio.us](http://del.icio.us/)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
 * [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
-* [Why Do People Stay Poor? [pdf]](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
 * [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
-* [Del.icio.us](http://del.icio.us/)
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Bitoduc: A French dictionnary for CS related words](https://bitoduc.fr/)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
-* [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
-* [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
-* [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
+* [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
+* [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
-* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
+* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
 * [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
-* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Who was the first literary schlub?](https://statmodeling.stat.columbia.edu/2020/07/26/when-was-the-first-literary-schlub/)
-* [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
+* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
+* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Stop Abusing Semver](https://samver.org/)
-* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
-* [Librem 5 Phone Dogwood Thermals and Battery Life](https://puri.sm/posts/dogwood-thermals-and-battery-life/)
-* [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
+* [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
+* [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
+* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
+* [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [GitHub Public Roadmap](https://github.com/github/roadmap)
+* [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
 ## nytimes.com
 
 
@@ -81,8 +81,8 @@ layout: default
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Aimee Bender’s Latest Is a Proustian Reverie](https://www.nytimes.com/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
@@ -104,10 +104,10 @@ layout: default
 * [Surto de Covid-19 no navio Diamond Princess foi iniciado por uma única pessoa](https://oglobo.globo.com/sociedade/surto-de-covid-19-no-navio-diamond-princess-foi-iniciado-por-uma-unica-pessoa-24555885)
 * [Depois de Cabral, Aras sugere mudanças em delações da PF](https://oglobo.globo.com/brasil/depois-de-cabral-aras-sugere-mudancas-em-delacoes-da-pf-24555695)
 * [Após racha no blocão, Planalto adota cautela e aguarda votação](https://oglobo.globo.com/brasil/apos-racha-no-blocao-planalto-adota-cautela-aguarda-votacao-24555748)
-* [Witzel tenta renovar acordo de ajuste fiscal do estado com a União que vence em 5 de setembro; entenda](https://oglobo.globo.com/rio/witzel-tenta-renovar-acordo-de-ajuste-fiscal-do-estado-com-uniao-que-vence-em-5-de-setembro-entenda-24555918)
 * [A fritura dos governadores da 'nova política'](https://oglobo.globo.com/podcast/a-fritura-dos-governadores-da-nova-politica-1-24556021)
 * [Estado do Rio tenta renovar acordo de ajuste fiscal com a União que vence em 5 de setembro; entenda](https://oglobo.globo.com/rio/estado-do-rio-tenta-renovar-acordo-de-ajuste-fiscal-com-uniao-que-vence-em-5-de-setembro-entenda-24555904)
 * [Reforma tributária de Guedes acena com taxação ao setor livreiro, que teme efeito 'devastador'](https://oglobo.globo.com/cultura/reforma-tributaria-de-guedes-acena-com-taxacao-ao-setor-livreiro-que-teme-efeito-devastador-24549569)
+* [TSE terá margem apertada em abuso de poder religioso](https://epoca.globo.com/guilherme-amado/tse-tera-margem-apertada-em-abuso-de-poder-religioso-24555780)
 * [Licitação para ampliação do aeroporto de Angra dos Reis está prevista para o dia 15 de agosto](https://oglobo.globo.com/rio/licitacao-para-ampliacao-do-aeroporto-de-angra-dos-reis-esta-prevista-para-dia-15-de-agosto-24555692)
 * [O Brasil terá clubes hegemônicos, como acontece na Europa?](https://oglobo.globo.com/esportes/o-brasil-tera-clubes-hegemonicos-como-acontece-na-europa-24555639)
 * [Estudo projeta buraco de R$ 822 milhões no fluxo de caixa dos clubes em 2020](https://oglobo.globo.com/esportes/estudo-projeta-buraco-de-822-milhoes-no-fluxo-de-caixa-dos-clubes-em-2020-24555128)

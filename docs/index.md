@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 09:13:58 UTC
+# indexed at 29/07/2020 09:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
 * [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
+* [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [Face masks are breaking facial recognition algorithms, says new government study](https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study)
 * [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
 * [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
+* [Who was the first literary schlub?](https://statmodeling.stat.columbia.edu/2020/07/26/when-was-the-first-literary-schlub/)
 * [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 * [Notes by Andy Hertzfeld on Alan Kay's talk at Creative Think seminar, July 1982](https://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt)
 * [Did fish sauce in Vietnam come from ancient Rome via the Silk Road?](https://www.scmp.com/lifestyle/food-drink/article/3094604/did-fish-sauce-vietnam-come-ancient-rome-silk-road)
 * [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
-* [Who was the first literary schlub?](https://statmodeling.stat.columbia.edu/2020/07/26/when-was-the-first-literary-schlub/)
-* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
-* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
 * [Stop Abusing Semver](https://samver.org/)
+* [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
+* [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [UTF-8 bit by bit (2001)](https://wiki.tcl-lang.org/page/UTF%2D8+bit+by+bit)
 * [Uninteresting Places](http://popula.com/2020/07/27/florida-mall/)
-* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [The Best Place to Build a Subway](https://queue.acm.org/detail.cfm?id=3390746)
 * [GitHub Public Roadmap](https://github.com/github/roadmap)
-* [A cold war bunker that became home to a dark-web empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire)
 ## nytimes.com
 
 
@@ -49,10 +49,11 @@ layout: default
 * [Russian Intelligence Agencies Push Disinformation on Coronavirus Pandemic](https://www.nytimes.com/2020/07/28/us/politics/russia-disinformation-coronavirus.html)
 * [‘This Is About Justice’: Biden Ties Economic Revival to Racial Equity](https://www.nytimes.com/2020/07/28/us/politics/joe-biden-racial-justice-economy-plan.html)
 * [Oil and Gas Groups See ‘Some Common Ground’ in Biden Energy Plan](https://www.nytimes.com/2020/07/28/business/energy-environment/joe-biden-oil-gas-energy.html)
-* [‘Amazing, Isn’t It?’ Long-Sought Blood Test for Alzheimer’s in Reach](https://www.nytimes.com/2020/07/28/health/alzheimers-blood-test.html)
+* [Turkey Passes Law Extending Sweeping Powers Over Social Media](https://www.nytimes.com/2020/07/29/world/europe/turkey-social-media-control.html)
 * [Netflix Breaks HBO’s Record for the Most Emmy Nominations Ever](https://www.nytimes.com/2020/07/28/arts/television/emmy-nominations.html)
 * [Emmys: Our Critics on ‘Watchmen,’ ‘Maisel’ and, Yes, ‘Tiger King’](https://www.nytimes.com/2020/07/28/arts/television/emmys-watchmen-handmaids-tale-tiger-king.html)
 * [Emmys 2020 Snubs and Surprises: Baby Yoda Breaks Through](https://www.nytimes.com/2020/07/28/arts/television/emmys-snubs-mandalorian-zendaya-reese.html)
+* [Why Revel Suspended Moped Service in N.Y.C.](https://www.nytimes.com/2020/07/29/nyregion/revel-mopeds-nyc.html)
 * [Why $600 Checks Are Tearing Republicans Apart](https://www.nytimes.com/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
 * [The Yearning for the Unexplained](https://www.nytimes.com/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
@@ -79,10 +80,10 @@ layout: default
 * [GDP Q2 Report: Why You'll See Two Figures for Decline](https://www.nytimes.com/2020/07/29/business/economy/us-gdp-report.html)
 * [North Korea Thinks He Brought Covid-19. South Korea Wants to Arrest Him.](https://www.nytimes.com/2020/07/28/world/asia/north-korea-defector-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Surfing Was Set to Debut at the Summer Olympics. 2020 Had Other Plans](https://www.nytimes.com/video/sports/olympics/100000007219144/summer-olympics.html)
 * [A Clue to Van Gogh’s Final Days Is Found in His Last Painting](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
 * [Aimee Bender’s Latest Is a Proustian Reverie](https://www.nytimes.com/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)

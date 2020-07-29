@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 29/07/2020 12:17:40 UTC
+# indexed at 29/07/2020 12:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Debug Programs Using GDB on Redox OS](https://www.redox-os.org/news/public-announcement-gdb/)
 * [AMD Reports Q2 2020 Earnings: Notebook and Server Sales Drive a Record Quarter](https://www.anandtech.com/show/15935/amd-reports-q2-2020-earnings-notebook-and-server-sales-drive-a-record-quarter)
 * [1991 Macintosh Quadra with Mac OS 8.1 as an Electron App](https://github.com/felixrieseberg/macintosh.js)
-* [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [I ️love ARM](https://www.20i.com/blog/i-love-arm/)
+* [Show HN: Humans vs AI – A/B testing GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [The Death of the Photo Studio](https://medium.com/@saitec/the-death-of-the-photo-studio-fe1fd76b91cb)
 * [Modified Gravity Theory Passes a Critical Test](https://www.quantamagazine.org/modified-gravity-theory-passes-a-critical-test-20200728/)
-* [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
-* [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
 * [Three spacecraft heading to Mars this summer](https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html)
+* [ITER: World's largest nuclear fusion project begins assembly](https://www.bbc.co.uk/news/science-environment-53573294)
+* [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1)
 * [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [Nuclear Fusion Project, Iter begins assembly](https://www.theguardian.com/environment/2020/jul/28/worlds-largest-nuclear-fusion-project-under-assembly-in-france)
-* [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
-* [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
-* [Stop Abusing Semver](https://samver.org/)
-* [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
-* [JP-7](https://en.wikipedia.org/wiki/JP-7)
-* [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
-* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
-* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
-* [Amazon Has Too Much Power. Take It Back](https://www.nytimes.com/2020/07/29/opinion/amazon-union-congress-antitrust.html)
 * [Too many “two-pizza” teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [Bitoduc: A French dictionnary for CS related words](https://bitoduc.fr/)
+* [Clutch, the Open-Source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
+* [Historical programming-language groups disappearing from Google](https://lwn.net/Articles/827233/)
+* [Random Strings and Integers That Aren’t](https://www.endpoint.com/blog/2020/07/02/random-strings-and-integers-that-actually-arent)
+* [Stop Abusing Semver](https://samver.org/)
+* [Solving the chaotic three-body problem using deep neural networks (2019)](https://arxiv.org/abs/1910.07291)
+* [Launch HN: QuestDB (YC S20) – Fast open source time series database](https://news.ycombinator.com/item?id=23975807)
+* [JP-7](https://en.wikipedia.org/wiki/JP-7)
+* [Media for Thinking the Unthinkable (2013)](http://worrydream.com/MediaForThinkingTheUnthinkable/)
+* [The Physics of Brute Force (2016)](https://pthree.org/2016/06/19/the-physics-of-brute-force/)
 * [Riding the Rays (1992)](https://douglasadams.com/dna/980707-08-a.html)
-* [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 * [One hour of slow breathing changed my life](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+* [Move over Graphene? Here Comes Borophene](https://www.realclearscience.com/quick_and_clear_science/2020/07/28/move_over_graphene_here_comes_borophene.html)
 ## nytimes.com
 
 
@@ -47,9 +47,9 @@ layout: default
 * [There’s a Wrinkle in Stores’ Mask Policies: Enforcement](https://www.nytimes.com/2020/07/29/business/coronavirus-masks-stores-walmart.html)
 * [Divided and Demoralized on Virus Aid, Republicans Ask, ‘What’s in the Bill?’](https://www.nytimes.com/2020/07/29/us/republicans-congress-virus-aid.html)
 * [Barr Clashes With House Democrats in Testimony, Defending Protest Response](https://www.nytimes.com/2020/07/28/us/politics/barr-testimony.html)
-* [From the Start, Federal Agents Demanded a Role in Suppressing Anti-Racism Protests](https://www.nytimes.com/2020/07/28/us/federal-agents-portland-seattle-protests.html)
 * [Fact Checking the Portland Protests: How Violent Are They?](https://www.nytimes.com/2020/07/28/us/portland-protests-fact-check.html)
-* [Turkey Passes Law Extending Sweeping Powers Over Social Media](https://www.nytimes.com/2020/07/29/world/europe/turkey-social-media-control.html)
+* [Michigan Threatens to Slip From Trump as He Goes Quiet on Airwaves](https://www.nytimes.com/2020/07/29/us/politics/michigan-trump-biden-2020.html)
+* [Biden vs. Trump 2020: Live Updates](https://www.nytimes.com/2020/07/29/us/elections/biden-vs-trump.html)
 * [Tech C.E.O.s Are Testifying Before Congress Today. Here's What to Know.](https://www.nytimes.com/2020/07/29/technology/tech-ceos-congress-what-to-know.html)
 * [Information Contagion](https://www.nytimes.com/2020/07/29/briefing/coronavirus-william-barr-emmy-nominations-your-wednesday-briefing.html)
 * [Why Revel Suspended Moped Service in N.Y.C.](https://www.nytimes.com/2020/07/29/nyregion/revel-mopeds-nyc.html)
@@ -69,7 +69,7 @@ layout: default
 * [The Struggle for a New Uganda](https://www.nytimes.com/2020/07/29/opinion/uganda-museveni-repression.html)
 * [Why NASA Picked Jezero Crater for the Perseverance Rover](https://www.nytimes.com/2020/07/28/science/nasa-jezero-perseverance.html)
 * [The Great Au Pair Rush](https://www.nytimes.com/2020/07/25/business/the-great-au-pair-rush.html)
-* [Michigan Threatens to Slip From Trump as He Goes Quiet on Airwaves](https://www.nytimes.com/2020/07/29/us/politics/michigan-trump-biden-2020.html)
+* [Turkey Passes Law Extending Sweeping Powers Over Social Media](https://www.nytimes.com/2020/07/29/world/europe/turkey-social-media-control.html)
 * [N.Y.P.D.’s Use of Unmarked Van in Arrest Draws Parallels to Portland](https://www.nytimes.com/2020/07/28/nyregion/nypd-protester-van.html)
 * [Egypt Sentences Women to 2 Years in Prison for TikTok Videos](https://www.nytimes.com/2020/07/28/world/middleeast/egypt-women-tiktok-prison.html)
 * [Stocks Are Mixed as Investors Await Fed Decision: Live Updates](https://www.nytimes.com/live/2020/07/29/business/stock-market-today-coronavirus)
@@ -80,9 +80,9 @@ layout: default
 * [M.L.B.’s Botched Return Could Be a Warning for the N.F.L.](https://www.nytimes.com/2020/07/29/sports/football/nfl-mlb-opting-out.html)
 * [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [The Essential Tana French](https://www.nytimes.com/2020/07/29/books/the-essential-tana-french.html)
 * [Making a Move During the Pandemic? Not So Fast](https://www.nytimes.com/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
 * [Kerry Washington on Her 4 Emmy Nods and Issues of Race in Her Work](https://www.nytimes.com/2020/07/28/arts/television/kerry-washington-emmys-little-fires.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Colégio Pedro II não autoriza volta em 2020 e inicia aulas de maneira online a partir de setembro](https://oglobo.globo.com/rio/colegio-pedro-ii-nao-autoriza-volta-em-2020-inicia-aulas-de-maneira-online-partir-de-setembro-24556185)
-* [Coronavírus: comportamento de jovens impulsiona novos surtos na Europa, diz OMS](https://epoca.globo.com/sociedade/coronavirus-comportamento-de-jovens-impulsiona-novos-surtos-na-europa-diz-oms-24556180)
+* [Colégio Pedro II não autoriza volta em 2020 e inicia aulas de maneira online em setembro](https://oglobo.globo.com/rio/colegio-pedro-ii-nao-autoriza-volta-em-2020-inicia-aulas-de-maneira-online-em-setembro-1-24556185)
+* [Ministério da Saúde destina R$ 120 milhões a laboratórios centrais dos estados](https://oglobo.globo.com/sociedade/ministerio-da-saude-destina-120-milhoes-laboratorios-centrais-dos-estados-24556167)
+* [Prefeito de Arraial do Cabo é um dos alvos de operação que mira suspeitos de corrupção e fraudes em licitações](https://oglobo.globo.com/rio/prefeito-de-arraial-do-cabo-um-dos-alvos-de-operacao-que-mira-suspeitos-de-corrupcao-fraudes-em-licitacoes-24556189)
+* ['Minha mãe morreu de coronavírus enquanto estávamos no funeral de meu pai'](https://epoca.globo.com/mundo/minha-mae-morreu-de-coronavirus-enquanto-estavamos-no-funeral-de-meu-pai-24556193)
 * [Lista de convidados do casamento de Brooklyn Beckham e Nicola Peltz inclui Harry, Meghan e Elton John](https://oglobo.globo.com/ela/gente/lista-de-convidados-do-casamento-de-brooklyn-beckham-nicola-peltz-inclui-harry-meghan-elton-john-24556175)
-* [Ministério da Saúde destina R$ 120 milhões a laboratórios centrais](https://oglobo.globo.com/sociedade/ministerio-da-saude-destina-120-milhoes-laboratorios-centrais-24556167)
+* [Coronavírus: comportamento de jovens impulsiona novos surtos na Europa, diz OMS](https://epoca.globo.com/sociedade/coronavirus-comportamento-de-jovens-impulsiona-novos-surtos-na-europa-diz-oms-24556180)
 * [INSS adia abertura de suas agências em todo o país para 24 de agosto](https://oglobo.globo.com/economia/inss-adia-abertura-de-suas-agencias-em-todo-pais-para-24-de-agosto-24556134)
 * [Em vídeo bem-humorado, princesa Anne ensina rainha Elizabeth a usar o Zoom](https://oglobo.globo.com/ela/gente/em-video-bem-humorado-princesa-anne-ensina-rainha-elizabeth-usar-zoom-24556137)
 * [Quadrilha falsificava real e vendia até em redes sociais](https://oglobo.globo.com/brasil/quadrilha-falsificava-real-vendia-ate-em-redes-sociais-24556147)
-* [Mototaxista é baleado durante troca de tiros entre PMs e traficantes, no Vidigal](https://oglobo.globo.com/rio/mototaxista-baleado-durante-troca-de-tiros-entre-pms-traficantes-no-vidigal-1-24556125)
-* [MEC demite Secretário de Regulação e Supervisão da Educação Superior](https://oglobo.globo.com/sociedade/mec-demite-secretario-de-regulacao-supervisao-da-educacao-superior-24556130)
 * [Flip 2020 terá programação virtual e estuda se haverá evento presencial](https://epoca.globo.com/guilherme-amado/flip-2020-tera-programacao-virtual-estuda-se-havera-evento-presencial-24555814)

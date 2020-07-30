@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 12:18:00 UTC
+# indexed at 30/07/2020 12:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
 * [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
 * [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 * [Luckysheet, an open-source spreadsheet](https://github.com/mengshukeji/Luckysheet)
-* [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
-* [Microsoft Engineer Proposes “Trampfd” for Improving Linux Security](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-TRAMPFD-Linux)
 * [Unauthorized Bread: Real rebellions involve jailbreaking IoT toasters](https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/)
-* [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
+* [Microsoft Engineer Proposes “Trampfd” for Improving Linux Security](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-TRAMPFD-Linux)
+* [Remote First](https://greylock.com/quora-remote-first/)
 * [Nano 5.0](https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html)
+* [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
 * [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
-* [Berners-Lee 'Sorry' for Slashes (2009)](http://news.bbc.co.uk/2/hi/technology/8306631.stm)
 * [NetLogo: A multi-agent programmable modeling environment](https://ccl.northwestern.edu/netlogo/)
 * [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
 * [European communications startup Infobip raises $200M for over $1B valuation](https://www.reuters.com/article/us-infobip-fundraising-exclusive/exclusive-european-software-startup-infobip-raises-over-200-million-in-series-a-funding-sources-idUSKCN24V05E)
-* [Remote First](https://greylock.com/quora-remote-first/)
+* [Flipper Zero – Tamagochi for Hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
 * [In October 1953 Paul Niquette coined the word 'software' (1995)](http://www.niquette.com/books/softword/part0.htm)
 * [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
-* [From rocks to icebergs, the natural world tends to break into cubes](https://www.sciencemag.org/news/2020/07/rocks-icebergs-natural-world-tends-break-cubes)
 * [GPT-3 Examples](https://gpt3examples.com/)
 * [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
-* [Flipper Zero – Tamagochi for Hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
-* [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
+* [From rocks to icebergs, the natural world tends to break into cubes](https://www.sciencemag.org/news/2020/07/rocks-icebergs-natural-world-tends-break-cubes)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
+* [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
 * [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [Del.icio.us](http://del.icio.us/)
 * [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
-* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
-* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
+* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
+* [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 ## nytimes.com
 
 
@@ -51,6 +51,7 @@ layout: default
 * [A Half-Century After Wallace, Trump Echoes the Politics of Division](https://www.nytimes.com/2020/07/30/us/politics/trump-wallace.html)
 * [Obama Unleashes on Trump Privately as He Raises $24 Million for Biden](https://www.nytimes.com/2020/07/30/us/politics/obama-trump-biden.html)
 * [Trump Plays on Racist Fears of Terrorized Suburbs to Court White Voters](https://www.nytimes.com/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
+* [NASA Launches Perseverance Rover to Mars, Capping Summer of Missions to Red Planet](https://www.nytimes.com/2020/07/30/science/nasa-mars-launch.html)
 * [The Autocrat Problem](https://www.nytimes.com/2020/07/30/briefing/mark-zuckerberg-louie-gohmert-ruth-bader-ginsburg-your-thursday-briefing.html)
 * [A Protester, an Unmarked N.Y.P.D. Van and a Viral Video](https://www.nytimes.com/2020/07/30/nyregion/nypd-protester-van.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -73,15 +74,15 @@ layout: default
 * [MacKenzie Scott Gives $1.7 Billion to Historically Black Colleges and Other Groups](https://www.nytimes.com/2020/07/29/us/mackenzie-scott-billion-fortune-bezos.html)
 * [Trudeau Goes Before Parliament to Face Questions on Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
 * [Johnson & Johnson's Covid-19 Vaccine Protects Monkeys, Study Finds](https://www.nytimes.com/2020/07/30/health/covid-19-vaccine-monkeys.html)
-* [NASA Launches Perseverance Rover to Mars, Capping Summer of Missions to Red Planet](https://www.nytimes.com/2020/07/30/science/nasa-mars-launch.html)
+* [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [Why Barr’s Pick for Brooklyn Prosecutor Faces Scrutiny From All Sides](https://www.nytimes.com/2020/07/30/nyregion/seth-ducharme-us-attorney-brooklyn.html)
 * [‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power](https://www.nytimes.com/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
-* [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Pilgrims, Fewer and Socially Distanced, Arrive in Mecca for Annual Hajj](https://www.nytimes.com/2020/07/30/world/middleeast/pilgrims-hajj-mecca-coronavirus-pandemic.html)
 * [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Black Book Clubs, From Oprah to Noname](https://www.nytimes.com/2020/07/29/style/self-care/black-book-clubs.html)
 * [Madeleine Albright on Covid-19, Fascism and Her Dream Superhero Team](https://www.nytimes.com/2020/07/29/us/madeleine-albright-interview-gender-covid.html)
 * [8 Factors in the N.B.A.’s Return That May Upend Expectations](https://www.nytimes.com/2020/07/29/sports/basketball/nba-restart-lou-williams.html)
@@ -98,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [O que aconteceu na noite em que 7 bebês nasceram mortos no mesmo hospital durante pandemia](https://epoca.globo.com/sociedade/o-que-aconteceu-na-noite-em-que-7-bebes-nasceram-mortos-no-mesmo-hospital-durante-pandemia-24558235)
+* [Funkeira MC Atrevida morre após fazer procedimento estético na Zona Norte do Rio](https://oglobo.globo.com/rio/funkeira-mc-atrevida-morre-apos-fazer-procedimento-estetico-na-zona-norte-do-rio-1-24558261)
+* [Príncipe William enfrenta dificuldades com ensino em casa: 'Tenho menos paciência do que pensei'](https://oglobo.globo.com/ela/gente/principe-william-enfrenta-dificuldades-com-ensino-em-casa-tenho-menos-paciencia-do-que-pensei-24558273)
+* [Metade das empresas em funcionamento teve redução de vendas na 2ª quinzena de junho](https://oglobo.globo.com/economia/metade-das-empresas-em-funcionamento-teve-reducao-de-vendas-na-2-quinzena-de-junho-24558253)
+* [Felipe Neto debate com ministro do STF Luís Roberto Barroso em live](https://oglobo.globo.com/cultura/felipe-neto-debate-com-ministro-do-stf-luis-roberto-barroso-em-live-1-24558199)
+* [O que aconteceu na noite em que 7 bebês nasceram mortos no mesmo hospital durante pandemia](https://epoca.globo.com/sociedade/o-que-aconteceu-na-noite-em-que-7-bebes-nasceram-mortos-no-mesmo-hospital-durante-pandemia-1-24558235)
+* [Governo estuda aumentar faixa de isenção do IR para R$ 3 mil em troca de criação de imposto digital](https://oglobo.globo.com/economia/governo-estuda-aumentar-faixa-de-isencao-do-ir-para-3-mil-em-troca-de-criacao-de-imposto-digital-24558260)
 * [Criminosos causam pânico em Botucatu com explosão de agência bancária e tiroteio de 2 horas com policiais](https://oglobo.globo.com/brasil/criminosos-causam-panico-em-botucatu-com-explosao-de-agencia-bancaria-tiroteio-de-2-horas-com-policiais-24558237)
-* [Hong Kong veta 12 candidatos pró-democracia das eleições legislativas de setembro](https://oglobo.globo.com/mundo/hong-kong-veta-12-candidatos-pro-democracia-das-eleicoes-legislativas-de-setembro-24558197)
-* [Felipe Neto debate com ministro do STF Luís Roberto Barroso em live](https://oglobo.globo.com/cultura/felipe-neto-debate-com-ministro-do-stf-luis-roberto-barroso-em-live-24558199)
 * [PF cumpre mandados de busca e apreensão no Rio dentro da Operação Ponto Final](https://oglobo.globo.com/rio/pf-cumpre-mandados-de-busca-apreensao-no-rio-dentro-da-operacao-ponto-final-24558207)
-* [PF cumpre mandados de busca e apreensão no Rio para apurar desvios na 'Caixinha da Fetranspor'](https://oglobo.globo.com/brasil/pf-cumpre-mandados-de-busca-apreensao-no-rio-para-apurar-desvios-na-caixinha-da-fetranspor-24558215)
 * [Alerj votará PEC para evitar extinção das secretarias de Polícia Militar e de Polícia Civil](https://oglobo.globo.com/rio/alerj-votara-pec-para-evitar-extincao-das-secretarias-de-policia-militar-de-policia-civil-24558142)
-* ['Cabeleleila Leila': trabalhadoras da vida real enfrentam dificuldades na pandemia](https://oglobo.globo.com/economia/cabeleleila-leila-trabalhadoras-da-vida-real-enfrentam-dificuldades-na-pandemia-1-24558172)
-* [Operação do Ministério Público mira PMs e demais integrantes de milícia que explora serviço de mototáxis na Zona Oeste](https://oglobo.globo.com/rio/operacao-do-ministerio-publico-mira-pms-demais-integrantes-de-milicia-que-explora-servico-de-mototaxis-na-zona-oeste-1-24558121)
 * [Livro contará história de delegado que queimava corpos na ditadura](https://epoca.globo.com/guilherme-amado/livro-contara-historia-de-delegado-que-queimava-corpos-na-ditadura-24557674)

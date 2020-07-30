@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 14:14:40 UTC
+# indexed at 30/07/2020 14:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -10,38 +10,38 @@ layout: default
 
 * [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
 * [Alzheimer's: 'Promising' blood test for early stage of disease](https://www.bbc.co.uk/news/health-53567486)
-* [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
-* [Researchers pick their favourite ML books](https://mentorcruise.com/books/ml/)
+* [Libraries lend books, and must continue to lend books](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
 * [Anti-climate action statements get more visibility in news coverage, study finds](https://www.brown.edu/news/2020-07-27/wetts)
+* [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
 * [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
+* [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+* [Researchers pick their favourite ML books](https://mentorcruise.com/books/ml/)
 * [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
+* [CodiMD, self-hosted, real-time collaborative markdown notes](https://github.com/codimd/server)
+* [Show HN: I'm building a catalog of cloud architecture](https://getrevolv.com)
 * [Unauthorized Bread: Real rebellions involve jailbreaking IoT toasters](https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/)
 * [Show HN: GOMP, a tool for comparing Git branches](https://github.com/MarkForged/GOMP)
-* [Show HN: I'm building a catalog of cloud architecture](https://getrevolv.com)
 * [Luckysheet, an open-source spreadsheet](https://github.com/mengshukeji/Luckysheet)
-* [Libraries lend books, and must continue to lend books](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [CodiMD, self-hosted, real-time collaborative markdown notes](https://github.com/codimd/server)
 * [Microsoft Engineer Proposes “Trampfd” for Improving Linux Security](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-TRAMPFD-Linux)
 * [NASA Just Launched Its New Perseverance Rover to Mars](https://www.wired.com/story/how-to-watch-nasa-launch-its-new-perseverance-mars-rover/)
+* [Coronavirus pandemic pushes U.S. economy to worst-ever contraction](https://www.axios.com/us-gdp-q2-coronavirus-contraction-worst-ever-ed533bbf-1113-47fa-aee2-6e66fb553977.html)
 * [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
 * [Nano 5.0](https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html)
-* [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [NetLogo: A multi-agent programmable modeling environment](https://ccl.northwestern.edu/netlogo/)
-* [Show HN: Search for ingredients to pair with other ingredients](https://www.kulinarian.com/flavor-pairings/)
 * [Show HN: Moufette – an open-source tool to capture users feedback](https://github.com/moufette-tools/moufette)
-* [Proteus: Underwater research lab worthy of a Bond villain](https://www.cnet.com/news/proteus-is-an-underwater-research-lab-worthy-of-a-bond-villain/)
+* [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [European communications startup Infobip raises $200M for over $1B valuation](https://www.reuters.com/article/us-infobip-fundraising-exclusive/exclusive-european-software-startup-infobip-raises-over-200-million-in-series-a-funding-sources-idUSKCN24V05E)
-* [From rocks to icebergs, the natural world tends to break into cubes](https://www.sciencemag.org/news/2020/07/rocks-icebergs-natural-world-tends-break-cubes)
-* [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
-* [In October 1953 Paul Niquette coined the word 'software' (1995)](http://www.niquette.com/books/softword/part0.htm)
+* [Show HN: Search for ingredients to pair with other ingredients](https://www.kulinarian.com/flavor-pairings/)
 * [GPT-3 Examples](https://gpt3examples.com/)
-* [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
-* [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
-* [Flipper Zero – Tamagochi for Hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
+* [Proteus: Underwater research lab worthy of a Bond villain](https://www.cnet.com/news/proteus-is-an-underwater-research-lab-worthy-of-a-bond-villain/)
+* [In October 1953 Paul Niquette coined the word 'software' (1995)](http://www.niquette.com/books/softword/part0.htm)
+* [From rocks to icebergs, the natural world tends to break into cubes](https://www.sciencemag.org/news/2020/07/rocks-icebergs-natural-world-tends-break-cubes)
+* [Ask HN: Why Do You Downvote?](https://news.ycombinator.com/item?id=23997697)
+* [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
 ## nytimes.com
 
 
-* [New G.D.P. Figures Reveal Record Decline of American Economy](https://www.nytimes.com/live/2020/07/30/business/stock-market-today-coronavirus)
+* [Unemployment Claims Exceed One Million for 19th Straight Week](https://www.nytimes.com/live/2020/07/30/business/stock-market-today-coronavirus)
 * [2020 Election Live Updates: Trump Floats Whether to ‘Delay the Election,’ Something He Cannot Legally Do](https://www.nytimes.com/2020/07/30/us/elections/biden-vs-trump.html)
 * [A Half-Century After Wallace, Trump Echoes the Politics of Division](https://www.nytimes.com/2020/07/30/us/politics/trump-wallace.html)
 * [Postpone the 2020 Election? Only With Great Difficulty. Here’s Why.](https://www.nytimes.com/2020/03/14/us/politics/election-postponed-canceled.html)
@@ -78,11 +78,11 @@ layout: default
 * [Obama Unleashes on Trump Privately as He Raises $24 Million for Biden](https://www.nytimes.com/2020/07/30/us/politics/obama-trump-biden.html)
 * [Why Barr’s Pick for Brooklyn Prosecutor Faces Scrutiny From All Sides](https://www.nytimes.com/2020/07/30/nyregion/seth-ducharme-us-attorney-brooklyn.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone.](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Black Book Clubs, From Oprah to Noname](https://www.nytimes.com/2020/07/29/style/self-care/black-book-clubs.html)
 * [Madeleine Albright on Covid-19, Fascism and Her Dream Superhero Team](https://www.nytimes.com/2020/07/29/us/madeleine-albright-interview-gender-covid.html)
 * [8 Factors in the N.B.A.’s Return That May Upend Expectations](https://www.nytimes.com/2020/07/29/sports/basketball/nba-restart-lou-williams.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Em Meca, poucos afortunados rezam por um mundo livre de pandemia](https://oglobo.globo.com/mundo/em-meca-poucos-afortunados-rezam-por-um-mundo-livre-de-pandemia-24558233)
 * [Trump levanta possibilidade de adiar eleições americanas](https://oglobo.globo.com/mundo/trump-levanta-possibilidade-de-adiar-eleicoes-americanas-24558349)
+* [Série 'Os Simpsons' previu cédula de R$ 200 em 2014](https://oglobo.globo.com/cultura/serie-os-simpsons-previu-cedula-de-200-em-2014-1-24558410)
+* [Para Bradesco, pior momento de impacto da Covid-19 na economia já passou](https://oglobo.globo.com/economia/para-bradesco-pior-momento-de-impacto-da-covid-19-na-economia-ja-passou-24558421)
+* [Vale pretende chegar a sua capacidade de produção de minério de ferro no fim de 2022](https://oglobo.globo.com/economia/vale-pretende-chegar-sua-capacidade-de-producao-de-minerio-de-ferro-no-fim-de-2022-24558432)
 * [Contas do governo têm rombo de R$ 194,7 bi em junho](https://oglobo.globo.com/economia/contas-do-governo-tem-rombo-de-1947-bi-em-junho-24558402)
-* [Chuva no Rio deve se estender ao longo de todo o dia, com ventos de moderados a fortes](https://oglobo.globo.com/rio/chuva-no-rio-deve-se-estender-ao-longo-de-todo-dia-com-ventos-de-moderados-fortes-24558342)
-* [Filha do ministro Pazuello aparece na lista de solicitantes de auxílio emergencial](https://oglobo.globo.com/brasil/filha-do-ministro-pazuello-aparece-na-lista-de-solicitantes-de-auxilio-emergencial-24558395)
-* [Lais Ribeiro apresenta primeiro reality de modelos apenas com participantes trans](https://oglobo.globo.com/ela/moda/lais-ribeiro-apresenta-primeiro-reality-de-modelos-apenas-com-participantes-trans-24558297)
+* [Filha do ministro Pazuello aparece na lista de solicitantes de auxílio emergencial](https://oglobo.globo.com/brasil/filha-do-ministro-pazuello-aparece-na-lista-de-solicitantes-de-auxilio-emergencial-1-24558395)
+* [Em Meca, poucos afortunados rezam por um mundo livre da pandemia](https://oglobo.globo.com/mundo/em-meca-poucos-afortunados-rezam-por-um-mundo-livre-da-pandemia-24558233)
 * [Nome da filha de Pazuello aparece na lista de solicitantes de auxílio emergencial](https://oglobo.globo.com/brasil/nome-da-filha-de-pazuello-aparece-na-lista-de-solicitantes-de-auxilio-emergencial-1-24558376)
 * [Pandemia provoca crescimento nas vendas de alimentos congelados](https://oglobo.globo.com/rio/bairros/pandemia-provoca-crescimento-nas-vendas-de-alimentos-congelados-24546787)
-* [Rodrigo Maia defende a discussão de leis permanentes para defesa de minorias](https://oglobo.globo.com/sociedade/rodrigo-maia-defende-discussao-de-leis-permanentes-para-defesa-de-minorias-1-24558344)
 * [Só um em cada três profissionais de saúde diz ter sido testado para Covid-19, aponta FGV](https://oglobo.globo.com/sociedade/so-um-em-cada-tres-profissionais-de-saude-diz-ter-sido-testado-para-covid-19-aponta-fgv-24555878)

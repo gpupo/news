@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 01:35:12 UTC
+# indexed at 30/07/2020 02:15:18 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Tihle: A unique TI calculator emulator](https://www.taricorp.net/2020/introducing-tihle/)
-* [LifeLabs goes to court to block privacy watchdogs from probing 2019 data breach](https://www.cbc.ca/news/business/lifelabs-data-breach-1.5667618)
+* [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
+* [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
+* [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
-* [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
-* [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
+* [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
-* [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
+* [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
-* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
-* [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
+* [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
+* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
-* [Sirum (YC W15 Nonprofit) is hiring developers to save medicine to save lives](https://sirum.breezy.hr/)
-* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
-* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
+* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
 * [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
-* [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
+* [Sirum (YC W15 Nonprofit) is hiring developers to save medicine to save lives](https://sirum.breezy.hr/)
 * [Del.icio.us](http://del.icio.us/)
+* [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
+* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 * [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
-* [Interactive Generative Art](http://weavesilk.com/?ika/)
-* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
-* [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
+* [LifeLabs goes to court to block privacy watchdogs from probing 2019 data breach](https://www.cbc.ca/news/business/lifelabs-data-breach-1.5667618)
+* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
+* [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
 ## nytimes.com
 
 
@@ -76,16 +76,16 @@ layout: default
 * [Ashley Judd Can Sue Harvey Weinstein for Sexual Harassment, Court Rules](https://www.nytimes.com/2020/07/29/business/media/judd-weinstein-lawsuit-appeal.html)
 * [One in Three Children Have Unacceptably High Lead Levels, Study Says](https://www.nytimes.com/2020/07/29/world/americas/lead-poisoning-children.html)
 * [Ex-C.I.A. Chief Criticizes Silence of Top Republicans on Russian Interference](https://www.nytimes.com/2020/07/29/us/politics/john-brennan-book.html)
-* [Two Women Charged in Attack on Wisconsin State Senator Tim Carpenter](https://www.nytimes.com/2020/07/29/us/wisconsin-tim-carpenter-attacked.html)
+* [Report: N.B.A.’s Academies in China Abused Athletes](https://www.nytimes.com/2020/07/29/sports/basketball/nba-china-abuse.html)
 * [Atlanta Mourns John Lewis and Ponders Carrying On With ‘Good Trouble’](https://www.nytimes.com/2020/07/29/us/john-lewis-atlanta-memorial.html)
 * [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](https://www.nytimes.com/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
-* [New Push to Get Rid of Pennies in Pandemic Coin Shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -96,7 +96,8 @@ layout: default
 * [Is Your Blood Sugar Undermining Your Workouts?](https://www.nytimes.com/2020/07/29/well/move/blood-sugar-diet-foods-workouts-exercise-muscles.html)
 * [This Moss Uses Quartz as a Parasol](https://www.nytimes.com/2020/07/29/science/moss-quartz-biology-syntrichia.html)
 * [Bored With Your Home Cooking? Some Smoky Eggplant Will Fix That](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html)
-* [The Cult of Selfishness Is Killing America](https://www.nytimes.com/2020/07/27/opinion/us-republicans-coronavirus.html)
+* [MacKenzie Scott Gives $1.7 Billion to Historically Black Colleges and Other Groups](https://www.nytimes.com/2020/07/29/us/mackenzie-scott-billion-fortune-bezos.html)
+* [Two Women Charged in Attack on Wisconsin State Senator Tim Carpenter](https://www.nytimes.com/2020/07/29/us/wisconsin-tim-carpenter-attacked.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -104,6 +105,7 @@ layout: default
 
 
 * [Vale registra lucro líquido no segundo trimestre de R$ 5,3 bilhões](https://oglobo.globo.com/economia/vale-registra-lucro-liquido-no-segundo-trimestre-de-53-bilhoes-24557916)
+* [Rio e SP terão volta às escolas opcional no caso de alunos ou família no grupo de risco](https://oglobo.globo.com/sociedade/educacao/rio-sp-terao-volta-as-escolas-opcional-no-caso-de-alunos-ou-familia-no-grupo-de-risco-24557972)
 * [Brasil tem seis estados com tendência de alta em mortes por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-seis-estados-com-tendencia-de-alta-em-mortes-por-covid-19-24557770)
 * [O que mostrou a sabatina dos gigantes da tecnologia na Câmara dos EUA](https://oglobo.globo.com/analitico/o-que-mostrou-sabatina-dos-gigantes-da-tecnologia-na-camara-dos-eua-24557774)
 * [Falta de consenso sobre foro privilegiado no STF deve permanecer](https://oglobo.globo.com/analitico/falta-de-consenso-sobre-foro-privilegiado-no-stf-deve-permanecer-1-24557581)
@@ -112,4 +114,3 @@ layout: default
 * [Polícia de Hong Kong prende quatro estudantes sob a nova Lei de Segurança Nacional](https://oglobo.globo.com/mundo/policia-de-hong-kong-prende-quatro-estudantes-sob-nova-lei-de-seguranca-nacional-24557756)
 * [Para encerrar processo de arbitragem, Petrobras pagará R$ 950 milhões a fundo de pensão](https://oglobo.globo.com/economia/para-encerrar-processo-de-arbitragem-petrobras-pagara-950-milhoes-fundo-de-pensao-24557599)
 * [Brasil supera marcas de 90 mil mortes e 2,5 milhões de casos de coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/brasil-supera-marcas-de-90-mil-mortes-25-milhoes-de-casos-de-coronavirus-diz-consorcio-de-veiculos-de-imprensa-1-24557417)
-* [É #FAKE que vacinas contra o novo coronavírus possam gerar seres geneticamente modificados](https://oglobo.globo.com/fato-ou-fake/e-fake-que-vacinas-contra-novo-coronavirus-possam-gerar-seres-geneticamente-modificados-24557523)

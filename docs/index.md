@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 08:34:34 UTC
+# indexed at 30/07/2020 09:13:50 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 * [Luckysheet, an open-source spreadsheet](https://github.com/mengshukeji/Luckysheet)
+* [Microsoft Engineer Proposes “Trampfd” for Improving Linux Security](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-TRAMPFD-Linux)
 * [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
+* [Nano-5.0 Is Released](https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html)
 * [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
 * [In October 1953 Paul Niquette coined the word 'software'](http://www.niquette.com/books/softword/part0.htm)
-* [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
+* [European communications startup Infobip raises $200M for over $1B valuation](https://www.reuters.com/article/us-infobip-fundraising-exclusive/exclusive-european-software-startup-infobip-raises-over-200-million-in-series-a-funding-sources-idUSKCN24V05E)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
-* [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
+* [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
-* [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
+* [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
 * [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
-* [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
-* [CareRev (YC S16) Is Looking for a SaaS Customer Success Manager](https://grnh.se/1f9e98db3us)
-* [Del.icio.us](http://del.icio.us/)
-* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
+* [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
 * [GPT-3 Examples](https://gpt3examples.com/)
+* [Del.icio.us](http://del.icio.us/)
+* [CareRev (YC S16) Is Looking for a SaaS Customer Success Manager](https://grnh.se/1f9e98db3us)
+* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
-* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
-* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
-* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [Pending Postal Service Changes Could Delay Mail and Deliveries](https://www.npr.org/2020/07/29/894799516/pending-postal-service-changes-could-delay-mail-and-deliveries-advocates-warn)
-* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
-* [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
+* [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
-* [What if Planet 9 is a Primordial Black Hole?](https://link.aps.org/doi/10.1103/PhysRevLett.125.051103)
+* [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 ## nytimes.com
 
 
@@ -82,11 +82,10 @@ layout: default
 * [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](https://www.nytimes.com/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
 * [Ex-C.I.A. Chief Criticizes Silence of Top Republicans on Russian Interference](https://www.nytimes.com/2020/07/29/us/politics/john-brennan-book.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
-* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
+* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -104,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* ['A maioria das pessoas brancas não sabe dizer o que significa ser branco', diz autora de best-seller americano sobre racismo](https://oglobo.globo.com/celina/a-maioria-das-pessoas-brancas-nao-sabe-dizer-que-significa-ser-branco-diz-autora-de-best-seller-americano-sobre-racismo-24507700)
 * [Rodrigo Guimarães abre delivery de toque ‘pop’](https://oglobo.globo.com/ela/gastronomia/rodrigo-guimaraes-abre-delivery-de-toque-pop-24552820)
-* [Escolas de Rio e SP terão volta às aulas opcional para grupos de risco](https://oglobo.globo.com/sociedade/educacao/escolas-de-rio-sp-terao-volta-as-aulas-opcional-para-grupos-de-risco-24557990)
 * [NBA: volta da liga impõe desafio inédito ao físico dos jogadores](https://oglobo.globo.com/esportes/nba-volta-da-liga-impoe-desafio-inedito-ao-fisico-dos-jogadores-24557776)
-* [Itamaraty decreta sigilo sobre correspondências que tratam de Huawei e 5G](https://oglobo.globo.com/economia/itamaraty-decreta-sigilo-sobre-correspondencias-que-tratam-de-huawei-5g-24557948)
 * [Sem o Aliança pelo Brasil, pré-candidatos buscam eleitorado bolsonarista em São Paulo e no Rio](https://oglobo.globo.com/brasil/sem-alianca-pelo-brasil-pre-candidatos-buscam-eleitorado-bolsonarista-em-sao-paulo-no-rio-24557996)
 * [Liberdade sobre rodas: interesse por motorhomes cresce no Brasil durante pandemia](https://oglobo.globo.com/boa-viagem/liberdade-sobre-rodas-interesse-por-motorhomes-cresce-no-brasil-durante-pandemia-24557830)
 * [Comunidade do Coroado avança por Santa Teresa e Cosme Velho, e moradores temem deslizamentos](https://oglobo.globo.com/rio/comunidade-do-coroado-avanca-por-santa-teresa-cosme-velho-moradores-temem-deslizamentos-24557664)
 * [O desafio de levar a vacina contra a Covid-19 a todo o Brasil](https://oglobo.globo.com/podcast/o-desafio-de-levar-vacina-contra-covid-19-todo-brasil-24557859)
+* [Diplomatas alertam Ernesto Araújo sobre riscos de campanha pró-Trump](https://epoca.globo.com/guilherme-amado/diplomatas-alertam-ernesto-araujo-sobre-riscos-de-campanha-pro-trump-24557889)
 * [Artigo: Quanto vale o Rio?](https://oglobo.globo.com/rio/artigo-quanto-vale-rio-24557808)
 * [Súplica de mulher a presidente peruano vira símbolo do avanço da pandemia no país](https://oglobo.globo.com/mundo/suplica-de-mulher-presidente-peruano-vira-simbolo-do-avanco-da-pandemia-no-pais-24556588)

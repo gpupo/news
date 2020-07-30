@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 04:14:44 UTC
+# indexed at 30/07/2020 04:34:24 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
-* [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [What if Planet 9 is a Primordial Black Hole?](https://link.aps.org/doi/10.1103/PhysRevLett.125.051103)
+* [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
-* [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
+* [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
-* [Use YC's Work at a Startup to apply for hundreds of jobs with one application](https://www.workatastartup.com/?utm_source=hn_jobs)
 * [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
+* [Pending Postal Service Changes Could Delay Mail and Deliveries](https://www.npr.org/2020/07/29/894799516/pending-postal-service-changes-could-delay-mail-and-deliveries-advocates-warn)
+* [Use YC's Work at a Startup to apply for hundreds of jobs with one application](https://www.workatastartup.com/?utm_source=hn_jobs)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
+* [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
-* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
+* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
-* [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
-* [Del.icio.us](http://del.icio.us/)
-* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
+* [Del.icio.us](http://del.icio.us/)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
 * [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
-* [Primary Sources: A Natural History of the Artist's Palette](https://publicdomainreview.org/essay/primary-sources)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 ## nytimes.com
 
 
@@ -77,15 +77,15 @@ layout: default
 * [Justice Ginsburg in the Hospital Again](https://www.nytimes.com/2020/07/29/us/politics/justice-ginsburg-hospital.html)
 * [Ashley Judd Can Sue Harvey Weinstein for Sexual Harassment, Court Rules](https://www.nytimes.com/2020/07/29/business/media/judd-weinstein-lawsuit-appeal.html)
 * [One in Three Children Have Unacceptably High Lead Levels, Study Says](https://www.nytimes.com/2020/07/29/world/americas/lead-poisoning-children.html)
-* [Report: N.B.A.’s Academies in China Abused Athletes](https://www.nytimes.com/2020/07/29/sports/basketball/nba-china-abuse.html)
+* [Tropical Storm Isaias Forms in the Atlantic](https://www.nytimes.com/2020/07/30/us/tropical-storm-isaias.html)
 * [Atlanta Mourns John Lewis and Ponders Carrying On With ‘Good Trouble’](https://www.nytimes.com/2020/07/29/us/john-lewis-atlanta-memorial.html)
 * [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](https://www.nytimes.com/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
 * [Ex-C.I.A. Chief Criticizes Silence of Top Republicans on Russian Interference](https://www.nytimes.com/2020/07/29/us/politics/john-brennan-book.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)

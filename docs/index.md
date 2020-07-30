@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 09:13:50 UTC
+# indexed at 30/07/2020 09:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -14,9 +14,10 @@ layout: default
 * [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
 * [Nano-5.0 Is Released](https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html)
 * [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
-* [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
-* [In October 1953 Paul Niquette coined the word 'software'](http://www.niquette.com/books/softword/part0.htm)
+* [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
 * [European communications startup Infobip raises $200M for over $1B valuation](https://www.reuters.com/article/us-infobip-fundraising-exclusive/exclusive-european-software-startup-infobip-raises-over-200-million-in-series-a-funding-sources-idUSKCN24V05E)
+* [In October 1953 Paul Niquette coined the word 'software'](http://www.niquette.com/books/softword/part0.htm)
+* [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
@@ -25,17 +26,16 @@ layout: default
 * [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
-* [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
 * [GPT-3 Examples](https://gpt3examples.com/)
 * [Del.icio.us](http://del.icio.us/)
-* [CareRev (YC S16) Is Looking for a SaaS Customer Success Manager](https://grnh.se/1f9e98db3us)
 * [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
-* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
-* [Pending Postal Service Changes Could Delay Mail and Deliveries](https://www.npr.org/2020/07/29/894799516/pending-postal-service-changes-could-delay-mail-and-deliveries-advocates-warn)
+* [CareRev (YC S16) Is Looking for a SaaS Customer Success Manager](https://grnh.se/1f9e98db3us)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [Pending Postal Service Changes Could Delay Mail and Deliveries](https://www.npr.org/2020/07/29/894799516/pending-postal-service-changes-could-delay-mail-and-deliveries-advocates-warn)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 ## nytimes.com
@@ -56,6 +56,7 @@ layout: default
 * [Trump Did Not Ask Putin About Russia's Bounties on U.S. Troops](https://www.nytimes.com/2020/07/29/us/politics/trump-putin-bounties.html)
 * [NASA’s Mars Perseverance Rover Launch: When to Watch](https://www.nytimes.com/2020/07/30/science/nasa-mars-launch.html)
 * [Bringing Mars Rocks to Earth: Our Greatest Interplanetary Circus Act](https://www.nytimes.com/2020/07/28/science/mars-sample-return-mission.html)
+* [A Protester, an Unmarked N.Y.P.D. Van and a Viral Video](https://www.nytimes.com/2020/07/30/nyregion/nypd-protester-van.html)
 * [Confronting China](https://www.nytimes.com/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
 * [Congress Doesn’t Get Big Tech. By Design.](https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html)
 * [Introducing: Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
@@ -83,9 +84,10 @@ layout: default
 * [Ex-C.I.A. Chief Criticizes Silence of Top Republicans on Russian Interference](https://www.nytimes.com/2020/07/29/us/politics/john-brennan-book.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
+* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)

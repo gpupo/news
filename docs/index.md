@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 23:12:55 UTC
+# indexed at 30/07/2020 23:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Amazon Almost Killed Best Buy. Then, Best Buy Did Something Completely Brilliant](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
-* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
+* [Air travel’s sudden collapse will reshape a trillion-dollar industry](https://www.economist.com/business/2020/08/01/air-travels-sudden-collapse-will-reshape-a-trillion-dollar-industry)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
-* [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
-* [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
+* [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
+* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
-* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
+* [Solving the expiring. X.509 root CA certificate-mageddon, partly at least](https://blog.apnic.net/2020/07/30/solving-the-expiring-root-ca-certificate-mageddon-partly-at-least/)
 * [Kissat SAT Solver](http://fmv.jku.at/kissat/)
 * [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
 * [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
-* [Air travel’s sudden collapse will reshape a trillion-dollar industry](https://www.economist.com/business/2020/08/01/air-travels-sudden-collapse-will-reshape-a-trillion-dollar-industry)
-* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
-* [Facebook reports second quarter results](https://www.reuters.com/article/us-facebook-results/facebook-quarterly-revenue-beats-estimates-idUSKCN24V3H5)
+* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
-* [Amazon Almost Killed Best Buy. Then, Best Buy Did Something Completely Brilliant](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
+* [Facebook reports second quarter results](https://www.reuters.com/article/us-facebook-results/facebook-quarterly-revenue-beats-estimates-idUSKCN24V3H5)
 * [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 * [How to Hire Great Engineers](https://autoiterative.com/blog/posts/how-to-hire-great-engineers/)
 * [The mysterious life of birds who never come down](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html)
 * [Crash and Burn: The Amiga ST Story](https://thedorkweb.substack.com/p/crash-and-burn-the-amiga-st-story)
 * [Unauthorized Bread: Jailbreaking IoT toasters](https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/)
-* [Migrating a 40TB SQL Server Database](https://www.tarynpivots.com/post/migrating-40tb-sql-server-database/)
 ## nytimes.com
 
 
 * [Record Low for U.S. G.D.P. as Coronavirus Takes Huge Toll](https://www.nytimes.com/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html)
-* [Business Updates: Big Tech Earnings Surge](https://www.nytimes.com/live/2020/07/30/business/stock-market-today-coronavirus)
+* [The Economy Is in Record Decline, but Not for the Tech Giants](https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html)
 * [2020 Election Live Updates: Trump Defends ‘Delay the Election’ Tweet, Even Though He Can’t Do It](https://www.nytimes.com/2020/07/30/us/elections/biden-vs-trump.html)
 * [Trump Attacks an Election He Is at Risk of Losing](https://www.nytimes.com/2020/07/30/us/politics/trump-delay-election.html)
 * [Can Trump Postpone the 2020 Election? Your Questions Answered.](https://www.nytimes.com/2020/07/30/us/politics/trump-postpone-election.html)
@@ -51,7 +51,7 @@ layout: default
 * [Virus Cases Are Rising in N.J., Spurred by Young Partygoers at the Shore](https://www.nytimes.com/2020/07/30/nyregion/coronavirus-cases-nj.html)
 * [Obama Gives Eulogy at John Lewis Funeral](https://www.nytimes.com/2020/07/30/us/john-lewis-live-funeral.html)
 * [President Barack Obama's Eulogy for John Lewis: Full Transcript](https://www.nytimes.com/2020/07/30/us/obama-eulogy-john-lewis-full-transcript.html)
-* [No Charges Against Ferguson Officer Who Killed Michael Brown](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
+* [No Charges for Ferguson Officer Who Killed Michael Brown, New Prosecutor Says](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [The Reconciliation Must Be Televised](https://www.nytimes.com/2020/07/30/arts/television/the-moment-racism-tv.html)
 * [G.D.P., Election Day, Anglerfish: Your Thursday Evening Briefing](https://www.nytimes.com/2020/07/30/briefing/gdp-election-day-anglerfish.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -81,8 +81,8 @@ layout: default
 * [Pilgrims, Fewer and Socially Distanced, Arrive in Mecca for Annual Hajj](https://www.nytimes.com/2020/07/30/world/middleeast/pilgrims-hajj-mecca-coronavirus-pandemic.html)
 * [China Tries Its Favorite Economic Cure: More Construction](https://www.nytimes.com/2020/07/30/business/china-economy-infrastructure.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [É #FAKE que OMS removeu maconha da categoria de drogas ilícitas](https://oglobo.globo.com/fato-ou-fake/e-fake-que-oms-removeu-maconha-da-categoria-de-drogas-ilicitas-24559605)
-* [Brasil passa de 91 mil mortes e 2,6 milhões de infecções por covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-91-mil-mortes-26-milhoes-de-infeccoes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24559525)
-* [Prefeitura interdita clínica de estética em Vila Isabel onde funkeira realizou procedimento antes de morrer](https://oglobo.globo.com/rio/prefeitura-interdita-clinica-de-estetica-em-vila-isabel-onde-funkeira-realizou-procedimento-antes-de-morrer-24559593)
+* [STF suspende desconto de 30% nas mensalidades de escolas e universidades do Rio](https://oglobo.globo.com/rio/stf-suspende-desconto-de-30-nas-mensalidades-de-escolas-universidades-do-rio-24559648)
 * [Alckmin vira réu e vai responder na Justiça Eleitoral por caixa 2, corrupção e lavagem de dinheiro](https://oglobo.globo.com/brasil/alckmin-vira-reu-vai-responder-na-justica-eleitoral-por-caixa-2-corrupcao-lavagem-de-dinheiro-24559598)
+* [É #FAKE que nova moeda, chamada DIM, está programada para entrar em vigor em 2020 no Brasil](https://oglobo.globo.com/fato-ou-fake/e-fake-que-nova-moeda-chamada-dim-esta-programada-para-entrar-em-vigor-em-2020-no-brasil-24559646)
+* [Brasil passa de 91 mil mortes e 2,6 milhões de infecções por covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-passa-de-91-mil-mortes-26-milhoes-de-infeccoes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24559525)
+* [Bryan Cranston revela que teve Covid-19 e, recuperado, doou plasma](https://oglobo.globo.com/cultura/bryan-cranston-revela-que-teve-covid-19-recuperado-doou-plasma-24559643)
+* [É #FAKE que OMS removeu maconha da categoria de drogas ilícitas](https://oglobo.globo.com/fato-ou-fake/e-fake-que-oms-removeu-maconha-da-categoria-de-drogas-ilicitas-24559605)
+* [Prefeitura interdita clínica de estética em Vila Isabel onde funkeira realizou procedimento antes de morrer](https://oglobo.globo.com/rio/prefeitura-interdita-clinica-de-estetica-em-vila-isabel-onde-funkeira-realizou-procedimento-antes-de-morrer-24559593)
 * [Ajustes contratuais e fiscais atrasam acerto entre Flamengo e Domènec Torrent](https://oglobo.globo.com/esportes/flamengo/ajustes-contratuais-fiscais-atrasam-acerto-entre-flamengo-domenec-torrent-24559599)
 * [Economia alemã tem queda recorde, mas segura empregos com receita do século passado](https://oglobo.globo.com/economia/economia-alema-tem-queda-recorde-mas-segura-empregos-com-receita-do-seculo-passado-24559568)
 * [Polícia Civil apreende 44 pássaros silvestres que eram comercializados em feira na Baixada Fluminense](https://oglobo.globo.com/rio/policia-civil-apreende-44-passaros-silvestres-que-eram-comercializados-em-feira-na-baixada-fluminense-24559512)
-* [Amarelinho da Cinelândia planeja reabrir em setembro, após recolher as mesas em função da crise causada pela pandemia](https://oglobo.globo.com/rio/amarelinho-da-cinelandia-planeja-reabrir-em-setembro-apos-recolher-as-mesas-em-funcao-da-crise-causada-pela-pandemia-24559456)
-* [Pompeo afirma que 'corrente está virando' contra a China no mundo](https://oglobo.globo.com/mundo/pompeo-afirma-que-corrente-esta-virando-contra-china-no-mundo-24559434)
-* [Drive-in de Niterói será reaberto sob nova direção](https://oglobo.globo.com/rio/bairros/drive-in-de-niteroi-sera-reaberto-sob-nova-direcao-24559420)

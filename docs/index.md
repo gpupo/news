@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 02:34:52 UTC
+# indexed at 30/07/2020 03:13:45 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
+* [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
-* [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
-* [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
-* [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
+* [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
 * [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
-* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
-* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
-* [Sirum (YC W15 Nonprofit) is hiring developers to save medicine to save lives](https://sirum.breezy.hr/)
+* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 * [Del.icio.us](http://del.icio.us/)
+* [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
+* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
+* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
-* [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
+* [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
+* [Sirum (YC W15 Nonprofit) is hiring developers to save medicine to save lives](https://sirum.breezy.hr/)
 * [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
-* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](https://www.nytimes.com/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Vale registra lucro líquido no segundo trimestre de R$ 5,3 bilhões](https://oglobo.globo.com/economia/vale-registra-lucro-liquido-no-segundo-trimestre-de-53-bilhoes-24557916)
+* [Presidente do Atlético-MG anuncia contratação de Mariano, ex-Fluminense](https://oglobo.globo.com/esportes/presidente-do-atletico-mg-anuncia-contratacao-de-mariano-ex-fluminense-24558052)
 * [Rio e SP terão volta às escolas opcional no caso de alunos ou família no grupo de risco](https://oglobo.globo.com/sociedade/educacao/rio-sp-terao-volta-as-escolas-opcional-no-caso-de-alunos-ou-familia-no-grupo-de-risco-24557972)
-* [Brasil tem seis estados com tendência de alta em mortes por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-seis-estados-com-tendencia-de-alta-em-mortes-por-covid-19-24557770)
-* [O que mostrou a sabatina dos gigantes da tecnologia na Câmara dos EUA](https://oglobo.globo.com/analitico/o-que-mostrou-sabatina-dos-gigantes-da-tecnologia-na-camara-dos-eua-24557774)
-* [Falta de consenso sobre foro privilegiado no STF deve permanecer](https://oglobo.globo.com/analitico/falta-de-consenso-sobre-foro-privilegiado-no-stf-deve-permanecer-1-24557581)
-* [Mega-Sena acumula e próximo sorteio pode pagar R$23 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-r23-milhoes-24557787)
-* [Órgão da PGR pede a Aras que mantenha estrutura e prorrogue forças-tarefas](https://oglobo.globo.com/brasil/orgao-da-pgr-pede-aras-que-mantenha-estrutura-prorrogue-forcas-tarefas-24557590)
-* [Polícia de Hong Kong prende quatro estudantes sob a nova Lei de Segurança Nacional](https://oglobo.globo.com/mundo/policia-de-hong-kong-prende-quatro-estudantes-sob-nova-lei-de-seguranca-nacional-24557756)
-* [Para encerrar processo de arbitragem, Petrobras pagará R$ 950 milhões a fundo de pensão](https://oglobo.globo.com/economia/para-encerrar-processo-de-arbitragem-petrobras-pagara-950-milhoes-fundo-de-pensao-24557599)
-* [Brasil supera marcas de 90 mil mortes e 2,5 milhões de casos de coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/brasil-supera-marcas-de-90-mil-mortes-25-milhoes-de-casos-de-coronavirus-diz-consorcio-de-veiculos-de-imprensa-1-24557417)
+* [Lives de hoje: Lollapalooza, Geraldo Azevedo e mais](https://oglobo.globo.com/rioshow/lives-de-hoje-lollapalooza-geraldo-azevedo-mais-1-24556286)
+* [Nasa inicia busca por vestígios de vida em Marte com lançamento do Perseverance](https://oglobo.globo.com/sociedade/nasa-inicia-busca-por-vestigios-de-vida-em-marte-com-lancamento-do-perseverance-24556387)
+* [‘Lei do Puxadinho’ aprovada na Câmara traduz descaso com cidade](https://oglobo.globo.com/opiniao/lei-do-puxadinho-aprovada-na-camara-traduz-descaso-com-cidade-1-24557247)
+* [A difícil busca pelo fim da polarização](https://oglobo.globo.com/opiniao/a-dificil-busca-pelo-fim-da-polarizacao-24557316)
+* [Nosso modo de noticiar](https://oglobo.globo.com/opiniao/nosso-modo-de-noticiar-24557217)
+* [‘Sempre atuei para as câmeras, mas nunca para os câmeras’, diz Paulo Betti, em cartaz com ‘Autobiografia autorizada’](https://oglobo.globo.com/rioshow/sempre-atuei-para-as-cameras-mas-nunca-para-os-cameras-diz-paulo-betti-em-cartaz-com-autobiografia-autorizada-24556891)
+* [E se Trump ganhar?](https://oglobo.globo.com/opiniao/e-se-trump-ganhar-1-24556638)
+* [Bezos](https://oglobo.globo.com/opiniao/bezos-1-24556340)

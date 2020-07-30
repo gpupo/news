@@ -2,34 +2,35 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 11:13:00 UTC
+# indexed at 30/07/2020 11:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Nano-5.0 Is Released](https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html)
 * [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
 * [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
-* [Luckysheet, an open-source spreadsheet](https://github.com/mengshukeji/Luckysheet)
-* [Microsoft Engineer Proposes “Trampfd” for Improving Linux Security](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-TRAMPFD-Linux)
+* [Nano-5.0 Is Released](https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html)
 * [Remote First](https://greylock.com/quora-remote-first/)
+* [Luckysheet, an open-source spreadsheet](https://github.com/mengshukeji/Luckysheet)
 * [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
+* [Microsoft Engineer Proposes “Trampfd” for Improving Linux Security](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-TRAMPFD-Linux)
 * [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
 * [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
-* [European communications startup Infobip raises $200M for over $1B valuation](https://www.reuters.com/article/us-infobip-fundraising-exclusive/exclusive-european-software-startup-infobip-raises-over-200-million-in-series-a-funding-sources-idUSKCN24V05E)
 * [NetLogo: A multi-agent programmable modeling environment](https://ccl.northwestern.edu/netlogo/)
-* [In October 1953 Paul Niquette coined the word 'software' (1995)](http://www.niquette.com/books/softword/part0.htm)
+* [European communications startup Infobip raises $200M for over $1B valuation](https://www.reuters.com/article/us-infobip-fundraising-exclusive/exclusive-european-software-startup-infobip-raises-over-200-million-in-series-a-funding-sources-idUSKCN24V05E)
 * [Berners-Lee 'Sorry' for Slashes (2009)](http://news.bbc.co.uk/2/hi/technology/8306631.stm)
 * [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
+* [In October 1953 Paul Niquette coined the word 'software' (1995)](http://www.niquette.com/books/softword/part0.htm)
 * [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
+* [From rocks to icebergs, the natural world tends to break into cubes](https://www.sciencemag.org/news/2020/07/rocks-icebergs-natural-world-tends-break-cubes)
 * [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
 * [GPT-3 Examples](https://gpt3examples.com/)
 * [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
-* [From rocks to icebergs, the natural world tends to break into cubes](https://www.sciencemag.org/news/2020/07/rocks-icebergs-natural-world-tends-break-cubes)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
 * [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
+* [Flipper Zero – Tamagochi for Hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
 * [Del.icio.us](http://del.icio.us/)
 * [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
@@ -37,7 +38,6 @@ layout: default
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
 * [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
-* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 ## nytimes.com
 
 
@@ -49,8 +49,8 @@ layout: default
 * [The New College Drop-Off](https://www.nytimes.com/2020/07/29/travel/virus-college-travel-restrictions.html)
 * [$25,000 Pod Schools: How Well-to-Do Children Will Weather the Pandemic](https://www.nytimes.com/2020/07/30/nyregion/pod-schools-hastings-on-hudson.html)
 * [A Half-Century After Wallace, Trump Echoes the Politics of Division](https://www.nytimes.com/2020/07/30/us/politics/trump-wallace.html)
-* [Trump Plays on Racist Fears of Terrorized Suburbs to Court White Voters](https://www.nytimes.com/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
 * [Obama Unleashes on Trump Privately as He Raises $24 Million for Biden](https://www.nytimes.com/2020/07/30/us/politics/obama-trump-biden.html)
+* [Trump Plays on Racist Fears of Terrorized Suburbs to Court White Voters](https://www.nytimes.com/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
 * [The Autocrat Problem](https://www.nytimes.com/2020/07/30/briefing/mark-zuckerberg-louie-gohmert-ruth-bader-ginsburg-your-thursday-briefing.html)
 * [A Protester, an Unmarked N.Y.P.D. Van and a Viral Video](https://www.nytimes.com/2020/07/30/nyregion/nypd-protester-van.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -65,7 +65,7 @@ layout: default
 * [Bernie Sanders Is Asking for Masks for All](https://www.nytimes.com/2020/07/29/opinion/us-coronavirus-masks.html)
 * [We Lost the Battle for the Republican Party’s Soul Long Ago](https://www.nytimes.com/2020/07/29/opinion/trump-republican-party-racism.html)
 * [We Have a Question for Jeff Bezos and Other Billionaires](https://www.nytimes.com/2020/07/29/opinion/amazon-union-congress-antitrust.html)
-* [Trump Is Dog-Whistling. Are ‘Suburban Housewives’ Listening?](https://www.nytimes.com/2020/07/28/opinion/trump-white-women.html)
+* [Don’t Fear Dying. Fear Violence.](https://www.nytimes.com/2020/07/29/opinion/jainism-nonviolence-death.html)
 * [Opening Schools Won’t Be Easy, but Here’s How to Do It Safely](https://www.nytimes.com/2020/07/29/opinion/coronavirus-schools-reopen.html)
 * [New York Love Story: The Submarine Officer and the Beatles Cover Band](https://www.nytimes.com/2020/07/30/nyregion/coronavirus-beatles-nyc.html)
 * [Former Marine Sentenced to 9 Years in Russia in Case Criticized as Political](https://www.nytimes.com/2020/07/30/world/europe/marine-sentenced-russia.html)
@@ -78,8 +78,8 @@ layout: default
 * [‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power](https://www.nytimes.com/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [Black Book Clubs, From Oprah to Noname](https://www.nytimes.com/2020/07/29/style/self-care/black-book-clubs.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* ['Cabeleleila Leila': trabalhadoras da vida real enfrentam dificuldades na pandemia](https://oglobo.globo.com/economia/cabeleleila-leila-trabalhadoras-da-vida-real-enfrentam-dificuldades-na-pandemia-1-24558172)
+* [Operação do Ministério Público mira PMs e demais integrantes de milícia que explora serviço de mototáxis na Zona Oeste](https://oglobo.globo.com/rio/operacao-do-ministerio-publico-mira-pms-demais-integrantes-de-milicia-que-explora-servico-de-mototaxis-na-zona-oeste-1-24558121)
 * [Como Witzel tenta reverter o impeachment depois de ganhar tempo no STF](https://oglobo.globo.com/analitico/como-witzel-tenta-reverter-impeachment-depois-de-ganhar-tempo-no-stf-2-24557507)
 * [Boletim das 8h: Brasil tem 2.556.207 casos de Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2556207-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24558134)
-* [Operação do Ministério Público mira PMs e demais integrantes de milícia que explora serviço de mototáxis na Zona Oeste](https://oglobo.globo.com/rio/operacao-do-ministerio-publico-mira-pms-demais-integrantes-de-milicia-que-explora-servico-de-mototaxis-na-zona-oeste-24558121)
 * [Emmy de pijama? Cerimônia de premiação será virtual](https://oglobo.globo.com/cultura/emmy-de-pijama-cerimonia-de-premiacao-sera-virtual-24558132)
 * [Vai ter live: Caetano Veloso cede aos apelos dos fãs e decide fazer show](https://oglobo.globo.com/cultura/vai-ter-live-caetano-veloso-cede-aos-apelos-dos-fas-decide-fazer-show-24558117)
 * ['Antes, aplaudiam': os profissionais da linha de frente da covid-19 que enfrentam atraso de salário](https://epoca.globo.com/sociedade/antes-aplaudiam-os-profissionais-da-linha-de-frente-da-covid-19-que-enfrentam-atraso-de-salario-24558113)
 * [A polêmica batalha para impedir sacrifício de cavalo que ganhou habeas corpus em SP](https://epoca.globo.com/brasil/a-polemica-batalha-para-impedir-sacrificio-de-cavalo-que-ganhou-habeas-corpus-em-sp-24558105)
-* [Nova cédula de R$ 200 preocupa taxistas e comerciantes por falta de troco e segurança](https://epoca.globo.com/economia/nova-cedula-de-200-preocupa-taxistas-comerciantes-por-falta-de-troco-seguranca-24557233)
 * [Garis acham R$ 200 no lixo, localizam dona do dinheiro e devolvem quantia que diarista iria usar para pagar colégio](https://oglobo.globo.com/rio/garis-acham-200-no-lixo-localizam-dona-do-dinheiro-devolvem-quantia-que-diarista-iria-usar-para-pagar-colegio-24557593)
 * [Hong Kong enfrenta o seu pior momento na pandemia, mas não pode decretar lockdown](https://oglobo.globo.com/mundo/hong-kong-enfrenta-seu-pior-momento-na-pandemia-mas-nao-pode-decretar-lockdown-24557051)

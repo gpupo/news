@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 01:14:48 UTC
+# indexed at 30/07/2020 01:35:12 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Tihle: A unique TI calculator emulator](https://www.taricorp.net/2020/introducing-tihle/)
-* [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [LifeLabs goes to court to block privacy watchdogs from probing 2019 data breach](https://www.cbc.ca/news/business/lifelabs-data-breach-1.5667618)
+* [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
-* [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
-* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 * [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
+* [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
+* [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
+* [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
 * [Magnetometers based on diamonds will make navigation easier](https://www.economist.com/science-and-technology/2020/07/18/magnetometers-based-on-diamonds-will-make-navigation-easier)
-* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [When a customer refunds your paid app, Apple doesn’t refund the 30% cut](https://twitter.com/twolivesleft/status/1288344977169235968)
+* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [Show HN: WebGL simulation of rainy autumn day/evening](https://pluvoir.netlify.app/index.html)
-* [Sirum (YC W15 Nonprofit) is hiring developers to save medicine to save lives](https://sirum.breezy.hr/)
-* [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
-* [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
 * [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
-* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
+* [Sirum (YC W15 Nonprofit) is hiring developers to save medicine to save lives](https://sirum.breezy.hr/)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
+* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
-* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
-* [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
 * [Del.icio.us](http://del.icio.us/)
-* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
+* [Repository for Old Macintosh Software](https://www.macintoshrepository.org/)
 * [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
-* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
+* [A Little Fellow with a Big Head: On Fernando Pessoa](https://www.theparisreview.org/blog/2020/07/27/a-little-fellow-with-a-big-head/)
 * [Interactive Generative Art](http://weavesilk.com/?ika/)
+* [Google offers refunds after smart glasses stop working](https://www.bbc.co.uk/news/technology-53581762)
 * [ByteDance investors value TikTok at $50B in takeover bid](https://www.reuters.com/article/us-bytedance-tiktok-exclusive/exclusive-bytedance-investors-value-tiktok-at-50-billion-in-takeover-bid-sources-idUSKCN24U1M9)
-* [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
 ## nytimes.com
 
 
@@ -51,7 +51,7 @@ layout: default
 * [‘The Moms Are Here’: ‘Wall of Moms’ Groups Mobilize Nationwide](https://www.nytimes.com/2020/07/27/parenting/wall-of-moms-protests.html)
 * [Barr Repeats Trump Falsehoods in Congressional Testimony](https://www.nytimes.com/2020/07/29/us/politics/barr-trump-factcheck-congressional-testimony.html)
 * [Val Demings is on Biden’s VP List. Will Her Police Career Hurt or Help?](https://www.nytimes.com/article/val-demings-biden-vp.html)
-* [Biden vs. Trump Polls: Live 2020 Election Updates](https://www.nytimes.com/2020/07/29/us/elections/biden-vs-trump.html)
+* [Trump Plays on Racist Fears of Terrorized Suburbs to Court White Voters](https://www.nytimes.com/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
 * [Trump Did Not Ask Putin About Russia's Bounties on U.S. Troops](https://www.nytimes.com/2020/07/29/us/politics/trump-putin-bounties.html)
 * [Kerry James Marshall’s Black Birds Take Flight in a New Series](https://www.nytimes.com/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
 * [Coronavirus Deaths, Big Tech, Clay Food: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/07/29/briefing/coronavirus-deaths-big-tech-clay-food.html)
@@ -81,11 +81,11 @@ layout: default
 * [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](https://www.nytimes.com/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
 * [As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little](https://www.nytimes.com/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
 * [New Push to Get Rid of Pennies in Pandemic Coin Shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
 * [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -103,7 +103,7 @@ layout: default
 ## globo.com
 
 
-* [Vale registra lucro líquido no segundo trimestre de US$ 995 milhões](https://oglobo.globo.com/economia/vale-registra-lucro-liquido-no-segundo-trimestre-de-us-995-milhoes-24557916)
+* [Vale registra lucro líquido no segundo trimestre de R$ 5,3 bilhões](https://oglobo.globo.com/economia/vale-registra-lucro-liquido-no-segundo-trimestre-de-53-bilhoes-24557916)
 * [Brasil tem seis estados com tendência de alta em mortes por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-seis-estados-com-tendencia-de-alta-em-mortes-por-covid-19-24557770)
 * [O que mostrou a sabatina dos gigantes da tecnologia na Câmara dos EUA](https://oglobo.globo.com/analitico/o-que-mostrou-sabatina-dos-gigantes-da-tecnologia-na-camara-dos-eua-24557774)
 * [Falta de consenso sobre foro privilegiado no STF deve permanecer](https://oglobo.globo.com/analitico/falta-de-consenso-sobre-foro-privilegiado-no-stf-deve-permanecer-1-24557581)

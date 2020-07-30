@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 20:13:35 UTC
+# indexed at 30/07/2020 20:34:20 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Apple halved app store fee to get Amazon Prime video on devices](https://www.bloomberg.com/news/articles/2020-07-29/apple-considered-taking-40-cut-from-subscriptions-emails-show)
 * [Apple does not keep the 30% commission on a refund](https://twitter.com/twolivesleft/status/1288625617873694721)
+* [Sandboxing and Workload Isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
-* [Sandboxing and Workload Isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
-* [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
+* [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
+* [How I Wrote, Crowdfunded, and Independently Published a Book in 2020](https://www.blakeboles.com/2020/07/book-story/)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
 * [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
 * [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
-* [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
-* [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
-* [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
+* [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
+* [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
+* [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Kissat SAT Solver](http://fmv.jku.at/kissat/)
-* [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 * [The mysterious life of birds who never come down](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html)
+* [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 * [You don’t need SMS-2FA](http://blog.cmpxchg8b.com/2020/07/you-dont-need-sms-2fa.html?m=1)
+* [Choosing words to clearly describe data](http://blog.arria.com/choosing-words-to-describe-data)
 * [Unauthorized Bread: Jailbreaking IoT toasters](https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/)
 * [Migrating a 40TB SQL Server Database](https://www.tarynpivots.com/post/migrating-40tb-sql-server-database/)
 * [Show HN: UPUP Simple Credit Card Verification to Reduce Fraud](https://www.upupapp.io)
 * [Wireheading done right: stay positive without going insane (2016)](https://qualiacomputing.com/2016/08/20/wireheading_done_right/)
-* [How I Wrote, Crowdfunded, and Independently Published a Book in 2020](https://www.blakeboles.com/2020/07/book-story/)
-* [Tesorio is Senior Analytics Engineer and Back end Engineer – join our distributed team](https://www.tesorio.com/careers#job-openings)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
 * [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
-* [Dafny: Verification-Aware Programming Language](https://github.com/dafny-lang/dafny)
+* [Tesorio is Senior Analytics Engineer and Back end Engineer – join our distributed team](https://www.tesorio.com/careers#job-openings)
 * [Starting your fundraising pitch deck](https://stripe.com/atlas/guides/pitchdeck)
+* [Dafny: Verification-Aware Programming Language](https://github.com/dafny-lang/dafny)
 * [CodiMD, self-hosted, real-time collaborative markdown notes](https://github.com/codimd/server)
-* [Show HN: I'm building a catalog of cloud architecture](https://getrevolv.com)
 ## nytimes.com
 
 
@@ -79,8 +79,8 @@ layout: default
 * [Hong Kong Is Keeping Pro-Democracy Candidates Out of Its Election](https://www.nytimes.com/2020/07/29/world/asia/hong-kong-arrests-security-law.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [High Schoolers Across the Country Are Seeking ‘Teenager Therapy’](https://www.nytimes.com/2020/07/29/style/teenager-therapy-podcast.html)
 * [‘Last Chance U’ Travels to Oakland, Just Like the Players](https://www.nytimes.com/2020/07/28/arts/television/last-chance-u-season-5.html)
@@ -99,12 +99,12 @@ layout: default
 
 
 * [Construções irregulares no Cosme Velho são demolidas pela prefeitura](https://oglobo.globo.com/rio/bairros/construcoes-irregulares-no-cosme-velho-sao-demolidas-pela-prefeitura-24559111)
+* [Pais e mães de alunos de escolas particulares criam movimento para pressionar instituições contra a volta às aulas](https://oglobo.globo.com/rio/pais-maes-de-alunos-de-escolas-particulares-criam-movimento-para-pressionar-instituicoes-contra-volta-as-aulas-24559166)
+* [É #FAKE tuíte que atribui ao general Heleno frase sobre ex-ministros do governo Bolsonaro](https://oglobo.globo.com/fato-ou-fake/e-fake-tuite-que-atribui-ao-general-heleno-frase-sobre-ex-ministros-do-governo-bolsonaro-24559137)
+* [O lulismo sob ataque de Bolsonaro no Nordeste](https://oglobo.globo.com/analitico/o-lulismo-sob-ataque-de-bolsonaro-no-nordeste-24559019)
 * [Obama assume papel mais forte na campanha de Biden e não poupa críticas a Trump em eventos privados](https://oglobo.globo.com/mundo/obama-assume-papel-mais-forte-na-campanha-de-biden-nao-poupa-criticas-trump-em-eventos-privados-24559070)
 * [Após xingar advogada em sessão virtual, desembargador é contestado por OAB](https://epoca.globo.com/brasil/apos-xingar-advogada-em-sessao-virtual-desembargador-contestado-por-oab-24559050)
 * [Ministério da Economia estima que substituto do PIS/Cofins pode gerar 373 mil empregos](https://oglobo.globo.com/economia/ministerio-da-economia-estima-que-substituto-do-piscofins-pode-gerar-373-mil-empregos-24559077)
-* [Animais poderão ser adotados em campanha virtual neste sábado em Niterói](https://oglobo.globo.com/rio/bairros/animais-poderao-ser-adotados-em-campanha-virtual-neste-sabado-em-niteroi-24558929)
 * [China acusa EUA de querer 'eliminar' Huawei após advertência ao Brasil](https://oglobo.globo.com/economia/china-acusa-eua-de-querer-eliminar-huawei-apos-advertencia-ao-brasil-24558765)
 * [Após dez aumentos seguidos, Petrobras reduz preço da gasolina em 4% nesta sexta-feira](https://oglobo.globo.com/economia/apos-dez-aumentos-seguidos-petrobras-reduz-preco-da-gasolina-em-4-nesta-sexta-feira-24559082)
 * [Oposição pede convocação de ministro da CGU para explicar ameaça de censura](https://epoca.globo.com/guilherme-amado/oposicao-pede-convocacao-de-ministro-da-cgu-para-explicar-ameaca-de-censura-24559071)
-* [O lulismo sob ataque de Bolsonaro no Nordeste](https://oglobo.globo.com/analitico/o-lulismo-sob-ataque-de-bolsonaro-no-nordeste-24559019)
-* [Marcelo Adnet fala de paródias de Caetano Veloso e Paula Lavigne e celebra live do músico](https://oglobo.globo.com/cultura/marcelo-adnet-fala-de-parodias-de-caetano-veloso-paula-lavigne-celebra-live-do-musico-24558987)

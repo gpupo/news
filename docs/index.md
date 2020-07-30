@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 30/07/2020 07:13:50 UTC
+# indexed at 30/07/2020 07:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,39 @@ layout: default
 
 * [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 * [Luckysheet, an open-source spreadsheet](https://github.com/mengshukeji/Luckysheet)
+* [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
 * [A new funding model for open source software](https://vriad.com/essays/a-modest-proposal-for-oss-sustainability)
 * [Empty stadiums have shrunk football teams’ home advantage](https://www.economist.com/graphic-detail/2020/07/25/empty-stadiums-have-shrunk-football-teams-home-advantage)
-* [Brown M&Ms, or Why No One Reads the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual)
-* [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
-* [CareRev (YC S16) Is Looking for a SaaS Customer Success Manager](https://grnh.se/1f9e98db3us)
-* [Pending Postal Service Changes Could Delay Mail and Deliveries](https://www.npr.org/2020/07/29/894799516/pending-postal-service-changes-could-delay-mail-and-deliveries-advocates-warn)
 * [Linear Logic Flavoured Composition of Petri Nets](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
-* [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
+* [Pluto’s dark side spills its secrets – including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html)
+* [Pending Postal Service Changes Could Delay Mail and Deliveries](https://www.npr.org/2020/07/29/894799516/pending-postal-service-changes-could-delay-mail-and-deliveries-advocates-warn)
+* [CareRev (YC S16) Is Looking for a SaaS Customer Success Manager](https://grnh.se/1f9e98db3us)
 * [RBS, Ruby’s new type signature language](https://developer.squareup.com/blog/the-state-of-ruby-3-typing)
+* [Tihle: A new emulator targeting TI graphing calculators](https://www.taricorp.net/2020/introducing-tihle/)
 * [Minimal single-board computer based on Motorola 68000](https://github.com/74hc595/68k-nano)
 * [Teaching GPT-3 to Identify Nonsense](https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/)
 * [ScaNN: Efficient Vector Similarity Search](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 * [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/)
-* [What if Planet 9 is a Primordial Black Hole?](https://link.aps.org/doi/10.1103/PhysRevLett.125.051103)
-* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [iRobot's New Education Robot Makes Learning to Code a Little More Affordable](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
+* [GRUB2 UEFI SecureBoot Vulnerability: 'BootHole'](https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/)
 * [Schemastore.org – schemas for all commonly known JSON file formats](https://www.schemastore.org/json/)
 * [Querying an RDF triplestore using SPARQL and Relational pipes](https://relational-pipes.globalcode.info/v_0/examples-rdf-sparql.xhtml)
+* [What if Planet 9 is a Primordial Black Hole?](https://link.aps.org/doi/10.1103/PhysRevLett.125.051103)
 * [Scientists Crack the Mathematical Mystery of Stingless Bees’ Spiral Honeycombs](https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/)
 * [Del.icio.us](http://del.icio.us/)
-* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [GPT-3 Examples](https://gpt3examples.com/)
-* [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
-* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 * [The Stutterer's Song: Remembering Bill Withers](https://thepointmag.com/criticism/the-stutterers-song-bill-withers/)
+* [Jeff Bezos can’t promise Amazon employees don’t access independent seller data](https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning)
 * [Launch HN: Humanloop (YC S20) – A platform to annotate, train and deploy NLP](https://news.ycombinator.com/item?id=23987353)
+* [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
+* [Show HN: MeetingBar – A menu bar macOS app for calendar meetings](https://github.com/leits/MeetingBar)
 * [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 * [Zoom Security Exploit: Cracking private meeting passwords](https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/)
 ## nytimes.com
 
 
 * [What Teachers' Unions Are Fighting For as Schools Plan a New Year](https://www.nytimes.com/2020/07/29/us/teacher-union-school-reopening-coronavirus.html)
-* [Coronavirus Live Updates: Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships](https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html)
+* [Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships](https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html)
 * [Mysterious Coronavirus Outbreak Catches Vietnam by Surprise](https://www.nytimes.com/2020/07/29/world/asia/coronavirus-vietnam.html)
 * [As Trump Undercuts Aid Talks, White House Says Extra Jobless Benefits Will Lapse](https://www.nytimes.com/2020/07/29/business/economy/virus-aid-trump.html)
 * [Federal Reserve Leaves Rates Near Zero as Economic Recovery Sputters](https://www.nytimes.com/2020/07/29/business/economy/federal-reserve-meeting-interest-rates.html)
@@ -83,10 +83,10 @@ layout: default
 * [Ex-C.I.A. Chief Criticizes Silence of Top Republicans on Russian Interference](https://www.nytimes.com/2020/07/29/us/politics/john-brennan-book.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
-* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [I Was a Screen Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Handle Anxiety Over Back-to-School Decisions](https://www.nytimes.com/2020/07/29/parenting/schools-reopening-parents-decision-kids.html)
 * [Eddie Chacon, a Fleeting ’90s Neo Soul Star, Returns as an Old Soul](https://www.nytimes.com/2020/07/28/arts/music/eddie-chacon.html)
 * [When a Quarantine Comic-Con Keeps Fans at a Distance](https://www.nytimes.com/2020/07/29/arts/comic-con-fandom-quarantine.html)
 * [Michael Phelps Documentary Criticizes U.S. Olympic Committee on Mental Health](https://www.nytimes.com/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Câmara aprova MP que permite saque de até R$ 1.045 do FGTS durante a pandemia](https://oglobo.globo.com/economia/camara-aprova-mp-que-permite-saque-de-ate-1045-do-fgts-durante-pandemia-24558079)
-* [NBA: Jornalistas votam no campeão, MVP e finalistas da liga, que retorna nesta quinta; veja os palpites](https://oglobo.globo.com/esportes/nba-jornalistas-votam-no-campeao-mvp-finalistas-da-liga-que-retorna-nesta-quinta-veja-os-palpites-1-24556428)
-* [Metade das mulheres passaram a cuidar de alguém na pandemia, revela pesquisa](https://oglobo.globo.com/sociedade/celina/metade-das-mulheres-passaram-cuidar-de-alguem-na-pandemia-revela-pesquisa-24557530)
-* [Lives de hoje: Lollapalooza, Geraldo Azevedo e mais](https://oglobo.globo.com/rioshow/lives-de-hoje-lollapalooza-geraldo-azevedo-mais-1-24556286)
-* [Nasa inicia busca por vestígios de vida em Marte com lançamento do Perseverance](https://oglobo.globo.com/sociedade/nasa-inicia-busca-por-vestigios-de-vida-em-marte-com-lancamento-do-perseverance-24556387)
-* [‘Sempre atuei para as câmeras, mas nunca para os câmeras’, diz Paulo Betti, em cartaz com ‘Autobiografia autorizada’](https://oglobo.globo.com/rioshow/sempre-atuei-para-as-cameras-mas-nunca-para-os-cameras-diz-paulo-betti-em-cartaz-com-autobiografia-autorizada-24556891)
-* [E se Trump ganhar?](https://oglobo.globo.com/opiniao/e-se-trump-ganhar-1-24556638)
-* [Bezos](https://oglobo.globo.com/opiniao/bezos-1-24556340)
-* [Remendo tributário](https://oglobo.globo.com/opiniao/remendo-tributario-24553566)
-* [Insegurança jurídica no atacado](https://oglobo.globo.com/opiniao/inseguranca-juridica-no-atacado-24555481)
+* [Rodrigo Guimarães abre delivery de toque ‘pop’](https://oglobo.globo.com/ela/gastronomia/rodrigo-guimaraes-abre-delivery-de-toque-pop-24552820)
+* [Escolas de Rio e SP terão volta às aulas opcional para grupos de risco](https://oglobo.globo.com/sociedade/educacao/escolas-de-rio-sp-terao-volta-as-aulas-opcional-para-grupos-de-risco-24557990)
+* [Transmissão do coronavírus está mais rápida no Brasil, aponta estudo](https://oglobo.globo.com/sociedade/transmissao-do-coronavirus-esta-mais-rapida-no-brasil-aponta-estudo-24558019)
+* [Itamaraty decreta sigilo sobre correspondências que tratam de Huawei e 5G](https://oglobo.globo.com/economia/itamaraty-decreta-sigilo-sobre-correspondencias-que-tratam-de-huawei-5g-24557948)
+* [De puxadinho em prédio a escritório em encosta: confira o que muda no Rio com a nova lei urbanística](https://oglobo.globo.com/rio/de-puxadinho-em-predio-escritorio-em-encosta-confira-que-muda-no-rio-com-nova-lei-urbanistica-24557973)
+* [Milícia ataca com rojões casa de morador que denunciou grupo à polícia; veja vídeo](https://oglobo.globo.com/rio/milicia-ataca-com-rojoes-casa-de-morador-que-denunciou-grupo-policia-veja-video-24557992)
+* [Liberdade sobre rodas: interesse por motorhomes cresce no Brasil durante pandemia](https://oglobo.globo.com/boa-viagem/liberdade-sobre-rodas-interesse-por-motorhomes-cresce-no-brasil-durante-pandemia-24557830)
+* [Comunidade do Coroado avança por Santa Teresa e Cosme Velho, e moradores temem deslizamentos](https://oglobo.globo.com/rio/comunidade-do-coroado-avanca-por-santa-teresa-cosme-velho-moradores-temem-deslizamentos-24557664)
+* [Artigo: Quanto vale o Rio?](https://oglobo.globo.com/rio/artigo-quanto-vale-rio-24557808)
+* [Súplica de mulher a presidente peruano vira símbolo do avanço da pandemia no país](https://oglobo.globo.com/mundo/suplica-de-mulher-presidente-peruano-vira-simbolo-do-avanco-da-pandemia-no-pais-24556588)

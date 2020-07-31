@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 05:34:32 UTC
+# indexed at 31/07/2020 06:15:50 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
+* [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
-* [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
-* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
+* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
+* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
+* [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
+* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
-* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
-* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
-* [Reverie Labs (YC W18) is Hiring Molecular Data Scientists to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
 * [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
+* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
+* [Reverie Labs (YC W18) is Hiring Molecular Data Scientists to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
-* [The Palatino FAQ (1998)](https://web.archive.org/web/19990202052926/http://www.mindspring.com/~fez/palatino/palfaq1.0.txt)
-* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
+* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
-* [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
+* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [Kissat SAT Solver](http://fmv.jku.at/kissat/)
+* [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
 ## nytimes.com
 
 
@@ -81,9 +81,9 @@ layout: default
 * [The Lakers Hold On to Beat the Clippers in Thriller](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Por que o Brasil é o país onde mais morrem grávidas e mulheres no pós-parto por Covid-19 no mundo?](https://oglobo.globo.com/sociedade/por-que-brasil-o-pais-onde-mais-morrem-gravidas-mulheres-no-pos-parto-por-covid-19-no-mundo-1-24560095)
-* [Embraer anuncia novo plano de demissão voluntária, o segundo desde o início da pandemia](https://oglobo.globo.com/economia/embraer-anuncia-novo-plano-de-demissao-voluntaria-segundo-desde-inicio-da-pandemia-24560089)
-* [Jorge Aragão homenageia os bambas do Brasil em live de hits, com direito a convidados](https://oglobo.globo.com/rioshow/jorge-aragao-homenageia-os-bambas-do-brasil-em-live-de-hits-com-direito-convidados-24556374)
-* [Quarentena para juiz candidato tem de ser sensata](https://oglobo.globo.com/opiniao/quarentena-para-juiz-candidato-tem-de-ser-sensata-1-24559217)
-* [A Francis o que é de Francis](https://oglobo.globo.com/opiniao/a-francis-que-de-francis-1-24559595)
-* [O mestre e o gafanhoto](https://oglobo.globo.com/opiniao/o-mestre-o-gafanhoto-24559564)
-* [Me dá um dinheiro aí](https://oglobo.globo.com/opiniao/me-da-um-dinheiro-ai-24559547)
-* [A falta que faz uma diplomacia profissional no Itamaraty](https://oglobo.globo.com/opiniao/a-falta-que-faz-uma-diplomacia-profissional-no-itamaraty-24559331)
-* [Caráter e instituições](https://oglobo.globo.com/opiniao/carater-instituicoes-24559043)
-* [Volta às aulas com responsabilidade](https://oglobo.globo.com/opiniao/volta-as-aulas-com-responsabilidade-24553625)
+* [Seis perguntas para Luiza Frischeisen, subprocuradora-geral da República](https://epoca.globo.com/brasil/seis-perguntas-para-luiza-frischeisen-subprocuradora-geral-da-republica-24560170)
+* ['Não cheguei a sentir pena do Cabral', conta jornalista que trabalhou em Bangu 8](https://epoca.globo.com/rio/nao-cheguei-sentir-pena-do-cabral-conta-jornalista-que-trabalhou-em-bangu-8-24560163)
+* [O vale-tudo bolsonarista contra Felipe Neto](https://epoca.globo.com/brasil/o-vale-tudo-bolsonarista-contra-felipe-neto-24560157)
+* [Otoni de Paula, um alpinista (da rede) social](https://epoca.globo.com/brasil/otoni-de-paula-um-alpinista-da-rede-social-24560129)
+* [A aposentadoria de Ronnie Lessa](https://epoca.globo.com/rio/a-aposentadoria-de-ronnie-lessa-24559887)
+* [Documentário sobre Caetano Veloso será lançado em streaming](https://epoca.globo.com/guilherme-amado/documentario-sobre-caetano-veloso-sera-lancado-em-streaming-24559527)
+* [A missão de Rodrigo Janot na Inglaterra](https://epoca.globo.com/guilherme-amado/a-missao-de-rodrigo-janot-na-inglaterra-24559428)
+* [O agronegócio e o batom no porco](https://epoca.globo.com/larry-rohter/o-agronegocio-o-batom-no-porco-1-24559293)
+* [Uma lufada de ar](https://epoca.globo.com/sociedade/uma-lufada-de-ar-24559011)
+* [Segue o Baile da Pesada... 50 anos depois, com live comemorativa](https://oglobo.globo.com/rioshow/segue-baile-da-pesada-50-anos-depois-com-live-comemorativa-24559773)

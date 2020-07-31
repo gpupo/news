@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 09:13:52 UTC
+# indexed at 31/07/2020 09:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
-* [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
+* [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
+* [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
-* [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
-* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
-* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
+* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
+* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
+* [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
 * [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
+* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
-* [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
-* [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
+* [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
+* [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
 * [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
-* [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
+* [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 ## nytimes.com
 
 
@@ -53,6 +53,7 @@ layout: default
 * [John Lewis Funeral: ‘A Man of Pure Joy and Unbreakable Perseverance’](https://www.nytimes.com/2020/07/30/us/john-lewis-live-funeral.html)
 * [President Barack Obama's Eulogy for John Lewis: Full Transcript](https://www.nytimes.com/2020/07/30/us/obama-eulogy-john-lewis-full-transcript.html)
 * [A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.](https://www.nytimes.com/2020/07/30/climate/bangladesh-floods.html)
+* [On a Hot Day, 96,000 New Yorkers Are Asked to Conserve Power](https://www.nytimes.com/2020/07/31/nyregion/nyc-power-con-edison.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Big Tech’s Backlash Is Just Starting](https://www.nytimes.com/2020/07/30/technology/big-tech-backlash.html)
 * [When Conservatives Fall for Demagogues](https://www.nytimes.com/2020/07/30/opinion/the-argument-authoritarianism-anne-applebaum.html)
@@ -79,10 +80,10 @@ layout: default
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [The Lakers Hold On to Beat the Clippers in Thriller](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
@@ -106,6 +107,6 @@ layout: default
 * [Gráfico animado mostra evolução da mortalidade por Covid-19 nos estados](https://oglobo.globo.com/sociedade/coronavirus/grafico-animado-mostra-evolucao-da-mortalidade-por-covid-19-nos-estados-24559859)
 * [Médico é preso após sacar arma durante discussão por exame de Covid-19 com paciente na Barra da Tijuca](https://oglobo.globo.com/rio/medico-preso-apos-sacar-arma-durante-discussao-por-exame-de-covid-19-com-paciente-na-barra-da-tijuca-24559952)
 * [Após morte de MC Atrevida, especialistas alertam sobre cuidados com procedimento estético e preços 'em conta'](https://oglobo.globo.com/rio/apos-morte-de-mc-atrevida-especialistas-alertam-sobre-cuidados-com-procedimento-estetico-precos-em-conta-24559796)
-* [Lotérica, patente, fim do desemprego: os pedidos do Alvorada que incomodam Bolsonaro](https://oglobo.globo.com/brasil/loterica-patente-fim-do-desemprego-os-pedidos-do-alvorada-que-incomodam-bolsonaro-24559627)
+* [Conselho do MP nunca deu punição cogitada contra Deltan](https://epoca.globo.com/guilherme-amado/conselho-do-mp-nunca-deu-punicao-cogitada-contra-deltan-1-24559700)
 * [Toffoli tomou decisões contra o combate à corrupção ao longo do recesso do STF](https://epoca.globo.com/guilherme-amado/toffoli-tomou-decisoes-contra-combate-corrupcao-ao-longo-do-recesso-do-stf-24559436)
 * [Como o debate sobre a volta às aulas impacta a vida das mães solo](https://oglobo.globo.com/celina/como-debate-sobre-volta-as-aulas-impacta-vida-das-maes-solo-24555098)

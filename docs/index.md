@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 13:13:32 UTC
+# indexed at 31/07/2020 13:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
+* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
+* [Tech Sector Feeling Covid-19’s Economic Pain](https://www.hiringlab.org/2020/07/30/tech-sector-covid19-impact/)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
-* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
+* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
-* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
+* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
+* [Show HN: UPUP Simple Credit Card Verification to Reduce Fraud](https://www.upupapp.io)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
-* [Show HN: UPUP Simple Credit Card Verification to Reduce Fraud](https://www.upupapp.io)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
-* [Why Forgiving Someone Else Is About You](https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
-* [Balancing AMD’s Future on the Edge of a Silicon Wafer](https://www.nextplatform.com/2020/07/29/balancing-amds-future-on-the-edge-of-a-silicon-wafer/)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
+* [Balancing AMD’s Future on the Edge of a Silicon Wafer](https://www.nextplatform.com/2020/07/29/balancing-amds-future-on-the-edge-of-a-silicon-wafer/)
 * [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
+* [Why Forgiving Someone Else Is About You](https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 ## nytimes.com
 
 
@@ -46,6 +46,7 @@ layout: default
 * [More Than Just a Tweet: Trump’s Campaign to Undercut Democracy](https://www.nytimes.com/2020/07/31/us/politics/trump-tweet-democracy.html)
 * [Republicans and White House at Odds Over Kansas Senate Race](https://www.nytimes.com/2020/07/30/us/politics/kansas-senate-kobach-trump.html)
 * [Will Herman Cain’s Death Change Republican Views on the Virus and Masks?](https://www.nytimes.com/2020/07/30/us/politics/herman-cain-gop-coronavirus.html)
+* [With Security Law as a Cudgel, Beijing Cracks Down on Hong Kong](https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-national-security-law.html)
 * [Hong Kong Delays Election, Citing Coronavirus. The Opposition Isn’t Buying It.](https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-delayed.html)
 * [European Economy Shrinks by Historic Margin](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus)
 * [Does Trump Want to Save His Economy?](https://www.nytimes.com/2020/07/31/business/coronavirus-trump-economy.html)
@@ -78,9 +79,9 @@ layout: default
 * [U.K. Officials’ New Trump Dilemma: What if He Loses?](https://www.nytimes.com/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
 * [How 2 New York Schools Became Models for Coping in a Pandemic](https://www.nytimes.com/2020/07/31/nyregion/nyc-homeless-children-school.html)
 * [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](https://www.nytimes.com/2020/07/30/climate/sea-level-inland-floods.html)
-* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Renée Fleming Streaming Concert, Plans Return to Metropolitan Opera Stage](https://www.nytimes.com/2020/07/30/style/maureen-dowd-renee-fleming.html)
@@ -99,8 +100,9 @@ layout: default
 ## globo.com
 
 
-* [Com sexto mês seguido de crescimento, dívida pública atinge patamar recorde: 85,5% do PIB](https://oglobo.globo.com/economia/com-sexto-mes-seguido-de-crescimento-divida-publica-atinge-patamar-recorde-855-do-pib-24560309)
+* [Dívida pública cresce pelo sexto mês seguido e atinge patamar recorde: 85,5% do PIB](https://oglobo.globo.com/economia/divida-publica-cresce-pelo-sexto-mes-seguido-atinge-patamar-recorde-855-do-pib-24560309)
 * ['Pode acontecer com você': o que levou pacientes de Covid-19 a transplante duplo de pulmão](https://epoca.globo.com/mundo/pode-acontecer-com-voce-que-levou-pacientes-de-covid-19-transplante-duplo-de-pulmao-24560358)
+* [Dólar sobe, após dados dos PIBs na Europa; balanços das 'big techs' freiam queda nas Bolsas](https://oglobo.globo.com/economia/dolar-sobe-apos-dados-dos-pibs-na-europa-balancos-das-big-techs-freiam-queda-nas-bolsas-24560369)
 * [Após atraso, Congresso marca para esta sexta volta dos trabalhos na comissão da reforma tributária](https://oglobo.globo.com/economia/apos-atraso-congresso-marca-para-esta-sexta-volta-dos-trabalhos-na-comissao-da-reforma-tributaria-24560325)
 * [3 motivos que explicam por que casos de Covid-19 voltaram a crescer no Brasil](https://epoca.globo.com/sociedade/3-motivos-que-explicam-por-que-casos-de-covid-19-voltaram-crescer-no-brasil-24560347)
 * [Lobo-guará, o 'semeador de árvores', que é ameaçado na natureza e homenageado em nota de R$ 200](https://epoca.globo.com/sociedade/lobo-guara-semeador-de-arvores-que-ameacado-na-natureza-homenageado-em-nota-de-200-24560294)
@@ -108,4 +110,3 @@ layout: default
 * [Um refúgio luxuoso no coração do Leblon](https://oglobo.globo.com/economia/um-refugio-luxuoso-no-coracao-do-leblon-24560346)
 * [Chefe de facção cearense suspeito de mais de 100 assassinatos é morto em Jacarepaguá](https://oglobo.globo.com/rio/chefe-de-faccao-cearense-suspeito-de-mais-de-100-assassinatos-morto-em-jacarepagua-24560334)
 * [Morre PM baleado durante tentativa de roubo em supermercado, em Realengo](https://oglobo.globo.com/rio/morre-pm-baleado-durante-tentativa-de-roubo-em-supermercado-em-realengo-24560336)
-* [Princesa Beatrice e Edoardo Mapelli tem lua de mel improvisada na França](https://oglobo.globo.com/ela/gente/princesa-beatrice-edoardo-mapelli-tem-lua-de-mel-improvisada-na-franca-24560286)

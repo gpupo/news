@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 06:15:50 UTC
+# indexed at 31/07/2020 06:34:31 UTC
 
 
 ## news.ycombinator.com
@@ -12,26 +12,26 @@ layout: default
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
-* [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
+* [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
-* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
+* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
+* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
-* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
+* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
 * [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
-* [Reverie Labs (YC W18) is Hiring Molecular Data Scientists to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
+* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
+* [Reverie Labs (YC W18) is Hiring Molecular Data Scientists to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
@@ -80,11 +80,10 @@ layout: default
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [The Lakers Hold On to Beat the Clippers in Thriller](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
-* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
 * [Coin Shortage? It May Be Time to Use Your State Quarters](https://www.nytimes.com/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)

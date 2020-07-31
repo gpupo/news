@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 03:13:42 UTC
+# indexed at 31/07/2020 03:34:24 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
-* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
+* [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
+* [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
+* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
+* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [Google adds "Black-owned" business attribute to local listings](https://searchengineland.com/google-adds-black-owned-business-attribute-to-local-listings-338526)
 * [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
+* [The Palatino FAQ (1998)](https://web.archive.org/web/19990202052926/http://www.mindspring.com/~fez/palatino/palfaq1.0.txt)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
-* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
-* [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
+* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
 * [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
 * [Kissat SAT Solver](http://fmv.jku.at/kissat/)
+* [Google adds "Black-owned" business attribute to local listings](https://searchengineland.com/google-adds-black-owned-business-attribute-to-local-listings-338526)
 * [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
-* [How to Hire Great Engineers](https://autoiterative.com/blog/posts/how-to-hire-great-engineers/)
 * [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
-* [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 ## nytimes.com
 
 
@@ -73,18 +73,18 @@ layout: default
 * [In Yiyun Li’s Latest, a Grieving Mother Desperately Clings to Memory](https://www.nytimes.com/2020/07/28/books/review-must-i-go-yiyun-li.html)
 * [U.S. Backs Down, Allowing Michael Cohen to Write Trump Tell-All Book](https://www.nytimes.com/2020/07/30/nyregion/michael-cohen-donald-trump-book.html)
 * [In Afghanistan, a Rarely Seen Anti-Tank Weapon Destroys a Helicopter](https://www.nytimes.com/2020/07/30/world/asia/afghanistan-taliban-helicopter-missile.html)
-* [4 Guards Charged in Inmate’s Beating at Alabama Prison](https://www.nytimes.com/2020/07/30/us/alabama-correction-officers-charged.html)
+* [American Accused of Blasphemy Is Killed in Pakistan Courtroom](https://www.nytimes.com/2020/07/30/world/asia/pakistan-blasphemy-killing-american.html)
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
-* [Undocumented Housekeeper Who Worked at Trump Property Could Face Deportation](https://www.nytimes.com/2020/07/30/us/undocumented-housekeeper-trump-golf-bedminster.html)
+* [House Panel Finds Arizona Congressman Violated 11 Ethics Rules](https://www.nytimes.com/2020/07/30/us/david-schweikert-ethics-rules-violations.html)
 * [Omar Hassan al-Bashir Is Gone, but the Killing Goes On in Darfur](https://www.nytimes.com/2020/07/30/world/middleeast/darfur-sudan.html)
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [Lakers vs. Clippers: Live Score and Updates from the N.B.A.’s Restart](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
 * [Coin Shortage? It May Be Time to Use Your State Quarters](https://www.nytimes.com/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)

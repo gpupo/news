@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 23:13:11 UTC
+# indexed at 31/07/2020 23:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Three Individuals Charged for Alleged Roles in Twitter Hack](https://www.justice.gov/usao-ndca/pr/three-individuals-charged-alleged-roles-twitter-hack)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
 * [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
-* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
 * [Nearly 50 Years On, a Forbidden Seaside Ghost Town Is about to Re-Open](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
-* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
+* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
+* [Tampa teen faces 30 felony charges for hacking prominent Twitter accounts](https://www.foxla.com/news/tampa-teen-faces-30-felony-charges-for-hacking-prominent-twitter-accounts-2-others-charged)
 * [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
-* [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
-* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
-* [An Open Version of WordNet](https://en-word.net/)
-* [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
-* [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
+* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
+* [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
+* [An Open Version of WordNet](https://en-word.net/)
+* [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
+* [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
+* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
 * [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
-* [The App Store is a monopoly: Here's why the EU is correct to investigate Apple](https://protonmail.com/blog/apple-app-store-antitrust/)
 * [PlayCanvas launches glTF 2.0 Viewer Tool](https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/)
 * [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
-* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
 * [Starting a Business Around GPT-3 Is a Bad Idea](https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/)
 * [Microsoft will shut down the Cortana iOS and Android apps in 2021](https://www.engadget.com/cortana-shutdown-harman-kardon-invoke-ios-android-191700426.html)
 * [Spherical Geometry Is Stranger Than Hyperbolic](https://www.youtube.com/watch?v=yY9GAyJtuJ0)
+* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [A College Degree Is No Guarantee of a Good Life](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
 * [The Anglerfish Deleted Its Immune System to Fuse with Its Mate](https://www.wired.com/story/the-anglerfish-deleted-its-immune-system-to-fuse-with-its-mate/)
-* [Microsoft in talks to buy out TikTok – sources](https://twitter.com/CGasparino/status/1289254703705075722)
+* [The App Store is a monopoly: Here's why the EU is correct to investigate Apple](https://protonmail.com/blog/apple-app-store-antitrust/)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [2020 Election Live Updates: Kamala Harris Pushes Back on Criticism of ‘Ambition’](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html)
 * [Coronavirus Live News: World Updates](https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html)
 * [Covid-19 Testing Is in Short Supply. Should You Still Get a Test?](https://www.nytimes.com/2020/07/31/health/coronavirus-covid-testing.html)
-* [Wear Your Mask. Please. No, Not on Your Chin.](https://www.nytimes.com/2020/07/31/us/coronavirus-masks-enforcement-key-west.html)
+* [The Coronavirus Infected Hundreds at a Georgia Summer Camp](https://www.nytimes.com/2020/07/31/health/coronavirus-children-camp.html)
 * [Florida Teen Arrested in Twitter Hack](https://www.nytimes.com/2020/07/31/technology/twitter-hack-arrest.html)
 * [Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App](https://www.nytimes.com/2020/07/31/technology/tiktok-microsoft.html)
 * [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html)
@@ -81,11 +81,11 @@ layout: default
 * [Homeland Security Shuts Down ‘Intelligence’ Reports on Journalists](https://www.nytimes.com/2020/07/31/us/politics/homeland-security-portland.html)
 * [Trump Officials Reconsider Prosecuting ISIS ‘Beatles’ Without Death Penalty](https://www.nytimes.com/2020/07/31/world/middleeast/isis-beatles-hostages.html)
 * [Trump Still Defers to Putin, Even as He Dismisses U.S. Intelligence and the Allies](https://www.nytimes.com/2020/07/31/us/politics/trump-russia-nato-bounties.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [‘The Better I Got in Sports, the Worse the Racism Got’](https://www.nytimes.com/2020/07/31/sports/basketball/spurs-patty-mills.html)
 * [The Lynn Shelton That Marc Maron Knew](https://www.nytimes.com/2020/07/31/movies/marc-maron-lynn-shelton.html)
 * [Muppet Meta Mania, Revived for the Streaming Era](https://www.nytimes.com/2020/07/31/arts/television/muppets-now.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* ['Ele não fazia perguntas normais', diz paciente expulso de consultório por médico armado após discussão por teste de Covid-19](https://oglobo.globo.com/rio/ele-nao-fazia-perguntas-normais-diz-paciente-expulso-de-consultorio-por-medico-armado-apos-discussao-por-teste-de-covid-19-24561598)
-* [União é condenada a pagar R$ 50 mil por declarações de Weintraub sobre 'plantações de maconha' em universidades](https://oglobo.globo.com/sociedade/uniao-condenada-pagar-50-mil-por-declaracoes-de-weintraub-sobre-plantacoes-de-maconha-em-universidades-24561600)
-* [Amazônia tem dia recorde de focos de calor para o mês de julho dos últimos 15 anos](https://oglobo.globo.com/sociedade/amazonia-tem-dia-recorde-de-focos-de-calor-para-mes-de-julho-dos-ultimos-15-anos-24561341)
 * [Brasil registrou 52.509 novos casos e 1.191 mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-registrou-52509-novos-casos-1191-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24561569)
+* [James Murdoch deixa o conselho da News Corp](https://oglobo.globo.com/economia/james-murdoch-deixa-conselho-da-news-corp-24561622)
+* [União é condenada a pagar R$ 50 mil por declarações de Weintraub sobre 'plantações de maconha' em universidades](https://oglobo.globo.com/sociedade/uniao-condenada-pagar-50-mil-por-declaracoes-de-weintraub-sobre-plantacoes-de-maconha-em-universidades-24561600)
+* ['Ele não fazia perguntas normais', diz paciente expulso de consultório por médico armado após discussão por teste de Covid-19](https://oglobo.globo.com/rio/ele-nao-fazia-perguntas-normais-diz-paciente-expulso-de-consultorio-por-medico-armado-apos-discussao-por-teste-de-covid-19-24561598)
+* [Amazônia tem dia recorde de focos de calor para o mês de julho dos últimos 15 anos](https://oglobo.globo.com/sociedade/amazonia-tem-dia-recorde-de-focos-de-calor-para-mes-de-julho-dos-ultimos-15-anos-24561341)
 * [PSG de Neymar bate Lyon nos pênaltis e conquista a Copa da Liga da França](https://oglobo.globo.com/esportes/psg-de-neymar-bate-lyon-nos-penaltis-conquista-copa-da-liga-da-franca-24561574)
 * [Homenagem ao esforço dos professores na pandemia motiva aplauso coletivo](https://oglobo.globo.com/sociedade/homenagem-ao-esforco-dos-professores-na-pandemia-motiva-aplauso-coletivo-24561240)
 * [Alvo de protestos no conselho da PGR, Aras reage com irritação e ataca subprocuradores](https://oglobo.globo.com/brasil/alvo-de-protestos-no-conselho-da-pgr-aras-reage-com-irritacao-ataca-subprocuradores-24561544)
 * [Fitch corta perspectiva de nota soberana dos EUA de "estável" para "negativa"](https://oglobo.globo.com/economia/fitch-corta-perspectiva-de-nota-soberana-dos-eua-de-estavel-para-negativa-24561490)
-* [Ainda não há evidências de que vacinas contra o coronavírus funcionem, diz especialista](https://epoca.globo.com/sociedade/ainda-nao-ha-evidencias-de-que-vacinas-contra-coronavirus-funcionem-diz-especialista-24561408)
 * [Yvone Bezerra de Mello na campanha do MDB à Prefeitura do Rio](https://epoca.globo.com/guilherme-amado/yvone-bezerra-de-mello-na-campanha-do-mdb-prefeitura-do-rio-24561247)

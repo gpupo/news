@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 04:14:51 UTC
+# indexed at 31/07/2020 04:34:54 UTC
 
 
 ## news.ycombinator.com
@@ -16,20 +16,20 @@ layout: default
 * [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [Reverie Labs (YC W18) Is Hiring Molecular Data Scientists to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Reverie Labs (YC W18) Is Hiring Molecular Data Scientists to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
-* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
-* [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
+* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
-* [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
-* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
-* [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
+* [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
+* [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
+* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
+* [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
+* [The Palatino FAQ (1998)](https://web.archive.org/web/19990202052926/http://www.mindspring.com/~fez/palatino/palfaq1.0.txt)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
@@ -37,7 +37,7 @@ layout: default
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
 * [Kissat SAT Solver](http://fmv.jku.at/kissat/)
-* [The Palatino FAQ (1998)](https://web.archive.org/web/19990202052926/http://www.mindspring.com/~fez/palatino/palfaq1.0.txt)
+* [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
 ## nytimes.com
 
 
@@ -78,13 +78,13 @@ layout: default
 * [House Panel Finds Arizona Congressman Violated 11 Ethics Rules](https://www.nytimes.com/2020/07/30/us/david-schweikert-ethics-rules-violations.html)
 * [Omar Hassan al-Bashir Is Gone, but the Killing Goes On in Darfur](https://www.nytimes.com/2020/07/30/world/middleeast/darfur-sudan.html)
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
-* [Lakers vs. Clippers Live Updates: Anthony Davis Leads With 32 Points](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
+* [The Lakers Hold On to Beat the Clippers in Thriller](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
 * [Coin Shortage? It May Be Time to Use Your State Quarters](https://www.nytimes.com/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)

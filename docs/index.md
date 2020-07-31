@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 12:20:39 UTC
+# indexed at 31/07/2020 12:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -10,14 +10,14 @@ layout: default
 
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
-* [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [Why Forgiving Someone Else Is About You](https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you)
+* [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
-* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
+* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [ZSA Moonlander: A next-generation ergonomic keyboard](https://zsa.io/moonlander)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
@@ -25,19 +25,19 @@ layout: default
 * [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
 * [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
+* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
-* [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
-* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
+* [Balancing AMD’s Future on the Edge of a Silicon Wafer](https://www.nextplatform.com/2020/07/29/balancing-amds-future-on-the-edge-of-a-silicon-wafer/)
 * [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
-* [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
+* [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 ## nytimes.com
 
 
@@ -47,7 +47,6 @@ layout: default
 * [Republicans and White House at Odds Over Kansas Senate Race](https://www.nytimes.com/2020/07/30/us/politics/kansas-senate-kobach-trump.html)
 * [Will Herman Cain’s Death Change Republican Views on the Virus and Masks?](https://www.nytimes.com/2020/07/30/us/politics/herman-cain-gop-coronavirus.html)
 * [Hong Kong Delays Election, Citing Coronavirus. The Opposition Isn’t Buying It.](https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-delayed.html)
-* [Hong Kong Bans Eating in Restaurants. And Then It Doesn’t.](https://www.nytimes.com/2020/07/31/world/asia/hongkong-dining-lunch-coronavirus.html)
 * [European Economy Shrinks by Historic Margin](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus)
 * [Does Trump Want to Save His Economy?](https://www.nytimes.com/2020/07/31/business/coronavirus-trump-economy.html)
 * [Omar Hassan al-Bashir Is Gone, but the Killing Goes On in Darfur](https://www.nytimes.com/2020/07/30/world/middleeast/darfur-sudan.html)
@@ -78,10 +77,11 @@ layout: default
 * [U.K. Officials’ New Trump Dilemma: What if He Loses?](https://www.nytimes.com/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
 * [How 2 New York Schools Became Models for Coping in a Pandemic](https://www.nytimes.com/2020/07/31/nyregion/nyc-homeless-children-school.html)
 * [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](https://www.nytimes.com/2020/07/30/climate/sea-level-inland-floods.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Renée Fleming Streaming Concert, Plans Return to Metropolitan Opera Stage](https://www.nytimes.com/2020/07/30/style/maureen-dowd-renee-fleming.html)
 * [Picasso Mural Torn From Building After Years of Dispute](https://www.nytimes.com/2020/07/30/arts/design/picasso-fishermen-mural-norway.html)
 * [Book Review: "The Death of Vivek Oji," by Akwaeke Emezi](https://www.nytimes.com/2020/07/28/books/death-vivek-oji-akwaeke-emezi-group-text.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
-* [EUA fecham acordo mais caro por vacina candidata contra a Covid-19 da Sanofi e GSK](https://oglobo.globo.com/sociedade/eua-fecham-acordo-mais-caro-por-vacina-candidata-contra-covid-19-da-sanofi-gsk-24560272)
-* [Como as capitais mais afetadas pela Covid-19 reduziram contágio](https://epoca.globo.com/brasil/como-as-capitais-mais-afetadas-pela-covid-19-reduziram-contagio-24560269)
+* [Valor de mercado das 4 big techs americanas sobe US$ 250 bi um dia após audiência no Congresso americano](https://oglobo.globo.com/economia/valor-de-mercado-das-4-big-techs-americanas-sobe-us-250-bi-um-dia-apos-audiencia-no-congresso-americano-24560266)
+* [EUA fecham acordo mais caro por vacina candidata contra a Covid-19 com fórmula da Sanofi e GSK](https://oglobo.globo.com/sociedade/eua-fecham-acordo-mais-caro-por-vacina-candidata-contra-covid-19-com-formula-da-sanofi-gsk-24560272)
+* [Princesa Beatrice e Edoardo Mapelli tem lua de mel improvisada na França](https://oglobo.globo.com/ela/gente/princesa-beatrice-edoardo-mapelli-tem-lua-de-mel-improvisada-na-franca-24560286)
 * [Governo de Hong Kong anuncia adiamento de eleições legislativas, em revés para movimento pró-democracia](https://oglobo.globo.com/mundo/governo-de-hong-kong-anuncia-adiamento-de-eleicoes-legislativas-em-reves-para-movimento-pro-democracia-24560233)
+* [Como as capitais mais afetadas pela Covid-19 reduziram contágio](https://epoca.globo.com/brasil/como-as-capitais-mais-afetadas-pela-covid-19-reduziram-contagio-24560269)
 * [PM do Rio ignorou ligação de Ronnie Lessa com jogo do bicho e concedeu aposentadoria por invalidez](https://epoca.globo.com/brasil/pm-do-rio-ignorou-ligacao-de-ronnie-lessa-com-jogo-do-bicho-concedeu-aposentadoria-por-invalidez-24560246)
 * [Chuva permanece no Rio nesta sexta-feira, com registros em pontos isolados; veja a previsão](https://oglobo.globo.com/rio/chuva-permanece-no-rio-nesta-sexta-feira-com-registros-em-pontos-isolados-veja-previsao-24560223)
 * [Com pandemia, PIBs de França, Espanha e Itália têm tombos históricos no segundo trimestre](https://oglobo.globo.com/economia/com-pandemia-pibs-de-franca-espanha-italia-tem-tombos-historicos-no-segundo-trimestre-24560212)
 * [‘Mamãe está aqui’: matriarcas se mobilizam nos Estados Unidos para proteger manifestantes](https://oglobo.globo.com/mundo/mamae-esta-aqui-matriarcas-se-mobilizam-nos-estados-unidos-para-proteger-manifestantes-24559645)
 * [Julianne Moore se arrepende de ter feito personagem lésbica em 'Minhas mães e meu pai'](https://oglobo.globo.com/ela/gente/julianne-moore-se-arrepende-de-ter-feito-personagem-lesbica-em-minhas-maes-meu-pai-24560214)
-* [Governo e STF preparam projeto que tira poder do MPF em acordos de leniência](https://oglobo.globo.com/brasil/governo-stf-preparam-projeto-que-tira-poder-do-mpf-em-acordos-de-leniencia-1-24560053)
-* [Brasil tem 2.614.662 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2614662-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24560189)

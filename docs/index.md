@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 08:15:53 UTC
+# indexed at 31/07/2020 08:34:34 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
+* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
-* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
+* [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
-* [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
-* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 * [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
-* [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
+* [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
+* [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
+* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
-* [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
-* [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
-* [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
+* [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
-* [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
-* [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
-* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
+* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
-* [Kissat SAT Solver](http://fmv.jku.at/kissat/)
-* [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
-* [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
+* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
+* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Dragonfly Mini – 2000km mission](https://blog.stratiteq.com/dragonfly-mini-2000km-mission)
+* [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Cosmic tango between the small and the large](https://phys.org/news/2020-07-cosmic-tango-small-large.html)
+* [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
+* [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [The Lakers Hold On to Beat the Clippers in Thriller](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
 * [Coin Shortage? It May Be Time to Use Your State Quarters](https://www.nytimes.com/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)
@@ -99,10 +99,10 @@ layout: default
 ## globo.com
 
 
-* [‘Reforma eleva imposto de escola e diminui do carro de luxo’, diz ex-secretário da Receita](https://oglobo.globo.com/economia/reforma-eleva-imposto-de-escola-diminui-do-carro-de-luxo-diz-ex-secretario-da-receita-24559990)
 * [Sette Câmara, presidente do Atlético-MG: 'Queremos fazer até melhor que o Flamengo'](https://oglobo.globo.com/esportes/sette-camara-presidente-do-atletico-mg-queremos-fazer-ate-melhor-que-flamengo-1-24560100)
 * [Como a batalha do 5G afeta o usuário da internet no Brasil?](https://oglobo.globo.com/podcast/como-batalha-do-5g-afeta-usuario-da-internet-no-brasil-1-24560103)
 * [Queimadas no Pantanal têm pior mês de julho em uma década](https://oglobo.globo.com/sociedade/queimadas-no-pantanal-tem-pior-mes-de-julho-em-uma-decada-24560088)
+* [Governo e STF preparam projeto que tira poder do MPF em acordos de leniência](https://oglobo.globo.com/brasil/governo-stf-preparam-projeto-que-tira-poder-do-mpf-em-acordos-de-leniencia-24560053)
 * [Gráfico animado mostra evolução da mortalidade por Covid-19 nos estados](https://oglobo.globo.com/sociedade/coronavirus/grafico-animado-mostra-evolucao-da-mortalidade-por-covid-19-nos-estados-24559859)
 * [Médico é preso após sacar arma durante discussão por exame de Covid-19 com paciente na Barra da Tijuca](https://oglobo.globo.com/rio/medico-preso-apos-sacar-arma-durante-discussao-por-exame-de-covid-19-com-paciente-na-barra-da-tijuca-24559952)
 * [Ambulâncias do Samu: médicos denunciam falta de oxigênio a equipamentos de proteção](https://oglobo.globo.com/rio/ambulancias-do-samu-medicos-denunciam-falta-de-oxigenio-equipamentos-de-protecao-24559966)

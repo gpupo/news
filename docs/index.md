@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 02:34:25 UTC
+# indexed at 31/07/2020 03:13:42 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
-* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
+* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
-* [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
+* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
+* [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
+* [Google adds "Black-owned" business attribute to local listings](https://searchengineland.com/google-adds-black-owned-business-attribute-to-local-listings-338526)
 * [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
-* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
-* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
-* [Kissat SAT Solver](http://fmv.jku.at/kissat/)
-* [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
-* [GifCities](https://gifcities.org/)
+* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
+* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
+* [Google is removing community contributions from YouTube](https://support.google.com/youtube/answer/6052538)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
+* [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
+* [Kissat SAT Solver](http://fmv.jku.at/kissat/)
 * [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
-* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
-* [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
 * [How to Hire Great Engineers](https://autoiterative.com/blog/posts/how-to-hire-great-engineers/)
+* [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
 * [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
-* [The mysterious life of birds who never come down](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html)
 ## nytimes.com
 
 
@@ -46,9 +46,9 @@ layout: default
 * [Trump Floats an Election Delay, and Republicans Shoot It Down](https://www.nytimes.com/2020/07/30/us/politics/trump-delay-2020-election.html)
 * [Trump Attacks an Election He Is at Risk of Losing](https://www.nytimes.com/2020/07/30/us/politics/trump-delay-election.html)
 * [Can Trump Postpone the 2020 Election? Your Questions Answered.](https://www.nytimes.com/2020/07/30/us/politics/trump-postpone-election.html)
-* [Live Coronavirus News Updates and Analysis](https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html)
 * [Will Herman Cain’s Death Change Republican Views on the Virus and Masks?](https://www.nytimes.com/2020/07/30/us/politics/herman-cain-gop-coronavirus.html)
-* [Virus Cases Are Rising in N.J., Spurred by Young Partygoers at the Shore](https://www.nytimes.com/2020/07/30/nyregion/coronavirus-cases-nj.html)
+* [Live Coronavirus News Updates and Analysis](https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html)
+* [Louie Gohmert’s Coronavirus Case Reveals a Dangerous Reality in Congress](https://www.nytimes.com/2020/07/30/us/politics/gohmert-coronavirus-congress.html)
 * [John Lewis Funeral: ‘A Man of Pure Joy and Unbreakable Perseverance’](https://www.nytimes.com/2020/07/30/us/john-lewis-live-funeral.html)
 * [President Barack Obama's Eulogy for John Lewis: Full Transcript](https://www.nytimes.com/2020/07/30/us/obama-eulogy-john-lewis-full-transcript.html)
 * [A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.](https://www.nytimes.com/2020/07/30/climate/bangladesh-floods.html)
@@ -80,10 +80,10 @@ layout: default
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [Lakers vs. Clippers: Live Score and Updates from the N.B.A.’s Restart](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Senado aprova MP que dispensa reembolso em dinheiro ao consumidor por cancelamento de eventos e serviços de cultura e turismo](https://oglobo.globo.com/economia/senado-aprova-mp-que-dispensa-reembolso-em-dinheiro-ao-consumidor-por-cancelamento-de-eventos-servicos-de-cultura-turismo-24559865)
+* [Por que o Brasil é o país onde mais morrem grávidas e mulheres no pós-parto por Covid-19 no mundo?](https://oglobo.globo.com/sociedade/por-que-brasil-o-pais-onde-mais-morrem-gravidas-mulheres-no-pos-parto-por-covid-19-no-mundo-1-24560095)
+* [Embraer anuncia novo plano de demissão voluntária, o segundo desde o início da pandemia](https://oglobo.globo.com/economia/embraer-anuncia-novo-plano-de-demissao-voluntaria-segundo-desde-inicio-da-pandemia-24560089)
 * [Banco Mundial confirma Weintraub como diretor executivo](https://oglobo.globo.com/brasil/banco-mundial-confirma-weintraub-como-diretor-executivo-24559965)
 * [Autor de ameaças na casa de Felipe Neto estava no grupo que jogou fogos de artifício no STF](https://oglobo.globo.com/brasil/autor-de-ameacas-na-casa-de-felipe-neto-estava-no-grupo-que-jogou-fogos-de-artificio-no-stf-24559889)
 * [Banco Mundial confirma Weintraub como diretor executivo](https://epoca.globo.com/guilherme-amado/banco-mundial-confirma-weintraub-como-diretor-executivo-1-24559942)
-* [Mortes por covid-19 têm tendência de queda em 11 estados e de crescimento em outros sete](https://oglobo.globo.com/sociedade/mortes-por-covid-19-tem-tendencia-de-queda-em-11-estados-de-crescimento-em-outros-sete-24559757)
 * [O problema é o monopólio](https://oglobo.globo.com/economia/o-problema-o-monopolio-24559928)
 * [Recuperado da covid-19, Bolsonaro diz que pegou 'mofo no pulmão'](https://oglobo.globo.com/brasil/recuperado-da-covid-19-bolsonaro-diz-que-pegou-mofo-no-pulmao-24559924)
-* [Gigantes da tecnologia aproveitam pandemia para faturar mais](https://oglobo.globo.com/economia/gigantes-da-tecnologia-aproveitam-pandemia-para-faturar-mais-24559907)
-* [ÉPOCA vence o Prêmio República do Ministério Público Federal](https://epoca.globo.com/sociedade/epoca-vence-premio-republica-do-ministerio-publico-federal-24559857)
-* [Carlos Bolsonaro e Eduardo Suplicy são os vereadores do país com mais seguidores](https://epoca.globo.com/guilherme-amado/carlos-bolsonaro-eduardo-suplicy-sao-os-vereadores-do-pais-com-mais-seguidores-24559789)
+* [Jorge Aragão homenageia os bambas do Brasil em live de hits, com direito a convidados](https://oglobo.globo.com/rioshow/jorge-aragao-homenageia-os-bambas-do-brasil-em-live-de-hits-com-direito-convidados-24556374)
+* [Quarentena para juiz candidato tem de ser sensata](https://oglobo.globo.com/opiniao/quarentena-para-juiz-candidato-tem-de-ser-sensata-1-24559217)
+* [A falta que faz uma diplomacia profissional no Itamaraty](https://oglobo.globo.com/opiniao/a-falta-que-faz-uma-diplomacia-profissional-no-itamaraty-24559331)

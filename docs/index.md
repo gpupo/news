@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 11:34:41 UTC
+# indexed at 31/07/2020 12:20:39 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
+* [Why Forgiving Someone Else Is About You](https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
+* [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
-* [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
-* [A College Degree Is No Guarantee of a Good Life](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
+* [ZSA Moonlander: A next-generation ergonomic keyboard](https://zsa.io/moonlander)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
-* [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
-* [ZSA Moonlander: A next-generation ergonomic keyboard](https://zsa.io/moonlander)
+* [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
 * [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
-* [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
+* [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
-* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
+* [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
 ## nytimes.com
 
 
@@ -78,11 +78,10 @@ layout: default
 * [U.K. Officials’ New Trump Dilemma: What if He Loses?](https://www.nytimes.com/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
 * [How 2 New York Schools Became Models for Coping in a Pandemic](https://www.nytimes.com/2020/07/31/nyregion/nyc-homeless-children-school.html)
 * [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](https://www.nytimes.com/2020/07/30/climate/sea-level-inland-floods.html)
-* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Renée Fleming Streaming Concert, Plans Return to Metropolitan Opera Stage](https://www.nytimes.com/2020/07/30/style/maureen-dowd-renee-fleming.html)
 * [Picasso Mural Torn From Building After Years of Dispute](https://www.nytimes.com/2020/07/30/arts/design/picasso-fishermen-mural-norway.html)
 * [Book Review: "The Death of Vivek Oji," by Akwaeke Emezi](https://www.nytimes.com/2020/07/28/books/death-vivek-oji-akwaeke-emezi-group-text.html)
@@ -98,13 +97,13 @@ layout: default
 ## globo.com
 
 
-* [Com pandemia, PIBs de França, Espanha e Itália têm tombos históricos no segundo trimestre](https://oglobo.globo.com/economia/com-pandemia-pibs-de-franca-espanha-italia-tem-tombos-historicos-no-segundo-trimestre-24560212)
-* [Chuva permanece no Rio nesta sexta-feira, com registros em pontos isolados; veja a previsão](https://oglobo.globo.com/rio/chuva-permanece-no-rio-nesta-sexta-feira-com-registros-em-pontos-isolados-veja-previsao-24560223)
+* [EUA fecham acordo mais caro por vacina candidata contra a Covid-19 da Sanofi e GSK](https://oglobo.globo.com/sociedade/eua-fecham-acordo-mais-caro-por-vacina-candidata-contra-covid-19-da-sanofi-gsk-24560272)
+* [Como as capitais mais afetadas pela Covid-19 reduziram contágio](https://epoca.globo.com/brasil/como-as-capitais-mais-afetadas-pela-covid-19-reduziram-contagio-24560269)
 * [Governo de Hong Kong anuncia adiamento de eleições legislativas, em revés para movimento pró-democracia](https://oglobo.globo.com/mundo/governo-de-hong-kong-anuncia-adiamento-de-eleicoes-legislativas-em-reves-para-movimento-pro-democracia-24560233)
+* [PM do Rio ignorou ligação de Ronnie Lessa com jogo do bicho e concedeu aposentadoria por invalidez](https://epoca.globo.com/brasil/pm-do-rio-ignorou-ligacao-de-ronnie-lessa-com-jogo-do-bicho-concedeu-aposentadoria-por-invalidez-24560246)
+* [Chuva permanece no Rio nesta sexta-feira, com registros em pontos isolados; veja a previsão](https://oglobo.globo.com/rio/chuva-permanece-no-rio-nesta-sexta-feira-com-registros-em-pontos-isolados-veja-previsao-24560223)
+* [Com pandemia, PIBs de França, Espanha e Itália têm tombos históricos no segundo trimestre](https://oglobo.globo.com/economia/com-pandemia-pibs-de-franca-espanha-italia-tem-tombos-historicos-no-segundo-trimestre-24560212)
+* [‘Mamãe está aqui’: matriarcas se mobilizam nos Estados Unidos para proteger manifestantes](https://oglobo.globo.com/mundo/mamae-esta-aqui-matriarcas-se-mobilizam-nos-estados-unidos-para-proteger-manifestantes-24559645)
 * [Julianne Moore se arrepende de ter feito personagem lésbica em 'Minhas mães e meu pai'](https://oglobo.globo.com/ela/gente/julianne-moore-se-arrepende-de-ter-feito-personagem-lesbica-em-minhas-maes-meu-pai-24560214)
 * [Governo e STF preparam projeto que tira poder do MPF em acordos de leniência](https://oglobo.globo.com/brasil/governo-stf-preparam-projeto-que-tira-poder-do-mpf-em-acordos-de-leniencia-1-24560053)
 * [Brasil tem 2.614.662 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2614662-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24560189)
-* [STF e Planalto agem para tirar MPF de acordos de leniência](https://oglobo.globo.com/brasil/stf-planalto-agem-para-tirar-mpf-de-acordos-de-leniencia-24560197)
-* [‘Mamãe está aqui’: matriarcas se mobilizam nos Estados Unidos para proteger manifestantes](https://oglobo.globo.com/mundo/mamae-esta-aqui-matriarcas-se-mobilizam-nos-estados-unidos-para-proteger-manifestantes-24559645)
-* [Licenças de servidores federais custaram R$ 4,6 bi em 2019](https://epoca.globo.com/guilherme-amado/licencas-de-servidores-federais-custaram-46-bi-em-2019-24559630)
-* [Filme de Caetano vai para o streaming](https://epoca.globo.com/guilherme-amado/filme-de-caetano-vai-para-streaming-24559556)

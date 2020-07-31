@@ -2,27 +2,29 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 01:15:10 UTC
+# indexed at 31/07/2020 01:35:00 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
+* [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
+* [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
-* [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
-* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
+* [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
+* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
+* [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
-* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
-* [You Want to See My Data? I Thought We Were Friends](http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends)
-* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
+* [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
@@ -33,11 +35,9 @@ layout: default
 * [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 * [Unauthorized Bread: Jailbreaking IoT toasters](https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/)
 * [How to Hire Great Engineers](https://autoiterative.com/blog/posts/how-to-hire-great-engineers/)
+* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [Crash and Burn: The Amiga ST Story](https://thedorkweb.substack.com/p/crash-and-burn-the-amiga-st-story)
 * [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
-* [Air travel’s sudden collapse will reshape a trillion-dollar industry](https://www.economist.com/business/2020/08/01/air-travels-sudden-collapse-will-reshape-a-trillion-dollar-industry)
-* [The mysterious life of birds who never come down](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html)
-* [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 ## nytimes.com
 
 
@@ -77,13 +77,14 @@ layout: default
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
 * [Undocumented Housekeeper Who Worked at Trump Property Could Face Deportation](https://www.nytimes.com/2020/07/30/us/undocumented-housekeeper-trump-golf-bedminster.html)
 * [A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.](https://www.nytimes.com/2020/07/30/climate/bangladesh-floods.html)
-* [Jazz vs. Pelicans: Live Score and Updates from the N.B.A.’s Restart](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
+* [Lakers vs. Clippers: Live Score and Updates from the N.B.A.’s Restart](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
 * [China Tries Its Favorite Economic Cure: More Construction](https://www.nytimes.com/2020/07/30/business/china-economy-infrastructure.html)
 * [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
-* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
-* [How to Handle a Mom-Friend Breakup](https://www.nytimes.com/2020/06/25/parenting/moms-friends-fight.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
 * [Coin Shortage? It May Be Time to Use Your State Quarters](https://www.nytimes.com/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)
@@ -93,20 +94,19 @@ layout: default
 * [Too Much Mars? Let’s Discuss Other Worlds](https://www.nytimes.com/2020/07/28/science/mars-nasa-science.html)
 * [The Pandemic’s Toll on Children With Special Needs and Their Parents](https://www.nytimes.com/2020/07/27/well/family/children-special-needs-pandemic.html)
 * [Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds](https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html)
-* [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Mortes por covid-19 têm tendência de queda em 11 estados e de crescimento em outros sete](https://oglobo.globo.com/sociedade/mortes-por-covid-19-tem-tendencia-de-queda-em-11-estados-de-crescimento-em-outros-sete-24559757)
 * [Autor de ameaças na casa de Felipe Neto estava no grupo que jogou fogos de artifício no STF](https://oglobo.globo.com/brasil/autor-de-ameacas-na-casa-de-felipe-neto-estava-no-grupo-que-jogou-fogos-de-artificio-no-stf-24559889)
+* [O problema é o monopólio](https://oglobo.globo.com/economia/o-problema-o-monopolio-24559928)
+* [Recuperado da covid-19, Bolsonaro diz que pegou 'mofo no pulmão'](https://oglobo.globo.com/brasil/recuperado-da-covid-19-bolsonaro-diz-que-pegou-mofo-no-pulmao-24559924)
 * [Gigantes da tecnologia aproveitam pandemia para faturar mais](https://oglobo.globo.com/economia/gigantes-da-tecnologia-aproveitam-pandemia-para-faturar-mais-24559907)
-* [Polícia encontra veneno de rato em comida que matou duas pessoas e um cachorro em SP](https://oglobo.globo.com/brasil/policia-encontra-veneno-de-rato-em-comida-que-matou-duas-pessoas-um-cachorro-em-sp-24559778)
 * [Senado aprova MP que dispensa reembolso em dinheiro ao consumidor por cancelamento de eventos e serviços de cultura e turismo](https://oglobo.globo.com/economia/senado-aprova-mp-que-dispensa-reembolso-em-dinheiro-ao-consumidor-por-cancelamento-de-eventos-servicos-de-cultura-turismo-24559865)
 * [Lava-Jato do Rio recorre de decisão de Toffoli que determinou envio de bases de dados para Aras](https://oglobo.globo.com/brasil/lava-jato-do-rio-recorre-de-decisao-de-toffoli-que-determinou-envio-de-bases-de-dados-para-aras-24559794)
-* [Mortes por covid-19 tem tendência de queda em 11 estados e de crescimento em outros sete](https://oglobo.globo.com/sociedade/mortes-por-covid-19-tem-tendencia-de-queda-em-11-estados-de-crescimento-em-outros-sete-24559757)
 * [ÉPOCA vence o Prêmio República do Ministério Público Federal](https://epoca.globo.com/sociedade/epoca-vence-premio-republica-do-ministerio-publico-federal-24559857)
-* ['Ó a desgraça que foi', diz Bolsonaro sobre gestão Mandetta na Saúde](https://oglobo.globo.com/sociedade/o-desgraca-que-foi-diz-bolsonaro-sobre-gestao-mandetta-na-saude-1-24559791)
 * [Medidas de isolamento são prorrogadas até 31 de agosto em Niterói](https://oglobo.globo.com/rio/bairros/medidas-de-isolamento-sao-prorrogadas-ate-31-de-agosto-em-niteroi-24559672)
 * [Carlos Bolsonaro e Eduardo Suplicy são os vereadores do país com mais seguidores](https://epoca.globo.com/guilherme-amado/carlos-bolsonaro-eduardo-suplicy-sao-os-vereadores-do-pais-com-mais-seguidores-24559789)

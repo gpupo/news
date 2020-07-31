@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 15:14:06 UTC
+# indexed at 31/07/2020 15:34:17 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Hackers post fake stories on real news sites 'to discredit Nato'](https://www.bbc.co.uk/news/technology-53594440)
 * [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
-* [Effectiveness of Grounded Sleeping on Recovery After Eccentric Muscle Loading](https://www.frontiersin.org/articles/10.3389/fphys.2019.00035/full)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
-* [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [Why forgiving someone else is about you](https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you)
+* [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [Facebook says Apple’s iOS 14 changes could hurt its ad targeting](https://www.cnbc.com/2020/07/30/facebook-says-apples-ios-14-changes-could-hurt-its-ad-targeting.html)
 * [A College Degree Is No Guarantee of a Good Life](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
-* [Patreon Loses Lawsuit Likely to Pay Millions in Arbitration and Legal Fees](https://nationalfile.com/patreon-loses-lawsuit-with-owen-benjamin-fans-likely-to-pay-millions-in-arbitration-and-legal-fees/)
+* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.theverge.com/circuitbreaker/2020/7/31/21349332/nvidia-talks-buy-arm-processor-mobile-deal-32-billion-softbank-purchase-rumor)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
+* [Effectiveness of Grounded Sleeping on Recovery After Eccentric Muscle Loading](https://www.frontiersin.org/articles/10.3389/fphys.2019.00035/full)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
-* [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
 * [ZSA Moonlander: A next-generation ergonomic keyboard](https://zsa.io/moonlander)
+* [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
+* [Google removes all Danish music from YouTube](https://www.koda.dk/about-us/press-release-google-removes-all-danish-music-from-youtube)
+* [PlayCanvas open sources glTF viewer technology](https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Eliminating cold starts with Cloudflare Workers](https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/)
-* [Google removes all Danish music from YouTube](https://www.koda.dk/about-us/press-release-google-removes-all-danish-music-from-youtube)
+* [Nvidia in Advanced Talks to Buy SoftBank’s Chip Company Arm](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
-* [PlayCanvas open sources glTF viewer technology](https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/)
 * [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
-* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [Stopping Pollution with Pine Needles](https://www.economist.com/science-and-technology/2020/07/18/stopping-pollution-with-pine-needles)
-* [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.theverge.com/circuitbreaker/2020/7/31/21349332/nvidia-talks-buy-arm-processor-mobile-deal-32-billion-softbank-purchase-rumor)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
+* [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
-* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [DNSSEC explained: Why you might want to implement it on your domain](https://www.csoonline.com/article/3569277/dnssec-explained-why-you-might-want-to-implement-it-on-your-domain.html#tk.rss_all)
+* [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
+* [Balancing AMD’s Future on the Edge of a Silicon Wafer](https://www.nextplatform.com/2020/07/29/balancing-amds-future-on-the-edge-of-a-silicon-wafer/)
+* [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [U.K. Officials’ New Trump Dilemma: What if He Loses?](https://www.nytimes.com/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
 * [How 2 New York Schools Became Models for Coping in a Pandemic](https://www.nytimes.com/2020/07/31/nyregion/nyc-homeless-children-school.html)
 * [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](https://www.nytimes.com/2020/07/30/climate/sea-level-inland-floods.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Renée Fleming Streaming Concert, Plans Return to Metropolitan Opera Stage](https://www.nytimes.com/2020/07/30/style/maureen-dowd-renee-fleming.html)
 * [Picasso Mural Torn From Building After Years of Dispute](https://www.nytimes.com/2020/07/30/arts/design/picasso-fishermen-mural-norway.html)
 * [Book Review: "The Death of Vivek Oji," by Akwaeke Emezi](https://www.nytimes.com/2020/07/28/books/death-vivek-oji-akwaeke-emezi-group-text.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Fogo Cruzado: participação de agentes públicos em tiroteios no Rio diminui 71% em julho](https://oglobo.globo.com/rio/fogo-cruzado-participacao-de-agentes-publicos-em-tiroteios-no-rio-diminui-71-em-julho-24560427)
+* [O governo Bolsonaro quer liberar ou vigiar as opiniões nas redes?](https://oglobo.globo.com/analitico/o-governo-bolsonaro-quer-liberar-ou-vigiar-as-opinioes-nas-redes-24560546)
+* [Departamento de Segurança Interna dos EUA coletou informações de jornalistas que cobriam protestos em Portland](https://oglobo.globo.com/mundo/departamento-de-seguranca-interna-dos-eua-coletou-informacoes-de-jornalistas-que-cobriam-protestos-em-portland-24560470)
 * [Flamengo fecha com Domènec Torrent até o final de 2021](https://oglobo.globo.com/esportes/flamengo-fecha-com-domenec-torrent-ate-final-de-2021-24560499)
-* [Um refúgio luxuoso no coração do Leblon](https://oglobo.globo.com/economia/um-refugio-luxuoso-no-coracao-do-leblon-24560346)
-* [Enem: candidatos serão obrigados a usar máscara durante todo o tempo da prova](https://oglobo.globo.com/sociedade/enem-candidatos-serao-obrigados-usar-mascara-durante-todo-tempo-da-prova-24560397)
-* [Auxílio emergencial: Mais de 107 mil pessoas devolveram benefício recebido de forma indevida, diz Ministério da Cidadania](https://oglobo.globo.com/economia/auxilio-emergencial-mais-de-107-mil-pessoas-devolveram-beneficio-recebido-de-forma-indevida-diz-ministerio-da-cidadania-24560469)
-* [Dólar sobe, após dados dos PIBs na Europa; balanços das 'big techs' freiam queda nas Bolsas](https://oglobo.globo.com/economia/dolar-sobe-apos-dados-dos-pibs-na-europa-balancos-das-big-techs-freiam-queda-nas-bolsas-24560369)
-* [Após novo surto, Vietnã registra primeira morte por Covid-19 desde o início da pandemia](https://oglobo.globo.com/mundo/apos-novo-surto-vietna-registra-primeira-morte-por-covid-19-desde-inicio-da-pandemia-24560383)
+* [Fogo Cruzado: participação de agentes públicos em tiroteios no Rio diminui 71% em julho](https://oglobo.globo.com/rio/fogo-cruzado-participacao-de-agentes-publicos-em-tiroteios-no-rio-diminui-71-em-julho-24560427)
 * [Novo coronavírus pode ter ficado por até 70 anos em circulação silenciosa entre os morcegos, revela estudo](https://oglobo.globo.com/sociedade/novo-coronavirus-pode-ter-ficado-por-ate-70-anos-em-circulacao-silenciosa-entre-os-morcegos-revela-estudo-24560428)
+* [Domènec Torrent será o 12º técnico estrangeiro na história do Flamengo; veja a lista](https://oglobo.globo.com/esportes/domenec-torrent-sera-12-tecnico-estrangeiro-na-historia-do-flamengo-veja-lista-24558390)
+* [Um refúgio luxuoso no coração do Leblon](https://oglobo.globo.com/economia/um-refugio-luxuoso-no-coracao-do-leblon-24560346)
+* [Auxílio emergencial: Mais de 107 mil pessoas devolveram benefício recebido de forma indevida, diz Ministério da Cidadania](https://oglobo.globo.com/economia/auxilio-emergencial-mais-de-107-mil-pessoas-devolveram-beneficio-recebido-de-forma-indevida-diz-ministerio-da-cidadania-24560469)
 * [Mural de Picasso é retirado de edifício na Noruega após anos de disputa](https://oglobo.globo.com/cultura/mural-de-picasso-retirado-de-edificio-na-noruega-apos-anos-de-disputa-24560356)
 * [Witzel volta a nomear ex-deputado para articulação política em Brasília](https://epoca.globo.com/guilherme-amado/witzel-volta-nomear-ex-deputado-para-articulacao-politica-em-brasilia-24559408)

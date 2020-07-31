@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 02:15:45 UTC
+# indexed at 31/07/2020 02:34:25 UTC
 
 
 ## news.ycombinator.com
@@ -15,28 +15,28 @@ layout: default
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
-* [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [How Best Buy saved itself](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
+* [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [I recorded vlogs to show how I built side projects](https://indielog.com/user/damon)
 * [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html)
 * [Google’s problems are bigger than just the antitrust case](https://www.economist.com/briefing/2020/07/30/googles-problems-are-bigger-than-just-the-antitrust-case)
 * [Ancient trash heaps reveal the Plague of Justinian’s economic toll](https://arstechnica.com/science/2020/07/ancient-trash-heaps-reveal-the-plague-of-justinians-economic-toll/)
-* [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
-* [GifCities](https://gifcities.org/)
+* [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [Kissat SAT Solver](http://fmv.jku.at/kissat/)
 * [Is your chip card secure? Much depends on where you bank](https://krebsonsecurity.com/2020/07/is-your-chip-card-secure-much-depends-on-where-you-bank/)
-* [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
+* [GifCities](https://gifcities.org/)
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
+* [Apple reports Q3 results](https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [Show HN: An alternative RSS reader and search engine for news and content](https://newsandrumors.com/)
-* [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 * [How to Hire Great Engineers](https://autoiterative.com/blog/posts/how-to-hire-great-engineers/)
+* [Apps for Bicycle Directions](https://jakecoppinger.blog/articles/the-best-apps-for-bicycle-directions-2020/)
 * [The mysterious life of birds who never come down](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html)
 ## nytimes.com
 
@@ -80,11 +80,11 @@ layout: default
 * [Ferguson Officer Who Killed Michael Brown Isn’t Charged](https://www.nytimes.com/2020/07/30/us/michael-brown-darren-wilson-ferguson.html)
 * [Lakers vs. Clippers: Live Score and Updates from the N.B.A.’s Restart](https://www.nytimes.com/2020/07/30/sports/basketball/clippers-lakers.html)
 * [Justin Trudeau To Testify Before Parliament on WE Charity Scandal](https://www.nytimes.com/2020/07/30/world/canada/justin-trudeau-we-charity.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](https://www.nytimes.com/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
 * [From Good Wine, a Direct Path to the Wonders of Nature](https://www.nytimes.com/2020/07/20/dining/drinks/wine-vineyard-viticulture-farming.html)
 * [Coin Shortage? It May Be Time to Use Your State Quarters](https://www.nytimes.com/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)
@@ -100,8 +100,8 @@ layout: default
 ## globo.com
 
 
-* [Banco Mundial confirma Weintraub como diretor executivo](https://oglobo.globo.com/brasil/banco-mundial-confirma-weintraub-como-diretor-executivo-24559965)
 * [Senado aprova MP que dispensa reembolso em dinheiro ao consumidor por cancelamento de eventos e serviços de cultura e turismo](https://oglobo.globo.com/economia/senado-aprova-mp-que-dispensa-reembolso-em-dinheiro-ao-consumidor-por-cancelamento-de-eventos-servicos-de-cultura-turismo-24559865)
+* [Banco Mundial confirma Weintraub como diretor executivo](https://oglobo.globo.com/brasil/banco-mundial-confirma-weintraub-como-diretor-executivo-24559965)
 * [Autor de ameaças na casa de Felipe Neto estava no grupo que jogou fogos de artifício no STF](https://oglobo.globo.com/brasil/autor-de-ameacas-na-casa-de-felipe-neto-estava-no-grupo-que-jogou-fogos-de-artificio-no-stf-24559889)
 * [Banco Mundial confirma Weintraub como diretor executivo](https://epoca.globo.com/guilherme-amado/banco-mundial-confirma-weintraub-como-diretor-executivo-1-24559942)
 * [Mortes por covid-19 têm tendência de queda em 11 estados e de crescimento em outros sete](https://oglobo.globo.com/sociedade/mortes-por-covid-19-tem-tendencia-de-queda-em-11-estados-de-crescimento-em-outros-sete-24559757)

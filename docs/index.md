@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 10:13:53 UTC
+# indexed at 31/07/2020 10:35:09 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 * [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
-* [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
+* [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
 * [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
-* [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
-* [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
+* [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
 * [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
+* [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
 * [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
-* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
+* [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
 * [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
-* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
 * [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
+* [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
+* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
 * [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
-* [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
-* [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
+* [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
 * [The Design of Scalar AES Instruction Set Extensions for RISC-V](https://eprint.iacr.org/2020/930)
+* [Internet Archive responds to publishers’ lawsuit](https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/)
 ## nytimes.com
 
 
@@ -49,9 +49,9 @@ layout: default
 * [Does Trump Want to Save His Economy?](https://www.nytimes.com/2020/07/31/business/coronavirus-trump-economy.html)
 * [Omar Hassan al-Bashir Is Gone, but the Killing Goes On in Darfur](https://www.nytimes.com/2020/07/30/world/middleeast/darfur-sudan.html)
 * [On a Hot Day, 96,000 New Yorkers Are Asked to Conserve Power](https://www.nytimes.com/2020/07/31/nyregion/nyc-power-con-edison.html)
+* [A #MeToo Moment in the Military](https://www.nytimes.com/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Big Tech’s Backlash Is Just Starting](https://www.nytimes.com/2020/07/30/technology/big-tech-backlash.html)
-* [When Conservatives Fall for Demagogues](https://www.nytimes.com/2020/07/30/opinion/the-argument-authoritarianism-anne-applebaum.html)
 * [Trump Doesn’t Know What Democracy Is. John Lewis Embodied It.](https://www.nytimes.com/2020/07/31/opinion/john-lewis-trump-election-2020.html)
 * [Coronavirus Forced Indian Workers on a Deadly Journey](https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
 * [Scared That Covid-19 Immunity Won’t Last? Don’t Be](https://www.nytimes.com/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
@@ -74,11 +74,11 @@ layout: default
 * [U.K. Officials’ New Trump Dilemma: What if He Loses?](https://www.nytimes.com/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
 * [How 2 New York Schools Became Models for Coping in a Pandemic](https://www.nytimes.com/2020/07/31/nyregion/nyc-homeless-children-school.html)
 * [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](https://www.nytimes.com/2020/07/30/climate/sea-level-inland-floods.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Renée Fleming Streaming Concert, Plans Return to Metropolitan Opera Stage](https://www.nytimes.com/2020/07/30/style/maureen-dowd-renee-fleming.html)
 * [Picasso Mural Torn From Building After Years of Dispute](https://www.nytimes.com/2020/07/30/arts/design/picasso-fishermen-mural-norway.html)
 * [Book Review: "The Death of Vivek Oji," by Akwaeke Emezi](https://www.nytimes.com/2020/07/28/books/death-vivek-oji-akwaeke-emezi-group-text.html)
@@ -94,13 +94,13 @@ layout: default
 ## globo.com
 
 
-* [Hackers atacam universidades privadas de São Paulo](https://oglobo.globo.com/sociedade/hackers-atacam-universidades-privadas-de-sao-paulo-24559299)
 * [Governo e STF preparam projeto que tira poder do MPF em acordos de leniência](https://oglobo.globo.com/brasil/governo-stf-preparam-projeto-que-tira-poder-do-mpf-em-acordos-de-leniencia-24560053)
+* [STF e Planalto agem para tirar MPF de acordos de leniência](https://oglobo.globo.com/brasil/stf-planalto-agem-para-tirar-mpf-de-acordos-de-leniencia-24560197)
 * [Universidades privadas de São Paulo são alvo de hackers e mais de 1 milhão de alunos têm dados vazados](https://oglobo.globo.com/sociedade/universidades-privadas-de-sao-paulo-sao-alvo-de-hackers-mais-de-1-milhao-de-alunos-tem-dados-vazados-24560072)
 * [Motim de PMs do Ceará segue sem punição até hoje](https://epoca.globo.com/guilherme-amado/motim-de-pms-do-ceara-segue-sem-punicao-ate-hoje-24559487)
 * [Conselho do MP nunca deu punição cogitada contra Deltan](https://epoca.globo.com/guilherme-amado/conselho-do-mp-nunca-deu-punicao-cogitada-contra-deltan-1-24559700)
 * [Janot está morando em Londres](https://epoca.globo.com/guilherme-amado/janot-esta-morando-em-londres-24559650)
-* [Toffoli tomou decisões contra o combate à corrupção ao longo do recesso do STF](https://epoca.globo.com/guilherme-amado/toffoli-tomou-decisoes-contra-combate-corrupcao-ao-longo-do-recesso-do-stf-24559436)
+* [Licenças de servidores federais custaram R$ 4,6 bi em 2019](https://epoca.globo.com/guilherme-amado/licencas-de-servidores-federais-custaram-46-bi-em-2019-24559630)
+* [Filme de Caetano vai para o streaming](https://epoca.globo.com/guilherme-amado/filme-de-caetano-vai-para-streaming-24559556)
 * [Saiba como será o Big Jump, parque de trampolins que abre neste domingo na Barra](https://oglobo.globo.com/rio/bairros/saiba-como-sera-big-jump-parque-de-trampolins-que-abre-neste-domingo-na-barra-1-24559291)
 * [Vizinhos se unem contra dona de 30 cães na Freguesia](https://oglobo.globo.com/rio/bairros/vizinhos-se-unem-contra-dona-de-30-caes-na-freguesia-24559131)
-* [Como o debate sobre a volta às aulas impacta a vida das mães solo](https://oglobo.globo.com/celina/como-debate-sobre-volta-as-aulas-impacta-vida-das-maes-solo-24555098)

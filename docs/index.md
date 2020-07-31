@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 31/07/2020 11:12:58 UTC
+# indexed at 31/07/2020 11:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Australia to make Facebook, Google pay for news in world first](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
-* [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Show HN: A bookmarking tool designed to help synthesize your web research](https://klobie.com)
+* [YouTube: Community contributions will be discontinued across all channels](https://support.google.com/youtube/answer/6052538)
 * [Reverse Engineering the PLA Chip in the Commodore 128](https://c128.se/posts/silicon-adventures/)
-* [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Philosophers on GPT-3](http://dailynous.com/2020/07/30/philosophers-gpt-3/)
+* [Chronic mania and persistent euphoric states](https://srconstantin.github.io/2020/07/29/chronic-mania.html)
 * [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/)
+* [A College Degree Is No Guarantee of a Good Life](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
 * [Five Buck Fatigue](https://underjord.io/five-buck-fatigue.html)
 * [How I wrote, crowdfunded, and independently published a book](https://www.blakeboles.com/2020/07/book-story/)
-* [ZSA Moonlander: A next-generation ergonomic keyboard](https://zsa.io/moonlander)
-* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
-* [A College Degree Is No Guarantee of a Good Life](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
-* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [Comments on optimizations around string concatenation](https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616)
+* [An update on our security incident](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
+* [ZSA Moonlander: A next-generation ergonomic keyboard](https://zsa.io/moonlander)
+* [Show HN: Deck for Reddit – A Reddit client optimized for desktop](https://rdddeck.com)
 * [What4: A library to help build verification and program analysis tools](https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/)
 * [CurveBoards: Integrating Breadboards into Physical Objects](https://hcie.csail.mit.edu/research/curveboard/curveboard.html)
 * [M2OS: A Small and Lightweight Ada RTOS for Microcontrollers](https://m2os.unican.es/)
-* [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
-* [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
 * [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
+* [Launch HN: BaseDash (YC S20) – Edit your database with the ease of a spreadsheet](https://news.ycombinator.com/item?id=23999124)
+* [The Pandemic-Era Appeal of Labyrinths](https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths)
 * [Seven Sets Venn Diagram](http://moebio.com/research/sevensets/)
 * [A Closer Look at the Super NES Doom Source Code Release [video]](https://www.youtube.com/watch?v=JqP3ZzWiul0)
 * [What Is the PCI of Bank Payments?](https://www.moderntreasury.com/journal/what-is-the-pci-of-bank-payments)
 * [Sandboxing and workload isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [How Best Buy saved itself (2019)](https://www.inc.com/justin-bariso/amazon-almost-killed-best-buy-then-best-buy-did-something-completely-brilliant.html)
-* [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [Migrating Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Opera GX Gaming Browser](https://www.opera.com/lp/gx-light)
 * [Argos to stop printing catalogue after almost 50 years](https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years)
 ## nytimes.com
 
@@ -46,9 +46,10 @@ layout: default
 * [More Than Just a Tweet: Trump’s Campaign to Undercut Democracy](https://www.nytimes.com/2020/07/31/us/politics/trump-tweet-democracy.html)
 * [Republicans and White House at Odds Over Kansas Senate Race](https://www.nytimes.com/2020/07/30/us/politics/kansas-senate-kobach-trump.html)
 * [Will Herman Cain’s Death Change Republican Views on the Virus and Masks?](https://www.nytimes.com/2020/07/30/us/politics/herman-cain-gop-coronavirus.html)
-* [Does Trump Want to Save His Economy?](https://www.nytimes.com/2020/07/31/business/coronavirus-trump-economy.html)
 * [Hong Kong Delays Election, Citing Coronavirus. The Opposition Isn’t Buying It.](https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-delayed.html)
 * [Hong Kong Bans Eating in Restaurants. And Then It Doesn’t.](https://www.nytimes.com/2020/07/31/world/asia/hongkong-dining-lunch-coronavirus.html)
+* [European Economy Shrinks by Historic Margin](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus)
+* [Does Trump Want to Save His Economy?](https://www.nytimes.com/2020/07/31/business/coronavirus-trump-economy.html)
 * [Omar Hassan al-Bashir Is Gone, but the Killing Goes On in Darfur](https://www.nytimes.com/2020/07/30/world/middleeast/darfur-sudan.html)
 * [Outdoors Innovation](https://www.nytimes.com/2020/07/31/briefing/nba-economy-herman-cain-your-friday-briefing.html)
 * [On a Hot Day, 96,000 New Yorkers Are Asked to Conserve Power](https://www.nytimes.com/2020/07/31/nyregion/nyc-power-con-edison.html)
@@ -98,12 +99,12 @@ layout: default
 
 
 * [Com pandemia, PIBs de França, Espanha e Itália têm tombos históricos no segundo trimestre](https://oglobo.globo.com/economia/com-pandemia-pibs-de-franca-espanha-italia-tem-tombos-historicos-no-segundo-trimestre-24560212)
+* [Chuva permanece no Rio nesta sexta-feira, com registros em pontos isolados; veja a previsão](https://oglobo.globo.com/rio/chuva-permanece-no-rio-nesta-sexta-feira-com-registros-em-pontos-isolados-veja-previsao-24560223)
+* [Governo de Hong Kong anuncia adiamento de eleições legislativas, em revés para movimento pró-democracia](https://oglobo.globo.com/mundo/governo-de-hong-kong-anuncia-adiamento-de-eleicoes-legislativas-em-reves-para-movimento-pro-democracia-24560233)
 * [Julianne Moore se arrepende de ter feito personagem lésbica em 'Minhas mães e meu pai'](https://oglobo.globo.com/ela/gente/julianne-moore-se-arrepende-de-ter-feito-personagem-lesbica-em-minhas-maes-meu-pai-24560214)
 * [Governo e STF preparam projeto que tira poder do MPF em acordos de leniência](https://oglobo.globo.com/brasil/governo-stf-preparam-projeto-que-tira-poder-do-mpf-em-acordos-de-leniencia-1-24560053)
 * [Brasil tem 2.614.662 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2614662-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24560189)
 * [STF e Planalto agem para tirar MPF de acordos de leniência](https://oglobo.globo.com/brasil/stf-planalto-agem-para-tirar-mpf-de-acordos-de-leniencia-24560197)
-* [Universidades privadas de São Paulo são alvo de hackers e mais de 1 milhão de alunos têm dados vazados](https://oglobo.globo.com/sociedade/universidades-privadas-de-sao-paulo-sao-alvo-de-hackers-mais-de-1-milhao-de-alunos-tem-dados-vazados-24560072)
 * [‘Mamãe está aqui’: matriarcas se mobilizam nos Estados Unidos para proteger manifestantes](https://oglobo.globo.com/mundo/mamae-esta-aqui-matriarcas-se-mobilizam-nos-estados-unidos-para-proteger-manifestantes-24559645)
 * [Licenças de servidores federais custaram R$ 4,6 bi em 2019](https://epoca.globo.com/guilherme-amado/licencas-de-servidores-federais-custaram-46-bi-em-2019-24559630)
 * [Filme de Caetano vai para o streaming](https://epoca.globo.com/guilherme-amado/filme-de-caetano-vai-para-streaming-24559556)
-* [Saiba como será o Big Jump, parque de trampolins que abre neste domingo na Barra](https://oglobo.globo.com/rio/bairros/saiba-como-sera-big-jump-parque-de-trampolins-que-abre-neste-domingo-na-barra-1-24559291)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 17:13:35 UTC
+# indexed at 01/08/2020 17:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
+* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
 * [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
+* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
+* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
 * [Bootstrap Icons](https://github.com/twbs/icons)
 * [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
-* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
-* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * [Instagram Morphs into an Information Powerhouse](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html)
-* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
-* [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
+* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 * [Stock Market: What Happens If Tesla Enters S&P 500](https://www.bloomberg.com/news/articles/2020-07-31/stock-market-what-happens-if-tesla-enters-s-p-500)
-* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
 * [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
-* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
 * [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
+* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [Pkg.go.dev is more concerned with Google's interests than good engineering](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html)
+* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
 * [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
 * [StackExchange Performance Stats](https://stackexchange.com/performance)
-* [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
+* [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
 * [Ask HN: Starting a SaaS business as non-technical founder](https://news.ycombinator.com/item?id=24021128)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
 * [Show HN: Add popups to your website ️ backed with Google Sheets (for free)](https://proven.ly/demo-notify.html)
 * [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
-* [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
-* [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
 ## nytimes.com
 
 
@@ -58,6 +58,7 @@ layout: default
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [When Conservatives Fall for Demagogues](https://www.nytimes.com/2020/07/30/opinion/the-argument-authoritarianism-anne-applebaum.html)
 * [Federal Agents Don’t Need Army Fatigues](https://www.nytimes.com/2020/07/31/opinion/federal-agents-trump-uniforms.html)
+* [Talking to the Dead in the Sunshine State](https://www.nytimes.com/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
 * [Coronavirus Forced Indian Workers on a Deadly Journey](https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
 * [Scared That Covid-19 Immunity Won’t Last? Don’t Be](https://www.nytimes.com/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
 * [Trump, Please Quit Before You’re Fired](https://www.nytimes.com/2020/07/31/opinion/trump-resign.html)
@@ -67,7 +68,6 @@ layout: default
 * [John Lewis Was the Anti-Trump](https://www.nytimes.com/2020/07/31/opinion/john-lewis-trump-election-2020.html)
 * [Andrew Cuomo: Coronavirus Tests Can Have Fast Results, Here’s How](https://www.nytimes.com/2020/07/31/opinion/coronavirus-testing-cuomo.html)
 * [The Cult of Selfishness Is Killing America](https://www.nytimes.com/2020/07/27/opinion/us-republicans-coronavirus.html)
-* [I Hope This Is Not Another Lie About the Republican Party](https://www.nytimes.com/2020/07/29/opinion/trump-republican-party-racism.html)
 * [The Reconciliation Must Be Televised](https://www.nytimes.com/2020/07/30/arts/television/the-moment-racism-tv.html)
 * [Raven Leilani, a Flâneur Who Is Going Places](https://www.nytimes.com/2020/07/31/books/raven-leilani-luster.html)
 * [Can’t Afford a Birkin Bag or a Racehorse? You Can Invest in One](https://www.nytimes.com/2020/07/31/your-money/birkin-bag-racehorse-invest.html)
@@ -80,11 +80,11 @@ layout: default
 * [In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies](https://www.nytimes.com/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
 * [Celebrating Eid al-Adha Amid a Pandemic](https://www.nytimes.com/2020/08/01/us/eid-al-adha-coronavirus.html)
 * [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](https://www.nytimes.com/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Morte de MC Atrevida: alegando ter sofrido AVC, médico que fez hidrolipo ainda não depôs](https://oglobo.globo.com/rio/morte-de-mc-atrevida-alegando-ter-sofrido-avc-medico-que-fez-hidrolipo-ainda-nao-depos-24562365)
 * [Flávio Bolsonaro diz que Queiroz estaria no Senado se 'nada de anormal tivesse acontecido'](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-que-queiroz-estaria-no-senado-se-nada-de-anormal-tivesse-acontecido-24562327)
+* [Flávio Bolsonaro afirma que Queiroz estaria com ele no Senado se 'nada de anormal tivesse acontecido'](https://oglobo.globo.com/brasil/flavio-bolsonaro-afirma-que-queiroz-estaria-com-ele-no-senado-se-nada-de-anormal-tivesse-acontecido-24562335)
 * [Conheça os bairros do Rio com as maiores taxas de mortalidade por casos da Covid-19](https://oglobo.globo.com/rio/conheca-os-bairros-do-rio-com-as-maiores-taxas-de-mortalidade-por-casos-da-covid-19-24562333)
 * [Liberação da Prefeitura não estimula volta de barraqueiros à praia](https://oglobo.globo.com/rio/liberacao-da-prefeitura-nao-estimula-volta-de-barraqueiros-praia-24562354)
 * [Ataque de Aras a subprocuradora gera reação de colegas e acusações de machismo](https://oglobo.globo.com/brasil/ataque-de-aras-subprocuradora-gera-reacao-de-colegas-acusacoes-de-machismo-24562312)
-* [Flávio Bolsonaro afirma que Queiroz estaria com ele no Senado se 'nada de anormal tivesse acontecido'](https://oglobo.globo.com/brasil/flavio-bolsonaro-afirma-que-queiroz-estaria-com-ele-no-senado-se-nada-de-anormal-tivesse-acontecido-24562335)
 * [Vasco vence o Volta Redonda em último jogo-treino antes do Brasileiro](https://oglobo.globo.com/esportes/vasco-vence-volta-redonda-em-ultimo-jogo-treino-antes-do-brasileiro-24562328)
 * [Brasil tem 92.789 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-92789-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24562317)
-* [Rússia planeja vacinação em massa contra o coronavírus a partir de outubro](https://oglobo.globo.com/mundo/russia-planeja-vacinacao-em-massa-contra-coronavirus-partir-de-outubro-24562303)
 * [Câmara dos EUA cobra embaixador americano no Brasil por pedir redução de tarifa do etanol para favorecer Trump](https://epoca.globo.com/guilherme-amado/camara-dos-eua-cobra-embaixador-americano-no-brasil-por-pedir-reducao-de-tarifa-do-etanol-para-favorecer-trump-24562307)
 * [Juiz da Lava Jato julgará investigação que mira ex-ministro](https://epoca.globo.com/guilherme-amado/juiz-da-lava-jato-julgara-investigacao-que-mira-ex-ministro-24561774)

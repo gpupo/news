@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 03:14:16 UTC
+# indexed at 01/08/2020 03:34:21 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
+* [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
-* [ECJ rules US Cloud services fundamentally incompatible with EU Privacy laws](https://nextcloud.com/blog/breaking-news-ecj-rules-us-cloud-services-fundamentally-incompatible-with-eu-privacy-laws/)
-* [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
-* [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
-* [OpenAI API](https://openai.com/blog/openai-api/)
-* [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
-* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
+* [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
+* [ECJ rules US Cloud services fundamentally incompatible with EU Privacy laws](https://nextcloud.com/blog/breaking-news-ecj-rules-us-cloud-services-fundamentally-incompatible-with-eu-privacy-laws/)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
+* [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
+* [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
+* [Cardiovascular MRI in Patients Recently Recovered from Covid-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
+* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
+* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 * [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
-* [Flexport Is Hiring in North America, Europe, and Asia](https://www.flexport.com/careers)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
+* [Flexport Is Hiring in North America, Europe, and Asia](https://www.flexport.com/careers)
 * [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
-* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
-* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 * [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
 * [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
-* [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
+* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
 * [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
+* [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [An Open Version of WordNet](https://en-word.net/)
-* [Starting a Business Around GPT-3 Is a Bad Idea](https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/)
 * [GTK 3.99](https://blog.gtk.org/2020/07/31/gtk-3-99/)
-* [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
+* [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [PlayCanvas launches glTF 2.0 Viewer Tool](https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/)
 * [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
-* [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
+* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
 ## nytimes.com
 
 
@@ -102,6 +102,7 @@ layout: default
 ## globo.com
 
 
+* [Trump anuncia que proibirá TikTok nos EUA](https://oglobo.globo.com/economia/trump-anuncia-que-proibira-tiktok-nos-eua-24562163)
 * [Fiocruz e AstraZeneca acertam detalhes para produção de vacina contra a Covid-19](https://oglobo.globo.com/sociedade/fiocruz-astrazeneca-acertam-detalhes-para-producao-de-vacina-contra-covid-19-24562089)
 * [Deputados dos EUA pedem explicações a embaixador americano no Brasil sobre favorecimento à campanha de Trump](https://oglobo.globo.com/mundo/deputados-dos-eua-pedem-explicacoes-embaixador-americano-no-brasil-sobre-favorecimento-campanha-de-trump-24562009)
 * [Aras ataca subprocuradora por ‘não ter família’ e gera onda de apoio a ela](https://epoca.globo.com/guilherme-amado/aras-ataca-subprocuradora-por-nao-ter-familia-gera-onda-de-apoio-ela-24562141)
@@ -109,6 +110,5 @@ layout: default
 * [Decisão do STF atende Petrobras em processos trabalhistas que somam R$ 1,5 bilhão](https://oglobo.globo.com/economia/decisao-do-stf-atende-petrobras-em-processos-trabalhistas-que-somam-15-bilhao-1-24561926)
 * [Rio é um dos oito estados com tendência de alta de mortes por Covid-19](https://oglobo.globo.com/sociedade/rio-um-dos-oito-estados-com-tendencia-de-alta-de-mortes-por-covid-19-1-24561786)
 * [Petrobras vai homenagear militares com batismo de plataformas](https://oglobo.globo.com/economia/petrobras-vai-homenagear-militares-com-batismo-de-plataformas-24561771)
-* [Latam anuncia plano para demitir ‘no mínimo’ 2,7 mil tripulantes](https://oglobo.globo.com/economia/latam-anuncia-plano-para-demitir-no-minimo-27-mil-tripulantes-24561706)
 * [Diplomacia exótica de Bolsonaro atinge interesse nacional](https://oglobo.globo.com/opiniao/diplomacia-exotica-de-bolsonaro-atinge-interesse-nacional-24561529)
 * [Empresas começam a sentir efeitos da política de insensatez ambiental](https://oglobo.globo.com/opiniao/empresas-comecam-sentir-efeitos-da-politica-de-insensatez-ambiental-24561477)

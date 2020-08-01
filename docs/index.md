@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 02:15:29 UTC
+# indexed at 01/08/2020 02:34:33 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
-* [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
-* [Flexport Is Hiring in North America, Europe, and Asia](https://www.flexport.com/careers)
 * [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
 * [ECJ rules US Cloud services fundamentally incompatible with EU Privacy laws](https://nextcloud.com/blog/breaking-news-ecj-rules-us-cloud-services-fundamentally-incompatible-with-eu-privacy-laws/)
+* [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
+* [OpenAI API](https://openai.com/blog/openai-api/)
+* [Flexport Is Hiring in North America, Europe, and Asia](https://www.flexport.com/careers)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
 * [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
-* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
 * [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
+* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 * [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
+* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
 * [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 * [GTK 3.99](https://blog.gtk.org/2020/07/31/gtk-3-99/)
-* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [An Open Version of WordNet](https://en-word.net/)
-* [OpenAI API](https://openai.com/blog/openai-api/)
 * [Starting a Business Around GPT-3 Is a Bad Idea](https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/)
 * [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
+* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
 * [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [PlayCanvas launches glTF 2.0 Viewer Tool](https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/)
-* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
 * [The Anglerfish Deleted Its Immune System to Fuse with Its Mate](https://www.wired.com/story/the-anglerfish-deleted-its-immune-system-to-fuse-with-its-mate/)
 ## nytimes.com
 
@@ -60,9 +60,9 @@ layout: default
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Coronavirus Forced Indian Workers on a Deadly Journey](https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
 * [Federal Agents Don’t Need Army Fatigues](https://www.nytimes.com/2020/07/31/opinion/federal-agents-trump-uniforms.html)
-* [The Less Impossible Israeli-Palestinian Peace](https://www.nytimes.com/2020/07/31/opinion/israeli-palestinian-peace.html)
 * [Scared That Covid-19 Immunity Won’t Last? Don’t Be](https://www.nytimes.com/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
 * [Trump, Please Quit Before You’re Fired](https://www.nytimes.com/2020/07/31/opinion/trump-resign.html)
+* [The Less Impossible Israeli-Palestinian Peace](https://www.nytimes.com/2020/07/31/opinion/israeli-palestinian-peace.html)
 * [Trump Has Been Comparing Himself to Nixon. That’s Hooey.](https://www.nytimes.com/2020/07/31/opinion/trump-nixon-authoritarianism.html)
 * [John Lewis: Together, You Can Redeem the Soul of Our Nation](https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html)
 * [John Lewis Was the Anti-Trump](https://www.nytimes.com/2020/07/31/opinion/john-lewis-trump-election-2020.html)
@@ -81,11 +81,11 @@ layout: default
 * [Homeland Security Shuts Down ‘Intelligence’ Reports on Journalists](https://www.nytimes.com/2020/07/31/us/politics/homeland-security-portland.html)
 * [Trump Officials Reconsider Prosecuting ISIS ‘Beatles’ Without Death Penalty](https://www.nytimes.com/2020/07/31/world/middleeast/isis-beatles-hostages.html)
 * [Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining](https://www.nytimes.com/2020/07/31/nyregion/nello-liquor-license-suspended.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [‘The Better I Got in Sports, the Worse the Racism Got’](https://www.nytimes.com/2020/07/31/sports/basketball/spurs-patty-mills.html)
 * [The Lynn Shelton That Marc Maron Knew](https://www.nytimes.com/2020/07/31/movies/marc-maron-lynn-shelton.html)
 * [Muppet Meta Mania, Revived for the Streaming Era](https://www.nytimes.com/2020/07/31/arts/television/muppets-now.html)
@@ -104,12 +104,12 @@ layout: default
 
 
 * [Deputados dos EUA pedem explicações a embaixador americano no Brasil sobre favorecimento à campanha de Trump](https://oglobo.globo.com/mundo/deputados-dos-eua-pedem-explicacoes-embaixador-americano-no-brasil-sobre-favorecimento-campanha-de-trump-24562009)
+* [Fiocruz e AstraZeneca acertam detalhes para produção de vacina contra a Covid-19](https://oglobo.globo.com/sociedade/fiocruz-astrazeneca-acertam-detalhes-para-producao-de-vacina-contra-covid-19-24562089)
+* [Presidente do STJ defende decisão em que soltou Queiroz e critica imprensa e 'lava-jatismo'](https://oglobo.globo.com/brasil/presidente-do-stj-defende-decisao-em-que-soltou-queiroz-critica-imprensa-lava-jatismo-24562124)
 * [Decisão do STF atende Petrobras em processos trabalhistas que somam R$ 1,5 bilhão](https://oglobo.globo.com/economia/decisao-do-stf-atende-petrobras-em-processos-trabalhistas-que-somam-15-bilhao-1-24561926)
-* [União é condenada a pagar R$ 50 mil por declarações de Weintraub sobre 'plantações de maconha' em universidades](https://oglobo.globo.com/sociedade/uniao-condenada-pagar-50-mil-por-declaracoes-de-weintraub-sobre-plantacoes-de-maconha-em-universidades-24561600)
 * [Governo argentino desiste de intervenção em empresa agroexportadora que faliu](https://oglobo.globo.com/mundo/governo-argentino-desiste-de-intervencao-em-empresa-agroexportadora-que-faliu-24561686)
 * [Rio é um dos oito estados com tendência de alta de mortes por Covid-19](https://oglobo.globo.com/sociedade/rio-um-dos-oito-estados-com-tendencia-de-alta-de-mortes-por-covid-19-1-24561786)
 * [James Murdoch deixa o conselho da News Corp](https://oglobo.globo.com/economia/james-murdoch-deixa-conselho-da-news-corp-24561622)
 * [Petrobras vai homenagear militares com batismo de plataformas](https://oglobo.globo.com/economia/petrobras-vai-homenagear-militares-com-batismo-de-plataformas-24561771)
 * [Latam anuncia plano para demitir ‘no mínimo’ 2,7 mil tripulantes](https://oglobo.globo.com/economia/latam-anuncia-plano-para-demitir-no-minimo-27-mil-tripulantes-24561706)
 * [Brasil registrou 52.509 novos casos e 1.191 mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-registrou-52509-novos-casos-1191-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24561569)
-* ['Ele não fazia perguntas normais', diz paciente expulso de consultório por médico armado após discussão por teste de Covid-19](https://oglobo.globo.com/rio/ele-nao-fazia-perguntas-normais-diz-paciente-expulso-de-consultorio-por-medico-armado-apos-discussao-por-teste-de-covid-19-24561598)

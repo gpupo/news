@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 22:13:30 UTC
+# indexed at 01/08/2020 22:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
 * [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
 * [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
+* [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
+* [Japan's Brand New Bullet Train Is Earthquake-Proof](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/)
 * [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
-* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
-* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [Microsoft and Bytedance Put TikTok Talks on Hold After Trump Signals Opposition](https://www.wsj.com/articles/microsoft-and-bytedance-put-tiktok-talks-on-hold-after-trump-signals-opposition-11596312611)
-* [More Than 1k Companies Boycotted Facebook. Did It Work?](https://www.nytimes.com/2020/08/01/business/media/facebook-boycott.html)
+* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
+* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
+* [More Than 1k Companies Boycotted Facebook. Did It Work?](https://www.nytimes.com/2020/08/01/business/media/facebook-boycott.html)
 * [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
-* [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
 * [The Fantasy and the Cyberpunk Futurism of Singapore](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore)
-* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
-* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
+* [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
+* [NASA SpaceX Crew enters iPad pin in plain view of camera](https://imgur.com/a/b8J7xuM)
 * [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
+* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
+* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
 * [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
 * [Pkg.go.dev is more concerned with Google's interests than good engineering](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html)
-* [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [Bootstrap Icons](https://github.com/twbs/icons)
+* [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [Instagram Morphs into an Information Powerhouse](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html)
 * [Show HN: Plugin to add persisted GraphQL queries to WordPress](https://github.com/GraphQLAPI/graphql-api)
 * [Sharing Knowledge in a Remote team, across Timezones](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
-* [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
-* [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
-* [Shards of Truth](https://www.eurozine.com/shards-of-truth/)
 ## nytimes.com
 
 
@@ -55,7 +55,7 @@ layout: default
 * [Tracking Isaias: Live Updates](https://www.nytimes.com/2020/08/01/us/hurricane-isaias-track.html)
 * [A #MeToo Moment in the Military](https://www.nytimes.com/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
-* [When Conservatives Fall for Demagogues](https://www.nytimes.com/2020/07/30/opinion/the-argument-authoritarianism-anne-applebaum.html)
+* [The Yearning for the Unexplained](https://www.nytimes.com/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html)
 * [Double, Double, Trump’s Toil, Our Trouble](https://www.nytimes.com/2020/08/01/opinion/columnists/trump-coronavirus-herman-cain.html)
 * [Talking to the Dead in the Sunshine State](https://www.nytimes.com/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
 * [Coronavirus Forced Indian Workers on a Deadly Journey](https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
@@ -81,9 +81,9 @@ layout: default
 * [Why a Data Breach at a Genealogy Site Has Privacy Experts Worried](https://www.nytimes.com/2020/08/01/technology/gedmatch-breach-privacy.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -94,13 +94,14 @@ layout: default
 * [Can Humans Give Coronavirus to Bats, and Other Wildlife?](https://www.nytimes.com/2020/08/01/science/Covid-bats.html)
 * [DNA Study from 23andMe Traces Violent History of American Slavery](https://www.nytimes.com/2020/07/23/science/23andme-african-ancestry.html)
 * [On the First Day of School, an Indiana Student Tests Positive for Coronavirus](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
-* [How Much Watching Time Do You Have This Weekend?](https://www.nytimes.com/2020/07/30/arts/television/muppets-disney-errol-morris-first-person.html)
+* [Trump, Please Quit Before You’re Fired](https://www.nytimes.com/2020/07/31/opinion/trump-resign.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Professores da rede particular do Rio decidem não retomar aulas presenciais](https://oglobo.globo.com/rio/professores-da-rede-particular-do-rio-decidem-nao-retomar-aulas-presenciais-24562764)
 * [Indicado para o BB, André Brandão terá que passar por longo rito antes de assumir cargo. Entenda as etapas](https://oglobo.globo.com/economia/indicado-para-bb-andre-brandao-tera-que-passar-por-longo-rito-antes-de-assumir-cargo-entenda-as-etapas-24562606)
 * [De máscaras à cloroquina, o que idas e vindas na pandemia ensinam sobre a ciência](https://epoca.globo.com/de-mascaras-cloroquina-que-idas-vindas-na-pandemia-ensinam-sobre-ciencia-24562736)
 * ['Rainha das plásticas' diz colaborar com investigações sobre morte de MC Atrevida: 'Tudo será esclarecido'](https://oglobo.globo.com/rio/rainha-das-plasticas-diz-colaborar-com-investigacoes-sobre-morte-de-mc-atrevida-tudo-sera-esclarecido-24562734)
@@ -110,4 +111,3 @@ layout: default
 * [Com proibição, visitantes são dispersados do mirante da Vista Chinesa](https://oglobo.globo.com/rio/com-proibicao-visitantes-sao-dispersados-do-mirante-da-vista-chinesa-24562594)
 * [Boletim da Fiocruz mostra crescimento dos casos de Covid-19 no estado do Rio nas últimas semanas](https://oglobo.globo.com/rio/boletim-da-fiocruz-mostra-crescimento-dos-casos-de-covid-19-no-estado-do-rio-nas-ultimas-semanas-24562563)
 * [Após morte de gatos por envenamento, quiosques são depredados; Protetores dos animais repudiam](https://oglobo.globo.com/rio/apos-morte-de-gatos-por-envenamento-quiosques-sao-depredados-protetores-dos-animais-repudiam-1-24562549)
-* [Maia sai em defesa de Felipe Neto e o convida para dar sugestões no PL das fake news](https://oglobo.globo.com/brasil/maia-sai-em-defesa-de-felipe-neto-o-convida-para-dar-sugestoes-no-pl-das-fake-news-24562507)

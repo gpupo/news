@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 13:34:51 UTC
+# indexed at 01/08/2020 14:14:32 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
-* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
 * [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
+* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
+* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
 * [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [T-Mobile blocking SMS containing specific words](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
+* [Samsung Electronics to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
-* [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
 * [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
-* [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
+* [Portland sees peaceful night of protests following withdrawal of federal agents](https://www.theguardian.com/us-news/2020/jul/31/portland-protests-latest-peaceful-night-federal-troops-withdrawal)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
+* [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
+* [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
 * [Amazon investing $10B to compete against SpaceX in satellite broadband](https://arstechnica.com/information-technology/2020/07/amazon-gets-fcc-approval-to-launch-3236-low-earth-broadband-satellites/)
 * [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
+* [How a $175 covid-19 test led to $2,479 in charges](https://www.propublica.org/article/how-a-covid-19-test-led-to-charges)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Alacritty v0.5](https://blog.christianduerr.com/alacritty_0_5_0_announcement.html)
-* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
+* [Data isn't just being collected from your phone. It's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
-* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
-* [Upcoming changes to Cortana](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
-* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
-* [History of software engineering](https://en.wikipedia.org/wiki/History_of_software_engineering)
-* [How a $175 covid-19 test led to $2,479 in charges](https://www.propublica.org/article/how-a-covid-19-test-led-to-charges)
-* [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
+* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [James Murdoch Resigns From News Corp](https://www.nytimes.com/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
 * [Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned](https://www.nytimes.com/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
 * [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Alternativa para evitar o transporte público, adoção das bicicletas é impulsionada pela pandemia da Covid-19](https://oglobo.globo.com/sociedade/alternativa-para-evitar-transporte-publico-adocao-das-bicicletas-impulsionada-pela-pandemia-da-covid-19-24532090)
+* [André Brandão, do HSBC, é escolhido novo presidente do Banco do Brasil](https://oglobo.globo.com/economia/andre-brandao-do-hsbc-escolhido-novo-presidente-do-banco-do-brasil-24562264)
+* [Furacão Isaías varre as Bahamas e segue rumo à Flórida, castigada pela Covid-19](https://oglobo.globo.com/mundo/furacao-isaias-varre-as-bahamas-segue-rumo-florida-castigada-pela-covid-19-24562284)
+* [Polícia recupera R$ 1,6 milhão roubados em assalto que provocou pânico em Botucatu (SP)](https://oglobo.globo.com/brasil/policia-recupera-16-milhao-roubados-em-assalto-que-provocou-panico-em-botucatu-sp-24562291)
+* [Bolsonaro mira 2022 e amplia pressão por gastos](https://oglobo.globo.com/brasil/bolsonaro-mira-2022-amplia-pressao-por-gastos-24562289)
 * [Policia prende dois suspeitos por 'delivery' de drogas na Zona Sul](https://oglobo.globo.com/rio/policia-prende-dois-suspeitos-por-delivery-de-drogas-na-zona-sul-24562270)
 * [Líder religioso da Coreia do Sul é preso por supostamente sabotar combate ao coronavírus](https://oglobo.globo.com/mundo/lider-religioso-da-coreia-do-sul-preso-por-supostamente-sabotar-combate-ao-coronavirus-24562253)
 * [Homem morre em acidente de carro na Linha Vermelha, na altura da Maré](https://oglobo.globo.com/rio/homem-morre-em-acidente-de-carro-na-linha-vermelha-na-altura-da-mare-24562247)
 * [Brasil tem 2.667.241 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2667241-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24562221)
-* [De olho na reeleição, Bolsonaro participa de inaugurações de obras no Nordeste](https://epoca.globo.com/sociedade/de-olho-na-reeleicao-bolsonaro-participa-de-inauguracoes-de-obras-no-nordeste-24561034)
-* [Coluna | A teoria da conspiração que dominou o Brasil](https://epoca.globo.com/denis-r-burgierman/coluna-a-teoria-da-conspiracao-que-dominou-brasil-24562224)
 * [Dramaturgo que participou do BBB lança livro em que fala de episódios de racismo no programa](https://epoca.globo.com/guilherme-amado/dramaturgo-que-participou-do-bbb-lanca-livro-em-que-fala-de-episodios-de-racismo-no-programa-24561886)
 * [Saiba por que a Itália, epicentro da Covid-19 na Europa, está em melhor situação que outros países](https://oglobo.globo.com/mundo/saiba-por-que-italia-epicentro-da-covid-19-na-europa-esta-em-melhor-situacao-que-outros-paises-1-24561045)
-* [Lives de hoje: Erasmo Carlos e Fafá de Belém são atrações deste sábado](https://oglobo.globo.com/rioshow/lives-de-hoje-erasmo-carlos-fafa-de-belem-sao-atracoes-deste-sabado-24561335)

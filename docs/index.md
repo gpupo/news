@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 01:15:24 UTC
+# indexed at 01/08/2020 01:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
 * [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
-* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
-* [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
+* [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
+* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 * [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
 * [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
-* [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
 * [GTK 3.99](https://blog.gtk.org/2020/07/31/gtk-3-99/)
 * [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
+* [ECJ rules US Cloud services fundamentally incompatible with EU Privacy laws](https://nextcloud.com/blog/breaking-news-ecj-rules-us-cloud-services-fundamentally-incompatible-with-eu-privacy-laws/)
 * [An Open Version of WordNet](https://en-word.net/)
-* [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
-* [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
+* [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 * [Starting a Business Around GPT-3 Is a Bad Idea](https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/)
-* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
-* [Microsoft will shut down the Cortana iOS and Android apps in 2021](https://www.engadget.com/cortana-shutdown-harman-kardon-invoke-ios-android-191700426.html)
+* [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
 * [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
+* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
 * [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [PlayCanvas launches glTF 2.0 Viewer Tool](https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/)
-* [A College Degree Is No Guarantee of a Good Life](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
 * [The Anglerfish Deleted Its Immune System to Fuse with Its Mate](https://www.wired.com/story/the-anglerfish-deleted-its-immune-system-to-fuse-with-its-mate/)
+* [Microsoft will shut down the Cortana iOS and Android apps in 2021](https://www.engadget.com/cortana-shutdown-harman-kardon-invoke-ios-android-191700426.html)
+* [Spherical Geometry Is Stranger Than Hyperbolic](https://www.youtube.com/watch?v=yY9GAyJtuJ0)
 ## nytimes.com
 
 
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [União é condenada a pagar R$ 50 mil por declarações de Weintraub sobre 'plantações de maconha' em universidades](https://oglobo.globo.com/sociedade/uniao-condenada-pagar-50-mil-por-declaracoes-de-weintraub-sobre-plantacoes-de-maconha-em-universidades-24561600)
+* [Decisão do STF atende Petrobras em processos trabalhistas que somam R$ 1,5 bilhão](https://oglobo.globo.com/economia/decisao-do-stf-atende-petrobras-em-processos-trabalhistas-que-somam-15-bilhao-24561926)
+* [Governo argentino desiste de intervenção em empresa agroexportadora que faliu](https://oglobo.globo.com/mundo/governo-argentino-desiste-de-intervencao-em-empresa-agroexportadora-que-faliu-24561686)
 * [Rio é um dos oito estados com tendência de alta de mortes por Covid-19](https://oglobo.globo.com/sociedade/rio-um-dos-oito-estados-com-tendencia-de-alta-de-mortes-por-covid-19-1-24561786)
 * [James Murdoch deixa o conselho da News Corp](https://oglobo.globo.com/economia/james-murdoch-deixa-conselho-da-news-corp-24561622)
 * [Petrobras vai homenagear militares com batismo de plataformas](https://oglobo.globo.com/economia/petrobras-vai-homenagear-militares-com-batismo-de-plataformas-24561771)
-* [Governo argentino desiste de intervenção em empresa agroexportadora que faliu](https://oglobo.globo.com/mundo/governo-argentino-desiste-de-intervencao-em-empresa-agroexportadora-que-faliu-24561686)
 * [Latam anuncia plano para demitir ‘no mínimo’ 2,7 mil tripulantes](https://oglobo.globo.com/economia/latam-anuncia-plano-para-demitir-no-minimo-27-mil-tripulantes-24561706)
 * [Brasil registrou 52.509 novos casos e 1.191 mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-registrou-52509-novos-casos-1191-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24561569)
-* [União é condenada a pagar R$ 50 mil por declarações de Weintraub sobre 'plantações de maconha' em universidades](https://oglobo.globo.com/sociedade/uniao-condenada-pagar-50-mil-por-declaracoes-de-weintraub-sobre-plantacoes-de-maconha-em-universidades-24561600)
 * ['Ele não fazia perguntas normais', diz paciente expulso de consultório por médico armado após discussão por teste de Covid-19](https://oglobo.globo.com/rio/ele-nao-fazia-perguntas-normais-diz-paciente-expulso-de-consultorio-por-medico-armado-apos-discussao-por-teste-de-covid-19-24561598)
 * [PSG de Neymar bate Lyon nos pênaltis e conquista a Copa da Liga da França](https://oglobo.globo.com/esportes/psg-de-neymar-bate-lyon-nos-penaltis-conquista-copa-da-liga-da-franca-24561574)
-* [Homenagem ao esforço dos professores na pandemia motiva aplauso coletivo](https://oglobo.globo.com/sociedade/homenagem-ao-esforco-dos-professores-na-pandemia-motiva-aplauso-coletivo-24561240)

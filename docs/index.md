@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 18:15:03 UTC
+# indexed at 01/08/2020 18:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
-* [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
-* [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
-* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
-* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
-* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
-* [Pkg.go.dev is more concerned with Google's interests than good engineering](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html)
 * [The Fantasy and the Cyberpunk Futurism of Singapore](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore)
-* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
-* [Bootstrap Icons](https://github.com/twbs/icons)
+* [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
+* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
+* [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
+* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
+* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
 * [Instagram Morphs into an Information Powerhouse](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html)
-* [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
-* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
+* [Bootstrap Icons](https://github.com/twbs/icons)
+* [Pkg.go.dev is more concerned with Google's interests than good engineering](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html)
+* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
 * [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
-* [Stock Market: What Happens If Tesla Enters S&P 500](https://www.bloomberg.com/news/articles/2020-07-31/stock-market-what-happens-if-tesla-enters-s-p-500)
+* [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
+* [New Hampshire Opens Its Roads to Flying Cars](https://www.governing.com/next/New-Hampshire-Opens-its-Roads-to-Flying-Cars.html)
+* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 * [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
-* [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
-* [StackExchange Performance Stats](https://stackexchange.com/performance)
 * [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
+* [Stock Market: What Happens If Tesla Enters S&P 500](https://www.bloomberg.com/news/articles/2020-07-31/stock-market-what-happens-if-tesla-enters-s-p-500)
 * [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
-* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
+* [StackExchange Performance Stats](https://stackexchange.com/performance)
 * [Show HN: Plugin to add persisted GraphQL queries to WordPress](https://github.com/GraphQLAPI/graphql-api)
+* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Ask HN: Starting a SaaS business as non-technical founder](https://news.ycombinator.com/item?id=24021128)
-* [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies](https://www.nytimes.com/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
 * [Celebrating Eid al-Adha Amid a Pandemic](https://www.nytimes.com/2020/08/01/us/eid-al-adha-coronavirus.html)
 * [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](https://www.nytimes.com/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -102,6 +102,7 @@ layout: default
 ## globo.com
 
 
+* [Em Berlim, milhares vão às ruas para protestar contra restrições impostas pela pandemia](https://oglobo.globo.com/mundo/em-berlim-milhares-vao-as-ruas-para-protestar-contra-restricoes-impostas-pela-pandemia-24562397)
 * [Príncipe Andrew é acusaso de participar de orgia com menores de idade](https://oglobo.globo.com/ela/gente/principe-andrew-acusaso-de-participar-de-orgia-com-menores-de-idade-1-24562356)
 * [Flamengo fecha primeiro semestre com prejuízo de R$ 26 milhões; veja os números](https://oglobo.globo.com/esportes/flamengo/flamengo-fecha-primeiro-semestre-com-prejuizo-de-26-milhoes-veja-os-numeros-24562413)
 * [OMS prevê que a pandemia de coronavírus será 'muito longa'](https://oglobo.globo.com/sociedade/oms-preve-que-pandemia-de-coronavirus-sera-muito-longa-24562391)
@@ -109,6 +110,5 @@ layout: default
 * [Liberação da Prefeitura não estimula volta de barraqueiros à praia](https://oglobo.globo.com/rio/liberacao-da-prefeitura-nao-estimula-volta-de-barraqueiros-praia-24562354)
 * [Conheça os bairros do Rio com as maiores taxas de mortalidade por casos da Covid-19](https://oglobo.globo.com/rio/conheca-os-bairros-do-rio-com-as-maiores-taxas-de-mortalidade-por-casos-da-covid-19-24562333)
 * [Morte de MC Atrevida: alegando ter sofrido AVC, médico que fez hidrolipo ainda não depôs](https://oglobo.globo.com/rio/morte-de-mc-atrevida-alegando-ter-sofrido-avc-medico-que-fez-hidrolipo-ainda-nao-depos-24562365)
-* [Flávio Bolsonaro diz que Queiroz estaria no Senado se 'nada de anormal tivesse acontecido'](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-que-queiroz-estaria-no-senado-se-nada-de-anormal-tivesse-acontecido-24562327)
 * [Flávio Bolsonaro afirma que Queiroz estaria com ele no Senado se 'nada de anormal tivesse acontecido'](https://oglobo.globo.com/brasil/flavio-bolsonaro-afirma-que-queiroz-estaria-com-ele-no-senado-se-nada-de-anormal-tivesse-acontecido-24562335)
 * [Vasco vence o Volta Redonda em último jogo-treino antes do Brasileiro](https://oglobo.globo.com/esportes/vasco-vence-volta-redonda-em-ultimo-jogo-treino-antes-do-brasileiro-24562328)

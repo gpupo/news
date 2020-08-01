@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 07:13:59 UTC
+# indexed at 01/08/2020 07:35:12 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [What I Learned from Doing 60 Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
+* [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
+* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
+* [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
 * [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
-* [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
+* [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
 * [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
-* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Microsoft Shutting Down Cortana on Multiple Devices, Including iOS and Android](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
+* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
+* [Trump says he will ban TikTok in the US](https://www.bbc.co.uk/news/world-us-canada-53619287)
 * [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
 * [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
-* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
+* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
+* [Show HN: Sizle.io – React Presentation Builder](https://sizle.io/presentations/)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
+* [China uses Hong Kong security law against US and UK-based activists](https://www.theguardian.com/world/2020/jul/31/china-hong-kong-security-law-american-citizen-exiles)
 * [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
-* [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
-* [Cardiovascular MRI in Patients Recently Recovered from Covid-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
-* [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
-* [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
-* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Homeland Security Shuts Down ‘Intelligence’ Reports on Journalists](https://www.nytimes.com/2020/07/31/us/politics/homeland-security-portland.html)
 * [Trump Officials Reconsider Prosecuting ISIS ‘Beatles’ Without Death Penalty](https://www.nytimes.com/2020/07/31/world/middleeast/isis-beatles-hostages.html)
 * [Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining](https://www.nytimes.com/2020/07/31/nyregion/nello-liquor-license-suspended.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [What Americans Need to Know About Europe’s Travel Ban](https://www.nytimes.com/article/eu-travel-ban-explained-usa.html)
 * [‘The Better I Got in Sports, the Worse the Racism Got’](https://www.nytimes.com/2020/07/31/sports/basketball/spurs-patty-mills.html)
 * [The Lynn Shelton That Marc Maron Knew](https://www.nytimes.com/2020/07/31/movies/marc-maron-lynn-shelton.html)
 * [Muppet Meta Mania, Revived for the Streaming Era](https://www.nytimes.com/2020/07/31/arts/television/muppets-now.html)

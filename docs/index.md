@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 10:13:59 UTC
+# indexed at 01/08/2020 10:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
+* [Gimp is working on its own version of “smart objects”](https://daviesmediadesign.com/gimp-is-quietly-working-on-its-own-version-of-smart-objects-and-its-just-as-good-as-photoshops/)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
-* [Gimp is working on its own version of “smart objects”](https://daviesmediadesign.com/gimp-is-quietly-working-on-its-own-version-of-smart-objects-and-its-just-as-good-as-photoshops/)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
 * [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
+* [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
 * [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
-* [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
 * [Upcoming changes to Cortana](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
 * [Show HN: Sizle.io – React Presentation Builder](https://sizle.io/presentations/)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
-* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
-* [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
-* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
+* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
-* [China uses Hong Kong security law against US and UK-based activists](https://www.theguardian.com/world/2020/jul/31/china-hong-kong-security-law-american-citizen-exiles)
 * [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
+* [China uses Hong Kong security law against US and UK-based activists](https://www.theguardian.com/world/2020/jul/31/china-hong-kong-security-law-american-citizen-exiles)
+* [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
+* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 ## nytimes.com
 
 
@@ -72,18 +72,18 @@ layout: default
 * [Beyoncé’s ‘Black Is King’: Let’s Discuss](https://www.nytimes.com/2020/07/31/arts/music/beyonce-black-is-king.html)
 * [Boston Marathon Bomber’s Death Sentence Is Thrown Out by Court](https://www.nytimes.com/2020/07/31/us/dzhokhar-tsarnaev-boston-marathon-bomber.html)
 * [Lawmakers ‘Alarmed’ by Reports U.S. Envoy Told Brazil It Could Help Re-elect Trump](https://www.nytimes.com/2020/07/31/world/americas/brazil-trump-ethanol-chapman.html)
-* [Alaska Midair Collision Kills 7, Officials Say](https://www.nytimes.com/2020/07/31/us/alaska-plane-crash-gary-knopp.html)
+* [Iran Will Expand Nuclear Program and Won’t Talk to U.S., Ayatollah Says](https://www.nytimes.com/2020/08/01/world/asia/iran-khamenei-us-sanctions.html)
 * [Court Frees Michigan Teen Who Was Held for Skipping Online Schoolwork](https://www.nytimes.com/2020/07/31/us/michigan-teen-homework-release.html)
 * [Hurricane Isaias Rakes the Bahamas on a Track for Florida’s East Coast](https://www.nytimes.com/2020/07/31/us/hurricane-isaias.html)
 * [‘Cocktails and Masks Don’t Really Go Together’](https://www.nytimes.com/2020/08/01/world/europe/russia-moscow-coronaviru.html)
 * [James Murdoch Resigns From News Corp](https://www.nytimes.com/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
 * [Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned](https://www.nytimes.com/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
 * [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Why You’re Probably Not So Great at Risk Assessment](https://www.nytimes.com/2020/06/30/smarter-living/why-youre-probably-not-so-great-at-risk-assessment.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Coluna | A teoria da conspiração que dominou o Brasil](https://epoca.globo.com/denis-r-burgierman/coluna-a-teoria-da-conspiracao-que-dominou-brasil-24562224)
 * [ARTIGO | Como o coronavírus irá mudar a arquitetura que você conhece](https://epoca.globo.com/artigo-como-coronavirus-ira-mudar-arquitetura-que-voce-conhece-24561342)
-* [Livros da quarentena | O império do sufocamento](https://epoca.globo.com/livros-da-quarentena-o-imperio-do-sufocamento-24561420)
 * [Isenção de imposto do 'remédio mais caro do mundo' mostra dificuldade de acesso de portadores de doenças raras a tratamentos](https://oglobo.globo.com/sociedade/isencao-de-imposto-do-remedio-mais-caro-do-mundo-mostra-dificuldade-de-acesso-de-portadores-de-doencas-raras-tratamentos-24562144)
 * [Treze milhões de brasileiros sofrem de doenças raras, como a que motivou a isenção de taxa do 'remédio mais caro do mundo'](https://oglobo.globo.com/sociedade/treze-milhoes-de-brasileiros-sofrem-de-doencas-raras-como-que-motivou-isencao-de-taxa-do-remedio-mais-caro-do-mundo-24561125)
-* [Na pandemia, Conselho da Justiça Federal quer construir academia para servidores](https://epoca.globo.com/guilherme-amado/na-pandemia-conselho-da-justica-federal-quer-construir-academia-para-servidores-24559392)
-* [Naiara Terra lança clipe de canção que gravou com Bruno Boncini (ex-Malta)](https://oglobo.globo.com/rio/bairros/naiara-terra-lanca-clipe-de-cancao-que-gravou-com-bruno-boncini-ex-malta-24561271)
+* [Um a cada três brasileiros já furou isolamento para ir a festas, aponta pesquisa](https://epoca.globo.com/guilherme-amado/um-cada-tres-brasileiros-ja-furou-isolamento-para-ir-festas-aponta-pesquisa-24561687)
 * [Pandemia provoca o fechamento de 7.702 postos de trabalho em Niterói](https://oglobo.globo.com/rio/bairros/pandemia-provoca-fechamento-de-7702-postos-de-trabalho-em-niteroi-24560837)
 * [À espera da reabertura: artista plástico Lair Uaracy tem mostra pronta para exibir no Centro Cultural Correios](https://oglobo.globo.com/rio/bairros/a-espera-da-reabertura-artista-plastico-lair-uaracy-tem-mostra-pronta-para-exibir-no-centro-cultural-correios-24561320)
+* [Lives de hoje: Erasmo Carlos e Fafá de Belém são atrações deste sábado](https://oglobo.globo.com/rioshow/lives-de-hoje-erasmo-carlos-fafa-de-belem-sao-atracoes-deste-sabado-24561335)
 * [Projeto Criolice realiza roda de samba virtual no domingo](https://oglobo.globo.com/rio/bairros/projeto-criolice-realiza-roda-de-samba-virtual-no-domingo-24559006)
 * [Opções para comemorar o Dia dos Pais em casa ou em restaurantes](https://oglobo.globo.com/rio/bairros/opcoes-para-comemorar-dia-dos-pais-em-casa-ou-em-restaurantes-24559372)

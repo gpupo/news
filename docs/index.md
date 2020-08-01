@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 15:13:39 UTC
+# indexed at 01/08/2020 15:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 * [Data isn't just being collected from your phone. It's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
-* [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
+* [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
-* [The World’s Wealthiest Family Gets $1B Richer Every Two Weeks](https://www.bloomberg.com/features/richest-families-in-the-world/)
+* [Ask HN: Starting a SaaS business as non-technical founder](https://news.ycombinator.com/item?id=24021128)
 * [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
-* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
 * [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
-* [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
+* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
+* [ByteDance reportedly reaches deal to sell TikTok American operations](https://www.theverge.com/2020/8/1/21350687/trump-tiktok-order-ban-us-app)
+* [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
 * [How a $175 covid-19 test led to $2,479 in charges](https://www.propublica.org/article/how-a-covid-19-test-led-to-charges)
 * [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
 * [Amazon investing $10B to compete against SpaceX in satellite broadband](https://arstechnica.com/information-technology/2020/07/amazon-gets-fcc-approval-to-launch-3236-low-earth-broadband-satellites/)
-* [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
 * [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
 * [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
-* [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
+* [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Alacritty v0.5](https://blog.christianduerr.com/alacritty_0_5_0_announcement.html)
-* [White House scrapped a testing plan because virus hit mostly blue states](https://theweek.com/speedreads/928628/white-house-reportedly-scrapped-national-testing-plan-because-virus-mostly-hitting-blue-states)
+* [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies](https://www.nytimes.com/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
 * [Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned](https://www.nytimes.com/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
 * [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](https://www.nytimes.com/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Ataque de Aras a subprocuradora gera reação de colegas e acusações de machismo](https://oglobo.globo.com/brasil/ataque-de-aras-subprocuradora-gera-reacao-de-colegas-acusacoes-de-machismo-24562312)
 * [Rússia planeja vacinação em massa contra o coronavírus a partir de outubro](https://oglobo.globo.com/mundo/russia-planeja-vacinacao-em-massa-contra-coronavirus-partir-de-outubro-24562303)
 * [Câmara dos EUA cobra embaixador americano no Brasil por pedir redução de tarifa do etanol para favorecer Trump](https://epoca.globo.com/guilherme-amado/camara-dos-eua-cobra-embaixador-americano-no-brasil-por-pedir-reducao-de-tarifa-do-etanol-para-favorecer-trump-24562307)
 * [Mercedes dominam treino; Hamilton e Bottas formam primeira fila do GP da Inglaterra](https://oglobo.globo.com/esportes/mercedes-dominam-treino-hamilton-bottas-formam-primeira-fila-do-gp-da-inglaterra-1-24562301)
 * [André Brandão, do HSBC, é escolhido novo presidente do Banco do Brasil](https://oglobo.globo.com/economia/andre-brandao-do-hsbc-escolhido-novo-presidente-do-banco-do-brasil-24562264)
 * [Furacão Isaías varre as Bahamas e segue rumo à Flórida, castigada pela Covid-19](https://oglobo.globo.com/mundo/furacao-isaias-varre-as-bahamas-segue-rumo-florida-castigada-pela-covid-19-24562284)
 * [Polícia recupera R$ 1,6 milhão roubados em assalto que provocou pânico em Botucatu (SP)](https://oglobo.globo.com/brasil/policia-recupera-16-milhao-roubados-em-assalto-que-provocou-panico-em-botucatu-sp-24562291)
-* [Bolsonaro mira 2022 e amplia pressão por gastos](https://oglobo.globo.com/brasil/bolsonaro-mira-2022-amplia-pressao-por-gastos-24562289)
 * [Policia prende dois suspeitos por 'delivery' de drogas na Zona Sul](https://oglobo.globo.com/rio/policia-prende-dois-suspeitos-por-delivery-de-drogas-na-zona-sul-24562270)
 * [Juiz da Lava Jato julgará investigação que mira ex-ministro](https://epoca.globo.com/guilherme-amado/juiz-da-lava-jato-julgara-investigacao-que-mira-ex-ministro-24561774)
 * [Saiba por que a Itália, epicentro da Covid-19 na Europa, está em melhor situação que outros países](https://oglobo.globo.com/mundo/saiba-por-que-italia-epicentro-da-covid-19-na-europa-esta-em-melhor-situacao-que-outros-paises-1-24561045)

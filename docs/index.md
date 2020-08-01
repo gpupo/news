@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 14:14:32 UTC
+# indexed at 01/08/2020 14:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
-* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
-* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
 * [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
+* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
+* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
+* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
+* [Data isn't just being collected from your phone. It's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
-* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
+* [Samsung Electronics to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
 * [T-Mobile blocking SMS containing specific words](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
+* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
-* [Samsung Electronics to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
+* [The World’s Wealthiest Family Gets $1B Richer Every Two Weeks](https://www.bloomberg.com/features/richest-families-in-the-world/)
 * [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
-* [Portland sees peaceful night of protests following withdrawal of federal agents](https://www.theguardian.com/us-news/2020/jul/31/portland-protests-latest-peaceful-night-federal-troops-withdrawal)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
 * [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
-* [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
 * [Amazon investing $10B to compete against SpaceX in satellite broadband](https://arstechnica.com/information-technology/2020/07/amazon-gets-fcc-approval-to-launch-3236-low-earth-broadband-satellites/)
+* [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
 * [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
 * [How a $175 covid-19 test led to $2,479 in charges](https://www.propublica.org/article/how-a-covid-19-test-led-to-charges)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Alacritty v0.5](https://blog.christianduerr.com/alacritty_0_5_0_announcement.html)
-* [Data isn't just being collected from your phone. It's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
-* [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [James Murdoch Resigns From News Corp](https://www.nytimes.com/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
 * [Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned](https://www.nytimes.com/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
 * [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)

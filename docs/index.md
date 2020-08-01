@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 12:18:11 UTC
+# indexed at 01/08/2020 12:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -13,37 +13,37 @@ layout: default
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
+* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
+* [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
 * [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
 * [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
-* [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
-* [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
-* [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
 * [Amazon investing $10B to compete against SpaceX in satellite broadband](https://arstechnica.com/information-technology/2020/07/amazon-gets-fcc-approval-to-launch-3236-low-earth-broadband-satellites/)
-* [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
+* [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
+* [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
+* [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [Alacritty v0.5](https://blog.christianduerr.com/alacritty_0_5_0_announcement.html)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
-* [History of software engineering](https://en.wikipedia.org/wiki/History_of_software_engineering)
 * [Upcoming changes to Cortana](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
+* [History of software engineering](https://en.wikipedia.org/wiki/History_of_software_engineering)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
-* [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
+* [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
 ## nytimes.com
 
 
 * [On the First Day of School, an Indiana Student Tests Positive for Coronavirus](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
 * [Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race](https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-* [A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington](https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html)
+* [Live Coronavirus News Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
 * [Overcrowded Housing Invites Covid-19, Even in Silicon Valley](https://www.nytimes.com/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
 * [The Coronavirus Infected Hundreds at a Georgia Summer Camp](https://www.nytimes.com/2020/07/31/health/coronavirus-children-camp.html)
 * [Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’](https://www.nytimes.com/2020/08/01/world/europe/germany-nazi-infiltration.html)
@@ -79,10 +79,10 @@ layout: default
 * [James Murdoch Resigns From News Corp](https://www.nytimes.com/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
 * [Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned](https://www.nytimes.com/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
 * [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
@@ -93,14 +93,15 @@ layout: default
 * [How Woody Vines Do the Twist](https://www.nytimes.com/2020/08/01/science/vines-lianas-panama.html)
 * [Can Humans Give Coronavirus to Bats, and Other Wildlife?](https://www.nytimes.com/2020/08/01/science/Covid-bats.html)
 * [DNA Study from 23andMe Traces Violent History of American Slavery](https://www.nytimes.com/2020/07/23/science/23andme-african-ancestry.html)
-* [Randonautica: What Is It and Are the Stories Real?](https://www.nytimes.com/2020/07/31/style/randonautica-app.html)
 * [The Nightmare on Pennsylvania Avenue](https://www.nytimes.com/2020/07/30/opinion/trump-coronavirus-economy.html)
+* [American Accused of Blasphemy Is Killed in Pakistan Courtroom](https://www.nytimes.com/2020/07/30/world/asia/pakistan-blasphemy-killing-american.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Líder religioso da Coreia do Sul é preso por sabotar combate ao coronavírus](https://oglobo.globo.com/mundo/lider-religioso-da-coreia-do-sul-preso-por-sabotar-combate-ao-coronavirus-1-24562253)
 * [Homem morre em acidente de carro na Linha Vermelha, na altura da Maré](https://oglobo.globo.com/rio/homem-morre-em-acidente-de-carro-na-linha-vermelha-na-altura-da-mare-24562247)
 * [Brasil tem 2.667.241 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2667241-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24562221)
 * [De olho na reeleição, Bolsonaro participa de inaugurações de obras no Nordeste](https://epoca.globo.com/sociedade/de-olho-na-reeleicao-bolsonaro-participa-de-inauguracoes-de-obras-no-nordeste-24561034)
@@ -109,5 +110,4 @@ layout: default
 * [Alternativa para evitar o transporte público, adoção das bicicletas é impulsionada pela pandemia da Covid-19](https://oglobo.globo.com/sociedade/alternativa-para-evitar-transporte-publico-adocao-das-bicicletas-impulsionada-pela-pandemia-da-covid-19-24532090)
 * [Treze milhões de brasileiros sofrem de doenças raras, como a que motivou a isenção de taxa do 'remédio mais caro do mundo'](https://oglobo.globo.com/sociedade/treze-milhoes-de-brasileiros-sofrem-de-doencas-raras-como-que-motivou-isencao-de-taxa-do-remedio-mais-caro-do-mundo-24561125)
 * [Um a cada três brasileiros já furou isolamento para ir a festas, aponta pesquisa](https://epoca.globo.com/guilherme-amado/um-cada-tres-brasileiros-ja-furou-isolamento-para-ir-festas-aponta-pesquisa-24561687)
-* [À espera da reabertura: artista plástico Lair Uaracy tem mostra pronta para exibir no Centro Cultural Correios](https://oglobo.globo.com/rio/bairros/a-espera-da-reabertura-artista-plastico-lair-uaracy-tem-mostra-pronta-para-exibir-no-centro-cultural-correios-24561320)
 * [Lives de hoje: Erasmo Carlos e Fafá de Belém são atrações deste sábado](https://oglobo.globo.com/rioshow/lives-de-hoje-erasmo-carlos-fafa-de-belem-sao-atracoes-deste-sabado-24561335)

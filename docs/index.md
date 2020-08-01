@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 06:34:45 UTC
+# indexed at 01/08/2020 07:13:59 UTC
 
 
 ## news.ycombinator.com
@@ -18,33 +18,33 @@ layout: default
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
-* [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
 * [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
-* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
-* [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
+* [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
+* [Silicon MacBook could launch on 27 October and cost $800](https://www.macworld.co.uk/news/mac/silicon-macbook-could-launch-on-27-october-cost-800-3793534/)
 * [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
-* [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
+* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Microsoft Shutting Down Cortana on Multiple Devices, Including iOS and Android](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
-* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
+* [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
 * [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
+* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
-* [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
 * [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
-* [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
-* [Cardiovascular MRI in Patients Recently Recovered from Covid-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
+* [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
+* [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
 * [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
+* [Cardiovascular MRI in Patients Recently Recovered from Covid-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
 * [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
 * [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
-* [GTK 3.99](https://blog.gtk.org/2020/07/31/gtk-3-99/)
+* [Apple surpasses Saudi Aramco to become the most valuable company](https://www.cnbc.com/2020/07/31/apple-surpasses-saudi-aramco-to-become-worlds-most-valuable-company.html)
 ## nytimes.com
 
 
 * [Mail Delays Fuel Concern Trump Is Undercutting Postal System Ahead of Voting](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html)
 * [Karen Bass, Susan Rice Rise As Biden's Search for V.P. Nears End](https://www.nytimes.com/2020/07/31/us/politics/joseph-biden-vice-president.html)
 * [A Better Year for Trump’s Family Business (Last Year, That Is)](https://www.nytimes.com/2020/07/31/business/trump-financial-disclosure.html)
-* [Coronavirus Live News: World Updates](https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html)
+* [A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington](https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html)
 * [Trump’s Coronavirus Testing Chief Concedes a Lag in Test Results](https://www.nytimes.com/2020/07/31/us/politics/trump-coronavirus-testing.html)
 * [The Coronavirus Infected Hundreds at a Georgia Summer Camp](https://www.nytimes.com/2020/07/31/health/coronavirus-children-camp.html)
 * [Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack](https://www.nytimes.com/2020/07/31/technology/twitter-hack-arrest.html)
@@ -52,7 +52,6 @@ layout: default
 * [James Murdoch Resigns From News Corp](https://www.nytimes.com/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
 * [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html)
 * [With Security Law as a Cudgel, Beijing Cracks Down on Hong Kong](https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-national-security-law.html)
-* [Testing, TikTok, Beyoncé: Your Friday Evening Briefing](https://www.nytimes.com/2020/07/31/briefing/testing-tiktok-beyonce.html)
 * [A #MeToo Moment in the Military](https://www.nytimes.com/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
 * [Big Tech Companies Report Big Profits](https://www.nytimes.com/2020/07/31/business/dealbook/tech-earnings-economy.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -79,11 +78,11 @@ layout: default
 * [Homeland Security Shuts Down ‘Intelligence’ Reports on Journalists](https://www.nytimes.com/2020/07/31/us/politics/homeland-security-portland.html)
 * [Trump Officials Reconsider Prosecuting ISIS ‘Beatles’ Without Death Penalty](https://www.nytimes.com/2020/07/31/world/middleeast/isis-beatles-hostages.html)
 * [Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining](https://www.nytimes.com/2020/07/31/nyregion/nello-liquor-license-suspended.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [‘The Better I Got in Sports, the Worse the Racism Got’](https://www.nytimes.com/2020/07/31/sports/basketball/spurs-patty-mills.html)
 * [The Lynn Shelton That Marc Maron Knew](https://www.nytimes.com/2020/07/31/movies/marc-maron-lynn-shelton.html)
 * [Muppet Meta Mania, Revived for the Streaming Era](https://www.nytimes.com/2020/07/31/arts/television/muppets-now.html)

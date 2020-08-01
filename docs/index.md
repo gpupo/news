@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 23:13:02 UTC
+# indexed at 01/08/2020 23:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -11,39 +11,39 @@ layout: default
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [95% of Programming Isn’t Hard](https://macwright.com/2020/08/01/recently.html)
+* [Japan's Brand New Bullet Train Is Earthquake-Proof](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/)
 * [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
-* [Japan's Brand New Bullet Train Is Earthquake-Proof](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/)
-* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
-* [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
-* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
-* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
-* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
-* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
 * [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
+* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
+* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
+* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
+* [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
+* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
+* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [Microsoft and Bytedance Put TikTok Talks on Hold After Trump Signals Opposition](https://www.wsj.com/articles/microsoft-and-bytedance-put-tiktok-talks-on-hold-after-trump-signals-opposition-11596312611)
+* [A man who can read letters – but not numbers – exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
-* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 * [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
+* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 * [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
-* [More Than 1k Companies Boycotted Facebook. Did It Work?](https://www.nytimes.com/2020/08/01/business/media/facebook-boycott.html)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
-* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
+* [More Than 1k Companies Boycotted Facebook. Did It Work?](https://www.nytimes.com/2020/08/01/business/media/facebook-boycott.html)
 * [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
 * [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
+* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
 * [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
-* [The Fantasy and the Cyberpunk Futurism of Singapore](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore)
 * [Sharing Knowledge in a Remote team, across Timezones](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/)
 * [Pkg.go.dev is more concerned with Google's interests than good engineering](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html)
-* [NASA SpaceX Crew enters iPad pin in plain view of camera](https://imgur.com/a/b8J7xuM)
 ## nytimes.com
 
 
 * [After Plummeting, the Virus Soars Back in the Midwest](https://www.nytimes.com/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
-* [Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race](https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+* [Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race](https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html)
 * [Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’](https://www.nytimes.com/2020/08/01/world/europe/germany-nazi-infiltration.html)
 * [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](https://www.nytimes.com/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
 * [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](https://www.nytimes.com/2020/08/01/us/politics/trump-books.html)
@@ -79,11 +79,11 @@ layout: default
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
 * [In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies](https://www.nytimes.com/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
 * [Why a Data Breach at a Genealogy Site Has Privacy Experts Worried](https://www.nytimes.com/2020/08/01/technology/gedmatch-breach-privacy.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Celebrate Fourth of July Safely](https://www.nytimes.com/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
 * [An Artist Having Fun While Waiting for Catastrophe](https://www.nytimes.com/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
 * [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](https://www.nytimes.com/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
@@ -102,10 +102,10 @@ layout: default
 ## globo.com
 
 
+* ['Estamos aqui pra ficar', diz TikTok sobre proibição e boatos de venda nos EUA](https://oglobo.globo.com/economia/estamos-aqui-pra-ficar-diz-tiktok-sobre-proibicao-boatos-de-venda-nos-eua-1-24562792)
 * [Brasil supera marca dos 93 mil óbitos por coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-supera-marca-dos-93-mil-obitos-por-coronavirus-diz-consorcio-de-veiculos-de-imprensa-24562627)
 * [Guarda Municipal retira 300 pessoas das praias do Rio e isolamento na cidade apresenta redução](https://oglobo.globo.com/rio/guarda-municipal-retira-300-pessoas-das-praias-do-rio-isolamento-na-cidade-apresenta-reducao-24562774)
 * ['Rainha das plásticas' diz colaborar com investigações sobre morte de MC Atrevida: 'Tudo será esclarecido'](https://oglobo.globo.com/rio/rainha-das-plasticas-diz-colaborar-com-investigacoes-sobre-morte-de-mc-atrevida-tudo-sera-esclarecido-1-24562734)
-* [Indicado para o BB, André Brandão terá que passar por longo rito antes de assumir cargo. Entenda as etapas](https://oglobo.globo.com/economia/indicado-para-bb-andre-brandao-tera-que-passar-por-longo-rito-antes-de-assumir-cargo-entenda-as-etapas-1-24562606)
 * [Parlamentar brasileiro confirma que Todd Chapman fez lobby por livre comércio de etanol para ajudar reeleição de Trump](https://oglobo.globo.com/mundo/parlamentar-brasileiro-confirma-que-todd-chapman-fez-lobby-por-livre-comercio-de-etanol-para-ajudar-reeleicao-de-trump-24562768)
 * [Por que Trump mandou proibir o TikTok](https://epoca.globo.com/por-que-trump-mandou-proibir-tiktok-24562769)
 * [Professores da rede particular do Rio decidem não retomar aulas presenciais](https://oglobo.globo.com/rio/professores-da-rede-particular-do-rio-decidem-nao-retomar-aulas-presenciais-24562764)

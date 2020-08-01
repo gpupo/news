@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 05:34:14 UTC
+# indexed at 01/08/2020 06:15:35 UTC
 
 
 ## news.ycombinator.com
 
 
 * [What I Learned from Doing 60 Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
-* [Alacritty Version 0.5.0 Release](https://blog.christianduerr.com/alacritty_0_5_0_announcement.html)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
-* [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
+* [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
+* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
+* [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
-* [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
-* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
+* [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
 * [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
 * [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
 * [Show HN: Breathe – Peripheral Breath Trainer](https://github.com/filipeisho/breathe/)
-* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
 * [Microsoft Shutting Down Cortana on Multiple Devices, Including iOS and Android](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
-* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
-* [Final Ruling Against Patreon Opens Legal Avenue to Defend Against Deplatforming](https://reclaimthenet.org/final-ruling-patreon-owen-benjamin-injunction-denied/)
-* [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
+* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
 * [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
-* [Flexport Is Hiring in North America, Europe, and Asia](https://www.flexport.com/careers)
 * [An Open Version of WordNet](https://en-word.net/)
-* [Cardiovascular MRI in Patients Recently Recovered from Covid-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
-* [Maggie Haberman on Twitter: “POTUS says he plans to terminate Tik-Tok in the US](https://twitter.com/maggieNYT/status/1289386644231958530)
+* [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
+* [Cardiovascular MRI in Patients Recently Recovered from Covid-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
+* [Meet the Mozarts](https://spectator.us/meet-mozart-letters/)
+* [A Legal Deep Dive on Mexico’s Disastrous New Copyright Law](https://www.eff.org/deeplinks/2020/07/legal-deep-dive-mexicos-disastrous-new-copyright-law)
+* [‘Success Addicts’ Choose Being Special over Being Happy](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/)
+* [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
+* [Flexport Is Hiring in North America, Europe, and Asia](https://www.flexport.com/careers)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Homeland Security Shuts Down ‘Intelligence’ Reports on Journalists](https://www.nytimes.com/2020/07/31/us/politics/homeland-security-portland.html)
 * [Trump Officials Reconsider Prosecuting ISIS ‘Beatles’ Without Death Penalty](https://www.nytimes.com/2020/07/31/world/middleeast/isis-beatles-hostages.html)
 * [Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining](https://www.nytimes.com/2020/07/31/nyregion/nello-liquor-license-suspended.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [‘The Better I Got in Sports, the Worse the Racism Got’](https://www.nytimes.com/2020/07/31/sports/basketball/spurs-patty-mills.html)
 * [The Lynn Shelton That Marc Maron Knew](https://www.nytimes.com/2020/07/31/movies/marc-maron-lynn-shelton.html)
 * [Muppet Meta Mania, Revived for the Streaming Era](https://www.nytimes.com/2020/07/31/arts/television/muppets-now.html)
@@ -93,7 +93,6 @@ layout: default
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
 * [The Coronavirus Could Dodge Some Treatments, Study Suggests](https://www.nytimes.com/2020/07/28/health/coronavirus-mutation-spike-treatment.html)
 * [These Microbes May Have Survived 100 Million Years Beneath the Seafloor](https://www.nytimes.com/2020/07/28/science/microbes-100-million-years-old.html)
-* [How Phoebe Bridgers (Begrudgingly) Writes a Rock Song](https://www.nytimes.com/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
 * [American Accused of Blasphemy Is Killed in Pakistan Courtroom](https://www.nytimes.com/2020/07/30/world/asia/pakistan-blasphemy-killing-american.html)
 * [The Nightmare on Pennsylvania Avenue](https://www.nytimes.com/2020/07/30/opinion/trump-coronavirus-economy.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

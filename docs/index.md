@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 16:15:09 UTC
+# indexed at 01/08/2020 16:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
+* [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
-* [Bootstrap Icons](https://github.com/twbs/icons)
 * [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
+* [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Bootstrap Icons](https://github.com/twbs/icons)
 * [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
-* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
-* [Data isn't just being collected from your phone. It's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
 * [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
+* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
+* [Instagram Morphs into an Information Powerhouse](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html)
+* [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
+* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
 * [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
-* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
 * [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
+* [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
 * [Ask HN: Starting a SaaS business as non-technical founder](https://news.ycombinator.com/item?id=24021128)
-* [Show HN: Add popups to your website ️ backed with Google Sheets (for free)](https://proven.ly/demo-notify.html)
+* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
-* [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
+* [Show HN: Add popups to your website ️ backed with Google Sheets (for free)](https://proven.ly/demo-notify.html)
+* [StackExchange Performance Stats](https://stackexchange.com/performance)
 * [Red Hat and CentOS systems aren’t booting due to BootHole patches](https://arstechnica.com/gadgets/2020/07/red-hat-and-centos-systems-arent-booting-due-to-boothole-patches/)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
-* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
 * [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
 * [How a $175 covid-19 test led to $2,479 in charges](https://www.propublica.org/article/how-a-covid-19-test-led-to-charges)
-* [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
-* [StackExchange Performance Stats](https://stackexchange.com/performance)
-* [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
-* [Artificial brains may need sleep too](https://www.lanl.gov/discover/news-release-archive/2020/June/0608-artificial-brains.php)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies](https://www.nytimes.com/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
 * [Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned](https://www.nytimes.com/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
 * [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](https://www.nytimes.com/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)

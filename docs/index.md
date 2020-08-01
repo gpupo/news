@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 20:15:59 UTC
+# indexed at 01/08/2020 20:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -11,11 +11,11 @@ layout: default
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
-* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
-* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
-* [The Fantasy and the Cyberpunk Futurism of Singapore](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore)
-* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
+* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
+* [The Fantasy and the Cyberpunk Futurism of Singapore](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore)
+* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
+* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
@@ -23,20 +23,20 @@ layout: default
 * [Instagram Morphs into an Information Powerhouse](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html)
 * [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
 * [Incentivized Guardianship](https://www.overcomingbias.com/2020/07/incentivized-guardians.html)
+* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
 * [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
 * [Pkg.go.dev is more concerned with Google's interests than good engineering](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html)
-* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
+* [Shards of Truth](https://www.eurozine.com/shards-of-truth/)
 * [Bootstrap Icons](https://github.com/twbs/icons)
 * [Data isn't just being collected from your phone, it's being used to score you](https://www.chron.com/opinion/article/Data-isn-t-just-being-collected-from-your-phone-15449776.php)
-* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
+* [Microsoft and Bytedance Put TikTok Talks on Hold After Trump Signals Opposition](https://www.wsj.com/articles/microsoft-and-bytedance-put-tiktok-talks-on-hold-after-trump-signals-opposition-11596312611)
 * [Show HN: Plugin to add persisted GraphQL queries to WordPress](https://github.com/GraphQLAPI/graphql-api)
+* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [Samsung to halt production at its last computer factory in China](https://www.reuters.com/article/us-samsung-elec-china-pc-idUSKBN24X3K4)
 * [StackExchange Performance Stats](https://stackexchange.com/performance)
-* [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
 * [Sharing Knowledge in a Remote team, across Timezones](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
-* [Stock Market: What Happens If Tesla Enters S&P 500](https://www.bloomberg.com/news/articles/2020-07-31/stock-market-what-happens-if-tesla-enters-s-p-500)
-* [Show HN: SpaceVim Release v1.5.0](https://spacevim.org/SpaceVim-release-v1.5.0/#.XyWJRomMq_4.hackernews)
+* [T-Mobile: Are you blocking specific words and suspending accounts?](https://reddit.com/r/tmobile/comments/i1fk1z/tmobile_are_you_blocking_specific_words_and/)
 * [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 ## nytimes.com
 
@@ -63,9 +63,9 @@ layout: default
 * [Federal Agents Don’t Need Army Fatigues](https://www.nytimes.com/2020/07/31/opinion/federal-agents-trump-uniforms.html)
 * [3 Post-Coronavirus Economic Reforms to Make the World Better](https://www.nytimes.com/2020/07/31/opinion/coronavirus-economy.html)
 * [Teachers Will Get Covid-19. What Will Schools Do?](https://www.nytimes.com/2020/07/28/opinion/coronavirus-schools-reopening.html)
+* [Voting by Mail Could Save Lives and American Democracy](https://www.nytimes.com/2020/08/01/opinion/mail-voting-covid-2020-election.html)
 * [John Lewis: Together, You Can Redeem the Soul of Our Nation](https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html)
 * [Scared That Covid-19 Immunity Won’t Last? Don’t Be](https://www.nytimes.com/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
-* [Trump, Please Quit Before You’re Fired](https://www.nytimes.com/2020/07/31/opinion/trump-resign.html)
 * [The Less Impossible Israeli-Palestinian Peace](https://www.nytimes.com/2020/07/31/opinion/israeli-palestinian-peace.html)
 * [Raven Leilani, a Flâneur Who Is Going Places](https://www.nytimes.com/2020/07/31/books/raven-leilani-luster.html)
 * [Can’t Afford a Birkin Bag or a Racehorse? You Can Invest in One](https://www.nytimes.com/2020/07/31/your-money/birkin-bag-racehorse-invest.html)
@@ -78,11 +78,11 @@ layout: default
 * [In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies](https://www.nytimes.com/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
 * [Why a Data Breach at a Genealogy Site Has Privacy Experts Worried](https://www.nytimes.com/2020/08/01/technology/gedmatch-breach-privacy.html)
 * [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](https://www.nytimes.com/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [A Rockaway Life](https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
 * [Provincetown: Go for the Mask Compliance, Stay for a Show](https://www.nytimes.com/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
 * [13 Books to Watch For in August](https://www.nytimes.com/2020/07/30/books/new-august-books.html)
@@ -93,6 +93,7 @@ layout: default
 * [Can Humans Give Coronavirus to Bats, and Other Wildlife?](https://www.nytimes.com/2020/08/01/science/Covid-bats.html)
 * [DNA Study from 23andMe Traces Violent History of American Slavery](https://www.nytimes.com/2020/07/23/science/23andme-african-ancestry.html)
 * [On the First Day of School, an Indiana Student Tests Positive for Coronavirus](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+* [Trump, Please Quit Before You’re Fired](https://www.nytimes.com/2020/07/31/opinion/trump-resign.html)
 * [The Nightmare on Pennsylvania Avenue](https://www.nytimes.com/2020/07/30/opinion/trump-coronavirus-economy.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -101,9 +102,9 @@ layout: default
 
 
 * [Mais de 98% dos municípios brasileiros já registraram casos de coronavírus](https://oglobo.globo.com/sociedade/mais-de-98-dos-municipios-brasileiros-ja-registraram-casos-de-coronavirus-1-24562588)
+* [Indicado para o BB, André Brandão terá que passar por longo rito antes de assumir cargo. Entenda as etapas](https://oglobo.globo.com/economia/indicado-para-bb-andre-brandao-tera-que-passar-por-longo-rito-antes-de-assumir-cargo-entenda-as-etapas-24562606)
 * [Com proibição, visitantes são dispersados do mirante da Vista Chinesa](https://oglobo.globo.com/rio/com-proibicao-visitantes-sao-dispersados-do-mirante-da-vista-chinesa-24562594)
 * [Príncipe Andrew é acusado de participar de orgia com menores de idade](https://oglobo.globo.com/ela/gente/principe-andrew-acusado-de-participar-de-orgia-com-menores-de-idade-24562356)
-* [OMS prevê que a pandemia de coronavírus será 'muito longa'](https://oglobo.globo.com/sociedade/oms-preve-que-pandemia-de-coronavirus-sera-muito-longa-24562391)
 * [Boletim da Fiocruz mostra crescimento dos casos de Covid-19 no estado do Rio nas últimas semanas](https://oglobo.globo.com/rio/boletim-da-fiocruz-mostra-crescimento-dos-casos-de-covid-19-no-estado-do-rio-nas-ultimas-semanas-24562563)
 * [Após morte de gatos por envenamento, quiosques são depredados; Protetores dos animais repudiam](https://oglobo.globo.com/rio/apos-morte-de-gatos-por-envenamento-quiosques-sao-depredados-protetores-dos-animais-repudiam-1-24562549)
 * [Maia sai em defesa de Felipe Neto e o convida para dar sugestões no PL das fake news](https://oglobo.globo.com/brasil/maia-sai-em-defesa-de-felipe-neto-o-convida-para-dar-sugestoes-no-pl-das-fake-news-24562507)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 01/08/2020 08:34:44 UTC
+# indexed at 01/08/2020 09:14:02 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [IBM completes successful field trials on Fully Homomorphic Encryption](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
 * [Tampa teen accused of being ‘mastermind’ behind Twitter hack](https://www.wfla.com/news/hillsborough-county/tampa-teen-accused-of-being-mastermind-behind-twitter-hack-that-targeted-high-profile-accounts/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
-* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [WordSafety: Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
+* [PlayCanvas, the Web-first game engine](https://playcanvas.com/)
 * [Microsoft is reportedly in talks to buy TikTok's US operations](https://www.businessinsider.com/microsoft-tiktok-donald-trump-bytedance-2020-7)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
-* [Gimp is working on its own version of “smart objects”](https://daviesmediadesign.com/gimp-is-quietly-working-on-its-own-version-of-smart-objects-and-its-just-as-good-as-photoshops/)
 * [Kenyan tea workers file UN complaint against Unilever over 2007 ethnic violence](https://www.theguardian.com/global-development/2020/aug/01/kenyan-tea-workers-file-un-complaint-against-unilever-over-2007-ethnic-violence)
 * [US to ban TikTok through executive action as soon as Saturday](https://www.cnbc.com/2020/07/31/trump-says-he-will-ban-tiktok-through-executive-action-as-soon-as-saturday.html)
 * [Microsoft Flight Simulator returned to the skies](https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on)
+* [Gimp is working on its own version of “smart objects”](https://daviesmediadesign.com/gimp-is-quietly-working-on-its-own-version-of-smart-objects-and-its-just-as-good-as-photoshops/)
 * [Ultra-rare kaon decay could lead to evidence of new physics](https://phys.org/news/2019-09-ultra-rare-kaon-evidence-physics.html)
-* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [Spotify CEO: musicians can no longer release music only “once every 3-4 years”](https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years)
-* [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
-* [Microsoft Shutting Down Cortana on Multiple Devices, Including iOS and Android](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
+* [Make it now: the rise of the present tense in fiction (2015)](https://www.theguardian.com/books/2015/nov/21/rise-of-the-present-tense-in-fiction-hilary-mantel)
 * [An abandoned seaside town in Cyprus is about to reopen](https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/)
-* [IBM Building 025](https://www.atlasobscura.com/places/ibm-building-025)
-* [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
-* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
-* [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
-* [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
+* [Upcoming changes to Cortana](https://support.microsoft.com/en-us/help/4575625/upcoming-changes-to-cortana)
+* [Niklaus Wirth was right and that is a problem](https://bowero.nl/blog/2020/07/31/niklaus-wirth-was-right-and-that-is-a-problem/)
 * [Show HN: Sizle.io – React Presentation Builder](https://sizle.io/presentations/)
+* [Show HN: Glitterly – Create and share videos of your app](https://glitterly.app)
+* [Australia to make Facebook, Google pay for news](https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP)
 * [Elite Disillusionment](https://saffronhuang.com/post/elite-disillusionment/)
+* [Glucosamine Supplementation Reduces All-Cause Mortality: Study](https://www.lifespan.io/news/glucosamine-supplementation-reduces-all-cause-mortality/)
+* [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [China uses Hong Kong security law against US and UK-based activists](https://www.theguardian.com/world/2020/jul/31/china-hong-kong-security-law-american-citizen-exiles)
 * [To Understand Jio, You Need to Understand Reliance](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)
+* [Why Credit Card Fraud Is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)
 ## nytimes.com
 
 
@@ -80,9 +80,9 @@ layout: default
 * [Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining](https://www.nytimes.com/2020/07/31/nyregion/nello-liquor-license-suspended.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [‘The Better I Got in Sports, the Worse the Racism Got’](https://www.nytimes.com/2020/07/31/sports/basketball/spurs-patty-mills.html)
 * [The Lynn Shelton That Marc Maron Knew](https://www.nytimes.com/2020/07/31/movies/marc-maron-lynn-shelton.html)
 * [Muppet Meta Mania, Revived for the Streaming Era](https://www.nytimes.com/2020/07/31/arts/television/muppets-now.html)
@@ -105,9 +105,9 @@ layout: default
 * [Fascistas e antifascistas](https://oglobo.globo.com/brasil/fascistas-antifascistas-24562083)
 * [Trump deixará as instituições em estado muito pior do que quando assumiu, afirma Levitsky](https://oglobo.globo.com/mundo/trump-deixara-as-instituicoes-em-estado-muito-pior-do-que-quando-assumiu-afirma-levitsky-24561882)
 * [Crivella vai aprovar regra da 'Lei do puxadinho' que permite construções no Buraco do Lume](https://oglobo.globo.com/rio/crivella-vai-aprovar-regra-da-lei-do-puxadinho-que-permite-construcoes-no-buraco-do-lume-24561944)
-* [Vietnã, caso de sucesso na pandemia, isola cidade inteira para tentar conter novo surto](https://oglobo.globo.com/mundo/vietna-caso-de-sucesso-na-pandemia-isola-cidade-inteira-para-tentar-conter-novo-surto-24561274)
+* [TCU manda Planalto entregar íntegra de processo contra Fabio Wajngarten](https://epoca.globo.com/guilherme-amado/tcu-manda-planalto-entregar-integra-de-processo-contra-fabio-wajngarten-24561931)
 * [Fechamento de casas tradicionais por causa da pandemia põe sob ameaça uma série de símbolos que definem a cidade](https://oglobo.globo.com/cultura/fechamento-de-casas-tradicionais-por-causa-da-pandemia-poe-sob-ameaca-uma-serie-de-simbolos-que-definem-cidade-24561585)
-* ['É bizarro como a gente é sexualizado lá fora', diz brasileira do Now United, grupo com 1 bi de views no YouTube](https://oglobo.globo.com/cultura/e-bizarro-como-gente-sexualizado-la-fora-diz-brasileira-do-now-united-grupo-com-1-bi-de-views-no-youtube-24561417)
+* [Gravidez indesejada e casamento infantil: o impacto terrível da pandemia nas vidas de meninas na América Latina](https://oglobo.globo.com/celina/gravidez-indesejada-casamento-infantil-impacto-terrivel-da-pandemia-nas-vidas-de-meninas-na-america-latina-24561130)
 * [Em romance, autor francês encarna Albert Camus no difícil século XXI](https://oglobo.globo.com/cultura/em-romance-autor-frances-encarna-albert-camus-no-dificil-seculo-xxi-24561433)
 * [Sala Cecília Meireles, Festival de Harpa do Rio e Sala São Paulo transmitem concertos](https://oglobo.globo.com/rioshow/sala-cecilia-meireles-festival-de-harpa-do-rio-sala-sao-paulo-transmitem-concertos-24561093)
 * [Quarentena dupla: mães relatam dificuldades do puérperio em meio à pandemia](https://oglobo.globo.com/ela/gente/quarentena-dupla-maes-relatam-dificuldades-do-puerperio-em-meio-pandemia-24560343)

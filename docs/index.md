@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 11:13:06 UTC
+# indexed at 02/08/2020 11:35:49 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
+* [Is Joe Rogan right about young men and video games?](https://unherd.com/thepost/is-joe-rogan-right-about-young-men-and-video-games/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
-* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
+* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
-* [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
 * [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
+* [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
-* [Bogleheads](https://www.bogleheads.org/)
 * [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
+* [Bogleheads](https://www.bogleheads.org/)
 * [The history of economic growth is, in many ways, a tale of cleaniness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
 * [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
-* [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
 * [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
-* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [Facebook puts global block on Brazil's Bolsonaro supporters](https://www.reuters.com/article/us-facebook-brazil/facebook-puts-global-block-on-brazils-bolsonaro-supporters-idUSKBN24X3XC)
+* [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Facebook puts global block on Brazil's Bolsonaro supporters](https://www.reuters.com/article/us-facebook-brazil/facebook-puts-global-block-on-brazils-bolsonaro-supporters-idUSKBN24X3XC)
 * [Wilford Brimley has died](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
-* [Stepping away from open source](https://omar.yt/posts/stepping-away-from-open-source)
+* [Child sexual abuse material could be going undetected because of ‘false reports’](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 ## nytimes.com
 
@@ -77,9 +77,9 @@ layout: default
 * [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Depois de repassar bens à irmã, Romário transfere crédito de R$ 22 milhões a advogado](https://oglobo.globo.com/brasil/depois-de-repassar-bens-irma-romario-transfere-credito-de-22-milhoes-advogado-24562993)
+* [Parlamentares disputam repasses do fundo eleitoral nos partidos](https://oglobo.globo.com/brasil/parlamentares-disputam-repasses-do-fundo-eleitoral-nos-partidos-24562990)
+* [Na mira de Aras, Lava- Jato busca solução para garantir investigações](https://oglobo.globo.com/brasil/na-mira-de-aras-lava-jato-busca-solucao-para-garantir-investigacoes-1-24562988)
+* [Ala do governo quer ampliar gastos para projetar popularidade de Bolsonaro rumo a 2022](https://oglobo.globo.com/brasil/ala-do-governo-quer-ampliar-gastos-para-projetar-popularidade-de-bolsonaro-rumo-2022-24562985)
+* [Boletim das 8h: Brasil tem 2.709.617 casos de Covid-19, informa consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2709617-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-24562973)
 * [PMs do Rio são suspeitos de pedir auxílio emergencial de R$ 600 indevidamente](https://oglobo.globo.com/rio/pms-do-rio-sao-suspeitos-de-pedir-auxilio-emergencial-de-600-indevidamente-24562978)
 * ['Eles vão ter de comprar a casa ao lado', diz Charlize Theron](https://oglobo.globo.com/ela/gente/eles-vao-ter-de-comprar-casa-ao-lado-diz-charlize-theron-24562974)
-* [Boletim das 8h: Brasil tem 2.709.617 Brasil casos de Covid-19, informa consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2709617-brasil-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-24562973)
 * [Frente a aumento de hostilidades, presidente da China acelera corrida por autonomia produtiva](https://oglobo.globo.com/mundo/frente-aumento-de-hostilidades-presidente-da-china-acelera-corrida-por-autonomia-produtiva-24562175)
-* [Procuradora escreve livro infantil sobre racismo baseado em experiências pessoais](https://epoca.globo.com/sociedade/procuradora-escreve-livro-infantil-sobre-racismo-baseado-em-experiencias-pessoais-24561019)
-* [Governo federal recebeu 10 mil denúncias sobre fraude em auxílio emergencial](https://epoca.globo.com/guilherme-amado/governo-federal-recebeu-10-mil-denuncias-sobre-fraude-em-auxilio-emergencial-1-24561626)
 * [Planalto deu menos de 24 horas para ministérios se manifestarem sobre ampliar rol de atividades essenciais](https://epoca.globo.com/guilherme-amado/planalto-deu-menos-de-24-horas-para-ministerios-se-manifestarem-sobre-ampliar-rol-de-atividades-essenciais-24561788)
-* [Além da segurança: Recreio Presente ajuda jovens a conseguirem empregos](https://oglobo.globo.com/rio/bairros/alem-da-seguranca-recreio-presente-ajuda-jovens-conseguirem-empregos-24559220)
 * [Bota-abaixo em Niterói: demolições na Paulo Alves, que será alargada, começam este mês](https://oglobo.globo.com/rio/bairros/bota-abaixo-em-niteroi-demolicoes-na-paulo-alves-que-sera-alargada-comecam-este-mes-24559934)
-* [Mestre de ioga abre Escola do Autoconhecimento para combater estresse e ansiedade](https://oglobo.globo.com/rio/bairros/mestre-de-ioga-abre-escola-do-autoconhecimento-para-combater-estresse-ansiedade-24558394)

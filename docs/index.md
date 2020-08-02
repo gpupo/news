@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 18:15:10 UTC
+# indexed at 02/08/2020 18:34:46 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
-* [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
 * [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
-* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
+* [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
 * [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
+* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
+* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
-* [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
 * [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
-* [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
-* [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
+* [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
 * [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
-* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
-* [Google killed a small smart glass maker after acquiring it](https://androidrookies.com/here-is-how-google-killed-a-small-smart-glass-maker-after-acquiring-it/)
-* [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
-* [FDA urges consumers not use certain hand sanitizer products](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
+* [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
+* [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
 * [I made an app that lets you split a file into horcruxes](https://github.com/jesseduffield/horcrux-ui)
-* [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
-* [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
-* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
-* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
-* [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
+* [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
 * [Why professors are writing crap that nobody reads](https://newsin.asia/why-professors-are-writing-crap-that-nobody-reads/)
+* [FDA urges consumers not use certain hand sanitizer products](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
+* [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
+* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
+* [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
+* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
+* [Google killed a small smart glass maker after acquiring it](https://androidrookies.com/here-is-how-google-killed-a-small-smart-glass-maker-after-acquiring-it/)
+* [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [The history of economic growth is a tale of cleanliness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
-* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
+* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 ## nytimes.com
 
 
@@ -69,7 +69,7 @@ layout: default
 * [Inside the Iraqi Kleptocracy](https://www.nytimes.com/2020/07/29/magazine/iraq-corruption.html)
 * [Longer, Slower, Farther: Savoring the Prospects of Future Travels](https://www.nytimes.com/2020/07/28/travel/future-travel-bucket-list-coronavirus.html)
 * [How to Navigate the Coronavirus Real Estate Market](https://www.nytimes.com/2020/07/31/business/housing-market-prices-risk.html)
-* [8 Service Members Missing in California Accident Are Presumed Dead](https://www.nytimes.com/2020/07/31/us/marine-accident-california.html)
+* [Yoenis Cespedes Is Missing From the Mets, the Team Says](https://www.nytimes.com/2020/08/02/sports/baseball/Cespedes-missing-Atlanta.html)
 * [Red Onions Linked to Salmonella Outbreak, Officials Say](https://www.nytimes.com/2020/08/01/us/salmonella-outbreak-onions.html)
 * [Lady Red Couture, ‘Mother Hen’ of a Drag Scene, Dies at 43](https://www.nytimes.com/2020/08/01/arts/lady-red-couture-dead.html)
 * [Conservative U.K. Lawmaker Is Arrested Over Rape Accusations](https://www.nytimes.com/2020/08/02/world/europe/uk-conservative-lawmaker-arrest.html)
@@ -100,7 +100,7 @@ layout: default
 ## globo.com
 
 
-* [Para além da areia, vias fechadas para área de lazer na Zona Sul provoca aglomerações neste domingo](https://oglobo.globo.com/rio/para-alem-da-areia-vias-fechadas-para-area-de-lazer-na-zona-sul-provoca-aglomeracoes-neste-domingo-24563108)
+* [Para além da areia, vias fechadas para área de lazer na Zona Sul provocam aglomerações neste domingo](https://oglobo.globo.com/rio/para-alem-da-areia-vias-fechadas-para-area-de-lazer-na-zona-sul-provocam-aglomeracoes-neste-domingo-24563108)
 * [ONG Obra do Berço promove rifa do dia dos pais para ajudar na sua manutenção](https://oglobo.globo.com/rio/bairros/ong-obra-do-berco-promove-rifa-do-dia-dos-pais-para-ajudar-na-sua-manutencao-24563114)
 * [Bolsonaro admite nova CPMF, mas só se não houver aumento de carga tributária](https://oglobo.globo.com/economia/bolsonaro-admite-nova-cpmf-mas-so-se-nao-houver-aumento-de-carga-tributaria-24563099)
 * [Luana Génot: Atentos aos sinais](https://oglobo.globo.com/ela/luana-genot-atentos-aos-sinais-24560896)

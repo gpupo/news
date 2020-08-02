@@ -2,37 +2,37 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 04:34:19 UTC
+# indexed at 02/08/2020 05:13:08 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Brazil court orders Facebook to block Bolsonaro supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [A man who can read letters – but not numbers – exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
-* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
-* [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
-* [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
-* [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
+* [Brazil court orders Facebook to block Bolsonaro supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
+* [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
+* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
+* [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
 * [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
-* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
 * [Bogleheads](https://www.bogleheads.org/)
+* [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
+* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
 * [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [Do any Open Source Licences require source history?](https://shkspr.mobi/blog/2020/08/do-any-open-source-licences-require-source-history/)
-* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
-* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
-* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
-* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
 * [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
-* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
+* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
+* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
+* [Do any Open Source Licences require source history?](https://shkspr.mobi/blog/2020/08/do-any-open-source-licences-require-source-history/)
+* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
+* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
+* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
 * [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
 * [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
@@ -79,8 +79,8 @@ layout: default
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
 * [An Artist Having Fun While Waiting for Catastrophe](https://www.nytimes.com/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
 * [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](https://www.nytimes.com/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)

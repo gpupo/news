@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 21:13:45 UTC
+# indexed at 02/08/2020 21:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
-* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
+* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
+* [Briar Project](https://briarproject.org/how-it-works.html)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
-* [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
-* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
-* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
+* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
+* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
-* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
+* [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
 * [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
 * [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
-* [Mail delays hit Philadelphia residents, short staffed USPS struggles to keep up](https://www.inquirer.com/news/philadelphia/usps-tracking-in-transit-late-mail-delivery-philadelphia-packages-postal-service-20200802.html)
 * [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
-* [SpaceX: Good Splashdown of Dragon Confirmed](https://twitter.com/SpaceX/status/1289996815824117760)
+* [Mail delays hit Philadelphia residents, short staffed USPS struggles to keep up](https://www.inquirer.com/news/philadelphia/usps-tracking-in-transit-late-mail-delivery-philadelphia-packages-postal-service-20200802.html)
 * [Using Augmentative and Alternative Communication with Dogs](https://www.hungerforwords.com/)
-* [Carl Bergstrom on data manipulation, fake news,& using science as a lie detector](https://www.theguardian.com/science/2020/aug/01/carl-bergstrom-people-are-using-data-to-bullshit)
 * [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
+* [Carl Bergstrom on data manipulation, fake news,& using science as a lie detector](https://www.theguardian.com/science/2020/aug/01/carl-bergstrom-people-are-using-data-to-bullshit)
 * [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
+* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Under Pressure, Brazil’s Bolsonaro Forced to Fight Deforestation](https://www.nytimes.com/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Paris Beehives Trace Notre-Dame’s Toxic Fallout](https://www.nytimes.com/2020/07/29/world/europe/honey-lead-notredame-fire-paris.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
 * [How an Urban Flower Farmer Spends Her Sundays](https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html)
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
@@ -101,11 +101,11 @@ layout: default
 ## globo.com
 
 
+* [México anuncia captura de 'El Marro', líder de cartel dedicado ao roubo de combustível](https://oglobo.globo.com/mundo/mexico-anuncia-captura-de-el-marro-lider-de-cartel-dedicado-ao-roubo-de-combustivel-24563292)
 * [Crivella aproveita a pandemia para passar a boiada reeleitoreira](https://epoca.globo.com/crivella-aproveita-pandemia-para-passar-boiada-reeleitoreira-24563316)
 * ['Chaves' é retirado do ar em todos os canais e plataformas da América Latina](https://oglobo.globo.com/cultura/chaves-retirado-do-ar-em-todos-os-canais-plataformas-da-america-latina-24563309)
 * [Quiosque da Barra da Tijuca tem aglomeração de clientes em fim de semana de flexibilização no Rio](https://oglobo.globo.com/rio/quiosque-da-barra-da-tijuca-tem-aglomeracao-de-clientes-em-fim-de-semana-de-flexibilizacao-no-rio-1-24563128)
 * [Empresas criam programas para contratar mais negros, mulheres e LGBTs](https://oglobo.globo.com/economia/empresas-criam-programas-para-contratar-mais-negros-mulheres-lgbts-24563290)
-* [Com ruas fechadas para lazer e volta do banho de mar, domingo é marcado por aglomerações nas praias da Zona Sul](https://oglobo.globo.com/rio/com-ruas-fechadas-para-lazer-volta-do-banho-de-mar-domingo-marcado-por-aglomeracoes-nas-praias-da-zona-sul-1-24563108)
 * [Chile vive noite de violência entre mapuches, polícia e grupos civis anti-indígenas](https://oglobo.globo.com/mundo/chile-vive-noite-de-violencia-entre-mapuches-policia-grupos-civis-anti-indigenas-24563246)
 * [Filha de cozinheira asfixiada em Jacarepaguá pede proteção policial: 'Um crime aconteceu naquela casa'](https://oglobo.globo.com/rio/filha-de-cozinheira-asfixiada-em-jacarepagua-pede-protecao-policial-um-crime-aconteceu-naquela-casa-24563227)
 * [África do Sul passa de meio milhão de casos de Covid-19](https://oglobo.globo.com/mundo/africa-do-sul-passa-de-meio-milhao-de-casos-de-covid-19-24563232)

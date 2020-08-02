@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 16:15:03 UTC
+# indexed at 02/08/2020 16:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -14,34 +14,34 @@ layout: default
 * [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
 * [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
-* [What Alternate Reality Games Can Teach Us About QAnon](https://mssv.net/2020/08/02/what-args-can-teach-us-about-qanon/)
 * [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
-* [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
+* [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
+* [What Alternate Reality Games Can Teach Us About QAnon](https://mssv.net/2020/08/02/what-args-can-teach-us-about-qanon/)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
 * [I made an app that lets you split a file into horcruxes](https://github.com/jesseduffield/horcrux-ui)
 * [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
-* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
-* [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
 * [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
-* [The Global Implications of “Re-education” Technologies in Northwest China](https://cgpolicy.org/articles/the-global-implications-of-re-education-technologies-in-northwest-china/)
-* [Ask HN: Geopolitical forums similar to HN?](https://news.ycombinator.com/item?id=24028512)
-* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [The history of economic growth is a tale of cleanliness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
+* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
+* [Ask HN: Geopolitical forums similar to HN?](https://news.ycombinator.com/item?id=24028512)
+* [Ask HN: What’s your daily/weekly routine?](https://news.ycombinator.com/item?id=24029286)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
+* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 * [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 ## nytimes.com
 
 
-* [Coronavirus News: Live Updates & Analysis](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html)
+* [Coronavirus Live Updates: As Cases Rise, U.S. Officials Are at an Impasse Over Aid](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html)
 * [Is the Subway Risky? It May Be Safer Than You Think](https://www.nytimes.com/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html)
 * [Pollution Is Killing Black Americans. This Community Fought Back.](https://www.nytimes.com/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
 * [Why Trump’s Blunt Appeals to Suburban Voters May Not Work](https://www.nytimes.com/2020/07/30/upshot/trump-suburban-voters.html)
@@ -59,11 +59,11 @@ layout: default
 * [Voting by Mail Is Crucial for Democracy](https://www.nytimes.com/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
 * [Coronavirus Forced Indian Workers on a Deadly Journey](https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
 * [Double, Double, Trump’s Toil, Our Trouble](https://www.nytimes.com/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+* [When Utility Money Talks](https://www.nytimes.com/2020/08/02/opinion/utility-corruption-energy.html)
 * [Talking to the Dead in the Sunshine State](https://www.nytimes.com/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
 * [Post-Coronavirus, Are Online Colleges Like Minerva the Future?](https://www.nytimes.com/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
 * [100 Years of Voting Hasn’t Done What We Thought It Would](https://www.nytimes.com/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
 * [I Hope This Is Not Another Lie About the Republican Party](https://www.nytimes.com/2020/07/29/opinion/trump-republican-party-racism.html)
-* [Trump Might Try to Postpone the Election. That’s Unconstitutional.](https://www.nytimes.com/2020/07/30/opinion/trump-delay-election-coronavirus.html)
 * [What America’s Coronavirus Response Looks Like Abroad](https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html)
 * [Inside the Iraqi Kleptocracy](https://www.nytimes.com/2020/07/29/magazine/iraq-corruption.html)
 * [Longer, Slower, Farther: Savoring the Prospects of Future Travels](https://www.nytimes.com/2020/07/28/travel/future-travel-bucket-list-coronavirus.html)
@@ -78,10 +78,10 @@ layout: default
 * [Wilford Brimley Dead at 85; 'Cocoon' Star Known for Cranky Characters](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
 * [How an Urban Flower Farmer Spends Her Sundays](https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html)
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro garante que novo imposto não terá aumento de carga tributária](https://oglobo.globo.com/economia/bolsonaro-garante-que-novo-imposto-nao-tera-aumento-de-carga-tributaria-24563099)
+* [Microsoft interrompe negociação para compra de operações do TikTok nos EUA, diz WSJ](https://oglobo.globo.com/economia/microsoft-interrompe-negociacao-para-compra-de-operacoes-do-tiktok-nos-eua-diz-wsj-24563093)
+* [Grupo de pagode 'Aglomerou' faz transmissão ao vivo hoje, uma semana após live ser interrompida pela polícia](https://oglobo.globo.com/rio/grupo-de-pagode-aglomerou-faz-transmissao-ao-vivo-hoje-uma-semana-apos-live-ser-interrompida-pela-policia-24563094)
 * [Bolsonaro diz que André Brandão, do HSBC, 'a princípio' será  presidente do Banco do Brasil](https://oglobo.globo.com/economia/bolsonaro-diz-que-andre-brandao-do-hsbc-principio-sera-presidente-do-banco-do-brasil-24563075)
 * [Hamilton vence mesmo com pneu furado e dispara na liderança da Fórmula 1](https://oglobo.globo.com/esportes/hamilton-vence-mesmo-com-pneu-furado-dispara-na-lideranca-da-formula-1-24563078)
 * [Brasil tem 93.659 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-93659-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24563061)
 * [Príncipe Andrew passou dois dias em rancho com 'escrava sexual' de bilionário pedófilo, afirma documento judicial](https://oglobo.globo.com/ela/gente/principe-andrew-passou-dois-dias-em-rancho-com-escrava-sexual-de-bilionario-pedofilo-afirma-documento-judicial-1-24563045)
-* [Bolsonaro volta a criticar governadores que pedem ajuda emergencial permanente](https://oglobo.globo.com/economia/bolsonaro-volta-criticar-governadores-que-pedem-ajuda-emergencial-permanente-24563030)
 * [Astronautas americanos voltam à Terra neste domingo em missão histórica](https://oglobo.globo.com/sociedade/astronautas-americanos-voltam-terra-neste-domingo-em-missao-historica-24563031)
 * [Empurrando caixas de equipamentos, técnicos de shows e eventos fazem protesto por medidas emergenciais para o setor](https://oglobo.globo.com/sociedade/empurrando-caixas-de-equipamentos-tecnicos-de-shows-eventos-fazem-protesto-por-medidas-emergenciais-para-setor-24563036)
 * [Manutenção da Cedae vai impactar fornecimento de água em quatro municípios do Rio na manhã de quarta-feira](https://oglobo.globo.com/rio/manutencao-da-cedae-vai-impactar-fornecimento-de-agua-em-quatro-municipios-do-rio-na-manha-de-quarta-feira-24563037)
-* [Pandemia triplica o número de conflitos entre vizinhos nos condomínios](https://oglobo.globo.com/economia/pandemia-triplica-numero-de-conflitos-entre-vizinhos-nos-condominios-24562685)
-* [O dia em que meio TJ do Rio quase enfartou com a delação de Sergio Cabral](https://epoca.globo.com/guilherme-amado/o-dia-em-que-meio-tj-do-rio-quase-enfartou-com-delacao-de-sergio-cabral-24561807)

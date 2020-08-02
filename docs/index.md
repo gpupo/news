@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 03:13:42 UTC
+# indexed at 02/08/2020 03:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -13,15 +13,14 @@ layout: default
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [A man who can read letters – but not numbers – exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
-* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
+* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
-* [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
+* [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
-* [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
-* [75% of child porn reports are fraudulent (2019)](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
 * [Bogleheads](https://www.bogleheads.org/)
 * [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
@@ -32,24 +31,24 @@ layout: default
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
 * [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
+* [75% of child porn reports are fraudulent (2019)](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
 * [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
 * [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
-* [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
 * [SpaceX says Starlink internet has ‘extraordinary demand,’](https://www.cnbc.com/2020/08/01/spacex-starlink-extraordinary-demand-with-nearly-700000-interested.html)
-* [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
+* [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
+* [New ‘Unpatchable’ Exploit Found in Apple’s Secure Enclave Chip](https://9to5mac.com/2020/08/01/new-unpatchable-exploit-allegedly-found-on-apples-secure-enclave-chip-heres-what-it-could-mean/)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
 ## nytimes.com
 
 
+* [Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’](https://www.nytimes.com/2020/08/01/world/europe/germany-nazi-infiltration.html)
 * [After Plummeting, the Virus Soars Back in the Midwest](https://www.nytimes.com/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
 * [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
-* [Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’](https://www.nytimes.com/2020/08/01/world/europe/germany-nazi-infiltration.html)
 * [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](https://www.nytimes.com/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
 * [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](https://www.nytimes.com/2020/08/01/us/politics/trump-books.html)
 * [Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues](https://www.nytimes.com/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
-* [Biden Faces Pressure From Left Over Influence Industry Ties](https://www.nytimes.com/2020/08/01/us/politics/biden-lobbyist-ties.html)
-* [Tammy Duckworth Is Nothing and Everything Like Joe Biden](https://www.nytimes.com/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+* [Inside the Iraqi Kleptocracy](https://www.nytimes.com/2020/07/29/magazine/iraq-corruption.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/31/briefing/11-of-our-best-weekend-reads.html)
 * [A #MeToo Moment in the Military](https://www.nytimes.com/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -79,9 +78,9 @@ layout: default
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
 * [An Artist Having Fun While Waiting for Catastrophe](https://www.nytimes.com/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
 * [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](https://www.nytimes.com/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)

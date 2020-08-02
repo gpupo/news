@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 20:16:06 UTC
+# indexed at 02/08/2020 20:34:51 UTC
 
 
 ## news.ycombinator.com
@@ -14,24 +14,24 @@ layout: default
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
 * [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
-* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
+* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
+* [Tor 0day: Replying to the Tor Project](https://www.hackerfactor.com/blog/index.php?/archives/890-Tor-0day-Replying-to-the-Tor-Project.html)
 * [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
-* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
 * [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
+* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
-* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [Mail delays hit Philadelphia residents, short staffed USPS struggles to keep up](https://www.inquirer.com/news/philadelphia/usps-tracking-in-transit-late-mail-delivery-philadelphia-packages-postal-service-20200802.html)
+* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
-* [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
-* [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
-* [SpaceX: Good Splashdown of Dragon Confirmed](https://twitter.com/SpaceX/status/1289996815824117760)
-* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
 * [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
+* [SpaceX: Good Splashdown of Dragon Confirmed](https://twitter.com/SpaceX/status/1289996815824117760)
+* [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
+* [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
+* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
 * [Using Augmentative and Alternative Communication with Dogs](https://www.hungerforwords.com/)
 * [Carl Bergstrom: ‘People are using data to bullshit’](https://www.theguardian.com/science/2020/aug/01/carl-bergstrom-people-are-using-data-to-bullshit)
 * [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
-* [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
 * [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
@@ -78,11 +78,11 @@ layout: default
 * [Under Pressure, Brazil’s Bolsonaro Forced to Fight Deforestation](https://www.nytimes.com/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Paris Beehives Trace Notre-Dame’s Toxic Fallout](https://www.nytimes.com/2020/07/29/world/europe/honey-lead-notredame-fire-paris.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [Shopping for Medicine Cabinets](https://www.nytimes.com/2020/07/13/realestate/shopping-for-medicine-cabinets.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
 * [How an Urban Flower Farmer Spends Her Sundays](https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html)
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Quiosque da Barra da Tijuca tem aglomeração de clientes em fim de semana de flexibilização no Rio](https://oglobo.globo.com/rio/quiosque-da-barra-da-tijuca-tem-aglomeracao-de-clientes-em-fim-de-semana-de-flexibilizacao-no-rio-1-24563128)
 * [Com ruas fechadas para lazer e volta do banho de mar, domingo é marcado por aglomerações nas praias da Zona Sul](https://oglobo.globo.com/rio/com-ruas-fechadas-para-lazer-volta-do-banho-de-mar-domingo-marcado-por-aglomeracoes-nas-praias-da-zona-sul-1-24563108)
-* [África do Sul passa de meio milhão de casos de Covid-19](https://oglobo.globo.com/mundo/africa-do-sul-passa-de-meio-milhao-de-casos-de-covid-19-24563232)
+* [Chile vive noite de violência entre mapuches, polícia e grupos civis anti-indígenas](https://oglobo.globo.com/mundo/chile-vive-noite-de-violencia-entre-mapuches-policia-grupos-civis-anti-indigenas-24563246)
 * [Filha de cozinheira asfixiada em Jacarepaguá pede proteção policial: 'Um crime aconteceu naquela casa'](https://oglobo.globo.com/rio/filha-de-cozinheira-asfixiada-em-jacarepagua-pede-protecao-policial-um-crime-aconteceu-naquela-casa-24563227)
-* [Quiosque da Barra da Tijuca tem aglomeração de clientes em fim de semana de flexibilização no Rio](https://oglobo.globo.com/rio/quiosque-da-barra-da-tijuca-tem-aglomeracao-de-clientes-em-fim-de-semana-de-flexibilizacao-no-rio-24563128)
+* [África do Sul passa de meio milhão de casos de Covid-19](https://oglobo.globo.com/mundo/africa-do-sul-passa-de-meio-milhao-de-casos-de-covid-19-24563232)
 * [BNDES recebe R$ 350 milhões de fundo federal para investir em projetos de saneamento](https://oglobo.globo.com/economia/bndes-recebe-350-milhoes-de-fundo-federal-para-investir-em-projetos-de-saneamento-24563188)
 * [Bolsonaro admite nova CPMF, mas só se não houver aumento de carga tributária](https://oglobo.globo.com/economia/bolsonaro-admite-nova-cpmf-mas-so-se-nao-houver-aumento-de-carga-tributaria-24563099)
 * [ONG Obra do Berço promove rifa do dia dos pais para ajudar na sua manutenção](https://oglobo.globo.com/rio/bairros/ong-obra-do-berco-promove-rifa-do-dia-dos-pais-para-ajudar-na-sua-manutencao-24563114)
 * [Médico que fez procedimento em MC Atrevida prestará depoimento nesta segunda-feira, diz advogado](https://oglobo.globo.com/rio/medico-que-fez-procedimento-em-mc-atrevida-prestara-depoimento-nesta-segunda-feira-diz-advogado-24563148)
 * [Luana Génot: Atentos aos sinais](https://oglobo.globo.com/ela/luana-genot-atentos-aos-sinais-24560896)
-* [Grupo de pagode 'Aglomerou' faz transmissão ao vivo hoje, uma semana após live ser interrompida pela polícia](https://oglobo.globo.com/rio/grupo-de-pagode-aglomerou-faz-transmissao-ao-vivo-hoje-uma-semana-apos-live-ser-interrompida-pela-policia-24563094)

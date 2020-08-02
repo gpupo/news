@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 13:13:16 UTC
+# indexed at 02/08/2020 13:35:14 UTC
 
 
 ## news.ycombinator.com
 
 
-* [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
+* [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
 * [Local-first software: You Own Your Data, in spite of the Cloud [pdf]](https://www.inkandswitch.com/media/local-first/local-first.pdf)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
@@ -25,19 +25,19 @@ layout: default
 * [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
-* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
 * [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
+* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
 * [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
 * [The Global Implications of “Re-education” Technologies in Northwest China](https://cgpolicy.org/articles/the-global-implications-of-re-education-technologies-in-northwest-china/)
 * [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
 * [The history of economic growth is a tale of cleanliness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
-* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
+* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
+* [I made an app that lets you split a file into horcruxes](https://github.com/jesseduffield/horcrux-ui)
 * [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [Garmin received decryptor for WastedLocker ransomware](https://www.bleepingcomputer.com/news/security/confirmed-garmin-received-decryptor-for-wastedlocker-ransomware/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards, Temperature-Reading Glasses and More](https://www.nytimes.com/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
 * [How an Urban Flower Farmer Spends Her Sundays](https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html)
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
@@ -90,8 +90,8 @@ layout: default
 * [Lizard Popsicles, Anyone?](https://www.nytimes.com/2020/07/31/science/lizards-liolaemus-argentina.html)
 * [Gut Microbes Might Keep Malnourished Children From Growing](https://www.nytimes.com/2020/07/22/health/microbiome-malnourishment-children.html)
 * [With Eating Disorders, Looks Can Be Deceiving](https://www.nytimes.com/2020/07/27/well/eat/eating-disorders.html)
+* [How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’](https://www.nytimes.com/2020/07/31/movies/palm-springs-clip-hulu.html)
 * [After Plummeting, the Virus Soars Back in the Midwest](https://www.nytimes.com/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
-* [On the First Day of School, an Indiana Student Tests Positive for Coronavirus](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 03:34:52 UTC
+# indexed at 02/08/2020 04:14:45 UTC
 
 
 ## news.ycombinator.com
 
 
-* [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Brazil court orders Facebook to block Bolsonaro supporters](https://www.bbc.com/news/world-latin-america-53625728)
+* [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [A man who can read letters – but not numbers – exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
-* [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
+* [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
+* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
-* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
 * [Bogleheads](https://www.bogleheads.org/)
-* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
-* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [Do any Open Source Licences require source history?](https://shkspr.mobi/blog/2020/08/do-any-open-source-licences-require-source-history/)
 * [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
+* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
+* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
+* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
+* [Do any Open Source Licences require source history?](https://shkspr.mobi/blog/2020/08/do-any-open-source-licences-require-source-history/)
 * [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
 * [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
 * [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
-* [75% of child porn reports are fraudulent (2019)](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
 * [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
-* [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
-* [SpaceX says Starlink internet has ‘extraordinary demand,’](https://www.cnbc.com/2020/08/01/spacex-starlink-extraordinary-demand-with-nearly-700000-interested.html)
 * [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
-* [New ‘Unpatchable’ Exploit Found in Apple’s Secure Enclave Chip](https://9to5mac.com/2020/08/01/new-unpatchable-exploit-allegedly-found-on-apples-secure-enclave-chip-heres-what-it-could-mean/)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
+* [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
+* [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
+* [New ‘Unpatchable’ Exploit Found in Apple’s Secure Enclave Chip](https://9to5mac.com/2020/08/01/new-unpatchable-exploit-allegedly-found-on-apples-secure-enclave-chip-heres-what-it-could-mean/)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](https://www.nytimes.com/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
 * [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](https://www.nytimes.com/2020/08/01/us/politics/trump-books.html)
 * [Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues](https://www.nytimes.com/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
-* [Inside the Iraqi Kleptocracy](https://www.nytimes.com/2020/07/29/magazine/iraq-corruption.html)
+* [Wilford Brimley Dead at 85; 'Cocoon' Star Known for Cranky Characters](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/31/briefing/11-of-our-best-weekend-reads.html)
 * [A #MeToo Moment in the Military](https://www.nytimes.com/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -76,11 +76,11 @@ layout: default
 * [Tracking Isaias: Live Updates](https://www.nytimes.com/2020/08/01/us/hurricane-isaias-track.html)
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
 * [An Artist Having Fun While Waiting for Catastrophe](https://www.nytimes.com/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
 * [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](https://www.nytimes.com/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
@@ -91,7 +91,6 @@ layout: default
 * [Can Humans Give Coronavirus to Bats, and Other Wildlife?](https://www.nytimes.com/2020/08/01/science/Covid-bats.html)
 * [DNA Study from 23andMe Traces Violent History of American Slavery](https://www.nytimes.com/2020/07/23/science/23andme-african-ancestry.html)
 * [On the First Day of School, an Indiana Student Tests Positive for Coronavirus](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
-* [Trump, Please Quit Before You’re Fired](https://www.nytimes.com/2020/07/31/opinion/trump-resign.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -99,12 +98,12 @@ layout: default
 
 
 * [Em manifesto, CNI e outras entidades pedem liberação de recursos de fundo de ciência e tecnologia](https://oglobo.globo.com/economia/em-manifesto-cni-outras-entidades-pedem-liberacao-de-recursos-de-fundo-de-ciencia-tecnologia-24562786)
+* [Bomba-relógio da Covid-19 ameaça índios](https://oglobo.globo.com/opiniao/bomba-relogio-da-covid-19-ameaca-indios-24561044)
+* [Outro planeta para morar](https://oglobo.globo.com/opiniao/outro-planeta-para-morar-24562877)
+* [Brincadeirinha séria](https://oglobo.globo.com/opiniao/brincadeirinha-seria-24562871)
 * [Estados do Norte têm tendência de queda de óbitos por Covid-19](https://oglobo.globo.com/sociedade/coronavirus/estados-do-norte-tem-tendencia-de-queda-de-obitos-por-covid-19-1-24562847)
 * [Cruzeiro que zarpou em meio à pandemia tem 36 tripulantes infectados pela Covid-19 na Noruega](https://oglobo.globo.com/mundo/cruzeiro-que-zarpou-em-meio-pandemia-tem-36-tripulantes-infectados-pela-covid-19-na-noruega-24562542)
-* [Fluminense e Botafogo empatam clássico e mostram que precisam evoluir para o Brasileiro](https://oglobo.globo.com/esportes/fluminense-botafogo-empatam-classico-mostram-que-precisam-evoluir-para-brasileiro-24562837)
 * [Apos quatro meses fechada, London Eye reabre em Londres com medidas restritas de distanciamento](https://oglobo.globo.com/mundo/apos-quatro-meses-fechada-london-eye-reabre-em-londres-com-medidas-restritas-de-distanciamento-24562855)
-* [Venezuela pedirá à Itália extradição de ex-chefe petroleiro e antigo aliado de Chávez](https://oglobo.globo.com/mundo/venezuela-pedira-italia-extradicao-de-ex-chefe-petroleiro-antigo-aliado-de-chavez-24562824)
-* ['Estamos aqui pra ficar', diz TikTok sobre proibição e boatos de venda nos EUA](https://oglobo.globo.com/economia/estamos-aqui-pra-ficar-diz-tiktok-sobre-proibicao-boatos-de-venda-nos-eua-1-24562792)
 * ['Devagar miudinho, devagarinho...'](https://oglobo.globo.com/rio/devagar-miudinho-devagarinho-24562360)
 * [Não seria sensato manter festas como réveillon e carnaval](https://oglobo.globo.com/opiniao/nao-seria-sensato-manter-festas-como-reveillon-carnaval-1-24561367)
 * [Pandemia não justifica mexer no teto de gastos](https://oglobo.globo.com/opiniao/pandemia-nao-justifica-mexer-no-teto-de-gastos-24561310)

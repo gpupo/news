@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 09:14:06 UTC
+# indexed at 02/08/2020 09:34:47 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Low Latency Tuning Guide](https://rigtorp.se/low-latency-guide/)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
-* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
+* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
-* [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
-* [Vicar – Multi-dimensional image processing software](https://github.com/nasa/VICAR/)
-* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
+* [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
+* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
+* [Vicar – Multi-dimensional image processing software](https://github.com/nasa/VICAR/)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
-* [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
 * [Bogleheads](https://www.bogleheads.org/)
+* [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 * [The history of economic growth is, in many ways, a tale of cleaniness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
-* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
+* [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
+* [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
 * [Facebook puts global block on Brazil's Bolsonaro supporters](https://www.reuters.com/article/us-facebook-brazil/facebook-puts-global-block-on-brazils-bolsonaro-supporters-idUSKBN24X3XC)
 * [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [Tech Journalism Is Less Diverse Than Tech](https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/)
-* [Stepping away from open source](https://omar.yt/posts/stepping-away-from-open-source)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [This Sledding Team Trained Hard for Gold in 2010. Some Members Regret It.](https://www.nytimes.com/2020/08/01/sports/olympics/concussion-skeleton-sledding-brain-damage.html)
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
 * [An Artist Having Fun While Waiting for Catastrophe](https://www.nytimes.com/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
 * [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](https://www.nytimes.com/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)

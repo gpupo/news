@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 10:14:05 UTC
+# indexed at 02/08/2020 10:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Low Latency Tuning Guide](https://rigtorp.se/low-latency-guide/)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
+* [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
-* [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
+* [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
 * [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
-* [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
+* [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
-* [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
 * [Vicar – Multi-dimensional image processing software](https://github.com/nasa/VICAR/)
+* [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
 * [Bogleheads](https://www.bogleheads.org/)
-* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 * [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
+* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [The history of economic growth is, in many ways, a tale of cleaniness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
-* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
+* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [Facebook puts global block on Brazil's Bolsonaro supporters](https://www.reuters.com/article/us-facebook-brazil/facebook-puts-global-block-on-brazils-bolsonaro-supporters-idUSKBN24X3XC)
+* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
-* [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Wilford Brimley has died](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [Stepping away from open source](https://omar.yt/posts/stepping-away-from-open-source)
 ## nytimes.com
 
@@ -99,11 +99,11 @@ layout: default
 ## globo.com
 
 
-* [Marcelo Barreto: o meu obrigado a Rodrigo Rodrigues](https://oglobo.globo.com/esportes/marcelo-barreto-meu-obrigado-rodrigo-rodrigues-24562624)
 * [Empresa reimagina interior de aviões após a pandemia do coronavírus](https://epoca.globo.com/sociedade/empresa-reimagina-interior-de-avioes-apos-pandemia-do-coronavirus-24561257)
 * [Procuradora escreve livro infantil sobre racismo baseado em experiências pessoais](https://epoca.globo.com/sociedade/procuradora-escreve-livro-infantil-sobre-racismo-baseado-em-experiencias-pessoais-24561019)
 * [Governo federal recebeu 10 mil denúncias sobre fraude em auxílio emergencial](https://epoca.globo.com/guilherme-amado/governo-federal-recebeu-10-mil-denuncias-sobre-fraude-em-auxilio-emergencial-1-24561626)
 * [Procuradores da Lava Jato em Curitiba se dizem arrependidos de voto em Bolsonaro](https://epoca.globo.com/guilherme-amado/procuradores-da-lava-jato-em-curitiba-se-dizem-arrependidos-de-voto-em-bolsonaro-24561908)
+* [Planalto deu menos de 24 horas para ministérios se manifestarem sobre ampliar rol de atividades essenciais](https://epoca.globo.com/guilherme-amado/planalto-deu-menos-de-24-horas-para-ministerios-se-manifestarem-sobre-ampliar-rol-de-atividades-essenciais-24561788)
 * [Planalto segura há mais de três meses nomeação de diretor da PF que fez Moro deixar governo](https://epoca.globo.com/guilherme-amado/planalto-segura-ha-mais-de-tres-meses-nomeacao-de-diretor-da-pf-que-fez-moro-deixar-governo-24561707)
 * [Witzel e vice-governador têm conversa dura, com troca de acusações e cobranças](https://epoca.globo.com/guilherme-amado/witzel-vice-governador-tem-conversa-dura-com-troca-de-acusacoes-cobrancas-24561697)
 * [Além da segurança: Recreio Presente ajuda jovens a conseguirem empregos](https://oglobo.globo.com/rio/bairros/alem-da-seguranca-recreio-presente-ajuda-jovens-conseguirem-empregos-24559220)

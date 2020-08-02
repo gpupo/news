@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 12:18:15 UTC
+# indexed at 02/08/2020 12:34:17 UTC
 
 
 ## news.ycombinator.com
@@ -13,6 +13,8 @@ layout: default
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
+* [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
+* [Local-first software: You Own Your Data, in spite of the Cloud [pdf]](https://www.inkandswitch.com/media/local-first/local-first.pdf)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
 * [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
@@ -22,22 +24,20 @@ layout: default
 * [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
-* [Local-first software: You Own Your Data, in spite of the Cloud [pdf]](https://www.inkandswitch.com/media/local-first/local-first.pdf)
 * [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
 * [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
-* [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
-* [The history of economic growth is, in many ways, a tale of cleaniness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
 * [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
+* [The history of economic growth is, in many ways, a tale of cleaniness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
+* [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
 * [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
-* [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [Garmin received decryptor for WastedLocker ransomware](https://www.bleepingcomputer.com/news/security/confirmed-garmin-received-decryptor-for-wastedlocker-ransomware/)
+* [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Wilford Brimley has died](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [Child sexual abuse material could be going undetected because of ‘false reports’](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
-* [Show HN: RISC-V disassembler in 200 lines of C](https://github.com/andportnoy/riscv-disassembler)
 ## nytimes.com
 
 
@@ -78,8 +78,8 @@ layout: default
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
@@ -98,6 +98,7 @@ layout: default
 ## globo.com
 
 
+* [Wilford Brimley, ator de 'Cocoon', morre aos 85 anos](https://oglobo.globo.com/cultura/wilford-brimley-ator-de-cocoon-morre-aos-85-anos-24563016)
 * [Flávia Monteiro lembra personagem de 'Vale tudo': 'Voz de apito e cabelo anos 80'](https://oglobo.globo.com/ela/gente/flavia-monteiro-lembra-personagem-de-vale-tudo-voz-de-apito-cabelo-anos-80-24562995)
 * [Depois de repassar bens à irmã, Romário transfere crédito de R$ 22 milhões a advogado](https://oglobo.globo.com/brasil/depois-de-repassar-bens-irma-romario-transfere-credito-de-22-milhoes-advogado-24562993)
 * [Parlamentares disputam repasses do fundo eleitoral nos partidos](https://oglobo.globo.com/brasil/parlamentares-disputam-repasses-do-fundo-eleitoral-nos-partidos-24562990)
@@ -105,6 +106,5 @@ layout: default
 * [Ala do governo quer ampliar gastos para projetar popularidade de Bolsonaro rumo a 2022](https://oglobo.globo.com/brasil/ala-do-governo-quer-ampliar-gastos-para-projetar-popularidade-de-bolsonaro-rumo-2022-24562985)
 * [Boletim das 8h: Brasil tem 2.709.617 casos de Covid-19, informa consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2709617-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-24562973)
 * [PMs do Rio são suspeitos de pedir auxílio emergencial de R$ 600 indevidamente](https://oglobo.globo.com/rio/pms-do-rio-sao-suspeitos-de-pedir-auxilio-emergencial-de-600-indevidamente-24562978)
-* ['Eles vão ter de comprar a casa ao lado', diz Charlize Theron](https://oglobo.globo.com/ela/gente/eles-vao-ter-de-comprar-casa-ao-lado-diz-charlize-theron-24562974)
 * [Negociação é a chave para a volta de escolas particulares. Entenda os direitos do consumidor](https://oglobo.globo.com/economia/defesa-do-consumidor/negociacao-a-chave-para-volta-de-escolas-particulares-entenda-os-direitos-do-consumidor-24562676)
 * [Frente a aumento de hostilidades, presidente da China acelera corrida por autonomia produtiva](https://oglobo.globo.com/mundo/frente-aumento-de-hostilidades-presidente-da-china-acelera-corrida-por-autonomia-produtiva-24562175)

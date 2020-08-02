@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 19:13:44 UTC
+# indexed at 02/08/2020 19:36:01 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Mail delays hit Philadelphia residents, short staffed USPS struggles to keep up](https://www.inquirer.com/news/philadelphia/usps-tracking-in-transit-late-mail-delivery-philadelphia-packages-postal-service-20200802.html)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
 * [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
+* [Mail delays hit Philadelphia residents, short staffed USPS struggles to keep up](https://www.inquirer.com/news/philadelphia/usps-tracking-in-transit-late-mail-delivery-philadelphia-packages-postal-service-20200802.html)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
-* [Web apps aren't tech. They're “tech”](https://questinglog.com/web-apps-arent-tech)
-* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
-* [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
-* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
-* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
-* [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
-* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [SpaceX: Good Splashdown of Dragon Confirmed](https://twitter.com/SpaceX/status/1289996815824117760)
+* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
+* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
+* [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
+* [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
+* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
+* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
-* [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
-* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
-* [Why professors are writing crap that nobody reads](https://newsin.asia/why-professors-are-writing-crap-that-nobody-reads/)
-* [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
 * [Using Augmentative and Alternative Communication with Dogs](https://www.hungerforwords.com/)
+* [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
 * [I made an app that lets you split a file into horcruxes](https://github.com/jesseduffield/horcrux-ui)
+* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
 * [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
-* [FDA urges consumers not use certain hand sanitizer products](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
+* [FDA urges consumers not use certain hand sanitizer products](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
 * [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
+* [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
+* [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
+* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Under Pressure, Brazil’s Bolsonaro Forced to Fight Deforestation](https://www.nytimes.com/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Paris Beehives Trace Notre-Dame’s Toxic Fallout](https://www.nytimes.com/2020/07/29/world/europe/honey-lead-notredame-fire-paris.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
 * [How an Urban Flower Farmer Spends Her Sundays](https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html)
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
@@ -101,10 +101,10 @@ layout: default
 ## globo.com
 
 
-* [BNDES recebe R$ 350 milhões de fundo federal para investir em projetos de saneamento](https://oglobo.globo.com/economia/bndes-recebe-350-milhoes-de-fundo-federal-para-investir-em-projetos-de-saneamento-24563188)
-* [Com ruas fechadas para lazer e volta do banho de mar, domingo é marcado por aglomerações nas praias da Zona Sul](https://oglobo.globo.com/rio/com-ruas-fechadas-para-lazer-volta-do-banho-de-mar-domingo-marcado-por-aglomeracoes-nas-praias-da-zona-sul-24563108)
-* [Bolsonaro admite nova CPMF, mas só se não houver aumento de carga tributária](https://oglobo.globo.com/economia/bolsonaro-admite-nova-cpmf-mas-so-se-nao-houver-aumento-de-carga-tributaria-24563099)
 * [Quiosque da Barra da Tijuca tem aglomeração de clientes em fim de semana de flexibilização no Rio](https://oglobo.globo.com/rio/quiosque-da-barra-da-tijuca-tem-aglomeracao-de-clientes-em-fim-de-semana-de-flexibilizacao-no-rio-24563128)
+* [Com ruas fechadas para lazer e volta do banho de mar, domingo é marcado por aglomerações nas praias da Zona Sul](https://oglobo.globo.com/rio/com-ruas-fechadas-para-lazer-volta-do-banho-de-mar-domingo-marcado-por-aglomeracoes-nas-praias-da-zona-sul-1-24563108)
+* [BNDES recebe R$ 350 milhões de fundo federal para investir em projetos de saneamento](https://oglobo.globo.com/economia/bndes-recebe-350-milhoes-de-fundo-federal-para-investir-em-projetos-de-saneamento-24563188)
+* [Bolsonaro admite nova CPMF, mas só se não houver aumento de carga tributária](https://oglobo.globo.com/economia/bolsonaro-admite-nova-cpmf-mas-so-se-nao-houver-aumento-de-carga-tributaria-24563099)
 * [ONG Obra do Berço promove rifa do dia dos pais para ajudar na sua manutenção](https://oglobo.globo.com/rio/bairros/ong-obra-do-berco-promove-rifa-do-dia-dos-pais-para-ajudar-na-sua-manutencao-24563114)
 * [Médico que fez procedimento em MC Atrevida prestará depoimento nesta segunda-feira, diz advogado](https://oglobo.globo.com/rio/medico-que-fez-procedimento-em-mc-atrevida-prestara-depoimento-nesta-segunda-feira-diz-advogado-24563148)
 * [Luana Génot: Atentos aos sinais](https://oglobo.globo.com/ela/luana-genot-atentos-aos-sinais-24560896)

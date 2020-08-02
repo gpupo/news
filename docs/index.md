@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 17:34:41 UTC
+# indexed at 02/08/2020 18:15:10 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Mail delays hit Philadelphia residents, short staffed USPS struggles to keep up](https://www.inquirer.com/news/philadelphia/usps-tracking-in-transit-late-mail-delivery-philadelphia-packages-postal-service-20200802.html)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
+* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
+* [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
+* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
-* [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
 * [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
+* [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
 * [The Panopticon Is Already Here](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
-* [FDA urges consumers not use certain hand sanitizer products](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
-* [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
-* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
-* [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
+* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
+* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [Google killed a small smart glass maker after acquiring it](https://androidrookies.com/here-is-how-google-killed-a-small-smart-glass-maker-after-acquiring-it/)
+* [Why I started GigoBooks, and how I got the idea for a startup](https://www.gigobooks.com/blog/why-i-started-gigobooks.html)
+* [FDA urges consumers not use certain hand sanitizer products](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
 * [I made an app that lets you split a file into horcruxes](https://github.com/jesseduffield/horcrux-ui)
 * [Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
-* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
+* [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
+* [World's First Fully Programmable and Open-Source Massive-MIMO Platform](https://renew-wireless.org/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
-* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
+* [Why professors are writing crap that nobody reads](https://newsin.asia/why-professors-are-writing-crap-that-nobody-reads/)
 * [Brazil Bolsonaro: Facebook told to block accounts of president’s supporters](https://www.bbc.com/news/world-latin-america-53625728)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
-* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 * [The history of economic growth is a tale of cleanliness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
-* [Ask HN: What’s your daily/weekly routine?](https://news.ycombinator.com/item?id=24029286)
-* [Ask HN: Geopolitical forums similar to HN?](https://news.ycombinator.com/item?id=24028512)
-* [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
-* [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
-* [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
+* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Should N.Y. Be Jailing Parolees for Minor Lapses During a Pandemic?](https://www.nytimes.com/2020/07/31/nyregion/ny-parole-violations.html)
 * [Wilford Brimley Dead at 85; 'Cocoon' Star Known for Cranky Characters](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
 * [How an Urban Flower Farmer Spends Her Sundays](https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html)
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
@@ -92,6 +92,7 @@ layout: default
 * [Lizard Popsicles, Anyone?](https://www.nytimes.com/2020/07/31/science/lizards-liolaemus-argentina.html)
 * [Gut Microbes Might Keep Malnourished Children From Growing](https://www.nytimes.com/2020/07/22/health/microbiome-malnourishment-children.html)
 * [With Eating Disorders, Looks Can Be Deceiving](https://www.nytimes.com/2020/07/27/well/eat/eating-disorders.html)
+* [Chewy Meets Crispy in This Summery Salad](https://www.nytimes.com/2020/07/31/dining/farro-corn-chickpea-salad-recipe.html)
 * [After Plummeting, the Virus Soars Back in the Midwest](https://www.nytimes.com/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -99,6 +100,8 @@ layout: default
 ## globo.com
 
 
+* [Para além da areia, vias fechadas para área de lazer na Zona Sul provoca aglomerações neste domingo](https://oglobo.globo.com/rio/para-alem-da-areia-vias-fechadas-para-area-de-lazer-na-zona-sul-provoca-aglomeracoes-neste-domingo-24563108)
+* [ONG Obra do Berço promove rifa do dia dos pais para ajudar na sua manutenção](https://oglobo.globo.com/rio/bairros/ong-obra-do-berco-promove-rifa-do-dia-dos-pais-para-ajudar-na-sua-manutencao-24563114)
 * [Bolsonaro admite nova CPMF, mas só se não houver aumento de carga tributária](https://oglobo.globo.com/economia/bolsonaro-admite-nova-cpmf-mas-so-se-nao-houver-aumento-de-carga-tributaria-24563099)
 * [Luana Génot: Atentos aos sinais](https://oglobo.globo.com/ela/luana-genot-atentos-aos-sinais-24560896)
 * [Príncipe Andrew passou dois dias em rancho com 'escrava sexual' de bilionário pedófilo, afirma documento judicial](https://oglobo.globo.com/ela/gente/principe-andrew-passou-dois-dias-em-rancho-com-escrava-sexual-de-bilionario-pedofilo-afirma-documento-judicial-1-24563045)
@@ -107,5 +110,3 @@ layout: default
 * [Bolsonaro diz que André Brandão, do HSBC, 'a princípio' será  presidente do Banco do Brasil](https://oglobo.globo.com/economia/bolsonaro-diz-que-andre-brandao-do-hsbc-principio-sera-presidente-do-banco-do-brasil-24563075)
 * [Hamilton vence mesmo com pneu furado e dispara na liderança da Fórmula 1](https://oglobo.globo.com/esportes/hamilton-vence-mesmo-com-pneu-furado-dispara-na-lideranca-da-formula-1-24563078)
 * [Brasil tem 93.659 mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-93659-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24563061)
-* [Empurrando caixas de equipamentos, técnicos de shows e eventos fazem protesto por medidas emergenciais para o setor](https://oglobo.globo.com/sociedade/empurrando-caixas-de-equipamentos-tecnicos-de-shows-eventos-fazem-protesto-por-medidas-emergenciais-para-setor-24563036)
-* [Manutenção da Cedae vai impactar fornecimento de água em quatro municípios do Rio na manhã de quarta-feira](https://oglobo.globo.com/rio/manutencao-da-cedae-vai-impactar-fornecimento-de-agua-em-quatro-municipios-do-rio-na-manha-de-quarta-feira-24563037)

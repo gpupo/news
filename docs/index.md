@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 00:41:54 UTC
+# indexed at 02/08/2020 01:15:10 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
+* [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft](https://youtu.be/13OkD0C_TWU)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [A man who can read letters – but not numbers – exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
-* [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft](https://youtu.be/13OkD0C_TWU)
+* [Tesla Model 3 Driver Has License Suspended After Adjusting Wipers via Touchscree](https://www.thedrive.com/news/35301/tesla-model-3-driver-has-license-suspended-by-judge-after-adjusting-wipers-via-touchscreen)
 * [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
+* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
 * [Japan's Brand New Bullet Train Is Earthquake-Proof](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/)
 * [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
 * [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
+* [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
 * [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
 * [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
-* [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
-* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
-* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
 * [Bogleheads](https://www.bogleheads.org/)
-* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
+* [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
+* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
+* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
+* [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
+* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
 * [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
 * [SpaceX says Starlink internet has ‘extraordinary demand,’](https://www.cnbc.com/2020/08/01/spacex-starlink-extraordinary-demand-with-nearly-700000-interested.html)
 * [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
-* [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
 * [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
-* [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
-* [Microsoft and Bytedance Put TikTok Talks on Hold After Trump Signals Opposition](https://www.wsj.com/articles/microsoft-and-bytedance-put-tiktok-talks-on-hold-after-trump-signals-opposition-11596312611)
-* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
+* [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
-* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
+* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
+* [Microsoft and Bytedance Put TikTok Talks on Hold After Trump Signals Opposition](https://www.wsj.com/articles/microsoft-and-bytedance-put-tiktok-talks-on-hold-after-trump-signals-opposition-11596312611)
 * [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
-* [Show HN: Odin – The Observable and Distributed Workflow System](https://github.com/theycallmemac/odin/blob/master/README.md)
-* [Ask HN: I have $450K cash, what should I do to maximize my return?](https://news.ycombinator.com/item?id=24020899)
+* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 ## nytimes.com
 
 
@@ -53,7 +53,7 @@ layout: default
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/07/31/briefing/11-of-our-best-weekend-reads.html)
 * [A #MeToo Moment in the Military](https://www.nytimes.com/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
-* [The Yearning for the Unexplained](https://www.nytimes.com/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html)
+* [The ‘Seductive Lure’ of Authoritarianism](https://www.nytimes.com/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 * [Double, Double, Trump’s Toil, Our Trouble](https://www.nytimes.com/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
 * [Talking to the Dead in the Sunshine State](https://www.nytimes.com/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
 * [Coronavirus Forced Indian Workers on a Deadly Journey](https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
@@ -79,9 +79,9 @@ layout: default
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
 * [An Artist Having Fun While Waiting for Catastrophe](https://www.nytimes.com/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
 * [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](https://www.nytimes.com/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)

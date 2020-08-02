@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 11:35:49 UTC
+# indexed at 02/08/2020 12:18:15 UTC
 
 
 ## news.ycombinator.com
@@ -10,7 +10,6 @@ layout: default
 
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Low latency tuning guide](https://rigtorp.se/low-latency-guide/)
-* [Is Joe Rogan right about young men and video games?](https://unherd.com/thepost/is-joe-rogan-right-about-young-men-and-video-games/)
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft [video]](https://youtube.com/watch?v=13OkD0C_TWU)
 * [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225)
 * [A man who can read letters but not numbers exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
@@ -20,24 +19,25 @@ layout: default
 * [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [Unbricking a $2k bike with a $10 Raspberry Pi](https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/)
 * [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
-* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [Inside Information and Kodak Stock](https://www.chartfleau.com/kodak)
-* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
+* [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux)
+* [Local-first software: You Own Your Data, in spite of the Cloud [pdf]](https://www.inkandswitch.com/media/local-first/local-first.pdf)
+* [My Custom Payment Implant](https://forum.dangerousthings.com/t/my-custom-payment-conversion-experience/7668/)
 * [Synfig Studio – FOSS industrial-strength 2D film-quality animation software](https://github.com/synfig/synfig)
 * [Casio FX-880P Personal Computer Teardown](https://neil.computer/notes/casio-fx-880p-personal-computer-teardown/)
 * [Refactoring the FreeBSD Kernel with Checked C [pdf]](https://www.cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf)
-* [Bogleheads](https://www.bogleheads.org/)
 * [The history of economic growth is, in many ways, a tale of cleaniness](https://www.economist.com/books-and-arts/2020/08/01/how-hand-washing-explains-economic-expansion)
-* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
-* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
-* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
+* [Do Human crowds during protests resemble animal swarming behavior?](https://www.wired.com/story/what-the-science-of-animal-networks-reveals-about-protests/)
+* [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
+* [Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
-* [Facebook puts global block on Brazil's Bolsonaro supporters](https://www.reuters.com/article/us-facebook-brazil/facebook-puts-global-block-on-brazils-bolsonaro-supporters-idUSKBN24X3XC)
+* [Garmin received decryptor for WastedLocker ransomware](https://www.bleepingcomputer.com/news/security/confirmed-garmin-received-decryptor-for-wastedlocker-ransomware/)
+* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
 * [Wilford Brimley has died](https://www.nytimes.com/2020/08/01/obituaries/wilford-brimley-dead.html)
 * [Child sexual abuse material could be going undetected because of ‘false reports’](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
-* [Nvidia is reportedly in ‘advanced talks’ to buy ARM for more than $32B](https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm)
+* [Show HN: RISC-V disassembler in 200 lines of C](https://github.com/andportnoy/riscv-disassembler)
 ## nytimes.com
 
 
@@ -77,9 +77,9 @@ layout: default
 * [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Their Very Own Loving Story](https://www.nytimes.com/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
@@ -87,18 +87,18 @@ layout: default
 * [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](https://www.nytimes.com/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
 * [Isabel Wilkerson Loves Books. That Doesn’t Mean She Treats Them Gently.](https://www.nytimes.com/2020/07/30/books/review/isabel-wilkerson-by-the-book-interview.html)
 * [No Summer Tournaments Means More Recruits Committing to Colleges](https://www.nytimes.com/2020/07/30/sports/ncaabasketball/college-basketball-recruiting.html)
-* [Why NASA Picked Jezero Crater for the Perseverance Rover](https://www.nytimes.com/2020/07/28/science/nasa-jezero-perseverance.html)
-* [How Woody Vines Do the Twist](https://www.nytimes.com/2020/08/01/science/vines-lianas-panama.html)
-* [Can Humans Give Coronavirus to Bats, and Other Wildlife?](https://www.nytimes.com/2020/08/01/science/Covid-bats.html)
-* [DNA Study from 23andMe Traces Violent History of American Slavery](https://www.nytimes.com/2020/07/23/science/23andme-african-ancestry.html)
+* [With Covid-19, a Seismic Quiet Like No Other](https://www.nytimes.com/2020/07/23/science/coronavirus-seismic-activity.html)
+* [Lizard Popsicles, Anyone?](https://www.nytimes.com/2020/07/31/science/lizards-liolaemus-argentina.html)
+* [Gut Microbes Might Keep Malnourished Children From Growing](https://www.nytimes.com/2020/07/22/health/microbiome-malnourishment-children.html)
+* [With Eating Disorders, Looks Can Be Deceiving](https://www.nytimes.com/2020/07/27/well/eat/eating-disorders.html)
 * [After Plummeting, the Virus Soars Back in the Midwest](https://www.nytimes.com/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
-* [On the First Day of School, an Indiana Student Tests Positive for Coronavirus](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Flávia Monteiro lembra personagem de 'Vale tudo': 'Voz de apito e cabelo anos 80'](https://oglobo.globo.com/ela/gente/flavia-monteiro-lembra-personagem-de-vale-tudo-voz-de-apito-cabelo-anos-80-24562995)
 * [Depois de repassar bens à irmã, Romário transfere crédito de R$ 22 milhões a advogado](https://oglobo.globo.com/brasil/depois-de-repassar-bens-irma-romario-transfere-credito-de-22-milhoes-advogado-24562993)
 * [Parlamentares disputam repasses do fundo eleitoral nos partidos](https://oglobo.globo.com/brasil/parlamentares-disputam-repasses-do-fundo-eleitoral-nos-partidos-24562990)
 * [Na mira de Aras, Lava- Jato busca solução para garantir investigações](https://oglobo.globo.com/brasil/na-mira-de-aras-lava-jato-busca-solucao-para-garantir-investigacoes-1-24562988)
@@ -106,6 +106,5 @@ layout: default
 * [Boletim das 8h: Brasil tem 2.709.617 casos de Covid-19, informa consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-2709617-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-24562973)
 * [PMs do Rio são suspeitos de pedir auxílio emergencial de R$ 600 indevidamente](https://oglobo.globo.com/rio/pms-do-rio-sao-suspeitos-de-pedir-auxilio-emergencial-de-600-indevidamente-24562978)
 * ['Eles vão ter de comprar a casa ao lado', diz Charlize Theron](https://oglobo.globo.com/ela/gente/eles-vao-ter-de-comprar-casa-ao-lado-diz-charlize-theron-24562974)
+* [Negociação é a chave para a volta de escolas particulares. Entenda os direitos do consumidor](https://oglobo.globo.com/economia/defesa-do-consumidor/negociacao-a-chave-para-volta-de-escolas-particulares-entenda-os-direitos-do-consumidor-24562676)
 * [Frente a aumento de hostilidades, presidente da China acelera corrida por autonomia produtiva](https://oglobo.globo.com/mundo/frente-aumento-de-hostilidades-presidente-da-china-acelera-corrida-por-autonomia-produtiva-24562175)
-* [Planalto deu menos de 24 horas para ministérios se manifestarem sobre ampliar rol de atividades essenciais](https://epoca.globo.com/guilherme-amado/planalto-deu-menos-de-24-horas-para-ministerios-se-manifestarem-sobre-ampliar-rol-de-atividades-essenciais-24561788)
-* [Bota-abaixo em Niterói: demolições na Paulo Alves, que será alargada, começam este mês](https://oglobo.globo.com/rio/bairros/bota-abaixo-em-niteroi-demolicoes-na-paulo-alves-que-sera-alargada-comecam-este-mes-24559934)

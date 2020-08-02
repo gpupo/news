@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 02/08/2020 01:15:10 UTC
+# indexed at 02/08/2020 01:34:49 UTC
 
 
 ## news.ycombinator.com
@@ -12,38 +12,38 @@ layout: default
 * [NASA Astronauts Return Home in SpaceX's Crew Dragon Spacecraft](https://youtu.be/13OkD0C_TWU)
 * [Hacking Portable Air Conditioners](https://pmarks.net/ac/)
 * [A man who can read letters – but not numbers – exposes roots of consciousness](https://www.sciencemag.org/news/2020/07/mysterious-case-man-who-can-read-letters-not-numbers-exposes-complex-roots)
-* [Tesla Model 3 Driver Has License Suspended After Adjusting Wipers via Touchscree](https://www.thedrive.com/news/35301/tesla-model-3-driver-has-license-suspended-by-judge-after-adjusting-wipers-via-touchscreen)
 * [How inside information moved Kodak's stock this week](https://www.chartfleau.com/kodak)
 * [Hacking up a fix for the broken AppleTalk kernel module in Linux 5.1 and newer](https://www.downtowndougbrown.com/2020/08/hacking-up-a-fix-for-the-broken-appletalk-kernel-module-in-linux-5-1-and-newer/)
 * [TikTok’s Chinese owner offers to forego stake to clinch U.S. deal – sources](https://www.reuters.com/article/us-usa-tiktok-bytedance-exclusive-idUSKBN24X3SK)
+* [Tesla Model 3 Driver Has License Suspended After Adjusting Wipers via Touchscree](https://www.thedrive.com/news/35301/tesla-model-3-driver-has-license-suspended-by-judge-after-adjusting-wipers-via-touchscreen)
 * [Japan's Brand New Bullet Train Is Earthquake-Proof](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/)
 * [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
-* [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
-* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
-* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
-* [Bogleheads](https://www.bogleheads.org/)
-* [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
-* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
-* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
-* [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
+* [75% of child porn reports are fraudulent (2019)](https://www.iwf.org.uk/news/thousands-of-images-and-videos-of-child-sexual-abuse-could-be-going-undetected-because-of-)
 * [Show HN: Japanese Language Learning Forum](https://questions.japanesecomplete.com)
-* [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
+* [Skate Warrior 1992, 1999, 2020](https://prolost.com/blog/skatewarrior)
+* [User-facing portion of invidio.us shutting down](https://omar.yt/posts/stepping-away-from-open-source)
+* [One Byte to rule them all](https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html)
+* [Bogleheads](https://www.bogleheads.org/)
+* [JS1024 Results – 1k JavaScript Demos](https://js1024.fun/results/2020)
+* [Do any Open Source Licences require source history?](https://shkspr.mobi/blog/2020/08/do-any-open-source-licences-require-source-history/)
+* [AstraZeneca exempt from coronavirus vaccine liability claims in most countries](https://uk.reuters.com/article/us-astrazeneca-results-vaccine-liability/astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in-most-countries-idUKKCN24V2EN)
+* [Show HN: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
+* [Derek Sivers and the Art of Enough](https://brendancahill.io/brensblog/dereksivers)
+* [Howland Will Forgery Trial](https://en.wikipedia.org/wiki/Howland_will_forgery_trial)
+* [Visa: Advancing our approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 * [SpaceX says Starlink internet has ‘extraordinary demand,’](https://www.cnbc.com/2020/08/01/spacex-starlink-extraordinary-demand-with-nearly-700000-interested.html)
+* [Show HN: Google Meet Studio Mini – Change your appearance with a browser script](https://x-ing.space/mercator)
 * [Perl7 is a fork of values](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html)
 * [The semver trick (2019)](https://github.com/dtolnay/semver-trick/)
+* [Blue Team Rust: What Is “Memory Safety”, Really?](https://tiemoko.com/blog/blue-team-rust/)
 * [We’re a Lot Better at Fighting Cancer Than We Realized](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized)
 * [The Yoda of Silicon Valley (2018)](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
-* [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history)
-* [Microsoft and Bytedance Put TikTok Talks on Hold After Trump Signals Opposition](https://www.wsj.com/articles/microsoft-and-bytedance-put-tiktok-talks-on-hold-after-trump-signals-opposition-11596312611)
-* [Show HN: JavaScript-free personal bio hosting](https://plumebio.com)
-* [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 ## nytimes.com
 
 
 * [After Plummeting, the Virus Soars Back in the Midwest](https://www.nytimes.com/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
 * [Coronavirus News: Live Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
-* [Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race](https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html)
+* [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
 * [Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’](https://www.nytimes.com/2020/08/01/world/europe/germany-nazi-infiltration.html)
 * [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](https://www.nytimes.com/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
 * [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](https://www.nytimes.com/2020/08/01/us/politics/trump-books.html)
@@ -77,9 +77,9 @@ layout: default
 * [Tracking Isaias: Live Updates](https://www.nytimes.com/2020/08/01/us/hurricane-isaias-track.html)
 * [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html)
 * [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](https://www.nytimes.com/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
@@ -99,6 +99,7 @@ layout: default
 ## globo.com
 
 
+* [Por que Trump planeja proibir o TikTok](https://epoca.globo.com/por-que-trump-planeja-proibir-tiktok-24562769)
 * [Estados do Norte têm tendência de queda de óbitos por Covid-19](https://oglobo.globo.com/sociedade/coronavirus/estados-do-norte-tem-tendencia-de-queda-de-obitos-por-covid-19-1-24562847)
 * [Cruzeiro que zarpou em meio à pandemia tem 36 tripulantes infectados pela Covid-19 na Noruega](https://oglobo.globo.com/mundo/cruzeiro-que-zarpou-em-meio-pandemia-tem-36-tripulantes-infectados-pela-covid-19-na-noruega-24562542)
 * [Fluminense e Botafogo empatam clássico e mostram que precisam evoluir para o Brasileiro](https://oglobo.globo.com/esportes/fluminense-botafogo-empatam-classico-mostram-que-precisam-evoluir-para-brasileiro-24562837)
@@ -108,4 +109,3 @@ layout: default
 * [Brasil supera marca dos 93 mil óbitos por coronavírus, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-supera-marca-dos-93-mil-obitos-por-coronavirus-diz-consorcio-de-veiculos-de-imprensa-24562627)
 * [Guarda Municipal retira 300 pessoas das praias do Rio e isolamento na cidade apresenta redução](https://oglobo.globo.com/rio/guarda-municipal-retira-300-pessoas-das-praias-do-rio-isolamento-na-cidade-apresenta-reducao-24562774)
 * [Parlamentar brasileiro confirma que Todd Chapman fez lobby por livre comércio de etanol para ajudar reeleição de Trump](https://oglobo.globo.com/mundo/parlamentar-brasileiro-confirma-que-todd-chapman-fez-lobby-por-livre-comercio-de-etanol-para-ajudar-reeleicao-de-trump-24562768)
-* [Por que Trump mandou proibir o TikTok](https://epoca.globo.com/por-que-trump-mandou-proibir-tiktok-24562769)

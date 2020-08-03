@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 21:13:54 UTC
+# indexed at 03/08/2020 21:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
-* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
+* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
+* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
 * [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
-* [Live HDR+ and Dual Exposure Controls on Pixel 4 and 4a](https://ai.googleblog.com/2020/08/live-hdr-and-dual-exposure-controls-on.html)
-* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
-* [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
-* [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
-* [GiveCampus (YC S15) hiring Sr Engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [Live HDR+ and Dual Exposure Controls on Pixel 4 and 4a](https://ai.googleblog.com/2020/08/live-hdr-and-dual-exposure-controls-on.html)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
+* [Google to partner with BankMobile to offer digital bank accounts](https://www.globenewswire.com/news-release/2020/08/03/2071746/0/en/BankMobile-Announces-a-Collaboration-with-Google-to-Offer-Digital-Bank-Accounts.html)
+* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
+* [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
+* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [GiveCampus (YC S15) hiring Sr Engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 * [RISC-V OS using Rust: Graphics](https://blog.stephenmarz.com/2020/07/24/risc-v-os-using-rust-graphics/)
 * [Infrared thermometers to screen for Covid: more marketing than medical evidence](https://www.cebm.net/2020/08/screening-for-covid-19-with-infrared-thermometers-more-marketing-than-medical-evidence/)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
-* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
 * [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
+* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
 * [Implementing UFCS for C++ in Clang](https://dancrn.com/2020/08/02/ufcs-in-clang.html)
-* [Julia 1.5 Highlights](https://julialang.org/blog/2020/08/julia-1.5-highlights/)
 * [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
+* [Julia 1.5 Highlights](https://julialang.org/blog/2020/08/julia-1.5-highlights/)
 * [OneLook – Dictionary Search with Wildcards](https://onelook.com/)
-* [Wakaresaseya: private agents hired to end relationships](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
 ## nytimes.com
 
 
@@ -80,13 +80,12 @@ layout: default
 * [Isaias Live Updates: Carolinas Brace for Hurricane](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
 * [John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83](https://www.nytimes.com/2020/08/03/obituaries/john-hume-dies.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
 * [Google Pixel 4A Review: At $350, a Win for Those on a Budget](https://www.nytimes.com/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
-* [Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious](https://www.nytimes.com/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+* [In ‘Midnight Sun,’ Stephenie Meyer Tells Edward Cullen’s Story](https://www.nytimes.com/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
 * [‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks](https://www.nytimes.com/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
 * [What Is It Like to Watch Live Dance Again? Amazing](https://www.nytimes.com/2020/08/03/arts/dance/kaatsbaan-dance.html)
 * [The World’s Greatest Directors Have Their Own Streaming Lists](https://www.nytimes.com/2020/07/29/movies/la-cinetek-streaming.html)
@@ -100,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Rio chega a 13.604 mortes e 168.064 casos de coronavírus desde o início da pandemia](https://oglobo.globo.com/rio/rio-chega-13604-mortes-168064-casos-de-coronavirus-desde-inicio-da-pandemia-24564820)
-* [PRF e Polícia Civil apreendem mais de 100 quilos de pasta base de cocaína durante ação na Baixada Fluminense](https://oglobo.globo.com/rio/prf-policia-civil-apreendem-mais-de-100-quilos-de-pasta-base-de-cocaina-durante-acao-na-baixada-fluminense-1-24564803)
-* [Portugal não registra mortes por coronavírus pela primeira vez desde março](https://oglobo.globo.com/mundo/portugal-nao-registra-mortes-por-coronavirus-pela-primeira-vez-desde-marco-24564778)
 * [Colégio particular na Zona Oeste do Rio retoma aulas presenciais com 'novo normal'](https://oglobo.globo.com/rio/colegio-particular-na-zona-oeste-do-rio-retoma-aulas-presenciais-com-novo-normal-24564712)
+* [MC Atrevida: Médico suspeito de ser responsável por procedimento estético chega para depor de cadeira de rodas](https://oglobo.globo.com/rio/mc-atrevida-medico-suspeito-de-ser-responsavel-por-procedimento-estetico-chega-para-depor-de-cadeira-de-rodas-24564645)
+* [Ministério Público do Acre pede que goleiro Bruno use tornozeleira eletrônica](https://oglobo.globo.com/esportes/ministerio-publico-do-acre-pede-que-goleiro-bruno-use-tornozeleira-eletronica-24564705)
+* [Rio chega a 13.604 mortes e 168.064 casos de coronavírus desde o início da pandemia](https://oglobo.globo.com/rio/rio-chega-13604-mortes-168064-casos-de-coronavirus-desde-inicio-da-pandemia-24564820)
+* [Portugal não registra mortes por coronavírus pela primeira vez desde março](https://oglobo.globo.com/mundo/portugal-nao-registra-mortes-por-coronavirus-pela-primeira-vez-desde-marco-24564778)
+* [PRF e Polícia Civil apreendem mais de 100 quilos de pasta base de cocaína durante ação na Baixada Fluminense](https://oglobo.globo.com/rio/prf-policia-civil-apreendem-mais-de-100-quilos-de-pasta-base-de-cocaina-durante-acao-na-baixada-fluminense-1-24564803)
 * [Brasil não teme consequências em disputa entre China e EUA por 5G, diz Mourão](https://oglobo.globo.com/economia/brasil-nao-teme-consequencias-em-disputa-entre-china-eua-por-5g-diz-mourao-1-24564699)
 * [Eleição municipal em Recife terá disputa entre dois herdeiros do clã Arraes](https://epoca.globo.com/brasil/eleicao-municipal-em-recife-tera-disputa-entre-dois-herdeiros-do-cla-arraes-24564734)
 * [Promotoria de Manhattan indica que está investigando Trump e sua empresa por fraude](https://oglobo.globo.com/mundo/promotoria-de-manhattan-indica-que-esta-investigando-trump-sua-empresa-por-fraude-24564623)
-* [Ministério Público do Acre pede que goleiro Bruno use tornozeleira eletrônica](https://oglobo.globo.com/esportes/ministerio-publico-do-acre-pede-que-goleiro-bruno-use-tornozeleira-eletronica-24564705)
-* [MC Atrevida: Médico suspeito de ser responsável por procedimento estético chega para depor de cadeira de rodas](https://oglobo.globo.com/rio/mc-atrevida-medico-suspeito-de-ser-responsavel-por-procedimento-estetico-chega-para-depor-de-cadeira-de-rodas-24564645)
 * [Dois anos após desastre que matou 43 pessoas, Itália inaugura nova ponte em Gênova](https://oglobo.globo.com/mundo/dois-anos-apos-desastre-que-matou-43-pessoas-italia-inaugura-nova-ponte-em-genova-24564663)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 11:13:12 UTC
+# indexed at 03/08/2020 11:34:29 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [The frustration of trying to invest in my hometown](https://www.bbc.com/news/business-53473239)
+* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
 * [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
 * [Who Is Alexander Grothendieck? (2008) [pdf]](https://www.ams.org/notices/200808/tx080800930p.pdf)
 * [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
+* [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [Laws of UX](https://lawsofux.com/)
-* [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
-* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
-* [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
 * [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
-* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
-* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
+* [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
 * [KLM to Lay Off 5k Employees Due to Covid-19](https://kokpitherald.com/klm-to-lay-off-5000-employees-due-to-covid-19-crisis/)
-* [Mahatma Gandhi is set to become the first non-white person on British currency](https://www.dailymail.co.uk/news/article-8586361/Mahatma-Gandhi-set-non-white-person-British-currency.html)
 * [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
+* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
+* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
+* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
 * [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
-* [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
+* [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
+* [TikTok: Logs, Logs, Logs](https://medium.com/@fs0c131y/tiktok-logs-logs-logs-e93e8162647a)
 * [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
-* [Show HN: Create landing pages by copy-paste](https://frontendor.com/)
 * [The Truth Is Paywalled but the Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/)
-* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 * [Interviewing the “Passé” Way, For a Reason](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
-* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
-* [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
+* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
+* [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
+* [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
+* [Mahatma Gandhi is set to become the first non-white person on British currency](https://www.dailymail.co.uk/news/article-8586361/Mahatma-Gandhi-set-non-white-person-British-currency.html)
 ## nytimes.com
 
 
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
-* [Acidente com 22 carros deixa ao menos 8 mortos e mais de 20 feridos no Paraná](https://oglobo.globo.com/brasil/acidente-com-22-carros-deixa-ao-menos-8-mortos-mais-de-20-feridos-no-parana-24563791)
+* [Morre John Hume, ganhador do Nobel da Paz, arquiteto da paz na Irlanda do Norte](https://oglobo.globo.com/mundo/morre-john-hume-ganhador-do-nobel-da-paz-arquiteto-da-paz-na-irlanda-do-norte-24563756)
+* [STF julga nesta segunda-feira ação que cobra do governo ações imediatas para conter Covid-19 entre indígenas](https://oglobo.globo.com/brasil/stf-julga-nesta-segunda-feira-acao-que-cobra-do-governo-acoes-imediatas-para-conter-covid-19-entre-indigenas-24563750)
+* [Covid-19: casos em presídios crescem 134% em um mês, acima da média nacional](https://oglobo.globo.com/sociedade/covid-19-casos-em-presidios-crescem-134-em-um-mes-acima-da-media-nacional-24563798)
 * [INSS: Com adiamento de reabertura de agências, atendimentos terão de ser remarcados. Saiba como](https://oglobo.globo.com/economia/inss-com-adiamento-de-reabertura-de-agencias-atendimentos-terao-de-ser-remarcados-saiba-como-24563778)
-* [Domènec Torrent chega ao Rio e dará treino ainda hoje ao elenco do Flamengo](https://oglobo.globo.com/esportes/domenec-torrentchega-ao-rio-dara-treino-ainda-hoje-ao-elenco-do-flamengo-24563742)
+* [Acidente com 22 carros deixa ao menos 8 mortos e mais de 20 feridos no Paraná](https://oglobo.globo.com/brasil/acidente-com-22-carros-deixa-ao-menos-8-mortos-mais-de-20-feridos-no-parana-24563791)
 * [Detran libera CRLV digital a partir desta segunda-feira on-line e sem agendamento](https://oglobo.globo.com/rio/detran-libera-crlv-digital-partir-desta-segunda-feira-on-line-sem-agendamento-24563780)
 * [Brasil tem 2.733.735 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2733735-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24563741)
 * [Lives de hoje: Moacyr Luz & Samba do Trabalhador se reúnem para show](https://oglobo.globo.com/rioshow/lives-de-hoje-moacyr-luz-samba-do-trabalhador-se-reunem-para-show-24563786)
-* [O que aprendi como voluntário de vacina de Oxford](https://epoca.globo.com/sociedade/o-que-aprendi-como-voluntario-de-vacina-de-oxford-24563755)
-* [Morre John Hume, ganhador de Nobel da Paz que arquitetou paz entre as Irlandas](https://oglobo.globo.com/mundo/morre-john-hume-ganhador-de-nobel-da-paz-que-arquitetou-paz-entre-as-irlandas-24563756)
 * [Bolsas para cadáveres e listas de inimigos: por dentro dos planos da extrema direita alemã para o 'Dia X'](https://oglobo.globo.com/mundo/bolsas-para-cadaveres-listas-de-inimigos-por-dentro-dos-planos-da-extrema-direita-alema-para-dia-x-24563412)
 * [Semana terá enxurrada de decisões judiciais represadas no STJ e no STF](https://epoca.globo.com/guilherme-amado/semana-tera-enxurrada-de-decisoes-judiciais-represadas-no-stj-no-stf-1-24561737)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 01:15:18 UTC
+# indexed at 03/08/2020 01:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Briar Project](https://briarproject.org/how-it-works.html)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
 * [A philosophical difference between Haskell and Lisp](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
-* [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
+* [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
-* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
+* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
-* [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 * [I Still Use an Old PowerPC Mac in 2020](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
-* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
-* [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
-* [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
-* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
-* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
-* [Microsoft to continue discussions on potential TikTok purchase in the US](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
+* [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
+* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
+* [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
+* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
+* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [Beyond Bitswap](https://adlrocha.substack.com/p/adlrocha-beyond-bitswap-i)
-* [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 * [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
+* [Microsoft to continue discussions on potential TikTok purchase in the US](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
+* [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 * [Lord and Taylor, Oldest U.S. Department Store, Files Bankruptcy](https://www.bnnbloomberg.ca/lord-taylor-oldest-u-s-department-store-files-bankruptcy-1.1474568)
 * [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
 * [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
+* [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
 * [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
 ## nytimes.com
 
@@ -44,8 +44,7 @@ layout: default
 * [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-vaccine.html)
 * [Live Coronavirus Updates: Tracking Global News, Cases and Deaths](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 * [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html)
-* [U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies](https://www.nytimes.com/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
-* [Is the Subway Risky? It May Be Safer Than You Think](https://www.nytimes.com/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html)
+* [Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-jobless-aid.html)
 * [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](https://www.nytimes.com/2020/08/02/technology/florida-teenager-twitter-hack.html)
 * [Microsoft Says It’ll Continue Pursuit of TikTok](https://www.nytimes.com/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
 * [TikTok Ban: Creators Respond to Trump](https://www.nytimes.com/2020/08/02/style/tiktok-ban-threat-trump.html)
@@ -53,6 +52,7 @@ layout: default
 * [How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s](https://www.nytimes.com/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
 * [How the Media Could Get the Election Story Wrong](https://www.nytimes.com/2020/08/02/business/media/election-coverage.html)
 * [NASA Astronauts Safely Return to Earth: ‘Thank You for Flying SpaceX’](https://www.nytimes.com/2020/08/02/science/spacex-astronauts-splashdown.html)
+* [Private Boats Enter SpaceX Splashdown Area, Raising Concerns](https://www.nytimes.com/2020/08/02/us/flag-boat-SpaceX.html)
 * [The Sunday Read: ‘On Female Rage’](https://www.nytimes.com/2020/08/02/podcasts/the-daily/on-female-rage.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [The ‘Seductive Lure’ of Authoritarianism](https://www.nytimes.com/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
@@ -78,8 +78,8 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
 * [Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence](https://www.nytimes.com/2020/08/02/world/americas/mexico-el-marro-capture.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Após susto com operação policial, Aglomerou aumenta em 30 vezes público em nova live](https://oglobo.globo.com/rio/apos-susto-com-operacao-policial-aglomerou-aumenta-em-30-vezes-publico-em-nova-live-24563512)
+* [Brasileirão: CBF adia jogos de finalistas dos estaduais, como Corinthians e Palmeiras](https://oglobo.globo.com/esportes/brasileirao-cbf-adia-jogos-de-finalistas-dos-estaduais-como-corinthians-palmeiras-24563560)
+* [Líder espiritual da Bahia é acusado de abusos por pelo menos 14 mulheres](https://oglobo.globo.com/sociedade/lider-espiritual-da-bahia-acusado-de-abusos-por-pelo-menos-14-mulheres-24563567)
 * ['Não admito perseguição a grupo de qualquer natureza', diz ministro da Justiça sobre dossiê contra opositores de Bolsonaro](https://oglobo.globo.com/brasil/nao-admito-perseguicao-grupo-de-qualquer-natureza-diz-ministro-da-justica-sobre-dossie-contra-opositores-de-bolsonaro-1-24563522)
+* [Após susto com operação policial, Aglomerou aumenta 30 vezes o público em nova live](https://oglobo.globo.com/rio/apos-susto-com-operacao-policial-aglomerou-aumenta-30-vezes-publico-em-nova-live-24563512)
 * [Maia diz que novo imposto semelhante à CPMF terá impacto negativo na economia](https://oglobo.globo.com/economia/maia-diz-que-novo-imposto-semelhante-cpmf-tera-impacto-negativo-na-economia-24563497)
 * [Assessor do Planalto publicava fake news e ataques a adversários de Bolsonaro em páginas removidas pelo Facebook](https://oglobo.globo.com/brasil/assessor-do-planalto-publicava-fake-news-ataques-adversarios-de-bolsonaro-em-paginas-removidas-pelo-facebook-24563502)
 * [Para especialistas, é difícil calcular o que precisa ser desonerado para compensar nova CPMF](https://oglobo.globo.com/economia/para-especialistas-dificil-calcular-que-precisa-ser-desonerado-para-compensar-nova-cpmf-24563523)
 * [Corinthians e Palmeiras avançam à final do Paulistão](https://oglobo.globo.com/esportes/corinthians-palmeiras-avancam-final-do-paulistao-24563521)
-* [Incêndio atinge mata no Morro do Salgueiro, na Tijuca](https://oglobo.globo.com/rio/incendio-atinge-mata-no-morro-do-salgueiro-na-tijuca-24563479)
-* [No Dia do Mico-leão-dourado, espécie ganha 1º viaduto vegetado do Brasil no interior do Estado do Rio](https://oglobo.globo.com/rio/no-dia-do-mico-leao-dourado-especie-ganha-1-viaduto-vegetado-do-brasil-no-interior-do-estado-do-rio-24563477)
 * [Nove estados do país têm tendência de queda de mortes por coronavírus](https://oglobo.globo.com/sociedade/coronavirus/nove-estados-do-pais-tem-tendencia-de-queda-de-mortes-por-coronavirus-24563481)
 * [Brasil passa de 94 mil mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/brasil-passa-de-94-mil-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24563459)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 17:14:30 UTC
+# indexed at 03/08/2020 17:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
 * [Julia 1.5](https://julialang.org/blog/2020/08/julia-1.5-highlights/)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
-* [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A all at once](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [Racket v7.8](https://blog.racket-lang.org/2020/08/racket-v7-8.html)
+* [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
+* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
+* [Racket 7.8](https://blog.racket-lang.org/2020/08/racket-v7-8.html)
 * [Show HN: Add video subtitles on the fly from plain text](https://011.video/2020/08/03/burn-video-subtitles-on-the-fly-from-a-plain-text-file/)
 * [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
-* [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
 * [Cops Can Track Your Phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
-* [Why aren’t we talking more about airborne transmission?](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
-* [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/890530b3-fc07-454b-9111-ddacd65384d8)
-* [Coronavirus ravages California’s Central Valley, following a cruel familiar path](https://www.latimes.com/california/story/2020-07-28/coronavirus-ravages-californias-central-valley-following-a-cruel-and-familiar-path)
-* [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)
-* [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
-* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
+* [US Presidential Betting Odds: Far More Accurate Than the Polls](https://www.thesportsgeek.com/blog/us-presidential-betting-odds-more-accurate-than-polls/)
+* [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
 * [“Hiding” network latency for fast memory in data centers](https://news.engin.umich.edu/2020/07/hiding-network-latency-for-fast-memory-in-data-centers/)
+* [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/890530b3-fc07-454b-9111-ddacd65384d8)
+* [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)
+* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
+* [Coronavirus ravages California’s Central Valley, following a cruel familiar path](https://www.latimes.com/california/story/2020-07-28/coronavirus-ravages-californias-central-valley-following-a-cruel-and-familiar-path)
+* [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
+* [Why aren’t we talking more about airborne transmission?](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
 * [The saboteurs you can hire to end your relationship](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
 * [The Truth Is Paywalled but the Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/)
 * [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
-* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
 * [Justice Department Is Scrutinizing Takeover of Credit Karma by Intuit, TurboTax](https://www.propublica.org/article/justice-department-is-scrutinizing-takeover-of-credit-karma-by-intuit-maker-of-turbotax)
+* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
 * [An Email got us $5k in AWS Credits](https://formcake.com/blog/how-an-email-got-us-five-thousand-aws-credits)
-* [One-Third of New York’s Small Businesses May Be Gone Forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
-* [Thomas Sowell interview](https://www.city-journal.org/thomas-sowell-race-poverty-culture)
 * [Bjarne Stroustrup Weighs in on Distributed Systems, Type Safety and Rust](https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/)
+* [Thomas Sowell interview](https://www.city-journal.org/thomas-sowell-race-poverty-culture)
 * [Who Is Alexander Grothendieck? (2008) [pdf]](https://www.ams.org/notices/200808/tx080800930p.pdf)
-* [Laws of UX](https://lawsofux.com/)
 * [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
 ## nytimes.com
 
@@ -82,9 +82,9 @@ layout: default
 * [Isaias Live Updates: Carolinas Brace for Hurricane](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
 * [John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83](https://www.nytimes.com/2020/08/03/obituaries/john-hume-dies.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [Google Pixel 4A Review: At $350, a Win for Those on a Budget](https://www.nytimes.com/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
@@ -105,12 +105,12 @@ layout: default
 
 
 * [Cientistas temem que pressão de Trump comprometa segurança de vacina que será usada nos EUA](https://oglobo.globo.com/mundo/cientistas-temem-que-pressao-de-trump-comprometa-seguranca-de-vacina-que-sera-usada-nos-eua-24564293)
-* [Fachin revoga liminar de Toffoli que dava a Aras acesso a dados da Lava-Jato](https://oglobo.globo.com/brasil/fachin-revoga-liminar-de-toffoli-que-dava-aras-acesso-dados-da-lava-jato-24564353)
-* [Bruno Henrique autografa camisa do Flamengo para sósia que perdeu casa em incêndio](https://oglobo.globo.com/rio/bruno-henrique-autografa-camisa-do-flamengo-para-sosia-que-perdeu-casa-em-incendio-24564287)
+* [Seis estações do BRT foram vandalizadas somente neste fim de semana](https://oglobo.globo.com/rio/seis-estacoes-do-brt-foram-vandalizadas-somente-neste-fim-de-semana-24564373)
+* [Ataque do Estado Islâmico em prisão afegã deixa ao menos 29 mortos](https://oglobo.globo.com/mundo/ataque-do-estado-islamico-em-prisao-afega-deixa-ao-menos-29-mortos-24564374)
+* [Frequência de ondas grandes põe Itacoatiara no topo do surfe](https://oglobo.globo.com/rio/bairros/frequencia-de-ondas-grandes-poe-itacoatiara-no-topo-do-surfe-24564292)
+* [Fachin revoga liminar de Toffoli que dava a Aras acesso a dados da Lava-Jato](https://oglobo.globo.com/brasil/fachin-revoga-liminar-de-toffoli-que-dava-aras-acesso-dados-da-lava-jato-1-24564353)
+* [Em resposta a comissão da Câmara, MEC diz que desconhece detalhes sobre alcance do ensino remoto no país](https://oglobo.globo.com/sociedade/em-resposta-comissao-da-camara-mec-diz-que-desconhece-detalhes-sobre-alcance-do-ensino-remoto-no-pais-24564276)
+* [Governo do Rio deposita e salários de funcionários da Samu serão pagos](https://epoca.globo.com/guilherme-amado/governo-do-rio-deposita-salarios-de-funcionarios-da-samu-serao-pagos-24564376)
 * [F1: Entenda por que Silverstone receberá duas corridas seguidas na temporada](https://oglobo.globo.com/esportes/f1-entenda-por-que-silverstone-recebera-duas-corridas-seguidas-na-temporada-1-24564301)
 * [Congresso precisa debater propostas das Forças Armadas](https://oglobo.globo.com/opiniao/congresso-precisa-debater-propostas-das-forcas-armadas-1-24564324)
-* [Fundo americano e grupo formado por TIM, Claro e Vivo seguem na disputa pela Oi Móvel](https://oglobo.globo.com/economia/fundo-americano-grupo-formado-por-tim-claro-vivo-seguem-na-disputa-pela-oi-movel-24564304)
 * [Relator do caso Queiroz no STJ é internado](https://epoca.globo.com/guilherme-amado/relator-do-caso-queiroz-no-stj-internado-24564306)
-* [Bento XVI está gravemente doente, afirma jornal alemão](https://oglobo.globo.com/sociedade/religiao/bento-xvi-esta-gravemente-doente-afirma-jornal-alemao-1-24564283)
-* [Brasil tem 2.736.298 casos de Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-2736298-casos-de-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24564228)
-* [Julgamento no STF sobre Covid-19 e indígenas terá efeito na imagem do Brasil](https://oglobo.globo.com/analitico/julgamento-no-stf-sobre-covid-19-indigenas-tera-efeito-na-imagem-do-brasil-24564088)

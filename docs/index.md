@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 23:13:36 UTC
+# indexed at 03/08/2020 23:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Physical attractiveness bias in the legal system](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
 * [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
-* [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [Enzyme (YC S17) is hiring a DevOps Engineer to speed up FDA approval](https://angel.co/company/enzymecorp/jobs/921769-devops-internal-tooling-engineer)
-* [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
 * [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
+* [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
+* [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
+* [Enzyme (YC S17) is hiring a DevOps Engineer to speed up FDA approval](https://angel.co/company/enzymecorp/jobs/921769-devops-internal-tooling-engineer)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
-* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
-* [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
-* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
+* [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
+* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
+* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
+* [Open Source PCR Thermocycler](https://openpcr.org/)
+* [The Story of Tailwind](https://twitter.com/adamwathan/status/1289645193038192641)
 * [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
 * [Live HDR+ and Dual Exposure Controls on Pixel 4 and 4a](https://ai.googleblog.com/2020/08/live-hdr-and-dual-exposure-controls-on.html)
 * [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
-* [Open Source PCR Thermocycler](https://openpcr.org/)
-* [The Story of Tailwind](https://twitter.com/adamwathan/status/1289645193038192641)
 * [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
-* [Physical attractiveness bias in the legal system](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
+* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
-* [Detection of Rapidly Growing Informal Settlements](https://github.com/thinkingmachines/geoai-immap)
-* [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
 * [Infrared thermometers to screen for Covid: more marketing than medical evidence](https://www.cebm.net/2020/08/screening-for-covid-19-with-infrared-thermometers-more-marketing-than-medical-evidence/)
+* [Implementing UFCS for C++ in Clang](https://dancrn.com/2020/08/02/ufcs-in-clang.html)
 ## nytimes.com
 
 
@@ -51,8 +51,6 @@ layout: default
 * [Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High](https://www.nytimes.com/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
 * [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](https://www.nytimes.com/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
 * [Trump Says Microsoft Can Bid for TikTok](https://www.nytimes.com/2020/08/03/technology/trump-tiktok-microsoft.html)
-* [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](https://www.nytimes.com/2020/08/03/technology/tiktok-bytedance-us-china.html)
-* [With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens](https://www.nytimes.com/2020/08/03/technology/tiktok-microsoft-tweens.html)
 * [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](https://www.nytimes.com/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
 * [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](https://www.nytimes.com/2020/08/03/arts/music/creem-magazine-documentary.html)
 * [Stimulus Stalemate, Medical Bills, TikTok: Your Monday Evening Briefing](https://www.nytimes.com/2020/08/03/briefing/stimulus-medical-bills-tiktok.html)
@@ -78,13 +76,13 @@ layout: default
 * [Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute](https://www.nytimes.com/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
 * [Gymnasts Worldwide Push Back on Their Sport’s Culture of Abuse](https://www.nytimes.com/2020/08/03/sports/olympics/gymnastics-abuse-athlete-a.html)
 * [Isaias Live Updates: Carolinas Brace for Hurricane](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
+* [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
-* [John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83](https://www.nytimes.com/2020/08/03/obituaries/john-hume-dies.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
 * [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)
@@ -100,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Guiana tenta superar disputa que atrasou resultado eleitoral cinco meses](https://oglobo.globo.com/mundo/guiana-tenta-superar-disputa-que-atrasou-resultado-eleitoral-cinco-meses-24565090)
-* [Brasil registra 572 mortes e 18.043 novos casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-registra-572-mortes-18043-novos-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24565094)
+* [Justiça Federal nega liminar que pedia renovação de contrato da Cinemateca Brasileira](https://oglobo.globo.com/cultura/justica-federal-nega-liminar-que-pedia-renovacao-de-contrato-da-cinemateca-brasileira-24565290)
+* [Prestes a explorar petróleo, Guiana tenta superar disputa que atrasou cinco meses resultado eleitoral](https://oglobo.globo.com/mundo/prestes-explorar-petroleo-guiana-tenta-superar-disputa-que-atrasou-cinco-meses-resultado-eleitoral-24565090)
+* [OAB propõe a Maia e equipe econômica mudanças em proposta de reforma tributária do governo](https://oglobo.globo.com/economia/oab-propoe-maia-equipe-economica-mudancas-em-proposta-de-reforma-tributaria-do-governo-24565262)
+* [Brasil registra 572 mortes e 18.043 novos casos de Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-registra-572-mortes-18043-novos-casos-de-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24565094)
+* [É #FAKE que vídeo mostre prefeito de BH sendo cobrado por isolamento em restaurante de Nova Lima em meio à pandemia](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-prefeito-de-bh-sendo-cobrado-por-isolamento-em-restaurante-de-nova-lima-em-meio-pandemia-24565187)
 * [‘Ela morreu porque tinha que morrer’, diz médico que admitiu ter feito procedimento em MC Atrevida](https://oglobo.globo.com/rio/ela-morreu-porque-tinha-que-morrer-diz-medico-que-admitiu-ter-feito-procedimento-em-mc-atrevida-24565149)
 * [Veste Rio: top Lais Ribeiro fala sobre moda inclusiva e desejo de ser mãe novamente](https://oglobo.globo.com/ela/veste-rio/veste-rio-top-lais-ribeiro-fala-sobre-moda-inclusiva-desejo-de-ser-mae-novamente-24564711)
 * [Beyoncé: entenda ‘Black is king’, o álbum visual que a cantora lançou na sexta-feira](https://oglobo.globo.com/cultura/beyonce-entenda-black-is-king-album-visual-que-cantora-lancou-na-sexta-feira-24564754)
 * [Trump diz que a venda do TikTok pode acontecer, mas somente se os EUA receberem uma parte](https://oglobo.globo.com/economia/trump-diz-que-venda-do-tiktok-pode-acontecer-mas-somente-se-os-eua-receberem-uma-parte-24564957)
 * [É #FAKE mosaico de fotos que mostram Bin Laden com Obama, Hillary Clinton e Condoleezza Rice](https://oglobo.globo.com/fato-ou-fake/e-fake-mosaico-de-fotos-que-mostram-bin-laden-com-obama-hillary-clinton-condoleezza-rice-24565130)
-* [Presos suspeitos de tráfico de drogas delivery com entregas feitas em bicicletas elétricas, em Copacabana](https://oglobo.globo.com/rio/presos-suspeitos-de-trafico-de-drogas-delivery-com-entregas-feitas-em-bicicletas-eletricas-em-copacabana-24564969)
-* [É #FAKE que dióxido de cloro previne e cura a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-dioxido-de-cloro-previne-cura-covid-19-24565078)
-* [Ecad alivia produtores de shows com desconto na arrecadação de direitos até o fim de 2021](https://oglobo.globo.com/cultura/ecad-alivia-produtores-de-shows-com-desconto-na-arrecadacao-de-direitos-ate-fim-de-2021-24564978)

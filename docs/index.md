@@ -2,45 +2,46 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 00:41:23 UTC
+# indexed at 03/08/2020 01:15:18 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Laws of UX](https://lawsofux.com/)
+* [US Travel firm $4.5m ransom negotiation open chat](https://threadreaderapp.com/thread/1289199296328298497.html)
 * [Briar Project](https://briarproject.org/how-it-works.html)
-* [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
-* [A philosophical difference between Haskell and Lisp](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
+* [A philosophical difference between Haskell and Lisp](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
-* [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
-* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
-* [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
+* [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
+* [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
+* [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
 * [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
-* [I Still Use an Old PowerPC Mac in 2020](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
+* [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
 * [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
-* [GPU Accelerated JavaScript](https://gpu.rocks/)
-* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
+* [I Still Use an Old PowerPC Mac in 2020](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
+* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [Local-first software (2019)](https://www.inkandswitch.com/local-first.html)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
+* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
+* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [Microsoft to continue discussions on potential TikTok purchase in the US](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
-* [Lord and Taylor, Oldest U.S. Department Store, Files Bankruptcy](https://www.bnnbloomberg.ca/lord-taylor-oldest-u-s-department-store-files-bankruptcy-1.1474568)
+* [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
+* [Beyond Bitswap](https://adlrocha.substack.com/p/adlrocha-beyond-bitswap-i)
 * [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 * [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
+* [Lord and Taylor, Oldest U.S. Department Store, Files Bankruptcy](https://www.bnnbloomberg.ca/lord-taylor-oldest-u-s-department-store-files-bankruptcy-1.1474568)
 * [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
-* [Beyond Bitswap](https://adlrocha.substack.com/p/adlrocha-beyond-bitswap-i)
 * [Inside A £30 Record Player](https://shkspr.mobi/blog/2020/08/inside-a-30-record-player/)
-* [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
 * [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
-* [Telegram files EU antitrust complaint against Apple’s App Store](https://arstechnica.com/tech-policy/2020/07/telegram-files-eu-antitrust-complaint-against-apples-app-store/)
-* [Using Augmentative and Alternative Communication with Dogs](https://www.hungerforwords.com/)
 ## nytimes.com
 
 
+* [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-vaccine.html)
 * [Live Coronavirus Updates: Tracking Global News, Cases and Deaths](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 * [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html)
 * [U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies](https://www.nytimes.com/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
@@ -77,11 +78,11 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
 * [Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence](https://www.nytimes.com/2020/08/02/world/americas/mexico-el-marro-capture.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html)
 * [‘Immigration Nation’ Review: The Banality of Deportation](https://www.nytimes.com/2020/08/02/arts/television/immigration-nation-review-netflix.html)
 * [Opera Goes On in Salzburg, With Lots and Lots of Testing](https://www.nytimes.com/2020/07/31/arts/music/salzburg-festival-coronavirus-cosi.html)
@@ -97,12 +98,12 @@ layout: default
 ## globo.com
 
 
+* [Após susto com operação policial, Aglomerou aumenta em 30 vezes público em nova live](https://oglobo.globo.com/rio/apos-susto-com-operacao-policial-aglomerou-aumenta-em-30-vezes-publico-em-nova-live-24563512)
 * ['Não admito perseguição a grupo de qualquer natureza', diz ministro da Justiça sobre dossiê contra opositores de Bolsonaro](https://oglobo.globo.com/brasil/nao-admito-perseguicao-grupo-de-qualquer-natureza-diz-ministro-da-justica-sobre-dossie-contra-opositores-de-bolsonaro-1-24563522)
 * [Maia diz que novo imposto semelhante à CPMF terá impacto negativo na economia](https://oglobo.globo.com/economia/maia-diz-que-novo-imposto-semelhante-cpmf-tera-impacto-negativo-na-economia-24563497)
 * [Assessor do Planalto publicava fake news e ataques a adversários de Bolsonaro em páginas removidas pelo Facebook](https://oglobo.globo.com/brasil/assessor-do-planalto-publicava-fake-news-ataques-adversarios-de-bolsonaro-em-paginas-removidas-pelo-facebook-24563502)
 * [Para especialistas, é difícil calcular o que precisa ser desonerado para compensar nova CPMF](https://oglobo.globo.com/economia/para-especialistas-dificil-calcular-que-precisa-ser-desonerado-para-compensar-nova-cpmf-24563523)
 * [Corinthians e Palmeiras avançam à final do Paulistão](https://oglobo.globo.com/esportes/corinthians-palmeiras-avancam-final-do-paulistao-24563521)
-* [Após susto com operação policial, Aglomerou aumenta em 30 vezes público em nova live](https://oglobo.globo.com/rio/apos-susto-com-operacao-policial-aglomerou-aumenta-em-30-vezes-publico-em-nova-live-24563512)
 * [Incêndio atinge mata no Morro do Salgueiro, na Tijuca](https://oglobo.globo.com/rio/incendio-atinge-mata-no-morro-do-salgueiro-na-tijuca-24563479)
 * [No Dia do Mico-leão-dourado, espécie ganha 1º viaduto vegetado do Brasil no interior do Estado do Rio](https://oglobo.globo.com/rio/no-dia-do-mico-leao-dourado-especie-ganha-1-viaduto-vegetado-do-brasil-no-interior-do-estado-do-rio-24563477)
 * [Nove estados do país têm tendência de queda de mortes por coronavírus](https://oglobo.globo.com/sociedade/coronavirus/nove-estados-do-pais-tem-tendencia-de-queda-de-mortes-por-coronavirus-24563481)

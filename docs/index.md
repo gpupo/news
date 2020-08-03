@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 15:14:31 UTC
+# indexed at 03/08/2020 15:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
+* [Racket 7.8 with AArch64, float unboxing, and incremental GC](https://blog.racket-lang.org/2020/08/racket-v7-8.html)
+* [An Email got us $5k in AWS Credits](https://formcake.com/blog/how-an-email-got-us-five-thousand-aws-credits)
+* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [Ask HN: Freelancer? Seeking freelancer? (August 2020)](https://news.ycombinator.com/item?id=24038519)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
+* [Why aren’t we talking more about airborne transmission?](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
 * [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
 * [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
-* [Why aren’t we talking more about airborne transmission?](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
 * [Thomas Sowell, the Nonconformist](https://www.city-journal.org/thomas-sowell-race-poverty-culture)
-* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)
-* [The saboteurs you can hire to end your relationship](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
-* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
+* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [Show HN: Add video subtitles on the fly from plain text](https://011.video/2020/08/03/burn-video-subtitles-on-the-fly-from-a-plain-text-file/)
+* [The saboteurs you can hire to end your relationship](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
 * [The Truth Is Paywalled but the Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/)
-* [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
+* [Justice Department Is Scrutinizing Takeover of Credit Karma by Intuit, TurboTax](https://www.propublica.org/article/justice-department-is-scrutinizing-takeover-of-credit-karma-by-intuit-maker-of-turbotax)
+* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
 * [Bjarne Stroustrup Weighs in on Distributed Systems, Type Safety and Rust](https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/)
+* [Cops Can Track Your Phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
+* [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
 * [Who Is Alexander Grothendieck? (2008) [pdf]](https://www.ams.org/notices/200808/tx080800930p.pdf)
 * [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
 * [Laws of UX](https://lawsofux.com/)
-* [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
 * [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
-* [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
-* [Justice Department Is Scrutinizing Takeover of Credit Karma by Intuit, TurboTax](https://www.propublica.org/article/justice-department-is-scrutinizing-takeover-of-credit-karma-by-intuit-maker-of-turbotax)
-* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
-* [Briar Project](https://briarproject.org/how-it-works.html)
+* [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
+* [One-Third of New York’s Small Businesses May Be Gone Forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
 * [KLM to Lay Off 5k Employees Due to Covid-19](https://kokpitherald.com/klm-to-lay-off-5000-employees-due-to-covid-19-crisis/)
-* [Wirecard’s Boon is shutting down](https://www.beboon.com/uk/news/exclusive/boon-says-goodbye)
+* [Briar Project](https://briarproject.org/how-it-works.html)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
-* [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
 * [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
-* [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
 ## nytimes.com
 
 
@@ -85,11 +85,10 @@ layout: default
 * [Isaias Live Updates: Storm Could Regain Hurricane Strength](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [New Genoa Bridge Inauguration Is Bittersweet](https://www.nytimes.com/2020/08/02/world/europe/genoa-Morandi-bridge-replacement.html)
 * [This Tool Could Protect Your Photos From Facial Recognition](https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
-* [Can’t Find It at the Store?](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [A Harlem Restaurant That’s Withstood Gentrification, a Pandemic and Time](https://www.nytimes.com/2020/07/30/dining/famous-fish-market-harlem.html)
 * [Gambling on College Football Almost Fixed My Dysfunctional Family](https://www.nytimes.com/2020/07/31/well/family/gambling-on-college-football-almost-fixed-my-dysfunctional-family.html)
 * [After 100 Podcasts, JJ Redick Widens His Range](https://www.nytimes.com/2020/08/03/sports/jj-redick-podcast.html)
@@ -106,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Projeto quer permitir uso de vale-transporte em aplicativos como Uber durante pandemia](https://epoca.globo.com/guilherme-amado/projeto-quer-permitir-uso-de-vale-transporte-em-aplicativos-como-uber-durante-pandemia-24564178)
+* [Morre a bailarina Tamara Capeller, aos 92 anos](https://oglobo.globo.com/cultura/morre-bailarina-tamara-capeller-aos-92-anos-24564188)
+* [Governo calcula economia de R$ 466 milhões com 'home office' no serviço público](https://oglobo.globo.com/economia/governo-calcula-economia-de-466-milhoes-com-home-office-no-servico-publico-24564141)
+* [Gasolina com novo padrão começa a valer nesta segunda. Entenda as mudanças](https://oglobo.globo.com/economia/gasolina-com-novo-padrao-comeca-valer-nesta-segunda-entenda-as-mudancas-24564142)
+* [Processo criminal contra Infantino é grotesco e absurdo, diz Fifa](https://oglobo.globo.com/esportes/processo-criminal-contra-infantino-grotesco-absurdo-diz-fifa-24564187)
+* [Braga Netto tem diagnóstico positivo de coronavírus](https://oglobo.globo.com/brasil/braga-netto-tem-diagnostico-positivo-de-coronavirus-24564171)
+* [Mesmo em meio à pandemia, patrimônio de famílias mais ricas do mundo é de US$ 1,4 trilhão](https://oglobo.globo.com/economia/mesmo-em-meio-pandemia-patrimonio-de-familias-mais-ricas-do-mundo-de-us-14-trilhao-1-24564120)
 * [São Gonçalo é a cidade no Rio onde se atendeu mais parentes de vítimas da violência](https://oglobo.globo.com/rio/sao-goncalo-a-cidade-no-rio-onde-se-atendeu-mais-parentes-de-vitimas-da-violencia-24564146)
 * [Com fim do recesso, PGR pede ao STJ para restabelecer prisão de Queiroz e da mulher](https://oglobo.globo.com/brasil/com-fim-do-recesso-pgr-pede-ao-stj-para-restabelecer-prisao-de-queiroz-da-mulher-1-24564143)
-* [Mesmo em meio à pandemia, patrimônio de famílias mais ricas do mundo é de US$ 1,4 trilhão](https://oglobo.globo.com/economia/mesmo-em-meio-pandemia-patrimonio-de-familias-mais-ricas-do-mundo-de-us-14-trilhao-24564120)
-* [Braga Netto tem diagnóstico positivo de coronavírus](https://oglobo.globo.com/brasil/braga-netto-tem-diagnostico-positivo-de-coronavirus-24564171)
-* [Gasolina com novo padrão começa a valer nesta segunda. Entenda as mudanças](https://oglobo.globo.com/economia/gasolina-com-novo-padrao-comeca-valer-nesta-segunda-entenda-as-mudancas-24564142)
-* [Bolsonarista desafeto de Witzel vai disputar com ex-juíza candidatura à Prefeitura do Rio pelo PSC, partido do governador](https://oglobo.globo.com/brasil/bolsonarista-desafeto-de-witzel-vai-disputar-com-ex-juiza-candidatura-prefeitura-do-rio-pelo-psc-partido-do-governador-24564100)
-* [Governo calcula economia de R$ 466 milhões com home office no serviço público](https://oglobo.globo.com/economia/governo-calcula-economia-de-466-milhoes-com-home-office-no-servico-publico-24564141)
+* [Projeto quer permitir uso de vale-transporte em aplicativos como Uber durante pandemia](https://epoca.globo.com/guilherme-amado/projeto-quer-permitir-uso-de-vale-transporte-em-aplicativos-como-uber-durante-pandemia-24564178)
 * [Negociação de TikTok e Microsoft pode afetar combate a fake news](https://oglobo.globo.com/analitico/negociacao-de-tiktok-microsoft-pode-afetar-combate-fake-news-24564104)
-* [Bolsonaro também segura nomeação de ex-diretores da PF na gestão Moro](https://epoca.globo.com/guilherme-amado/bolsonaro-tambem-segura-nomeacao-de-ex-diretores-da-pf-na-gestao-moro-24564117)

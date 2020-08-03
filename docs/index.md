@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 02:34:27 UTC
+# indexed at 03/08/2020 03:13:54 UTC
 
 
 ## news.ycombinator.com
 
 
-* [US Travel firm $4.5m ransom negotiation open chat](https://threadreaderapp.com/thread/1289199296328298497.html)
 * [Laws of UX](https://lawsofux.com/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
+* [US Travel firm $4.5m ransom negotiation open chat](https://threadreaderapp.com/thread/1289199296328298497.html)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
-* [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
+* [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [A philosophical difference between Haskell and Lisp](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
+* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
-* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
+* [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
 * [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
+* [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
 * [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
-* [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
 * [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 * [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
 * [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
-* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
-* [Beyond Bitswap](https://adlrocha.substack.com/p/adlrocha-beyond-bitswap-i)
 * [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
-* [Microsoft to continue discussions on potential TikTok purchase in the US](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
-* [I Still Use an Old PowerPC Mac in 2020](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
+* [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
 * [Lord and Taylor, Oldest U.S. Department Store, Files Bankruptcy](https://www.bnnbloomberg.ca/lord-taylor-oldest-u-s-department-store-files-bankruptcy-1.1474568)
+* [Microsoft to continue discussions on potential TikTok purchase in the US](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
 * [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
+* [I Still Use an Old PowerPC Mac in 2020](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
 * [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
-* [Show HN: Create beautiful landing pages by copy-paste](https://frontendor.com/)
 * [GPU Accelerated JavaScript](https://gpu.rocks/)
+* [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](https://www.nytimes.com/2020/08/02/technology/florida-teenager-twitter-hack.html)
 * [Microsoft Says It’ll Continue Pursuit of TikTok](https://www.nytimes.com/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
 * [TikTok Ban: Creators Respond to Trump](https://www.nytimes.com/2020/08/02/style/tiktok-ban-threat-trump.html)
-* [Elizabeth Warren’s Journey on Race Is a Preview of Her Party’s](https://www.nytimes.com/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+* [Elizabeth Warren’s Evolution on Race Brought Her Here](https://www.nytimes.com/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
 * [How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s](https://www.nytimes.com/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
 * [How the Media Could Get the Election Story Wrong](https://www.nytimes.com/2020/08/02/business/media/election-coverage.html)
 * [NASA Astronauts Safely Return to Earth: ‘Thank You for Flying SpaceX’](https://www.nytimes.com/2020/08/02/science/spacex-astronauts-splashdown.html)
@@ -57,6 +57,7 @@ layout: default
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [The ‘Seductive Lure’ of Authoritarianism](https://www.nytimes.com/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 * [Why Did Hong Kong Delay Its Election — by a Year?](https://www.nytimes.com/2020/08/02/opinion/hong-kong-election-china.html)
+* [There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up](https://www.nytimes.com/2020/08/02/opinion/02tik-tok-china-trump.html)
 * [Congress, Test Thyself](https://www.nytimes.com/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
 * [Trump Forecasts His Own Fraud](https://www.nytimes.com/2020/08/02/opinion/trump-2020-election.html)
 * [Biden’s Quietly Radical Care Plan](https://www.nytimes.com/2020/08/02/opinion/biden-child-care.html)
@@ -66,7 +67,6 @@ layout: default
 * [Talking to the Dead in the Sunshine State](https://www.nytimes.com/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
 * [Double, Double, Trump’s Toil, Our Trouble](https://www.nytimes.com/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
 * [Post-Coronavirus, Are Online Colleges Like Minerva the Future?](https://www.nytimes.com/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
-* [John Lewis: Together, You Can Redeem the Soul of Our Nation](https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html)
 * [The Most Soothing Man on TikTok](https://www.nytimes.com/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
 * [The Groundbreaking Scientist Who Risked All in Pursuit of His Beliefs](https://www.nytimes.com/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html)
 * [Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up](https://www.nytimes.com/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
@@ -78,10 +78,11 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
 * [Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence](https://www.nytimes.com/2020/08/02/world/americas/mexico-el-marro-capture.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [How to Help Your Perfectionist Kid](https://www.nytimes.com/2020/07/01/parenting/perfectionist-kids.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html)
 * [‘Immigration Nation’ Review: The Banality of Deportation](https://www.nytimes.com/2020/08/02/arts/television/immigration-nation-review-netflix.html)
 * [Opera Goes On in Salzburg, With Lots and Lots of Testing](https://www.nytimes.com/2020/07/31/arts/music/salzburg-festival-coronavirus-cosi.html)
@@ -97,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Nações ricas já garantiram 1 bilhão de doses da vacina contra a Covid-19, e oferta mundial corre risco de ser monopolizada](https://oglobo.globo.com/sociedade/nacoes-ricas-ja-garantiram-1-bilhao-de-doses-da-vacina-contra-covid-19-oferta-mundial-corre-risco-de-ser-monopolizada-24563498)
 * [Brasileirão: CBF adia jogos de finalistas dos estaduais, como Corinthians e Palmeiras](https://oglobo.globo.com/esportes/brasileirao-cbf-adia-jogos-de-finalistas-dos-estaduais-como-corinthians-palmeiras-24563560)
 * [Líder espiritual da Bahia é acusado de abusos por pelo menos 14 mulheres](https://oglobo.globo.com/sociedade/lider-espiritual-da-bahia-acusado-de-abusos-por-pelo-menos-14-mulheres-24563567)
 * ['Não admito perseguição a grupo de qualquer natureza', diz ministro da Justiça sobre dossiê contra opositores de Bolsonaro](https://oglobo.globo.com/brasil/nao-admito-perseguicao-grupo-de-qualquer-natureza-diz-ministro-da-justica-sobre-dossie-contra-opositores-de-bolsonaro-1-24563522)
-* [Após susto com operação policial, Aglomerou aumenta 30 vezes o público em nova live](https://oglobo.globo.com/rio/apos-susto-com-operacao-policial-aglomerou-aumenta-30-vezes-publico-em-nova-live-24563512)
-* [Maia diz que novo imposto semelhante à CPMF terá impacto negativo na economia](https://oglobo.globo.com/economia/maia-diz-que-novo-imposto-semelhante-cpmf-tera-impacto-negativo-na-economia-24563497)
 * [Assessor do Planalto publicava fake news e ataques a adversários de Bolsonaro em páginas removidas pelo Facebook](https://oglobo.globo.com/brasil/assessor-do-planalto-publicava-fake-news-ataques-adversarios-de-bolsonaro-em-paginas-removidas-pelo-facebook-24563502)
 * [Para especialistas, é difícil calcular o que precisa ser desonerado para compensar nova CPMF](https://oglobo.globo.com/economia/para-especialistas-dificil-calcular-que-precisa-ser-desonerado-para-compensar-nova-cpmf-24563523)
 * [Corinthians e Palmeiras avançam à final do Paulistão](https://oglobo.globo.com/esportes/corinthians-palmeiras-avancam-final-do-paulistao-24563521)
-* [Nove estados do país têm tendência de queda de mortes por coronavírus](https://oglobo.globo.com/sociedade/coronavirus/nove-estados-do-pais-tem-tendencia-de-queda-de-mortes-por-coronavirus-24563481)
-* [Brasil passa de 94 mil mortes por Covid-19, segundo consórcio de veículos da imprensa em boletim das 20h](https://oglobo.globo.com/sociedade/coronavirus/brasil-passa-de-94-mil-mortes-por-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-20h-24563459)
+* [Disputa pela Oi terá dia decisivo nesta segunda-feira](https://oglobo.globo.com/economia/disputa-pela-oi-tera-dia-decisivo-nesta-segunda-feira-24563331)
+* [Manobra de Aras contra ‘lavajatismo’é um retrocesso](https://oglobo.globo.com/opiniao/manobra-de-aras-contra-lavajatismoe-um-retrocesso-1-24560783)
+* [Hospitais de campanha poderiam ser usados no controle da Covid-19](https://oglobo.globo.com/opiniao/hospitais-de-campanha-poderiam-ser-usados-no-controle-da-covid-19-1-24561206)

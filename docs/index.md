@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 22:13:59 UTC
+# indexed at 03/08/2020 22:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
-* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
+* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
+* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [PP-YOLO Surpasses YOLOv4 – State of the Art Object Detection Techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
-* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
 * [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
+* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
-* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
+* [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 * [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Live HDR+ and Dual Exposure Controls on Pixel 4 and 4a](https://ai.googleblog.com/2020/08/live-hdr-and-dual-exposure-controls-on.html)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
-* [PP-YOLO Surpasses YOLOv4 – State of the Art Object Detection Techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
+* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
+* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
 * [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
+* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
-* [Detection of Rapidly Growing Informal Settlements](https://github.com/thinkingmachines/geoai-immap)
 * [Infrared thermometers to screen for Covid: more marketing than medical evidence](https://www.cebm.net/2020/08/screening-for-covid-19-with-infrared-thermometers-more-marketing-than-medical-evidence/)
-* [RISC-V OS using Rust: Graphics](https://blog.stephenmarz.com/2020/07/24/risc-v-os-using-rust-graphics/)
 * [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
-* [GiveCampus (YC S15) hiring Sr Engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-* [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
-* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [Implementing UFCS for C++ in Clang](https://dancrn.com/2020/08/02/ufcs-in-clang.html)
+* [Detection of Rapidly Growing Informal Settlements](https://github.com/thinkingmachines/geoai-immap)
+* [GiveCampus (YC S15) hiring Sr Engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 * [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
+* [RISC-V OS using Rust: Graphics](https://blog.stephenmarz.com/2020/07/24/risc-v-os-using-rust-graphics/)
 ## nytimes.com
 
 
@@ -80,11 +80,10 @@ layout: default
 * [Isaias Live Updates: Carolinas Brace for Hurricane](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
 * [John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83](https://www.nytimes.com/2020/08/03/obituaries/john-hume-dies.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Missing the Partner You See 24/7](https://www.nytimes.com/2020/07/08/parenting/coronavirus-marriage-relationships.html)
 * [Google Pixel 4A Review: At $350, a Win for Those on a Budget](https://www.nytimes.com/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
 * [In ‘Midnight Sun,’ Stephenie Meyer Tells Edward Cullen’s Story](https://www.nytimes.com/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
 * [‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks](https://www.nytimes.com/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
@@ -100,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* ['É inaceitável a inação do governo federal em relação a invasões em terras indígenas', diz Barroso](https://oglobo.globo.com/brasil/e-inaceitavel-inacao-do-governo-federal-em-relacao-invasoes-em-terras-indigenas-diz-barroso-1-24564914)
+* [Com foco na exploração de petróleo, Guiana tenta superar disputa eleitoral e divisões políticas](https://oglobo.globo.com/mundo/com-foco-na-exploracao-de-petroleo-guiana-tenta-superar-disputa-eleitoral-divisoes-politicas-24565090)
+* [Presos suspeitos de tráfico de drogas delivery com entregas feitas em bicicletas elétricas, em Copacabana](https://oglobo.globo.com/rio/presos-suspeitos-de-trafico-de-drogas-delivery-com-entregas-feitas-em-bicicletas-eletricas-em-copacabana-24564969)
+* [Rio Imagem fecha as portas e profissionais de 13 unidades estaduais de saúde sofrem com atraso de salário](https://oglobo.globo.com/rio/rio-imagem-fecha-as-portas-profissionais-de-13-unidades-estaduais-de-saude-sofrem-com-atraso-de-salario-24564921)
+* [É #FAKE que dióxido de cloro previne e cura a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-dioxido-de-cloro-previne-cura-covid-19-24565078)
+* [Rio chega a 13.604 mortes e 168.064 casos de coronavírus desde o início da pandemia](https://oglobo.globo.com/rio/rio-chega-13604-mortes-168064-casos-de-coronavirus-desde-inicio-da-pandemia-24564820)
+* [Portugal não registra mortes por coronavírus pela primeira vez desde março](https://oglobo.globo.com/mundo/portugal-nao-registra-mortes-por-coronavirus-pela-primeira-vez-desde-marco-24564778)
 * [Ministério da Saúde quer R$ 1,9 bilhão para produzir vacinas contra covid-19](https://oglobo.globo.com/sociedade/ministerio-da-saude-quer-19-bilhao-para-produzir-vacinas-contra-covid-19-24564905)
 * [Ecad alivia produtores de shows com desconto na arrecadação de direitos até o fim de 2021](https://oglobo.globo.com/cultura/ecad-alivia-produtores-de-shows-com-desconto-na-arrecadacao-de-direitos-ate-fim-de-2021-24564978)
-* ['É inaceitável a inação do governo federal em relação a invasões em terras indígenas', diz Barroso](https://oglobo.globo.com/brasil/e-inaceitavel-inacao-do-governo-federal-em-relacao-invasoes-em-terras-indigenas-diz-barroso-1-24564914)
-* [Portugal não registra mortes por coronavírus pela primeira vez desde março](https://oglobo.globo.com/mundo/portugal-nao-registra-mortes-por-coronavirus-pela-primeira-vez-desde-marco-24564778)
-* [Rio Imagem fecha as portas e profissionais de 13 unidades estaduais de saúde sofrem com atraso de salário](https://oglobo.globo.com/rio/rio-imagem-fecha-as-portas-profissionais-de-13-unidades-estaduais-de-saude-sofrem-com-atraso-de-salario-24564921)
-* [Colégio particular na Zona Oeste do Rio retoma aulas presenciais com 'novo normal'](https://oglobo.globo.com/rio/colegio-particular-na-zona-oeste-do-rio-retoma-aulas-presenciais-com-novo-normal-24564712)
-* [Rio chega a 13.604 mortes e 168.064 casos de coronavírus desde o início da pandemia](https://oglobo.globo.com/rio/rio-chega-13604-mortes-168064-casos-de-coronavirus-desde-inicio-da-pandemia-24564820)
 * [PRF e Polícia Civil apreendem mais de 100 quilos de pasta base de cocaína durante ação na Baixada Fluminense](https://oglobo.globo.com/rio/prf-policia-civil-apreendem-mais-de-100-quilos-de-pasta-base-de-cocaina-durante-acao-na-baixada-fluminense-1-24564803)
-* [Brasil não teme consequências em disputa entre China e EUA por 5G, diz Mourão](https://oglobo.globo.com/economia/brasil-nao-teme-consequencias-em-disputa-entre-china-eua-por-5g-diz-mourao-1-24564699)
-* [Eleição municipal em Recife terá disputa entre dois herdeiros do clã Arraes](https://epoca.globo.com/brasil/eleicao-municipal-em-recife-tera-disputa-entre-dois-herdeiros-do-cla-arraes-24564734)

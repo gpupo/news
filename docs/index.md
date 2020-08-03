@@ -2,21 +2,22 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 07:14:35 UTC
+# indexed at 03/08/2020 07:36:24 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Laws of UX](https://lawsofux.com/)
 * [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
+* [Laws of UX](https://lawsofux.com/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
-* [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
 * [Interviewing the “Passé” Way, For a Reason](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
+* [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
+* [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
 * [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
 * [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
@@ -24,20 +25,19 @@ layout: default
 * [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
 * [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
-* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
 * [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
+* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
-* [Show HN: Create landing pages by copy-paste](https://frontendor.com/)
 * [Show HN: Augmented Hacker News Reader](https://hacker-news.news/)
-* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
-* [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
+* [Show HN: Create landing pages by copy-paste](https://frontendor.com/)
+* [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
+* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 * [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
-* [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 * [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
+* [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
 * [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
-* [From Head to Toe in the Ancient Maya World](https://www.archaeology.org/issues/386-features/8757-maya-clothing-jewelry-body-modification)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Abductions, Censorship and Layoffs: Pakistani Critics Are Under Siege](https://www.nytimes.com/2020/08/03/world/asia/pakistan-media-abductions.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html)
 * [‘Immigration Nation’ Review: The Banality of Deportation](https://www.nytimes.com/2020/08/02/arts/television/immigration-nation-review-netflix.html)
 * [Opera Goes On in Salzburg, With Lots and Lots of Testing](https://www.nytimes.com/2020/07/31/arts/music/salzburg-festival-coronavirus-cosi.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Acerto de contas entre a União e os estados](https://oglobo.globo.com/opiniao/acerto-de-contas-entre-uniao-os-estados-24561363)
-* [Nações ricas já garantiram 1 bilhão de doses da vacina contra a Covid-19, e oferta mundial corre risco de ser monopolizada](https://oglobo.globo.com/sociedade/nacoes-ricas-ja-garantiram-1-bilhao-de-doses-da-vacina-contra-covid-19-oferta-mundial-corre-risco-de-ser-monopolizada-24563498)
-* [A política de guerra](https://oglobo.globo.com/opiniao/a-politica-de-guerra-24563466)
-* [Início da 'Era Domènec' no Flamengo terá apresentação, treino e calendário curto](https://oglobo.globo.com/esportes/flamengo/inicio-da-era-domenec-no-flamengo-tera-apresentacao-treino-calendario-curto-24563288)
-* [Fake news, injúria e conspiração](https://oglobo.globo.com/opiniao/fake-news-injuria-conspiracao-1-24563360)
-* [Vergonha e prioridades](https://oglobo.globo.com/opiniao/vergonha-prioridades-24563428)
-* [Propaganda eleitoral obscura](https://oglobo.globo.com/opiniao/propaganda-eleitoral-obscura-24563410)
-* [Análise de desempenho do Flamengo é elogiada por tecnologia e acionada por auxiliar de Torrent](https://oglobo.globo.com/esportes/flamengo/analise-de-desempenho-do-flamengo-elogiada-por-tecnologia-acionada-por-auxiliar-de-torrent-24563184)
-* [Disputa pela Oi terá dia decisivo nesta segunda-feira](https://oglobo.globo.com/economia/disputa-pela-oi-tera-dia-decisivo-nesta-segunda-feira-24563331)
-* [Manobra de Aras contra ‘lavajatismo’é um retrocesso](https://oglobo.globo.com/opiniao/manobra-de-aras-contra-lavajatismoe-um-retrocesso-1-24560783)
+* [‘O mercado de seguros é muito aquém do potencial’, diz superintendente da Susep](https://oglobo.globo.com/economia/o-mercado-de-seguros-muito-aquem-do-potencial-diz-superintendente-da-susep-24563629)
+* [Investigação revela esquema de desvio de armas dentro do Exército](https://oglobo.globo.com/rio/investigacao-revela-esquema-de-desvio-de-armas-dentro-do-exercito-24563666)
+* [Rio tem menor taxa de isolamento em quatro semanas após domingo em que cariocas ignoraram regras e lotaram orla](https://oglobo.globo.com/rio/rio-tem-menor-taxa-de-isolamento-em-quatro-semanas-apos-domingo-em-que-cariocas-ignoraram-regras-lotaram-orla-24563648)
+* [‘Populismo digital’ pode ameaçar democracia, diz jornalista Ricardo Gandour](https://oglobo.globo.com/brasil/populismo-digital-pode-ameacar-democracia-diz-jornalista-ricardo-gandour-24563581)
+* [Vaivém das infecções mostra que desigualdade dificulta controle da pandemia na América do Sul](https://oglobo.globo.com/mundo/vaivem-das-infeccoes-mostra-que-desigualdade-dificulta-controle-da-pandemia-na-america-do-sul-24563333)
+* [Em análise no TSE, distribuição proporcional do fundo eleitoral teria ampliado em 50% recursos para candidatos negros em 2018](https://oglobo.globo.com/brasil/em-analise-no-tse-distribuicao-proporcional-do-fundo-eleitoral-teria-ampliado-em-50-recursos-para-candidatos-negros-em-2018-24563549)
+* [Tom Jobim é inspiração de vídeos inéditos de alunos da Orquestra nas Escolas](https://oglobo.globo.com/rioshow/tom-jobim-inspiracao-de-videos-ineditos-de-alunos-da-orquestra-nas-escolas-24563416)
+* [Booktokers: Saiba quem são os jovens que falam de literatura na rede social da moda](https://oglobo.globo.com/cultura/booktokers-saiba-quem-sao-os-jovens-que-falam-de-literatura-na-rede-social-da-moda-24559579)
+* [Veste Rio: Lais Ribeiro é a convidada especial do evento](https://oglobo.globo.com/ela/veste-rio/veste-rio-lais-ribeiro-a-convidada-especial-do-evento-24563147)
+* [Terapias alternativas, como mesa quântica e constelação familiar, se popularizam na quarentena](https://oglobo.globo.com/ela/beleza/bem-estar/terapias-alternativas-como-mesa-quantica-constelacao-familiar-se-popularizam-na-quarentena-24558763)

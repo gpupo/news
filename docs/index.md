@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 20:16:19 UTC
+# indexed at 03/08/2020 20:34:53 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
+* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
+* [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Live HDR+ and Dual Exposure Controls on Pixel 4 and 4a](https://ai.googleblog.com/2020/08/live-hdr-and-dual-exposure-controls-on.html)
-* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
 * [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
+* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
+* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [GiveCampus (YC S15) hiring Sr Engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
+* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
-* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [RISC-V OS using Rust: Graphics](https://blog.stephenmarz.com/2020/07/24/risc-v-os-using-rust-graphics/)
-* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
+* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
+* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
+* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
 * [Infrared thermometers to screen for Covid: more marketing than medical evidence](https://www.cebm.net/2020/08/screening-for-covid-19-with-infrared-thermometers-more-marketing-than-medical-evidence/)
 * [Implementing UFCS for C++ in Clang](https://dancrn.com/2020/08/02/ufcs-in-clang.html)
-* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
 * [Julia 1.5 Highlights](https://julialang.org/blog/2020/08/julia-1.5-highlights/)
 * [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
 * [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
 * [OneLook – Dictionary Search with Wildcards](https://onelook.com/)
-* [U.S. FAA proposes requiring key Boeing 737 Max design changes – Reuters](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
-* [Wakaresaseya: private agents hired to end relationships](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
-* [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
 ## nytimes.com
 
 
@@ -60,8 +60,8 @@ layout: default
 * [The Strange Saga of TikTok](https://www.nytimes.com/2020/08/03/technology/tiktok-microsoft.html)
 * [Trump Doesn’t Like What He Sees in the Crystal Ball](https://www.nytimes.com/2020/08/03/opinion/trump-biden-2020.html)
 * [I’m the Police Chief in Portland. Violence Isn’t the Answer.](https://www.nytimes.com/2020/08/03/opinion/portland-protests-police-chief.html)
-* [A Coronavirus Vaccine Is Coming. Just Don’t Call It ‘Warp Speed.’](https://www.nytimes.com/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
 * [Let’s Scrap the Presidential Debates](https://www.nytimes.com/2020/08/03/opinion/trump-biden-presidential-debates-2020.html)
+* [A Coronavirus Vaccine Is Coming. Just Don’t Call It ‘Warp Speed.’](https://www.nytimes.com/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
 * [Why Are So Many People on Capitol Hill Getting Infected?](https://www.nytimes.com/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
 * [Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up](https://www.nytimes.com/2020/08/02/opinion/02tik-tok-china-trump.html)
 * [How Has the Electoral College Survived for This Long?](https://www.nytimes.com/2020/08/03/opinion/electoral-college-racism-white-supremacy.html)
@@ -80,10 +80,10 @@ layout: default
 * [Isaias Live Updates: Carolinas Brace for Hurricane](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
 * [John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83](https://www.nytimes.com/2020/08/03/obituaries/john-hume-dies.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Google Pixel 4A Review: At $350, a Win for Those on a Budget](https://www.nytimes.com/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
 * [Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious](https://www.nytimes.com/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Dois anos após desastre que matou 43 pessoas, Itália inaugura nova ponte em Gênova](https://oglobo.globo.com/mundo/dois-anos-apos-desastre-que-matou-43-pessoas-italia-inaugura-nova-ponte-em-genova-24564663)
-* [Promotoria de Manhattan indica que está investigando Trump e sua empresa por fraude](https://oglobo.globo.com/mundo/promotoria-de-manhattan-indica-que-esta-investigando-trump-sua-empresa-por-fraude-24564623)
+* [Colégio particular na Zona Oeste do Rio retoma aulas presenciais com 'novo normal'](https://oglobo.globo.com/rio/colegio-particular-na-zona-oeste-do-rio-retoma-aulas-presenciais-com-novo-normal-24564712)
+* [Brasil não teme consequências em disputa entre China e EUA por 5G, diz Mourão](https://oglobo.globo.com/economia/brasil-nao-teme-consequencias-em-disputa-entre-china-eua-por-5g-diz-mourao-1-24564699)
+* [Eleição municipal em Recife terá disputa entre dois herdeiros do clã Arraes](https://epoca.globo.com/brasil/eleicao-municipal-em-recife-tera-disputa-entre-dois-herdeiros-do-cla-arraes-24564734)
 * [Torrent no Flamengo: por que você deve considerar a causa da Catalunha ao falar do técnico](https://oglobo.globo.com/esportes/torrent-no-flamengo-por-que-voce-deve-considerar-causa-da-catalunha-ao-falar-do-tecnico-24564507)
-* [Facebook e Instagram banem humorista francês por comentários antissemitas](https://oglobo.globo.com/mundo/facebook-instagram-banem-humorista-frances-por-comentarios-antissemitas-24564566)
-* [MC Atrevida: Médico responsável por procedimento estético chega para depor de cadeira de rodas](https://oglobo.globo.com/rio/mc-atrevida-medico-responsavel-por-procedimento-estetico-chega-para-depor-de-cadeira-de-rodas-24564645)
-* [Toffoli decide sozinho e faz do recesso do Supremo foco de atritos](https://oglobo.globo.com/analitico/toffoli-decide-sozinho-faz-do-recesso-do-supremo-foco-de-atritos-24564553)
+* [Promotoria de Manhattan indica que está investigando Trump e sua empresa por fraude](https://oglobo.globo.com/mundo/promotoria-de-manhattan-indica-que-esta-investigando-trump-sua-empresa-por-fraude-24564623)
+* [Ministério Público do Acre pede que goleiro Bruno use tornozeleira eletrônica](https://oglobo.globo.com/esportes/ministerio-publico-do-acre-pede-que-goleiro-bruno-use-tornozeleira-eletronica-24564705)
+* [MC Atrevida: Médico suspeito de ser responsável por procedimento estético chega para depor de cadeira de rodas](https://oglobo.globo.com/rio/mc-atrevida-medico-suspeito-de-ser-responsavel-por-procedimento-estetico-chega-para-depor-de-cadeira-de-rodas-24564645)
+* [Dois anos após desastre que matou 43 pessoas, Itália inaugura nova ponte em Gênova](https://oglobo.globo.com/mundo/dois-anos-apos-desastre-que-matou-43-pessoas-italia-inaugura-nova-ponte-em-genova-24564663)
 * [Vale fecha acordo com AGU para pagar R$ 129,5 milhões ao INSS por vítimas de Brumadinho](https://oglobo.globo.com/brasil/vale-fecha-acordo-com-agu-para-pagar-1295-milhoes-ao-inss-por-vitimas-de-brumadinho-24564607)
-* [Consumidores inadimplentes podem ter energia cortada a partir desta segunda-feira](https://oglobo.globo.com/economia/defesa-do-consumidor/consumidores-inadimplentes-podem-ter-energia-cortada-partir-desta-segunda-feira-1-24564570)
 * [Coluna | Governo considera absurda norma do CNJ para evitar contato de presos com Covid-19](https://epoca.globo.com/carolina-brigido/coluna-governo-considera-absurda-norma-do-cnj-para-evitar-contato-de-presos-com-covid-19-24564603)
-* [Parlamentares querem que Guedes abra números sobre nova contribuição de 12% que substituirá o PIS/Cofins](https://oglobo.globo.com/economia/defesa-do-consumidor/parlamentares-querem-que-guedes-abra-numeros-sobre-nova-contribuicao-de-12-que-substituira-piscofins-24564540)

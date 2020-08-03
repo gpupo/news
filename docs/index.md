@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 11:34:29 UTC
+# indexed at 03/08/2020 12:18:35 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Thomas Sowell, the Nonconformist](https://www.city-journal.org/thomas-sowell-race-poverty-culture)
+* [The saboteurs you can hire to end your relationship](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
 * [The frustration of trying to invest in my hometown](https://www.bbc.com/news/business-53473239)
+* [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
 * [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
 * [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
+* [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
+* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
 * [Who Is Alexander Grothendieck? (2008) [pdf]](https://www.ams.org/notices/200808/tx080800930p.pdf)
-* [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
 * [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
+* [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [Laws of UX](https://lawsofux.com/)
-* [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
-* [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
-* [KLM to Lay Off 5k Employees Due to Covid-19](https://kokpitherald.com/klm-to-lay-off-5000-employees-due-to-covid-19-crisis/)
-* [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
-* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
-* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
-* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
-* [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
-* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
-* [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
 * [TikTok: Logs, Logs, Logs](https://medium.com/@fs0c131y/tiktok-logs-logs-logs-e93e8162647a)
-* [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
 * [The Truth Is Paywalled but the Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/)
+* [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
+* [KLM to Lay Off 5k Employees Due to Covid-19](https://kokpitherald.com/klm-to-lay-off-5000-employees-due-to-covid-19-crisis/)
+* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
+* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
+* [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
+* [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
+* [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
 * [Interviewing the “Passé” Way, For a Reason](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
+* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
-* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 * [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
-* [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
-* [Mahatma Gandhi is set to become the first non-white person on British currency](https://www.dailymail.co.uk/news/article-8586361/Mahatma-Gandhi-set-non-white-person-British-currency.html)
+* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 ## nytimes.com
 
 
@@ -74,9 +74,9 @@ layout: default
 * [Why One Team Named the Indians Won’t Be Changing Its Name](https://www.nytimes.com/2020/08/03/sports/baseball/indians-team-names-mascots.html)
 * [Should Youth Come First in Coronavirus Care?](https://www.nytimes.com/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
 * [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](https://www.nytimes.com/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
-* [Men’s Wearhouse Owner Files for Bankruptcy](https://www.nytimes.com/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
-* [Jailbreak Attack by ISIS Rages On in Eastern Afghanistan](https://www.nytimes.com/2020/08/03/world/asia/afghanistan-prison-isis-taliban.html)
-* [Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up](https://www.nytimes.com/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+* [Updates: Lord & Taylor and Men’s Wearhouse Owner File for Bankruptcy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus)
+* [Poland’s Supreme Court Declares Presidential Election Valid](https://www.nytimes.com/2020/08/03/world/europe/poland-court-presidential-election.html)
+* [Israel Says It Hit Bombers on Syrian Boundary](https://www.nytimes.com/2020/08/03/world/middleeast/israel-syria-border.html)
 * [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](https://www.nytimes.com/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
 * [Arrests Over Illicit Party Boat With 170 Guests Cruising Around N.Y.C.](https://www.nytimes.com/2020/08/02/nyregion/liberty-belle-illegal-party.html)
 * [One-Third of New York’s Small Businesses May Be Gone Forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
@@ -99,20 +99,19 @@ layout: default
 * [Is Your Blood Sugar Undermining Your Workouts?](https://www.nytimes.com/2020/07/29/well/move/blood-sugar-diet-foods-workouts-exercise-muscles.html)
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Low-Key Cooking](https://www.nytimes.com/2020/07/31/dining/low-key-cooking.html)
-* [U.S. Identifies Some of the Mysterious Seeds Mailed From China](https://www.nytimes.com/2020/08/02/us/Seed-packets-China-USA.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Morre John Hume, ganhador do Nobel da Paz, arquiteto da paz na Irlanda do Norte](https://oglobo.globo.com/mundo/morre-john-hume-ganhador-do-nobel-da-paz-arquiteto-da-paz-na-irlanda-do-norte-24563756)
-* [STF julga nesta segunda-feira ação que cobra do governo ações imediatas para conter Covid-19 entre indígenas](https://oglobo.globo.com/brasil/stf-julga-nesta-segunda-feira-acao-que-cobra-do-governo-acoes-imediatas-para-conter-covid-19-entre-indigenas-24563750)
+* [Bolsas para cadáveres e listas de inimigos: por dentro dos planos da extrema direita alemã para o 'Dia X'](https://oglobo.globo.com/mundo/bolsas-para-cadaveres-listas-de-inimigos-por-dentro-dos-planos-da-extrema-direita-alema-para-dia-x-24563412)
+* [STF julga nesta segunda-feira ação que cobra do governo ações imediatas para conter Covid-19 entre indígenas](https://oglobo.globo.com/brasil/stf-julga-nesta-segunda-feira-acao-que-cobra-do-governo-acoes-imediatas-para-conter-covid-19-entre-indigenas-1-24563750)
+* [Com fim do recesso no Judicário, STF e STJ podem mudar decisões que afetam caso Queiroz e Lava-Jato](https://oglobo.globo.com/brasil/com-fim-do-recesso-no-judicario-stf-stj-podem-mudar-decisoes-que-afetam-caso-queiroz-lava-jato-24563824)
 * [Covid-19: casos em presídios crescem 134% em um mês, acima da média nacional](https://oglobo.globo.com/sociedade/covid-19-casos-em-presidios-crescem-134-em-um-mes-acima-da-media-nacional-24563798)
 * [INSS: Com adiamento de reabertura de agências, atendimentos terão de ser remarcados. Saiba como](https://oglobo.globo.com/economia/inss-com-adiamento-de-reabertura-de-agencias-atendimentos-terao-de-ser-remarcados-saiba-como-24563778)
 * [Acidente com 22 carros deixa ao menos 8 mortos e mais de 20 feridos no Paraná](https://oglobo.globo.com/brasil/acidente-com-22-carros-deixa-ao-menos-8-mortos-mais-de-20-feridos-no-parana-24563791)
 * [Detran libera CRLV digital a partir desta segunda-feira on-line e sem agendamento](https://oglobo.globo.com/rio/detran-libera-crlv-digital-partir-desta-segunda-feira-on-line-sem-agendamento-24563780)
 * [Brasil tem 2.733.735 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2733735-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24563741)
-* [Lives de hoje: Moacyr Luz & Samba do Trabalhador se reúnem para show](https://oglobo.globo.com/rioshow/lives-de-hoje-moacyr-luz-samba-do-trabalhador-se-reunem-para-show-24563786)
-* [Bolsas para cadáveres e listas de inimigos: por dentro dos planos da extrema direita alemã para o 'Dia X'](https://oglobo.globo.com/mundo/bolsas-para-cadaveres-listas-de-inimigos-por-dentro-dos-planos-da-extrema-direita-alema-para-dia-x-24563412)
+* [Musical para contar história do samba recebe sinal verde da Cultura](https://epoca.globo.com/guilherme-amado/musical-para-contar-historia-do-samba-recebe-sinal-verde-da-cultura-24561671)
 * [Semana terá enxurrada de decisões judiciais represadas no STJ e no STF](https://epoca.globo.com/guilherme-amado/semana-tera-enxurrada-de-decisoes-judiciais-represadas-no-stj-no-stf-1-24561737)

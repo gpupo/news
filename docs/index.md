@@ -2,16 +2,17 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 08:34:44 UTC
+# indexed at 03/08/2020 09:14:40 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [Laws of UX](https://lawsofux.com/)
+* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
 * [Briar Project](https://briarproject.org/how-it-works.html)
+* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
@@ -19,30 +20,29 @@ layout: default
 * [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
 * [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
-* [Brexit fuels brain drain as skilled Britons head to the EU](https://www.theguardian.com/world/2020/aug/02/brexit-fuels-brain-drain-as-skilled-britons-head-to-the-eu)
-* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
+* [The Truth Is Paywalled but the Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/)
 * [Interviewing the “Passé” Way, For a Reason](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
-* [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
-* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
 * [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
-* [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
+* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
+* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
+* [Brexit fuels brain drain as skilled Britons head to the EU](https://www.theguardian.com/world/2020/aug/02/brexit-fuels-brain-drain-as-skilled-britons-head-to-the-eu)
 * [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
 * [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
 * [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
+* [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
 * [Show HN: Augmented Hacker News Reader](https://hacker-news.news/)
 * [Show HN: Create landing pages by copy-paste](https://frontendor.com/)
-* [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
-* [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
-* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 * [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
+* [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
+* [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
 * [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 ## nytimes.com
 
 
 * [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-vaccine.html)
-* [Live Coronavirus Updates: Tracking Global News, Cases and Deaths](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
+* [Birx Warns That U.S. Epidemic Is in a ‘New Phase’](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 * [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html)
 * [Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-jobless-aid.html)
 * [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](https://www.nytimes.com/2020/08/02/technology/florida-teenager-twitter-hack.html)
@@ -69,7 +69,7 @@ layout: default
 * [The Most Soothing Man on TikTok](https://www.nytimes.com/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
 * [The Groundbreaking Scientist Who Risked All in Pursuit of His Beliefs](https://www.nytimes.com/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html)
 * [Men’s Wearhouse Owner Files for Bankruptcy](https://www.nytimes.com/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
-* [Militants Attack Afghan Prison as Brief Cease-Fire Expires](https://www.nytimes.com/2020/08/02/world/asia/afghan-prison-attack-prisoners.html)
+* [Jailbreak Attack by ISIS Rages On in Eastern Afghanistan](https://www.nytimes.com/2020/08/03/world/asia/afghanistan-prison-isis-taliban.html)
 * [Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up](https://www.nytimes.com/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
 * [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](https://www.nytimes.com/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
 * [Arrests Over Illicit Party Boat With 170 Guests Cruising Around N.Y.C.](https://www.nytimes.com/2020/08/02/nyregion/liberty-belle-illegal-party.html)
@@ -77,11 +77,11 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Abductions, Censorship and Layoffs: Pakistani Critics Are Under Siege](https://www.nytimes.com/2020/08/03/world/asia/pakistan-media-abductions.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html)
 * [‘Immigration Nation’ Review: The Banality of Deportation](https://www.nytimes.com/2020/08/02/arts/television/immigration-nation-review-netflix.html)
 * [Opera Goes On in Salzburg, With Lots and Lots of Testing](https://www.nytimes.com/2020/07/31/arts/music/salzburg-festival-coronavirus-cosi.html)
@@ -99,12 +99,12 @@ layout: default
 
 
 * [Como foi articulado o ataque a Felipe Neto nas redes sociais?](https://oglobo.globo.com/podcast/como-foi-articulado-ataque-felipe-neto-nas-redes-sociais-24563694)
-* [‘O mercado de seguros é muito aquém do potencial’, diz superintendente da Susep](https://oglobo.globo.com/economia/o-mercado-de-seguros-muito-aquem-do-potencial-diz-superintendente-da-susep-24563629)
-* [Rio tem menor taxa de isolamento em quatro semanas após domingo em que cariocas ignoraram regras e lotaram orla](https://oglobo.globo.com/rio/rio-tem-menor-taxa-de-isolamento-em-quatro-semanas-apos-domingo-em-que-cariocas-ignoraram-regras-lotaram-orla-24563648)
 * [‘Populismo digital’ pode ameaçar democracia, diz jornalista Ricardo Gandour](https://oglobo.globo.com/brasil/populismo-digital-pode-ameacar-democracia-diz-jornalista-ricardo-gandour-24563581)
 * [Vaivém das infecções mostra que desigualdade dificulta controle da pandemia na América do Sul](https://oglobo.globo.com/mundo/vaivem-das-infeccoes-mostra-que-desigualdade-dificulta-controle-da-pandemia-na-america-do-sul-24563333)
 * [Em análise no TSE, distribuição proporcional do fundo eleitoral teria ampliado em 50% recursos para candidatos negros em 2018](https://oglobo.globo.com/brasil/em-analise-no-tse-distribuicao-proporcional-do-fundo-eleitoral-teria-ampliado-em-50-recursos-para-candidatos-negros-em-2018-24563549)
-* [Tom Jobim é inspiração de vídeos inéditos de alunos da Orquestra nas Escolas](https://oglobo.globo.com/rioshow/tom-jobim-inspiracao-de-videos-ineditos-de-alunos-da-orquestra-nas-escolas-24563416)
-* [Booktokers: Saiba quem são os jovens que falam de literatura na rede social da moda](https://oglobo.globo.com/cultura/booktokers-saiba-quem-sao-os-jovens-que-falam-de-literatura-na-rede-social-da-moda-24559579)
+* [Quais serão as finais estaduais pelo Brasil? Veja a lista recheada de clássicos](https://oglobo.globo.com/esportes/quais-serao-as-finais-estaduais-pelo-brasil-veja-lista-recheada-de-classicos-24563519)
+* [Kalou, reforço do Botafogo: 'Vou jogar onde o Garrincha jogou'](https://oglobo.globo.com/esportes/kalou-reforco-do-botafogo-vou-jogar-onde-garrincha-jogou-1-24563229)
 * [Mansur: Brasileirão de 2020 será jogado à sombra do torneio de 2019](https://oglobo.globo.com/esportes/mansur-brasileirao-de-2020-sera-jogado-sombra-do-torneio-de-2019-24563375)
-* [Veste Rio: Lais Ribeiro é a convidada especial do evento](https://oglobo.globo.com/ela/veste-rio/veste-rio-lais-ribeiro-a-convidada-especial-do-evento-24563147)
+* [União de bares, restaurantes e clientes ajuda a minimizar danos do setor](https://oglobo.globo.com/rioshow/uniao-de-bares-restaurantes-clientes-ajuda-minimizar-danos-do-setor-24562373)
+* [Governo federal pagou 145 pensões por invalidez a servidores que arrumaram emprego](https://epoca.globo.com/guilherme-amado/governo-federal-pagou-145-pensoes-por-invalidez-servidores-que-arrumaram-emprego-24561742)
+* [Na França, uma nova geração de pensadores negros debate o racismo e o ideal dos direitos universais](https://oglobo.globo.com/celina/na-franca-uma-nova-geracao-de-pensadores-negros-debate-racismo-o-ideal-dos-direitos-universais-1-24560535)

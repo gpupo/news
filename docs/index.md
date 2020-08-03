@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 06:15:59 UTC
+# indexed at 03/08/2020 06:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Laws of UX](https://lawsofux.com/)
-* [Autodesk criticised by 35 named architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
+* [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
-* [US travel firm $4.5M ransom negotiation open chat](https://threadreaderapp.com/thread/1289199296328298497.html)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
 * [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
-* [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
-* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
+* [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
-* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
-* [How Bad Is Your Colormap? (2014)](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
+* [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
 * [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
+* [How Bad Is Your Colormap? (2014)](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
+* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [Web apps aren't tech. They're “tech”](https://questinglog.com/web-apps-arent-tech)
-* [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
-* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
-* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
-* [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
 * [Interviewing the “Passé” Way, For a Reason](https://no-kill-switch.ghost.io/interviewing-the-passe-way-for-a-reason/)
 * [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
+* [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
+* [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
+* [Google starts testing its replacement for third-party cookies](https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
+* [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
 * [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
 * [Show HN: Create landing pages by copy-paste](https://frontendor.com/)
 * [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 * [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
-* [Show HN: Augmented Hacker News Reader](https://hacker-news.news/)
 * [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
+* [Show HN: Augmented Hacker News Reader](https://hacker-news.news/)
 * [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
+* [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
 ## nytimes.com
 
@@ -77,11 +77,11 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](https://www.nytimes.com/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
-* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html)
 * [‘Immigration Nation’ Review: The Banality of Deportation](https://www.nytimes.com/2020/08/02/arts/television/immigration-nation-review-netflix.html)
 * [Opera Goes On in Salzburg, With Lots and Lots of Testing](https://www.nytimes.com/2020/07/31/arts/music/salzburg-festival-coronavirus-cosi.html)

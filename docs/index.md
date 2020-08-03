@@ -2,49 +2,49 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 14:15:18 UTC
+# indexed at 03/08/2020 14:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
-* [PostgreSQL Beginner Guide](https://knowledgepill.it/posts/postgresql-basics-guide/)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
-* [Thomas Sowell, the Nonconformist](https://www.city-journal.org/thomas-sowell-race-poverty-culture)
-* [Boon. Says Goodbye](https://www.beboon.com/uk/news/exclusive/boon-says-goodbye)
 * [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
+* [Boon. Says Goodbye](https://www.beboon.com/uk/news/exclusive/boon-says-goodbye)
+* [Thomas Sowell, the Nonconformist](https://www.city-journal.org/thomas-sowell-race-poverty-culture)
 * [The rise, fall, and rise of the status pineapple](https://www.bbc.com/news/uk-england-53432877)
 * [Autodesk criticised by architects](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
+* [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)
 * [The saboteurs you can hire to end your relationship](https://www.bbc.com/worklife/article/20200731-the-saboteurs-you-can-hire-to-end-your-relationship)
 * [Coronavirus: Iran cover-up of deaths revealed by data leak](https://www.bbc.com/news/world-middle-east-53598965)
 * [The Truth Is Paywalled but the Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
 * [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
 * [Why I still use an old PowerPC Mac](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
-* [Who Is Alexander Grothendieck? (2008) [pdf]](https://www.ams.org/notices/200808/tx080800930p.pdf)
 * [EasyPost Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
-* [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
+* [Who Is Alexander Grothendieck? (2008) [pdf]](https://www.ams.org/notices/200808/tx080800930p.pdf)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
+* [The custom ringtone industry paved the way for the app store and then vanished](https://onezero.medium.com/how-the-custom-ringtone-industry-paved-the-way-for-the-app-store-and-then-vanished-11f0d2a1e53b)
 * [Laws of UX](https://lawsofux.com/)
 * [MNT Reform open source laptop with trackball](https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html)
-* [KLM to Lay Off 5k Employees Due to Covid-19](https://kokpitherald.com/klm-to-lay-off-5000-employees-due-to-covid-19-crisis/)
 * [Bill English has died](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
 * [US travel firm $4.5M ransom negotiation open chat](https://twitter.com/jc_stubbs/status/1289199296328298497)
+* [KLM to Lay Off 5k Employees Due to Covid-19](https://kokpitherald.com/klm-to-lay-off-5000-employees-due-to-covid-19-crisis/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
 * [Breaking into ASOS](http://www.os2museum.com/wp/breaking-into-asos/)
-* [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
 * [We Need to Talk About Ventilation](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
+* [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
 * [Anachro-PC – The Anachronistic Personal Computer](https://jamesmunns.com/blog/anachro-pc-001/)
-* [TikTok: Logs, Logs, Logs](https://medium.com/@fs0c131y/tiktok-logs-logs-logs-e93e8162647a)
+* [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
 ## nytimes.com
 
 
 * [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-vaccine.html)
 * [Coronavirus Live Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 * [Russia Sets Mass Vaccination for October After Shortened Trial](https://www.nytimes.com/2020/08/02/world/europe/russia-trials-vaccine-October.html)
-* [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html)
+* [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [A Hospital Forgot to Bill Her Coronavirus Test. It Cost Her $1,980.](https://www.nytimes.com/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
 * [Is Telemedicine Here to Stay?](https://www.nytimes.com/2020/08/03/health/covid-telemedicine-congress.html)
 * [Why the Botched N.Y.C. Primary Has Become the November Nightmare](https://www.nytimes.com/2020/08/03/nyregion/nyc-mail-ballots-voting.html)
@@ -84,11 +84,11 @@ layout: default
 * [How the Media Could Get the Election Story Wrong](https://www.nytimes.com/2020/08/02/business/media/election-coverage.html)
 * [New Genoa Bridge Inauguration Is Bittersweet](https://www.nytimes.com/2020/08/02/world/europe/genoa-Morandi-bridge-replacement.html)
 * [This Tool Could Protect Your Photos From Facial Recognition](https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Can’t Find It at the Store?](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [A Harlem Restaurant That’s Withstood Gentrification, a Pandemic and Time](https://www.nytimes.com/2020/07/30/dining/famous-fish-market-harlem.html)
 * [Gambling on College Football Almost Fixed My Dysfunctional Family](https://www.nytimes.com/2020/07/31/well/family/gambling-on-college-football-almost-fixed-my-dysfunctional-family.html)
 * [After 100 Podcasts, JJ Redick Widens His Range](https://www.nytimes.com/2020/08/03/sports/jj-redick-podcast.html)
@@ -106,13 +106,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonarista desafeto de Witzel vai se lançar à Prefeitura do Rio pelo PSC, partido do governador](https://oglobo.globo.com/brasil/bolsonarista-desafeto-de-witzel-vai-se-lancar-prefeitura-do-rio-pelo-psc-partido-do-governador-24564100)
+* [Pandemia de Covid-19 se acentua na Índia e ministro de Modi é infectado](https://oglobo.globo.com/mundo/pandemia-de-covid-19-se-acentua-na-india-ministro-de-modi-infectado-24564097)
+* [Amamentação: 'Nenhum manual substitui as informações colhidas pela mãe ao se deixar envolver pelo seu bebê'](https://oglobo.globo.com/celina/amamentacao-nenhum-manual-substitui-as-informacoes-colhidas-pela-mae-ao-se-deixar-envolver-pelo-seu-bebe-24563975)
 * [Sósia mirim de Bruno Henrique, do Flamengo, perde a casa em incêndio; família faz vaquinha online](https://oglobo.globo.com/rio/sosia-mirim-de-bruno-henrique-do-flamengo-perde-casa-em-incendio-familia-faz-vaquinha-online-24563926)
-* [Amamentação: 'Nenhum manual publicado substitui as informações colhidas pela mãe ao se deixar envolver pelo seu bebê'](https://oglobo.globo.com/celina/amamentacao-nenhum-manual-publicado-substitui-as-informacoes-colhidas-pela-mae-ao-se-deixar-envolver-pelo-seu-bebe-24563975)
-* [Fabio Assunção: 'Estou no controle da minha vida'](https://oglobo.globo.com/cultura/fabio-assuncao-estou-no-controle-da-minha-vida-24563537)
 * [Egito rebate Elon Musk e reafirma que pirâmides não foram construídas por aliens](https://epoca.globo.com/mundo/egito-rebate-elon-musk-reafirma-que-piramides-nao-foram-construidas-por-aliens-24563952)
 * [Canais na Quinta da Boa Vista têm águas com manchas de óleo desde o fim de semana](https://oglobo.globo.com/rio/canais-na-quinta-da-boa-vista-tem-aguas-com-manchas-de-oleo-desde-fim-de-semana-24563878)
 * [Cruzeiros voltam a registrar surtos de Covid-19 após retorno das atividades](https://oglobo.globo.com/sociedade/cruzeiros-voltam-registrar-surtos-de-covid-19-apos-retorno-das-atividades-24564028)
 * [Trajeto Rio-Niterói das barcas poderá ser pago por aproximação](https://oglobo.globo.com/rio/trajeto-rio-niteroi-das-barcas-podera-ser-pago-por-aproximacao-24563898)
-* [Petrobras reduz preço de gás a distribuidoras e arrenda terminal de GNL na Bahia](https://oglobo.globo.com/economia/petrobras-reduz-preco-de-gas-distribuidoras-arrenda-terminal-de-gnl-na-bahia-24563925)
 * [Gisele comemora aniversário de Tom Brady em família](https://oglobo.globo.com/ela/gente/gisele-comemora-aniversario-de-tom-brady-em-familia-24563954)
 * [Fã-clubes de 'Chaves' organizam campanhas pela volta do programa à televisão](https://oglobo.globo.com/cultura/fa-clubes-de-chaves-organizam-campanhas-pela-volta-do-programa-televisao-24563910)

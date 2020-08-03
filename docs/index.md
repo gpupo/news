@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 03/08/2020 03:13:54 UTC
+# indexed at 03/08/2020 03:34:34 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Laws of UX](https://lawsofux.com/)
 * [Briar Project](https://briarproject.org/how-it-works.html)
-* [US Travel firm $4.5m ransom negotiation open chat](https://threadreaderapp.com/thread/1289199296328298497.html)
 * [Pleroma: A Mastodon-compatible open and federated social networking server](https://pleroma.social/)
-* [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
+* [US Travel firm $4.5m ransom negotiation open chat](https://threadreaderapp.com/thread/1289199296328298497.html)
 * [Show HN: High performance X11 animated wallpapers](https://github.com/glouw/paperview)
+* [Mastodon 3.2](https://blog.joinmastodon.org/2020/08/mastodon-3.2/)
 * [A philosophical difference between Haskell and Lisp](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/)
 * [When I raised my B2B SaaS’s prices](https://discuss.bootstrapped.fm/t/when-i-raised-my-b2b-saass-prices/7017)
 * [Why Can't We All Just Get Along? Uncertain Biological Basis of Morality (2013)](https://www.theatlantic.com/magazine/archive/2013/11/why-we-fightand-can-we-stop/309525/)
 * [Illustrated Self-Guided Course On How To Use The Slide Rule](https://sliderulemuseum.com/SR_Course.htm)
-* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [Show HN: Brick, a free Notion-like tool for zero-hassle site making](https://brick.do/)
+* [Facebook hate-speech boycott had little effect on revenue](https://www.axios.com/facebook-hate-speech-boycott-had-little-effect-on-revenue-15984194-124e-41e0-821b-cc3a1b29e28d.html)
 * [SpaceX Crew Dragon Splashes Down in the Gulf of Mexico](https://www.nytimes.com/2020/08/02/science/spacex-nasa-return.html)
 * [“Zombie cicadas” infected with mind-controlling fungus return to West Virginia](https://www.cbsnews.com/news/zombie-cicadas-infected-mind-controlling-fungus-west-virginia/)
 * [How to Run Turing Machines on Encrypted Data [pdf]](https://eprint.iacr.org/2013/229.pdf)
-* [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
-* [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
+* [Brain-Gut Circuit Lets Microbiota Directly Affect the Sympathetic Nervous System](https://www.technologynetworks.com/tn/news/brain-gut-circuit-lets-microbiota-directly-affect-our-sympathetic-nervous-system-338082)
 * [Rethinking the Science of Skin](https://www.newyorker.com/magazine/2020/08/03/rethinking-the-science-of-skin)
+* [A collection of books, talks, and papers on security engineering](https://github.com/veeral-patel/learn-security-engineering)
 * [GITenberg is an open source community for publishing ebooks in the public domain](https://www.gitenberg.org/)
-* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [The Architecture of the Medieval Page (2018)](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
+* [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [What I Learned About Failing from My 5 Year Indie Game Dev Project](https://www.dylanwilson.net/what-i-learned-about-failing-from-my-5-year-indie-game-dev-project/)
-* [Lord and Taylor, Oldest U.S. Department Store, Files Bankruptcy](https://www.bnnbloomberg.ca/lord-taylor-oldest-u-s-department-store-files-bankruptcy-1.1474568)
+* [Bill English, wizard behind the scenes of seminal computer tech, dies at 91](https://www.latimes.com/business/story/2020-07-31/bill-english-dies-at-91)
 * [Microsoft to continue discussions on potential TikTok purchase in the US](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
+* [Lord and Taylor, Oldest U.S. Department Store, Files Bankruptcy](https://www.bnnbloomberg.ca/lord-taylor-oldest-u-s-department-store-files-bankruptcy-1.1474568)
 * [μPlot v1.1 – now with log scales support](https://leeoniya.github.io/uPlot/demos/log-scales.html)
-* [I Still Use an Old PowerPC Mac in 2020](https://www.howtogeek.com/682300/why-i-still-use-an-old-powerpc-mac-in-2020/)
 * [OCaml for the Skeptical: OCaml in a Nutshell (2006)](https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
-* [GPU Accelerated JavaScript](https://gpu.rocks/)
 * [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)
+* [GPU Accelerated JavaScript](https://gpu.rocks/)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [Kayleigh McEnany Heckles the Press. Is That All?](https://www.nytimes.com/2020/08/02/us/politics/kayleigh-mcenany.html)
 * [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](https://www.nytimes.com/2020/08/02/us/portland-protests-.html)
 * [Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence](https://www.nytimes.com/2020/08/02/world/americas/mexico-el-marro-capture.html)
-* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [Worried Your Kid Is Falling Behind? You’re Not Alone](https://www.nytimes.com/2020/07/30/parenting/online-learning-school-coronavirus.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
 * [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
 * [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html)
 * [‘Immigration Nation’ Review: The Banality of Deportation](https://www.nytimes.com/2020/08/02/arts/television/immigration-nation-review-netflix.html)

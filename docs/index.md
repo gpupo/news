@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 06:16:09 UTC
+# indexed at 04/08/2020 06:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -10,8 +10,8 @@ layout: default
 
 * [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
-* [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 * [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
+* [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 * [Dan Ariely and Irrational Comparison](https://brendancahill.io/brensblog/danariely)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
@@ -20,23 +20,23 @@ layout: default
 * [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
 * [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
-* [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
+* [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
-* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
-* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
-* [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
-* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
-* [Learn FP Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
+* [Turnitin and the Debate over Anti-Plagiarism Software (2014)](https://www.npr.org/sections/ed/2014/08/25/340112848/turnitin-and-the-high-tech-plagiarism-debate)
+* [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
+* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
+* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
-* [Blizzard workers share salaries in revolt over wage disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
 * [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
-* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [Learn FP Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
-* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
+* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
+* [Blizzard workers share salaries in revolt over wage disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
 ## nytimes.com
 
@@ -77,11 +77,11 @@ layout: default
 * [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](https://www.nytimes.com/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
 * [‘I Am Scared’: Italian Sex Workers Face Poverty and Illness In the Pandemic](https://www.nytimes.com/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
 * [Taking a Spear Into the Sea, and Washing Anxiety Away](https://www.nytimes.com/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
 * [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)

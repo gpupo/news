@@ -2,16 +2,17 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 12:18:40 UTC
+# indexed at 04/08/2020 12:34:43 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Endless Doom Scroller](https://endlessdoomscroller.com/)
-* [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
-* [SIMD Everywhere: 0.5.0](https://simd-everywhere.github.io/blog/announcements/release/2020/06/21/0.5.0-release.html)
 * [Bill English: Computer mouse co-creator dies at 91](https://www.bbc.com/news/technology-53638033)
+* [SIMD Everywhere: 0.5.0](https://simd-everywhere.github.io/blog/announcements/release/2020/06/21/0.5.0-release.html)
+* [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
+* [Former Producer: Why I’m now leaving MSNBC](https://www.arianapekary.net/post/personal-news-why-i-m-now-leaving-msnbc)
 * [The best Parts of Visual Studio Code are proprietary](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html)
 * [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 * [How to build great products (2013)](https://www.defmacro.org/2013/09/26/products.html)
@@ -21,23 +22,22 @@ layout: default
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
-* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
-* [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
-* [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
+* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
 * [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
-* [Why You Should Stop Using Google Analytics on Your Web Site](https://privateanalytix.com/remove-google-analytics/)
+* [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [An abstraction library for interfacing EDA tools](https://github.com/olofk/edalize)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
-* [New insights into “bradykinin storms” suggest potential therapies for Covid-19](https://spectrum.ieee.org/the-human-os/computing/hardware/has-the-summit-supercomputer-cracked-the-covid-code)
 * [Go vs. Rust: Writing a CLI Tool](https://cuchi.me/posts/go-vs-rust)
+* [New insights into “bradykinin storms” suggest potential therapies for Covid-19](https://spectrum.ieee.org/the-human-os/computing/hardware/has-the-summit-supercomputer-cracked-the-covid-code)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
-* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
-* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
-* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
+* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
+* [Shipshape RenderMan Art Challenge](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
+* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [United airlines plans to resume service on more than 25 international routes](https://kokpitherald.com/united-airlines-plans-to-resume-service-on-more-than-25-international-routes-in-september/)
 ## nytimes.com
 
 
@@ -49,8 +49,8 @@ layout: default
 * [Live 2020 Election Updates in Arizona, Kansas, Michigan, Missouri and Washington](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
 * [From Outsider to Insider: Karen Bass’s Unexpected Journey to Power](https://www.nytimes.com/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
 * [Disputed Ballots Must Be Counted in N.Y. Congressional Race, U.S. Judge Rules](https://www.nytimes.com/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
+* [Isaias Live Updates: Fires, Flooding and Tornadoes as Storm Charges Over Land](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html)
 * [Distrust of the Minneapolis Police, and Also the Effort to Defund Them](https://www.nytimes.com/2020/08/04/us/minneapolis-defund-police.html)
-* [The Mayor Blames the Virus for Shootings. Here’s What Crime Data Shows.](https://www.nytimes.com/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
 * [Behrouz Boochani Just Wants to Be Free](https://www.nytimes.com/2020/08/04/magazine/behrouz-boochani-australia.html)
 * [Miles Apart on Coronavirus Relief](https://www.nytimes.com/2020/08/04/briefing/coronavirus-relief-primary-elections-isaias-your-tuesday-briefing.html)
 * [How Tropical Storm Isaias Will Affect New York](https://www.nytimes.com/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
@@ -73,17 +73,17 @@ layout: default
 * [Business Updates: BP Reports a Deep Loss and Cuts Its Dividend](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus)
 * [Juan Carlos, Spain’s Former King, Quits Country Amid Multiple Investigations](https://www.nytimes.com/2020/08/03/world/europe/juan-carlos-leaves-spain.html)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
-* [Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency](https://www.nytimes.com/2020/08/03/us/politics/merritt-corrigan-usaid.html)
+* [L.A. Mansion Party, Held Despite Pandemic Ban, Ends in a Shooting](https://www.nytimes.com/2020/08/04/us/la-mansion-party-shooting.html)
 * [3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand](https://www.nytimes.com/2020/08/04/world/australia/sos-pacific-island.html)
-* [Hurricane Makes Landfall in North Carolina](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
+* [The Mayor Blames the Virus for Shootings. Here’s What Crime Data Shows.](https://www.nytimes.com/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
 * [Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.](https://www.nytimes.com/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
 * [Turkish Aggression Is NATO’s ‘Elephant in the Room’](https://www.nytimes.com/2020/08/03/world/europe/turkey-nato.html)
 * [‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic](https://www.nytimes.com/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Summer Recreation? It’s Backordered](https://www.nytimes.com/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
 * [Welcome to Another Novel Set in Brooklyn. This One Is Different.](https://www.nytimes.com/2020/08/03/books/review/kings-county-david-goodwillie.html)
 * [Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled](https://www.nytimes.com/2020/07/31/obituaries/roland-johnson-overlooked.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Meghan Markle comemora 39 anos e ganha parabéns da rainha, William e Kate](https://oglobo.globo.com/ela/gente/meghan-markle-comemora-39-anos-ganha-parabens-da-rainha-william-kate-24566402)
 * [Produção industrial avança 8,9% em junho](https://oglobo.globo.com/economia/producao-industrial-avanca-89-em-junho-24566332)
-* [Funcionários de 13 unidades de saúde do estado têm salários atrasados, contabilizam sindicatos](https://oglobo.globo.com/rio/funcionarios-de-13-unidades-de-saude-do-estado-tem-salarios-atrasados-contabilizam-sindicatos-24566355)
-* [A menos de 24 horas do fim do prazo, Argentina anuncia acordo com credores para evitar calote](https://oglobo.globo.com/economia/a-menos-de-24-horas-do-fim-do-prazo-argentina-anuncia-acordo-com-credores-para-evitar-calote-24566334)
-* [Caitlyn Jenner defende Kanye West enquanto Kim quer manter casamento 'pelas crianças'](https://oglobo.globo.com/ela/gente/caitlyn-jenner-defende-kanye-west-enquanto-kim-quer-manter-casamento-pelas-criancas-24566321)
-* [Decisão de parte da oposição venezuelana de não participar das legislativas evidencia fragilidade de Guaidó](https://oglobo.globo.com/mundo/decisao-de-parte-da-oposicao-venezuelana-de-nao-participar-das-legislativas-evidencia-fragilidade-de-guaido-1-24564444)
-* [Polícia prende suspeito da morte de empregada doméstica na casa dos patrões no Rio](https://oglobo.globo.com/rio/policia-prende-suspeito-da-morte-de-empregada-domestica-na-casa-dos-patroes-no-rio-24566326)
-* [Quem é o invasor das contas no Twitter de Obama, Kanye West e Jeff Bezos](https://epoca.globo.com/mundo/quem-o-invasor-das-contas-no-twitter-de-obama-kanye-west-jeff-bezos-24564227)
-* [Piloto de megatraficantes tentou fugir de caças da FAB antes de ser preso com 516 kg de cocaína](https://epoca.globo.com/brasil/piloto-de-megatraficantes-tentou-fugir-de-cacas-da-fab-antes-de-ser-preso-com-516-kg-de-cocaina-24564889)
+* [Parque Olímpico da Barra é reaberto após quatro meses fechado por conta da Covid-19](https://oglobo.globo.com/rio/parque-olimpico-da-barra-reaberto-apos-quatro-meses-fechado-por-conta-da-covid-19-1-24566392)
+* [Funcionários de 13 unidades de saúde do estado têm salários atrasados, contabilizam sindicatos](https://oglobo.globo.com/rio/funcionarios-de-13-unidades-de-saude-do-estado-tem-salarios-atrasados-contabilizam-sindicatos-1-24566355)
+* [Cursos técnicos de nível médio podem ter aulas suspensas ou a distância até dezembro](https://oglobo.globo.com/sociedade/cursos-tecnicos-de-nivel-medio-podem-ter-aulas-suspensas-ou-distancia-ate-dezembro-24566406)
+* [Onde está Juan Carlos? Segundo imprensa espanhola, rei emérito foi para a República Dominicana](https://oglobo.globo.com/mundo/onde-esta-juan-carlos-segundo-imprensa-espanhola-rei-emerito-foi-para-republica-dominicana-24566373)
+* [Neymar aparece em capa de revista ao lado de amiga DJ e diz: 'Estou aprendendo a ser mais aberto'](https://oglobo.globo.com/ela/gente/neymar-aparece-em-capa-de-revista-ao-lado-de-amiga-dj-diz-estou-aprendendo-ser-mais-aberto-24566368)
+* [Associação responsável pelo Globo de Ouro é processada por acusação de monopólio](https://oglobo.globo.com/cultura/associacao-responsavel-pelo-globo-de-ouro-processada-por-acusacao-de-monopolio-1-24566354)
 * ['Limpe essa bagunça': quem são os pensadores chineses por trás da política repressiva da China em Hong Kong](https://oglobo.globo.com/mundo/limpe-essa-bagunca-quem-sao-os-pensadores-chineses-por-tras-da-politica-repressiva-da-china-em-hong-kong-24565345)
 * [A história de Angela Davis em HQ](https://epoca.globo.com/guilherme-amado/a-historia-de-angela-davis-em-hq-24564926)

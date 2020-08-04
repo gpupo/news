@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 01:15:26 UTC
+# indexed at 04/08/2020 01:35:08 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
 * [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
-* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [Court Ruling Clears Way for Energy Storage on the Grid. Who Benefits?](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
+* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
-* [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
+* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
 * [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
-* [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
 * [An Interactive JavaScript Slide Rule](https://adit.co.uk/sliderulev2.html)
-* [Open Source PCR Thermocycler](https://openpcr.org/)
-* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
-* [Enzyme (YC S17) is hiring a DevOps Engineer to speed up FDA approval](https://angel.co/company/enzymecorp/jobs/921769-devops-internal-tooling-engineer)
+* [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
-* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
+* [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
+* [Open Source PCR Thermocycler](https://openpcr.org/)
 * [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
+* [Enzyme (YC S17) is hiring a DevOps Engineer to speed up FDA approval](https://angel.co/company/enzymecorp/jobs/921769-devops-internal-tooling-engineer)
+* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
+* [Blizzard Workers Share Salaries in Revolt over Wage Disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
-* [Infrared thermometers to screen for Covid: more marketing than medical evidence](https://www.cebm.net/2020/08/screening-for-covid-19-with-infrared-thermometers-more-marketing-than-medical-evidence/)
 * [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
 ## nytimes.com
 
@@ -57,7 +57,7 @@ layout: default
 * [Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [The Strange Saga of TikTok](https://www.nytimes.com/2020/08/03/technology/tiktok-microsoft.html)
-* [Republican Leaders Couldn’t Care Less About the Unemployed](https://www.nytimes.com/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
+* [The Unemployed Stare Into the Abyss. Republicans Look Away.](https://www.nytimes.com/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
 * [Disenchanted Seniors for Biden](https://www.nytimes.com/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
 * [The Siren Song of ‘One State’](https://www.nytimes.com/2020/08/03/opinion/israel-palestine-one-state-solution.html)
 * [The Good News About What Human Genius Can Still Do](https://www.nytimes.com/2020/08/03/opinion/spacex-stonehenge-mars.html)
@@ -78,10 +78,10 @@ layout: default
 * [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](https://www.nytimes.com/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Em depoimento, Queiroz diz que deu 'satisfação' a Flávio Bolsonaro sobre 'rachadinha'](https://oglobo.globo.com/brasil/em-depoimento-queiroz-diz-que-deu-satisfacao-flavio-bolsonaro-sobre-rachadinha-24565498)
+* [Relatório da ONU aponta que Coreia do Norte acelerou desenvolvimento de armas nucleares](https://oglobo.globo.com/mundo/relatorio-da-onu-aponta-que-coreia-do-norte-acelerou-desenvolvimento-de-armas-nucleares-24565423)
 * [Inspirados em 'Era de ouro' do Vasco, novos uniformes são lançados em live](https://oglobo.globo.com/esportes/inspirados-em-era-de-ouro-do-vasco-novos-uniformes-sao-lancados-em-live-1-24565396)
 * [Prefeitura pagará bolsas para crianças em creches privadas de Niterói. Escolas interessadas na parceria já podem se inscrever](https://oglobo.globo.com/rio/bairros/prefeitura-pagara-bolsas-para-criancas-em-creches-privadas-de-niteroi-escolas-interessadas-na-parceria-ja-podem-se-inscrever-24565324)
 * [Bolsonaro veta projeto de lei que propõe indenização a profissionais de saúde incapacitados pela Covid-19](https://oglobo.globo.com/sociedade/bolsonaro-veta-projeto-de-lei-que-propoe-indenizacao-profissionais-de-saude-incapacitados-pela-covid-19-24565430)
-* [Relatório da ONU aponta que Coreia do Norte acelerou desenvolvimento de armas nucleares](https://oglobo.globo.com/mundo/relatorio-da-onu-aponta-que-coreia-do-norte-acelerou-desenvolvimento-de-armas-nucleares-24565423)
 * [Almodóvar exibe seu primeiro filme em inglês no Festival de Veneza](https://oglobo.globo.com/cultura/almodovar-exibe-seu-primeiro-filme-em-ingles-no-festival-de-veneza-24565424)
 * [Mendonça anuncia troca do diretor de inteligência de secretaria que monitorou opositores](https://oglobo.globo.com/brasil/mendonca-anuncia-troca-do-diretor-de-inteligencia-de-secretaria-que-monitorou-opositores-24565307)
 * [Credores do Equador aceitam plano de reestruturação de dívida](https://oglobo.globo.com/mundo/credores-do-equador-aceitam-plano-de-reestruturacao-de-divida-24565333)
 * [Bolsonaro cria Centro de Inteligência Nacional na Abin para enfrentar 'ameaças à segurança do Estado'](https://oglobo.globo.com/brasil/bolsonaro-cria-centro-de-inteligencia-nacional-na-abin-para-enfrentar-ameacas-seguranca-do-estado-1-24565334)
 * [Ministério da Justiça demite chefe da área que investigou opositores de Bolsonaro](https://epoca.globo.com/guilherme-amado/ministerio-da-justica-demite-chefe-da-area-que-investigou-opositores-de-bolsonaro-24565034)
-* [É #FAKE que foto mostre multidão em protesto contra isolamento em Berlim](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-multidao-em-protesto-contra-isolamento-em-berlim-24565298)

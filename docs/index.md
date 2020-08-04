@@ -2,23 +2,24 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 18:15:24 UTC
+# indexed at 04/08/2020 18:34:42 UTC
 
 
 ## news.ycombinator.com
 
 
 * [We Quit Our Jobs to Build a Cabin – Everything Went Wrong](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington)
-* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
+* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
+* [Mux (YC W16) is hiring devs that want to help others build video (remote ok)](https://mux.com/jobs?hnj=17)
+* [Magnasanti: The Largest and Most Terrifying SimCity](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
 * [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
 * [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [Motherboard Specifications on MotherboardDB](https://motherboarddb.com)
-* [Magnasanti: The Largest and Most Terrifying SimCity](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
-* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [Unlearn Rotation Matrices as Rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
+* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
 * [Crux SQL](https://juxt.pro/blog/crux-sql)
 * [Twitter used phone numbers provided for security to target ads (2019)](https://www.theverge.com/2019/10/8/20905383/twitter-phone-numbers-email-addresses-targeted-advertising)
@@ -29,15 +30,14 @@ layout: default
 * [Test-First Machine Learning](https://codingossip.github.io/2020/test-first-machine-learning/)
 * [The earliest domestic cat on the Silk Road](https://www.nature.com/articles/s41598-020-67798-6)
 * [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
-* [EU launches probe into Google-Fitbit takeover](https://www.bbc.co.uk/news/technology-53647570)
 * [Windows 10: HOSTS file blocking telemetry is now flagged as a risk](https://www.bleepingcomputer.com/news/microsoft/windows-10-hosts-file-blocking-telemetry-is-now-flagged-as-a-risk/)
-* [Turkish Lira Rates Blow Out to 1000% After Currency Intervention](https://www.bloomberg.com/news/articles/2020-08-04/turkish-lira-rates-blow-out-to-1000-after-currency-intervention)
-* [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
+* [EU launches probe into Google-Fitbit takeover](https://www.bbc.co.uk/news/technology-53647570)
 * [FuzzCon – European Online Conference About Fuzzing](https://www.fuzzcon.eu)
-* [Comix-35 Home Computer](https://github.com/schlae/comix-35)
-* [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
+* [Turkish Lira Rates Blow Out to 1000% After Currency Intervention](https://www.bloomberg.com/news/articles/2020-08-04/turkish-lira-rates-blow-out-to-1000-after-currency-intervention)
 * [Gone Phishing](https://restofworld.org/2020/how-a-forbes-cover-star-stole-millions/)
-* [Pachyderm is hiring a docs engineer, K8s DevOps and Go Dev](https://jobs.lever.co/pachyderm/)
+* [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
+* [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
+* [Comix-35 Home Computer](https://github.com/schlae/comix-35)
 ## nytimes.com
 
 
@@ -61,14 +61,14 @@ layout: default
 * [Trump Can Lean on the Electoral College to Win in 2020](https://www.nytimes.com/2020/08/04/opinion/trump-2020-electoral-college.html)
 * [Will Covid-19 Patients in Rural Hospitals Get the Care They Need?](https://www.nytimes.com/2020/08/04/opinion/covid-rural-hospitals.html)
 * [The Unemployed Stare Into the Abyss. Republicans Look Away.](https://www.nytimes.com/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
-* [Brazil’s Troll Army Moves Into the Streets](https://www.nytimes.com/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
 * [Republicans Are Ready for the Don Draper Method](https://www.nytimes.com/2020/08/04/opinion/trump-republicans-tea-party.html)
+* [Brazil’s Troll Army Moves Into the Streets](https://www.nytimes.com/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
 * [We Need a Monument to the Unknown America](https://www.nytimes.com/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
-* [Join Jamelle Bouie to discuss Trump and the electoral college](https://twitter.com/jbouie/status/1290695657133506560)
 * [Disenchanted Seniors for Biden](https://www.nytimes.com/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
 * [The Siren Song of ‘One State’](https://www.nytimes.com/2020/08/03/opinion/israel-palestine-one-state-solution.html)
-* [Voting Isn’t Everything](https://www.nytimes.com/2020/08/04/opinion/voting-2020-election-blm-movement.html)
 * [What Years of Emails and Texts Reveal About Your Friendly Tech Companies](https://www.nytimes.com/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+* [Voting Isn’t Everything](https://www.nytimes.com/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+* [How Trump’s Upbringing Molded His Personality](https://www.nytimes.com/2020/08/04/opinion/letters/trump-family.html)
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [A History of Hurricanes in America and the Devastation They Have Wrought](https://www.nytimes.com/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
 * [Returning From War, Returning to Racism](https://www.nytimes.com/2020/07/30/magazine/black-soldiers-wwii-racism.html)
@@ -81,11 +81,11 @@ layout: default
 * [A Historic Supreme Court Ruling Upends Courts in Oklahoma](https://www.nytimes.com/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
 * [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](https://www.nytimes.com/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Sam Jay: A Comic Who Belongs to No Camp](https://www.nytimes.com/2020/08/04/arts/television/sam-jay-netflix-special.html)
 * [Will Superblue Be the ‘Infinity Room’ Writ Large?](https://www.nytimes.com/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
 * [‘America, What a Country.’ Michael Dell on His Life and Business](https://www.nytimes.com/2020/07/31/business/michael-dell-corner-office.html)
@@ -102,6 +102,9 @@ layout: default
 ## globo.com
 
 
+* [Militares brasileiros no Líbano estão bem, afirma Marinha](https://oglobo.globo.com/mundo/militares-brasileiros-no-libano-estao-bem-afirma-marinha-24566977)
+* [Maioria do STF confirma suspensão de operações policiais no Rio durante pandemia](https://oglobo.globo.com/rio/maioria-do-stf-confirma-suspensao-de-operacoes-policiais-no-rio-durante-pandemia-24566993)
+* [Corregedoria do MPF e CNMP concluíram que Lava-Jato não cometeu infração em fundação para gerir R$ 2,5 bi da Petrobras](https://oglobo.globo.com/brasil/corregedoria-do-mpf-cnmp-concluiram-que-lava-jato-nao-cometeu-infracao-em-fundacao-para-gerir-25-bi-da-petrobras-24566991)
 * [Preço do petróleo dispara no mercado internacional após explosão próxima ao porto de Beirute](https://oglobo.globo.com/economia/preco-do-petroleo-dispara-no-mercado-internacional-apos-explosao-proxima-ao-porto-de-beirute-24566889)
 * [Empresário Jorge Salgado se lança candidato à presidência do Vasco](https://oglobo.globo.com/esportes/empresario-jorge-salgado-se-lanca-candidato-presidencia-do-vasco-24566914)
 * [Brasileiros terão de conviver com o novo coronavírus por pelo menos 12 meses, diz pesquisador](https://oglobo.globo.com/sociedade/brasileiros-terao-de-conviver-com-novo-coronavirus-por-pelo-menos-12-meses-diz-pesquisador-24566963)
@@ -109,6 +112,3 @@ layout: default
 * [Twitter estuda cobrar assinaturas para complementar receita com anúncios](https://oglobo.globo.com/economia/twitter-estuda-cobrar-assinaturas-para-complementar-receita-com-anuncios-24566736)
 * [Tênis: Masters 1000 de Madrid é cancelado devido à pandemia de coronavírus](https://oglobo.globo.com/esportes/tenis-masters-1000-de-madrid-cancelado-devido-pandemia-de-coronavirus-24566910)
 * [Congresso do Peru rechaça Gabinete indicado por Vizcarra, acentuando crise política](https://oglobo.globo.com/mundo/congresso-do-peru-rechaca-gabinete-indicado-por-vizcarra-acentuando-crise-politica-24566882)
-* [ONU vê 'catástrofe geracional' com mais de 1 bilhão de alunos fora das escolas](https://oglobo.globo.com/sociedade/onu-ve-catastrofe-geracional-com-mais-de-1-bilhao-de-alunos-fora-das-escolas-24566672)
-* [Deputados do PT protocolam projeto de lei para fixar cota de candidaturas negras nas eleições](https://oglobo.globo.com/brasil/deputados-do-pt-protocolam-projeto-de-lei-para-fixar-cota-de-candidaturas-negras-nas-eleicoes-24566801)
-* [Associação dos Magistrados vai ao STF contra proibição de audiências de custódia](https://epoca.globo.com/guilherme-amado/associacao-dos-magistrados-vai-ao-stf-contra-proibicao-de-audiencias-de-custodia-24566790)

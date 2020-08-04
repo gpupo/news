@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 07:14:38 UTC
+# indexed at 04/08/2020 07:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -17,26 +17,26 @@ layout: default
 * [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
-* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
+* [How to build great products (2013)](https://www.defmacro.org/2013/09/26/products.html)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
-* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
-* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
+* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
-* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
-* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
-* [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
 * [Turnitin and the Debate over Anti-Plagiarism Software (2014)](https://www.npr.org/sections/ed/2014/08/25/340112848/turnitin-and-the-high-tech-plagiarism-debate)
+* [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
+* [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
 * [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
-* [Open Source PCR Thermocycler](https://openpcr.org/)
+* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
 * [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [Open Source PCR Thermocycler](https://openpcr.org/)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
 ## nytimes.com
 
@@ -96,13 +96,13 @@ layout: default
 ## globo.com
 
 
-* [CBF adia Botafogo x Bahia, pelo Brasileirão, por causa de conflito com Campeonato Baiano](https://oglobo.globo.com/esportes/cbf-adia-botafogo-bahia-pelo-brasileirao-por-causa-de-conflito-com-campeonato-baiano-24566217)
-* [Rodrigo Maia diz que Bolsonaro não cometeu crimes que justifiquem impeachment](https://oglobo.globo.com/brasil/rodrigo-maia-diz-que-bolsonaro-nao-cometeu-crimes-que-justifiquem-impeachment-24566220)
-* [Organizações pedem ao BNDES liberação de recursos do Fundo Amazônia](https://oglobo.globo.com/economia/organizacoes-pedem-ao-bndes-liberacao-de-recursos-do-fundo-amazonia-24565202)
-* [Luiz Melodia ganha homenagem de amigos numa live de clássicos e memórias](https://oglobo.globo.com/rioshow/luiz-melodia-ganha-homenagem-de-amigos-numa-live-de-classicos-memorias-24564731)
-* [O pandemônio é de Bolsonaro](https://oglobo.globo.com/opiniao/o-pandemonio-de-bolsonaro-24565158)
-* [Nada mudou no dirigismo de licitações no Brasil](https://oglobo.globo.com/opiniao/nada-mudou-no-dirigismo-de-licitacoes-no-brasil-24565101)
-* [Supremo editor e a Constituição lavajatista](https://oglobo.globo.com/opiniao/supremo-editor-a-constituicao-lavajatista-24565084)
-* [Como prevenir a iminente crise da dívida soberana](https://oglobo.globo.com/opiniao/como-prevenir-iminente-crise-da-divida-soberana-24564939)
-* [Holocausto: filmes e série disponíveis no streaming](https://oglobo.globo.com/rioshow/holocausto-filmes-serie-disponiveis-no-streaming-24564780)
-* [Uma Venezuela diferente](https://oglobo.globo.com/opiniao/uma-venezuela-diferente-24564744)
+* [Estudo da University College de Londres diz que volta às aulas requer rastreamento de contatos e testagem](https://oglobo.globo.com/sociedade/estudo-da-university-college-de-londres-diz-que-volta-as-aulas-requer-rastreamento-de-contatos-testagem-24565594)
+* [Volta às aulas requer rastreamento de contatos e testagem, diz estudo da University College de Londres](https://oglobo.globo.com/sociedade/volta-as-aulas-requer-rastreamento-de-contatos-testagem-diz-estudo-da-university-college-de-londres-24565565)
+* [Prefeitura permite, mas estado proíbe de novo volta às aulas presenciais no Rio](https://oglobo.globo.com/rio/prefeitura-permite-mas-estado-proibe-de-novo-volta-as-aulas-presenciais-no-rio-24565553)
+* [Pesquisa com professores revela desigualdade no ensino on-line](https://oglobo.globo.com/rio/pesquisa-com-professores-revela-desigualdade-no-ensino-on-line-24565460)
+* ['Países com controle do vírus terão investimento', diz a economista Monica de Bolle](https://oglobo.globo.com/economia/paises-com-controle-do-virus-terao-investimento-diz-economista-monica-de-bolle-24565319)
+* [Rio e Caxias estão entre as 20 cidades que mais procuraram plataforma de traição na pandemia; veja o ranking](https://oglobo.globo.com/rio/rio-caxias-estao-entre-as-20-cidades-que-mais-procuraram-plataforma-de-traicao-na-pandemia-veja-ranking-1-24565373)
+* [Auxílio emergencial: prorrogação de benefício foi marcado por idas e vindas](https://oglobo.globo.com/economia/auxilio-emergencial-prorrogacao-de-beneficio-foi-marcado-por-idas-vindas-24564770)
+* [Criticado pelo governo, Iphan comemora 20 anos de política pioneira do patrimônio imaterial](https://oglobo.globo.com/cultura/criticado-pelo-governo-iphan-comemora-20-anos-de-politica-pioneira-do-patrimonio-imaterial-24561284)
+* [Três dicas valiosas para o uso da máscara de cílios](https://oglobo.globo.com/ela/beleza/maquiagem/tres-dicas-valiosas-para-uso-da-mascara-de-cilios-24558823)
+* [Exposições de moda encontram na internet uma forma de driblar o distanciamento social](https://oglobo.globo.com/ela/moda/exposicoes-de-moda-encontram-na-internet-uma-forma-de-driblar-distanciamento-social-24558798)

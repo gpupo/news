@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 14:15:04 UTC
+# indexed at 04/08/2020 14:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
 * [EU Launches Full-Scale Probe into Google-Fitbit Takeover](https://www.bbc.co.uk/news/technology-53647570)
-* [Unlearn Rotation Matrices as Rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
+* [Unlearn Rotation Matrices as Rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
 * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
 * [Crux SQL](https://juxt.pro/blog/crux-sql)
 * [SIMD Everywhere: 0.5.0](https://simd-everywhere.github.io/blog/announcements/release/2020/06/21/0.5.0-release.html)
@@ -23,21 +23,21 @@ layout: default
 * [Cloudflare Network Interconnect](https://blog.cloudflare.com/cloudflare-network-interconnect/)
 * [How to build great products (2013)](https://www.defmacro.org/2013/09/26/products.html)
 * [An abstraction library for interfacing EDA tools](https://github.com/olofk/edalize)
-* [Endless Doom Scroller](https://endlessdoomscroller.com/)
-* [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
-* [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
-* [Dan Ariely and Irrational Comparison](https://brendancahill.io/brensblog/danariely)
 * [Syntax changes from C++11 to C++20](https://www.bfilipek.com/2020/08/lambda-syntax.html)
-* [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
-* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
+* [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
+* [Endless Doom Scroller](https://endlessdoomscroller.com/)
+* [Comix-35 Home Computer](https://github.com/schlae/comix-35)
+* [Dan Ariely and Irrational Comparison](https://brendancahill.io/brensblog/danariely)
 * [TikTok and Microsoft’s Clock](https://500ish.com/tiktok-and-microsofts-clock-c4c9fd082b89)
+* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Shipshape RenderMan Art Challenge](https://blog.yiningkarlli.com/2020/07/shipshape-renderman-challenge.html)
 * [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
 * [Oral Histories](https://www.math.columbia.edu/~woit/wordpress/?p=11762)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
-* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
-* [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 ## nytimes.com
 
 
@@ -48,7 +48,7 @@ layout: default
 * [‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust](https://www.nytimes.com/2020/08/04/business/coronavirus-struggling-caterers.html)
 * [Primary Live Updates: Michigan, Kansas, Missouri, Arizona and Washington](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
 * [From Outsider to Insider: Karen Bass’s Unexpected Journey to Power](https://www.nytimes.com/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
-* [Disputed Ballots Must Be Counted in N.Y. Congressional Race, U.S. Judge Rules](https://www.nytimes.com/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
+* [Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’](https://www.nytimes.com/2020/08/04/us/politics/trump-john-lewis-axios.html)
 * [Isaias Live Updates: Fires, Flooding and Tornadoes as Storm Charges Over Land](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html)
 * [Distrust of the Minneapolis Police, and Also the Effort to Defund Them](https://www.nytimes.com/2020/08/04/us/minneapolis-defund-police.html)
 * [Behrouz Boochani Just Wants to Be Free](https://www.nytimes.com/2020/08/04/magazine/behrouz-boochani-australia.html)
@@ -61,7 +61,7 @@ layout: default
 * [The Unemployed Stare Into the Abyss. Republicans Look Away.](https://www.nytimes.com/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
 * [Will Covid-19 Patients in Rural Areas Get the Care They Need?](https://www.nytimes.com/2020/08/04/opinion/covid-rural-hospitals.html)
 * [Brazil’s Troll Army Moves Into the Streets](https://www.nytimes.com/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
-* [Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?](https://www.nytimes.com/2020/08/04/opinion/trump-2020-electoral-college.html)
+* [Trump Can Lean on the Electoral College to Win in 2020](https://www.nytimes.com/2020/08/04/opinion/trump-2020-electoral-college.html)
 * [What Years of Emails and Texts Reveal About Your Friendly Tech Companies](https://www.nytimes.com/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
 * [We Need a Monument to the Unknown America](https://www.nytimes.com/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
 * [Disenchanted Seniors for Biden](https://www.nytimes.com/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
@@ -80,11 +80,11 @@ layout: default
 * [Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.](https://www.nytimes.com/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
 * [Turkish Aggression Is NATO’s ‘Elephant in the Room’](https://www.nytimes.com/2020/08/03/world/europe/turkey-nato.html)
 * [‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic](https://www.nytimes.com/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Summer Recreation? It’s Backordered](https://www.nytimes.com/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
 * [Welcome to Another Novel Set in Brooklyn. This One Is Different.](https://www.nytimes.com/2020/08/03/books/review/kings-county-david-goodwillie.html)
 * [Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled](https://www.nytimes.com/2020/07/31/obituaries/roland-johnson-overlooked.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Reforma tributária do governo aumenta peso de impostos e 'nova CPMF' vai encarecer produtos, diz presidente do Itaú](https://oglobo.globo.com/economia/reforma-tributaria-do-governo-aumenta-peso-de-impostos-nova-cpmf-vai-encarecer-produtos-diz-presidente-do-itau-24566466)
+* [UE abre investigação sobre compra bilionária do Fitbit pelo Google](https://oglobo.globo.com/economia/ue-abre-investigacao-sobre-compra-bilionaria-do-fitbit-pelo-google-24566589)
+* [Polícia faz vistoria em praça na Vila Valqueire onde 30 gatos foram envenenados](https://oglobo.globo.com/rio/policia-faz-vistoria-em-praca-na-vila-valqueire-onde-30-gatos-foram-envenenados-1-24566560)
 * [Empregada doméstica sofreu abuso sexual antes de ser asfixiada, revela laudo do IML](https://oglobo.globo.com/rio/empregada-domestica-sofreu-abuso-sexual-antes-de-ser-asfixiada-revela-laudo-do-iml-24566570)
+* [MPF entra com ação contra pastor Valdemiro Santiago por fake news durante a pandemia](https://oglobo.globo.com/sociedade/mpf-entra-com-acao-contra-pastor-valdemiro-santiago-por-fake-news-durante-pandemia-24566588)
+* [Dólar opera acima de R$ 5,30, diante de tensão EUA-China e reunião do Copom](https://oglobo.globo.com/economia/dolar-opera-acima-de-530-diante-de-tensao-eua-china-reuniao-do-copom-24566600)
+* [Oposição tenta derrubar decreto de Bolsonaro que altera estrutura da Abin](https://epoca.globo.com/guilherme-amado/oposicao-tenta-derrubar-decreto-de-bolsonaro-que-altera-estrutura-da-abin-24566595)
+* [Conmebol vai pagar passagens aéreas para times visitantes na Libertadores e Sul-americana](https://oglobo.globo.com/esportes/conmebol-vai-pagar-passagens-aereas-para-times-visitantes-na-libertadores-sul-americana-24566514)
+* [Consulta Pública da Ancine avalia impacto da meia-entrada nos cinemas](https://oglobo.globo.com/cultura/consulta-publica-da-ancine-avalia-impacto-da-meia-entrada-nos-cinemas-24564499)
 * [Idosos vão ter acesso irrestrito e preferencial em bancos provados e lotéricas no Rio](https://oglobo.globo.com/rio/idosos-vao-ter-acesso-irrestrito-preferencial-em-bancos-provados-lotericas-no-rio-24566540)
-* [No Rio, PF encontra R$ 3,5 milhões na casa de investigado em operação que apura desvios nos Correios](https://oglobo.globo.com/brasil/no-rio-pf-encontra-35-milhoes-na-casa-de-investigado-em-operacao-que-apura-desvios-nos-correios-24566441)
-* [Taylor Swift: 'Folklore' é o disco mais vendido do ano, depois de apenas uma semana à venda](https://oglobo.globo.com/cultura/taylor-swift-folklore-o-disco-mais-vendido-do-ano-depois-de-apenas-uma-semana-venda-24566440)
-* [Embaixador dos EUA no Brasil nega ter feito lobby por livre comércio de etanol para favorecer campanha de Trump](https://oglobo.globo.com/mundo/embaixador-dos-eua-no-brasil-nega-ter-feito-lobby-por-livre-comercio-de-etanol-para-favorecer-campanha-de-trump-24566519)
 * [Como falar sobre transformação da cultura organizacional no ambiente corporativo do ponto de vista da inclusão e diversidade?](https://oglobo.globo.com/celina/como-falar-sobre-transformacao-da-cultura-organizacional-no-ambiente-corporativo-do-ponto-de-vista-da-inclusao-diversidade-24564691)
-* [Em nova sessão de conselho, Aras faz aceno por conciliação e pede a colegas para evitar 'embates desnecessários'](https://oglobo.globo.com/brasil/em-nova-sessao-de-conselho-aras-faz-aceno-por-conciliacao-pede-colegas-para-evitar-embates-desnecessarios-24566500)
-* [Witzel sanciona lei que institui o 'Dia estadual em homenagem às vítimas da Covid-19'](https://oglobo.globo.com/rio/witzel-sanciona-lei-que-institui-dia-estadual-em-homenagem-as-vitimas-da-covid-19-24566450)
-* [OMS defende o desenvolvimento 'seguro' de vacina contra a Covid-19](https://oglobo.globo.com/sociedade/coronavirus/oms-defende-desenvolvimento-seguro-de-vacina-contra-covid-19-24566433)

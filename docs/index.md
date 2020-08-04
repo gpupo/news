@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 21:13:58 UTC
+# indexed at 04/08/2020 21:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
+* [License Zero: Comments on “The Truth Is Paywalled but the Lies Are Free”](https://blog.licensezero.com/2020/08/03/truth-paywall.html)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
 * [Magnasanti: The Largest and Most Terrifying SimCity (2010)](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
@@ -15,37 +16,36 @@ layout: default
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 * [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
-* [In Utah, These Entrepreneurs Are Creating Their Own Version of Eden](https://www.powdermountain.com/wsj-article)
+* [SHOW HN: I built an After Effects for dummies](https://storycreatorapp.com)
+* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
 * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
 * [Motherboard Specifications on MotherboardDB](https://motherboarddb.com)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
-* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
-* [Twitter faces FTC probe, likely fine over use of phone numbers for ads](https://arstechnica.com/tech-policy/2020/08/twitter-faces-ftc-probe-likely-fine-over-use-of-phone-numbers-for-ads/)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
+* [Twitter faces FTC probe, likely fine over use of phone numbers for ads](https://arstechnica.com/tech-policy/2020/08/twitter-faces-ftc-probe-likely-fine-over-use-of-phone-numbers-for-ads/)
 * [Unlearn rotation matrices as rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
-* [You May Finally Use JSHint for Evil](http://mikepennisi.com/blog/2020/jshint-watching-the-ship-sink/)
+* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
 * [Planning for My Kidnapping](https://blog.luap.info/planning-for-my-kidnapping.html)
 * [Darwin, Machines, and the Future: A conversation with George Dyson](https://www.nfx.com/post/why-your-work-matters/)
-* [Beirut Explosion](https://www.aljazeera.com/news/2020/08/huge-explosion-rocks-lebanon-capital-beirut-live-updates-200804163620414.html)
 * [Crux SQL](https://juxt.pro/blog/crux-sql)
 * [How A Cheese Goes Extinct](https://www.newyorker.com/culture/annals-of-gastronomy/how-a-cheese-goes-extinct)
-* [We quit our jobs to build a cabin](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington)
-* [SIMD Everywhere: 0.5.0](https://simd-everywhere.github.io/blog/announcements/release/2020/06/21/0.5.0-release.html)
 * [Show HN: Royalty-Free SVG Illustrations and Animations](https://www.pixeltrue.com/free-illustrations)
-* [Mux (YC W16) is hiring devs that want to help others build video (remote ok)](https://mux.com/jobs?hnj=17)
+* [SIMD Everywhere: 0.5.0](https://simd-everywhere.github.io/blog/announcements/release/2020/06/21/0.5.0-release.html)
 * [Syntax changes from C++11 to C++20](https://www.bfilipek.com/2020/08/lambda-syntax.html)
-* [The earliest domestic cat on the Silk Road](https://www.nature.com/articles/s41598-020-67798-6)
+* [We quit our jobs to build a cabin](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington)
 * [EU launches probe into Google-Fitbit takeover](https://www.bbc.co.uk/news/technology-53647570)
+* [The earliest domestic cat on the Silk Road](https://www.nature.com/articles/s41598-020-67798-6)
+* [Mux (YC W16) is hiring devs that want to help others build video (remote ok)](https://mux.com/jobs?hnj=17)
 * [Gone Phishing](https://restofworld.org/2020/how-a-forbes-cover-star-stole-millions/)
+* [1Password for Linux (Development Preview)](https://discussions.agilebits.com/discussion/114964/)
 ## nytimes.com
 
 
-* [At Least 30 Killed as Powerful Explosion Rocks Beirut: Live Updates and Video](https://www.nytimes.com/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+* [At Least 63 Killed as Powerful Explosion Rocks Beirut: Live Updates](https://www.nytimes.com/2020/08/04/world/middleeast/beirut-explosion-blast.html)
 * [Coronavirus Live Updates: Vaccine Shows Promising Results in Two Studies, U.S. Company Novavax Says](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html)
 * [N.Y.C. Health Commissioner Resigns After Clashes With Mayor Over Virus](https://www.nytimes.com/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
 * [Melbourne is a Case Study in Navigating a Second Wave of Coronavirus](https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
-* [Live 2020 Election Updates: Kris Kobach and Rashida Tlaib Are on the Primary Ballot](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+* [Live 2020 Election Updates: Kris Kobach and Rashida Tlaib Face Tough Primary Fights](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
 * [After Census Bureau Announces Early End to Its Count, Fears of a Skewed Tally Rise](https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html)
 * [In St. Louis, Testing Liberal Might Against a Democratic Fixture](https://www.nytimes.com/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
 * [Isaias Live Updates: Tornadoes Are a Threat as Storm Charges North](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html)
@@ -78,11 +78,11 @@ layout: default
 * [A Historic Supreme Court Ruling Upends Courts in Oklahoma](https://www.nytimes.com/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
 * [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](https://www.nytimes.com/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [Sam Jay: A Comic Who Belongs to No Camp](https://www.nytimes.com/2020/08/04/arts/television/sam-jay-netflix-special.html)
 * [Will Superblue Be the ‘Infinity Room’ Writ Large?](https://www.nytimes.com/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
 * [‘America, What a Country.’ Michael Dell on His Life and Business](https://www.nytimes.com/2020/07/31/business/michael-dell-corner-office.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Jorge Oliveira é o oitavo ministro diagnosticado com Covid-19](https://oglobo.globo.com/brasil/jorge-oliveira-o-oitavo-ministro-diagnosticado-com-covid-19-1-24567329)
+* ['Me sinto num filme pornô', diz advogada que foi filmada e exposta enquanto fazia ioga na Lagoa](https://oglobo.globo.com/rio/me-sinto-num-filme-porno-diz-advogada-que-foi-filmada-exposta-enquanto-fazia-ioga-na-lagoa-24567466)
+* [Vacina experimental americana contra coronavírus desenvolve anticorpos sem causar efeitos colaterais](https://oglobo.globo.com/sociedade/coronavirus/vacina-experimental-americana-contra-coronavirus-desenvolve-anticorpos-sem-causar-efeitos-colaterais-24567409)
+* [Estudante carioca conquista medalha inédita da Olimpíada Internacional de Química](https://oglobo.globo.com/rio/estudante-carioca-conquista-medalha-inedita-da-olimpiada-internacional-de-quimica-24567458)
+* [Vigilância de adversários ideológicos ficou mais fácil em tempos digitais](https://oglobo.globo.com/analitico/vigilancia-de-adversarios-ideologicos-ficou-mais-facil-em-tempos-digitais-24567406)
 * [Explosão em Beirute ocorreu onde navio brasileiro fica atracado; fragata escapa](https://oglobo.globo.com/mundo/explosao-em-beirute-ocorreu-onde-navio-brasileiro-fica-atracado-fragata-escapa-24567385)
 * [Rio registra 111 mortes e 847 novos casos do novo coronavírus em 24 horas](https://oglobo.globo.com/rio/rio-registra-111-mortes-847-novos-casos-do-novo-coronavirus-em-24-horas-24567359)
 * [Lauro e Gabeira: Viagens de Bolsonaro antecipam a campanha presidencial](https://oglobo.globo.com/podcast/lauro-gabeira-viagens-de-bolsonaro-antecipam-campanha-presidencial-24567333)
-* [Novo ministro vai manter olavista em secretaria de alfabetização](https://oglobo.globo.com/sociedade/novo-ministro-vai-manter-olavista-em-secretaria-de-alfabetizacao-24567354)
 * [Confira as perguntas e respostas sobre o retorno das aulas nas escolas particulares do Rio](https://oglobo.globo.com/rio/confira-as-perguntas-respostas-sobre-retorno-das-aulas-nas-escolas-particulares-do-rio-24567375)
 * [Em meio à polêmica, veja perguntas e respostas sobre o retorno das aulas nas escolas particulares do Rio](https://oglobo.globo.com/rio/em-meio-polemica-veja-perguntas-respostas-sobre-retorno-das-aulas-nas-escolas-particulares-do-rio-24566649)
-* [Jorge Oliveira testa positivo para Covid-19](https://epoca.globo.com/guilherme-amado/jorge-oliveira-testa-positivo-para-covid-19-24567349)
-* [Preços dos imóveis sobem no país em julho, mas caem no Rio de Janeiro](https://oglobo.globo.com/economia/precos-dos-imoveis-sobem-no-pais-em-julho-mas-caem-no-rio-de-janeiro-24567315)
 * [Deputado bolsonarista discurso em evento do PSL: 'O PSL é da base do presidente'](https://epoca.globo.com/guilherme-amado/deputado-bolsonarista-discurso-em-evento-do-psl-psl-da-base-do-presidente-24567266)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 10:14:23 UTC
+# indexed at 04/08/2020 10:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -15,14 +15,15 @@ layout: default
 * [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 * [How to build great products (2013)](https://www.defmacro.org/2013/09/26/products.html)
 * [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
-* [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
 * [Dan Ariely and Irrational Comparison](https://brendancahill.io/brensblog/danariely)
+* [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
 * [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [United Airlines Plans to Resume Service on More Than 25 International Routes](https://kokpitherald.com/united-airlines-plans-to-resume-service-on-more-than-25-international-routes-in-september/)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
-* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
-* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
 * [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
+* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [New insights into “bradykinin storms” suggest potential therapies for Covid-19](https://spectrum.ieee.org/the-human-os/computing/hardware/has-the-summit-supercomputer-cracked-the-covid-code)
 * [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
 * [TikTok and Microsoft’s Clock](https://500ish.com/tiktok-and-microsofts-clock-c4c9fd082b89)
@@ -32,12 +33,11 @@ layout: default
 * [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
 * [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
-* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
+* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
 * [Go vs. Rust: Writing a CLI Tool](https://cuchi.me/posts/go-vs-rust)
 * [Turnitin and the Debate over Anti-Plagiarism Software (2014)](https://www.npr.org/sections/ed/2014/08/25/340112848/turnitin-and-the-high-tech-plagiarism-debate)
-* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [Distrust of the Minneapolis Police, and Also the Effort to Defund Them](https://www.nytimes.com/2020/08/04/us/minneapolis-defund-police.html)
 * [The Mayor Blames the Virus for Shootings. Here’s What Crime Data Shows.](https://www.nytimes.com/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
 * [Behrouz Boochani Just Wants to Be Free](https://www.nytimes.com/2020/08/04/magazine/behrouz-boochani-australia.html)
+* [Miles Apart on Coronavirus Relief](https://www.nytimes.com/2020/08/04/briefing/coronavirus-relief-primary-elections-isaias-your-tuesday-briefing.html)
 * [How Tropical Storm Isaias Will Affect New York](https://www.nytimes.com/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
 * [Is the U.S. Ready to Vote by Mail?](https://www.nytimes.com/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -69,20 +70,20 @@ layout: default
 * [The Good News About What Human Genius Can Still Do](https://www.nytimes.com/2020/08/03/opinion/spacex-stonehenge-mars.html)
 * [The Caribbean Dilemma](https://www.nytimes.com/2020/08/04/travel/coronavirus-caribbean-vacations.html)
 * [‘Life of a Klansman’ Tells Ugly Truths About America, Past and Present](https://www.nytimes.com/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
+* [Business Updates: BP Reports a Deep Loss and Cuts Its Dividend](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus)
 * [Juan Carlos, Spain’s Former King, Quits Country Amid Multiple Investigations](https://www.nytimes.com/2020/08/03/world/europe/juan-carlos-leaves-spain.html)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency](https://www.nytimes.com/2020/08/03/us/politics/merritt-corrigan-usaid.html)
 * [William English, Who Helped Build the Computer Mouse, Dies at 91](https://www.nytimes.com/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
-* [Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease](https://www.nytimes.com/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
 * [Hurricane Makes Landfall in North Carolina](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.](https://www.nytimes.com/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
 * [Turkish Aggression Is NATO’s ‘Elephant in the Room’](https://www.nytimes.com/2020/08/03/world/europe/turkey-nato.html)
 * [‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic](https://www.nytimes.com/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
 * [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)

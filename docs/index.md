@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 03:14:04 UTC
+# indexed at 04/08/2020 03:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -14,29 +14,29 @@ layout: default
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
-* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
+* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
 * [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
 * [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
-* [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
 * [Blizzard workers share salaries in revolt over wage disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
+* [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
-* [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
-* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
+* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
-* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
 * [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
+* [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
+* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
+* [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
 * [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
-* [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
 * [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
 ## nytimes.com
 
@@ -49,7 +49,7 @@ layout: default
 * [Disputed Ballots Must Be Counted in N.Y. Congressional Race, U.S. Judge Rules](https://www.nytimes.com/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
 * [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](https://www.nytimes.com/2020/08/03/business/economy/trump-tiktok-china-business.html)
 * [Trump Says Microsoft Can Bid for TikTok](https://www.nytimes.com/2020/08/03/technology/trump-tiktok-microsoft.html)
-* [Isaias Live Updates: Hurricane Is Expected to Make Landfall Tonight](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
+* [Isaias Live Updates: Hurricane Nears North Carolina](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71](https://www.nytimes.com/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
 * [Waldemar Gonzalez, Social Worker Who Drew on His Own Hard Life, Dies at 72](https://www.nytimes.com/2020/07/30/obituaries/waldemar-gonzalez-dead-coronavirus.html)
 * [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](https://www.nytimes.com/2020/08/03/arts/music/creem-magazine-documentary.html)
@@ -77,12 +77,12 @@ layout: default
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](https://www.nytimes.com/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
-* [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [Taking a Spear Into the Sea, and Washing Anxiety Away](https://www.nytimes.com/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
 * [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)
@@ -98,7 +98,7 @@ layout: default
 ## globo.com
 
 
-* [CBF adia Botafogo x Bahia por causa de conflito com estadual](https://oglobo.globo.com/esportes/cbf-adia-botafogo-bahia-por-causa-de-conflito-com-estadual-24566217)
+* [CBF adia Botafogo x Bahia, pelo Brasileirão, por causa de conflito com estadual](https://oglobo.globo.com/esportes/cbf-adia-botafogo-bahia-pelo-brasileirao-por-causa-de-conflito-com-estadual-24566217)
 * [Rodrigo Maia diz que Bolsonaro não cometeu crimes que justifiquem impeachment](https://oglobo.globo.com/brasil/rodrigo-maia-diz-que-bolsonaro-nao-cometeu-crimes-que-justifiquem-impeachment-24566220)
 * [Estado da Austrália impõe multa de quase R$ 20 mil para quem estiver infectado e violar isolamento contra Covid-19](https://oglobo.globo.com/mundo/estado-da-australia-impoe-multa-de-quase-20-mil-para-quem-estiver-infectado-violar-isolamento-contra-covid-19-24566213)
 * [Justiça do Rio mantém medida que impede remoção compulsória da população de rua pela prefeitura](https://oglobo.globo.com/rio/justica-do-rio-mantem-medida-que-impede-remocao-compulsoria-da-populacao-de-rua-pela-prefeitura-24565571)

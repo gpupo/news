@@ -2,13 +2,14 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 08:16:20 UTC
+# indexed at 04/08/2020 08:35:01 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
+* [The best Parts of Visual Studio Code are proprietary](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html)
 * [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
 * [Making Advanced GUI Applications with Godot](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
@@ -21,23 +22,22 @@ layout: default
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
 * [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
-* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
 * [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
+* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
+* [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
-* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
+* [TikTok and Microsoft’s Clock](https://500ish.com/tiktok-and-microsofts-clock-c4c9fd082b89)
 * [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
-* [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
 * [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
-* [Turnitin and the Debate over Anti-Plagiarism Software (2014)](https://www.npr.org/sections/ed/2014/08/25/340112848/turnitin-and-the-high-tech-plagiarism-debate)
-* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
+* [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
 * [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
+* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
+* [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
+* [Turnitin and the Debate over Anti-Plagiarism Software (2014)](https://www.npr.org/sections/ed/2014/08/25/340112848/turnitin-and-the-high-tech-plagiarism-debate)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
-* [TikTok and Microsoft’s Clock](https://500ish.com/tiktok-and-microsofts-clock-c4c9fd082b89)
-* [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 ## nytimes.com
 
 
@@ -77,9 +77,9 @@ layout: default
 * [‘I Am Scared’: Italian Sex Workers Face Poverty and Illness In the Pandemic](https://www.nytimes.com/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
 * [Taking a Spear Into the Sea, and Washing Anxiety Away](https://www.nytimes.com/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
@@ -96,13 +96,13 @@ layout: default
 ## globo.com
 
 
+* [Médico que fez hidrolipo em MC Atrevida foi condenado por erro em diagnóstico de paciente](https://oglobo.globo.com/rio/medico-que-fez-hidrolipo-em-mc-atrevida-foi-condenado-por-erro-em-diagnostico-de-paciente-24565639)
 * [Planalto intervém para evitar esvaziamento de bloco de Lira](https://oglobo.globo.com/brasil/planalto-intervem-para-evitar-esvaziamento-de-bloco-de-lira-1-24565583)
 * [André Kfouri: Humildade de Torrent pode ser a maior transformação no Flamengo após Jorge Jesus](https://oglobo.globo.com/esportes/andre-kfouri-humildade-de-torrent-pode-ser-maior-transformacao-no-flamengo-apos-jorge-jesus-24566181)
 * [Os planos de uma 'nova CPMF' para transações digitais](https://oglobo.globo.com/podcast/os-planos-de-uma-nova-cpmf-para-transacoes-digitais-24565898)
+* [Por que a CBF não adia toda a primeira rodada do Brasileirão](https://oglobo.globo.com/esportes/por-que-cbf-nao-adia-toda-primeira-rodada-do-brasileirao-1-24566235)
 * [No Brasileirão, CBF não exigirá teste de Covid-19 a todos no estádio: 'Igual a shopping'](https://oglobo.globo.com/esportes/no-brasileirao-cbf-nao-exigira-teste-de-covid-19-todos-no-estadio-igual-shopping-1-24565466)
 * [O jogo de R$ 1 bilhão: saiba por que Brentford x Fulham é o duelo mais valioso do mundo](https://oglobo.globo.com/esportes/o-jogo-de-1-bilhao-saiba-por-que-brentford-fulham-o-duelo-mais-valioso-do-mundo-24566182)
 * ['Países com controle do vírus terão investimento', diz a economista Monica de Bolle](https://oglobo.globo.com/economia/paises-com-controle-do-virus-terao-investimento-diz-economista-monica-de-bolle-24565319)
-* [Auxílio emergencial: prorrogação de benefício foi marcado por idas e vindas](https://oglobo.globo.com/economia/auxilio-emergencial-prorrogacao-de-beneficio-foi-marcado-por-idas-vindas-24564770)
-* [Criticado pelo governo, Iphan comemora 20 anos de política pioneira do patrimônio imaterial](https://oglobo.globo.com/cultura/criticado-pelo-governo-iphan-comemora-20-anos-de-politica-pioneira-do-patrimonio-imaterial-24561284)
+* [Hospital Albert Schweitzer investiga morte de paciente uma semana após ela dar à luz um bebê na unidade](https://oglobo.globo.com/rio/hospital-albert-schweitzer-investiga-morte-de-paciente-uma-semana-apos-ela-dar-luz-um-bebe-na-unidade-1-24565305)
 * [Distribuição de leitos exclusivos para Covid-19 expõe desigualdade no sistema de saúde do país](https://oglobo.globo.com/sociedade/distribuicao-de-leitos-exclusivos-para-covid-19-expoe-desigualdade-no-sistema-de-saude-do-pais-24565269)
-* [Três dicas valiosas para o uso da máscara de cílios](https://oglobo.globo.com/ela/beleza/maquiagem/tres-dicas-valiosas-para-uso-da-mascara-de-cilios-24558823)

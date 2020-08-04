@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 05:14:00 UTC
+# indexed at 04/08/2020 05:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -21,23 +21,23 @@ layout: default
 * [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
-* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
-* [Blizzard workers share salaries in revolt over wage disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
+* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
+* [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
 * [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
 * [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
-* [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
+* [Blizzard workers share salaries in revolt over wage disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
 * [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
-* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
 * [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
 * [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
+* [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
-* [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 * [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
-* [Open Source PCR Thermocycler](https://openpcr.org/)
+* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
 * [A Close Call: How a Near Failure Propelled Me to Succeed [pdf]](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)
+* [Open Source PCR Thermocycler](https://openpcr.org/)
 ## nytimes.com
 
 
@@ -49,7 +49,7 @@ layout: default
 * [Disputed Ballots Must Be Counted in N.Y. Congressional Race, U.S. Judge Rules](https://www.nytimes.com/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
 * [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](https://www.nytimes.com/2020/08/03/business/economy/trump-tiktok-china-business.html)
 * [Trump Says Microsoft Can Bid for TikTok](https://www.nytimes.com/2020/08/03/technology/trump-tiktok-microsoft.html)
-* [Isaias Live Updates: Hurricane Makes Landfall in North Carolina](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
+* [Hurricane Isaias Makes Landfall in North Carolina](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 * [Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71](https://www.nytimes.com/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
 * [Waldemar Gonzalez, Social Worker Who Drew on His Own Hard Life, Dies at 72](https://www.nytimes.com/2020/07/30/obituaries/waldemar-gonzalez-dead-coronavirus.html)
 * [Stimulus Stalemate, Medical Bills, TikTok: Your Monday Evening Briefing](https://www.nytimes.com/2020/08/03/briefing/stimulus-medical-bills-tiktok.html)
@@ -77,11 +77,11 @@ layout: default
 * [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](https://www.nytimes.com/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
 * [Taking a Spear Into the Sea, and Washing Anxiety Away](https://www.nytimes.com/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
 * [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 02:15:51 UTC
+# indexed at 04/08/2020 02:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Treating children for worms yields long-term benefits, says new study](https://news.berkeley.edu/2020/08/03/treating-children-for-worms-yields-long-term-benefits-says-new-study/)
 * [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
-* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
-* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
-* [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
+* [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
+* [Court ruling clears way for energy storage on the grid](https://www.forbes.com/sites/edhirs/2020/08/02/court-ruling-clears-way-for-energy-storage-on-the-grid-who-benefits/)
 * [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
+* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
+* [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
 * [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
-* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
-* [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
 * [Blizzard workers share salaries in revolt over wage disparities](https://www.bloomberg.com/news/articles/2020-08-03/blizzard-workers-share-salaries-in-revolt-over-wage-disparities)
-* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
+* [Stingrays and Dirtboxes: how cops can secretly track your phone](https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/)
 * [System UIcons – icons designed for products, no attribution](https://systemuicons.com/)
-* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
 * [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
+* [OpenSSF: Open Source Security Foundation](https://github.com/ossf)
+* [Astronomers solve the missing baryon problem](https://astronomy.com/news/2020/06/half-the-matter-in-the-cosmos-was-missing-but-astronomers-found-it)
 * [Google to buy 6.6% stake in ADT in home security push](https://www.reuters.com/article/us-google-adt-stake-idUSKBN24Z1A6)
+* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
 * [DeepDream: How Alexander Mordvintsev excavated the computer’s hidden layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
-* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [One-third of New York’s small businesses may be gone forever](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
+* [A gentle intro to assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 * [Thoughts on Voice Interfaces](https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
-* [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
-* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
 * [OpenJDK Comes to Windows 10 on ARM](https://www.infoq.com/news/2020/08/openjdk-win10-arm)
-* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
+* [Google ‘BigBird’ Achieves SOTA Performance on Long-Context NLP Tasks](https://syncedreview.com/2020/08/03/google-bigbird-achieves-sota-performance-on-long-context-nlp-tasks/)
+* [Trump gives Microsoft 45 days to clinch TikTok deal](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive-idUSKBN24Y0UD)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](https://www.nytimes.com/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
 * [These Remarks Might Get a Police Chief Fired. Not in New York.](https://www.nytimes.com/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
 * [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
 * [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)
@@ -98,6 +98,7 @@ layout: default
 ## globo.com
 
 
+* [Ministério da Justiça demite chefe da área que investigou opositores de Bolsonaro](https://epoca.globo.com/guilherme-amado/ministerio-da-justica-demite-chefe-da-area-que-investigou-opositores-de-bolsonaro-24565034)
 * [Justiça do Rio mantém medida que impede remoção compulsória da população de rua pela prefeitura](https://oglobo.globo.com/rio/justica-do-rio-mantem-medida-que-impede-remocao-compulsoria-da-populacao-de-rua-pela-prefeitura-24565571)
 * [Em depoimento, Queiroz diz que deu 'satisfação' a Flávio Bolsonaro sobre 'rachadinha'](https://oglobo.globo.com/brasil/em-depoimento-queiroz-diz-que-deu-satisfacao-flavio-bolsonaro-sobre-rachadinha-24565498)
 * [Relatório da ONU aponta que Coreia do Norte acelerou desenvolvimento de armas nucleares](https://oglobo.globo.com/mundo/relatorio-da-onu-aponta-que-coreia-do-norte-acelerou-desenvolvimento-de-armas-nucleares-24565423)
@@ -107,4 +108,3 @@ layout: default
 * [Almodóvar exibe seu primeiro filme em inglês no Festival de Veneza](https://oglobo.globo.com/cultura/almodovar-exibe-seu-primeiro-filme-em-ingles-no-festival-de-veneza-24565424)
 * [Credores do Equador aceitam plano de reestruturação de dívida](https://oglobo.globo.com/mundo/credores-do-equador-aceitam-plano-de-reestruturacao-de-divida-24565333)
 * [Bolsonaro cria Centro de Inteligência Nacional na Abin para enfrentar 'ameaças à segurança do Estado'](https://oglobo.globo.com/brasil/bolsonaro-cria-centro-de-inteligencia-nacional-na-abin-para-enfrentar-ameacas-seguranca-do-estado-1-24565334)
-* [Ministério da Justiça demite chefe da área que investigou opositores de Bolsonaro](https://epoca.globo.com/guilherme-amado/ministerio-da-justica-demite-chefe-da-area-que-investigou-opositores-de-bolsonaro-24565034)

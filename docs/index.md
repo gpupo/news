@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 11:13:21 UTC
+# indexed at 04/08/2020 11:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -16,35 +16,35 @@ layout: default
 * [United Airlines Plans to Resume Service on More Than 25 International Routes](https://kokpitherald.com/united-airlines-plans-to-resume-service-on-more-than-25-international-routes-in-september/)
 * [Dan Ariely and Irrational Comparison](https://brendancahill.io/brensblog/danariely)
 * [Neanderthal gene linked to increased pain sensitivity](https://www.nature.com/articles/d41586-020-02202-x)
-* [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
 * [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 [video]](https://www.youtube.com/watch?v=KVgoy_a_gWI)
-* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
 * [TikTok and Microsoft’s Clock](https://500ish.com/tiktok-and-microsofts-clock-c4c9fd082b89)
+* [Launch HN: Stacker (YC S20) – Create Apps from Airtable or Google Sheets](https://news.ycombinator.com/item?id=24037118)
+* [Django 3.1](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/)
 * [PP-YOLO Surpasses YOLOv4 – State-of-the-art object detection techniques](https://blog.roboflow.ai/pp-yolo-beats-yolov4-object-detection/)
-* [U.S. FAA proposes requiring key Boeing 737 MAX design changes](https://www.reuters.com/article/us-boeing-737max-idUSKCN24Z2HK)
 * [Learn Functional Programming Design from Redux](https://pitayan.com/posts/redux-fp-design/?ref=hackernews)
+* [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
 * [The mine that built the atomic bomb](https://www.bbc.com/future/article/20200803-the-forgotten-mine-that-built-the-atomic-bomb)
 * [New insights into “bradykinin storms” suggest potential therapies for Covid-19](https://spectrum.ieee.org/the-human-os/computing/hardware/has-the-summit-supercomputer-cracked-the-covid-code)
-* [OpenDyslexic: A Typeface for Dyslexia](https://www.opendyslexic.org/)
+* [Lessons from the use of personal knowledge questions at Google (2015) [pdf]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)
 * [Ask HN: Who is hiring? (August 2020)](https://news.ycombinator.com/item?id=24038520)
 * [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * [Go vs. Rust: Writing a CLI Tool](https://cuchi.me/posts/go-vs-rust)
 * [New analysis method predicts disruptive solar flares](https://phys.org/news/2020-07-analysis-method-disruptive-solar-flares.html)
-* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
 * [Open Source PCR Thermocycler](https://openpcr.org/)
+* [Why is America stuck with bad headlights?](https://www.caranddriver.com/features/columns/a33447381/why-is-america-stuck-with-bad-headlights/)
 * [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking)
 * [Harry Potter and the Mnemonic Major System](https://darkshadow.io/2020/07/09/harry-potter-and-the-mnemonic-major-system.html)
 * [Google announces Pixel 5, Pixel 4A 5G, and Pixel 4A](https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs)
 * [Physical attractiveness bias in the legal system (2017)](https://www.thelawproject.com.au/insights/attractiveness-bias-in-the-legal-system)
 * [Ask HN: Who wants to be hired? (August 2020)](https://news.ycombinator.com/item?id=24038518)
-* [Turnitin and the Debate over Anti-Plagiarism Software (2014)](https://www.npr.org/sections/ed/2014/08/25/340112848/turnitin-and-the-high-tech-plagiarism-debate)
+* [One year of automatic DB migrations from Git](https://abe-winter.github.io/2020/08/03/yr-of-git.html)
 ## nytimes.com
 
 
 * [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](https://www.nytimes.com/2020/08/03/business/economy/trump-tiktok-china-business.html)
 * [The Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With It.](https://www.nytimes.com/2020/08/04/us/politics/trump-homeland-security.html)
-* [When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.](https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
 * [Coronavirus Live Updates: Fight Over Aid Package Drags On](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
+* [When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.](https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
 * [‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust](https://www.nytimes.com/2020/08/04/business/coronavirus-struggling-caterers.html)
 * [Today’s Primary Elections: What to Watch For](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
 * [From Outsider to Insider: Karen Bass’s Unexpected Journey to Power](https://www.nytimes.com/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
@@ -79,16 +79,16 @@ layout: default
 * [Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.](https://www.nytimes.com/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
 * [Turkish Aggression Is NATO’s ‘Elephant in the Room’](https://www.nytimes.com/2020/08/03/world/europe/turkey-nato.html)
 * [‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic](https://www.nytimes.com/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [How to Ace an Online Job Interview](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](https://www.nytimes.com/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
-* [Lady Macbeth in Appalachia, and Other Tales by an American Master](https://www.nytimes.com/2020/08/02/books/ron-rash-in-valley-serena.html)
-* [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](https://www.nytimes.com/2020/07/31/t-magazine/design-bothy-anstruther.html)
-* [For Greece’s Theaters, the Coronavirus Is a Tragedy](https://www.nytimes.com/2020/07/30/theater/greece-theater-austerity-coronavirus.html)
-* [Bored With Your Home Cooking? Some Smoky Eggplant Will Fix That](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [Summer Recreation? It’s Backordered](https://www.nytimes.com/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+* [Welcome to Another Novel Set in Brooklyn. This One Is Different.](https://www.nytimes.com/2020/08/03/books/review/kings-county-david-goodwillie.html)
+* [Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled](https://www.nytimes.com/2020/07/31/obituaries/roland-johnson-overlooked.html)
+* [Seth Meyers: After TikTok, Trump Could Ban Candy Crush](https://www.nytimes.com/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
+* [A W.N.B.A. Coach Heard a Call to Feed the Hungry. She’s Answering It.](https://www.nytimes.com/2020/07/30/sports/basketball/wnba-bridget-pettis.html)
 * [How Hot is Too Hot?](https://www.nytimes.com/2020/08/04/science/randall-munroe-xkcd-temperature.html)
 * [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](https://www.nytimes.com/2020/08/03/science/beetle-frog-poop.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
@@ -103,10 +103,10 @@ layout: default
 ## globo.com
 
 
+* [Caitlyn Jenner defende Kanye West enquanto Kim diz querer manter casamento 'pelas crianças'](https://oglobo.globo.com/ela/gente/caitlyn-jenner-defende-kanye-west-enquanto-kim-diz-querer-manter-casamento-pelas-criancas-24566321)
+* [MP do FGTS: Congresso deve autorizar saque nos casos de pedido de demissão em votação nesta terça](https://oglobo.globo.com/economia/mp-do-fgts-congresso-deve-autorizar-saque-nos-casos-de-pedido-de-demissao-em-votacao-nesta-terca-24566289)
 * [Piloto de megatraficantes tentou fugir de caças da FAB antes de ser preso com 516 kg de cocaína](https://epoca.globo.com/brasil/piloto-de-megatraficantes-tentou-fugir-de-cacas-da-fab-antes-de-ser-preso-com-516-kg-de-cocaina-24564889)
 * [Brasil tem 2.755.081 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-2755081-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24566297)
-* [MP DO FGTS: Congresso deve autorizar o saque nos casos de pedido de demissão](https://oglobo.globo.com/economia/mp-do-fgts-congresso-deve-autorizar-saque-nos-casos-de-pedido-de-demissao-1-24566289)
-* [Malala defende Fundeb e diz que não há meritocracia no Brasil sem igualdade na educação](https://epoca.globo.com/sociedade/malala-defende-fundeb-diz-que-nao-ha-meritocracia-no-brasil-sem-igualdade-na-educacao-24566261)
 * [STJ: ministros que julgarão recurso pela volta de Queiroz à cadeia raramente permitem prisão domiciliar](https://epoca.globo.com/brasil/stj-ministros-que-julgarao-recurso-pela-volta-de-queiroz-cadeia-raramente-permitem-prisao-domiciliar-24566270)
 * [Decisão de parte da oposição venezuelana de não participar das legislativas evidencia fragilidade de Guaidó](https://oglobo.globo.com/mundo/decisao-de-parte-da-oposicao-venezuelana-de-nao-participar-das-legislativas-evidencia-fragilidade-de-guaido-1-24564444)
 * [Em casa ou no restaurante, opções para comemorar o Dia dos Pais de um jeito especial](https://oglobo.globo.com/rio/bairros/em-casa-ou-no-restaurante-opcoes-para-comemorar-dia-dos-pais-de-um-jeito-especial-24559372)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 04/08/2020 19:13:48 UTC
+# indexed at 04/08/2020 19:35:21 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,39 @@ layout: default
 
 * [We Quit Our Jobs to Build a Cabin – Everything Went Wrong](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
-* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
 * [Magnasanti: The Largest and Most Terrifying SimCity](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
+* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 * [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
+* [Concepts – Laws, Principles, Mental Models, Cognitive Biases](https://github.com/lukasz-madon/awesome-concepts)
 * [Motherboard Specifications on MotherboardDB](https://motherboarddb.com)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
-* [Mux (YC W16) is hiring devs that want to help others build video (remote ok)](https://mux.com/jobs?hnj=17)
 * [Unlearn Rotation Matrices as Rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
-* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
-* [Crux SQL](https://juxt.pro/blog/crux-sql)
 * [Twitter used phone numbers provided for security to target ads (2019)](https://www.theverge.com/2019/10/8/20905383/twitter-phone-numbers-email-addresses-targeted-advertising)
+* [Mux (YC W16) is hiring devs that want to help others build video (remote ok)](https://mux.com/jobs?hnj=17)
+* [Crux SQL](https://juxt.pro/blog/crux-sql)
 * [Syntax changes from C++11 to C++20](https://www.bfilipek.com/2020/08/lambda-syntax.html)
-* [Concepts – Laws, Principles, Mental Models, Cognitive Biases](https://github.com/lukasz-madon/awesome-concepts)
 * [Planning for My Kidnapping](https://blog.luap.info/planning-for-my-kidnapping.html)
-* [Show HN: Royalty-Free SVG Illustrations and Animations](https://www.pixeltrue.com/free-illustrations)
+* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [SIMD Everywhere: 0.5.0](https://simd-everywhere.github.io/blog/announcements/release/2020/06/21/0.5.0-release.html)
+* [Show HN: Royalty-Free SVG Illustrations and Animations](https://www.pixeltrue.com/free-illustrations)
+* [Ask HN: Do you have a daily cash stream?](https://news.ycombinator.com/item?id=24047683)
 * [Why Your Work Matters: Darwin, Machines, & the Future We're Building](https://www.nfx.com/post/why-your-work-matters/)
 * [Twitter faces FTC probe, likely fine over use of phone numbers for ads](https://arstechnica.com/tech-policy/2020/08/twitter-faces-ftc-probe-likely-fine-over-use-of-phone-numbers-for-ads/)
+* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 * [Test-First Machine Learning](https://codingossip.github.io/2020/test-first-machine-learning/)
 * [Show HN: Starboard – Fully in-browser literate notebooks like Jupyter Notebook](https://starboard.gg)
 * [Windows 10: HOSTS file blocking telemetry is now flagged as a risk](https://www.bleepingcomputer.com/news/microsoft/windows-10-hosts-file-blocking-telemetry-is-now-flagged-as-a-risk/)
 * [The earliest domestic cat on the Silk Road](https://www.nature.com/articles/s41598-020-67798-6)
-* [Ask HN: Do you have a daily cash stream?](https://news.ycombinator.com/item?id=24047683)
 * [EU launches probe into Google-Fitbit takeover](https://www.bbc.co.uk/news/technology-53647570)
-* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-* [Turkish Lira Rates Blow Out to 1000% After Currency Intervention](https://www.bloomberg.com/news/articles/2020-08-04/turkish-lira-rates-blow-out-to-1000-after-currency-intervention)
+* [You May Finally Use JSHint for Evil](http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/)
 ## nytimes.com
 
 
 * [Beirut Explosion: Live Video and Updates](https://www.nytimes.com/2020/08/04/world/middleeast/beirut-explosion-blast.html)
-* [Live Coronavirus Tracker](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html)
+* [Live Coronavirus Tracker: Public and Private School Reopening Divide Emerges](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html)
 * [The United States Is Reopening Many of the Wrong Schools](https://www.nytimes.com/2020/08/03/business/how-schools-reopen.html)
 * [Melbourne is a Case Study in Navigating a Second Wave of Coronavirus](https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
 * [Live 2020 Election Updates: Kris Kobach and Rashida Tlaib Are on the Primary Ballot](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
@@ -78,11 +78,11 @@ layout: default
 * [A Historic Supreme Court Ruling Upends Courts in Oklahoma](https://www.nytimes.com/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
 * [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](https://www.nytimes.com/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
 * [As the Virus Spreads Through M.L.B., So Does Frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Sam Jay: A Comic Who Belongs to No Camp](https://www.nytimes.com/2020/08/04/arts/television/sam-jay-netflix-special.html)
 * [Will Superblue Be the ‘Infinity Room’ Writ Large?](https://www.nytimes.com/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
 * [‘America, What a Country.’ Michael Dell on His Life and Business](https://www.nytimes.com/2020/07/31/business/michael-dell-corner-office.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Cármen dá 48 horas para governo prestar esclarescimentos sobre relatório com dados de opositores](https://oglobo.globo.com/brasil/carmen-da-48-horas-para-governo-prestar-esclarescimentos-sobre-relatorio-com-dados-de-opositores-24567066)
+* [FGTS: Câmara decide deixar MP que autoriza saques de até 1.045 caducar, mas calendário de pagamento será mantido](https://oglobo.globo.com/economia/fgts-camara-decide-deixar-mp-que-autoriza-saques-de-ate-1045-caducar-mas-calendario-de-pagamento-sera-mantido-1-24567056)
+* [Cármen dá 48 horas para governo prestar esclarecimentos sobre relatório com dados de opositores](https://oglobo.globo.com/brasil/carmen-da-48-horas-para-governo-prestar-esclarecimentos-sobre-relatorio-com-dados-de-opositores-24567066)
 * [Deputados avaliam pelo menos três formas de criminalizar propagação de fake news](https://oglobo.globo.com/brasil/deputados-avaliam-pelo-menos-tres-formas-de-criminalizar-propagacao-de-fake-news-24567067)
-* [Alvo de suposto dossiê cobra esclarecimento do Ministério da Justiça e pede acesso ao relatório](https://oglobo.globo.com/brasil/alvo-de-suposto-dossie-cobra-esclarecimento-do-ministerio-da-justica-pede-acesso-ao-relatorio-24567068)
-* [Ex-presidente da Colômbia Álvaro Uribe diz que Corte Suprema ordenou sua detenção](https://oglobo.globo.com/mundo/ex-presidente-da-colombia-alvaro-uribe-diz-que-corte-suprema-ordenou-sua-detencao-24567020)
-* [Planalto tem 70 novos registros de coronavírus em menos de um mês](https://oglobo.globo.com/brasil/planalto-tem-70-novos-registros-de-coronavirus-em-menos-de-um-mes-24567045)
-* [FGTS: Câmara decide deixar Medida Provisória que amplia saques perder validade](https://oglobo.globo.com/economia/fgts-camara-decide-deixar-medida-provisoria-que-amplia-saques-perder-validade-24567056)
-* [Projeto que limita taxa de juro do cartão de crédito e cheque especial entra na pauta do Senado](https://oglobo.globo.com/economia/projeto-que-limita-taxa-de-juro-do-cartao-de-credito-cheque-especial-entra-na-pauta-do-senado-24567072)
+* [Planalto tem 70 novos registros de coronavírus em menos de um mês](https://oglobo.globo.com/brasil/planalto-tem-70-novos-registros-de-coronavirus-em-menos-de-um-mes-1-24567045)
+* [Kodak: Regulador do mercado americano vai investigar salto superior a 1.000% nas ações da empresa](https://oglobo.globo.com/economia/kodak-regulador-do-mercado-americano-vai-investigar-salto-superior-1000-nas-acoes-da-empresa-24567043)
 * [Volta às aulas: pais apontam vontade dos alunos como motivo para adesão; na Freguesia, presença foi de quase 20%](https://oglobo.globo.com/rio/volta-as-aulas-pais-apontam-vontade-dos-alunos-como-motivo-para-adesao-na-freguesia-presenca-foi-de-quase-20-24566901)
-* [Setor privado vai investir R$ 5,5 bi em saneamento até 2021, diz Sindcon](https://oglobo.globo.com/economia/setor-privado-vai-investir-55-bi-em-saneamento-ate-2021-diz-sindcon-24566788)
+* [Aras adota discrição e portas fechadas, mas mantém investida contra Lava-Jato](https://oglobo.globo.com/analitico/aras-adota-discricao-portas-fechadas-mas-mantem-investida-contra-lava-jato-24567095)
+* [Alvo de suposto dossiê cobra esclarecimento do Ministério da Justiça e pede acesso a relatório](https://oglobo.globo.com/brasil/alvo-de-suposto-dossie-cobra-esclarecimento-do-ministerio-da-justica-pede-acesso-relatorio-24567068)
+* [Projeto que limita taxa de juro do cartão de crédito e cheque especial entra na pauta do Senado](https://oglobo.globo.com/economia/projeto-que-limita-taxa-de-juro-do-cartao-de-credito-cheque-especial-entra-na-pauta-do-senado-24567072)
 * [Gleisi promete ao PSB que não haverá baixaria na disputa entre os partidos no Recife](https://epoca.globo.com/guilherme-amado/gleisi-promete-ao-psb-que-nao-havera-baixaria-na-disputa-entre-os-partidos-no-recife-24566890)

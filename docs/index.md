@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 10:14:27 UTC
+# indexed at 05/08/2020 10:34:52 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
+* [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
 * [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
 * [Bayes Theorem: A Framework for Critical Thinking](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
-* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
-* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
+* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
+* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
 * [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
@@ -26,18 +26,18 @@ layout: default
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
 * [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
-* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
+* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
 * [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
+* [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
 * [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
-* [SpaceX hop Starship SN-5](https://www.youtube.com/watch?v=NJR4gZBLMNw)
 * [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 * [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
 * [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
+* [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 * [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
 * [China Uighurs: A model's video gives a rare glimpse inside internment (BBC News)](https://www.bbc.com/news/world-asia-china-53650246)
-* [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 ## nytimes.com
 
 
@@ -52,21 +52,22 @@ layout: default
 * [N.Y.C. Schools Reopening: The Whole Country Is Watching](https://www.nytimes.com/2020/08/05/nyregion/nyc-schools-reopening.html)
 * [Why Are Child Care Programs Open When Schools Are Not?](https://www.nytimes.com/2020/08/04/parenting/schools-day-care-children-divide.html)
 * [When the Bronx Was a Forest: Stroll Through the Centuries](https://www.nytimes.com/2020/08/05/arts/design/bronx-virtual-tour.html)
+* [Who Gets Counted?](https://www.nytimes.com/2020/08/05/briefing/beirut-isaias-cori-bush-your-wednesday-briefing.html)
 * [Why N.Y.C. Has a New Health Commissioner](https://www.nytimes.com/2020/08/05/nyregion/oxiris-barbot-nyc-health-commissioner.html)
 * [‘Stay Black and Die’](https://www.nytimes.com/2020/08/05/podcasts/the-daily/protests-racism-police-brutality.html)
 * [The ‘Seductive Lure’ of Authoritarianism](https://www.nytimes.com/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Allan Lichtman Predicted Trump's Win in 2016. Now He's Ready to Call 2020.](https://www.nytimes.com/2020/08/05/opinion/2020-election-prediction-allan-lichtman.html)
 * [It’s Not Just You. We’ve All Got a Case of the Covid-19 Blues.](https://www.nytimes.com/2020/08/05/opinion/coronavirus-mental-illness-depression.html)
+* [Why Edmund Burke Still Matters](https://www.nytimes.com/2020/08/05/opinion/edmund-burke.html)
 * [Will Bill Barr Try to Help Trump Win the Election?](https://www.nytimes.com/2020/08/05/opinion/bill-barr-trump-biden-2020.html)
-* [Coronavirus Contract Tracing Chaos After Our Backyard Dinner](https://www.nytimes.com/2020/08/05/opinion/coronavirus-exposure-contact-tracing.html)
 * [We Need to Talk About ‘Indian Matchmaking’](https://www.nytimes.com/2020/08/05/opinion/indian-matchmaking-netflix.html)
+* [Coronavirus Contract Tracing Chaos After Our Backyard Dinner](https://www.nytimes.com/2020/08/05/opinion/coronavirus-exposure-contact-tracing.html)
 * [How QAnon Creates a Dangerous Alternate Reality](https://www.nytimes.com/2020/08/04/opinion/qanon-conspiracy-theory-arg.html)
-* [Cuomo and de Blasio, Stop Bickering and Face the Coronavirus](https://www.nytimes.com/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
-* [The Doggiest Days of Summer Demand Gin and Tonics](https://www.nytimes.com/2020/08/04/opinion/gin-tonic-summer-drink.html)
-* [Is Microsoft Sure It Wants to Buy TikTok?](https://www.nytimes.com/2020/08/04/opinion/tiktok-microsoft-trump.html)
 * [Without a Coronavirus Relief Bill, Congress Shouldn't Go On Recess](https://www.nytimes.com/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
-* [Trump Can Lean on the Electoral College to Win in 2020](https://www.nytimes.com/2020/08/04/opinion/trump-2020-electoral-college.html)
+* [Cuomo and de Blasio, Stop Bickering and Face the Coronavirus](https://www.nytimes.com/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+* [Is Microsoft Sure It Wants to Buy TikTok?](https://www.nytimes.com/2020/08/04/opinion/tiktok-microsoft-trump.html)
+* [The Doggiest Days of Summer Demand Gin and Tonics](https://www.nytimes.com/2020/08/04/opinion/gin-tonic-summer-drink.html)
 * [See for Yourself: How Airplanes Are Cleaned Today](https://www.nytimes.com/2020/08/05/travel/coronavirus-airplane-cleaning.html)
 * [5 Minutes That Will Make You Love 21st-Century Composers](https://www.nytimes.com/2020/08/05/arts/music/five-minutes-classical-music.html)
 * [Why the Working Class Votes Against Its Economic Interests](https://www.nytimes.com/2020/07/31/books/review/the-system-robert-reich-break-em-up-zephyr-teachout.html)
@@ -79,11 +80,11 @@ layout: default
 * [Modi Founds a Temple on Mosque’s Ruins, in Triumphal Moment for Hindus](https://www.nytimes.com/2020/08/05/world/asia/modi-temple-ayodhya.html)
 * [Is TikTok a Good Buy? It Depends on What’s Included](https://www.nytimes.com/2020/08/05/technology/tiktok-deal-algorithm.html)
 * [A Jazz Drummer’s Fight to Keep His Own Heart Beating](https://www.nytimes.com/2020/08/05/nyregion/milford-graves-drummer.html)
-* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [Seth Rogen and Seth Rogen on Playing Ancestral Homies](https://www.nytimes.com/2020/08/05/movies/seth-rogen-american-pickle.html)
 * [A Professor Was a Twitter Hoax](https://www.nytimes.com/2020/08/04/style/college-coronavirus-hoax.html)
 * [Jockeys Know the ‘Pick Yourself Up’ Mantra Well](https://www.nytimes.com/2020/07/29/sports/horse-racing/diane-crump.html)
@@ -93,7 +94,7 @@ layout: default
 * [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](https://www.nytimes.com/2020/08/03/science/beetle-frog-poop.html)
 * [Whence Came Stonehenge’s Stones? Now We Know](https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html)
 * [‘Amazing, Isn’t It?’ Long-Sought Blood Test for Alzheimer’s in Reach](https://www.nytimes.com/2020/07/28/health/alzheimers-blood-test.html)
-* [What We Know About the Explosions in Beirut, Lebanon](https://www.nytimes.com/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+* [Deadly Explosions Shatter Beirut, Lebanon](https://www.nytimes.com/2020/08/04/world/middleeast/beirut-explosion-blast.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
 * [3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand](https://www.nytimes.com/2020/08/04/world/australia/sos-pacific-island.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,10 +103,10 @@ layout: default
 ## globo.com
 
 
-* [Para TCU, Bolsa Família não está fora do teto de gastos](https://oglobo.globo.com/economia/para-tcu-bolsa-familia-nao-esta-fora-do-teto-de-gastos-1-24568234)
+* [Número de mortos após explosão em Beirute passa de 100, com mais de 4 mil feridos](https://oglobo.globo.com/mundo/numero-de-mortos-apos-explosao-em-beirute-passa-de-100-com-mais-de-4-mil-feridos-24568393)
+* [Governo prepara até campanha no WhatsApp para diminuir resistência à reforma tributária](https://oglobo.globo.com/economia/governo-prepara-ate-campanha-no-whatsapp-para-diminuir-resistencia-reforma-tributaria-1-24568389)
 * [Engenheiro deixou porto em Beirute 30 minutos antes de explosão](https://epoca.globo.com/mundo/engenheiro-deixou-porto-em-beirute-30-minutos-antes-de-explosao-24568383)
 * [Com medo de fumaça tóxica, casal de brasileiros foge de Beirute para cidade vizinha](https://epoca.globo.com/mundo/com-medo-de-fumaca-toxica-casal-de-brasileiros-foge-de-beirute-para-cidade-vizinha-24568378)
-* [Com loja destruída por explosão, família brasileira pensa em sair do Líbano](https://epoca.globo.com/mundo/com-loja-destruida-por-explosao-familia-brasileira-pensa-em-sair-do-libano-24567937)
 * [Casa nova: Móveis ganham ‘antes e depois’ na quarentena](https://oglobo.globo.com/rio/bairros/casa-nova-moveis-ganham-antes-depois-na-quarentena-24568302)
 * [Casos de Covid reportados por profissionais de enfermagem sobem 38% em julho](https://epoca.globo.com/guilherme-amado/casos-de-covid-reportados-por-profissionais-de-enfermagem-sobem-38-em-julho-1-24567471)
 * [Ao contrário de Trump, governo brasileiro não tem nenhuma desconfiança de TikTok](https://epoca.globo.com/guilherme-amado/ao-contrario-de-trump-governo-brasileiro-nao-tem-nenhuma-desconfianca-de-tiktok-24567788)

@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 06:16:07 UTC
+# indexed at 05/08/2020 06:34:51 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
+* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
-* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
 * [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Magnasanti: The Largest and Most Terrifying SimCity (2010)](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
-* [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
+* [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
 * [SpaceX hop Starship SN-5](https://www.youtube.com/watch?v=NJR4gZBLMNw)
-* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 * [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
+* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-* [Alt-Text as Poetry](https://alt-text-as-poetry.net)
 * [On Tolerating Complexity](https://abstractmachines.dev/posts/am010-on-tolerating-complexity.html)
-* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
 * [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
+* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
 * [China Uighurs: A model's video gives a rare glimpse inside internment (BBC News)](https://www.bbc.com/news/world-asia-china-53650246)
+* [Alt-Text as Poetry](https://alt-text-as-poetry.net)
+* [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 * [Motherboard Specifications on MotherboardDB](https://motherboarddb.com)
 * [Twitter faces FTC probe, likely fine over use of phone numbers for ads](https://arstechnica.com/tech-policy/2020/08/twitter-faces-ftc-probe-likely-fine-over-use-of-phone-numbers-for-ads/)
-* [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 * [Planning for My Kidnapping](https://blog.luap.info/planning-for-my-kidnapping.html)
 * [Best lenses for sunstars](https://phillipreeve.net/blog/best-lenses-for-sunstars/)
 ## nytimes.com
@@ -78,11 +78,11 @@ layout: default
 * [With Census Count Finishing Early, Fears of a Skewed Tally Rise](https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html)
 * [WNBA Players Escalate Protest of Anti-BLM Team Owner, Kelly Loeffler](https://www.nytimes.com/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
 * [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [How Families Are Finding God, Grace and Faith Outside a House of Worship](https://www.nytimes.com/2020/08/04/parenting/religion-family-coronavirus.html)
 * [‘An American Pickle’ Review: Keeping It Kosher](https://www.nytimes.com/2020/08/04/movies/an-american-pickle-review.html)

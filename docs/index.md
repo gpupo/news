@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 18:15:39 UTC
+# indexed at 05/08/2020 18:35:01 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
 * [Science and Scientific Expertise Are More Important Than Ever](https://www.scientificamerican.com/article/science-and-scientific-expertise-are-more-important-than-ever/)
 * [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
-* [Are Humans Intelligent? An AI Op-Ed](https://arr.am/2020/07/31/human-intelligence-an-ai-op-ed/)
-* [Google’s Search Monopoly Complicates a Mental Health Crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
 * [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
 * [USGS Data on the Lebanon Blast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000b9bx/executive)
-* [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
 * [System on Chip wrapping the SERV RISC-V soft processor](https://www.rotwang.co.uk/projects/serv.html)
+* [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
+* [Google’s Search Monopoly Complicates a Mental Health Crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
 * [Luau – A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
 * [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
-* [A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [Declarative Data Visualization](http://haifengl.github.io/vegalite.html)
-* [Sink or Swim: Snobs, Bores and Triumphs at the Royal Society of Arts](https://www.historytoday.com/reviews/sink-or-swim)
+* [A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+* [Are Humans Intelligent? An AI Op-Ed](https://arr.am/2020/07/31/human-intelligence-an-ai-op-ed/)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
+* [Sink or Swim: Snobs, Bores and Triumphs at the Royal Society of Arts](https://www.historytoday.com/reviews/sink-or-swim)
 * [Leveraging Machine Learning to Fuel New Discoveries with the ArXiv Dataset](https://blogs.cornell.edu/arxiv/2020/08/05/leveraging-machine-learning-to-fuel-new-discoveries-with-the-arxiv-dataset/)
 * [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
 * [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
 * [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
-* [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
-* [Judging a Book by Its Cover: Protecting words, now and then](https://www.laphamsquarterly.org/roundtable/judging-book-its-cover)
+* [Show HN: I've compiled a list of the books Paul Graham recommended on Twitter](https://www.readthistwice.com/person/paul-graham)
 * [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
+* [Twitter for Android Security Vulnerability](https://privacy.twitter.com/en/blog/2020/twitter-for-android-security-vulnerability)
+* [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
+* [Twitter to be fined $250M for using 2FA numbers for ads](https://www.techdirt.com/articles/20200804/01231345032/twitter-about-to-be-hit-with-250-million-fine-using-your-two-factor-authentication-phone-numbers-emails-marketing.shtml)
+* [Judging a Book by Its Cover: Protecting words, now and then](https://www.laphamsquarterly.org/roundtable/judging-book-its-cover)
 * [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
 * [Taplytics (YC W14) Is Hiring a Senior Back End Engineer in Toronto](https://jobs.lever.co/taplytics/e3888368-dc89-4cd7-a2da-0f9961607f16)
-* [Show HN: Yarc – bidirectional notes in markdown, accessible over API](https://github.com/xeust/yarc)
-* [New TypeScript Website](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
-* [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [For Robots, It’s a Time to Shine (and Maybe Disinfect)](https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Chanel Miller’s Secret Source of Strength](https://www.nytimes.com/2020/08/05/arts/design/chanel-miller-museum-mural.html)
 * [R.I.P. Clarisonic](https://www.nytimes.com/2020/08/05/style/skin-care-rip-clarisonic.html)
 * [The Milwaukee Bucks Are Ready for a Long Stay in the Bubble](https://www.nytimes.com/2020/08/05/sports/basketball/nba-bucks-giannis-antetokounmpo.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Vacina da Covid-19 pode começar a ser liberada em janeiro, mas Saúde não se compromete com datas](https://oglobo.globo.com/sociedade/vacina-da-covid-19-pode-comecar-ser-liberada-em-janeiro-mas-saude-nao-se-compromete-com-datas-24569078)
+* [Agente penitenciário e encontrado morto com sinais de espancamento na Baixada Fluminense](https://oglobo.globo.com/rio/agente-penitenciario-encontrado-morto-com-sinais-de-espancamento-na-baixada-fluminense-24569182)
+* [Nitrato de amônio: substância química em explosão em Beirute pode causar pneumonite química](https://oglobo.globo.com/mundo/nitrato-de-amonio-substancia-quimica-em-explosao-em-beirute-pode-causar-pneumonite-quimica-24569100)
+* [Bolsonaro e Alcolumbre trocam afagos em evento sobre energia no Amapá](https://oglobo.globo.com/brasil/bolsonaro-alcolumbre-trocam-afagos-em-evento-sobre-energia-no-amapa-24569178)
+* [Prefeitura de Tel Aviv é iluminada com as cores do Líbano em rara demonstração de apoio após explosão de Beirute](https://oglobo.globo.com/mundo/prefeitura-de-tel-aviv-iluminada-com-as-cores-do-libano-em-rara-demonstracao-de-apoio-apos-explosao-de-beirute-24569124)
+* [Pazuello irá para a reserva se for confirmado ministro por Bolsonaro](https://epoca.globo.com/guilherme-amado/pazuello-ira-para-reserva-se-for-confirmado-ministro-por-bolsonaro-24569170)
+* [Procon Carioca dá dicas sobre cuidados ao fazer compras para o Dia dos Pais](https://oglobo.globo.com/economia/defesa-do-consumidor/procon-carioca-da-dicas-sobre-cuidados-ao-fazer-compras-para-dia-dos-pais-24569167)
+* [Brasil está relaxando medidas de isolamento além do razoável, alerta cientista](https://epoca.globo.com/brasil/brasil-esta-relaxando-medidas-de-isolamento-alem-do-razoavel-alerta-cientista-24569161)
+* [Diretora diz que 'Matrix' seria história sobre pessoas trans](https://oglobo.globo.com/cultura/diretora-diz-que-matrix-seria-historia-sobre-pessoas-trans-24569151)
 * [STJ nega recurso e mantém Sérgio Camargo na Fundação Palmares](https://oglobo.globo.com/cultura/stj-nega-recurso-mantem-sergio-camargo-na-fundacao-palmares-24569131)
-* [Guedes promete reduzir imposto de geladeira e fogão](https://oglobo.globo.com/economia/guedes-promete-reduzir-imposto-de-geladeira-fogao-24569109)
-* [Saída para crise econômica vai ter de vir da política, diz Arminio Fraga](https://oglobo.globo.com/economia/saida-para-crise-economica-vai-ter-de-vir-da-politica-diz-arminio-fraga-24568885)
 * [Se houver espaço, BC vai cortando juros, diz Arminio; Copom decide hoje se reduz a taxa](https://oglobo.globo.com/economia/se-houver-espaco-bc-vai-cortando-juros-dizarminio-copom-decide-hoje-se-reduz-taxa-24569122)
-* [Após indicação para liderança, PSDB ameaça expulsar aliado de Aécio](https://oglobo.globo.com/brasil/apos-indicacao-para-lideranca-psdb-ameaca-expulsar-aliado-de-aecio-24569102)
-* [Detran amplia posto na Barra da Tijuca: saiba quais os serviços oferecidos](https://oglobo.globo.com/rio/bairros/detran-amplia-posto-na-barra-da-tijuca-saiba-quais-os-servicos-oferecidos-24569016)
-* [Pandemia: mundo já tem mais de 700 mil mortos por Covid-19](https://oglobo.globo.com/sociedade/pandemia-mundo-ja-tem-mais-de-700-mil-mortos-por-covid-19-24569045)
-* [Aras demite subprocurador que criticou Lava Jato](https://epoca.globo.com/guilherme-amado/aras-demite-subprocurador-que-criticou-lava-jato-24569096)
-* [Quanto a Mancha Verde poderá captar para o próximo Carnaval](https://epoca.globo.com/guilherme-amado/quanto-mancha-verde-podera-captar-para-proximo-carnaval-24569069)

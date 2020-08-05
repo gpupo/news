@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 12:34:30 UTC
+# indexed at 05/08/2020 13:13:53 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
-* [Sub-10 Ms Latency in Java: Concurrent GC with Green Threads](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
+* [Sub-10 ms Latency in Java: Concurrent GC with Green Threads](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
 * [Luau - A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
+* [Niklaus Wirth: A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
-* [Niklaus Wirth: A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
-* [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
-* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
+* [Some Fundamental Theorems in Mathematics [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
 * [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+* [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
 * [The Mothers of the Mother of All Demos](https://schmud.de/posts/2020-08-04-mother-of-mothers.html)
+* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
-* [Defunctionalization and Freyd’s Theorem](https://bartoszmilewski.com/2020/08/03/defunctionalization-and-freyds-theorem/)
+* [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
 * [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
-* [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
+* [We removed the Intercom chat bubble and had MORE conversations – not less](https://www.indiehackers.com/post/we-removed-the-intercom-chat-bubble-and-had-more-conversations-not-less-7ec9ac3ec2)
+* [Defunctionalization and Freyd’s Theorem](https://bartoszmilewski.com/2020/08/03/defunctionalization-and-freyds-theorem/)
+* [Bridges 2020 Virtual Conference](https://2020.bridgesmathart.org)
+* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
 * [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
-* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
-* [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
-* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [PHP the Wrong Way](https://phpthewrongway.com/)
-* [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
+* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
+* [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
 * [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
-* [We removed the Intercom chat bubble and had MORE conversations – not less](https://www.indiehackers.com/post/we-removed-the-intercom-chat-bubble-and-had-more-conversations-not-less-7ec9ac3ec2)
-* [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
 ## nytimes.com
 
 
@@ -57,6 +57,7 @@ layout: default
 * [‘Stay Black and Die’](https://www.nytimes.com/2020/08/05/podcasts/the-daily/protests-racism-police-brutality.html)
 * [The ‘Seductive Lure’ of Authoritarianism](https://www.nytimes.com/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
+* [Meet Members of a Historic University of California Class](https://www.nytimes.com/2020/08/05/us/university-california-latino-students.html)
 * [Allan Lichtman Predicted Trump's Win in 2016. Now He's Ready to Call 2020.](https://www.nytimes.com/2020/08/05/opinion/2020-election-prediction-allan-lichtman.html)
 * [It’s Not Just You. We’ve All Got a Case of the Covid-19 Blues.](https://www.nytimes.com/2020/08/05/opinion/coronavirus-mental-illness-depression.html)
 * [Why Edmund Burke Still Matters](https://www.nytimes.com/2020/08/05/opinion/edmund-burke.html)
@@ -81,8 +82,8 @@ layout: default
 * [Is TikTok a Good Buy? It Depends on What’s Included](https://www.nytimes.com/2020/08/05/technology/tiktok-deal-algorithm.html)
 * [A Jazz Drummer’s Fight to Keep His Own Heart Beating](https://www.nytimes.com/2020/08/05/nyregion/milford-graves-drummer.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Seth Rogen and Seth Rogen on Playing Ancestral Homies](https://www.nytimes.com/2020/08/05/movies/seth-rogen-american-pickle.html)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Virgin Atlantic, do bilionário Richard Branson, pede recuperação judicial nos EUA](https://oglobo.globo.com/economia/virgin-atlantic-do-bilionario-richard-branson-pede-recuperacao-judicial-nos-eua-24568407)
-* [STF retoma nesta quarta-feira sessão sobre apelo indígena ao governo para conter Covid-19 nas aldeias](https://oglobo.globo.com/brasil/stf-retoma-nesta-quarta-feira-sessao-sobre-apelo-indigena-ao-governo-para-conter-covid-19-nas-aldeias-24568457)
-* [Cintia Dicker fala da relação com os filhos de Pedro Scooby: 'Me chamam de mó boadrasta'](https://oglobo.globo.com/ela/gente/cintia-dicker-fala-da-relacao-com-os-filhos-de-pedro-scooby-me-chamam-de-mo-boadrasta-24568438)
-* [Auxílio emergencial: governo lança mais um canal para contestar benefício negado. Saiba como fazer](https://oglobo.globo.com/economia/auxilio-emergencial-governo-lanca-mais-um-canal-para-contestar-beneficio-negado-saiba-como-fazer-24568475)
-* [Bloqueio na Via Dutra causa retenções no trânsito da Avenida Brasil](https://oglobo.globo.com/rio/bloqueio-na-via-dutra-causa-retencoes-no-transito-da-avenida-brasil-1-24568466)
-* [Ex-policial militar apontado como líder de milícia em Itaboraí é preso](https://oglobo.globo.com/rio/ex-policial-militar-apontado-como-lider-de-milicia-em-itaborai-preso-24568452)
-* [Ryan Reynolds e Blake Lively se arrependem de casamento em antiga fazenda de escravos](https://oglobo.globo.com/ela/gente/ryan-reynolds-blake-lively-se-arrependem-de-casamento-em-antiga-fazenda-de-escravos-24568462)
-* [Auxílio emergencial: Caixa paga mais uma parcela a 4,4 milhões de beneficiários nesta quarta](https://oglobo.globo.com/economia/auxilio-emergencial-caixa-paga-mais-uma-parcela-44-milhoes-de-beneficiarios-nesta-quarta-1-24568444)
+* ['Estar grávida numa pandemia é uma montanha-russa emocional', diz Katy Perry](https://oglobo.globo.com/ela/gente/estar-gravida-numa-pandemia-uma-montanha-russa-emocional-diz-katy-perry-24568544)
+* [Bandidos explodem agência bancária em Anchieta, na Zona Norte do Rio](https://oglobo.globo.com/rio/bandidos-explodem-agencia-bancaria-em-anchieta-na-zona-norte-do-rio-24568540)
+* [Origem de material que causou explosão em Beirute seria carga de navio abandonado em 2013](https://oglobo.globo.com/mundo/origem-de-material-que-causou-explosao-em-beirute-seria-carga-de-navio-abandonado-em-2013-24568533)
+* [Black is King: álbum visual de Beyoncé já é histórico](https://oglobo.globo.com/celina/black-is-king-album-visual-de-beyonce-ja-historico-24568515)
+* [Vídeo: Após explosão, teto de igreja cede e atinge padre que celebrava missa no Líbano](https://epoca.globo.com/mundo/video-apos-explosao-teto-de-igreja-cede-atinge-padre-que-celebrava-missa-no-libano-24568494)
 * ['Não façam o que fizemos': os aprendizados de Israel após reabrir suas escolas em meio à pandemia](https://oglobo.globo.com/mundo/nao-facam-que-fizemos-os-aprendizados-de-israel-apos-reabrir-suas-escolas-em-meio-pandemia-24567241)
+* [Virgin Atlantic, do bilionário Richard Branson, pede recuperação judicial nos EUA](https://oglobo.globo.com/economia/virgin-atlantic-do-bilionario-richard-branson-pede-recuperacao-judicial-nos-eua-24568407)
+* [Auxílio emergencial: governo lança mais um canal para contestar benefício negado. Saiba como fazer](https://oglobo.globo.com/economia/auxilio-emergencial-governo-lanca-mais-um-canal-para-contestar-beneficio-negado-saiba-como-fazer-24568475)
+* [Candidatura de Salgado à presidência ameaça dividir votos de beneméritos do Vasco](https://oglobo.globo.com/esportes/candidatura-de-salgado-presidencia-ameaca-dividir-votos-de-benemeritos-do-vasco-24568021)
 * [Luther King e os atos antirracismo sem violência](https://epoca.globo.com/guilherme-amado/luther-king-os-atos-antirracismo-sem-violencia-24567768)

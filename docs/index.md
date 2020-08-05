@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 06:34:51 UTC
+# indexed at 05/08/2020 07:14:41 UTC
 
 
 ## news.ycombinator.com
@@ -12,36 +12,36 @@ layout: default
 * [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
-* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
+* [Artificial Intelligence Course](https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
-* [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Magnasanti: The Largest and Most Terrifying SimCity (2010)](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
-* [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
 * [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
+* [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
 * [SpaceX hop Starship SN-5](https://www.youtube.com/watch?v=NJR4gZBLMNw)
-* [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
+* [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-* [On Tolerating Complexity](https://abstractmachines.dev/posts/am010-on-tolerating-complexity.html)
-* [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
-* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
-* [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
 * [China Uighurs: A model's video gives a rare glimpse inside internment (BBC News)](https://www.bbc.com/news/world-asia-china-53650246)
-* [Alt-Text as Poetry](https://alt-text-as-poetry.net)
+* [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
+* [Myth and Monolith – The Nine Elms Cold Store](https://vauxhallhistory.org/myth-and-monolith-the-nine-elms-cold-store/)
+* [On Tolerating Complexity](https://abstractmachines.dev/posts/am010-on-tolerating-complexity.html)
+* [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
+* [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
+* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
 * [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
-* [Motherboard Specifications on MotherboardDB](https://motherboarddb.com)
+* [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Twitter faces FTC probe, likely fine over use of phone numbers for ads](https://arstechnica.com/tech-policy/2020/08/twitter-faces-ftc-probe-likely-fine-over-use-of-phone-numbers-for-ads/)
-* [Planning for My Kidnapping](https://blog.luap.info/planning-for-my-kidnapping.html)
-* [Best lenses for sunstars](https://phillipreeve.net/blog/best-lenses-for-sunstars/)
+* [Alt-Text as Poetry](https://alt-text-as-poetry.net)
+* [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
 ## nytimes.com
 
 
-* [Blasts Rock Beirut, Killing Dozens and Wounding Thousands](https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion.html)
+* [After Deadly Beirut Explosion, a Search for Answers and Survivors: Live Updates](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion.html)
 * [Beirut Explosion: 'I Was Bloodied and Dazed. Beirut Strangers Treated Me Like a Friend.'](https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion-beirut.html)
 * [Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries](https://www.nytimes.com/2020/08/04/us/politics/kobach-tlaib.html)
 * [After 6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries](https://www.nytimes.com/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
@@ -51,7 +51,6 @@ layout: default
 * [Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained](https://www.nytimes.com/2020/08/04/world/americas/colombia-president-uribe-charged.html)
 * [Isaias Hits NY Area: 2.5 Million Lose Power and One Is Killed](https://www.nytimes.com/2020/08/04/nyregion/isaias-ny.html)
 * [Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast](https://www.nytimes.com/2020/08/04/us/hurricane-isaias-updates.html)
-* [Vaccine, Beirut, Census: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/08/04/briefing/vaccine-stimulus-beirut.html)
 * [Is the U.S. Ready to Vote by Mail?](https://www.nytimes.com/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
 * [The ‘Seductive Lure’ of Authoritarianism](https://www.nytimes.com/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 * [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -78,11 +77,11 @@ layout: default
 * [With Census Count Finishing Early, Fears of a Skewed Tally Rise](https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html)
 * [WNBA Players Escalate Protest of Anti-BLM Team Owner, Kelly Loeffler](https://www.nytimes.com/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
 * [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html)
-* [A User’s Guide to Face Masks](https://www.nytimes.com/2020/04/10/well/live/coronavirus-face-masks-guides-protection-personal-protective-equipment.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [How Families Are Finding God, Grace and Faith Outside a House of Worship](https://www.nytimes.com/2020/08/04/parenting/religion-family-coronavirus.html)
 * [‘An American Pickle’ Review: Keeping It Kosher](https://www.nytimes.com/2020/08/04/movies/an-american-pickle-review.html)
@@ -101,8 +100,8 @@ layout: default
 ## globo.com
 
 
-* [Com pressão para aumento de gasto, até estado de calamidade entra em discussão](https://oglobo.globo.com/economia/com-pressao-para-aumento-de-gasto-ate-estado-de-calamidade-entra-em-discussao-24568201)
 * [Reforma tributária: Guedes participa de comissão hoje. Entenda as propostas do governo, da Câmara e do Senado](https://oglobo.globo.com/economia/reforma-tributaria-guedes-participa-de-comissao-hoje-entenda-as-propostas-do-governo-da-camara-do-senado-24567107)
+* [Domènec apresenta ao Flamengo ideias de Guardiola e reforça intensidade do time](https://oglobo.globo.com/esportes/domenec-apresenta-ao-flamengo-ideias-de-guardiola-reforca-intensidade-do-time-24567673)
 * ['Leitor vai ver Edward de forma diferente agora', diz Stephenie Meyer, sobre novo livro de 'Crepúsculo'](https://oglobo.globo.com/cultura/leitor-vai-ver-edward-de-forma-diferente-agora-diz-stephenie-meyer-sobre-novo-livro-de-crepusculo-24567756)
 * [Festival de Inverno de Petrópolis e Friburgo reúne 80 atrações do Brasil e do mundo](https://oglobo.globo.com/rioshow/festival-de-inverno-de-petropolis-friburgo-reune-80-atracoes-do-brasil-do-mundo-1-24567282)
 * [Quem somos?](https://oglobo.globo.com/opiniao/quem-somos-1-24567679)

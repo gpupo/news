@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 08:16:21 UTC
+# indexed at 05/08/2020 08:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -10,38 +10,38 @@ layout: default
 
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
+* [Show HN: 100% automatically remove video backgrounds with ML (Unscreen Pro)](https://www.unscreen.com/sample_videos)
 * [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
+* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
+* [Bayes Theorem: A Framework for Critical Thinking](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
 * [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
 * [Magnasanti: The Largest and Most Terrifying SimCity (2010)](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
-* [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
-* [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
+* [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
-* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
+* [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
 * [SpaceX hop Starship SN-5](https://www.youtube.com/watch?v=NJR4gZBLMNw)
 * [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
-* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-* [China Uighurs: A model's video gives a rare glimpse inside internment (BBC News)](https://www.bbc.com/news/world-asia-china-53650246)
 * [Myth and Monolith – The Nine Elms Cold Store](https://vauxhallhistory.org/myth-and-monolith-the-nine-elms-cold-store/)
-* [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
+* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
+* [China Uighurs: A model's video gives a rare glimpse inside internment (BBC News)](https://www.bbc.com/news/world-asia-china-53650246)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
+* [Alt-Text as Poetry](https://alt-text-as-poetry.net)
+* [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
 * [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 * [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
-* [On Tolerating Complexity](https://abstractmachines.dev/posts/am010-on-tolerating-complexity.html)
-* [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
-* [Alt-Text as Poetry](https://alt-text-as-poetry.net)
-* [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
+* [PHP the Wrong Way](https://phpthewrongway.com/)
 ## nytimes.com
 
 
-* [After Deadly Beirut Explosion, a Search for Answers and Survivors: Live Updates](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion.html)
+* [Beirut Explosion: Live Updates](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion.html)
 * [What Caused the Beirut Explosion? What We Know](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
 * [Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries](https://www.nytimes.com/2020/08/04/us/politics/kobach-tlaib.html)
 * [Cori Bush Defeats William Lacy Clay in a Show of Progressive Might](https://www.nytimes.com/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
@@ -78,11 +78,11 @@ layout: default
 * [With Census Count Finishing Early, Fears of a Skewed Tally Rise](https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html)
 * [WNBA Players Escalate Protest of Anti-BLM Team Owner, Kelly Loeffler](https://www.nytimes.com/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
 * [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [How Families Are Finding God, Grace and Faith Outside a House of Worship](https://www.nytimes.com/2020/08/04/parenting/religion-family-coronavirus.html)
 * [‘An American Pickle’ Review: Keeping It Kosher](https://www.nytimes.com/2020/08/04/movies/an-american-pickle-review.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [O que se sabe sobre a megaexplosão que lançou 'nuvem cogumelo' no céu de Beirute; veja imagens](https://epoca.globo.com/mundo/o-que-se-sabe-sobre-megaexplosao-que-lancou-nuvem-cogumelo-no-ceu-de-beirute-veja-imagens-24568366)
+* [Flávio Bolsonaro admite que Queiroz pagava suas contas pessoais](https://oglobo.globo.com/brasil/flavio-bolsonaro-admite-que-queiroz-pagava-suas-contas-pessoais-24568332)
 * [O que é nitrato de amônio, principal 'suspeito' de ter causado megaexplosão em Beirute](https://epoca.globo.com/mundo/o-que-nitrato-de-amonio-principal-suspeito-de-ter-causado-megaexplosao-em-beirute-24568358)
 * [O caso Queiroz e os temas do Planalto, na visão de Flávio Bolsonaro](https://oglobo.globo.com/podcast/o-caso-queiroz-os-temas-do-planalto-na-visao-de-flavio-bolsonaro-1-24568342)
-* [Em meio à impasse, escolas particulares recorrem a conselhos científicos próprios sobre volta às aulas; confira](https://oglobo.globo.com/rio/em-meio-impasse-escolas-particulares-recorrem-conselhos-cientificos-proprios-sobre-volta-as-aulas-confira-24568041)
+* [Para TCU, Bolsa Família não está fora do teto de gastos](https://oglobo.globo.com/economia/para-tcu-bolsa-familia-nao-esta-fora-do-teto-de-gastos-24568234)
+* [VAR no Brasileirão: pandemia atrapalha evolução na checagem de impedimento](https://oglobo.globo.com/esportes/var-no-brasileirao-pandemia-atrapalha-evolucao-na-checagem-de-impedimento-24567828)
 * [Poluição volta a manchar orla da Barra da Tijuca e ambientalista alerta para velho problema](https://oglobo.globo.com/rio/poluicao-volta-manchar-orla-da-barra-da-tijuca-ambientalista-alerta-para-velho-problema-24568020)
-* [Mais de 280 mil pessoas deixaram os planos de saúde em dois meses, aumentando a pressão sobre o SUS](https://oglobo.globo.com/sociedade/mais-de-280-mil-pessoas-deixaram-os-planos-de-saude-em-dois-meses-aumentando-pressao-sobre-sus-24567991)
-* [Saiba como baixar a CRLV digital e entenda como regularizar seu veículo ainda em 2020](https://oglobo.globo.com/rio/saiba-como-baixar-crlv-digital-entenda-como-regularizar-seu-veiculo-ainda-em-2020-24566569)
-* [Apetite digital: qual tamanho do interesse das novas plataformas de transmissão pelo futebol?](https://oglobo.globo.com/esportes/apetite-digital-qual-tamanho-do-interesse-das-novas-plataformas-de-transmissao-pelo-futebol-24568025)
 * [Fluminense: O que esperar de Fred em seu 14º Brasileiro?](https://oglobo.globo.com/esportes/fluminense-que-esperar-de-fred-em-seu-14-brasileiro-1-24567818)
 * [Palavras cruzadas do site do GLOBO têm edição temática sobre São Paulo nesta quarta-feira](https://oglobo.globo.com/brasil/palavras-cruzadas-do-site-do-globo-tem-edicao-tematica-sobre-sao-paulo-nesta-quarta-feira-1-24567590)
 * [Andrea Beltrão fala sobre maturidade e estética: 'Já fiz uma pequena plástica, adorei o resultado, mas não faço nunca mais'](https://oglobo.globo.com/ela/gente/andrea-beltrao-fala-sobre-maturidade-estetica-ja-fiz-uma-pequena-plastica-adorei-resultado-mas-nao-faco-nunca-mais-24566611)

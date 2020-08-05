@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 03:14:21 UTC
+# indexed at 05/08/2020 03:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -12,8 +12,8 @@ layout: default
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
-* [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
+* [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 * [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
@@ -23,13 +23,13 @@ layout: default
 * [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 * [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
-* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
-* [Jerry (YC S17) Is Hiring Senior Software Engineers (Boston, SF Bay Area, Toronto)](https://apply.workable.com/jerry/j/FA1F4C0876/)
-* [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 * [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
-* [A Year of 379 Computer Days](http://fivedots.coe.psu.ac.th/~ad/Y379/index.html)
+* [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
+* [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
+* [Jerry (YC S17) Is Hiring Senior Software Engineers (Boston, SF Bay Area, Toronto)](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
+* [A Year of 379 Computer Days](http://fivedots.coe.psu.ac.th/~ad/Y379/index.html)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 * [Unlearn rotation matrices as rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
 * [Best Lenses for Sunstars](https://phillipreeve.net/blog/best-lenses-for-sunstars/)
@@ -77,13 +77,13 @@ layout: default
 * [Sheriff Apologizes to Family of Inmate Who Died After Being Restrained](https://www.nytimes.com/2020/08/04/us/john-neville-death-winston-salem-nc.html)
 * [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](https://www.nytimes.com/2020/08/04/health/coronavirus-hotels-infect.html)
 * [With Census Count Finishing Early, Fears of a Skewed Tally Rise](https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html)
-* [W.N.B.A. Players Escalate Protest of Anti-B.L.M. Team Owner](https://www.nytimes.com/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
+* [WNBA Players Escalate Protest of Anti-BLM Team Owner, Kelly Loeffler](https://www.nytimes.com/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
 * [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html)
-* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [How Families Are Finding God, Grace and Faith Outside a House of Worship](https://www.nytimes.com/2020/08/04/parenting/religion-family-coronavirus.html)
 * [‘An American Pickle’ Review: Keeping It Kosher](https://www.nytimes.com/2020/08/04/movies/an-american-pickle-review.html)

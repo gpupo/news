@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 13:13:53 UTC
+# indexed at 05/08/2020 13:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Sub-10 ms Latency in Java: Concurrent GC with Green Threads](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
-* [Luau - A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
 * [Niklaus Wirth: A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+* [Luau - A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
+* [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
-* [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
-* [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
+* [Google’s Search Monopoly Complicates a Mental Health Crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
 * [Some Fundamental Theorems in Mathematics [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
-* [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
 * [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
 * [The Mothers of the Mother of All Demos](https://schmud.de/posts/2020-08-04-mother-of-mothers.html)
+* [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
 * [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
+* [PHP the Wrong Way](https://phpthewrongway.com/)
 * [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
-* [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
+* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
 * [We removed the Intercom chat bubble and had MORE conversations – not less](https://www.indiehackers.com/post/we-removed-the-intercom-chat-bubble-and-had-more-conversations-not-less-7ec9ac3ec2)
 * [Defunctionalization and Freyd’s Theorem](https://bartoszmilewski.com/2020/08/03/defunctionalization-and-freyds-theorem/)
-* [Bridges 2020 Virtual Conference](https://2020.bridgesmathart.org)
-* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
-* [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
+* [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
-* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
-* [PHP the Wrong Way](https://phpthewrongway.com/)
+* [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
+* [Bridges 2020 Virtual Conference](https://2020.bridgesmathart.org)
+* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
+* [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
-* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 ## nytimes.com
 
 
@@ -74,18 +74,18 @@ layout: default
 * [Why the Working Class Votes Against Its Economic Interests](https://www.nytimes.com/2020/07/31/books/review/the-system-robert-reich-break-em-up-zephyr-teachout.html)
 * [Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained](https://www.nytimes.com/2020/08/04/world/americas/colombia-president-uribe-charged.html)
 * [U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing](https://www.nytimes.com/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
-* [Biden Announces $280 Million Fall Ad Buy Across 15 States](https://www.nytimes.com/2020/08/05/us/politics/biden-campaign-advertising.html)
+* [Pete Hamill, Quintessential New York Journalist, Dies at 85](https://www.nytimes.com/2020/08/05/nyregion/pete-hamill-dead.html)
 * [Republicans Aid Kanye West’s Bid to Get on the 2020 Ballot](https://www.nytimes.com/2020/08/04/us/politics/kanye-west-president-republicans.html)
 * [Digital Revenue Exceeds Print for 1st Time for New York Times Company](https://www.nytimes.com/2020/08/05/business/media/nyt-earnings-q2.html)
 * [Isaias Hits NY Area: 2.5 Million Lose Power and One Is Killed](https://www.nytimes.com/2020/08/04/nyregion/isaias-ny.html)
 * [Modi Founds a Temple on Mosque’s Ruins, in Triumphal Moment for Hindus](https://www.nytimes.com/2020/08/05/world/asia/modi-temple-ayodhya.html)
 * [Is TikTok a Good Buy? It Depends on What’s Included](https://www.nytimes.com/2020/08/05/technology/tiktok-deal-algorithm.html)
 * [A Jazz Drummer’s Fight to Keep His Own Heart Beating](https://www.nytimes.com/2020/08/05/nyregion/milford-graves-drummer.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Seth Rogen and Seth Rogen on Playing Ancestral Homies](https://www.nytimes.com/2020/08/05/movies/seth-rogen-american-pickle.html)
 * [A Professor Was a Twitter Hoax](https://www.nytimes.com/2020/08/04/style/college-coronavirus-hoax.html)
 * [Jockeys Know the ‘Pick Yourself Up’ Mantra Well](https://www.nytimes.com/2020/07/29/sports/horse-racing/diane-crump.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* ['Estar grávida numa pandemia é uma montanha-russa emocional', diz Katy Perry](https://oglobo.globo.com/ela/gente/estar-gravida-numa-pandemia-uma-montanha-russa-emocional-diz-katy-perry-24568544)
-* [Bandidos explodem agência bancária em Anchieta, na Zona Norte do Rio](https://oglobo.globo.com/rio/bandidos-explodem-agencia-bancaria-em-anchieta-na-zona-norte-do-rio-24568540)
+* [Bolsonaro diz que não poderá continuar pagando auxílio emergencial por muito tempo: 'economia tem que funcionar'](https://oglobo.globo.com/economia/bolsonaro-diz-que-nao-podera-continuar-pagando-auxilio-emergencial-por-muito-tempo-economia-tem-que-funcionar-24568576)
 * [Origem de material que causou explosão em Beirute seria carga de navio abandonado em 2013](https://oglobo.globo.com/mundo/origem-de-material-que-causou-explosao-em-beirute-seria-carga-de-navio-abandonado-em-2013-24568533)
+* [Estado prorroga suspensão das aulas presenciais até 20 de agosto no Rio](https://oglobo.globo.com/rio/estado-prorroga-suspensao-das-aulas-presenciais-ate-20-de-agosto-no-rio-24568543)
+* ['Estar grávida numa pandemia é uma montanha-russa emocional', diz Katy Perry](https://oglobo.globo.com/ela/gente/estar-gravida-numa-pandemia-uma-montanha-russa-emocional-diz-katy-perry-24568544)
+* [Parentes 'cobertos de sangue' procuram desaparecidos em meio aos caos em Beirute](https://epoca.globo.com/mundo/parentes-cobertos-de-sangue-procuram-desaparecidos-em-meio-aos-caos-em-beirute-24568551)
+* [Polícia Civil prende suspeito de participação em ataque a bancos em Botucatu](https://oglobo.globo.com/brasil/policia-civil-prende-suspeito-de-participacao-em-ataque-bancos-em-botucatu-24568554)
+* [Bandidos explodem agência bancária em Anchieta, na Zona Norte do Rio](https://oglobo.globo.com/rio/bandidos-explodem-agencia-bancaria-em-anchieta-na-zona-norte-do-rio-24568540)
 * [Black is King: álbum visual de Beyoncé já é histórico](https://oglobo.globo.com/celina/black-is-king-album-visual-de-beyonce-ja-historico-24568515)
 * [Vídeo: Após explosão, teto de igreja cede e atinge padre que celebrava missa no Líbano](https://epoca.globo.com/mundo/video-apos-explosao-teto-de-igreja-cede-atinge-padre-que-celebrava-missa-no-libano-24568494)
-* ['Não façam o que fizemos': os aprendizados de Israel após reabrir suas escolas em meio à pandemia](https://oglobo.globo.com/mundo/nao-facam-que-fizemos-os-aprendizados-de-israel-apos-reabrir-suas-escolas-em-meio-pandemia-24567241)
-* [Virgin Atlantic, do bilionário Richard Branson, pede recuperação judicial nos EUA](https://oglobo.globo.com/economia/virgin-atlantic-do-bilionario-richard-branson-pede-recuperacao-judicial-nos-eua-24568407)
-* [Auxílio emergencial: governo lança mais um canal para contestar benefício negado. Saiba como fazer](https://oglobo.globo.com/economia/auxilio-emergencial-governo-lanca-mais-um-canal-para-contestar-beneficio-negado-saiba-como-fazer-24568475)
 * [Candidatura de Salgado à presidência ameaça dividir votos de beneméritos do Vasco](https://oglobo.globo.com/esportes/candidatura-de-salgado-presidencia-ameaca-dividir-votos-de-benemeritos-do-vasco-24568021)
-* [Luther King e os atos antirracismo sem violência](https://epoca.globo.com/guilherme-amado/luther-king-os-atos-antirracismo-sem-violencia-24567768)

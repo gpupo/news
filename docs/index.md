@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 21:14:16 UTC
+# indexed at 05/08/2020 21:34:43 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Why there’s so little left of the early internet](https://www.bbc.com/future/article/20190401-why-theres-so-little-left-of-the-early-internet)
 * [Latest Firefox rolls out Enhanced Tracking Protection 2.0](https://blog.mozilla.org/blog/2020/08/04/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
-* [Why Should You Learn Vim in 2020](https://pragmaticpineapple.com/why-should-you-learn-vim-in-2020/)
-* [Men rescued from Pacific island after writing SOS in sand](https://apnews.com/1566b3c6a377ee907a0f2e143a5b26c9)
+* [Go File System Interfaces, draft design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
 * [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
-* [Why there’s so little left of the early internet](https://www.bbc.com/future/article/20190401-why-theres-so-little-left-of-the-early-internet)
 * [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
+* [Spacecraft of the Future Could Be Powered by Lattice Confinement Fusion](https://spectrum.ieee.org/energywise/energy/nuclear/nuclear-fusiontokamak-not-included)
+* [Why Should You Learn Vim in 2020](https://pragmaticpineapple.com/why-should-you-learn-vim-in-2020/)
 * [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 * [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
-* [Declarative Data Visualization](http://haifengl.github.io/vegalite.html)
+* [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
 * [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
 * [System on Chip wrapping the SERV RISC-V soft processor](https://www.rotwang.co.uk/projects/serv.html)
-* [USGS Data on the Lebanon Blast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000b9bx/executive)
+* [Declarative Data Visualization](http://haifengl.github.io/vegalite.html)
+* [Twitter for Android Security Vulnerability](https://privacy.twitter.com/en/blog/2020/twitter-for-android-security-vulnerability)
 * [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
 * [Luau – A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
-* [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
-* [Twitter for Android Security Vulnerability](https://privacy.twitter.com/en/blog/2020/twitter-for-android-security-vulnerability)
-* [Show HN: Books Paul Graham recommended on Twitter](https://www.readthistwice.com/person/paul-graham)
+* [Men rescued from Pacific island after writing SOS in sand](https://apnews.com/1566b3c6a377ee907a0f2e143a5b26c9)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
-* [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
+* [Show HN: Books Paul Graham recommended on Twitter](https://www.readthistwice.com/person/paul-graham)
 * [A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
-* [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+* [USGS Data on the Lebanon Blast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000b9bx/executive)
 * [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
-* [ReadMe (YC W15) is hiring a React engineer for our Slate-based markdown editor](https://readme.com/careers#slatereact-engineer)
+* [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+* [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
 * [Leveraging Machine Learning to Fuel New Discoveries with the ArXiv Dataset](https://blogs.cornell.edu/arxiv/2020/08/05/leveraging-machine-learning-to-fuel-new-discoveries-with-the-arxiv-dataset/)
+* [ReadMe (YC W15) is hiring a React engineer for our Slate-based markdown editor](https://readme.com/careers#slatereact-engineer)
 * [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
 * [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
-* [Gold price rises above $2k for first time](https://www.bbc.com/news/business-53660052)
-* [Science and scientific expertise are more important than ever](https://www.scientificamerican.com/article/science-and-scientific-expertise-are-more-important-than-ever/)
 ## nytimes.com
 
 
@@ -76,13 +76,13 @@ layout: default
 * [With TikTok Mired in Uncertainty, Facebook Pounces With Instagram Reels](https://www.nytimes.com/2020/08/05/technology/tiktok-facebook-instagram-reels.html)
 * [Another Man Used Covid Relief Money to Buy a Lamborghini, Prosecutors Say](https://www.nytimes.com/2020/08/04/us/lamborghini-coronavirus-stimulus.html)
 * [Coronavirus Leads Japan to Lock Borders, Shutting Out Foreign Workers](https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html)
-* [Where a Little Mortgage Goes a Long Way](https://www.nytimes.com/2020/08/02/business/mortgages-affordable-housing.html)
+* [It’s Trump Jr. vs. Trump Sr. Over an Alaskan Mineral Mine](https://www.nytimes.com/2020/08/05/us/politics/pebble-mine-trump-alaska.html)
 * [The Biggest Bedroom Is No Longer a ‘Master’](https://www.nytimes.com/2020/08/05/realestate/master-bedroom-change.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
 * [Chanel Miller’s Secret Source of Strength](https://www.nytimes.com/2020/08/05/arts/design/chanel-miller-museum-mural.html)
 * [R.I.P. Clarisonic](https://www.nytimes.com/2020/08/05/style/skin-care-rip-clarisonic.html)
 * [The Milwaukee Bucks Are Ready for a Long Stay in the Bubble](https://www.nytimes.com/2020/08/05/sports/basketball/nba-bucks-giannis-antetokounmpo.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Banco Central reduz taxa básica de juros de 2,25% para 2%](https://oglobo.globo.com/economia/banco-central-reduz-taxa-basica-de-juros-de-225-para-2-24569540)
+* [Com luvas, máscaras e vassouras, libaneses começam a limpar destroços em Beirute](https://oglobo.globo.com/mundo/com-luvas-mascaras-vassouras-libaneses-comecam-limpar-destrocos-em-beirute-24569508)
+* [Após imbróglio entre prefeitura e estado, estudantes da rede municipal continuam sem previsão de retorno às salas de aula](https://oglobo.globo.com/rio/apos-imbroglio-entre-prefeitura-estado-estudantes-da-rede-municipal-continuam-sem-previsao-de-retorno-as-salas-de-aula-1-24569478)
+* [Fusão ou joint venture com Latam não está descartada, diz diretor financeiro da Azul](https://oglobo.globo.com/economia/fusao-ou-joint-venture-com-latam-nao-esta-descartada-diz-diretor-financeiro-da-azul-24569530)
 * [Democratas apresentam lei que exige combate à desigualdade de Banco Central dos EUA](https://oglobo.globo.com/mundo/democratas-apresentam-lei-que-exige-combate-desigualdade-de-banco-central-dos-eua-24569515)
 * [Guedes diz que aumentar faixa de isenção do IR para R$ 3 mil custaria 'um Fundeb'](https://oglobo.globo.com/economia/guedes-diz-que-aumentar-faixa-de-isencao-do-ir-para-3-mil-custaria-um-fundeb-24569446)
-* [Álvaro Uribe tem teste positivo para coronavírus um dia após ordem de detenção](https://oglobo.globo.com/mundo/alvaro-uribe-tem-teste-positivo-para-coronavirus-um-dia-apos-ordem-de-detencao-24569400)
 * [Demissão de Jesualdo no Santos é a 8ª troca de técnico na Série A em 2020](https://oglobo.globo.com/esportes/demissao-de-jesualdo-no-santos-a-8-troca-de-tecnico-na-serie-em-2020-24569442)
 * [Marcelo Odebrecht tem R$ 143 milhões em bens desbloqueados pela Justiça, mas família deve recorrer](https://oglobo.globo.com/economia/marcelo-odebrecht-tem-143-milhoes-em-bens-desbloqueados-pela-justica-mas-familia-deve-recorrer-24569316)
 * [Supremo mantém suspensão nos cortes do Bolsa Família](https://oglobo.globo.com/brasil/supremo-mantem-suspensao-nos-cortes-do-bolsa-familia-24569414)
-* [Após imbróglio entre prefeitura e estado, estudantes da rede municipal continuam sem previsão de retorno às salas de aula](https://oglobo.globo.com/rio/apos-imbroglio-entre-prefeitura-estado-estudantes-da-rede-municipal-continuam-sem-previsao-de-retorno-as-salas-de-aula-24569478)
 * [Pesquisadores da Unicamp criam teste de Covid-19 com base na mudança de cor de leveduras](https://oglobo.globo.com/sociedade/pesquisadores-da-unicamp-criam-teste-de-covid-19-com-base-na-mudanca-de-cor-de-leveduras-24569447)
-* [Drive-ins no fim de semana: 'Coringa', 'La la land' e 'Tropa de Elite' são destaques](https://oglobo.globo.com/rioshow/drive-ins-no-fim-de-semana-coringa-la-la-land-tropa-de-elite-sao-destaques-24568539)
-* [Deputados cobram parlamentar por ter sido indicado pelo Centrão a cargo de líder](https://epoca.globo.com/guilherme-amado/deputados-cobram-parlamentar-por-ter-sido-indicado-pelo-centrao-cargo-de-lider-24569401)

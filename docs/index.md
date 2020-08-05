@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 17:14:06 UTC
+# indexed at 05/08/2020 17:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Science and Scientific Expertise Are More Important Than Ever](https://www.scientificamerican.com/article/science-and-scientific-expertise-are-more-important-than-ever/)
 * [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
 * [Google’s Search Monopoly Complicates a Mental Health Crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
+* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 * [USGS Data on the Lebanon Blast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000b9bx/executive)
 * [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
 * [System on Chip wrapping the SERV RISC-V soft processor](https://www.rotwang.co.uk/projects/serv.html)
 * [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
-* [Luau – A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
 * [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
+* [Luau – A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
 * [A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [Leveraging Machine Learning to Fuel New Discoveries with the ArXiv Dataset](https://blogs.cornell.edu/arxiv/2020/08/05/leveraging-machine-learning-to-fuel-new-discoveries-with-the-arxiv-dataset/)
-* [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
+* [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+* [Are Humans Intelligent? An AI Op-Ed](https://arr.am/2020/07/31/human-intelligence-an-ai-op-ed/)
 * [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
-* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 * [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
 * [Judging a Book by Its Cover: Protecting words, now and then](https://www.laphamsquarterly.org/roundtable/judging-book-its-cover)
 * [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
+* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
 * [Taplytics (YC W14) Is Hiring a Senior Back End Engineer in Toronto](https://jobs.lever.co/taplytics/e3888368-dc89-4cd7-a2da-0f9961607f16)
-* [Show HN: Yarc – bidirectional notes in markdown, accessible over API](https://github.com/xeust/yarc)
 * [New TypeScript Website](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
-* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
-* [Are Humans Intelligent? An AI Op-Ed – Arram Sabeti](https://arr.am/2020/07/31/human-intelligence-an-ai-op-ed/)
+* [Show HN: Yarc – bidirectional notes in markdown, accessible over API](https://github.com/xeust/yarc)
 * [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
-* [Sub-10 ms Latency in Java: Concurrent GC with Green Threads](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
+* [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 ## nytimes.com
 
 
@@ -82,16 +82,16 @@ layout: default
 * [Trump’s Syria Sanctions ‘Cannot Solve the Problem,’ Critics Say](https://www.nytimes.com/2020/08/04/world/middleeast/trump-assad-syria-sanctions.html)
 * [Where a Little Mortgage Goes a Long Way](https://www.nytimes.com/2020/08/02/business/mortgages-affordable-housing.html)
 * [For Robots, It’s a Time to Shine (and Maybe Disinfect)](https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [Seth Rogen and Seth Rogen on Playing Ancestral Homies](https://www.nytimes.com/2020/08/05/movies/seth-rogen-american-pickle.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Chanel Miller’s Secret Source of Strength](https://www.nytimes.com/2020/08/05/arts/design/chanel-miller-museum-mural.html)
 * [R.I.P. Clarisonic](https://www.nytimes.com/2020/08/05/style/skin-care-rip-clarisonic.html)
-* [Jockeys Know the ‘Pick Yourself Up’ Mantra Well](https://www.nytimes.com/2020/07/29/sports/horse-racing/diane-crump.html)
-* [Jimmy Fallon: Trump’s Latest Interview Made His Briefings Look Good](https://www.nytimes.com/2020/08/05/arts/television/jimmy-fallon-trumps-latest-interview-made-his-briefings-look-good.html)
-* [The (Virtual) Theatrical Fringe Moves Front and Center](https://www.nytimes.com/2020/08/03/theater/virtual-theater.html)
+* [The Milwaukee Bucks Are Ready for a Long Stay in the Bubble](https://www.nytimes.com/2020/08/05/sports/basketball/nba-bucks-giannis-antetokounmpo.html)
+* [Edmund White’s High-Octane Saga of Twin Sisters and 1950s Texas](https://www.nytimes.com/2020/08/04/books/review/edmund-white-saint-from-texas.html)
+* [Four Art Gallery Shows to See Right Now](https://www.nytimes.com/2020/08/05/arts/art-gallery-shows-to-see-now.html)
 * [Do You Want to Be a Vaccine Volunteer?](https://www.nytimes.com/2020/08/05/health/volunteer-coronavirus-vaccine-trial.html)
 * [Can a Physically Taxing Job Be Bad for Our Brains?](https://www.nytimes.com/2020/08/05/well/move/can-a-physically-taxing-job-be-bad-for-our-brains.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Aras troca assessor que deu entrevista com elogios a Bolsonaro e acusando Lava-Jato de 'ilegalidades'](https://oglobo.globo.com/brasil/aras-troca-assessor-que-deu-entrevista-com-elogios-bolsonaro-acusando-lava-jato-de-ilegalidades-24569058)
+* [Alcolumbre: demora para apreciar vetos de Bolsonaro se deve à dificuldade de reunir parlamentares na pandemia](https://oglobo.globo.com/economia/alcolumbre-demora-para-apreciar-vetos-de-bolsonaro-se-deve-dificuldade-de-reunir-parlamentares-na-pandemia-24569039)
 * [O que se sabe até agora sobre as explosões em Beirute?](https://oglobo.globo.com/mundo/o-que-se-sabe-ate-agora-sobre-as-explosoes-em-beirute-24569012)
+* [Guedes diz que é melhor doar livros a mais pobres do que isentar editoras de tributos](https://oglobo.globo.com/economia/guedes-diz-que-melhor-doar-livros-mais-pobres-do-que-isentar-editoras-de-tributos-24569056)
+* [Depoimento: 'Estrangeira em Beirute, fiquei ferida na explosão e fui socorrida por estranhos', conta repórter do NYT](https://oglobo.globo.com/mundo/depoimento-estrangeira-em-beirute-fiquei-ferida-na-explosao-fui-socorrida-por-estranhos-conta-reporter-do-nyt-24568832)
 * [Insatisfeita com capa de revista, Katy Perry ironiza e cria sua versão: 'Você faz com suas próprias mãos'](https://oglobo.globo.com/ela/gente/insatisfeita-com-capa-de-revista-katy-perry-ironiza-cria-sua-versao-voce-faz-com-suas-proprias-maos-24568982)
 * [Twitter: Audiência de adolescente que hackeou Bezos, Gates, Obama e Biden é interrompida por vídeos pornô](https://oglobo.globo.com/economia/tecnologia/twitter-audiencia-de-adolescente-que-hackeou-bezos-gates-obama-biden-interrompida-por-videos-porno-24568955)
 * [Doria libera atendimento presencial em bares e restaurantes no estado de SP até 22h](https://oglobo.globo.com/sociedade/doria-libera-atendimento-presencial-em-bares-restaurantes-no-estado-de-sp-ate-22h-24568977)
-* [Depoimento: 'Estrangeira em Beirute, fiquei ferida na explosão e fui socorrida por estranhos', conta repórter do NYT](https://oglobo.globo.com/mundo/depoimento-estrangeira-em-beirute-fiquei-ferida-na-explosao-fui-socorrida-por-estranhos-conta-reporter-do-nyt-24568832)
-* [Coronavírus: votação nos dias das eleições deve ser estendida em pelo menos uma hora, diz Barroso](https://oglobo.globo.com/brasil/coronavirus-votacao-nos-dias-das-eleicoes-deve-ser-estendida-em-pelo-menos-uma-hora-diz-barroso-1-24568930)
 * [Procon-SP quer explicações de hospital sobre testagem de time para Covid-19 que teve resultados equivocados](https://oglobo.globo.com/esportes/procon-sp-quer-explicacoes-de-hospital-sobre-testagem-de-time-para-covid-19-que-teve-resultados-equivocados-24568962)
 * [Cacique Aritana, líder do Alto Xingu, morre aos 71 anos vítima da Covid-19](https://oglobo.globo.com/sociedade/cacique-aritana-lider-do-alto-xingu-morre-aos-71-anos-vitima-da-covid-19-24568824)
-* [Explosão em Beirute: 9 momentos históricos em que o nitrato de amônio causou tragédia](https://epoca.globo.com/mundo/explosao-em-beirute-9-momentos-historicos-em-que-nitrato-de-amonio-causou-tragedia-1-24568887)
-* [Brasil tem 2.817.473 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-2817473-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24568852)

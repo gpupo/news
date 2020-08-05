@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 11:13:41 UTC
+# indexed at 05/08/2020 11:34:33 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Gold price rises above $2k for first time](https://www.bbc.com/news/business-53660052)
 * [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
-* [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
+* [Luau - A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
+* [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
+* [Sub-10 Ms Latency in Java: Concurrent GC with Green Threads](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
 * [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
-* [Silicon Valley didn’t inherit discrimination, but replicated it anyway](https://www.bloomberg.com/news/articles/2020-08-03/silicon-valley-didn-t-inherit-discrimination-but-replicated-it-anyway)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Bayes Theorem: A Framework for Critical Thinking](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
-* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
+* [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
-* [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
+* [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
+* [Gold price rises above $2k for first time](https://www.bbc.com/news/business-53660052)
+* [Moved a server from one building to another across a parking lot with 0 downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [PHP the Wrong Way](https://phpthewrongway.com/)
-* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
 * [Defunctionalization and Freyd’s Theorem](https://bartoszmilewski.com/2020/08/03/defunctionalization-and-freyds-theorem/)
-* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
+* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
+* [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
-* [Moved a server from one building to another across a parking lot with 0 downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
 * [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
+* [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
-* [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
 * [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
+* [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
 * [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 * [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
+* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
 * [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
-* [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
-* [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
-* [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 ## nytimes.com
 
 
@@ -73,7 +73,7 @@ layout: default
 * [Why the Working Class Votes Against Its Economic Interests](https://www.nytimes.com/2020/07/31/books/review/the-system-robert-reich-break-em-up-zephyr-teachout.html)
 * [Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained](https://www.nytimes.com/2020/08/04/world/americas/colombia-president-uribe-charged.html)
 * [U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing](https://www.nytimes.com/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
-* [New Nominations to U.K. House of Lords Raise Old Concerns of Cronyism](https://www.nytimes.com/2020/08/04/world/house-of-lords-boris-johnson.html)
+* [Digital Revenue Exceeds Print for 1st Time for New York Times Company](https://www.nytimes.com/2020/08/05/business/media/nyt-earnings-q2.html)
 * [Republicans Aid Kanye West’s Bid to Get on the 2020 Ballot](https://www.nytimes.com/2020/08/04/us/politics/kanye-west-president-republicans.html)
 * [Lost Teenager Found After Spending 9 Days in Washington State Forest](https://www.nytimes.com/2020/08/04/us/giovanna-gia-fuda-found.html)
 * [Isaias Hits NY Area: 2.5 Million Lose Power and One Is Killed](https://www.nytimes.com/2020/08/04/nyregion/isaias-ny.html)
@@ -81,10 +81,10 @@ layout: default
 * [Is TikTok a Good Buy? It Depends on What’s Included](https://www.nytimes.com/2020/08/05/technology/tiktok-deal-algorithm.html)
 * [A Jazz Drummer’s Fight to Keep His Own Heart Beating](https://www.nytimes.com/2020/08/05/nyregion/milford-graves-drummer.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Seth Rogen and Seth Rogen on Playing Ancestral Homies](https://www.nytimes.com/2020/08/05/movies/seth-rogen-american-pickle.html)
 * [A Professor Was a Twitter Hoax](https://www.nytimes.com/2020/08/04/style/college-coronavirus-hoax.html)
 * [Jockeys Know the ‘Pick Yourself Up’ Mantra Well](https://www.nytimes.com/2020/07/29/sports/horse-racing/diane-crump.html)
@@ -102,11 +102,11 @@ layout: default
 
 
 * [Beirute busca sobreviventes após explosão deixar mais de 100 mortos e 4 mil feridos](https://oglobo.globo.com/mundo/beirute-busca-sobreviventes-apos-explosao-deixar-mais-de-100-mortos-4-mil-feridos-24568393)
+* [Governo prepara até campanha no WhatsApp para diminuir resistência à reforma tributária](https://oglobo.globo.com/economia/governo-prepara-ate-campanha-no-whatsapp-para-diminuir-resistencia-reforma-tributaria-1-24568389)
+* [Levantamento da Defensoria mostra que oito em cada dez presos em flagrante no Rio são negros ou pardos](https://oglobo.globo.com/rio/levantamento-da-defensoria-mostra-que-oito-em-cada-dez-presos-em-flagrante-no-rio-sao-negros-ou-pardos-24567648)
+* [Cintia Dicker fala da relação com os filhos de Pedro Scooby: 'Me chamam de mó boadrasta'](https://oglobo.globo.com/ela/gente/cintia-dicker-fala-da-relacao-com-os-filhos-de-pedro-scooby-me-chamam-de-mo-boadrasta-24568438)
 * [Brasil tem 2.809.321 casos de Covid-19, indica consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2809321-casos-de-covid-19-indica-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24568400)
 * [Incêndio atinge galpão em Vilar dos Teles, em São João de Meriti, durante a madrugada](https://oglobo.globo.com/rio/incendio-atinge-galpao-em-vilar-dos-teles-em-sao-joao-de-meriti-durante-madrugada-24568420)
-* [Governo prepara até campanha no WhatsApp para diminuir resistência à reforma tributária](https://oglobo.globo.com/economia/governo-prepara-ate-campanha-no-whatsapp-para-diminuir-resistencia-reforma-tributaria-1-24568389)
-* [Engenheiro deixou porto em Beirute 30 minutos antes de explosão](https://epoca.globo.com/mundo/engenheiro-deixou-porto-em-beirute-30-minutos-antes-de-explosao-24568383)
-* [Com medo de fumaça tóxica, casal de brasileiros foge de Beirute para cidade vizinha](https://epoca.globo.com/mundo/com-medo-de-fumaca-toxica-casal-de-brasileiros-foge-de-beirute-para-cidade-vizinha-24568378)
 * [Amamentação infantil melhora no país na última década, mas pandemia impõe desafios](https://oglobo.globo.com/sociedade/amamentacao-infantil-melhora-no-pais-na-ultima-decada-mas-pandemia-impoe-desafios-24567650)
 * [Andar de metrô é arriscado? Com as medidas certas, pode ser mais seguro do que você imagina](https://oglobo.globo.com/sociedade/andar-de-metro-arriscado-com-as-medidas-certas-pode-ser-mais-seguro-do-que-voce-imagina-24563046)
 * [Plataforma reúne dicas e serviços para famílias à espera de um bebê](https://oglobo.globo.com/rio/bairros/plataforma-reune-dicas-servicos-para-familias-espera-de-um-bebe-24567412)

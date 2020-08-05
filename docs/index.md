@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 00:41:01 UTC
+# indexed at 05/08/2020 01:15:46 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
+* [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [Greg Joswiak replaces Phil Schiller as head of Apple marketing](https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events)
-* [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.bloomberg.com/news/articles/2020-07-31/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders)
 * [Math Overflow users resolve PhD thesis crisis](https://mathoverflow.net/questions/366765/issue-update-in-graph-theory-different-definitions-of-edge-crossing-numbers)
 * [Magnasanti: The Largest and Most Terrifying SimCity (2010)](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
-* [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
+* [Let's build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
+* [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
 * [Show HN: Find HN threads about the page you're browsing](https://github.com/pinoceniccola/what-hn-says-webext)
 * [Broccoli: Syncing Faster by Syncing Less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 * [The World of Competitive Lockpicking](https://www.cnet.com/news/inside-the-hidden-world-of-competitive-lockpicking/)
+* [SpaceX hop Starship SN-5](https://www.youtube.com/watch?v=NJR4gZBLMNw)
+* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
 * [Robula+: an algorithm to generate robust XPath-based locators](https://github.com/cyluxx/robula-plus)
 * [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
 * [Order of magnitude estimate of Beirut explosion at 3 kilotons of TNT](https://twitter.com/sinabooeshaghi/status/1290727092884299778)
-* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
+* [Best Lenses for Sunstars](https://phillipreeve.net/blog/best-lenses-for-sunstars/)
 * [Launch HN: Virtually (YC S20) – Build live online trainings](https://news.ycombinator.com/item?id=24049421)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 * [Twitter faces FTC probe, likely fine over use of phone numbers for ads](https://arstechnica.com/tech-policy/2020/08/twitter-faces-ftc-probe-likely-fine-over-use-of-phone-numbers-for-ads/)
 * [Unlearn rotation matrices as rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
 * [Motherboard Specifications on MotherboardDB](https://motherboarddb.com)
 * [Planning for My Kidnapping](https://blog.luap.info/planning-for-my-kidnapping.html)
-* [SpaceX hop Starship SN-5](https://www.youtube.com/watch?v=NJR4gZBLMNw)
-* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
-* [Repl.it is hiring front end, back end, and designers](https://repl.it/jobs)
 * [Show HN: Royalty-Free SVG Illustrations and Animations](https://www.pixeltrue.com/free-illustrations)
-* [Darwin, Machines, and the Future: A conversation with George Dyson](https://www.nfx.com/post/why-your-work-matters/)
-* [You may finally use JSHint for evil](http://mikepennisi.com/blog/2020/jshint-watching-the-ship-sink/)
+* [27-inch iMac gets a major update](https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/)
 * [Crux SQL](https://juxt.pro/blog/crux-sql)
+* [Darwin, Machines, and the Future: A conversation with George Dyson](https://www.nfx.com/post/why-your-work-matters/)
 ## nytimes.com
 
 
@@ -75,18 +75,18 @@ layout: default
 * [In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family](https://www.nytimes.com/2020/08/04/books/review-luster-raven-leilani.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
 * [Colombian Ex-President Faces Possible Detention Amid Fraud Inquiry](https://www.nytimes.com/2020/08/04/world/americas/colombia-president-uribe-charged.html)
-* [Business Updates: Ford’s Chief Executive, Jim Hackett, Will Retire](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus)
-* [More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says](https://www.nytimes.com/2020/08/04/world/asia/us-troops-afghanistan.html)
-* [Lawsuit Demands Sign Language at White House Virus Briefings](https://www.nytimes.com/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html)
+* [Star Technologist Who Crossed Google Sentenced to 18 Months in Prison](https://www.nytimes.com/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+* [Republicans Aid Kanye West’s Bid to Get on the 2020 Ballot](https://www.nytimes.com/2020/08/04/us/politics/kanye-west-president-republicans.html)
+* [Disney, Staggered by Pandemic, Sees a Streaming Boom](https://www.nytimes.com/2020/08/04/business/media/disney-earnings-coronavirus.html)
 * [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](https://www.nytimes.com/2020/08/04/health/coronavirus-hotels-infect.html)
 * [What Happened to the Young Voters Focused on Guns?](https://www.nytimes.com/2020/08/03/us/politics/gun-control-voters.html)
 * [W.N.B.A. Players Escalate Protest of Anti-B.L.M. Team Owner](https://www.nytimes.com/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
 * [Behrouz Boochani Just Wants to Be Free](https://www.nytimes.com/2020/08/04/magazine/behrouz-boochani-australia.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [The 1918 Flu, Masks and Lessons for the Coronavirus Pandemic](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 * [How Families Are Finding God, Grace and Faith Outside a House of Worship](https://www.nytimes.com/2020/08/04/parenting/religion-family-coronavirus.html)
 * [‘An American Pickle’ Review: Keeping It Kosher](https://www.nytimes.com/2020/08/04/movies/an-american-pickle-review.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Itair Machado, ex-dirigente do Cruzeiro, é internado em estado grave com Covid-19](https://oglobo.globo.com/esportes/itair-machado-ex-dirigente-do-cruzeiro-internado-em-estado-grave-com-covid-19-24567950)
+* [Mendonça escolhe delegado da PF para comandar órgão de secretaria que monitorou opositores](https://oglobo.globo.com/brasil/mendonca-escolhe-delegado-da-pf-para-comandar-orgao-de-secretaria-que-monitorou-opositores-24567947)
 * [Pessoas que contraíram vírus de resfriado comum podem ganhar imunidade à Covid-19, diz estudo](https://oglobo.globo.com/sociedade/coronavirus/pessoas-que-contrairam-virus-de-resfriado-comum-podem-ganhar-imunidade-covid-19-diz-estudo-24567410)
 * [MPRJ mira em Edmar e Gabriell, mas ainda não vê indícios de irregularidade de Witzel em fraude com testes de Covid-19](https://oglobo.globo.com/rio/mprj-mira-em-edmar-gabriell-mas-ainda-nao-ve-indicios-de-irregularidade-de-witzel-em-fraude-com-testes-de-covid-19-24567758)
 * [Brasil tem mais estados com tendência de alta nas mortes por Covid-19 do que em estabilidade ou queda](https://oglobo.globo.com/sociedade/brasil-tem-mais-estados-com-tendencia-de-alta-nas-mortes-por-covid-19-do-que-em-estabilidade-ou-queda-24567840)
 * [CNJ mantém arquivada acusação de desvio de conduta contra presidente do STJ](https://oglobo.globo.com/brasil/cnj-mantem-arquivada-acusacao-de-desvio-de-conduta-contra-presidente-do-stj-24567881)
-* [Empresário que filmou e expôs advogada enquanto ela fazia ioga na Lagoa pede desculpas](https://oglobo.globo.com/rio/empresario-que-filmou-expos-advogada-enquanto-ela-fazia-ioga-na-lagoa-pede-desculpas-24567689)
 * [Polícias Civil e Militar do Rio divulgam nota sobre decisão do STF que restringe operações na pandemia: 'Preocupação'](https://oglobo.globo.com/rio/policias-civil-militar-do-rio-divulgam-nota-sobre-decisao-do-stf-que-restringe-operacoes-na-pandemia-preocupacao-24567733)
 * [Acidente entre dois caminhões deixa trânsito engarrafado na Dutra e gera reflexos na Avenida Brasil](https://oglobo.globo.com/rio/acidente-entre-dois-caminhoes-deixa-transito-engarrafado-na-dutra-gera-reflexos-na-avenida-brasil-24567811)
-* [Brasil ultrapassa 96 mil mortes e 2,8 milhões de casos confirmados de Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-96-mil-mortes-28-milhoes-de-casos-confirmados-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24567647)
 * [Na pandemia, reclamações sobre internet fixa sobem até 40% no primeiro semestre deste ano, diz Anatel](https://oglobo.globo.com/economia/defesa-do-consumidor/na-pandemia-reclamacoes-sobre-internet-fixa-sobem-ate-40-no-primeiro-semestre-deste-ano-diz-anatel-24567791)
 * [Contrariando autoridades libanesas, Trump diz que explosão em Beirute 'parece ter sido um ataque'](https://oglobo.globo.com/mundo/contrariando-autoridades-libanesas-trump-diz-que-explosao-em-beirute-parece-ter-sido-um-ataque-24567715)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 05/08/2020 12:18:51 UTC
+# indexed at 05/08/2020 12:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -10,40 +10,40 @@ layout: default
 
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Sub-10 Ms Latency in Java: Concurrent GC with Green Threads](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
-* [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [Luau - A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
 * [Show HN: Unscreen – Automatically remove video backgrounds with ML](https://www.unscreen.com/sample_videos)
+* [Changes to SameSite Cookie Behavior – A Call to Action for Web Developers](https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/)
 * [You don’t need reproducible builds](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html)
-* [Nikolaus Wirth: A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+* [Niklaus Wirth: A Plea for Lean Software (1995) [pdf]](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+* [Fluid Simulator for Touch Screens](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
 * [Levandowski sentenced to 18 months in prison as new lawsuit against Uber filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed)
 * [The Fundamental Axiom of Floating Point Arithmetic](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
-* [PHP the Wrong Way](https://phpthewrongway.com/)
+* [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+* [The Mothers of the Mother of All Demos](https://schmud.de/posts/2020-08-04-mother-of-mothers.html)
 * [Instacart shoppers besieged by bots that snatch lucrative orders](https://www.seattletimes.com/business/instacart-shoppers-besieged-by-bots-that-snatch-lucrative-orders/)
 * [London traders hit $500M jackpot when oil went negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
 * [Defunctionalization and Freyd’s Theorem](https://bartoszmilewski.com/2020/08/03/defunctionalization-and-freyds-theorem/)
-* [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://research.utwente.nl/en/publications/functional-programming-with-bananas-lenses-envelopes-and-barbed-w)
-* [The Mothers of the Mother of All Demos](https://schmud.de/posts/2020-08-04-mother-of-mothers.html)
+* [More than 1/3 of all access to Google is now over IPv6](https://www.google.com/intl/en/ipv6/statistics.html#onethird)
 * [I made a steganography program and published it on GitHub](https://github.com/JHurst97/SteganograhyProject.git)
-* [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
-* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
 * [1Password for Linux development preview](https://discussions.agilebits.com/discussion/114964/)
+* [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/)
 * [Gitlab Support is no longer processing MFA resets for free users](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/)
-* [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+* [Lazy Lantern (YC S19) is hiring senior back-end and full-stack engineers](https://angel.co/company/lazylantern/jobs)
+* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
 * [Show HN: I built an After Effects for dummies](https://storycreatorapp.com)
 * [In spite of an increase in Internet speed, webpage speeds have not improved](https://www.nngroup.com/articles/the-need-for-speed/)
-* [Show HN: Kvak.io – Online Notepad](http://kvak.io/?n=intro)
-* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
+* [PHP the Wrong Way](https://phpthewrongway.com/)
 * [In Search of God’s Perfect Proofs](https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/)
+* [In a warming world, New England’s trees are storing more carbon](https://news.harvard.edu/gazette/story/2020/08/new-englands-trees-capturing-more-carbon-says-25-year-study/)
+* [We removed the Intercom chat bubble and had MORE conversations – not less](https://www.indiehackers.com/post/we-removed-the-intercom-chat-bubble-and-had-more-conversations-not-less-7ec9ac3ec2)
 * [SpaceX test flight of Starship SN-5 [video]](https://www.youtube.com/watch?v=NJR4gZBLMNw)
-* [When Should You Not Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)
-* [Monads and Intensionality – Lucid is not an aberration](https://billwadge.wordpress.com/2020/08/04/monads-and-intensionality-lucid-is-not-an-abberation/)
 ## nytimes.com
 
 
 * [Beirut Explosion: Live Updates](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion.html)
-* [What Caused the Beirut Explosion? What We Know](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
-* [Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries](https://www.nytimes.com/2020/08/04/us/politics/kobach-tlaib.html)
+* [Beirut Explosion: 'I Was Bloodied and Dazed. Beirut Strangers Treated Me Like a Friend.'](https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion-beirut.html)
+* [Biden vs. Trump: Live Updates for the 2020 Election](https://www.nytimes.com/2020/08/05/us/elections/biden-vs-trump.html)
 * [Cori Bush Defeats William Lacy Clay in a Show of Progressive Might](https://www.nytimes.com/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
 * [After 6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries](https://www.nytimes.com/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
 * [Coronavirus Live Updates: Governors Seek to Reduce Testing Times in U.S.](https://www.nytimes.com/2020/08/05/world/coronavirus-covid-19.html)
@@ -80,11 +80,11 @@ layout: default
 * [Modi Founds a Temple on Mosque’s Ruins, in Triumphal Moment for Hindus](https://www.nytimes.com/2020/08/05/world/asia/modi-temple-ayodhya.html)
 * [Is TikTok a Good Buy? It Depends on What’s Included](https://www.nytimes.com/2020/08/05/technology/tiktok-deal-algorithm.html)
 * [A Jazz Drummer’s Fight to Keep His Own Heart Beating](https://www.nytimes.com/2020/08/05/nyregion/milford-graves-drummer.html)
-* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Seth Rogen and Seth Rogen on Playing Ancestral Homies](https://www.nytimes.com/2020/08/05/movies/seth-rogen-american-pickle.html)
 * [A Professor Was a Twitter Hoax](https://www.nytimes.com/2020/08/04/style/college-coronavirus-hoax.html)
 * [Jockeys Know the ‘Pick Yourself Up’ Mantra Well](https://www.nytimes.com/2020/07/29/sports/horse-racing/diane-crump.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Virgin Atlantic, do bilionário Richard Branson, pede recuperação judicial nos EUA](https://oglobo.globo.com/economia/virgin-atlantic-do-bilionario-richard-branson-pede-recuperacao-judicial-nos-eua-24568407)
 * [STF retoma nesta quarta-feira sessão sobre apelo indígena ao governo para conter Covid-19 nas aldeias](https://oglobo.globo.com/brasil/stf-retoma-nesta-quarta-feira-sessao-sobre-apelo-indigena-ao-governo-para-conter-covid-19-nas-aldeias-24568457)
+* [Cintia Dicker fala da relação com os filhos de Pedro Scooby: 'Me chamam de mó boadrasta'](https://oglobo.globo.com/ela/gente/cintia-dicker-fala-da-relacao-com-os-filhos-de-pedro-scooby-me-chamam-de-mo-boadrasta-24568438)
+* [Auxílio emergencial: governo lança mais um canal para contestar benefício negado. Saiba como fazer](https://oglobo.globo.com/economia/auxilio-emergencial-governo-lanca-mais-um-canal-para-contestar-beneficio-negado-saiba-como-fazer-24568475)
 * [Bloqueio na Via Dutra causa retenções no trânsito da Avenida Brasil](https://oglobo.globo.com/rio/bloqueio-na-via-dutra-causa-retencoes-no-transito-da-avenida-brasil-1-24568466)
 * [Ex-policial militar apontado como líder de milícia em Itaboraí é preso](https://oglobo.globo.com/rio/ex-policial-militar-apontado-como-lider-de-milicia-em-itaborai-preso-24568452)
-* [Auxílio emergencial: governo lança mais um canal para contestar benefício negado. Saiba como fazer](https://oglobo.globo.com/economia/auxilio-emergencial-governo-lanca-mais-um-canal-para-contestar-beneficio-negado-saiba-como-fazer-24568475)
 * [Ryan Reynolds e Blake Lively se arrependem de casamento em antiga fazenda de escravos](https://oglobo.globo.com/ela/gente/ryan-reynolds-blake-lively-se-arrependem-de-casamento-em-antiga-fazenda-de-escravos-24568462)
 * [Auxílio emergencial: Caixa paga mais uma parcela a 4,4 milhões de beneficiários nesta quarta](https://oglobo.globo.com/economia/auxilio-emergencial-caixa-paga-mais-uma-parcela-44-milhoes-de-beneficiarios-nesta-quarta-1-24568444)
-* [Cintia Dicker fala da relação com os filhos de Pedro Scooby: 'Me chamam de mó boadrasta'](https://oglobo.globo.com/ela/gente/cintia-dicker-fala-da-relacao-com-os-filhos-de-pedro-scooby-me-chamam-de-mo-boadrasta-24568438)
-* [Levantamento da Defensoria mostra que oito em cada dez presos em flagrante no Rio são negros ou pardos](https://oglobo.globo.com/rio/levantamento-da-defensoria-mostra-que-oito-em-cada-dez-presos-em-flagrante-no-rio-sao-negros-ou-pardos-24567648)
 * ['Não façam o que fizemos': os aprendizados de Israel após reabrir suas escolas em meio à pandemia](https://oglobo.globo.com/mundo/nao-facam-que-fizemos-os-aprendizados-de-israel-apos-reabrir-suas-escolas-em-meio-pandemia-24567241)
 * [Luther King e os atos antirracismo sem violência](https://epoca.globo.com/guilherme-amado/luther-king-os-atos-antirracismo-sem-violencia-24567768)

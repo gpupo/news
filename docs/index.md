@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 19:13:50 UTC
+# indexed at 06/08/2020 19:35:18 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
-* [Lab mice have a chill, and that may be messing up study results](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
+* [Lab mice have a chill, and that may be messing up study results](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
 * [Simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
 * [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
 * [NeRF in the Wild: reconstructing 3D scenes from internet photography](https://nerf-w.github.io/)
-* [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
+* [Busted US Retailers Use Bankruptcy to Break Leases by the Thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
+* [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
 * [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
 * [Apache Kafka 2.6 Updates](https://www.confluent.io/blog/apache-kafka-2-6-updates)
-* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
-* [Feds move to block California’s net neutrality law](https://www.theverge.com/2020/8/6/21357013/justice-department-net-neutrality-fcc-law-throttling-isps)
+* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Blackstone to Acquire Ancestry.com for $4.7B](https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES)
-* [Show HN: A searchable list of VC jobs](http://vcjobs.kgbase.com/)
-* [Memfault (YC W19) is hiring software engineers in Boston, Berlin, and SF](https://www.workatastartup.com/jobs/25893)
+* [Feds move to block California’s net neutrality law](https://www.theverge.com/2020/8/6/21357013/justice-department-net-neutrality-fcc-law-throttling-isps)
+* [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [Simon's Algorithm](https://leimao.github.io/blog/Simon-Algorithm/)
+* [Memfault (YC W19) is hiring software engineers in Boston, Berlin, and SF](https://www.workatastartup.com/jobs/25893)
+* [Rippling’s funding round gives founder second unicorn chance](https://www.bloomberg.com/news/articles/2020-08-04/rippling-s-funding-round-gives-founder-second-unicorn-chance)
+* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
+* [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
+* [Show HN: A searchable list of VC jobs](http://vcjobs.kgbase.com/)
 * [Show HN: Create your WebAssembly Calling Card–visual creativity with WASM](https://wacc.rancidbacon.com/)
 * [Google discontinues the Pixel 4, nine months after release](https://techcrunch.com/2020/08/06/google-discontinues-the-pixel-4-nine-months-after-release/)
-* [Rippling’s funding round gives founder second unicorn chance](https://www.bloomberg.com/news/articles/2020-08-04/rippling-s-funding-round-gives-founder-second-unicorn-chance)
-* [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
 * [Humans evolved to be cooperative breeders](https://www.sapiens.org/culture/milk-sharing/)
-* [How we scaled Google Meet during Covid-19](https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19)
-* [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
-* [Adam Shostack on Threat Modeling [audio]](https://www.se-radio.net/2020/07/episode-416-adam-shostack-on-threat-modeling/)
 * [The Largest Commercial Cylindrical Slide Rule Has a Scale Length of 24m](https://cacm.acm.org/blogs/blog-cacm/244935-the-worlds-largest-commercial-cylindrical-slide-rule-has-a-scale-length-of-24m/fulltext)
-* [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
-* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
-* [An Inside Look at CloudKitchens](https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens)
+* [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
+* [How we scaled Google Meet during Covid-19](https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19)
+* [How to use the next-gen open-sourced .Avif image format, 50% smaller than JPEG](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/)
 ## nytimes.com
 
 
@@ -81,8 +81,8 @@ layout: default
 * [Michelle Obama Says She Is Dealing With ‘Low-Grade Depression’](https://www.nytimes.com/2020/08/06/us/michelle-obama-depression.html)
 * [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
 * [Self-Publishing Is a Gamble. Why Is Donald Trump Jr. Doing It?](https://www.nytimes.com/2020/08/06/books/donald-trump-jr-liberal-privilege.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
@@ -103,12 +103,12 @@ layout: default
 
 
 * [STF proíbe acúmulo de pensão com aposentadoria acima do teto](https://oglobo.globo.com/economia/stf-proibe-acumulo-de-pensao-com-aposentadoria-acima-do-teto-24571173)
-* [O que as imagens da explosão em Beirute revelam sobre o acidente](https://oglobo.globo.com/mundo/o-que-as-imagens-da-explosao-em-beirute-revelam-sobre-acidente-1-24570973)
-* [Homem armado mantém reféns em banco no Norte da França](https://oglobo.globo.com/mundo/homem-armado-mantem-refens-em-banco-no-norte-da-franca-24571074)
-* [Crivella inaugura viaduto na Avenida Brasil e projeta BRT Transbrasil até o fim do ano](https://oglobo.globo.com/rio/crivella-inaugura-viaduto-na-avenida-brasil-projeta-brt-transbrasil-ate-fim-do-ano-24571146)
+* [Camponeses, sindicatos e apoiadores de Evo Morales bloqueiam estradas contra adiamento das eleições na Bolívia](https://oglobo.globo.com/mundo/camponeses-sindicatos-apoiadores-de-evo-morales-bloqueiam-estradas-contra-adiamento-das-eleicoes-na-bolivia-24571163)
 * [Rio pode perder 70% das creches particulares após pandemia, alerta associação](https://oglobo.globo.com/rio/rio-pode-perder-70-das-creches-particulares-apos-pandemia-alerta-associacao-24571149)
-* [Cristina Kirchner processa Google por aparecer como ‘ladra da nação’ em site de buscas](https://oglobo.globo.com/mundo/cristina-kirchner-processa-google-por-aparecer-como-ladra-da-nacao-em-site-de-buscas-24571035)
 * [É #FAKE que estudo da Coreia do Sul prove que quarentena é inútil para a população se proteger da Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-estudo-da-coreia-do-sul-prove-que-quarentena-inutil-para-populacao-se-proteger-da-covid-19-24571160)
+* [Coluna | Os juros numa hora dessas?](https://epoca.globo.com/monica-de-bolle/coluna-os-juros-numa-hora-dessas-24571203)
+* [Rio registra 86 mortes e 1.385 novos casos de coronavírus em 24 horas](https://oglobo.globo.com/rio/rio-registra-86-mortes-1385-novos-casos-de-coronavirus-em-24-horas-24571192)
+* [Crivella inaugura viaduto na Avenida Brasil e projeta BRT Transbrasil até o fim do ano](https://oglobo.globo.com/rio/crivella-inaugura-viaduto-na-avenida-brasil-projeta-brt-transbrasil-ate-fim-do-ano-24571146)
+* [Cristina Kirchner processa Google por aparecer como ‘ladra da nação’ em site de buscas](https://oglobo.globo.com/mundo/cristina-kirchner-processa-google-por-aparecer-como-ladra-da-nacao-em-site-de-buscas-24571035)
 * [Resposta ideal à Covid-19 combina medidas adotadas por Nova Zelândia, Dinamarca e Uganda](https://oglobo.globo.com/mundo/resposta-ideal-covid-19-combina-medidas-adotadas-por-nova-zelandia-dinamarca-uganda-24571087)
 * [Fluminense paga parcelas de 'dívidas Fifa' por Sornoza, Orejuela e De Amores](https://oglobo.globo.com/esportes/fluminense-paga-parcelas-de-dividas-fifa-por-sornoza-orejuela-de-amores-24571098)
-* [Líderes dos partidos defendem derrubada de veto de Bolsonaro à desoneração da folha](https://oglobo.globo.com/economia/lideres-dos-partidos-defendem-derrubada-de-veto-de-bolsonaro-desoneracao-da-folha-24571036)

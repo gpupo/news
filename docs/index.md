@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 23:13:39 UTC
+# indexed at 06/08/2020 23:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
+* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [NeRF in the Wild: reconstructing 3D scenes from internet photography](https://nerf-w.github.io/)
-* [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
+* [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
-* [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
 * [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
 * [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
-* [Make the best of bad reviews by leveraging consumer empathy](https://phys.org/news/2020-08-bad-leveraging-consumer-empathy.html)
+* [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
 * [Blackstone to Acquire Ancestry.com for $4.7B](https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES)
+* [Make the best of bad reviews by leveraging consumer empathy](https://phys.org/news/2020-08-bad-leveraging-consumer-empathy.html)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
 * [Our World in Data: Suicide](https://ourworldindata.org/suicide)
+* [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
+* [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
+* [The albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Rippling’s funding round gives founder second unicorn chance](https://www.bloomberg.com/news/articles/2020-08-04/rippling-s-funding-round-gives-founder-second-unicorn-chance)
 * [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
-* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
 * [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
-* [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
 * [Feds move to block California’s net neutrality law](https://www.theverge.com/2020/8/6/21357013/justice-department-net-neutrality-fcc-law-throttling-isps)
-* [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
 * [Twitter web app now runs ES6+, reducing polyfill bundle size by 83%](https://twitter.com/wongmjane/status/1291388433747685376)
 * [The Math of Card Shuffling (2018)](https://fredhohman.com/card-shuffling/)
 * [All publicly available EEG datasets](https://github.com/meagmohit/EEG-Datasets)
-* [Google discontinues the Pixel 4, nine months after release](https://techcrunch.com/2020/08/06/google-discontinues-the-pixel-4-nine-months-after-release/)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [The Latest U.S. Tool to Fight Election Meddling: Text Messages](https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [She Was Pregnant With Twins During Covid. Why Did Only One Survive?](https://www.nytimes.com/2020/08/06/nyregion/childbirth-Covid-Black-mothers.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [Arda Turan Joins Galatasaray and Emerges From Exile](https://www.nytimes.com/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
 * [‘Looking for Miss America’ Tells the History of the Legendary Pageant](https://www.nytimes.com/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Plataforma da Petrobras na Bacia de Campos tem 42 petroleiros infectados pelo novo coronavírus](https://oglobo.globo.com/economia/plataforma-da-petrobras-na-bacia-de-campos-tem-42-petroleiros-infectados-pelo-novo-coronavirus-24571908)
-* [Brasil ultrapassa 98 mil mortes e 2,9 milhões de infectados pela Covid-19, aponta consórcio de veículos da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-98-mil-mortes-29-milhoes-de-infectados-pela-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-20h-1-24571864)
-* [Ex-secretário de Saúde Edmar Santos deve deixar a cadeia ainda hoje, após STJ relaxar prisão](https://oglobo.globo.com/rio/ex-secretario-de-saude-edmar-santos-deve-deixar-cadeia-ainda-hoje-apos-stj-relaxar-prisao-24571693)
+* [Senado aprova 'Revalida emergencial' para tentar aumentar número de médicos na pandemia](https://oglobo.globo.com/sociedade/senado-aprova-revalida-emergencial-para-tentar-aumentar-numero-de-medicos-na-pandemia-24571972)
+* ['Mas vamos tocar a vida', diz Bolsonaro ao falar de 100 mil mortes por Covid-19](https://oglobo.globo.com/sociedade/coronavirus/mas-vamos-tocar-vida-diz-bolsonaro-ao-falar-de-100-mil-mortes-por-covid-19-24571950)
 * ['Não adianta querer obrigar o empresário a ter prejuízo', diz Crivella sobre linhas de ônibus que sumiram das ruas ou reduziram frota](https://oglobo.globo.com/rio/nao-adianta-querer-obrigar-empresario-ter-prejuizo-diz-crivella-sobre-linhas-de-onibus-que-sumiram-das-ruas-ou-reduziram-frota-24571772)
-* [Senado aprova teto de 30% ao ano para juros do cartão de crédito rotativo e do cheque especial](https://oglobo.globo.com/economia/senado-aprova-teto-de-30-ao-ano-para-juros-do-cartao-de-credito-rotativo-do-cheque-especial-24571644)
+* [Brasil ultrapassa 98 mil mortes e 2,9 milhões de infectados pela Covid-19, aponta consórcio de veículos da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-98-mil-mortes-29-milhoes-de-infectados-pela-covid-19-aponta-consorcio-de-veiculos-da-imprensa-no-boletim-das-20h-1-24571864)
+* [Plataforma da Petrobras na Bacia de Campos tem 42 infectados pelo novo coronavírus](https://oglobo.globo.com/economia/plataforma-da-petrobras-na-bacia-de-campos-tem-42-infectados-pelo-novo-coronavirus-24571908)
+* [Ex-secretário de Saúde Edmar Santos deve deixar a cadeia ainda hoje, após STJ relaxar prisão](https://oglobo.globo.com/rio/ex-secretario-de-saude-edmar-santos-deve-deixar-cadeia-ainda-hoje-apos-stj-relaxar-prisao-24571693)
 * [Pazuello aponta estabilização na curva de mortes por Covid, 'embora alta'](https://oglobo.globo.com/sociedade/coronavirus/pazuello-aponta-estabilizacao-na-curva-de-mortes-por-covid-embora-alta-1-24571675)
 * [Câmara do Rio aprova projeto de lei de apoio à cultura carioca](https://oglobo.globo.com/cultura/camara-do-rio-aprova-projeto-de-lei-de-apoio-cultura-carioca-24571788)
 * ['Não se pode falar que Bolsonaro foi eleito por causa do Moro', diz Guedes a americanos](https://oglobo.globo.com/brasil/nao-se-pode-falar-que-bolsonaro-foi-eleito-por-causa-do-moro-diz-guedes-americanos-24571786)
 * [Alexandre pede que PGR se manifeste sobre impeachment de Witzel](https://epoca.globo.com/guilherme-amado/alexandre-pede-que-pgr-se-manifeste-sobre-impeachment-de-witzel-24571714)
-* [Hospital de Clínicas da Unicamp inicia testes clínicos de vacina contra Covid-19](https://oglobo.globo.com/sociedade/hospital-de-clinicas-da-unicamp-inicia-testes-clinicos-de-vacina-contra-covid-19-24571658)

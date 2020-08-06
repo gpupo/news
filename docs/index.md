@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 10:14:54 UTC
+# indexed at 06/08/2020 10:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [Simdjson: Parsing Gigabytes of JSON per Second](https://github.com/simdjson/simdjson)
 * [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
 * [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
+* [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
-* [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
 * [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
-* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Compiler Explorer](https://godbolt.org/)
+* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
 * [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
+* [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
-* [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
+* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
+* [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
 * [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
 * [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
-* [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
-* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
 * [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
 * [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
+* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
 ## nytimes.com
 
@@ -83,11 +83,11 @@ layout: default
 * [China’s Offer to Help With Virus Testing Spooks Hong Kong](https://www.nytimes.com/2020/08/06/business/hong-kong-china-coronavirus-testing.html)
 * [Coronavirus ‘Checkpoints’ in NYC to Enforce Travel Rules? Well, Not Exactly](https://www.nytimes.com/2020/08/05/nyregion/nyc-coronavirus-quarantine-checkpoints.html)
 * [‘Boxed Into a Corner,’ Residents Brace for Thousands to Attend Motorcycle Rally](https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Anatomy of a Public Pool in a Pandemic](https://www.nytimes.com/2020/08/06/style/public-pool-california-coronavirus-rules.html)
 * [It’s (Almost) Business as Usual at the Salzburg Festival](https://www.nytimes.com/2020/08/05/arts/music/salzburg-festival-coronavirus.html)
 * [‘La Llorona’ Review: The General in His Horrific Labyrinth](https://www.nytimes.com/2020/08/05/movies/la-llorona-review.html)
@@ -104,11 +104,11 @@ layout: default
 ## globo.com
 
 
-* [Corte dos juros para 2% ainda pode dar algum impulso à economia este ano, dizem especialistas](https://oglobo.globo.com/economia/corte-dos-juros-para-2-ainda-pode-dar-algum-impulso-economia-este-ano-dizem-especialistas-1-24570304)
+* [Lava-Jato: PF cumpre mandados de prisão contra suspeitos por desvios na Saúde em três estados e no DF](https://oglobo.globo.com/brasil/lava-jato-pf-cumpre-mandados-de-prisao-contra-suspeitos-por-desvios-na-saude-em-tres-estados-no-df-24570383)
 * [Vereador de Caxias é alvo de operação da polícia sobre fraude em combustíveis](https://oglobo.globo.com/rio/vereador-de-caxias-alvo-de-operacao-da-policia-sobre-fraude-em-combustiveis-24569726)
+* [Corte dos juros para 2% ainda pode dar algum impulso à economia este ano, dizem especialistas](https://oglobo.globo.com/economia/corte-dos-juros-para-2-ainda-pode-dar-algum-impulso-economia-este-ano-dizem-especialistas-1-24570304)
 * [Candidatura de PM citado na CPI das Milícias gera insatisfação e racha PT do Rio](https://oglobo.globo.com/brasil/candidatura-de-pm-citado-na-cpi-das-milicias-gera-insatisfacao-racha-pt-do-rio-24570282)
 * [Forças Armadas querem mais R$ 2,5 bilhões para projetos como caças, foguetes e submarinos](https://oglobo.globo.com/brasil/forcas-armadas-querem-mais-25-bilhoes-para-projetos-como-cacas-foguetes-submarinos-24570142)
-* [Vasco aposta em elenco jovem e técnico estreante para surpreender no Brasileiro](https://oglobo.globo.com/esportes/vasco-aposta-em-elenco-jovem-tecnico-estreante-para-surpreender-no-brasileiro-24570040)
 * [Julgamento no STF pode ser golpe fatal ao Sebrae, ABDI e Apex-Brasil](https://epoca.globo.com/guilherme-amado/julgamento-no-stf-pode-ser-golpe-fatal-ao-sebrae-abdi-apex-brasil-24570054)
 * [Sérgio Camargo indica aluno de Olavo de Carvalho para coordenar apoio a quilombos](https://epoca.globo.com/guilherme-amado/sergio-camargo-indica-aluno-de-olavo-de-carvalho-para-coordenar-apoio-quilombos-24570027)
 * [Coluna | Celso de Mello, o senhor do destino de Lula](https://epoca.globo.com/carolina-brigido/coluna-celso-de-mello-senhor-do-destino-de-lula-24569769)

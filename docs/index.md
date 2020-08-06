@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 05:14:20 UTC
+# indexed at 06/08/2020 05:35:05 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [A new design of ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
-* [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
+* [Epic workers aren’t just mad, they’re organizing](https://www.tonemadison.com/articles/epic-workers-arent-just-mad-theyre-organizing)
 * [Compiler Explorer](https://godbolt.org/)
+* [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
+* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
+* [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
 * [Nonprofit Sirum (YC W15) Is Hiring a Partnership Success Associate](https://sirum.breezy.hr/)
-* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
-* [$250k books sold, to save lives](https://sive.rs/250k)
-* [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
 * [Latest Firefox rolls out Enhanced Tracking Protection 2.0](https://blog.mozilla.org/blog/2020/08/04/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/)
+* [$250k books sold, to save lives](https://sive.rs/250k)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
+* [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
-* [The Expansion of the Clean Network to Safeguard America’s Assets](https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/)
-* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
-* [Ten takeaways from ten years at Retraction Watch](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/)
 * [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
+* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
+* [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
+* [Ten takeaways from ten years at Retraction Watch](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/)
 * [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
 * [Why did the atomic spy do it?](https://www.nature.com/articles/d41586-020-02279-4)
 * [Teaching quantum information science to high-school students](https://scirate.com/arxiv/2005.07874)
-* [The Cleopatra’s Nose of 1914](https://www.laphamsquarterly.org/scandal/cleopatras-nose-1914)
-* [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Lincoln Library Cancels Exhibition Over Racial Sensitivity Concerns](https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html)
 * [Poor and Desperate, Pakistani Hindus Accept Islam to Get By](https://www.nytimes.com/2020/08/04/world/asia/pakistan-hindu-conversion.html)
 * [The Biggest Bedroom Is No Longer a ‘Master’](https://www.nytimes.com/2020/08/05/realestate/master-bedroom-change.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Like Old Hollywood Movies, Video Games Get a Polish for New Audiences](https://www.nytimes.com/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
 * [A Home Inscribed With the History of Venice Beach](https://www.nytimes.com/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
 * [What Worried Artists in Lockdown? The Same Things as Everyone Else](https://www.nytimes.com/2020/08/05/arts/design/artists-lockdown-kunsthaus-bregenz-unprecedented-times.html)
@@ -103,9 +103,9 @@ layout: default
 ## globo.com
 
 
+* [Os próximos capítulos da batalha de Aras com a Lava-Jato](https://oglobo.globo.com/podcast/os-proximos-capitulos-da-batalha-de-aras-com-lava-jato-24570361)
 * ['Se gastar mais fosse a chave do sucesso, não tinham perdido a eleição ou sofrido impeachment', diz Guedes](https://oglobo.globo.com/brasil/se-gastar-mais-fosse-chave-do-sucesso-nao-tinham-perdido-eleicao-ou-sofrido-impeachment-diz-guedes-24570345)
 * [Twitter bloqueia conta da campanha de Trump por desinformação sobre Covid-19](https://oglobo.globo.com/mundo/twitter-bloqueia-conta-da-campanha-de-trump-por-desinformacao-sobre-covid-19-24570340)
-* [Garimpeiros invadem pista e impedem decolagem de avião militar que atuava no combate a garimpos](https://oglobo.globo.com/sociedade/garimpeiros-invadem-pista-impedem-decolagem-de-aviao-militar-que-atuava-no-combate-garimpos-1-24570095)
 * [Coisa de louco](https://oglobo.globo.com/opiniao/coisa-de-louco-24569747)
 * [‘Delivery’](https://oglobo.globo.com/opiniao/delivery-24569766)
 * [O rei corrupto e o Brasil](https://oglobo.globo.com/opiniao/o-rei-corrupto-o-brasil-24569724)

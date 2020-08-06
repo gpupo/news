@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 07:34:51 UTC
+# indexed at 06/08/2020 08:16:17 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [Compiler Explorer](https://godbolt.org/)
-* [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 * [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
-* [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
+* [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
+* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
+* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
+* [.NET Team Survey: Native AOT](https://github.com/dotnet/runtime/issues/40430)
+* [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
-* [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
+* [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
+* [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
 * [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
+* [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
 * [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
-* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
-* [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
-* [Epic Systems workers are organizing](https://www.tonemadison.com/articles/epic-workers-arent-just-mad-theyre-organizing)
 * [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
-* [.NET Team Survey: Native AOT](https://github.com/dotnet/runtime/issues/40430)
 * [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
-* [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
-* [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
+* [Epic Systems workers are organizing](https://www.tonemadison.com/articles/epic-workers-arent-just-mad-theyre-organizing)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
-* [Nonprofit Sirum (YC W15) Is Hiring a Partnership Success Associate](https://sirum.breezy.hr/)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [$250k books sold, to save lives](https://sive.rs/250k)
-* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
-* [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
+* [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
+* [Nonprofit Sirum (YC W15) Is Hiring a Partnership Success Associate](https://sirum.breezy.hr/)
+* [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
-* [Ten takeaways from ten years at Retraction Watch](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/)
+* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Lincoln Library Cancels Exhibition Over Racial Sensitivity Concerns](https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html)
 * [Poor and Desperate, Pakistani Hindus Accept Islam to Get By](https://www.nytimes.com/2020/08/04/world/asia/pakistan-hindu-conversion.html)
 * [The Biggest Bedroom Is No Longer a ‘Master’](https://www.nytimes.com/2020/08/05/realestate/master-bedroom-change.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [Like Old Hollywood Movies, Video Games Get a Polish for New Audiences](https://www.nytimes.com/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
 * [A Home Inscribed With the History of Venice Beach](https://www.nytimes.com/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Os próximos capítulos da batalha de Aras com a Lava-Jato](https://oglobo.globo.com/podcast/os-proximos-capitulos-da-batalha-de-aras-com-lava-jato-1-24570361)
-* ['Se gastar mais fosse a chave do sucesso, não tinham perdido a eleição ou sofrido impeachment', diz Guedes](https://oglobo.globo.com/brasil/se-gastar-mais-fosse-chave-do-sucesso-nao-tinham-perdido-eleicao-ou-sofrido-impeachment-diz-guedes-24570345)
-* [Twitter bloqueia conta da campanha de Trump por desinformação sobre Covid-19](https://oglobo.globo.com/mundo/twitter-bloqueia-conta-da-campanha-de-trump-por-desinformacao-sobre-covid-19-24570340)
-* [Coisa de louco](https://oglobo.globo.com/opiniao/coisa-de-louco-24569747)
-* [‘Delivery’](https://oglobo.globo.com/opiniao/delivery-24569766)
-* [O rei corrupto e o Brasil](https://oglobo.globo.com/opiniao/o-rei-corrupto-o-brasil-24569724)
-* [Saúde e Educação abatidas pela reforma tributária](https://oglobo.globo.com/opiniao/saude-educacao-abatidas-pela-reforma-tributaria-24569679)
-* [Explosão em Beirute prova que não existe crise que não possa se agravar](https://oglobo.globo.com/opiniao/explosao-em-beirute-prova-que-nao-existe-crise-que-nao-possa-se-agravar-24569663)
-* [Ímpeto gastador do bolsonarismo cresce e preocupa](https://oglobo.globo.com/opiniao/impeto-gastador-do-bolsonarismo-cresce-preocupa-24569611)
-* [Castigo além da pandemia](https://oglobo.globo.com/opiniao/castigo-alem-da-pandemia-24569320)
+* [Celular de traficante tem nomes de PMs na agenda](https://oglobo.globo.com/rio/celular-de-traficante-tem-nomes-de-pms-na-agenda-1-24570131)
+* [PGR pede soltura de Edmar e diz que há provas que colocam 'Witzel no vértice da pirâmide'](https://oglobo.globo.com/rio/pgr-pede-soltura-de-edmar-diz-que-ha-provas-que-colocam-witzel-no-vertice-da-piramide-24570163)
+* [Quase metade dos que contraem coronavírus em hospitais morrem](https://oglobo.globo.com/sociedade/quase-metade-dos-que-contraem-coronavirus-em-hospitais-morrem-24570138)
+* [Processo contra Flávio Bolsonaro está parado há quase seis meses no Senado](https://oglobo.globo.com/brasil/processo-contra-flavio-bolsonaro-esta-parado-ha-quase-seis-meses-no-senado-24570130)
+* [O campeão Ceará é a maior ameaça do Nordeste aos times do Sudeste/Sul no Brasileiro?](https://oglobo.globo.com/esportes/o-campeao-ceara-a-maior-ameaca-do-nordeste-aos-times-do-sudestesul-no-brasileiro-1-24570254)
+* [Doria fará pacote com demissão voluntária de servidor e redução de benefícios para diminuir rombo nas contas em 2021](https://oglobo.globo.com/economia/doria-fara-pacote-com-demissao-voluntaria-de-servidor-reducao-de-beneficios-para-diminuir-rombo-nas-contas-em-2021-24570002)
+* [Arábia Saudita opera unidade de processamento de urânio, diz Wall Street Journal](https://oglobo.globo.com/mundo/arabia-saudita-opera-unidade-de-processamento-de-uranio-diz-wall-street-journal-24568871)
+* [A influência de Torrent, novo técnico do Flamengo, na comissão técnica de Guardiola](https://oglobo.globo.com/esportes/a-influencia-de-torrent-novo-tecnico-do-flamengo-na-comissao-tecnica-de-guardiola-1-24569335)
+* [Vasco aposta em elenco jovem e técnico estreante para surpreender no Brasileiro](https://oglobo.globo.com/esportes/vasco-aposta-em-elenco-jovem-tecnico-estreante-para-surpreender-no-brasileiro-24570040)
+* [Projeto resgata canções inéditas de Adoniran Barbosa](https://oglobo.globo.com/rioshow/projeto-resgata-cancoes-ineditas-de-adoniran-barbosa-24569778)

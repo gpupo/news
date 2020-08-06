@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 15:14:36 UTC
+# indexed at 06/08/2020 15:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
-* [Simdjson: Parsing Gigabytes of JSON per Second](https://github.com/simdjson/simdjson)
+* [Simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
 * [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
 * [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
 * [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
-* [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
-* [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
-* [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
-* [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
+* [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
 * [Pulse oximeters give biased results for people with darker skin](https://bostonreview.net/science-nature-race/amy-moran-thomas-how-popular-medical-device-encodes-racial-bias)
-* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+* [Google discontinues the Pixel 4, nine months after release](https://techcrunch.com/2020/08/06/google-discontinues-the-pixel-4-nine-months-after-release/)
+* [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
+* [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
+* [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
 * [DIY Bertin Matrix with 569 Dominoes and No Glue](https://aviz.fr/diyMatrix/)
 * [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
+* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 * [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
-* [Cerebral Micro-Structural Changes in Covid-19 Patients](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
-* [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
-* [Two Features of JavaScript that you might not know](https://www.monkwhocode.com/2020/06/javascriptnodejs-2-features-that-you.html)
-* [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [Social Movements Are Pushing Google Sheets to the Breaking Point](https://onezero.medium.com/social-movements-are-pushing-google-sheets-to-the-breaking-point-28bb86b76043)
+* [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
 * [An Inside Look at CloudKitchens](https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 * [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
+* [Twitter web app gzip size dropped from 16.6 KB to 2.7 KB by removing polyfills](https://twitter.com/wongmjane/status/1291388433747685376)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
+* [Cerebral Micro-Structural Changes in Covid-19 Patients](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
-* [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
+* [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
 * [Compiler Explorer](https://godbolt.org/)
 ## nytimes.com
 
@@ -85,10 +85,10 @@ layout: default
 * [China’s Offer to Help With Virus Testing Spooks Hong Kong](https://www.nytimes.com/2020/08/06/business/hong-kong-china-coronavirus-testing.html)
 * [Coronavirus ‘Checkpoints’ in NYC to Enforce Travel Rules? Well, Not Exactly](https://www.nytimes.com/2020/08/05/nyregion/nyc-coronavirus-quarantine-checkpoints.html)
 * [‘Boxed Into a Corner,’ Residents Brace for Thousands to Attend Motorcycle Rally](https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [Anatomy of a Public Pool in a Pandemic](https://www.nytimes.com/2020/08/06/style/public-pool-california-coronavirus-rules.html)
 * [It’s (Almost) Business as Usual at the Salzburg Festival](https://www.nytimes.com/2020/08/05/arts/music/salzburg-festival-coronavirus.html)
 * [‘La Llorona’ Review: The General in His Horrific Labyrinth](https://www.nytimes.com/2020/08/05/movies/la-llorona-review.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Com presidente de saída, Banco do Brasil tem queda de lucro de 25% no segundo trimestre](https://oglobo.globo.com/economia/com-presidente-de-saida-banco-do-brasil-tem-queda-de-lucro-de-25-no-segundo-trimestre-24570752)
-* [Justiça proíbe retorno de aulas presenciais nas escolas particulares no Rio](https://oglobo.globo.com/rio/justica-proibe-retorno-de-aulas-presenciais-nas-escolas-particulares-no-rio-24570783)
-* [Guedes promete ‘redução drástica de gastos’ em 2021](https://oglobo.globo.com/economia/guedes-promete-reducao-drastica-de-gastos-em-2021-1-24570771)
-* [Ascensão política de Baldy teve doações milionárias do sogro e proximidade com Carlinhos Cachoeira](https://oglobo.globo.com/brasil/ascensao-politica-de-baldy-teve-doacoes-milionarias-do-sogro-proximidade-com-carlinhos-cachoeira-24570726)
+* [Sem Aras, Toffoli e governo assinam nova regra para acordos de leniência e excluem MPF](https://oglobo.globo.com/brasil/sem-aras-toffoli-governo-assinam-nova-regra-para-acordos-de-leniencia-excluem-mpf-24570795)
+* [Justiça suspende decreto de Crivella e proíbe retorno de aulas presenciais nas escolas particulares no Rio](https://oglobo.globo.com/rio/justica-suspende-decreto-de-crivella-proibe-retorno-de-aulas-presenciais-nas-escolas-particulares-no-rio-24570783)
+* [Embarcação com 40 imigrantes naufraga na Mauritânia](https://oglobo.globo.com/mundo/embarcacao-com-40-imigrantes-naufraga-na-mauritania-24570804)
 * [Pedidos de seguro-desemprego nos EUA caem a nível mais baixo desde o início da pandemia](https://oglobo.globo.com/economia/pedidos-de-seguro-desemprego-nos-eua-caem-nivel-mais-baixo-desde-inicio-da-pandemia-24570677)
+* [Guedes promete ‘redução drástica de gastos’ em 2021](https://oglobo.globo.com/economia/guedes-promete-reducao-drastica-de-gastos-em-2021-1-24570771)
+* [Adega, chão em mármore e elevador: a casa de Baldy onde a PF apreendeu R$ 90 mil](https://epoca.globo.com/guilherme-amado/adega-chao-em-marmore-elevador-casa-de-baldy-onde-pf-apreendeu-90-mil-24570796)
+* [Com presidente de saída, Banco do Brasil tem queda de lucro de 25% no segundo trimestre](https://oglobo.globo.com/economia/com-presidente-de-saida-banco-do-brasil-tem-queda-de-lucro-de-25-no-segundo-trimestre-24570752)
 * [Estudo do HC aponta que perda de olfato após Covid-19 pode ser permanente](https://epoca.globo.com/sociedade/estudo-do-hc-aponta-que-perda-de-olfato-apos-covid-19-pode-ser-permanente-24569839)
 * [Pandemia motivou prisão domiciliar para 47 mil detentos](https://epoca.globo.com/pandemia-motivou-prisao-domiciliar-para-47-mil-detentos-24570732)
-* [Três em cada quatro agentes penitenciários dizem ter saúde mental afetada pela pandemia](https://oglobo.globo.com/sociedade/tres-em-cada-quatro-agentes-penitenciarios-dizem-ter-saude-mental-afetada-pela-pandemia-24570651)
-* [Procon-RJ retoma atendimento presencial, mas é preciso agendamento](https://oglobo.globo.com/economia/defesa-do-consumidor/procon-rj-retoma-atendimento-presencial-mas-preciso-agendamento-24570722)
 * [Demanda por entregas dos Correios aumenta 20% no primeiro semestre](https://epoca.globo.com/guilherme-amado/demanda-por-entregas-dos-correios-aumenta-20-no-primeiro-semestre-24569886)

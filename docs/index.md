@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 01:16:12 UTC
+# indexed at 06/08/2020 01:35:25 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
 * [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
-* [Latest Firefox rolls out Enhanced Tracking Protection 2.0](https://blog.mozilla.org/blog/2020/08/04/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
+* [Latest Firefox rolls out Enhanced Tracking Protection 2.0](https://blog.mozilla.org/blog/2020/08/04/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
+* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
 * [Ten takeaways from ten years at Retraction Watch](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
-* [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 * [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
-* [Show HN: We're building a virtual meetup platform](https://app.venu.tv)
-* [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
-* [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
+* [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [Why did the atomic spy do it?](https://www.nature.com/articles/d41586-020-02279-4)
+* [Show HN: We're building a virtual meetup platform](https://app.venu.tv)
+* [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
+* [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
 * [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
-* [The BEAM needs an APL-y language (2018)](https://medium.com/@gordonguthrie/the-beam-needs-an-apl-y-language-6c5c998ba6d)
 * [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
+* [The Expansion of the Clean Network to Safeguard America’s Assets](https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/)
 * [WebGL Fluid Experiment (2014)](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
-* [Researchers demonstrate the ability to fuse atoms inside room-temperature metals](https://spectrum.ieee.org/energywise/energy/nuclear/nuclear-fusiontokamak-not-included)
+* [The BEAM needs an APL-y language (2018)](https://medium.com/@gordonguthrie/the-beam-needs-an-apl-y-language-6c5c998ba6d)
 * [Men rescued from Pacific island after writing SOS in sand](https://apnews.com/1566b3c6a377ee907a0f2e143a5b26c9)
-* [Volley (YC W18) is hiring engineers and designers to build Alexa games](https://jobs.lever.co/volleythat)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
-* [USGS Data on the Lebanon Blast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000b9bx/executive)
 * [Luau – A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
+* [Volley (YC W18) is hiring engineers and designers to build Alexa games](https://jobs.lever.co/volleythat)
 ## nytimes.com
 
 
@@ -51,8 +51,7 @@ layout: default
 * [Trump Raises $165 Million With G.O.P. in July, Overtaking Biden](https://www.nytimes.com/2020/08/05/us/politics/trump-biden-campaign-finance.html)
 * [Trump’s Bank Was Subpoenaed by N.Y. Prosecutors in Criminal Inquiry](https://www.nytimes.com/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html)
 * [Another Inspector General Resigns Amid Questions About Pompeo](https://www.nytimes.com/2020/08/05/us/politics/inspector-general-pompeo-state.html)
-* [The Covid Drug Wars That Pitted Doctor vs. Doctor](https://www.nytimes.com/2020/08/05/magazine/covid-drug-wars-doctors.html)
-* [Stay Away From These 115 Hand Sanitizers, F.D.A. Warns](https://www.nytimes.com/2020/08/04/health/fda-hand-sanitizer-recall.html)
+* [U.S. Examines Whether Saudi Nuclear Program Could Lead to Bomb Effort](https://www.nytimes.com/2020/08/05/us/politics/us-examines-saudi-nuclear-program.html)
 * [‘Godspell’ in 2020: Masks, Partitions and a Contactless Crucifixion](https://www.nytimes.com/2020/08/05/theater/godspell-berkshires-coronavirus.html)
 * [Progressives, School Reopenings, Beirut: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/08/05/briefing/progressives-school-reopenings-beirut.html)
 * [‘Stay Black and Die’](https://www.nytimes.com/2020/08/05/podcasts/the-daily/protests-racism-police-brutality.html)
@@ -101,6 +100,8 @@ layout: default
 ## globo.com
 
 
+* [Garimpeiros invadem pista e impedem decolagem de avião militar que atuava no combate a garimpos](https://oglobo.globo.com/sociedade/garimpeiros-invadem-pista-impedem-decolagem-de-aviao-militar-que-atuava-no-combate-garimpos-1-24570095)
+* [Facebook remove publicação de Trump com informação errada sobre coronavírus](https://oglobo.globo.com/mundo/facebook-remove-publicacao-de-trump-com-informacao-errada-sobre-coronavirus-24569773)
 * [Bolsonaro sanciona, com vetos, projeto de ajuda às companhias aéreas](https://oglobo.globo.com/economia/bolsonaro-sanciona-com-vetos-projeto-de-ajuda-as-companhias-aereas-24570060)
 * [TJ não considera que prefeitura descumpriu liminar e Rio abrirá 168 refeitórios municipais](https://oglobo.globo.com/rio/tj-nao-considera-que-prefeitura-descumpriu-liminar-rio-abrira-168-refeitorios-municipais-24570079)
 * [Três adolescentes são presos após entrar em resort de Trump com AK-47 na mochila](https://oglobo.globo.com/mundo/tres-adolescentes-sao-presos-apos-entrar-em-resort-de-trump-com-ak-47-na-mochila-24570073)
@@ -109,5 +110,3 @@ layout: default
 * [Região Norte é a única com tendência de queda para mortes por Covid-19](https://oglobo.globo.com/sociedade/regiao-norte-a-unica-com-tendencia-de-queda-para-mortes-por-covid-19-24569976)
 * [Morre ator Gésio Amadeu, de 'Renascer' e 'Chiquititas', aos 73 anos, vítima da Covid-19](https://oglobo.globo.com/cultura/morre-ator-gesio-amadeu-de-renascer-chiquititas-aos-73-anos-vitima-da-covid-19-1-24569762)
 * [Câmara adia votação do socorro de R$ 4 bi a empresas de transporte público](https://oglobo.globo.com/economia/camara-adia-votacao-do-socorro-de-4-bi-empresas-de-transporte-publico-24569800)
-* [Facebook remove publicação de Trump com informação errada sobre coronavírus](https://oglobo.globo.com/mundo/facebook-remove-publicacao-de-trump-com-informacao-errada-sobre-coronavirus-24569773)
-* [Backer produzia cerveja contaminada desde janeiro de 2019, diz Ministério da Agricultura](https://oglobo.globo.com/sociedade/backer-produzia-cerveja-contaminada-desde-janeiro-de-2019-diz-ministerio-da-agricultura-24569524)

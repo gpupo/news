@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 14:35:03 UTC
+# indexed at 06/08/2020 15:14:36 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [Simdjson: Parsing Gigabytes of JSON per Second](https://github.com/simdjson/simdjson)
 * [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
 * [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
@@ -15,29 +16,28 @@ layout: default
 * [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
 * [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
-* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
-* [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
+* [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
+* [Pulse oximeters give biased results for people with darker skin](https://bostonreview.net/science-nature-race/amy-moran-thomas-how-popular-medical-device-encodes-racial-bias)
+* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 * [DIY Bertin Matrix with 569 Dominoes and No Glue](https://aviz.fr/diyMatrix/)
-* [An Inside Look at CloudKitchens](https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens)
 * [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
 * [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
-* [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
+* [Cerebral Micro-Structural Changes in Covid-19 Patients](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
 * [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
 * [Two Features of JavaScript that you might not know](https://www.monkwhocode.com/2020/06/javascriptnodejs-2-features-that-you.html)
-* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
+* [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
+* [Social Movements Are Pushing Google Sheets to the Breaking Point](https://onezero.medium.com/social-movements-are-pushing-google-sheets-to-the-breaking-point-28bb86b76043)
+* [An Inside Look at CloudKitchens](https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens)
+* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
-* [Cerebral Micro-Structural Changes in Covid-19 Patients](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
+* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
 * [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Compiler Explorer](https://godbolt.org/)
-* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
-* [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 ## nytimes.com
 
 
@@ -77,9 +77,9 @@ layout: default
 * [Fair Balls and Foul Language](https://www.nytimes.com/2020/08/06/sports/baseball/mlb-swearing.html)
 * [Why the Mueller Investigation Failed](https://www.nytimes.com/2020/08/05/books/review/true-crimes-and-misdemeanors-jeffrey-toobin.html)
 * [Lawmakers Aim to Prevent Trump From Bypassing Ban on Armed Drone Sales](https://www.nytimes.com/2020/08/06/us/politics/lawmakers-trump-armed-drone-sales.html)
-* [C.D.C. Warns Against Drinking Hand Sanitizer](https://www.nytimes.com/2020/08/05/us/drinking-hand-sanitizer.html)
+* [Facebook Must Better Police Online Hate, State Attorneys General Say](https://www.nytimes.com/2020/08/05/technology/facebook-online-hate.html)
 * [Major U.S. Health Insurers Report Big Profits, Benefiting From the Pandemic](https://www.nytimes.com/2020/08/05/health/covid-insurance-profits.html)
-* [Health Experts to F.D.A.: Make Your Vaccine Deliberations Public](https://www.nytimes.com/2020/08/05/health/covid-19-vaccine-fda.html)
+* [The Metropolitan Museum of Art Lays Off Dozens More Workers](https://www.nytimes.com/2020/08/05/arts/design/met-museum-layoffs-pandemic.html)
 * [Police Identify Suspect in Seattle Killing During June Protests](https://www.nytimes.com/2020/08/06/us/suspect-in-seattle-killing-june-protests.html)
 * [A Family Cries ‘Justice for Hannah.’ Will Its Rural Town Listen?](https://www.nytimes.com/2020/08/06/us/hannah-fizer-police-shooting.html)
 * [China’s Offer to Help With Virus Testing Spooks Hong Kong](https://www.nytimes.com/2020/08/06/business/hong-kong-china-coronavirus-testing.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Pandemia faz 3,5 milhões de brasileiros pedirem seguro-desemprego entre março e julho](https://oglobo.globo.com/economia/pandemia-faz-35-milhoes-de-brasileiros-pedirem-seguro-desemprego-entre-marco-julho-24570673)
+* [Com presidente de saída, Banco do Brasil tem queda de lucro de 25% no segundo trimestre](https://oglobo.globo.com/economia/com-presidente-de-saida-banco-do-brasil-tem-queda-de-lucro-de-25-no-segundo-trimestre-24570752)
+* [Justiça proíbe retorno de aulas presenciais nas escolas particulares no Rio](https://oglobo.globo.com/rio/justica-proibe-retorno-de-aulas-presenciais-nas-escolas-particulares-no-rio-24570783)
+* [Guedes promete ‘redução drástica de gastos’ em 2021](https://oglobo.globo.com/economia/guedes-promete-reducao-drastica-de-gastos-em-2021-1-24570771)
 * [Ascensão política de Baldy teve doações milionárias do sogro e proximidade com Carlinhos Cachoeira](https://oglobo.globo.com/brasil/ascensao-politica-de-baldy-teve-doacoes-milionarias-do-sogro-proximidade-com-carlinhos-cachoeira-24570726)
 * [Pedidos de seguro-desemprego nos EUA caem a nível mais baixo desde o início da pandemia](https://oglobo.globo.com/economia/pedidos-de-seguro-desemprego-nos-eua-caem-nivel-mais-baixo-desde-inicio-da-pandemia-24570677)
-* [Morre o arquiteto André Piva, aos 52 anos, no Rio de Janeiro](https://oglobo.globo.com/ela/decoracao/morre-arquiteto-andre-piva-aos-52-anos-no-rio-de-janeiro-24570427)
+* [Estudo do HC aponta que perda de olfato após Covid-19 pode ser permanente](https://epoca.globo.com/sociedade/estudo-do-hc-aponta-que-perda-de-olfato-apos-covid-19-pode-ser-permanente-24569839)
+* [Pandemia motivou prisão domiciliar para 47 mil detentos](https://epoca.globo.com/pandemia-motivou-prisao-domiciliar-para-47-mil-detentos-24570732)
 * [Três em cada quatro agentes penitenciários dizem ter saúde mental afetada pela pandemia](https://oglobo.globo.com/sociedade/tres-em-cada-quatro-agentes-penitenciarios-dizem-ter-saude-mental-afetada-pela-pandemia-24570651)
 * [Procon-RJ retoma atendimento presencial, mas é preciso agendamento](https://oglobo.globo.com/economia/defesa-do-consumidor/procon-rj-retoma-atendimento-presencial-mas-preciso-agendamento-24570722)
-* [Bolsonaro diz que Forças Armadas dão 'tranquilidade' para ele conduzir o país](https://oglobo.globo.com/brasil/bolsonaro-diz-que-forcas-armadas-dao-tranquilidade-para-ele-conduzir-pais-1-24570641)
-* [De uma só vez, Papa nomeia seis mulheres para Conselho Econômico do Vaticano](https://oglobo.globo.com/celina/de-uma-so-vez-papa-nomeia-seis-mulheres-para-conselho-economico-do-vaticano-24570689)
-* [Aras diz que procuradores 'não podem rejeitar diretrizes' dos órgãos superiores da PGR](https://oglobo.globo.com/brasil/aras-diz-que-procuradores-nao-podem-rejeitar-diretrizes-dos-orgaos-superiores-da-pgr-24570684)
-* [Acordo com China garante produção de 100 milhões de doses de vacina da Oxford no país até dezembro](https://oglobo.globo.com/sociedade/acordo-com-china-garante-producao-de-100-milhoes-de-doses-de-vacina-da-oxford-no-pais-ate-dezembro-24570616)
+* [Demanda por entregas dos Correios aumenta 20% no primeiro semestre](https://epoca.globo.com/guilherme-amado/demanda-por-entregas-dos-correios-aumenta-20-no-primeiro-semestre-24569886)

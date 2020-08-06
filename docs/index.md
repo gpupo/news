@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 01:35:25 UTC
+# indexed at 06/08/2020 02:16:26 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
-* [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
+* [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [Compiler Explorer](https://godbolt.org/)
-* [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
+* [The Expansion of the Clean Network to Safeguard America’s Assets](https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/)
 * [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
+* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
+* [Fuzzbuzz (YC W19) Is Hiring a Sr Back End Engineer (Remote/US Only)](https://angel.co/company/fuzzbuzz/jobs/924765-backend-software-engineer)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [Latest Firefox rolls out Enhanced Tracking Protection 2.0](https://blog.mozilla.org/blog/2020/08/04/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/)
-* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
-* [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
 * [Ten takeaways from ten years at Retraction Watch](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/)
+* [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
-* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
-* [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
-* [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [Why did the atomic spy do it?](https://www.nature.com/articles/d41586-020-02279-4)
-* [Show HN: We're building a virtual meetup platform](https://app.venu.tv)
+* [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
+* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
+* [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
+* [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
 * [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
 * [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
+* [Show HN: We're building a virtual meetup platform](https://app.venu.tv)
+* [The Cleopatra’s Nose of 1914](https://www.laphamsquarterly.org/scandal/cleopatras-nose-1914)
 * [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
-* [The Expansion of the Clean Network to Safeguard America’s Assets](https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/)
+* [Do Not Trust Google](https://lukeboyle.com/blog-posts/2020/08/do-not-trust-google)
 * [WebGL Fluid Experiment (2014)](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
-* [The BEAM needs an APL-y language (2018)](https://medium.com/@gordonguthrie/the-beam-needs-an-apl-y-language-6c5c998ba6d)
-* [Men rescued from Pacific island after writing SOS in sand](https://apnews.com/1566b3c6a377ee907a0f2e143a5b26c9)
 * [Luau – A fast, small, safe, gradually typed scripting language derived from Lua](https://roblox.github.io/luau/)
-* [Volley (YC W18) is hiring engineers and designers to build Alexa games](https://jobs.lever.co/volleythat)
 ## nytimes.com
 
 
@@ -73,15 +73,15 @@ layout: default
 * [Why the U.S. Dropped Atomic Bombs on Japan](https://www.nytimes.com/2020/08/03/books/review/unconditional-marc-gallicchio.html)
 * [State Dept. Traces Russian Disinformation Links](https://www.nytimes.com/2020/08/05/us/politics/state-department-russian-disinformation.html)
 * [It’s Trump Jr. vs. Trump Sr. Over an Alaskan Mineral Mine](https://www.nytimes.com/2020/08/05/us/politics/pebble-mine-trump-alaska.html)
-* [Isaias Outages: In Storm's Wake, Million Still Without Power in N.Y., N.J. and C.T](https://www.nytimes.com/2020/08/05/nyregion/isaias-hurricane-storm-damage-ny-nj.html)
+* [C.D.C. Warns of the Dangers of Drinking Hand Sanitizer After Fatal Poisonings](https://www.nytimes.com/2020/08/05/us/drinking-hand-sanitizer.html)
 * [Split 5 to 4, Supreme Court Rules for California Jail Over Virus Measures](https://www.nytimes.com/2020/08/05/us/coronavirus-supreme-court-california-jail.html)
 * [Doris Buffett, the Family’s ‘Retail Philanthropist,’ Dies at 92](https://www.nytimes.com/2020/08/05/business/doris-buffett-the-familys-retail-philanthropist-dies-at-92.html)
 * [Hiroshima 75th Anniversary: Preserving Survivors’ Message of Peace](https://www.nytimes.com/2020/08/05/world/asia/hiroshima-japan-75th-anniversary.html)
 * [Lincoln Library Cancels Exhibition Over Racial Sensitivity Concerns](https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html)
 * [Cancellations, Opt-Outs and Virus Cases Put Heat on College Football](https://www.nytimes.com/2020/08/05/sports/ncaafootball/coronavirus-uconn-cancels-football.html)
 * [The Biggest Bedroom Is No Longer a ‘Master’](https://www.nytimes.com/2020/08/05/realestate/master-bedroom-change.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
@@ -94,19 +94,20 @@ layout: default
 * [Can a Physically Taxing Job Be Bad for Our Brains?](https://www.nytimes.com/2020/08/05/well/move/can-a-physically-taxing-job-be-bad-for-our-brains.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
 * [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
+* [A Professor Was a Twitter Hoax](https://www.nytimes.com/2020/08/04/style/college-coronavirus-hoax.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Garimpeiros invadem pista e impedem decolagem de avião militar que atuava no combate a garimpos](https://oglobo.globo.com/sociedade/garimpeiros-invadem-pista-impedem-decolagem-de-aviao-militar-que-atuava-no-combate-garimpos-1-24570095)
 * [Facebook remove publicação de Trump com informação errada sobre coronavírus](https://oglobo.globo.com/mundo/facebook-remove-publicacao-de-trump-com-informacao-errada-sobre-coronavirus-24569773)
+* [Três adolescentes são presos após entrar em resort de Trump com AK-47 na mochila](https://oglobo.globo.com/mundo/tres-adolescentes-sao-presos-apos-entrar-em-resort-de-trump-com-ak-47-na-mochila-24570073)
+* [Região Norte é a única com tendência de queda para mortes por Covid-19](https://oglobo.globo.com/sociedade/regiao-norte-a-unica-com-tendencia-de-queda-para-mortes-por-covid-19-24569976)
+* [Garimpeiros invadem pista e impedem decolagem de avião militar que atuava no combate a garimpos](https://oglobo.globo.com/sociedade/garimpeiros-invadem-pista-impedem-decolagem-de-aviao-militar-que-atuava-no-combate-garimpos-1-24570095)
 * [Bolsonaro sanciona, com vetos, projeto de ajuda às companhias aéreas](https://oglobo.globo.com/economia/bolsonaro-sanciona-com-vetos-projeto-de-ajuda-as-companhias-aereas-24570060)
 * [TJ não considera que prefeitura descumpriu liminar e Rio abrirá 168 refeitórios municipais](https://oglobo.globo.com/rio/tj-nao-considera-que-prefeitura-descumpriu-liminar-rio-abrira-168-refeitorios-municipais-24570079)
-* [Três adolescentes são presos após entrar em resort de Trump com AK-47 na mochila](https://oglobo.globo.com/mundo/tres-adolescentes-sao-presos-apos-entrar-em-resort-de-trump-com-ak-47-na-mochila-24570073)
 * [Mega-Sena acumula e próximo sorteio pode pagar R$6,5 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-r65-milhoes-24570061)
 * [Deputado que xingou ministro do STF diz que se arrependeu e pedirá desculpas: 'Errei'](https://oglobo.globo.com/brasil/deputado-que-xingou-ministro-do-stf-diz-que-se-arrependeu-pedira-desculpas-errei-1-24569915)
-* [Região Norte é a única com tendência de queda para mortes por Covid-19](https://oglobo.globo.com/sociedade/regiao-norte-a-unica-com-tendencia-de-queda-para-mortes-por-covid-19-24569976)
 * [Morre ator Gésio Amadeu, de 'Renascer' e 'Chiquititas', aos 73 anos, vítima da Covid-19](https://oglobo.globo.com/cultura/morre-ator-gesio-amadeu-de-renascer-chiquititas-aos-73-anos-vitima-da-covid-19-1-24569762)
 * [Câmara adia votação do socorro de R$ 4 bi a empresas de transporte público](https://oglobo.globo.com/economia/camara-adia-votacao-do-socorro-de-4-bi-empresas-de-transporte-publico-24569800)

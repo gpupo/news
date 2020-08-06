@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 13:14:13 UTC
+# indexed at 06/08/2020 13:34:26 UTC
 
 
 ## news.ycombinator.com
@@ -16,16 +16,19 @@ layout: default
 * [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
+* [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
 * [An Inside Look at CloudKitchens](https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens)
-* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
 * [DIY Bertin Matrix with 569 Dominoes and No Glue](https://aviz.fr/diyMatrix/)
+* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
+* [Pulse oximeters–popular Covid oxygen tracker–give Black people biased results](https://bostonreview.net/science-nature-race/amy-moran-thomas-how-popular-medical-device-encodes-racial-bias)
 * [Compiler Explorer](https://godbolt.org/)
 * [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
-* [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
+* [Cerebral Micro-Structural Changes in Covid-19 Patients](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
 * [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
+* [Two Features of JavaScript that you might not know](https://www.monkwhocode.com/2020/06/javascriptnodejs-2-features-that-you.html)
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
 * [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
@@ -35,9 +38,6 @@ layout: default
 * [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
-* [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
-* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
-* [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 ## nytimes.com
 
 
@@ -59,9 +59,9 @@ layout: default
 * [After Hiroshima's Carnage, Setsuko Thurlow Devoted Her Life to Peace](https://www.nytimes.com/2020/08/06/world/asia/hiroshima-japan-setsuko-thurlow.html)
 * [America Stands Alone](https://www.nytimes.com/2020/08/06/briefing/coronavirus-beirut-deutsche-bank-your-thursday-briefing.html)
 * [After Isaias, When Will Power Be Back?](https://www.nytimes.com/2020/08/06/nyregion/power-outage-ny-nj-ct.html)
+* [‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/this-is-our-school-how-dare-you.html)
 * [The Day That Shook Beirut](https://www.nytimes.com/2020/08/06/podcasts/the-daily/beirut-explosion-damage.html)
 * [The Tech You Love](https://www.nytimes.com/2020/08/05/technology/tech-inventions.html)
-* [The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [New Students Show Diversity of U.C.’s Freshman Class](https://www.nytimes.com/2020/08/06/us/university-of-california-incoming-class.html)
 * [The Beirut Explosions: It Sounded Like the World Was Breaking Open](https://www.nytimes.com/2020/08/05/opinion/beirut-port-explosions.html)
 * [Employers Are Discriminating Against Mothers During the Coronavirus Pandemic](https://www.nytimes.com/2020/08/06/opinion/mothers-discrimination-coronavirus.html)
@@ -85,11 +85,11 @@ layout: default
 * [China’s Offer to Help With Virus Testing Spooks Hong Kong](https://www.nytimes.com/2020/08/06/business/hong-kong-china-coronavirus-testing.html)
 * [Coronavirus ‘Checkpoints’ in NYC to Enforce Travel Rules? Well, Not Exactly](https://www.nytimes.com/2020/08/05/nyregion/nyc-coronavirus-quarantine-checkpoints.html)
 * [‘Boxed Into a Corner,’ Residents Brace for Thousands to Attend Motorcycle Rally](https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [How We Get Stronger](https://www.nytimes.com/2020/07/01/well/move/how-we-get-stronger.html)
-* [Boeing’s 737 Max is Being Readied for a Comeback. What Travelers Need to Know.](https://www.nytimes.com/2020/07/02/travel/boeings-737-max-flying.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Anatomy of a Public Pool in a Pandemic](https://www.nytimes.com/2020/08/06/style/public-pool-california-coronavirus-rules.html)
 * [It’s (Almost) Business as Usual at the Salzburg Festival](https://www.nytimes.com/2020/08/05/arts/music/salzburg-festival-coronavirus.html)
 * [‘La Llorona’ Review: The General in His Horrific Labyrinth](https://www.nytimes.com/2020/08/05/movies/la-llorona-review.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [PRF apreende 22 fuzis e 21 pistolas que saíram do Paraguai e seriam entregues na Maré](https://oglobo.globo.com/rio/prf-apreende-22-fuzis-21-pistolas-que-sairam-do-paraguai-seriam-entregues-na-mare-1-24570512)
-* [Bezos vende US$ 3,1 bi em ações na Amazon e fica ainda mais rico](https://oglobo.globo.com/economia/bezos-vende-us-31-bi-em-acoes-na-amazon-fica-ainda-mais-rico-24570534)
+* [Cameron Diaz, sobre abandonar carreira de atriz em Hollywood: 'Encontrei paz'](https://oglobo.globo.com/cultura/cameron-diaz-sobre-abandonar-carreira-de-atriz-em-hollywood-encontrei-paz-24570593)
 * [Dois dias após explosões em Beirute, choque de libaneses dá lugar à raiva](https://oglobo.globo.com/mundo/dois-dias-apos-explosoes-em-beirute-choque-de-libaneses-da-lugar-raiva-24570520)
-* [Com pandemia, país perde 8,9 milhões de vagas em apenas um trimestre](https://oglobo.globo.com/economia/com-pandemia-pais-perde-89-milhoes-de-vagas-em-apenas-um-trimestre-24570428)
+* [ONG cria renda mínima para catadores durante a pandemia](https://oglobo.globo.com/premio-faz-diferenca/boas-acoes-na-pandemia/ong-cria-renda-minima-para-catadores-durante-pandemia-24460136)
+* [Bezos vende US$ 3,1 bi em ações da Amazon e fica ainda mais rico](https://oglobo.globo.com/economia/bezos-vende-us-31-bi-em-acoes-da-amazon-fica-ainda-mais-rico-24570534)
+* [Dólar sobe mais de 1% e vale R$ 5,34 após nova redução da Selic](https://oglobo.globo.com/economia/dolar-sobe-mais-de-1-vale-534-apos-nova-reducao-da-selic-24570582)
+* [Com porto destruído, Líbano vive temor de desabastecimento e fome](https://epoca.globo.com/guilherme-amado/com-porto-destruido-libano-vive-temor-de-desabastecimento-fome-24570577)
+* [PRF apreende 22 fuzis e 21 pistolas que saíram do Paraguai e seriam entregues na Maré](https://oglobo.globo.com/rio/prf-apreende-22-fuzis-21-pistolas-que-sairam-do-paraguai-seriam-entregues-na-mare-1-24570512)
 * [Globo vai à Justiça para impedir Turner de transmitir jogos de clubes com os quais não tem contrato](https://oglobo.globo.com/esportes/globo-vai-justica-para-impedir-turner-de-transmitir-jogos-de-clubes-com-os-quais-nao-tem-contrato-24570521)
 * ['Nunca abusei de ninguém', diz Plácido Domingo](https://oglobo.globo.com/cultura/nunca-abusei-de-ninguem-diz-placido-domingo-1-24570484)
-* [Operação da PF investiga fraudes em compras da Prefeitura de SP durante pandemia](https://oglobo.globo.com/brasil/operacao-da-pf-investiga-fraudes-em-compras-da-prefeitura-de-sp-durante-pandemia-24570466)
 * [Ameaça de falta de heparina, medicamento essencial na hemodiálise, preocupa doentes renais crônicos](https://oglobo.globo.com/sociedade/ameaca-de-falta-de-heparina-medicamento-essencial-na-hemodialise-preocupa-doentes-renais-cronicos-24568737)
-* [Bilionário americano compra time da Roma por 700 milhões de dólares](https://oglobo.globo.com/esportes/bilionario-americano-compra-time-da-roma-por-700-milhoes-de-dolares-24570453)
-* [A maratona para ser o novo ator ou atriz do Porta dos Fundos](https://epoca.globo.com/guilherme-amado/a-maratona-para-ser-novo-ator-ou-atriz-do-porta-dos-fundos-24570034)

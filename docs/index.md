@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 11:34:38 UTC
+# indexed at 06/08/2020 12:19:14 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Simdjson: Parsing Gigabytes of JSON per Second](https://github.com/simdjson/simdjson)
-* [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
 * [Usbkill – anti-forensic tool to halt computer when new USB device is connected](https://github.com/hephaest0s/usbkill)
+* [OpenCore bootloader – open-sourced Apple UEFI drivers, enabling Hackintosh](https://github.com/acidanthera/OpenCorePkg)
+* [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
 * [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
+* [An Inside Look at CloudKitchens](https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens)
+* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
 * [Compiler Explorer](https://godbolt.org/)
 * [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
-* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
 * [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
-* [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
-* [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
+* [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
+* [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
-* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
-* [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
-* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
-* [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
+* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
-* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
+* [DIY Bertin Matrix with 569 Dominoes and No Glue](https://aviz.fr/diyMatrix/)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
+* [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
+* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
 * [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
-* [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
-* [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
-* [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
-* [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
+* [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
+* [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 ## nytimes.com
 
 
@@ -53,9 +53,9 @@ layout: default
 * [Trump’s Bank Was Subpoenaed by N.Y. Prosecutors in Criminal Inquiry](https://www.nytimes.com/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html)
 * [Trump Raises $165 Million With G.O.P. in July, Overtaking Biden](https://www.nytimes.com/2020/08/05/us/politics/trump-biden-campaign-finance.html)
 * [U.S. Examines Whether Saudi Nuclear Program Could Lead to Bomb Effort](https://www.nytimes.com/2020/08/05/us/politics/us-examines-saudi-nuclear-program.html)
-* [Hiroshima 75th Anniversary: Preserving Survivors’ Message of Peace](https://www.nytimes.com/2020/08/05/world/asia/hiroshima-japan-75th-anniversary.html)
 * [The Photographers Who Captured the Toll of Hiroshima and Nagasaki](https://www.nytimes.com/2020/08/06/world/asia/hiroshima-nagasaki-japan-photos.html)
 * [Claude Eatherly, the Hiroshima Pilot Turned Antinuclear Symbol](https://www.nytimes.com/2020/08/06/magazine/hiroshima-claude-eatherly-antinuclear.html)
+* [After Hiroshima's Carnage, Setsuko Thurlow Devoted Her Life to Peace](https://www.nytimes.com/2020/08/06/world/asia/hiroshima-japan-setsuko-thurlow.html)
 * [America Stands Alone](https://www.nytimes.com/2020/08/06/briefing/coronavirus-beirut-deutsche-bank-your-thursday-briefing.html)
 * [After Isaias, When Will Power Be Back?](https://www.nytimes.com/2020/08/06/nyregion/power-outage-ny-nj-ct.html)
 * [‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/this-is-our-school-how-dare-you.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Vereador de Caxias é alvo de operação da polícia sobre furto de combustíveis](https://oglobo.globo.com/rio/vereador-de-caxias-alvo-de-operacao-da-policia-sobre-furto-de-combustiveis-24569726)
+* [Com pandemia, 8,9 milhões de pessoas perderam emprego](https://oglobo.globo.com/economia/com-pandemia-89-milhoes-de-pessoas-perderam-emprego-24570428)
+* [Bilionário americano compra time da Roma por 700 milhões de dólares](https://oglobo.globo.com/esportes/bilionario-americano-compra-time-da-roma-por-700-milhoes-de-dolares-24570453)
 * [Lava-Jato prende secretário de Transportes de Doria em ação contra desvio de recursos da Saúde](https://oglobo.globo.com/brasil/lava-jato-prende-secretario-de-transportes-de-doria-em-acao-contra-desvio-de-recursos-da-saude-24570383)
-* [TCU aponta fraude de R$ 151 milhões em acordos de redução de salário e suspensão de contrato](https://oglobo.globo.com/economia/tcu-aponta-fraude-de-151-milhoes-em-acordos-de-reducao-de-salario-suspensao-de-contrato-24570405)
+* [Witzel autoriza o retorno das atividades práticas nos cursos da área de saúde em universidades particulares](https://oglobo.globo.com/rio/witzel-autoriza-retorno-das-atividades-praticas-nos-cursos-da-area-de-saude-em-universidades-particulares-1-24570430)
+* [Em fraudes de R$ 150 milhões, até morto e servidor receberam benefício do governo em acordos de redução de salário](https://oglobo.globo.com/economia/em-fraudes-de-150-milhoes-ate-morto-servidor-receberam-beneficio-do-governo-em-acordos-de-reducao-de-salario-24570405)
+* [Sabrina Sato diz que Zoe adora brincar com seus sapatos e posar para fotos](https://oglobo.globo.com/ela/gente/sabrina-sato-diz-que-zoe-adora-brincar-com-seus-sapatos-posar-para-fotos-24570434)
 * [Como um supermercado em Caracas ilustra a relação da Venezuela com o Irã e os EUA](https://oglobo.globo.com/mundo/como-um-supermercado-em-caracas-ilustra-relacao-da-venezuela-com-ira-os-eua-24569546)
 * [Brasil tem 2.865.053 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2865053-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24570401)
-* [Corte dos juros para 2% ainda pode dar algum impulso à economia este ano, dizem especialistas](https://oglobo.globo.com/economia/corte-dos-juros-para-2-ainda-pode-dar-algum-impulso-economia-este-ano-dizem-especialistas-1-24570304)
-* [Julgamento no STF pode ser golpe fatal ao Sebrae, ABDI e Apex-Brasil](https://epoca.globo.com/guilherme-amado/julgamento-no-stf-pode-ser-golpe-fatal-ao-sebrae-abdi-apex-brasil-24570054)
-* [Sérgio Camargo indica aluno de Olavo de Carvalho para coordenar apoio a quilombos](https://epoca.globo.com/guilherme-amado/sergio-camargo-indica-aluno-de-olavo-de-carvalho-para-coordenar-apoio-quilombos-24570027)
+* [A maratona para ser o novo ator ou atriz do Porta dos Fundos](https://epoca.globo.com/guilherme-amado/a-maratona-para-ser-novo-ator-ou-atriz-do-porta-dos-fundos-24570034)
 * [A resposta de Paulo Guedes aos bancos que se queixam da nova CPMF (ou imposto digital, vá lá...)](https://epoca.globo.com/guilherme-amado/a-resposta-de-paulo-guedes-aos-bancos-que-se-queixam-da-nova-cpmf-ou-imposto-digital-va-la-24569989)
-* ['Sou um pai chato', diz Xande de Pilares, que fará live solidária no Morro do Turano no domingo](https://oglobo.globo.com/rio/bairros/sou-um-pai-chato-diz-xande-de-pilares-que-fara-live-solidaria-no-morro-do-turano-no-domingo-24568980)

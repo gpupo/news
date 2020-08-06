@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 09:14:18 UTC
+# indexed at 06/08/2020 09:34:35 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
-* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
-* [Compiler Explorer](https://godbolt.org/)
+* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [.NET Team Survey: Native AOT](https://github.com/dotnet/runtime/issues/40430)
+* [Compiler Explorer](https://godbolt.org/)
+* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
+* [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
 * [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
-* [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
-* [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
-* [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
-* [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
 * [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
-* [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
+* [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
 * [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
+* [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
+* [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
 * [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
+* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
+* [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
 * [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 * [$250k books sold, to save lives](https://sive.rs/250k)
-* [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
 * [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
 ## nytimes.com
 
@@ -81,11 +81,11 @@ layout: default
 * [Lincoln Library Cancels Exhibition Over Racial Sensitivity Concerns](https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html)
 * [Poor and Desperate, Pakistani Hindus Accept Islam to Get By](https://www.nytimes.com/2020/08/04/world/asia/pakistan-hindu-conversion.html)
 * [The Biggest Bedroom Is No Longer a ‘Master’](https://www.nytimes.com/2020/08/05/realestate/master-bedroom-change.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
 * [Like Old Hollywood Movies, Video Games Get a Polish for New Audiences](https://www.nytimes.com/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
 * [A Home Inscribed With the History of Venice Beach](https://www.nytimes.com/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
 * [What Worried Artists in Lockdown? The Same Things as Everyone Else](https://www.nytimes.com/2020/08/05/arts/design/artists-lockdown-kunsthaus-bregenz-unprecedented-times.html)

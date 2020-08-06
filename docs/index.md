@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 02:34:30 UTC
+# indexed at 06/08/2020 03:14:16 UTC
 
 
 ## news.ycombinator.com
@@ -12,37 +12,37 @@ layout: default
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
+* [American Darknet Vendor and Costa Rican Pharmacist Charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
+* [$250k books sold. $250k to save lives.](https://sive.rs/250k)
 * [Compiler Explorer](https://godbolt.org/)
 * [The Expansion of the Clean Network to Safeguard America’s Assets](https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [Facebook launches its TikTok rival, Instagram Reels](https://www.axios.com/facebook-launches-its-tiktok-rival-instagram-reels-56460094-88df-4aa5-b6a1-39695c682508.html)
+* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [Latest Firefox rolls out Enhanced Tracking Protection 2.0](https://blog.mozilla.org/blog/2020/08/04/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/)
-* [Fuzzbuzz (YC W19) Is Hiring a Sr Back End Engineer (Remote/US Only)](https://angel.co/company/fuzzbuzz/jobs/924765-backend-software-engineer)
+* [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
 * [Ten takeaways from ten years at Retraction Watch](https://retractionwatch.com/2020/08/03/ten-takeaways-from-ten-years-at-retraction-watch/)
 * [What is 5D chess?](https://en.chessbase.com/post/what-on-earth-is-5d-chess)
-* [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
+* [Fuzzbuzz (YC W19) Is Hiring a Sr Back End Engineer (Remote/US Only)](https://angel.co/company/fuzzbuzz/jobs/924765-backend-software-engineer)
 * [Why did the atomic spy do it?](https://www.nature.com/articles/d41586-020-02279-4)
-* [Do Not Trust Google](https://lukeboyle.com/blog-posts/2020/08/do-not-trust-google)
 * [Wasabi fire alarm a lifesaver for the deaf (2008)](https://www.reuters.com/article/us-japan-wasabi-idUST29421020080318)
 * [Launch HN: Speedscale (YC S20) – Automatically create tests from actual traffic](https://news.ycombinator.com/item?id=24060799)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
-* [The Cleopatra’s Nose of 1914](https://www.laphamsquarterly.org/scandal/cleopatras-nose-1914)
-* [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
 * [Some Fundamental Theorems in Mathematics (2019) [pdf]](http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf)
+* [Google’s search monopoly complicates a mental health crisis](https://www.bloombergquint.com/businessweek/google-s-search-monopoly-complicates-a-mental-health-crisis)
+* [Teaching quantum information science to high-school students](https://scirate.com/arxiv/2005.07874)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
-* [Chat Bubble Blindness](https://www.atlistmaps.com/in-good-company/chat-bubble-blindness)
+* [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
+* [The Cleopatra’s Nose of 1914](https://www.laphamsquarterly.org/scandal/cleopatras-nose-1914)
 * [Vitamin D deficiency and Covid-19 mortality [pdf]](https://borsche.de/res/Vitamin_D_Essentials_EN.pdf)
 * [Show HN: We're building a virtual meetup platform](https://app.venu.tv)
-* [Teaching quantum information science to high-school students](https://scirate.com/arxiv/2005.07874)
-* [WebGL Fluid Experiment (2014)](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium)
 ## nytimes.com
 
 
 * [As Smoke Clears in Beirut, Shock Turns to Anger](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-lebanon.html)
-* [What Footage of the Beirut Explosion Tells Us About the Blast](https://www.nytimes.com/2020/08/05/video/beirut-explosion-footage.html)
+* [What Footage of the Beirut Explosion Tells Us About the Blast [Video]](https://www.nytimes.com/2020/08/05/video/beirut-explosion-footage.html)
 * [Blame for Beirut Explosion Begins With a Leaky, Troubled Ship](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-ship.html)
 * [Live Covid-19 News Updates: Global Tracker](https://www.nytimes.com/2020/08/05/world/coronavirus-covid.html)
 * [Major U.S. Health Insurers Report Big Profits, Benefiting From the Pandemic](https://www.nytimes.com/2020/08/05/health/covid-insurance-profits.html)
@@ -78,13 +78,13 @@ layout: default
 * [F.B.I. Searches Jake Paul’s California Home](https://www.nytimes.com/2020/08/05/us/jake-paul-fbi-raid.html)
 * [Hiroshima 75th Anniversary: Preserving Survivors’ Message of Peace](https://www.nytimes.com/2020/08/05/world/asia/hiroshima-japan-75th-anniversary.html)
 * [Lincoln Library Cancels Exhibition Over Racial Sensitivity Concerns](https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html)
-* [Cancellations, Opt-Outs and Virus Cases Put Heat on College Football](https://www.nytimes.com/2020/08/05/sports/ncaafootball/coronavirus-uconn-cancels-football.html)
+* [It’s Never Too Late to Pursue a Dream, a Graduate Says. He Can Back It Up.](https://www.nytimes.com/2020/08/05/world/europe/italy-graduate-96.html)
 * [The Biggest Bedroom Is No Longer a ‘Master’](https://www.nytimes.com/2020/08/05/realestate/master-bedroom-change.html)
-* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Like Old Hollywood Movies, Video Games Get a Polish for New Audiences](https://www.nytimes.com/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
 * [A Home Inscribed With the History of Venice Beach](https://www.nytimes.com/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
 * [What Worried Artists in Lockdown? The Same Things as Everyone Else](https://www.nytimes.com/2020/08/05/arts/design/artists-lockdown-kunsthaus-bregenz-unprecedented-times.html)
@@ -101,7 +101,7 @@ layout: default
 ## globo.com
 
 
-* [Facebook remove publicação de Trump com informação errada sobre coronavírus](https://oglobo.globo.com/mundo/facebook-remove-publicacao-de-trump-com-informacao-errada-sobre-coronavirus-24569773)
+* [Twitter bloqueia conta da campanha de Trump por desinformação sobre Covid-19](https://oglobo.globo.com/mundo/twitter-bloqueia-conta-da-campanha-de-trump-por-desinformacao-sobre-covid-19-24570340)
 * [Três adolescentes são presos após entrar em resort de Trump com AK-47 na mochila](https://oglobo.globo.com/mundo/tres-adolescentes-sao-presos-apos-entrar-em-resort-de-trump-com-ak-47-na-mochila-24570073)
 * [Região Norte é a única com tendência de queda para mortes por Covid-19](https://oglobo.globo.com/sociedade/regiao-norte-a-unica-com-tendencia-de-queda-para-mortes-por-covid-19-24569976)
 * [Garimpeiros invadem pista e impedem decolagem de avião militar que atuava no combate a garimpos](https://oglobo.globo.com/sociedade/garimpeiros-invadem-pista-impedem-decolagem-de-aviao-militar-que-atuava-no-combate-garimpos-1-24570095)
@@ -109,5 +109,5 @@ layout: default
 * [TJ não considera que prefeitura descumpriu liminar e Rio abrirá 168 refeitórios municipais](https://oglobo.globo.com/rio/tj-nao-considera-que-prefeitura-descumpriu-liminar-rio-abrira-168-refeitorios-municipais-24570079)
 * [Mega-Sena acumula e próximo sorteio pode pagar R$6,5 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-r65-milhoes-24570061)
 * [Deputado que xingou ministro do STF diz que se arrependeu e pedirá desculpas: 'Errei'](https://oglobo.globo.com/brasil/deputado-que-xingou-ministro-do-stf-diz-que-se-arrependeu-pedira-desculpas-errei-1-24569915)
-* [Morre ator Gésio Amadeu, de 'Renascer' e 'Chiquititas', aos 73 anos, vítima da Covid-19](https://oglobo.globo.com/cultura/morre-ator-gesio-amadeu-de-renascer-chiquititas-aos-73-anos-vitima-da-covid-19-1-24569762)
-* [Câmara adia votação do socorro de R$ 4 bi a empresas de transporte público](https://oglobo.globo.com/economia/camara-adia-votacao-do-socorro-de-4-bi-empresas-de-transporte-publico-24569800)
+* [Explosão em Beirute prova que não existe crise que não possa se agravar](https://oglobo.globo.com/opiniao/explosao-em-beirute-prova-que-nao-existe-crise-que-nao-possa-se-agravar-24569663)
+* [Ímpeto gastador do bolsonarismo cresce e preocupa](https://oglobo.globo.com/opiniao/impeto-gastador-do-bolsonarismo-cresce-preocupa-24569611)

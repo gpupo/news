@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 06/08/2020 11:13:55 UTC
+# indexed at 06/08/2020 11:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -14,35 +14,35 @@ layout: default
 * [A new design ship in the Philippines is partly powered by wave energy](https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Journalists’ Twitter use shows them talking within smaller bubbles](https://news.illinois.edu/view/6367/326226550)
-* [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
-* [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
 * [Compiler Explorer](https://godbolt.org/)
+* [MicroBlocks: Scratch and Smalltalk-inspired MCU VM for live embedded programming](http://microblocks.fun/)
 * [Take Gitlab to the command line with GLab, an open-source Gitlab CLI tool](https://github.com/profclems/glab)
 * [Arcosanti](https://en.wikipedia.org/wiki/Arcosanti)
 * [Stripe Hires AWS' Mike Clayville as Chief Revenue Officer](https://stripe.com/en-au/newsroom/news/mike-clayville)
 * [The ‘solar canals’ making smart use of India’s space](https://www.bbc.com/future/article/20200803-the-solar-canals-revolutionising-indias-renewable-energy)
+* [Coups, lies, dirty tricks: Stewart Copeland on his CIA agent father (2000)](https://www.theguardian.com/music/2020/aug/05/stewart-copeland-father-miles-cia-spy-the-police)
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 * [A Poetic, Mind-Bending Tour of the Fungal World](https://www.scientificamerican.com/article/a-poetic-mind-bending-tour-of-the-fungal-world/)
-* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79)
+* [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 * [Blissymbols](https://en.wikipedia.org/wiki/Blissymbols)
 * [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md)
-* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
-* [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 * [Small-Step Live Programming by Example [pdf]](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
-* [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
+* [Ancient Beads Point to Far-Flung Relationships in Southern Africa](https://www.the-scientist.com/notebook/eggshell-beads-point-to-far-flung-relationships-in-southern-africa-67715)
+* [Twilight of the Imperial Chef](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html)
 * [What is Jio, and why are tech’s biggest players suddenly obsessed with it?](https://onezero.medium.com/what-is-jio-and-why-are-techs-biggest-players-suddenly-obsessed-with-it-231ea2d407e4)
+* [An overview of the parasitic plant Langsdorffia](https://phys.org/news/2020-08-overview-parasitic-langsdorffia.html)
 * [Satellite images of the Beirut explosion site – before and after](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a)
-* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [Moved a server from one building to another with zero downtime](https://www.reddit.com/r/sysadmin/comments/i3xbjb/rant_sorta_physically_moved_a_server_today/)
+* [Touch Typing on a Gamepad](https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html)
 * [What's wrong with Intel, and how to fix it: Former principal engineer unloads](https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html)
 * [American darknet vendor and Costa Rican pharmacist charged](https://www.justice.gov/opa/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering)
 ## nytimes.com
 
 
 * [The Unique U.S. Failure to Control the Virus](https://www.nytimes.com/2020/08/06/us/united-states-failure-coronavirus.html)
-* [Coronavirus Live Updates](https://www.nytimes.com/2020/08/06/world/coronavirus-covid-19.html)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/08/06/world/coronavirus-covid-19.html)
 * [Welcome Back to Germany. Now Take Your Free Coronavirus Test.](https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html)
 * [In Stimulus Talks, McConnell Is Outside the Room and in a Tight Spot](https://www.nytimes.com/2020/08/05/us/politics/mcconnell-stimulus-talks-coronavirus.html)
 * [Congress’s Ideological Divide Has Stymied Aid for Pandemic-Stricken Schools](https://www.nytimes.com/2020/08/06/us/politics/congress-schools-coronavirus.html)
@@ -84,10 +84,10 @@ layout: default
 * [Coronavirus ‘Checkpoints’ in NYC to Enforce Travel Rules? Well, Not Exactly](https://www.nytimes.com/2020/08/05/nyregion/nyc-coronavirus-quarantine-checkpoints.html)
 * [‘Boxed Into a Corner,’ Residents Brace for Thousands to Attend Motorcycle Rally](https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [How to Diversify Your Toy Box](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Anatomy of a Public Pool in a Pandemic](https://www.nytimes.com/2020/08/06/style/public-pool-california-coronavirus-rules.html)
 * [It’s (Almost) Business as Usual at the Salzburg Festival](https://www.nytimes.com/2020/08/05/arts/music/salzburg-festival-coronavirus.html)
 * [‘La Llorona’ Review: The General in His Horrific Labyrinth](https://www.nytimes.com/2020/08/05/movies/la-llorona-review.html)
@@ -104,9 +104,9 @@ layout: default
 ## globo.com
 
 
-* [TCU aponta fraude de R$ 151 milhões em acordos de redução de salário e suspensão de contrato](https://oglobo.globo.com/economia/tcu-aponta-fraude-de-151-milhoes-em-acordos-de-reducao-de-salario-suspensao-de-contrato-24570405)
-* [Lava-Jato: PF cumpre mandados de prisão contra alvos que desviaram recursos da Saúde em três estados e no DF](https://oglobo.globo.com/brasil/lava-jato-pf-cumpre-mandados-de-prisao-contra-alvos-que-desviaram-recursos-da-saude-em-tres-estados-no-df-24570383)
 * [Vereador de Caxias é alvo de operação da polícia sobre furto de combustíveis](https://oglobo.globo.com/rio/vereador-de-caxias-alvo-de-operacao-da-policia-sobre-furto-de-combustiveis-24569726)
+* [Lava-Jato prende secretário de Transportes de Doria em ação contra desvio de recursos da Saúde](https://oglobo.globo.com/brasil/lava-jato-prende-secretario-de-transportes-de-doria-em-acao-contra-desvio-de-recursos-da-saude-24570383)
+* [TCU aponta fraude de R$ 151 milhões em acordos de redução de salário e suspensão de contrato](https://oglobo.globo.com/economia/tcu-aponta-fraude-de-151-milhoes-em-acordos-de-reducao-de-salario-suspensao-de-contrato-24570405)
 * [Como um supermercado em Caracas ilustra a relação da Venezuela com o Irã e os EUA](https://oglobo.globo.com/mundo/como-um-supermercado-em-caracas-ilustra-relacao-da-venezuela-com-ira-os-eua-24569546)
 * [Brasil tem 2.865.053 casos de Covid-19, aponta consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-2865053-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24570401)
 * [Corte dos juros para 2% ainda pode dar algum impulso à economia este ano, dizem especialistas](https://oglobo.globo.com/economia/corte-dos-juros-para-2-ainda-pode-dar-algum-impulso-economia-este-ano-dizem-especialistas-1-24570304)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 12:34:36 UTC
+# indexed at 07/08/2020 13:13:58 UTC
 
 
 ## news.ycombinator.com
@@ -22,27 +22,27 @@ layout: default
 * [The US declared war on TikTok because it can’t handle the truth](https://www.theverge.com/21355465/tiktok-us-china-information-nationalism-online-propaganda)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
 * [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
+* [Yet another tool for making copy/paste/run experience better (Windows)](https://github.com/postprintum/devcomrade)
+* [Classic Google Sites shutting down by September 2021](https://support.google.com/a/answer/9958187)
 * [Simon's Algorithm](https://leimao.github.io/blog/Simon-Algorithm/)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
-* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
-* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
+* [TikTok’s potential $588 per user valuation in Microsoft deal](https://4thquadrant.io/snippets/business-model2/snippet-tiktoks-potential-588-per-user-valuation/)
 * [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
+* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
+* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Beyond KrØØk: Even more Wi‑Fi chips vulnerable to eavesdropping](https://www.welivesecurity.com/2020/08/06/beyond-kr00k-even-more-wifi-chips-vulnerable-eavesdropping/)
-* [Classic Google Sites shutting down by September 2021](https://support.google.com/a/answer/9958187)
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
-* [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
-* [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [Literary Machines (1987) [pdf]](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf)
+* [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
 * [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
-* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 ## nytimes.com
 
 
-* [July Jobs Report Is Likely to Reflect Lost Momentum](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus)
-* [Coronavirus Live Updates](https://www.nytimes.com/2020/08/07/world/coronavirus-covid-19.html)
+* [U.S. Economy Gained 1.8 Million Jobs in July](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus)
+* [Coronavirus Live News and Updates](https://www.nytimes.com/2020/08/07/world/coronavirus-covid-19.html)
 * [With Old Allies Turning Against Her, Birx Presses On Against the Coronavirus](https://www.nytimes.com/2020/08/06/us/politics/birx-coronavirus.html)
 * [Children Vulnerable to Abuse Are Imperiled as Caseworkers Stay Home](https://www.nytimes.com/2020/08/07/us/virus-child-abuse.html)
 * [‘I Was a Little Scared’: Inside America’s Reopening Schools](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html)
@@ -57,6 +57,7 @@ layout: default
 * [Jack Dorsey on Twitter’s Mistakes](https://www.nytimes.com/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 * [‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/this-is-our-school-how-dare-you.html)
 * [Trump Supporters Make Their Case for 2020](https://www.nytimes.com/2020/08/06/opinion/the-argument-trump-coronavirus-election.html)
+* [California Doesn't Have Covid-19 Travel Restrictions. But Here's How to Protect Yourself](https://www.nytimes.com/2020/08/07/us/california-travel-restrictions-covid-19.html)
 * [Coming Next: The Greater Recession](https://www.nytimes.com/2020/08/06/opinion/coronavirus-us-recession.html)
 * [What Will Happen to the Republican Party if Trump Loses in 2020?](https://www.nytimes.com/2020/08/07/opinion/republican-party-trump-2020.html)
 * [Trump’s Census Shenanigans Have a Nefarious Purpose](https://www.nytimes.com/2020/08/07/opinion/trump-2020-census.html)
@@ -72,18 +73,18 @@ layout: default
 * [When Marriage Is Just Another Overhyped Nightclub](https://www.nytimes.com/2020/08/07/style/modern-love-when-marriage-is-just-another-overhyped-nightclub.html)
 * [Trump Reinstates Tariff on Canadian Aluminum](https://www.nytimes.com/2020/08/06/business/economy/trump-canadian-aluminum-tariffs.html)
 * [Power Outages Hit Manhattan and Queens](https://www.nytimes.com/2020/08/07/nyregion/queens-manhattan-west-side-power-outage-coned.html)
-* [Judge Dismisses G.O.P. Suit to End Proxy Voting in House During Pandemic](https://www.nytimes.com/2020/08/06/us/politics/house-proxy-voting-coronavirus.html)
-* [2020 Election Live Updates: The High Stakes of Biden’s V.P. Pick](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html)
+* [4.8-Magnitude Earthquake Rattles Puerto Rico](https://www.nytimes.com/2020/08/07/us/puerto-rico-earthquake.html)
+* [Biden vs. Trump: Live 2020 Election Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html)
 * [Facebook Gaming Finally Clears Apple Hurdle, Arriving in App Store](https://www.nytimes.com/2020/08/07/technology/facebook-apple-gaming-app-store.html)
-* [A Promising Life Is Cut Short, Becoming a Symbol of Lebanon’s Heartache](https://www.nytimes.com/2020/08/06/world/middleeast/Beirut-explosion-paramedic-Fares.html)
+* [Paramedic Who Died in Beirut Explosion Is a Symbol of Lebanon’s Grief](https://www.nytimes.com/2020/08/06/world/middleeast/Beirut-explosion-paramedic-Fares.html)
 * [Did He Kill Neighbor to Become ‘TikTok Famous,’ or Was It Self-Defense?](https://www.nytimes.com/2020/08/07/nyregion/tiktok-manslaughter-new-jersey.html)
 * [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [In Richmond, Black Dance Claims a Space Near Robert E. Lee](https://www.nytimes.com/2020/08/06/arts/dance/richmond-virginia-lee-monument.html)
 * [Brooks Koepka Is Here to Win Majors, Not Friends](https://www.nytimes.com/2020/08/07/sports/brooks-koepka-pga-championship.html)
 * [Toy Cars and Crop Tops: Can Wacky U.S.P.S. Store Merch Save the Struggling Postal Service?](https://www.nytimes.com/2020/08/06/style/usps-store.html)
@@ -99,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Inflação fica em 0,36% em julho, maior alta para o mês desde 2016](https://oglobo.globo.com/economia/inflacao-fica-em-036-em-julho-maior-alta-para-mes-desde-2016-24572780)
+* [Inflação fica em 0,36% em julho, maior alta para o mês desde 2016](https://oglobo.globo.com/economia/inflacao-fica-em-036-em-julho-maior-alta-para-mes-desde-2016-1-24572780)
 * [Donos de auto-escolas realizam carreata na Zona Sul do Rio](https://oglobo.globo.com/rio/donos-de-auto-escolas-realizam-carreata-na-zona-sul-do-rio-1-24572742)
-* [Dia dos Pais em casa: mais de 30 opções, entre pratos, menus, café da manhã e drinques](https://oglobo.globo.com/rioshow/dia-dos-pais-em-casa-mais-de-30-opcoes-entre-pratos-menus-cafe-da-manha-drinques-24564050)
+* [Arsenal apreendido em carro pela PRF é avaliado em mais de R$ 3 milhões](https://oglobo.globo.com/rio/arsenal-apreendido-em-carro-pela-prf-avaliado-em-mais-de-3-milhoes-1-24572811)
+* [Máscara pode reduzir carga viral e gravidade da Covid-19, diz estudo](https://epoca.globo.com/sociedade/mascara-pode-reduzir-carga-viral-gravidade-da-covid-19-diz-estudo-24572825)
+* [Fortuna de Mark Zuckerberg ultrapassa os US$ 100 bi pela 1ª vez, e ele entra para o clube de Bezos e Gates](https://oglobo.globo.com/economia/fortuna-de-mark-zuckerberg-ultrapassa-os-us-100-bi-pela-1-vez-ele-entra-para-clube-de-bezos-gates-24572786)
+* ['Grande ameaça à saúde pública': cientistas descobrem mutação resistente a remédio contra a malária](https://epoca.globo.com/sociedade/grande-ameaca-saude-publica-cientistas-descobrem-mutacao-resistente-remedio-contra-malaria-24572806)
 * [TikTok ameaça ir à Justiça nos EUA contra proibição de Trump](https://oglobo.globo.com/economia/tiktok-ameaca-ir-justica-nos-eua-contra-proibicao-de-trump-24572757)
 * [Inea retira cerca de 40 mil litros de resíduos contaminados em lago na Quinta da Boa Vista](https://oglobo.globo.com/rio/inea-retira-cerca-de-40-mil-litros-de-residuos-contaminados-em-lago-na-quinta-da-boa-vista-24572728)
-* [Ibama executou apenas 19% de recursos previstos para contenção e prevenção de incêndios florestais em 2020](https://oglobo.globo.com/sociedade/ibama-executou-apenas-19-de-recursos-previstos-para-contencao-prevencao-de-incendios-florestais-em-2020-24572707)
-* [Jennifer Garner é vista com Bradley Cooper após rumores de separação](https://oglobo.globo.com/ela/gente/jennifer-garner-vista-com-bradley-cooper-apos-rumores-de-separacao-24572705)
-* [Brasil tem 98.650 mortes pela Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-98650-mortes-pela-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24572666)
-* [Uruguai busca investidores para aumentar exportações de maconha medicinal](https://oglobo.globo.com/mundo/uruguai-busca-investidores-para-aumentar-exportacoes-de-maconha-medicinal-24572169)
 * [Documento indica que governo ressuscitou ideia de mudar Ancine para Brasilia; agência nega](https://epoca.globo.com/guilherme-amado/documento-indica-que-governo-ressuscitou-ideia-de-mudar-ancine-para-brasilia-agencia-nega-24571957)
+* [Análise: Como Rodrigo Maia ajuda e apoia o governo Bolsonaro](https://epoca.globo.com/guilherme-amado/analise-como-rodrigo-maia-ajuda-apoia-governo-bolsonaro-1-24571501)

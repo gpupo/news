@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 09:14:38 UTC
+# indexed at 07/08/2020 09:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [I'm Open Sourcing the Have I Been Pwned Code Base](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/)
 * [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
-* [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
-* [US to ban transactions with ByteDance and WeChat in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
-* [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [On Using Twitter](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)
+* [US to ban transactions with ByteDance and WeChat in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
+* [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
+* [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
+* [REBOL Shell Interface](http://www.rebol.com/docs/shell.html)
 * [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
 * [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
 * [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
+* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
 * [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
 * [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
-* [Literary Machines (1987) [pdf]](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
-* [REBOL Shell Interface](http://www.rebol.com/docs/shell.html)
+* [Literary Machines (1987) [pdf]](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf)
 * [Beyond KrØØk: Even more Wi‑Fi chips vulnerable to eavesdropping](https://www.welivesecurity.com/2020/08/06/beyond-kr00k-even-more-wifi-chips-vulnerable-eavesdropping/)
 * [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
-* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 * [Eviction Moratorium Poses Nightmare Scenario for Small Landlord](https://sanfrancisco.cbslocal.com/2020/08/06/eviction-moratorium-poses-nightmare-scenario-for-small-landlord/)
 * [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
-* [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
+* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 ## nytimes.com
 
 
@@ -70,7 +70,7 @@ layout: default
 * [Why Influencers Won’t Stop Partying Anytime Soon](https://www.nytimes.com/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Trump Reinstates Tariff on Canadian Aluminum](https://www.nytimes.com/2020/08/06/business/economy/trump-canadian-aluminum-tariffs.html)
-* [Storm Batters N.Y. Region; More Than 2 Million Without Power](https://www.nytimes.com/2020/08/05/nyregion/isaias-hurricane-storm-damage-ny-nj.html)
+* [Power Outages From Isaias for 1.6 Million Could Last Several Days](https://www.nytimes.com/2020/08/06/nyregion/isaias-storm-power-outages.html)
 * [Equestrian Coach George Morris Accused in Lawsuit of Sexual Abuse of Teens](https://www.nytimes.com/2020/08/06/sports/equestrian-sexual-abuse-george-morris.html)
 * [Milwaukee Police Chief Demoted After Questions Over Protest Response](https://www.nytimes.com/2020/08/07/us/alfonso-morales-milwaukee-police.html)
 * [Former Saudi Official Accuses the Crown Prince of Trying to Kill Him](https://www.nytimes.com/2020/08/06/world/middleeast/saudi-prince-mohammed-lawsuit-aljabri.html)
@@ -78,11 +78,11 @@ layout: default
 * [In Poland, the Rainbow Flag Is Wrapped Up in a Broader Culture War](https://www.nytimes.com/2020/08/06/world/europe/poland-rainbow-flag-statues.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Arda Turan Joins Galatasaray and Emerges From Exile](https://www.nytimes.com/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
 * [‘Looking for Miss America’ Tells the History of the Legendary Pageant](https://www.nytimes.com/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
 * [‘Star Trek: Lower Decks’ Review: Life as Phaser Fodder](https://www.nytimes.com/2020/08/06/arts/television/star-trek-lower-decks-review.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Bombeiros são acionados para deslizamento de terra na Mangueira](https://oglobo.globo.com/rio/bombeiros-sao-acionados-para-deslizamento-de-terra-na-mangueira-24572651)
 * [PM Youtuber terá audiência na Justiça com coronel a quem acusou de ligação com o tráfico](https://oglobo.globo.com/rio/pm-youtuber-tera-audiencia-na-justica-com-coronel-quem-acusou-de-ligacao-com-trafico-24572183)
 * [Estado do Rio deve deixar de cumprir R$ 9,3 bi de metas do ajuste fiscal até dezembro](https://oglobo.globo.com/rio/estado-do-rio-deve-deixar-de-cumprir-93-bi-de-metas-do-ajuste-fiscal-ate-dezembro-24572410)
 * [Uma avenida para Olavo de Carvalho no PagSeguro](https://epoca.globo.com/guilherme-amado/uma-avenida-para-olavo-de-carvalho-no-pagseguro-24571688)
 * [Mandetta: 'São 100 mil famílias que até agora nem tiveram uma palavra de conforto do governo'](https://oglobo.globo.com/podcast/mandetta-sao-100-mil-familias-que-ate-agora-nem-tiveram-uma-palavra-de-conforto-do-governo-24572448)
 * [Curas 'milagrosas', vacinas, máscaras, dados, isolamento: Fato ou Fake chega a 300 checagens sobre o coronavírus](https://oglobo.globo.com/fato-ou-fake/curas-milagrosas-vacinas-mascaras-dados-isolamento-fato-ou-fake-chega-300-checagens-sobre-coronavirus-24572505)
 * [Relator de ação contra recondução de Alcolumbre, Celso de Mello já autorizou reeleição na presidência do Senado](https://oglobo.globo.com/brasil/relator-de-acao-contra-reconducao-de-alcolumbre-celso-de-mello-ja-autorizou-reeleicao-na-presidencia-do-senado-24572457)
-* [Até dezembro, Estado do Rio deve deixar de cumprir R$ 9,3 bi de metas do ajuste fiscal](https://oglobo.globo.com/rio/ate-dezembro-estado-do-rio-deve-deixar-de-cumprir-93-bi-de-metas-do-ajuste-fiscal-1-24572407)
 * ['Identidade Vasco' tenta união de Leven Siano e Manuel Fernandes por presidência](https://oglobo.globo.com/esportes/identidade-vasco-tenta-uniao-de-leven-siano-manuel-fernandes-por-presidencia-24572306)
 * [Atípica e imprevisível, a Champions está de volta](https://oglobo.globo.com/esportes/atipica-imprevisivel-champions-esta-de-volta-24572202)
 * ['Vi como atua um homem agressor e digo: não se afaste de uma mulher vítima de violência'](https://oglobo.globo.com/celina/vi-como-atua-um-homem-agressor-digo-nao-se-afaste-de-uma-mulher-vitima-de-violencia-24571288)

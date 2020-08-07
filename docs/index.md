@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 19:13:46 UTC
+# indexed at 07/08/2020 19:35:21 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple says game streaming services violate App Store policies](https://www.gsmarena.com/apple_says_game_streaming_services_like_microsofts_xcloud_violate_app_store_policies-news-44656.php)
-* [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
+* [Microsoft Fast Design](https://www.fast.design/docs/introduction)
+* [Apple says game streaming services violate App Store policies](https://www.gsmarena.com/apple_says_game_streaming_services_like_microsofts_xcloud_violate_app_store_policies-news-44656.php)
 * [To Head Off Regulators, Google Makes Certain Words Taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
-* [What3words: The app that can save your life](https://www.bbc.com/news/uk-england-49319760)
+* [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
 * [Infinity: open-source search engine](https://infinitysearch.co)
+* [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
-* [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
+* [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
-* [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
-* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 * [Using ImageMagick to make Contact Sheets (2013)](https://patdavid.net/2013/04/using-imagemagick-to-create-contact.html)
+* [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
+* [P2 powers internal collaboration at WordPress.com and now it’s free for everyone](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
+* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 * [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
 * [Self-Contained Development Environments (2018) [pdf]](https://charig.github.io/assets/papers/SCDE-DLS.pdf)
-* [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
 * [JuliaCon2020: Julia Is Production Ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html)
-* [Awesome-sysadmin: A curated list of amazingly open source sysadmin resources](https://github.com/kahun/awesome-sysadmin)
 * [Surprising Economics of Load-Balanced Systems](http://brooker.co.za/blog/2020/08/06/erlang.html)
+* [Awesome-sysadmin: A curated list of amazingly open source sysadmin resources](https://github.com/kahun/awesome-sysadmin)
 * [I'm Open Sourcing the Have I Been Pwned Code Base](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/)
 * [Classic Google Sites shutting down by September 2021](https://support.google.com/a/answer/9958187)
-* [A T Cell Army against SARS-CoV-2](https://www.hellovirology.com/2020/08/a-t-cell-army-against-sars-cov-2.html)
 * [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
-* [Steve Crocker on the History of RFCs](https://spectrum.ieee.org/tech-history/cyberspace/todays-internet-still-relies-on-an-arpanetera-protocol-the-request-for-comments)
+* [Yet another tool for making copy/paste/run experience better (Windows)](https://github.com/postprintum/devcomrade)
 ## nytimes.com
 
 
@@ -62,7 +62,7 @@ layout: default
 * [So What Does Trump Have Against TikTok?](https://www.nytimes.com/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
 * [In a Nuclear Arms Race, the World Can Be Destroyed in a Flash](https://www.nytimes.com/2020/08/06/opinion/hiroshima-anniversary-nuclear-weapons.html)
 * [Could This Be the Last Time We See Our Dad?](https://www.nytimes.com/2020/08/06/opinion/coronavirus-baruch-haviv-death.html)
-* [American Catholics and the Black Lives Matter Movement](https://www.nytimes.com/2020/08/06/opinion/gloria-purvis-george-floyd-blm.html)
+* [American Catholics and the Black Lives Matter Movement](https://www.nytimes.com/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
 * [Covid Update: Don’t Rush the Vaccine](https://www.nytimes.com/video/opinion/100000007278127/coronavirus-vaccine-update.html)
 * [He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.](https://www.nytimes.com/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html)
 * [The Real Reason the American Economy Boomed After World War II](https://www.nytimes.com/2020/08/06/opinion/middle-class-prosperity.html)
@@ -80,8 +80,8 @@ layout: default
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [A’s Mike Fiers Has Moved On From Astros Cheating Scandal](https://www.nytimes.com/2020/08/06/sports/as-mike-fiers-astros-cheating.html)
 * [This Is Not a Desk Chair](https://www.nytimes.com/2020/08/07/style/gamer-chair-market-herman-miller.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Capitão da PM assume secretaria de Fomento e Incentivo à Cultura](https://oglobo.globo.com/cultura/capitao-da-pm-assume-secretaria-de-fomento-incentivo-cultura-24573461)
+* [Recém-criada, Guarda Municipal Marítima vai fiscalizar tráfego em mais de 360 praias, rios e lagoas do Rio](https://oglobo.globo.com/rio/recem-criada-guarda-municipal-maritima-vai-fiscalizar-trafego-em-mais-de-360-praias-rios-lagoas-do-rio-24573250)
+* [Capitão da PM assume Secretaria de Fomento e Incentivo à Cultura](https://oglobo.globo.com/cultura/capitao-da-pm-assume-secretaria-de-fomento-incentivo-cultura-24573461)
+* [PSOL quer CPI para investigar depósitos em conta de Michelle Bolsonaro](https://oglobo.globo.com/brasil/psol-quer-cpi-para-investigar-depositos-em-conta-de-michelle-bolsonaro-24573618)
+* [Jovem de 18 anos é acusado de roubo e imobilizado no Ilha Plaza; vídeo mostra as agressões](https://oglobo.globo.com/rio/jovem-de-18-anos-acusado-de-roubo-imobilizado-no-ilha-plaza-video-mostra-as-agressoes-24573550)
+* [‘Setor privado está pronto para investir e levar saneamento para milhões de brasileiros’, diz secretário de Produtividade](https://oglobo.globo.com/economia/setor-privado-esta-pronto-para-investir-levar-saneamento-para-milhoes-de-brasileiros-diz-secretario-de-produtividade-24573504)
 * [Montevidéu é primeira capital latino-americana a reabrir grandes teatros](https://oglobo.globo.com/cultura/montevideu-primeira-capital-latino-americana-reabrir-grandes-teatros-24573469)
 * [Governo espera aprovar reforma tributária ainda neste ano, diz secretário da Receita](https://oglobo.globo.com/economia/governo-espera-aprovar-reforma-tributaria-ainda-neste-ano-diz-secretario-da-receita-24573462)
 * [Rio registra 87 mortes e 1.632 novos casos de coronavírus em 24 horas](https://oglobo.globo.com/rio/rio-registra-87-mortes-1632-novos-casos-de-coronavirus-em-24-horas-24573475)
 * [Investigação do caso Ronaldinho é concluída e ex-jogador pode retornar ao Brasil em breve](https://oglobo.globo.com/esportes/investigacao-do-caso-ronaldinho-concluida-ex-jogador-pode-retornar-ao-brasil-em-breve-24573481)
-* [Rússia anuncia que vacina contra a Covid-19 será registrada na próxima semana](https://oglobo.globo.com/sociedade/russia-anuncia-que-vacina-contra-covid-19-sera-registrada-na-proxima-semana-24573415)
 * [STJ deve julgar pedido de procurador de Justiça do Pará acusado de ocultar serviço fantasma da mulher](https://epoca.globo.com/guilherme-amado/stj-deve-julgar-pedido-de-procurador-de-justica-do-para-acusado-de-ocultar-servico-fantasma-da-mulher-24573436)
-* [Doria diz que Bolsonaro é um 'fracasso' no combate à pandemia](https://oglobo.globo.com/brasil/doria-diz-que-bolsonaro-um-fracasso-no-combate-pandemia-24573433)
-* [Conheça o WeChat, alvo do veto de Trump, e saiba por que a decisão americana pode abalar as relações com a China](https://oglobo.globo.com/economia/conheca-wechat-alvo-do-veto-de-trump-saiba-por-que-decisao-americana-pode-abalar-as-relacoes-com-china-24573241)
-* [MPF dá os últimos retoques na denúncia contra Alexandre Baldy](https://epoca.globo.com/guilherme-amado/mpf-da-os-ultimos-retoques-na-denuncia-contra-alexandre-baldy-24573394)

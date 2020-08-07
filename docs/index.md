@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 20:16:44 UTC
+# indexed at 07/08/2020 20:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -10,9 +10,9 @@ layout: default
 
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
-* [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [Google is happy to control core Web schemas, but they neglect project](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
+* [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [To Head Off Regulators, Google Makes Certain Words Taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [Apple says game streaming services violate App Store policies](https://www.gsmarena.com/apple_says_game_streaming_services_like_microsofts_xcloud_violate_app_store_policies-news-44656.php)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
@@ -25,15 +25,15 @@ layout: default
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
+* [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
-* [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
-* [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [Using ImageMagick to make Contact Sheets (2013)](https://patdavid.net/2013/04/using-imagemagick-to-create-contact.html)
+* [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
-* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 * [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 * [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
+* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 * [Self-Contained Development Environments (2018) [pdf]](https://charig.github.io/assets/papers/SCDE-DLS.pdf)
 * [Surprising Economics of Load-Balanced Systems](http://brooker.co.za/blog/2020/08/06/erlang.html)
 * [JuliaCon2020: Julia Is Production Ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html)
@@ -47,7 +47,7 @@ layout: default
 * [‘I Was a Little Scared’: Inside America’s Reopening Schools](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html)
 * [Is TikTok More of a Parenting Problem Than a Security Threat?](https://www.nytimes.com/2020/08/07/us/politics/tiktok-security-threat.html)
 * [Pompeo Warned Russia Against Bounties on U.S. Troops in Afghanistan](https://www.nytimes.com/2020/08/07/world/asia/pompeo-russia-afghanistan-bounties.html)
-* [Trump Administration Penalizes Chinese Officials for Hong Kong Crackdown](https://www.nytimes.com/2020/08/07/world/asia/trump-china-hong-kong-sanctions.html)
+* [Trump Administration Imposes Sanctions Against Chinese Officials for Hong Kong Crackdown](https://www.nytimes.com/2020/08/07/world/asia/trump-china-hong-kong-sanctions.html)
 * [Why Joe Biden Keeps Missing His Own V.P. Deadlines](https://www.nytimes.com/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
 * [Biden vs Trump 2020 Election: Live Updates](https://www.nytimes.com/2020/08/07/us/elections/trump-biden.html)
 * [Marquita Bradshaw on Her Tennessee Primary Victory: ‘I Could See the Momentum’](https://www.nytimes.com/2020/08/07/us/politics/tennessee-election-marquita-bradshaw.html)
@@ -78,11 +78,11 @@ layout: default
 * [Álvaro Uribe’s Detention Deepens Colombia’s Divisions](https://www.nytimes.com/2020/08/07/world/americas/uribe-colombia-house-arrest.html)
 * [Why an Accurate Census Is So Important](https://www.nytimes.com/2020/08/07/us/politics/census-polling.html)
 * [Brent Scowcroft, a Force on Foreign Policy for 40 Years, Dies at 95](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [A’s Mike Fiers Has Moved On From Astros Cheating Scandal](https://www.nytimes.com/2020/08/06/sports/as-mike-fiers-astros-cheating.html)
 * [This Is Not a Desk Chair](https://www.nytimes.com/2020/08/07/style/gamer-chair-market-herman-miller.html)
@@ -101,13 +101,12 @@ layout: default
 
 
 * [Agressor de motoboy também ofendeu pedreiros e seguranças em condomínio, dizem vizinhos](https://oglobo.globo.com/sociedade/agressor-de-motoboy-tambem-ofendeu-pedreiros-segurancas-em-condominio-dizem-vizinhos-24573607)
+* [PEC que pede a suspensão do teto de gastos começa a tramitar no Senado](https://oglobo.globo.com/economia/pec-que-pede-suspensao-do-teto-de-gastos-comeca-tramitar-no-senado-24573782)
+* [Em meio à tensão com os EUA, Alemanha e França desistem de negociações sobre reforma da OMS](https://oglobo.globo.com/mundo/em-meio-tensao-com-os-eua-alemanha-franca-desistem-de-negociacoes-sobre-reforma-da-oms-24573758)
+* [Gilmar Mendes é novo relator em ação contra reeleição de Maia e Alcolumbre](https://oglobo.globo.com/brasil/gilmar-mendes-novo-relator-em-acao-contra-reeleicao-de-maia-alcolumbre-1-24573631)
 * [Site francês resgata repertório de mais de 700 compositoras de música clássica](https://oglobo.globo.com/celina/site-frances-resgata-repertorio-de-mais-de-700-compositoras-de-musica-classica-24564557)
-* [PEC que pede a suspensão do teto de gastos em PEC
-começa a tramitar no Senado](https://oglobo.globo.com/economia/pec-que-pede-suspensao-do-teto-de-gastos-em-peccomeca-tramitar-no-senado-24573782)
 * [Desordem nas praias do Rio: falta fiscalização e sobram irregularidades entre banhistas e ambulantes na orla da cidade](https://oglobo.globo.com/rio/desordem-nas-praias-do-rio-falta-fiscalizacao-sobram-irregularidades-entre-banhistas-ambulantes-na-orla-da-cidade-24573683)
 * [Ministros militares apreensivos com cheques de Queiroz para Michelle Bolsonaro](https://epoca.globo.com/guilherme-amado/ministros-militares-apreensivos-com-cheques-de-queiroz-para-michelle-bolsonaro-24573685)
-* [Gilmar Mendes é novo relator em ação contra reeleição de Maia e Alcolumbre](https://oglobo.globo.com/brasil/gilmar-mendes-novo-relator-em-acao-contra-reeleicao-de-maia-alcolumbre-1-24573631)
 * [Acusado de integrar maior milícia do Rio é preso e tem BMW avaliada em R$ 85 mil apreendida](https://oglobo.globo.com/rio/acusado-de-integrar-maior-milicia-do-rio-preso-tem-bmw-avaliada-em-85-mil-apreendida-24573727)
 * [Como lidar com dores nas costas em tempos de home office](https://oglobo.globo.com/sociedade/saude/como-lidar-com-dores-nas-costas-em-tempos-de-home-office-24573295)
-* [PSOL quer CPI para investigar depósitos em conta de Michelle Bolsonaro](https://oglobo.globo.com/brasil/psol-quer-cpi-para-investigar-depositos-em-conta-de-michelle-bolsonaro-24573618)
 * [Ameaça de Trump faria EUA se equipararem à China comunista na censura à internet](https://oglobo.globo.com/analitico/ameaca-de-trump-faria-eua-se-equipararem-china-comunista-na-censura-internet-24573626)

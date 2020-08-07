@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 11:14:11 UTC
+# indexed at 07/08/2020 11:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [I'm Open Sourcing the Have I Been Pwned Code Base](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/)
-* [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
+* [Is the US about to split the internet?](https://www.bbc.co.uk/news/technology-53686390)
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [REBOL Shell Interface](http://www.rebol.com/docs/shell.html)
-* [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
+* [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
 * [US to ban transactions with ByteDance and WeChat in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
+* [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
 * [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
 * [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
-* [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
-* [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
+* [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
+* [Simon's Algorithm](https://leimao.github.io/blog/Simon-Algorithm/)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
 * [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
-* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
-* [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
+* [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
+* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
 * [Beyond KrØØk: Even more Wi‑Fi chips vulnerable to eavesdropping](https://www.welivesecurity.com/2020/08/06/beyond-kr00k-even-more-wifi-chips-vulnerable-eavesdropping/)
-* [Patient-Led Research for Covid-19](https://patientresearchcovid19.com/)
-* [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
+* [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
-* [Literary Machines (1987) [pdf]](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf)
 * [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
 ## nytimes.com
 
@@ -78,11 +78,11 @@ layout: default
 * [Did He Kill Neighbor to Become ‘TikTok Famous,’ or Was It Self-Defense?](https://www.nytimes.com/2020/08/07/nyregion/tiktok-manslaughter-new-jersey.html)
 * [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [In Richmond, Black Dance Claims a Space Near Robert E. Lee](https://www.nytimes.com/2020/08/06/arts/dance/richmond-virginia-lee-monument.html)
 * [Brooks Koepka Is Here to Win Majors, Not Friends](https://www.nytimes.com/2020/08/07/sports/brooks-koepka-is-here-to-win-majors-not-friends.html)
 * [Toy Cars and Crop Tops: Can Wacky U.S.P.S. Store Merch Save the Struggling Postal Service?](https://www.nytimes.com/2020/08/06/style/usps-store.html)
@@ -99,6 +99,7 @@ layout: default
 ## globo.com
 
 
+* [Ibama executou apenas 19% de recursos previstos para contenção e prevenção de incêndios florestais em 2020](https://oglobo.globo.com/sociedade/ibama-executou-apenas-19-de-recursos-previstos-para-contencao-prevencao-de-incendios-florestais-em-2020-24572707)
 * [Xuxa Meneghel compartilha fotos de disco de 1990: 'Trintou essa semana'](https://oglobo.globo.com/ela/gente/xuxa-meneghel-compartilha-fotos-de-disco-de-1990-trintou-essa-semana-24572686)
 * [Jennifer Garner é vista com Bradley Cooper após rumores de separação](https://oglobo.globo.com/ela/gente/jennifer-garner-vista-com-bradley-cooper-apos-rumores-de-separacao-24572705)
 * [Brasil tem 98.650 mortes pela Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/coronavirus/brasil-tem-98650-mortes-pela-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24572666)
@@ -108,4 +109,3 @@ layout: default
 * [Após corte de juros, poupança tem rendimento real negativo. Saiba como proteger seu dinheiro](https://oglobo.globo.com/economia/apos-corte-de-juros-poupanca-tem-rendimento-real-negativo-saiba-como-proteger-seu-dinheiro-24572399)
 * [Vacina contra a Covid-19: acompanhe a corrida dos países pela imunização](https://oglobo.globo.com/sociedade/vacina-contra-covid-19-acompanhe-corrida-dos-paises-pela-imunizacao-24571371)
 * [Uruguai busca investidores para aumentar exportações de maconha medicinal](https://oglobo.globo.com/mundo/uruguai-busca-investidores-para-aumentar-exportacoes-de-maconha-medicinal-24572169)
-* [Após cinco meses preso, Ronaldinho Gaúcho continua embaixador do turismo por 'passado vitorioso'](https://epoca.globo.com/guilherme-amado/apos-cinco-meses-preso-ronaldinho-gaucho-continua-embaixador-do-turismo-por-passado-vitorioso-1-24571506)

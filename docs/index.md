@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 06:16:24 UTC
+# indexed at 07/08/2020 06:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
-* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
-* [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
 * [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
 * [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
+* [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
+* [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
 * [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
-* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [NeRF in the Wild: reconstructing 3D scenes from internet photography](https://nerf-w.github.io/)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
-* [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
+* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
+* [Chrysler's Radical Space Shuttle Design Was 50 Years Ahead of Its Time](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
 * [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
-* [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
-* [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
 * [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
 * [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
+* [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
+* [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
 * [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
 * [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
+* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
-* [Apple's App Store Polices Mean Xbox Game Streaming Not Allowed](https://www.businessinsider.com/apple-explains-why-xbox-game-pass-is-not-on-iphone-2020-8)
 ## nytimes.com
 
 
@@ -79,9 +79,9 @@ layout: default
 * [The Latest U.S. Tool to Fight Election Meddling: Text Messages](https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Arda Turan Joins Galatasaray and Emerges From Exile](https://www.nytimes.com/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
@@ -94,20 +94,20 @@ layout: default
 * [Moderna Coronavirus Vaccine Test in Monkeys Shows Promise](https://www.nytimes.com/2020/07/28/health/coronavirus-moderna-vaccine-monkeys.html)
 * [We’ve Hit a Pandemic Wall](https://www.nytimes.com/2020/08/05/opinion/coronavirus-mental-illness-depression.html)
 * [Is Your Child an Orchid, a Tulip or a Dandelion?](https://www.nytimes.com/2020/08/06/well/family/sensitive-child.html)
-* [Let This Blueberry Bundt Cake Pull You Out of Your Baking Rut](https://www.nytimes.com/2020/08/05/dining/blueberry-bundt-cake.html)
+* [Stream These 12 Movies Before They Leave Netflix This Month](https://www.nytimes.com/2020/08/05/movies/movies-leaving-netflix-august.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Por que menina foi retirada dos pais pela Justiça após participar de um ritual de candomblé](https://epoca.globo.com/sociedade/por-que-menina-foi-retirada-dos-pais-pela-justica-apos-participar-de-um-ritual-de-candomble-1-24572612)
-* [Nove perguntas sobre reforma tributária para Samuel Pessôa, do Instituto Brasileiro de Economia](https://epoca.globo.com/economia/nove-perguntas-sobre-reforma-tributaria-para-samuel-pessoa-do-instituto-brasileiro-de-economia-24572567)
-* [As incertezas do formato do trabalho pós-quarentena](https://epoca.globo.com/sociedade/as-incertezas-do-formato-do-trabalho-pos-quarentena-24572548)
 * [A bandeira branca no horizonte da PGR](https://epoca.globo.com/brasil/a-bandeira-branca-no-horizonte-da-pgr-24572455)
 * [Como empresas de eventos têm buscado se reiventar na pandemia](https://epoca.globo.com/economia/como-empresas-de-eventos-tem-buscado-se-reiventar-na-pandemia-24572420)
 * [A luta de uma mãe por um remédio de R$ 12 milhões](https://epoca.globo.com/sociedade/a-luta-de-uma-mae-por-um-remedio-de-12-milhoes-24572225)
-* [Na pandemia, artistas fazem da serra mais do que um refúgio](https://epoca.globo.com/cultura/na-pandemia-artistas-fazem-da-serra-mais-do-que-um-refugio-24572001)
+* [Na pandemia, artistas fazem da serra mais do que um refúgio](https://epoca.globo.com/cultura/na-pandemia-artistas-fazem-da-serra-mais-do-que-um-refugio-1-24572001)
 * [O recado das Forças Armadas ao Ministério da Defesa sobre o 5G](https://epoca.globo.com/guilherme-amado/o-recado-das-forcas-armadas-ao-ministerio-da-defesa-sobre-5g-24571588)
 * [Maia nunca foi oposição](https://epoca.globo.com/guilherme-amado/maia-nunca-foi-oposicao-1-24571454)
 * [Deputado federal e juízes discutem o projeto que prevê quarentena política para magistrados](https://epoca.globo.com/brasil/deputado-federal-juizes-discutem-projeto-que-preve-quarentena-politica-para-magistrados-1-24571373)
+* [Por que menina foi retirada dos pais pela Justiça após participar de um ritual de candomblé](https://epoca.globo.com/sociedade/por-que-menina-foi-retirada-dos-pais-pela-justica-apos-participar-de-um-ritual-de-candomble-1-24572612)
+* [Nove perguntas sobre reforma tributária para Samuel Pessôa, do Instituto Brasileiro de Economia](https://epoca.globo.com/economia/nove-perguntas-sobre-reforma-tributaria-para-samuel-pessoa-do-instituto-brasileiro-de-economia-24572567)
+* [As incertezas do formato do trabalho pós-quarentena](https://epoca.globo.com/sociedade/as-incertezas-do-formato-do-trabalho-pos-quarentena-24572548)

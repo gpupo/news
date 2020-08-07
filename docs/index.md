@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 08:16:35 UTC
+# indexed at 07/08/2020 08:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -15,17 +15,18 @@ layout: default
 * [US to ban transactions with ByteDance and WeChat in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
 * [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
-* [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
+* [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
 * [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
+* [On Using Twitter](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
 * [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
 * [Literary Machines (1987) [pdf]](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf)
 * [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
-* [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
+* [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
 * [Beyond KrØØk: Even more Wi‑Fi chips vulnerable to eavesdropping](https://www.welivesecurity.com/2020/08/06/beyond-kr00k-even-more-wifi-chips-vulnerable-eavesdropping/)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
@@ -33,11 +34,10 @@ layout: default
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
 * [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
-* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
+* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
-* [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
-* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
+* [Eviction Moratorium Poses Nightmare Scenario for Small Landlord](https://sanfrancisco.cbslocal.com/2020/08/06/eviction-moratorium-poses-nightmare-scenario-for-small-landlord/)
 ## nytimes.com
 
 
@@ -70,19 +70,19 @@ layout: default
 * [Why Influencers Won’t Stop Partying Anytime Soon](https://www.nytimes.com/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Trump Reinstates Tariff on Canadian Aluminum](https://www.nytimes.com/2020/08/06/business/economy/trump-canadian-aluminum-tariffs.html)
-* [Former Saudi Official Accuses the Crown Prince of Trying to Kill Him](https://www.nytimes.com/2020/08/06/world/middleeast/saudi-prince-mohammed-lawsuit-aljabri.html)
+* [Storm Batters N.Y. Region; More Than 2 Million Without Power](https://www.nytimes.com/2020/08/05/nyregion/isaias-hurricane-storm-damage-ny-nj.html)
 * [Equestrian Coach George Morris Accused in Lawsuit of Sexual Abuse of Teens](https://www.nytimes.com/2020/08/06/sports/equestrian-sexual-abuse-george-morris.html)
-* [Violence at Rikers at an ‘All-Time High’ Despite City’s Promise to Curb It](https://www.nytimes.com/2020/08/06/nyregion/rikers-island-violence-guards.html)
-* [Sri Lanka Election Hands Rajapaksa Family a Bigger Slice of Control](https://www.nytimes.com/2020/08/06/world/asia/sri-lanka-elections-rajapaksa.html)
-* [Power Outages From Isaias for 1.6 Million Could Last Several Days](https://www.nytimes.com/2020/08/06/nyregion/isaias-storm-power-outages.html)
+* [Milwaukee Police Chief Demoted After Questions Over Protest Response](https://www.nytimes.com/2020/08/07/us/alfonso-morales-milwaukee-police.html)
+* [Former Saudi Official Accuses the Crown Prince of Trying to Kill Him](https://www.nytimes.com/2020/08/06/world/middleeast/saudi-prince-mohammed-lawsuit-aljabri.html)
+* [‘It’s Time for a Change’: Workers Idled by the Virus Try New Careers](https://www.nytimes.com/2020/08/06/business/british-workers-careers-pandemic.html)
 * [In Poland, the Rainbow Flag Is Wrapped Up in a Broader Culture War](https://www.nytimes.com/2020/08/06/world/europe/poland-rainbow-flag-statues.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [Arda Turan Joins Galatasaray and Emerges From Exile](https://www.nytimes.com/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
 * [‘Looking for Miss America’ Tells the History of the Legendary Pageant](https://www.nytimes.com/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
 * [‘Star Trek: Lower Decks’ Review: Life as Phaser Fodder](https://www.nytimes.com/2020/08/06/arts/television/star-trek-lower-decks-review.html)

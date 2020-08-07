@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 05:14:43 UTC
+# indexed at 07/08/2020 05:34:51 UTC
 
 
 ## news.ycombinator.com
@@ -13,23 +13,23 @@ layout: default
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
 * [Non-invasive nerve stimulation boosts learning of foreign language sounds](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
-* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
+* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
-* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
+* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
 * [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
 * [NeRF in the Wild: reconstructing 3D scenes from internet photography](https://nerf-w.github.io/)
+* [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
 * [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
-* [Executive Order on Addressing the Threat Posed by WeChat – The White House](https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-posed-wechat/)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
-* [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
+* [What Latvia Found in the KGB Archives](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
 * [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
@@ -79,11 +79,11 @@ layout: default
 * [The Latest U.S. Tool to Fight Election Meddling: Text Messages](https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Arda Turan Joins Galatasaray and Emerges From Exile](https://www.nytimes.com/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
 * [‘Looking for Miss America’ Tells the History of the Legendary Pageant](https://www.nytimes.com/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
 * [‘Star Trek: Lower Decks’ Review: Life as Phaser Fodder](https://www.nytimes.com/2020/08/06/arts/television/star-trek-lower-decks-review.html)

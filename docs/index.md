@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 03:14:32 UTC
+# indexed at 07/08/2020 03:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
 * [Most Americans don’t have enough assets to withstand 3 months without income](https://today.oregonstate.edu/news/study-most-americans-don’t-have-enough-assets-withstand-3-months-without-income)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
-* [They Just Don’t Listen': SF Kimchi Maker Saw 'Food Tech' Practices Up Close](https://www.kqed.org/news/11831806/they-just-dont-listen-sf-kimchi-maker-saw-food-tech-practices-up-close-in-her-kitchen)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
+* [They Just Don’t Listen': SF Kimchi Maker Saw 'Food Tech' Practices Up Close](https://www.kqed.org/news/11831806/they-just-dont-listen-sf-kimchi-maker-saw-food-tech-practices-up-close-in-her-kitchen)
 * [Trump to ban transactions with ByteDance and Tencent in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
+* [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
 * [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [NeRF in the Wild: reconstructing 3D scenes from internet photography](https://nerf-w.github.io/)
-* [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
-* [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
-* [Blackstone to Acquire Ancestry.com for $4.7B](https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES)
+* [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [Nine year old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
-* [XIX (YC W17) Is Hiring Engineers in San Francisco](https://jobs.lever.co/xix)
+* [Blackstone to Acquire Ancestry.com for $4.7B](https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES)
+* [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
+* [XIX (YC W17) Is Hiring Engineers in San Francisco](https://jobs.lever.co/xix)
 * [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
-* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
-* [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
-* [Why not give unpaid leaves?](https://news.ycombinator.com/item?id=24077473)
-* [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
-* [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
+* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
-* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
+* [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
+* [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
+* [Vint Cerf on Confidential Computing](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
+* [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
 ## nytimes.com
 
 
@@ -79,8 +79,8 @@ layout: default
 * [The Latest U.S. Tool to Fight Election Meddling: Text Messages](https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)

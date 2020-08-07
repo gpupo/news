@@ -2,47 +2,48 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 22:14:19 UTC
+# indexed at 07/08/2020 22:34:36 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
-* [Google is happy to control core Web schemas, but they neglect project](https://threadreaderapp.com/thread/1291509746000855040.html)
+* [Tech giants let the Web's metadata schemas and infrastrucure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
-* [P2 powers internal collaboration at WordPress.com and now it’s free for everyone](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
+* [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
-* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
+* [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
-* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
+* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Infinity: open-source search engine](https://infinitysearch.co)
+* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
-* [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
-* [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
 * [Silicon Valley’s Vast Data Collection Should Worry You More Than TikTok](https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump)
+* [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
-* [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
-* [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
-* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 * [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
+* [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
+* [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
+* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
+* [Reading is good. Reading in order to discuss is better](https://pex.com/blog/book-clubs-reading-is-good-reading-to-discuss-is-better/)
 * [Using ImageMagick to make Contact Sheets (2013)](https://patdavid.net/2013/04/using-imagemagick-to-create-contact.html)
-* [Apple says game streaming services violate App Store policies](https://www.businessinsider.com/apple-explains-why-xbox-game-pass-is-not-on-iphone-2020-8)
 * [Self-Contained Development Environments (2018) [pdf]](https://charig.github.io/assets/papers/SCDE-DLS.pdf)
 ## nytimes.com
 
 
 * [Covid-19 Live Updates: Global Tracker](https://www.nytimes.com/2020/08/07/world/covid-19-news.html)
 * [Despite Virus Surge, U.S. Added Jobs in July, but at Slower Pace](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus)
+* [Millions of Evictions Are a Sharper Threat as Government Support Ends](https://www.nytimes.com/2020/08/07/business/economy/housing-economy-eviction-renters.html)
 * [Russia Continues Interfering in Election to Help Trump, U.S. Intelligence Says](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
 * [Why Joe Biden Keeps Missing His Own V.P. Deadlines](https://www.nytimes.com/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
 * [Biden vs Trump 2020 Election: Live Updates](https://www.nytimes.com/2020/08/07/us/elections/trump-biden.html)
@@ -55,6 +56,7 @@ layout: default
 * [Abolish the Police? Those Who Survived the Chaos in Seattle Aren’t So Sure](https://www.nytimes.com/2020/08/07/us/defund-police-seattle-protests.html)
 * [N.Y.P.D. Besieges Black Lives Matter Leader as He Broadcasts Live](https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
 * [In a Wistful Age, Farmers Find a New Angle: Chore TV](https://www.nytimes.com/2020/08/07/us/farmer-influencer-youtube.html)
+* [Jobs, School Reopenings, Summer Desserts: Your Friday Evening Briefing](https://www.nytimes.com/2020/08/07/briefing/jobs-school-reopenings-summer-desserts.html)
 * [Jack Dorsey on Twitter’s Mistakes](https://www.nytimes.com/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 * [Trump Swings Against TikTok, WeChat](https://www.nytimes.com/2020/08/07/technology/trump-tiktok-wechat.html)
@@ -80,11 +82,11 @@ layout: default
 * [Air India Flight Skids and Cracks in Half](https://www.nytimes.com/2020/08/07/world/asia/air-india-plane-crash.html)
 * [‘Are You Up on Dominic Fike Yet?’](https://www.nytimes.com/article/dominic-fike-at-first.html)
 * [Brent Scowcroft, a Force on Foreign Policy for 40 Years, Dies at 95](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [A’s Mike Fiers Has Moved On From Astros Cheating Scandal](https://www.nytimes.com/2020/08/06/sports/as-mike-fiers-astros-cheating.html)
 * [This Is Not a Desk Chair](https://www.nytimes.com/2020/08/07/style/gamer-chair-market-herman-miller.html)
@@ -102,6 +104,7 @@ layout: default
 
 
 * [Mercado Livre ultrapassa Vale e Petrobras e se torna empresa mais valiosa da América Latina](https://oglobo.globo.com/economia/mercado-livre-ultrapassa-vale-petrobras-se-torna-empresa-mais-valiosa-da-america-latina-24574138)
+* [PGR recorre contra decisão de Fachin que barrou acesso a dados da Lava-Jato](https://oglobo.globo.com/brasil/pgr-recorre-contra-decisao-de-fachin-que-barrou-acesso-dados-da-lava-jato-1-24574233)
 * [Entenda o que se sabe sobre os repasses de R$ 72 mil feitos por Queiroz a Michelle Bolsonaro](https://oglobo.globo.com/brasil/entenda-que-se-sabe-sobre-os-repasses-de-72-mil-feitos-por-queiroz-michelle-bolsonaro-24573976)
 * [É #FAKE que imagens mostrem drone sobrevoando porto de Beirute e atirando objeto momentos antes de explosão](https://oglobo.globo.com/fato-ou-fake/e-fake-que-imagens-mostrem-drone-sobrevoando-porto-de-beirute-atirando-objeto-momentos-antes-de-explosao-24574160)
 * [Champions: Gabriel Jesus dá passe para um e marca outro na vitória do City sobre o Real](https://oglobo.globo.com/esportes/champions-gabriel-jesus-da-passe-para-um-marca-outro-na-vitoria-do-city-sobre-real-24574186)
@@ -110,4 +113,3 @@ layout: default
 * [Cinco casas continuam interditadas após deslizamento na Mangueira; imóvel onde família ficou presa é desobstruído e não corre risco](https://oglobo.globo.com/rio/cinco-casas-continuam-interditadas-apos-deslizamento-na-mangueira-imovel-onde-familia-ficou-presa-desobstruido-nao-corre-risco-1-24574078)
 * [MPF diz ao STJ que Queiroz fez 'estranhas movimentações bancárias' e obstruiu investigação](https://oglobo.globo.com/brasil/mpf-diz-ao-stj-que-queiroz-fez-estranhas-movimentacoes-bancarias-obstruiu-investigacao-24574117)
 * [Bolsonaro repudia ato racista contra entregador em São Paulo](https://oglobo.globo.com/sociedade/bolsonaro-repudia-ato-racista-contra-entregador-em-sao-paulo-24574051)
-* [MPF diz ao STJ que Queiroz tinha 'estranhas movimentações bancárias' e obstruiu investigação](https://oglobo.globo.com/brasil/mpf-diz-ao-stj-que-queiroz-tinha-estranhas-movimentacoes-bancarias-obstruiu-investigacao-24573982)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 07:14:46 UTC
+# indexed at 07/08/2020 07:35:01 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,39 @@ layout: default
 
 * [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
-* [Non-invasive nerve stimulation boosts learning of foreign language sounds](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
+* [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [US to ban transactions with ByteDance and WeChat in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
+* [Non-invasive nerve stimulation boosts learning of foreign language sounds](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
-* [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
-* [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
-* [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
+* [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
+* [Nine-year-old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
 * [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
+* [Chrysler's Radical Space Shuttle Design](https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time)
 * [‘A Partial Freedom’: What Latvia Found in the KGB Archives (2019)](https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/)
-* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Why Confidential Computing Is a Game Changer](https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510)
+* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
+* [Literary Machines (1987) [pdf]](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
-* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
+* [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
-* [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
 * [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 * [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
+* [Facebook Fired Employee Who Collected Evidence of Potential Political Bias](https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results)
+* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
 * [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
 * [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
-* [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
-* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
-* [Tools You Should Know as a Cybersecurity Engineer](https://medium.com/manishmshiva/10-tools-you-should-know-as-a-cybersecurity-engineer-3b9809c7bbc2)
 ## nytimes.com
 
 
 * [Amid Dire Jobless Numbers, Small-Business Relief Program Nears End](https://www.nytimes.com/2020/08/06/business/small-businesses-relief-program-ending.html)
-* [Live Coronavirus News: Global Tracker](https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html)
+* [Hours of Talks on U.S. Coronavirus Relief End With No Deal](https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html)
 * [Gov. Mike DeWine of Ohio Tests Positive, Then Negative, for Coronavirus](https://www.nytimes.com/2020/08/06/us/mike-dewine-coronavirus.html)
 * [With Old Allies Turning Against Her, Birx Presses On Against the Coronavirus](https://www.nytimes.com/2020/08/06/us/politics/birx-coronavirus.html)
 * [‘I Was a Little Scared’: Inside America’s Reopening Schools](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html)
@@ -91,8 +91,8 @@ layout: default
 * [As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies](https://www.nytimes.com/2020/08/04/health/trump-plasma.html)
 * [Why Parents Should Pause Before Oversharing Online](https://www.nytimes.com/2020/08/04/well/family/parents-social-media-privacy.html)
 * [Moderna Coronavirus Vaccine Test in Monkeys Shows Promise](https://www.nytimes.com/2020/07/28/health/coronavirus-moderna-vaccine-monkeys.html)
-* [We’ve Hit a Pandemic Wall](https://www.nytimes.com/2020/08/05/opinion/coronavirus-mental-illness-depression.html)
 * [Is Your Child an Orchid, a Tulip or a Dandelion?](https://www.nytimes.com/2020/08/06/well/family/sensitive-child.html)
+* [We’ve Hit a Pandemic Wall](https://www.nytimes.com/2020/08/05/opinion/coronavirus-mental-illness-depression.html)
 * [Stream These 12 Movies Before They Leave Netflix This Month](https://www.nytimes.com/2020/08/05/movies/movies-leaving-netflix-august.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

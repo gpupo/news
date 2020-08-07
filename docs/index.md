@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 01:16:28 UTC
+# indexed at 07/08/2020 01:35:35 UTC
 
 
 ## news.ycombinator.com
 
 
+* [They Just Don’t Listen': SF Kimchi Maker Saw 'Food Tech' Practices Up Close](https://www.kqed.org/news/11831806/they-just-dont-listen-sf-kimchi-maker-saw-food-tech-practices-up-close-in-her-kitchen)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 * [Y Combinator Startup Library 2.0](https://www.ycombinator.com/library)
-* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
-* [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
 * [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/deletescape/status/1291405688204402689)
-* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
+* [Interlisp project: Restore Interlisp-D to usability on modern OSes](http://interlisp.org/)
+* [XIX (YC W17) Is Hiring Engineers in San Francisco](https://jobs.lever.co/xix)
 * [A crash course on hacking satellites](https://nyan-sat.com/chapter0.html)
 * [First Impressions of Rust](https://john-millikin.com/first-impressions-of-rust)
-* [The albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
-* [They Just Don’t Listen': SF Kimchi Maker Saw 'Food Tech' Practices Up Close](https://www.kqed.org/news/11831806/they-just-dont-listen-sf-kimchi-maker-saw-food-tech-practices-up-close-in-her-kitchen)
-* [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
+* [Albatrosses who catch pirates on the high seas](https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas)
 * [Frances Allen has died](https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/)
+* [Launch HN: Datafold (YC S20) – Diff Tool for SQL Databases](https://news.ycombinator.com/item?id=24071955)
 * [NeRF in the Wild: reconstructing 3D scenes from internet photography](https://nerf-w.github.io/)
 * [Cluster of 295 Chrome extensions caught hijacking Google and Bing search results](https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/)
-* [Terminating a Frozen SSH Session](https://www.remembertheusers.com/2020/07/0668-terminating-a-frozen-ssh-session.html)
 * [Blackstone to Acquire Ancestry.com for $4.7B](https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES)
 * [Lab mice have a chill, and that may be messing up study results (2016)](https://www.statnews.com/2016/04/19/lab-mice-temperature/)
+* [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
 * [Scientists rename human genes to stop MS Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 * [Surviving Django, if you care about databases](https://www.varrazzo.com/blog/2020/07/25/surviving-django/)
 * [Herbie: Automatically Improving Floating Point Accuracy](https://herbie.uwplse.org/)
-* [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
+* [Terminating a Frozen SSH Session](https://www.remembertheusers.com/2020/07/0668-terminating-a-frozen-ssh-session.html)
 * [Auth is now available in Supabase (YC S20)](https://supabase.io/blog/2020/08/05/supabase-auth)
 * [Ask HN: What are the least competitive consumer and enterprise markets?](https://news.ycombinator.com/item?id=24066842)
+* [Busted retailers use bankruptcy to break leases by the thousands](https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347)
+* [Diluted blood plasma found to reverse aging in mice](https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice)
 * [Agrivoltaics: Save solar plant land costs with sheep and agriculture](https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/)
+* [There’s a rule in Russian grammar that every first-grader knows by heart](https://alexyar.tumblr.com/post/174622302172/theres-a-rule-in-russian-grammar-that-every)
 * [Nine year old bug in the Go standard library enables DoS](https://github.com/ethereum/public-attacknets/issues/12)
+* [MOSEC 2020: Attack Secure Boot of Apple's Secure Enclave Processor [pdf]](https://github.com/windknown/presentations/blob/master/Attack_Secure_Boot_of_SEP.pdf)
 * [Direct evidence for T-cell immunity as a factor behind Covid-19 heterogeneity](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
-* [Make the best of bad reviews by leveraging consumer empathy](https://phys.org/news/2020-08-bad-leveraging-consumer-empathy.html)
 * [Our World in Data: Suicide](https://ourworldindata.org/suicide)
-* [Ubuntu from 2004 to 20.04 LTS](https://ubuntu.com/blog/infographic-ubuntu-from-2004-to-20-04-lts)
-* [Mighty Buildings (YC W18) can 3D-print houses, even the roof](https://www.fastcompany.com/90534917/these-cute-backyard-houses-are-entirely-3d-printed)
 ## nytimes.com
 
 
@@ -47,8 +47,8 @@ layout: default
 * [With Old Allies Turning Against Her, Birx Presses On Against the Coronavirus](https://www.nytimes.com/2020/08/06/us/politics/birx-coronavirus.html)
 * [‘I Was a Little Scared’: Inside America’s Reopening Schools](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html)
 * [Gov. Mike DeWine of Ohio Tests Positive for Coronavirus on Way to Meet Trump](https://www.nytimes.com/2020/08/06/us/mike-dewine-coronavirus.html)
+* [Bill Hagerty Wins Tough Tennessee Primary With Trump’s Endorsement](https://www.nytimes.com/2020/08/06/us/politics/tennessee-senate-primary-hagerty.html)
 * [New York Attorney General Sues N.R.A. and Seeks Its Closure](https://www.nytimes.com/2020/08/06/us/ny-nra-lawsuit-letitia-james.html)
-* [Biden vs Trump: Live 2020 Election Updates](https://www.nytimes.com/2020/08/06/us/elections/trump-vs-biden.html)
 * [A Promising Life Is Cut Short, Becoming a Symbol of Lebanon’s Heartache](https://www.nytimes.com/2020/08/06/world/middleeast/Beirut-explosion-paramedic-Fares.html)
 * [After Beirut Explosion, Funerals and Fury](https://www.nytimes.com/2020/08/06/world/middleeast/beirut-explosion.html)
 * [After Hiroshima's Carnage, Setsuko Thurlow Devoted Her Life to Peace](https://www.nytimes.com/2020/08/06/world/asia/hiroshima-japan-setsuko-thurlow.html)
@@ -80,9 +80,9 @@ layout: default
 * [The Latest U.S. Tool to Fight Election Meddling: Text Messages](https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
 * [At the Census Bureau, a Technical Memo Raises Alarms Over Politics](https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html)
 * [Tourist Posing With 200-Year-Old Sculpture Breaks Her Toes](https://www.nytimes.com/2020/08/06/arts/tourist-breaks-sculptures-toes.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Arda Turan Joins Galatasaray and Emerges From Exile](https://www.nytimes.com/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [EUA registram mais de 2 mil mortes diárias pela Covid-19 pela primeira vez em três meses](https://oglobo.globo.com/mundo/eua-registram-mais-de-2-mil-mortes-diarias-pela-covid-19-pela-primeira-vez-em-tres-meses-24572232)
-* [Ambulante que assediou mulheres na Lagoa presta depoimento e diz que só quis agradar o cliente](https://oglobo.globo.com/rio/ambulante-que-assediou-mulheres-na-lagoa-presta-depoimento-diz-que-so-quis-agradar-cliente-24572265)
-* [Plataforma da Petrobras na Bacia de Campos tem 42 infectados pelo novo coronavírus](https://oglobo.globo.com/economia/plataforma-da-petrobras-na-bacia-de-campos-tem-42-infectados-pelo-novo-coronavirus-24571908)
-* [Polícia de Beirute usa gás lacrimogêneo contra manifestantes que tentavam invadir o Parlamento do Líbano](https://oglobo.globo.com/mundo/policia-de-beirute-usa-gas-lacrimogeneo-contra-manifestantes-que-tentavam-invadir-parlamento-do-libano-24572150)
 * [Onze estados brasileiros apresentam tendência de queda para mortes por Covid-19](https://oglobo.globo.com/sociedade/onze-estados-brasileiros-apresentam-tendencia-de-queda-para-mortes-por-covid-19-1-24572023)
+* [Edmar Santos deixa prisão e a expectativa agora gira em torno de sua delação, que pode ser homologada](https://oglobo.globo.com/rio/edmar-santos-deixa-prisao-a-expectativa-agora-gira-em-torno-de-sua-delacao-que-pode-ser-homologada-24572303)
+* [EUA registram mais de 2 mil mortes diárias pela Covid-19 pela primeira vez em três meses](https://oglobo.globo.com/mundo/eua-registram-mais-de-2-mil-mortes-diarias-pela-covid-19-pela-primeira-vez-em-tres-meses-24572232)
+* [Perfomance de carreata em marcha a ré na Avenida Paulista será vista na Bienal de Berlim](https://oglobo.globo.com/cultura/perfomance-de-carreata-em-marcha-re-na-avenida-paulista-sera-vista-na-bienal-de-berlim-24572018)
+* [Polícia de Beirute usa gás lacrimogêneo contra manifestantes que tentavam invadir o Parlamento do Líbano](https://oglobo.globo.com/mundo/policia-de-beirute-usa-gas-lacrimogeneo-contra-manifestantes-que-tentavam-invadir-parlamento-do-libano-24572150)
+* [Ambulante que assediou mulheres na Lagoa presta depoimento e diz que só quis agradar o cliente](https://oglobo.globo.com/rio/ambulante-que-assediou-mulheres-na-lagoa-presta-depoimento-diz-que-so-quis-agradar-cliente-24572265)
 * [Oito anos depois, Senado ratifica Protocolo de Nagoia sobre recursos genéticos](https://oglobo.globo.com/sociedade/oito-anos-depois-senado-ratifica-protocolo-de-nagoia-sobre-recursos-geneticos-1-24572081)
 * [Decisão do STF sobre acúmulo de pensão e aposentadoria pode sinalizar fim de penduricalhos, dizem advogados](https://oglobo.globo.com/economia/decisao-do-stf-sobre-acumulo-de-pensao-aposentadoria-pode-sinalizar-fim-de-penduricalhos-dizem-advogados-1-24571991)
 * [Cristo Redentor é iluminado com as cores do Líbano em homenagem às vítimas da explosão em Beirute](https://oglobo.globo.com/mundo/cristo-redentor-iluminado-com-as-cores-do-libano-em-homenagem-as-vitimas-da-explosao-em-beirute-24571377)
 * [Senado aprova 'Revalida emergencial' para tentar aumentar número de médicos na pandemia](https://oglobo.globo.com/sociedade/senado-aprova-revalida-emergencial-para-tentar-aumentar-numero-de-medicos-na-pandemia-24571972)
-* ['Mas vamos tocar a vida', diz Bolsonaro ao falar de 100 mil mortes por Covid-19](https://oglobo.globo.com/sociedade/coronavirus/mas-vamos-tocar-vida-diz-bolsonaro-ao-falar-de-100-mil-mortes-por-covid-19-24571950)

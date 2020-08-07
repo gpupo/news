@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 17:14:27 UTC
+# indexed at 07/08/2020 17:34:51 UTC
 
 
 ## news.ycombinator.com
@@ -11,11 +11,11 @@ layout: default
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [To Head Off Regulators, Google Makes Certain Words Taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [JuliaCon2020: Julia Is Production Ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html)
-* [Project Zero Released a Zero-Click Exploit for Signal](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [Infinity: open-source search engine](https://infinitysearch.co)
-* [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
+* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
+* [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
@@ -24,20 +24,20 @@ layout: default
 * [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [Awesome-sysadmin: A curated list of amazingly open source sysadmin resources](https://github.com/kahun/awesome-sysadmin)
+* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
+* [Surprising Economics of Load-Balanced Systems](http://brooker.co.za/blog/2020/08/06/erlang.html)
 * [US to ban transactions with ByteDance and WeChat in 45 days](https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days)
 * [A T Cell Army against SARS-CoV-2](https://www.hellovirology.com/2020/08/a-t-cell-army-against-sars-cov-2.html)
-* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
-* [Steve Crocker on the History of RFCs](https://spectrum.ieee.org/tech-history/cyberspace/todays-internet-still-relies-on-an-arpanetera-protocol-the-request-for-comments)
 * [I'm Open Sourcing the Have I Been Pwned Code Base](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/)
+* [Steve Crocker on the History of RFCs](https://spectrum.ieee.org/tech-history/cyberspace/todays-internet-still-relies-on-an-arpanetera-protocol-the-request-for-comments)
 * [Yet another tool for making copy/paste/run experience better (Windows)](https://github.com/postprintum/devcomrade)
 * [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
-* [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Classic Google Sites shutting down by September 2021](https://support.google.com/a/answer/9958187)
-* [Surprising Economics of Load-Balanced Systems](http://brooker.co.za/blog/2020/08/06/erlang.html)
-* [On Using Twitter](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)
 * [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
-* [REBOL Shell Interface](http://www.rebol.com/docs/shell.html)
+* [On Using Twitter](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)
+* [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [Declining eyesight improved by looking at deep red light](https://www.eurekalert.org/pub_releases/2020-06/ucl-dei062620.php)
+* [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
 ## nytimes.com
 
 
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Após ganhar tempo no Legislativo, Witzel vê situação piorar no Judiciário](https://oglobo.globo.com/analitico/apos-ganhar-tempo-no-legislativo-witzel-ve-situacao-piorar-no-judiciario-1-24573111)
+* ['Me parece uma decisão um pouco arbitrária', diz Maia sobre prisão de Baldy](https://oglobo.globo.com/brasil/me-parece-uma-decisao-um-pouco-arbitraria-diz-maia-sobre-prisao-de-baldy-24573273)
+* [Chaves da Cinemateca Brasileira são entregues à União](https://oglobo.globo.com/cultura/chaves-da-cinemateca-brasileira-sao-entregues-uniao-24573266)
+* [Produtores fazem ofensiva contra lobby americano por tarifa zero para etanol importado dos EUA](https://oglobo.globo.com/economia/produtores-fazem-ofensiva-contra-lobby-americano-por-tarifa-zero-para-etanol-importado-dos-eua-24572201)
+* [Entenda por que Trump proibiu negócios com Tik Tok e WeChat e como isso pode acirrar a guerra tecnológica EUA-China](https://oglobo.globo.com/economia/entenda-por-que-trump-proibiu-negocios-com-tik-tok-wechat-como-isso-pode-acirrar-guerra-tecnologica-eua-china-24573235)
 * [Bolsonaro nunca explicou circunstâncias de suposto empréstimo a Queiroz](https://oglobo.globo.com/brasil/bolsonaro-nunca-explicou-circunstancias-de-suposto-emprestimo-queiroz-24573299)
 * [Usadas contra a peste negra, 'janelas de vinho' da Itália ressurgem com Covid-19](https://oglobo.globo.com/boa-viagem/usadas-contra-peste-negra-janelas-de-vinho-da-italia-ressurgem-com-covid-19-24573197)
-* [Após ganhar tempo no Legislativo, Witzel vê situação piorar no Judiciário](https://oglobo.globo.com/analitico/apos-ganhar-tempo-no-legislativo-witzel-ve-situacao-piorar-no-judiciario-24573111)
-* [Entenda por que Trump proibiu negócios com Tik Tok e WeChat e como isso pode acirrar a guerra tecnológica EUA-China](https://oglobo.globo.com/economia/entenda-por-que-trump-proibiu-negocios-com-tik-tok-wechat-como-isso-pode-acirrar-guerra-tecnologica-eua-china-24573235)
-* [Bolsonaro visita obra na Baixada Santista ao lado de desafeto de João Doria](https://oglobo.globo.com/brasil/bolsonaro-visita-obra-na-baixada-santista-ao-lado-de-desafeto-de-joao-doria-24573222)
-* [Chaves da Cinemateca Brasileira são entregues à União](https://oglobo.globo.com/cultura/chaves-da-cinemateca-brasileira-sao-entregues-uniao-24573266)
-* ['Me parece uma decisão um pouco arbitrária', diz Maia sobre prisão de Baldy](https://oglobo.globo.com/brasil/me-parece-uma-decisao-um-pouco-arbitraria-diz-maia-sobre-prisao-de-baldy-24573273)
-* [México e Chile aderem a movimento contra candidato americano, e adiamento de eleição no BID ganha força](https://oglobo.globo.com/mundo/mexico-chile-aderem-movimento-contra-candidato-americano-adiamento-de-eleicao-no-bid-ganha-forca-24573220)
-* [Camaçari busca empreendedores dispostos a acelerar a retomada](https://oglobo.globo.com/brasil/camacari-busca-empreendedores-dispostos-acelerar-retomada-24573256)
 * [Cheques de Queiroz para Michelle batem no capital político de Bolsonaro](https://oglobo.globo.com/analitico/cheques-de-queiroz-para-michelle-batem-no-capital-politico-de-bolsonaro-24573134)
+* [Bolsonaro visita obra na Baixada Santista ao lado de desafeto de João Doria](https://oglobo.globo.com/brasil/bolsonaro-visita-obra-na-baixada-santista-ao-lado-de-desafeto-de-joao-doria-24573222)
+* [Camaçari busca empreendedores dispostos a acelerar a retomada](https://oglobo.globo.com/brasil/camacari-busca-empreendedores-dispostos-acelerar-retomada-24573256)

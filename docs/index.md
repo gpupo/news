@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 18:15:45 UTC
+# indexed at 07/08/2020 18:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [Apple says game streaming services violate App Store policies](https://www.gsmarena.com/apple_says_game_streaming_services_like_microsofts_xcloud_violate_app_store_policies-news-44656.php)
 * [To Head Off Regulators, Google Makes Certain Words Taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
-* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
+* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Infinity: open-source search engine](https://infinitysearch.co)
+* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
-* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
-* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
+* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
+* [Using ImageMagick to make Contact Sheets (2013)](https://patdavid.net/2013/04/using-imagemagick-to-create-contact.html)
 * [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 * [Self-Contained Development Environments (2018) [pdf]](https://charig.github.io/assets/papers/SCDE-DLS.pdf)
 * [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
-* [Using ImageMagick to make Contact Sheets (2013)](https://patdavid.net/2013/04/using-imagemagick-to-create-contact.html)
 * [JuliaCon2020: Julia Is Production Ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html)
 * [Awesome-sysadmin: A curated list of amazingly open source sysadmin resources](https://github.com/kahun/awesome-sysadmin)
 * [Surprising Economics of Load-Balanced Systems](http://brooker.co.za/blog/2020/08/06/erlang.html)
 * [I'm Open Sourcing the Have I Been Pwned Code Base](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/)
 * [A T Cell Army against SARS-CoV-2](https://www.hellovirology.com/2020/08/a-t-cell-army-against-sars-cov-2.html)
 * [Steve Crocker on the History of RFCs](https://spectrum.ieee.org/tech-history/cyberspace/todays-internet-still-relies-on-an-arpanetera-protocol-the-request-for-comments)
+* [Classic Google Sites shutting down by September 2021](https://support.google.com/a/answer/9958187)
 * [Trying to build the ultimate Raspberry Pi computer – Zero Terminal V3](https://n-o-d-e.net/zeroterminal3.html)
 * [Yet another tool for making copy/paste/run experience better (Windows)](https://github.com/postprintum/devcomrade)
-* [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 * [On Using Twitter](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)
-* [Declining eyesight improved by looking at deep red light](https://www.eurekalert.org/pub_releases/2020-06/ucl-dei062620.php)
+* [Non-invasive nerve stimulation boosts learning of foreign language sounds: study](https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html)
 ## nytimes.com
 
 
@@ -49,6 +49,8 @@ layout: default
 * [Trump Targets WeChat and TikTok, in Sharp Escalation With China](https://www.nytimes.com/2020/08/06/technology/trump-wechat-tiktok-china.html)
 * [They’re Children at Risk of Abuse, and Their Caseworkers Are Stuck Home](https://www.nytimes.com/2020/08/07/us/virus-child-abuse.html)
 * [‘I Was a Little Scared’: Inside America’s Reopening Schools](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html)
+* [Why Joe Biden Keeps Missing His Own V.P. Deadlines](https://www.nytimes.com/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
+* [Live 2020 Election Updates: Biden vs](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html)
 * [Abolish the Police? Those Who Survived the Chaos in Seattle Aren’t So Sure](https://www.nytimes.com/2020/08/07/us/defund-police-seattle-protests.html)
 * [They Were Arrested During the Protests. Here’s What Happened Next.](https://www.nytimes.com/2020/08/07/nyregion/ny-protest-arrests.html)
 * [In a Wistful Age, Farmers Find a New Angle: Chore TV](https://www.nytimes.com/2020/08/07/us/farmer-influencer-youtube.html)
@@ -68,20 +70,19 @@ layout: default
 * [Covid Update: Don’t Rush the Vaccine](https://www.nytimes.com/video/opinion/100000007278127/coronavirus-vaccine-update.html)
 * [He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.](https://www.nytimes.com/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html)
 * [The Real Reason the American Economy Boomed After World War II](https://www.nytimes.com/2020/08/06/opinion/middle-class-prosperity.html)
-* [I’m a Conservative Christian Environmentalist. No, That’s Not an Oxymoron.](https://www.nytimes.com/2020/08/07/opinion/republicans-climate-change.html)
-* [A Season of Grief and Release: 5 Months of the Virus in New York City](https://www.nytimes.com/2020/08/07/style/coronavirus-nyc-historic-season.html)
+* [The Presidential Debates Debate](https://www.nytimes.com/2020/08/07/opinion/letters/presidential-debates.html)
 * [How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk](https://www.nytimes.com/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
 * [Air India Jet With More Than 180 Passengers Skids and Cracks in Half](https://www.nytimes.com/2020/08/07/world/asia/air-india-plane-crash.html)
 * [E. Jean Carroll, Who Accused Trump of Rape, Can Go Forward With Suit](https://www.nytimes.com/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html)
 * [Suspension Lifted of Georgia Student Who Posted Photos of Crowded Hall](https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html)
-* [Biden vs. Trump: Live Updates on the 2020 Election](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html)
+* [Chat Group Becomes Target of Moscow’s Wrath as Security Crackdown Widens](https://www.nytimes.com/2020/08/06/world/europe/russia-extremisim-chat-group-sentence.html)
 * [M.L.B. Tightens Virus Protocols Again in Wake of Outbreaks](https://www.nytimes.com/2020/08/06/sports/baseball/mlb-safety-protocols.html)
 * [‘Are You Up on Dominic Fike Yet?’](https://www.nytimes.com/article/dominic-fike-at-first.html)
 * [Álvaro Uribe’s Detention Deepens Colombia’s Divisions](https://www.nytimes.com/2020/08/07/world/americas/uribe-colombia-house-arrest.html)
 * [Why an Accurate Census Is So Important](https://www.nytimes.com/2020/08/07/us/politics/census-polling.html)
 * [Brent Scowcroft, a Force on Foreign Policy for 40 Years, Dies at 95](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [MPF dá os últimos retoques na denúncia contra Alexandre Baldy](https://epoca.globo.com/guilherme-amado/mpf-da-os-ultimos-retoques-na-denuncia-contra-alexandre-baldy-24573394)
+* [Embaixada do Líbano no Brasil pede doações para serem enviadas ao país árabe](https://oglobo.globo.com/mundo/embaixada-do-libano-no-brasil-pede-doacoes-para-serem-enviadas-ao-pais-arabe-24573352)
 * [Pesquisadores da USP de Ribeirão Preto investigam possível caso de reinfecção por coronavírus](https://oglobo.globo.com/sociedade/pesquisadores-da-usp-de-ribeirao-preto-investigam-possivel-caso-de-reinfeccao-por-coronavirus-24573360)
 * [Produtores fazem ofensiva contra lobby americano por tarifa zero para etanol importado dos EUA](https://oglobo.globo.com/economia/produtores-fazem-ofensiva-contra-lobby-americano-por-tarifa-zero-para-etanol-importado-dos-eua-24572201)
 * [Após ganhar tempo no Legislativo, Witzel vê situação piorar no Judiciário](https://oglobo.globo.com/analitico/apos-ganhar-tempo-no-legislativo-witzel-ve-situacao-piorar-no-judiciario-1-24573111)
 * [Usadas contra a peste negra, ressurgem agora as 'janelas de vinho' da Itália](https://oglobo.globo.com/boa-viagem/usadas-contra-peste-negra-ressurgem-agora-as-janelas-de-vinho-da-italia-24573197)
-* [Embaixada do Líbano no Brasil pede doações para serem enviadas ao país árabe](https://oglobo.globo.com/mundo/embaixada-do-libano-no-brasil-pede-doacoes-para-serem-enviadas-ao-pais-arabe-24573352)
 * [Golpes usando falsas ofertas de Dia dos Pais nas redes sociais fazem mais de 157 mil vítimas no Brasil](https://oglobo.globo.com/economia/defesa-do-consumidor/golpes-usando-falsas-ofertas-de-dia-dos-pais-nas-redes-sociais-fazem-mais-de-157-mil-vitimas-no-brasil-24573353)
 * [Bolsonaro nunca explicou circunstâncias de suposto empréstimo a Queiroz](https://oglobo.globo.com/brasil/bolsonaro-nunca-explicou-circunstancias-de-suposto-emprestimo-queiroz-1-24573299)
 * ['Me parece uma decisão um pouco arbitrária', diz Maia sobre prisão de Baldy](https://oglobo.globo.com/brasil/me-parece-uma-decisao-um-pouco-arbitraria-diz-maia-sobre-prisao-de-baldy-24573273)
-* [Entenda por que Trump proibiu negócios com Tik Tok e WeChat e como isso pode acirrar a guerra tecnológica EUA-China](https://oglobo.globo.com/economia/entenda-por-que-trump-proibiu-negocios-com-tik-tok-wechat-como-isso-pode-acirrar-guerra-tecnologica-eua-china-24573235)
 * [Personagem do Porta dos Fundos vai ganhar filme](https://epoca.globo.com/guilherme-amado/personagem-do-porta-dos-fundos-vai-ganhar-filme-1-24571783)

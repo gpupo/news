@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 21:14:14 UTC
+# indexed at 07/08/2020 21:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -15,42 +15,43 @@ layout: default
 * [P2 powers internal collaboration at WordPress.com and now it’s free for everyone](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
-* [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
-* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
-* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
+* [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
+* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
+* [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
+* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Infinity: open-source search engine](https://infinitysearch.co)
-* [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
 * [Crush: A command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
-* [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
+* [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
-* [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
+* [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
 * [Silicon Valley’s Vast Data Collection Should Worry You More Than TikTok](https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump)
-* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 * [Using ImageMagick to make Contact Sheets (2013)](https://patdavid.net/2013/04/using-imagemagick-to-create-contact.html)
-* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
+* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 * [Self-Contained Development Environments (2018) [pdf]](https://charig.github.io/assets/papers/SCDE-DLS.pdf)
 * [Apple says game streaming services violate App Store policies](https://www.businessinsider.com/apple-explains-why-xbox-game-pass-is-not-on-iphone-2020-8)
+* [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
 ## nytimes.com
 
 
+* [Russia Continues Interfering in Election to Help Trump, U.S. Intelligence Says](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
 * [Covid-19 Live Updates: Global Tracker](https://www.nytimes.com/2020/08/07/world/covid-19-news.html)
 * [Despite Virus Surge, U.S. Added Jobs in July, but at Slower Pace](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus)
+* [N.Y.C. Schools Can Reopen, Cuomo Says, Making It One of Few Big Cities With In-Person Classes](https://www.nytimes.com/2020/08/07/nyregion/cuomo-schools-reopening.html)
 * [Lost Summer: How Schools Missed a Chance to Fix Remote Learning](https://www.nytimes.com/2020/08/07/us/remote-learning-fall-2020.html)
 * [‘I Was a Little Scared’: Inside America’s Reopening Schools](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html)
+* [Why Joe Biden Keeps Missing His Own V.P. Deadlines](https://www.nytimes.com/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
+* [Biden vs Trump 2020 Election: Live Updates](https://www.nytimes.com/2020/08/07/us/elections/trump-biden.html)
 * [Is TikTok More of a Parenting Problem Than a Security Threat?](https://www.nytimes.com/2020/08/07/us/politics/tiktok-security-threat.html)
 * [Pompeo Warned Russia Against Bounties on U.S. Troops in Afghanistan](https://www.nytimes.com/2020/08/07/world/asia/pompeo-russia-afghanistan-bounties.html)
 * [Trump Administration Imposes Sanctions Against Chinese Officials for Hong Kong Crackdown](https://www.nytimes.com/2020/08/07/world/asia/trump-china-hong-kong-sanctions.html)
-* [Why Joe Biden Keeps Missing His Own V.P. Deadlines](https://www.nytimes.com/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
-* [Biden vs Trump 2020 Election: Live Updates](https://www.nytimes.com/2020/08/07/us/elections/trump-biden.html)
-* [Marquita Bradshaw on Her Tennessee Primary Victory: ‘I Could See the Momentum’](https://www.nytimes.com/2020/08/07/us/politics/tennessee-election-marquita-bradshaw.html)
 * [Abolish the Police? Those Who Survived the Chaos in Seattle Aren’t So Sure](https://www.nytimes.com/2020/08/07/us/defund-police-seattle-protests.html)
 * [They Were Arrested During the Protests. Here’s What Happened Next.](https://www.nytimes.com/2020/08/07/nyregion/ny-protest-arrests.html)
 * [In a Wistful Age, Farmers Find a New Angle: Chore TV](https://www.nytimes.com/2020/08/07/us/farmer-influencer-youtube.html)
@@ -70,18 +71,18 @@ layout: default
 * [The Real Reason the American Economy Boomed After World War II](https://www.nytimes.com/2020/08/06/sunday-review/middle-class-prosperity.html)
 * [How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk](https://www.nytimes.com/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
 * [Air India Flight Skids and Cracks in Half](https://www.nytimes.com/2020/08/07/world/asia/air-india-plane-crash.html)
+* [Jerry Falwell Jr. to Take Leave of Absence From Liberty University](https://www.nytimes.com/2020/08/07/us/jerry-falwell-liberty-university.html)
 * [House Can Sue to Force Testimony From McGahn, Appeals Court Rules](https://www.nytimes.com/2020/08/07/us/politics/donald-mcgahn-congress-lawsuit.html)
-* [E. Jean Carroll, Who Accused Trump of Rape, Can Go Forward With Suit](https://www.nytimes.com/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html)
 * [Three Top Executives Are Out at WarnerMedia, HBO’s Parent Company](https://www.nytimes.com/2020/08/07/business/media/hbo-warnermedia-executive-departure.html)
-* [Suspension Lifted of Georgia Student Who Posted Photos of Crowded Hall](https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html)
+* [E. Jean Carroll, Who Accused Trump of Rape, Can Go Forward With Suit](https://www.nytimes.com/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html)
 * [Ship Blamed in Beirut Explosion Hasn’t Sailed in 7 Years. We Found It.](https://www.nytimes.com/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
 * [‘Are You Up on Dominic Fike Yet?’](https://www.nytimes.com/article/dominic-fike-at-first.html)
 * [Álvaro Uribe’s Detention Deepens Colombia’s Divisions](https://www.nytimes.com/2020/08/07/world/americas/uribe-colombia-house-arrest.html)
 * [Brent Scowcroft, a Force on Foreign Policy for 40 Years, Dies at 95](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [A’s Mike Fiers Has Moved On From Astros Cheating Scandal](https://www.nytimes.com/2020/08/06/sports/as-mike-fiers-astros-cheating.html)
@@ -99,6 +100,7 @@ layout: default
 ## globo.com
 
 
+* [Pesquisa com aplicação retal de ozônio em pacientes de Covid-19  terá 150 voluntários](https://oglobo.globo.com/sociedade/pesquisa-com-aplicacao-retal-de-ozonio-em-pacientes-de-covid-19-tera-150-voluntarios-24573951)
 * [Movimento negro vai ao TSE para garantir distribuição proporcional para candidaturas negras já em 2020](https://oglobo.globo.com/brasil/movimento-negro-vai-ao-tse-para-garantir-distribuicao-proporcional-para-candidaturas-negras-ja-em-2020-24573899)
 * [Hong Kong vai oferecer testes para coronavírus para toda a sua população](https://oglobo.globo.com/sociedade/hong-kong-vai-oferecer-testes-para-coronavirus-para-toda-sua-populacao-24573895)
 * [Desordem nas praias do Rio: falta fiscalização e sobram irregularidades entre banhistas e ambulantes na orla da cidade](https://oglobo.globo.com/rio/desordem-nas-praias-do-rio-falta-fiscalizacao-sobram-irregularidades-entre-banhistas-ambulantes-na-orla-da-cidade-24573683)
@@ -108,4 +110,3 @@ layout: default
 * [Site francês resgata repertório de mais de 700 compositoras de música clássica](https://oglobo.globo.com/celina/site-frances-resgata-repertorio-de-mais-de-700-compositoras-de-musica-classica-24564557)
 * [Ministros militares apreensivos com cheques de Queiroz para Michelle Bolsonaro](https://epoca.globo.com/guilherme-amado/ministros-militares-apreensivos-com-cheques-de-queiroz-para-michelle-bolsonaro-24573685)
 * [Acusado de integrar maior milícia do Rio é preso e tem BMW avaliada em R$ 85 mil apreendida](https://oglobo.globo.com/rio/acusado-de-integrar-maior-milicia-do-rio-preso-tem-bmw-avaliada-em-85-mil-apreendida-24573727)
-* [Como lidar com dores nas costas em tempos de home office](https://oglobo.globo.com/sociedade/saude/como-lidar-com-dores-nas-costas-em-tempos-de-home-office-24573295)

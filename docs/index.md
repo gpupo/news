@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 07/08/2020 23:13:51 UTC
+# indexed at 07/08/2020 23:34:29 UTC
 
 
 ## news.ycombinator.com
@@ -12,37 +12,37 @@ layout: default
 * [Tech giants let the Web's metadata schemas and infrastrucure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
-* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
-* [CoinTracker is hiring engineers to make crypto easy to use (Remote, Global)](https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
+* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
-* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
-* [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
+* [CoinTracker is hiring engineers to make crypto easy to use (Remote, Global)](https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121)
+* [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
 * [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
+* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Infinity: open-source search engine](https://infinitysearch.co)
+* [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
+* [A Swedish doctor's perspective on Covid](https://sebastianrushworth.com/2020/08/04/how-bad-is-covid-really-a-swedish-doctors-perspective/)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
 * [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
-* [Silicon Valley’s Vast Data Collection Should Worry You More Than TikTok](https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump)
-* [Air India repatriation flight crash-lands, at least 17 killed](https://www.reuters.com/article/us-india-crash/air-india-repatriation-flight-crash-lands-at-least-17-killed-idUSKCN2532G1)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
-* [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
 * [CNO neutrinos from the Sun are finally detected](https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun)
+* [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
+* [Silicon Valley’s Vast Data Collection Should Worry You More Than TikTok](https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump)
 * [W.H. Auden on No-Platforming Ezra Pound](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
-* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 ## nytimes.com
 
 
 * [Covid-19 Live Updates: Global Tracker](https://www.nytimes.com/2020/08/07/world/covid-19-news.html)
-* [Despite Virus Surge, U.S. Added Jobs in July, but at Slower Pace](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus)
+* [Job Growth Slowed in July, Signaling a Loss of Economic Momentum](https://www.nytimes.com/2020/08/07/business/economy/july-jobs-report.html)
 * [Millions of Evictions Are a Sharper Threat as Government Support Ends](https://www.nytimes.com/2020/08/07/business/economy/housing-economy-eviction-renters.html)
 * [Russia Continues Interfering in Election to Help Trump, U.S. Intelligence Says](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
 * [Why Joe Biden Keeps Missing His Own V.P. Deadlines](https://www.nytimes.com/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
@@ -84,9 +84,9 @@ layout: default
 * [Brent Scowcroft, a Force on Foreign Policy for 40 Years, Dies at 95](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [We Know Little About David Silva. That’s How He Wanted It.](https://www.nytimes.com/2020/08/07/sports/soccer/david-silva-manchester-city.html)
 * [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](https://www.nytimes.com/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Mulher de Queiroz depositou R$ 17 mil na conta de Michelle Bolsonaro quando marido era assessor de Flávio](https://oglobo.globo.com/brasil/mulher-de-queiroz-depositou-17-mil-na-conta-de-michelle-bolsonaro-quando-marido-era-assessor-de-flavio-24574291)
+* [Prefeitura do Rio vai autorizar eventos corporativos a partir de segunda-feira](https://oglobo.globo.com/rio/prefeitura-do-rio-vai-autorizar-eventos-corporativos-partir-de-segunda-feira-24574311)
 * [A deputados e senadores, ministro da Justiça diz que enviará relatório sobre servidores antifascistas](https://oglobo.globo.com/brasil/a-deputados-senadores-ministro-da-justica-diz-que-enviara-relatorio-sobre-servidores-antifascistas-24574379)
-* [Mulher de Queiroz depositou R$ 11 mil na conta de Michelle Bolsonaro quando marido era assessor de Flávio](https://oglobo.globo.com/brasil/mulher-de-queiroz-depositou-11-mil-na-conta-de-michelle-bolsonaro-quando-marido-era-assessor-de-flavio-24574291)
 * [Com 1.058 mortes, Brasil se aproxima de 100 mil óbitos por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/com-1058-mortes-brasil-se-aproxima-de-100-mil-obitos-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24574274)
+* [Novo olhar sobre o clássico “Romeu e Julieta”: Julia Rabello estreia monólogo on-line](https://oglobo.globo.com/rio/bairros/novo-olhar-sobre-classico-romeu-julieta-julia-rabello-estreia-monologo-on-line-24574167)
 * [PGR recorre contra decisão de Fachin que barrou acesso a dados da Lava-Jato](https://oglobo.globo.com/brasil/pgr-recorre-contra-decisao-de-fachin-que-barrou-acesso-dados-da-lava-jato-1-24574233)
 * [É #FAKE mensagem que fala sobre convite da Sociedade Brasileira de Infectologia para treinamento sobre vacina na Suíça](https://oglobo.globo.com/fato-ou-fake/e-fake-mensagem-que-fala-sobre-convite-da-sociedade-brasileira-de-infectologia-para-treinamento-sobre-vacina-na-suica-24574315)
-* [Prefeitura do Rio vai autorizar eventos corporativos a partir de segunda-feira](https://oglobo.globo.com/rio/prefeitura-do-rio-vai-autorizar-eventos-corporativos-partir-de-segunda-feira-24574311)
 * [MP do Rio indica para atuar em processo de falência escritório de advogado que foi alvo da PF](https://epoca.globo.com/guilherme-amado/mp-do-rio-indica-para-atuar-em-processo-de-falencia-escritorio-de-advogado-que-foi-alvo-da-pf-24574285)
 * [Claro,Vivo e TIM vão assinar contrato de exclusividade com a Oi para comprar a operação de celular](https://oglobo.globo.com/economia/clarovivo-tim-vao-assinar-contrato-de-exclusividade-com-oi-para-comprar-operacao-de-celular-24574272)
 * [Champions: Gabriel Jesus dá passe para um e marca outro na vitória do City sobre o Real](https://oglobo.globo.com/esportes/champions-gabriel-jesus-da-passe-para-um-marca-outro-na-vitoria-do-city-sobre-real-24574186)
-* [Jovem negro é atacado em shopping na Ilha por agressores não identificados; mãe acredita que foi racismo](https://oglobo.globo.com/sociedade/jovem-negro-atacado-em-shopping-na-ilha-por-agressores-nao-identificados-mae-acredita-que-foi-racismo-24573743)

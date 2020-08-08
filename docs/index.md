@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 19:13:47 UTC
+# indexed at 08/08/2020 19:36:08 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
-* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [CIA shoelacing method for covert signalling](https://www.fieggen.com/shoelace/cialacing.htm)
-* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [The quest to liberate $300k of Bitcoin from an old ZIP file](https://arstechnica.com/information-technology/2020/08/the-quest-to-liberate-300000-of-bitcoin-from-an-old-zip-file/)
-* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
+* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
+* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
+* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+* [Create a fully functioning command line interface with 1.5 lines of code](https://github.com/kongaskristjan/fire-hpp)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [The quest to liberate $300k of Bitcoin from an old zip file](https://www.wired.com/story/quest-to-liberate-bitcoin-from-old-zip-file/)
+* [You're doing rubber duck debugging all wrong](https://triplebyte.com/blog/my-guide-for-rubber-duck-debugging-a-better-process-with-no-rubber-ducks)
 * [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * ['Music is as good as gold or oil': A man spending billions on old hits](https://www.theguardian.com/business/2020/aug/08/music-hits-elton-john-beyonce-merck-mercuriadis)
+* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
-* [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
-* [The quest to liberate $300k of Bitcoin from an old zip file](https://www.wired.com/story/quest-to-liberate-bitcoin-from-old-zip-file/)
-* [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
-* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
-* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 * [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
-* [You're doing rubber duck debugging all wrong](https://triplebyte.com/blog/my-guide-for-rubber-duck-debugging-a-better-process-with-no-rubber-ducks)
+* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
+* [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
+* [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
+* [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
 * [Dynamic branch prediction using neural networks (2001)](https://ieeexplore.ieee.org/document/952279)
 * [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
-* [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
-* [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
 ## nytimes.com
 
 
@@ -72,14 +72,14 @@ layout: default
 * [Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow](https://www.nytimes.com/2020/08/08/science/coronavirus-spread-air-conditioning.html)
 * [This Is How It All Ends](https://www.nytimes.com/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
 * [Remains of Sailor and 7 Marines Killed in Training Accident Are Recovered](https://www.nytimes.com/2020/08/08/us/marines-training-accident-recovered.html)
-* [Postal Service Leader Sets Reorganization Amid Scrutiny Over Mail Ballots](https://www.nytimes.com/2020/08/07/us/politics/postal-service-reorganization-mail-ballots.html)
+* [Pac-12 Players Say Commissioner Was Dismissive of Their Virus Concerns](https://www.nytimes.com/2020/08/08/sports/ncaafootball/coronavirus-pac-12-players-larry-scott.html)
 * [2 Ex-Green Berets Sentenced to 20 Years for Venezuela Attack](https://www.nytimes.com/2020/08/08/world/americas/2-ex-green-berets-sentenced-to-20-years-for-venezuela-attack.html)
 * [C.D.C. Closes Some Offices Over Bacteria Discovery](https://www.nytimes.com/2020/08/08/health/cdc-legionnaires-coronavirus.html)
 * [Ad Agency Sues Scott Rudin, Saying Producer Owes $6.3 Million](https://www.nytimes.com/2020/08/07/theater/scott-rudin-spotco-broadway-lawsuit.html)
 * [Restricting Beach Access to Residents Only](https://www.nytimes.com/2020/08/06/realestate/connecticut-long-island-beach-restrictions.html)
-* [For P.O.W., Landmark Verdict Against North Korea Is Long-Overdue Justice](https://www.nytimes.com/2020/08/07/world/asia/north-korea-pow-verdict-kim.html)
+* [At P.G.A. Championship in a Pandemic, the Silence Is Deafening](https://www.nytimes.com/2020/08/08/sports/golf/pga-championship-scores.html)
 * [This Year’s Must-Have Back-to-School Item: Masks for Children](https://www.nytimes.com/2020/08/06/us/crayola-masks-kids.html)
-* [Aleksandr Lukashenko Increasingly in Peril as Belarus Election Nears](https://www.nytimes.com/2020/08/07/world/europe/belarus-election-aleksandr-lukashenko.html)
+* [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
@@ -94,16 +94,16 @@ layout: default
 * [Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu](https://www.nytimes.com/2020/08/07/health/coronavirus-superspreading-contagion.html)
 * [How to Think Like an Epidemiologist](https://www.nytimes.com/2020/08/04/science/coronavirus-bayes-statistics-math.html)
 * [These Microbes May Have Survived 100 Million Years Beneath the Seafloor](https://www.nytimes.com/2020/07/28/science/microbes-100-million-years-old.html)
-* [Falwell Taking Leave From Liberty University Amid Photo Uproar](https://www.nytimes.com/2020/08/07/us/falwell-liberty.html)
+* [‘La Llorona’ Review: The General in His Horrific Labyrinth](https://www.nytimes.com/2020/08/05/movies/la-llorona-review.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Juventus anuncia Pirlo como novo técnico](https://oglobo.globo.com/esportes/juventus-anuncia-pirlo-como-novo-tecnico-24576155)
 * [Presidente do Ipem será exonerado do cargo após prisão de funcionários](https://oglobo.globo.com/rio/presidente-do-ipem-sera-exonerado-do-cargo-apos-prisao-de-funcionarios-24576147)
 * [Protestos no Líbano deixam ao menos um morto, e premier promete eleições parlamentares antecipadas](https://oglobo.globo.com/mundo/protestos-no-libano-deixam-ao-menos-um-morto-premier-promete-eleicoes-parlamentares-antecipadas-24576135)
-* [Guarda Municipal aplicou 2.235 multas sanitárias nas praias do Rio](https://oglobo.globo.com/rio/guarda-municipal-aplicou-2235-multas-sanitarias-nas-praias-do-rio-24576080)
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
 * [Congresso e Supremo decretam luto após 100 mil mortes pela Covid-19](https://oglobo.globo.com/sociedade/congresso-supremo-decretam-luto-apos-100-mil-mortes-pela-covid-19-24576085)
 * [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)

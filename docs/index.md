@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 20:16:26 UTC
+# indexed at 08/08/2020 20:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Apple Takes Legal Action Against Small Company with Pear Logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
+* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [CIA shoelacing method for covert signalling](https://www.fieggen.com/shoelace/cialacing.htm)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
+* [Google recommended UPI to the Federal Reserve. Here's a UPI 101](https://the-other-side.blog/upi-the-basics/)
+* [The Seduction of Bad Posts](https://onposting.substack.com/p/the-seduction-of-bad-posts)
 * [Create a fully functioning command line interface with 1.5 lines of code](https://github.com/kongaskristjan/fire-hpp)
-* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
+* [HBO Max drops Linux support in all browsers](https://www.reddit.com/r/linux/comments/i5tfft/hbo_max_drops_linux_support_in_all_browsers/)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
-* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
+* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [The quest to liberate $300k of Bitcoin from an old ZIP file](https://arstechnica.com/information-technology/2020/08/the-quest-to-liberate-300000-of-bitcoin-from-an-old-zip-file/)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Auden on No-Platforming Pound (2019)](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
-* [The Seduction of Bad Posts](https://onposting.substack.com/p/the-seduction-of-bad-posts)
 * [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
-* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
-* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [Auden on No-Platforming Pound (2019)](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
+* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
 * [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
+* [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
+* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
-* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
-* [Dynamic branch prediction using neural networks (2001)](https://ieeexplore.ieee.org/document/952279)
-* [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
-* ['Music is as good as gold or oil': A man spending billions on old hits](https://www.theguardian.com/business/2020/aug/08/music-hits-elton-john-beyonce-merck-mercuriadis)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [At P.G.A. Championship in a Pandemic, the Silence Is Deafening](https://www.nytimes.com/2020/08/08/sports/golf/pga-championship-scores.html)
 * [This Year’s Must-Have Back-to-School Item: Masks for Children](https://www.nytimes.com/2020/08/06/us/crayola-masks-kids.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -101,6 +101,7 @@ layout: default
 ## globo.com
 
 
+* [TikTok deve entrar com processo contra governo de Donald Trump na terça-feira](https://oglobo.globo.com/economia/tiktok-deve-entrar-com-processo-contra-governo-de-donald-trump-na-terca-feira-24576199)
 * [Presidente do Ipem será exonerado do cargo após prisão de funcionários](https://oglobo.globo.com/rio/presidente-do-ipem-sera-exonerado-do-cargo-apos-prisao-de-funcionarios-24576147)
 * [Protestos no Líbano deixam ao menos um morto, e premier promete eleições parlamentares antecipadas](https://oglobo.globo.com/mundo/protestos-no-libano-deixam-ao-menos-um-morto-premier-promete-eleicoes-parlamentares-antecipadas-24576135)
 * [Cavani fecha com Benfica de Jorge Jesus, diz jornalista](https://oglobo.globo.com/esportes/cavani-fecha-com-benfica-de-jorge-jesus-diz-jornalista-24576180)
@@ -109,5 +110,4 @@ layout: default
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
 * [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
 * ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)
-* [F1: Léo Batista recorda missão de narrar temporada em 1972, e o uso de 'tecnologia própria'](https://oglobo.globo.com/esportes/f1-leo-batista-recorda-missao-de-narrar-temporada-em-1972-o-uso-de-tecnologia-propria-24576101)
 * [Coluna | O papel dos autores 'conservadores' na ascensão do bolsonarismo](https://epoca.globo.com/colunistas/coluna-o-papel-dos-autores-conservadores-na-ascensao-do-bolsonarismo-24573384)

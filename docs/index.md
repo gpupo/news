@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 14:15:36 UTC
+# indexed at 08/08/2020 14:34:56 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
-* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
-* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
 * [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
+* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
 * [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [Norway advises citizens to avoid all travel abroad](https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city)
+* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
+* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
 * [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
 * [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
-* [A User Guide to Working with You – The Looking Glass](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
-* [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
-* [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
-* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
+* [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
+* [Ask HN: What macOS feature you found after years of using macOS?](https://news.ycombinator.com/item?id=24091707)
+* [A User Guide to Working with You – The Looking Glass](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
+* [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
+* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
+* [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
 * [Speculative Dereferencing of Registers: Reviving Foreshadow [pdf]](https://arxiv.org/pdf/2008.02307.pdf)
+* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
-* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
-* [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
+* [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
+* [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
 * [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
-* [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
-* [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
-* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
-* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
-* [Reading is good. Reading in order to discuss is better](https://pex.com/blog/book-clubs-reading-is-good-reading-to-discuss-is-better/)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Coronavirus Spares Gaza, but Travel Restrictions Do Not](https://www.nytimes.com/2020/08/08/world/middleeast/coronavirus-gaza.html)
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Bispo emérito dom Pedro Casaldáliga morre aos 92 anos](https://oglobo.globo.com/brasil/bispo-emerito-dom-pedro-casaldaliga-morre-aos-92-anos-24575902)
+* [Empresas de ônibus receberam 259 multas durante a semana](https://oglobo.globo.com/rio/empresas-de-onibus-receberam-259-multas-durante-semana-24575911)
+* [Cristiano Ronaldo bate recorde de 86 anos na Juventus](https://oglobo.globo.com/esportes/cristiano-ronaldo-bate-recorde-de-86-anos-na-juventus-24575877)
 * [Lula inocente](https://oglobo.globo.com/brasil/lula-inocente-3-24575823)
 * [Proibição de negócios de empresas americanas com chinesas, acirra o medo de espionagem](https://oglobo.globo.com/economia/proibicao-de-negocios-de-empresas-americanas-com-chinesas-acirra-medo-de-espionagem-24575833)
 * [Após eliminação na Champions, Juventus demite Sarri e já está em contato com Pochettino](https://oglobo.globo.com/esportes/apos-eliminacao-na-champions-juventus-demite-sarri-ja-esta-em-contato-com-pochettino-24575810)
-* [Exército indiano de 600 mil mulheres agentes de saúde entra em greve](https://oglobo.globo.com/mundo/exercito-indiano-de-600-mil-mulheres-agentes-de-saude-entra-em-greve-24573655)
 * [Premier da Nova Zelândia lança candidatura à reeleição impulsionada por resposta à pandemia da Covid-19](https://oglobo.globo.com/mundo/premier-da-nova-zelandia-lanca-candidatura-reeleicao-impulsionada-por-resposta-pandemia-da-covid-19-1-24575791)
-* [Na Praia de Copacabana, Rio de Paz faz manifestação pelos quase 100 mil mortos pela Covid-19 no Brasil](https://oglobo.globo.com/sociedade/na-praia-de-copacabana-rio-de-paz-faz-manifestacao-pelos-quase-100-mil-mortos-pela-covid-19-no-brasil-24575765)
 * [Mercado de arte enfrenta a crise com recursos digitais, mas vê convergência entre real e virtual no futuro](https://oglobo.globo.com/cultura/artes-visuais/mercado-de-arte-enfrenta-crise-com-recursos-digitais-mas-ve-convergencia-entre-real-virtual-no-futuro-24575168)
 * [OAB de Santos pede a Bolsonaro fiscalização de nitrato de amônio no porto da cidade](https://epoca.globo.com/guilherme-amado/oab-de-santos-pede-bolsonaro-fiscalizacao-de-nitrato-de-amonio-no-porto-da-cidade-1-24575119)
-* [Candidatos à Prefeitura do Rio criam estratégias de campanha para Zona Oeste](https://epoca.globo.com/brasil/candidatos-prefeitura-do-rio-criam-estrategias-de-campanha-para-zona-oeste-24573143)
 * [Coluna | Move fast and break things. O que pode dar errado?](https://epoca.globo.com/denis-r-burgierman/coluna-move-fast-and-break-things-que-pode-dar-errado-24573592)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 08:35:01 UTC
+# indexed at 08/08/2020 09:14:34 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Intel, ARM, IBM, AMD Processors Vulnerable to New Side-Channel Attacks](https://modernnetsec.io/intel-arm-ibm-amd-processors-vulnerable-to-new-side-channel-attacks/)
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
+* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
-* [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
-* [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
 * [So You Want to Learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+* [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
+* [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
-* [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [Facebook relaxed misinformation rules for conservative pages](https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182)
+* [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
 * [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [How to become a good theoretical physicist](https://www.goodtheorist.science/)
+* [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
-* [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+* [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
-* [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
-* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
-* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
+* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
+* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
-* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Brexit Behind Him, Boris Johnson Tries to Quiet Scotland’s Calls to Leave U.K.](https://www.nytimes.com/2020/08/07/world/europe/boris-johnson-scotland-ireland-independence.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Garden Design Ideas](https://www.nytimes.com/2020/07/08/realestate/garden-design-plan-expert-tips.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [We Know Little About David Silva. That’s How He Wanted It.](https://www.nytimes.com/2020/08/07/sports/soccer/david-silva-manchester-city.html)
 * [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](https://www.nytimes.com/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
@@ -98,12 +98,12 @@ layout: default
 
 
 * [Decisão que soltou ex-secretário de Saúde Edmar Santos pode favorecer 11 réus](https://oglobo.globo.com/rio/decisao-que-soltou-ex-secretario-de-saude-edmar-santos-pode-favorecer-11-reus-24575175)
-* [MP-RJ vê Edmar Santos como 'vértice da pirâmide' das fraudes do Rio, enquanto PGR crê em liderança de Witzel no esquema](https://oglobo.globo.com/rio/mp-rj-ve-edmar-santos-como-vertice-da-piramide-das-fraudes-do-rio-enquanto-pgr-cre-em-lideranca-de-witzel-no-esquema-24575278)
+* [Fechadas devido à pandemia, casas de pequeno e médio portes fazem campanhas para se manter](https://oglobo.globo.com/rio/bairros/fechadas-devido-pandemia-casas-de-pequeno-medio-portes-fazem-campanhas-para-se-manter-24575641)
+* ['Será uma Champions mais injusta', afirma tetracampeão Xavi Hernández](https://oglobo.globo.com/esportes/sera-uma-champions-mais-injusta-afirma-tetracampeao-xavi-hernandez-1-24575564)
 * [Igrejas querem ampliar isenção em impostos na reforma tributária](https://oglobo.globo.com/brasil/igrejas-querem-ampliar-isencao-em-impostos-na-reforma-tributaria-24575441)
-* ['Beirute vai renascer': a comunidade libanesa em São Paulo reage à tragédia com doações e mobilização](https://oglobo.globo.com/mundo/beirute-vai-renascer-comunidade-libanesa-em-sao-paulo-reage-tragedia-com-doacoes-mobilizacao-24574625)
-* [Parlamentares articulam uma saída para gastos acima do teto](https://oglobo.globo.com/economia/parlamentares-articulam-uma-saida-para-gastos-acima-do-teto-24575309)
-* [Dirigente da Bielorrússia tem maior desafio em 26 anos no poder, mas deve se reeleger](https://oglobo.globo.com/mundo/dirigente-da-bielorrussia-tem-maior-desafio-em-26-anos-no-poder-mas-deve-se-reeleger-24574047)
-* [Festival em ônibus levará música a ruas de Lisboa neste fim de semana](https://oglobo.globo.com/cultura/festival-em-onibus-levara-musica-ruas-de-lisboa-neste-fim-de-semana-24575006)
+* [Mandetta: ‘Bolsonaro jogou a toalha do combate à pandemia logo no começo’](https://epoca.globo.com/guilherme-amado/mandetta-bolsonaro-jogou-toalha-do-combate-pandemia-logo-no-comeco-24567878)
+* [Bebê com doença rara recebe dose de medicamento mais caro do mundo](https://epoca.globo.com/sociedade/bebe-com-doenca-rara-recebe-dose-de-medicamento-mais-caro-do-mundo-24574076)
 * [Martín Fernandez: Flamengo, um favorito evidente](https://oglobo.globo.com/esportes/martin-fernandez-flamengo-um-favorito-evidente-24574596)
 * [F1: Temporada mais curta e em pouco espaço de tempo são empurrão extra para Lewis Hamilton](https://oglobo.globo.com/esportes/f1-temporada-mais-curta-em-pouco-espaco-de-tempo-sao-empurrao-extra-para-lewis-hamilton-24573728)
-* [Pandemia exige novas regras de convivência e etiqueta](https://oglobo.globo.com/ela/pandemia-exige-novas-regras-de-convivencia-etiqueta-24571795)
+* [Silvia Federici: 'Sem o trabalho doméstico, o mundo não se move'](https://oglobo.globo.com/celina/silvia-federici-sem-trabalho-domestico-mundo-nao-se-move-24538608)
+* ['A luta das trabalhadoras domésticas é a luta de todas as mulheres', diz Silvia Federici](https://oglobo.globo.com/celina/a-luta-das-trabalhadoras-domesticas-a-luta-de-todas-as-mulheres-diz-silvia-federici-24543450)

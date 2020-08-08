@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 02:34:53 UTC
+# indexed at 08/08/2020 03:14:23 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
-* [Tech giants let the Web's metadata schemas and infrastrucure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
+* [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
+* [Alcohol as a social technology to check the trustworthiness of others](https://hndex.org/7798063)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
+* [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
-* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [How to become a good theoretical physicist](https://www.goodtheorist.science/)
+* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+* [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
 * [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
-* [Infinity: open-source search engine](https://infinitysearch.co)
-* [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
-* [DEF Con 28: Safe Mode](http://defcon.outel.org/)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
-* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
-* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
-* [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
+* [DEF Con 28: Safe Mode](http://defcon.outel.org/)
+* [Infinity: open-source search engine](https://infinitysearch.co)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
+* [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
-* [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
+* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
+* [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
+* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
 * [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
 * [A Swedish doctor's perspective on Covid](https://sebastianrushworth.com/2020/08/04/how-bad-is-covid-really-a-swedish-doctors-perspective/)
-* [Silicon Valley’s Vast Data Collection Should Worry You More Than TikTok](https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [Air India Flight Skids and Cracks in Half](https://www.nytimes.com/2020/08/07/world/asia/air-india-plane-crash.html)
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [‘Are You Up on Dominic Fike Yet?’](https://www.nytimes.com/article/dominic-fike-at-first.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [We Know Little About David Silva. That’s How He Wanted It.](https://www.nytimes.com/2020/08/07/sports/soccer/david-silva-manchester-city.html)
 * [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](https://www.nytimes.com/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
@@ -93,14 +93,15 @@ layout: default
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
 * [Novavax's New Covid-19 Vaccine Studies Praised By Scientists](https://www.nytimes.com/2020/08/04/health/covid-19-vaccine-novavax.html)
 * [Does Wearing a Mask Protect Me? Some Evidence Says Yes](https://www.nytimes.com/2020/07/27/health/coronavirus-mask-protection.html)
+* [Lifestyles of the Rich and Reckless: Posh Pandemic Parties](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-rich-parties.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Gilmar Mendes manda soltar Alexandre Baldy, secretário de Doria](https://oglobo.globo.com/brasil/gilmar-mendes-manda-soltar-alexandre-baldy-secretario-de-doria-24575390)
-* [Em live de aniversário, Caetano Veloso presenteia seu público 27 vezes](https://oglobo.globo.com/cultura/em-live-de-aniversario-caetano-veloso-presenteia-seu-publico-27-vezes-1-24575249)
+* [Em esperada live, Caetano Veloso mescla hits, lados b e discurso político](https://oglobo.globo.com/cultura/em-esperada-live-caetano-veloso-mescla-hits-lados-e-discurso-politico-24575249)
+* [Gilmar Mendes manda soltar Alexandre Baldy, secretário de Doria](https://oglobo.globo.com/brasil/gilmar-mendes-manda-soltar-alexandre-baldy-secretario-de-doria-1-24575390)
 * [Michelle Bolsonaro limita comentários em rede social após notícia de que recebeu R$ 89 mil de Queiroz](https://epoca.globo.com/guilherme-amado/michelle-bolsonaro-limita-comentarios-em-rede-social-apos-noticia-de-que-recebeu-89-mil-de-queiroz-24575397)
 * [Após expulsão por deserção, youtuber é reintegrado à PM](https://oglobo.globo.com/rio/apos-expulsao-por-desercao-youtuber-reintegrado-pm-24575312)
 * [Pandemia: Trump ameaça estender medidas de alívio mesmo sem aprovação do Congresso](https://oglobo.globo.com/economia/pandemia-trump-ameaca-estender-medidas-de-alivio-mesmo-sem-aprovacao-do-congresso-24575298)
@@ -108,4 +109,4 @@ layout: default
 * [Justiça ordena que Witzel mantenha em funcionamento hospital de campanha de São Gonçalo](https://oglobo.globo.com/rio/justica-ordena-que-witzel-mantenha-em-funcionamento-hospital-de-campanha-de-sao-goncalo-24575255)
 * [Rio apresenta tendência de queda no número de mortes por Covid-19](https://oglobo.globo.com/sociedade/rio-apresenta-tendencia-de-queda-no-numero-de-mortes-por-covid-19-24574791)
 * [Bolsonaro edita MP que permite a venda de ativos pela Caixa](https://oglobo.globo.com/economia/bolsonaro-edita-mp-que-permite-venda-de-ativos-pela-caixa-24575125)
-* [Fiscais de órgão do governo são presos após se passarem por policiais civis para extorquir comerciantes na Baixada](https://oglobo.globo.com/rio/fiscais-de-orgao-do-governo-sao-presos-apos-se-passarem-por-policiais-civis-para-extorquir-comerciantes-na-baixada-24574768)
+* [100 mil mortos, uma tragédia do tamanho do Brasil](https://oglobo.globo.com/opiniao/100-mil-mortos-uma-tragedia-do-tamanho-do-brasil-1-24574686)

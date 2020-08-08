@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 11:13:59 UTC
+# indexed at 08/08/2020 11:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -11,8 +11,8 @@ layout: default
 * [Oatly: The New Coke](https://divinations.substack.com/p/oatly-the-new-coke)
 * [Intel, ARM, IBM, AMD Processors Vulnerable to New Side-Channel Attacks](https://modernnetsec.io/intel-arm-ibm-amd-processors-vulnerable-to-new-side-channel-attacks/)
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
-* [So You Want to Learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
+* [So You Want to Learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
 * [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
@@ -21,19 +21,19 @@ layout: default
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
-* [How to become a good theoretical physicist](https://www.goodtheorist.science/)
-* [Facebook relaxed misinformation rules for conservative pages](https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182)
 * [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
+* [How to become a good theoretical physicist](https://www.goodtheorist.science/)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
-* [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+* [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
+* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
-* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
+* [Facebook relaxed misinformation rules for conservative pages](https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
 * [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
@@ -78,11 +78,11 @@ layout: default
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Coronavirus Spares Gaza, but Travel Restrictions Do Not](https://www.nytimes.com/2020/08/08/world/middleeast/coronavirus-gaza.html)
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Príncipe Charles continua dando apoio financeiro e emocional a Harry, mesmo chateado com revelações de livro](https://oglobo.globo.com/ela/gente/principe-charles-continua-dando-apoio-financeiro-emocional-harry-mesmo-chateado-com-revelacoes-de-livro-24575766)
-* [Na Praia de Copacabana, Rio de Paz faz manifestação pelos quase 100 mil mortos pela Covid-19 no Brasil](https://oglobo.globo.com/rio/na-praia-de-copacabana-rio-de-paz-faz-manifestacao-pelos-quase-100-mil-mortos-pela-covid-19-no-brasil-24575765)
-* [Brasil tem 99.743 mortes pela Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-99743-mortes-pela-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24575760)
+* [Mercado de arte enfrenta a crise com recursos digitais, mas vê convergência entre real e virtual no futuro](https://oglobo.globo.com/cultura/artes-visuais/mercado-de-arte-enfrenta-crise-com-recursos-digitais-mas-ve-convergencia-entre-real-virtual-no-futuro-24575168)
+* [Na Praia de Copacabana, Rio de Paz faz manifestação pelos quase 100 mil mortos pela Covid-19 no Brasil](https://oglobo.globo.com/rio/na-praia-de-copacabana-rio-de-paz-faz-manifestacao-pelos-quase-100-mil-mortos-pela-covid-19-no-brasil-1-24575765)
+* [Exército indiano de 600 mil mulheres agentes de saúde entra em greve](https://oglobo.globo.com/mundo/exercito-indiano-de-600-mil-mulheres-agentes-de-saude-entra-em-greve-24573655)
 * [Kanye West posta vídeo com North West em férias da família depois de polêmica](https://oglobo.globo.com/ela/gente/kanye-west-posta-video-com-north-west-em-ferias-da-familia-depois-de-polemica-24575753)
+* [Príncipe Charles continua dando apoio financeiro e emocional a Harry, mesmo chateado com revelações de livro](https://oglobo.globo.com/ela/gente/principe-charles-continua-dando-apoio-financeiro-emocional-harry-mesmo-chateado-com-revelacoes-de-livro-24575766)
+* [Brasil tem 99.743 mortes pela Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-99743-mortes-pela-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24575760)
 * [Lives de hoje: Gilberto Gil em defesa de indígenas e música clássica estão entre as atrações](https://oglobo.globo.com/rioshow/lives-de-hoje-gilberto-gil-em-defesa-de-indigenas-musica-classica-estao-entre-as-atracoes-24574588)
 * [A reunião de Pazuello com o centrão](https://epoca.globo.com/guilherme-amado/a-reuniao-de-pazuello-com-centrao-24574524)
 * [Candidatos à Prefeitura do Rio criam estratégias de campanha para Zona Oeste](https://epoca.globo.com/brasil/candidatos-prefeitura-do-rio-criam-estrategias-de-campanha-para-zona-oeste-24573143)
 * [Tio de brasileira morta por carro-bomba reviveu trauma com explosão no Líbano](https://epoca.globo.com/mundo/tio-de-brasileira-morta-por-carro-bomba-reviveu-trauma-com-explosao-no-libano-24573140)
-* [Exército indiano de 600 mil mulheres agentes de saúde entra em greve](https://oglobo.globo.com/mundo/exercito-indiano-de-600-mil-mulheres-agentes-de-saude-entra-em-greve-24573655)
-* [George Israel lança hoje clipe com a filha caçula em homenagem a Cazuza](https://oglobo.globo.com/rio/bairros/george-israel-lanca-hoje-clipe-com-filha-cacula-em-homenagem-cazuza-1-24573813)

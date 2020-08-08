@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 18:15:17 UTC
+# indexed at 08/08/2020 18:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
-* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * ['Music is as good as gold or oil': A man spending billions on old hits](https://www.theguardian.com/business/2020/aug/08/music-hits-elton-john-beyonce-merck-mercuriadis)
+* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
+* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [CIA shoelacing method for covert signalling](https://www.fieggen.com/shoelace/cialacing.htm)
-* [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
 * [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
-* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
+* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [Dynamic branch prediction using neural networks (2001)](https://ieeexplore.ieee.org/document/952279)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
-* [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
-* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
+* [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
 * [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
 * [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
-* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
-* [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
-* [Dynamic branch prediction using neural networks (2001)](https://ieeexplore.ieee.org/document/952279)
-* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
 * [The quest to liberate $300k of Bitcoin from an old zip file](https://www.wired.com/story/quest-to-liberate-bitcoin-from-old-zip-file/)
+* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
+* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
 * [Ask HN: What feature did you find after years of using macOS?](https://news.ycombinator.com/item?id=24091707)
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
-* [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
-* [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
+* [The quest to liberate $300k of Bitcoin from an old ZIP file](https://arstechnica.com/information-technology/2020/08/the-quest-to-liberate-300000-of-bitcoin-from-an-old-zip-file/)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
-* [All these companies were a lot smarter than us. What we had was luck](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
-* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [For P.O.W., Landmark Verdict Against North Korea Is Long-Overdue Justice](https://www.nytimes.com/2020/08/07/world/asia/north-korea-pow-verdict-kim.html)
 * [This Year’s Must-Have Back-to-School Item: Masks for Children](https://www.nytimes.com/2020/08/06/us/crayola-masks-kids.html)
 * [Aleksandr Lukashenko Increasingly in Peril as Belarus Election Nears](https://www.nytimes.com/2020/08/07/world/europe/belarus-election-aleksandr-lukashenko.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [Guarda Municipal aplicou 2.235 multas sanitárias nas praias do Rio](https://oglobo.globo.com/rio/guarda-municipal-aplicou-2235-multas-sanitarias-nas-praias-do-rio-24576080)
+* ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)
 * [Congresso e Supremo decretam luto após 100 mil mortes pela Covid-19](https://oglobo.globo.com/sociedade/congresso-supremo-decretam-luto-apos-100-mil-mortes-pela-covid-19-24576085)
 * [F1: Léo Batista recorda missão de narrar temporada em 1972, e o uso de 'tecnologia própria'](https://oglobo.globo.com/esportes/f1-leo-batista-recorda-missao-de-narrar-temporada-em-1972-o-uso-de-tecnologia-propria-24576101)
 * [Justiça paulista condena governador João Doria por usar slogan 'Acelera SP' para se promover](https://oglobo.globo.com/brasil/justica-paulista-condena-governador-joao-doria-por-usar-slogan-acelera-sp-para-se-promover-1-24576088)
 * [Articulação descoordenada entre esferas de governo levou a mais mortes por Covid-19, dizem especialistas](https://oglobo.globo.com/sociedade/coronavirus/articulacao-descoordenada-entre-esferas-de-governo-levou-mais-mortes-por-covid-19-dizem-especialistas-24576068)
-* [Guarda Municipal aplicou 2.235 multas sanitárias nas praias do Rio](https://oglobo.globo.com/rio/guarda-municipal-aplicou-2235-multas-sanitarias-nas-praias-do-rio-24576080)
 * [Bottas supera Hamilton e conquista pole no GP dos 70 anos da Fórmula 1](https://oglobo.globo.com/esportes/bottas-supera-hamilton-conquista-pole-no-gp-dos-70-anos-da-formula-1-24576079)
-* ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)
 * [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
 * [Coluna | O papel dos autores 'conservadores' na ascensão do bolsonarismo](https://epoca.globo.com/colunistas/coluna-o-papel-dos-autores-conservadores-na-ascensao-do-bolsonarismo-24573384)

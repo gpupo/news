@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 16:15:08 UTC
+# indexed at 08/08/2020 16:34:52 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
-* [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
-* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
 * [Ask HN: What feature did you find after years of using macOS?](https://news.ycombinator.com/item?id=24091707)
+* [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
+* [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
 * [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
+* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
-* [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
-* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
-* [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
-* [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
-* [Popcorn Computer’s Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
-* [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
-* [Salmonella outbreak linked to onions in 43 US states](https://www.cnn.com/2020/08/08/health/onions-salmonella-outbreak/index.html)
+* [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
+* [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
+* [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
+* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
+* [Salmonella outbreak linked to onions in 43 US states](https://www.cnn.com/2020/08/08/health/onions-salmonella-outbreak/index.html)
+* [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
 * [Ask HN: Films that made you see the world differently?](https://news.ycombinator.com/item?id=24088582)
+* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
 * [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
-* [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
-* [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
-* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
-* [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
-* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
+* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Speculative Dereferencing of Registers: Reviving Foreshadow [pdf]](https://arxiv.org/pdf/2008.02307.pdf)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
+* [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
+* [Norway advises citizens to avoid all travel abroad](https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city)
 ## nytimes.com
 
 
@@ -78,15 +78,15 @@ layout: default
 * [Profits Rebound at Warren Buffett’s Berkshire Hathaway](https://www.nytimes.com/2020/08/08/business/berkshire-hathaway-earnings-warren-buffett.html)
 * [2 Black Staff Members Quit Bon Appétit as Tensions Over Race Continue](https://www.nytimes.com/2020/08/07/business/media/bon-appetit-race-black-staff-quits.html)
 * [Hong Kong Officials Condemn and Mock Trump Administration Sanctions](https://www.nytimes.com/2020/08/08/world/asia/hong-kong-sanctions-united-states.html)
-* [Near U.K.’s Busiest Port, Brexit Hopes Are Layered in Asphalt](https://www.nytimes.com/2020/08/08/world/europe/brexit-trucks-dover-mojo.html)
-* [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
-* [Coronavirus Spares Gaza, but Travel Restrictions Do Not](https://www.nytimes.com/2020/08/08/world/middleeast/coronavirus-gaza.html)
-* [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
+* [Restricting Beach Access to Residents Only](https://www.nytimes.com/2020/08/06/realestate/connecticut-long-island-beach-restrictions.html)
+* [For P.O.W., Landmark Verdict Against North Korea Is Long-Overdue Justice](https://www.nytimes.com/2020/08/07/world/asia/north-korea-pow-verdict-kim.html)
+* [This Year’s Must-Have Back-to-School Item: Masks for Children](https://www.nytimes.com/2020/08/06/us/crayola-masks-kids.html)
+* [Aleksandr Lukashenko Increasingly in Peril as Belarus Election Nears](https://www.nytimes.com/2020/08/07/world/europe/belarus-election-aleksandr-lukashenko.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [Cinco das 12 casas atingidas por delizamento na Mangueira seguem interditadas](https://oglobo.globo.com/rio/cinco-das-12-casas-atingidas-por-delizamento-na-mangueira-seguem-interditadas-24576031)
+* [O drama da família da primeira vítima do coronavírus no país](https://oglobo.globo.com/sociedade/o-drama-da-familia-da-primeira-vitima-do-coronavirus-no-pais-24575672)
+* [Primeira morte por coronavírus no país: a diarista Rosana deixou um filho com atraso de desenvolvimento e epilepsia](https://oglobo.globo.com/sociedade/primeira-morte-por-coronavirus-no-pais-diarista-rosana-deixou-um-filho-com-atraso-de-desenvolvimento-epilepsia-24575691)
+* [Cinco das 12 casas atingidas por deslizamento na Mangueira seguem interditadas](https://oglobo.globo.com/rio/cinco-das-12-casas-atingidas-por-deslizamento-na-mangueira-seguem-interditadas-24576031)
 * [Morre a atriz Chica Xavier, aos 88 anos, vítima de câncer](https://oglobo.globo.com/cultura/morre-atriz-chica-xavier-aos-88-anos-vitima-de-cancer-24575923)
 * [Huawei vai deixar de fabricar os processadores Kirin](https://oglobo.globo.com/economia/huawei-vai-deixar-de-fabricar-os-processadores-kirin-24575996)
 * [Brasil tem 99.959 mortes pela Covid-19, afirma consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-99959-mortes-pela-covid-19-afirma-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24575939)
-* [Bispo emérito dom Pedro Casaldáliga morre aos 92 anos](https://oglobo.globo.com/brasil/bispo-emerito-dom-pedro-casaldaliga-morre-aos-92-anos-24575902)
 * [Empresários e comerciantes estrangeiros estariam entre as vítimas dos fiscais do Ipem presos na Baixada](https://oglobo.globo.com/rio/empresarios-comerciantes-estrangeiros-estariam-entre-as-vitimasdos-fiscais-do-ipem-presos-na-baixada-24575934)
 * [Ghislaine Maxwell teria se gabado de ter feito sexo oral em George Clooney](https://oglobo.globo.com/ela/gente/ghislaine-maxwell-teria-se-gabado-de-ter-feito-sexo-oral-em-george-clooney-24575931)
-* [Empresas de ônibus receberam 259 multas durante a semana](https://oglobo.globo.com/rio/empresas-de-onibus-receberam-259-multas-durante-semana-24575911)
 * [Água na boca: delícias para celebrar o Dias dos Pais em Niterói](https://oglobo.globo.com/rio/bairros/agua-na-boca-delicias-para-celebrar-dias-dos-pais-em-niteroi-24574069)
 * [Órgão responsável por museus alerta Mario Frias sobre instituições cuidadas pelo MEC](https://epoca.globo.com/guilherme-amado/orgao-responsavel-por-museus-alerta-mario-frias-sobre-instituicoes-cuidadas-pelo-mec-24575490)

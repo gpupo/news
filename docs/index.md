@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 23:13:51 UTC
+# indexed at 08/08/2020 23:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -12,19 +12,20 @@ layout: default
 * [Debt Collector Profits Soar with People Flush and Easy to Find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
-* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
-* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
+* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
-* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Music for Plants](https://reallifemag.com/music-for-plants/)
+* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
+* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
 * [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
@@ -32,10 +33,9 @@ layout: default
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Auden on No-Platforming Pound (2019)](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
+* [Auden on No-Platforming Pound (2019)](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
-* [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
 ## nytimes.com
@@ -54,11 +54,11 @@ layout: default
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 * [Trump Swings Against TikTok, WeChat](https://www.nytimes.com/2020/08/07/technology/trump-tiktok-wechat.html)
 * [The Coronavirus Could Be Controlled by October With the Right Steps](https://www.nytimes.com/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
-* [Brent Scowcroft Didn’t Always Follow ‘the Scowcroft Model’](https://www.nytimes.com/2020/08/08/opinion/brent-scowcroft-model-foreign-policy.html)
-* [No Wrist Corsages, Please](https://www.nytimes.com/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
 * [What to Do When Covid Doesn’t Go Away](https://www.nytimes.com/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
+* [Brent Scowcroft Didn’t Always Follow ‘the Scowcroft Model’](https://www.nytimes.com/2020/08/08/opinion/brent-scowcroft-model-foreign-policy.html)
 * [How 'Crazy Blues' Changed Music Forever](https://www.nytimes.com/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
-* [What Sonia Sotomayor Told a 10-Year-Old Girl](https://www.nytimes.com/2020/08/07/opinion/latina-women-politics.html)
+* [We Need to Talk About ‘Indian Matchmaking’](https://www.nytimes.com/2020/08/05/opinion/sunday/indian-matchmaking-netflix.html)
+* [No Wrist Corsages, Please](https://www.nytimes.com/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
 * [Here’s How to Crush the Virus Until Vaccines Arrive](https://www.nytimes.com/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
 * [Could This Be the Last Time We See Our Dad?](https://www.nytimes.com/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
 * [Why Is Everyone Investing in Gold?](https://www.nytimes.com/2020/08/08/opinion/gold-investment-coronavirus.html)
@@ -77,8 +77,8 @@ layout: default
 * [At P.G.A. Championship in a Pandemic, the Silence Is Deafening](https://www.nytimes.com/2020/08/08/sports/golf/pga-championship-scores.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [PEC que pede suspensão do teto de gastos será retirada de tramitação](https://oglobo.globo.com/economia/pec-que-pede-suspensao-do-teto-de-gastos-sera-retirada-de-tramitacao-24576443)
+* [Obras são importantes, mas furar teto de gastos, de jeito nenhum, diz Afif](https://oglobo.globo.com/economia/obras-sao-importantes-mas-furar-teto-de-gastos-de-jeito-nenhum-diz-afif-24576418)
+* [Brasil ultrapassa os 3 milhões de casos de Covid-19, logo após registrar 100 mil mortes](https://oglobo.globo.com/sociedade/coronavirus/brasil-ultrapassa-os-3-milhoes-de-casos-de-covid-19-logo-apos-registrar-100-mil-mortes-24576372)
 * ['São muitos os números que nos dão esperança', diz Secom no dia que Brasil chega a 100 mil mortes pela Covid-19](https://oglobo.globo.com/sociedade/sao-muitos-os-numeros-que-nos-dao-esperanca-diz-secom-no-dia-que-brasil-chega-100-mil-mortes-pela-covid-19-1-24576319)
 * [Planalto deturpa número no Twitter e comemora Brasil ser o 11º país do mundo em que mais se morre por Covid](https://epoca.globo.com/guilherme-amado/planalto-deturpa-numero-no-twitter-comemora-brasil-ser-11-pais-do-mundo-em-que-mais-se-morre-por-covid-24576360)
 * [Posto veterinário com atendimento gratuito para cães e gatos é inaugurado em Vicente de Carvalho](https://oglobo.globo.com/rio/posto-veterinario-com-atendimento-gratuito-para-caes-gatos-inaugurado-em-vicente-de-carvalho-24576291)
 * [Após Petrobras, Odebrecht inicia processo para vender suas ações na Braskem](https://oglobo.globo.com/economia/apos-petrobras-odebrecht-inicia-processo-para-vender-suas-acoes-na-braskem-24576325)
-* [Palmeiras conquista título paulista sem nenhuma vitória sobre rivais da Série A](https://oglobo.globo.com/esportes/palmeiras-conquista-titulo-paulista-sem-nenhuma-vitoria-sobre-rivais-da-serie-a-24576308)
-* [Palmeiras supera Corinthians nos pênaltis e acaba com jejum de títulos no Paulista](https://oglobo.globo.com/esportes/palmeiras-supera-corinthians-nos-penaltis-acaba-com-jejum-de-titulos-no-paulista-24576287)
-* [Morre o publicitário e escritor Enio Mainardi, aos 85 anos](https://oglobo.globo.com/cultura/morre-publicitario-escritor-enio-mainardi-aos-85-anos-24576259)
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
 * [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
 * ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)

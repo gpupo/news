@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 06:34:39 UTC
+# indexed at 08/08/2020 07:14:54 UTC
 
 
 ## news.ycombinator.com
@@ -11,37 +11,37 @@ layout: default
 * [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
+* [With Poetry, packaging in Python is a solved problem](https://python-poetry.org/)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
-* [Alcohol as a social technology to check the trustworthiness of others](https://hndex.org/7798063)
+* [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
+* [Intel, ARM, IBM, AMD Processors Vulnerable to New Side-Channel Attacks](https://modernnetsec.io/intel-arm-ibm-amd-processors-vulnerable-to-new-side-channel-attacks/)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
-* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
-* [With Poetry, packaging in Python is a solved problem](https://python-poetry.org/)
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [So You Want to Learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [How to become a good theoretical physicist](https://www.goodtheorist.science/)
-* [Infinity: open-source search engine](https://infinitysearch.co)
 * [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
-* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
-* [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
 * [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
-* [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
+* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
-* [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
+* [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
 * [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
-* [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
+* [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
+* [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
+* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 ## nytimes.com
 
 
-* [Covid-19 Live Updates: Global Tracker](https://www.nytimes.com/2020/08/07/world/covid-19-news.html)
+* [Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse](https://www.nytimes.com/2020/08/07/world/covid-19-news.html)
 * [Job Growth Slowed in July, Signaling a Loss of Economic Momentum](https://www.nytimes.com/2020/08/07/business/economy/july-jobs-report.html)
 * [Millions of Evictions Are a Sharper Threat as Government Support Ends](https://www.nytimes.com/2020/08/07/business/economy/housing-economy-eviction-renters.html)
 * [Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
@@ -53,7 +53,6 @@ layout: default
 * [Is TikTok More of a Parenting Problem Than a Security Threat?](https://www.nytimes.com/2020/08/07/us/politics/tiktok-security-threat.html)
 * [Trump’s Orders on WeChat and TikTok Are Uncertain. That May Be the Point.](https://www.nytimes.com/2020/08/07/business/economy/trump-executive-order-tiktok-wechat.html)
 * [Jerry Falwell Jr. Taking Leave of Absence From Liberty University](https://www.nytimes.com/2020/08/07/us/falwell-liberty.html)
-* [Jobs, School Reopenings, Summer Desserts: Your Friday Evening Briefing](https://www.nytimes.com/2020/08/07/briefing/jobs-school-reopenings-summer-desserts.html)
 * [Jack Dorsey on Twitter’s Mistakes](https://www.nytimes.com/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 * [Trump Swings Against TikTok, WeChat](https://www.nytimes.com/2020/08/07/technology/trump-tiktok-wechat.html)
@@ -79,11 +78,11 @@ layout: default
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Brexit Behind Him, Boris Johnson Tries to Quiet Scotland’s Calls to Leave U.K.](https://www.nytimes.com/2020/08/07/world/europe/boris-johnson-scotland-ireland-independence.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [We Know Little About David Silva. That’s How He Wanted It.](https://www.nytimes.com/2020/08/07/sports/soccer/david-silva-manchester-city.html)
 * [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](https://www.nytimes.com/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)

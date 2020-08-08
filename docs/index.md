@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 17:14:19 UTC
+# indexed at 08/08/2020 17:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
+* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
+* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
+* ['Music is as good as gold or oil': A man spending billions on old hits](https://www.theguardian.com/business/2020/aug/08/music-hits-elton-john-beyonce-merck-mercuriadis)
 * [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
-* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
-* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
-* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
+* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
+* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
 * [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
+* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * [Salmonella outbreak linked to onions in 43 US states](https://www.cnn.com/2020/08/08/health/onions-salmonella-outbreak/index.html)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
-* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
-* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
+* [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
+* [CIA shoelacing method for covert signalling](https://www.fieggen.com/shoelace/cialacing.htm)
 * [Ask HN: What feature did you find after years of using macOS?](https://news.ycombinator.com/item?id=24091707)
 * [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
 * [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
-* [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
-* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
-* [Ask HN: Films that made you see the world differently?](https://news.ycombinator.com/item?id=24088582)
-* [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
-* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
+* [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
+* [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [Ask HN: Films that made you see the world differently?](https://news.ycombinator.com/item?id=24088582)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
-* [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
-* [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
-* [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
-* [All these companies were a lot smarter than us. What we had was luck](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
+* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
+* [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [For P.O.W., Landmark Verdict Against North Korea Is Long-Overdue Justice](https://www.nytimes.com/2020/08/07/world/asia/north-korea-pow-verdict-kim.html)
 * [This Year’s Must-Have Back-to-School Item: Masks for Children](https://www.nytimes.com/2020/08/06/us/crayola-masks-kids.html)
 * [Aleksandr Lukashenko Increasingly in Peril as Belarus Election Nears](https://www.nytimes.com/2020/08/07/world/europe/belarus-election-aleksandr-lukashenko.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Justiça paulista condena o governador João Doria por usar slogan “Acelera SP” para se promover](https://oglobo.globo.com/brasil/justica-paulista-condena-governador-joao-doria-por-usar-slogan-acelera-sp-para-se-promover-24576088)
+* [Congresso decreta luto de 4 dias após 100 mil mortos pela Coivid-19](https://oglobo.globo.com/sociedade/congresso-decreta-luto-de-4-dias-apos-100-mil-mortos-pela-coivid-19-24576085)
+* [Guarda Municipal aplicou 2.235 multas sanitárias nas praias do Rio](https://oglobo.globo.com/rio/guarda-municipal-aplicou-2235-multas-sanitarias-nas-praias-do-rio-24576080)
+* [Bottas supera Hamilton e conquista pole no GP dos 70 anos da Fórmula 1](https://oglobo.globo.com/esportes/bottas-supera-hamilton-conquista-pole-no-gp-dos-70-anos-da-formula-1-24576079)
 * [Angolanos são presos por fraude em saques do auxílio emergencial](https://oglobo.globo.com/rio/angolanos-sao-presos-por-fraude-em-saques-do-auxilio-emergencial-24576063)
-* [Articulação descoordenada entre esferas de governo levou a mais mortes por Covid-19, dizem especialistas](https://oglobo.globo.com/sociedade/coronavirus/articulacao-descoordenada-entre-esferas-de-governo-levou-mais-mortes-por-covid-19-dizem-especialistas-24576068)
-* ['Acredito que já atravessamos o pior momento' na saúde pública, diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-na-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24575844)
-* [Videográfico: Os óbitos do coronavírus comparados com outras doenças, mortes violentas e marcos históricos do país](https://oglobo.globo.com/sociedade/videografico-os-obitos-do-coronavirus-comparados-com-outras-doencas-mortes-violentas-marcos-historicos-do-pais-24576055)
-* [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
-* [Cem mil despedidas: quem foram as vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/cem-mil-despedidas-quem-foram-as-vitimas-do-coronavirus-24575352)
-* [Falta de coordenação nacional ampliou mortalidade da epidemia da Covid-19, dizem especialistas](https://oglobo.globo.com/sociedade/coronavirus/falta-de-coordenacao-nacional-ampliou-mortalidade-da-epidemia-da-covid-19-dizem-especialistas-24574693)
 * ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)
+* [Videográfico: Os óbitos do coronavírus comparados com outras doenças, mortes violentas e marcos históricos do país](https://oglobo.globo.com/sociedade/videografico-os-obitos-do-coronavirus-comparados-com-outras-doencas-mortes-violentas-marcos-historicos-do-pais-1-24576055)
+* [Articulação descoordenada entre esferas de governo levou a mais mortes por Covid-19, dizem especialistas](https://oglobo.globo.com/sociedade/coronavirus/articulacao-descoordenada-entre-esferas-de-governo-levou-mais-mortes-por-covid-19-dizem-especialistas-24576068)
+* [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
-* [Pandemia da Covid-19: nunca na História se aprendeu e se produziu tanto na Ciência em tão pouco tempo](https://oglobo.globo.com/sociedade/pandemia-da-covid-19-nunca-na-historia-se-aprendeu-se-produziu-tanto-na-ciencia-em-tao-pouco-tempo-24575850)

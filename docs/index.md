@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 01:16:09 UTC
+# indexed at 08/08/2020 01:35:20 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
+* [How to become a good theoretical physicist](https://www.goodtheorist.science/)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
-* [How to become a good theoretical physicist](https://www.goodtheorist.science/)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
 * [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
-* [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [Infinity: open-source search engine](https://infinitysearch.co)
+* [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
-* [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
+* [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
-* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
 * [I made a mechanical keyboard with 3D-printed switches](https://incoherency.co.uk/blog/stories/jesboard.html)
+* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
+* [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
+* [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
 * [A Swedish doctor's perspective on Covid](https://sebastianrushworth.com/2020/08/04/how-bad-is-covid-really-a-swedish-doctors-perspective/)
 * [CoinTracker is hiring engineers to make crypto easy to use (Remote, Global)](https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121)
-* [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
-* [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [Silicon Valley’s Vast Data Collection Should Worry You More Than TikTok](https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump)
+* [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
-* [Overcoming Us vs. Them (2017)](http://nautil.us/issue/55/trust/why-your-brain-hates-other-people-rp)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [Air India Flight Skids and Cracks in Half](https://www.nytimes.com/2020/08/07/world/asia/air-india-plane-crash.html)
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [‘Are You Up on Dominic Fike Yet?’](https://www.nytimes.com/article/dominic-fike-at-first.html)
-* [What Does it Mean to be ‘At Home’ These Days?](https://www.nytimes.com/2020/07/08/at-home/newsletter.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Garden Design Ideas](https://www.nytimes.com/2020/07/08/realestate/garden-design-plan-expert-tips.html)
-* [Do We Need to Tell Our Son That His Dad Has Coronavirus?](https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html)
-* [The Greatest Wedding Reception Dance Songs](https://www.nytimes.com/2020/07/07/fashion/weddings/wedding-reception-dance-songs.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [We Know Little About David Silva. That’s How He Wanted It.](https://www.nytimes.com/2020/08/07/sports/soccer/david-silva-manchester-city.html)
 * [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](https://www.nytimes.com/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
@@ -99,10 +99,10 @@ layout: default
 ## globo.com
 
 
-* [Bolsonaro edita MP que permite a venda de ativos pela Caixa](https://oglobo.globo.com/economia/bolsonaro-edita-mp-que-permite-venda-de-ativos-pela-caixa-24575125)
+* [Justiça ordena que Witzel mantenha em funcionamento hospital de campanha de São Gonçalo](https://oglobo.globo.com/rio/justica-ordena-que-witzel-mantenha-em-funcionamento-hospital-de-campanha-de-sao-goncalo-24575255)
 * [Vice-presidente do Banco do Brasil, Walter Malieni morre aos 50 anos](https://oglobo.globo.com/economia/vice-presidente-do-banco-do-brasil-walter-malieni-morre-aos-50-anos-24574440)
-* ['Beirute vai renascer': a comunidade libanesa em São Paulo reage à tragédia com doações e mobilização](https://oglobo.globo.com/mundo/beirute-vai-renascer-comunidade-libanesa-em-sao-paulo-reage-tragedia-com-doacoes-mobilizacao-24574625)
 * [Rio apresenta tendência de queda no número de mortes por Covid-19](https://oglobo.globo.com/sociedade/rio-apresenta-tendencia-de-queda-no-numero-de-mortes-por-covid-19-24574791)
+* [Bolsonaro edita MP que permite a venda de ativos pela Caixa](https://oglobo.globo.com/economia/bolsonaro-edita-mp-que-permite-venda-de-ativos-pela-caixa-24575125)
 * [Controladora da Ricardo Eletro pede recuperação judicial e fecha suas 300 lojas](https://oglobo.globo.com/economia/controladora-da-ricardo-eletro-pede-recuperacao-judicial-fecha-suas-300-lojas-24574469)
 * [Fiscais de órgão do governo são presos após se passarem por policiais civis para extorquir comerciantes na Baixada](https://oglobo.globo.com/rio/fiscais-de-orgao-do-governo-sao-presos-apos-se-passarem-por-policiais-civis-para-extorquir-comerciantes-na-baixada-24574768)
 * [Gonçalo Tavares busca palavras de seu dicionário particular em 'Investigações Novalis'](https://oglobo.globo.com/cultura/livros/goncalo-tavares-busca-palavras-de-seu-dicionario-particular-em-investigacoes-novalis-24574743)

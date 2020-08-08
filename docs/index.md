@@ -2,55 +2,52 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 21:14:25 UTC
+# indexed at 08/08/2020 21:35:03 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple Takes Legal Action Against Small Company with Pear Logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
-* [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Google recommended UPI to the Federal Reserve. Here's a UPI 101](https://the-other-side.blog/upi-the-basics/)
+* [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
+* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
-* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [TikTok to Sue Trump Administration over Ban, as Soon as Tuesday](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday?sc=18&f=900394707)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [CIA shoelacing method for covert signalling](https://www.fieggen.com/shoelace/cialacing.htm)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
-* [TikTok to Sue Trump Administration over Ban, as Soon as Tuesday](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday?sc=18&f=900394707)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
-* [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
 * [Create a fully functioning command line interface with 1.5 lines of code](https://github.com/kongaskristjan/fire-hpp)
+* [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
+* [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
-* [HBO Max drops Linux support in all browsers](https://www.reddit.com/r/linux/comments/i5tfft/hbo_max_drops_linux_support_in_all_browsers/)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
-* [The Seduction of Bad Posts](https://onposting.substack.com/p/the-seduction-of-bad-posts)
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
+* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
 * [Auden on No-Platforming Pound (2019)](https://www.nybooks.com/daily/2019/02/27/auden-on-no-platforming-pound/)
 * [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
-* [The quest to liberate $300k of Bitcoin from an old ZIP file](https://arstechnica.com/information-technology/2020/08/the-quest-to-liberate-300000-of-bitcoin-from-an-old-zip-file/)
-* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
-* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
-* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
 * [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
+* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
+* [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 ## nytimes.com
 
 
 * [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html)
-* [Without $600 Weekly Benefit, Unemployed Face Bleak Choices](https://www.nytimes.com/2020/08/08/business/economy/lost-unemployment-benefits.html)
 * [Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.](https://www.nytimes.com/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
 * [The Voting Will End Nov. 3. The Legal Battle Probably Won’t.](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html)
+* [How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job](https://www.nytimes.com/2020/08/08/us/politics/kristi-noem-pence-trump.html)
 * [Unwanted Truths: Inside Trump’s Battles With U.S. Intelligence Agencies](https://www.nytimes.com/2020/08/08/magazine/us-russia-intelligence.html)
 * [How Russia Findings Divided Trump and Intelligence Agencies](https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html)
 * [When Covid-19 Hit, Many Elderly Were Left to Die](https://www.nytimes.com/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
-* [How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job](https://www.nytimes.com/2020/08/08/us/politics/kristi-noem-pence-trump.html)
-* [Biden's V.P. Search: Chris Dodd, a D.C. Insider Helping Pick the Democratic Running Mate](https://www.nytimes.com/2020/08/08/us/politics/biden-vp-chris-dodd.html)
-* [Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How That’d Work.](https://www.nytimes.com/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
 * [After Beirut Explosion, Protests Erupt as Lebanon's Anger Boils Over](https://www.nytimes.com/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 * [As Lebanon Reels, Long-Awaited Hariri Assassination Verdicts Loom](https://www.nytimes.com/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/07/briefing/best-weekend-reads.html)
@@ -80,11 +77,11 @@ layout: default
 * [At P.G.A. Championship in a Pandemic, the Silence Is Deafening](https://www.nytimes.com/2020/08/08/sports/golf/pga-championship-scores.html)
 * [This Year’s Must-Have Back-to-School Item: Masks for Children](https://www.nytimes.com/2020/08/06/us/crayola-masks-kids.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -102,10 +99,10 @@ layout: default
 ## globo.com
 
 
+* [Líder da oposição a Lukashenko é brevemente detida na véspera de eleição](https://oglobo.globo.com/mundo/lider-da-oposicao-lukashenko-brevemente-detida-na-vespera-de-eleicao-24576247)
+* [Donald Trump anuncia medidas para amenizar os efeitos econômicos do coronavírus](https://oglobo.globo.com/economia/donald-trump-anuncia-medidas-para-amenizar-os-efeitos-economicos-do-coronavirus-24576241)
 * [Barça vence Napoli e segue na Champions; time enfrenta Bayern de Munique nas quartas de final](https://oglobo.globo.com/esportes/barca-vence-napoli-segue-na-champions-time-enfrenta-bayern-de-munique-nas-quartas-de-final-24576226)
 * [TikTok deve entrar com processo contra governo de Donald Trump na terça-feira](https://oglobo.globo.com/economia/tiktok-deve-entrar-com-processo-contra-governo-de-donald-trump-na-terca-feira-24576199)
-* [Presidente do Ipem será exonerado do cargo após prisão de funcionários](https://oglobo.globo.com/rio/presidente-do-ipem-sera-exonerado-do-cargo-apos-prisao-de-funcionarios-24576147)
-* [Protestos no Líbano deixam ao menos um morto, e premier promete eleições parlamentares antecipadas](https://oglobo.globo.com/mundo/protestos-no-libano-deixam-ao-menos-um-morto-premier-promete-eleicoes-parlamentares-antecipadas-24576135)
 * [Cavani fecha com Benfica de Jorge Jesus, diz jornalista](https://oglobo.globo.com/esportes/cavani-fecha-com-benfica-de-jorge-jesus-diz-jornalista-24576180)
 * [Banho de sol e queijo coalho ainda estão proibidos no Rio, mas cariocas não respeitam](https://oglobo.globo.com/rio/banho-de-sol-queijo-coalho-ainda-estao-proibidos-no-rio-mas-cariocas-nao-respeitam-24576178)
 * [Juventus anuncia Pirlo como novo técnico](https://oglobo.globo.com/esportes/juventus-anuncia-pirlo-como-novo-tecnico-24576155)

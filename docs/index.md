@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 05:34:43 UTC
+# indexed at 08/08/2020 06:16:28 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
-* [Alcohol as a social technology to check the trustworthiness of others](https://hndex.org/7798063)
+* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
+* [Alcohol as a social technology to check the trustworthiness of others](https://hndex.org/7798063)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
-* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
-* [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [With Poetry, packaging in Python is a solved problem](https://python-poetry.org/)
+* [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
+* [So You Want to Learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [How to become a good theoretical physicist](https://www.goodtheorist.science/)
 * [Infinity: open-source search engine](https://infinitysearch.co)
-* [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
 * [DEF Con 28: Safe Mode](http://defcon.outel.org/)
-* [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+* [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
 * [Pysa: An open source tool to detect and prevent security issues in Python code](https://engineering.fb.com/security/pysa/)
+* [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
 * [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)
-* [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
 * [Dementia on the Retreat in the U.S. and Europe](https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html)
-* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loomperformance/)
+* [Exploiting Android Messengers with WebRTC](https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1)
 * [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
-* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
 * [How much things can change](http://rodneybrooks.com/how-much-things-can-change/)
+* [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
+* [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
 * [An Introduction to Godel's Theorems (Second Edition) [pdf]](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
-* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
+* [What Is the Minimal Set of Optimizations Needed for Zero-Cost Abstraction?](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Brexit Behind Him, Boris Johnson Tries to Quiet Scotland’s Calls to Leave U.K.](https://www.nytimes.com/2020/08/07/world/europe/boris-johnson-scotland-ireland-independence.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Choose the Right New York City Suburb](https://www.nytimes.com/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
 * [We Know Little About David Silva. That’s How He Wanted It.](https://www.nytimes.com/2020/08/07/sports/soccer/david-silva-manchester-city.html)
 * [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](https://www.nytimes.com/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
@@ -102,9 +102,9 @@ layout: default
 * [Gilmar Mendes manda soltar Alexandre Baldy, secretário de Doria](https://oglobo.globo.com/brasil/gilmar-mendes-manda-soltar-alexandre-baldy-secretario-de-doria-1-24575390)
 * [Michelle Bolsonaro limita comentários em rede social após notícia de que recebeu R$ 89 mil de Queiroz](https://epoca.globo.com/guilherme-amado/michelle-bolsonaro-limita-comentarios-em-rede-social-apos-noticia-de-que-recebeu-89-mil-de-queiroz-24575397)
 * [Após expulsão por deserção, youtuber é reintegrado à PM](https://oglobo.globo.com/rio/apos-expulsao-por-desercao-youtuber-reintegrado-pm-24575312)
-* [Pandemia: Trump ameaça estender medidas de alívio mesmo sem aprovação do Congresso](https://oglobo.globo.com/economia/pandemia-trump-ameaca-estender-medidas-de-alivio-mesmo-sem-aprovacao-do-congresso-24575298)
-* [Ford Territory: a China marca território na guerra dos utilitários de luxo](https://oglobo.globo.com/economia/carros/ford-territory-china-marca-territorio-na-guerra-dos-utilitarios-de-luxo-24575165)
 * [100 mil mortos, uma tragédia do tamanho do Brasil](https://oglobo.globo.com/opiniao/100-mil-mortos-uma-tragedia-do-tamanho-do-brasil-1-24574686)
+* [Atlético-MG investe em reforços milionários e Sampaoli por sonho de destronar Flamengo no Brasileirão](https://oglobo.globo.com/esportes/atletico-mg-investe-em-reforcos-milionarios-sampaoli-por-sonho-de-destronar-flamengo-no-brasileirao-24574261)
+* [Brasileirão começa com Flamengo vivendo fenômeno que já favoreceu campeão nos pontos corridos](https://oglobo.globo.com/esportes/brasileirao-comeca-com-flamengo-vivendo-fenomeno-que-ja-favoreceu-campeao-nos-pontos-corridos-24573317)
 * [A internet não esquece](https://oglobo.globo.com/opiniao/a-internet-nao-esquece-24574349)
 * [Um filme sem mocinhos](https://oglobo.globo.com/opiniao/um-filme-sem-mocinhos-24574336)
 * [A vacina contra o egoísmo](https://oglobo.globo.com/opiniao/a-vacina-contra-egoismo-24574324)

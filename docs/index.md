@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 15:14:43 UTC
+# indexed at 08/08/2020 15:35:08 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
-* [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
-* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
-* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
+* [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
 * [Ask HN: What feature did you find after years of using macOS?](https://news.ycombinator.com/item?id=24091707)
+* [Formulog: ML + Datalog + SMT](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
+* [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
+* [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
 * [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to)
 * [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
-* [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
 * [The Sixth Stage of Grief Is Retro-Computing (2014)](https://medium.com/message/networks-without-networks-7644933a3100)
 * [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [Popcorn Computer’s Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
+* [Building Kind Social Networks (2018)](https://postlight.com/insights/building-kind-social-networks#.69mdqenq2)
 * [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
-* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [Ask HN: Films that made you see the world differently?](https://news.ycombinator.com/item?id=24088582)
+* [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
-* [Sage: Semi-automatic ground environment air defense system](https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system)
 * [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
 * [Show HN: A simple FOSS and self-hosted budgeting app](https://github.com/inoda/ontrack)
+* [Sage: Semi-automatic ground environment air defense system](https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system)
 * [Government’s PACER Fees Are Too High, Federal Circuit Says](https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees)
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [Speculative Dereferencing of Registers: Reviving Foreshadow [pdf]](https://arxiv.org/pdf/2008.02307.pdf)
 * [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
 * [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
 * [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
-* [Norway advises citizens to avoid all travel abroad](https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
+* [Norway advises citizens to avoid all travel abroad](https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Coronavirus Spares Gaza, but Travel Restrictions Do Not](https://www.nytimes.com/2020/08/08/world/middleeast/coronavirus-gaza.html)
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Ghislaine Maxwell teria se gabado de ter feito sexo oral em George Clooney](https://oglobo.globo.com/ela/gente/ghislaine-maxwell-teria-se-gabado-de-ter-feito-sexo-oral-em-george-clooney-24575931)
 * [Bispo emérito dom Pedro Casaldáliga morre aos 92 anos](https://oglobo.globo.com/brasil/bispo-emerito-dom-pedro-casaldaliga-morre-aos-92-anos-24575902)
+* [Ghislaine Maxwell teria se gabado de ter feito sexo oral em George Clooney](https://oglobo.globo.com/ela/gente/ghislaine-maxwell-teria-se-gabado-de-ter-feito-sexo-oral-em-george-clooney-24575931)
 * [Morre a atriz Chica Xavier aos 88 anos](https://oglobo.globo.com/cultura/morre-atriz-chica-xavier-aos-88-anos-24575923)
+* [Empresários e comerciantes estrangeiros estariam entre as vítimas dos fiscais do Ipem presos na Baixada](https://oglobo.globo.com/rio/empresarios-comerciantes-estrangeiros-estariam-entre-as-vitimasdos-fiscais-do-ipem-presos-na-baixada-24575934)
 * [Empresas de ônibus receberam 259 multas durante a semana](https://oglobo.globo.com/rio/empresas-de-onibus-receberam-259-multas-durante-semana-24575911)
 * [Cristiano Ronaldo bate recorde de 86 anos na Juventus](https://oglobo.globo.com/esportes/cristiano-ronaldo-bate-recorde-de-86-anos-na-juventus-24575877)
 * [Água na boca: delícias para celebrar o Dias dos Pais em Niterói](https://oglobo.globo.com/rio/bairros/agua-na-boca-delicias-para-celebrar-dias-dos-pais-em-niteroi-24574069)
 * [Lula inocente](https://oglobo.globo.com/brasil/lula-inocente-3-24575823)
 * [Proibição de negócios de empresas americanas com chinesas, acirra o medo de espionagem](https://oglobo.globo.com/economia/proibicao-de-negocios-de-empresas-americanas-com-chinesas-acirra-medo-de-espionagem-24575833)
-* [Após eliminação na Champions, Juventus demite Sarri e já está em contato com Pochettino](https://oglobo.globo.com/esportes/apos-eliminacao-na-champions-juventus-demite-sarri-ja-esta-em-contato-com-pochettino-24575810)
 * [Órgão responsável por museus alerta Mario Frias sobre instituições cuidadas pelo MEC](https://epoca.globo.com/guilherme-amado/orgao-responsavel-por-museus-alerta-mario-frias-sobre-instituicoes-cuidadas-pelo-mec-24575490)

@@ -2,20 +2,22 @@
 layout: default
 ---
 
-# indexed at 08/08/2020 12:18:59 UTC
+# indexed at 08/08/2020 12:34:46 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Psychedelic Inspiration for Hypercard (2018)](https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/)
-* [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
 * [Bootstrap finance and the cost of other people's money [pdf]](http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf)
+* [Oatly: The New Coke?](https://divinations.substack.com/p/oatly-the-new-coke)
 * [So You Want to Learn Physics (2016)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 * [Show HN: Hndex.org – a full-text search engine of articles submitted to HN](https://hndex.org/)
+* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
 * [Pocket P.C. Open Sourced](https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/)
 * [Alcohol as a social technology to check the trustworthiness of others (2014)](https://hndex.org/7798063)
-* [Intel, ARM, IBM, AMD Processors Vulnerable to New Side-Channel Attacks](https://modernnetsec.io/intel-arm-ibm-amd-processors-vulnerable-to-new-side-channel-attacks/)
+* [Chinese Officials Hijacked My Company](https://archive.vn/wqUWN)
+* [Speculative Dereferencing of Registers: Reviving Foreshadow [pdf]](https://arxiv.org/pdf/2008.02307.pdf)
 * [Launch HN: Nestybox (YC S20) – Containers beyond microservices](https://news.ycombinator.com/item?id=24084758)
 * [Why Apple believes it’s an AI leader–and why it says critics have it all wrong](https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/)
 * [Drivers who keep their windows down are exposed to 80 percent more air pollution](https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution)
@@ -24,29 +26,27 @@ layout: default
 * [Microsoft Fast Design](https://www.fast.design/docs/introduction)
 * [How to become a good theoretical physicist](https://www.goodtheorist.science/)
 * [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+* [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
 * [Tech giants let the Web's metadata schemas and infrastructure languish](https://threadreaderapp.com/thread/1291509746000855040.html)
 * [Charlie Kaufman’s Defense of Film](https://newrepublic.com/article/158663/charlie-kaufmans-defense-film)
-* [Toshiba formally and finally exits laptop business](https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/)
-* [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
 * [Chemists create the brightest-ever fluorescent materials](https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html)
+* [To head off regulators, Google makes certain words taboo](https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust)
+* [Norway advises citizens to avoid all travel abroad](https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city)
 * [Facebook relaxed misinformation rules for conservative pages](https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182)
-* [What Does Trump Have Against TikTok?](https://www.nytimes.com/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
 * [Depends upon what the meaning of the word “is” is](https://meaningness.com/eggplant/formal-logic)
 * [Florida Current is weaker now than at any point in the past century](https://www.whoi.edu/press-room/news-release/florida-current-weakening/)
-* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [Germany plans to dim lights at night to save insects](https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR)
-* [Norway advises citizens to avoid all travel abroad](https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city)
+* [Why is this idiot running my engineering org?](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 * [P2 powers internal collaboration at WordPress.com, and is now free](https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/)
-* [Dickens in Brooklyn](https://www.nybooks.com/daily/2020/08/05/dickens-in-brooklyn/)
 ## nytimes.com
 
 
 * [Without $600 Weekly Benefit, Unemployed Face Bleak Choices](https://www.nytimes.com/2020/08/08/business/economy/lost-unemployment-benefits.html)
-* [Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse](https://www.nytimes.com/2020/08/07/world/covid-19-news.html)
 * [Unwanted Truths: Inside Trump’s Battles With U.S. Intelligence Agencies](https://www.nytimes.com/2020/08/08/magazine/us-russia-intelligence.html)
 * [How Russia Findings Divided Trump and Intelligence Agencies](https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html)
 * [Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
 * [When Covid-19 Hit, Many Elderly Were Left to Die](https://www.nytimes.com/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
+* [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
 * [Biden's V.P. Search: Chris Dodd, a D.C. Insider Helping Pick the Democratic Running Mate](https://www.nytimes.com/2020/08/08/us/politics/biden-vp-chris-dodd.html)
 * [Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How That’d Work.](https://www.nytimes.com/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
@@ -79,11 +79,11 @@ layout: default
 * [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
 * [Coronavirus Spares Gaza, but Travel Restrictions Do Not](https://www.nytimes.com/2020/08/08/world/middleeast/coronavirus-gaza.html)
 * [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](https://www.nytimes.com/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](https://www.nytimes.com/2020/08/06/travel/National-Seashores.html)
 * [Black at U.T., and Beyond](https://www.nytimes.com/2020/08/08/style/black-yearbook-university-texas-austin.html)
 * [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
@@ -99,10 +99,10 @@ layout: default
 ## globo.com
 
 
+* [Exército indiano de 600 mil mulheres agentes de saúde entra em greve](https://oglobo.globo.com/mundo/exercito-indiano-de-600-mil-mulheres-agentes-de-saude-entra-em-greve-24573655)
 * [Premier da Nova Zelândia lança candidatura à reeleição impulsionada por resposta à pandemia da Covid-19](https://oglobo.globo.com/mundo/premier-da-nova-zelandia-lanca-candidatura-reeleicao-impulsionada-por-resposta-pandemia-da-covid-19-1-24575791)
 * [Na Praia de Copacabana, Rio de Paz faz manifestação pelos quase 100 mil mortos pela Covid-19 no Brasil](https://oglobo.globo.com/sociedade/na-praia-de-copacabana-rio-de-paz-faz-manifestacao-pelos-quase-100-mil-mortos-pela-covid-19-no-brasil-24575765)
 * [Mercado de arte enfrenta a crise com recursos digitais, mas vê convergência entre real e virtual no futuro](https://oglobo.globo.com/cultura/artes-visuais/mercado-de-arte-enfrenta-crise-com-recursos-digitais-mas-ve-convergencia-entre-real-virtual-no-futuro-24575168)
-* [Exército indiano de 600 mil mulheres agentes de saúde entra em greve](https://oglobo.globo.com/mundo/exercito-indiano-de-600-mil-mulheres-agentes-de-saude-entra-em-greve-24573655)
 * [Kanye West posta vídeo com North West em férias da família depois de polêmica](https://oglobo.globo.com/ela/gente/kanye-west-posta-video-com-north-west-em-ferias-da-familia-depois-de-polemica-24575753)
 * [Príncipe Charles continua dando apoio financeiro e emocional a Harry, mesmo chateado com revelações de livro](https://oglobo.globo.com/ela/gente/principe-charles-continua-dando-apoio-financeiro-emocional-harry-mesmo-chateado-com-revelacoes-de-livro-24575766)
 * [Brasil tem 99.743 mortes pela Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-99743-mortes-pela-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24575760)

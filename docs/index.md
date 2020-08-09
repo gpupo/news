@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 07:35:09 UTC
+# indexed at 09/08/2020 08:16:05 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
-* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
+* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
 * [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
+* [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
+* [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
-* [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
-* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
-* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
-* [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
-* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
-* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
-* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
+* [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
+* [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
+* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
+* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
+* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
+* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Music for Plants](https://reallifemag.com/music-for-plants/)
-* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
-* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
-* [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
+* [Malcolm Gladwell: How I Rediscovered Religion](https://relevantmagazine.com/life5/malcolm-gladwell-how-i-rediscovered-faith/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)
 * [Mumbai Finally Puts Female Figures on Traffic Lights](https://www.nytimes.com/2020/08/06/world/asia/mumbai-traffic-light-woman-india.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
 * [Fly Casting on City Streets Is Weird. That’s Why I Love It.](https://www.nytimes.com/2020/08/05/magazine/fly-casting-on-city-streets-is-weird-thats-why-i-love-it.html)
 * [Edmund White Thinks Most People Misread ‘Lolita’](https://www.nytimes.com/2020/08/06/books/review/edmund-white-by-the-book-interview.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Renegociação da dívida dá fôlego à Argentina e lança desafio da reconstrução](https://oglobo.globo.com/opiniao/renegociacao-da-divida-da-folego-argentina-lanca-desafio-da-reconstrucao-24576220)
+* [Movimento civil para limpar e reconstruir Beirute é parte da luta contra sistema político no Líbano](https://oglobo.globo.com/mundo/movimento-civil-para-limpar-reconstruir-beirute-parte-da-luta-contra-sistema-politico-no-libano-24576558)
+* [Saídas noturnas de cariocas na pandemia são alvo de críticas por especialistas](https://oglobo.globo.com/rio/saidas-noturnas-de-cariocas-na-pandemia-sao-alvo-de-criticas-por-especialistas-24576673)
+* [Apelidado de 'micoduto', viaduto na BR-101 deve evitar atropelamentos de animais](https://oglobo.globo.com/rio/apelidado-de-micoduto-viaduto-na-br-101-deve-evitar-atropelamentos-de-animais-24576699)
+* ['Shakespeare pop' debate temas atuais, como feminismo e sororidade](https://oglobo.globo.com/rioshow/shakespeare-pop-debate-temas-atuais-como-feminismo-sororidade-24573632)
+* [Futebol, um amor de pai para filho](https://oglobo.globo.com/esportes/futebol-um-amor-de-pai-para-filho-24576342)
+* [Flamengo x Atlético-MG: conceito de jogo aproxima rubro-negro e seu maior antagonista no Brasileiro](https://oglobo.globo.com/esportes/flamengo-atletico-mg-conceito-de-jogo-aproxima-rubro-negro-seu-maior-antagonista-no-brasileiro-24576326)
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
-* [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
-* ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)
-* [Pandemia agrava distorções dos supersalários](https://oglobo.globo.com/opiniao/pandemia-agrava-distorcoes-dos-supersalarios-1-24574358)
-* [Ameaça aos índios e à memória](https://oglobo.globo.com/opiniao/ameaca-aos-indios-a-memoria-24574249)
-* [Imposto digital é necessário](https://oglobo.globo.com/opiniao/imposto-digital-necessario-24575304)
-* [Apagão de dados na pandemia](https://oglobo.globo.com/opiniao/apagao-de-dados-na-pandemia-24575290)
-* [O espírito de  Betinho, mais do que nunca](https://oglobo.globo.com/opiniao/o-espirito-de-betinho-mais-do-que-nunca-24573912)
-* [Lives de hoje: Zeca Pagodinho, Blitz, Arlindinho, Fábio Jr. e Xande de Pilares são destaques](https://oglobo.globo.com/rioshow/lives-de-hoje-zeca-pagodinho-blitz-arlindinho-fabio-jr-xande-de-pilares-sao-destaques-24573044)
+* [Bruno Astuto: A generosidade de André Piva](https://oglobo.globo.com/ela/bruno-astuto-generosidade-de-andre-piva-24576058)
+* [Luana Génot: Pai é quem cria](https://oglobo.globo.com/ela/luana-genot-pai-quem-cria-24576048)
+* [Mesas ao ar livre a hotéis baratos: como está o turismo em Nova York na pandemia](https://oglobo.globo.com/boa-viagem/mesas-ao-ar-livre-hoteis-baratos-como-esta-turismo-em-nova-york-na-pandemia-24575683)

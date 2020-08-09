@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 01:16:17 UTC
+# indexed at 09/08/2020 01:35:31 UTC
 
 
 ## news.ycombinator.com
@@ -10,9 +10,10 @@ layout: default
 
 * [Debt Collector Profits Soar with People Flush and Easy to Find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
-* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
+* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
+* [Twitter X TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
@@ -21,23 +22,22 @@ layout: default
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
-* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
 * [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
-* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
+* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
+* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
-* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
-* [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
+* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
+* [Music for Plants](https://reallifemag.com/music-for-plants/)
+* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
-* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
-* [Google speakers are listening to more than just voice commands](https://www.protocol.com/google-smart-speaker-alarm-adt)
+* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)
 * [After Beirut Explosion, Protests Erupt as Lebanon's Anger Boils Over](https://www.nytimes.com/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
-* [Personal Finance Lessons From the Pandemic](https://www.nytimes.com/2020/07/09/business/personal-finance-lessons-coronavirus.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [Help! I’m Owed a Refund, But the Hotel Owner Refuses to Budge](https://www.nytimes.com/2020/07/07/travel/virus-refunds-hotel-franchises.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
 * [Fly Casting on City Streets Is Weird. That’s Why I Love It.](https://www.nytimes.com/2020/08/05/magazine/fly-casting-on-city-streets-is-weird-thats-why-i-love-it.html)
 * [Edmund White Thinks Most People Misread ‘Lolita’](https://www.nytimes.com/2020/08/06/books/review/edmund-white-by-the-book-interview.html)

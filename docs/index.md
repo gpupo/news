@@ -2,27 +2,27 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 10:14:37 UTC
+# indexed at 09/08/2020 10:34:57 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
-* [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [The ‘-ize’ have it! – About the use of -ise or -ize as an ending (UK practice)](http://www.metadyne.co.uk/ize.html)
+* [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
 * [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
-* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [Hinc: Haskell In New Clothes](https://github.com/serras/hinc)
+* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
 * [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
 * [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
+* [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
 * [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
 * [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
@@ -31,13 +31,13 @@ layout: default
 * [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
 * [Expository Programming (2006)](http://archive.vector.org.uk/art10000980)
-* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
+* [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Lifestyles of the Rich and Reckless: Posh Pandemic Parties](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-rich-parties.html)
 * [A Bookstore That Shines as ‘a Lighthouse of a Free Society’](https://www.nytimes.com/2020/08/09/world/asia/taiwan-taipei-Causeway-Bay-Books.html)
 * [What Is a Museum? A Dispute Erupts Over a New Definition](https://www.nytimes.com/2020/08/06/arts/what-is-a-museum.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [She Fell in Love, and the Dog Approved](https://www.nytimes.com/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
 * [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](https://www.nytimes.com/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
 * [A New Hampshire Poet Laureate Lifts Her City’s Covid-19 Advisories](https://www.nytimes.com/2020/08/07/us/portsmouth-nh-newsletter-poems.html)
@@ -105,8 +105,8 @@ layout: default
 * [Cliente paga um salário mínimo por ano em tarifa de banco](https://oglobo.globo.com/economia/cliente-paga-um-salario-minimo-por-ano-em-tarifa-de-banco-24576531)
 * [Guilherme Schwab lança clipe que faltava de disco inspirado em instrumento aborígene](https://oglobo.globo.com/rio/bairros/guilherme-schwab-lanca-clipe-que-faltava-de-disco-inspirado-em-instrumento-aborigene-24574753)
 * [Artigo: 100 mil vidas não podem ser em vão](https://oglobo.globo.com/sociedade/artigo-100-mil-vidas-nao-podem-ser-em-vao-24576148)
+* [Cinco meses depois, Bolsonaro ainda não apresentou provas de eleição fraudada](https://epoca.globo.com/guilherme-amado/cinco-meses-depois-bolsonaro-ainda-nao-apresentou-provas-de-eleicao-fraudada-24575664)
 * [Indignação com presidente do STJ pode influir no futuro de Queiroz no tribunal](https://epoca.globo.com/guilherme-amado/indignacao-com-presidente-do-stj-pode-influir-no-futuro-de-queiroz-no-tribunal-24567856)
-* [Abin cancela ida de agentes para embaixadas por razões políticas](https://epoca.globo.com/guilherme-amado/abin-cancela-ida-de-agentes-para-embaixadas-por-razoes-politicas-24574884)
 * [Com obras retomadas, Livraria da Travessa de Icaraí abre em novembro](https://oglobo.globo.com/rio/bairros/com-obras-retomadas-livraria-da-travessa-de-icarai-abre-em-novembro-24573966)
 * [Creches improvisadas são opção para famílias de Niterói enquanto escolas não reabrem](https://oglobo.globo.com/rio/bairros/creches-improvisadas-sao-opcao-para-familias-de-niteroi-enquanto-escolas-nao-reabrem-24574018)
 * [Influenciadores digitais de favelas fazem sucesso com temas que vão bem além de violência e racismo](https://oglobo.globo.com/rio/bairros/influenciadores-digitais-de-favelas-fazem-sucesso-com-temas-que-vao-bem-alem-de-violencia-racismo-1-24573186)

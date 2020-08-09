@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 08:16:05 UTC
+# indexed at 09/08/2020 08:34:39 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
-* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
-* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
+* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
+* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
-* [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
-* [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
-* [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
+* [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
+* [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
+* [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
 * [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
-* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
-* [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
 * [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
-* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
+* [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 * [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Music for Plants](https://reallifemag.com/music-for-plants/)
-* [Malcolm Gladwell: How I Rediscovered Religion](https://relevantmagazine.com/life5/malcolm-gladwell-how-i-rediscovered-faith/)
+* [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)
 * [Mumbai Finally Puts Female Figures on Traffic Lights](https://www.nytimes.com/2020/08/06/world/asia/mumbai-traffic-light-woman-india.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
 * [Fly Casting on City Streets Is Weird. That’s Why I Love It.](https://www.nytimes.com/2020/08/05/magazine/fly-casting-on-city-streets-is-weird-thats-why-i-love-it.html)
 * [Edmund White Thinks Most People Misread ‘Lolita’](https://www.nytimes.com/2020/08/06/books/review/edmund-white-by-the-book-interview.html)
@@ -92,6 +92,7 @@ layout: default
 * [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
 * [How to Think Like an Epidemiologist](https://www.nytimes.com/2020/08/04/science/coronavirus-bayes-statistics-math.html)
 * [These Microbes May Have Survived 100 Million Years Beneath the Seafloor](https://www.nytimes.com/2020/07/28/science/microbes-100-million-years-old.html)
+* [Getting Your Home Ready for Your Pandemic Puppy](https://www.nytimes.com/2020/08/07/realestate/pandemic-puppy-home-design.html)
 * [Katie Hill is Trying to Move Forward](https://www.nytimes.com/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -99,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Movimento civil para limpar e reconstruir Beirute é parte da luta contra sistema político no Líbano](https://oglobo.globo.com/mundo/movimento-civil-para-limpar-reconstruir-beirute-parte-da-luta-contra-sistema-politico-no-libano-24576558)
-* [Saídas noturnas de cariocas na pandemia são alvo de críticas por especialistas](https://oglobo.globo.com/rio/saidas-noturnas-de-cariocas-na-pandemia-sao-alvo-de-criticas-por-especialistas-24576673)
-* [Apelidado de 'micoduto', viaduto na BR-101 deve evitar atropelamentos de animais](https://oglobo.globo.com/rio/apelidado-de-micoduto-viaduto-na-br-101-deve-evitar-atropelamentos-de-animais-24576699)
-* ['Shakespeare pop' debate temas atuais, como feminismo e sororidade](https://oglobo.globo.com/rioshow/shakespeare-pop-debate-temas-atuais-como-feminismo-sororidade-24573632)
-* [Futebol, um amor de pai para filho](https://oglobo.globo.com/esportes/futebol-um-amor-de-pai-para-filho-24576342)
-* [Flamengo x Atlético-MG: conceito de jogo aproxima rubro-negro e seu maior antagonista no Brasileiro](https://oglobo.globo.com/esportes/flamengo-atletico-mg-conceito-de-jogo-aproxima-rubro-negro-seu-maior-antagonista-no-brasileiro-24576326)
-* [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
-* [Bruno Astuto: A generosidade de André Piva](https://oglobo.globo.com/ela/bruno-astuto-generosidade-de-andre-piva-24576058)
-* [Luana Génot: Pai é quem cria](https://oglobo.globo.com/ela/luana-genot-pai-quem-cria-24576048)
-* [Mesas ao ar livre a hotéis baratos: como está o turismo em Nova York na pandemia](https://oglobo.globo.com/boa-viagem/mesas-ao-ar-livre-hoteis-baratos-como-esta-turismo-em-nova-york-na-pandemia-24575683)
+* [Flávio Bolsonaro diz que pagamento de R$ 30 mil em espécie foi ‘coisinha guardada em casa’](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-que-pagamento-de-30-mil-em-especie-foi-coisinha-guardada-em-casa-24576493)
+* [Exclusivo: MP do Rio descobre que Flávio usou R$ 86,7 mil em dinheiro vivo na compra de salas comerciais](https://oglobo.globo.com/brasil/exclusivo-mp-do-rio-descobre-que-flavio-usou-867-mil-em-dinheiro-vivo-na-compra-de-salas-comerciais-24576488)
+* [Exclusivo: MP do Rio descobre que Flávio usou R$ 86,7 mil em espécie na compra salas comerciais](https://oglobo.globo.com/brasil/exclusivo-mp-do-rio-descobre-que-flavio-usou-867-mil-em-especie-na-compra-salas-comerciais-24576452)
+* [Irmão mais novo do ex-ministro da Educação, Arthur Weintraub vira ‘guru’ da cloroquina](https://oglobo.globo.com/brasil/irmao-mais-novo-do-ex-ministro-da-educacao-arthur-weintraub-vira-guru-da-cloroquina-24576502)
+* [Com verba 68% maior, Bolsonaro amplia gastos e inteligência vira prioridade do governo](https://oglobo.globo.com/brasil/com-verba-68-maior-bolsonaro-amplia-gastos-inteligencia-vira-prioridade-do-governo-24576520)
+* [Com verba 68% maior, Bolsonaro amplia gastos e inteligência vira prioridade do governo](https://oglobo.globo.com/brasil/com-verba-68-maior-bolsonaro-amplia-gastos-inteligencia-vira-prioridade-do-governo-24576537)
+* [André Singer: 'Esse é o começo de algo que pode, sim, ameaçar o lulismo'](https://oglobo.globo.com/brasil/andre-singer-esse-o-comeco-de-algo-que-pode-sim-ameacar-lulismo-24576565)
+* [Relatório sobre opositores ‘é crime muito grave’, afirma Raul Jungmann](https://oglobo.globo.com/brasil/relatorio-sobre-opositores-crime-muito-grave-afirma-raul-jungmann-24576555)
+* [Período médio de incubação do coronavírus é de 7 dias, não 5, sugere estudo](https://oglobo.globo.com/sociedade/coronavirus/periodo-medio-de-incubacao-do-coronavirus-de-7-dias-nao-5-sugere-estudo-24576497)
+* [Flávio Bolsonaro diz que pagamento de R$ 30 mil em espécie foi ‘coisinha guardada em casa’](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-que-pagamento-de-30-mil-em-especie-foi-coisinha-guardada-em-casa-24576476)

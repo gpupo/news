@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 14:15:52 UTC
+# indexed at 09/08/2020 14:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
-* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
-* [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
+* [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
+* [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Ask HN: What are some available force multipliers that most people don't know?](https://news.ycombinator.com/item?id=24098954)
 * [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
 * [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
+* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
 * [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
-* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
+* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
+* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [Three algorithm-less streaming sites revive the wacky Web from days of yore](https://arstechnica.com/gaming/2020/08/diy-site-builders-battle-algorithmic-feeds-with-sheep-filled-wackiness/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
+* [Aesthetics and the Human Factor in Programming (1972)](http://www.softpanorama.org/Articles/Ershov/aesthetics_and_the_human_factor_in_programming_ershov1972.shtml)
 * [Former VW Executive Is Arrested in Croatia in Emissions Case](https://www.nytimes.com/2020/06/17/business/VW-dieselgate-arrest-croatia.html)
 * [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
-* [Aesthetics and the Human Factor in Programming (1972)](http://www.softpanorama.org/Articles/Ershov/aesthetics_and_the_human_factor_in_programming_ershov1972.shtml)
 * [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
-* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [Interviewing Chandrayaan 1’s Mission Director on India’s role in the Moon race](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
-* [Typing Is Hard](https://typing-is-hard.ch/)
+* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
-* [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
+* [Typing Is Hard](https://typing-is-hard.ch/)
+* [Interviewing Chandrayaan 1’s Mission Director on India’s role in the Moon race](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Lifestyles of the Rich and Reckless: Posh Pandemic Parties](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-rich-parties.html)
 * [A Bookstore That Shines as ‘a Lighthouse of a Free Society’](https://www.nytimes.com/2020/08/09/world/asia/taiwan-taipei-Causeway-Bay-Books.html)
 * [What Is a Museum? A Dispute Erupts Over a New Definition](https://www.nytimes.com/2020/08/06/arts/what-is-a-museum.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [She Fell in Love, and the Dog Approved](https://www.nytimes.com/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
 * [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](https://www.nytimes.com/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
 * [A New Hampshire Poet Laureate Lifts Her City’s Covid-19 Advisories](https://www.nytimes.com/2020/08/07/us/portsmouth-nh-newsletter-poems.html)
@@ -101,6 +101,7 @@ layout: default
 
 
 * [Bolsonaro promete ajuda ao Líbano e convida Temer para chefiar missão ao país árabe](https://oglobo.globo.com/mundo/bolsonaro-promete-ajuda-ao-libano-convida-temer-para-chefiar-missao-ao-pais-arabe-24576824)
+* [Incêndio atinge clínica da família em Sepetiba](https://oglobo.globo.com/rio/incendio-atinge-clinica-da-familia-em-sepetiba-24576856)
 * [Lives de hoje: Chico Buarque e Maria Bethânia participam de ação em prol de indígenas](https://oglobo.globo.com/rioshow/lives-de-hoje-chico-buarque-maria-bethania-participam-de-acao-em-prol-de-indigenas-1-24576811)
 * [Responsável pela regra que criou teto de gastos, Meirelles cobra da equipe econômica defesa da controle de despesas](https://oglobo.globo.com/economia/responsavel-pela-regra-que-criou-teto-de-gastos-meirelles-cobra-da-equipe-economica-defesa-da-controle-de-despesas-1-24576655)
 * [Bebel Gilberto rompe silêncio sobre briga familiar em torno do legado do pai](https://oglobo.globo.com/cultura/bebel-gilberto-rompe-silencio-sobre-briga-familiar-em-torno-do-legado-do-pai-24576801)
@@ -109,4 +110,3 @@ layout: default
 * [Avança inquérito da Lava Jato sobre advogado que ascendeu a jato](https://epoca.globo.com/guilherme-amado/avanca-inquerito-da-lava-jato-sobre-advogado-que-ascendeu-jato-24574611)
 * [Produtoras se adaptam e recorrem à Rouanet para projetos online](https://epoca.globo.com/guilherme-amado/produtoras-se-adaptam-recorrem-rouanet-para-projetos-online-1-24575250)
 * [MP-RJ reserva surpresas para Fred Wassef](https://epoca.globo.com/guilherme-amado/mp-rj-reserva-surpresas-para-fred-wassef-24574674)
-* [Coluna | Pai é 'categoria' fundamental para enfrentar a atual crise do cuidado](https://epoca.globo.com/giulliana-bianconi--coluna/coluna-pai-categoria-fundamental-para-enfrentar-atual-crise-do-cuidado-24573361)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 03:14:50 UTC
+# indexed at 09/08/2020 03:35:03 UTC
 
 
 ## news.ycombinator.com
@@ -17,9 +17,9 @@ layout: default
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
-* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
@@ -27,17 +27,17 @@ layout: default
 * [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [You May Finally Use JSHint for Evil](http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/)
+* [How Tim Cook Made Apple His Own](https://www.wsj.com/articles/tim-cook-apple-steve-jobs-trump-china-iphone-ipad-apps-smartphone-11596833902)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
 * [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
-* [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
+* [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
-* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
-* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 ## nytimes.com
 
 
@@ -71,17 +71,17 @@ layout: default
 * [Why Parents Should Pause Before Oversharing Online](https://www.nytimes.com/2020/08/04/well/family/parents-social-media-privacy.html)
 * [After Beirut Explosion, Protests Erupt as Lebanon's Anger Boils Over](https://www.nytimes.com/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 * [Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir](https://www.nytimes.com/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
-* [2 Ex-Green Berets Sentenced to 20 Years for Venezuela Attack](https://www.nytimes.com/2020/08/08/world/americas/2-ex-green-berets-sentenced-to-20-years-for-venezuela-attack.html)
+* [Dustin Johnson Leads the P.G.A. Championship, With Some Young Players Threatening](https://www.nytimes.com/2020/08/08/sports/pga-championship-dustin-johnson.html)
 * [C.D.C. Closes Some Offices Over Bacteria Discovery](https://www.nytimes.com/2020/08/08/health/cdc-legionnaires-coronavirus.html)
 * [Air India Crash Investigators Focus On a Dangerous Runway and a Pilot’s Actions](https://www.nytimes.com/2020/08/08/world/asia/india-plane-crash-dubai.html)
 * [The Weird, Disturbing (and Comforting) Return of Pro Sports](https://www.nytimes.com/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)
 * [Mumbai Finally Puts Female Figures on Traffic Lights](https://www.nytimes.com/2020/08/06/world/asia/mumbai-traffic-light-woman-india.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
 * [Fly Casting on City Streets Is Weird. That’s Why I Love It.](https://www.nytimes.com/2020/08/05/magazine/fly-casting-on-city-streets-is-weird-thats-why-i-love-it.html)

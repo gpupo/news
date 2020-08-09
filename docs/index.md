@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 04:15:22 UTC
+# indexed at 09/08/2020 04:35:38 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
-* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
+* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [You May Finally Use JSHint for Evil](http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Typing Is Hard](https://typing-is-hard.ch/)
-* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
+* [You May Finally Use JSHint for Evil](http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/)
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
+* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
-* [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
+* [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
+* [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
-* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
+* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [How Tim Cook Made Apple His Own](https://www.wsj.com/articles/tim-cook-apple-steve-jobs-trump-china-iphone-ipad-apps-smartphone-11596833902)
+* [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
 * [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
-* [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
-* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
 ## nytimes.com
 
 

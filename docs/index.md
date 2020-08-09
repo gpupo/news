@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 17:14:21 UTC
+# indexed at 09/08/2020 17:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -10,39 +10,39 @@ layout: default
 
 * [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
 * [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
+* [U.S. Navy Sex-Trafficing Scandal in Bahrain](https://www.militarytimes.com/bahrain-scandal/)
 * [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
 * [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
-* [How I Got My Japanese Permanent Residency](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html)
 * [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
-* [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
+* [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
-* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
-* [“What color is the Sun?” An example of science education pathology (2012)](http://www.clarifyscience.info/part/Jw6yo)
+* [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
 * [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
 * [Ask HN: What are some available force multipliers that most people don't know?](https://news.ycombinator.com/item?id=24098954)
-* [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
-* [The ‘-ize’ have it (2012)](http://www.metadyne.co.uk/ize.html)
-* [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
-* [U.S. Navy Sex-Trafficing Scandal in Bahrain](https://www.militarytimes.com/bahrain-scandal/)
 * [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
+* [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
+* [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
+* [“What color is the Sun?” An example of science education pathology (2012)](http://www.clarifyscience.info/part/Jw6yo)
+* [The ‘-ize’ have it (2012)](http://www.metadyne.co.uk/ize.html)
+* [How I Got My Japanese Permanent Residency](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html)
 * [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [Haskell In New Clothes](https://github.com/serras/hinc)
+* [Bill Gates calls Microsoft’s TikTok deal a poisoned chalice](https://www.theverge.com/2020/8/8/21359720/bill-gates-microsoft-tik-tok-deal-comments-interview)
+* [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
 * [Show HN: Zesture – Control Mac/Windows Apps Using Hand Gestures](https://zesture.app/)
 * [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
-* [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
 * [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
+* [Huawei says it’s running out of chips for smartphones because of US sanctions](https://www.theverge.com/2020/8/9/21360598/huawei-chips-us-sanctions-trump-china-privacy-smartphone)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
-* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
-* [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
-* [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
 ## nytimes.com
 
 
-* [Trump’s Go-It-Alone Stimulus Won’t Do Much to Lift the Recovery](https://www.nytimes.com/2020/08/08/business/trump-stimulus-recovery.html)
 * [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html)
+* [Trump’s Go-It-Alone Stimulus Won’t Do Much to Lift the Recovery](https://www.nytimes.com/2020/08/08/business/trump-stimulus-recovery.html)
 * [‘Christianity Will Have Power’](https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html)
 * [‘Top Cop’ Kamala Harris’s Record of Policing the Police](https://www.nytimes.com/2020/08/09/us/politics/kamala-harris-policing.html)
 * [Boycotted. Criticized. But Fox News Leads the Pack in Prime Time.](https://www.nytimes.com/2020/08/09/business/media/fox-news-ratings.html)
@@ -99,10 +99,10 @@ layout: default
 ## globo.com
 
 
+* [Seis turistas franceses e dois nigerianos são mortos no Níger](https://oglobo.globo.com/mundo/seis-turistas-franceses-dois-nigerianos-sao-mortos-no-niger-24576920)
 * [Bolsonaro promete ajuda ao Líbano e convida Temer para chefiar missão ao país árabe](https://oglobo.globo.com/mundo/bolsonaro-promete-ajuda-ao-libano-convida-temer-para-chefiar-missao-ao-pais-arabe-24576824)
 * [Dom Orani Tempesta celebra missas no Cristo Redentor pelas vítimas da Covid-19 e as famílias que perderam pais na pandemia](https://oglobo.globo.com/rio/dom-orani-tempesta-celebra-missas-no-cristo-redentor-pelas-vitimas-da-covid-19-as-familias-que-perderam-pais-na-pandemia-1-24576888)
 * [Boletim das 13h: Brasil tem mais 124 mortos e 4.917 casos da Covid-19, diz consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/boletim-das-13h-brasil-tem-mais-124-mortos-4917-casos-da-covid-19-diz-consorcio-de-veiculos-da-imprensa-24576904)
-* [Seis turistas franceses e dois nigerianos são mortos no Níger](https://oglobo.globo.com/mundo/seis-turistas-franceses-dois-nigerianos-sao-mortos-no-niger-24576920)
 * [Verstappen supera Hamilton e vence GP dos 70 anos da Fórmula 1](https://oglobo.globo.com/esportes/verstappen-supera-hamilton-vence-gp-dos-70-anos-da-formula-1-24576868)
 * [Após explosão, Papa Francisco pede união entre libaneses para ‘coexistência livre e forte’](https://oglobo.globo.com/mundo/apos-explosao-papa-francisco-pede-uniao-entre-libaneses-para-coexistencia-livre-forte-24576886)
 * [Willian publica carta aberta de despedida após sete anos no Chelsea](https://oglobo.globo.com/esportes/willian-publica-carta-aberta-de-despedida-apos-sete-anos-no-chelsea-24576900)

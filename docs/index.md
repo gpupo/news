@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 06:34:40 UTC
+# indexed at 09/08/2020 07:15:00 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
-* [There’s No Such Thing as a Tech Expert Anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
-* [Do countries lose religion as they gain wealth? [2013]](https://www.cbc.ca/news/world/do-countries-lose-religion-as-they-gain-wealth-1.1310451)
+* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
+* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
 * [Typing Is Hard](https://typing-is-hard.ch/)
-* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
-* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
+* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
-* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
-* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
-* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
-* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
-* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
+* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
+* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
+* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
-* [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Music for Plants](https://reallifemag.com/music-for-plants/)
-* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 * [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
+* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
+* [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
+* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 ## nytimes.com
 
 
@@ -74,13 +74,13 @@ layout: default
 * [Dustin Johnson, Surrounded by Young Challengers, Leads the P.G.A. Championship](https://www.nytimes.com/2020/08/08/sports/pga-championship-dustin-johnson.html)
 * [C.D.C. Closes Some Offices Over Bacteria Discovery](https://www.nytimes.com/2020/08/08/health/cdc-legionnaires-coronavirus.html)
 * [Air India Crash Investigators Focus On a Dangerous Runway and a Pilot’s Actions](https://www.nytimes.com/2020/08/08/world/asia/india-plane-crash-dubai.html)
-* [The Weird, Disturbing (and Comforting) Return of Pro Sports](https://www.nytimes.com/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
+* [A Bookstore That Shines as ‘a Lighthouse of a Free Society’](https://www.nytimes.com/2020/08/09/world/asia/taiwan-taipei-Causeway-Bay-Books.html)
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)
 * [Mumbai Finally Puts Female Figures on Traffic Lights](https://www.nytimes.com/2020/08/06/world/asia/mumbai-traffic-light-woman-india.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)

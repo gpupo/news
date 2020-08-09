@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 19:14:25 UTC
+# indexed at 09/08/2020 19:35:35 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
-* [Dorking (how to find anything on the Internet)](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
-* [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
-* [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
-* [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
-* [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
-* [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
-* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
-* [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
-* [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
-* [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
+* [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
+* [Hiroshima: The Stories of Six Survivors (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
+* [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
 * [Obesity of politicians and corruption in post‐Soviet countries](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12259)
+* [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
+* [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
+* [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
+* [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
+* [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
+* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
+* [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
+* [Australia Fast-Tracks Plan to Send Solar Power to Singapore](https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore)
 * [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
 * [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [Great Retsina, an Oxymoron No More](https://www.nytimes.com/2019/01/17/dining/drinks/retsina-wine-greece.html)
+* [APL is more French than English (1978)](https://www.jsoftware.com/papers/perlis78.htm)
+* [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
+* [How I got my Japanese permanent residency](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html)
+* [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
 * [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
 * [Beyond Mantel: Historical novels](https://www.theguardian.com/books/2020/feb/29/an-escape-wonderful-historical-fiction)
 * [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
-* [APL is more French than English (1978)](https://www.jsoftware.com/papers/perlis78.htm)
-* [Great Retsina, an Oxymoron No More](https://www.nytimes.com/2019/01/17/dining/drinks/retsina-wine-greece.html)
-* [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
-* [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
-* [How I got my Japanese permanent residency](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html)
-* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
 * [The ‘-ize’ have it (2012)](http://www.metadyne.co.uk/ize.html)
-* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
 * [Haskell In New Clothes](https://github.com/serras/hinc)
-* [Australia Fast-Tracks Plan to Send Solar Power to Singapore](https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore)
-* [Lawn chairs and kitchen tables: Ergonomics in the involuntary work-from-home era](https://arstechnica.com/features/2020/08/work-from-home-01-ergo/)
+* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
+* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [At Talkspace, Start-Up Culture Collides With Mental Health Concerns](https://www.nytimes.com/2020/08/07/technology/talkspace.html)
 * [Boycotted. Criticized. But Fox News Leads the Pack in Prime Time.](https://www.nytimes.com/2020/08/09/business/media/fox-news-ratings.html)
 * [A New Hampshire Poet Laureate Lifts Her City’s Covid-19 Advisories](https://www.nytimes.com/2020/08/07/us/portsmouth-nh-newsletter-poems.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [She Fell in Love, and the Dog Approved](https://www.nytimes.com/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
 * [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](https://www.nytimes.com/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
 * [The Mom and Pop Factory With an Atomic Secret](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-ppe-nyc-face-shields.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [STJD suspende Goiás x São Paulo](https://oglobo.globo.com/esportes/stjd-suspende-goias-sao-paulo-24577045)
+* [Goiás x São Paulo é suspenso após dez jogadores com coronavírus](https://oglobo.globo.com/esportes/goias-sao-paulo-suspenso-apos-dez-jogadores-com-coronavirus-24577045)
+* [Falta de máscara, banho de sol e venda de bebidas: cariocas vão à praia e desrespeitam regras sanitárias](https://oglobo.globo.com/rio/falta-de-mascara-banho-de-sol-venda-de-bebidas-cariocas-vao-praia-desrespeitam-regras-sanitarias-24576964)
+* [Incêndio atinge entrada do Parlamento do Líbano em mais um dia de protestos](https://oglobo.globo.com/mundo/incendio-atinge-entrada-do-parlamento-do-libano-em-mais-um-dia-de-protestos-24576987)
 * [Goiás pede adiamento do jogo contra o São Paulo, após dez testes positivos para Covid-19](https://oglobo.globo.com/esportes/goias-pede-adiamento-do-jogo-contra-sao-paulo-apos-dez-testes-positivos-para-covid-19-24576982)
 * [Mais 17 casas são interditadas na Mangueira, após deslizamento](https://oglobo.globo.com/rio/mais-17-casas-sao-interditadas-na-mangueira-apos-deslizamento-24576908)
-* [Incêndio atinge entrada do Parlamento do Líbano em mais um dia de protestos](https://oglobo.globo.com/mundo/incendio-atinge-entrada-do-parlamento-do-libano-em-mais-um-dia-de-protestos-24576987)
 * [CBF adia jogo da Série C após 12 de 19 jogadores do Imperatriz testarem positivo para Covid-19](https://oglobo.globo.com/esportes/cbf-adia-jogo-da-serie-apos-12-de-19-jogadores-do-imperatriz-testarem-positivo-para-covid-19-24576984)
 * [Deputado bolsonarista é condenado a pagar R$ 20 mil de danos morais por dossiê contra 'antifascistas'](https://oglobo.globo.com/brasil/deputado-bolsonarista-condenado-pagar-20-mil-de-danos-morais-por-dossie-contra-antifascistas-24577013)
 * [Lucro da Aramco, gigante saudita de petróleo, despenca 73,4% no segundo trimestre](https://oglobo.globo.com/economia/lucro-da-aramco-gigante-saudita-de-petroleo-despenca-734-no-segundo-trimestre-1-24576980)
 * [Coronavírus: Itália destina mais 25 bilhões de euros para ajudar economia](https://oglobo.globo.com/economia/coronavirus-italia-destina-mais-25-bilhoes-de-euros-para-ajudar-economia-24576994)
 * [“Escrevi nos meus livros esse Brasil que está acontecendo agora: a imbecilidade no poder”, diz André Sant’Anna](https://epoca.globo.com/escrevi-nos-meus-livros-esse-brasil-que-esta-acontecendo-agora-imbecilidade-no-poder-diz-andre-santanna-24577006)
-* [Seis turistas franceses e dois nigerianos são mortos no Níger](https://oglobo.globo.com/mundo/seis-turistas-franceses-dois-nigerianos-sao-mortos-no-niger-24576920)

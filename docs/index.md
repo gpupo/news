@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 07:15:00 UTC
+# indexed at 09/08/2020 07:35:09 UTC
 
 
 ## news.ycombinator.com
@@ -13,11 +13,11 @@ layout: default
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
-* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
+* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
 * [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
-* [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
 * [Typing Is Hard](https://typing-is-hard.ch/)
+* [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
 * [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
@@ -25,19 +25,19 @@ layout: default
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
 * [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
-* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
-* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
-* [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
+* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
+* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Music for Plants](https://reallifemag.com/music-for-plants/)
 * [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
 * [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
-* [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
 ## nytimes.com
 
 
@@ -69,10 +69,10 @@ layout: default
 * [Taking a Spear Into the Sea, and Washing Anxiety Away](https://www.nytimes.com/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
 * [What Megan Fox Taught Me About the Power of Subversive Girls](https://www.nytimes.com/2020/08/06/movies/megan-fox-jennifers-body.html)
 * [Why Parents Should Pause Before Oversharing Online](https://www.nytimes.com/2020/08/04/well/family/parents-social-media-privacy.html)
+* [Afghanistan to Release Last Taliban Prisoners, Removing Final Hurdle to Talks](https://www.nytimes.com/2020/08/09/world/asia/afghanistan-taliban-prisoners-peace-talks.html)
 * [After Beirut Explosion, Protests Erupt as Lebanon's Anger Boils Over](https://www.nytimes.com/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
-* [Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir](https://www.nytimes.com/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
 * [Dustin Johnson, Surrounded by Young Challengers, Leads the P.G.A. Championship](https://www.nytimes.com/2020/08/08/sports/pga-championship-dustin-johnson.html)
-* [C.D.C. Closes Some Offices Over Bacteria Discovery](https://www.nytimes.com/2020/08/08/health/cdc-legionnaires-coronavirus.html)
+* [Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir](https://www.nytimes.com/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
 * [Air India Crash Investigators Focus On a Dangerous Runway and a Pilot’s Actions](https://www.nytimes.com/2020/08/08/world/asia/india-plane-crash-dubai.html)
 * [A Bookstore That Shines as ‘a Lighthouse of a Free Society’](https://www.nytimes.com/2020/08/09/world/asia/taiwan-taipei-Causeway-Bay-Books.html)
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 11:34:47 UTC
+# indexed at 09/08/2020 12:19:25 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Vertigo – a public domain 3D flight simulator](http://stjerneskud.info/vertigo/)
+* [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
-* [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
-* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
-* [Typing Is Hard](https://typing-is-hard.ch/)
-* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
 * [Hinc: Haskell In New Clothes](https://github.com/serras/hinc)
-* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
-* [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
+* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
+* [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
+* [Typing Is Hard](https://typing-is-hard.ch/)
 * [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
-* [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
+* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
+* [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
+* [Ask HN: What are some available force multipliers that most people don't know?](https://news.ycombinator.com/item?id=24098954)
+* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
+* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [Aesthetics and the Human Factor in Programming (1972)](http://www.softpanorama.org/Articles/Ershov/aesthetics_and_the_human_factor_in_programming_ershov1972.shtml)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
-* [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
 * [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
+* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
-* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
-* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
+* [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
+* [Interviewing Chandrayaan 1’s Mission Director on India’s role in the Moon race](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
+* [The ‘-ize’ have it](http://www.metadyne.co.uk/ize.html)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [The ‘-ize’ have it](http://www.metadyne.co.uk/ize.html)
-* [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
-* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
+* [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Lifestyles of the Rich and Reckless: Posh Pandemic Parties](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-rich-parties.html)
 * [A Bookstore That Shines as ‘a Lighthouse of a Free Society’](https://www.nytimes.com/2020/08/09/world/asia/taiwan-taipei-Causeway-Bay-Books.html)
 * [What Is a Museum? A Dispute Erupts Over a New Definition](https://www.nytimes.com/2020/08/06/arts/what-is-a-museum.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [She Fell in Love, and the Dog Approved](https://www.nytimes.com/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
 * [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](https://www.nytimes.com/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
 * [A New Hampshire Poet Laureate Lifts Her City’s Covid-19 Advisories](https://www.nytimes.com/2020/08/07/us/portsmouth-nh-newsletter-poems.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Bebel Gilberto rompe silêncio sobre briga familiar em torno do legado do pai](https://oglobo.globo.com/cultura/bebel-gilberto-rompe-silencio-sobre-briga-familiar-em-torno-do-legado-do-pai-24576801)
 * [Boletim das 8h: Brasil tem mais 533 casos de Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-mais-533-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24576787)
 * [Cidade de dois mil habitantes em MG não registrou nenhum caso de Covid-19](https://epoca.globo.com/sociedade/cidade-de-dois-mil-habitantes-em-mg-nao-registrou-nenhum-caso-de-covid-19-24576707)
-* [Artigo: 100 mil vidas não podem ser em vão](https://oglobo.globo.com/sociedade/artigo-100-mil-vidas-nao-podem-ser-em-vao-24576148)
+* [Produtoras se adaptam e recorrem à Rouanet para projetos online](https://epoca.globo.com/guilherme-amado/produtoras-se-adaptam-recorrem-rouanet-para-projetos-online-1-24575250)
 * [Cinco meses depois, Bolsonaro ainda não apresentou provas de eleição fraudada](https://epoca.globo.com/guilherme-amado/cinco-meses-depois-bolsonaro-ainda-nao-apresentou-provas-de-eleicao-fraudada-24575664)
 * [Indignação com presidente do STJ pode influir no futuro de Queiroz no tribunal](https://epoca.globo.com/guilherme-amado/indignacao-com-presidente-do-stj-pode-influir-no-futuro-de-queiroz-no-tribunal-24567856)
 * [Com obras retomadas, Livraria da Travessa de Icaraí abre em novembro](https://oglobo.globo.com/rio/bairros/com-obras-retomadas-livraria-da-travessa-de-icarai-abre-em-novembro-24573966)
 * [MP-RJ reserva surpresas para Fred Wassef](https://epoca.globo.com/guilherme-amado/mp-rj-reserva-surpresas-para-fred-wassef-24574674)
-* [Creches improvisadas são opção para famílias de Niterói enquanto escolas não reabrem](https://oglobo.globo.com/rio/bairros/creches-improvisadas-sao-opcao-para-familias-de-niteroi-enquanto-escolas-nao-reabrem-24574018)
 * [Influenciadores digitais de favelas fazem sucesso com temas que vão bem além de violência e racismo](https://oglobo.globo.com/rio/bairros/influenciadores-digitais-de-favelas-fazem-sucesso-com-temas-que-vao-bem-alem-de-violencia-racismo-1-24573186)
 * [Coluna | Pai é 'categoria' fundamental para enfrentar a atual crise do cuidado](https://epoca.globo.com/giulliana-bianconi--coluna/coluna-pai-categoria-fundamental-para-enfrentar-atual-crise-do-cuidado-24573361)

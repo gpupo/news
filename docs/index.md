@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 02:16:23 UTC
+# indexed at 09/08/2020 02:34:32 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Debt Collector Profits Soar with People Flush and Easy to Find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Twitter X TikTok = Twiktwok](https://twiktwok.github.io/)
-* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
+* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
+* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
 * [Typing Is Hard](https://typing-is-hard.ch/)
-* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
-* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
-* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
+* [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
-* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
-* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+* [All these companies were a lot smarter than us. What we had was luck (1894)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
-* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
+* [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
 * [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+* [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
 * [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
-* [Music for Plants](https://reallifemag.com/music-for-plants/)
-* [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
-* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
-* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
+* [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
+* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
+* [Music for Plants](https://reallifemag.com/music-for-plants/)
+* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
-* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [No Pajama Pants Allowed While Learning From Home, Illinois District Says](https://www.nytimes.com/2020/08/08/us/pajamas-school-springfield-dress-code.html)
 * [After Beirut Explosion, Protests Erupt as Lebanon's Anger Boils Over](https://www.nytimes.com/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
 * [Fly Casting on City Streets Is Weird. That’s Why I Love It.](https://www.nytimes.com/2020/08/05/magazine/fly-casting-on-city-streets-is-weird-thats-why-i-love-it.html)
 * [Edmund White Thinks Most People Misread ‘Lolita’](https://www.nytimes.com/2020/08/06/books/review/edmund-white-by-the-book-interview.html)
@@ -92,7 +92,10 @@ layout: default
 * [A Star Went Supernova in 1987. Where Is It Now?](https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html)
 * [How to Think Like an Epidemiologist](https://www.nytimes.com/2020/08/04/science/coronavirus-bayes-statistics-math.html)
 * [These Microbes May Have Survived 100 Million Years Beneath the Seafloor](https://www.nytimes.com/2020/07/28/science/microbes-100-million-years-old.html)
-* [Falwell Taking Leave From Liberty University Amid Photo Uproar](https://www.nytimes.com/2020/08/07/us/falwell-liberty.html)
+* [U.S. Identifies Some of the Mysterious Seeds Mailed From China](https://www.nytimes.com/2020/08/02/us/Seed-packets-China-USA.html)
+* [Stream These 12 Movies Before They Leave Netflix This Month](https://www.nytimes.com/2020/08/05/movies/movies-leaving-netflix-august.html)
+* [Michelle Obama Says She Is Dealing With ‘Low-Grade Depression’](https://www.nytimes.com/2020/08/06/us/michelle-obama-depression.html)
+* [Suspension Lifted of Georgia Student Who Posted Photos of Crowded Hall](https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

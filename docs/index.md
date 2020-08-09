@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 09:14:34 UTC
+# indexed at 09/08/2020 09:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
+* [The ‘-ize’ have it! – About the use of -ise or -ize as an ending (UK practice)](http://www.metadyne.co.uk/ize.html)
 * [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
 * [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
+* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
-* [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
+* [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
 * [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
 * [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
-* [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
 * [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
 * [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
-* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
+* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
-* [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
-* [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
-* [Expository Programming (2006)](http://archive.vector.org.uk/art10000980)
 * [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
+* [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
+* [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
+* [Expository Programming (2006)](http://archive.vector.org.uk/art10000980)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
-* [Debt collector profits soar with people flush and easy to find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
-* [All these companies were a lot smarter than us. What we had was luck (1984)](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php)
+* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 ## nytimes.com
 
 
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Contra a crise, turismo do Rio investe no mercado local](https://epoca.globo.com/rio/contra-crise-turismo-do-rio-investe-no-mercado-local-24562237)
 * [Amputação, hemodiálise e infecções: médico com Covid-19 está há mais de 115 dias na UTI](https://epoca.globo.com/brasil/amputacao-hemodialise-infeccoes-medico-com-covid-19-esta-ha-mais-de-115-dias-na-uti-24563817)
 * [Exclusivo: MP do Rio descobre que Flávio usou R$ 86,7 mil em dinheiro vivo na compra de salas comerciais](https://oglobo.globo.com/brasil/exclusivo-mp-do-rio-descobre-que-flavio-usou-867-mil-em-dinheiro-vivo-na-compra-de-salas-comerciais-24576488)
 * [Irmão mais novo do ex-ministro da Educação, Arthur Weintraub vira ‘guru’ da cloroquina](https://oglobo.globo.com/brasil/irmao-mais-novo-do-ex-ministro-da-educacao-arthur-weintraub-vira-guru-da-cloroquina-24576502)
-* [Com verba 68% maior, Bolsonaro amplia gastos e inteligência vira prioridade do governo](https://oglobo.globo.com/brasil/com-verba-68-maior-bolsonaro-amplia-gastos-inteligencia-vira-prioridade-do-governo-24576520)
 * [Com verba 68% maior, Bolsonaro amplia gastos e inteligência vira prioridade do governo](https://oglobo.globo.com/brasil/com-verba-68-maior-bolsonaro-amplia-gastos-inteligencia-vira-prioridade-do-governo-24576537)
 * [De Filipe Luis a Filipe Toledo: pais atletas contam aprendizados e reflexões de ano atípico com os filhos](https://oglobo.globo.com/esportes/de-filipe-luis-filipe-toledo-pais-atletas-contam-aprendizados-reflexoes-de-ano-atipico-com-os-filhos-24570858)
-* [Período médio de incubação do coronavírus é de 7 dias, não 5, sugere estudo](https://oglobo.globo.com/sociedade/coronavirus/periodo-medio-de-incubacao-do-coronavirus-de-7-dias-nao-5-sugere-estudo-24576497)
 * [Flávio Bolsonaro diz que pagamento de R$ 30 mil em espécie foi ‘coisinha guardada em casa’](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-que-pagamento-de-30-mil-em-especie-foi-coisinha-guardada-em-casa-24576476)
 * [Gilmar quer pautar suspeição de Moro para julgar Lula antes da aposentadoria de Celso](https://epoca.globo.com/guilherme-amado/gilmar-quer-pautar-suspeicao-de-moro-para-julgar-lula-antes-da-aposentadoria-de-celso-1-24574794)
+* [Abin cancela ida de agentes para embaixadas por razões políticas](https://epoca.globo.com/guilherme-amado/abin-cancela-ida-de-agentes-para-embaixadas-por-razoes-politicas-24574884)
 * ['Não quero ser a única, nem a última', diz Joênia Wapichana, primeira mulher indígena eleita deputada federal](https://oglobo.globo.com/celina/nao-quero-ser-unica-nem-ultima-diz-joenia-wapichana-primeira-mulher-indigena-eleita-deputada-federal-24571513)

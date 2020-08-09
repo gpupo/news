@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 21:14:32 UTC
+# indexed at 09/08/2020 21:34:45 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
+* [ThinkPad 560E](https://pappp.net/?p=26440)
 * [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
-* [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
 * [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
+* [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
-* [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
 * [Australia Fast-Tracks Plan to Send Solar Power to Singapore](https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore)
-* [ThinkPad 560E](https://pappp.net/?p=26440)
 * [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
-* [How malicious Tor relays are exploiting users in 2020](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)
+* [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
 * [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
-* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
 * [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
-* [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
-* [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
+* [How malicious Tor relays are exploiting users in 2020](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)
+* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
 * [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
+* [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
+* [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
 * [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
-* [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
-* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
+* [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
+* [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
 * [Great Retsina, an Oxymoron No More](https://www.nytimes.com/2019/01/17/dining/drinks/retsina-wine-greece.html)
 * [90% economy, 120% gastronomy: Covid-19 seems to have changed lifestyles for good](https://www.economist.com/graphic-detail/2020/08/08/covid-19-seems-to-have-changed-lifestyles-for-good)
-* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
-* [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
-* [The ‘-ize’ have it (2012)](http://www.metadyne.co.uk/ize.html)
+* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
 * [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
+* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
 * [How I got my Japanese permanent residency](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html)
+* [The ‘-ize’ have it (2012)](http://www.metadyne.co.uk/ize.html)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Boycotted. Criticized. But Fox News Leads the Pack in Prime Time.](https://www.nytimes.com/2020/08/09/business/media/fox-news-ratings.html)
 * [Retired Police Officer Tracks Down Escapee Who Shot Him Almost 50 Years Ago](https://www.nytimes.com/2020/08/09/us/daril-cinquanta-luis-archuleta-denver.html)
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
-* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [She Fell in Love, and the Dog Approved](https://www.nytimes.com/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
 * [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](https://www.nytimes.com/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
 * [The Mom and Pop Factory With an Atomic Secret](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-ppe-nyc-face-shields.html)
@@ -99,6 +99,8 @@ layout: default
 ## globo.com
 
 
+* [Grandes protestos eclodem na Bielorrússia após nova vitória de líder autoritário](https://oglobo.globo.com/mundo/grandes-protestos-eclodem-na-bielorrussia-apos-nova-vitoria-de-lider-autoritario-24577154)
+* [Falta de máscara, banho de sol e venda de bebidas: cariocas vão à praia e desrespeitam regras sanitárias](https://oglobo.globo.com/rio/falta-de-mascara-banho-de-sol-venda-de-bebidas-cariocas-vao-praia-desrespeitam-regras-sanitarias-24576964)
 * [Flamengo inicia a era Dome com derrota para o Atlético-MG no Maracanã](https://oglobo.globo.com/esportes/flamengo/flamengo-inicia-era-dome-com-derrota-para-atletico-mg-no-maracana-24577142)
 * [Goiás x São Paulo é adiado após exames apontarem dez jogadores com coronavírus](https://oglobo.globo.com/esportes/goias-sao-paulo-adiado-apos-exames-apontarem-dez-jogadores-com-coronavirus-24577045)
 * [Boris Johnson diz que escolas precisam reabrir em setembro no Reino Unido](https://oglobo.globo.com/mundo/boris-johnson-diz-que-escolas-precisam-reabrir-em-setembro-no-reino-unido-24577115)
@@ -106,6 +108,4 @@ layout: default
 * [Afeganistão vai libertar 400 prisioneiros 'radicais' do Talibã para avançar em negociações de paz](https://oglobo.globo.com/mundo/afeganistao-vai-libertar-400-prisioneiros-radicais-do-taliba-para-avancar-em-negociacoes-de-paz-24577098)
 * [Empresa chinesa começará testes clínicos de vacina contra Covid-19 em pessoas na Arábia Saudita](https://oglobo.globo.com/sociedade/empresa-chinesa-comecara-testes-clinicos-de-vacina-contra-covid-19-em-pessoas-na-arabia-saudita-24577096)
 * [Deputado bolsonarista é condenado a pagar R$ 20 mil de danos morais por dossiê contra 'antifascistas'](https://oglobo.globo.com/brasil/deputado-bolsonarista-condenado-pagar-20-mil-de-danos-morais-por-dossie-contra-antifascistas-24577013)
-* [Falta de máscara, banho de sol e venda de bebidas: cariocas vão à praia e desrespeitam regras sanitárias](https://oglobo.globo.com/rio/falta-de-mascara-banho-de-sol-venda-de-bebidas-cariocas-vao-praia-desrespeitam-regras-sanitarias-24576964)
 * [Coronavírus: Itália destina mais 25 bilhões de euros para ajudar economia](https://oglobo.globo.com/economia/coronavirus-italia-destina-mais-25-bilhoes-de-euros-para-ajudar-economia-24576994)
-* [“Escrevi nos meus livros esse Brasil que está acontecendo agora: a imbecilidade no poder”, diz André Sant’Anna](https://epoca.globo.com/escrevi-nos-meus-livros-esse-brasil-que-esta-acontecendo-agora-imbecilidade-no-poder-diz-andre-santanna-24577006)

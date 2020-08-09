@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 01:35:31 UTC
+# indexed at 09/08/2020 02:16:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Debt Collector Profits Soar with People Flush and Easy to Find](https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find)
+* [Twitter X TikTok = Twiktwok](https://twiktwok.github.io/)
+* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [DARPA: Real Time Machine Learning [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
-* [Twitter X TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Typing Is Hard](https://typing-is-hard.ch/)
+* [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [Audio from Scratch with Go: Extracting Breakpoints](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
 * [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
-* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [An attempt to make a font look more handwritten](https://jvns.ca/blog/2020/08/08/handwritten-font/)
+* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [IAM is hard – Thoughts on $80M fine from the Capital One Breach](https://twitter.com/kmcquade3/status/1291801858676228098)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [A Linux driver to connect PATA/IDE directly to GPIO](https://github.com/Manawyrm/pata-gpio)
-* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Smartphone Hardening non-root Guide 2.0 (for normal people)](https://dev.lemmy.ml/post/38770)
+* [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 * [Ask and Show HN: Ever coded for love? Willing to share?](https://news.ycombinator.com/item?id=24091577)
-* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
-* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
-* [Twitter, TikTok Have Held Preliminary Talks About Possible Combination](https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
-* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
-* [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
-* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
+* [Elixir RAM and the Template of Doom](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+* [Electric cooker an easy, efficient way to sanitize N95 masks, study finds](https://news.illinois.edu/view/6367/143865832)
 * [Music for Plants](https://reallifemag.com/music-for-plants/)
-* [No flourish was too much](https://www.lrb.co.uk/the-paper/v42/n16/bridget-alsdorf/no-flourish-was-too-much)
+* [Show HN: Warp, a Python based music-theory aware MIDI sequencer](http://warpseq.com)
+* [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer)
+* [A website to make 3D geometry shapes out of paper](https://felixboiii.github.io/paper-plotter/)
 * [Tunable Delete Aware LSM Engine](https://disc-projects.bu.edu/lethe/)
 * [How Chinese Officials Hijacked My Company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
 * [Snapdragon chip flaws put 1B Android phones at risk of data theft](https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/)
+* [Shiro Kawai: Schemer, Lisper, Actor](https://news.ycombinator.com/item?id=24089601)
 ## nytimes.com
 
 
@@ -79,8 +79,8 @@ layout: default
 * [After Beirut Explosion, Protests Erupt as Lebanon's Anger Boils Over](https://www.nytimes.com/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 * [Frances Allen, Who Helped Hardware Understand Software, Dies at 88](https://www.nytimes.com/2020/08/08/technology/frances-allen-dead.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [White Customers, Black Fabrics](https://www.nytimes.com/2020/08/06/style/white-customers-black-fabrics.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Twitter estaria negociando acordo de operações com TikTok, diz Dow Jones](https://oglobo.globo.com/economia/twitter-estaria-negociando-acordo-de-operacoes-com-tiktok-diz-dow-jones-24576680)
+* [Planalto deturpa número no Twitter e comemora Brasil ser o 11º país do mundo em que mais se morre por Covid](https://epoca.globo.com/guilherme-amado/planalto-deturpa-numero-no-twitter-comemora-brasil-ser-11-pais-do-mundo-em-que-mais-se-morre-por-covid-24576360)
 * [Brasil ultrapassa os 3 milhões de casos de Covid-19, logo após registrar 100 mil mortes](https://oglobo.globo.com/sociedade/coronavirus/brasil-ultrapassa-os-3-milhoes-de-casos-de-covid-19-logo-apos-registrar-100-mil-mortes-24576372)
 * [Restaurantes de SP se adptam para retomar o funcionamento noturno](https://oglobo.globo.com/economia/restaurantes-de-sp-se-adptam-para-retomar-funcionamento-noturno-24576229)
 * [Navio que transportou nitrato de amônio afundou no porto de Beirute, mostra NYT](https://oglobo.globo.com/mundo/navio-que-transportou-nitrato-de-amonio-afundou-no-porto-de-beirute-mostra-nyt-24576460)
 * [PEC que pede suspensão do teto de gastos será retirada de tramitação](https://oglobo.globo.com/economia/pec-que-pede-suspensao-do-teto-de-gastos-sera-retirada-de-tramitacao-24576443)
 * [Obras são importantes, mas furar teto de gastos, de jeito nenhum, diz Afif](https://oglobo.globo.com/economia/obras-sao-importantes-mas-furar-teto-de-gastos-de-jeito-nenhum-diz-afif-24576418)
-* [Planalto deturpa número no Twitter e comemora Brasil ser o 11º país do mundo em que mais se morre por Covid](https://epoca.globo.com/guilherme-amado/planalto-deturpa-numero-no-twitter-comemora-brasil-ser-11-pais-do-mundo-em-que-mais-se-morre-por-covid-24576360)
-* [Posto veterinário com atendimento gratuito para cães e gatos é inaugurado em Vicente de Carvalho](https://oglobo.globo.com/rio/posto-veterinario-com-atendimento-gratuito-para-caes-gatos-inaugurado-em-vicente-de-carvalho-24576291)
 * [Ciência na pandemia: nunca na História se aprendeu e se produziu tanto em tão pouco tempo](https://oglobo.globo.com/sociedade/ciencia-na-pandemia-nunca-na-historia-se-aprendeu-se-produziu-tanto-em-tao-pouco-tempo-1-24574271)
 * [História de pai e filho simboliza sofrimento das vítimas do coronavírus](https://oglobo.globo.com/sociedade/coronavirus/historia-de-pai-filho-simboliza-sofrimento-das-vitimas-do-coronavirus-1-24575463)
 * ['Acredito que já atravessamos o pior momento em termos de saúde pública', diz ex-diretor do Ministério da Saúde](https://oglobo.globo.com/sociedade/acredito-que-ja-atravessamos-pior-momento-em-termos-de-saude-publica-diz-ex-diretor-do-ministerio-da-saude-24574552)

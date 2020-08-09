@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 12:34:53 UTC
+# indexed at 09/08/2020 13:14:15 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
+* [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
 * [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
-* [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
-* [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
 * [Hinc: Haskell In New Clothes](https://github.com/serras/hinc)
+* [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
+* [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
+* [Ask HN: What are some available force multipliers that most people don't know?](https://news.ycombinator.com/item?id=24098954)
 * [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
 * [Typing Is Hard](https://typing-is-hard.ch/)
 * [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
-* [Ask HN: What are some available force multipliers that most people don't know?](https://news.ycombinator.com/item?id=24098954)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
 * [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
-* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
-* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
-* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [Aesthetics and the Human Factor in Programming (1972)](http://www.softpanorama.org/Articles/Ershov/aesthetics_and_the_human_factor_in_programming_ershov1972.shtml)
+* [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
+* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
+* [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
 * [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
 * [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
+* [The Multifarious Mr Banks: The Natural Historian Who Shaped the World](https://www.lrb.co.uk/the-paper/v42/n16/steven-shapin/keep-him-as-a-curiosity)
 * [Interviewing Chandrayaan 1’s Mission Director on India’s role in the Moon race](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
-* [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
 * [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
 * [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
 * [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 * [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
-* [The ‘-ize’ have it](http://www.metadyne.co.uk/ize.html)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [How to Move Your Elephant During a Pandemic](https://www.nytimes.com/2020/08/09/science/coronavirus-elephants-wildlife-zoo.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/07/briefing/best-weekend-reads.html)
 * [Stimulus, Election Day, Serena Williams: Your Weekend Briefing](https://www.nytimes.com/2020/08/09/briefing/stimulus-election-day-serena-williams.html)
-* [Jack Dorsey on Twitter’s Mistakes](https://www.nytimes.com/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
+* [The Sunday Read: ‘A Speck in the Sea’](https://www.nytimes.com/2020/08/09/podcasts/the-daily/quarantine-isolation.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 * [Trump Swings Against TikTok, WeChat](https://www.nytimes.com/2020/08/07/technology/trump-tiktok-wechat.html)
 * [The Coronavirus Could Be Controlled by October With the Right Steps](https://www.nytimes.com/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
@@ -78,11 +78,11 @@ layout: default
 * [Lifestyles of the Rich and Reckless: Posh Pandemic Parties](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-rich-parties.html)
 * [A Bookstore That Shines as ‘a Lighthouse of a Free Society’](https://www.nytimes.com/2020/08/09/world/asia/taiwan-taipei-Causeway-Bay-Books.html)
 * [What Is a Museum? A Dispute Erupts Over a New Definition](https://www.nytimes.com/2020/08/06/arts/what-is-a-museum.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [She Fell in Love, and the Dog Approved](https://www.nytimes.com/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
 * [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](https://www.nytimes.com/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
 * [A New Hampshire Poet Laureate Lifts Her City’s Covid-19 Advisories](https://www.nytimes.com/2020/08/07/us/portsmouth-nh-newsletter-poems.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Bolsonaro promete ajuda ao Líbano e convida Temer para chefiar missão ao país árabe](https://oglobo.globo.com/mundo/bolsonaro-promete-ajuda-ao-libano-convida-temer-para-chefiar-missao-ao-pais-arabe-24576824)
+* [Responsável pela regra que criou teto de gastos, Meirelles cobra da equipe econômica defesa da controle de despesas](https://oglobo.globo.com/economia/responsavel-pela-regra-que-criou-teto-de-gastos-meirelles-cobra-da-equipe-economica-defesa-da-controle-de-despesas-1-24576655)
 * [Lives de hoje: Chico Buarque e Maria Bethânia participam de ação em prol de indígenas](https://oglobo.globo.com/rioshow/lives-de-hoje-chico-buarque-maria-bethania-participam-de-acao-em-prol-de-indigenas-24576811)
 * [Bebel Gilberto rompe silêncio sobre briga familiar em torno do legado do pai](https://oglobo.globo.com/cultura/bebel-gilberto-rompe-silencio-sobre-briga-familiar-em-torno-do-legado-do-pai-24576801)
 * [Boletim das 8h: Brasil tem mais 533 casos de Covid-19, aponta consórcio de veículos da imprensa](https://oglobo.globo.com/sociedade/coronavirus/boletim-das-8h-brasil-tem-mais-533-casos-de-covid-19-aponta-consorcio-de-veiculos-da-imprensa-24576787)
-* [Cidade de dois mil habitantes em MG não registrou nenhum caso de Covid-19](https://epoca.globo.com/sociedade/cidade-de-dois-mil-habitantes-em-mg-nao-registrou-nenhum-caso-de-covid-19-24576707)
+* [Avança inquérito da Lava Jato sobre advogado que ascendeu a jato](https://epoca.globo.com/guilherme-amado/avanca-inquerito-da-lava-jato-sobre-advogado-que-ascendeu-jato-24574611)
 * [Produtoras se adaptam e recorrem à Rouanet para projetos online](https://epoca.globo.com/guilherme-amado/produtoras-se-adaptam-recorrem-rouanet-para-projetos-online-1-24575250)
 * [Cinco meses depois, Bolsonaro ainda não apresentou provas de eleição fraudada](https://epoca.globo.com/guilherme-amado/cinco-meses-depois-bolsonaro-ainda-nao-apresentou-provas-de-eleicao-fraudada-24575664)
-* [Com obras retomadas, Livraria da Travessa de Icaraí abre em novembro](https://oglobo.globo.com/rio/bairros/com-obras-retomadas-livraria-da-travessa-de-icarai-abre-em-novembro-24573966)
 * [MP-RJ reserva surpresas para Fred Wassef](https://epoca.globo.com/guilherme-amado/mp-rj-reserva-surpresas-para-fred-wassef-24574674)
-* [Influenciadores digitais de favelas fazem sucesso com temas que vão bem além de violência e racismo](https://oglobo.globo.com/rio/bairros/influenciadores-digitais-de-favelas-fazem-sucesso-com-temas-que-vao-bem-alem-de-violencia-racismo-1-24573186)
 * [Coluna | Pai é 'categoria' fundamental para enfrentar a atual crise do cuidado](https://epoca.globo.com/giulliana-bianconi--coluna/coluna-pai-categoria-fundamental-para-enfrentar-atual-crise-do-cuidado-24573361)

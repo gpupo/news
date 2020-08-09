@@ -2,39 +2,39 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 11:14:21 UTC
+# indexed at 09/08/2020 11:34:47 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Vertigo – a public domain 3D flight simulator](http://stjerneskud.info/vertigo/)
-* [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
 * [The German front in rare color photos, 1914-1918](https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/)
+* [Fire your bad customers](https://www.preetamnath.com/blog/fire-your-bad-customers)
 * [Twitter x TikTok = Twiktwok](https://twiktwok.github.io/)
 * [Firefox Voice](https://voice.mozilla.org/firefox-voice/)
 * [UPI: India's Unified Payments Interface](https://the-other-side.blog/upi-the-basics/)
-* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Business software is so good now, that it’s competing with consumer software](https://shankarganesh.blog/2020/03/31/business-software-is-so-good-now-that-its-competing-with-consumer-software/)
+* [Real Time Machine Learning (2019) [pdf]](https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf)
 * [Typing Is Hard](https://typing-is-hard.ch/)
-* [Hinc: Haskell In New Clothes](https://github.com/serras/hinc)
 * [Why the U.S. government is allowing bears, wolves to be hunted in their dens](https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/)
+* [Hinc: Haskell In New Clothes](https://github.com/serras/hinc)
 * [There’s no such thing as a tech expert anymore](http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore)
-* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Rome: A Linter for JavaScript and TypeScript](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html)
-* [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
+* [Low-cost measurement of facemask efficacy for filtering expelled droplets](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083)
 * [Overriding C++ virtual functions at run time](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/)
+* [Dear Staging: We’re Done](https://devops.com/dear-staging-were-done/)
+* [Aesthetics and the Human Factor in Programming (1972)](http://www.softpanorama.org/Articles/Ershov/aesthetics_and_the_human_factor_in_programming_ershov1972.shtml)
+* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [Show HN: Relinx – new kind of Asset tracking – CMDB](https://relinx.io?ref=HN)
 * [Show HN: Create diagrams stitching images on a grid using HCL (like Terraform)](https://github.com/lucasepe/jumble/)
-* [C.I.A. Lacing (2014)](https://www.fieggen.com/shoelace/cialacing.htm)
 * [SpaceX and ULA win billions in Pentagon rocket contracts](https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html)
-* [The ‘-ize’ have it](http://www.metadyne.co.uk/ize.html)
-* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
-* [Aesthetics and the Human Factor in Programming (1972)](http://www.softpanorama.org/Articles/Ershov/aesthetics_and_the_human_factor_in_programming_ershov1972.shtml)
 * [Interviewing Mission Director Chandrayaan 1 (that found water on the Moon)](https://jatan.space/interviewing-isro-chandrayaan-1-mission-director/)
+* [The Challenges and Delights of Photographing the Night Sky](https://www.atlasobscura.com/articles/dark-sky-photographs)
 * [Ask HN: How does your organisation train programmers?](https://news.ycombinator.com/item?id=24097348)
-* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 * [Wheat yield potential in controlled-environment vertical farms](https://www.pnas.org/content/early/2020/07/21/2002655117)
+* [Apple takes legal action against small company with pear logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
+* [The ‘-ize’ have it](http://www.metadyne.co.uk/ize.html)
 * [Ask HN: Is it a good practice to provide open-source version of your paid app?](https://news.ycombinator.com/item?id=24097763)
 * [What I Learned from the Worst Novelist in the English Language](https://newrepublic.com/article/158761/learned-worst-novelist-english-language)
 * [Water beetles that survive being swallowed by frogs](https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/)
@@ -91,7 +91,6 @@ layout: default
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
 * [Even Asymptomatic People Carry the Coronavirus in High Amounts](https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html)
 * [This Moss Uses Quartz as a Parasol](https://www.nytimes.com/2020/07/29/science/moss-quartz-biology-syntrichia.html)
-* [Getting Your Home Ready for Your Pandemic Puppy](https://www.nytimes.com/2020/08/07/realestate/pandemic-puppy-home-design.html)
 * [Katie Hill is Trying to Move Forward](https://www.nytimes.com/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
 * [How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job](https://www.nytimes.com/2020/08/08/us/politics/kristi-noem-pence-trump.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)

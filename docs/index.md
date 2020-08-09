@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 09/08/2020 23:14:03 UTC
+# indexed at 09/08/2020 23:35:22 UTC
 
 
 ## news.ycombinator.com
@@ -10,9 +10,10 @@ layout: default
 
 * [Linux 5.8 “one of our biggest releases of all time.”](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
+* [US Federal Reserve FedNow: a bank settlement service supporting instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
-* [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
+* [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
 * [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
@@ -22,22 +23,21 @@ layout: default
 * [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
 * [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
 * [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
-* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
-* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
 * [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
+* [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
+* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
 * [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
 * [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
 * [How I got my Japanese permanent residency](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html)
-* [How malicious Tor relays are exploiting users in 2020](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)
-* [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
 * [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
+* [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
+* [How malicious Tor relays are exploiting users in 2020](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)
 * [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
-* [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
-* [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
 * [Why is my Nest Thermostat talking to Facebook?](https://twitter.com/tomasmcguinness/status/1292536538719559681)
-* [Adding a fiber link to my home network](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/)
-* [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
+* [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [90% economy, 120% gastronomy: Covid-19 seems to have changed lifestyles for good](https://www.economist.com/graphic-detail/2020/08/08/covid-19-seems-to-have-changed-lifestyles-for-good)
+* [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
 ## nytimes.com
 
 
@@ -78,9 +78,9 @@ layout: default
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [A Colombian Chef Shares His Secret to Better Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
 * [‘The Lost Pianos of Siberia,’ and the Lost Individuals Who Played Them](https://www.nytimes.com/2020/08/05/books/review/the-lost-pianos-of-siberia-sophy-roberts.html)
 * [Gods, Monsters and H.P. Lovecraft’s Uncanny Legacy](https://www.nytimes.com/2020/08/07/arts/television/hp-lovecraft.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Flamengo inicia a era Dome com derrota para o Atlético-MG no Maracanã](https://oglobo.globo.com/esportes/flamengo/flamengo-inicia-era-dome-com-derrota-para-atletico-mg-no-maracana-24577142)
 * [Brasil tem 101 mil mortes e 3 milhões de infectados pelo novo coronavírus, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-101-mil-mortes-3-milhoes-de-infectados-pelo-novo-coronavirus-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24577198)
+* [Grandes protestos eclodem na Bielorrússia após nova reeleição de líder autoritário](https://oglobo.globo.com/mundo/grandes-protestos-eclodem-na-bielorrussia-apos-nova-reeleicao-de-lider-autoritario-24577154)
 * [Convidado a chefiar missão no Líbano, Temer é proibido de deixar Brasil sem autorização judicial](https://oglobo.globo.com/mundo/convidado-chefiar-missao-no-libano-temer-proibido-de-deixar-brasil-sem-autorizacao-judicial-24577189)
 * [Toffoli é internado com pneumonite alérgica; teste descarta suspeita de Covid-19](https://oglobo.globo.com/brasil/toffoli-internado-com-pneumonite-alergica-teste-descarta-suspeita-de-covid-19-24577191)
-* [Grandes protestos eclodem na Bielorrússia após nova reeleição de líder autoritário](https://oglobo.globo.com/mundo/grandes-protestos-eclodem-na-bielorrussia-apos-nova-reeleicao-de-lider-autoritario-24577154)
 * [Rio registra 10 mortes por Covid-19 nas últimas 24h, indicando tendência de queda](https://oglobo.globo.com/rio/rio-registra-10-mortes-por-covid-19-nas-ultimas-24h-indicando-tendencia-de-queda-24577194)
 * [Com economia americana em crise, ordens executivas de Trump têm efeito apenas limitado](https://oglobo.globo.com/economia/com-economia-americana-em-crise-ordens-executivas-de-trump-tem-efeito-apenas-limitado-24577177)
-* [Flamengo inicia a era Dome com derrota para o Atlético-MG no Maracanã](https://oglobo.globo.com/esportes/flamengo/flamengo-inicia-era-dome-com-derrota-para-atletico-mg-no-maracana-24577142)
 * [Boris Johnson diz que escolas precisam reabrir em setembro no Reino Unido](https://oglobo.globo.com/mundo/boris-johnson-diz-que-escolas-precisam-reabrir-em-setembro-no-reino-unido-24577115)
 * [Justiça converte prisão em flagrante de oito fiscais do Ipem em preventiva](https://oglobo.globo.com/rio/justica-converte-prisao-em-flagrante-de-oito-fiscais-do-ipem-em-preventiva-24577122)
 * [Empresa chinesa começará testes clínicos de vacina contra Covid-19 em pessoas na Arábia Saudita](https://oglobo.globo.com/sociedade/empresa-chinesa-comecara-testes-clinicos-de-vacina-contra-covid-19-em-pessoas-na-arabia-saudita-24577096)

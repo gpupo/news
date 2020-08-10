@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 06:34:37 UTC
+# indexed at 10/08/2020 07:15:10 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
-* [Photos from Bell Labs Datacenter in 1960s](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
-* [Hong Kong media tycoon Jimmy Lai arrested under national security law](https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L)
+* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [Linux 5.8-rc1](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [A man who saved Kyoto from the atomic bomb](https://www.bbc.com/news/world-asia-33755182)
-* [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
+* [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
+* [Photos from Bell Labs Datacenter in 1960s](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
-* [Examples of ImageMagick Usage](http://www.imagemagick.org/Usage/)
-* [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
+* [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
+* [Hong Kong media tycoon Jimmy Lai arrested under national security law](https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L)
 * [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
 * [GraalVM](https://www.graalvm.org/)
 * [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
+* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
 * [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html)
+* [Tripping over the potholes in too many libraries](http://rachelbythebay.com/w/2020/08/09/lib/)
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
 * [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-* [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
 * [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
+* [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
 * [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
-* [Tripping over the potholes in too many libraries](http://rachelbythebay.com/w/2020/08/09/lib/)
 * [Beyond Mantel: Historical novels](https://www.theguardian.com/books/2020/feb/29/an-escape-wonderful-historical-fiction)
 * [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
-* [Algorithmic Theories of Everything (2000)](https://arxiv.org/abs/quant-ph/0011122)
+* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
+* [Argonne National Lab Breakthrough Turns Carbon Dioxide into Ethanol](https://cleantechnica.com/2020/08/08/argonne-national-lab-breakthrough-turns-carbon-dioxide-into-ethanol/)
+* [Examples of ImageMagick Usage](http://www.imagemagick.org/Usage/)
 * [The Third Wave Experiment](https://en.wikipedia.org/wiki/The_Third_Wave_(experiment))
-* [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
-* [WinDIY – HAWT Wind Turbine](https://hackaday.io/project/172328-windiy-hawt-wind-turbine/details)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Composting Has Been Scrapped. These New Yorkers Picked Up the Slack.](https://www.nytimes.com/2020/08/09/nyregion/nyc-compost-recycling.html)
 * [Retired Police Officer Tracks Down Escapee Who Shot Him Almost 50 Years Ago](https://www.nytimes.com/2020/08/09/us/daril-cinquanta-luis-archuleta-denver.html)
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [A Colombian Chef Shares His Secret to Better Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
 * [‘The Lost Pianos of Siberia,’ and the Lost Individuals Who Played Them](https://www.nytimes.com/2020/08/05/books/review/the-lost-pianos-of-siberia-sophy-roberts.html)
 * [Gods, Monsters and H.P. Lovecraft’s Uncanny Legacy](https://www.nytimes.com/2020/08/07/arts/television/hp-lovecraft.html)

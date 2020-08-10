@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 02:34:37 UTC
+# indexed at 10/08/2020 03:14:59 UTC
 
 
 ## news.ycombinator.com
 
 
-* [US Federal Reserve FedNow: a bank settlement service supporting instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
+* [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
+* [US Federal Reserve FedNow: a bank settlement service supporting instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [Linux 5.8-rc1](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
+* [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
 * [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
 * [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-* [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
+* [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
 * [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
+* [Low-code platforms and Full-code developers – a match made in hell?](https://getfastcode.com/2020/08/09/accelerating-web-app-development/)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
 * [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html)
-* [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
 * [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
-* [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
 * [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
+* [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
+* [Beyond Mantel: Historical novels](https://www.theguardian.com/books/2020/feb/29/an-escape-wonderful-historical-fiction)
 * [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
-* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
 * [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
-* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
+* [GraalVM](https://www.graalvm.org/)
+* [Algorithmic Theories of Everything (2000)](https://arxiv.org/abs/quant-ph/0011122)
 * [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
 * [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
-* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
 * [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
+* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
 * [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
 * [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
-* [The Most Counterintuitive Recession Ever](https://awealthofcommonsense.com/2020/08/the-most-counterintuitive-recession-ever/)
-* [90% economy, 120% gastronomy: Covid-19 seems to have changed lifestyles for good](https://www.economist.com/graphic-detail/2020/08/08/covid-19-seems-to-have-changed-lifestyles-for-good)
-* [How malicious Tor relays are exploiting users in 2020](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)
-* [GraalVM](https://www.graalvm.org/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Composting Has Been Scrapped. These New Yorkers Picked Up the Slack.](https://www.nytimes.com/2020/08/09/nyregion/nyc-compost-recycling.html)
 * [Retired Police Officer Tracks Down Escapee Who Shot Him Almost 50 Years Ago](https://www.nytimes.com/2020/08/09/us/daril-cinquanta-luis-archuleta-denver.html)
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Making the Most of a Pandemic Staycation](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html)
-* [‘They Go to Mommy First’](https://www.nytimes.com/2020/07/15/parenting/working-moms-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [A Colombian Chef Shares His Secret to Better Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
 * [‘The Lost Pianos of Siberia,’ and the Lost Individuals Who Played Them](https://www.nytimes.com/2020/08/05/books/review/the-lost-pianos-of-siberia-sophy-roberts.html)
 * [Gods, Monsters and H.P. Lovecraft’s Uncanny Legacy](https://www.nytimes.com/2020/08/07/arts/television/hp-lovecraft.html)
@@ -105,7 +105,7 @@ layout: default
 * [Covid-19: Brasil passa de 101 mil mortes e 3 milhões de casos, informa consórcio da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/covid-19-brasil-passa-de-101-mil-mortes-3-milhoes-de-casos-informa-consorcio-da-imprensa-no-boletim-das-20h-24577198)
 * [Fluminense estreia no Brasileiro com derrota para o Grêmio](https://oglobo.globo.com/esportes/fluminense/fluminense-estreia-no-brasileiro-com-derrota-para-gremio-24577253)
 * [Apenas quatro estados brasileiros apresentam tendência de alta para mortes por Covid-19](https://oglobo.globo.com/sociedade/apenas-quatro-estados-brasileiros-apresentam-tendencia-de-alta-para-mortes-por-covid-19-24577251)
-* [Grandes protestos eclodem na Bielorrússia após nova reeleição de líder autoritário](https://oglobo.globo.com/mundo/grandes-protestos-eclodem-na-bielorrussia-apos-nova-reeleicao-de-lider-autoritario-24577154)
 * [Convidado a chefiar missão no Líbano, Temer é proibido de deixar Brasil sem autorização judicial](https://oglobo.globo.com/mundo/convidado-chefiar-missao-no-libano-temer-proibido-de-deixar-brasil-sem-autorizacao-judicial-24577189)
 * [Toffoli é internado com pneumonite alérgica; teste descarta suspeita de Covid-19](https://oglobo.globo.com/brasil/toffoli-internado-com-pneumonite-alergica-teste-descarta-suspeita-de-covid-19-24577191)
-* [Com economia americana em crise, ordens executivas de Trump têm efeito apenas limitado](https://oglobo.globo.com/economia/com-economia-americana-em-crise-ordens-executivas-de-trump-tem-efeito-apenas-limitado-24577177)
+* [O avanço estratégico de Bolsonaro sobre os redutos do lulismo](https://oglobo.globo.com/opiniao/o-avanco-estrategico-de-bolsonaro-sobre-os-redutos-do-lulismo-1-24574466)
+* [Caberá ao Supremo arbitrar a disputa entre procuradores](https://oglobo.globo.com/opiniao/cabera-ao-supremo-arbitrar-disputa-entre-procuradores-1-24575189)

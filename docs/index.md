@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 10:14:59 UTC
+# indexed at 10/08/2020 10:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-* [Spacetime wave packets: New class of laser defies laws of light physics](https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/)
 * [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
+* [Apple Is Taking Legal Action Against a Small Company Because of Its Logo](https://www.simturax.com/2020/08/apple-taking-legal-action-small-company-pear-shaped-logo.html?m=1)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [Linux 5.8-rc1](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
-* [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
 * [Not all the facts fit the anti-colonialist narrative](https://unherd.com/2020/08/anti-colonialists-must-tell-the-truth-about-empire/)
-* [Apple Is Taking Legal Action Against a Small Company Because of Its Logo](https://www.simturax.com/2020/08/apple-taking-legal-action-small-company-pear-shaped-logo.html?m=1)
+* [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
+* [Marmalade: A British Obsession](https://longreads.com/2020/07/23/marmalade-a-very-british-obsession/)
+* [I Am the CEO of Uber. Gig Workers Deserve Better](https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
 * [Photos from Bell Labs Datacenter in 1960s](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
-* [Google stole my business [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
-* [Qua – Alexia Massalin interview (1996)](https://www.wired.com/1996/12/ffmassalin/)
-* [A man who saved Kyoto from the atomic bomb](https://www.bbc.com/news/world-asia-33755182)
 * [GraalVM](https://www.graalvm.org/)
+* [Qua – Alexia Massalin interview (1996)](https://www.wired.com/1996/12/ffmassalin/)
 * [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
-* [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
-* [Marmalade: A British Obsession](https://longreads.com/2020/07/23/marmalade-a-very-british-obsession/)
+* [Google stole my business [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
+* [A man who saved Kyoto from the atomic bomb](https://www.bbc.com/news/world-asia-33755182)
+* [How SHRDLU got its name (2003)](http://hci.stanford.edu/winograd/shrdlu/name.html)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
 * [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html)
+* [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
 * [Examples of ImageMagick Usage](http://www.imagemagick.org/Usage/)
-* [How SHRDLU got its name (2003)](http://hci.stanford.edu/winograd/shrdlu/name.html)
-* [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
 * [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
+* [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
 * [Australia fast-tracks plan to send solar power to Singapore](https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore)
-* [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
+* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
 * [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
+* [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [Jimmy Lai: Does Hong Kong Have a Fighting Chance Against China?](https://www.nytimes.com/2020/05/29/opinion/hong-kong-china-national-security-law.html)
 * [U.S. Official, Alex Azar, Praises Taiwan During Highest-Level Visit in Decades](https://www.nytimes.com/2020/08/09/world/asia/taiwan-us-azar-china.html)
 * [Who Opposes Defunding the N.Y.P.D.? These Black Lawmakers](https://www.nytimes.com/2020/08/10/nyregion/defund-police-nyc-council.html)
+* [Biden’s Choice](https://www.nytimes.com/2020/08/10/briefing/joe-biden-coronavirus-hong-kong-your-monday-briefing.html)
 * [New York Schools Can Reopen. Will They?](https://www.nytimes.com/2020/08/10/nyregion/new-york-schools-reopening-coronavirus.html)
 * [Cancel Culture, Part 1: Where It Came From](https://www.nytimes.com/2020/08/10/podcasts/the-daily/cancel-culture.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
@@ -78,11 +79,11 @@ layout: default
 * [Beirut Explosion Hit 3 Disparate Neighborhoods. Now They're United in Rage](https://www.nytimes.com/2020/08/09/world/middleeast/beirut-explosion-victims-neighborhoods.html)
 * [After Jerry Falwell Jr.'s Stumble, This Is How His Hometown Sees Him](https://www.nytimes.com/2020/08/09/us/jerry-falwell-liberty-university.html)
 * [This Company Boasted to Trump About Its Covid-19 Vaccine. Experts Are Skeptical.](https://www.nytimes.com/2020/08/09/business/coronavirus-vaccine-inovio.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Living While Black in ‘Lovecraft Country’](https://www.nytimes.com/2020/08/07/arts/television/living-while-black-in-lovecraft-country.html)
 * [A Birthday at the Cemetery](https://www.nytimes.com/2020/08/07/well/family/a-birthday-at-the-cemetery.html)
 * [Pitchers Are Creatures of Habit. A Season of Chaos Is Testing Them.](https://www.nytimes.com/2020/08/08/sports/baseball/mlb-pitching-injuries.html)

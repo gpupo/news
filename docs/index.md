@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 14:16:05 UTC
+# indexed at 10/08/2020 14:34:51 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
 * [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [I Am the CEO of Uber. Gig Workers Deserve Better](https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html)
 * [C will never stop you from making mistakes](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
+* [MikroOrm v4 /w GraphQL example project that I created over the weekend](https://github.com/driescroons/mikro-orm-graphql-example)
+* [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 * [NSA's Tips to Keep Your Phone from Tracking You](https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/)
-* [Spacetime wave packets: New class of laser defies laws of light physics](https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/)
-* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
-* [Tech Monopolies Are the Reason the US Now Has a TikTok Problem](https://promarket.org/2020/08/07/tech-monopolies-are-the-reason-the-us-now-has-a-tiktok-problem/)
+* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
+* [Boeing 747s receive critical software updates over 3.5“ floppy disks](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/)
 * [Why Software Should Be Free (2002)](https://www.gnu.org/philosophy/shouldbefree.en.html)
+* [Spacetime wave packets: New class of laser defies laws of light physics](https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/)
 * [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
 * [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
+* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
+* [One-Page Chess](https://danielbmarkham.locals.com/post/110651/technical-tuesdays-follow-up-one-page-chess-done-for-now)
 * [How SHRDLU got its name (2003)](http://hci.stanford.edu/winograd/shrdlu/name.html)
 * [Examples of ImageMagick Usage (2016)](http://www.imagemagick.org/Usage/)
-* [One-Page Chess](https://danielbmarkham.locals.com/post/110651/technical-tuesdays-follow-up-one-page-chess-done-for-now)
-* [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 * [Anthony Thyssen's Homepage (1994)](https://antofthy.gitlab.io/)
-* [Photos from Bell Labs Datacenter in 1960s (2019)](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
-* [Covid-19 brought the 'largest criminology experiment in history'](https://nationalpost.com/news/paranoid-about-the-pandemic-how-covid-19-brought-the-largest-criminology-experiment-in-history/wcm/964870a2-86c8-4814-a34f-edf1bc76417e/)
+* [Photos from Bell Labs Datacenter in 1960s (2019)](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 * [Qua – Alexia Massalin interview (1996)](https://www.wired.com/1996/12/ffmassalin/)
+* [Covid-19 brought the 'largest criminology experiment in history'](https://nationalpost.com/news/paranoid-about-the-pandemic-how-covid-19-brought-the-largest-criminology-experiment-in-history/wcm/964870a2-86c8-4814-a34f-edf1bc76417e/)
 * [Ask HN: Should a Startup in the messy middle change TOS on every turn?](https://news.ycombinator.com/item?id=24107532)
 * [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
-* [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-* [GraalVM](https://www.graalvm.org/)
 * [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
+* [GraalVM](https://www.graalvm.org/)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
 ## nytimes.com
 
@@ -80,11 +80,11 @@ layout: default
 * [Scenes From the 2020 Sturgis Rally, Undaunted by the Coronavirus](https://www.nytimes.com/2020/08/09/us/sturgis-motorcycle.html)
 * [After Jerry Falwell Jr.'s Stumble, This Is How His Hometown Sees Him](https://www.nytimes.com/2020/08/09/us/jerry-falwell-liberty-university.html)
 * [This Company Boasted to Trump About Its Covid-19 Vaccine. Experts Are Skeptical.](https://www.nytimes.com/2020/08/09/business/coronavirus-vaccine-inovio.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Living While Black in ‘Lovecraft Country’](https://www.nytimes.com/2020/08/07/arts/television/living-while-black-in-lovecraft-country.html)
 * [A Birthday at the Cemetery](https://www.nytimes.com/2020/08/07/well/family/a-birthday-at-the-cemetery.html)
 * [Pitchers Are Creatures of Habit. A Season of Chaos Is Testing Them.](https://www.nytimes.com/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
@@ -102,12 +102,12 @@ layout: default
 
 
 * [Após grandes protestos, oposição diz que não reconhecerá vitória de líder autoritário da Bielorrússia](https://oglobo.globo.com/mundo/apos-grandes-protestos-oposicao-diz-que-nao-reconhecera-vitoria-de-lider-autoritario-da-bielorrussia-24577712)
+* [Em programa de rádio, Mourão dá dicas de como combater incêndios](https://oglobo.globo.com/brasil/em-programa-de-radio-mourao-da-dicas-de-como-combater-incendios-24577836)
+* [Com EUA e China no radar, dólar recua e é negociado a R$ 5,36; Bolsa sobe](https://oglobo.globo.com/economia/com-eua-china-no-radar-dolar-recua-e-negociado-r-536-bolsa-sobe-24577770)
 * [Covid-19: Macaé entra na faixa verde do covidímetro e é a primeira cidade do Rio com taxa menor de contaminação](https://oglobo.globo.com/rio/covid-19-macae-entra-na-faixa-verde-do-covidimetro-e-primeira-cidade-do-rio-com-taxa-menor-de-contaminacao-1-24577773)
+* [Preso mais um integrante da quadrilha do miliciano Ecko](https://oglobo.globo.com/rio/preso-mais-um-integrante-da-quadrilha-do-miliciano-ecko-1-24577729)
 * [Com botão sob a saia, boneca Trolls é retirada das prateleiras](https://oglobo.globo.com/cultura/com-botao-sob-saia-boneca-trollse-retiradadas-prateleiras-1-24577804)
 * [OMS cobra investimentos de países em vacinas e outras medidas de combate à Covid-19](https://oglobo.globo.com/sociedade/oms-cobra-investimentos-de-paises-em-vacinas-outras-medidas-de-combate-covid-19-24577734)
 * [Bolsonaro inclui concessão de parque Nacional de Brasília em programa de privatizações](https://oglobo.globo.com/sociedade/bolsonaro-inclui-concessao-de-parque-nacional-de-brasilia-em-programa-de-privatizacoes-24577766)
-* [Com EUA e China no radar, dólar recua e é negociado a R$ 5,36; Bolsa sobe](https://oglobo.globo.com/economia/com-eua-china-no-radar-dolar-recua-e-negociado-r-536-bolsa-sobe-24577770)
-* [Blogueira é nomeada para cargo na Funarte após ter seu nome barrado no Iphan](https://oglobo.globo.com/cultura/blogueira-nomeada-para-cargo-na-funarte-apos-ter-seu-nome-barrado-no-iphan-1-24577693)
-* [Preso mais um integrante da quadrilha do miliciano Ecko](https://oglobo.globo.com/rio/preso-mais-um-integrante-da-quadrilha-do-miliciano-ecko-24577729)
 * [MP do Paraguai pede US$ 200 mil de multa a Ronaldinho e irmão](https://epoca.globo.com/guilherme-amado/mp-do-paraguai-pede-us-200-mil-de-multa-ronaldinho-irmao-1-24577732)
 * [Aliados de Alcolumbre se dividem sobre 'plano B' caso sua reeleição seja barrada](https://oglobo.globo.com/brasil/aliados-de-alcolumbre-se-dividem-sobre-plano-caso-sua-reeleicao-seja-barrada-24577627)

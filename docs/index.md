@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 07:15:10 UTC
+# indexed at 10/08/2020 07:34:51 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
 * [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
-* [Linux 5.8-rc1](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
-* [A man who saved Kyoto from the atomic bomb](https://www.bbc.com/news/world-asia-33755182)
 * [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
+* [A man who saved Kyoto from the atomic bomb](https://www.bbc.com/news/world-asia-33755182)
+* [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
+* [Linux 5.8-rc1](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
 * [Photos from Bell Labs Datacenter in 1960s](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
 * [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
-* [Hong Kong media tycoon Jimmy Lai arrested under national security law](https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L)
 * [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
+* [Hong Kong media tycoon Jimmy Lai arrested under national security law](https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L)
 * [GraalVM](https://www.graalvm.org/)
 * [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
-* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
 * [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html)
-* [Tripping over the potholes in too many libraries](http://rachelbythebay.com/w/2020/08/09/lib/)
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
+* [Going the Other Way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
+* [Tripping over the potholes in too many libraries](http://rachelbythebay.com/w/2020/08/09/lib/)
 * [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-* [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
+* [Examples of ImageMagick Usage](http://www.imagemagick.org/Usage/)
 * [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
 * [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
-* [Beyond Mantel: Historical novels](https://www.theguardian.com/books/2020/feb/29/an-escape-wonderful-historical-fiction)
-* [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
-* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
+* [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
 * [Argonne National Lab Breakthrough Turns Carbon Dioxide into Ethanol](https://cleantechnica.com/2020/08/08/argonne-national-lab-breakthrough-turns-carbon-dioxide-into-ethanol/)
-* [Examples of ImageMagick Usage](http://www.imagemagick.org/Usage/)
-* [The Third Wave Experiment](https://en.wikipedia.org/wiki/The_Third_Wave_(experiment))
+* [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
+* [Beyond Mantel: Historical novels](https://www.theguardian.com/books/2020/feb/29/an-escape-wonderful-historical-fiction)
+* [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
 ## nytimes.com
 
 
@@ -76,8 +76,8 @@ layout: default
 * [Composting Has Been Scrapped. These New Yorkers Picked Up the Slack.](https://www.nytimes.com/2020/08/09/nyregion/nyc-compost-recycling.html)
 * [Retired Police Officer Tracks Down Escapee Who Shot Him Almost 50 Years Ago](https://www.nytimes.com/2020/08/09/us/daril-cinquanta-luis-archuleta-denver.html)
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
-* [Magnata da mídia de Hong Kong Jimmy Lai é preso sob a nova lei de segurança nacional chinesa](https://oglobo.globo.com/mundo/magnata-da-midia-de-hong-kong-jimmy-lai-preso-sob-nova-lei-de-seguranca-nacional-chinesa-24577307)
-* [Multidão em festival de pipas e show de pagode na praia de Sepetiba é dispersada](https://oglobo.globo.com/rio/multidao-em-festival-de-pipas-show-de-pagode-na-praia-de-sepetiba-dispersada-1-24577339)
-* [Apenas quatro estados brasileiros apresentam tendência de alta para mortes por Covid-19](https://oglobo.globo.com/sociedade/apenas-quatro-estados-brasileiros-apresentam-tendencia-de-alta-para-mortes-por-covid-19-24577251)
-* [O avanço estratégico de Bolsonaro sobre os redutos do lulismo](https://oglobo.globo.com/opiniao/o-avanco-estrategico-de-bolsonaro-sobre-os-redutos-do-lulismo-1-24574466)
-* [Caberá ao Supremo arbitrar a disputa entre procuradores](https://oglobo.globo.com/opiniao/cabera-ao-supremo-arbitrar-disputa-entre-procuradores-1-24575189)
-* [O único consenso nacional](https://oglobo.globo.com/opiniao/o-unico-consenso-nacional-24575452)
-* [Fúnebre marcha dos 100 mil](https://oglobo.globo.com/opiniao/funebre-marcha-dos-100-mil-24575447)
-* [Solidariedade duradoura](https://oglobo.globo.com/opiniao/solidariedade-duradoura-24575469)
-* [Gente é para brilhar](https://oglobo.globo.com/opiniao/gente-para-brilhar-24575458)
-* [Setor de gás precisa se modernizar](https://oglobo.globo.com/opiniao/setor-de-gas-precisa-se-modernizar-24575436)
+* [Judiciário e MPF estimulam uso de acordos de não persecução penal para agilizar ações](https://oglobo.globo.com/brasil/judiciario-mpf-estimulam-uso-de-acordos-de-nao-persecucao-penal-para-agilizar-acoes-24577496)
+* [Sem combustível, usinas nucleares podem parar em 2021 e gerar custo de R$ 1,4 bi na conta de luz](https://oglobo.globo.com/economia/sem-combustivel-usinas-nucleares-podem-parar-em-2021-gerar-custo-de-14-bi-na-conta-de-luz-24577341)
+* [Governo quer votar sete marcos regulatórios até o fim do ano, diz líder](https://oglobo.globo.com/economia/governo-quer-votar-sete-marcos-regulatorios-ate-fim-do-ano-diz-lider-24577427)
+* [Flávio Bolsonaro diz desconhecer depósito de Queiroz para sua mulher](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-desconhecer-deposito-de-queiroz-para-sua-mulher-24577380)
+* [Pouco conhecida, Sea é a empresa que mais se valoriza no mundo](https://oglobo.globo.com/economia/pouco-conhecida-sea-a-empresa-que-mais-se-valoriza-no-mundo-1-24577322)
+* [Bares e restaurantes dão lições de como seguir em frente apesar da crise imposta pelo coronavírus](https://oglobo.globo.com/rio/bares-restaurantes-dao-licoes-de-como-seguir-em-frente-apesar-da-crise-imposta-pelo-coronavirus-24577378)
+* [Sem doses para todos: definição de critério para vacinação contra Covid-19 gera debate no Brasil](https://oglobo.globo.com/sociedade/sem-doses-para-todos-definicao-de-criterio-para-vacinacao-contra-covid-19-gera-debate-no-brasil-24575333)
+* [Com regras, acordo fechado por Onyx sobre caixa 2 deve ganhar mais adeptos](https://oglobo.globo.com/brasil/com-regras-acordo-fechado-por-onyx-sobre-caixa-2-deve-ganhar-mais-adeptos-24577351)
+* [Ouro já acumula alta de 70%. Ainda vale a pena investir?](https://oglobo.globo.com/economia/ouro-ja-acumula-alta-de-70-ainda-vale-pena-investir-24577303)
+* ['Estou envelhecendo bem para caramba', diz Marisa Orth, aos 56 anos](https://oglobo.globo.com/ela/gente/estou-envelhecendo-bem-para-caramba-diz-marisa-orth-aos-56-anos-24573101)

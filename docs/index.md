@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 15:15:09 UTC
+# indexed at 10/08/2020 15:34:51 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
+* [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
+* [What's it like to be an Octopus?](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
-* [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
+* [PDF Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
 * [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [Boeing 747s receive critical software updates over 3.5“ floppy disks](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/)
-* [PDF Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
+* [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 * [I Am the CEO of Uber. Gig Workers Deserve Better](https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html)
-* [Ask HN: Can someone suggest an open source lightweight alternative to Chrome?](https://news.ycombinator.com/item?id=24109743)
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
-* [NSA's Tips to Keep Your Phone from Tracking You](https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/)
 * [Apple’s Ad Network Has Preferential Access to User Data vs. Facebook, Google](https://www.forbes.com/sites/johnkoetsier/2020/08/07/apple-ad-network-gets-special-privileges-that-facebook-google-wont-on-ios14/)
-* [C will never stop you from making mistakes](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
+* [If It's a Nice Problem to Have, Don't Solve It Now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
 * [MikroOrm v4 /w GraphQL example project that I created over the weekend](https://github.com/driescroons/mikro-orm-graphql-example)
+* [NSA's Tips to Keep Your Phone from Tracking You](https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/)
+* [C will never stop you from making mistakes](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 * [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
 * [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
-* [Let’s do Befunge-93 (2014)](http://bef-93.blogspot.com/2014/06/bef-93-tutorial.html)
 * [Why Software Should Be Free (2002)](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Spacetime wave packets: New class of laser defies laws of light physics](https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/)
-* [How SHRDLU got its name (2003)](http://hci.stanford.edu/winograd/shrdlu/name.html)
-* [Could This Be the Start of a New Golden Age of Fitness?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
 * [Anthony Thyssen's Homepage (1994)](https://antofthy.gitlab.io/)
+* [Let’s do Befunge-93 (2014)](http://bef-93.blogspot.com/2014/06/bef-93-tutorial.html)
+* [How SHRDLU got its name (2003)](http://hci.stanford.edu/winograd/shrdlu/name.html)
 * [Examples of ImageMagick Usage (2016)](http://www.imagemagick.org/Usage/)
-* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 * [Time-reversal of an unknown quantum state](https://phys.org/news/2020-08-time-reversal-unknown-quantum-state.html)
+* [Could This Be the Start of a New Golden Age of Fitness?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
+* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
-* [Photos from Bell Labs Datacenter in 1960s (2019)](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [Stephen Hahn, F.D.A. Chief, Is Caught Between Scientists and the President](https://www.nytimes.com/2020/08/10/health/stephen-hahn-fda.html)
 * [Trump’s Orders on Coronavirus Relief Create Confusion](https://www.nytimes.com/2020/08/09/us/politics/trump-stimulus-bill-coronavirus.html)
 * [Will Trump's Executive Directives Provide Relief?](https://www.nytimes.com/2020/08/09/business/trump-executive-orders-unemployment.html)
-* [Biden vs. Trump: Live Updates on the 2020 Election](https://www.nytimes.com/2020/08/10/us/elections/biden-vs-trump.html)
+* [Biden vs. Trump 2020: Live Updates](https://www.nytimes.com/2020/08/10/us/elections/biden-vs-trump.html)
 * [Ambition Has Always Been ‘Ladylike’](https://www.nytimes.com/2020/08/10/us/politics/kamala-harris-veepstakes-ambition-sexism.html)
 * [Big Tech Makes Inroads With the Biden Campaign](https://www.nytimes.com/2020/08/10/technology/big-tech-biden-campaign.html)
 * [McDonald’s Sues Former C.E.O. Steve Easterbrook](https://www.nytimes.com/2020/08/10/business/mcdonalds-ceo-steve-easterbrook.html)
@@ -54,7 +54,7 @@ layout: default
 * [Start-Ups Braced for the Worst. The Worst Never Came.](https://www.nytimes.com/2020/08/10/technology/start-ups-pandemic-silicon-valley.html)
 * [Hong Kong Arrests Jimmy Lai Under National Security Law](https://www.nytimes.com/2020/08/09/world/asia/hong-kong-arrests-lai-national-security-law.html)
 * [Jimmy Lai: Does Hong Kong Have a Fighting Chance Against China?](https://www.nytimes.com/2020/05/29/opinion/hong-kong-china-national-security-law.html)
-* [As U.S. and Taiwan Celebrate a Bond, China Responds With Screaming Jets](https://www.nytimes.com/2020/08/09/world/asia/taiwan-us-azar-china.html)
+* [As U.S.-China Ties Deteriorate, Taiwan’s Importance Grows](https://www.nytimes.com/2020/08/09/world/asia/taiwan-us-azar-china.html)
 * [Biden’s Choice](https://www.nytimes.com/2020/08/10/briefing/joe-biden-coronavirus-hong-kong-your-monday-briefing.html)
 * [New York Schools Can Reopen. Will They?](https://www.nytimes.com/2020/08/10/nyregion/new-york-schools-reopening-coronavirus.html)
 * [Cancel Culture, Part 1: Where It Came From](https://www.nytimes.com/2020/08/10/podcasts/the-daily/cancel-culture.html)

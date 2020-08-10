@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 23:14:26 UTC
+# indexed at 10/08/2020 23:34:42 UTC
 
 
 ## news.ycombinator.com
@@ -10,33 +10,33 @@ layout: default
 
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
-* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
+* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
-* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [SDNY Auctioning Fyre Merch](https://txauction.com/auctions/911/)
+* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
+* [The Tragic Physics of the Deadly Explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
-* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [One in 10 ballots rejected in last month’s vote-by-mail elections in New Jersey](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
+* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
-* [A Picture of Change for a World in Constant Motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
-* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
+* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
 * [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
-* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
+* [A Picture of Change for a World in Constant Motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 * [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
+* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
-* [UX design: Tools, methods and frameworks for generalists](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design)
 * [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
+* [UX design: Tools, methods and frameworks for generalists](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design)
 * [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
 * [An Iterative Approach to Notes](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29)
-* [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
 * [Oriented electric fields as future smart reagents in chemistry [pdf]](http://jupiter.chem.uoa.gr/thanost/papers/papers1/NatChem_8(2016)1091.pdf)
 ## nytimes.com
 
@@ -70,17 +70,17 @@ layout: default
 * [‘The Guy in Front of Me Called a Name, and the Other Guy Turned’](https://www.nytimes.com/2020/08/09/nyregion/metropolitan-diary.html)
 * [Trump Moves to Force Manhattan D.A. to Reveal Details of Inquiry](https://www.nytimes.com/2020/08/10/nyregion/donald-trump-taxes-cyrus-vance.html)
 * [Catholic Churches Drop Hymns After Accusations Against Composer](https://www.nytimes.com/2020/08/10/us/david-haas-catholic-composer-boycott.html)
-* [Baltimore Gas Explosion Leaves 1 Dead and 2 Injured](https://www.nytimes.com/2020/08/10/us/baltimore-explosion.html)
+* [Baltimore Gas Explosion Leaves 1 Dead and at Least 6 Injured](https://www.nytimes.com/2020/08/10/us/baltimore-explosion.html)
 * [Salmonella Cases Linked to Onions Increase to Nearly 900](https://www.nytimes.com/2020/08/09/us/recall-onions-salmonella.html)
 * [Ohio Governor Says His Flawed Virus Test Shouldn’t Undercut New, Rapid Methods](https://www.nytimes.com/2020/08/09/health/covid-testing.html)
 * [Almost 150,000 Still Without Power One Week After Hurricane Isaias](https://www.nytimes.com/2020/08/10/nyregion/hurricane-isaias-power-outage.html)
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.](https://www.nytimes.com/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Testemunha diz que R$ 8,5 milhões apreeendidos em operação são do ex-secretário de Saúde Edmar Santos](https://oglobo.globo.com/rio/testemunha-diz-que-85-milhoes-apreeendidos-em-operacao-sao-do-ex-secretario-de-saude-edmar-santos-24578784)
+* [Hidrelétricas em construção em santuário ecológico de Minas Gerais estão irregulares, diz MP](https://oglobo.globo.com/sociedade/hidreletricas-em-construcao-em-santuario-ecologico-de-minas-gerais-estao-irregulares-diz-mp-1-24569539)
+* [Fechado desde março por conta da pandemia, Inhotim dispensa 84 funcionários](https://oglobo.globo.com/cultura/fechado-desde-marco-por-conta-da-pandemia-inhotim-dispensa-84-funcionarios-24578519)
+* [Pequenos investidores pedem que CVM suspenda oferta de ações da Monteiro Aranha](https://epoca.globo.com/guilherme-amado/pequenos-investidores-pedem-que-cvm-suspenda-oferta-de-acoes-da-monteiro-aranha-24578762)
 * [Justiça condena 15 engenheiros e executivos pela queda da Ciclovia Tim Maia em 2016, que matou duas pessoas](https://oglobo.globo.com/rio/justica-condena-15-engenheiros-executivos-pela-queda-da-ciclovia-tim-maia-em-2016-que-matou-duas-pessoas-24578674)
 * [CNJ amplia investigação de juiz do caso Queiroz](https://epoca.globo.com/guilherme-amado/cnj-amplia-investigacao-de-juiz-do-caso-queiroz-24578705)
-* [Fechado desde março por conta da pandemia, Inhotim dispensa 84 funcionários](https://oglobo.globo.com/cultura/fechado-desde-marco-por-conta-da-pandemia-inhotim-dispensa-84-funcionarios-24578519)
 * [Bolsonaro come churrasquinho de rua em Brasília e é cercado por apoiadores](https://oglobo.globo.com/brasil/bolsonaro-come-churrasquinho-de-rua-em-brasilia-e-cercado-por-apoiadores-24578680)
 * [País tem 101.857 óbitos por coronavírus, indica boletim de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/pais-tem-101857-obitos-por-coronavirus-indica-boletim-de-veiculos-de-imprensa-24578451)
-* [Trump é retirado às pressas de entrevista na Casa Branca após incidente com tiros do lado de fora](https://oglobo.globo.com/mundo/trump-retirado-as-pressas-de-entrevista-na-casa-branca-apos-incidente-com-tiros-do-lado-de-fora-24578612)
 * [PT do Rio diz que PM citado em CPI das Milícias desistiu de candidatura a vereador](https://oglobo.globo.com/brasil/pt-do-rio-diz-que-pm-citado-em-cpi-das-milicias-desistiu-de-candidatura-vereador-24578651)
 * [Associações do cinema pedem que governo federal retome financiamento a filmes](https://epoca.globo.com/guilherme-amado/associacoes-do-cinema-pedem-que-governo-federal-retome-financiamento-filmes-24578660)
-* [É #FAKE que Senegal usa cloroquina desde o primeiro caso e tem apenas cinco mortes por Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-senegal-usa-cloroquina-desde-primeiro-caso-tem-apenas-cinco-mortes-por-covid-19-24578591)
-* [CEO da Apple, Tim Cook entra para o clube dos bilionários](https://oglobo.globo.com/economia/ceo-da-apple-tim-cook-entra-para-clube-dos-bilionarios-24578604)

@@ -2,20 +2,21 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 19:14:16 UTC
+# indexed at 10/08/2020 19:35:27 UTC
 
 
 ## news.ycombinator.com
 
 
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
+* [DNA Methylation Clocks' Predictive Capacity for Aging Phenotypes and Healthspan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376380/)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
-* [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [Head of Design shares UX tools, methods and frameworks for generalists](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design)
-* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
+* [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
+* [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
+* [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
-* [EPA to Rescind Methane Regulations for Oil and Gas](https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802)
+* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
 * [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
 * [Wiltshire valley locals build their own mobile phone network](https://www.ft.com/content/e2f50ee7-7fc6-4155-bfd4-fcc4b2314847)
@@ -23,32 +24,28 @@ layout: default
 * [An Iterative Approach to Notes](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
-* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
+* [EPA to Rescind Methane Regulations for Oil and Gas](https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802)
 * [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
+* [Boeing 747s receive software updates over floppy disks](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/)
 * [If It's a Nice Problem to Have, Don't Solve It Now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
-* [PDF Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
+* [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
+* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 * [I Am the CEO of Uber. Gig Workers Deserve Better](https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html)
+* [Oriented electric fields as future smart reagents in chemistry [pdf]](http://jupiter.chem.uoa.gr/thanost/papers/papers1/NatChem_8(2016)1091.pdf)
 * [Why Software Should Be Free (2002)](https://www.gnu.org/philosophy/shouldbefree.en.html)
-* [Marmalade: A Very British Obsession](https://longreads.com/2020/07/23/marmalade-a-very-british-obsession/)
 * [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
+* [Marmalade: A Very British Obsession](https://longreads.com/2020/07/23/marmalade-a-very-british-obsession/)
 * [One-Page Chess [video]](https://danielbmarkham.locals.com/post/110651/technical-tuesdays-follow-up-one-page-chess-done-for-now)
-* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
-* [Software Can Recreate 3D Spaces from Random Internet Photos](https://www.vice.com/en_us/article/xg87ea/software-can-recreate-3d-spaces-from-random-internet-photos)
-* [Let’s do Befunge-93 (2014)](http://bef-93.blogspot.com/2014/06/bef-93-tutorial.html)
 * [Not all the facts fit the anti-colonialist narrative](https://unherd.com/2020/08/anti-colonialists-must-tell-the-truth-about-empire/)
-* [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
-* [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
+* [Software Can Recreate 3D Spaces from Random Internet Photos](https://www.vice.com/en_us/article/xg87ea/software-can-recreate-3d-spaces-from-random-internet-photos)
 ## nytimes.com
 
 
 * [Coronavirus Live Updates](https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html)
-* [Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals](https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html)
 * [Stephen Hahn, F.D.A. Chief, Is Caught Between Scientists and the President](https://www.nytimes.com/2020/08/10/health/stephen-hahn-fda.html)
 * [College Football Stars Press an Urgent Case: ‘We Want to Play’](https://www.nytimes.com/2020/08/10/sports/ncaafootball/coronavirus-college-football-players.html)
-* [Will Trump's Executive Directives Provide Relief?](https://www.nytimes.com/2020/08/09/business/trump-executive-orders-unemployment.html)
 * [2020 Election Live Updates: Trump Says He Will Accept Nomination at Gettysburg or White House](https://www.nytimes.com/2020/08/10/us/elections/biden-vs-trump.html)
-* [Ambition Has Always Been ‘Ladylike’](https://www.nytimes.com/2020/08/10/us/politics/kamala-harris-veepstakes-ambition-sexism.html)
-* [Big Tech Makes Inroads With the Biden Campaign](https://www.nytimes.com/2020/08/10/technology/big-tech-biden-campaign.html)
+* [Botched Primary Election Creates New Crisis in Puerto Rico: ‘This Is a Travesty’](https://www.nytimes.com/2020/08/10/us/puerto-rico-election.html)
 * [McDonald’s Sues Former C.E.O. Steve Easterbrook](https://www.nytimes.com/2020/08/10/business/mcdonalds-ceo-steve-easterbrook.html)
 * [Business Updates: Saudi Aramco’s Profit Plunges Amid Oil Slump](https://www.nytimes.com/live/2020/08/10/business/stock-market-today-coronavirus)
 * [Start-Ups Braced for the Worst. The Worst Never Came.](https://www.nytimes.com/2020/08/10/technology/start-ups-pandemic-silicon-valley.html)
@@ -77,11 +74,11 @@ layout: default
 * [Chicago Police Arrest More Than 100 People After Looting Batters Downtown](https://www.nytimes.com/2020/08/10/us/shooting-chicago-looting.html)
 * [Amazon Satellites Add to Astronomers’ Worries About the Night Sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.](https://www.nytimes.com/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [The N.B.A.’s ‘Yacht Club Six’ Seek Respect and a Lifeline](https://www.nytimes.com/2020/08/09/sports/basketball/nba-playoffs-yacht-suns-grizzlies.html)
 * [How Hitler Took the World Into War](https://www.nytimes.com/2020/08/05/books/review/the-nazi-menace-benjamin-carter-hett.html)
@@ -99,13 +96,13 @@ layout: default
 ## globo.com
 
 
-* [Joias arquitetônicas de Beirute estão entre os espaços destruídos por explosões em porto](https://oglobo.globo.com/mundo/joias-arquitetonicas-de-beirute-estao-entre-os-espacos-destruidos-por-explosoes-em-porto-24578211)
-* [CBF e clubes se reúnem para aparar arestas de protocolo do Brasileiro](https://oglobo.globo.com/esportes/cbf-clubes-se-reunem-para-aparar-arestas-de-protocolo-do-brasileiro-24578250)
+* [Oi tem ao menos dez empresas na disputa por sua rede de fibra óptica](https://oglobo.globo.com/economia/oi-tem-ao-menos-dez-empresas-na-disputa-por-sua-rede-de-fibra-optica-24578165)
+* [CBF e clubes se reúnem para discutir e ajustar protocolo do Brasileiro](https://oglobo.globo.com/esportes/cbf-clubes-se-reunem-para-discutir-ajustar-protocolo-do-brasileiro-24578250)
+* [Joias arquitetônicas de Beirute estão entre os espaços destruídos por explosões no porto](https://oglobo.globo.com/mundo/joias-arquitetonicas-de-beirute-estao-entre-os-espacos-destruidos-por-explosoes-no-porto-1-24578211)
+* [Mansueto será sócio e economista-chefe do Banco BTG Pactual](https://oglobo.globo.com/economia/mansueto-sera-socio-economista-chefe-do-banco-btg-pactual-24578266)
 * [PMs suspeitos de agredir jovem negro em shopping no Rio prestam depoimento](https://oglobo.globo.com/rio/pms-suspeitos-de-agredir-jovem-negro-em-shopping-no-rio-prestam-depoimento-24578243)
 * [Ministério da Justiça se recusa a repassar cópia de dossiê ao MPF e diz que assunto é 'responsabilidade direta' do ministro](https://oglobo.globo.com/brasil/ministerio-da-justica-se-recusa-repassar-copia-de-dossie-ao-mpf-diz-que-assunto-responsabilidade-direta-do-ministro-24578219)
-* [Oi tem ao menos dez empresas na disputa por sua rede de fibra óptica](https://oglobo.globo.com/economia/oi-tem-ao-menos-dez-empresas-na-disputa-por-sua-rede-de-fibra-optica-24578165)
 * [Sistema tributário atual afugenta investidor, diz Firjan](https://oglobo.globo.com/economia/sistema-tributario-atual-afugenta-investidor-diz-firjan-24578141)
 * [Felipe Neto: bolsonaristas aperfeiçoam a cada dia esquema que manipula massas no WhatsApp](https://epoca.globo.com/brasil/felipe-neto-bolsonaristas-aperfeicoam-cada-dia-esquema-que-manipula-massas-no-whatsapp-1-24578129)
 * [Justiça do Paraguai marca para dia 24 julgamento de Ronaldinho Gaúcho](https://epoca.globo.com/guilherme-amado/justica-do-paraguai-marca-para-dia-24-julgamento-de-ronaldinho-gaucho-24578153)
 * [Explosão em posto de gasolina na Rússia deixa mais de 10 feridos; veja vídeo](https://epoca.globo.com/mundo/explosao-em-posto-de-gasolina-na-russia-deixa-mais-de-10-feridos-veja-video-24578040)
-* [Itamaraty abre canal oficial para palestra de Eduardo Bolsonaro](https://epoca.globo.com/guilherme-amado/itamaraty-abre-canal-oficial-para-palestra-de-eduardo-bolsonaro-24578071)

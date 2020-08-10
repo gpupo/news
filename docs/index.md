@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 20:16:29 UTC
+# indexed at 10/08/2020 20:34:48 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
 * [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
-* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
+* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
-* [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
-* [Wiltshire valley locals build their own mobile phone network](https://www.ft.com/content/e2f50ee7-7fc6-4155-bfd4-fcc4b2314847)
-* [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-* [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
 * [An Iterative Approach to Notes](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29)
-* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
+* [Wiltshire valley locals build their own mobile phone network](https://www.ft.com/content/e2f50ee7-7fc6-4155-bfd4-fcc4b2314847)
+* [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
+* [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
+* [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
-* [If It's a Nice Problem to Have, Don't Solve It Now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
-* [EPA to Rescind Methane Regulations for Oil and Gas](https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802)
-* [Boeing 747s receive software updates over floppy disks](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/)
-* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
+* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
 * [Oriented electric fields as future smart reagents in chemistry [pdf]](http://jupiter.chem.uoa.gr/thanost/papers/papers1/NatChem_8(2016)1091.pdf)
-* [DNA Methylation Clocks' Predictive Capacity for Aging Phenotypes and Healthspan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376380/)
+* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
+* [Boeing 747s receive software updates over floppy disks](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/)
+* [EPA to Rescind Methane Regulations for Oil and Gas](https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802)
+* [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 * [I Am the CEO of Uber. Gig Workers Deserve Better](https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html)
+* [DNA Methylation Clocks' Predictive Capacity for Aging Phenotypes and Healthspan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376380/)
+* [If It's a Nice Problem to Have, Don't Solve It Now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
 * [Why Software Should Be Free (2002)](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Marmalade: A Very British Obsession](https://longreads.com/2020/07/23/marmalade-a-very-british-obsession/)
-* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [One-Page Chess [video]](https://danielbmarkham.locals.com/post/110651/technical-tuesdays-follow-up-one-page-chess-done-for-now)
-* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 ## nytimes.com
 
 
@@ -77,9 +77,9 @@ layout: default
 * [Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.](https://www.nytimes.com/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [The N.B.A.’s ‘Yacht Club Six’ Seek Respect and a Lifeline](https://www.nytimes.com/2020/08/09/sports/basketball/nba-playoffs-yacht-suns-grizzlies.html)
 * [How Hitler Took the World Into War](https://www.nytimes.com/2020/08/05/books/review/the-nazi-menace-benjamin-carter-hett.html)
@@ -98,12 +98,12 @@ layout: default
 
 
 * [Com máscara e distanciamento, primeiro grupo de alunos volta às aulas em província da Argentina](https://oglobo.globo.com/mundo/com-mascara-distanciamento-primeiro-grupo-de-alunos-volta-as-aulas-em-provincia-da-argentina-24578279)
+* [Ex-integrante da Lava-Jato diz que regras de acordo fechado por Onyx devem valer para todos](https://oglobo.globo.com/brasil/ex-integrante-da-lava-jato-diz-que-regras-de-acordo-fechado-por-onyx-devem-valer-para-todos-24578359)
 * [Fachin rejeita recurso da PGR que pedia acesso a dados da Lava-Jato](https://oglobo.globo.com/brasil/fachin-rejeita-recurso-da-pgr-que-pedia-acesso-dados-da-lava-jato-1-24578325)
+* [Ajuste fiscal: AGU vai mediar encontro do estado com Procuradoria da Fazenda Nacional e Conselho de Supervisão](https://oglobo.globo.com/rio/ajuste-fiscal-agu-vai-mediar-encontro-do-estado-com-procuradoria-da-fazenda-nacional-conselho-de-supervisao-1-24578337)
 * [Putin espera lucrar com embate eleitoral na Bielorrússia](https://oglobo.globo.com/mundo/putin-espera-lucrar-com-embate-eleitoral-na-bielorrussia-24578265)
-* [Ajuste fiscal: AGU vai mediar encontro do estado com Procuradoria da Fazenda Nacional e Conselho de Supervisão](https://oglobo.globo.com/rio/ajuste-fiscal-agu-vai-mediar-encontro-do-estado-com-procuradoria-da-fazenda-nacional-conselho-de-supervisao-24578337)
 * [Justiça aceita pedido de recuperação judicial da controladora da rede Ricardo Eletro](https://oglobo.globo.com/economia/justica-aceita-pedido-de-recuperacao-judicial-da-controladora-da-rede-ricardo-eletro-24578298)
 * [Rio ultrapassa os 180 mil casos de coronavírus no estado, mas registra tendência de queda no contágio](https://oglobo.globo.com/rio/rio-ultrapassa-os-180-mil-casos-de-coronavirus-no-estado-mas-registra-tendencia-de-queda-no-contagio-24578309)
 * [Por que número de recuperados não indica sucesso na luta contra pandemia do coronavírus](https://epoca.globo.com/sociedade/por-que-numero-de-recuperados-nao-indica-sucesso-na-luta-contra-pandemia-do-coronavirus-24578313)
 * [CBF e clubes se reúnem para discutir e ajustar protocolo do Brasileiro](https://oglobo.globo.com/esportes/cbf-clubes-se-reunem-para-discutir-ajustar-protocolo-do-brasileiro-24578250)
 * [Mansueto será sócio e economista-chefe do Banco BTG Pactual](https://oglobo.globo.com/economia/mansueto-sera-socio-economista-chefe-do-banco-btg-pactual-24578266)
-* [Joias arquitetônicas de Beirute estão entre os espaços destruídos por explosões no porto](https://oglobo.globo.com/mundo/joias-arquitetonicas-de-beirute-estao-entre-os-espacos-destruidos-por-explosoes-no-porto-1-24578211)

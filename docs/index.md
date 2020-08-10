@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 00:43:28 UTC
+# indexed at 10/08/2020 01:16:25 UTC
 
 
 ## news.ycombinator.com
@@ -11,7 +11,6 @@ layout: default
 * [US Federal Reserve FedNow: a bank settlement service supporting instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [Linux 5.8 “one of our biggest releases of all time.”](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
-* [Revolution in Belarus People are demanding Lukashenko to go home](https://dailytrust.info/revolution-in-belarus/)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
 * [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
@@ -19,29 +18,30 @@ layout: default
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
 * [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
-* [Australia Fast-Tracks Plan to Send Solar Power to Singapore](https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore)
-* [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
 * [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
-* [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
-* [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
+* [Stopping deepfake news with an AI algorithm that can tell when a face doesnt fit](https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit)
 * [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
-* [The Most Counterintuitive Recession Ever](https://awealthofcommonsense.com/2020/08/the-most-counterintuitive-recession-ever/)
 * [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
-* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
+* [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
+* [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
+* [Australia Fast-Tracks Plan to Send Solar Power to Singapore](https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore)
+* [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
 * [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
 * [Show HN: Kowl – An Open Source WebUI for Apache Kafka with a good UI and UX](https://github.com/cloudhut/kowl)
 * [5G Just Got Weird](https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16)
+* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
 * [Reverse Engineering for Beginners [pdf]](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
-* [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
 * [Vertigo – a public domain 3D flight simulator (2003)](http://stjerneskud.info/vertigo/)
 * [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
+* [Hardware Accelerator for Adversarial Attacks on Deep Learning Neural Networks](https://arxiv.org/abs/2008.01219)
 * [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
 * [90% economy, 120% gastronomy: Covid-19 seems to have changed lifestyles for good](https://www.economist.com/graphic-detail/2020/08/08/covid-19-seems-to-have-changed-lifestyles-for-good)
-* [How malicious Tor relays are exploiting users in 2020](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)
+* [The Most Counterintuitive Recession Ever](https://awealthofcommonsense.com/2020/08/the-most-counterintuitive-recession-ever/)
 ## nytimes.com
 
 
-* [Administration Officials Defend Executive Action on Pandemic Relief](https://www.nytimes.com/2020/08/09/us/politics/trump-stimulus-bill-coronavirus.html)
+* [Trump’s Orders on Coronavirus Relief Create Confusion](https://www.nytimes.com/2020/08/09/us/politics/trump-stimulus-bill-coronavirus.html)
 * [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html)
 * [Will Trump's Executive Directives Provide Relief?](https://www.nytimes.com/2020/08/09/business/trump-executive-orders-unemployment.html)
 * [‘Christianity Will Have Power’](https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html)
@@ -50,7 +50,7 @@ layout: default
 * [Democrats Hold Edge as Battle for Senate Majority Becomes ‘Knife Fight’](https://www.nytimes.com/2020/08/09/us/democrats-senate-majority-election.html)
 * [In California, It Will Take More Than a Parade to Save an Imperiled Census](https://www.nytimes.com/2020/08/09/us/california-census-deadline-immigrants.html)
 * [Beirut Explosion Hit 3 Disparate Neighborhoods. Now They're United in Rage](https://www.nytimes.com/2020/08/09/world/middleeast/beirut-explosion-victims-neighborhoods.html)
-* [How to Move Your Elephant During a Pandemic](https://www.nytimes.com/2020/08/09/science/coronavirus-elephants-wildlife-zoo.html)
+* [How Trump Allies Work the Refs in Silicon Valley](https://www.nytimes.com/2020/08/09/business/media/trump-facebook-google-twitter-misinformation.html)
 * [The Sunday Read: ‘A Speck in the Sea’](https://www.nytimes.com/2020/08/09/podcasts/the-daily/quarantine-isolation.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 * [Trump Swings Against TikTok, WeChat](https://www.nytimes.com/2020/08/07/technology/trump-tiktok-wechat.html)
@@ -73,15 +73,15 @@ layout: default
 * [Earthquake in North Carolina Is Strongest in the Area Since 1916](https://www.nytimes.com/2020/08/09/us/nc-earthquake.html)
 * [Georgia Businessman Charged With Hoarding Face Masks and Price Gouging](https://www.nytimes.com/2020/08/07/us/face-masks-baby-pupuu-coronavirus.html)
 * [Belarus Says Longtime Leader Is Re-elected in Vote Critics Call Rigged](https://www.nytimes.com/2020/08/09/world/europe/belarus-election-lukashenko.html)
+* [Scenes From the 2020 Sturgis Rally, Undaunted by the Coronavirus](https://www.nytimes.com/2020/08/09/us/sturgis-motorcycle.html)
 * [Composting Has Been Scrapped. These New Yorkers Picked Up the Slack.](https://www.nytimes.com/2020/08/09/nyregion/nyc-compost-recycling.html)
-* [Boycotted. Criticized. But Fox News Leads the Pack in Prime Time.](https://www.nytimes.com/2020/08/09/business/media/fox-news-ratings.html)
 * [Retired Police Officer Tracks Down Escapee Who Shot Him Almost 50 Years Ago](https://www.nytimes.com/2020/08/09/us/daril-cinquanta-luis-archuleta-denver.html)
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [Here Are the U.S. States With Travel Restrictions](https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [A Colombian Chef Shares His Secret to Better Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
 * [‘The Lost Pianos of Siberia,’ and the Lost Individuals Who Played Them](https://www.nytimes.com/2020/08/05/books/review/the-lost-pianos-of-siberia-sophy-roberts.html)
 * [Gods, Monsters and H.P. Lovecraft’s Uncanny Legacy](https://www.nytimes.com/2020/08/07/arts/television/hp-lovecraft.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
+* [Magnata da mídia de Hong Kong Jimmy Lai é preso sob a nova lei de segurança nacional chinesa](https://oglobo.globo.com/mundo/magnata-da-midia-de-hong-kong-jimmy-lai-preso-sob-nova-lei-de-seguranca-nacional-chinesa-24577307)
+* [Rio registra 10 mortes por Covid-19 nas últimas 24h, indicando tendência de queda](https://oglobo.globo.com/rio/rio-registra-10-mortes-por-covid-19-nas-ultimas-24h-indicando-tendencia-de-queda-24577194)
 * [Covid-19: Brasil passa de 101 mil mortes e 3 milhões de casos, informa consórcio da imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/covid-19-brasil-passa-de-101-mil-mortes-3-milhoes-de-casos-informa-consorcio-da-imprensa-no-boletim-das-20h-24577198)
 * [Fluminense estreia no Brasileiro com derrota para o Grêmio](https://oglobo.globo.com/esportes/fluminense/fluminense-estreia-no-brasileiro-com-derrota-para-gremio-24577253)
 * [Apenas quatro estados brasileiros apresentam tendência de alta para mortes por Covid-19](https://oglobo.globo.com/sociedade/apenas-quatro-estados-brasileiros-apresentam-tendencia-de-alta-para-mortes-por-covid-19-24577251)
-* [Rio registra 10 mortes por Covid-19 nas últimas 24h, indicando tendência de queda](https://oglobo.globo.com/rio/rio-registra-10-mortes-por-covid-19-nas-ultimas-24h-indicando-tendencia-de-queda-24577194)
 * [Grandes protestos eclodem na Bielorrússia após nova reeleição de líder autoritário](https://oglobo.globo.com/mundo/grandes-protestos-eclodem-na-bielorrussia-apos-nova-reeleicao-de-lider-autoritario-24577154)
 * [Flamengo inicia a era Dome com derrota para o Atlético-MG no Maracanã](https://oglobo.globo.com/esportes/flamengo/flamengo-inicia-era-dome-com-derrota-para-atletico-mg-no-maracana-24577142)
 * [Convidado a chefiar missão no Líbano, Temer é proibido de deixar Brasil sem autorização judicial](https://oglobo.globo.com/mundo/convidado-chefiar-missao-no-libano-temer-proibido-de-deixar-brasil-sem-autorizacao-judicial-24577189)
 * [Toffoli é internado com pneumonite alérgica; teste descarta suspeita de Covid-19](https://oglobo.globo.com/brasil/toffoli-internado-com-pneumonite-alergica-teste-descarta-suspeita-de-covid-19-24577191)
 * [Com economia americana em crise, ordens executivas de Trump têm efeito apenas limitado](https://oglobo.globo.com/economia/com-economia-americana-em-crise-ordens-executivas-de-trump-tem-efeito-apenas-limitado-24577177)
-* [Boris Johnson diz que escolas precisam reabrir em setembro no Reino Unido](https://oglobo.globo.com/mundo/boris-johnson-diz-que-escolas-precisam-reabrir-em-setembro-no-reino-unido-24577115)

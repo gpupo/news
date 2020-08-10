@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 22:14:23 UTC
+# indexed at 10/08/2020 22:35:02 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
+* [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
-* [One in 10 ballots rejected in last month’s vote-by-mail elections in New Jersey](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
+* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
+* [One in 10 ballots rejected in last month’s vote-by-mail elections in New Jersey](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
+* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
-* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
-* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
-* [Show HN: Omg-Curry – JavaScript currying library](https://github.com/Debdut/omg-curry)
-* [The telephone transformed – into almost everything (1993)](https://www.nytimes.com/1993/05/16/magazine/the-telephone-transformed-into-almost-everything.html)
 * [UX design: Tools, methods and frameworks for generalists](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design)
+* [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
+* [Show HN: Omg-Curry – JavaScript currying library](https://github.com/Debdut/omg-curry)
 * [An Iterative Approach to Notes](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29)
 * [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
-* [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
+* [The telephone transformed – into almost everything (1993)](https://www.nytimes.com/1993/05/16/magazine/the-telephone-transformed-into-almost-everything.html)
 * [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
-* [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
 * [Oriented electric fields as future smart reagents in chemistry [pdf]](http://jupiter.chem.uoa.gr/thanost/papers/papers1/NatChem_8(2016)1091.pdf)
-* [Qua: Alexia Massalin interview (1996)](https://www.wired.com/1996/12/ffmassalin/)
-* [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
-* [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
+* [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
+* [Celebrate Woz's 70th](https://www.wozbday.com)
 ## nytimes.com
 
 
@@ -68,6 +68,7 @@ layout: default
 * [In the Wake of Protests](https://www.nytimes.com/2020/08/09/opinion/black-lives-matter-protests.html)
 * [It’s a Tough Time for the Left. But I’m More Optimistic Than Ever.](https://www.nytimes.com/2020/08/09/opinion/left-politics.html)
 * [She Explains ‘Mansplaining’ With Help From 17th-Century Art](https://www.nytimes.com/2020/08/10/books/nicole-tersigni-men-to-avoid-in-art-and-life.html)
+* [‘The Guy in Front of Me Called a Name, and the Other Guy Turned’](https://www.nytimes.com/2020/08/09/nyregion/metropolitan-diary.html)
 * [Trump Moves to Force Manhattan D.A. to Reveal Details of Inquiry](https://www.nytimes.com/2020/08/10/nyregion/donald-trump-taxes-cyrus-vance.html)
 * [Catholic Churches Drop Hymns After Accusations Against Composer](https://www.nytimes.com/2020/08/10/us/david-haas-catholic-composer-boycott.html)
 * [Baltimore Gas Explosion Leaves 1 Dead and 2 Injured](https://www.nytimes.com/2020/08/10/us/baltimore-explosion.html)
@@ -77,14 +78,13 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.](https://www.nytimes.com/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
-* [The N.B.A.’s ‘Yacht Club Six’ Seek Respect and a Lifeline](https://www.nytimes.com/2020/08/09/sports/basketball/nba-playoffs-yacht-suns-grizzlies.html)
-* [How Hitler Took the World Into War](https://www.nytimes.com/2020/08/05/books/review/the-nazi-menace-benjamin-carter-hett.html)
 * [A Colombian Chef Shares His Secret to Better Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
 * [The First Round of the N.H.L. Playoffs Is Set. There Have Already Been Upsets.](https://www.nytimes.com/2020/08/10/sports/hockey/nhl-playoffs-round-standings.html)
 * [When Things Aren’t OK With a Child’s Mental Health](https://www.nytimes.com/2020/08/10/well/family/children-mental-health-coronavirus.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [CBF anuncia ajustes no protocolo do Brasileiro para controle de coronavírus](https://oglobo.globo.com/esportes/cbf-anuncia-ajustes-no-protocolo-do-brasileiro-para-controle-de-coronavirus-24578583)
-* [Guedes diz que pode reduzir imposto proposto em reforma tributária: 'Se se revelar exagerado, a gente baixa'](https://oglobo.globo.com/economia/guedes-diz-que-pode-reduzir-imposto-proposto-em-reforma-tributaria-se-se-revelar-exagerado-gente-baixa-24578586)
-* [Planalto faz ranking vinculando número de mortes a governadores](https://oglobo.globo.com/brasil/planalto-faz-ranking-vinculando-numero-de-mortes-governadores-24578535)
+* [Goiás faz testes de Covid em dois laboratórios antes de viagem; presidente defende jogadores](https://oglobo.globo.com/esportes/goias-faz-testes-de-covid-em-dois-laboratorios-antes-de-viagem-presidente-defende-jogadores-24578532)
+* [Trump é retirado às pressas de entrevista na Casa Branca após incidente com tiros do lado de fora](https://oglobo.globo.com/mundo/trump-retirado-as-pressas-de-entrevista-na-casa-branca-apos-incidente-com-tiros-do-lado-de-fora-24578612)
+* [PT do Rio diz que PM citado em CPI das Milícias desistiu de candidatura a vereador](https://oglobo.globo.com/brasil/pt-do-rio-diz-que-pm-citado-em-cpi-das-milicias-desistiu-de-candidatura-vereador-24578651)
+* [CBF anuncia ajustes no protocolo de testes de Covid-19 do Brasileirão](https://oglobo.globo.com/esportes/cbf-anuncia-ajustes-no-protocolo-de-testes-de-covid-19-do-brasileirao-24578583)
 * [‘Escolas funcionam com decreto do prefeito, não da Fiocruz’, diz secretária sobre reabertura no Rio](https://oglobo.globo.com/rio/escolas-funcionam-com-decreto-do-prefeito-nao-da-fiocruz-diz-secretaria-sobre-reabertura-no-rio-24578521)
+* [Guedes diz que pode reduzir imposto proposto em reforma tributária: 'Se se revelar exagerado, a gente baixa'](https://oglobo.globo.com/economia/guedes-diz-que-pode-reduzir-imposto-proposto-em-reforma-tributaria-se-se-revelar-exagerado-gente-baixa-24578586)
+* [É #FAKE que Senegal usa cloroquina desde o primeiro caso e tem apenas cinco mortes por Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-senegal-usa-cloroquina-desde-primeiro-caso-tem-apenas-cinco-mortes-por-covid-19-24578591)
+* [CEO da Apple, Tim Cook entra para o clube dos bilionários](https://oglobo.globo.com/economia/ceo-da-apple-tim-cook-entra-para-clube-dos-bilionarios-24578604)
 * [Liga Europa: United vence Copenhagen na prorrogação e avança; Inter bate Leverkusen](https://oglobo.globo.com/esportes/liga-europa-united-vence-copenhagen-na-prorrogacao-avanca-inter-bate-leverkusen-24578562)
 * [Buenos Aires reabre teatros sem público para transmissão de peças via streaming](https://oglobo.globo.com/cultura/buenos-aires-reabre-teatros-sem-publico-para-transmissao-de-pecas-via-streaming-24578555)
-* [Goiás faz testes de Covid em dois laboratórios antes de viagem; presidente defende jogadores](https://oglobo.globo.com/esportes/goias-faz-testes-de-covid-em-dois-laboratorios-antes-de-viagem-presidente-defende-jogadores-24578532)
-* [Defesa de Queiroz pede habeas corpus ao STF, distribuído a Gilmar Mendes](https://oglobo.globo.com/brasil/defesa-de-queiroz-pede-habeas-corpus-ao-stf-distribuido-gilmar-mendes-24578522)
-* [Bandeiras históricas da Bielorrússia dividem governo e oposição nas ruas](https://oglobo.globo.com/mundo/bandeiras-historicas-da-bielorrussia-dividem-governo-oposicao-nas-ruas-24578515)
-* [Vacina de Oxford: Anvisa autoriza dose de reforço e voluntários de até 69 anos](https://oglobo.globo.com/sociedade/vacina-de-oxford-anvisa-autoriza-dose-de-reforco-voluntarios-de-ate-69-anos-24578499)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 04:16:04 UTC
+# indexed at 10/08/2020 04:34:48 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
 * [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
+* [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
 * [Linux 5.8-rc1](https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/)
 * [Dorking: the use of search engines to find very specific data](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)
 * [A man who saved Kyoto from the atomic bomb](https://www.bbc.com/news/world-asia-33755182)
+* [Photos from Bell Labs Datacenter in 1960s](https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/)
 * [Hong Kong media tycoon Jimmy Lai arrested under national security law](https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L)
 * [ThinkPad 560E](https://pappp.net/?p=26440)
 * [Sweatpants Forever: How the Fashion Industry Collapsed](https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html)
-* [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-* [Hong Kong pro-democracy tycoon Jimmy Lai arrested](https://www.bbc.com/news/world-asia-china-53717843)
 * [Interview with Bill Gates on Covid, social media](https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1)
 * [More than 100 coal-fired plants have been converted to natural gas since 2011](https://www.eia.gov/todayinenergy/detail.php?id=44636)
+* [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
+* [Hong Kong pro-democracy tycoon Jimmy Lai arrested](https://www.bbc.com/news/world-asia-china-53717843)
 * [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html)
 * [i8080 precise replica in Verilog, based on reverse engineering of real die](https://github.com/1801BM1/vm80a)
 * [Glasgow: Scots Army Knife for Electronics](https://github.com/GlasgowEmbedded/glasgow#what-is-glasgow)
 * [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html)
 * [ZipPy: fast and lightweight Python 3 implementation using the Truffle framework](https://github.com/securesystemslab/zippy)
+* [GraalVM](https://www.graalvm.org/)
 * [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn)
 * [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
 * [A Female Artist Who Shaped Manga History](https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/)
-* [GraalVM](https://www.graalvm.org/)
 * [People work longer and different hours under lockdown](https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/)
 * [Beyond Mantel: Historical novels](https://www.theguardian.com/books/2020/feb/29/an-escape-wonderful-historical-fiction)
 * [Pioneers of Soviet Computing (2010)](https://archive.org/details/PioneersOfSovietComputing)
-* [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 * [Algorithmic Theories of Everything (2000)](https://arxiv.org/abs/quant-ph/0011122)
+* [Hiroshima (1946)](https://www.newyorker.com/magazine/1946/08/31/hiroshima)
 * [The Third Wave Experiment](https://en.wikipedia.org/wiki/The_Third_Wave_(experiment))
-* [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://mbio.asm.org/content/6/4/e01013-15)
-* [EFF Defends Public’s Right to Access Court Records About Patent Ownership](https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership)
+* [High-resolution electromagnetic calorimetry with noble liquids (1998)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.662&rep=rep1&type=pdf)
 ## nytimes.com
 
 
@@ -76,9 +76,9 @@ layout: default
 * [Composting Has Been Scrapped. These New Yorkers Picked Up the Slack.](https://www.nytimes.com/2020/08/09/nyregion/nyc-compost-recycling.html)
 * [Retired Police Officer Tracks Down Escapee Who Shot Him Almost 50 Years Ago](https://www.nytimes.com/2020/08/09/us/daril-cinquanta-luis-archuleta-denver.html)
 * [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [A Colombian Chef Shares His Secret to Better Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)

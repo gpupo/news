@@ -2,39 +2,39 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 21:14:31 UTC
+# indexed at 10/08/2020 21:34:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
+* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [One in 10 Ballots Rejected in Last Month’s Vote-by-Mail Elections (NJ)](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
+* [One in 10 Ballots Rejected in Last Month’s Vote-by-Mail Elections (NJ)](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
-* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
+* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
-* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
-* [UX design: Tools, methods and frameworks for generalists](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design)
+* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
 * [An Iterative Approach to Notes](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
+* [The telephone transformed – into almost everything (1993)](https://www.nytimes.com/1993/05/16/magazine/the-telephone-transformed-into-almost-everything.html)
+* [UX design: Tools, methods and frameworks for generalists](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
+* [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
 * [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
 * [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
-* [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
+* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
+* [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
 * [Anthony Thyssen's Homepage (1994)](https://antofthy.gitlab.io/)
 * [Qua: Alexia Massalin interview (1996)](https://www.wired.com/1996/12/ffmassalin/)
-* [New fitness habits being created during Covid?](https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff)
-* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
 * [Oriented electric fields as future smart reagents in chemistry [pdf]](http://jupiter.chem.uoa.gr/thanost/papers/papers1/NatChem_8(2016)1091.pdf)
-* [The telephone transformed – into almost everything (1993)](https://www.nytimes.com/1993/05/16/magazine/the-telephone-transformed-into-almost-everything.html)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
 * [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 * [Boeing 747s receive software updates over floppy disks](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/)
@@ -76,10 +76,10 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.](https://www.nytimes.com/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [The N.B.A.’s ‘Yacht Club Six’ Seek Respect and a Lifeline](https://www.nytimes.com/2020/08/09/sports/basketball/nba-playoffs-yacht-suns-grizzlies.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [PMs dizem ter abordado jovem negro em shopping por suspeita de que boné do Hulk fosse alusão a traficante](https://oglobo.globo.com/rio/pms-dizem-ter-abordado-jovem-negro-em-shopping-por-suspeita-de-que-bone-do-hulk-fosse-alusao-traficante-24578445)
+* [Vacina de Oxford: Anvisa autoriza dose de reforço e voluntários de até 69 anos](https://oglobo.globo.com/sociedade/vacina-de-oxford-anvisa-autoriza-dose-de-reforco-voluntarios-de-ate-69-anos-24578499)
+* [PMs dizem ter abordado jovem negro em shopping por suspeita de que boné do Hulk fosse alusão a traficante](https://oglobo.globo.com/rio/pms-dizem-ter-abordado-jovem-negro-em-shopping-por-suspeita-de-que-bone-do-hulk-fosse-alusao-traficante-1-24578445)
+* [É #FAKE que compras de produtos chineses caíram 78% no Brasil após boicote por conta da pandemia do coronavírus](https://oglobo.globo.com/fato-ou-fake/e-fake-que-compras-de-produtos-chineses-cairam-78-no-brasil-apos-boicote-por-conta-da-pandemia-do-coronavirus-24578494)
+* [Microsoft levará tempo para separar TikTok de chinesa caso feche aquisição](https://oglobo.globo.com/economia/microsoft-levara-tempo-para-separar-tiktok-de-chinesa-caso-feche-aquisicao-24578453)
 * [Ex-secretário municipal de Obras do Rio, Alexandre Pinto é condenado a 23 anos de prisão](https://oglobo.globo.com/brasil/ex-secretario-municipal-de-obras-do-rio-alexandre-pinto-condenado-23-anos-de-prisao-24578436)
 * [Bolívia autoriza uso de força militar em três cidades para conter bloqueios contra adiamento das eleições](https://oglobo.globo.com/mundo/bolivia-autoriza-uso-de-forca-militar-em-tres-cidades-para-conter-bloqueios-contra-adiamento-das-eleicoes-24578433)
 * [Policiais que abordaram jovem negro em shopping trabalham em empresa de major da PM](https://oglobo.globo.com/rio/policiais-que-abordaram-jovem-negro-em-shopping-trabalham-em-empresa-de-major-da-pm-24578466)
 * [Toffoli está bem, mas sem previsão de alta, informa hospital](https://oglobo.globo.com/brasil/toffoli-esta-bem-mas-sem-previsao-de-alta-informa-hospital-24578456)
 * [Órgão do MPF recomenda a Aras não assinar termo de cooperação sobre acordos de leniência](https://oglobo.globo.com/brasil/orgao-do-mpf-recomenda-aras-nao-assinar-termo-de-cooperacao-sobre-acordos-de-leniencia-24578437)
-* [Microsoft enfrenta desafios técnicos para fechar aquisição do TikTok](https://oglobo.globo.com/economia/microsoft-enfrenta-desafios-tecnicos-para-fechar-aquisicao-do-tiktok-24578453)
-* [EUA estendem alerta para que americanos não viagem ao Brasil](https://oglobo.globo.com/mundo/eua-estendem-alerta-para-que-americanos-nao-viagem-ao-brasil-24578385)
-* [Mais de cem pessoas são presas em noite de saques no Centro de Chicago](https://oglobo.globo.com/mundo/mais-de-cem-pessoas-sao-presas-em-noite-de-saques-no-centro-de-chicago-24578413)
 * [Slogan ressuscitado no Paraná](https://epoca.globo.com/guilherme-amado/slogan-ressuscitado-no-parana-1-24577821)

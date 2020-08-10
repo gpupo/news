@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 10/08/2020 17:14:29 UTC
+# indexed at 10/08/2020 17:35:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [What's it like to be an Octopus?](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
-* [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
 * [Distributed in-memory data structures in Go. Embeddable or independent service](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
-* [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
+* [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
+* [EPA to Rescind Methane Regulations for Oil and Gas](https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
+* [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md)
+* [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [PDF Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
-* [If It's a Nice Problem to Have, Don't Solve It Now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
-* [Wiltshire valley locals build their own mobile phone network](https://www.ft.com/content/e2f50ee7-7fc6-4155-bfd4-fcc4b2314847)
+* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [Amazon Renames Twitch Prime to Prime Gaming](https://www.polygon.com/2020/8/10/21361946/amazon-twitch-prime-gaming-new-name-benefits)
+* [Wiltshire valley locals build their own mobile phone network](https://www.ft.com/content/e2f50ee7-7fc6-4155-bfd4-fcc4b2314847)
+* [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
+* [If It's a Nice Problem to Have, Don't Solve It Now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
 * [I Am the CEO of Uber. Gig Workers Deserve Better](https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html)
-* [How long does a freezer stay frozen when the power goes out?](https://woodgears.ca/heating/freezer.html)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
-* [Let’s do Befunge-93 (2014)](http://bef-93.blogspot.com/2014/06/bef-93-tutorial.html)
-* [NSA's Tips to Keep Your Phone from Tracking You](https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/)
-* [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
-* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
 * [MikroOrm v4 /w GraphQL example project that I created over the weekend](https://github.com/driescroons/mikro-orm-graphql-example)
-* [EPA to Rescind Methane Regulations for Oil and Gas](https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802)
+* [NSA's Tips to Keep Your Phone from Tracking You](https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/)
+* [Fed announces details of new interbank service to support instant payments](https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm)
+* [Microsoft President: We Need a Hippocratic Oath for Software Engineers](https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn)
+* [Let’s do Befunge-93 (2014)](http://bef-93.blogspot.com/2014/06/bef-93-tutorial.html)
 * [Codata in action, or how to connect FP and OOP](https://www.javiercasas.com/articles/codata-in-action/)
 * [Anthony Thyssen's Homepage (1994)](https://antofthy.gitlab.io/)
+* [C will never stop you from making mistakes](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 * [Spacetime wave packets: New class of laser defies laws of light physics](https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/)
 * [Why Software Should Be Free (2002)](https://www.gnu.org/philosophy/shouldbefree.en.html)
 * [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
 * [How SHRDLU got its name (2003)](http://hci.stanford.edu/winograd/shrdlu/name.html)
-* [C will never stop you from making mistakes](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
-* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [McDonald’s Sues Former C.E.O. Steve Easterbrook](https://www.nytimes.com/2020/08/10/business/mcdonalds-ceo-steve-easterbrook.html)
 * [Business Updates: Saudi Aramco’s Profit Plunges Amid Oil Slump](https://www.nytimes.com/live/2020/08/10/business/stock-market-today-coronavirus)
 * [Start-Ups Braced for the Worst. The Worst Never Came.](https://www.nytimes.com/2020/08/10/technology/start-ups-pandemic-silicon-valley.html)
-* [Lebanon’s Government Set to Resign, Minister Announces, After Beirut Blast](https://www.nytimes.com/2020/08/10/world/middleeast/lebanon-government-resigns-beirut.html)
+* [Lebanon’s Government Resigns Over Beirut Explosion](https://www.nytimes.com/2020/08/10/world/middleeast/lebanon-government-resigns-beirut.html)
 * [Katie Hill is Trying to Move Forward](https://www.nytimes.com/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
 * [Biden’s Choice](https://www.nytimes.com/2020/08/10/briefing/joe-biden-coronavirus-hong-kong-your-monday-briefing.html)
 * [New York Schools Can Reopen. Will They?](https://www.nytimes.com/2020/08/10/nyregion/new-york-schools-reopening-coronavirus.html)
@@ -81,9 +81,9 @@ layout: default
 * [Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.](https://www.nytimes.com/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Fight Against Big Tech’s Power](https://www.nytimes.com/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [The N.B.A.’s ‘Yacht Club Six’ Seek Respect and a Lifeline](https://www.nytimes.com/2020/08/09/sports/basketball/nba-playoffs-yacht-suns-grizzlies.html)
 * [How Hitler Took the World Into War](https://www.nytimes.com/2020/08/05/books/review/the-nazi-menace-benjamin-carter-hett.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Veja seis passos para não errar na hora de transformar o hobby em fonte de renda](https://oglobo.globo.com/economia/veja-seis-passos-para-nao-errar-na-hora-de-transformar-hobby-em-fonte-de-renda-24577998)
+* [Veja seis passos para não errar na hora de transformar o hobby em fonte de renda](https://oglobo.globo.com/economia/veja-seis-passos-para-nao-errar-na-hora-de-transformar-hobby-em-fonte-de-renda-1-24577998)
+* [Fachin diz que foro privilegiado promove 'seletividade injusta e discriminatória'](https://oglobo.globo.com/brasil/fachin-diz-que-foro-privilegiado-promove-seletividade-injusta-discriminatoria-24578058)
+* [É #FAKE que foto mostre monumento de Berlim lotado em manifestação contra regras para conter Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-monumento-de-berlim-lotado-em-manifestacao-contra-regras-para-conter-covid-19-24578066)
+* [Primeiro-ministro do Líbano renuncia após explosão e protestos](https://oglobo.globo.com/mundo/primeiro-ministro-do-libano-renuncia-apos-explosao-protestos-24578014)
 * [Buscas por 11 corpos da tragédia de Brumadinho serão retomadas em 27 de agosto](https://oglobo.globo.com/brasil/buscas-por-11-corpos-da-tragedia-de-brumadinho-serao-retomadas-em-27-de-agosto-24578046)
+* [Irã fecha jornal que acusou governo de encobrir números do coronavírus no país](https://oglobo.globo.com/mundo/ira-fecha-jornal-que-acusou-governo-de-encobrir-numeros-do-coronavirus-no-pais-24578030)
 * [Crivella vai demarcar faixa de areia das praias do Rio, e reserva será por aplicativo](https://oglobo.globo.com/rio/crivella-vai-demarcar-faixa-de-areia-das-praias-do-rio-reserva-sera-por-aplicativo-1-24577976)
-* [Primeiro-ministro do Líbano renuncia ao cargo após explosão em Beirute](https://oglobo.globo.com/mundo/primeiro-ministro-do-libano-renuncia-ao-cargo-apos-explosao-em-beirute-24578014)
-* [Irã fecha jornal devido a alegações de encobrimento dos números de coronavírus no país](https://oglobo.globo.com/mundo/ira-fecha-jornal-devido-alegacoes-de-encobrimento-dos-numeros-de-coronavirus-no-pais-24578030)
 * [Pré-candidatos a prefeito e vereador usam repasses de verbas para municípios para tentar se projetar](https://epoca.globo.com/rio/pre-candidatos-prefeito-vereador-usam-repasses-de-verbas-para-municipios-para-tentar-se-projetar-24578004)
 * [Documentário brasileiro sobre a ditadura é selecionado para o Festival de Lima](https://epoca.globo.com/guilherme-amado/documentario-brasileiro-sobre-ditadura-selecionado-para-festival-de-lima-24577837)
-* [River e Boca voltam aos treinos e ao menos três atletas testam positivo para o novo coronavírus](https://oglobo.globo.com/esportes/river-boca-voltam-aos-treinos-ao-menos-tres-atletas-testam-positivo-para-novo-coronavirus-24577899)
-* [Brasil tem 3.039.349 casos de Covid-19, segundo consórcio de veículos da imprensa em boletim das 13h](https://oglobo.globo.com/sociedade/brasil-tem-3039349-casos-de-covid-19-segundo-consorcio-de-veiculos-da-imprensa-em-boletim-das-13h-24577914)
 * [Amazonas é o primeiro estado a retomar aulas presenciais na rede pública, que começam nesta segunda em Manaus](https://oglobo.globo.com/sociedade/amazonas-o-primeiro-estado-retomar-aulas-presenciais-na-rede-publica-que-comecam-nesta-segunda-em-manaus-24577816)

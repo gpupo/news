@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 11:14:25 UTC
+# indexed at 11/08/2020 11:35:03 UTC
 
 
 ## news.ycombinator.com
@@ -14,8 +14,8 @@ layout: default
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
 * [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
-* [Short on Money, Cities Around the World Try Making Their Own](https://www.bloomberg.com/news/articles/2020-08-07/a-depression-era-idea-gets-a-new-look-local-money)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
+* [Short on Money, Cities Around the World Try Making Their Own](https://www.bloomberg.com/news/articles/2020-08-07/a-depression-era-idea-gets-a-new-look-local-money)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
@@ -26,18 +26,18 @@ layout: default
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
-* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
+* [Secret Landscape: America's cold war infrastructure](http://coldwar-c4i.net/index.html)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
+* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [Bernard Bailyn, Eminent Historian of Early America, Dies at 97](https://www.nytimes.com/2020/08/07/books/bernard-bailyn-dead.html)
 * [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
-* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
-* [Statement on Google’s conduct by founder of CelebrityNetWorth.com (2019) [pdf]](https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Thai Students Protest the Military](https://www.nytimes.com/2020/08/11/world/asia/thailand-student-protest-military.html)
 * [Top Female Chief Quits, Accusing N.Y.P.D. of Widespread Gender Bias](https://www.nytimes.com/2020/08/11/nyregion/nypd-women-discrimination.html)
 * [How Progressives Flipped the Script on Medicaid Expansion](https://www.nytimes.com/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Daniela Soto-Innes Is One of the Most Exciting Chefs Working Today](https://www.nytimes.com/2020/08/10/t-magazine/daniela-soto-innes-cooking-chef.html)
 * [Holly Humberstone Wants Her Songs to Last a Lifetime](https://www.nytimes.com/2020/08/10/arts/music/holly-humberstone-falling-asleep-at-the-wheel.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Cantor Tiee faz show em casa noturna em Marechal Hermes, que tem fila e aglomeração](https://oglobo.globo.com/rio/cantor-tiee-faz-show-em-casa-noturna-em-marechal-hermes-que-tem-fila-aglomeracao-24579417)
 * [Com eleições, governo deixa reforma administrativa, que mexe com servidores, para 2021](https://oglobo.globo.com/economia/com-eleicoes-governo-deixa-reforma-administrativa-que-mexe-com-servidores-para-2021-1-24579036)
 * [Brasil tem 3.062.374 casos de Covid-19, informa consórcio de veículos da imprensa em boletim das 8h](https://oglobo.globo.com/sociedade/brasil-tem-3062374-casos-de-covid-19-informa-consorcio-de-veiculos-da-imprensa-em-boletim-das-8h-24579387)
 * ['Basta': jovens tailandeses vão às ruas e pedem mudanças no governo](https://oglobo.globo.com/mundo/basta-jovens-tailandeses-vao-as-ruas-pedem-mudancas-no-governo-24578356)
 * [Pesquisa estima que 1,5 milhão de adultos já foram infectados por coronavírus na cidade de São Paulo](https://epoca.globo.com/sociedade/pesquisa-estima-que-15-milhao-de-adultos-ja-foram-infectados-por-coronavirus-na-cidade-de-sao-paulo-24579394)
 * [Lives e mais atrações de hoje: exposição virtual e festival LGBT em drive-in](https://oglobo.globo.com/rioshow/lives-mais-atracoes-de-hoje-exposicao-virtual-festival-lgbt-em-drive-in-24579391)
 * [Bolsonaro que dizia não se preocupar com reeleição deixou de existir](https://oglobo.globo.com/analitico/bolsonaro-que-dizia-nao-se-preocupar-com-reeleicao-deixou-de-existir-24578749)
-* ['Quando vejo índices de alunos de escolas públicas crescerem nas universidades é uma alegria', diz estudante de coletivo da periferia de Belém](https://oglobo.globo.com/sociedade/quando-vejo-indices-de-alunos-de-escolas-publicas-crescerem-nas-universidades-uma-alegria-diz-estudante-de-coletivo-da-periferia-de-belem-24578639)
 * [Em curriculo, nomeada para Funarte diz que livro não pode ser julgado pela capa](https://epoca.globo.com/guilherme-amado/em-curriculo-nomeada-para-funarte-diz-que-livro-nao-pode-ser-julgado-pela-capa-24579033)
 * [Igreja dos Capuchinhos doa cestas básicas mensais para 450 famílias em vulnerabilidade financeira](https://oglobo.globo.com/rio/bairros/igreja-dos-capuchinhos-doa-cestas-basicas-mensais-para-450-familias-em-vulnerabilidade-financeira-24568752)
 * [Aprovados em concurso da Guarda Municipal de Niterói cobram convocação](https://oglobo.globo.com/rio/bairros/aprovados-em-concurso-da-guarda-municipal-de-niteroi-cobram-convocacao-24573406)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 08:34:28 UTC
+# indexed at 11/08/2020 09:35:41 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
-* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
-* [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
+* [Short on Money, Cities Around the World Try Making Their Own](https://www.bloomberg.com/news/articles/2020-08-07/a-depression-era-idea-gets-a-new-look-local-money)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
-* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
+* [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
-* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
-* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
+* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
-* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
+* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
+* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
-* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
+* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
+* [Bernard Bailyn, Eminent Historian of Early America, Dies at 97](https://www.nytimes.com/2020/08/07/books/bernard-bailyn-dead.html)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
-* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
+* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
-* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
+* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
-* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 ## nytimes.com
 
 
@@ -54,6 +54,7 @@ layout: default
 * [Trump's Payroll Tax Holiday Order Gives Employers a New Dilemma](https://www.nytimes.com/2020/08/10/business/economy/trump-payroll-tax-holiday.html)
 * [Lebanon’s Government Resigns Over Beirut Explosion](https://www.nytimes.com/2020/08/10/world/middleeast/lebanon-government-resigns-beirut.html)
 * [U.S. Contractor Knew of Explosive Material in Beirut Since at Least 2016](https://www.nytimes.com/2020/08/10/world/middleeast/beirut-explosion-us-contractor.html)
+* [Are More Car-Free Streets in N.Y.C.’s Future?](https://www.nytimes.com/2020/08/11/nyregion/nyc-open-streets.html)
 * [Cancel Culture, Part 1: Where It Came From](https://www.nytimes.com/2020/08/10/podcasts/the-daily/cancel-culture.html)
 * [Joe Biden’s Links to Wall Street, Silicon Valley](https://www.nytimes.com/2020/08/10/business/dealbook/biden-wall-street-silicon-valley.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
@@ -74,15 +75,15 @@ layout: default
 * [SoftBank Claws Back Into the Black After Historic Losses](https://www.nytimes.com/2020/08/11/business/softbank-earnings.html)
 * [Wayne Fontana, Hitmaker With ‘The Game of Love,’ Dies at 74](https://www.nytimes.com/2020/08/10/arts/music/wayne-fontana-hitmaker-with-the-game-of-love-dies-at-74.html)
 * [Fewer Airline Passengers, but a Higher Rate of Illegal Guns in Carry-On Bags](https://www.nytimes.com/2020/08/10/us/tsa-firearms.html)
-* [Pints or Primers? U.K.’s Push to Open Schools May Force a Choice](https://www.nytimes.com/2020/08/10/world/europe/UK-schools-pubs-coronavirus.html)
+* [U.K.’s Push to Open Schools May Force a Choice](https://www.nytimes.com/2020/08/10/world/europe/UK-schools-pubs-coronavirus.html)
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Push to Return U.K.’s ‘Motor City’ to Its Cycling Roots](https://www.nytimes.com/2020/08/10/world/europe/uk-coventry-cycling.html)
 * [Detailed Coronavirus Plans for Champions League Safety are Immediately Tested](https://www.nytimes.com/2020/08/10/sports/soccer/champions-league-lisbon.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [Identical Twins With Two Very Different Destinies](https://www.nytimes.com/2020/08/10/parenting/infant-congenital-heart-defect.html)
@@ -98,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Rússia registra a primeira vacina contra Covid-19 do mundo, anuncia Putin](https://oglobo.globo.com/mundo/russia-registra-primeira-vacina-contra-covid-19-do-mundo-anuncia-putin-24579356)
+* [Enquanto ainda era casada, Rogéria Bolsonaro pagou R$ 95 mil em espécie por imóvel](https://oglobo.globo.com/brasil/enquanto-ainda-era-casada-rogeria-bolsonaro-pagou-95-mil-em-especie-por-imovel-24579269)
+* [Secom traçou estratégia para evitar que marca de 100 mil mortos por Covid-19 atingisse imagem de Bolsonaro](https://oglobo.globo.com/brasil/secom-tracou-estrategia-para-evitar-que-marca-de-100-mil-mortos-por-covid-19-atingisse-imagem-de-bolsonaro-1-24579306)
 * [Governo vai distribuir R$ 7,5 bilhões do lucro registrado pelo FGTS entre os trabalhadores](https://oglobo.globo.com/economia/governo-vai-distribuir-75-bilhoes-do-lucro-registrado-pelo-fgts-entre-os-trabalhadores-24578994)
 * [Enquanto ainda era casada, Rogéria Bolsonaro pagou R$ 95 mil em espécie por imóvel na Zona Norte](https://oglobo.globo.com/brasil/enquanto-ainda-era-casada-rogeria-bolsonaro-pagou-95-mil-em-especie-por-imovel-na-zona-norte-1-24579261)
 * [Flávio faz tour de inaugurações pré- eleitorais com prefeitos na Baixada](https://oglobo.globo.com/brasil/flavio-faz-tour-de-inauguracoes-pre-eleitorais-com-prefeitos-na-baixada-24579212)
 * [O impacto do acordo que livra Onyx da investigação de caixa 2](https://oglobo.globo.com/podcast/o-impacto-do-acordo-que-livra-onyx-da-investigacao-de-caixa-2-1-24579345)
-* [Papais Noéis se preocupam com a falta de trabalho em meio à pandemia do coronavírus e se planejam para o próximo Natal](https://oglobo.globo.com/rio/papais-noeis-se-preocupam-com-falta-de-trabalho-em-meio-pandemia-do-coronavirus-se-planejam-para-proximo-natal-24579258)
-* [Especialistas se dividem sobre liberação de praias com cercadinhos no Rio; preocupação é também com transporte](https://oglobo.globo.com/rio/especialistas-se-dividem-sobre-liberacao-de-praias-com-cercadinhos-no-rio-preocupacao-tambem-com-transporte-24579185)
-* [Crise na Saúde: hospitais de oncologia estão com quatro meses de repasses do governo atrasados](https://oglobo.globo.com/rio/crise-na-saude-hospitais-de-oncologia-estao-com-quatro-meses-de-repasses-do-governo-atrasados-24578679)
-* [Kfouri: Jorge Sampaoli enfrentou o Flamengo com ideias e sem medo](https://oglobo.globo.com/esportes/kfouri-jorge-sampaoli-enfrentou-flamengo-com-ideias-sem-medo-24578689)
-* [Matheus, Caetano e os cem mil que foram embora](https://oglobo.globo.com/cultura/matheus-caetano-os-cem-mil-que-foram-embora-1-24578194)
+* [Torrent 'reinverte a pirâmide' em sua estreia no Flamengo](https://oglobo.globo.com/esportes/torrent-reinverte-piramide-em-sua-estreia-no-flamengo-24578927)
+* [Futuro das mulheres: coronavírus atrasa sonhos de jovens que se preparavam para o Enem](https://oglobo.globo.com/celina/futuro-das-mulheres-coronavirus-atrasa-sonhos-de-jovens-que-se-preparavam-para-enem-24567816)
 * [À frente do café parisiense Les Deux Magots, Catherine Methivat planeja abrir novas filiais, inclusive na América Latina](https://oglobo.globo.com/ela/gastronomia/a-frente-do-cafe-parisiense-les-deux-magots-catherine-methivat-planeja-abrir-novas-filiais-inclusive-na-america-latina-24577785)

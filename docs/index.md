@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 08:17:24 UTC
+# indexed at 11/08/2020 08:34:28 UTC
 
 
 ## news.ycombinator.com
@@ -17,27 +17,27 @@ layout: default
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
-* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
+* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
-* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
-* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
+* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
-* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
+* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
-* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
+* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
-* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
+* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
-* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
+* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
+* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Push to Return U.K.’s ‘Motor City’ to Its Cycling Roots](https://www.nytimes.com/2020/08/10/world/europe/uk-coventry-cycling.html)
 * [Detailed Coronavirus Plans for Champions League Safety are Immediately Tested](https://www.nytimes.com/2020/08/10/sports/soccer/champions-league-lisbon.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [Identical Twins With Two Very Different Destinies](https://www.nytimes.com/2020/08/10/parenting/infant-congenital-heart-defect.html)
@@ -98,11 +98,11 @@ layout: default
 ## globo.com
 
 
+* [Governo vai distribuir R$ 7,5 bilhões do lucro registrado pelo FGTS entre os trabalhadores](https://oglobo.globo.com/economia/governo-vai-distribuir-75-bilhoes-do-lucro-registrado-pelo-fgts-entre-os-trabalhadores-24578994)
+* [Enquanto ainda era casada, Rogéria Bolsonaro pagou R$ 95 mil em espécie por imóvel na Zona Norte](https://oglobo.globo.com/brasil/enquanto-ainda-era-casada-rogeria-bolsonaro-pagou-95-mil-em-especie-por-imovel-na-zona-norte-1-24579261)
+* [Flávio faz tour de inaugurações pré- eleitorais com prefeitos na Baixada](https://oglobo.globo.com/brasil/flavio-faz-tour-de-inauguracoes-pre-eleitorais-com-prefeitos-na-baixada-24579212)
 * [O impacto do acordo que livra Onyx da investigação de caixa 2](https://oglobo.globo.com/podcast/o-impacto-do-acordo-que-livra-onyx-da-investigacao-de-caixa-2-1-24579345)
-* [Votação de vetos pelo Congresso é adiada para próxima semana](https://oglobo.globo.com/economia/votacao-de-vetos-pelo-congresso-adiada-para-proxima-semana-24579287)
-* [Governo vincula socorro a operadoras de transporte coletivos a mudanças nos ônibus](https://oglobo.globo.com/economia/governo-vincula-socorro-operadoras-de-transporte-coletivos-mudancas-nos-onibus-24579125)
 * [Papais Noéis se preocupam com a falta de trabalho em meio à pandemia do coronavírus e se planejam para o próximo Natal](https://oglobo.globo.com/rio/papais-noeis-se-preocupam-com-falta-de-trabalho-em-meio-pandemia-do-coronavirus-se-planejam-para-proximo-natal-24579258)
-* [Cercadinhos nas praias como os propostos por Crivella só foram adotados em alguns lugares do mundo; confira](https://oglobo.globo.com/rio/cercadinhos-nas-praias-como-os-propostos-por-crivella-so-foram-adotados-em-alguns-lugares-do-mundo-confira-24579219)
 * [Especialistas se dividem sobre liberação de praias com cercadinhos no Rio; preocupação é também com transporte](https://oglobo.globo.com/rio/especialistas-se-dividem-sobre-liberacao-de-praias-com-cercadinhos-no-rio-preocupacao-tambem-com-transporte-24579185)
 * [Crise na Saúde: hospitais de oncologia estão com quatro meses de repasses do governo atrasados](https://oglobo.globo.com/rio/crise-na-saude-hospitais-de-oncologia-estao-com-quatro-meses-de-repasses-do-governo-atrasados-24578679)
 * [Kfouri: Jorge Sampaoli enfrentou o Flamengo com ideias e sem medo](https://oglobo.globo.com/esportes/kfouri-jorge-sampaoli-enfrentou-flamengo-com-ideias-sem-medo-24578689)

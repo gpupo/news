@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 01:16:44 UTC
+# indexed at 11/08/2020 01:35:32 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
-* [Celebrate Woz's 70th](https://www.wozbday.com)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
-* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [Celebrate Woz's 70th](https://www.wozbday.com)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
+* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
-* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
-* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
+* [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
-* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
+* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
+* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
-* [A picture of change for a world in constant motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 * [One in 10 ballots rejected in last month’s vote-by-mail elections in New Jersey](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
+* [A picture of change for a world in constant motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
+* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
 * [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
-* [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
@@ -97,12 +97,12 @@ layout: default
 ## globo.com
 
 
+* [Moradores nas Ilhas Maurício fazem cilindros com cabelos para limpar região após vazamento de óleo](https://oglobo.globo.com/sociedade/moradores-nas-ilhas-mauricio-fazem-cilindros-com-cabelos-para-limpar-regiao-apos-vazamento-de-oleo-24579111)
+* [Uber e Lyft devem contratar motoristas como funcionários, decide Justiça da Califórnia](https://oglobo.globo.com/economia/uber-lyft-devem-contratar-motoristas-como-funcionarios-decide-justica-da-california-24579108)
+* [Comitiva de Temer para o Líbano terá marqueteiro e presidente da Fiesp](https://oglobo.globo.com/mundo/comitiva-de-temer-para-libano-tera-marqueteiro-presidente-da-fiesp-24579064)
 * [Rio tem a menor média móvel de óbitos por coronavírus em três meses](https://oglobo.globo.com/rio/rio-tem-menor-media-movel-de-obitos-por-coronavirus-em-tres-meses-1-24579017)
 * [Mundo chega a 20 milhões de casos da Covid-19](https://oglobo.globo.com/mundo/mundo-chega-20-milhoes-de-casos-da-covid-19-24577735)
-* [Dez estados brasileiros apresentam tendência de queda para óbitos por coronavírus](https://oglobo.globo.com/sociedade/coronavirus/dez-estados-brasileiros-apresentam-tendencia-de-queda-para-obitos-por-coronavirus-1-24578902)
 * [Mais de um terço dos servidores deve se aposentar até 2034, diz estudo](https://oglobo.globo.com/economia/mais-de-um-terco-dos-servidores-deve-se-aposentar-ate-2034-diz-estudo-1-24578944)
-* [Deputado de SP diz que Eduardo Bolsonaro entregou dossiê sobre antifascistas aos Estados Unidos](https://oglobo.globo.com/brasil/deputado-de-sp-diz-que-eduardo-bolsonaro-entregou-dossie-sobre-antifascistas-aos-estados-unidos-24578876)
-* [Justiça conclui que Gilmar Mendes ofendeu honra de Deltan e determina à União pagamento de danos morais](https://oglobo.globo.com/brasil/justica-conclui-que-gilmar-mendes-ofendeu-honra-de-deltan-determina-uniao-pagamento-de-danos-morais-24578800)
 * [Policiais suspeitos em caso de agressão e racismo prestam depoimento](https://oglobo.globo.com/sociedade/policiais-suspeitos-em-caso-de-agressao-racismo-prestam-depoimento-24578928)
 * [No dia em que completa 60 anos, Antonio Banderas declara estar com Covid-19](https://oglobo.globo.com/ela/gente/no-dia-em-que-completa-60-anos-antonio-banderas-declara-estar-com-covid-19-24578805)
 * [Amazon quer transformar lojas de departamento falidas em centros de distribuição](https://oglobo.globo.com/economia/amazon-quer-transformar-lojas-de-departamento-falidas-em-centros-de-distribuicao-24578921)

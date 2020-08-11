@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 03:14:49 UTC
+# indexed at 11/08/2020 03:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -12,16 +12,15 @@ layout: default
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
-* [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
-* [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
-* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
+* [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
+* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
+* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
@@ -29,14 +28,15 @@ layout: default
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
-* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
+* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [A picture of change for a world in constant motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
+* [A picture of change for a world in constant motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
+* [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
 ## nytimes.com
 
@@ -74,16 +74,16 @@ layout: default
 * [C.E.O.s Pledge to Hire 100,000 Low-Income and Minority New Yorkers](https://www.nytimes.com/2020/08/10/business/coronavirus-new-york-city-minority-workers.html)
 * [England’s Flawed Virus Contact Tracing Will Be Revamped](https://www.nytimes.com/2020/08/10/world/europe/contact-tracing-england-overhaul.html)
 * [Fay Chew Matsuda, Steward of Chinese Immigrant Legacy, Dies at 71](https://www.nytimes.com/2020/08/10/nyregion/fay-chew-matsuda-musuem-of-chinese-americas-immigrant-died.html)
-* [After a Flop, Amazon Makes Another Foray Into Video Games](https://www.nytimes.com/2020/08/10/technology/amazon-video-games-prime-gaming.html)
+* [Fewer Airline Passengers, but a Higher Rate of Illegal Guns in Carry-On Bags](https://www.nytimes.com/2020/08/10/us/tsa-firearms.html)
 * [Almost 120,000 Still Without Power One Week After Hurricane Isaias](https://www.nytimes.com/2020/08/10/nyregion/hurricane-isaias-power-outage.html)
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [Identical Twins With Two Very Different Destinies](https://www.nytimes.com/2020/08/10/parenting/infant-congenital-heart-defect.html)

@@ -2,32 +2,33 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 14:16:02 UTC
+# indexed at 11/08/2020 14:34:55 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The day I accidentally built a nudity/porn platform](https://elazzabi.com/2020/08/11/the-day-i-accidentally-built-a-nudity-porn-platform/)
-* [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [Changing World, Changing Mozilla](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
-* [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
-* [$1.2B listed company buys $250M worth of Bitcoin](https://www.businesswire.com/news/home/20200811005331/en/MicroStrategy-Adopts-Bitcoin-Primary-Treasury-Reserve-Asset)
+* [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+* [MicroStrategy Adopts Bitcoin as Primary Treasury Reserve Asset](https://ir.microstrategy.com/news-releases/news-release-details/microstrategy-adopts-bitcoin-primary-treasury-reserve-asset)
 * [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
+* [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
 * [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
+* [Single Page Applications Using Rust and WASM](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+* [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
+* [Communities Test “Time Credits”, a New Form of Currency](https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency)
 * [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [Secret Landscape: America's cold war infrastructure](http://coldwar-c4i.net/index.html)
-* [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
-* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [Communities Test “Time Credits”, a New Form of Currency](https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency)
 * [Bernard Bailyn, Eminent Historian of Early America, Dies at 97](https://www.nytimes.com/2020/08/07/books/bernard-bailyn-dead.html)
+* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
 * [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
@@ -35,9 +36,8 @@ layout: default
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [The narrative arc: Revealing core narrative structures through text analysis](https://advances.sciencemag.org/content/6/32/eaba2196.full)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
+* [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
-* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
-* [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 ## nytimes.com
 
 
@@ -46,7 +46,7 @@ layout: default
 * [Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus](https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html)
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [Election Updates: What’s at Stake for Biden in V.P. Announcement](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump)
-* [Ilhan Omar and Georgia's QAnon Candidate: What to Watch in Tuesday's Primary](https://www.nytimes.com/2020/08/11/us/politics/ilhan-omar.html)
+* [Ilhan Omar’s Primary: What to Watch in Race vs Melton-Meaux](https://www.nytimes.com/2020/08/11/us/politics/ilhan-omar.html)
 * [Seattle Police Chief to Resign as Council Pursues Ambitious Plan to Cut Budget](https://www.nytimes.com/2020/08/11/us/seattle-police-chief-budget-cut.html)
 * [‘This Is Not a Boring History of Nagging Spinsters’](https://www.nytimes.com/2020/07/10/us/women-voting-rights-suffrage-centennial.html)
 * [In 1920, Native Women Sought the Vote. Here’s What’s Next.](https://www.nytimes.com/2020/07/31/style/19th-amendment-native-womens-suffrage.html)
@@ -79,11 +79,11 @@ layout: default
 * [Thai Students Protest the Military](https://www.nytimes.com/2020/08/11/world/asia/thailand-student-protest-military.html)
 * [Top Female Chief Quits, Accusing N.Y.P.D. of Widespread Gender Bias](https://www.nytimes.com/2020/08/11/nyregion/nypd-women-discrimination.html)
 * [China Refrains From Ousting Hong Kong Lawmakers](https://www.nytimes.com/2020/08/11/world/asia/hong-kong-china-security.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Daniela Soto-Innes Is One of the Most Exciting Chefs Working Today](https://www.nytimes.com/2020/08/10/t-magazine/daniela-soto-innes-cooking-chef.html)
 * [Holly Humberstone Wants Her Songs to Last a Lifetime](https://www.nytimes.com/2020/08/10/arts/music/holly-humberstone-falling-asleep-at-the-wheel.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Nova Zelândia ordena confinamento em Auckland após primeiros casos de coronavírus em 102 dias](https://oglobo.globo.com/mundo/nova-zelandia-ordena-confinamento-em-auckland-apos-primeiros-casos-de-coronavirus-em-102-dias-24579532)
+* [Warner demite executivos e reformula equipe para focar no serviço de streaming HBO Max](https://oglobo.globo.com/cultura/warner-demite-executivos-reformula-equipe-para-focar-no-servico-de-streaming-hbo-max-24579598)
 * [Backer inicia processo de reparação às vítimas oito meses após primeiro caso de intoxicação](https://oglobo.globo.com/sociedade/backer-inicia-processo-de-reparacao-as-vitimas-oito-meses-apos-primeiro-caso-de-intoxicacao-24579587)
 * [Ministério de Damares exonera Secretária Nacional de Juventude](https://oglobo.globo.com/sociedade/ministerio-de-damares-exonera-secretaria-nacional-de-juventude-24579570)
 * [Vacina russa contra Covid-19 deverá ser produzida no Brasil, diz chefe de fundo soberano russo](https://oglobo.globo.com/sociedade/vacina-russa-contra-covid-19-devera-ser-produzida-no-brasil-diz-chefe-de-fundo-soberano-russo-24579544)
 * [Entenda como Camila Pitanga e filha contraíram malária](https://oglobo.globo.com/cultura/entenda-como-camila-pitanga-filha-contrairam-malaria-24579528)
 * [Praia de Copacabana será o 'projeto piloto' da marcação de lugar na areia por aplicativo no Rio](https://oglobo.globo.com/rio/praia-de-copacabana-sera-projeto-piloto-da-marcacao-de-lugar-na-areia-por-aplicativo-no-rio-1-24579539)
-* [Warner demite executivos e reformula equipe para focar no serviço de streaming HBO Max](https://oglobo.globo.com/cultura/warner-demite-executivos-reformula-equipe-para-focar-no-servico-de-streaming-hbo-max-24579598)
 * [Trump deve divulgar atualização sobre vacina contra Covid-19 nesta terça-feira, diz Casa Branca](https://oglobo.globo.com/sociedade/trump-deve-divulgar-atualizacao-sobre-vacina-contra-covid-19-nesta-terca-feira-diz-casa-branca-1-24579592)
-* [Nova Zelândia ordena confinamento em Auckland após primeiros casos de coronavírus em 102 dias](https://oglobo.globo.com/mundo/nova-zelandia-ordena-confinamento-em-auckland-apos-primeiros-casos-de-coronavirus-em-102-dias-24579532)
 * [Com ata do Banco Central no radar do mercado, dólar recua e vale R$ 5,41](https://oglobo.globo.com/economia/com-ata-do-banco-central-no-radar-do-mercado-dolar-recua-vale-541-24579536)
 * [Trump ameaça retaliar Brasil por causa de tarifa sobre etanol americano](https://oglobo.globo.com/economia/trump-ameaca-retaliar-brasil-por-causa-de-tarifa-sobre-etanol-americano-1-24579499)

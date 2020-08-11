@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 12:19:33 UTC
+# indexed at 11/08/2020 12:35:20 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [The day I accidentally built a nudity/porn platform](https://elazzabi.com/2020/08/11/the-day-i-accidentally-built-a-nudity-porn-platform/)
 * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
+* [Communities Test “Time Credits”, a New Form of Currency](https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency)
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [Short on Money, Cities Around the World Try Making Their Own](https://www.bloomberg.com/news/articles/2020-08-07/a-depression-era-idea-gets-a-new-look-local-money)
-* [Communities Test “Time Credits”, a New Form of Currency](https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
-* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
-* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
-* [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
-* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
+* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Secret Landscape: America's cold war infrastructure](http://coldwar-c4i.net/index.html)
-* [Celebrate Woz's 70th](https://www.wozbday.com)
-* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
+* [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
+* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
+* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
+* [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
 * [Bernard Bailyn, Eminent Historian of Early America, Dies at 97](https://www.nytimes.com/2020/08/07/books/bernard-bailyn-dead.html)
+* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
+* [Celebrate Woz's 70th](https://www.wozbday.com)
 * [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
-* [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 ## nytimes.com
 
@@ -71,18 +71,18 @@ layout: default
 * [‘Stanley Kubrick,’ a Brisk New Biography of a Major Talent](https://www.nytimes.com/2020/08/10/books/review-stanley-kubrick-biography-david-mikics.html)
 * [Business Updates: Global Markets Rally, With Wall Street Set to Follow](https://www.nytimes.com/live/2020/08/11/business/stock-market-today-coronavirus)
 * [Election Updates: What’s at Stake for Biden in the V.P. Announcement?](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump)
-* [Svetlana Tikhanovskaya Flees Belarus Amid Election Protests](https://www.nytimes.com/2020/08/11/world/europe/belarus-election-Svetlana-Tikhanovskaya.html)
+* [Belarus Election: Svetlana Tikhanovskaya Flees Country Amid Protests](https://www.nytimes.com/2020/08/11/world/europe/belarus-election-Svetlana-Tikhanovskaya.html)
 * [Seattle Police Chief to Resign as Council Pursues Ambitious Plan to Cut Budget](https://www.nytimes.com/2020/08/11/us/seattle-police-chief-budget-cut.html)
 * [Fewer Airline Passengers, but a Higher Rate of Illegal Guns in Carry-On Bags](https://www.nytimes.com/2020/08/10/us/tsa-firearms.html)
 * [For Doctors of Color, Microaggressions Are All Too Familiar](https://www.nytimes.com/2020/08/11/health/microaggression-medicine-doctors.html)
 * [Thai Students Protest the Military](https://www.nytimes.com/2020/08/11/world/asia/thailand-student-protest-military.html)
 * [Top Female Chief Quits, Accusing N.Y.P.D. of Widespread Gender Bias](https://www.nytimes.com/2020/08/11/nyregion/nypd-women-discrimination.html)
 * [China Refrains From Ousting Hong Kong Lawmakers](https://www.nytimes.com/2020/08/11/world/asia/hong-kong-china-security.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Daniela Soto-Innes Is One of the Most Exciting Chefs Working Today](https://www.nytimes.com/2020/08/10/t-magazine/daniela-soto-innes-cooking-chef.html)
 * [Holly Humberstone Wants Her Songs to Last a Lifetime](https://www.nytimes.com/2020/08/10/arts/music/holly-humberstone-falling-asleep-at-the-wheel.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
@@ -99,11 +99,11 @@ layout: default
 ## globo.com
 
 
-* [Mercosul detalha como funcionarão equipes transnacionais de investigação contra o crime organizado](https://epoca.globo.com/guilherme-amado/mercosul-detalha-como-funcionarao-equipes-transnacionais-de-investigacao-contra-crime-organizado-24579053)
+* [Após contestar resultado, opositora de Lukashenko abandona a Bielorrússia](https://oglobo.globo.com/mundo/apos-contestar-resultado-opositora-de-lukashenko-abandona-bielorrussia-24579490)
 * [O que se sabe sobre a vacina que a Rússia registrou contra o coronavírus e por que desperta dúvidas](https://epoca.globo.com/mundo/o-que-se-sabe-sobre-vacina-que-russia-registrou-contra-coronavirus-por-que-desperta-duvidas-24579483)
+* [Vereador de Caxias acusado de ser chefe de grupo de extermínio é alvo de operação na Baixada](https://oglobo.globo.com/rio/vereador-de-caxias-acusado-de-ser-chefe-de-grupo-de-exterminio-alvo-de-operacao-na-baixada-1-24579463)
+* [Mercosul detalha como funcionarão equipes transnacionais de investigação contra o crime organizado](https://epoca.globo.com/guilherme-amado/mercosul-detalha-como-funcionarao-equipes-transnacionais-de-investigacao-contra-crime-organizado-24579053)
 * [Banco Central vê recuperação parcial da economia e incerteza com fim do auxílio emergencial](https://oglobo.globo.com/economia/banco-central-ve-recuperacao-parcial-da-economia-incerteza-com-fim-do-auxilio-emergencial-1-24579449)
-* [Cantor Tiee faz show em casa noturna em Marechal Hermes, que tem fila e aglomeração](https://oglobo.globo.com/rio/cantor-tiee-faz-show-em-casa-noturna-em-marechal-hermes-que-tem-fila-aglomeracao-24579417)
-* [Vereador de Caxias acusado de ser chefe de grupo de extermínio é alvo de operação na Baixada](https://oglobo.globo.com/rio/vereador-de-caxias-acusado-de-ser-chefe-de-grupo-de-exterminio-alvo-de-operacao-na-baixada-24579463)
 * [Jornal lista seis fatos bombásticos revelados em livro de Meghan Markle e do príncipe Harry](https://oglobo.globo.com/ela/jornal-lista-seis-fatos-bombasticos-revelados-em-livro-de-meghan-markle-do-principe-harry-24579405)
 * [Após alta, Rappi prevê estabilização de vendas](https://epoca.globo.com/guilherme-amado/apos-alta-rappi-preve-estabilizacao-de-vendas-1-24579050)
 * [Musical sobre A Moreninha pretende trazer relance sobre pandemia de coronavírus](https://epoca.globo.com/guilherme-amado/musical-sobre-moreninha-pretende-trazer-relance-sobre-pandemia-de-coronavirus-24569974)

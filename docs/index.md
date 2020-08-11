@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 18:16:14 UTC
+# indexed at 11/08/2020 18:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Developer won’t get hit by a bus. They’ll get hired by Netflix](https://www.neomindlabs.com/post/your-developer-wont-get-hit-by-a-bus-theyll-get-hired-by-netflix)
+* [Bevy: Simple, data-driven, wgpu-based game engine in Rust](https://bevyengine.org)
 * [Why most doctors don't wash their hands](https://www.3quarksdaily.com/3quarksdaily/2020/08/why-most-doctors-dont-wash-their-hands.html)
-* [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
-* [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
 * [Classic Books for Tech Leads (or those aspiring to be)](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
+* [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+* [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
+* [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
 * [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
 * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
-* [Bevy: Simple, data-driven, wgpu-based game engine in Rust](https://bevyengine.org)
+* [Mozilla is laying off 250 people and planning a ‘new focus’ on making money](https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
 * [The case for why Google should be regulated as a public utility](https://www.rankscience.com/blog/why-google-should-be-regulated-as-a-public-utility)
-* [DragonFly LDM – Lights-Out Digital Manufacturing System (3D Electronics Printer)](https://www.nano-di.com/dragonfly-ldm-3d-printer)
-* [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
 * [Tell HN: YC's First Lightning Tech Talk and Hiring Event Is on September 10th](https://news.ycombinator.com/item?id=24121892)
+* [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
 * [Show HN: A newsletter about mental models and rational thinking](https://models.substack.com/)
+* [Show HN: A fast RSS reader I built with a friend](https://weloverss.com)
+* [DragonFly LDM – Lights-Out Digital Manufacturing System (3D Electronics Printer)](https://www.nano-di.com/dragonfly-ldm-3d-printer)
 * [Belarus Has Shut Down the Internet Amid a Controversial Election](https://www.wired.com/story/belarus-internet-outage-election/)
-* [Mozilla is laying off 250 people and planning a ‘new focus’ on making money](https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus)
 * [BuckleScript Is Rebranding](https://reasonml.org/blog/bucklescript-is-rebranding)
+* [Run for Your Life](https://www.kinfolk.com/run-for-your-life/)
 * [The day I accidentally built a nudity/porn platform](https://elazzabi.com/2020/08/11/the-day-i-accidentally-built-a-nudity-porn-platform/)
-* [Lenovo’s Fedora-Powered ThinkPad P53 Is Everything I Want in a Linux Laptop](https://www.forbes.com/sites/jasonevangelho/2020/08/10/lenovo-new-thinkpad-p53-fedora-linux-laptop)
 * [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
-* [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
-* [Average Power: A Cautionary Note [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2020/08/avgpower.pdf)
+* [Lenovo’s Fedora-Powered ThinkPad P53 Is Everything I Want in a Linux Laptop](https://www.forbes.com/sites/jasonevangelho/2020/08/10/lenovo-new-thinkpad-p53-fedora-linux-laptop)
 * [Ledger (YC W17) Is Hiring a UX Product Lead](https://stackoverflow.com/jobs/420645/product-lead-ux-apps-ledger-investing)
-* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
-* [The telephone transformed – into almost everything (1993)](https://www.nytimes.com/1993/05/16/magazine/the-telephone-transformed-into-almost-everything.html)
+* [Average Power: A Cautionary Note [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2020/08/avgpower.pdf)
+* [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
 * [Small Businesses Are Dying by the Thousands – and No One Is Tracking the Carnage](https://www.bloomberg.com/news/articles/2020-08-11/small-firms-die-quietly-leaving-thousands-of-failures-uncounted)
-* [Losses at Revolut more than triple to £106m](https://www.telegraph.co.uk/technology/2020/08/11/losses-monzo-rival-revolut-rise-105m)
-* [Trump's WeChat ban threatens Apple's smartphone sales in China](https://asia.nikkei.com/Business/Technology/Trump-s-WeChat-ban-threatens-Apple-s-smartphone-sales-in-China)
-* [Secret Landscape: America's cold war infrastructure](http://coldwar-c4i.net/index.html)
+* [The telephone transformed – into almost everything (1993)](https://www.nytimes.com/1993/05/16/magazine/the-telephone-transformed-into-almost-everything.html)
+* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [How Progressives Flipped the Script on Medicaid Expansion](https://www.nytimes.com/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
 * [After the Beirut Explosion, Lebanon’s Whole Cabinet Resigned. Now What?](https://www.nytimes.com/2020/08/11/world/middleeast/lebanon-government-resigns-explainer.html)
 * [Hockey, Rocked by Racist Acts, Embraces Black Lives Matter Campaigns](https://www.nytimes.com/2020/08/10/sports/hockey/nhl-racism-protests-george-floyd.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [She Explains ‘Mansplaining’ With Help From 17th-Century Art](https://www.nytimes.com/2020/08/10/books/nicole-tersigni-men-to-avoid-in-art-and-life.html)
 * [What if Your Home Could Be Mobile, but Also You Could Park It?](https://www.nytimes.com/2020/08/07/style/kibbo-van-life-startup.html)
@@ -94,7 +94,6 @@ layout: default
 * [C.D.C. Closes Some Offices Over Bacteria Discovery](https://www.nytimes.com/2020/08/08/health/cdc-legionnaires-coronavirus.html)
 * [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](https://www.nytimes.com/2020/08/04/health/coronavirus-hotels-infect.html)
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
-* [How to Prepare for Your Return to the Office](https://www.nytimes.com/2020/08/08/at-home/office-return-coronavirus.html)
 * [Katie Hill is Trying to Move Forward](https://www.nytimes.com/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -102,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Um mês e meio após fim de confinamento, Espanha volta a maior surto europeu da Covid-19](https://oglobo.globo.com/mundo/um-mes-meio-apos-fim-de-confinamento-espanha-volta-maior-surto-europeu-da-covid-19-24579930)
-* [Médicos suspeitam que ar-condicionado do STF deixou Toffoli doente](https://oglobo.globo.com/brasil/medicos-suspeitam-que-ar-condicionado-do-stf-deixou-toffoli-doente-1-24579921)
+* [Rio registra 104 mortes e 2.547 novos casos da Covid-19 em 24 horas, mas média movel de óbitos é a menor desde maio](https://oglobo.globo.com/rio/rio-registra-104-mortes-2547-novos-casos-da-covid-19-em-24-horas-mas-media-movel-de-obitos-a-menor-desde-maio-1-24579971)
+* [Sharon Stone se abre sobre infância traumática, casamentos e derrame em autobiografia](https://oglobo.globo.com/ela/gente/sharon-stone-se-abre-sobre-infancia-traumatica-casamentos-derrame-em-autobiografia-24579962)
+* [Um mês e meio após fim de confinamento, Espanha registra os piores índices de infecção por Covid-19 da Europa](https://oglobo.globo.com/mundo/um-mes-meio-apos-fim-de-confinamento-espanha-registra-os-piores-indices-de-infeccao-por-covid-19-da-europa-24579930)
 * [Bolsonaro reclama de críticas 'injustas' em reunião com presidentes da Amazônia](https://oglobo.globo.com/sociedade/bolsonaro-reclama-de-criticas-injustas-em-reuniao-com-presidentes-da-amazonia-1-24579886)
+* [Médicos suspeitam que ar-condicionado do STF deixou Toffoli doente](https://oglobo.globo.com/brasil/medicos-suspeitam-que-ar-condicionado-do-stf-deixou-toffoli-doente-1-24579921)
+* [Do satélite à vacina: entenda o significado do nome Sputnik para a Rússia](https://epoca.globo.com/mundo/do-satelite-vacina-entenda-significado-do-nome-sputnik-para-russia-24579714)
 * [Família Bolsonaro já movimentou pelo menos R$ 1,5 milhão em dinheiro vivo](https://epoca.globo.com/guilherme-amado/familia-bolsonaro-ja-movimentou-pelo-menos-15-milhao-em-dinheiro-vivo-24579892)
 * [Ministro do TCU defende que governo suspenda contrato com ferramenta do Google](https://oglobo.globo.com/brasil/ministro-do-tcu-defende-que-governo-suspenda-contrato-com-ferramenta-do-google-24579870)
 * [Prefeitos criticam ranking de mortes e acusam governo de atrapalhar medidas para salvar vidas](https://oglobo.globo.com/brasil/prefeitos-criticam-ranking-de-mortes-acusam-governo-de-atrapalhar-medidas-para-salvar-vidas-24579875)
-* [Entenda: Vacina russa foi feita a partir de vírus modificado com material genético do Sars-CoV-2](https://oglobo.globo.com/sociedade/coronavirus/entenda-vacina-russa-foi-feita-partir-de-virus-modificado-com-material-genetico-do-sars-cov-2-24579760)
 * [Entenda: como foi criada a vacina russa para a Covid-19 e o que significa sua aprovação](https://oglobo.globo.com/sociedade/coronavirus/entenda-como-foi-criada-vacina-russa-para-covid-19-o-que-significa-sua-aprovacao-24579880)
-* [MPF diz que novo sistema de ponto do Ibama dificulta fiscalização e pede retorno ao sistema antigo](https://oglobo.globo.com/sociedade/mpf-diz-que-novo-sistema-de-ponto-do-ibama-dificulta-fiscalizacao-pede-retorno-ao-sistema-antigo-24579855)
-* [SP prepara compra de 10 milhões de seringas para vacinar contra Covid-19](https://oglobo.globo.com/sociedade/sp-prepara-compra-de-10-milhoes-de-seringas-para-vacinar-contra-covid-19-24579857)

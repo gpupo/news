@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 10:15:22 UTC
+# indexed at 11/08/2020 10:35:00 UTC
 
 
 ## news.ycombinator.com
@@ -17,9 +17,10 @@ layout: default
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
-* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
-* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Short on Money, Cities Around the World Try Making Their Own](https://www.bloomberg.com/news/articles/2020-08-07/a-depression-era-idea-gets-a-new-look-local-money)
+* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
+* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
+* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
@@ -30,7 +31,6 @@ layout: default
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
-* [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [Bernard Bailyn, Eminent Historian of Early America, Dies at 97](https://www.nytimes.com/2020/08/07/books/bernard-bailyn-dead.html)
 * [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
@@ -41,18 +41,19 @@ layout: default
 ## nytimes.com
 
 
-* [Coronavirus Live Updates: Russia Approves a Virus Vaccine](https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html)
+* [Coronavirus Live Updates: Russia Approves a Possible Vaccine](https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html)
 * [In the Wake of Covid-19 Lockdowns, a Troubling Surge in Homicides](https://www.nytimes.com/2020/08/11/us/homicides-crime-kansas-city-coronavirus.html)
 * [Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus](https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html)
 * [Biden’s V.P. Pick Is Said to Be Imminent](https://www.nytimes.com/2020/08/10/us/politics/biden-vp-pick.html)
-* [Trump Teases a Gettysburg Convention Speech. Experts Say It’s an Ethics Breach.](https://www.nytimes.com/2020/08/10/us/politics/trump-gettysburg-convention.html)
+* [How the Democrats Are Lining Up Their Convention Speakers](https://www.nytimes.com/2020/08/11/us/politics/democratic-convention-speakers.html)
 * [U.S. Contractor Knew of Explosive Material in Beirut Since at Least 2016](https://www.nytimes.com/2020/08/10/world/middleeast/beirut-explosion-us-contractor.html)
 * [Lebanon’s Government Resigns Over Beirut Explosion](https://www.nytimes.com/2020/08/10/world/middleeast/lebanon-government-resigns-beirut.html)
 * [‘This Is Not a Boring History of Nagging Spinsters’](https://www.nytimes.com/2020/07/10/us/women-voting-rights-suffrage-centennial.html)
 * [In 1920, Native Women Sought the Vote. Here’s What’s Next.](https://www.nytimes.com/2020/07/31/style/19th-amendment-native-womens-suffrage.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
+* [Children Are Not Immune](https://www.nytimes.com/2020/08/11/briefing/russia-baltimore-joe-biden-your-tuesday-briefing.html)
 * [Are More Car-Free Streets in N.Y.C.’s Future?](https://www.nytimes.com/2020/08/11/nyregion/nyc-open-streets.html)
-* [Cancel Culture, Part 1: Where It Came From](https://www.nytimes.com/2020/08/10/podcasts/the-daily/cancel-culture.html)
+* [Cancel Culture, Part 2: A Case Study](https://www.nytimes.com/2020/08/11/podcasts/the-daily/cancel-culture.html)
 * [Joe Biden’s Links to Wall Street, Silicon Valley](https://www.nytimes.com/2020/08/10/business/dealbook/biden-wall-street-silicon-valley.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 * [The Revolt of the Republican Strategists](https://www.nytimes.com/2020/08/11/opinion/trump-republicans-lincoln-project.html)
@@ -77,11 +78,11 @@ layout: default
 * [Thai Students Protest the Military](https://www.nytimes.com/2020/08/11/world/asia/thailand-student-protest-military.html)
 * [Top Female Chief Quits, Accusing N.Y.P.D. of Widespread Gender Bias](https://www.nytimes.com/2020/08/11/nyregion/nypd-women-discrimination.html)
 * [How Progressives Flipped the Script on Medicaid Expansion](https://www.nytimes.com/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [The Case Against Tickling](https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [Daniela Soto-Innes Is One of the Most Exciting Chefs Working Today](https://www.nytimes.com/2020/08/10/t-magazine/daniela-soto-innes-cooking-chef.html)
 * [Holly Humberstone Wants Her Songs to Last a Lifetime](https://www.nytimes.com/2020/08/10/arts/music/holly-humberstone-falling-asleep-at-the-wheel.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
@@ -98,12 +99,12 @@ layout: default
 ## globo.com
 
 
-* [Rússia registra a primeira vacina contra Covid-19 do mundo, anuncia Putin](https://oglobo.globo.com/mundo/russia-registra-primeira-vacina-contra-covid-19-do-mundo-anuncia-putin-24579356)
+* [Em meio à desconfiança de especialistas, Rússia anuncia primeira vacina contra o coronavírus](https://oglobo.globo.com/mundo/em-meio-desconfianca-de-especialistas-russia-anuncia-primeira-vacina-contra-coronavirus-24579356)
+* [Torrent 'reinverte a pirâmide' em sua estreia no Flamengo](https://oglobo.globo.com/esportes/torrent-reinverte-piramide-em-sua-estreia-no-flamengo-24578927)
 * [Bolsonaro que dizia não se preocupar com reeleição deixou de existir](https://oglobo.globo.com/analitico/bolsonaro-que-dizia-nao-se-preocupar-com-reeleicao-deixou-de-existir-24578749)
 * [Portal Arquitetura em Rede apontará localização de plantas de prédios históricos](https://oglobo.globo.com/rio/bairros/portal-arquitetura-em-rede-apontara-localizacao-de-plantas-de-predios-historicos-1-24579283)
 * ['Quando vejo índices de alunos de escolas públicas crescerem nas universidades é uma alegria', diz estudante de coletivo da periferia de Belém](https://oglobo.globo.com/sociedade/quando-vejo-indices-de-alunos-de-escolas-publicas-crescerem-nas-universidades-uma-alegria-diz-estudante-de-coletivo-da-periferia-de-belem-24578639)
 * [Em curriculo, nomeada para Funarte diz que livro não pode ser julgado pela capa](https://epoca.globo.com/guilherme-amado/em-curriculo-nomeada-para-funarte-diz-que-livro-nao-pode-ser-julgado-pela-capa-24579033)
-* [Torrent 'reinverte a pirâmide' em sua estreia no Flamengo](https://oglobo.globo.com/esportes/torrent-reinverte-piramide-em-sua-estreia-no-flamengo-24578927)
 * [Robert Pattinson estrela 'High life', sobre missão espacial com catártica coreografia sexual](https://oglobo.globo.com/rioshow/robert-pattinson-estrela-high-life-sobre-missao-espacial-com-catartica-coreografia-sexual-24578525)
 * [Futuro das mulheres: coronavírus atrasa sonhos de jovens que se preparavam para o Enem](https://oglobo.globo.com/celina/futuro-das-mulheres-coronavirus-atrasa-sonhos-de-jovens-que-se-preparavam-para-enem-24567816)
 * [Igreja dos Capuchinhos doa cestas básicas mensais para 450 famílias em vulnerabilidade financeira](https://oglobo.globo.com/rio/bairros/igreja-dos-capuchinhos-doa-cestas-basicas-mensais-para-450-familias-em-vulnerabilidade-financeira-24568752)

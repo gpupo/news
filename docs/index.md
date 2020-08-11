@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 07:34:50 UTC
+# indexed at 11/08/2020 08:17:24 UTC
 
 
 ## news.ycombinator.com
 
 
-* [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
-* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
+* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
+* [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
-* [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
+* [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
-* [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
-* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
+* [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
+* [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
+* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
-* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
+* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
-* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
-* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
+* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
+* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
 ## nytimes.com
 
 
@@ -71,7 +71,7 @@ layout: default
 * [‘The Guy in Front of Me Called a Name, and the Other Guy Turned’](https://www.nytimes.com/2020/08/09/nyregion/metropolitan-diary.html)
 * [Unusual ‘Derecho’ Storms Rip Through Midwest](https://www.nytimes.com/2020/08/10/us/derecho-storm-chicago-weather.html)
 * [C.E.O.s Pledge to Hire 100,000 Low-Income and Minority New Yorkers](https://www.nytimes.com/2020/08/10/business/coronavirus-new-york-city-minority-workers.html)
-* [England’s Flawed Virus Contact Tracing Will Be Revamped](https://www.nytimes.com/2020/08/10/world/europe/contact-tracing-england-overhaul.html)
+* [SoftBank Claws Back Into the Black After Historic Losses](https://www.nytimes.com/2020/08/11/business/softbank-earnings.html)
 * [Wayne Fontana, Hitmaker With ‘The Game of Love,’ Dies at 74](https://www.nytimes.com/2020/08/10/arts/music/wayne-fontana-hitmaker-with-the-game-of-love-dies-at-74.html)
 * [Fewer Airline Passengers, but a Higher Rate of Illegal Guns in Carry-On Bags](https://www.nytimes.com/2020/08/10/us/tsa-firearms.html)
 * [Pints or Primers? U.K.’s Push to Open Schools May Force a Choice](https://www.nytimes.com/2020/08/10/world/europe/UK-schools-pubs-coronavirus.html)
@@ -79,8 +79,8 @@ layout: default
 * [A Push to Return U.K.’s ‘Motor City’ to Its Cycling Roots](https://www.nytimes.com/2020/08/10/world/europe/uk-coventry-cycling.html)
 * [Detailed Coronavirus Plans for Champions League Safety are Immediately Tested](https://www.nytimes.com/2020/08/10/sports/soccer/champions-league-lisbon.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
@@ -98,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Bretas autoriza Temer a viajar para o Líbano](https://oglobo.globo.com/mundo/bretas-autoriza-temer-viajar-para-libano-24579064)
-* [Moradores nas Ilhas Maurício fazem cilindros com cabelos para limpar região após vazamento de óleo](https://oglobo.globo.com/sociedade/moradores-nas-ilhas-mauricio-fazem-cilindros-com-cabelos-para-limpar-regiao-apos-vazamento-de-oleo-24579111)
-* [Uber e Lyft devem contratar motoristas como funcionários, decide Justiça da Califórnia](https://oglobo.globo.com/economia/uber-lyft-devem-contratar-motoristas-como-funcionarios-decide-justica-da-california-24579108)
-* [Ataque do Fluminense cai de rendimento com novo esquema e vira problema para Odair](https://oglobo.globo.com/esportes/ataque-do-fluminense-cai-de-rendimento-com-novo-esquema-vira-problema-para-odair-24578630)
-* [Flávio Bolsonaro ainda deve muitas explicações](https://oglobo.globo.com/opiniao/flavio-bolsonaro-ainda-deve-muitas-explicacoes-24578875)
-* [Oferta de vacina contra a Covid-19 precisa priorizar grupos vulneráveis](https://oglobo.globo.com/opiniao/oferta-de-vacina-contra-covid-19-precisa-priorizar-grupos-vulneraveis-24578758)
-* [No palanque, o bolsolulismo](https://oglobo.globo.com/opiniao/no-palanque-bolsolulismo-24578697)
-* [Para viabilizar investimentos pós-Covid](https://oglobo.globo.com/opiniao/para-viabilizar-investimentos-pos-covid-24578627)
-* [Breve retrospectiva da infâmia](https://oglobo.globo.com/opiniao/breve-retrospectiva-da-infamia-24578572)
-* [Receitas fáceis e rápidas de massa para uma pessoa só](https://oglobo.globo.com/rioshow/receitas-faceis-rapidas-de-massa-para-uma-pessoa-so-24578200)
+* [O impacto do acordo que livra Onyx da investigação de caixa 2](https://oglobo.globo.com/podcast/o-impacto-do-acordo-que-livra-onyx-da-investigacao-de-caixa-2-1-24579345)
+* [Votação de vetos pelo Congresso é adiada para próxima semana](https://oglobo.globo.com/economia/votacao-de-vetos-pelo-congresso-adiada-para-proxima-semana-24579287)
+* [Governo vincula socorro a operadoras de transporte coletivos a mudanças nos ônibus](https://oglobo.globo.com/economia/governo-vincula-socorro-operadoras-de-transporte-coletivos-mudancas-nos-onibus-24579125)
+* [Papais Noéis se preocupam com a falta de trabalho em meio à pandemia do coronavírus e se planejam para o próximo Natal](https://oglobo.globo.com/rio/papais-noeis-se-preocupam-com-falta-de-trabalho-em-meio-pandemia-do-coronavirus-se-planejam-para-proximo-natal-24579258)
+* [Cercadinhos nas praias como os propostos por Crivella só foram adotados em alguns lugares do mundo; confira](https://oglobo.globo.com/rio/cercadinhos-nas-praias-como-os-propostos-por-crivella-so-foram-adotados-em-alguns-lugares-do-mundo-confira-24579219)
+* [Especialistas se dividem sobre liberação de praias com cercadinhos no Rio; preocupação é também com transporte](https://oglobo.globo.com/rio/especialistas-se-dividem-sobre-liberacao-de-praias-com-cercadinhos-no-rio-preocupacao-tambem-com-transporte-24579185)
+* [Crise na Saúde: hospitais de oncologia estão com quatro meses de repasses do governo atrasados](https://oglobo.globo.com/rio/crise-na-saude-hospitais-de-oncologia-estao-com-quatro-meses-de-repasses-do-governo-atrasados-24578679)
+* [Kfouri: Jorge Sampaoli enfrentou o Flamengo com ideias e sem medo](https://oglobo.globo.com/esportes/kfouri-jorge-sampaoli-enfrentou-flamengo-com-ideias-sem-medo-24578689)
+* [Matheus, Caetano e os cem mil que foram embora](https://oglobo.globo.com/cultura/matheus-caetano-os-cem-mil-que-foram-embora-1-24578194)
+* [À frente do café parisiense Les Deux Magots, Catherine Methivat planeja abrir novas filiais, inclusive na América Latina](https://oglobo.globo.com/ela/gastronomia/a-frente-do-cafe-parisiense-les-deux-magots-catherine-methivat-planeja-abrir-novas-filiais-inclusive-na-america-latina-24577785)

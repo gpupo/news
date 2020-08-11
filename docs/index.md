@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 06:34:37 UTC
+# indexed at 11/08/2020 07:15:09 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
+* [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
-* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
+* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
-* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
-* [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
+* [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
+* [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
-* [The Mesmerizing Geometry of Malaysia’s Most Complex Cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
-* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
+* [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
-* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
+* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
+* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
-* [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
+* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
-* [Options for packaging your Python code: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
 * [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
-* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
+* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
 ## nytimes.com
 
 
@@ -49,11 +49,11 @@ layout: default
 * [Trump Led From Briefing Room After a Shooting Outside the White House](https://www.nytimes.com/2020/08/10/us/trump-white-house-shooting.html)
 * [Looting in Downtown Chicago: Police Arrest More Than 100 People](https://www.nytimes.com/2020/08/10/us/shooting-chicago-looting.html)
 * [Taking Protest to the Streets, and the Mayor’s Front Door](https://www.nytimes.com/2020/08/10/us/protest-personal-homes-doxxing.html)
+* [Seattle Police Chief to Resign as Council Pursues Ambitious Plan to Cut Budget](https://www.nytimes.com/2020/08/11/us/seattle-police-chief-budget-cut.html)
 * [McDonald’s Sues Former C.E.O. Steve Easterbrook](https://www.nytimes.com/2020/08/10/business/mcdonalds-ceo-steve-easterbrook.html)
 * [Trump's Payroll Tax Holiday Order Gives Employers a New Dilemma](https://www.nytimes.com/2020/08/10/business/economy/trump-payroll-tax-holiday.html)
 * [Lebanon’s Government Resigns Over Beirut Explosion](https://www.nytimes.com/2020/08/10/world/middleeast/lebanon-government-resigns-beirut.html)
 * [U.S. Contractor Knew of Explosive Material in Beirut Since at Least 2016](https://www.nytimes.com/2020/08/10/world/middleeast/beirut-explosion-us-contractor.html)
-* [Stimulus, Border Rule, Conventions: Your Monday Evening Briefing](https://www.nytimes.com/2020/08/10/briefing/stimulus-border-rule-conventions-lebanon.html)
 * [Cancel Culture, Part 1: Where It Came From](https://www.nytimes.com/2020/08/10/podcasts/the-daily/cancel-culture.html)
 * [Joe Biden’s Links to Wall Street, Silicon Valley](https://www.nytimes.com/2020/08/10/business/dealbook/biden-wall-street-silicon-valley.html)
 * [Episode Three: ‘This Is Our School, How Dare You?’](https://www.nytimes.com/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
@@ -78,9 +78,9 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Push to Return U.K.’s ‘Motor City’ to Its Cycling Roots](https://www.nytimes.com/2020/08/10/world/europe/uk-coventry-cycling.html)
 * [Detailed Coronavirus Plans for Champions League Safety are Immediately Tested](https://www.nytimes.com/2020/08/10/sports/soccer/champions-league-lisbon.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
@@ -92,7 +92,6 @@ layout: default
 * [How to Move Your Elephant During a Pandemic](https://www.nytimes.com/2020/08/09/science/coronavirus-elephants-wildlife-zoo.html)
 * [The Covid Drug Wars That Pitted Doctor vs. Doctor](https://www.nytimes.com/2020/08/05/magazine/covid-drug-wars-doctors.html)
 * [Katie Hill is Trying to Move Forward](https://www.nytimes.com/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
-* [Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow](https://www.nytimes.com/2020/08/08/science/coronavirus-spread-air-conditioning.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

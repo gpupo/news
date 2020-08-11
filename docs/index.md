@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 02:34:46 UTC
+# indexed at 11/08/2020 03:14:49 UTC
 
 
 ## news.ycombinator.com
@@ -12,37 +12,37 @@ layout: default
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
-* [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
-* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
-* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+* [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
+* [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
+* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
-* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
+* [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
+* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
-* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
-* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
-* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
+* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
 * [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
-* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
+* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
 * [A picture of change for a world in constant motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
+* [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
 * [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
-* [Wiki Bankruptcy](https://critter.blog/2020/08/10/wiki-bankruptcy/)
 ## nytimes.com
 
 
-* [Coronavirus Live Updates](https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html)
 * [Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus](https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html)
+* [Coronavirus Live Updates](https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html)
 * [In Push to Play, College Football Stars Show Sudden Unity](https://www.nytimes.com/2020/08/10/sports/ncaafootball/coronavirus-college-football-players.html)
 * [Biden’s V.P. Pick Is Said to Be Imminent](https://www.nytimes.com/2020/08/10/us/politics/biden-vp-pick.html)
 * [Trump Teases a Gettysburg Convention Speech. Experts Say It’s an Ethics Breach.](https://www.nytimes.com/2020/08/10/us/politics/trump-gettysburg-convention.html)
@@ -79,11 +79,11 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [Identical Twins With Two Very Different Destinies](https://www.nytimes.com/2020/08/10/parenting/infant-congenital-heart-defect.html)
@@ -98,7 +98,6 @@ layout: default
 ## globo.com
 
 
-* [Portal Arquitetura em Rede apontará localização de plantas de prédios históricos](https://oglobo.globo.com/rio/bairros/portal-arquitetura-em-rede-apontara-localizacao-de-plantas-de-predios-historicos-24579283)
 * [Bretas autoriza Temer a viajar para o Líbano](https://oglobo.globo.com/mundo/bretas-autoriza-temer-viajar-para-libano-24579064)
 * [Moradores nas Ilhas Maurício fazem cilindros com cabelos para limpar região após vazamento de óleo](https://oglobo.globo.com/sociedade/moradores-nas-ilhas-mauricio-fazem-cilindros-com-cabelos-para-limpar-regiao-apos-vazamento-de-oleo-24579111)
 * [Uber e Lyft devem contratar motoristas como funcionários, decide Justiça da Califórnia](https://oglobo.globo.com/economia/uber-lyft-devem-contratar-motoristas-como-funcionarios-decide-justica-da-california-24579108)
@@ -106,5 +105,6 @@ layout: default
 * [Mundo chega a 20 milhões de casos da Covid-19](https://oglobo.globo.com/mundo/mundo-chega-20-milhoes-de-casos-da-covid-19-24577735)
 * [Mais de um terço dos servidores deve se aposentar até 2034, diz estudo](https://oglobo.globo.com/economia/mais-de-um-terco-dos-servidores-deve-se-aposentar-ate-2034-diz-estudo-1-24578944)
 * [Policiais suspeitos em caso de agressão e racismo prestam depoimento](https://oglobo.globo.com/sociedade/policiais-suspeitos-em-caso-de-agressao-racismo-prestam-depoimento-24578928)
-* [No dia em que completa 60 anos, Antonio Banderas declara estar com Covid-19](https://oglobo.globo.com/ela/gente/no-dia-em-que-completa-60-anos-antonio-banderas-declara-estar-com-covid-19-24578805)
-* [Amazon quer transformar lojas de departamento falidas em centros de distribuição](https://oglobo.globo.com/economia/amazon-quer-transformar-lojas-de-departamento-falidas-em-centros-de-distribuicao-24578921)
+* [Flávio Bolsonaro ainda deve muitas explicações](https://oglobo.globo.com/opiniao/flavio-bolsonaro-ainda-deve-muitas-explicacoes-24578875)
+* [Oferta de vacina contra a Covid-19 precisa priorizar grupos vulneráveis](https://oglobo.globo.com/opiniao/oferta-de-vacina-contra-covid-19-precisa-priorizar-grupos-vulneraveis-24578758)
+* [Receitas fáceis e rápidas de massa para uma pessoa só](https://oglobo.globo.com/rioshow/receitas-faceis-rapidas-de-massa-para-uma-pessoa-so-24578200)

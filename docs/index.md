@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 13:14:47 UTC
+# indexed at 11/08/2020 13:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [The day I accidentally built a nudity/porn platform](https://elazzabi.com/2020/08/11/the-day-i-accidentally-built-a-nudity-porn-platform/)
 * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [Communities Test “Time Credits”, a New Form of Currency](https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency)
-* [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
 * [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
+* [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
-* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
-* [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
-* [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [Secret Landscape: America's cold war infrastructure](http://coldwar-c4i.net/index.html)
+* [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
+* [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
+* [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
-* [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
+* [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
+* [The narrative arc: Revealing core narrative structures through text analysis](https://advances.sciencemag.org/content/6/32/eaba2196.full)
+* [$1.2B listed company buys $250M worth of Bitcoin](https://www.businesswire.com/news/home/20200811005331/en/MicroStrategy-Adopts-Bitcoin-Primary-Treasury-Reserve-Asset)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [Bernard Bailyn, Eminent Historian of Early America, Dies at 97](https://www.nytimes.com/2020/08/07/books/bernard-bailyn-dead.html)
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
-* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
 * [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [Show HN: Kiel – Minimalist Kotlin DSL for RecyclerView.Adapter](https://github.com/ibrahimyilmaz/kiel)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
-* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [Short on Money, Cities Around the World Try Making Their Own](https://www.bloomberg.com/news/articles/2020-08-07/a-depression-era-idea-gets-a-new-look-local-money)
-* [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
-* [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
+* [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 ## nytimes.com
 
 
@@ -80,8 +80,8 @@ layout: default
 * [China Refrains From Ousting Hong Kong Lawmakers](https://www.nytimes.com/2020/08/11/world/asia/hong-kong-china-security.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Daniela Soto-Innes Is One of the Most Exciting Chefs Working Today](https://www.nytimes.com/2020/08/10/t-magazine/daniela-soto-innes-cooking-chef.html)
 * [Holly Humberstone Wants Her Songs to Last a Lifetime](https://www.nytimes.com/2020/08/10/arts/music/holly-humberstone-falling-asleep-at-the-wheel.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Após contestar resultado, opositora de Lukashenko abandona a Bielorrússia](https://oglobo.globo.com/mundo/apos-contestar-resultado-opositora-de-lukashenko-abandona-bielorrussia-24579490)
+* [Como Camila Pitanga e a filha contraíram malária](https://oglobo.globo.com/cultura/como-camila-pitanga-a-filha-contrairam-malaria-24579528)
 * [Nova Zelândia ordena confinamento em Auckland após primeiros casos de coronavírus em 102 dias](https://oglobo.globo.com/mundo/nova-zelandia-ordena-confinamento-em-auckland-apos-primeiros-casos-de-coronavirus-em-102-dias-24579532)
+* [Copacabana será a praia que terá teste de marcação de lugar na areia por aplicativo no Rio](https://oglobo.globo.com/rio/copacabana-sera-praia-que-tera-teste-de-marcacao-de-lugar-na-areia-por-aplicativo-no-rio-24579539)
+* [Vacina russa contra Covid-19 deverá ser produzida no Brasil, diz chefe de fundo soberano russo](https://oglobo.globo.com/sociedade/vacina-russa-contra-covid-19-devera-ser-produzida-no-brasil-diz-chefe-de-fundo-soberano-russo-24579544)
+* [Após contestar resultado, opositora de Lukashenko abandona a Bielorrússia](https://oglobo.globo.com/mundo/apos-contestar-resultado-opositora-de-lukashenko-abandona-bielorrussia-24579490)
 * [Com ata do Banco Central no radar do mercado, dólar recua e vale R$ 5,41](https://oglobo.globo.com/economia/com-ata-do-banco-central-no-radar-do-mercado-dolar-recua-vale-541-24579536)
 * [Após anúncio, OMS diz que Rússia não precisa do aval da entidade para registrar vacina contra coronavírus](https://oglobo.globo.com/sociedade/apos-anuncio-oms-diz-que-russia-nao-precisa-do-aval-da-entidade-para-registrar-vacina-contra-coronavirus-24579504)
-* [O que se sabe sobre a vacina que a Rússia registrou contra o coronavírus e por que desperta dúvidas](https://epoca.globo.com/mundo/o-que-se-sabe-sobre-vacina-que-russia-registrou-contra-coronavirus-por-que-desperta-duvidas-24579483)
 * [Trump ameaça retaliar Brasil por causa de tarifa sobre etanol americano](https://oglobo.globo.com/economia/trump-ameaca-retaliar-brasil-por-causa-de-tarifa-sobre-etanol-americano-1-24579499)
 * [Camila Pitanga revela que ela e a filha tiveram malária](https://oglobo.globo.com/ela/gente/camila-pitanga-revela-que-ela-a-filha-tiveram-malaria-24579500)
 * [Ministro do STJ que decidiu investigar juiz do caso Queiroz aspira ao STF](https://epoca.globo.com/guilherme-amado/ministro-do-stj-que-decidiu-investigar-juiz-do-caso-queiroz-aspira-ao-stf-24579054)
-* [Vereador de Caxias acusado de ser chefe de grupo de extermínio é alvo de operação na Baixada](https://oglobo.globo.com/rio/vereador-de-caxias-acusado-de-ser-chefe-de-grupo-de-exterminio-alvo-de-operacao-na-baixada-1-24579463)
-* [Mercosul detalha como funcionarão equipes transnacionais de investigação contra o crime organizado](https://epoca.globo.com/guilherme-amado/mercosul-detalha-como-funcionarao-equipes-transnacionais-de-investigacao-contra-crime-organizado-24579053)

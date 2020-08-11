@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 07:15:09 UTC
+# indexed at 11/08/2020 07:34:50 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [TikTok to Sue U.S. over Ban](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday)
+* [Golang Desktop App with Webview/Lorca, WASM and Bazel](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89)
+* [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
 * [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
-* [Celebrate Woz's 70th](https://www.wozbday.com)
 * [Let’s implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
-* [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
+* [Celebrate Woz's 70th](https://www.wozbday.com)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+* [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Building a Basic Interpreter, '80s Style, Part 2](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style-part-2--e91250f1)
 * [Emacs 27.1](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [The mesmerizing geometry of Malaysia’s most complex cakes](https://www.atlasobscura.com/articles/kek-lapis-sarawak)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
+* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
-* [What Truths Can You Divine from Instagram Paintings?](https://www.thenation.com/article/culture/painting-instagram-essay/)
-* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
+* [Prime Numbers for the Win (2009)](https://blog.dustinkirkland.com/2009/06/prime-numbers-for-win.html)
 * [Running a marathon was never crazier than during the 1904 St Louis Olympics](https://www.abc.net.au/news/2020-07-26/the-wildest-olympic-event-in-modern-history/12467362)
 * [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
-* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
-* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
+* [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
 * [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
+* [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
-* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
 ## nytimes.com
 
 
 * [Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus](https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html)
-* [Live Coronavirus News: World Updates](https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html)
+* [Trump’s Order on Coronavirus Relief Alarms Governors as Stimulus Talks Stall](https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html)
 * [In Push to Play, College Football Stars Show Sudden Unity](https://www.nytimes.com/2020/08/10/sports/ncaafootball/coronavirus-college-football-players.html)
 * [Biden’s V.P. Pick Is Said to Be Imminent](https://www.nytimes.com/2020/08/10/us/politics/biden-vp-pick.html)
 * [Trump Teases a Gettysburg Convention Speech. Experts Say It’s an Ethics Breach.](https://www.nytimes.com/2020/08/10/us/politics/trump-gettysburg-convention.html)
@@ -79,10 +79,10 @@ layout: default
 * [A Push to Return U.K.’s ‘Motor City’ to Its Cycling Roots](https://www.nytimes.com/2020/08/10/world/europe/uk-coventry-cycling.html)
 * [Detailed Coronavirus Plans for Champions League Safety are Immediately Tested](https://www.nytimes.com/2020/08/10/sports/soccer/champions-league-lisbon.html)
 * [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [Identical Twins With Two Very Different Destinies](https://www.nytimes.com/2020/08/10/parenting/infant-congenital-heart-defect.html)

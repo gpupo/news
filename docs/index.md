@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 11/08/2020 01:35:32 UTC
+# indexed at 11/08/2020 02:16:54 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [Planet Ceres is an 'ocean world' with sea water beneath surface, mission finds](https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface)
+* [Uber and Lyft ordered by California judge to classify drivers as employees](https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling)
 * [The tragic physics of the deadly explosion in Beirut](https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/)
-* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [Celebrate Woz's 70th](https://www.wozbday.com)
+* [Cloud Traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 * [U.S. Marshals Service online auction – Fyre festival fraud scheme](https://txauction.com/auctions/911/)
 * [I want to have an AWS region where everything breaks with high frequency](https://twitter.com/cperciva/status/1292260921893457920)
+* [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 * [Kicking Off the Repl.it Programming Language Jam](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105)
 * [Over 400 vulnerabilities on Qualcomm’s Snapdragon chip](https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/)
 * [The Clean Network – United States Department of State](https://www.state.gov/5g-clean-network/)
 * [What's it like to be an Octopus? (2017)](https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker)
 * [Launch HN: Rally.Video (YC S20) – Dynamic video platform for social groups](https://news.ycombinator.com/item?id=24109523)
-* [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
 * [The Three Bay Areas (2017)](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727)
-* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
+* [That UPS you bought for your home server may not be as useful as you think](https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/)
+* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
 * [The Tinkerings of Robert Noyce (1983)](https://www.esquire.com/news-politics/a12149389/robert-noyce-tom-wolfe/)
+* [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)
+* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
 * [Olric: Distributed in-memory data structures in Go](https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=)
 * [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
-* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
-* [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
-* [Show HN: MyDeskTour – Show off your desk setup](https://mydesktour.com/)
+* [Wiltshire valley locals build their own mobile phone network](https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/)
 * [G Suite Doesn't Let You Contact Support Until Logged In. Locked Out = Stuck](https://news.ycombinator.com/item?id=24109809)
+* [Tom Stoppard's Arcadia (2009)](https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html)
 * [Sketching Realistic Graphs (2005)](https://statmodeling.stat.columbia.edu/2005/12/26/making_realisti/)
-* [One in 10 ballots rejected in last month’s vote-by-mail elections in New Jersey](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
 * [A picture of change for a world in constant motion](https://www.nytimes.com/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 * [How We Got the Favicon (2017)](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
-* [Emacs 27.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html)
-* [The Forgotten Ones: HP Nanoprocessor](http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/)
+* [One in 10 ballots rejected in last month’s vote-by-mail elections in New Jersey](https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/)
 * [If it's a nice problem to have, don't solve it now](https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now)
 ## nytimes.com
 
@@ -70,7 +70,7 @@ layout: default
 * [She Explains ‘Mansplaining’ With Help From 17th-Century Art](https://www.nytimes.com/2020/08/10/books/nicole-tersigni-men-to-avoid-in-art-and-life.html)
 * [‘The Guy in Front of Me Called a Name, and the Other Guy Turned’](https://www.nytimes.com/2020/08/09/nyregion/metropolitan-diary.html)
 * [Trump Moves to Force Manhattan D.A. to Reveal Details of Inquiry](https://www.nytimes.com/2020/08/10/nyregion/donald-trump-taxes-cyrus-vance.html)
-* [Catholic Churches Drop Hymns After Accusations Against Composer](https://www.nytimes.com/2020/08/10/us/david-haas-catholic-composer-boycott.html)
+* [C.E.O.s Pledge to Hire 100,000 Low-Income and Minority New Yorkers](https://www.nytimes.com/2020/08/10/business/coronavirus-new-york-city-minority-workers.html)
 * [England’s Flawed Virus Contact Tracing Will Be Revamped](https://www.nytimes.com/2020/08/10/world/europe/contact-tracing-england-overhaul.html)
 * [Fay Chew Matsuda, Steward of Chinese Immigrant Legacy, Dies at 71](https://www.nytimes.com/2020/08/10/nyregion/fay-chew-matsuda-musuem-of-chinese-americas-immigrant-died.html)
 * [After a Flop, Amazon Makes Another Foray Into Video Games](https://www.nytimes.com/2020/08/10/technology/amazon-video-games-prime-gaming.html)
@@ -78,11 +78,11 @@ layout: default
 * [E.P.A. to Lift Obama-Era Controls on Methane, a Potent Greenhouse Gas](https://www.nytimes.com/2020/08/10/climate/trump-methane-climate-change.html)
 * [A Rare Economic Bright Spot in the U.S. Health System: The Vet’s Office](https://www.nytimes.com/2020/08/10/upshot/pets-health-boom-coronavirus.html)
 * [Sure? No. But Rob Manfred Is Still Optimistic About This Season.](https://www.nytimes.com/2020/08/10/sports/baseball/rob-manfred-mlb-season-outbreaks.html)
+* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Proactively Prepare for Distance Learning](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html)
 * [Stephen Curry Has ‘Major FOMO’ in Life Outside the N.B.A. Bubble](https://www.nytimes.com/2020/08/10/sports/basketball/nba-stephen-curry.html)
 * [‘Motorcycle of Tomorrow’ Is Heavy on Flair and Light on the Environment](https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html)
 * [Identical Twins With Two Very Different Destinies](https://www.nytimes.com/2020/08/10/parenting/infant-congenital-heart-defect.html)
@@ -97,9 +97,9 @@ layout: default
 ## globo.com
 
 
+* [Bretas autoriza Temer a viajar para o Líbano](https://oglobo.globo.com/mundo/bretas-autoriza-temer-viajar-para-libano-24579064)
 * [Moradores nas Ilhas Maurício fazem cilindros com cabelos para limpar região após vazamento de óleo](https://oglobo.globo.com/sociedade/moradores-nas-ilhas-mauricio-fazem-cilindros-com-cabelos-para-limpar-regiao-apos-vazamento-de-oleo-24579111)
 * [Uber e Lyft devem contratar motoristas como funcionários, decide Justiça da Califórnia](https://oglobo.globo.com/economia/uber-lyft-devem-contratar-motoristas-como-funcionarios-decide-justica-da-california-24579108)
-* [Comitiva de Temer para o Líbano terá marqueteiro e presidente da Fiesp](https://oglobo.globo.com/mundo/comitiva-de-temer-para-libano-tera-marqueteiro-presidente-da-fiesp-24579064)
 * [Rio tem a menor média móvel de óbitos por coronavírus em três meses](https://oglobo.globo.com/rio/rio-tem-menor-media-movel-de-obitos-por-coronavirus-em-tres-meses-1-24579017)
 * [Mundo chega a 20 milhões de casos da Covid-19](https://oglobo.globo.com/mundo/mundo-chega-20-milhoes-de-casos-da-covid-19-24577735)
 * [Mais de um terço dos servidores deve se aposentar até 2034, diz estudo](https://oglobo.globo.com/economia/mais-de-um-terco-dos-servidores-deve-se-aposentar-ate-2034-diz-estudo-1-24578944)

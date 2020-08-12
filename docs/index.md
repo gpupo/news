@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 14:16:43 UTC
+# indexed at 12/08/2020 14:34:59 UTC
 
 
 ## news.ycombinator.com
@@ -19,25 +19,25 @@ layout: default
 * [Helping Native Bees Thrive in a Honeybee World](https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world)
 * [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
 * [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
+* [Broken Cable Damages Arecibo Observatory](https://www.ucf.edu/news/broken-cable-damages-arecibo-observatory/)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
+* [Storybook 6.0 your new favourite tool for front-end development](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
-* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
-* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
+* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [Freedom is not simple](https://www.arp242.net/freedom.html)
-* [Broken Cable Damages Arecibo Observatory](https://www.ucf.edu/news/broken-cable-damages-arecibo-observatory/)
-* [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [Deplacy: CUI-Based Tree Visualizer for Universal Dependencies](https://github.com/KoichiYasuoka/deplacy)
+* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
+* [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
 * [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [PDF: Still unfit for human consumption, 20 years later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
-* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 ## nytimes.com
 
 
@@ -63,10 +63,10 @@ layout: default
 * [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
 * [Why Kamala Harris Matters in Indian and African-American History](https://www.nytimes.com/2020/08/12/opinion/kamala-harris-indian-american.html)
 * [Joshua Wong: Hong Kong Still Has Many Ways to Resist](https://www.nytimes.com/2020/08/12/opinion/hong-kong-joshua-wong.html)
-* [This Is Not Just a Victory for Kamala Harris](https://www.nytimes.com/2020/08/12/opinion/kamala-harris-joe-biden-election.html)
+* [Kamala Harris and the Growing Political Power of Black Women](https://www.nytimes.com/2020/08/12/opinion/kamala-harris-joe-biden-election.html)
 * [Children Aren’t the Coronavirus Infection Risk in Schools. Adults Are.](https://www.nytimes.com/2020/08/12/opinion/coronavirus-schools-children.html)
 * [The Politics We Don’t See Matter as Much as Those We Do](https://www.nytimes.com/2020/08/12/opinion/census-politics-gerrymandering-redistricting.html)
-* [Black Women Have Been Waiting for Kamala Harris Far Too Long](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-2020.html)
+* [We Got a Black Woman on the Ticket. At Last.](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-2020.html)
 * [The Poly-Parent Households Are Coming](https://www.nytimes.com/2020/08/12/opinion/ivg-reproductive-technology.html)
 * [Don’t Make College Kids the Coronavirus Police](https://www.nytimes.com/2020/08/12/opinion/coronavirus-college-reopening.html)
 * [Dying in Your Mother’s Arms](https://www.nytimes.com/2020/08/11/opinion/dying-in-your-mothers-arms-palliative.html)
@@ -82,12 +82,12 @@ layout: default
 * [Second City Is Trying Not to Be Racist. Will It Work This Time?](https://www.nytimes.com/2020/08/12/movies/second-city-black-lives-matter.html)
 * [‘No Slavery in Australia’? These Pacific Islanders Tell a Different Story](https://www.nytimes.com/2020/08/12/world/australia/south-sea-islanders-slavery.html)
 * [New York City Could Use a Champion. Who Will Step Up?](https://www.nytimes.com/2020/08/12/nyregion/new-york-recovery-coronavirus.html)
-* [Trump’s Push to Cut Payroll Taxes Opens a Democratic Line of Attack](https://www.nytimes.com/2020/08/11/us/politics/trump-payroll-tax-social-security.html)
+* [Should Montreal Subway Honor Polarizing Priest or Jazz Genius?](https://www.nytimes.com/2020/08/10/world/canada/oscar-peterson-montreal-little-burgundy.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [AIDS Quilts for an Artist and His Partner, Sewn During a New Pandemic](https://www.nytimes.com/2020/08/10/arts/design/aids-quilts-david-wojnarowicz-.html)
 * [She’s Been a Force for Change in Ballet. The World Is Catching Up.](https://www.nytimes.com/2020/08/06/arts/dance/theresa-ruth-howard.html)
 * [Marc Jacobs, Leandra Medine and Others Are Not Giving Up on Clothes Just Yet](https://www.nytimes.com/2020/08/11/style/leandra-medine-ari-seth-cohen-instagram-influencers.html)
@@ -105,12 +105,12 @@ layout: default
 ## globo.com
 
 
-* [Maratona de Paris é cancelada após novos casos de Covid-19 na França](https://oglobo.globo.com/esportes/maratona-de-paris-cancelada-apos-novos-casos-de-covid-19-na-franca-24581731)
 * [Em terceira noite de protestos, mais de mil pessoas são presas na Bielorrússia](https://oglobo.globo.com/mundo/em-terceira-noite-de-protestos-mais-de-mil-pessoas-sao-presas-na-bielorrussia-24581730)
+* [Apesar de ter chamado Kamala Harris de 'nojenta', Trump já fez doações à vice de Joe Biden](https://oglobo.globo.com/mundo/apesar-de-ter-chamado-kamala-harris-de-nojenta-trump-ja-fez-doacoes-vice-de-joe-biden-24581674)
+* [HSBC alerta investidores sobre JBS por causa de desmatamento na Amazônia](https://epoca.globo.com/guilherme-amado/hsbc-alerta-investidores-sobre-jbs-por-causa-de-desmatamento-na-amazonia-24581748)
+* [Maratona de Paris é cancelada após novos casos de Covid-19 na França](https://oglobo.globo.com/esportes/maratona-de-paris-cancelada-apos-novos-casos-de-covid-19-na-franca-24581731)
 * [Morre Sumner Redstone, dono da Paramount, aos 97 anos](https://oglobo.globo.com/cultura/morre-sumner-redstone-dono-da-paramount-aos-97-anos-24581681)
 * [Parque Nacional da Tijuca tem ingresso com 80% de desconto](https://oglobo.globo.com/rio/parque-nacional-da-tijuca-tem-ingresso-com-80-de-desconto-1-24581687)
-* [Entenda por que a CBF liberou atletas do Atlético-GO e quais novas diretrizes para Covid-19 passarão a valer no Brasileirão](https://oglobo.globo.com/esportes/entenda-por-que-cbf-liberou-atletas-do-atletico-go-quais-novas-diretrizes-para-covid-19-passarao-valer-no-brasileirao-24581660)
-* [Apesar de ter chamado Kamala Harris de 'nojenta', Trump já fez doações à vice de Joe Biden](https://oglobo.globo.com/mundo/apesar-de-ter-chamado-kamala-harris-de-nojenta-trump-ja-fez-doacoes-vice-de-joe-biden-24581674)
 * [Prefeitura faz demolição de construções irregulares no Morro do Cantagalo](https://oglobo.globo.com/rio/prefeitura-faz-demolicao-de-construcoes-irregulares-no-morro-do-cantagalo-24581701)
 * ['Debandada': Por que auxiliares de Paulo Guedes estão abandonando o governo Bolsonaro?](https://epoca.globo.com/economia/debandada-por-que-auxiliares-de-paulo-guedes-estao-abandonando-governo-bolsonaro-1-24581693)
 * [Ficção | Sísifo libertado](https://epoca.globo.com/henrique-balbi/ficcao-sisifo-libertado-24581655)

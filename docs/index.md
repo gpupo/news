@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 22:14:59 UTC
+# indexed at 12/08/2020 22:34:48 UTC
 
 
 ## news.ycombinator.com
@@ -10,15 +10,16 @@ layout: default
 
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html)
-* [Announcing the new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
+* [The new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 * [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
 * [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
-* [“The Hatpin Peril” Terrorized Men Who Couldn’t Handle the 20th-Century Woman](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 * [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
-* [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
 * [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
+* [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
+* [“The Hatpin Peril” Terrorized Men Who Couldn’t Handle the 20th-Century Woman](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 * [70% of surveyed Americans say they can't do their job without internet](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
 * [Joan Feynman has died](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
+* [The Social Media Problem](https://jacquesmattheij.com/the-social-media-problem/)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
 * [Taylor Series and Accelerometers](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/)
@@ -26,17 +27,16 @@ layout: default
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [Veteran Submariner on How Sonar Crews Tirelessly Hunt Enemies They Can't See](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
-* [The Social Media Problem](https://jacquesmattheij.com/the-social-media-problem/)
-* [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
 * [China hires over 100 TSMC engineers in push for chip leadership](https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership)
+* [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
 * [Where the missing middle of housing isn't missing](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing)
 * [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
 * [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
 * [Why Are Currently No Ads on Techdirt? Apparently Google Thinks We're Dangerous](https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml)
-* [Content moderation at scale is impossible to do well (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
-* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
 * [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
+* [Content moderation at scale is impossible to do well (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
 * [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
+* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
 * [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
 ## nytimes.com
 
@@ -53,6 +53,7 @@ layout: default
 * [Marjorie Taylor Greene, a QAnon Supporter, Wins House Primary in Georgia](https://www.nytimes.com/2020/08/11/us/politics/marjorie-taylor-greene-qanon-georgia-primary.html)
 * [Beirut’s Youngest Cancer Patients Lose Care Options After Blast](https://www.nytimes.com/2020/08/12/world/middleeast/beirut-cancer-chemotherapy.html)
 * [The Scramble to Pluck 24 Billion Cherries in Eight Weeks](https://www.nytimes.com/2020/08/12/magazine/cherry-harvest-workers.html)
+* [Biden-Harris, Masks, Moths: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/08/12/briefing/biden-harris-masks-moths.html)
 * [A Historic V.P. Decision](https://www.nytimes.com/2020/08/12/podcasts/the-daily/biden-kamala-harris-vp.html)
 * [‘Coronavirus Schools Briefing’](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
 * [Join Us for a Conversation About Vice-Presidential Nominee Kamala Harris](https://www.nytimes.com/2020/07/23/us/politics/2020-election-events.html)
@@ -79,11 +80,11 @@ layout: default
 * [Progressives Killed Amazon’s Deal in New York. Is Industry City Next?](https://www.nytimes.com/2020/08/12/nyregion/industry-city-zoning-amazon-nyc.html)
 * [The Daily News Is Now a Newspaper Without a Newsroom](https://www.nytimes.com/2020/08/12/business/media/daily-news-office.html)
 * [Murder Charges Over Stillbirth in California Set Off Heated Legal Battle](https://www.nytimes.com/2020/08/11/us/chelsea-becker-california-stillbirth.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Juliana Huxtable’s Next Chapter](https://www.nytimes.com/2020/08/10/t-magazine/juliana-huxtable.html)
 * [Making a Connection Between Movement and Social Movements](https://www.nytimes.com/2020/08/11/arts/dance/dance-protest-black-lives-matter.html)
 * [‘The Erratics’ Remembers a Mother With a Monstrous Talent for Twisting Reality](https://www.nytimes.com/2020/08/11/books/review-erratics-vicki-laveau-harvie.html)
@@ -102,12 +103,12 @@ layout: default
 
 
 * ['Nós respeitamos o teto de gastos', diz Bolsonaro](https://oglobo.globo.com/economia/nos-respeitamos-teto-de-gastos-diz-bolsonaro-24582471)
+* [Casas de festa retomam permissão de funcionamento em algumas áreas do Rio, desde que haja distanciamento social](https://oglobo.globo.com/rio/casas-de-festa-retomam-permissao-de-funcionamento-em-algumas-areas-do-rio-desde-que-haja-distanciamento-social-24582813)
+* [Cliente se recusa a medir temperatura e agride funcionário de hotel em MG](https://oglobo.globo.com/brasil/cliente-se-recusa-medir-temperatura-agride-funcionario-de-hotel-em-mg-24582761)
+* [Ministério da Saúde diz que vai adotar vacina que 'chegar primeiro com eficácia comprovada'](https://oglobo.globo.com/sociedade/ministerio-da-saude-diz-que-vai-adotar-vacina-que-chegar-primeiro-com-eficacia-comprovada-24582786)
+* [É #FAKE que mortes por pneumonia e insuficiência respiratória têm sido todas registradas como sendo Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-mortes-por-pneumonia-insuficiencia-respiratoria-tem-sido-todas-registradas-como-sendo-covid-19-24582827)
+* [López Obrador diz que ex-presidentes do México devem prestar depoimento sobre caso de corrupção ligado à Odebrecht](https://oglobo.globo.com/mundo/lopez-obrador-diz-que-ex-presidentes-do-mexico-devem-prestar-depoimento-sobre-caso-de-corrupcao-ligado-odebrecht-24582785)
 * [Rio deve ter dias quentes de verão em pleno inverno até o domingo; termômetros podem marcar 35 graus nesta quinta](https://oglobo.globo.com/rio/rio-deve-ter-dias-quentes-de-verao-em-pleno-inverno-ate-domingo-termometros-podem-marcar-35-graus-nesta-quinta-24582803)
 * [Witzel desabafa a aliados que teme afastamento pelo STJ nos próximos dias](https://epoca.globo.com/guilherme-amado/witzel-desabafa-aliados-que-teme-afastamento-pelo-stj-nos-proximos-dias-24582812)
-* [Enquanto voa para o Líbano, Temer pousa no governo Bolsonaro](https://oglobo.globo.com/analitico/enquanto-voa-para-libano-temer-pousa-no-governo-bolsonaro-24582665)
 * [Especialista do Grupo Oxford diz que Brasil deve negociar exportações de açúcar em meio à polêmica do etanol](https://oglobo.globo.com/economia/especialista-do-grupo-oxford-diz-que-brasil-deve-negociar-exportacoes-de-acucar-em-meio-polemica-do-etanol-24582794)
-* [Ministério da Saúde diz que vai adotar vacina que 'chegar primeiro com eficácia comprovada'](https://oglobo.globo.com/sociedade/ministerio-da-saude-diz-que-vai-adotar-vacina-que-chegar-primeiro-com-eficacia-comprovada-24582786)
-* [Ministro do STJ homologa delação premiada de ex-secretário da Saúde do governo Witzel](https://oglobo.globo.com/rio/ministro-do-stj-homologa-delacao-premiada-de-ex-secretario-da-saude-do-governo-witzel-24582716)
 * [Ancine renova contrato com BNDES para gestão de fundo audiovisual](https://epoca.globo.com/guilherme-amado/ancine-renova-contrato-com-bndes-para-gestao-de-fundo-audiovisual-24582770)
-* [Cliente se recusa a medir temperatura e agride funcionário de hotel em MG](https://oglobo.globo.com/brasil/cliente-se-recusa-medir-temperatura-agride-funcionario-de-hotel-em-mg-24582761)
-* [Curadora da Flip pede demissão: 'A festa literária precisa de uma mulher negra para reinventá-la'](https://oglobo.globo.com/cultura/curadora-da-flip-pede-demissao-festa-literaria-precisa-de-uma-mulher-negra-para-reinventa-la-1-24582726)

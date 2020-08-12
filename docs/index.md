@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 18:16:28 UTC
+# indexed at 12/08/2020 18:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Belarus election: Police use live fire on protesters in Brest](https://www.bbc.com/news/world-europe-53748748)
-* [Why QEMU should move from C to Rust](http://blog.vmsplice.net/2020/08/why-qemu-should-move-from-c-to-rust.html)
+* [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
 * [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
@@ -19,24 +18,25 @@ layout: default
 * [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
 * [Veteran Submariner on How Sonar Crews Tirelessly Hunt Enemies They Can't See](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [The Musk Ox and Me](https://www.newyorker.com/magazine/2020/08/17/the-musk-ox-and-me)
-* [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
+* [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
 * [Why Are Currently No Ads on Techdirt? Apparently Google Thinks We're Dangerous](https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml)
+* [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
 * [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
+* [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
+* [Available for preorder today, Surface Duo](https://blogs.windows.com/devices/2020/08/12/available-for-preorder-today-surface-duo-is-purpose-built-for-mobile-productivity/)
 * [Meet YC founders at YC's first Lightning Tech Talk & Happy Hour on Sept 10th](https://www.workatastartup.com/techtalk)
 * [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
-* [Available for preorder today, Surface Duo](https://blogs.windows.com/devices/2020/08/12/available-for-preorder-today-surface-duo-is-purpose-built-for-mobile-productivity/)
-* [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
-* [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
-* [Storybook 6.0 your new favourite tool for front-end development](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 * [Show HN: Jet – in-memory, fault-tolerant, distributed stream processing](https://github.com/hazelcast/hazelcast-jet)
+* [What killed Quayside, Sidewalk Labs’ ambitious smart city in Toronto?](https://onezero.medium.com/how-a-band-of-activists-and-one-tech-billionaire-beat-alphabets-smart-city-de19afb5d69e)
+* [Storybook 6.0 your new favourite tool for front-end development](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 * [UC Santa Cruz Reinstates 41 Graduate Students After Months-Long Strike](https://www.vice.com/en_us/article/xg8mdn/uc-santa-cruz-reinstates-41-graduate-students-after-months-long-strike)
 * [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
 * [Call Me Maybe: Ea­Ves­Drop­Ping En­Cryp­Ted LTE Calls with Re­VoL­TE](https://revolte-attack.net/)
+* [Microsoft Surface Duo – Dual-screen Android phone](https://www.theverge.com/2020/8/12/21364633/microsoft-surface-duo-release-date-pricing-features-specs)
+* [Belarus election: Police use live fire on protesters in Brest](https://www.bbc.com/news/world-europe-53748748)
 * [Helping Native Bees Thrive in a Honeybee World](https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world)
 * [Broken Cable Damages Arecibo Observatory](https://www.ucf.edu/news/broken-cable-damages-arecibo-observatory/)
 * [Ask HN: How Belarus can keep connected despite internet blackout?](https://news.ycombinator.com/item?id=24129059)
-* [Ask HN: Self-taught webdev with lots of free time. What should I learn?](https://news.ycombinator.com/item?id=24130286)
-* [Court dismisses Genius lawsuit over lyrics-scraping by Google](https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/)
 * [Show HN: NeuralCam Live – Using ML to Turn iPhones into Smart Webcams](https://neural.cam/news/)
 ## nytimes.com
 
@@ -82,10 +82,10 @@ layout: default
 * [Sumner Redstone Dies at 97; Built Media Empire and Long Reigned Over It](https://www.nytimes.com/2020/08/12/obituaries/sumner-redstone-dead.html)
 * [The Daily News Is Now a Newspaper Without a Newsroom](https://www.nytimes.com/2020/08/12/business/media/daily-news-office.html)
 * [Murder Charges Over Stillbirth in California Set Off Heated Legal Battle](https://www.nytimes.com/2020/08/11/us/chelsea-becker-california-stillbirth.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Juliana Huxtable’s Next Chapter](https://www.nytimes.com/2020/08/10/t-magazine/juliana-huxtable.html)
 * [Making a Connection Between Movement and Social Movements](https://www.nytimes.com/2020/08/11/arts/dance/dance-protest-black-lives-matter.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* ['Uma das nossas': indianos comemoram a escolha de Kamala Harris como vice de Joe Biden](https://oglobo.globo.com/mundo/uma-das-nossas-indianos-comemoram-escolha-de-kamala-harris-como-vice-de-joe-biden-24582107)
-* [Com escolas fechadas, alunos da rede municipal do Rio terão aulas de reforço pela TV](https://oglobo.globo.com/rio/com-escolas-fechadas-alunos-da-rede-municipal-do-rio-terao-aulas-de-reforco-pela-tv-24582080)
+* [Anvisa não foi consultada por governo e nem avaliou segurança da cloroquina contra Covid-19](https://oglobo.globo.com/sociedade/anvisa-nao-foi-consultada-por-governo-nem-avaliou-seguranca-da-cloroquina-contra-covid-19-24582217)
+* [STF quer aumentar em R$ 26 milhões orçamento para 2021](https://oglobo.globo.com/brasil/stf-quer-aumentar-em-26-milhoes-orcamento-para-2021-24582187)
 * [Mineira Maryel Uchida é nova estrela da Dior](https://oglobo.globo.com/ela/gente/mineira-maryel-uchida-nova-estrela-da-dior-24582148)
+* [Já ouviu falar do cloud bread, o pão que parece uma nuvem e é o novo hit da internet?](https://oglobo.globo.com/ela/gastronomia/ja-ouviu-falar-do-cloud-bread-pao-que-parece-uma-nuvem-e-novo-hit-da-internet-24582182)
+* ['Uma das nossas': indianos comemoram a escolha de Kamala Harris como vice de Joe Biden](https://oglobo.globo.com/mundo/uma-das-nossas-indianos-comemoram-escolha-de-kamala-harris-como-vice-de-joe-biden-24582107)
 * [Argentina quer 'olhar para o futuro' na relação bilateral, diz novo embaixador ao chegar ao Brasil](https://oglobo.globo.com/mundo/argentina-quer-olhar-para-futuro-na-relacao-bilateral-diz-novo-embaixador-ao-chegar-ao-brasil-24582123)
 * [É #FAKE que cidade de São Paulo não teve qualquer morte pela Covid-19 nos dias 4 e 5 de agosto](https://oglobo.globo.com/fato-ou-fake/e-fake-que-cidade-de-sao-paulo-nao-teve-qualquer-morte-pela-covid-19-nos-dias-4-5-de-agosto-24582138)
 * [Enel vai parcelar automaticamente contas de luz em aberto de quem reclamou ao Procon-SP](https://oglobo.globo.com/economia/defesa-do-consumidor/enel-vai-parcelar-automaticamente-contas-de-luz-em-aberto-de-quem-reclamou-ao-procon-sp-24582149)
 * [Equipe do Ministério da Saúde visitará Instituto Butantan para reunião sobre vacina chinesa](https://oglobo.globo.com/sociedade/equipe-do-ministerio-da-saude-visitara-instituto-butantan-para-reuniao-sobre-vacina-chinesa-24582125)
-* [Hilary Swank fala sobre pausa na carreira para cuidar do pai: 'Era para ser apenas um ano'](https://oglobo.globo.com/ela/gente/hilary-swank-fala-sobre-pausa-na-carreira-para-cuidar-do-pai-era-para-ser-apenas-um-ano-24582108)
 * [Oposição quer que dinheiro que sobrar do Senado vá para SUS](https://epoca.globo.com/guilherme-amado/oposicao-quer-que-dinheiro-que-sobrar-do-senado-va-para-sus-24582121)
-* [Para Bolsonaro, ficar sem Guedes não seria como ficar sem Moro e Mandetta](https://oglobo.globo.com/analitico/para-bolsonaro-ficar-sem-guedes-nao-seria-como-ficar-sem-moro-mandetta-24582098)

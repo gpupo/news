@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 19:14:36 UTC
+# indexed at 12/08/2020 19:35:26 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
+* [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 * [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
-* [70% of Americans Say: We Can’t Do Our Jobs Without a Home Internet Connection](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
-* [American Airlines bans masks with exhaust valves and vents](https://kokpitherald.com/american-airlines-new-masks-policy/)
+* [70% of surveyed Americans say they can't do their job without internet](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
+* [Where Missing Middle Housing Isn't Missing](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
 * [Joan Feynman has died](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
-* [Where Missing Middle Housing Isn't Missing](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing)
+* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
 * [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
+* [How Are Postmaster General Louis DeJoy's Changes Affecting Workers?](https://www.npr.org/2020/08/11/901219097/how-are-postmaster-general-dejoys-changes-affecting-workers)
 * [Veteran Submariner on How Sonar Crews Tirelessly Hunt Enemies They Can't See](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
-* [Billionaire Sumner Redstone, media mogul who headed Viacom, dead at 97](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
 * [Why Are Currently No Ads on Techdirt? Apparently Google Thinks We're Dangerous](https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml)
 * [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
 * [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
 * [The Musk Ox and Me](https://www.newyorker.com/magazine/2020/08/17/the-musk-ox-and-me)
+* [Content Moderation at Scale Is Impossible (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
+* [Dishwashing detergent hack: Two ingredients](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients?&ampcf=1)
 * [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
-* [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
 * [China hires over 100 TSMC engineers in push for chip leadership](https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership)
+* [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
 * [Labor of Division (2010)](http://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
 * [Meet YC founders at YC's first Lightning Tech Talk & Happy Hour on Sept 10th](https://www.workatastartup.com/techtalk)
 * [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
 * [UC Santa Cruz Reinstates 41 Graduate Students After Months-Long Strike](https://www.vice.com/en_us/article/xg8mdn/uc-santa-cruz-reinstates-41-graduate-students-after-months-long-strike)
-* [Available for preorder today, Surface Duo](https://blogs.windows.com/devices/2020/08/12/available-for-preorder-today-surface-duo-is-purpose-built-for-mobile-productivity/)
 * [What killed Quayside, Sidewalk Labs’ ambitious smart city in Toronto?](https://onezero.medium.com/how-a-band-of-activists-and-one-tech-billionaire-beat-alphabets-smart-city-de19afb5d69e)
 * [Show HN: Jet – in-memory, fault-tolerant, distributed stream processing](https://github.com/hazelcast/hazelcast-jet)
 * [Storybook 6.0 your new favourite tool for front-end development](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
-* [Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE](https://revolte-attack.net/)
-* [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
 ## nytimes.com
 
 
@@ -59,7 +59,7 @@ layout: default
 * [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
 * [What the Kamala Harris Pick Tells Us About Joe Biden](https://www.nytimes.com/2020/08/12/opinion/kamala-harris-joe-biden-2020.html)
 * [Joshua Wong: Hong Kong Still Has Many Ways to Resist](https://www.nytimes.com/2020/08/12/opinion/hong-kong-joshua-wong.html)
-* [Dreading the Debates? They Don’t Have to Be So Awful](https://www.nytimes.com/2020/08/12/opinion/debates-trump-biden.html)
+* [In One Corner, Trump. In the Other, Biden. Let the Debate Begin!](https://www.nytimes.com/2020/08/12/opinion/debates-trump-biden.html)
 * [We All Speak a Language That Will Go Extinct](https://www.nytimes.com/2020/08/12/opinion/language-translation.html)
 * [This Is Not Just a Victory for Kamala Harris](https://www.nytimes.com/2020/08/12/opinion/kamala-harris-joe-biden-election.html)
 * [How can we beat the coronavirus? Join editorial board member Jeneen Interlandi to discuss.](https://twitter.com/nytopinion/status/1293589873325211648)
@@ -80,10 +80,10 @@ layout: default
 * [The Daily News Is Now a Newspaper Without a Newsroom](https://www.nytimes.com/2020/08/12/business/media/daily-news-office.html)
 * [Murder Charges Over Stillbirth in California Set Off Heated Legal Battle](https://www.nytimes.com/2020/08/11/us/chelsea-becker-california-stillbirth.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Juliana Huxtable’s Next Chapter](https://www.nytimes.com/2020/08/10/t-magazine/juliana-huxtable.html)
 * [Making a Connection Between Movement and Social Movements](https://www.nytimes.com/2020/08/11/arts/dance/dance-protest-black-lives-matter.html)
 * [‘The Erratics’ Remembers a Mother With a Monstrous Talent for Twisting Reality](https://www.nytimes.com/2020/08/11/books/review-erratics-vicki-laveau-harvie.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Câmara derruba 3 vetos de Bolsonaro para restituir incentivos ao audiovisual, produtores rurais e à telemedicina](https://oglobo.globo.com/brasil/camara-derruba-3-vetos-de-bolsonaro-para-restituir-incentivos-ao-audiovisual-produtores-rurais-a-telemedicina-24582303)
-* [Por que uma nova pandemia nos próximos anos é praticamente inevitável](https://epoca.globo.com/sociedade/por-que-uma-nova-pandemia-nos-proximos-anos-praticamente-inevitavel-24582294)
-* [Celso de Mello deixará de receber processos a partir de setembro](https://oglobo.globo.com/brasil/celso-de-mello-deixara-de-receber-processos-partir-de-setembro-24582244)
-* [Como os casamentos de Bolsonaro estão conectados com as investigações sobre seus filhos](https://epoca.globo.com/brasil/como-os-casamentos-de-bolsonaro-estao-conectados-com-as-investigacoes-sobre-seus-filhos-24581796)
-* [Crivella diz que foi utopia considerar liberação de praias apenas com vacina para Covid-19](https://oglobo.globo.com/rio/crivella-diz-que-foi-utopia-considerar-liberacao-de-praias-apenas-com-vacina-para-covid-19-24582229)
-* [É #FAKE que vídeo mostre Pelotas usando sirene para impor toque de recolher em meio a lockdown](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-pelotas-usando-sirene-para-impor-toque-de-recolher-em-meio-lockdown-24582257)
-* [Eduardo Leite acusa Planalto de fazer 'estranho recorte' em ranking da Covid-19 para constranger governadores](https://oglobo.globo.com/brasil/eduardo-leite-acusa-planalto-de-fazer-estranho-recorte-em-ranking-da-covid-19-para-constranger-governadores-24582225)
-* [Caso Atlético-GO reacende debate sobre realização das três séries do Brasileirão](https://oglobo.globo.com/esportes/caso-atletico-go-reacende-debate-sobre-realizacao-das-tres-series-do-brasileirao-24582115)
-* [Aplicativo iFood recebe aval da Anac para iniciar operação com drones](https://oglobo.globo.com/economia/aplicativo-ifood-recebe-aval-da-anac-para-iniciar-operacao-com-drones-24582192)
-* [Anvisa não foi consultada por governo e nem avaliou segurança da cloroquina contra Covid-19](https://oglobo.globo.com/sociedade/anvisa-nao-foi-consultada-por-governo-nem-avaliou-seguranca-da-cloroquina-contra-covid-19-24582217)
+* [Uefa confirma eliminação de time na Liga dos Campeões por casos de Covid-19](https://oglobo.globo.com/esportes/uefa-confirma-eliminacao-de-time-na-liga-dos-campeoes-por-casos-de-covid-19-24582306)
+* [Câmara derruba 3 vetos de Bolsonaro para retomar incentivos ao audiovisual, produtores rurais e à telemedicina](https://oglobo.globo.com/brasil/camara-derruba-3-vetos-de-bolsonaro-para-retomar-incentivos-ao-audiovisual-produtores-rurais-a-telemedicina-24582303)
+* [Gisele Bündchen supera meta e vai plantar 250 mil árvores na Amazônia](https://oglobo.globo.com/ela/gente/gisele-bundchen-supera-meta-vai-plantar-250-mil-arvores-na-amazonia-24582342)
+* [Bolsonaro chama Guedes e parlamentares para reunião, após ‘debandada’ na equipe econômica](https://oglobo.globo.com/economia/bolsonaro-chama-guedes-parlamentares-para-reuniao-apos-debandada-na-equipe-economica-24582373)
+* [É #FAKE vídeo que mostra míssil em explosão em Beirute](https://oglobo.globo.com/fato-ou-fake/e-fake-video-que-mostra-missil-em-explosao-em-beirute-24582369)
+* [Petrobras reajusta preços da gasolina, diesel, e gás de cozinha de uma só vez](https://oglobo.globo.com/economia/petrobras-reajusta-precos-da-gasolina-diesel-gas-de-cozinha-de-uma-so-vez-24582358)
+* [Nova diretriz da CBF não é 100% segura para o futebol, dizem especialistas](https://oglobo.globo.com/esportes/nova-diretriz-da-cbf-nao-100-segura-para-futebol-dizem-especialistas-24582364)
+* [Trezes frases mostram por que Jacinda Ardern é uma liderança inspiradora](https://oglobo.globo.com/celina/trezes-frases-mostram-por-que-jacinda-ardern-uma-lideranca-inspiradora-24581948)
+* [‘Continuo alinhado e confiante que as reformas e projetos vão avançar’, diz ex-diretor do Ministério da Economia](https://oglobo.globo.com/economia/continuo-alinhado-confiante-que-as-reformas-projetos-vao-avancar-diz-ex-diretor-do-ministerio-da-economia-24582326)
+* [Por que uma nova pandemia nos próximos anos é praticamente inevitável](https://epoca.globo.com/sociedade/por-que-uma-nova-pandemia-nos-proximos-anos-praticamente-inevitavel-1-24582294)

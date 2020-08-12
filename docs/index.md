@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 08:34:40 UTC
+# indexed at 12/08/2020 09:15:04 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Joan Feynman 1927-2020](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
 * [Court dismisses Genius lawsuit over lyrics-scraping by Google](https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/)
-* [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
+* [Facebook's new policy bans blackface and some Jewish stereotypes](https://mashable.com/article/facebook-bans-blackface-jewish-stereotypes/)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
-* [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
+* [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
 * [Ask HN: How Belarus can keep connected despite internet blackout?](https://news.ycombinator.com/item?id=24129059)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
-* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
 * [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
+* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
+* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
-* [The Sail ISA specification language](https://github.com/rems-project/sail)
-* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
+* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
 * [Helping Native Bees Thrive in a Honeybee World](https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world)
+* [Deplacy: CUI-Based Tree Visualizer for Universal Dependencies](https://github.com/KoichiYasuoka/deplacy)
 * [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
 * [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
+* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
 * [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
-* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
-* [The information catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
-* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
-* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
 ## nytimes.com
 
 
@@ -83,11 +83,11 @@ layout: default
 * [Where's Juan Carlos? Exit of Scandal-Plagued Former King Grips Spain](https://www.nytimes.com/2020/08/11/world/europe/spain-juan-carlos-scandal.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -98,20 +98,20 @@ layout: default
 * [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](https://www.nytimes.com/2020/08/04/health/coronavirus-hotels-infect.html)
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
 * [This One Is for the Focaccia Lovers](https://www.nytimes.com/2020/08/07/dining/eggplant-focaccia-recipe.html)
-* [Perseid Meteor Shower 2020: Watch It Peak Tonight](https://www.nytimes.com/2020/08/11/science/perseid-meteor-shower.html)
+* [Museum’s Future Clouded by Chance Discovery: Swastika Hiding in Plain Sight](https://www.nytimes.com/2020/08/11/arts/design/swastika-germany-museum-kunststaette-bossard.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Após ônibus ‘sumirem’, vans se multiplicam na Zona Oeste do Rio](https://oglobo.globo.com/rio/apos-onibus-sumirem-vans-se-multiplicam-na-zona-oeste-do-rio-24581099)
 * [Até onde pode ir o Botafogo, que estreia hoje no Brasileirão?](https://oglobo.globo.com/esportes/ate-onde-pode-ir-botafogo-que-estreia-hoje-no-brasileirao-24581056)
 * [Prestes a ser lançado, Pró-Brasil aposta em investimento público e escancara racha no governo federal](https://oglobo.globo.com/brasil/prestes-ser-lancado-pro-brasil-aposta-em-investimento-publico-escancara-racha-no-governo-federal-1-24581269)
 * [Argumento de Flávio a promotores sobre suposto funcionário fantasma tem contradição](https://oglobo.globo.com/brasil/argumento-de-flavio-promotores-sobre-suposto-funcionario-fantasma-tem-contradicao-24581258)
 * [Ao MP, Flávio citou comissão da Alerj já extinta para justificar trabalho de assessor suspeito de ser fantasma](https://oglobo.globo.com/brasil/ao-mp-flavio-citou-comissao-da-alerj-ja-extinta-para-justificar-trabalho-de-assessor-suspeito-de-ser-fantasma-1-24581245)
-* [Entenda: Família Bolsonaro movimentou R$1,5 milhão em espécie em 24 anos](https://oglobo.globo.com/brasil/entenda-familia-bolsonaro-movimentou-r15-milhao-em-especie-em-24-anos-1-24581302)
 * [Até onde é possível confiar na vacina russa contra a Covid-19?](https://oglobo.globo.com/podcast/ate-onde-possivel-confiar-na-vacina-russa-contra-covid-19-1-24581236)
 * [Deputados começam a votar hoje PEC que pode permitir a instalação de fábricas de armas de fogo no Rio; entenda](https://oglobo.globo.com/rio/deputados-comecam-votar-hoje-pec-que-pode-permitir-instalacao-de-fabricas-de-armas-de-fogo-no-rio-entenda-24580232)
 * [Em encontro virtual, Papais Noéis recebem orientações médicas para se precaver no Natal da pandemia](https://oglobo.globo.com/rio/em-encontro-virtual-papais-noeis-recebem-orientacoes-medicas-para-se-precaver-no-natal-da-pandemia-24580848)
+* [Funarte pediu que ministro do Turismo não nomeasse blogueira](https://epoca.globo.com/guilherme-amado/funarte-pediu-que-ministro-do-turismo-nao-nomeasse-blogueira-24580839)
 * [Museu dos Meninos apresenta histórias de jovens do Complexo do Alemão](https://oglobo.globo.com/rioshow/museu-dos-meninos-apresenta-historias-de-jovens-do-complexo-do-alemao-2-24566747)
-* [Salto alto com os dias contados? Moletom em alta? Pandemia coloca a indústria fashion em xeque](https://oglobo.globo.com/ela/moda/salto-alto-com-os-dias-contados-moletom-em-alta-pandemia-coloca-industria-fashion-em-xeque-24573426)

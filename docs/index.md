@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 12:19:27 UTC
+# indexed at 12/08/2020 12:35:04 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Joan Feynman has died](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
+* [Freedom is not simple](https://www.arp242.net/freedom.html)
 * [Court dismisses Genius lawsuit over lyrics-scraping by Google](https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/)
 * [Show HN: Jet – in-memory, fault-tolerant, distributed stream processing](https://github.com/hazelcast/hazelcast-jet)
-* [Freedom Is Not Simple](https://www.arp242.net/freedom.html)
 * [Show HN: NeuralCam Live – Using ML to Turn iPhones into Smart Webcams](https://neural.cam/news/)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
 * [Ask HN: How Belarus can keep connected despite internet blackout?](https://news.ycombinator.com/item?id=24129059)
-* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [Ask HN: Self-taught webdev with lots of free time. What should I learn?](https://news.ycombinator.com/item?id=24130286)
-* [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
+* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [China hires over 100 TSMC engineers in push for chip leadership](https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership)
-* [Helping Native Bees Thrive in a Honeybee World](https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world)
+* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
 * [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
+* [Helping Native Bees Thrive in a Honeybee World](https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world)
 * [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
-* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [Ask HN: Negotiating My Hourly Rate](https://news.ycombinator.com/item?id=24129565)
+* [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [The Sail ISA specification language](https://github.com/rems-project/sail)
-* [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
-* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
+* [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 * [Deplacy: CUI-Based Tree Visualizer for Universal Dependencies](https://github.com/KoichiYasuoka/deplacy)
 * [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
-* [Microsoft Surface Duo – Dual-screen Android phone](https://www.theverge.com/2020/8/12/21364633/microsoft-surface-duo-release-date-pricing-features-specs)
+* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
+* [Microsoft Kills Windows 10's Automatic Driver Search](https://www.makeuseof.com/tag/microsoft-kills-windows-10-driver-search/)
+* [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [New York City Could Use a Champion. Who Will Step Up?](https://www.nytimes.com/2020/08/12/nyregion/new-york-recovery-coronavirus.html)
 * [Trump’s Push to Cut Payroll Taxes Opens a Democratic Line of Attack](https://www.nytimes.com/2020/08/11/us/politics/trump-payroll-tax-social-security.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [AIDS Quilts for an Artist and His Partner, Sewn During a New Pandemic](https://www.nytimes.com/2020/08/10/arts/design/aids-quilts-david-wojnarowicz-.html)
 * [She’s Been a Force for Change in Ballet. The World Is Catching Up.](https://www.nytimes.com/2020/08/06/arts/dance/theresa-ruth-howard.html)
 * [Marc Jacobs, Leandra Medine and Others Are Not Giving Up on Clothes Just Yet](https://www.nytimes.com/2020/08/11/style/leandra-medine-ari-seth-cohen-instagram-influencers.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
+* [Vendas no varejo crescem 8% em junho, segundo mês seguido de alta](https://oglobo.globo.com/economia/vendas-no-varejo-crescem-8-em-junho-segundo-mes-seguido-de-alta-24581455)
+* [Harry e Meghan compraram casa em Santa Barbara, perto de Opra Winfrey e Ellen Degeneres](https://oglobo.globo.com/ela/gente/harry-meghan-compraram-casa-em-santa-barbara-perto-de-opra-winfrey-ellen-degeneres-24581545)
+* [CBF libera os quatro atletas do Atlético-GO que testaram positivo para Covid-19 para jogo contra Flamengo](https://oglobo.globo.com/esportes/cbf-libera-os-quatro-atletas-do-atletico-go-que-testaram-positivo-para-covid-19-para-jogo-contra-flamengo-24581533)
+* [No dia seguinte a debandada da equipe econômica, dólar tem alta e vale R$ 5,4251](https://oglobo.globo.com/economia/no-dia-seguinte-debandada-da-equipe-economica-dolar-tem-alta-vale-54251-24581551)
+* [Terremoto bumerangue: o enigmático fenômeno detectado no fundo do mar que dá pistas sobre como seria na Terra](https://epoca.globo.com/sociedade/terremoto-bumerangue-enigmatico-fenomeno-detectado-no-fundo-do-mar-que-da-pistas-sobre-como-seria-na-terra-1-24581537)
+* ['Exibir corpo perfeito nas redes se tornou angústia na minha vida': o desabafo de uma influencer brasileira](https://epoca.globo.com/sociedade/exibir-corpo-perfeito-nas-redes-se-tornou-angustia-na-minha-vida-desabafo-de-uma-influencer-brasileira-24581493)
+* [Bolsonaro diz que saída de secretários da Economia é 'normal' e defende teto e privatizações](https://oglobo.globo.com/economia/bolsonaro-diz-que-saida-de-secretarios-da-economia-normal-defende-teto-privatizacoes-1-24581495)
 * [FGTS tem rendimento acima da inflação em 2019. Vale a pena sacar parte dele em 2020?](https://oglobo.globo.com/economia/fgts-tem-rendimento-acima-da-inflacao-em-2019-vale-pena-sacar-parte-dele-em-2020-1-24581462)
 * [Ação da PM na Vila Kennedy tem um morto, presos e apreensão de armas e drogas](https://oglobo.globo.com/rio/acao-da-pm-na-vila-kennedy-tem-um-morto-presos-apreensao-de-armas-drogas-24581529)
-* [Bolsonaro diz que saída de secretários da Economia é 'normal' e defende teto e privatizações](https://oglobo.globo.com/economia/bolsonaro-diz-que-saida-de-secretarios-da-economia-normal-defende-teto-privatizacoes-24581495)
-* ['Exibir corpo perfeito nas redes se tornou angústia na minha vida': o desabafo de uma influencer brasileira](https://epoca.globo.com/sociedade/exibir-corpo-perfeito-nas-redes-se-tornou-angustia-na-minha-vida-desabafo-de-uma-influencer-brasileira-24581493)
-* [Descarrilamento 'extremamente sério' deixa ao menos um morto na Escócia, diz imprensa local](https://oglobo.globo.com/mundo/descarrilamento-extremamente-serio-deixa-ao-menos-um-morto-na-escocia-diz-imprensa-local-24581458)
-* [Vendas no varejo crescem 8% em junho, segundo mês seguido de alta](https://oglobo.globo.com/economia/vendas-no-varejo-crescem-8-em-junho-segundo-mes-seguido-de-alta-24581455)
-* [Caso Edmar: colaborador que entregou R$ 8,5 milhões ao MPRJ deixou o condomínio onde morava com a família em Botafogo](https://oglobo.globo.com/rio/caso-edmar-colaborador-que-entregou-85-milhoes-ao-mprj-deixou-condominio-onde-morava-com-familia-em-botafogo-24580962)
-* [PIB do Reino Unido despenca 20,4% no segundo trimestre, maior tombo entre os países ricos](https://oglobo.globo.com/economia/pib-do-reino-unido-despenca-204-no-segundo-trimestre-maior-tombo-entre-os-paises-ricos-1-24581430)
-* [Mesmo com ameaça de Trump, Brasil deve taxar etanol americano no fim do mês](https://oglobo.globo.com/economia/mesmo-com-ameaca-de-trump-brasil-deve-taxar-etanol-americano-no-fim-do-mes-1-24581447)
 * [Livro reúne percepções de Fernanda Montenegro e Padre Fábio de Melo sobre o tempo](https://epoca.globo.com/guilherme-amado/livro-reune-percepcoes-de-fernanda-montenegro-padre-fabio-de-melo-sobre-tempo-24580855)

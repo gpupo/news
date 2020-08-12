@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 21:14:32 UTC
+# indexed at 12/08/2020 21:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -19,25 +19,25 @@ layout: default
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
 * [Where the missing middle of housing isn't missing](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing)
+* [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
 * [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
-* [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
-* [Veteran Submariner on How Sonar Crews Tirelessly Hunt Enemies They Can't See](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
-* [Why Are Currently No Ads on Techdirt? Apparently Google Thinks We're Dangerous](https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml)
-* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
-* [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
-* [China hires over 100 TSMC engineers in push for chip leadership](https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership)
-* [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
-* [The Musk Ox and Me](https://www.newyorker.com/magazine/2020/08/17/the-musk-ox-and-me)
-* [‘AeroNabs’ Promise Powerful, Inhalable Protection Against Covid-19](https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19)
-* [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
-* [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
 * [Git: Deletion of merged branches taken beyond shell hacks](https://github.com/hartwork/git-delete-merged-branches)
+* [Veteran Submariner on How Sonar Crews Tirelessly Hunt Enemies They Can't See](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
+* [China hires over 100 TSMC engineers in push for chip leadership](https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership)
+* [Why Are Currently No Ads on Techdirt? Apparently Google Thinks We're Dangerous](https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml)
+* [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
+* [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
+* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
+* [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
+* [The Musk Ox and Me](https://www.newyorker.com/magazine/2020/08/17/the-musk-ox-and-me)
+* [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
 * [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
-* [Moments of Attention](https://www.jimmckelvey.com/moments-of-attention/)
+* [‘AeroNabs’ Promise Powerful, Inhalable Protection Against Covid-19](https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19)
+* [Content moderation at scale is impossible to do well (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
 * [Amazon Music attempted to forbid podcasters from disparaging Amazon](https://pitchfork.com/news/amazon-music-adding-podcasts-on-the-condition-that-podcasters-dont-disparage-amazon/)
-* [What killed Quayside, Sidewalk Labs’ ambitious smart city in Toronto?](https://onezero.medium.com/how-a-band-of-activists-and-one-tech-billionaire-beat-alphabets-smart-city-de19afb5d69e)
 * [Labor of Division (2010)](http://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
+* [Moments of Attention](https://www.jimmckelvey.com/moments-of-attention/)
 ## nytimes.com
 
 
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Neymar brilha, PSG vence a Atalanta e vai à semifinal da Champions](https://oglobo.globo.com/esportes/neymar-brilha-psg-vence-atalanta-vai-semifinal-da-champions-24582677)
-* [Paraná e Rússia assinam parceria para produção de vacina contra a Covid-19](https://oglobo.globo.com/sociedade/coronavirus/parana-russia-assinam-parceria-para-producao-de-vacina-contra-covid-19-24582376)
-* [China estende mais uma vez pagamento da dívida venezuelana](https://oglobo.globo.com/mundo/china-estende-mais-uma-vez-pagamento-da-divida-venezuelana-24582411)
-* [Em meio ao avanço do desmatamento, Salles muda estrutura do ministério e cria secretaria da Amazônia](https://oglobo.globo.com/sociedade/em-meio-ao-avanco-do-desmatamento-salles-muda-estrutura-do-ministerio-cria-secretaria-da-amazonia-24582607)
-* [Vitor Hugo: 'Fui o líder de um governo que não queria ter base'](https://oglobo.globo.com/brasil/vitor-hugo-fui-lider-de-um-governo-que-nao-queria-ter-base-24582592)
-* [Sindicato do Rio discorda de paralisação do Brasileiro, mas consultará capitães](https://oglobo.globo.com/esportes/sindicato-do-rio-discorda-de-paralisacao-do-brasileiro-mas-consultara-capitaes-1-24582599)
 * [Rio tem segunda maior queda na média móvel de mortes pela Covid-19 desde março; estado registra 3.047 casos em 24 horas](https://oglobo.globo.com/rio/rio-tem-segunda-maior-queda-na-media-movel-de-mortes-pela-covid-19-desde-marco-estado-registra-3047-casos-em-24-horas-24582616)
-* [Pais e professores compartilham experiências na busca por uma educação antirracista](https://oglobo.globo.com/ela/pais-professores-compartilham-experiencias-na-busca-por-uma-educacao-antirracista-24582611)
+* [Neymar brilha, PSG vence a Atalanta e vai à semifinal da Champions](https://oglobo.globo.com/esportes/neymar-brilha-psg-vence-atalanta-vai-semifinal-da-champions-24582677)
+* [Neymar não temeu eliminação do PSG e projeta voos maiores na Champions: 'Vamos pelo título'](https://oglobo.globo.com/saber-viver/neymar-nao-temeu-eliminacao-do-psg-projeta-voos-maiores-na-champions-vamos-pelo-titulo-24582676)
+* [China estende mais uma vez pagamento da dívida venezuelana](https://oglobo.globo.com/mundo/china-estende-mais-uma-vez-pagamento-da-divida-venezuelana-24582411)
+* [Vitor Hugo: 'Fui o líder de um governo que não queria ter base'](https://oglobo.globo.com/brasil/vitor-hugo-fui-lider-de-um-governo-que-nao-queria-ter-base-24582592)
+* [Enquanto voa para o Líbano, Temer pousa no governo Bolsonaro](https://oglobo.globo.com/analitico/enquanto-voa-para-libano-temer-pousa-no-governo-bolsonaro-24582665)
+* [Paraná e Rússia assinam parceria para produção de vacina contra a Covid-19](https://oglobo.globo.com/sociedade/coronavirus/parana-russia-assinam-parceria-para-producao-de-vacina-contra-covid-19-24582376)
+* [Em meio ao avanço do desmatamento, Salles muda estrutura do ministério e cria secretaria da Amazônia](https://oglobo.globo.com/sociedade/em-meio-ao-avanco-do-desmatamento-salles-muda-estrutura-do-ministerio-cria-secretaria-da-amazonia-24582607)
+* [Sindicato do Rio discorda de paralisação do Brasileiro, mas consultará capitães](https://oglobo.globo.com/esportes/sindicato-do-rio-discorda-de-paralisacao-do-brasileiro-mas-consultara-capitaes-1-24582599)
 * [Antes de chamar Temer de 'querido', Bolsonaro dizia que Temer 'roubou' e merecia prisão](https://epoca.globo.com/guilherme-amado/antes-de-chamar-temer-de-querido-bolsonaro-dizia-que-temer-roubou-merecia-prisao-24582584)
-* [CNJ abre procedimento contra juíza que associou homem negro a grupo criminoso 'em razão da sua raça'](https://epoca.globo.com/brasil/cnj-abre-procedimento-contra-juiza-que-associou-homem-negro-grupo-criminoso-em-razao-da-sua-raca-24582416)

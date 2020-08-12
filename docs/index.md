@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 02:16:57 UTC
+# indexed at 12/08/2020 02:34:30 UTC
 
 
 ## news.ycombinator.com
@@ -17,30 +17,31 @@ layout: default
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
+* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
-* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
 * [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
-* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
+* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
 * [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
-* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
 * [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
+* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
 * [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
 * [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 * [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
-* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
-* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
-* [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
 * [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
+* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
+* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
+* [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
 * [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
 * [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
+* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
 ## nytimes.com
 
 
+* [Ilhan Omar Wins House Primary in Minnesota](https://www.nytimes.com/2020/08/11/us/politics/ilhan-omar-minnesota-primary-election.html)
 * [Kamala Harris, Biden's V.P. Pick, Is First Woman of Color on Major Party Ticket](https://www.nytimes.com/2020/08/11/us/politics/kamala-harris-vp-biden.html)
 * [Trump Quickly Assails Harris, as Democrats Praise Her](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump)
 * [In Kamala Harris, a Choice at Once Safe and Energizing](https://www.nytimes.com/2020/08/11/us/politics/kamala-harris-joe-biden-running-mate.html)
@@ -83,11 +84,11 @@ layout: default
 * [Watchdog Says State Dept. Failed to Limit Civilian Deaths From Saudi Arms Sales](https://www.nytimes.com/2020/08/11/us/politics/pompeo-state-inspector-general-saudi-weapons-civilian-casualties.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)

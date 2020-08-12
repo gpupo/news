@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 01:35:24 UTC
+# indexed at 12/08/2020 02:16:57 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Mitochondria May Hold Keys to Anxiety and Mental Health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
@@ -16,28 +17,27 @@ layout: default
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
+* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
-* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
-* [Mitochondria May Hold Keys to Anxiety and Mental Health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
-* [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
-* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
 * [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
-* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
-* [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
 * [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
-* [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
-* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
-* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
-* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
-* [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
+* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
+* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
+* [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
-* [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
-* [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
+* [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
+* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
+* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
+* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
+* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
+* [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
+* [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
 * [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
-* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
-* [Repl.it is hiring a programming language hacker](https://repl.it/jobs)
+* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
 ## nytimes.com
 
 
@@ -53,11 +53,9 @@ layout: default
 * [Russia Approves Coronavirus Vaccine Before Completing Tests](https://www.nytimes.com/2020/08/11/world/europe/russia-coronavirus-vaccine-approval.html)
 * [Trump v. Putin: A Vaccine Manhood Contest](https://www.nytimes.com/2020/08/11/us/politics/trump-putin-vaccine.html)
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
+* [Marjorie Taylor Greene, a QAnon Supporter, Wins House Primary in Georgia](https://www.nytimes.com/2020/08/11/us/politics/marjorie-taylor-greene-qanon-georgia-primary.html)
 * [Trump’s Push to Cut Payroll Taxes Opens a Democratic Line of Attack](https://www.nytimes.com/2020/08/11/us/politics/trump-payroll-tax-social-security.html)
 * [A New Clash Over Mail Voting: The Cost of the Postage](https://www.nytimes.com/2020/08/11/us/politics/post-office-mail-in-voting.html)
-* [Are Racial Attitudes Really Changing? Some Black Activists Are Skeptical](https://www.nytimes.com/2020/08/11/us/politics/black-lives-matter-chicago-roseland.html)
-* [A Bible Burning, a Russian News Agency and a Story Too Good to Check Out](https://www.nytimes.com/2020/08/11/us/politics/russia-disinformation-election-meddling.html)
-* [New Footage Shows Delayed Medical Response to George Floyd](https://www.nytimes.com/2020/08/11/us/george-floyd-body-cam-full-video.html)
 * [Edward P. Jones’s Carefully Quantified Literary World](https://www.nytimes.com/2020/08/11/books/review/edward-p-jones-americans-known-world-lost-in-the-city.html)
 * [Kamala Harris, Russia, the Perseids: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/08/11/briefing/kamala-harris-russia-the-perseids.html)
 * [Isabel Wilkerson Talks About ‘Caste’](https://www.nytimes.com/2020/08/07/books/review/podcast-isabel-wilkerson-caste-david-hill-vapors.html)
@@ -81,15 +79,15 @@ layout: default
 * [Zomato Draws Praise for Introducing Period Leave for Employees](https://www.nytimes.com/2020/08/11/business/india-zomato-period-leave.html)
 * [Judge Agrees to Retire After Alzheimer’s Diagnosis](https://www.nytimes.com/2020/08/11/nyregion/shawndya-simpson-judge-alzheimers-resign.html)
 * [Colorado Attorney General Is Investigating Practices of the Aurora Police](https://www.nytimes.com/2020/08/11/us/elijah-mcclain-lawsuit.html)
-* [The Virus Is Killing Young Floridians. Race Is a Big Factor.](https://www.nytimes.com/2020/08/11/us/virus-young-deaths.html)
+* [A Bible Burning, a Russian News Agency and a Story Too Good to Check Out](https://www.nytimes.com/2020/08/11/us/politics/russia-disinformation-election-meddling.html)
 * [Watchdog Says State Dept. Failed to Limit Civilian Deaths From Saudi Arms Sales](https://www.nytimes.com/2020/08/11/us/politics/pompeo-state-inspector-general-saudi-weapons-civilian-casualties.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -107,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Após deixar governo, Salim Mattar diz que não há 'vontade política' para privatizar estatais](https://oglobo.globo.com/economia/apos-deixar-governo-salim-mattar-diz-que-nao-ha-vontade-politica-para-privatizar-estatais-24580983)
-* [Em palestra em fundação do Itamaraty, Eduardo Bolsonaro diz que ‘pandemia é laboratório perfeito para globalistas’](https://oglobo.globo.com/mundo/em-palestra-em-fundacao-do-itamaraty-eduardo-bolsonaro-diz-que-pandemia-laboratorio-perfeito-para-globalistas-24580915)
+* [Missão humanitária do Brasil vai levar 6 toneladas de mantimentos a Beirute](https://oglobo.globo.com/mundo/missao-humanitaria-do-brasil-vai-levar-6-toneladas-de-mantimentos-beirute-24581225)
+* [30 minutos de Flamengo: 'Calma, torcedor! Não há motivo para pânico!'](https://oglobo.globo.com/podcast/30-minutos-de-flamengo-calma-torcedor-nao-ha-motivo-para-panico-24580392)
 * [EUA fecham acordo de US$1,5 bi com a Moderna por 100 milhões de doses de potencial vacina da Covid-19](https://oglobo.globo.com/sociedade/eua-fechamacordo-de-us15-bi-com-moderna-por-100-milhoes-de-doses-de-potencial-vacina-da-covid-19-24580865)
-* [MP do Rio pede saída de presidente e diretores da FGV](https://oglobo.globo.com/brasil/mp-do-rio-pede-saida-de-presidente-diretores-da-fgv-24580923)
+* [MP do Rio pede saída de presidente e diretores da FGV](https://oglobo.globo.com/brasil/mp-do-rio-pede-saida-de-presidente-diretores-da-fgv-1-24580923)
+* [Em palestra em fundação do Itamaraty, Eduardo Bolsonaro diz que ‘pandemia é laboratório perfeito para globalistas’](https://oglobo.globo.com/mundo/em-palestra-em-fundacao-do-itamaraty-eduardo-bolsonaro-diz-que-pandemia-laboratorio-perfeito-para-globalistas-24580915)
+* [Após deixar governo, Salim Mattar diz que não há 'vontade política' para privatizar estatais](https://oglobo.globo.com/economia/apos-deixar-governo-salim-mattar-diz-que-nao-ha-vontade-politica-para-privatizar-estatais-24580983)
 * ['Debandada' reflete congelamento de agenda de Guedes no governo Bolsonaro](https://oglobo.globo.com/analitico/debandada-reflete-congelamento-de-agenda-de-guedes-no-governo-bolsonaro-1-24580685)
-* [Ministério da Economia registra saldo de 168 mil empresas abertas em julho](https://oglobo.globo.com/economia/ministerio-da-economia-registra-saldo-de-168-mil-empresas-abertas-em-julho-24580643)
 * [Guedes diz que 'furar' teto de gastos é caminho para o impeachment de Bolsonaro](https://oglobo.globo.com/economia/guedes-diz-que-furar-teto-de-gastos-caminho-para-impeachment-de-bolsonaro-1-24580772)
 * [Ministério da Saúde quer dados mais detalhados sobre vacina russa](https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-quer-dados-mais-detalhados-sobre-vacina-russa-24580702)
-* [CBF revela quatro casos de Covid-19 no Atlético-GO; Dragão e Flamengo não foram comunicados](https://oglobo.globo.com/esportes/cbf-revela-quatro-casos-de-covid-19-no-atletico-go-dragao-flamengo-nao-foram-comunicados-24580628)
 * [Ministério da Justiça entrega relatório de 400 páginas sobre grupos antifascistas ao Congresso](https://oglobo.globo.com/brasil/ministerio-da-justica-entrega-relatorio-de-400-paginas-sobre-grupos-antifascistas-ao-congresso-24580668)

@@ -2,46 +2,45 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 02:34:30 UTC
+# indexed at 12/08/2020 03:14:56 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Mitochondria May Hold Keys to Anxiety and Mental Health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
+* [Court Dismisses Genius' Lawsuit Against Google for Lyrics Scraping](https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
-* [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
-* [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
+* [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
+* [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
-* [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
-* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
-* [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
-* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
 * [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
-* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
+* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
+* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
+* [Star Citizen Alpha 3.10.0](https://robertsspaceindustries.com/comm-link//17711-Star-Citizen-Alpha-3100)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
 * [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
-* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
-* [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
-* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
+* [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
+* [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
+* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
+* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
 * [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
+* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
-* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
-* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
 ## nytimes.com
 
 
-* [Ilhan Omar Wins House Primary in Minnesota](https://www.nytimes.com/2020/08/11/us/politics/ilhan-omar-minnesota-primary-election.html)
 * [Kamala Harris, Biden's V.P. Pick, Is First Woman of Color on Major Party Ticket](https://www.nytimes.com/2020/08/11/us/politics/kamala-harris-vp-biden.html)
 * [Trump Quickly Assails Harris, as Democrats Praise Her](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump)
 * [In Kamala Harris, a Choice at Once Safe and Energizing](https://www.nytimes.com/2020/08/11/us/politics/kamala-harris-joe-biden-running-mate.html)
@@ -55,6 +54,7 @@ layout: default
 * [Trump v. Putin: A Vaccine Manhood Contest](https://www.nytimes.com/2020/08/11/us/politics/trump-putin-vaccine.html)
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
 * [Marjorie Taylor Greene, a QAnon Supporter, Wins House Primary in Georgia](https://www.nytimes.com/2020/08/11/us/politics/marjorie-taylor-greene-qanon-georgia-primary.html)
+* [Ilhan Omar Wins House Primary in Minnesota](https://www.nytimes.com/2020/08/11/us/politics/ilhan-omar-minnesota-primary-election.html)
 * [Trump’s Push to Cut Payroll Taxes Opens a Democratic Line of Attack](https://www.nytimes.com/2020/08/11/us/politics/trump-payroll-tax-social-security.html)
 * [A New Clash Over Mail Voting: The Cost of the Postage](https://www.nytimes.com/2020/08/11/us/politics/post-office-mail-in-voting.html)
 * [Edward P. Jones’s Carefully Quantified Literary World](https://www.nytimes.com/2020/08/11/books/review/edward-p-jones-americans-known-world-lost-in-the-city.html)
@@ -84,11 +84,11 @@ layout: default
 * [Watchdog Says State Dept. Failed to Limit Civilian Deaths From Saudi Arms Sales](https://www.nytimes.com/2020/08/11/us/politics/pompeo-state-inspector-general-saudi-weapons-civilian-casualties.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -115,4 +115,4 @@ layout: default
 * ['Debandada' reflete congelamento de agenda de Guedes no governo Bolsonaro](https://oglobo.globo.com/analitico/debandada-reflete-congelamento-de-agenda-de-guedes-no-governo-bolsonaro-1-24580685)
 * [Guedes diz que 'furar' teto de gastos é caminho para o impeachment de Bolsonaro](https://oglobo.globo.com/economia/guedes-diz-que-furar-teto-de-gastos-caminho-para-impeachment-de-bolsonaro-1-24580772)
 * [Ministério da Saúde quer dados mais detalhados sobre vacina russa](https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-quer-dados-mais-detalhados-sobre-vacina-russa-24580702)
-* [Ministério da Justiça entrega relatório de 400 páginas sobre grupos antifascistas ao Congresso](https://oglobo.globo.com/brasil/ministerio-da-justica-entrega-relatorio-de-400-paginas-sobre-grupos-antifascistas-ao-congresso-24580668)
+* [A urgência da reforma administrativa](https://oglobo.globo.com/opiniao/a-urgencia-da-reforma-administrativa-1-24580151)

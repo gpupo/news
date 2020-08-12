@@ -2,39 +2,39 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 07:15:19 UTC
+# indexed at 12/08/2020 07:34:56 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Mozilla Fires Servo Devs and Security Response Teams](https://twitter.com/directhex/status/1293352458308198401)
 * [Court dismisses Genius lawsuit over lyrics-scraping by Google](https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/)
 * [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
-* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
+* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
+* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
 * [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
-* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
+* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
 * [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
 * [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
+* [Ask HN: How Belarus can keep connected despite internet blackout?](https://news.ycombinator.com/item?id=24129059)
+* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 * [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
-* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
-* [The information catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
-* [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
 * [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
+* [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
+* [The information catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
 * [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
 * [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
 * [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
@@ -83,11 +83,11 @@ layout: default
 * [Where's Juan Carlos? Exit of Scandal-Plagued Former King Grips Spain](https://www.nytimes.com/2020/08/11/world/europe/spain-juan-carlos-scandal.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -105,9 +105,9 @@ layout: default
 ## globo.com
 
 
-* [Guia da Liga dos Campeões: PSG e Atalanta abrem fase decisiva, imprevisível e com chance de campeão inédito](https://oglobo.globo.com/esportes/guia-da-liga-dos-campeoes-psg-atalanta-abrem-fase-decisiva-imprevisivel-com-chance-de-campeao-inedito-24579957)
+* [Liga dos Campeões: PSG e Atalanta abrem fase decisiva, imprevisível e com chance de vencedor inédito](https://oglobo.globo.com/esportes/liga-dos-campeoes-psg-atalanta-abrem-fase-decisiva-imprevisivel-com-chance-de-vencedor-inedito-24579957)
 * [Separador de cabine: Toyota lança proteção contra a Covid-19 para táxis e carros de aplicativo](https://oglobo.globo.com/economia/carros/separador-de-cabine-toyota-lanca-protecao-contra-covid-19-para-taxis-carros-de-aplicativo-24581350)
-* [Quais são os carros mais baratos do Brasil? Confira a lista...](https://oglobo.globo.com/economia/carros/quais-sao-os-carros-mais-baratos-do-brasil-confira-lista-24581229)
+* [Artista visual e perita criminal, Berna Reale conta em live como violência norteia sua obra](https://oglobo.globo.com/cultura/artes-visuais/artista-visual-perita-criminal-berna-reale-conta-em-live-como-violencia-norteia-sua-obra-24580914)
 * [Fluminense x Palmeiras: Tricolor inicia desafio de voltar a ser bom mandante no Brasileiro](https://oglobo.globo.com/esportes/fluminense/fluminense-palmeiras-tricolor-inicia-desafio-de-voltar-ser-bom-mandante-no-brasileiro-24580860)
 * [Aos 18 anos, Talles Magno vai para segundo Brasileiro pelo Vasco](https://oglobo.globo.com/esportes/vasco/aos-18-anos-talles-magno-vai-para-segundo-brasileiro-pelo-vasco-24580836)
 * [Nós e os outros](https://oglobo.globo.com/opiniao/nos-os-outros-24580649)

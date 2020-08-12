@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 01:16:43 UTC
+# indexed at 12/08/2020 01:35:24 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+* [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
@@ -19,25 +19,25 @@ layout: default
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
 * [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [Mitochondria May Hold Keys to Anxiety and Mental Health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
-* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
+* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
+* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
-* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
-* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
+* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
 * [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
+* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
+* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
 * [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
-* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
+* [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
 * [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
-* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
-* [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
-* [Repl.it is hiring a programming language hacker](https://repl.it/jobs)
-* [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
 * [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
-* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
+* [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
+* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
+* [Repl.it is hiring a programming language hacker](https://repl.it/jobs)
 ## nytimes.com
 
 
@@ -84,7 +84,7 @@ layout: default
 * [The Virus Is Killing Young Floridians. Race Is a Big Factor.](https://www.nytimes.com/2020/08/11/us/virus-young-deaths.html)
 * [Watchdog Says State Dept. Failed to Limit Civilian Deaths From Saudi Arms Sales](https://www.nytimes.com/2020/08/11/us/politics/pompeo-state-inspector-general-saudi-weapons-civilian-casualties.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
-* [Hockey, Rocked by Racist Acts, Embraces Black Lives Matter Campaigns](https://www.nytimes.com/2020/08/10/sports/hockey/nhl-racism-protests-george-floyd.html)
+* [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
@@ -107,8 +107,8 @@ layout: default
 ## globo.com
 
 
-* [Em palestra em fundação do Itamaraty, Eduardo Bolsonaro diz que ‘pandemia é laboratório perfeito para globalistas’](https://oglobo.globo.com/mundo/em-palestra-em-fundacao-do-itamaraty-eduardo-bolsonaro-diz-que-pandemia-laboratorio-perfeito-para-globalistas-24580915)
 * [Após deixar governo, Salim Mattar diz que não há 'vontade política' para privatizar estatais](https://oglobo.globo.com/economia/apos-deixar-governo-salim-mattar-diz-que-nao-ha-vontade-politica-para-privatizar-estatais-24580983)
+* [Em palestra em fundação do Itamaraty, Eduardo Bolsonaro diz que ‘pandemia é laboratório perfeito para globalistas’](https://oglobo.globo.com/mundo/em-palestra-em-fundacao-do-itamaraty-eduardo-bolsonaro-diz-que-pandemia-laboratorio-perfeito-para-globalistas-24580915)
 * [EUA fecham acordo de US$1,5 bi com a Moderna por 100 milhões de doses de potencial vacina da Covid-19](https://oglobo.globo.com/sociedade/eua-fechamacordo-de-us15-bi-com-moderna-por-100-milhoes-de-doses-de-potencial-vacina-da-covid-19-24580865)
 * [MP do Rio pede saída de presidente e diretores da FGV](https://oglobo.globo.com/brasil/mp-do-rio-pede-saida-de-presidente-diretores-da-fgv-24580923)
 * ['Debandada' reflete congelamento de agenda de Guedes no governo Bolsonaro](https://oglobo.globo.com/analitico/debandada-reflete-congelamento-de-agenda-de-guedes-no-governo-bolsonaro-1-24580685)

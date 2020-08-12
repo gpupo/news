@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 06:17:07 UTC
+# indexed at 12/08/2020 06:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
-* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
+* [Mozilla Fires Servo Devs and Security Response Teams](https://twitter.com/directhex/status/1293352458308198401)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
+* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
-* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
+* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
+* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
-* [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
-* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
 * [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
+* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
+* [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
 * [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
 * [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
-* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
-* [The Information Catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
+* [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
+* [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
+* [The Information Catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
-* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
 * [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
+* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
 * [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
-* [The EU is launching a market for personal data](https://www.technologyreview.com/2020/08/11/1006555/eu-data-trust-trusts-project-privacy-policy-opinion/)
-* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 ## nytimes.com
 
 
@@ -84,10 +84,10 @@ layout: default
 * [Where's Juan Carlos? Exit of Scandal-Plagued Former King Grips Spain](https://www.nytimes.com/2020/08/11/world/europe/spain-juan-carlos-scandal.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)

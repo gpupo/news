@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 04:34:38 UTC
+# indexed at 12/08/2020 05:14:30 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Court dismisses Genius lawsuit over lyrics-scraping by Google](https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/)
+* [3D Printing Integrated Circuits: What's Possible Now and in the Future?](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
-* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
-* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
+* [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
-* [Star Citizen Alpha 3.10.0](https://robertsspaceindustries.com/comm-link//17711-Star-Citizen-Alpha-3100)
+* [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
 * [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
-* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
-* [The Sail ISA specification language](https://github.com/rems-project/sail)
-* [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
-* [Belarus has shut down the internet amid a controversial election](https://www.wired.com/story/belarus-internet-outage-election/)
-* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
-* [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
+* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
-* [Emulating Windows system calls in Linux](https://lwn.net/Articles/824380/)
+* [The Sail ISA specification language](https://github.com/rems-project/sail)
+* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
+* [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/)
+* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [Star Citizen Alpha 3.10](https://robertsspaceindustries.com/comm-link//17711-Star-Citizen-Alpha-3100)
+* [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
+* [The Information Catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
 * [Show HN: EventNative – An open-source, user event collection service](https://github.com/ksensehq/eventnative)
 * [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
+* [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
 * [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
-* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
-* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
+* [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
 * [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
+* [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
 ## nytimes.com
 
 
@@ -84,11 +84,11 @@ layout: default
 * [Where's Juan Carlos? Exit of Scandal-Plagued Former King Grips Spain](https://www.nytimes.com/2020/08/11/world/europe/spain-juan-carlos-scandal.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -100,7 +100,6 @@ layout: default
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
 * [This One Is for the Focaccia Lovers](https://www.nytimes.com/2020/08/07/dining/eggplant-focaccia-recipe.html)
 * [Perseid Meteor Shower 2020: Watch It Peak Tonight](https://www.nytimes.com/2020/08/11/science/perseid-meteor-shower.html)
-* [How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk](https://www.nytimes.com/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

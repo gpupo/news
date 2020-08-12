@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 05:35:12 UTC
+# indexed at 12/08/2020 06:17:07 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
+* [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
 * [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
-* [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
-* [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
-* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
-* [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
-* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
-* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
-* [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [The Sail ISA specification language](https://github.com/rems-project/sail)
+* [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
+* [TSA considers new system for flyers without ID](https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/)
+* [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
+* [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
+* [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
+* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
+* [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
 * [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
 * [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
-* [The Information Catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
-* [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 * [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
-* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
-* [Browser Extensions I Can't Live Without](https://blog.maskys.com/my-best-chrome-extensions/)
+* [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+* [The Information Catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
+* [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
-* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
+* [Fravia’s web-searching lore (2009)](http://biostatisticien.eu/www.searchlores.org/indexo.htm)
 * [Classic books for tech leads or those aspiring to be](https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be)
-* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
+* [On-Device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html)
 * [The EU is launching a market for personal data](https://www.technologyreview.com/2020/08/11/1006555/eu-data-trust-trusts-project-privacy-policy-opinion/)
-* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
+* [Music: A Mathematical Offering (2008)](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 ## nytimes.com
 
 
@@ -84,11 +84,11 @@ layout: default
 * [Where's Juan Carlos? Exit of Scandal-Plagued Former King Grips Spain](https://www.nytimes.com/2020/08/11/world/europe/spain-juan-carlos-scandal.html)
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -99,18 +99,16 @@ layout: default
 * [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](https://www.nytimes.com/2020/08/04/health/coronavirus-hotels-infect.html)
 * [Children May Carry Coronavirus at High Levels, Study Finds](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
 * [This One Is for the Focaccia Lovers](https://www.nytimes.com/2020/08/07/dining/eggplant-focaccia-recipe.html)
-* [How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk](https://www.nytimes.com/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
-* [How to Prepare for Your Return to the Office](https://www.nytimes.com/2020/08/08/at-home/office-return-coronavirus.html)
-* [Susan Rice Was a Diplomatic Disaster](https://www.nytimes.com/2020/08/10/opinion/susan-rice-africa.html)
+* [Perseid Meteor Shower 2020: Watch It Peak Tonight](https://www.nytimes.com/2020/08/11/science/perseid-meteor-shower.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Guia da Liga dos Campeões: PSG e Atalanta abrem fase decisiva, imprevisível e com chance de campeão inédito](https://oglobo.globo.com/esportes/guia-da-liga-dos-campeoes-psg-atalanta-abrem-fase-decisiva-imprevisivel-com-chance-de-campeao-inedito-24579957)
 * [Separador de cabine: Toyota lança proteção contra a Covid-19 para táxis e carros de aplicativo](https://oglobo.globo.com/economia/carros/separador-de-cabine-toyota-lanca-protecao-contra-covid-19-para-taxis-carros-de-aplicativo-24581350)
 * [Quais são os carros mais baratos do Brasil? Confira a lista...](https://oglobo.globo.com/economia/carros/quais-sao-os-carros-mais-baratos-do-brasil-confira-lista-24581229)
-* [Missão humanitária do Brasil vai levar 6 toneladas de mantimentos a Beirute](https://oglobo.globo.com/mundo/missao-humanitaria-do-brasil-vai-levar-6-toneladas-de-mantimentos-beirute-24581225)
 * [30 minutos de Flamengo: 'Calma, torcedor! Não há motivo para pânico!'](https://oglobo.globo.com/podcast/30-minutos-de-flamengo-calma-torcedor-nao-ha-motivo-para-panico-24580392)
 * [Nós e os outros](https://oglobo.globo.com/opiniao/nos-os-outros-24580649)
 * [Lavando a nossa alma](https://oglobo.globo.com/opiniao/lavando-nossa-alma-24580631)

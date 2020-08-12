@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 20:17:05 UTC
+# indexed at 12/08/2020 20:34:38 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
-* [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
 * [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
-* [How Are Postmaster General Louis DeJoy's Changes Affecting Workers?](https://www.npr.org/2020/08/11/901219097/how-are-postmaster-general-dejoys-changes-affecting-workers)
+* [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
 * [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
 * [70% of surveyed Americans say they can't do their job without internet](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
-* [Where Missing Middle Housing Isn't Missing](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing)
+* [Dishwashing detergent hack: Two ingredients](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients?&ampcf=1)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
+* [Where Missing Middle Housing Isn't Missing](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing)
 * [Joan Feynman has died](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
-* [Dishwashing detergent hack: Two ingredients](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients?&ampcf=1)
-* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
 * [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
+* [Content moderation at scale is impossible to do well (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
 * [Veteran Submariner on How Sonar Crews Tirelessly Hunt Enemies They Can't See](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
 * [Why Are Currently No Ads on Techdirt? Apparently Google Thinks We're Dangerous](https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml)
 * [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
-* [Content moderation at scale is impossible to do well (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
+* [Git: Deletion of merged branches taken beyond shell hacks](https://github.com/hartwork/git-delete-merged-branches)
 * [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
-* [The Musk Ox and Me](https://www.newyorker.com/magazine/2020/08/17/the-musk-ox-and-me)
 * [China hires over 100 TSMC engineers in push for chip leadership](https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership)
+* [Moments of Attention](https://www.jimmckelvey.com/moments-of-attention/)
+* [The Musk Ox and Me](https://www.newyorker.com/magazine/2020/08/17/the-musk-ox-and-me)
+* [Sumner Redstone, media mogul who headed Viacom, has died](https://www.reuters.com/article/us-people-redstone/billionaire-sumner-redstone-media-mogul-who-headed-viacom-dead-at-97-idUSKCN2581K2)
 * [Show HN: dstack – an open-source tool to build data applications easily](https://news.ycombinator.com/item?id=24131723)
-* [Labor of Division (2010)](http://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
-* [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
 * [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
-* [What killed Quayside, Sidewalk Labs’ ambitious smart city in Toronto?](https://onezero.medium.com/how-a-band-of-activists-and-one-tech-billionaire-beat-alphabets-smart-city-de19afb5d69e)
-* [UC Santa Cruz Reinstates 41 Graduate Students After Months-Long Strike](https://www.vice.com/en_us/article/xg8mdn/uc-santa-cruz-reinstates-41-graduate-students-after-months-long-strike)
-* [Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE](https://revolte-attack.net/)
+* [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
+* [Labor of Division (2010)](http://ridiculousfish.com/blog/posts/labor-of-division-episode-i.html)
+* [How Are Postmaster General Louis DeJoy's Changes Affecting Workers?](https://www.npr.org/2020/08/11/901219097/how-are-postmaster-general-dejoys-changes-affecting-workers)
 * [Meet YC founders at YC's first Lightning Tech Talk & Happy Hour on Sept 10th](https://www.workatastartup.com/techtalk)
+* [What killed Quayside, Sidewalk Labs’ ambitious smart city in Toronto?](https://onezero.medium.com/how-a-band-of-activists-and-one-tech-billionaire-beat-alphabets-smart-city-de19afb5d69e)
 ## nytimes.com
 
 
@@ -76,14 +76,14 @@ layout: default
 * [R. Kelly’s Associates Charged With Threatening His Accusers](https://www.nytimes.com/2020/08/12/nyregion/r-kelly-sexual-assault-arrest.html)
 * [Matt Herron, Whose Camera Chronicled a Movement, Dies at 89](https://www.nytimes.com/2020/08/11/us/matt-herron-whose-camera-chronicled-a-movement-dies-at-89.html)
 * [How American Guns Are Fueling U.K. Crime](https://www.nytimes.com/2020/08/12/world/europe/handguns-smuggling-murder-us-uk.html)
-* [Sumner Redstone Dies at 97; Built Media Empire and Long Reigned Over It](https://www.nytimes.com/2020/08/12/obituaries/sumner-redstone-dead.html)
+* [Progressives Killed Amazon’s Deal in New York. Is Industry City Next?](https://www.nytimes.com/2020/08/12/nyregion/industry-city-zoning-amazon-nyc.html)
 * [The Daily News Is Now a Newspaper Without a Newsroom](https://www.nytimes.com/2020/08/12/business/media/daily-news-office.html)
 * [Murder Charges Over Stillbirth in California Set Off Heated Legal Battle](https://www.nytimes.com/2020/08/11/us/chelsea-becker-california-stillbirth.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Juliana Huxtable’s Next Chapter](https://www.nytimes.com/2020/08/10/t-magazine/juliana-huxtable.html)
 * [Making a Connection Between Movement and Social Movements](https://www.nytimes.com/2020/08/11/arts/dance/dance-protest-black-lives-matter.html)
 * [‘The Erratics’ Remembers a Mother With a Monstrous Talent for Twisting Reality](https://www.nytimes.com/2020/08/11/books/review-erratics-vicki-laveau-harvie.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Bolsonaro chama Guedes e parlamentares para reunião, após ‘debandada’ na equipe econômica](https://oglobo.globo.com/economia/bolsonaro-chama-guedes-parlamentares-para-reuniao-apos-debandada-na-equipe-economica-24582373)
+* [Paraná e Rússia assinam memorando de entendimento para produzir vacina contra Covid-19](https://oglobo.globo.com/sociedade/coronavirus/parana-russia-assinam-memorando-de-entendimento-para-produzir-vacina-contra-covid-19-24582376)
+* [Grupo jihadista assume controle de importante porto em Moçambique](https://oglobo.globo.com/mundo/grupo-jihadista-assume-controle-de-importante-porto-em-mocambique-24582433)
+* [Bolsonaro troca líder do governo na Câmara por deputado do centrão](https://oglobo.globo.com/brasil/bolsonaro-troca-lider-do-governo-na-camara-por-deputado-do-centrao-24582439)
+* [Casos de coronavírus aumentam na França, e governo vai pôr polícia para fiscalizar uso de máscaras](https://oglobo.globo.com/mundo/casos-de-coronavirus-aumentam-na-franca-governo-vai-por-policia-para-fiscalizar-uso-de-mascaras-24582437)
+* [CNJ abre procedimento contra juíza que associou homem negro a grupo criminoso 'em razão da sua raça'](https://epoca.globo.com/brasil/cnj-abre-procedimento-contra-juiza-que-associou-homem-negro-grupo-criminoso-em-razao-da-sua-raca-24582416)
 * [Em 20 meses de governo, Guedes não consegue cumprir boa parte das promessas de campanha](https://oglobo.globo.com/economia/em-20-meses-de-governo-guedes-nao-consegue-cumprir-boa-parte-das-promessas-de-campanha-24582232)
 * [STF vai julgar na próxima quarta ação contra dossiê de movimentos antifascistas](https://oglobo.globo.com/brasil/stf-vai-julgar-na-proxima-quarta-acao-contra-dossie-de-movimentos-antifascistas-24582475)
-* [Bolsonaro troca líder de governo na Câmara por deputado do centrão](https://oglobo.globo.com/brasil/bolsonaro-troca-lider-de-governo-na-camara-por-deputado-do-centrao-1-24582439)
-* [Casos de coronavírus sobem na França, e governo vai pôr polícia para fiscalizar uso de máscaras](https://oglobo.globo.com/mundo/casos-de-coronavirus-sobem-na-franca-governo-vai-por-policia-para-fiscalizar-uso-de-mascaras-24582437)
-* [Mais de 6 mil processos no MPF investigam fraudes em repasses de combate ao coronavírus](https://oglobo.globo.com/sociedade/mais-de-6-mil-processos-no-mpf-investigam-fraudes-em-repasses-de-combate-ao-coronavirus-24582409)
 * [Coluna | O crime na favela e o tráfico com asas](https://epoca.globo.com/giampaolo-morgado-braga/coluna-o-crime-na-favela-o-trafico-com-asas-24582450)
-* [Daniella Sarahyba cria camiseta em prol do Inca Voluntário](https://oglobo.globo.com/ela/gente/daniella-sarahyba-cria-camiseta-em-prol-do-inca-voluntario-24582297)
 * [Justiça condena Facebook e Oi a pagar indenização a vítima de golpe no WhatsApp](https://oglobo.globo.com/economia/defesa-do-consumidor/justica-condena-facebook-oi-pagar-indenizacao-vitima-de-golpe-no-whatsapp-24582426)
 * [GM propõe prorrogação de layoff e PDV em fábrica em SP, diz sindicato](https://oglobo.globo.com/economia/gm-propoe-prorrogacao-de-layoff-pdv-em-fabrica-em-sp-diz-sindicato-24582384)

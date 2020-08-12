@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 12/08/2020 08:16:26 UTC
+# indexed at 12/08/2020 08:34:40 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Parallel Seam Carving](https://shwestrick.github.io/2020/07/29/seam-carve.html)
 * [Bevy: A data-driven game engine and app framework built in Rust](https://bevyengine.org/news/introducing-bevy/)
 * [Amazon’s business model meets Sweden’s labor unions](https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/)
+* [Ask HN: How Belarus can keep connected despite internet blackout?](https://news.ycombinator.com/item?id=24129059)
 * [Systems Monitoring with Prometheus and Grafana](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/)
+* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
 * [JuliaDB](https://juliadata.github.io/JuliaDB.jl/latest/)
 * [Predictions as a Substitute for Reviews](https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/)
-* [Let's Build a 28-Core Raspberry Pi Cluster](https://ikarus.sg/how-i-built-kraken/)
+* [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
 * [Pumas AI: A platform for pharmaceutical modeling and simulation](http://pumas.ai)
 * [Mitochondria may hold keys to anxiety and mental health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
-* [Ask HN: How Belarus can keep connected despite internet blackout?](https://news.ycombinator.com/item?id=24129059)
-* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [NetSurf, a multi-platform web browser](https://www.netsurf-browser.org/)
+* [The Sail ISA specification language](https://github.com/rems-project/sail)
 * [A broken cable smashed a hole 100 feet wide in the Arecibo Observatory](https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8)
 * [Launch HN: Xkit (YC S18) – OAuth infrastructure as a service](https://news.ycombinator.com/item?id=24121290)
 * [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
-* [A Keyboard with Blank Keycaps Made Me an Expert Typist](https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist)
-* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
-* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
-* [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
 * [Helping Native Bees Thrive in a Honeybee World](https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world)
-* [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+* [Sixty years of Green Eggs and Ham](https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/)
+* [Airbnb Plans to File Confidentially for IPO in August](https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041)
+* [How airplanes counteract St. Elmo's Fire during thunderstorms](https://phys.org/news/2020-08-airplanes-counteract-st-elmo-thunderstorms.html)
 * [Datadog releases Incident Management, Profiler, Error Tracking, and more](https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/)
-* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
+* [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 * [Mozilla lays off 250 employees while it refocuses on commercial products](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 * [A network of 17th-century female spies (2019)](https://www.historytoday.com/reviews/can-you-keep-secret)
-* [The information catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
 * [Lucid – the origin story](https://billwadge.wordpress.com/2020/08/11/lucid-the-origin-story/)
+* [The information catastrophe](https://aip.scitation.org/doi/10.1063/5.0019941)
+* [ZX Spectrum Next – Issue 2](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2)
 * [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/)
 ## nytimes.com
 
@@ -84,10 +84,10 @@ layout: default
 * [Coronavirus Tests the Leadership Style of Goldman Sachs’s C.E.O.](https://www.nytimes.com/2020/08/11/business/goldman-sachs-david-solomon-coronavirus.html)
 * [Trini Lopez, Singing Star Who Mixed Musical Styles, Dies at 83](https://www.nytimes.com/2020/08/11/arts/music/trini-lopez-dead.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [Should We Be Drinking Less?](https://www.nytimes.com/2020/07/10/well/eat/should-we-be-drinking-less.html)
+* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [‘When You Say Badminton, You Say Indonesia’](https://www.nytimes.com/2020/08/07/sports/badminton-indonesia.html)
 * [The Key to an Inclusive Recovery? Putting Women in Decision-Making Roles](https://www.nytimes.com/2020/08/09/us/covid-women-girls-gender.html)
 * [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](https://www.nytimes.com/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
@@ -105,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Entenda: Família Bolsonaro movimentou R$1,5 milhão em dinheiro vivo em 24 anos](https://oglobo.globo.com/brasil/entenda-familia-bolsonaro-movimentou-r15-milhao-em-dinheiro-vivo-em-24-anos-24581305)
+* [Até onde pode ir o Botafogo, que estreia hoje no Brasileirão?](https://oglobo.globo.com/esportes/ate-onde-pode-ir-botafogo-que-estreia-hoje-no-brasileirao-24581056)
+* [Prestes a ser lançado, Pró-Brasil aposta em investimento público e escancara racha no governo federal](https://oglobo.globo.com/brasil/prestes-ser-lancado-pro-brasil-aposta-em-investimento-publico-escancara-racha-no-governo-federal-1-24581269)
 * [Argumento de Flávio a promotores sobre suposto funcionário fantasma tem contradição](https://oglobo.globo.com/brasil/argumento-de-flavio-promotores-sobre-suposto-funcionario-fantasma-tem-contradicao-24581258)
 * [Ao MP, Flávio citou comissão da Alerj já extinta para justificar trabalho de assessor suspeito de ser fantasma](https://oglobo.globo.com/brasil/ao-mp-flavio-citou-comissao-da-alerj-ja-extinta-para-justificar-trabalho-de-assessor-suspeito-de-ser-fantasma-1-24581245)
 * [Entenda: Família Bolsonaro movimentou R$1,5 milhão em espécie em 24 anos](https://oglobo.globo.com/brasil/entenda-familia-bolsonaro-movimentou-r15-milhao-em-especie-em-24-anos-1-24581302)
 * [Até onde é possível confiar na vacina russa contra a Covid-19?](https://oglobo.globo.com/podcast/ate-onde-possivel-confiar-na-vacina-russa-contra-covid-19-1-24581236)
-* [Brasileirão: levantamento mostra que cariocas vão melhor fora de seus estádios nos pontos corridos](https://oglobo.globo.com/esportes/brasileirao-levantamento-mostra-que-cariocas-vao-melhor-fora-de-seus-estadios-nos-pontos-corridos-24580916)
-* [Casa de repouso fecha após cinco idosos morrerem por Covid-19 e prefeitura não ser notificada](https://oglobo.globo.com/rio/casa-de-repouso-fecha-apos-cinco-idosos-morrerem-por-covid-19-prefeitura-nao-ser-notificada-24581191)
+* [Deputados começam a votar hoje PEC que pode permitir a instalação de fábricas de armas de fogo no Rio; entenda](https://oglobo.globo.com/rio/deputados-comecam-votar-hoje-pec-que-pode-permitir-instalacao-de-fabricas-de-armas-de-fogo-no-rio-entenda-24580232)
 * [Em encontro virtual, Papais Noéis recebem orientações médicas para se precaver no Natal da pandemia](https://oglobo.globo.com/rio/em-encontro-virtual-papais-noeis-recebem-orientacoes-medicas-para-se-precaver-no-natal-da-pandemia-24580848)
-* [Entenda como é feita a limpeza dos aviões em tempos de pandemia](https://oglobo.globo.com/boa-viagem/entenda-como-feita-limpeza-dos-avioes-em-tempos-de-pandemia-24580222)
+* [Museu dos Meninos apresenta histórias de jovens do Complexo do Alemão](https://oglobo.globo.com/rioshow/museu-dos-meninos-apresenta-historias-de-jovens-do-complexo-do-alemao-2-24566747)
 * [Salto alto com os dias contados? Moletom em alta? Pandemia coloca a indústria fashion em xeque](https://oglobo.globo.com/ela/moda/salto-alto-com-os-dias-contados-moletom-em-alta-pandemia-coloca-industria-fashion-em-xeque-24573426)

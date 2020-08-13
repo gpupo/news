@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 23:14:45 UTC
+# indexed at 13/08/2020 23:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -14,8 +14,8 @@ layout: default
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
-* [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
 * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
+* [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
 * [Why is there only one Snap Store?](https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
@@ -24,20 +24,20 @@ layout: default
 * [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [Stopping phishing campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
 * [Google's differential privacy library](https://github.com/google/differential-privacy)
-* [Simple SQL in Python](https://github.com/nackjicholson/aiosql)
-* [Apple removes Fortnite from App Store after Epic attempts to bypass fees](https://twitter.com/markgurman/status/1293984069722636288)
-* [Zin Boats reinvents the electric boat in a bid to become the Tesla of the sea](https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/)
 * [Research Says Solo Founders Perform Better. Here Is Why](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
-* [How the ARM32 Linux kernel decompresses](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
-* [Draftbit (YC W18) Is Hiring a Sr Product Designer (Remote)](https://draftbit.com/jobs/product-designer)
+* [Zin Boats reinvents the electric boat in a bid to become the Tesla of the sea](https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/)
+* [Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [Mandykoh/convolver: Extended parallel image convolution library for Go](https://github.com/mandykoh/convolver)
+* [Apple removes Fortnite from App Store after Epic attempts to bypass fees](https://twitter.com/markgurman/status/1293984069722636288)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
+* [How the ARM32 Linux kernel decompresses](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
-* [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
+* [Draftbit (YC W18) Is Hiring a Sr Product Designer (Remote)](https://draftbit.com/jobs/product-designer)
 * [Justice Dept. Accuses Yale of Discrimination in Application Process](https://www.nytimes.com/2020/08/13/us/yale-discrimination.html)
 * [Docker update ToS: Image retention limits imposed on free accounts](https://www.docker.com/pricing/retentionfaq)
 * [Handles Are the Better Pointers (2018)](https://floooh.github.com/2018/06/17/handles-vs-pointers.html)
 * [Air pollution is worse than we thought](https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths)
+* [Did they even hang bears?](https://www.lrb.co.uk/the-paper/v42/n16/tom-shippey/did-they-even-hang-bears)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Who Would Replace Kamala Harris in the Senate for California? Let the Jockeying Begin](https://www.nytimes.com/2020/08/13/us/california-senate-kamala-harris.html)
 * [Worried Lenders Pounce on Landlords Unable to Pay Their Loans](https://www.nytimes.com/2020/08/13/business/commercial-landlord-loan-foreclosure.html)
 * [Agnes Chow, Mulan and a Hong Kong Protest Meme](https://www.nytimes.com/2020/08/13/world/asia/agnes-chow-mulan-hong-kong.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Tobe Nwigwe Never Planned to Go Viral. Then He Rapped About Breonna Taylor.](https://www.nytimes.com/2020/08/13/arts/music/tobe-nwigwe-breonna-taylor.html)
 * [Remembering Music’s Saving Powers at Auschwitz](https://www.nytimes.com/2020/08/13/arts/music/anita-lasker-wallfisch-auschwitz-salzburg-festival.html)
 * [In a Pair of ‘Hubs,’ the N.H.L. Postseason Has Been Anything but Neutral](https://www.nytimes.com/2020/08/13/sports/hockey/nhl-qualifying-round-playoffs.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Senado aprova nova distribuição de recursos do pré-sal para contemplar estados e municípios](https://oglobo.globo.com/economia/senado-aprova-nova-distribuicao-de-recursos-do-pre-sal-para-contemplar-estados-municipios-24584941)
+* [Defesa ficou com 84% dos recursos da Lava Jato destinados à proteção da Amazônia](https://oglobo.globo.com/brasil/defesa-ficou-com-84-dos-recursos-da-lava-jato-destinados-protecao-da-amazonia-24585099)
+* [Ministro do STJ revoga liminar e manda Queiroz de volta para prisão](https://oglobo.globo.com/brasil/ministro-do-stj-revoga-liminar-manda-queiroz-de-volta-para-prisao-1-24585051)
+* [Polícia diz que vai indiciar por racismo PMs suspeitos de agredir entregador em shopping do Rio](https://oglobo.globo.com/rio/policia-diz-que-vai-indiciar-por-racismo-pms-suspeitos-de-agredir-entregador-em-shopping-do-rio-24585086)
+* [Após troca na liderança do governo na Câmara, dois bolsonaristas entregam cargos](https://oglobo.globo.com/brasil/apos-troca-na-lideranca-do-governo-na-camara-dois-bolsonaristas-entregam-cargos-24585070)
 * [Brasil tem mais de 105 mil mortes e 3,2 milhões de infectados pela Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-mais-de-105-mil-mortes-32-milhoes-de-infectados-pela-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24585014)
-* [Ministro do STJ revoga liminar e manda Queiroz de volta para prisão](https://oglobo.globo.com/brasil/ministro-do-stj-revoga-liminar-manda-queiroz-de-volta-para-prisao-24585051)
+* [Inglaterra estreia modelo de shows ao vivo com ‘cercadinhos’ para plateia](https://oglobo.globo.com/cultura/inglaterra-estreia-modelo-de-shows-ao-vivo-com-cercadinhos-para-plateia-24585073)
+* [Senado aprova nova distribuição de recursos do pré-sal para contemplar estados e municípios](https://oglobo.globo.com/economia/senado-aprova-nova-distribuicao-de-recursos-do-pre-sal-para-contemplar-estados-municipios-24584941)
 * [Dirigente político próximo a Maduro morre de Covid-19 na Venezuela](https://oglobo.globo.com/mundo/dirigente-politico-proximo-maduro-morre-de-covid-19-na-venezuela-24584938)
-* [Dome se preocupa com parte física do Flamengo e deve desacelerar mudanças táticas](https://oglobo.globo.com/esportes/dome-se-preocupa-com-parte-fisica-do-flamengo-deve-desacelerar-mudancas-taticas-24584814)
 * [Senado aprova projeto que amplia área de atuação da Codevasf](https://oglobo.globo.com/brasil/senado-aprova-projeto-que-amplia-area-de-atuacao-da-codevasf-24584960)
 * [No quinto dia de protestos na Bielorrússia, ministro pede desculpas a manifestantes](https://oglobo.globo.com/mundo/no-quinto-dia-de-protestos-na-bielorrussia-ministro-pede-desculpas-manifestantes-24584980)
-* [Eletrobras será privatizada, 'no máximo', até o terceiro trimestre de 2021, diz presidente da estatal](https://oglobo.globo.com/economia/eletrobras-sera-privatizada-no-maximo-ate-terceiro-trimestre-de-2021-diz-presidente-da-estatal-24584837)
-* [É #FAKE que Camila Pitanga contraiu Covid-19, mas fingiu ter malária para tomar cloroquina](https://oglobo.globo.com/fato-ou-fake/e-fake-que-camila-pitanga-contraiu-covid-19-mas-fingiu-ter-malaria-para-tomar-cloroquina-24584908)
-* [IR: governo diz que dedução com educação beneficia mais ricos e deve ser revista](https://oglobo.globo.com/economia/ir-governo-diz-que-deducao-com-educacao-beneficia-mais-ricos-deve-ser-revista-24584842)

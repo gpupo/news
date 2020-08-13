@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 08:16:59 UTC
+# indexed at 13/08/2020 08:34:37 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Thank You MDN](https://www.ilovemdn.org/)
 * [NSA Owns Everything (2015)](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html?m=1)
-* [Gitoxide: Pure Rust Implementation of Git](https://github.com/Byron/gitoxide)
 * [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html)
+* [Gitoxide: Pure Rust Implementation of Git](https://github.com/Byron/gitoxide)
 * [The new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 * ["Rust does not have a stable ABI"](https://people.gnome.org/~federico/blog/rust-stable-abi.html)
 * [Show HN: I'm 15 and made a bedtime calculator with React JavaScript](https://www.sleepsources.com/bed-time-calculator/)
 * [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
 * [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
-* [Risk BowTie Method](https://www.juliantalbot.com/post/risk-bow-tie-method)
 * [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station)
 * [Moderating a public scholarship site on Reddit: A case study of r/AskHistorians [pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/25576/CSCW_Paper_Final_Final.pdf?sequence=1&isAllowed=y)
+* [Risk BowTie Method](https://www.juliantalbot.com/post/risk-bow-tie-method)
 * [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
-* [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
-* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-* [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
-* [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
 * [Python Textbook as a Jupyter Notebook](https://github.com/blobcity/python-for-data-science)
-* [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
+* [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
+* [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
+* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
 * [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
+* [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
+* [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
+* [Bitcoin-collateralized loans coming to Coinbase](https://www.coinbase.com/borrow)
 * [New study suggests ADHD like behavior helps spur entrepreneurial activity](https://www.sciencedaily.com/releases/2020/08/200812164926.htm)
 * [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
-* [Bitcoin-collateralized loans coming to Coinbase](https://www.coinbase.com/borrow)
-* [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
 * [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
+* [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
 * [Sets and Probability](https://stopa.io/post/243)
 * [42 Is Hiring Software Engineers (Remote) – JavaScript/Python/Spark](https://weworkremotely.com/remote-jobs/42-tech-software-engineer-full-time-remote)
-* [British Airways Entertainment System Chat App Crash (2019)](http://hmarco.org/bugs/CVE-2019-9019/CVE-2019-9019-British-Airways-Entertainment-System.html)
+* [The Hatpin Peril (2014)](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 ## nytimes.com
 
 
@@ -83,10 +83,10 @@ layout: default
 * [For Belarus Leader, a Fading Aura of Invincibility](https://www.nytimes.com/2020/08/12/world/europe/belarus-Aleksandr-Lukashenko-election.html)
 * [‘Fat Talks,’ an Investigation, and a Reckoning: How Collegiate Runners Forced Reform](https://www.nytimes.com/2020/08/12/sports/women-track-athletes-coaches-abuse.html)
 * [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](https://www.nytimes.com/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
 * [Carmelo Anthony Calls Push for Social Justice a ‘Lifelong Fight’](https://www.nytimes.com/2020/08/11/sports/basketball/nba-carmelo-anthony.html)
 * [Bike Shorts, It’s Your Time to Shine](https://www.nytimes.com/2020/08/12/style/bike-shorts-pandemic-quarantine.html)
@@ -95,21 +95,22 @@ layout: default
 * [Whether You Are a Night Owl or Early Bird May Affect How Much You Move](https://www.nytimes.com/2020/08/12/well/move/whether-you-are-a-night-owl-or-early-bird-may-affect-how-much-you-move.html)
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
 * [How a Fruit in Your Garden Gets Its Shiny Blue Color](https://www.nytimes.com/2020/08/11/science/blue-fruits-viburnum.html)
-* [In This Novel, a Grisly Discovery Leads to Self-Discovery](https://www.nytimes.com/2020/08/11/books/review/the-boy-in-the-field-margot-livesey.html)
-* [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
-* [A House candidate in Connecticut dropped out of today’s primary after being arrested.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/a-house-candidate-in-connecticut-dropped-out-of-todays-primary-after-being-arrested)
+* [On Native American Land, Contact Tracing Is Saving Lives](https://www.nytimes.com/2020/08/13/health/coronavirus-contact-tracing-apaches.html)
+* [Remote Control: Making Television Mid-Pandemic](https://www.nytimes.com/2020/08/12/arts/television/coastal-elites-connecting-social-distance.html)
+* [‘We Are the Guinea Pigs’: Hollywood Restarts Its Blockbuster Machine](https://www.nytimes.com/2020/08/13/business/media/coronavirus-jurassic-world-dominion.html)
+* [Trevor Noah Can’t Tell Whether Trump Is Attacking or Defending Biden](https://www.nytimes.com/2020/08/13/arts/television/trevor-noah-kamala-harris-biden-trump-late-night.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [PSDB fez 'operação suicida' no Rio, diz deputado Luiz Paulo, ao se desfiliar do partido após racha com Doria](https://oglobo.globo.com/brasil/psdb-fez-operacao-suicida-no-rio-diz-deputado-luiz-paulo-ao-se-desfiliar-do-partido-apos-racha-com-doria-1-24583133)
 * [Kamala Harris, a primeira candidata negra à vice nos EUA](https://oglobo.globo.com/podcast/kamala-harris-primeira-candidata-negra-vice-nos-eua-24583473)
-* [Vasco estreia contra o Sport com a esperança de ver Cano artilheiro do Brasileiro](https://oglobo.globo.com/esportes/vasco-estreia-contra-sport-com-esperanca-de-ver-cano-artilheiro-do-brasileiro-1-24583406)
+* [A ‘questão Fred’ se apresenta ao Fluminense](https://oglobo.globo.com/esportes/a-questao-fred-se-apresenta-ao-fluminense-24583450)
 * [Prefeitura do Rio começa hoje a exibir conteúdos para reforçar ensino à distância](https://oglobo.globo.com/rio/prefeitura-do-rio-comeca-hoje-exibir-conteudos-para-reforcar-ensino-distancia-24583187)
 * [O ex-braço direito virou dor de cabeça de Witzel; entenda](https://oglobo.globo.com/rio/o-ex-braco-direito-virou-dor-de-cabeca-de-witzel-entenda-24583186)
 * [Com a homologação da delação premiada de Edmar Santos, veja o que acontece com as investigações sobre fraudes na Saúde](https://oglobo.globo.com/rio/com-homologacao-da-delacao-premiada-de-edmar-santos-veja-que-acontece-com-as-investigacoes-sobre-fraudes-na-saude-24583140)
-* [Aperto na praia: com área de 6 metros quadrados, cercadinho poderá ter cinco pessoas](https://oglobo.globo.com/rio/aperto-na-praia-com-area-de-6-metros-quadrados-cercadinho-podera-ter-cinco-pessoas-24583190)
 * [Flávio Bolsonaro diz não lembrar de pagamento em espécie por apartamento na Zona Sul do Rio](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-nao-lembrar-de-pagamento-em-especie-por-apartamento-na-zona-sul-do-rio-24583282)
 * [Flávio Bolsonaro diz não lembrar de pagamento em espécie por apartamento no Rio](https://oglobo.globo.com/brasil/flavio-bolsonaro-diz-nao-lembrar-de-pagamento-em-especie-por-apartamento-no-rio-1-24583271)
 * [Empresários reforçam cobranças pelas reformas](https://oglobo.globo.com/economia/empresarios-reforcam-cobrancas-pelas-reformas-24583138)

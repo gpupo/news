@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 05:34:50 UTC
+# indexed at 13/08/2020 06:17:12 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Thank You MDN](https://www.ilovemdn.org/)
 * [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html)
+* [NSA Owns Everything](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html?m=1)
 * [The new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 * [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
 * [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
-* [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
-* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-* [42 Is Hiring Software Engineers (Remote) – JavaScript/Python/Spark](https://weworkremotely.com/remote-jobs/42-tech-software-engineer-full-time-remote)
 * [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
+* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
 * [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station)
-* [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
 * [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
 * [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
+* [42 Is Hiring Software Engineers (Remote) – JavaScript/Python/Spark](https://weworkremotely.com/remote-jobs/42-tech-software-engineer-full-time-remote)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
-* [Sets and Probability](https://stopa.io/post/243)
-* [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
+* [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
 * [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
-* [The millions being made from cardboard theft](https://www.bbc.com/news/business-53724620)
+* [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
+* [Python Textbook as a Jupyter Notebook](https://github.com/blobcity/python-for-data-science)
+* [Sets and Probability](https://stopa.io/post/243)
+* [Show HN: I'm 15 and made a bedtime calculator with React JavaScript](https://www.sleepsources.com/bed-time-calculator/)
 * [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
 * [70% of surveyed Americans say they can't do their job without internet](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
 * [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
-* [Show HN: I'm 15 and made a bedtime calculator with React JavaScript](https://www.sleepsources.com/bed-time-calculator/)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
-* [ALOHAnet Introduced Random Access Protocols to the Computing World](https://spectrum.ieee.org/the-institute/ieee-history/alohanet-introduced-random-access-protocols-to-the-computing-world)
+* [Bitcoin-collateralized loans coming to Coinbase](https://www.coinbase.com/borrow)
 * [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
-* [NSA Owns Everything](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html?m=1)
-* [The Hatpin Peril (2014)](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
-* [Manage Active Directory Objects with the New Windows Ad Provider for Terraform](https://www.hashicorp.com/blog/manage-active-directory-objects-new-windows-ad-provider-hashicorp-terraform/)
+* [ALOHAnet Introduced Random Access Protocols to the Computing World](https://spectrum.ieee.org/the-institute/ieee-history/alohanet-introduced-random-access-protocols-to-the-computing-world)
+* [British Airways Entertainment System Chat App Crash (2019)](http://hmarco.org/bugs/CVE-2019-9019/CVE-2019-9019-British-Airways-Entertainment-System.html)
 ## nytimes.com
 
 
@@ -83,11 +83,11 @@ layout: default
 * [It Was Business, It Was Personal: The Redstones’ Father-Daughter Feud](https://www.nytimes.com/2020/08/12/business/media/shari-redstone-sumner-redstone-viacomcbs.html)
 * [She Doesn’t Make Animals Cry, but She Collects Their Tears](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
 * [‘Fat Talks,’ an Investigation, and a Reckoning: How Collegiate Runners Forced Reform](https://www.nytimes.com/2020/08/12/sports/women-track-athletes-coaches-abuse.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](https://www.nytimes.com/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
 * [Carmelo Anthony Calls Push for Social Justice a ‘Lifelong Fight’](https://www.nytimes.com/2020/08/11/sports/basketball/nba-carmelo-anthony.html)
 * [Bike Shorts, It’s Your Time to Shine](https://www.nytimes.com/2020/08/12/style/bike-shorts-pandemic-quarantine.html)
@@ -96,16 +96,16 @@ layout: default
 * [Whether You Are a Night Owl or Early Bird May Affect How Much You Move](https://www.nytimes.com/2020/08/12/well/move/whether-you-are-a-night-owl-or-early-bird-may-affect-how-much-you-move.html)
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
 * [How a Fruit in Your Garden Gets Its Shiny Blue Color](https://www.nytimes.com/2020/08/11/science/blue-fruits-viburnum.html)
-* [The Harvard Professor Who Told the World That Jesus Had a Wife](https://www.nytimes.com/2020/08/11/books/review/veritas-ariel-sabar.html)
+* [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
 * [A House candidate in Connecticut dropped out of today’s primary after being arrested.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/a-house-candidate-in-connecticut-dropped-out-of-todays-primary-after-being-arrested)
-* [Happily Ever After? Harry and Meghan Will Settle for Normal](https://www.nytimes.com/2020/08/11/books/review/finding-freedom-omid-scobie-carolyn-durand.html)
-* [We Got a Black Woman on the Ticket. At Last.](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-2020.html)
+* [The Harvard Professor Who Told the World That Jesus Had a Wife](https://www.nytimes.com/2020/08/11/books/review/veritas-ariel-sabar.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Flamengo iguala marca negativa de 23 anos e tem pior início em pontos corridos](https://oglobo.globo.com/esportes/flamengo/flamengo-iguala-marca-negativa-de-23-anos-tem-pior-inicio-em-pontos-corridos-24583417)
 * [Liberou geral?](https://oglobo.globo.com/opiniao/liberou-geral-24582990)
 * [Supremacias](https://oglobo.globo.com/opiniao/supremacias-24582980)
 * [Só terremoto salva](https://oglobo.globo.com/opiniao/so-terremoto-salva-24582971)
@@ -114,5 +114,4 @@ layout: default
 * [Desonerar a classe média e os pobres e taxar os milionários](https://oglobo.globo.com/opiniao/desonerar-classe-media-os-pobres-taxar-os-milionarios-24582671)
 * [Afastamento da Lava-Jato como punição pelo combate à corrupção](https://oglobo.globo.com/opiniao/afastamento-da-lava-jato-como-punicao-pelo-combate-corrupcao-24582577)
 * [Drive-ins no fim de semana: 'Aquaman', 'La La Land' e 'Harry Potter' nas telonas](https://oglobo.globo.com/rioshow/drive-ins-no-fim-de-semana-aquaman-la-la-land-harry-potter-nas-telonas-24582110)
-* [Lives de hoje: Norah Jones e Tim Bernardes são destaques](https://oglobo.globo.com/rioshow/lives-de-hoje-norah-jones-tim-bernardes-sao-destaques-24582090)
 * [Mostra Ecofalante exibe gratuitamente filmes inéditos e premiados na internet](https://oglobo.globo.com/rioshow/mostra-ecofalante-exibe-gratuitamente-filmes-ineditos-premiados-na-internet-24582410)

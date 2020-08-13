@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 22:15:06 UTC
+# indexed at 13/08/2020 22:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -11,40 +11,40 @@ layout: default
 * [a16z: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
-* [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
-* [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
+* [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Hot Water Sometimes Freezes Faster Than Cold Water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
+* [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
 * [Why is there only one Snap Store?](https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/)
-* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
-* [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
+* [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
 * [Indigenous Cultures Have Archaeology Too](https://www.sapiens.org/archaeology/archaeology-oral-tradition/)
+* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
+* [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
 * [Google's differential privacy library](https://github.com/google/differential-privacy)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
+* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 * [Stopping phishing campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
 * [Draftbit (YC W18) Is Hiring a Sr Product Designer (Remote)](https://draftbit.com/jobs/product-designer)
 * [Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [Apple removes Fortnite from App Store after Epic attempts to bypass fees](https://twitter.com/markgurman/status/1293984069722636288)
-* [Zin Boats reinvents the electric boat in a bid to become the Tesla of the sea](https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
+* [Zin Boats reinvents the electric boat in a bid to become the Tesla of the sea](https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/)
 * [How the ARM32 Linux kernel decompresses](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
-* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
 * [Justice Dept. Accuses Yale of Discrimination in Application Process](https://www.nytimes.com/2020/08/13/us/yale-discrimination.html)
 * [Docker update ToS: Image retention limits imposed on free accounts](https://www.docker.com/pricing/retentionfaq)
+* [Did they even hang bears?](https://www.lrb.co.uk/the-paper/v42/n16/tom-shippey/did-they-even-hang-bears)
 * [Air pollution is worse than we thought](https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths)
 * [Handles Are the Better Pointers (2018)](https://floooh.github.com/2018/06/17/handles-vs-pointers.html)
 * [Google adds virtual visiting card feature in Search in India](https://techcrunch.com/2020/08/10/google-people-card-virtual-business-card-search-india/)
 * [Medical research director sees light at the end of the Covid-19 tunnel](http://nautil.us/issue/88/love--sex/we-dont-have-to-despair)
-* [Did they even hang bears?](https://www.lrb.co.uk/the-paper/v42/n16/tom-shippey/did-they-even-hang-bears)
-* [Cardboard theft](https://www.bbc.com/news/business-53724620)
 ## nytimes.com
 
 
 * [Israel and United Arab Emirates Strike Major Diplomatic Agreement](https://www.nytimes.com/2020/08/13/us/politics/trump-israel-united-arab-emirates-uae.html)
 * [Coronavirus Live Updates: 5 South Texas Communities Become Leading U.S. Hot Spots](https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html)
 * [Weekly Unemployment Claims Dip Below 1 Million](https://www.nytimes.com/live/2020/08/13/business/stock-market-today-coronavirus)
-* [Justice Dept. Accuses Yale of Discrimination in Application Process](https://www.nytimes.com/2020/08/13/us/yale-discrimination.html)
+* [Justice Dept. Accuses Yale of Discrimination Against White, Asian-American Applicants](https://www.nytimes.com/2020/08/13/us/yale-discrimination.html)
 * [Trump Admits Postal Service Needs Billions for Mail-In Voting](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump)
 * [Why Mike Pence Should Be Worried About Debating Kamala Harris](https://www.nytimes.com/2020/08/13/us/politics/kamala-harris-pence-debate.html)
 * [Think QAnon Is on the Fringe? So Was the Tea Party](https://www.nytimes.com/2020/08/13/technology/qanon-tea-party.html)
@@ -79,11 +79,11 @@ layout: default
 * [Who Would Replace Kamala Harris in the Senate for California? Let the Jockeying Begin](https://www.nytimes.com/2020/08/13/us/california-senate-kamala-harris.html)
 * [Worried Lenders Pounce on Landlords Unable to Pay Their Loans](https://www.nytimes.com/2020/08/13/business/commercial-landlord-loan-foreclosure.html)
 * [Agnes Chow, Mulan and a Hong Kong Protest Meme](https://www.nytimes.com/2020/08/13/world/asia/agnes-chow-mulan-hong-kong.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [A Black Nurse Saved Lives. Today She May Save Art.](https://www.nytimes.com/2020/08/11/arts/design/biddy-mason-zakheim-murals.html)
 * [Remote Control: Making Television Mid-Pandemic](https://www.nytimes.com/2020/08/12/arts/television/coastal-elites-connecting-social-distance.html)
 * [The New Nose: Is the Bump Back?](https://www.nytimes.com/2020/08/12/style/rhinoplasty-the-new-nose-is-the-bump-back.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Reino Unido impõe quarentena de 14 dias para viajantes de França, Holanda e mais quatro países](https://oglobo.globo.com/mundo/reino-unido-impoe-quarentena-de-14-dias-para-viajantes-de-franca-holanda-mais-quatro-paises-24584822)
+* [Senado aprova projeto que amplia área de atuação da Codevasf](https://oglobo.globo.com/brasil/senado-aprova-projeto-que-amplia-area-de-atuacao-da-codevasf-24584960)
+* [Dirigente próximo a Maduro morre de Covid-19 na Venezuela](https://oglobo.globo.com/mundo/dirigente-proximo-maduro-morre-de-covid-19-na-venezuela-24584938)
 * [Eletrobras será privatizada, 'no máximo', até o terceiro trimestre de 2021, diz presidente da estatal](https://oglobo.globo.com/economia/eletrobras-sera-privatizada-no-maximo-ate-terceiro-trimestre-de-2021-diz-presidente-da-estatal-24584837)
+* [Dome se preocupa com parte física do Flamengo e deve desacelerar mudanças táticas](https://oglobo.globo.com/esportes/dome-se-preocupa-com-parte-fisica-do-flamengo-deve-desacelerar-mudancas-taticas-24584814)
+* [É #FAKE que Camila Pitanga contraiu Covid-19, mas fingiu ter malária para tomar cloroquina](https://oglobo.globo.com/fato-ou-fake/e-fake-que-camila-pitanga-contraiu-covid-19-mas-fingiu-ter-malaria-para-tomar-cloroquina-24584908)
+* [Reino Unido impõe quarentena de 14 dias para viajantes de França, Holanda e mais quatro países](https://oglobo.globo.com/mundo/reino-unido-impoe-quarentena-de-14-dias-para-viajantes-de-franca-holanda-mais-quatro-paises-24584822)
 * [IR: governo diz que dedução com educação beneficia mais ricos e deve ser revista](https://oglobo.globo.com/economia/ir-governo-diz-que-deducao-com-educacao-beneficia-mais-ricos-deve-ser-revista-24584842)
 * [Julgamento de limites da Abin antecipa debate no STF sobre dossiê contra servidores](https://oglobo.globo.com/analitico/julgamento-de-limites-da-abin-antecipa-debate-no-stf-sobre-dossie-contra-servidores-24584653)
-* [Dome se preocupa com parte física do Flamengo e deve desacelerar mudanças táticas](https://oglobo.globo.com/esportes/dome-se-preocupa-com-parte-fisica-do-flamengo-deve-desacelerar-mudancas-taticas-24584814)
 * [Ação de despejo ameaça Cia. Pessoal do Faroeste, grupo teatral que combate a fome na Cracolândia de SP](https://oglobo.globo.com/cultura/acao-de-despejo-ameaca-cia-pessoal-do-faroeste-grupo-teatral-que-combate-fome-na-cracolandia-de-sp-24584742)
-* [Após renunciar a R$ 1 bilhão do patrimônio, Messer vai ficar com apartamento no Leblon e R$ 3 milhões](https://oglobo.globo.com/brasil/apos-renunciar-r-1-bilhao-do-patrimonio-messer-vai-ficar-com-apartamento-no-leblon-r-3-milhoes-1-24584740)
-* [Coronavírus: não há evidências de contágio por ingestão de alimentos, dizem especialistas](https://oglobo.globo.com/economia/coronavirus-nao-haevidencias-de-contagio-por-ingestao-de-alimentos-dizem-especialistas-24584731)
-* [Por que a CBF não considera paralisar o Brasileiro diante da explosão de casos de Covid-19](https://oglobo.globo.com/esportes/por-que-cbf-nao-considera-paralisar-brasileiro-diante-da-explosao-de-casos-de-covid-19-24584744)
 * [Senado aprova projeto que proíbe bloqueio de recursos em fundo de ciência e tecnologia](https://oglobo.globo.com/sociedade/senado-aprova-projeto-que-proibe-bloqueio-de-recursos-em-fundo-de-ciencia-tecnologia-24584759)

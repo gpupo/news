@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 03:34:38 UTC
+# indexed at 13/08/2020 04:16:06 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
-* [Thank You MDN](https://www.ilovemdn.org/)
 * [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
+* [Thank You MDN](https://www.ilovemdn.org/)
 * [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html)
 * [The new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
-* [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
+* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
 * [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
 * [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
+* [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
 * [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
+* [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
-* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-* [The millions being made from cardboard theft](https://www.bbc.com/news/business-53724620)
+* [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
 * [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
-* [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
 * [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
+* [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
+* [The millions being made from cardboard theft](https://www.bbc.com/news/business-53724620)
 * [70% of surveyed Americans say they can't do their job without internet](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
 * [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
-* [The Hatpin Peril (2014)](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 * [ALOHAnet Introduced Random Access Protocols to the Computing World](https://spectrum.ieee.org/the-institute/ieee-history/alohanet-introduced-random-access-protocols-to-the-computing-world)
-* [Fuzzbuzz (YC W19) Is Hiring a Sr Back End Engineer (Remote/US Only)](https://angel.co/company/fuzzbuzz/jobs/924765-backend-software-engineer)
 * [Taylor Series and Accelerometers](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/)
-* [A Darker View of the Renaissance](https://lareviewofbooks.org/article/a-darker-view-of-the-renaissance/)
+* [The Hatpin Peril (2014)](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
+* [British Airways Entertainment System Chat App Crash (2019)](http://hmarco.org/bugs/CVE-2019-9019/CVE-2019-9019-British-Airways-Entertainment-System.html)
+* [Fuzzbuzz (YC W19) Is Hiring a Sr Back End Engineer (Remote/US Only)](https://angel.co/company/fuzzbuzz/jobs/924765-backend-software-engineer)
 * [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
 * [Git: Deletion of merged branches taken beyond shell hacks](https://github.com/hartwork/git-delete-merged-branches)
 * [Veteran submariner on how sonar crews tirelessly hunt enemies they can't see](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
-* [The SF Anthology Problem – Solved](https://classicsofsciencefiction.com/2020/08/09/the-sf-anthology-problem-solved/)
-* [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
-* [Show HN: Orchest – Data Science Pipelines](https://news.ycombinator.com/item?id=24131302)
+* [A Darker View of the Renaissance](https://lareviewofbooks.org/article/a-darker-view-of-the-renaissance/)
 ## nytimes.com
 
 
@@ -47,14 +47,14 @@ layout: default
 * [G.O.P.'s Raw Personal Attacks on Kamala Harris](https://www.nytimes.com/2020/08/12/us/politics/kamala-harris-gop-attacks.html)
 * [Kamala Harris Crystallizes Trump’s View of Women](https://www.nytimes.com/2020/08/12/us/politics/trump-women-kamala-harris.html)
 * [Advisers Consider Whether Trump Can Cut Taxes Without Congress](https://www.nytimes.com/2020/08/12/us/politics/trump-tax-cuts.html)
-* [Coronavirus Live Updates](https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html)
+* [Live Coronavirus News: World Updates](https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html)
 * [The Nation Wanted to Eat Out Again. Everyone Has Paid the Price.](https://www.nytimes.com/2020/08/12/health/Covid-restaurants-bars.html)
 * [Health Experts Warn About Perils of New Virus Data Collection System](https://www.nytimes.com/2020/08/12/us/politics/health-experts-warning-coronavirus-data.html)
 * [QAnon Followers Are Hijacking the #SaveTheChildren Movement](https://www.nytimes.com/2020/08/12/technology/qanon-save-the-children-trafficking.html)
 * [Some Conferences Postponed Football. Not So Fast in the South.](https://www.nytimes.com/2020/08/12/sports/ncaafootball/big-12-sec-acc-season.html)
 * [Ohio State Football Is Canceled. Will Trump Take the Hit?](https://www.nytimes.com/2020/08/12/us/politics/college-football-ohio-state-trump.html)
 * [Postponed College Football Games Could Disrupt $1 Billion in TV Ads](https://www.nytimes.com/2020/08/12/business/media/college-football-ads-coronavirus.html)
-* [The Scramble to Pluck 24 Billion Cherries in Eight Weeks](https://www.nytimes.com/2020/08/12/magazine/cherry-harvest-workers.html)
+* [Luxury Homes Tie Chinese Communist Elite to Hong Kong’s Fate](https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html)
 * [Biden-Harris, Masks, Moths: Your Wednesday Evening Briefing](https://www.nytimes.com/2020/08/12/briefing/biden-harris-masks-moths.html)
 * [A Historic V.P. Decision](https://www.nytimes.com/2020/08/12/podcasts/the-daily/biden-kamala-harris-vp.html)
 * [‘Coronavirus Schools Briefing’](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
@@ -96,22 +96,13 @@ layout: default
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
 * [How a Fruit in Your Garden Gets Its Shiny Blue Color](https://www.nytimes.com/2020/08/11/science/blue-fruits-viburnum.html)
 * [The Harvard Professor Who Told the World That Jesus Had a Wife](https://www.nytimes.com/2020/08/11/books/review/veritas-ariel-sabar.html)
-* [How Russia Findings Divided Trump and Intelligence Agencies](https://www.nytimes.com/2020/08/08/us/politics/trump-russia.html)
+* [The Photographers Who Captured the Toll of Hiroshima and Nagasaki](https://www.nytimes.com/2020/08/06/world/asia/hiroshima-nagasaki-japan-photos.html)
+* [The New Nose: Is the Bump Back?](https://www.nytimes.com/2020/08/12/style/rhinoplasty-the-new-nose-is-the-bump-back.html)
 * [A House candidate in Connecticut dropped out of today’s primary after being arrested.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/a-house-candidate-in-connecticut-dropped-out-of-todays-primary-after-being-arrested)
-* [He’s Sharing the History of Black New York, One Tweet at a Time](https://www.nytimes.com/2020/08/12/nyregion/olosunde-black-new-york-history.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Flamengo leva 3 a 0 do Atlético-GO e perde a segunda com Dome](https://oglobo.globo.com/esportes/flamengo-leva-3-0-do-atletico-go-perde-segunda-com-dome-24583144)
 * [Soro produzido a partir do plasma de cavalo tem anticorpo até 50 vezes mais potente do que o de pacientes recuperados da Covid-19, conclui pesquisa](https://oglobo.globo.com/sociedade/soro-produzido-partir-do-plasma-de-cavalo-tem-anticorpo-ate-50-vezes-mais-potente-do-que-de-pacientes-recuperados-da-covid-19-conclui-pesquisa-24583176)
-* [Morre Manoel José Marques de Sousa, fundador do Petisco da Vila](https://oglobo.globo.com/rio/morre-manoel-jose-marques-de-sousa-fundador-do-petisco-da-vila-24583336)
-* [Fluminense empata com o Palmeiras e já tropeça no primeiro jogo no Maracanã pelo Brasileiro](https://oglobo.globo.com/esportes/fluminense-empata-com-palmeiras-ja-tropeca-no-primeiro-jogo-no-maracana-pelo-brasileiro-1-24583348)
-* [Em vez de mais gastos, é preciso acelerar as reformas](https://oglobo.globo.com/opiniao/em-vez-de-mais-gastos-preciso-acelerar-as-reformas-1-24582886)
-* [Receitas com curry. Aprenda pratos e o preparo do tempero oriental em casa](https://oglobo.globo.com/rioshow/receitas-com-curry-aprenda-pratos-o-preparo-do-tempero-oriental-em-casa-24581592)
-* [Teste de Covid-19: ANS decide hoje se sorologia terá a cobertura obrigatória por planos de saúde](https://oglobo.globo.com/economia/defesa-do-consumidor/teste-de-covid-19-ans-decide-hoje-se-sorologia-tera-cobertura-obrigatoria-por-planos-de-saude-24582839)
-* [A relevância de Kamala Harris transcende as eleições de novembro](https://oglobo.globo.com/opiniao/a-relevancia-de-kamala-harris-transcende-as-eleicoes-de-novembro-1-24582799)
-* [Drive-ins no fim de semana: 'Aquaman', 'La La Land' e 'Harry Potter' nas telonas](https://oglobo.globo.com/rioshow/drive-ins-no-fim-de-semana-aquaman-la-la-land-harry-potter-nas-telonas-24582110)
-* [Lives de hoje: Norah Jones e Tim Bernardes são destaques](https://oglobo.globo.com/rioshow/lives-de-hoje-norah-jones-tim-bernardes-sao-destaques-24582090)

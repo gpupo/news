@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 15:15:22 UTC
+# indexed at 13/08/2020 15:34:39 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Intel’s 11th Gen Core Tiger Lake SoC Detailed: SuperFin, Willow Cove and Xe-LP](https://www.anandtech.com/show/15971/intels-11th-gen-core-tiger-lake-soc-detailed-superfin-willow-cove-and-xelp/2)
+* [Epic Direct Payment on Mobile](https://www.epicgames.com/fortnite/en-US/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent)
 * [Stopping phishing campaigns with bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
 * [Docker update ToS: Image retention limits imposed on free accounts](https://www.docker.com/pricing/retentionfaq)
 * [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
-* [From jQuery to Rome, 2006~2020 in 20 JavaScript projects](https://bestofjs.org/timeline)
-* [‘AeroNabs’ – Inhalable Protection Against Covid-19](https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19)
-* [Epic Direct Payment on Mobile](https://www.epicgames.com/fortnite/en-US/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent)
-* [Serverless: I'm a Big Kid Now](https://www.simplethread.com/serverless-im-a-big-kid-now/)
+* [Intel’s 11th Gen Core Tiger Lake SoC Detailed: SuperFin, Willow Cove and Xe-LP](https://www.anandtech.com/show/15971/intels-11th-gen-core-tiger-lake-soc-detailed-superfin-willow-cove-and-xelp/2)
 * [“Much” of the Rust/Wasmtime team hit by layoffs at Mozilla](https://twitter.com/tschneidereit/status/1293868141953667074)
+* [‘AeroNabs’ – Inhalable Protection Against Covid-19](https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19)
+* [Serverless: I'm a Big Kid Now](https://www.simplethread.com/serverless-im-a-big-kid-now/)
 * [NSA Owns Everything (2015)](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html)
 * [Setting out for calls and conferences](https://dino.im/blog/2020/08/setting-out-for-calls-and-conferences/)
+* [Riots and Political Theory: A Reading List](https://www.southampton.ac.uk/politics/news/2020/06/11-riots-and-political-theory.page)
 * [Handles Are the Better Pointers (2018)](https://floooh.github.com/2018/06/17/handles-vs-pointers.html)
-* [Why is there no “Just Riot” theory?](https://www.southampton.ac.uk/politics/news/2020/06/11-riots-and-political-theory.page)
 * [Intel Progress on Their “MOS” Modified Linux Kernel Running Lightweight Kernels](https://www.phoronix.com/scan.php?page=news_item&px=Intel-mOS-Multi-OS-Linux)
-* [Launch HN: Liyfe Clinic (YC S20) – telemedicine for breast cancer](https://liyfeclinic.com)
-* [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
-* [Senior Software Eng. (full-time) mission-driven company (React/Django)](https://news.ycombinator.com/item?id=24143229)
+* [Significant JavaScript projects from 2006 to 2020](https://bestofjs.org/timeline)
 * [Thank You MDN](https://www.ilovemdn.org/)
-* [Tesla Gets Crushed in Germany by EVs from Volkswagen, Renault, and Hyundai Group](https://wolfstreet.com/2020/08/10/tesla-gets-crushed-in-germany-by-evs-from-volkswagen-renault-hyundai-group-it-woke-up-the-giants/)
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
+* [Launch HN: Liyfe Clinic (YC S20) – telemedicine for breast cancer](https://liyfeclinic.com)
+* [Senior Software Eng. (full-time) mission-driven company (React/Django)](https://news.ycombinator.com/item?id=24143229)
+* [Smaug, the brand new OVHcloud backbone network infrastructure](https://www.ovh.com/blog/smaug-the-brand-new-ovhcloud-backbone-network-infrastructure/)
 * [Drogon – C++14/17-based rapid HTTP and web application framework](https://github.com/an-tao/drogon)
 * [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station)
-* [Smaug, the brand new OVHcloud backbone network infrastructure](https://www.ovh.com/blog/smaug-the-brand-new-ovhcloud-backbone-network-infrastructure/)
-* [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
 * [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
 * [Sets and Probability](https://stopa.io/post/243)
 * [Gitoxide: Pure Rust Implementation of Git](https://github.com/Byron/gitoxide)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
 * [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
-* [Epic Games introduces direct payments on iOS (routing around iOS store payments)](https://twitter.com/ballmatthew/status/1293893660493455360)
+* [Unraveling the linothorax mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [Risk BowTie Method](https://www.juliantalbot.com/post/risk-bow-tie-method)
+* [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
+* [Python Textbook as a Jupyter Notebook](https://github.com/blobcity/python-for-data-science)
 ## nytimes.com
 
 
@@ -46,6 +46,7 @@ layout: default
 * [Trump Hurls Insults at Biden and Harris as They Condemn His Virus Response](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump)
 * [Biden and Harris’s Incident-Free, Audience-Free Debut](https://www.nytimes.com/2020/08/12/us/politics/biden-harris-vice-president-debut.html)
 * [5 Takeaways From Kamala Harris’s First Full Day on the Biden Ticket](https://www.nytimes.com/2020/08/13/us/politics/harris-biden-takeaways.html)
+* [Israel to Establish Ties With Arab Neighbor and Suspend Annexation, Trump Announces](https://www.nytimes.com/2020/08/13/us/politics/trump-israel-united-arab-emirates-uae.html)
 * [How Trump’s Push to Reopen Schools Backfired](https://www.nytimes.com/2020/08/13/us/trump-schools-reopen.html)
 * [‘We Are the Guinea Pigs’: Hollywood Restarts Its Blockbuster Machine](https://www.nytimes.com/2020/08/13/business/media/coronavirus-jurassic-world-dominion.html)
 * [On Native American Land, Contact Tracing Is Saving Lives](https://www.nytimes.com/2020/08/13/health/coronavirus-contact-tracing-apaches.html)
@@ -83,9 +84,9 @@ layout: default
 * [Rebel Poet Sulaiman Layeq's Death Leaves 40 Years of Afghan Work Unfinished](https://www.nytimes.com/2020/08/13/world/asia/afghanistan-poet-Sulaiman-Layeq.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [These Shows Are Made for Walking](https://www.nytimes.com/2020/08/12/theater/promenade-theater-walking-pandemic.html)
 * [Why Kathleen Edwards Had to Quit Music (and Open a Coffee Shop)](https://www.nytimes.com/2020/08/11/arts/music/kathleen-edwards-total-freedom.html)
 * [Poem: The Unsolvable Puzzle](https://www.nytimes.com/2020/08/12/crosswords/essay-poem-puzzles-heart.html)
@@ -104,13 +105,13 @@ layout: default
 ## globo.com
 
 
-* [Análise: o coronavírus mostrou como revolucionar o formato da Champions League?](https://oglobo.globo.com/esportes/analise-coronavirus-mostrou-como-revolucionar-formato-da-champions-league-24583946)
+* [Fátima Bernanrdes relembra parceria com Sandra Annenberg: 'Parceria e sintomia'](https://oglobo.globo.com/ela/gente/fatima-bernanrdes-relembra-parceria-com-sandra-annenberg-parceria-sintomia-24583989)
 * [Governo regulamenta flexibilização da Voz do Brasil](https://oglobo.globo.com/brasil/governo-regulamenta-flexibilizacao-da-voz-do-brasil-24583927)
+* [Em delação, Messer renunciou a sete fazendas no Paraguai, apartamento de luxo em NY e quadros de Di Cavalcanti](https://oglobo.globo.com/brasil/em-delacao-messer-renunciou-sete-fazendas-no-paraguai-apartamento-de-luxo-em-ny-quadros-de-di-cavalcanti-24583929)
+* [Fórmula 1: Sergio Pérez disputará corrida na Espanha após se recuperar da Covid-19](https://oglobo.globo.com/esportes/formula-1-sergio-perez-disputara-corrida-na-espanha-apos-se-recuperar-da-covid-19-24583972)
 * ['Está muito incipiente, não temos profundidade nas respostas', diz Pazuello sobre vacina russa](https://oglobo.globo.com/sociedade/esta-muito-incipiente-nao-temos-profundidade-nas-respostas-diz-pazuello-sobre-vacina-russa-24583935)
-* [Temer entrega ajuda ao Líbano e diz que Brasil pode ajudar a 'harmonizar' conflito interno](https://oglobo.globo.com/mundo/temer-entrega-ajuda-ao-libano-diz-que-brasil-pode-ajudar-harmonizar-conflito-interno-24583918)
-* [Mundo ultrapassa marca de 750 mil mortos pelo novo coronavírus](https://oglobo.globo.com/mundo/mundo-ultrapassa-marca-de-750-mil-mortos-pelo-novo-coronavirus-24583892)
-* [Em delação, Messer renunciou a 81 imóveis no Paraguai, apartamento de luxo em NY e até quadros de Di Cavalcanti](https://oglobo.globo.com/brasil/em-delacao-messer-renunciou-81-imoveis-no-paraguai-apartamento-de-luxo-em-ny-ate-quadros-de-di-cavalcanti-24583929)
+* [Flávio Bolsonaro vai à posse na Funasa de réu por improbidade administrativa](https://epoca.globo.com/guilherme-amado/flavio-bolsonaro-vai-posse-na-funasa-de-reu-por-improbidade-administrativa-24583991)
+* [Análise: os desafios impostos pelo coronavírus mostraram como revolucionar o formato da Champions League?](https://oglobo.globo.com/esportes/analise-os-desafios-impostos-pelo-coronavirus-mostraram-como-revolucionar-formato-da-champions-league-24583946)
+* [Ministro do TSE vota contra criação do abuso de poder religioso](https://oglobo.globo.com/brasil/ministro-do-tse-vota-contra-criacao-do-abuso-de-poder-religioso-1-24583973)
 * [Gloria Estefan regrava seus hits como se eles fossem canções da MPB](https://oglobo.globo.com/cultura/gloria-estefan-regrava-seus-hits-como-se-eles-fossem-cancoes-da-mpb-24582748)
-* [Coronavírus: como informações falsas sobre a pandemia mataram mais de 800 pessoas](https://epoca.globo.com/sociedade/coronavirus-como-informacoes-falsas-sobre-pandemia-mataram-mais-de-800-pessoas-24583878)
-* [Coronavírus: A polêmica do relatório britânico citado por Bolsonaro como se confinamento fosse responsável por mais mortes](https://epoca.globo.com/brasil/coronavirus-polemica-do-relatorio-britanico-citado-por-bolsonaro-como-se-confinamento-fosse-responsavel-por-mais-mortes-24583858)
 * [Deputado questiona governo sobre Casa Rui Barbosa](https://epoca.globo.com/guilherme-amado/deputado-questiona-governo-sobre-casa-rui-barbosa-1-24582131)

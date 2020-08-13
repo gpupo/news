@@ -2,15 +2,14 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 09:15:03 UTC
+# indexed at 13/08/2020 09:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
 * [I stopped two phishing campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
-* [Mozilla Lifeboat](https://mozillalifeboat.com)
+* [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
 * [Thank You MDN](https://www.ilovemdn.org/)
 * [NSA Owns Everything (2015)](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html)
 * [Gitoxide: Pure Rust Implementation of Git](https://github.com/Byron/gitoxide)
@@ -18,17 +17,18 @@ layout: default
 * [Show HN: I'm 15 and made a bedtime calculator with React JavaScript](https://www.sleepsources.com/bed-time-calculator/)
 * [The new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 * [Risk BowTie Method](https://www.juliantalbot.com/post/risk-bow-tie-method)
+* [Mozilla Lifeboat](https://mozillalifeboat.com)
 * [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
-* ["Rust does not have a stable ABI"](https://people.gnome.org/~federico/blog/rust-stable-abi.html)
-* [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
 * [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station)
+* [Interactive HTML Trees with No JavaScript](https://shkspr.mobi/blog/2020/08/interactive-html-trees-with-no-javascript/)
+* [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
+* ["Rust does not have a stable ABI"](https://people.gnome.org/~federico/blog/rust-stable-abi.html)
+* [Moderating a public scholarship site on Reddit: A case study of r/AskHistorians [pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/25576/CSCW_Paper_Final_Final.pdf?sequence=1&isAllowed=y)
 * [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
 * [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
-* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-* [Moderating a public scholarship site on Reddit: A case study of r/AskHistorians [pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/25576/CSCW_Paper_Final_Final.pdf?sequence=1&isAllowed=y)
-* [Interactive HTML Trees with No JavaScript](https://shkspr.mobi/blog/2020/08/interactive-html-trees-with-no-javascript/)
-* [Python Textbook as a Jupyter Notebook](https://github.com/blobcity/python-for-data-science)
 * [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
+* [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [Python Textbook as a Jupyter Notebook](https://github.com/blobcity/python-for-data-science)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
 * [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
 * [Cellular Automata as Convolutional Neural Networks](https://arxiv.org/abs/1809.02942)
@@ -56,6 +56,7 @@ layout: default
 * [Postponed College Football Games Could Disrupt $1 Billion in TV Ads](https://www.nytimes.com/2020/08/12/business/media/college-football-ads-coronavirus.html)
 * [Luxury Homes Tie Chinese Communist Elite to Hong Kong’s Fate](https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html)
 * [Inside Jimmy Lai's Apple Daily During Hong Kong's Media Crackdown](https://www.nytimes.com/2020/08/12/world/asia/hong-kong-apple-daily-jimmy-lai.html)
+* [Retail Chains and Small Businesses Are Struggling in N.Y.C.](https://www.nytimes.com/2020/08/13/nyregion/nyc-small-businesses-retail-chains.html)
 * [A Historic V.P. Decision](https://www.nytimes.com/2020/08/12/podcasts/the-daily/biden-kamala-harris-vp.html)
 * [‘Coronavirus Schools Briefing’](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
 * [Join Us for a Conversation About Vice-Presidential Nominee Kamala Harris](https://www.nytimes.com/2020/07/23/us/politics/2020-election-events.html)
@@ -82,11 +83,11 @@ layout: default
 * [It Was Business, It Was Personal: The Redstones’ Father-Daughter Feud](https://www.nytimes.com/2020/08/12/business/media/shari-redstone-sumner-redstone-viacomcbs.html)
 * [For Belarus Leader, a Fading Aura of Invincibility](https://www.nytimes.com/2020/08/12/world/europe/belarus-Aleksandr-Lukashenko-election.html)
 * [‘Fat Talks,’ an Investigation, and a Reckoning: How Collegiate Runners Forced Reform](https://www.nytimes.com/2020/08/12/sports/women-track-athletes-coaches-abuse.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](https://www.nytimes.com/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
 * [Carmelo Anthony Calls Push for Social Justice a ‘Lifelong Fight’](https://www.nytimes.com/2020/08/11/sports/basketball/nba-carmelo-anthony.html)
 * [Bike Shorts, It’s Your Time to Shine](https://www.nytimes.com/2020/08/12/style/bike-shorts-pandemic-quarantine.html)
@@ -95,20 +96,21 @@ layout: default
 * [Whether You Are a Night Owl or Early Bird May Affect How Much You Move](https://www.nytimes.com/2020/08/12/well/move/whether-you-are-a-night-owl-or-early-bird-may-affect-how-much-you-move.html)
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
 * [How a Fruit in Your Garden Gets Its Shiny Blue Color](https://www.nytimes.com/2020/08/11/science/blue-fruits-viburnum.html)
-* [In This Novel, a Grisly Discovery Leads to Self-Discovery](https://www.nytimes.com/2020/08/11/books/review/the-boy-in-the-field-margot-livesey.html)
-* [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
-* [A House candidate in Connecticut dropped out of today’s primary after being arrested.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/a-house-candidate-in-connecticut-dropped-out-of-todays-primary-after-being-arrested)
+* [‘We Are the Guinea Pigs’: Hollywood Restarts Its Blockbuster Machine](https://www.nytimes.com/2020/08/13/business/media/coronavirus-jurassic-world-dominion.html)
+* [Facebook Will Urge Voting by Mail as Trump Attacks Method](https://www.nytimes.com/2020/08/13/us/politics/facebook-election-hub-vote-by-mail.html)
+* [Trevor Noah Can’t Tell Whether Trump Is Attacking or Defending Biden](https://www.nytimes.com/2020/08/13/arts/television/trevor-noah-kamala-harris-biden-trump-late-night.html)
+* [The Harvard Professor Who Told the World That Jesus Had a Wife](https://www.nytimes.com/2020/08/11/books/review/veritas-ariel-sabar.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [China afirma que asas de frango congeladas do Brasil apresentam teste positivo para coronavírus](https://oglobo.globo.com/economia/china-afirma-que-asas-de-frango-congeladas-do-brasil-apresentam-teste-positivo-para-coronavirus-24583499)
 * [Especialistas listam 11 atividades divertidas que, por causa da Covid-19, podem virar coisa do passado](https://oglobo.globo.com/sociedade/especialistas-listam-11-atividades-divertidas-que-por-causa-da-covid-19-podem-virar-coisa-do-passado-24582572)
 * [PSDB fez 'operação suicida' no Rio, diz deputado Luiz Paulo, ao se desfiliar do partido após racha com Doria](https://oglobo.globo.com/brasil/psdb-fez-operacao-suicida-no-rio-diz-deputado-luiz-paulo-ao-se-desfiliar-do-partido-apos-racha-com-doria-1-24583133)
 * [Kamala Harris, a primeira candidata negra à vice nos EUA](https://oglobo.globo.com/podcast/kamala-harris-primeira-candidata-negra-vice-nos-eua-24583473)
 * [A ‘questão Fred’ se apresenta ao Fluminense](https://oglobo.globo.com/esportes/a-questao-fred-se-apresenta-ao-fluminense-24583450)
-* [Prefeitura do Rio começa hoje a exibir conteúdos para reforçar ensino à distância](https://oglobo.globo.com/rio/prefeitura-do-rio-comeca-hoje-exibir-conteudos-para-reforcar-ensino-distancia-24583187)
 * [Mais cautela: Formato de jogo único ameaça diminuir média de gols na Champions](https://oglobo.globo.com/esportes/mais-cautela-formato-de-jogo-unico-ameaca-diminuir-media-de-gols-na-champions-24583339)
 * [O ex-braço direito virou dor de cabeça de Witzel; entenda](https://oglobo.globo.com/rio/o-ex-braco-direito-virou-dor-de-cabeca-de-witzel-entenda-24583186)
 * [Bolsonaro trocou líder do governo com ministro da articulação política fora de Brasília](https://epoca.globo.com/guilherme-amado/bolsonaro-trocou-lider-do-governo-com-ministro-da-articulacao-politica-fora-de-brasilia-24583238)

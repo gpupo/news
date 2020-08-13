@@ -2,17 +2,16 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 11:14:25 UTC
+# indexed at 13/08/2020 11:35:05 UTC
 
 
 ## news.ycombinator.com
 
 
-* [The cult of the free must die](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html)
 * [I stopped two phishing campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
+* [The cult of the free must die](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html)
 * [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
 * [Thank You MDN](https://www.ilovemdn.org/)
-* [US Core Inflation Jumps by Most Since 1991](https://confoundedinterest.net/2020/08/12/us-core-inflation-jumps-by-most-since-1991-while-rent-inflation-fell-to-lowest-rate-since-2015/)
 * [NSA Owns Everything (2015)](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html)
 * [Gitoxide: Pure Rust Implementation of Git](https://github.com/Byron/gitoxide)
 * [Show HN: I'm 15 and made a bedtime calculator with React JavaScript](https://www.sleepsources.com/bed-time-calculator/)
@@ -22,11 +21,12 @@ layout: default
 * [Intel Progress on Their “MOS” Modified Linux Kernel Running Lightweight Kernels](https://www.phoronix.com/scan.php?page=news_item&px=Intel-mOS-Multi-OS-Linux)
 * [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station)
 * [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
-* [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
 * [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
+* [A New Chapter for PyPy](https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html)
 * [Risk BowTie Method](https://www.juliantalbot.com/post/risk-bow-tie-method)
-* [Permutive (YC S14) is hiring Scala engineers in London](https://boards.greenhouse.io/permutive/jobs/4646719002)
 * [Unraveling the linothorax (linen armour) mystery (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [Permutive (YC S14) is hiring Scala engineers in London](https://boards.greenhouse.io/permutive/jobs/4646719002)
+* [Sets and Probability](https://stopa.io/post/243)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
 * [Python Textbook as a Jupyter Notebook](https://github.com/blobcity/python-for-data-science)
 * [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
@@ -34,10 +34,10 @@ layout: default
 * [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html)
 * [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
 * [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
-* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
-* [Sets and Probability](https://stopa.io/post/243)
-* [Behaviors resembling ADHD may be linked to increased entrepreneurial behavior](https://www.sciencedaily.com/releases/2020/08/200812164926.htm)
+* [Smaug, the brand new OVHcloud backbone network infrastructure](https://www.ovh.com/blog/smaug-the-brand-new-ovhcloud-backbone-network-infrastructure/)
 * [Joan Feynman has died](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
+* [Behaviors resembling ADHD may be linked to increased entrepreneurial behavior](https://www.sciencedaily.com/releases/2020/08/200812164926.htm)
+* [The Hatpin Peril (2014)](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [With the Biden-Harris Ticket, Environmental Justice Is a Focus](https://www.nytimes.com/2020/08/12/climate/kamala-harris-environmental-justice.html)
 * [For Belarus Leader, a Fading Aura of Invincibility](https://www.nytimes.com/2020/08/12/world/europe/belarus-Aleksandr-Lukashenko-election.html)
 * [Rebel Poet’s Death Leaves 40 Years of Epic Afghan Work Unfinished](https://www.nytimes.com/2020/08/13/world/asia/afghanistan-poet-Sulaiman-Layeq.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [These Shows Are Made for Walking](https://www.nytimes.com/2020/08/12/theater/promenade-theater-walking-pandemic.html)
 * [Why Kathleen Edwards Had to Quit Music (and Open a Coffee Shop)](https://www.nytimes.com/2020/08/11/arts/music/kathleen-edwards-total-freedom.html)
 * [Poem: The Unsolvable Puzzle](https://www.nytimes.com/2020/08/12/crosswords/essay-poem-puzzles-heart.html)
@@ -92,21 +92,22 @@ layout: default
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [Worried Lenders Pounce on Landlords Unable to Pay Their Loans](https://www.nytimes.com/2020/08/13/business/commercial-landlord-loan-foreclosure.html)
-* [Hedge funds and private equity firms gave loans. Now they’re suing.](https://www.nytimes.com/live/2020/08/13/business/stock-market-today-coronavirus/hedge-funds-and-private-equity-firms-gave-loans-now-theyre-suing)
+* [In This Novel, a Grisly Discovery Leads to Self-Discovery](https://www.nytimes.com/2020/08/11/books/review/the-boy-in-the-field-margot-livesey.html)
+* [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
+* [A House candidate in Connecticut dropped out of today’s primary after being arrested.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/a-house-candidate-in-connecticut-dropped-out-of-todays-primary-after-being-arrested)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Homem é preso com 19 pés de maconha plantados em quintal na Ilha da Gigoia](https://oglobo.globo.com/rio/homem-preso-com-19-pes-de-maconha-plantados-em-quintal-na-ilha-da-gigoia-24583574)
+* [Governo da China: asas de frango congeladas do Brasil estão contaminadas por coronavírus](https://epoca.globo.com/economia/governo-da-china-asas-de-frango-congeladas-do-brasil-estao-contaminadas-por-coronavirus-24583568)
+* [Megaoperação da Polícia Civil busca prender 100 agressores de mulheres em todo o estado](https://oglobo.globo.com/rio/megaoperacao-da-policia-civil-busca-prender-100-agressores-de-mulheres-em-todo-estado-24583555)
+* [Brad Pitt foi 'salvo' por uma cantora no começo da carreira em Hollywood](https://oglobo.globo.com/ela/gente/brad-pitt-foi-salvo-por-uma-cantora-no-comeco-da-carreira-em-hollywood-24583553)
 * [Vazamento de petróleo: por que os habitantes das Ilhas Maurício estão recolhendo cabelo](https://epoca.globo.com/mundo/vazamento-de-petroleo-por-que-os-habitantes-das-ilhas-mauricio-estao-recolhendo-cabelo-24583525)
 * [Quiosque no Piscinão de Ramos é atingido por incêndio na manhã desta quinta-feira](https://oglobo.globo.com/rio/quiosque-no-piscinao-de-ramos-atingido-por-incendio-na-manha-desta-quinta-feira-24583539)
 * [Novo foco de coronavírus na Nova Zelândia pode ter origem em frigorífico](https://oglobo.globo.com/mundo/novo-foco-de-coronavirus-na-nova-zelandia-pode-ter-origem-em-frigorifico-24582702)
 * [Depois de delação de R$ 1 bilhão, 'doleiro dos doleiros' ficará mais dois anos preso](https://epoca.globo.com/brasil/depois-de-delacao-de-1-bilhao-doleiro-dos-doleiros-ficara-mais-dois-anos-preso-24583452)
-* [Já passou da hora de haver abuso de poder religioso, diz promotor de caso que será julgado hoje pelo TSE](https://epoca.globo.com/guilherme-amado/ja-passou-da-hora-de-haver-abuso-de-poder-religioso-diz-promotor-de-caso-que-sera-julgado-hoje-pelo-tse-24583214)
 * [Secom usa decisão de Toffoli para justificar postagem enaltecendo assassinatos no Araguaia](https://epoca.globo.com/guilherme-amado/secom-usa-decisao-de-toffoli-para-justificar-postagem-enaltecendo-assassinatos-no-araguaia-24583155)
-* [Corredor Presente: projeto piloto terá operação de segurança entre São Conrado e Guaratiba](https://oglobo.globo.com/rio/bairros/corredor-presente-projeto-piloto-tera-operacao-de-seguranca-entre-sao-conrado-guaratiba-24583024)
-* [David Vizcarra comanda cozinha de restaurante peruano aberto por Thiago Fragoso na Barra; confira receitas](https://oglobo.globo.com/rio/bairros/david-vizcarra-comanda-cozinha-de-restaurante-peruano-aberto-por-thiago-fragoso-na-barra-confira-receitas-24573923)
 * [Professores denunciam reitor do RN por compra de R$ 250 mil em computadores para reitoria enquanto alunos estariam desassistidos](https://oglobo.globo.com/sociedade/professores-denunciam-reitor-do-rn-por-compra-de-250-mil-em-computadores-para-reitoria-enquanto-alunos-estariam-desassistidos-24582754)
-* [Ceviche de salmão do Me Lhama Que Voy](https://oglobo.globo.com/rio/bairros/ceviche-de-salmao-do-me-lhama-que-voy-1-24574053)

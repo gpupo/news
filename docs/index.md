@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 01:35:27 UTC
+# indexed at 13/08/2020 02:17:20 UTC
 
 
 ## news.ycombinator.com
@@ -14,29 +14,29 @@ layout: default
 * [The new Jupyter Book](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 * [Bertrand Russell's argument for idleness is more relevant than ever](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)
 * [Launch HN: Papercups (YC S20) – Open-Core Intercom Alternative](https://news.ycombinator.com/item?id=24133719)
-* [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
 * [No net insect abundance and diversity declines across US](https://www.nature.com/articles/s41559-020-1269-4)
 * [Raise Less Money](https://www.aaronkharris.com/raise-less-money)
+* [Hyperloop: Pipes of Fancy](https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport)
+* [Fuzzbuzz (YC W19) Is Hiring a Sr Back End Engineer (Remote/US Only)](https://angel.co/company/fuzzbuzz/jobs/924765-backend-software-engineer)
+* [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
+* [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
 * [Dishwashing detergent hack: Two ingredients (2015)](https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients)
 * [70% of surveyed Americans say they can't do their job without internet](https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/)
 * [The Hatpin Peril (2014)](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 * [A Darker View of the Renaissance](https://lareviewofbooks.org/article/a-darker-view-of-the-renaissance/)
-* [Office Drama on macOS](https://objective-see.com/blog/blog_0x4B.html)
+* [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
 * [Timescale Cloud: Multi-cloud, fully-managed time-series in AWS, Azure, and GCP](https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/)
 * [Taylor Series and Accelerometers](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/)
 * [The SF Anthology Problem – Solved](https://classicsofsciencefiction.com/2020/08/09/the-sf-anthology-problem-solved/)
+* [The millions being made from cardboard theft](https://www.bbc.com/news/business-53724620)
 * [Git: Deletion of merged branches taken beyond shell hacks](https://github.com/hartwork/git-delete-merged-branches)
+* [Veteran submariner on how sonar crews tirelessly hunt enemies they can't see](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [Show HN: Kinopio.club – visual thinking, brainstorming tool](https://kinopio.club)
 * [Show HN: Orchest – Data Science Pipelines](https://news.ycombinator.com/item?id=24131302)
-* [Veteran submariner on how sonar crews tirelessly hunt enemies they can't see](https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
+* [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
 * [The Social Media Problem](https://jacquesmattheij.com/the-social-media-problem/)
-* [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
 * [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://github.com/magicleap/atlas)
-* [Unraveling the Mindset of Victimhood](https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/)
-* [Joan Feynman has died](https://www.aps.org/publications/apsnews/updates/feynman.cfm)
-* [A New Concept for Usable Touch Interaction in Cars](https://www.theturnsignalblog.com/blog/new-touch-concept/)
-* [Uber CEO says its service will probably shut down temporarily in California](https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html)
 * [Content moderation at scale is impossible to do well (2019)](https://www.techdirt.com/articles/20191111/23032743367/masnicks-impossibility-theorem-content-moderation-scale-is-impossible-to-do-well.shtml)
 ## nytimes.com
 
@@ -82,11 +82,11 @@ layout: default
 * [It Was Business, It Was Personal: The Redstones’ Father-Daughter Feud](https://www.nytimes.com/2020/08/12/business/media/shari-redstone-sumner-redstone-viacomcbs.html)
 * [Inside Jimmy Lai's Apple Daily During Hong Kong's Media Crackdown](https://www.nytimes.com/2020/08/12/world/asia/hong-kong-apple-daily-jimmy-lai.html)
 * [‘Fat Talks,’ an Investigation, and a Reckoning: How Collegiate Runners Forced Reform](https://www.nytimes.com/2020/08/12/sports/women-track-athletes-coaches-abuse.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [How to Help Your Pet With Post-Quarantine Separation Anxiety](https://www.nytimes.com/2020/08/08/smarter-living/wirecutter/pets-quarantine-separation-anxiety.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](https://www.nytimes.com/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
 * [Carmelo Anthony Calls Push for Social Justice a ‘Lifelong Fight’](https://www.nytimes.com/2020/08/11/sports/basketball/nba-carmelo-anthony.html)
 * [Bike Shorts, It’s Your Time to Shine](https://www.nytimes.com/2020/08/12/style/bike-shorts-pandemic-quarantine.html)
@@ -96,18 +96,18 @@ layout: default
 * [How Russia’s Rushed Covid-19 Vaccine Could Backfire](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html)
 * [How a Fruit in Your Garden Gets Its Shiny Blue Color](https://www.nytimes.com/2020/08/11/science/blue-fruits-viburnum.html)
 * [The Harvard Professor Who Told the World That Jesus Had a Wife](https://www.nytimes.com/2020/08/11/books/review/veritas-ariel-sabar.html)
-* [An Elegant Bowl Handmade in Maine](https://www.nytimes.com/2020/08/10/dining/campfire-pottery-bowls.html)
-* [Amazon Satellites Add to Astronomers’ Worries About the Night Sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
-* [Late Night Doesn’t Trust Trump With the Nation’s Mail](https://www.nytimes.com/2020/08/12/arts/television/late-night-seth-meyers-trump-postal-service.html)
+* [Trump and His Allies Think They Know Who Counts](https://www.nytimes.com/2020/08/07/opinion/trump-2020-census.html)
+* [Happily Ever After? Harry and Meghan Will Settle for Normal](https://www.nytimes.com/2020/08/11/books/review/finding-freedom-omid-scobie-carolyn-durand.html)
+* [A Bible Burning, a Russian News Agency and a Story Too Good to Check Out](https://www.nytimes.com/2020/08/11/us/politics/russia-disinformation-election-meddling.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Flamengo leva 3 a 0 do Atlético-GO e perde a segunda com Domènec](https://oglobo.globo.com/esportes/flamengo-leva-3-0-do-atletico-go-perde-segunda-com-domenec-24583144)
 * [Gabigol chega ao sexto jogo sem fazer gols e atinge maior seca com a camisa do Flamengo](https://oglobo.globo.com/esportes/gabigol-chega-ao-sexto-jogo-sem-fazer-gols-atinge-maior-seca-com-camisa-do-flamengo-24582723)
-* [Irreconhecível, Flamengo é presa fácil do Atlético-GO e perde a segunda seguida no Brasileirão](https://oglobo.globo.com/esportes/flamengo/irreconhecivel-flamengo-presa-facil-do-atletico-go-perde-segunda-seguida-no-brasileirao-24583170)
+* [Flamengo leva 3 a 0 do Atlético-GO e perde a segunda com Domènec](https://oglobo.globo.com/esportes/flamengo-leva-3-0-do-atletico-go-perde-segunda-com-domenec-24583144)
+* [Argentina e México produzirão vacina de Oxford contra Covid-19 para abastecer América Latina](https://oglobo.globo.com/sociedade/argentina-mexico-produzirao-vacina-de-oxford-contra-covid-19-para-abastecer-america-latina-24582944)
 * [Prêmio Nobel bielorrusa acusa Lukashenko de arrastar país para ‘guerra civil’](https://oglobo.globo.com/mundo/premio-nobel-bielorrusa-acusa-lukashenko-de-arrastar-pais-para-guerra-civil-24583091)
 * [Em primeiro evento juntos, Biden e Harris atacam ‘fracasso de Trump’ na pandemia](https://oglobo.globo.com/mundo/em-primeiro-evento-juntos-biden-harris-atacam-fracasso-de-trump-na-pandemia-24583053)
 * [Organização social de saída da Cinemateca anuncia que vai demitir todos os funcionários](https://oglobo.globo.com/cultura/organizacao-social-de-saida-da-cinemateca-anuncia-que-vai-demitir-todos-os-funcionarios-24583136)

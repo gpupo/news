@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 13/08/2020 19:14:18 UTC
+# indexed at 13/08/2020 19:36:00 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Google Update Tanks Traffic](https://www.painscience.com/microblog/google-strikes-again.html)
-* [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
 * [Apple removes Fortnite from App Store after Epic attempts to bypass fees](https://twitter.com/markgurman/status/1293984069722636288)
+* [Parents are 5X as Worried about Infection and School than Work and Paying Bills](https://www.interest.com/mortgage/pandemic-top-parent-school-vs-mortgage-worries/)
+* [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
 * [Why is there only one Snap Store?](https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/)
-* [Google's differential privacy library](https://github.com/google/differential-privacy)
+* [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
 * [Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
+* [Google's differential privacy library](https://github.com/google/differential-privacy)
 * [Stopping phishing campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
-* [Parents are 5X as Worried about Infection and School than Work and Paying Bills](https://www.interest.com/mortgage/pandemic-top-parent-school-vs-mortgage-worries/)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
 * [Docker update ToS: Image retention limits imposed on free accounts](https://www.docker.com/pricing/retentionfaq)
 * [How the ARM32 Linux kernel decompresses](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
-* [Jira Is a Microcosm of What’s Broken in Software Development](https://linearb.io/blog/jira-is-a-microcosm-of-whats-broken-in-software-development/)
+* [Medical research director sees light at the end of the Covid-19 tunnel](http://nautil.us/issue/88/love--sex/we-dont-have-to-despair)
 * [Air pollution is worse than we thought](https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths)
 * [Handles Are the Better Pointers (2018)](https://floooh.github.com/2018/06/17/handles-vs-pointers.html)
-* [Medical research director sees light at the end of the Covid-19 tunnel](http://nautil.us/issue/88/love--sex/we-dont-have-to-despair)
-* [Epic direct payment on mobile](https://www.epicgames.com/fortnite/en-US/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent)
-* [NSA Owns Everything (2015)](https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html)
-* [Smarking (YC W15) is hiring Back end Eng to scale tech infra for parking](https://jobs.lever.co/smarking/65be7a6c-bb60-44a9-9a49-c425f322da3f)
-* [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
-* [‘AeroNabs’ – Inhalable Protection Against Covid-19](https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19)
 * [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
-* [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
-* [Cardboard theft](https://www.bbc.com/news/business-53724620)
+* [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
+* [Jira Is a Microcosm of What’s Broken in Software Development](https://linearb.io/blog/jira-is-a-microcosm-of-whats-broken-in-software-development/)
+* [‘AeroNabs’ – Inhalable Protection Against Covid-19](https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19)
+* [Smarking (YC W15) is hiring Back end Eng to scale tech infra for parking](https://jobs.lever.co/smarking/65be7a6c-bb60-44a9-9a49-c425f322da3f)
 * [Intel Progress on Their “MOS” Modified Linux Kernel Running Lightweight Kernels](https://www.phoronix.com/scan.php?page=news_item&px=Intel-mOS-Multi-OS-Linux)
+* [Cardboard theft](https://www.bbc.com/news/business-53724620)
+* [Epic direct payment on mobile](https://www.epicgames.com/fortnite/en-US/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent)
 * [Thank You MDN](https://www.ilovemdn.org/)
 * [Setting out for calls and conferences](https://dino.im/blog/2020/08/setting-out-for-calls-and-conferences/)
 * [Mozilla Lifeboat](https://mozillalifeboat.com)
-* [Drogon – C++14/17-based rapid HTTP and web application framework](https://github.com/an-tao/drogon)
 * [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html)
+* [Drogon – C++14/17-based rapid HTTP and web application framework](https://github.com/an-tao/drogon)
+* ["Much" of the Rust/Wasmtime team hit by layoffs at Mozilla](https://twitter.com/tschneidereit/status/1293868141953667074)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Worried Lenders Pounce on Landlords Unable to Pay Their Loans](https://www.nytimes.com/2020/08/13/business/commercial-landlord-loan-foreclosure.html)
 * [Agnes Chow, Mulan and a Hong Kong Protest Meme](https://www.nytimes.com/2020/08/13/world/asia/agnes-chow-mulan-hong-kong.html)
 * [Regrets? Even Brent Scowcroft Had a Few](https://www.nytimes.com/2020/08/12/us/politics/brent-scowcroft.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [A Black Nurse Saved Lives. Today She May Save Art.](https://www.nytimes.com/2020/08/11/arts/design/biddy-mason-zakheim-murals.html)
 * [Remote Control: Making Television Mid-Pandemic](https://www.nytimes.com/2020/08/12/arts/television/coastal-elites-connecting-social-distance.html)
 * [The New Nose: Is the Bump Back?](https://www.nytimes.com/2020/08/12/style/rhinoplasty-the-new-nose-is-the-bump-back.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
+* [É #FAKE que todos os atestados de óbitos de pacientes do SUS afirmem que causa mortis foi a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-todos-os-atestados-de-obitos-de-pacientes-do-sus-afirmem-que-causa-mortis-foi-covid-19-24584459)
+* [Grupo cria carroça elétrica para ajudar catadores com dificuldades físicas](https://epoca.globo.com/sociedade/grupo-cria-carroca-eletrica-para-ajudar-catadores-com-dificuldades-fisicas-24584447)
+* [Messer diz em delação que família fez empréstimo de US$ 13 milhões a ex-presidente do Paraguai](https://oglobo.globo.com/brasil/messer-diz-em-delacao-que-familia-fez-emprestimo-de-us-13-milhoes-ex-presidente-do-paraguai-24584457)
+* ['Desculpas não reparam a violação de direitos e o racismo', diz diretora da Anistia Internacional sobre juíza que citou a raça na sentença de réu](https://oglobo.globo.com/sociedade/desculpas-nao-reparam-violacao-de-direitos-o-racismo-diz-diretora-da-anistia-internacional-sobre-juiza-que-citou-raca-na-sentenca-de-reu-24583182)
+* [Novo líder do governo defende indicações políticas: 'Base sólida é feita a partir de uma coalização partidária'](https://oglobo.globo.com/brasil/novo-lider-do-governo-defende-indicacoes-politicas-base-solida-feita-partir-de-uma-coalizacao-partidaria-1-24584407)
 * [Dario Messer diz ter recebido US$ 600 mil de Horacio Cartes e pedido para não se entregar](https://epoca.globo.com/guilherme-amado/dario-messer-diz-ter-recebido-us-600-mil-de-horacio-cartes-pedido-para-nao-se-entregar-24584353)
-* [Apple prepara pacotes de assinatura de olho em serviços digitais](https://oglobo.globo.com/economia/apple-prepara-pacotes-de-assinatura-de-olho-em-servicos-digitais-24584376)
+* [Covid-19: Jovens de 18 e 34 já são maioria dos infectados na cidade de São Paulo](https://oglobo.globo.com/sociedade/covid-19-jovens-de-18-34-ja-sao-maioria-dos-infectados-na-cidade-de-sao-paulo-24584420)
 * [Programa Pró-Brasil fica para 2021, diz líder do governo no Congresso](https://oglobo.globo.com/economia/programa-pro-brasil-fica-para-2021-diz-lider-do-governo-no-congresso-24584344)
-* [Teste de Covid-19: Entenda quem tem direito a fazer o exame de sorologia pelo plano de saúde](https://oglobo.globo.com/economia/defesa-do-consumidor/teste-de-covid-19-entenda-quem-tem-direito-fazer-exame-de-sorologia-pelo-plano-de-saude-24584363)
-* [Lava-Jato de São Paulo afirma ao STF que 'jamais se recusou' a enviar dados à PGR](https://oglobo.globo.com/brasil/lava-jato-de-sao-paulo-afirma-ao-stf-que-jamais-se-recusou-enviar-dados-pgr-24584351)
-* [Gilmar Mendes pede informações ao TJ do Rio e ao STJ sobre prisão de Queiroz](https://oglobo.globo.com/brasil/gilmar-mendes-pede-informacoes-ao-tj-do-rio-ao-stj-sobre-prisao-de-queiroz-24584316)
-* [EUA convocam cientistas da África do Sul e de países sulamericanos para testes de vacinas contra a Covid-19](https://oglobo.globo.com/sociedade/coronavirus/eua-convocam-cientistas-da-africa-do-sul-de-paises-sulamericanos-para-testes-de-vacinas-contra-covid-19-24584298)
-* [É #FAKE que foto mostre Doria recebendo vacina chinesa contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-foto-mostre-doria-recebendo-vacina-chinesa-contra-covid-19-24584332)
-* [China identificou coronavírus em parte externa de embalagem com 20 kg de frango, diz vice-presidente de empresa brasileira](https://epoca.globo.com/economia/china-identificou-coronavirus-em-parte-externa-de-embalagem-com-20-kg-de-frango-diz-vice-presidente-de-empresa-brasileira-24584304)
-* [Juízes paraguaios cobraram US$ 600 mil para dar prisão domiciliar a Messer](https://epoca.globo.com/guilherme-amado/juizes-paraguaios-cobraram-us-600-mil-para-dar-prisao-domiciliar-messer-24584327)
+* [Teste de Covid-19: Entenda quem tem direito a fazer o exame de sorologia pelo plano de saúde](https://oglobo.globo.com/economia/defesa-do-consumidor/teste-de-covid-19-entenda-quem-tem-direito-fazer-exame-de-sorologia-pelo-plano-de-saude-1-24584363)
+* [Apple prepara pacotes de assinatura de olho em serviços digitais](https://oglobo.globo.com/economia/apple-prepara-pacotes-de-assinatura-de-olho-em-servicos-digitais-24584376)

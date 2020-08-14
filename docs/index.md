@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 17:15:14 UTC
+# indexed at 14/08/2020 17:34:56 UTC
 
 
 ## news.ycombinator.com
 
 
-* [I Love MDN, or the cult of the free in action](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Servo Parallel Browser Engine Project](https://github.com/servo/servo)
-* [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
-* [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
-* [Google resumes its attack on the URL bar, hides full addresses on Chrome 86](https://www.androidpolice.com/2020/08/13/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
+* [Tesla Fremont to Soon Activate World’s Largest Unibody Casting Machine](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-y-from-fremont-will-soon-use-the-biggest-casting-machine-for-mass-production)
 * [ZX Spectrum Next Issue 2 blasts through Kickstarter goal](https://www.bbc.com/news/technology-53765852)
+* [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
+* [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Google resumes its attack on the URL bar, hides full addresses on Chrome 86](https://www.androidpolice.com/2020/08/13/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
+* [Supercapacitors from Standard Bricks](https://www.nature.com/articles/s41467-020-17708-1)
+* [I Love MDN, or the cult of the free in action](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html)
 * [Redefining What Sustainable Fishing Means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
 * [Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
+* [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [Entropy Explained, with Sheep](https://aatishb.com/entropy/)
 * [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
-* [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [Ask HN: Has anyone else seen TCP connection issues in AWS US East this week?](https://news.ycombinator.com/item?id=24160123)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
-* [Supercapacitors from Standard Bricks](https://www.nature.com/articles/s41467-020-17708-1)
+* [Welders Set Off Beirut Blast While Securing Explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Netgpu and the hazards of proprietary kernel modules](https://lwn.net/Articles/827596/)
-* [America might wield its ultimate weapon of mass disruption](https://www.economist.com/business/2020/08/15/how-america-might-wield-its-ultimate-weapon-of-mass-disruption)
-* [Show HN: A Genetic Algorithm library written in JavaScript](https://github.com/lodenrogue/genetic-algorithm-js)
 * [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
-* [Show HN: Tweek – Super Fast To-Do Weekly Calendar App](https://tweek.so)
 * [A Massive Fractal in Days, Not Years [pdf]](http://www.jcgt.org/published/0009/02/02/paper.pdf)
+* [Show HN: A Genetic Algorithm library written in JavaScript](https://github.com/lodenrogue/genetic-algorithm-js)
+* [Show HN: Tweek – Super Fast To-Do Weekly Calendar App](https://tweek.so)
+* [How to Vote in the 2020 Election](https://projects.fivethirtyeight.com/how-to-vote-2020/)
 * [Simple Bacteria Offer Clues to the Origins of Photosynthesis](https://www.quantamagazine.org/simple-bacteria-offer-clues-to-the-origins-of-photosynthesis-20171017/)
 * [I Tried to Live Without the Tech Giants. It Was Impossible](https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html)
 * [Mozilla signs fresh Google search deal worth mega-millions](https://www.theregister.com/2020/08/14/mozilla_google_search/)
 * [Bird and reptile tears aren't so different from human tears](https://phys.org/news/2020-08-bird-reptile-human.html)
-* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
 * [Darktable 3.2.1](https://www.darktable.org/news/)
-* [Instagram kept deleted photos and messages on its servers for more than a year](https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed)
-* [NJ Supreme Court: No 5th Amendment right not to unlock your phone](https://arstechnica.com/tech-policy/2020/08/nj-supreme-court-no-5th-amendment-right-not-to-unlock-your-phone/)
+* [SpaceX Starlink speeds revealed as beta users get downloads of 11 to 60Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
 ## nytimes.com
 
 
@@ -45,8 +45,8 @@ layout: default
 * [Election Updates: Trump Requests Mail-In Ballot, Despite Criticism](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump)
 * [New Jersey Will Hold Mail-in Election in November, Over Trump’s Objections](https://www.nytimes.com/2020/08/14/nyregion/nj-vote-by-mail-election.html)
 * [Coronavirus Live Updates](https://www.nytimes.com/2020/08/14/world/coronavirus-covid-19.html)
+* [Clinical Trials of Coronavirus Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
-* [Families Priced Out of Coronavirus ‘Learning Pods’ Seek Alternatives](https://www.nytimes.com/2020/08/14/us/covid-schools-learning-pods.html)
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [Ex-F.B.I. Lawyer Expected to Plead Guilty in Review of Russia Inquiry](https://www.nytimes.com/2020/08/14/us/politics/kevin-clinesmith-durham-investigation.html)
 * [Top Homeland Security Officials Are Serving Illegally, G.A.O. Says](https://www.nytimes.com/2020/08/14/us/politics/homeland-security-illegal-gao.html)
@@ -78,11 +78,11 @@ layout: default
 * [How Stephen Ross and Daniel Doctoroff Are Trying to Influence the 2021 NYC Mayoral Race](https://www.nytimes.com/2020/08/14/nyregion/mayor-stephen-ross-daniel-doctoroff.html)
 * [Israel-U.A.E. Deal Swaps One Nightmare for Another for Palestinians](https://www.nytimes.com/2020/08/14/world/middleeast/palestinians-israel-uae-annexation-peace.html)
 * [The N.B.A. Bubble Bursts for Gregg Popovich and the Spurs](https://www.nytimes.com/2020/08/14/sports/basketball/gregg-popovich-spurs-playoff-streak.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How I Got My Kids Into Theater: Online Shows That Put Them to Work (and Play)](https://www.nytimes.com/2020/08/11/theater/immersive-theater-for-children.html)
 * [Niven Patel, a Miami Chef, Is Not Giving Up on 2020](https://www.nytimes.com/2020/08/10/dining/chef-niven-patel-mamey-coral-gables.html)
 * [An Exhibition Tells the Story of a Drug War Leader, but Not All of It](https://www.nytimes.com/2020/08/10/arts/design/Anslinger-drug-czar-exhibition.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* ['Matheus é um garoto muito diferente', diz publicitário que contratou motoboy vítima de racismo em SP](https://oglobo.globo.com/sociedade/matheus-um-garoto-muito-diferente-diz-publicitario-que-contratou-motoboy-vitima-de-racismo-em-sp-24586585)
+* [Espanha vai fechar boates e discotecas para conter novo surto de Covid-19](https://oglobo.globo.com/mundo/espanha-vai-fechar-boates-discotecas-para-conter-novo-surto-de-covid-19-24586521)
+* [Popularidade de Bolsonaro imune à crise econômica não favorece Guedes](https://oglobo.globo.com/analitico/popularidade-de-bolsonaro-imune-crise-economica-nao-favorece-guedes-24586611)
+* [Motoboy vítima de racismo em SP é contratado por agência de publicidade](https://oglobo.globo.com/sociedade/motoboy-vitima-de-racismo-em-sp-contratado-por-agencia-de-publicidade-24586585)
+* [MP pede à policia abertura de inquérito por injúria racial contra cliente que ofendeu motoboy em SP](https://oglobo.globo.com/sociedade/mp-pede-policia-abertura-de-inquerito-por-injuria-racial-contra-cliente-que-ofendeu-motoboy-em-sp-1-24586597)
 * [Diretor da Mocidade vai prestar queixa: 'O mal do racista é não admitir que é racista'](https://oglobo.globo.com/rio/diretor-da-mocidade-vai-prestar-queixa-mal-do-racista-nao-admitir-que-racista-24586580)
-* [MP pede à policia abertura de inquérito por injúria racial contra cliente que ofendeu motoboy em SP](https://oglobo.globo.com/sociedade/mp-pede-policia-abertura-de-inquerito-por-injuria-racial-contra-cliente-que-ofendeu-motoboy-em-sp-24586597)
 * [Apesar da pandemia e da crise, aumentam pedidos de brasileiros para estudar em Portugal](https://oglobo.globo.com/mundo/apesar-da-pandemia-da-crise-aumentam-pedidos-de-brasileiros-para-estudar-em-portugal-24585902)
 * [Braz descarta demissão de Torrent em caso de nova derrota do Flamengo: 'Não trabalhamos assim'](https://oglobo.globo.com/esportes/flamengo/braz-descarta-demissao-de-torrent-em-caso-de-nova-derrota-do-flamengo-nao-trabalhamos-assim-24586601)
 * [Elizabeth Bishop não será mais homenageada pela Flip](https://oglobo.globo.com/cultura/elizabeth-bishop-nao-sera-mais-homenageada-pela-flip-24586563)
 * [Flamengo confirma saída de Rafinha para o Olympiacos, e vice justifica: 'A pedido dele'](https://oglobo.globo.com/esportes/flamengo/flamengo-confirma-saida-de-rafinha-para-olympiacos-vice-justifica-pedido-dele-24586596)
 * [BNDES eleva sua parcela no socorro a aéreas para R$ 3,6 bilhões](https://oglobo.globo.com/economia/bndes-eleva-sua-parcela-no-socorro-aereas-para-36-bilhoes-24586551)
-* [Espanha vai fechar boates e discotecas para conter novo surto de Covid-19](https://oglobo.globo.com/mundo/espanha-vai-fechar-boates-discotecas-para-conter-novo-surto-de-covid-19-24586521)
-* [Barítono Eladio Pérez-González morre, aos 94 anos, de Covid-19](https://oglobo.globo.com/cultura/baritono-eladio-perez-gonzalez-morre-aos-94-anos-de-covid-19-24586542)

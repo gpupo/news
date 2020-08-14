@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 15:15:16 UTC
+# indexed at 14/08/2020 15:34:36 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
-* [Servo Parallel Browser Engine Project](https://github.com/servo/servo)
 * [The QAnon Conspiracy Theory: A Security Threat in the Making?](https://ctc.usma.edu/the-qanon-conspiracy-theory-a-security-threat-in-the-making/)
+* [Servo Parallel Browser Engine Project](https://github.com/servo/servo)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
-* [Redefining What Sustainable Fishing Means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
 * [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Redefining What Sustainable Fishing Means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
 * [Google resumes its attack on the URL bar, hides full addresses on Chrome 86](https://www.androidpolice.com/2020/08/13/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
 * [Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
 * [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
-* [The 'this' keyword in C# is oft misused and abused](https://jeremyaboyd.com/post/you-are-using-this-incorrectly)
 * [Netgpu and the hazards of proprietary kernel modules](https://lwn.net/Articles/827596/)
 * [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
-* [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
-* [A Massive Fractal in Days, Not Years [pdf]](http://www.jcgt.org/published/0009/02/02/paper.pdf)
 * [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [A Massive Fractal in Days, Not Years [pdf]](http://www.jcgt.org/published/0009/02/02/paper.pdf)
+* [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
+* [I Tried to Live Without the Tech Giants. It Was Impossible](https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html)
 * [Simple Bacteria Offer Clues to the Origins of Photosynthesis](https://www.quantamagazine.org/simple-bacteria-offer-clues-to-the-origins-of-photosynthesis-20171017/)
-* [Trump: 'A lot of people' think Edward Snowden 'not being treated fairly'](https://nypost.com/2020/08/13/trump-a-lot-of-people-think-edward-snowden-not-being-treated-fairly/)
 * [Show HN: Tweek – Super Fast To-Do Weekly Calendar App](https://tweek.so)
-* [Darktable 3.2.1](https://www.darktable.org/news/)
+* [Bird and reptile tears aren't so different from human tears](https://phys.org/news/2020-08-bird-reptile-human.html)
 * [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
 * [Instagram kept deleted photos and messages on its servers for more than a year](https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed)
-* [Bird and reptile tears aren't so different from human tears](https://phys.org/news/2020-08-bird-reptile-human.html)
-* [I Tried to Live Without the Tech Giants. It Was Impossible](https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html)
-* [Why a bike shop should choose its customer wisely](https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/)
+* [Darktable 3.2.1](https://www.darktable.org/news/)
+* [Mozilla signs fresh Google search deal worth mega-millions](https://www.theregister.com/2020/08/14/mozilla_google_search/)
 * [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
 * [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
-* [Software bug causes YAM cryptocurrency to implode two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
+* [Why a bike shop should choose its customer wisely](https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/)
 * [Ansible 2.10](https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html)
 * [Producing Open Source Software (2017)](https://producingoss.com/)
+* [Software bug causes YAM cryptocurrency to implode two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
+* [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [How Stephen Ross and Daniel Doctoroff Are Trying to Influence the 2021 NYC Mayoral Race](https://www.nytimes.com/2020/08/14/nyregion/mayor-stephen-ross-daniel-doctoroff.html)
 * [Don’t Like What You See on Zoom? Get a Face-Lift and Join the Crowd](https://www.nytimes.com/2020/08/13/health/coronavirus-cosmetic-surgery.html)
 * [Konrad Steffen, Who Sounded Alarm on Greenland Ice, Dies at 68](https://www.nytimes.com/2020/08/13/climate/konrad-steffen-dead.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Coco Gauff Was Rising When Tennis Stopped. Now She Might Be Even Better.](https://www.nytimes.com/2020/08/13/sports/tennis/coco-gauff.html)
 * [Tales of Hope and Resilience as a Museum Reopens](https://www.nytimes.com/2020/08/13/arts/design/New-York-Historical-covid-reopen.html)
 * [The Small, Black-Owned Record Label That Made a Big Impact in 1970s D.C.](https://www.nytimes.com/2020/08/12/arts/music/black-fire-records.html)
@@ -93,20 +93,21 @@ layout: default
 * [He Doesn’t Mind Being Shared, Unless His Mates Try to Eat Each Other’s Eggs](https://www.nytimes.com/2020/08/12/science/frog-group-fidelity.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [For the Crispiest Tofu, Leave It Alone](https://www.nytimes.com/2020/08/12/dining/crisp-tofu-recipe.html)
+* [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
+* [New Fee on Some College Bills: It’s for the Virus](https://www.nytimes.com/2020/08/14/your-money/colleges-fees-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Grupo no Congresso prepara projetos de lei para pressionar governo a enviar reforma administrativa](https://oglobo.globo.com/economia/grupo-no-congresso-prepara-projetos-de-lei-para-pressionar-governo-enviar-reforma-administrativa-24586424)
 * [Queiroz deixa prisão domiciliar para fazer exames](https://oglobo.globo.com/brasil/queiroz-deixa-prisao-domiciliar-para-fazer-exames-24586411)
-* [Número de desempregasos cresce em 3 milhões em três meses, com flexibilização de isolamento](https://oglobo.globo.com/economia/numero-de-desempregasos-cresce-em-3-milhoes-em-tres-meses-com-flexibilizacao-de-isolamento-24586311)
+* [Covid-19: Maioria dos médicos da Rússia não confia em vacina registrada pelo governo, diz pesquisa](https://oglobo.globo.com/sociedade/covid-19-maioria-dos-medicos-da-russia-nao-confia-em-vacina-registrada-pelo-governo-diz-pesquisa-1-24586382)
+* [Número de desempregados cresce em 3 milhões em três meses, com flexibilização de isolamento](https://oglobo.globo.com/economia/numero-de-desempregados-cresce-em-3-milhoes-em-tres-meses-com-flexibilizacao-de-isolamento-24586311)
 * [Filipinas suspendem compra de frango do Brasil por medo de coronavírus](https://oglobo.globo.com/economia/filipinas-suspendem-compra-de-frango-do-brasil-por-medo-de-coronavirus-1-24586296)
 * [Nova Zelândia estende por mais 12 dias o confinamento na maior cidade do país](https://oglobo.globo.com/mundo/nova-zelandia-estende-por-mais-12-dias-confinamento-na-maior-cidade-do-pais-24586333)
 * [Queiroz atuou 'arduamente' para adulterar provas, escreveu ministro do STJ ao decretar prisão](https://oglobo.globo.com/brasil/queiroz-atuou-arduamente-para-adulterar-provas-escreveu-ministro-do-stj-ao-decretar-prisao-24586364)
-* [Com impulso da agricultura, economia do Centro-Oeste é a menos afetada pela crise](https://oglobo.globo.com/economia/com-impulso-da-agricultura-economia-do-centro-oeste-a-menos-afetada-pela-crise-24586329)
 * [DJs brasileiros transformam plataforma de gamers em pista virtual durante a pandemia](https://oglobo.globo.com/cultura/djs-brasileiros-transformam-plataforma-de-gamers-em-pista-virtual-durante-pandemia-24586367)
 * [Por que chegar ao orgasmo é difícil para tantas mulheres? Explicamos em sete pontos](https://oglobo.globo.com/celina/por-que-chegar-ao-orgasmo-dificil-para-tantas-mulheres-explicamos-em-sete-pontos-24586158)
-* [30 Minutos de Botafogo: Simbolicamente, a chegada de Kalou é um golaço](https://oglobo.globo.com/esportes/30-minutos-de-botafogo-simbolicamente-chegada-de-kalou-um-golaco-24585023)
 * [O novo livro da autora do best-seller O segredo](https://epoca.globo.com/guilherme-amado/o-novo-livro-da-autora-do-best-seller-segredo-24586282)

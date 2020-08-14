@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 06:34:38 UTC
+# indexed at 14/08/2020 07:15:28 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Apple Music on Android asks user's card details to avoid Google's 30% cut](https://reddit.com/r/apple/comments/hb0jl8/)
+* [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
 * [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Producing Open Source Software (2017)](https://producingoss.com/)
-* [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
-* [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
+* [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
+* [Ask HN: How do you protect your Mailserver from DDoS Attacks?](https://news.ycombinator.com/item?id=24154524)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 * [What's new in PHP 8?](https://stitcher.io/blog/new-in-php-8?ref=hn)
-* [Epic will mock Apple’s most iconic ad as possible revenge for App Store ban](https://www.theverge.com/2020/8/13/21367904/epic-parody-apple-1984-ad-fortnite-removal-app-store)
-* [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
+* [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
 * [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
-* [Street View of 1940s New York](https://1940s.nyc/)
-* [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
-* [Why is there only one Snap Store?](https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/)
-* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+* [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
+* [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
+* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
+* [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
 * [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
 * [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
-* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
+* [Street View of 1940s New York](https://1940s.nyc/)
 * [Amazon satellites add to astronomers' worries about night sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
-* [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
 * [Google's differential privacy library](https://github.com/google/differential-privacy)
-* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
-* [Google forced OnePlus to decimate a Fortnite launcher deal, claims Epic Games](https://www.theverge.com/2020/8/13/21368395/fortnite-epic-games-oneplus-deal-google-play-store-lawsuit-lg)
-* [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 * [Grade Inflation at American Colleges and Universities](http://www.gradeinflation.com/)
+* [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
+* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [Microsoft Open Source](https://opensource.microsoft.com/)
+* [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
+* [A guide to DevSecOps, shifting left, and GitOps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/)
 ## nytimes.com
 
 
@@ -52,7 +52,6 @@ layout: default
 * [Why Mike Pence Should Be Worried About Debating Kamala Harris](https://www.nytimes.com/2020/08/13/us/politics/kamala-harris-pence-debate.html)
 * [Who Would Replace Kamala Harris in the Senate for California? Let the Jockeying Begin](https://www.nytimes.com/2020/08/13/us/california-senate-kamala-harris.html)
 * [Justice Dept. Accuses Yale of Discrimination Against White, Asian-American Applicants](https://www.nytimes.com/2020/08/13/us/yale-discrimination.html)
-* [Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing](https://www.nytimes.com/2020/08/13/briefing/coronavirus-israel-animal-tears.html)
 * [Episode Four: ‘Here’s Another Fun Thing You Can Do’](https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html)
 * [Why Teachers Aren’t Ready to Reopen Schools](https://www.nytimes.com/2020/08/13/podcasts/the-daily/school-reopening.html)
 * [‘Coronavirus Schools Briefing’](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
@@ -79,10 +78,10 @@ layout: default
 * [$400 Unemployment Stimulus Is Really $300, and Won’t Arrive Soon](https://www.nytimes.com/2020/08/13/business/economy/unemployment-benefits-coronavirus.html)
 * [Belarus Protests: Mass Beatings, Detentions as President Clings to Power](https://www.nytimes.com/2020/08/13/world/europe/beatings-detentions-belarus-lukashenko.html)
 * [N.C.A.A. Doctors Say Football Is a Bad Idea. But They Aren’t Deciding.](https://www.nytimes.com/2020/08/13/sports/ncaafootball/coronavirus-college-football-acc-sec-big-12.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Tobe Nwigwe Never Planned to Go Viral. Then He Rapped About Breonna Taylor.](https://www.nytimes.com/2020/08/13/arts/music/tobe-nwigwe-breonna-taylor.html)
 * [Remembering Music’s Saving Powers at Auschwitz](https://www.nytimes.com/2020/08/13/arts/music/anita-lasker-wallfisch-auschwitz-salzburg-festival.html)
@@ -107,6 +106,6 @@ layout: default
 * [A trajetória de Kamala Harris até a disputa eleitoral como vice-presidente](https://epoca.globo.com/mundo/a-trajetoria-de-kamala-harris-ate-disputa-eleitoral-como-vice-presidente-24585636)
 * [A rotina e os planos de Eduardo Cunha na prisão domiciliar](https://epoca.globo.com/brasil/a-rotina-os-planos-de-eduardo-cunha-na-prisao-domiciliar-1-24585409)
 * [O abandono marítimo por trás da tragédia no Líbano](https://epoca.globo.com/mundo/o-abandono-maritimo-por-tras-da-tragedia-no-libano-24585271)
-* [Em meio ao dilúvio](https://epoca.globo.com/brasil/em-meio-ao-diluvio-24584387)
+* [Por que a perda de Rafinha pelo Flamengo é tão ruim quando a de Jesus](https://oglobo.globo.com/esportes/por-que-perda-de-rafinha-pelo-flamengo-tao-ruim-quando-de-jesus-24585309)
+* [GPS do Flamengo mostra que time com Dome correu mais, mas correu errado](https://oglobo.globo.com/esportes/gps-do-flamengo-mostra-que-time-com-dome-correu-mais-mas-correu-errado-24585590)
 * [Temas Rafinha e Dome prometem esquentar coletiva de Marcos Braz no Flamengo nesta sexta](https://oglobo.globo.com/esportes/temas-rafinha-dome-prometem-esquentar-coletiva-de-marcos-braz-no-flamengo-nesta-sexta-24584818)
-* [Destino de Rafinha, Olympiacos também tentou contratar Willian Arão, mas não atendeu exigências do Flamengo](https://oglobo.globo.com/esportes/destino-de-rafinha-olympiacos-tambem-tentou-contratar-willian-arao-mas-nao-atendeu-exigencias-do-flamengo-24584882)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 12:22:40 UTC
+# indexed at 14/08/2020 12:34:38 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Factorio 1.0 is now released](https://factorio.com/blog/post/fff-360)
+* [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [It’s Time to Redefine What Sustainable Fishing Means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
-* [The Servo Browser Engine](https://github.com/servo/servo)
+* [Servo Parallel Browser Engine Project](https://github.com/servo/servo)
 * [Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
-* [Sigil is a free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
-* [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
 * [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
+* [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Instagram kept deleted photos and messages on its servers for more than a year](https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
+* [Darktable 3.2.1](https://www.darktable.org/news/)
 * [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
 * [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 * [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
-* [Darktable 3.2.1](https://www.darktable.org/news/)
-* [Ansible 2.10](https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
 * [Producing Open Source Software (2017)](https://producingoss.com/)
+* [Ansible 2.10](https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html)
 * [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
 * [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Software bug causes YAM cryptocurrency to implode two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
-* [‘George Eliot’ joins 24 female authors making debuts under their real names](https://www.theguardian.com/books/2020/aug/12/george-eliot-joins-24-female-authors-making-debuts-under-their-real-names)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+* [‘George Eliot’ joins 24 female authors making debuts under their real names](https://www.theguardian.com/books/2020/aug/12/george-eliot-joins-24-female-authors-making-debuts-under-their-real-names)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
-* [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
 * [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
+* [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
 * [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [The New ‘Gold Rush in Space’](https://www.wsj.com/articles/the-new-gold-rush-in-space-11596826062)
-* [Street View of 1940s New York](https://1940s.nyc/)
+* [Mozilla signs fresh Google search deal worth mega-millions](https://www.theregister.com/2020/08/14/mozilla_google_search/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Belarus Protests: Mass Beatings, Detentions as President Clings to Power](https://www.nytimes.com/2020/08/13/world/europe/beatings-detentions-belarus-lukashenko.html)
 * [Don’t Like What You See on Zoom? Get a Face-Lift and Join the Crowd](https://www.nytimes.com/2020/08/13/health/coronavirus-cosmetic-surgery.html)
 * [Konrad Steffen, Who Sounded Alarm on Greenland Ice, Dies at 68](https://www.nytimes.com/2020/08/13/climate/konrad-steffen-dead.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Coco Gauff Was Rising When Tennis Stopped. Now She Might Be Even Better.](https://www.nytimes.com/2020/08/13/sports/tennis/coco-gauff.html)
 * [Tales of Hope and Resilience as a Museum Reopens](https://www.nytimes.com/2020/08/13/arts/design/New-York-Historical-covid-reopen.html)
 * [The Small, Black-Owned Record Label That Made a Big Impact in 1970s D.C.](https://www.nytimes.com/2020/08/12/arts/music/black-fire-records.html)
@@ -91,20 +91,23 @@ layout: default
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [For the Crispiest Tofu, Leave It Alone](https://www.nytimes.com/2020/08/12/dining/crisp-tofu-recipe.html)
+* [Markets slide as quarantine rules tighten, with retail data on tap.](https://www.nytimes.com/live/2020/08/14/business/stock-market-today-coronavirus/markets-slide-as-quarantine-rules-tighten-with-retail-data-on-tap)
+* [Two World Travelers Find Love Close to Home](https://www.nytimes.com/2020/08/14/fashion/weddings/two-world-travelers-find-love-close-to-home.html)
+* [New Role for a Soap Opera Writer: Husband](https://www.nytimes.com/2020/08/14/fashion/weddings/new-role-for-a-soap-opera-writer-husband.html)
+* [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Nova pesquisa dá força à turma do deixa-disso de Bolsonaro](https://oglobo.globo.com/analitico/nova-pesquisa-da-forca-turma-do-deixa-disso-de-bolsonaro-24585977)
-* [Prévia do PIB: segundo trimestre registra maior queda na atividade econômica desde 2003](https://oglobo.globo.com/economia/previa-do-pib-segundo-trimestre-registra-maior-queda-na-atividade-economica-desde-2003-24585992)
-* [Polícia desbarata quadrilha que dava golpes em idosos com venda de falsos títulos de clubes de viagens](https://oglobo.globo.com/rio/policia-desbarata-quadrilha-que-dava-golpes-em-idosos-com-venda-de-falsos-titulos-de-clubes-de-viagens-24585901)
+* [Nova pesquisa do Datafolha dá força à turma do deixa-disso de Bolsonaro](https://oglobo.globo.com/analitico/nova-pesquisa-do-datafolha-da-forca-turma-do-deixa-disso-de-bolsonaro-24585977)
+* [Agendamento de castrações em unidades da Vigilância Sanitária é retomado pela Prefeitura do Rio](https://oglobo.globo.com/rio/agendamento-de-castracoes-em-unidades-da-vigilancia-sanitaria-retomado-pela-prefeitura-do-rio-24586013)
 * [Mulher quebra peça de Romero Britto na frente do artista e viraliza](https://oglobo.globo.com/cultura/mulher-quebra-peca-de-romero-britto-na-frente-do-artista-viraliza-24585904)
+* [Prévia do PIB tem tombo recorde de 11% no segundo trimestre](https://oglobo.globo.com/economia/previa-do-pib-tem-tombo-recorde-de-11-no-segundo-trimestre-24585992)
+* [Prazo para recurso do MP no caso Flávio começou a contar após análise de procuradora que compartilhou vídeos de Bolsonaro](https://oglobo.globo.com/brasil/prazo-para-recurso-do-mp-no-caso-flavio-comecou-contar-apos-analise-de-procuradora-que-compartilhou-videos-de-bolsonaro-24586011)
+* [Beneficiado por prisão domiciliar em pandemia, Eduardo Cunha arquiteta como anular sua condenação](https://epoca.globo.com/brasil/beneficiado-por-prisao-domiciliar-em-pandemia-eduardo-cunha-arquiteta-como-anular-sua-condenacao-24586002)
+* [Polícia desbarata quadrilha que dava golpes em idosos com venda de falsos títulos de clubes de viagens](https://oglobo.globo.com/rio/policia-desbarata-quadrilha-que-dava-golpes-em-idosos-com-venda-de-falsos-titulos-de-clubes-de-viagens-24585901)
 * [Como mudanças no STF afetariam a Lava Jato, Lula e as eleições de 2022](https://epoca.globo.com/brasil/como-mudancas-no-stf-afetariam-lava-jato-lula-as-eleicoes-de-2022-24585976)
-* [Diretor de ala da Mocidade denúncia racismo sofrido em supermercado em Madureira, no Rio](https://oglobo.globo.com/rio/diretor-de-ala-da-mocidade-denuncia-racismo-sofrido-em-supermercado-em-madureira-no-rio-1-24585916)
-* [Disney+ chega ao Brasil em novembro](https://oglobo.globo.com/cultura/disney-chega-ao-brasil-em-novembro-1-24585872)
 * [Bolsonaro volta a dizer que respeitará teto de gastos](https://oglobo.globo.com/economia/bolsonaro-volta-dizer-que-respeitara-teto-de-gastos-24585933)
 * [Tiroteio provoca interdições no sentido Avenida Brasil do Elevado do Gasômetro](https://oglobo.globo.com/rio/tiroteio-provoca-interdicoes-no-sentido-avenida-brasil-do-elevado-do-gasometro-24585928)
-* [Estudantes brasileiros pedem ajuda ao Itamaraty e a deputados para voltar aos EUA](https://oglobo.globo.com/mundo/estudantes-brasileiros-pedem-ajuda-ao-itamaraty-a-deputados-para-voltar-aos-eua-24585199)

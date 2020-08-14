@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 08:34:46 UTC
+# indexed at 14/08/2020 09:15:14 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
 * [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
+* [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
 * [Producing Open Source Software (2017)](https://producingoss.com/)
 * [What's new in PHP 8?](https://stitcher.io/blog/new-in-php-8?ref=hn)
 * [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 * [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
+* [The New ‘Gold Rush in Space’](https://www.wsj.com/articles/the-new-gold-rush-in-space-11596826062)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
-* [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
+* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
 * [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
+* [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 * [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
-* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
-* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
+* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [Street View of 1940s New York](https://1940s.nyc/)
 * [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
 * [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
-* [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 * [Grade Inflation at American Colleges and Universities](http://www.gradeinflation.com/)
+* [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 * [Microsoft Open Source](https://opensource.microsoft.com/)
-* [Amazon satellites add to astronomers' worries about night sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
+* [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
 * [Ask HN: Newly Remote Workers – Where Are You Moving?](https://news.ycombinator.com/item?id=24152096)
-* [Indigenous Cultures Have Archaeology Too](https://www.sapiens.org/archaeology/archaeology-oral-tradition/)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [Belarus Protests: Mass Beatings, Detentions as President Clings to Power](https://www.nytimes.com/2020/08/13/world/europe/beatings-detentions-belarus-lukashenko.html)
 * [N.C.A.A. Doctors Say Football Is a Bad Idea. But They Aren’t Deciding.](https://www.nytimes.com/2020/08/13/sports/ncaafootball/coronavirus-college-football-acc-sec-big-12.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Tobe Nwigwe Never Planned to Go Viral. Then He Rapped About Breonna Taylor.](https://www.nytimes.com/2020/08/13/arts/music/tobe-nwigwe-breonna-taylor.html)
 * [Remembering Music’s Saving Powers at Auschwitz](https://www.nytimes.com/2020/08/13/arts/music/anita-lasker-wallfisch-auschwitz-salzburg-festival.html)
 * [In a Pair of ‘Hubs,’ the N.H.L. Postseason Has Been Anything but Neutral](https://www.nytimes.com/2020/08/13/sports/hockey/nhl-qualifying-round-playoffs.html)
@@ -92,8 +92,8 @@ layout: default
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [South Sea Islanders Don’t Want to Be Forgotten](https://www.nytimes.com/2020/08/14/world/australia/south-sea-islanders-slavery-mackay.html)
 * [When Covid-19 Cases Surged in Santa Cruz, She Took the Heat](https://www.nytimes.com/2020/08/10/us/california-santa-cruz-covid19.html)
+* [The Mom and Pop Factory With an Atomic Secret](https://www.nytimes.com/2020/08/07/nyregion/coronavirus-ppe-nyc-face-shields.html)
 * [In 'Disloyal,' Cohen Promises Sordid Tales Trump ‘Does Not Want You to Read’](https://www.nytimes.com/2020/08/13/us/politics/michael-cohen-memoir-trump.html)
 * [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Delação de Edmar Santos: ex-secretário de Saúde de Witzel gravou conversas com políticos](https://oglobo.globo.com/rio/delacao-de-edmar-santos-ex-secretario-de-saude-de-witzel-gravou-conversas-com-politicos-24585641)
-* [Limpeza no ar: é seguro viajar de avião durante a pandemia?](https://oglobo.globo.com/boa-viagem/limpeza-no-ar-seguro-viajar-de-aviao-durante-pandemia-24583462)
-* [‘Teto de gastos é a âncora em que o governo não pode mexer’, diz Guaranys](https://oglobo.globo.com/economia/teto-de-gastos-a-ancora-em-que-governo-nao-pode-mexer-diz-guaranys-24585517)
+* [Em depoimento, Flávio diz que Queiroz pediu emprego a familiares na Alerj](https://oglobo.globo.com/brasil/em-depoimento-flavio-diz-que-queiroz-pediu-emprego-familiares-na-alerj-24585697)
+* [Despenca índice de transparência do Exército na Lei de Acesso à Informação](https://epoca.globo.com/guilherme-amado/despenca-indice-de-transparencia-do-exercito-na-lei-de-acesso-informacao-24584499)
 * [As transações em dinheiro vivo na família Bolsonaro](https://oglobo.globo.com/podcast/as-transacoes-em-dinheiro-vivo-na-familia-bolsonaro-1-24585775)
-* [Análise: Vasco testemunha freio na evolução de Talles Magno](https://oglobo.globo.com/esportes/analise-vasco-testemunha-freio-na-evolucao-de-talles-magno-24585745)
-* [Twitch: como a rede de gamers virou a pista preferida de DJs para bailes virtuais na pandemia](https://oglobo.globo.com/cultura/twitch-como-rede-de-gamers-virou-pista-preferida-de-djs-para-bailes-virtuais-na-pandemia-24585597)
-* [Queimadas e problemas de saúde fazem cerca de 200 ribeirinhos deixarem suas casas no Pantanal](https://oglobo.globo.com/sociedade/sustentabilidade/queimadas-problemas-de-saude-fazem-cerca-de-200-ribeirinhos-deixarem-suas-casas-no-pantanal-24585639)
-* [Além da capital, outros municípios também tiveram sumiço de linhas de ônibus desde o começo da pandemia](https://oglobo.globo.com/rio/alem-da-capital-outros-municipios-tambem-tiveram-sumico-de-linhas-de-onibus-desde-comeco-da-pandemia-24585293)
-* [Festivais on-line promovem a cena musical independente brasileira](https://oglobo.globo.com/rioshow/festivais-on-line-promovem-cena-musical-independente-brasileira-24584982)
-* [Festival Dança em Trânsito reúne trabalhos inéditos de artistas de 18 países](https://oglobo.globo.com/rioshow/festival-danca-em-transito-reune-trabalhos-ineditos-de-artistas-de-18-paises-24584647)
+* [Em depoimento, Flávio diz que Queiroz pediu emprego a familiares na Alerj](https://oglobo.globo.com/brasil/em-depoimento-flavio-diz-que-queiroz-pediu-emprego-familiares-na-alerj-24585686)
+* [Kalou no Botafogo: namorada grávida, torcida virtual e esperança financeira](https://oglobo.globo.com/esportes/kalou-no-botafogo-namorada-gravida-torcida-virtual-esperanca-financeira-24585228)
+* [Com Bolsonaro, gastos com agentes da Abin cresce 51%](https://oglobo.globo.com/brasil/com-bolsonaro-gastos-com-agentes-da-abin-cresce-51-24585400)
+* [Bolsonaro vai ao Rio inaugurar obra com Crivella em último dia permitido pelo TSE](https://oglobo.globo.com/brasil/bolsonaro-vai-ao-rio-inaugurar-obra-com-crivella-em-ultimo-dia-permitido-pelo-tse-24585424)
+* [Bolsonaro gastou R$ 8,7 milhões com agentes da Abin, 51% a mais que Temer e 550% a mais que Dilma](https://oglobo.globo.com/brasil/bolsonaro-gastou-87-milhoes-com-agentes-da-abin-51-mais-que-temer-550-mais-que-dilma-24585392)
+* [Peça infantil 'D.P.A.' e stand up com Sérgio Mallandro ganham montagens em drive-ins](https://oglobo.globo.com/rioshow/peca-infantil-dpa-stand-up-com-sergio-mallandro-ganham-montagens-em-drive-ins-24584620)
+* ['Espero que as mulheres possam receber de volta os cuidados que estão tendo que dar hoje', diz a estudante de Psicologia Julia Aquino](https://oglobo.globo.com/celina/espero-que-as-mulheres-possam-receber-de-volta-os-cuidados-que-estao-tendo-que-dar-hoje-diz-estudante-de-psicologia-julia-aquino-24556289)

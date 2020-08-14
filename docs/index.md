@@ -2,29 +2,30 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 07:34:42 UTC
+# indexed at 14/08/2020 08:17:39 UTC
 
 
 ## news.ycombinator.com
 
 
+* [The New ‘Gold Rush in Space’](https://www.wsj.com/articles/the-new-gold-rush-in-space-11596826062)
 * [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
-* [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
+* [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
-* [The New ‘Gold Rush in Space’](https://www.wsj.com/articles/the-new-gold-rush-in-space-11596826062)
+* [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
 * [Producing Open Source Software (2017)](https://producingoss.com/)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
-* [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 * [What's new in PHP 8?](https://stitcher.io/blog/new-in-php-8?ref=hn)
+* [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
 * [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
-* [A Database of 5k Historical Cookbooks Is Online, and You Can Help Improve It](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
 * [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
 * [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
 * [Street View of 1940s New York](https://1940s.nyc/)
@@ -33,17 +34,16 @@ layout: default
 * [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
 * [Grade Inflation at American Colleges and Universities](http://www.gradeinflation.com/)
-* [Amazon satellites add to astronomers' worries about night sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 * [Microsoft Open Source](https://opensource.microsoft.com/)
+* [Amazon satellites add to astronomers' worries about night sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [A guide to DevSecOps, shifting left, and GitOps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/)
-* [Mimicking Boston Dynamics with Raspberry Pi](https://www.raspberrypi.org/blog/mini-raspberry-pi-boston-dynamics-inspired-robot/)
 ## nytimes.com
 
 
 * [Israel and United Arab Emirates Strike Major Diplomatic Agreement](https://www.nytimes.com/2020/08/13/us/politics/trump-israel-united-arab-emirates-uae.html)
 * [Netanyahu Drops Troubled Annexation Plan for Diplomatic Gain](https://www.nytimes.com/2020/08/13/world/middleeast/israel-uae-annexation.html)
-* [Live Coronavirus News: World Updates](https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html)
+* [California Becomes First State to Report 600,000 Coronavirus Cases](https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html)
 * [New Zealand Beat the Coronavirus Once. Can It Do It Again?](https://www.nytimes.com/2020/08/13/world/asia/new-zealand-coronavirus-lockdown-elimination.html)
 * [Trump Encourages Racist Conspiracy Theory About Kamala Harris](https://www.nytimes.com/2020/08/13/us/politics/trump-kamala-harris.html)
 * [Trump Makes Clear His Opposition to More Money for USPS to Support Mail Voting](https://www.nytimes.com/2020/08/13/us/politics/trump-postal-service-mail-voting.html)
@@ -78,9 +78,9 @@ layout: default
 * [$400 Unemployment Stimulus Is Really $300, and Won’t Arrive Soon](https://www.nytimes.com/2020/08/13/business/economy/unemployment-benefits-coronavirus.html)
 * [Belarus Protests: Mass Beatings, Detentions as President Clings to Power](https://www.nytimes.com/2020/08/13/world/europe/beatings-detentions-belarus-lukashenko.html)
 * [N.C.A.A. Doctors Say Football Is a Bad Idea. But They Aren’t Deciding.](https://www.nytimes.com/2020/08/13/sports/ncaafootball/coronavirus-college-football-acc-sec-big-12.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [Tobe Nwigwe Never Planned to Go Viral. Then He Rapped About Breonna Taylor.](https://www.nytimes.com/2020/08/13/arts/music/tobe-nwigwe-breonna-taylor.html)
@@ -102,10 +102,10 @@ layout: default
 * [Delação de Edmar Santos: ex-secretário de Saúde de Witzel gravou conversas com políticos](https://oglobo.globo.com/rio/delacao-de-edmar-santos-ex-secretario-de-saude-de-witzel-gravou-conversas-com-politicos-24585641)
 * [Limpeza no ar: é seguro viajar de avião durante a pandemia?](https://oglobo.globo.com/boa-viagem/limpeza-no-ar-seguro-viajar-de-aviao-durante-pandemia-24583462)
 * [‘Teto de gastos é a âncora em que o governo não pode mexer’, diz Guaranys](https://oglobo.globo.com/economia/teto-de-gastos-a-ancora-em-que-governo-nao-pode-mexer-diz-guaranys-24585517)
+* [As transações em dinheiro vivo na família Bolsonaro](https://oglobo.globo.com/podcast/as-transacoes-em-dinheiro-vivo-na-familia-bolsonaro-1-24585775)
 * [Análise: Vasco testemunha freio na evolução de Talles Magno](https://oglobo.globo.com/esportes/analise-vasco-testemunha-freio-na-evolucao-de-talles-magno-24585745)
 * [Twitch: como a rede de gamers virou a pista preferida de DJs para bailes virtuais na pandemia](https://oglobo.globo.com/cultura/twitch-como-rede-de-gamers-virou-pista-preferida-de-djs-para-bailes-virtuais-na-pandemia-24585597)
 * [Queimadas e problemas de saúde fazem cerca de 200 ribeirinhos deixarem suas casas no Pantanal](https://oglobo.globo.com/sociedade/sustentabilidade/queimadas-problemas-de-saude-fazem-cerca-de-200-ribeirinhos-deixarem-suas-casas-no-pantanal-24585639)
-* [Alemão prometia presentes para atrair crianças para filmagens de pornografia infantil](https://oglobo.globo.com/rio/alemao-prometia-presentes-para-atrair-criancas-para-filmagens-de-pornografia-infantil-24585651)
-* [Delação de Edmar: ex-secretário de Witzel gravou conversas com vários políticos](https://oglobo.globo.com/rio/delacao-de-edmar-ex-secretario-de-witzel-gravou-conversas-com-varios-politicos-24585598)
 * [Além da capital, outros municípios também tiveram sumiço de linhas de ônibus desde o começo da pandemia](https://oglobo.globo.com/rio/alem-da-capital-outros-municipios-tambem-tiveram-sumico-de-linhas-de-onibus-desde-comeco-da-pandemia-24585293)
 * [Festivais on-line promovem a cena musical independente brasileira](https://oglobo.globo.com/rioshow/festivais-on-line-promovem-cena-musical-independente-brasileira-24584982)
+* [Festival Dança em Trânsito reúne trabalhos inéditos de artistas de 18 países](https://oglobo.globo.com/rioshow/festival-danca-em-transito-reune-trabalhos-ineditos-de-artistas-de-18-paises-24584647)

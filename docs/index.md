@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 20:17:15 UTC
+# indexed at 14/08/2020 20:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
+* [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
-* [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
 * [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
+* [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
+* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
 * [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
-* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
-* [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
 * [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
-* [Show HN: My tower defense game is almost ready to launch](https://news.ycombinator.com/item?id=24162297)
+* [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
 * [Redefining what sustainable fishing means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
+* [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
 * [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
-* [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
 * [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
-* [An Unelected Monarch Is Shaping Our Public Life. His Name Is Mark Zuckerberg](https://onezero.medium.com/an-unelected-monarch-is-shaping-our-public-life-his-name-is-mark-zuckerberg-d7c571bd42d2)
+* [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
+* [Benign Data Races Considered Harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
 * [Using 'this' incorrectly in C#](https://jeremyaboyd.com/post/you-are-using-this-incorrectly)
 * [I Love MDN, or the cult of the free in action](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html)
-* [Benign Data Races Considered Harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
+* [Show HN: Tweek – Super Fast To-Do Weekly Calendar App](https://tweek.so)
+* [JavaScript Code Plays Google Dinosaur/T-Rex Game Automatically](https://www.edopedia.com/blog/javascript-code-plays-google-dinosaur-t-rex-game-automatically/)
 * [A bike shop should choose its customer wisely](https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/)
 * [ZX Spectrum Next Issue 2 blasts through Kickstarter goal](https://www.bbc.com/news/technology-53765852)
-* [Show HN: Tweek – Super Fast To-Do Weekly Calendar App](https://tweek.so)
 * [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Netgpu and the hazards of proprietary kernel modules](https://lwn.net/Articles/827596/)
-* [Show HN: A Genetic Algorithm library written in JavaScript](https://github.com/lodenrogue/genetic-algorithm-js)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Workers Join Belarus Protests, as Leader’s Base Turns Against Him](https://www.nytimes.com/2020/08/14/world/europe/Belarus-strike-Aleksandr-Lukashenko.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
 * [The N.B.A. Bubble Bursts for Gregg Popovich and the Spurs](https://www.nytimes.com/2020/08/14/sports/basketball/gregg-popovich-spurs-playoff-streak.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [How I Got My Kids Into Theater: Online Shows That Put Them to Work (and Play)](https://www.nytimes.com/2020/08/11/theater/immersive-theater-for-children.html)
 * [Niven Patel, a Miami Chef, Is Not Giving Up on 2020](https://www.nytimes.com/2020/08/10/dining/chef-niven-patel-mamey-coral-gables.html)
 * [An Exhibition Tells the Story of a Drug War Leader, but Not All of It](https://www.nytimes.com/2020/08/10/arts/design/Anslinger-drug-czar-exhibition.html)
@@ -90,21 +90,20 @@ layout: default
 * [He Doesn’t Mind Being Shared, Unless His Mates Try to Eat Each Other’s Eggs](https://www.nytimes.com/2020/08/12/science/frog-group-fidelity.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [Trump will visit his ailing brother in a Manhattan hospital.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/trump-will-visit-his-ailing-brother-in-a-manhattan-hospital)
-* [In Victory for Qualcomm, Appeals Court Throws Out Antitrust Ruling](https://www.nytimes.com/2020/08/11/technology/qualcomm-antitrust-appeal-ruling.html)
-* [Trump’s advisers weigh whether he can cut taxes without Congress.](https://www.nytimes.com/live/2020/08/12/us/biden-vs-trump/trumps-advisers-weigh-whether-he-can-cut-taxes-without-congress)
-* [The Coming Eviction Crisis: ‘It’s Hard to Pay the Bills on Nothing’](https://www.nytimes.com/2020/08/09/opinion/evictions-foreclosures-covid-economy.html)
+* [Kamala Harris as V.P. Pick Could Mean More Maya Rudolph on ‘S.N.L.’](https://www.nytimes.com/2020/08/12/arts/television/maya-rudolph-kamala-harris-snl.html)
+* [A Geopolitical Earthquake Just Hit the Mideast](https://www.nytimes.com/2020/08/13/opinion/israel-uae.html)
+* [For the Crispiest Tofu, Leave It Alone](https://www.nytimes.com/2020/08/12/dining/crisp-tofu-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Mussa convoca Assembleia Geral Extraordinária do Vasco com votação eletrônica](https://oglobo.globo.com/esportes/mussa-convoca-assembleia-geral-extraordinaria-do-vasco-com-votacao-eletronica-24586952)
+* [Bivar fala em rever sanção a bolsonaristas e ouvir bancada caso presidente queira voltar ao PSL](https://oglobo.globo.com/brasil/bivar-fala-em-rever-sancao-bolsonaristas-ouvir-bancada-caso-presidente-queira-voltar-ao-psl-24586815)
 * [Pedidos de brasileiros para estudar em Portugal aumentam, apesar da pandemia e da crise](https://oglobo.globo.com/mundo/pedidos-de-brasileiros-para-estudar-em-portugal-aumentam-apesar-da-pandemia-da-crise-24586767)
 * [Trump admite liberar verbas para financiamento ao voto por correio, mas quer concessões democratas](https://oglobo.globo.com/mundo/trump-admite-liberar-verbas-para-financiamento-ao-voto-por-correio-mas-quer-concessoes-democratas-24586789)
-* [Bivar fala em rever sanção a bolsonaristas e ouvir bancada caso presidente queira voltar ao PSL](https://oglobo.globo.com/brasil/bivar-fala-em-rever-sancao-bolsonaristas-ouvir-bancada-caso-presidente-queira-voltar-ao-psl-24586815)
 * [Trump incentiva teoria da conspiração racista sobre Kamala Harris](https://oglobo.globo.com/mundo/trump-incentiva-teoria-da-conspiracao-racista-sobre-kamala-harris-24586640)
-* [Sindicato suspende bloqueios na Bolívia e se declara em ‘vigilia permanente’ até as eleições](https://oglobo.globo.com/mundo/sindicato-suspende-bloqueios-na-bolivia-se-declara-em-vigilia-permanente-ate-as-eleicoes-24586713)
 * [Demora em investigação é risco para todo o país, diz desembargador ao suspender inquérito de Guedes](https://epoca.globo.com/guilherme-amado/demora-em-investigacao-risco-para-todo-pais-diz-desembargador-ao-suspender-inquerito-de-guedes-24586715)
 * [Rodrigo Amorim diz que gravações feitas por Edmar Santos com políticos 'não são dignas de crédito'](https://oglobo.globo.com/rio/rodrigo-amorim-diz-que-gravacoes-feitas-por-edmar-santos-com-politicos-nao-sao-dignas-de-credito-24586254)
 * [Flamengo tem prazo para inscrever reforço na vaga de Rafinha para a Libertadores](https://oglobo.globo.com/esportes/flamengo-tem-prazo-para-inscrever-reforco-na-vaga-de-rafinha-para-libertadores-24586774)

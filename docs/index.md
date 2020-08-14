@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 04:16:36 UTC
+# indexed at 14/08/2020 04:34:49 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Save the USPS](https://2pml.com/2020/08/10/usps/)
 * [Street View of 1940s New York](https://1940s.nyc/)
 * [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
-* [Google forced OnePlus to decimate a Fortnite launcher deal, claims Epic Games](https://www.theverge.com/2020/8/13/21368395/fortnite-epic-games-oneplus-deal-google-play-store-lawsuit-lg)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
+* [Producing Open Source Software (2017)](https://producingoss.com/)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 * [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
-* [Producing Open Source Software (2017)](https://producingoss.com/)
-* [No handshakes. A bad economy. These car salesmen shifted tactics– and succeeded](https://www.washingtonpost.com/business/2020/08/12/with-handshakes-barred-an-economy-trouble-car-salesman-tries-seal-deal/)
 * [What's new in PHP 8? [Will be released on November 26, 2020]](https://stitcher.io/blog/new-in-php-8?ref=hn)
 * [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
 * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
+* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 * [Why is there only one Snap Store?](https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/)
 * [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
-* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 * [Epic will mock Apple’s most iconic ad as possible revenge for App Store ban](https://www.theverge.com/2020/8/13/21367904/epic-parody-apple-1984-ad-fortnite-removal-app-store)
-* [Major Microsoft Outage](https://news.ycombinator.com/item?id=24152655)
-* [Ask HN: Newly Remote Workers – Where Are You Moving?](https://news.ycombinator.com/item?id=24152096)
+* [Google forced OnePlus to decimate a Fortnite launcher deal, claims Epic Games](https://www.theverge.com/2020/8/13/21368395/fortnite-epic-games-oneplus-deal-google-play-store-lawsuit-lg)
 * [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
+* [Major Microsoft Outage](https://news.ycombinator.com/item?id=24152655)
 * [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
-* [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
 * [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
-* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
+* [Ask HN: Newly Remote Workers – Where Are You Moving?](https://news.ycombinator.com/item?id=24152096)
+* [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
+* [No handshakes. A bad economy. These car salesmen shifted tactics– and succeeded](https://www.washingtonpost.com/business/2020/08/12/with-handshakes-barred-an-economy-trouble-car-salesman-tries-seal-deal/)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
-* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [Google's differential privacy library](https://github.com/google/differential-privacy)
 * [Indigenous Cultures Have Archaeology Too](https://www.sapiens.org/archaeology/archaeology-oral-tradition/)
 ## nytimes.com
@@ -79,11 +79,11 @@ layout: default
 * [$400 Unemployment Stimulus Is Really $300, and Won’t Arrive Soon](https://www.nytimes.com/2020/08/13/business/economy/unemployment-benefits-coronavirus.html)
 * [In Derecho’s Wake, More Than 250,000 in Midwest Struggle Without Power](https://www.nytimes.com/2020/08/13/us/derecho-iowa-storm.html)
 * [N.C.A.A. Doctors Say Football Is a Bad Idea. But They Aren’t Deciding.](https://www.nytimes.com/2020/08/13/sports/ncaafootball/coronavirus-college-football-acc-sec-big-12.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Tobe Nwigwe Never Planned to Go Viral. Then He Rapped About Breonna Taylor.](https://www.nytimes.com/2020/08/13/arts/music/tobe-nwigwe-breonna-taylor.html)
 * [Remembering Music’s Saving Powers at Auschwitz](https://www.nytimes.com/2020/08/13/arts/music/anita-lasker-wallfisch-auschwitz-salzburg-festival.html)
 * [In a Pair of ‘Hubs,’ the N.H.L. Postseason Has Been Anything but Neutral](https://www.nytimes.com/2020/08/13/sports/hockey/nhl-qualifying-round-playoffs.html)
@@ -93,15 +93,16 @@ layout: default
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [For the Crispiest Tofu, Leave It Alone](https://www.nytimes.com/2020/08/12/dining/crisp-tofu-recipe.html)
-* [Trump falsely suggests Kamala Harris, who was born in California, does not meet citizenship requirements.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/trump-falsely-suggests-kamala-harris-who-was-born-in-california-does-not-meet-citizenship-requirements)
+* [Wayne Fontana, Hitmaker With ‘The Game of Love,’ Dies at 74](https://www.nytimes.com/2020/08/10/arts/music/wayne-fontana-hitmaker-with-the-game-of-love-dies-at-74.html)
+* [The U.S. deficit ballooned to $2.8 trillion in July, but the monthly gap fell.](https://www.nytimes.com/live/2020/08/12/business/stock-market-today-coronavirus/the-us-deficit-ballooned-to-2-8-trillion-in-july-but-the-monthly-gap-fell)
+* [Crisis in the Nation, Crickets on Capitol Hill](https://www.nytimes.com/2020/08/11/us/politics/congress-coronavirus-relief-bill.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Em novo plano, Oi quer vender parte da operação de TV e eleva preço mínimo de empresa de fibra óptica de R$ 6,5bi para R$ 20 bilhões](https://oglobo.globo.com/economia/em-novo-plano-oi-quer-vender-parte-da-operacao-de-tv-eleva-preco-minimo-de-empresa-de-fibra-optica-de-65bi-para-20-bilhoes-24585573)
+* [Oi vai vender parte da operação de TV e eleva preço mínimo de empresa de fibra óptica de R$ 6,5 bi para R$ 20 bilhões](https://oglobo.globo.com/economia/oi-vai-vender-parte-da-operacao-de-tv-eleva-preco-minimo-de-empresa-de-fibra-optica-de-65-bi-para-20-bilhoes-24585573)
 * [Datafolha: Bolsonaro tem a melhor avaliação desde o início do mandato](https://oglobo.globo.com/brasil/datafolha-bolsonaro-tem-melhor-avaliacao-desde-inicio-do-mandato-24585761)
 * ['Pessoa desempregada fica mais fraca e mais propensa a adquirir um vírus', diz Bolsonaro](https://oglobo.globo.com/sociedade/coronavirus/pessoa-desempregada-fica-mais-fraca-mais-propensa-adquirir-um-virus-diz-bolsonaro-24585754)
 * [Empresário diz que loja de chocolates de Flávio fraudava notas fiscais](https://oglobo.globo.com/brasil/empresario-diz-que-loja-de-chocolates-de-flavio-fraudava-notas-fiscais-24585657)

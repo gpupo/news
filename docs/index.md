@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 01:14:09 UTC
+# indexed at 14/08/2020 01:35:58 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Apple just kicked Fortnite off the App Store](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
-* [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
+* [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
+* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 * [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
+* [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
 * [Why is there only one Snap Store?](https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/)
-* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+* [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
 * [YC Startup School: Build Sprint and Equity-Free Grants](https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/)
-* [Zin Boats reinvents the electric boat in a bid to become the Tesla of the sea](https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/)
-* [Indigenous Cultures Have Archaeology Too](https://www.sapiens.org/archaeology/archaeology-oral-tradition/)
+* [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
+* [Fortnite seems to have been removed from the Play Store as well](https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=en_US)
 * [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
-* [Google's differential privacy library](https://github.com/google/differential-privacy)
+* [Zin Boats reinvents the electric boat in a bid to become the Tesla of the sea](https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/)
 * [Word Mover's Embedding: Cheap WMD For Documents](https://vaclavkosar.com/ml/Word-Movers-Embedding-Cheap-WMD-For-Documents)
+* [Indigenous Cultures Have Archaeology Too](https://www.sapiens.org/archaeology/archaeology-oral-tradition/)
+* [Google's differential privacy library](https://github.com/google/differential-privacy)
+* [Covid-19: What do we know about “long Covid”?](https://www.bmj.com/content/370/bmj.m2815)
 * [Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [How the ARM32 Linux kernel decompresses](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
+* [What's new in PHP 8? [Will be released on November 26, 2020]](https://stitcher.io/blog/new-in-php-8?ref=hn)
 * [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
-* [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
-* [Mandykoh/convolver: Extended parallel image convolution library for Go](https://github.com/mandykoh/convolver)
 * [Did they even hang bears?](https://www.lrb.co.uk/the-paper/v42/n16/tom-shippey/did-they-even-hang-bears)
-* [Covid-19: What do we know about “long Covid”?](https://www.bmj.com/content/370/bmj.m2815)
+* [Mandykoh/convolver: Extended parallel image convolution library for Go](https://github.com/mandykoh/convolver)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
 * [Docker update ToS: Image retention limits imposed on free accounts](https://www.docker.com/pricing/retentionfaq)
-* [A guide to DevSecOps, shifting left, and GitOps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/)
-* [Air pollution is worse than we thought](https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths)
-* [Stopping phishing campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
-* [Knurling-Rs Announcement](https://ferrous-systems.com/blog/knurling-rs/)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [N.C.A.A. Doctors Say Football Is a Bad Idea. But They Aren’t Deciding.](https://www.nytimes.com/2020/08/13/sports/ncaafootball/coronavirus-college-football-acc-sec-big-12.html)
 * [In Derecho’s Wake, More Than 250,000 in Midwest Struggle Without Power](https://www.nytimes.com/2020/08/13/us/derecho-iowa-storm.html)
 * [New Zealand Beat the Coronavirus Once. Can It Do It Again?](https://www.nytimes.com/2020/08/13/world/asia/new-zealand-coronavirus-lockdown-elimination.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
 * [Tobe Nwigwe Never Planned to Go Viral. Then He Rapped About Breonna Taylor.](https://www.nytimes.com/2020/08/13/arts/music/tobe-nwigwe-breonna-taylor.html)
 * [Remembering Music’s Saving Powers at Auschwitz](https://www.nytimes.com/2020/08/13/arts/music/anita-lasker-wallfisch-auschwitz-salzburg-festival.html)
 * [In a Pair of ‘Hubs,’ the N.H.L. Postseason Has Been Anything but Neutral](https://www.nytimes.com/2020/08/13/sports/hockey/nhl-qualifying-round-playoffs.html)
@@ -94,18 +94,19 @@ layout: default
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [Trump’s Cabinet From Hell](https://www.nytimes.com/2020/08/12/opinion/trump-cabinet-bill-barr.html)
-* [The Particular Texture and Joy of Homemade Ice Cream](https://www.nytimes.com/2020/08/12/magazine/the-particular-texture-and-joy-of-homemade-ice-cream.html)
-* [Kamala Harris Is the Future, So Mike Pence May Well Be History](https://www.nytimes.com/2020/08/11/opinion/kamala-harris-biden-running-mate.html)
-* [A House candidate in Connecticut dropped out of today’s primary after being arrested.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/a-house-candidate-in-connecticut-dropped-out-of-todays-primary-after-being-arrested)
+* [Overlooked No More: Jovita Idár, Who Promoted Rights of Mexican-Americans and Women](https://www.nytimes.com/2020/08/07/obituaries/jovita-idar-overlooked.html)
+* [Trump falsely suggests Kamala Harris, who was born in California, does not meet citizenship requirements.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/trump-falsely-suggests-kamala-harris-who-was-born-in-california-does-not-meet-citizenship-requirements)
+* [In 'Disloyal,' Cohen Promises Sordid Tales Trump ‘Does Not Want You to Read’](https://www.nytimes.com/2020/08/13/us/politics/michael-cohen-memoir-trump.html)
+* [Trump, Repeating a Baseless Theory, Suggests Kamala Harris Is Not Eligible to Serve](https://www.nytimes.com/2020/08/13/us/politics/trump-kamala-harris.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [União Europeia reserva 400 milhões de doses de eventual vacina da Johnson & Johnson](https://oglobo.globo.com/sociedade/uniao-europeia-reserva-400-milhoes-de-doses-de-eventual-vacina-da-johnson-johnson-24585267)
+* [Vasco vence o Sport em noite de Fellipe Bastos: 2 a 0](https://oglobo.globo.com/esportes/vasco-vence-sport-em-noite-de-fellipe-bastos-2-0-1-24585447)
 * [Guedes anuncia novos nomes após saída de Mattar e Uebel](https://oglobo.globo.com/economia/guedes-anuncia-novos-nomes-apos-saida-de-mattar-uebel-1-24585270)
+* [União Europeia reserva 400 milhões de doses de eventual vacina da Johnson & Johnson](https://oglobo.globo.com/sociedade/uniao-europeia-reserva-400-milhoes-de-doses-de-eventual-vacina-da-johnson-johnson-24585267)
 * [Mulher de Queiroz chora ao saber de decisão](https://epoca.globo.com/guilherme-amado/mulher-de-queiroz-chora-ao-saber-de-decisao-24585388)
 * [Trump afirma que vai bloquear plano para aumentar o financiamento ao voto por correio](https://oglobo.globo.com/mundo/trump-afirma-que-vai-bloquear-plano-para-aumentar-financiamento-ao-voto-por-correio-24585229)
 * [Bolsonaro diz que não pode investir 100% no Aliança pelo Brasil e fala em se reconciliar com PSL](https://oglobo.globo.com/brasil/bolsonaro-diz-que-nao-pode-investir-100-no-alianca-pelo-brasil-fala-em-se-reconciliar-com-psl-1-24585216)
@@ -113,4 +114,3 @@ layout: default
 * [Governo regulamenta benefício fiscal de R$ 19 bi para setor automotivo](https://oglobo.globo.com/economia/governo-regulamenta-beneficio-fiscal-de-19-bi-para-setor-automotivo-24585298)
 * [Mais do que Queiroz, maior risco para Bolsonaros é Márcia na prisão](https://oglobo.globo.com/analitico/mais-do-que-queiroz-maior-risco-para-bolsonaros-marcia-na-prisao-24585175)
 * [Departamento de Justiça dos EUA denuncia universidade Yale por discriminação contra asiáticos e brancos em processos de admissão](https://oglobo.globo.com/sociedade/departamento-de-justica-dos-eua-denuncia-universidade-yale-por-discriminacao-contra-asiaticos-brancos-em-processos-de-admissao-24585096)
-* [Senado aprova auxílio emergencial para atletas](https://oglobo.globo.com/esportes/senado-aprova-auxilio-emergencial-para-atletas-24585191)

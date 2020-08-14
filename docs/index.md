@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 14:16:24 UTC
+# indexed at 14/08/2020 14:35:06 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
 * [Servo Parallel Browser Engine Project](https://github.com/servo/servo)
 * [Redefining What Sustainable Fishing Means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
+* [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
 * [Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
 * [Google resumes its attack on the URL bar, hides full addresses on Chrome 86](https://www.androidpolice.com/2020/08/13/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/)
-* [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
 * [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
 * [Netgpu and the hazards of proprietary kernel modules](https://lwn.net/Articles/827596/)
 * [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [I Tried to Live Without the Tech Giants. It Was Impossible](https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html)
 * [Darktable 3.2.1](https://www.darktable.org/news/)
-* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
-* [Simple Bacteria Offer Clues to the Origins of Photosynthesis](https://www.quantamagazine.org/simple-bacteria-offer-clues-to-the-origins-of-photosynthesis-20171017/)
 * [Instagram kept deleted photos and messages on its servers for more than a year](https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed)
 * [A Massive Fractal in Days, Not Years [pdf]](http://www.jcgt.org/published/0009/02/02/paper.pdf)
+* [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
+* [Simple Bacteria Offer Clues to the Origins of Photosynthesis](https://www.quantamagazine.org/simple-bacteria-offer-clues-to-the-origins-of-photosynthesis-20171017/)
 * [Why a bike shop should choose its customer wisely](https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/)
 * [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
 * [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Ansible 2.10](https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html)
-* [Producing Open Source Software (2017)](https://producingoss.com/)
 * [Software bug causes YAM cryptocurrency to implode two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
+* [Producing Open Source Software (2017)](https://producingoss.com/)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
-* [What's new in PHP 8?](https://stitcher.io/blog/new-in-php-8?ref=hn)
-* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
+* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
+* [Launch HN: Liyfe Clinic (YC S20) – Telemedicine for breast cancer](https://news.ycombinator.com/item?id=24143569)
 ## nytimes.com
 
 
@@ -47,9 +47,9 @@ layout: default
 * [Coronavirus Live Updates](https://www.nytimes.com/2020/08/14/world/coronavirus-covid-19.html)
 * [U.S. Sales Rose 1.2 Percent in July](https://www.nytimes.com/live/2020/08/14/business/stock-market-today-coronavirus)
 * [Anxiety and Depression Rises Among Young Adults, Blacks and Latinos in Pandemic](https://www.nytimes.com/2020/08/13/health/Covid-mental-health-anxiety.html)
-* [Families Priced Out of ‘Learning Pods’ Seek Alternatives](https://www.nytimes.com/2020/08/14/us/covid-schools-learning-pods.html)
+* [Families Priced Out of Coronavirus ‘Learning Pods’ Seek Alternatives](https://www.nytimes.com/2020/08/14/us/covid-schools-learning-pods.html)
 * [N.Y.C. Schools Will Reopen in a Month. Principals Fear It’s Too Soon.](https://www.nytimes.com/2020/08/14/nyregion/nyc-schools-reopening-plan.html)
-* [For Palestinians, Israel-U.A.E. Deal Swaps One Nightmare for Another](https://www.nytimes.com/2020/08/14/world/middleeast/palestinians-israel-uae-annexation-peace.html)
+* [Israel-U.A.E. Deal Swaps One Nightmare for Another for Palestinians](https://www.nytimes.com/2020/08/14/world/middleeast/palestinians-israel-uae-annexation-peace.html)
 * [Netanyahu Drops Troubled Annexation Plan for Diplomatic Gain](https://www.nytimes.com/2020/08/13/world/middleeast/israel-uae-annexation.html)
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [Trump vs. the Post Office](https://www.nytimes.com/2020/08/14/briefing/postal-service-israel-fortnite-your-friday-briefing.html)
@@ -80,9 +80,9 @@ layout: default
 * [Don’t Like What You See on Zoom? Get a Face-Lift and Join the Crowd](https://www.nytimes.com/2020/08/13/health/coronavirus-cosmetic-surgery.html)
 * [Konrad Steffen, Who Sounded Alarm on Greenland Ice, Dies at 68](https://www.nytimes.com/2020/08/13/climate/konrad-steffen-dead.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Coco Gauff Was Rising When Tennis Stopped. Now She Might Be Even Better.](https://www.nytimes.com/2020/08/13/sports/tennis/coco-gauff.html)
 * [Tales of Hope and Resilience as a Museum Reopens](https://www.nytimes.com/2020/08/13/arts/design/New-York-Historical-covid-reopen.html)
@@ -93,22 +93,22 @@ layout: default
 * [He Doesn’t Mind Being Shared, Unless His Mates Try to Eat Each Other’s Eggs](https://www.nytimes.com/2020/08/12/science/frog-group-fidelity.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [Who from California would replace Kamala Harris in the Senate?](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/who-from-california-would-replace-kamala-harris-in-the-senate)
-* [The publisher of The Onion, Jezebel and other websites lays off 15 employees.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus/the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
-* [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
+* [Michael Cohen releases details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/michael-cohen-releases-details-about-his-forthcoming-memoir)
+* [The Artist and Filmmaker Envisioning a Safer World for Black Women](https://www.nytimes.com/2020/08/10/t-magazine/jatovia-gary-film.html)
+* [Michigan Democrats Hesitate on Whitmer as V.P.: ‘Selfishly, We Need Her Here’](https://www.nytimes.com/2020/08/10/us/politics/gretchen-whitmer-vp-michigan.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [No Amazonas, Wilson Lima é o 12° governador a testar positivo para Covid-19](https://oglobo.globo.com/brasil/no-amazonas-wilson-lima-o-12-governador-testar-positivo-para-covid-19-24586173)
+* [30 minutos de Fluminense: Por que o Fluminense tem ido mal em Brasileiros?](https://oglobo.globo.com/podcast/30-minutos-de-fluminense-por-que-fluminense-tem-ido-mal-em-brasileiros-24586295)
+* [Wilson Lima, do Amazonas, é o 12° governador a testar positivo para Covid-19](https://oglobo.globo.com/brasil/wilson-lima-do-amazonas-o-12-governador-testar-positivo-para-covid-19-24586173)
+* [Possível vacina contra Covid-19 da chinesa Sinopharm gera anticorpos em testes clínicos](https://oglobo.globo.com/sociedade/possivel-vacina-contra-covid-19-da-chinesa-sinopharm-gera-anticorpos-em-testes-clinicos-24586270)
 * [Lives do fim de semana: João Bosco, Vanessa da Mata, Gregório Duvivier e mais](https://oglobo.globo.com/rioshow/lives-do-fim-de-semana-joao-bosco-vanessa-da-mata-gregorio-duvivier-mais-1-24586242)
 * [Fenty Beauty, marca de maquiagem de Rihanna, começa a ser vendida no Brasil](https://oglobo.globo.com/ela/gente/fenty-beauty-marca-de-maquiagem-de-rihanna-comeca-ser-vendida-no-brasil-1-24586001)
 * [Vigilantes são mortos no Instituto Federal Fluminense, em Campos](https://oglobo.globo.com/rio/vigilantes-sao-mortos-no-instituto-federal-fluminense-em-campos-1-24586185)
 * [Análise: Acordo entre Israel e Emirados abre precedente para Arábia Saudita tomar o mesmo caminho](https://oglobo.globo.com/mundo/analise-acordo-entre-israel-emirados-abre-precedente-para-arabia-saudita-tomar-mesmo-caminho-24586132)
 * [Com pessimismo no exterior e sinais negativos do governo sobre gastos, dólar sobe a R$ 5,40](https://oglobo.globo.com/economia/com-pessimismo-no-exterior-sinais-negativos-do-governo-sobre-gastos-dolar-sobe-r-540-24586165)
-* [Mourão defende Abin e diz que agência não faz 'arapongagem'](https://oglobo.globo.com/brasil/mourao-defende-abin-diz-que-agencia-nao-faz-arapongagem-1-24586104)
 * [Mansur: início ruim é um teste de convicções no Flamengo](https://oglobo.globo.com/esportes/mansur-inicio-ruim-um-teste-de-conviccoes-no-flamengo-1-24586124)
 * ['Meu cabelo precisa ficar perfeito': como reclamação de Trump pode mudar regulação sobre chuveiros nos EUA](https://epoca.globo.com/mundo/meu-cabelo-precisa-ficar-perfeito-como-reclamacao-de-trump-pode-mudar-regulacao-sobre-chuveiros-nos-eua-24586126)
-* [Covid-19: ritmo das mortes em Nova York é comparável ao dos tempos da gripe espanhola](https://oglobo.globo.com/sociedade/covid-19-ritmo-das-mortes-em-nova-york-comparavel-ao-dos-tempos-da-gripe-espanhola-24586116)

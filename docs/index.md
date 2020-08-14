@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 11:14:32 UTC
+# indexed at 14/08/2020 11:35:10 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Factorio 1.0 is now released](https://factorio.com/blog/post/fff-360)
-* [‘George Eliot’ joins 24 female authors making debuts under their real names](https://www.theguardian.com/books/2020/aug/12/george-eliot-joins-24-female-authors-making-debuts-under-their-real-names)
 * [It’s Time to Redefine What Sustainable Fishing Means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
-* [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [‘George Eliot’ joins 24 female authors making debuts under their real names](https://www.theguardian.com/books/2020/aug/12/george-eliot-joins-24-female-authors-making-debuts-under-their-real-names)
 * [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
-* [Ansible 2.10.0 Released](https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html)
+* [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Arecibo radio telescope goes dark after snapped cable shreds dish](https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish)
 * [A free video streaming service that runs on a ESP32](https://github.com/rossumur/espflix)
 * [Why the Mauritius oil spill is so serious](https://www.bbc.com/news/world-africa-53754751)
 * [Ask HN: Has anyone migrated off containerized infrastructure?](https://news.ycombinator.com/item?id=24141628)
-* [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
-* [Research Says Solo Founders Perform Better](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
 * [Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
+* [Instagram kept deleted photos and messages on its servers for more than a year](https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed)
+* [Implementing a Type-safe printf in Rust](https://willcrichton.net/notes/type-safe-printf/)
 * [InvoiceNet: Neural network to extract information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 * [Producing Open Source Software (2017)](https://producingoss.com/)
 * [Transparent OLEDs](https://oled.com/oleds/transparent-oleds-toleds/)
+* [Ansible 2.10](https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html)
 * [The physics of why hot water sometimes freezes faster than cold water](https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/)
-* [Instagram kept deleted photos and messages on its servers for more than a year](https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed)
 * [A Nixon deepfake, a 'moon disaster' speech and an information ecosystem at risk](https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/)
 * [Software bug causes YAM cryptocurrency to implode two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
-* [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
 * [What's new in PHP 8?](https://stitcher.io/blog/new-in-php-8?ref=hn)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
-* [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
-* [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
-* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [The New ‘Gold Rush in Space’](https://www.wsj.com/articles/the-new-gold-rush-in-space-11596826062)
+* [Waking Life: Johan Varendonck had to study what was available: his daydreams](https://www.laphamsquarterly.org/roundtable/waking-life)
+* [Virtual Machines for Multi-Tenancy in Varnish](https://medium.com/@fwsgonzo/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276)
+* [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
+* [Responsible Use of Machine Learning APIs](https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae)
 * [Feds say Yale discriminates against Asian, white applicants](https://apnews.com/e97f08eb935989840bda430bb7a32e15)
 * [Street View of 1940s New York](https://1940s.nyc/)
 * [Metaplane – A metadata catalog for modern data teams](https://metaplane.dev)
+* [Grade Inflation at American Colleges and Universities](http://www.gradeinflation.com/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Belarus Protests: Mass Beatings, Detentions as President Clings to Power](https://www.nytimes.com/2020/08/13/world/europe/beatings-detentions-belarus-lukashenko.html)
 * [Don’t Like What You See on Zoom? Get a Face-Lift and Join the Crowd](https://www.nytimes.com/2020/08/13/health/coronavirus-cosmetic-surgery.html)
 * [Konrad Steffen, Who Sounded Alarm on Greenland Ice, Dies at 68](https://www.nytimes.com/2020/08/13/climate/konrad-steffen-dead.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [Finding the Soul of Sonora in Carne Asada](https://www.nytimes.com/2020/08/11/dining/carne-asada-sonora.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Coco Gauff Was Rising When Tennis Stopped. Now She Might Be Even Better.](https://www.nytimes.com/2020/08/13/sports/tennis/coco-gauff.html)
 * [Tales of Hope and Resilience as a Museum Reopens](https://www.nytimes.com/2020/08/13/arts/design/New-York-Historical-covid-reopen.html)
 * [The Small, Black-Owned Record Label That Made a Big Impact in 1970s D.C.](https://www.nytimes.com/2020/08/12/arts/music/black-fire-records.html)
@@ -92,10 +92,7 @@ layout: default
 * [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
-* [Fighting for the Vote With Cartoons](https://www.nytimes.com/2020/08/14/us/suffrage-cartoons.html)
-* [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
-* [House Hunting in London: Once a Dark Garage, Now an Airy Light Box](https://www.nytimes.com/2020/08/12/realestate/house-hunting-in-london-once-a-dark-garage-now-an-airy-light-box.html)
-* [How Stephen Ross and Daniel Doctoroff Are Trying to Influence the 2021 NYC Mayoral Race](https://www.nytimes.com/2020/08/14/nyregion/mayor-stephen-ross-daniel-doctoroff.html)
+* [For the Crispiest Tofu, Leave It Alone](https://www.nytimes.com/2020/08/12/dining/crisp-tofu-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

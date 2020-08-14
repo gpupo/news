@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 14/08/2020 22:15:08 UTC
+# indexed at 14/08/2020 22:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
-* [How Taiwan’s unlikely digital minister hacked the pandemic](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
-* [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
 * [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
-* [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
-* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
-* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
+* [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
+* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
+* [Airbnb is offering a sleepover at the last Blockbuster](https://www.buzzfeed.com/lyapalater/last-blockbuster-sleepover)
+* [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
+* [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
+* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
+* [Sea of Nodes (2015)](https://darksi.de/d.sea-of-nodes/)
 * [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
+* [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 * [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
-* [Facebook Goes After Apple](https://www.axios.com/facebook-apple-app-store-22774656-4221-40e7-b6b6-307a1a2de4d5.html)
 * [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
-* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
-* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
-* [Airbnb Is Offering a Sleepover at the Last Blockbuster](https://www.buzzfeed.com/lyapalater/last-blockbuster-sleepover)
 * [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
+* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
+* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
 * [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
-* [Expiring vs. Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [Hubble finds that Betelgeuse's dimming is likely due to ejection of gases](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
+* [Expiring vs. permanent skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
+* [New Pulumi Open Source Projects for Kubernetes](https://www.pulumi.com/blog/new-kubernetes-superpowers/)
 * [Redefining what sustainable fishing means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
 * [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
-* [New Pulumi Open Source Projects for Kubernetes](https://www.pulumi.com/blog/new-kubernetes-superpowers/)
-* [Sea of Nodes](https://darksi.de/d.sea-of-nodes/)
 * [A bike shop should choose its customer wisely](https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/)
+* [Show HN: Tweek – Super Fast To-Do Weekly Calendar App](https://tweek.so)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Workers Join Belarus Protests, as Leader’s Base Turns Against Him](https://www.nytimes.com/2020/08/14/world/europe/Belarus-strike-Aleksandr-Lukashenko.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
 * [Luchita Hurtado, Artist Who Became a Sensation in Her 90s, Dies at 99](https://www.nytimes.com/2020/08/14/arts/luchita-hurtado-dead.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [How I Got My Kids Into Theater: Online Shows That Put Them to Work (and Play)](https://www.nytimes.com/2020/08/11/theater/immersive-theater-for-children.html)
 * [Niven Patel, a Miami Chef, Is Not Giving Up on 2020](https://www.nytimes.com/2020/08/10/dining/chef-niven-patel-mamey-coral-gables.html)
 * [An Exhibition Tells the Story of a Drug War Leader, but Not All of It](https://www.nytimes.com/2020/08/10/arts/design/Anslinger-drug-czar-exhibition.html)
@@ -101,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Deputado faz projeto de lei que permite professores e médicos usarem armas em escolas e hospitais da rede estadual do Rio](https://oglobo.globo.com/rio/deputado-faz-projeto-de-lei-que-permite-professores-medicos-usarem-armas-em-escolas-hospitais-da-rede-estadual-do-rio-24587358)
-* [Desembargador expede mandado de prisão preventiva contra Queiroz, que pode ser cumprido hoje](https://oglobo.globo.com/brasil/desembargador-expede-mandado-de-prisao-preventiva-contra-queiroz-que-pode-ser-cumprido-hoje-1-24587310)
 * [EUA dizem ter confiscado remessas de petróleo iraniano rumo à Venezuela](https://oglobo.globo.com/mundo/eua-dizem-ter-confiscado-remessas-de-petroleo-iraniano-rumo-venezuela-24587014)
+* [Desembargador expede mandado de prisão preventiva contra Queiroz, que pode ser cumprido nesta sexta](https://oglobo.globo.com/brasil/desembargador-expede-mandado-de-prisao-preventiva-contra-queiroz-que-pode-ser-cumprido-nesta-sexta-24587310)
+* [Barcelona vive maior vexame na história da Liga dos Campeões. Como isso pode influenciar o futuro do clube?](https://oglobo.globo.com/esportes/barcelona-vive-maior-vexame-na-historia-da-liga-dos-campeoes-como-isso-pode-influenciar-futuro-do-clube-24587427)
 * [André Brandão é confirmado como novo presidente do Banco do Brasil](https://oglobo.globo.com/economia/andre-brandao-confirmado-como-novo-presidente-do-banco-do-brasil-24587346)
+* [Deputado faz projeto de lei que permite professores e médicos usarem armas em escolas e hospitais da rede estadual do Rio](https://oglobo.globo.com/rio/deputado-faz-projeto-de-lei-que-permite-professores-medicos-usarem-armas-em-escolas-hospitais-da-rede-estadual-do-rio-24587358)
 * [Champions: Quem é o ex-auxiliar da seleção alemã que colocou o Bayern de Munique em outro patamar](https://oglobo.globo.com/esportes/champions-quem-o-ex-auxiliar-da-selecao-alema-que-colocou-bayern-de-munique-em-outro-patamar-24587116)
 * [Fluminense: Grupo responde questionamentos à reforma de Laranjeiras e rebate rótulo de estádio 'pé-frio'](https://oglobo.globo.com/esportes/fluminense/fluminense-grupo-responde-questionamentos-reforma-de-laranjeiras-rebate-rotulo-de-estadio-pe-frio-24587246)
 * [Suspeitos da morte de vigilantes do Instituto Federal Fluminense são presos menos de 12 horas após o crime](https://oglobo.globo.com/rio/suspeitos-da-morte-de-vigilantes-do-instituto-federal-fluminense-sao-presos-menos-de-12-horas-apos-crime-24587300)
 * [Rio segue com queda na média móvel de mortes pela Covid-19; estado registra 95 óbitos e 1.806 novos casos nesta sexta-feira](https://oglobo.globo.com/rio/rio-segue-com-queda-na-media-movel-de-mortes-pela-covid-19-estado-registra-95-obitos-1806-novos-casos-nesta-sexta-feira-24587280)
 * [Manaus pode sofrer com terremotos induzidos pela exploração de gás, diz pesquisa da Unicamp](https://oglobo.globo.com/sociedade/manaus-pode-sofrer-com-terremotos-induzidos-pela-exploracao-de-gas-diz-pesquisa-da-unicamp-24586753)
-* [Com mais de dez interessados, valor da InfraCo, empresa de fibra da Oi, pode chegar a R$ 35 bilhões](https://oglobo.globo.com/economia/com-mais-de-dez-interessados-valor-da-infraco-empresa-de-fibra-da-oi-pode-chegar-r-35-bilhoes-24587148)

@@ -2,19 +2,20 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 16:15:57 UTC
+# indexed at 15/08/2020 16:34:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [MIT: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
 * [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
 * [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
-* [Fury in Spain at US Plans to Produce ‘Iberian’ Ham in Texas and Georgia](https://www.theguardian.com/world/2020/aug/15/fury-in-spain-at-us-plans-to-produce-iberian-ham-in-texas-and-georgia)
+* [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
+* [MIT: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
+* [US Plans to Produce ‘Iberian’ Ham in Texas and Georgia](https://www.theguardian.com/world/2020/aug/15/fury-in-spain-at-us-plans-to-produce-iberian-ham-in-texas-and-georgia)
 * [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
-* [On Showing Up to School in Your Underwear, Or, My One Day at Recurse Center](http://cadlag.org/posts/on-showing-up-to-school-in-your-underwear.html)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [On Showing Up to School in Your Underwear, Or, My One Day at Recurse Center](http://cadlag.org/posts/on-showing-up-to-school-in-your-underwear.html)
 * [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
 * [Fungus at Chernobyl absorbs nuclear radiation via radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
 * [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
@@ -25,25 +26,24 @@ layout: default
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
 * [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [Weaponizing disinformation can bring down a city’s power grid](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236517)
 * [Can modern software be snappy? (2008)](https://blog.brush.co.nz/2008/06/snappy-software/)
+* [Psychedelic drugs reduce depressive symptoms by helping people accept emotions](https://www.psypost.org/2020/08/psychedelic-drugs-reduce-depressive-symptoms-by-helping-individuals-to-accept-of-their-emotions-study-suggests-57654)
+* [Weaponizing disinformation can bring down a city’s power grid](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236517)
 * [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 * [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
-* [Not enough foreigners applied for H1B visas this year, govt ran a second lottery](https://www.theregister.com/2020/08/14/h1b_second_lottery/)
-* [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
-* [Psychedelic drugs reduce depressive symptoms by helping people accept emotions](https://www.psypost.org/2020/08/psychedelic-drugs-reduce-depressive-symptoms-by-helping-individuals-to-accept-of-their-emotions-study-suggests-57654)
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
-* [Ask HN: Anyone a social entrepreneur i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
 * [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
+* [Ask HN: Anyone a social entrepreneur i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [Duality of Vector Spaces (2017)](https://solmaz.io/notes/duality-vector-spaces/)
 ## nytimes.com
 
 
 * [‘We’re Clearly Not Doing Enough’: Drop in Testing Hampers Coronavirus Response](https://www.nytimes.com/2020/08/15/us/coronavirus-testing-decrease.html)
 * [As Colleges Move Classes Online, Families Rebel Against the Cost](https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html)
-* [Coronavirus Live Updates: Arizona School District Cancels Classes After Teachers Stage ‘Sick Out’](https://www.nytimes.com/2020/08/15/world/coronavirus-updates.html)
+* [Coronavirus Live Updates: Arizona School District Cancels Reopening After Teachers Stage ‘Sick Out’](https://www.nytimes.com/2020/08/15/world/coronavirus-updates.html)
 * [USPS and Mail-In Ballots: States Warned It May Not Meet Deadlines](https://www.nytimes.com/2020/08/14/us/politics/usps-vote-mail.html)
 * [Democrats Prepare for an Unprecedented Convention](https://www.nytimes.com/live/2020/08/15/us/biden-vs-trump-election)
 * [Trump Ads Attack Biden Through Deceptive Editing and Hyperbole](https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html)
@@ -74,9 +74,9 @@ layout: default
 * [China Tones Down 'Hotheaded' Nationalism as Relations With U.S. Sink](https://www.nytimes.com/2020/08/15/world/asia/china-us-nationalism.html)
 * [A Bitter Wind at a Shaky Time, and Iowa Is Left Reeling](https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html)
 * [Bayern 8, Barcelona 2. The End.](https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
@@ -89,9 +89,8 @@ layout: default
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
 * [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
-* [Face Mask Fines: Can My Co-op Do That?](https://www.nytimes.com/2020/08/15/realestate/coop-fine-face-mask.html)
-* [Start-ups braced for the worst, but the worst never came.](https://www.nytimes.com/2020/08/10/business/start-ups-braced-for-the-worst-but-the-worst-never-came.html)
-* [Biden and Harris, rivals turned running mates, stood united against Trump in first appearance together.](https://www.nytimes.com/live/2020/08/12/us/biden-vs-trump/biden-and-harris-rivals-turned-running-mates-stood-united-against-trump-in-first-appearance-together)
+* [T Process | Aiko Hachisuka](https://www.nytimes.com/video/t-magazine/100000007260935/t-process-aiko-hachisuka.html)
+* [Jimmy Fallon Thinks Trump Might Have a Problem With Women](https://www.nytimes.com/2020/08/14/arts/television/late-night-jimmy-fallon-trump-kamala-harris.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 22:14:45 UTC
+# indexed at 15/08/2020 22:34:54 UTC
 
 
 ## news.ycombinator.com
@@ -17,26 +17,26 @@ layout: default
 * [Picking Locks with Audio Technology](https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext)
 * [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
 * [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
-* [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
 * [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
+* [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
+* [What It’s Like to Go into Lockdown for the Second Time](https://elemental.medium.com/what-its-like-to-go-into-lockdown-for-the-second-time-97f4d3bcdb5b)
 * [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
 * [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
 * [The Brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
 * [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
+* [Show HN: Wrote book that builds a SaaS boilerplate. Save weeks on side projects](https://builderbook.org/book)
 * [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
 * [AdoptOpenJDK 8u265 Available](https://blog.adoptopenjdk.net/2020/07/adoptopenjdk-8u265-available/)
-* [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
+* [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
 * [Language Oriented Design and SICP with Hal Abelson [audio]](https://corecursive.com/039-hal-abelson-sicp/)
+* [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
+* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [I’ll Admit It. I’m a Jealous Developer](https://medium.com/@dangoslen/ill-admit-it-i-m-a-jealous-developer-4c526f0e0abb)
 * [Computerphile: From Algol 60 to Pascal [video]](https://www.youtube.com/watch?v=SVYBJlCmRxE)
 * [Instagram faces $500B in fines alleging it harvested biometric data](https://www.businessinsider.com/instagram-facing-500-billion-in-fines-in-facial-recognition-lawsuit-2020-8)
-* [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [California issues first rolling blackouts since 2001](https://www.npr.org/2020/08/15/902781690/california-issues-first-rolling-blackouts-since-2001-as-heat-wave-bakes-western-)
-* [What It’s Like to Go into Lockdown for the Second Time](https://elemental.medium.com/what-its-like-to-go-into-lockdown-for-the-second-time-97f4d3bcdb5b)
-* [Show HN: Wrote book that builds a SaaS boilerplate. Save weeks on side projects](https://builderbook.org/book)
-* [Ask HN: Anyone a social entrepreneur, i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
 * [It’s strange what people put up with in C#](https://gist.github.com/dsyme/32de0d1bb0799ca438477c34205c3531)
+* [Ask HN: Anyone a social entrepreneur, i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
 * [Study: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
 ## nytimes.com
 
@@ -80,9 +80,9 @@ layout: default
 * [Bald Eagle Sends Government Drone Into Lake Michigan](https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -92,8 +92,9 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [Kamala Harris Offers a Preview of What She’ll Bring](https://www.nytimes.com/2020/08/13/us/politics/vp-democrats-2020.html)
-* [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
+* [This Is Where I Stand](https://www.nytimes.com/2020/08/13/opinion/conservative-radicals.html)
+* [When Lamb Chops Met Romaine](https://www.nytimes.com/2020/08/14/dining/grilled-lamb-chops-recipe.html)
+* [Comfort Viewing: 3 Reasons I Love ‘Silent Witness’](https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

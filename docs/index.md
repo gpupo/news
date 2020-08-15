@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 01:35:41 UTC
+# indexed at 15/08/2020 02:17:10 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
+* [PyIDM – Python open source alternative to IDM](https://github.com/pyIDM/PyIDM)
 * [Mozilla signs fresh Google search deal](https://www.theregister.com/2020/08/14/mozilla_google_search/)
+* [VC bias in viewing pitch decks can affect fundraising success](https://www.docsend.com/blog/how-vc-bias-in-viewing-pitch-decks-can-affect-fundraising-success/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
-* [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
+* [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
+* [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 * [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
 * [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
 * [Sea of Nodes (2015)](https://darksi.de/d.sea-of-nodes/)
-* [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 * [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
-* [PyIDM – Python open source alternative to IDM](https://github.com/pyIDM/PyIDM)
-* [Hubble finds that Betelgeuse's dimming is likely due to ejection of gases](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
 * [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
+* [Hubble finds that Betelgeuse's dimming is likely due to ejection of gases](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
 * [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
+* [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Redefining what sustainable fishing means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
 * [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
-* [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
-* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
 * [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
+* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
 * [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
-* [VC Bias in Viewing Pitch Decks Can Affect Fundraising Success](https://www.docsend.com/blog/how-vc-bias-in-viewing-pitch-decks-can-affect-fundraising-success/)
 ## nytimes.com
 
 
@@ -75,13 +75,13 @@ layout: default
 * [Older Children and the Coronavirus: A New Wrinkle in the Debate](https://www.nytimes.com/2020/08/14/health/older-children-and-the-coronavirus-a-new-wrinkle-in-the-debate.html)
 * [U.S. Companies Vie for Funds in Race to Build Rare Earths Industry](https://www.nytimes.com/2020/08/14/us/politics/rare-earths-american-companies.html)
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
-* [How Apple’s 30% App Store Cut Became a Boon and a Headache](https://www.nytimes.com/2020/08/14/technology/apple-app-store-epic-games-fortnite.html)
+* [Vanessa Guillen Is Memorialized at Texas Service](https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html)
 * [Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda](https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [In Niger, an Architect Looking to the Country’s Design Traditions](https://www.nytimes.com/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
 * [Unicorn Floats and a Marriage Deflated](https://www.nytimes.com/2020/08/13/fashion/weddings/unicorn-floats-and-a-marriage-deflated.html)
 * [Pleasantly Bitter and Thoroughly Grown-Up, No Alcohol Needed](https://www.nytimes.com/2020/08/14/dining/nonalcoholic-bitter-cocktails.html)
@@ -91,22 +91,22 @@ layout: default
 * [He Doesn’t Mind Being Shared, Unless His Mates Try to Eat Each Other’s Eggs](https://www.nytimes.com/2020/08/12/science/frog-group-fidelity.html)
 * [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html)
 * [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](https://www.nytimes.com/2020/08/04/health/coronavirus-immune-system.html)
+* [C.D.C. Closes Some Offices Over Bacteria Discovery](https://www.nytimes.com/2020/08/08/health/cdc-legionnaires-coronavirus.html)
 * [Trump visited his ailing brother in a Manhattan hospital.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/trump-visited-his-ailing-brother-in-a-manhattan-hospital)
 * [President Trump Visits Younger Brother in Hospital in New York](https://www.nytimes.com/2020/08/14/us/politics/donald-trump-brother.html)
-* [How to Press Flowers](https://www.nytimes.com/2020/08/11/magazine/how-to-press-flowers.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Gilmar concede habeas corpus e mantém prisão domiciliar a Fabrício Queiroz e Márcia Aguiar](https://oglobo.globo.com/brasil/gilmar-concede-habeas-corpus-mantem-prisao-domiciliar-fabricio-queiroz-marcia-aguiar-24588072)
+* [Mãe recupera guarda de filha tirada após ritual de candomblé](https://epoca.globo.com/mae-recupera-guarda-de-filha-tirada-apos-ritual-de-candomble-24588190)
+* [Everton, do São Paulo, entra na Justiça e cobra quase R$ 5 milhões do Flamengo](https://oglobo.globo.com/esportes/everton-do-sao-paulo-entra-na-justica-cobra-quase-5-milhoes-do-flamengo-24587604)
+* [Recuperado da Covid-19, Cícero treina e está à disposição de Autuori no Botafogo](https://oglobo.globo.com/esportes/recuperado-da-covid-19-cicero-treina-esta-disposicao-de-autuori-no-botafogo-24587654)
+* [Gilmar concede habeas corpus e mantém prisão domiciliar a Fabrício Queiroz e Márcia Aguiar](https://oglobo.globo.com/brasil/gilmar-concede-habeas-corpus-mantem-prisao-domiciliar-fabricio-queiroz-marcia-aguiar-1-24588072)
 * [Em encontro com MST, Gilmar Mendes diz que STF evitou mais mortes por coronavírus](https://oglobo.globo.com/brasil/em-encontro-com-mst-gilmar-mendes-diz-que-stf-evitou-mais-mortes-por-coronavirus-24587927)
 * [Justiça nega pedido de habeas corpus ao empresário Mario Peixoto](https://oglobo.globo.com/rio/justica-nega-pedido-de-habeas-corpus-ao-empresario-mario-peixoto-24587698)
-* [Everton, do São Paulo, entra na Justiça e cobra quase R$ 5 milhões do Flamengo](https://oglobo.globo.com/esportes/everton-do-sao-paulo-entra-na-justica-cobra-quase-5-milhoes-do-flamengo-24587604)
 * [Derretimento das camadas de gelo da Groenlândia já é irreversível, indica estudo](https://oglobo.globo.com/sociedade/derretimento-das-camadas-de-gelo-da-groenlandia-ja-irreversivel-indica-estudo-24587720)
 * [Brasil ultrapassa 106 mil mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-106-mil-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24587497)
 * [Indicador ainda não sugere abertura de cinemas e teatros, e fase 6 pode ser adiada](https://oglobo.globo.com/rio/indicador-ainda-nao-sugere-abertura-de-cinemas-teatros-fase-6-pode-ser-adiada-24587314)
-* [Em derrota para os EUA, Conselho de Segurança da ONU rejeita extensão do embargo de armas ao Irã](https://oglobo.globo.com/mundo/em-derrota-para-os-eua-conselho-de-seguranca-da-onu-rejeita-extensao-do-embargo-de-armas-ao-ira-24587487)
-* [Recuperado da Covid-19, Cícero treina e está à disposição de Autuori no Botafogo](https://oglobo.globo.com/esportes/recuperado-da-covid-19-cicero-treina-esta-disposicao-de-autuori-no-botafogo-24587654)
 * [Operação Corredor Presente começa entre os túneis da Grota Funda e do Joá](https://oglobo.globo.com/rio/bairros/operacao-corredor-presente-comeca-entre-os-tuneis-da-grota-funda-do-joa-24587460)

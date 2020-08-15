@@ -2,29 +2,28 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 03:15:43 UTC
+# indexed at 15/08/2020 03:34:53 UTC
 
 
 ## news.ycombinator.com
 
 
-* ['Canary in the coal mine': Greenland ice has shrunk beyond return, study finds](https://www.reuters.com/article/us-climate-change-arctic-idUSKCN25A2X3)
 * [Greenland Ice Sheet has melted to the point of no return](https://www.nature.com/articles/s43247-020-0001-2)
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
+* ['Canary in the coal mine': Greenland ice has shrunk beyond return, study finds](https://www.reuters.com/article/us-climate-change-arctic-idUSKCN25A2X3)
 * [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
 * [PyIDM – Python open source alternative to IDM](https://github.com/pyIDM/PyIDM)
+* [VC bias in viewing pitch decks can affect fundraising success](https://www.docsend.com/blog/how-vc-bias-in-viewing-pitch-decks-can-affect-fundraising-success/)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
-* [VC bias in viewing pitch decks can affect fundraising success](https://www.docsend.com/blog/how-vc-bias-in-viewing-pitch-decks-can-affect-fundraising-success/)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [Mozilla signs fresh Google search deal](https://www.theregister.com/2020/08/14/mozilla_google_search/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
-* [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
 * [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
 * [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
+* [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
 * [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
@@ -36,13 +35,14 @@ layout: default
 * [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
 * [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
 * [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
+* [How Apple is bullying small developers](https://twitter.com/SynMcJ/status/1294471641527799809)
 * [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
-* [The First Sentence Is a Handshake: William Gibson (2014)](https://www.theatlantic.com/entertainment/archive/2014/10/william-gibson-by-heart/382027/)
+* [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
 ## nytimes.com
 
 
 * [Postal Service Warns States It May Not Meet Mail-In Ballot Deadlines](https://www.nytimes.com/2020/08/14/us/politics/postal-service-mail-ballots.html)
-* [Debunking 3 Viral Falsehoods About Kamala Harris](https://www.nytimes.com/2020/08/14/technology/kamala-harris-falsehoods-debunking.html)
+* [Kamala Harris and Disinformation: Debunking 3 Viral Falsehoods](https://www.nytimes.com/2020/08/14/technology/kamala-harris-disinformation.html)
 * [John Durham Probe: Ex-FBI Lawyer Expected to Plead Guilty in Review of Russia Inquiry](https://www.nytimes.com/2020/08/14/us/politics/kevin-clinesmith-durham-investigation.html)
 * [Live Covid-19 Tracker and Updates](https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html)
 * [Retail Sales Rise for Third Month, Though Growth Slows](https://www.nytimes.com/2020/08/14/business/retail-sales-coronavirus.html)
@@ -77,11 +77,11 @@ layout: default
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [Vanessa Guillen Is Memorialized at Texas Service](https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html)
 * [Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda](https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [In Niger, an Architect Looking to the Country’s Design Traditions](https://www.nytimes.com/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
 * [Unicorn Floats and a Marriage Deflated](https://www.nytimes.com/2020/08/13/fashion/weddings/unicorn-floats-and-a-marriage-deflated.html)
 * [Pleasantly Bitter and Thoroughly Grown-Up, No Alcohol Needed](https://www.nytimes.com/2020/08/14/dining/nonalcoholic-bitter-cocktails.html)
@@ -91,18 +91,16 @@ layout: default
 * [Anxiety and Depression Rises Among Young Adults, Blacks and Latinos in Pandemic](https://www.nytimes.com/2020/08/13/health/Covid-mental-health-anxiety.html)
 * [Amazon Satellites Add to Astronomers’ Worries About the Night Sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [The Male Anglerfish’s Evolutionary Solution to Female Rejection](https://www.nytimes.com/2020/07/30/science/anglerfish-immune-rejection.html)
-* [President Trump Visits Younger Brother in Hospital in New York](https://www.nytimes.com/2020/08/14/us/politics/donald-trump-brother.html)
-* [Bankrupt Brooks Brothers Agrees to Sale to Simon Property and Authentic Brands](https://www.nytimes.com/2020/08/12/business/brooks-brothers-sale-authentic-brands.html)
-* [Trump visited his ailing brother in a Manhattan hospital.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/trump-visited-his-ailing-brother-in-a-manhattan-hospital)
-* [Astros Coach Alex Cintron Suspended 20 Games for Role in Fight](https://www.nytimes.com/2020/08/11/sports/baseball/alex-cintron-astros-suspended.html)
+* [Comfort Viewing: 3 Reasons I Love ‘Silent Witness’](https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html)
+* [Judge Agrees to Retire After Alzheimer’s Diagnosis](https://www.nytimes.com/2020/08/11/nyregion/shawndya-simpson-judge-alzheimers-resign.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Tiggo 8 é lançado no Brasil por preços a partir de R$ 156.900](https://oglobo.globo.com/economia/tiggo-8-lancado-no-brasil-por-precos-partir-de-156900-24588259)
 * [Mãe recupera guarda de filha tirada após ritual de candomblé](https://epoca.globo.com/mae-recupera-guarda-de-filha-tirada-apos-ritual-de-candomble-1-24588190)
-* [Everton, do São Paulo, entra na Justiça e cobra quase R$ 5 milhões do Flamengo](https://oglobo.globo.com/esportes/everton-do-sao-paulo-entra-na-justica-cobra-quase-5-milhoes-do-flamengo-24587604)
 * [Recuperado da Covid-19, Cícero treina e está à disposição de Autuori no Botafogo](https://oglobo.globo.com/esportes/recuperado-da-covid-19-cicero-treina-esta-disposicao-de-autuori-no-botafogo-24587654)
 * [Gilmar concede habeas corpus e mantém prisão domiciliar a Fabrício Queiroz e Márcia Aguiar](https://oglobo.globo.com/brasil/gilmar-concede-habeas-corpus-mantem-prisao-domiciliar-fabricio-queiroz-marcia-aguiar-1-24588072)
 * [Em encontro com MST, Gilmar Mendes diz que STF evitou mais mortes por coronavírus](https://oglobo.globo.com/brasil/em-encontro-com-mst-gilmar-mendes-diz-que-stf-evitou-mais-mortes-por-coronavirus-24587927)

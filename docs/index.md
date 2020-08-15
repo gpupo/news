@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 05:14:18 UTC
+# indexed at 15/08/2020 05:35:03 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
+* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
-* [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [Greenland ice has shrunk beyond return, study finds](https://www.reuters.com/article/us-climate-change-arctic-idUSKCN25A2X3)
-* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
+* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
+* [The Mozilla Manifesto](https://www.mozilla.org/is/about/manifesto/)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
-* [Charles Sanders Peirce and the first absolute measurement standard (2009)](https://physicstoday.scitation.org/doi/full/10.1063/1.3273015)
-* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
-* [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [The First Sentence Is a Handshake (2014)](https://www.theatlantic.com/entertainment/archive/2014/10/william-gibson-by-heart/382027/)
-* [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
-* [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
+* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
+* [Charles Sanders Peirce and the first absolute measurement standard (2009)](https://physicstoday.scitation.org/doi/full/10.1063/1.3273015)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
+* [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
+* [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
+* [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [Duality of Vector Spaces](https://solmaz.io/notes/duality-vector-spaces/)
 * [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
 * [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
 * [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
+* [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
-* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
-* [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 * [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
 * [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
-* [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
+* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
 * [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
-* [Sea of Nodes (2015)](https://darksi.de/d.sea-of-nodes/)
-* [Mozilla signs fresh Google search deal](https://www.theregister.com/2020/08/14/mozilla_google_search/)
+* [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 ## nytimes.com
 
 
@@ -76,9 +76,9 @@ layout: default
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [Vanessa Guillen Is Memorialized at Texas Service](https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html)
 * [Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda](https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [In Niger, an Architect Looking to the Country’s Design Traditions](https://www.nytimes.com/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
@@ -91,9 +91,9 @@ layout: default
 * [Amazon Satellites Add to Astronomers’ Worries About the Night Sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [The Male Anglerfish’s Evolutionary Solution to Female Rejection](https://www.nytimes.com/2020/07/30/science/anglerfish-immune-rejection.html)
 * [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
-* [Here’s the business news to watch this week.](https://www.nytimes.com/2020/08/10/business/heres-the-business-news-to-watch-this-week.html)
+* [Britain is paying the cost for a late and long lockdown.](https://www.nytimes.com/live/2020/08/12/business/stock-market-today-coronavirus/britain-is-paying-the-cost-for-a-late-and-long-lockdown)
 * [Trump visited his ailing brother in a Manhattan hospital.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/trump-visited-his-ailing-brother-in-a-manhattan-hospital)
-* [Marjorie Taylor Greene, a QAnon Supporter, Wins House Primary in Georgia](https://www.nytimes.com/2020/08/11/us/politics/marjorie-taylor-greene-qanon-georgia-primary.html)
+* [The Politics We Don’t See Matter as Much as Those We Do](https://www.nytimes.com/2020/08/12/opinion/census-politics-gerrymandering-redistricting.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 08:34:44 UTC
+# indexed at 15/08/2020 09:15:07 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
+* [Chernobyl Fungus Eats Nuclear Radiation via Radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
+* [I was building a new website – until the CEO of Ghost deleted it](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
 * [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
 * [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
 * [India announces plan to connect 600k villages with optical fiber in 1000 days](https://indianexpress.com/article/technology/tech-news-technology/independece-day-2020-speech-next-1000-days-6-lakh-villages-optical-fibre-pm-modi-6555511/)
-* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
+* [San Francisco will put ‘CEO tax’ on the ballot this November](https://www.mercurynews.com/2020/07/29/san-francisco-will-put-ceo-tax-on-the-ballot-this-november)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
+* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [Duality of Vector Spaces (2017)](https://solmaz.io/notes/duality-vector-spaces/)
-* [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
+* [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
+* [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
 * [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
-* [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
-* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
+* [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
 * [Brain Oriented Programming](https://tobeva.com/articles/brain-oriented-programming/)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
-* [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
-* [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
+* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
+* [Fury in Spain at US Plans to Produce ‘Iberian’ Ham in Texas and Georgia](https://www.theguardian.com/world/2020/aug/15/fury-in-spain-at-us-plans-to-produce-iberian-ham-in-texas-and-georgia)
 * [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
-* [The First Sentence Is a Handshake (2014)](https://www.theatlantic.com/entertainment/archive/2014/10/william-gibson-by-heart/382027/)
-* [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
+* [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
 * [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
+* [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
-* [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
-* [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
-* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
-* [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
+* [The First Sentence Is a Handshake (2014)](https://www.theatlantic.com/entertainment/archive/2014/10/william-gibson-by-heart/382027/)
 ## nytimes.com
 
 
@@ -75,11 +75,11 @@ layout: default
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [Vanessa Guillen Is Memorialized at Texas Service](https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html)
 * [Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda](https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [What Is It That Keeps Most Little Kids From Getting Covid-19?](https://www.nytimes.com/2020/07/20/parenting/coronavirus-children-spread-covid-19.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [In Niger, an Architect Looking to the Country’s Design Traditions](https://www.nytimes.com/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
 * [Unicorn Floats and a Marriage Deflated](https://www.nytimes.com/2020/08/13/fashion/weddings/unicorn-floats-and-a-marriage-deflated.html)
 * [Pleasantly Bitter and Thoroughly Grown-Up, No Alcohol Needed](https://www.nytimes.com/2020/08/14/dining/nonalcoholic-bitter-cocktails.html)
@@ -97,13 +97,13 @@ layout: default
 ## globo.com
 
 
+* [Eleitores do Nordeste e de baixa renda puxam aprovação de Bolsonaro](https://oglobo.globo.com/brasil/eleitores-do-nordeste-de-baixa-renda-puxam-aprovacao-de-bolsonaro-24588147)
+* [Pautas que criam gastos testam adesão da base do governo à agenda de Guedes](https://oglobo.globo.com/brasil/pautas-que-criam-gastos-testam-adesao-da-base-do-governo-agenda-de-guedes-24588110)
 * [Educação infantil segue sem previsão de retorno](https://oglobo.globo.com/rio/educacao-infantil-segue-sem-previsao-de-retorno-24588008)
 * [A marcha de Hopper: pinguim virtual leva crianças a viajar pelo mundo](https://oglobo.globo.com/boa-viagem/a-marcha-de-hopper-pinguim-virtual-leva-criancas-viajar-pelo-mundo-24583469)
-* [Em crise, empresas aéreas esperam socorro dos BNDES há cinco meses](https://oglobo.globo.com/economia/em-crise-empresas-aereas-esperam-socorro-dos-bndes-ha-cinco-meses-24588201)
-* [Seu Jorge faz seu show de David Bowie pela primeira vez no Brasil](https://oglobo.globo.com/cultura/seu-jorge-faz-seu-show-de-david-bowie-pela-primeira-vez-no-brasil-24584601)
 * [Martín Fernandez: Sem Messi e Cristiano Ronaldo, chegou a vez de Neymar?](https://oglobo.globo.com/esportes/martin-fernandez-sem-messi-cristiano-ronaldo-chegou-vez-de-neymar-1-24587963)
-* [Com ataque ao teto de gastos, investidor cobra mais para financiar dívida do governo](https://oglobo.globo.com/economia/com-ataque-ao-teto-de-gastos-investidor-cobra-mais-para-financiar-divida-do-governo-24588017)
-* [Gravidez de menina de 10 anos vítima de estupro no ES gera debate sobre aborto](https://oglobo.globo.com/sociedade/gravidez-de-menina-de-10-anos-vitima-de-estupro-no-es-gera-debate-sobre-aborto-1-24588022)
-* [Queda na arrecadação de ICMS pode gerar perda de R$ 47,2 bilhões a estados](https://oglobo.globo.com/economia/queda-na-arrecadacao-de-icms-pode-gerar-perda-de-472-bilhoes-estados-24587457)
-* [Alcione estreia turnê de novo disco com show transmitido pela internet](https://oglobo.globo.com/rioshow/alcione-estreia-turne-de-novo-disco-com-show-transmitido-pela-internet-24587334)
-* ['As mulheres com mais de 40 anos têm menos espaço no Brasil', diz Tania Khalill](https://oglobo.globo.com/ela/gente/as-mulheres-com-mais-de-40-anos-tem-menos-espaco-no-brasil-diz-tania-khalill-24586549)
+* [Bolsonaro tem razão](https://oglobo.globo.com/brasil/bolsonaro-tem-razao-24588142)
+* [Especialistas debatem direito ao aborto em caso de estupro: 'questão de saúde, não de Justiça'](https://oglobo.globo.com/celina/especialistas-debatem-direito-ao-aborto-em-caso-de-estupro-questao-de-saude-nao-de-justica-24587415)
+* [Auxílio emergencial absorveu 91% da fila do Bolsa Família](https://epoca.globo.com/guilherme-amado/auxilio-emergencial-absorveu-91-da-fila-do-bolsa-familia-24587436)
+* [Crítica: 'A arte de encarar o medo' propõe novas experiências de linguagem](https://oglobo.globo.com/rioshow/critica-arte-de-encarar-medo-propoe-novas-experiencias-de-linguagem-24586805)
+* ['A construção de um futuro melhor vem de uma perspectiva coletiva', analisa a mestranda em Educação Sharah Luciano](https://oglobo.globo.com/celina/a-construcao-de-um-futuro-melhor-vem-de-uma-perspectiva-coletiva-analisa-mestranda-em-educacao-sharah-luciano-24556737)

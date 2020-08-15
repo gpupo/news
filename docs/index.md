@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 04:16:20 UTC
+# indexed at 15/08/2020 04:35:06 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
+* [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
 * [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
+* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Greenland ice has shrunk beyond return, study finds](https://www.reuters.com/article/us-climate-change-arctic-idUSKCN25A2X3)
-* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
-* [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
+* [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
-* [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
-* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
 * [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
+* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
 * [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
+* [The First Sentence Is a Handshake (2014)](https://www.theatlantic.com/entertainment/archive/2014/10/william-gibson-by-heart/382027/)
+* [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
 * [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
-* [What's the future of Servo?](https://github.com/servo/servo/discussions/27575)
 * [Flexport is hiring employees all over the world](https://www.flexport.com/careers/department/engineering)
-* [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
-* [Sea of Nodes (2015)](https://darksi.de/d.sea-of-nodes/)
-* [The First Sentence Is a Handshake (2014)](https://www.theatlantic.com/entertainment/archive/2014/10/william-gibson-by-heart/382027/)
+* [Charles Sanders Peirce and the first absolute measurement standard (2009)](https://physicstoday.scitation.org/doi/full/10.1063/1.3273015)
 * [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
-* [Peter Thiel: The Education Bubble Is Becoming Dangerous](https://www.youtube.com/watch?v=crAHDXdBCXg)
+* [Sea of Nodes (2015)](https://darksi.de/d.sea-of-nodes/)
 * [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 * [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
-* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
+* [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
 * [Mozilla signs fresh Google search deal](https://www.theregister.com/2020/08/14/mozilla_google_search/)
+* [A bike shop should choose its customer wisely](https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [Vanessa Guillen Is Memorialized at Texas Service](https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html)
 * [Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda](https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-* [How a Couple Got Each Other Through Cancer](https://www.nytimes.com/2020/07/13/health/cancer-marriage-family-parenting.html)
-* [How to Save Seeds for Next Year's Garden](https://www.nytimes.com/2020/08/05/realestate/garden-vegetables-save-seeds-build-supply.html)
-* [Suggestions, Distractions and Diaries. Our Staff Is an Open Book.](https://www.nytimes.com/2020/07/23/at-home/newsletter.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [In Niger, an Architect Looking to the Country’s Design Traditions](https://www.nytimes.com/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
 * [Unicorn Floats and a Marriage Deflated](https://www.nytimes.com/2020/08/13/fashion/weddings/unicorn-floats-and-a-marriage-deflated.html)
 * [Pleasantly Bitter and Thoroughly Grown-Up, No Alcohol Needed](https://www.nytimes.com/2020/08/14/dining/nonalcoholic-bitter-cocktails.html)

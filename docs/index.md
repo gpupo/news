@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 13:14:19 UTC
+# indexed at 15/08/2020 13:34:59 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Fungus at Chernobyl absorbs nuclear radiation via radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
-* [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [Weaponizing disinformation can bring down a city’s power grid](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236517)
+* [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Ask HN: Is it legal for US companies to hire remote non-US contractors?](https://news.ycombinator.com/item?id=24168590)
 * [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
 * [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
-* [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
-* [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
 * [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
+* [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
 * [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
 * [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
+* [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
 * [India announces plan to connect 600k villages with optical fiber in 1000 days](https://indianexpress.com/article/technology/tech-news-technology/independece-day-2020-speech-next-1000-days-6-lakh-villages-optical-fibre-pm-modi-6555511/)
-* [If nearly 40% of Americans aren’t working, what are they doing?](https://qz.com/516023/if-nearly-40-of-americans-arent-working-what-are-they-doing/)
+* [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
+* [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
-* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
-* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
-* [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
+* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
+* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
+* [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
 * [What's Going On with Intel (by former employee)](https://twitter.com/chiakokhua/status/1291687789260451847)
-* [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
 * [Duality of Vector Spaces (2017)](https://solmaz.io/notes/duality-vector-spaces/)
+* [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
 * [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
-* [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
-* [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 ## nytimes.com
 
 
@@ -45,6 +45,7 @@ layout: default
 * [As Colleges Move Classes Online, Families Rebel Against the Cost](https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html)
 * [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/15/world/coronavirus-updates.html)
 * [USPS and Mail-In Ballots: States Warned It May Not Meet Deadlines](https://www.nytimes.com/2020/08/14/us/politics/usps-vote-mail.html)
+* [Trump Ads Attack Biden Through Deceptive Editing and Hyperbole](https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html)
 * [Kamala Harris Changes the Race While Trump Tells on Himself](https://www.nytimes.com/2020/08/15/us/politics/trump-biden-kamala.html)
 * [When Trump Calls a Black Woman ‘Angry,’ He Feeds This Racist Trope](https://www.nytimes.com/2020/08/14/arts/trump-black-women-stereotypes.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/14/briefing/11-of-our-best-weekend-reads.html)
@@ -72,11 +73,11 @@ layout: default
 * [China Tones Down 'Hotheaded' Nationalism as Relations With U.S. Sink](https://www.nytimes.com/2020/08/15/world/asia/china-us-nationalism.html)
 * [Bayern 8, Barcelona 2. The End.](https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html)
 * [Beirut’s Shiites Like the Idea of Change, but Like Hezbollah More](https://www.nytimes.com/2020/08/14/world/middleeast/lebanon-beirut-explosion-hezbollah-shiites.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -94,12 +95,12 @@ layout: default
 ## globo.com
 
 
+* [Adele revela não ter ideia de quando lançará seu próximo álbum](https://oglobo.globo.com/ela/gente/adele-revela-nao-ter-ideia-de-quando-lancara-seu-proximo-album-24588392)
 * [Kalou chega ao Rio e desembarca no Galeão com a bandeira do Botafogo](https://oglobo.globo.com/esportes/kalou-chega-ao-rio-desembarca-no-galeao-com-bandeira-do-botafogo-24588384)
 * [Datafolha: 47% acreditam que Bolsonaro não tem culpa pelas 100 mil mortes no Brasil](https://oglobo.globo.com/brasil/datafolha-47-acreditam-que-bolsonaro-nao-tem-culpa-pelas-100-mil-mortes-no-brasil-24588387)
 * [Trump ordena que a controladora chinesa da TikTok se desfaça de operações nos EUA](https://oglobo.globo.com/economia/trump-ordena-que-controladora-chinesa-da-tiktok-se-desfaca-de-operacoes-nos-eua-24588375)
 * [Princesa Anne faz 70 anos e ganha homenagem do Príncipe Charles em rede social](https://oglobo.globo.com/ela/gente/princesa-anne-faz-70-anos-ganha-homenagem-do-principe-charles-em-rede-social-24588350)
 * [Por que Gilmar Mendes mandou Queiroz de volta para a prisão domiciliar](https://epoca.globo.com/brasil/por-que-gilmar-mendes-mandou-queiroz-de-volta-para-prisao-domiciliar-24588336)
-* [Auxílio emergencial: o que está em jogo na decisão de prorrogar ou não benefício criado na pandemia](https://epoca.globo.com/brasil/auxilio-emergencial-que-esta-em-jogo-na-decisao-de-prorrogar-ou-nao-beneficio-criado-na-pandemia-24588333)
 * [Entenda se há riscos de o Flamengo perder mais atletas como Rafinha](https://oglobo.globo.com/esportes/entenda-se-ha-riscos-de-flamengo-perder-mais-atletas-como-rafinha-24587701)
 * [Grécia e Turquia reacendem disputa marítima e elevam tensões no Mediterrâneo](https://oglobo.globo.com/mundo/grecia-turquia-reacendem-disputa-maritima-elevam-tensoes-no-mediterraneo-24587349)
 * [Coluna | A Cinemateca é um problema de todos nós](https://epoca.globo.com/thiago-b-mendonca/coluna-a-cinemateca-um-problema-de-todos-nos-24586873)

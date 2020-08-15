@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 00:43:09 UTC
+# indexed at 15/08/2020 01:16:59 UTC
 
 
 ## news.ycombinator.com
@@ -15,43 +15,41 @@ layout: default
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 * [Stanford cancels plans to bring half of undergrads back to campus](https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [GPT-3 generated blog post reach #1 on Hacker News](https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/)
-* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
-* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
-* [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Global wave discovery ends 220-year search](https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/)
 * [Mozilla signs fresh Google search deal](https://www.theregister.com/2020/08/14/mozilla_google_search/)
+* [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
 * [Beta users of Starlink get downloads of 11 to 60 Mbps](https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/)
 * [Entropy explained, with sheep (2016)](https://aatishb.com/entropy/)
 * [Report: Most Americans have no real choice in internet providers](https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/)
 * [RethinkDB 2.4.1](https://rethinkdb.com/blog/2.4.1-release)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 * [Sea of Nodes (2015)](https://darksi.de/d.sea-of-nodes/)
-* [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
+* [Expiring vs. permanent skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [German digital bank N26 is facing outcry from its staff over management](https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html)
 * [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
-* [Expiring vs. permanent skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills)
 * [Hubble finds that Betelgeuse's dimming is likely due to ejection of gases](https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html)
 * [Colorize Old Photos with DeOldify](https://www.gradio.app/hub/hub-deoldify)
 * [Sigil – A free, open-source, multi-platform eBook editor](https://github.com/Sigil-Ebook/Sigil)
+* [How Taiwan’s Digital Minister solved a mask supply problem](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 * [Redefining what sustainable fishing means](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means)
-* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
-* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [How to tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
+* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
+* [Supercapacitors from Standard Bricks](https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/)
 ## nytimes.com
 
 
 * [Postal Service Warns States It May Not Meet Mail-In Ballot Deadlines](https://www.nytimes.com/2020/08/14/us/politics/postal-service-mail-ballots.html)
-* [New Jersey Will Hold Mail-in Election in November, Over Trump’s Objections](https://www.nytimes.com/2020/08/14/nyregion/nj-vote-by-mail-election.html)
 * [Debunking 3 Viral Falsehoods About Kamala Harris](https://www.nytimes.com/2020/08/14/technology/kamala-harris-falsehoods-debunking.html)
+* [Ex-F.B.I. Lawyer Expected to Plead Guilty in Review of Russia Inquiry](https://www.nytimes.com/2020/08/14/us/politics/kevin-clinesmith-durham-investigation.html)
 * [Coronavirus Live Updates: Firm Helping Run Federal Database Refuses Senators’ Questions](https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html)
 * [Retail Sales Rise for Third Month, Though Growth Slows](https://www.nytimes.com/2020/08/14/business/retail-sales-coronavirus.html)
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
+* [When Trump Calls a Black Woman ‘Angry,’ He Feeds This Racist Trope](https://www.nytimes.com/2020/08/14/arts/trump-black-women-stereotypes.html)
 * [In Diplomatic Doubleheader, U.S. Seizes Iranian Fuel From Ships Headed to Venezuela](https://www.nytimes.com/2020/08/14/world/middleeast/trump-iran-venezuela-fuel-tankers.html)
 * [U.N. Security Council Rejects U.S. Proposal to Extend Arms Embargo on Iran](https://www.nytimes.com/2020/08/14/world/middleeast/UN-Iran-embargo.html)
-* [Ex-F.B.I. Lawyer Expected to Plead Guilty in Review of Russia Inquiry](https://www.nytimes.com/2020/08/14/us/politics/kevin-clinesmith-durham-investigation.html)
-* [Oracle Pay Bias Case: Trump’s Labor Chief Accused of Intervening](https://www.nytimes.com/2020/08/13/business/economy/oracle-settlement-scalia.html)
-* [Top Homeland Security Officials Are Serving Illegally, G.A.O. Says](https://www.nytimes.com/2020/08/14/us/politics/homeland-security-illegal-gao.html)
 * [How the World’s Largest Garbage Dump in Staten Island Became a Green Oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
 * [Postal Service, Greece, Summer Cocktails: Your Friday Evening Briefing](https://www.nytimes.com/2020/08/14/briefing/postal-service-greece-summer-cocktails.html)
 * [Protesting Her Own Employer](https://www.nytimes.com/2020/08/14/podcasts/the-daily/protest-adidas-strike.html)
@@ -79,10 +77,10 @@ layout: default
 * [Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 * [How Apple’s 30% App Store Cut Became a Boon and a Headache](https://www.nytimes.com/2020/08/14/technology/apple-app-store-epic-games-fortnite.html)
 * [Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda](https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [In Niger, an Architect Looking to the Country’s Design Traditions](https://www.nytimes.com/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
 * [Unicorn Floats and a Marriage Deflated](https://www.nytimes.com/2020/08/13/fashion/weddings/unicorn-floats-and-a-marriage-deflated.html)
@@ -101,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Justiça nega pedido de habeas corpus ao empresário Mario Peixoto](https://oglobo.globo.com/rio/justica-nega-pedido-de-habeas-corpus-ao-empresario-mario-peixoto-24587698)
+* [Em encontro com MST, Gilmar Mendes diz que STF evitou mais mortes por coronavírus](https://oglobo.globo.com/brasil/em-encontro-com-mst-gilmar-mendes-diz-que-stf-evitou-mais-mortes-por-coronavirus-24587927)
 * [Everton, do São Paulo, entra na Justiça e cobra quase R$ 5 milhões do Flamengo](https://oglobo.globo.com/esportes/everton-do-sao-paulo-entra-na-justica-cobra-quase-5-milhoes-do-flamengo-24587604)
 * [Derretimento das camadas de gelo da Groenlândia já é irreversível, indica estudo](https://oglobo.globo.com/sociedade/derretimento-das-camadas-de-gelo-da-groenlandia-ja-irreversivel-indica-estudo-24587720)
-* [Justiça nega pedido de habeas corpus ao empresário Mario Peixoto](https://oglobo.globo.com/rio/justica-nega-pedido-de-habeas-corpus-ao-empresario-mario-peixoto-24587698)
 * [Brasil ultrapassa 106 mil mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-106-mil-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24587497)
 * [Indicador ainda não sugere abertura de cinemas e teatros, e fase 6 pode ser adiada](https://oglobo.globo.com/rio/indicador-ainda-nao-sugere-abertura-de-cinemas-teatros-fase-6-pode-ser-adiada-24587314)
 * [Em derrota para os EUA, Conselho de Segurança da ONU rejeita extensão do embargo de armas ao Irã](https://oglobo.globo.com/mundo/em-derrota-para-os-eua-conselho-de-seguranca-da-onu-rejeita-extensao-do-embargo-de-armas-ao-ira-24587487)
 * [Recuperado da Covid-19, Cícero treina e está à disposição de Autuori no Botafogo](https://oglobo.globo.com/esportes/recuperado-da-covid-19-cicero-treina-esta-disposicao-de-autuori-no-botafogo-24587654)
 * [Operação Corredor Presente começa entre os túneis da Grota Funda e do Joá](https://oglobo.globo.com/rio/bairros/operacao-corredor-presente-comeca-entre-os-tuneis-da-grota-funda-do-joa-24587460)
-* [Pontos turísticos do Rio ganham iluminação especial para reabertura e oferecem descontos a moradores](https://oglobo.globo.com/rio/pontos-turisticos-do-rio-ganham-iluminacao-especial-para-reabertura-oferecem-descontos-moradores-24587499)
 * [Viúva de Jorge Luis Borges critica novo livro sobre argentino: 'Escatológico. Horrível'](https://oglobo.globo.com/cultura/viuva-de-jorge-luis-borges-critica-novo-livro-sobre-argentino-escatologico-horrivel-24586500)

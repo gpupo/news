@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 19:14:39 UTC
+# indexed at 15/08/2020 19:35:48 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
 * [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
+* [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
 * [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
+* [Dashboard for tracking insider trading at S&P 500 companies](https://www.quiverquant.com/sources/insidertrading?hn=2)
 * [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
-* [California Issues First Rolling Blackouts Since 2001](https://www.npr.org/2020/08/15/902781690/california-issues-first-rolling-blackouts-since-2001-as-heat-wave-bakes-western-)
-* [Paul Rand's Next Logo](https://www.logodesignlove.com/next-logo-paul-rand)
-* [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
-* [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
-* [Computerphile: From Algol 60 to Pascal [video]](https://www.youtube.com/watch?v=SVYBJlCmRxE)
 * [People slept on comfy grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
+* [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
+* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
 * [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
 * [Ordeal by Title IX](https://quillette.com/2020/08/13/ordeal-by-title-ix/)
+* [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
+* [Computerphile: From Algol 60 to Pascal [video]](https://www.youtube.com/watch?v=SVYBJlCmRxE)
 * [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
 * [Instagram faces $500B in fines alleging it harvested biometric data](https://www.businessinsider.com/instagram-facing-500-billion-in-fines-in-facial-recognition-lawsuit-2020-8)
-* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
 * [Ask HN: Anyone a social entrepreneur, i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
-* [MIT: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
-* [Psychedelic drugs reduce depressive symptoms by helping people accept emotions](https://www.psypost.org/2020/08/psychedelic-drugs-reduce-depressive-symptoms-by-helping-individuals-to-accept-of-their-emotions-study-suggests-57654)
-* [Adding a metre between meals boosts vegetarian appeal – study](https://www.cam.ac.uk/research/news/adding-a-metre-between-meals-boosts-vegetarian-appeal-study)
-* [Bringing Tensor Cores to Standard Fortran](https://developer.nvidia.com/blog/bringing-tensor-cores-to-standard-fortran/)
-* [Fungus at Chernobyl absorbs nuclear radiation via radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
 * [BespokeSynth: Software Modular Synth](https://github.com/awwbees/BespokeSynth)
-* [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
+* [Bringing Tensor Cores to Standard Fortran](https://developer.nvidia.com/blog/bringing-tensor-cores-to-standard-fortran/)
+* [MIT: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
+* [The Brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
+* [Psychedelic drugs reduce depressive symptoms by helping people accept emotions](https://www.psypost.org/2020/08/psychedelic-drugs-reduce-depressive-symptoms-by-helping-individuals-to-accept-of-their-emotions-study-suggests-57654)
+* [Fungus at Chernobyl absorbs nuclear radiation via radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
 * [Intel Xe-LP GPU Architecture Deep Dive](https://www.anandtech.com/show/15973/the-intel-xelp-gpu-architecture-deep-dive-building-up-from-the-bottom)
+* [Adding a metre between meals boosts vegetarian appeal – study](https://www.cam.ac.uk/research/news/adding-a-metre-between-meals-boosts-vegetarian-appeal-study)
 * [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
+* [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
 * [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
-* [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [A Bitter Wind at a Shaky Time, and Iowa Is Left Reeling](https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html)
 * [America’s Retirement Race Gap, and Ideas for Closing It](https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html)
 * [Bayern 8, Barcelona 2. The End.](https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
+* [Em delação, ex-secretário de Saúde Edmar Santos diz ter sido ameaçado na prisão](https://oglobo.globo.com/rio/em-delacao-ex-secretario-de-saude-edmar-santos-diz-ter-sido-ameacado-na-prisao-24588797)
+* [Chegada de frente fria traz chuva para o Rio neste domingo](https://oglobo.globo.com/rio/chegada-de-frente-fria-traz-chuva-para-rio-neste-domingo-1-24588798)
 * [Grupo de índios isolados faz contato em aldeia do Acre em meio à pandemia da Covid-19](https://oglobo.globo.com/sociedade/grupo-de-indios-isolados-faz-contato-em-aldeia-do-acre-em-meio-pandemia-da-covid-19-24588573)
-* [Reabertura do Cristo Redentor é marcada por atrasos na liberação de turistas](https://oglobo.globo.com/rio/reabertura-do-cristo-redentor-marcada-por-atrasos-na-liberacao-de-turistas-1-24588513)
+* [Justiça de Angola apreende templos da Igreja Universal, acusada de fraude no país](https://oglobo.globo.com/sociedade/justica-de-angola-apreende-templos-da-igreja-universal-acusada-de-fraude-no-pais-24588712)
 * [Aos 55 anos, Elizabeth Hurley publica foto de biquíni e ganha elogio de seguidores](https://oglobo.globo.com/ela/gente/aos-55-anos-elizabeth-hurley-publica-foto-de-biquini-ganha-elogio-de-seguidores-1-24588684)
-* [Rússia anuncia produção de primeiro lote de sua vacina para Covid-19](https://oglobo.globo.com/sociedade/russia-anuncia-producao-de-primeiro-lote-de-sua-vacina-para-covid-19-1-24588442)
 * [TIM devolverá R$ 4 milhões a consumidores por cobranças indevidas](https://oglobo.globo.com/economia/defesa-do-consumidor/tim-devolvera-4-milhoes-consumidores-por-cobrancas-indevidas-24588715)
 * [Acuado por protestos e greves, líder da Bielorrússia apela a Putin](https://oglobo.globo.com/mundo/acuado-por-protestos-greves-lider-da-bielorrussia-apela-putin-24588718)
 * [Romero Britto se manifesta após vídeo de 2017 viralizar: 'A internet é injusta. Não admito desrespeito’](https://oglobo.globo.com/cultura/romero-britto-se-manifesta-apos-video-de-2017-viralizar-internet-injusta-nao-admito-desrespeito-24588598)
 * [Com medo de segunda onda, países da Europa voltam a adotar medidas contra a pandemia](https://oglobo.globo.com/mundo/com-medo-de-segunda-onda-paises-da-europa-voltam-adotar-medidas-contra-pandemia-24588529)
 * [Em sua apresentação, Kalou disse que quer encerrar a carreira no Botafogo](https://oglobo.globo.com/esportes/em-sua-apresentacao-kalou-disse-que-quer-encerrar-carreira-no-botafogo-24588506)
-* [Picciani continua a pleno vapor na articulação](https://epoca.globo.com/guilherme-amado/picciani-continua-pleno-vapor-na-articulacao-1-24587491)

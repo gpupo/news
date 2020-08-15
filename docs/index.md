@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 12:19:16 UTC
+# indexed at 15/08/2020 12:34:58 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
+* [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
 * [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
 * [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
 * [India announces plan to connect 600k villages with optical fiber in 1000 days](https://indianexpress.com/article/technology/tech-news-technology/independece-day-2020-speech-next-1000-days-6-lakh-villages-optical-fibre-pm-modi-6555511/)
-* [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
 * [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
 * [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
+* [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
 * [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
 * [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
-* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
+* [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
 * [Brain Oriented Programming](https://tobeva.com/articles/brain-oriented-programming/)
+* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [Duality of Vector Spaces (2017)](https://solmaz.io/notes/duality-vector-spaces/)
 * [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
-* [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
 * [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 * [What's Going On with Intel (by former employee)](https://twitter.com/chiakokhua/status/1291687789260451847)
-* [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
 * [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 ## nytimes.com
 
@@ -70,11 +70,11 @@ layout: default
 * [Trump Is Not Entitled to Details of Tax Returns Inquiry, D.A. Says](https://www.nytimes.com/2020/08/14/nyregion/donald-trump-taxes-cyrus-vance.html)
 * [‘The Fish Rots From the Head’: How a Salmon Crisis Stoked Russian Protests](https://www.nytimes.com/2020/08/15/world/europe/Khabarovsk-Russia-Amur-protests-salmon.html)
 * [China Tones Down 'Hotheaded' Nationalism as Relations With U.S. Sink](https://www.nytimes.com/2020/08/15/world/asia/china-us-nationalism.html)
-* [Kamala Harris and Disinformation: Debunking 3 Viral Falsehoods](https://www.nytimes.com/2020/08/14/technology/kamala-harris-disinformation.html)
+* [Bayern 8, Barcelona 2. The End.](https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html)
 * [Beirut’s Shiites Like the Idea of Change, but Like Hezbollah More](https://www.nytimes.com/2020/08/14/world/middleeast/lebanon-beirut-explosion-hezbollah-shiites.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
@@ -86,19 +86,21 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [Comfort Viewing: 3 Reasons I Love ‘Silent Witness’](https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html)
-* [What to Cook This Weekend](https://www.nytimes.com/2020/08/14/dining/what-to-cook-this-weekend.html)
+* [Stephen Hahn, F.D.A. Chief, Is Caught Between Scientists and the President](https://www.nytimes.com/2020/08/10/health/stephen-hahn-fda.html)
+* [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
+* [‘Fat Talks,’ an Investigation, and a Reckoning: How Collegiate Runners Forced Reform](https://www.nytimes.com/2020/08/12/sports/women-track-athletes-coaches-abuse.html)
+* [P.S.G. Breaks Its Glass Ceiling. Now Comes the Hardest Part.](https://www.nytimes.com/2020/08/12/sports/soccer/psg-atalanta-champions-league.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Trump ordena que a controladora chinesa da TikTok se desfaça de operações nos EUA](https://oglobo.globo.com/economia/trump-ordena-que-controladora-chinesa-da-tiktok-se-desfaca-de-operacoes-nos-eua-24588375)
 * [Princesa Anne faz 70 anos e ganha homenagem do Príncipe Charles em rede social](https://oglobo.globo.com/ela/gente/princesa-anne-faz-70-anos-ganha-homenagem-do-principe-charles-em-rede-social-24588350)
 * [Por que Gilmar Mendes mandou Queiroz de volta para a prisão domiciliar](https://epoca.globo.com/brasil/por-que-gilmar-mendes-mandou-queiroz-de-volta-para-prisao-domiciliar-24588336)
 * [Auxílio emergencial: o que está em jogo na decisão de prorrogar ou não benefício criado na pandemia](https://epoca.globo.com/brasil/auxilio-emergencial-que-esta-em-jogo-na-decisao-de-prorrogar-ou-nao-beneficio-criado-na-pandemia-24588333)
 * [Grécia e Turquia reacendem disputa marítima e elevam tensões no Mediterrâneo](https://oglobo.globo.com/mundo/grecia-turquia-reacendem-disputa-maritima-elevam-tensoes-no-mediterraneo-24587349)
-* [Procura por testamentos cresce e atrai público de meia-idade durante a pandemia](https://epoca.globo.com/brasil/procura-por-testamentos-cresce-atrai-publico-de-meia-idade-durante-pandemia-24586317)
 * [Em Petrópolis, Rua Teresa usa a tecnologia na luta contra a queda de arrecadação](https://oglobo.globo.com/rio/bairros/em-petropolis-rua-teresa-usa-tecnologia-na-luta-contra-queda-de-arrecadacao-24586249)
 * ['Não é fácil ser negra no Brasil', desabafa manicure com mais de um milhão de seguidores na internet](https://oglobo.globo.com/rio/bairros/nao-facil-ser-negra-no-brasil-desabafa-manicure-com-mais-de-um-milhao-de-seguidores-na-internet-1-24582446)
 * [Aluno de Olavo de Carvalho é nomeado para coordenar apoio a quilombo na Fundação Palmares](https://epoca.globo.com/guilherme-amado/aluno-de-olavo-de-carvalho-nomeado-para-coordenar-apoio-quilombo-na-fundacao-palmares-24587221)

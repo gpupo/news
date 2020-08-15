@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 10:15:34 UTC
+# indexed at 15/08/2020 10:34:51 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Fungus at Chernobyl absorbs nuclear radiation via radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
-* [San Francisco will put ‘CEO tax’ on the ballot this November](https://www.mercurynews.com/2020/07/29/san-francisco-will-put-ceo-tax-on-the-ballot-this-november)
 * [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [India announces plan to connect 600k villages with optical fiber in 1000 days](https://indianexpress.com/article/technology/tech-news-technology/independece-day-2020-speech-next-1000-days-6-lakh-villages-optical-fibre-pm-modi-6555511/)
 * [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
-* [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
 * [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
+* [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
-* [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
-* [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
-* [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [It’s strange what people put up with in C#](https://gist.github.com/dsyme/32de0d1bb0799ca438477c34205c3531)
+* [Factorio 1.0](https://factorio.com/blog/post/fff-360)
+* [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
+* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
 * [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
-* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Duality of Vector Spaces (2017)](https://solmaz.io/notes/duality-vector-spaces/)
+* [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 * [Brain Oriented Programming](https://tobeva.com/articles/brain-oriented-programming/)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
-* [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
-* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
+* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
+* [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 * [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
-* [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
+* [What's Going On with Intel (by former employee)](https://twitter.com/chiakokhua/status/1291687789260451847)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
 * [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
-* [Benign data races considered harmful](https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/)
+* [What programmers need to know about encodings and charsets (2011)](https://kunststube.net/encoding/)
 ## nytimes.com
 
 
@@ -72,11 +72,11 @@ layout: default
 * [China Tones Down 'Hotheaded' Nationalism as Relations With U.S. Sink](https://www.nytimes.com/2020/08/15/world/asia/china-us-nationalism.html)
 * [Kamala Harris and Disinformation: Debunking 3 Viral Falsehoods](https://www.nytimes.com/2020/08/14/technology/kamala-harris-disinformation.html)
 * [Beirut’s Shiites Like the Idea of Change, but Like Hezbollah More](https://www.nytimes.com/2020/08/14/world/middleeast/lebanon-beirut-explosion-hezbollah-shiites.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -86,10 +86,8 @@ layout: default
 * [Anxiety and Depression Rises Among Young Adults, Blacks and Latinos in Pandemic](https://www.nytimes.com/2020/08/13/health/Covid-mental-health-anxiety.html)
 * [Amazon Satellites Add to Astronomers’ Worries About the Night Sky](https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html)
 * [The Male Anglerfish’s Evolutionary Solution to Female Rejection](https://www.nytimes.com/2020/07/30/science/anglerfish-immune-rejection.html)
+* [Stay Entertained At Home with Bach, Beowulf and a  Bee Aficionado](https://www.nytimes.com/2020/08/15/at-home/coronavirus-things-to-do-this-week.html)
 * [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
-* [Players to UConn Coach: ‘There’s No Way That We Can Play’](https://www.nytimes.com/2020/08/09/sports/ncaafootball/coronavirus-college-football.html)
-* [Governors Say Trump’s Order on Pandemic Relief Could Wreck State Budgets](https://www.nytimes.com/2020/08/10/us/politics/virus-stimulus-congress-trump.html)
-* [Carmelo Anthony Calls Push for Social Justice a ‘Lifelong Fight’](https://www.nytimes.com/2020/08/11/sports/basketball/nba-carmelo-anthony.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -102,7 +100,7 @@ layout: default
 * [Ministério da Saúde justifica recomendação para uso de redes sociais porque ‘servidor é pessoa pública’](https://epoca.globo.com/guilherme-amado/ministerio-da-saude-justifica-recomendacao-para-uso-de-redes-sociais-porque-servidor-pessoa-publica-24587472)
 * [Em Petrópolis, Rua Teresa usa a tecnologia na luta contra a queda de arrecadação](https://oglobo.globo.com/rio/bairros/em-petropolis-rua-teresa-usa-tecnologia-na-luta-contra-queda-de-arrecadacao-24586249)
 * ['Não é fácil ser negra no Brasil', desabafa manicure com mais de um milhão de seguidores na internet](https://oglobo.globo.com/rio/bairros/nao-facil-ser-negra-no-brasil-desabafa-manicure-com-mais-de-um-milhao-de-seguidores-na-internet-1-24582446)
+* [Aluno de Olavo de Carvalho é nomeado para coordenar apoio a quilombo na Fundação Palmares](https://epoca.globo.com/guilherme-amado/aluno-de-olavo-de-carvalho-nomeado-para-coordenar-apoio-quilombo-na-fundacao-palmares-24587221)
 * [Trilha do Costão de Itacoatiara é liberada neste sábado, mas com controle para evitar aglomeração](https://oglobo.globo.com/rio/bairros/trilha-do-costao-de-itacoatiara-liberada-neste-sabado-mas-com-controle-para-evitar-aglomeracao-24586838)
-* [Número de pousos e decolagens em Congonhas cai pela metade no primeiro semestre](https://epoca.globo.com/guilherme-amado/numero-de-pousos-decolagens-em-congonhas-cai-pela-metade-no-primeiro-semestre-24586847)
 * [Número de mortes causadas por Covid-19 cai pela terceira semana seguida em Niterói](https://oglobo.globo.com/rio/bairros/numero-de-mortes-causadas-por-covid-19-cai-pela-terceira-semana-seguida-em-niteroi-24586797)
 * [Companhia de dança realiza lives e faz campanha para arrecadar doações](https://oglobo.globo.com/rio/bairros/companhia-de-danca-realiza-lives-faz-campanha-para-arrecadar-doacoes-1-24569364)

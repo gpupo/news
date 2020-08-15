@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 18:16:32 UTC
+# indexed at 15/08/2020 18:34:47 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Kosmonaut: Web Browser from Scratch in Rust](https://github.com/twilco/kosmonaut)
+* [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
+* [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
 * [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
 * [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
 * [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
 * [Computerphile: From Algol 60 to Pascal [video]](https://www.youtube.com/watch?v=SVYBJlCmRxE)
-* [Way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
 * [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
 * [Instagram faces $500B in fines alleging it harvested biometric data](https://www.businessinsider.com/instagram-facing-500-billion-in-fines-in-facial-recognition-lawsuit-2020-8)
-* [Ask HN: Anyone a social entrepreneur i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
+* [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
+* [Ask HN: Anyone a social entrepreneur, i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
 * [MIT: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
-* [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+* [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
 * [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
 * [Psychedelic drugs reduce depressive symptoms by helping people accept emotions](https://www.psypost.org/2020/08/psychedelic-drugs-reduce-depressive-symptoms-by-helping-individuals-to-accept-of-their-emotions-study-suggests-57654)
+* [Bringing Tensor Cores to Standard Fortran](https://developer.nvidia.com/blog/bringing-tensor-cores-to-standard-fortran/)
 * [Fungus at Chernobyl absorbs nuclear radiation via radiosynthesis](https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464)
 * [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
+* [Intel Xe-LP GPU Architecture Deep Dive](https://www.anandtech.com/show/15973/the-intel-xelp-gpu-architecture-deep-dive-building-up-from-the-bottom)
 * [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
 * [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 * [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
+* [Adding a metre between meals boosts vegetarian appeal – study](https://www.cam.ac.uk/research/news/adding-a-metre-between-meals-boosts-vegetarian-appeal-study)
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
 * [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
-* [Adding a metre between meals boosts vegetarian appeal – study](https://www.cam.ac.uk/research/news/adding-a-metre-between-meals-boosts-vegetarian-appeal-study)
-* [Intel Xe-LP GPU Architecture Deep Dive](https://www.anandtech.com/show/15973/the-intel-xelp-gpu-architecture-deep-dive-building-up-from-the-bottom)
+* [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
 * [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
 * [A brief introduction to definite clause grammars (2004)](http://cmsmcq.com/2004/lgintro.html)
-* [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
-* [Brain Oriented Programming](https://tobeva.com/articles/brain-oriented-programming/)
-* [Can modern software be snappy? (2008)](https://blog.brush.co.nz/2008/06/snappy-software/)
-* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 ## nytimes.com
 
 
@@ -77,10 +77,10 @@ layout: default
 * [America’s Retirement Race Gap, and Ideas for Closing It](https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html)
 * [Bayern 8, Barcelona 2. The End.](https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -90,16 +90,22 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [When Lamb Chops Met Romaine](https://www.nytimes.com/2020/08/14/dining/grilled-lamb-chops-recipe.html)
-* [Comfort Viewing: 3 Reasons I Love ‘Silent Witness’](https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html)
-* [This Is Where I Stand](https://www.nytimes.com/2020/08/13/opinion/conservative-radicals.html)
+* [The Trump campaign spent millions to make sure you see its ads next week.](https://www.nytimes.com/live/2020/08/15/us/biden-vs-trump-election/the-trump-campaign-spent-millions-to-make-sure-you-see-its-ads-next-week)
+* [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
+* [Porsha in Protest](https://www.nytimes.com/2020/08/10/style/porsha-williams-real-housewives-atlanta.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Reabertura do Cristo Redentor é marcada por atrasos na liberação de turistas](https://oglobo.globo.com/rio/reabertura-do-cristo-redentor-marcada-por-atrasos-na-liberacao-de-turistas-1-24588513)
+* [Aos 55 anos, Elizabeth Hurley publica foto de biquíni e ganha elogio de seguidores](https://oglobo.globo.com/ela/gente/aos-55-anos-elizabeth-hurley-publica-foto-de-biquini-ganha-elogio-de-seguidores-24588684)
 * [Grupo de índios isolados faz contato em aldeia do Acre em meio à pandemia da Covid-19](https://oglobo.globo.com/sociedade/grupo-de-indios-isolados-faz-contato-em-aldeia-do-acre-em-meio-pandemia-da-covid-19-24588573)
+* [Reabertura do Cristo Redentor é marcada por atrasos na liberação de turistas](https://oglobo.globo.com/rio/reabertura-do-cristo-redentor-marcada-por-atrasos-na-liberacao-de-turistas-1-24588513)
 * [Romero Britto se manifesta após vídeo de 2017 viralizar: 'A internet é injusta. Não admito desrespeito’](https://oglobo.globo.com/cultura/romero-britto-se-manifesta-apos-video-de-2017-viralizar-internet-injusta-nao-admito-desrespeito-24588598)
 * [Com medo de segunda onda, países da Europa voltam a adotar medidas contra a pandemia](https://oglobo.globo.com/mundo/com-medo-de-segunda-onda-paises-da-europa-voltam-adotar-medidas-contra-pandemia-24588529)
+* [Em sua apresentação, Kalou disse que quer encerrar a carreira no Botafogo](https://oglobo.globo.com/esportes/em-sua-apresentacao-kalou-disse-que-quer-encerrar-carreira-no-botafogo-24588506)
+* [Rússia anuncia produção de primeiro lote de sua vacina para Covid-19](https://oglobo.globo.com/sociedade/russia-anuncia-producao-de-primeiro-lote-de-sua-vacina-para-covid-19-24588442)
+* [Top Izabel Goulart publica cliques paradisíacos em Mykonos](https://oglobo.globo.com/ela/gente/top-izabel-goulart-publica-cliques-paradisiacos-em-mykonos-24588425)
+* [Lewis Hamilton domina classificação e crava sua 92ª pole no GP da Espanha](https://oglobo.globo.com/esportes/lewis-hamilton-domina-classificacao-crava-sua-92-pole-no-gp-da-espanha-24588396)
+* [Picciani continua a pleno vapor na articulação](https://epoca.globo.com/guilherme-amado/picciani-continua-pleno-vapor-na-articulacao-1-24587491)

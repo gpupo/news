@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 21:14:46 UTC
+# indexed at 15/08/2020 21:35:00 UTC
 
 
 ## news.ycombinator.com
@@ -12,31 +12,31 @@ layout: default
 * [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
 * [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
 * [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
-* [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
+* [Picking Locks with Audio Technology](https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext)
+* [Ethan Zuckerman: To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
 * [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
+* [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
 * [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
 * [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
-* [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
+* [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb#minifb)
 * [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
 * [The Brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
+* [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
+* [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
 * [AdoptOpenJDK 8u265 Available](https://blog.adoptopenjdk.net/2020/07/adoptopenjdk-8u265-available/)
 * [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
-* [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
-* [Ethan Zuckerman: To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
 * [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
-* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [Computerphile: From Algol 60 to Pascal [video]](https://www.youtube.com/watch?v=SVYBJlCmRxE)
 * [I’ll Admit It. I’m a Jealous Developer](https://medium.com/@dangoslen/ill-admit-it-i-m-a-jealous-developer-4c526f0e0abb)
 * [Instagram faces $500B in fines alleging it harvested biometric data](https://www.businessinsider.com/instagram-facing-500-billion-in-fines-in-facial-recognition-lawsuit-2020-8)
 * [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [Ask HN: Anyone a social entrepreneur, i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
-* [Bringing Tensor Cores to Standard Fortran](https://developer.nvidia.com/blog/bringing-tensor-cores-to-standard-fortran/)
-* [Dashboard for tracking insider trading at S&P 500 companies](https://www.quiverquant.com/sources/insidertrading?hn=2)
-* [Study: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
+* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [California issues first rolling blackouts since 2001](https://www.npr.org/2020/08/15/902781690/california-issues-first-rolling-blackouts-since-2001-as-heat-wave-bakes-western-)
-* [Study rewrites the recent history of productive Cascade Arc volcanoes](https://phys.org/news/2020-08-rewrites-history-productive-cascade-arc.html)
-* [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
+* [Ask HN: Anyone a social entrepreneur, i.e. placing social impact above profit?](https://news.ycombinator.com/item?id=24168902)
+* [Study: Cheap gas, not renewables, caused nuclear woes (2018)](https://www.utilitydive.com/news/mit-cheap-gas-not-renewables-caused-nuclear-woes/514310/)
+* [Bringing Tensor Cores to Standard Fortran](https://developer.nvidia.com/blog/bringing-tensor-cores-to-standard-fortran/)
 * [It’s strange what people put up with in C#](https://gist.github.com/dsyme/32de0d1bb0799ca438477c34205c3531)
+* [Dashboard for tracking insider trading at S&P 500 companies](https://www.quiverquant.com/sources/insidertrading?hn=2)
 * [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 ## nytimes.com
 
@@ -77,11 +77,11 @@ layout: default
 * [A Bitter Wind at a Shaky Time, and Iowa Is Left Reeling](https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html)
 * [America’s Retirement Race Gap, and Ideas for Closing It](https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html)
 * [Bald Eagle Sends Government Drone Into Lake Michigan](https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Tornados e temporais derrubam caminhões e causam destruição em Santa Catarina](https://oglobo.globo.com/brasil/tornados-temporais-derrubam-caminhoes-causam-destruicao-em-santa-catarina-24588876)
+* [Amanhecer dourado em Copacana anunciava dia de aglomerações em praias da Zona Sul](https://oglobo.globo.com/rio/amanhecer-dourado-em-copacana-anunciava-dia-de-aglomeracoes-em-praias-da-zona-sul-24588939)
+* [Defesa de Wilson Witzel questiona escolha de procuradora para opinar sobre impeachment](https://oglobo.globo.com/rio/defesa-de-wilson-witzel-questiona-escolha-de-procuradora-para-opinar-sobre-impeachment-24588950)
 * [Diego não cria empecilho ao Flamengo e renovação deve sair rápido](https://oglobo.globo.com/esportes/diego-nao-cria-empecilho-ao-flamengo-renovacao-deve-sair-rapido-24588893)
 * [Champions: Lyon supera favoritismo do City de Guardiola e está na semifinal](https://oglobo.globo.com/esportes/champions-lyon-supera-favoritismo-do-city-de-guardiola-esta-na-semifinal-24588932)
-* [Amanhecer dourado em Copacana anunciava dia de aglomerações em praias da Zona Sul](https://oglobo.globo.com/rio/amanhecer-dourado-em-copacana-anunciava-dia-de-aglomeracoes-em-praias-da-zona-sul-24588939)
 * ['Estou morrendo de saudade': cariocas aproveitam descontos e celebram reabertura de cartões-postais](https://oglobo.globo.com/rio/estou-morrendo-de-saudade-cariocas-aproveitam-descontos-celebram-reabertura-de-cartoes-postais-1-24588927)
 * [MP-RJ abre sindicância para descobrir quem acessou sistema e abriu prazo para recurso de Flávio Bolsonaro em caso das rachadinhas](https://oglobo.globo.com/brasil/mp-rj-abre-sindicancia-para-descobrir-quem-acessou-sistema-abriu-prazo-para-recurso-de-flavio-bolsonaro-em-caso-das-rachadinhas-24588929)
 * [Facebook dá início à integração do Instagram com o Messenger](https://oglobo.globo.com/economia/tecnologia/facebook-da-inicio-integracao-do-instagram-com-messenger-24588926)
-* [Biotech alemã que desenvolve vacina contra a Covid-19 estreia na Bolsa com alta de 250%](https://oglobo.globo.com/economia/biotech-alema-que-desenvolve-vacina-contra-covid-19-estreia-na-bolsa-com-alta-de-250-24588880)
-* [Tornados e temporais derrubam caminhões e causam destruição em Santa Catarina](https://oglobo.globo.com/brasil/tornados-temporais-derrubam-caminhoes-causam-destruicao-em-santa-catarina-24588876)
 * [Estatal do Paraná investiga delação que envolve novo líder do governo Bolsonaro](https://oglobo.globo.com/brasil/estatal-do-parana-investiga-delacao-que-envolve-novo-lider-do-governo-bolsonaro-24588886)
 * [Flamengo mira substituto de Rafinha no exterior, mas tem aliados por Guga](https://oglobo.globo.com/esportes/flamengo-mira-substituto-de-rafinha-no-exterior-mas-tem-aliados-por-guga-24588898)

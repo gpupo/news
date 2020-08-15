@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 15/08/2020 11:14:39 UTC
+# indexed at 15/08/2020 11:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Amazon's ML University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [J Notation as a Tool of Thought](https://www.hillelwayne.com/post/j-notation/)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
-* [It’s strange what people put up with in C#](https://gist.github.com/dsyme/32de0d1bb0799ca438477c34205c3531)
 * [OpenVMS on x86](https://vmssoftware.com/updates/state-of-the-port/)
-* [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
 * [A review of Bel, Eve, and a silly VR rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32)
+* [A flutter in time: Quantum mechanics is immune to the butterfly effect](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect)
+* [It’s strange what people put up with in C#](https://gist.github.com/dsyme/32de0d1bb0799ca438477c34205c3531)
 * [India announces plan to connect 600k villages with optical fiber in 1000 days](https://indianexpress.com/article/technology/tech-news-technology/independece-day-2020-speech-next-1000-days-6-lakh-villages-optical-fibre-pm-modi-6555511/)
+* [Mozilla’s Uncertain Future](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
 * [Using an old BlackBerry as a portable SSH or Telnet terminal](https://rqsall.com/posts/using-an-old-blackberry-as-a-portable-ssh-terminal)
 * [Factorio 1.0](https://factorio.com/blog/post/fff-360)
-* [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
 * [Precise Higher-Order Meshing of Curved 2D Domains](http://graphics.cs.uos.de/bezierguarding.html)
-* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
+* [“The Edge of Chaos” (2017)](http://bactra.org/notebooks/edge-of-chaos.html)
 * [Brain Oriented Programming](https://tobeva.com/articles/brain-oriented-programming/)
-* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
+* [PyIDM – Python open-source alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
 * [We are a spectrum of jobs, not just one](http://rachelbythebay.com/w/2020/08/14/jobs/)
+* [Welders set off Beirut blast while securing explosives](https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives)
 * [Launch HN: Tella (YC S20) – Collaborative video editing in the browser](https://news.ycombinator.com/item?id=24158509)
 * [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 * [Duality of Vector Spaces (2017)](https://solmaz.io/notes/duality-vector-spaces/)
 * [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
-* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades](https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade)
-* [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
+* [A general ink formulation of 2D crystals for wafer-scale inkjet printing](https://advances.sciencemag.org/content/6/33/eaba5029)
 * [Kiruna, Forever Changing](https://placesjournal.org/article/kiruna-forever-changing)
 * [My best SEO tactic so far](https://questinglog.com/my-best-seo-tactic-so-far/)
 * [A Database of Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks)
+* [Ghost.org deleted my website](https://postapathy.substack.com/p/i-was-building-a-new-website-for)
 * [What's Going On with Intel (by former employee)](https://twitter.com/chiakokhua/status/1291687789260451847)
 * [Found: A Miniature Incan Llama at the Bottom of Lake Titicaca](https://www.atlasobscura.com/articles/found-llama-gold-titicaca)
-* [Show HN: Photo Realistic QR-Codes](https://www.QRpicture.com)
 ## nytimes.com
 
 
@@ -73,10 +73,10 @@ layout: default
 * [Kamala Harris and Disinformation: Debunking 3 Viral Falsehoods](https://www.nytimes.com/2020/08/14/technology/kamala-harris-disinformation.html)
 * [Beirut’s Shiites Like the Idea of Change, but Like Hezbollah More](https://www.nytimes.com/2020/08/14/world/middleeast/lebanon-beirut-explosion-hezbollah-shiites.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
 * [Cracking Codes With Sanford Biggers](https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
 * [Taking the Edinburgh Fringe’s Madcap Energy Online](https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html)
 * [A Bouquet of Group Art Shows Near Houston Street](https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html)
@@ -86,8 +86,9 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [Comfort Viewing: 3 Reasons I Love ‘Silent Witness’](https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html)
-* [What to Cook This Weekend](https://www.nytimes.com/2020/08/14/dining/what-to-cook-this-weekend.html)
+* [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
+* [Black Women Asked Their Party for What They Wanted. What Happens After the Kamala Harris Pick?](https://www.nytimes.com/2020/08/12/us/politics/black-women-voters-kamala-harris.html)
+* [Effort to Disarm Communities in South Sudan Fuels Deadly Clashes](https://www.nytimes.com/2020/08/11/world/africa/south-sudan-violence-disarmament.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

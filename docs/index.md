@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 03:15:25 UTC
+# indexed at 16/08/2020 03:35:00 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
+* [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [Mutt email client 25 years old](http://mutt.org)
 * [Trump says he is considering pardon for leaker Edward Snowden](https://www.reuters.com/article/us-usa-politics-snowden/trump-says-hes-considering-pardon-for-leaker-edward-snowden-idUSKCN25B10Z)
 * [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
-* [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
 * [Star is moving so fast it visibly warps spacetime](https://futurism.com/the-byte/star-moving-fast-warps-spacetime)
+* [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
 * [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
 * [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
 * [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
 * [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
 * [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb#minifb)
-* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
 * [ZzFXM – A tiny JavaScript music system](https://keithclark.github.io/ZzFXM/)
-* [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
+* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
 * [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
+* [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+* [The brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
 * [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
 * [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
-* [The brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
-* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
-* [Oh Shit, Git?](https://ohshitgit.com/)
-* [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
 * [Mosaic HIV Vaccines in Late-Stage Trials](https://www.verywellhealth.com/mosaic-hiv-vaccine-sparks-hope-4173079)
+* [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
+* [Oh Shit, Git?](https://ohshitgit.com/)
 * [The BEAM Has Spoiled Me](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html)
 * [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
 * [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
-* [A joke about the difference between mathematicians and physicists](http://www.thingspondered.xyz/2020/08/excerpt-man-who-loved-only-numbers.html)
+* [The machines USPS is removing can sort more than 36,000 pieces of mail per hour](https://www.businessinsider.com/usps-mail-sorting-machines-how-they-work-in-photos-2020-8)
 * [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
+* [A joke about the difference between mathematicians and physicists](http://www.thingspondered.xyz/2020/08/excerpt-man-who-loved-only-numbers.html)
 ## nytimes.com
 
 
@@ -76,8 +76,8 @@ layout: default
 * [Barred From a Confederate Shrine, Protesters Scuffle in Georgia](https://www.nytimes.com/2020/08/15/us/confederate-shrine-protesters-stone-mountain-georgia.html)
 * [Shifting Dynamics of the Mideast Pushed Israel and U.A.E. Together](https://www.nytimes.com/2020/08/15/world/middleeast/israel-uae-netanyahu-arabs.html)
 * [Bald Eagle Sends Government Drone Into Lake Michigan](https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
@@ -90,8 +90,7 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [President Trump Visits Younger Brother, Robert, in NY Hospital](https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html)
-* [An Elegant Bowl Handmade in Maine](https://www.nytimes.com/2020/08/10/dining/campfire-pottery-bowls.html)
+* [This Is Where I Stand](https://www.nytimes.com/2020/08/13/opinion/conservative-radicals.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

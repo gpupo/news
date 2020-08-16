@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 17:15:09 UTC
+# indexed at 16/08/2020 17:34:47 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Nim – Python-like statically-typed compiled language](https://nim-lang.org/)
 * [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [Show HN: GradientMagic](https://www.gradientmagic.com/)
 * [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [OPDS – Easy to Use, Open and Decentralized Content Distribution](https://opds.io/)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
+* [Nim – Python-like statically-typed compiled language](https://nim-lang.org/)
 * [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [SQLite 3.33](https://www.sqlite.org/releaselog/3_33_0.html)
 * [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
-* [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [Moving from Common-Sense Knowledge About UEFI to Dumping UEFI Firmware](https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/)
+* [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
+* [No New Categories](https://www.gkogan.co/blog/category-creation/?r=1)
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Major quantum computational breakthrough is shaking up physics and maths](https://theconversation.com/major-quantum-computational-breakthrough-is-shaking-up-physics-and-maths-136634)
-* [Gammo – A pure-Ruby HTML5-compliant parser](https://github.com/namusyaka/gammo)
 * [The creator of C++, Bjarne Stroustrup, had his Reddit account suspended](https://twitter.com/blelbach/status/1295018218298335232)
-* [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
+* [Gammo – A pure-Ruby HTML5-compliant parser](https://github.com/namusyaka/gammo)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
+* [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
 * [Karate: Test Automation Made Simple](https://github.com/intuit/karate)
 * [A layman's guide to understanding the Cloud](https://kislayverma.com/for-the-layman/for-the-layman-ep-2-what-is-the-cloud/)
-* [No New Categories](https://www.gkogan.co/blog/category-creation/?r=1)
 * [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
 * [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
-* [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [Connecting a Macintosh SE to the Internet with a Raspberry Pi](https://metalbabble.wordpress.com/2020/02/08/the-final-frontier-connecting-a-macintosh-se-to-the-internet-with-a-raspberry-pi/)
 * [Osquery: Easily ask questions about your Linux, Windows and macOS infrastructure](https://osquery.io/)
 * [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
 * [DaScript – high-performance statically strong typed scripting language (2019)](https://dascript.org/)
 * [OpenRCT2 0.3](https://openrct2.org/downloads/releases/latest)
+* [Show HN: I built a mini Social Blade on top of Google Sheets](https://gsuite.google.com/marketplace/app/yt_tracker_youtube_stats_analytics/952783286913)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [On Neutral Courts, N.B.A. Bubble ‘Home’ Teams Still Have an Edge](https://www.nytimes.com/2020/08/16/sports/basketball/nba-homecourt-advantage-wnba.html)
 * [Aritana Yawalapiti, Revered Indigenous Leader in Brazil, Dies at 71](https://www.nytimes.com/2020/08/15/obituaries/aritana-yawalapiti-dead-coronavirus.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -89,22 +89,23 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Judge John Hodgman on Making an Earnest Effort](https://www.nytimes.com/2020/08/13/magazine/judge-john-hodgman-on-making-an-earnest-effort.html)
+* [Looming Fee Increase Could Thwart Many U.S. Citizenship Applications](https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html)
+* [Luxury Homes Tie Chinese Communist Elite to Hong Kong’s Fate](https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html)
 * [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
-* [Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals](https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html)
+* [Almost 120,000 Still Without Power One Week After Hurricane Isaias](https://www.nytimes.com/2020/08/10/nyregion/hurricane-isaias-power-outage.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Crivella divulgará esta tarde se autoriza ou não a reabertura de cinemas e teatros, prevista para este domingo](https://oglobo.globo.com/rio/crivella-divulgara-esta-tarde-se-autoriza-ou-nao-reabertura-de-cinemas-teatros-prevista-para-este-domingo-24589396)
+* [Presidente da Bielorrússia rejeita nova eleição e desafia protestos maciços](https://oglobo.globo.com/mundo/presidente-da-bielorrussia-rejeita-nova-eleicao-desafia-protestos-macicos-1-24589485)
 * [Orquestra Sinfônica Brasileira comemora 80 anos com séries de vídeos on-line](https://oglobo.globo.com/rioshow/orquestra-sinfonica-brasileira-comemora-80-anos-com-series-de-videos-on-line-1-24587399)
+* [Análise prévia da eficácia de vacina de Oxford pode permitir uso emergencial em 2020, diz coordenadora de testes no Brasil](https://oglobo.globo.com/sociedade/coronavirus/analise-previa-da-eficacia-de-vacina-de-oxford-pode-permitir-uso-emergencial-em-2020-diz-coordenadora-de-testes-no-brasil-24589487)
 * [Menina de 10 anos precisou sair do ES para fazer aborto](https://oglobo.globo.com/sociedade/menina-de-10-anos-precisou-sair-do-es-para-fazer-aborto-1-24589403)
 * [Argentina formaliza proposta revisada de dívida e estende prazo para acordo](https://oglobo.globo.com/economia/argentina-formaliza-proposta-revisada-de-divida-estende-prazo-para-acordo-24589463)
 * [Mesmo com chuva, cariocas aproveitam desconto para visitar Pão de Açúcar](https://oglobo.globo.com/rio/mesmo-com-chuva-cariocas-aproveitam-desconto-para-visitar-pao-de-acucar-24589460)
 * [Hamilton, absoluto, ganha GP da Espanha e está perto de recorde de vitórias de Schumacher](https://oglobo.globo.com/esportes/hamilton-absoluto-ganha-gp-da-espanha-esta-perto-de-recorde-de-vitorias-de-schumacher-24589436)
-* [Crivella divulgará esta tarde se autoriza ou não a reabertura de cinemas e teatros, prevista para este domingo](https://oglobo.globo.com/rio/crivella-divulgara-esta-tarde-se-autoriza-ou-nao-reabertura-de-cinemas-teatros-prevista-para-este-domingo-24589396)
-* [Ex-zagueiro do Flamengo morre de Covid-19 aos 58 anos](https://oglobo.globo.com/esportes/ex-zagueiro-do-flamengo-morre-de-covid-19-aos-58-anos-1-24589393)
 * [Morre Mercedes Barcha, viúva de García Márquez e musa inspiradora do autor](https://oglobo.globo.com/cultura/morre-mercedes-barcha-viuva-de-garcia-marquez-musa-inspiradora-do-autor-24589424)
-* [‘Shazam! 2’: Diretor faz trailer fake inspirado em resenhas de filme ainda em preparação](https://oglobo.globo.com/cultura/shazam-2-diretor-faz-trailer-fake-inspirado-em-resenhas-de-filme-ainda-em-preparacao-24589384)
 * [Artigo | Na vida fora da bolha, R$ 600 valem mais do que R$ 1,5 milhão](https://epoca.globo.com/brasil/artigo-na-vida-fora-da-bolha-600-valem-mais-do-que-15-milhao-1-24589405)

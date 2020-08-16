@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 00:45:21 UTC
+# indexed at 16/08/2020 01:16:37 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Ethan Zuckerman: To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
-* [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
-* [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
-* [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
-* [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
-* [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb#minifb)
-* [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
 * [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
-* [The TikTok Ban (and the Openness Trap)](https://unintendedconsequenc.es/tiktok-ban-openness-trap/)
-* [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
-* [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
 * [Mutt email client 25 years old](http://mutt.org)
+* [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
+* [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
+* [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
+* [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
+* [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
+* [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
+* [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb#minifb)
+* [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
+* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
+* [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
+* [The TikTok ban and the openness trap](https://unintendedconsequenc.es/tiktok-ban-openness-trap/)
 * [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
 * [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
-* [The Brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
-* [Show HN: Wrote book that builds a SaaS boilerplate. Save weeks on side projects](https://builderbook.org/book)
-* [Picking Locks with Audio Technology](https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext)
-* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
+* [The brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
 * [Oh Shit, Git?](https://ohshitgit.com/)
 * [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
 * [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
+* [Show HN: Wrote book that builds a SaaS boilerplate. Save weeks on side projects](https://builderbook.org/book)
+* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
+* [ZzFXM – A tiny JavaScript music system](https://keithclark.github.io/ZzFXM/)
 * [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
 * [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [Opus FAQ (Audio Codec)](https://wiki.xiph.org/index.php?title=OpusFAQ)
 * [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
-* [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
-* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
+* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
+* [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
 * [AdoptOpenJDK 8u265 Available](https://blog.adoptopenjdk.net/2020/07/adoptopenjdk-8u265-available/)
-* [California issues first rolling blackouts since 2001](https://www.npr.org/2020/08/15/902781690/california-issues-first-rolling-blackouts-since-2001-as-heat-wave-bakes-western-)
+* [It’s strange what people put up with in C#](https://gist.github.com/dsyme/32de0d1bb0799ca438477c34205c3531)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Barred From a Confederate Shrine, Protesters Scuffle in Georgia](https://www.nytimes.com/2020/08/15/us/confederate-shrine-protesters-stone-mountain-georgia.html)
 * [James R. Thompson, Longest-Serving Governor of Illinois, Dies at 84](https://www.nytimes.com/2020/08/15/us/james-thompson-illinois-governor-dead.html)
 * [Bald Eagle Sends Government Drone Into Lake Michigan](https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html)
-* [What to Know About Coronavirus Tests for Kids](https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html)
-* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [New Tools for Home Buyers as the Pandemic Upends Real Estate](https://www.nytimes.com/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Why You Should Still Care About ‘Bicycle Thieves’](https://www.nytimes.com/2020/08/13/movies/bicycle-thieves-italian-neorealism.html)
 * [The Artist Unraveling American History](https://www.nytimes.com/2020/08/10/t-magazine/sonya-clark-flags-art.html)
 * [Is Bach Better on Harp?](https://www.nytimes.com/2020/08/14/arts/music/bach-goldberg-variations-harp.html)
@@ -99,6 +99,7 @@ layout: default
 ## globo.com
 
 
+* [Justiça do ES autoriza menina de 10 anos vítima de estupro a abortar](https://oglobo.globo.com/celina/justica-do-es-autoriza-menina-de-10-anos-vitima-de-estupro-abortar-24589257)
 * [Flamengo age rápido e encaminha a contratação de Isla para o lugar de Rafinha](https://oglobo.globo.com/esportes/flamengo-age-rapido-encaminha-contratacao-de-isla-para-lugar-de-rafinha-24589228)
 * [Witzel diz que Edmar está 'desesperado'; governador tenta ganhar tempo ao questionar procuradora do caso de impeachment](https://oglobo.globo.com/rio/witzel-diz-que-edmar-esta-desesperado-governador-tenta-ganhar-tempo-ao-questionar-procuradora-do-caso-de-impeachment-1-24588950)
 * [Flamengo de Dome joga para o gasto e bate o Coritiba com brilho de Arrascaeta](https://oglobo.globo.com/esportes/flamengo-de-dome-joga-para-gasto-bate-coritiba-com-brilho-de-arrascaeta-24589204)
@@ -108,4 +109,3 @@ layout: default
 * [Operação da PM termina com dois mortos no Morro dos Macacos](https://oglobo.globo.com/rio/operacao-da-pm-termina-com-dois-mortos-no-morro-dos-macacos-24589118)
 * [Estado do Rio chega a 14.526 mortos por coronavírus e registra 190.614 casos da doença](https://oglobo.globo.com/rio/estado-do-rio-chega-14526-mortos-por-coronavirus-registra-190614-casos-da-doenca-24589093)
 * ['Estava morrendo de saudades da minha mãe', diz menina tirada de casa após ritual de candomblé](https://epoca.globo.com/brasil/estava-morrendo-de-saudades-da-minha-mae-diz-menina-tirada-de-casa-apos-ritual-de-candomble-24588973)
-* [Amanhecer dourado em Copacabana anunciava dia de aglomerações em praias da Zona Sul](https://oglobo.globo.com/rio/amanhecer-dourado-em-copacabana-anunciava-dia-de-aglomeracoes-em-praias-da-zona-sul-24588939)

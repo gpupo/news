@@ -2,32 +2,34 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 12:19:55 UTC
+# indexed at 16/08/2020 12:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
+* [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
 * [SQLite 3.33 adds support for UPDATE FROM](https://www.sqlite.org/lang_update.html#upfrom)
 * [Karate: Test Automation Made Simple](https://github.com/intuit/karate)
 * [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Mutt email client 25 years old](http://mutt.org)
+* [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
 * [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html)
-* [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
-* [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
+* [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
+* [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
 * [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
 * [Connecting a Macintosh SE to the Internet with a Raspberry Pi](https://metalbabble.wordpress.com/2020/02/08/the-final-frontier-connecting-a-macintosh-se-to-the-internet-with-a-raspberry-pi/)
-* [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
+* [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
 * [OpenRCT2 0.3](https://openrct2.org/downloads/releases/latest)
+* [San Francisco exodus is real, and historic, report shows](https://www.sfgate.com/living-in-sf/article/2020-San-Francisco-exodus-is-real-and-historic-15484785.php)
 * [DaScript – high-performance statically strong typed scripting language (2019)](https://dascript.org/)
 * [Astrobotic's CubeRover program awarded $2M NASA contract](https://www.astrobotic.com/2019/10/2/astrobotic-s-cuberover-program-awarded-2-million-contract-by-nasa)
-* [The Messy Mediterranean](https://sovereignlimits.com/blog/the-messy-mediterranean)
 * [Ask HN: Does Google have no way to report scam advertisements?](https://news.ycombinator.com/item?id=24175924)
+* [The Messy Mediterranean](https://sovereignlimits.com/blog/the-messy-mediterranean)
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
 * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
@@ -36,8 +38,6 @@ layout: default
 * [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
 * [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
-* [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Japan’s Been Proudly Pacifist for 75 Years. A Missile Proposal Challenges That.](https://www.nytimes.com/2020/08/16/world/asia/japan-military-missiles-pacifist.html)
 * [Helping Girls Step Up to Entrepreneurship](https://www.nytimes.com/2020/08/14/your-money/girls-entrepreneurship-financial-literacy.html)
 * [With Less Breastfeeding Support, Mothers Are Turning to Online Help](https://www.nytimes.com/2020/08/11/parenting/breastfeeding-support-coronavirus.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -90,13 +90,17 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Shhh! We’re Heading Off on Vacation](https://www.nytimes.com/2020/08/14/travel/virus-secret-vacations.html)
+* [Missing Weddings? Lucy Foley’s Sinister Best Seller Will Cheer You Up](https://www.nytimes.com/2020/08/13/books/review/the-guest-list-lucy-foley.html)
+* [The Week in Business: Unemployment Checks Get Chopped](https://www.nytimes.com/2020/08/16/business/the-week-in-business-unemployment-checks-get-chopped.html)
+* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
+* [Ambition Has Always Been ‘Ladylike’](https://www.nytimes.com/2020/08/10/us/politics/kamala-harris-veepstakes-ambition-sexism.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Youtuber Gabriel Monteiro recebeu punições que somam 33 dias de detenção em quase 4 anos na PM](https://oglobo.globo.com/rio/youtuber-gabriel-monteiro-recebeu-punicoes-que-somam-33-dias-de-detencao-em-quase-4-anos-na-pm-24589361)
 * [América Latina passa de 6 milhões de casos da Covid-19](https://oglobo.globo.com/mundo/america-latina-passa-de-6-milhoes-de-casos-da-covid-19-24589355)
 * [A emoção das mães que só viram filhos com doenças graves após meses de quarentena](https://epoca.globo.com/mundo/a-emocao-das-maes-que-so-viram-filhos-com-doencas-graves-apos-meses-de-quarentena-24589346)
 * [Harry e Meghan vão gastar R$ 35,5 milhões por ano para se manter nos EUA, prevê jornal](https://oglobo.globo.com/ela/gente/harry-meghan-vao-gastar-355-milhoes-por-ano-para-se-manter-nos-eua-preve-jornal-24589341)
@@ -106,4 +110,3 @@ layout: default
 * [Shows, sushi em cabines, rapel, subida em balão: Cidade das Artes lança novidades após flexibilização](https://oglobo.globo.com/rio/bairros/shows-sushi-em-cabines-rapel-subida-em-balao-cidade-das-artes-lanca-novidades-apos-flexibilizacao-24587125)
 * [Coluna | Os maus exemplos da música na pandemia](https://epoca.globo.com/lucas-prata/coluna-os-maus-exemplos-da-musica-na-pandemia-24586937)
 * [Deputados gastaram R$ 9 milhões com aluguel de carros na pandemia](https://epoca.globo.com/guilherme-amado/deputados-gastaram-9-milhoes-com-aluguel-de-carros-na-pandemia-24587031)
-* [Denúncias por racismo no governo federal aumentam 160% em 2020](https://epoca.globo.com/guilherme-amado/denuncias-por-racismo-no-governo-federal-aumentam-160-em-2020-24586901)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 15:15:05 UTC
+# indexed at 16/08/2020 15:34:44 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
-* [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
+* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
+* [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [SQLite 3.33](https://www.sqlite.org/lang_update.html)
 * [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
-* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
-* [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
-* [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
+* [Show HN: GradientMagic](https://www.gradientmagic.com/)
+* [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
 * [Karate: Test Automation Made Simple](https://github.com/intuit/karate)
 * [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html)
 * [Mutt email client 25 years old](http://mutt.org)
-* [Patterns of Regional Cerebral Blood Flow as a Function of Obesity in Adults](https://www.iospress.nl/ios_news/body-weight-has-surprising-alarming-impact-on-brain-function/)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
-* [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
-* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
+* [Patterns of Regional Cerebral Blood Flow as a Function of Obesity in Adults](https://www.iospress.nl/ios_news/body-weight-has-surprising-alarming-impact-on-brain-function/)
 * [A layman's guide to understanding the Cloud](https://kislayverma.com/for-the-layman/for-the-layman-ep-2-what-is-the-cloud/)
+* [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
+* [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
 * [Connecting a Macintosh SE to the Internet with a Raspberry Pi](https://metalbabble.wordpress.com/2020/02/08/the-final-frontier-connecting-a-macintosh-se-to-the-internet-with-a-raspberry-pi/)
 * [OpenRCT2 0.3](https://openrct2.org/downloads/releases/latest)
-* [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
+* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
+* [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
+* [NYC is dead forever – here's why](https://www.linkedin.com/pulse/nyc-dead-forever-heres-why-james-altucher/)
 * [DaScript – high-performance statically strong typed scripting language (2019)](https://dascript.org/)
-* [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
+* [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
 * [Osquery: Easily ask questions about your Linux, Windows and macOS infrastructure](https://osquery.io/)
+* [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [Astrobotic's CubeRover program awarded $2M NASA contract](https://www.astrobotic.com/2019/10/2/astrobotic-s-cuberover-program-awarded-2-million-contract-by-nasa)
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
-* [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [Ask HN: Does Google have no way to report scam advertisements?](https://news.ycombinator.com/item?id=24175924)
-* [The Messy Mediterranean](https://sovereignlimits.com/blog/the-messy-mediterranean)
-* [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Japan’s Been Proudly Pacifist for 75 Years. A Missile Proposal Challenges That.](https://www.nytimes.com/2020/08/16/world/asia/japan-military-missiles-pacifist.html)
 * [Helping Girls Step Up to Entrepreneurship](https://www.nytimes.com/2020/08/14/your-money/girls-entrepreneurship-financial-literacy.html)
 * [With Less Breastfeeding Support, Mothers Are Turning to Online Help](https://www.nytimes.com/2020/08/11/parenting/breastfeeding-support-coronavirus.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -90,19 +90,16 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [The Trump campaign spent millions to make sure you see its ads next week.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/the-trump-campaign-spent-millions-to-make-sure-you-see-its-ads-next-week)
-* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
-* [Scenes From the 2020 Sturgis Rally, Undaunted by the Coronavirus](https://www.nytimes.com/2020/08/09/us/sturgis-motorcycle.html)
-* [A New York police union endorses Trump.](https://www.nytimes.com/2020/08/16/us/elections/a-new-york-police-union-endorses-trump.html)
+* [Shhh! We’re Heading Off on Vacation](https://www.nytimes.com/2020/08/14/travel/virus-secret-vacations.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Ex-zagueiro do Flamengo morre de Covid-19 aos 58 anos](https://oglobo.globo.com/esportes/ex-zagueiro-do-flamengo-morre-de-covid-19-aos-58-anos-1-24589393)
 * [Menina de 10 anos precisou sair do ES para fazer aborto](https://oglobo.globo.com/sociedade/menina-de-10-anos-precisou-sair-do-es-para-fazer-aborto-24589403)
 * [Morre Mercedes Barcha, viúva de García Márquez e musa inspiradora do autor](https://oglobo.globo.com/cultura/morre-mercedes-barcha-viuva-de-garcia-marquez-musa-inspiradora-do-autor-24589424)
-* [Ex-zagueiro do Flamengo morre de Covid-19 aos 58 anos](https://oglobo.globo.com/esportes/ex-zagueiro-do-flamengo-morre-de-covid-19-aos-58-anos-1-24589393)
 * [‘Shazam! 2’: Diretor faz trailer fake inspirado em resenhas de filme ainda em preparação](https://oglobo.globo.com/cultura/shazam-2-diretor-faz-trailer-fake-inspirado-em-resenhas-de-filme-ainda-em-preparacao-24589384)
 * [Artigo | Na vida fora da bolha, R$ 600 valem mais do que R$ 1,5 milhão](https://epoca.globo.com/brasil/artigo-na-vida-fora-da-bolha-600-valem-mais-do-que-15-milhao-1-24589405)
 * [Fernanda Torres participa da 'Entrevista na janela', série feita com drone; veja](https://oglobo.globo.com/cultura/fernanda-torres-participa-da-entrevista-na-janela-serie-feita-com-drone-veja-24589370)

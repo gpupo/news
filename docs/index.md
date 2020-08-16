@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 11:14:20 UTC
+# indexed at 16/08/2020 11:34:56 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
+* [Python 3.8 Makes me Sad Again](https://ilya-sher.org/2020/08/16/python-3-8-makes-me-sad-again/)
 * [Karate: Test Automation Made Simple](https://github.com/intuit/karate)
 * [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Mutt email client 25 years old](http://mutt.org)
-* [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
+* [OpenRCT2 v0.3.0 Released: Adds plugin support](https://openrct2.org/downloads/releases/latest)
 * [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html)
+* [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
+* [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
+* [SQLite 3.33 adds support for UPDATE FROM](https://www.sqlite.org/lang_update.html#upfrom)
 * [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
 * [Connecting a Macintosh SE to the Internet with a Raspberry Pi](https://metalbabble.wordpress.com/2020/02/08/the-final-frontier-connecting-a-macintosh-se-to-the-internet-with-a-raspberry-pi/)
 * [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
-* [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [DaScript – high-performance statically strong typed scripting language (2019)](https://dascript.org/)
 * [The Messy Mediterranean](https://sovereignlimits.com/blog/the-messy-mediterranean)
-* [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
+* [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
 * [Ask HN: Does Google have no way to report scam advertisements?](https://news.ycombinator.com/item?id=24175924)
-* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
-* [Astrobotic's CubeRover program awarded $2M NASA contract](https://www.astrobotic.com/2019/10/2/astrobotic-s-cuberover-program-awarded-2-million-contract-by-nasa)
+* [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
-* [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
 * [The BEAM Has Spoiled Me](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html)
-* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
-* [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb)
 * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
+* [Astrobotic's CubeRover program awarded $2M NASA contract](https://www.astrobotic.com/2019/10/2/astrobotic-s-cuberover-program-awarded-2-million-contract-by-nasa)
+* [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb)
 * [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
-* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
+* [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
 * [PocketSuite is hiring (engineering, product, customer success, growth marketing)](https://angel.co/company/pocketsuite)
-* [RFC 188, by Damian Conway: Objects: Private keys and methods](https://raku-advent.blog/2020/08/16/rfc-188-by-damian-conway-objects-private-keys-and-methods/)
-* [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Japan’s Been Proudly Pacifist for 75 Years. A Missile Proposal Challenges That.](https://www.nytimes.com/2020/08/16/world/asia/japan-military-missiles-pacifist.html)
 * [Helping Girls Step Up to Entrepreneurship](https://www.nytimes.com/2020/08/14/your-money/girls-entrepreneurship-financial-literacy.html)
 * [With Less Breastfeeding Support, Mothers Are Turning to Online Help](https://www.nytimes.com/2020/08/11/parenting/breastfeeding-support-coronavirus.html)
+* [Can't Find It at the Store? Try Bartering for It.](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -90,17 +90,20 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Beer Truly Is the Champagne of Cocktails](https://www.nytimes.com/2020/08/14/dining/drinks/beer-cocktails.html)
+* [Where's Juan Carlos? Exit of Scandal-Plagued Former King Grips Spain](https://www.nytimes.com/2020/08/11/world/europe/spain-juan-carlos-scandal.html)
+* [Why Be Vulnerable?](https://www.nytimes.com/2020/08/13/style/vulnerability-is-hard.html)
+* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
+* [Retail Chains and Small Businesses Are Struggling in N.Y.C.](https://www.nytimes.com/2020/08/13/nyregion/nyc-small-businesses-retail-chains.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [A emoção das mães que só viram filhos com doenças graves após meses de quarentena](https://epoca.globo.com/mundo/a-emocao-das-maes-que-so-viram-filhos-com-doencas-graves-apos-meses-de-quarentena-24589346)
 * [Harry e Meghan vão gastar R$ 35,5 milhões por ano para se manter nos EUA, prevê jornal](https://oglobo.globo.com/ela/gente/harry-meghan-vao-gastar-355-milhoes-por-ano-para-se-manter-nos-eua-preve-jornal-24589341)
 * [Presídios de SP têm alta no envio e recebimento de cartas durante quarentena](https://epoca.globo.com/sociedade/presidios-de-sp-tem-alta-no-envio-recebimento-de-cartas-durante-quarentena-24586197)
 * [Esquerda e direita apostam em PMs para prefeitos nas capitais](https://epoca.globo.com/brasil/esquerda-direita-apostam-em-pms-para-prefeitos-nas-capitais-24587035)
-* [Brasil terá que pagar US$ 113 milhões à ONU até dezembro para não perder direito de voto](https://epoca.globo.com/guilherme-amado/brasil-tera-que-pagar-us-113-milhoes-onu-ate-dezembro-para-nao-perder-direito-de-voto-24587567)
 * [Ana Cláudia Guimarães: Experiência inédita no teatro 360º, onde pode-se escolher o ângulo para ver a peça](https://oglobo.globo.com/rio/bairros/ana-claudia-guimaraes-experiencia-inedita-no-teatro-360-onde-pode-se-escolher-angulo-para-ver-peca-24586895)
 * [Construções dentro de área de proteção ambiental em Charitas são alvo de inquérito](https://oglobo.globo.com/rio/bairros/construcoes-dentro-de-area-de-protecao-ambiental-em-charitas-sao-alvo-de-inquerito-1-24587392)
 * [Shows, sushi em cabines, rapel, subida em balão: Cidade das Artes lança novidades após flexibilização](https://oglobo.globo.com/rio/bairros/shows-sushi-em-cabines-rapel-subida-em-balao-cidade-das-artes-lanca-novidades-apos-flexibilizacao-24587125)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 02:17:21 UTC
+# indexed at 16/08/2020 02:34:57 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [Mutt email client 25 years old](http://mutt.org)
 * [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
+* [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
 * [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
-* [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
+* [Star is moving so fast it visibly warps spacetime](https://futurism.com/the-byte/star-moving-fast-warps-spacetime)
 * [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
 * [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
 * [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
 * [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb#minifb)
+* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
 * [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
-* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
 * [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
-* [Star is moving so fast it visibly warps spacetime](https://futurism.com/the-byte/star-moving-fast-warps-spacetime)
+* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
+* [The TikTok ban and the openness trap](https://unintendedconsequenc.es/tiktok-ban-openness-trap/)
 * [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
 * [The brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
+* [Trump says he is considering pardon for leaker Edward Snowden](https://www.reuters.com/article/us-usa-politics-snowden/trump-says-hes-considering-pardon-for-leaker-edward-snowden-idUSKCN25B10Z)
 * [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
-* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
 * [Isoflow – Infrastructure Diagrams](https://isoflow.io/)
-* [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
-* [The TikTok ban and the openness trap](https://unintendedconsequenc.es/tiktok-ban-openness-trap/)
 * [Oh Shit, Git?](https://ohshitgit.com/)
-* [ZzFXM – A tiny JavaScript music system](https://keithclark.github.io/ZzFXM/)
+* [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
 * [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
+* [ZzFXM – A tiny JavaScript music system](https://keithclark.github.io/ZzFXM/)
 * [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
+* [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
 * [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
-* [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
-* [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [The BEAM Has Spoiled Me](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html)
-* [I’ll admit it. I’m a jealous developer](https://medium.com/@dangoslen/ill-admit-it-i-m-a-jealous-developer-4c526f0e0abb)
+* [Buying a single character domain – and 3 character FQDN – for £15](https://shkspr.mobi/blog/2020/08/buying-a-single-character-domain-and-3-character-fqdn-for-15/)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Barred From a Confederate Shrine, Protesters Scuffle in Georgia](https://www.nytimes.com/2020/08/15/us/confederate-shrine-protesters-stone-mountain-georgia.html)
 * [James R. Thompson, Longest-Serving Governor of Illinois, Dies at 84](https://www.nytimes.com/2020/08/15/us/james-thompson-illinois-governor-dead.html)
 * [Bald Eagle Sends Government Drone Into Lake Michigan](https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Why You Should Still Care About ‘Bicycle Thieves’](https://www.nytimes.com/2020/08/13/movies/bicycle-thieves-italian-neorealism.html)
 * [The Artist Unraveling American History](https://www.nytimes.com/2020/08/10/t-magazine/sonya-clark-flags-art.html)
 * [Is Bach Better on Harp?](https://www.nytimes.com/2020/08/14/arts/music/bach-goldberg-variations-harp.html)

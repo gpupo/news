@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 04:16:22 UTC
+# indexed at 16/08/2020 04:35:03 UTC
 
 
 ## news.ycombinator.com
@@ -19,24 +19,24 @@ layout: default
 * [The best way to exercise self-control is not to exercise it at all](https://psyche.co/ideas/the-best-way-to-exercise-self-control-is-not-to-exercise-it-at-all)
 * [NTFS read-write GPL kernel driver](https://lore.kernel.org/lkml/2911ac5cd20b46e397be506268718d74@paragon-software.com/)
 * [Paul Rand's NeXT Logo (2010)](https://www.logodesignlove.com/next-logo-paul-rand)
-* [Mosaic HIV Vaccines in Late-Stage Trials](https://www.verywellhealth.com/mosaic-hiv-vaccine-sparks-hope-4173079)
-* [ZzFXM – A tiny JavaScript music system](https://keithclark.github.io/ZzFXM/)
 * [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
+* [Mosaic HIV Vaccines in Late-Stage Trials](https://www.verywellhealth.com/mosaic-hiv-vaccine-sparks-hope-4173079)
 * [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb#minifb)
-* [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
 * [People slept on grass beds 200k years ago](https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/)
-* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
-* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
-* [The brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
-* [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
-* [A joke about the difference between mathematicians and physicists](http://www.thingspondered.xyz/2020/08/excerpt-man-who-loved-only-numbers.html)
-* [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
+* [Scribd acquires SlideShare from LinkedIn](https://techcrunch.com/2020/08/11/scribd-acquires-slideshare/)
 * [Perception of musical pitch varies across cultures (2019)](https://news.mit.edu/2019/perception-musical-pitch-cultures-0919)
+* [The brilliance of All Gas No Brakes](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
+* [Russell Kirsch, inventor of the pixel, has died](https://petapixel.com/2020/08/13/russell-kirsch-inventor-of-the-pixel-passed-away-this-week/)
 * [The BEAM Has Spoiled Me](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html)
+* [ZzFXM – A tiny JavaScript music system](https://keithclark.github.io/ZzFXM/)
+* [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
+* [How the 8086 processor handles power and clock internally](http://www.righto.com/2020/08/how-8086-processor-handles-power-and.html)
+* [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
+* [A joke about the difference between mathematicians and physicists](http://www.thingspondered.xyz/2020/08/excerpt-man-who-loved-only-numbers.html)
 * [Oh Shit, Git?](https://ohshitgit.com/)
 * [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
-* [ATM Hackers Have Picked Up Some Clever New Tricks](https://www.wired.com/story/atm-hackers-jackpotting-remote-malware/)
 * [The machines USPS is removing can sort more than 36,000 pieces of mail per hour](https://www.businessinsider.com/usps-mail-sorting-machines-how-they-work-in-photos-2020-8)
 ## nytimes.com
 
@@ -79,8 +79,8 @@ layout: default
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Why You Should Still Care About ‘Bicycle Thieves’](https://www.nytimes.com/2020/08/13/movies/bicycle-thieves-italian-neorealism.html)
 * [The Artist Unraveling American History](https://www.nytimes.com/2020/08/10/t-magazine/sonya-clark-flags-art.html)
 * [Is Bach Better on Harp?](https://www.nytimes.com/2020/08/14/arts/music/bach-goldberg-variations-harp.html)
@@ -90,14 +90,14 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [Shhh! We’re Heading Off on Vacation](https://www.nytimes.com/2020/08/14/travel/virus-secret-vacations.html)
+* [Beer Truly Is the Champagne of Cocktails](https://www.nytimes.com/2020/08/14/dining/drinks/beer-cocktails.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Datafolha: 89% dos brasileiros querem se vacinar contra Covid-19](https://oglobo.globo.com/sociedade/datafolha-89-dos-brasileiros-querem-se-vacinar-contra-covid-19-24589325)
+* [Datafolha: 89% dos brasileiros querem se vacinar contra a Covid-19](https://oglobo.globo.com/sociedade/datafolha-89-dos-brasileiros-querem-se-vacinar-contra-covid-19-24589325)
 * [Morre Robert Trump, irmão do presidente dos Estados Unidos](https://oglobo.globo.com/mundo/morre-robert-trump-irmao-do-presidente-dos-estados-unidos-24589324)
 * [Justiça do ES autoriza menina de 10 anos vítima de estupro a abortar](https://oglobo.globo.com/celina/justica-do-es-autoriza-menina-de-10-anos-vitima-de-estupro-abortar-24589257)
 * [Flamengo age rápido e encaminha a contratação de Isla para o lugar de Rafinha](https://oglobo.globo.com/esportes/flamengo-age-rapido-encaminha-contratacao-de-isla-para-lugar-de-rafinha-24589228)

@@ -2,49 +2,49 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 13:35:19 UTC
+# indexed at 16/08/2020 14:16:31 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Body Weight Has Surprising, Alarming Impact on Brain Function](https://www.iospress.nl/ios_news/body-weight-has-surprising-alarming-impact-on-brain-function/)
 * [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
 * [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [SQLite 3.33 adds support for UPDATE FROM](https://www.sqlite.org/lang_update.html#upfrom)
-* [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
+* [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [Arm co-founder: Sale to Nvidia would be a disaster](https://www.bbc.com/news/technology-53637463)
 * [What I've learned about scaling OSPF in Datacenters](https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/)
+* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
 * [Karate: Test Automation Made Simple](https://github.com/intuit/karate)
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Mutt email client 25 years old](http://mutt.org)
 * [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
 * [Solr 8.6.1](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
-* [San Francisco exodus is real, and historic, report shows](https://www.sfgate.com/living-in-sf/article/2020-San-Francisco-exodus-is-real-and-historic-15484785.php)
 * [Connecting a Macintosh SE to the Internet with a Raspberry Pi](https://metalbabble.wordpress.com/2020/02/08/the-final-frontier-connecting-a-macintosh-se-to-the-internet-with-a-raspberry-pi/)
 * [OpenRCT2 0.3](https://openrct2.org/downloads/releases/latest)
 * [DaScript – high-performance statically strong typed scripting language (2019)](https://dascript.org/)
-* [A layman's guide to understanding the Cloud](https://kislayverma.com/for-the-layman/for-the-layman-ep-2-what-is-the-cloud/)
 * [The ELIZA Effect (2019)](https://99percentinvisible.org/episode/the-eliza-effect/)
+* [A layman's guide to understanding the Cloud](https://kislayverma.com/for-the-layman/for-the-layman-ep-2-what-is-the-cloud/)
 * [Astrobotic's CubeRover program awarded $2M NASA contract](https://www.astrobotic.com/2019/10/2/astrobotic-s-cuberover-program-awarded-2-million-contract-by-nasa)
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
 * [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
-* [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [Ask HN: Does Google have no way to report scam advertisements?](https://news.ycombinator.com/item?id=24175924)
-* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+* [Show HN: Simple Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
-* [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
 * [The Messy Mediterranean](https://sovereignlimits.com/blog/the-messy-mediterranean)
 * [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
 * [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
+* [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
 ## nytimes.com
 
 
 * [Trump’s Drive to Undermine Confidence in the Election Is Accelerating](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden)
 * [Why A "Hidden" Trump Vote Can't Explain His Bad Poll Numbers](https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html)
 * [Conor Lamb Found a Way to Win in Trump Country. Can Biden Follow His Path?](https://www.nytimes.com/2020/08/16/us/politics/joe-biden-conor-lamb-trump.html)
-* [Robert S. Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
+* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
 * [Public Transit Cuts Felt Deepest in Low-Income Areas](https://www.nytimes.com/2020/08/15/us/virus-transit-congress.html)
 * [Coronavirus Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html)
 * [Nursing Homes With Safety Problems Deploy Trump-Connected Lobbyists](https://www.nytimes.com/2020/08/16/business/nursing-home-safety-trump.html)
@@ -78,10 +78,10 @@ layout: default
 * [Helping Girls Step Up to Entrepreneurship](https://www.nytimes.com/2020/08/14/your-money/girls-entrepreneurship-financial-literacy.html)
 * [With Less Breastfeeding Support, Mothers Are Turning to Online Help](https://www.nytimes.com/2020/08/11/parenting/breastfeeding-support-coronavirus.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -90,22 +90,20 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
-* [Whether You Are a Night Owl or Early Bird May Affect How Much You Move](https://www.nytimes.com/2020/08/12/well/move/whether-you-are-a-night-owl-or-early-bird-may-affect-how-much-you-move.html)
-* [Judge orders Trump campaign to submit evidence today of fraud in mail voting.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/judge-orders-trump-campaign-to-submit-evidence-today-of-fraud-in-mail-voting)
+* [Shhh! We’re Heading Off on Vacation](https://www.nytimes.com/2020/08/14/travel/virus-secret-vacations.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Ex-zagueiro do Flamengo morre de Covid-19 aos 58 anos](https://oglobo.globo.com/esportes/ex-zagueiro-do-flamengo-morre-de-covid-19-aos-58-anos-24589393)
+* [Artigo | Na vida fora da bolha, R$ 600 valem mais do que R$ 1,5 milhão](https://epoca.globo.com/brasil/artigo-na-vida-fora-da-bolha-600-valem-mais-do-que-15-milhao-1-24589405)
+* [‘Shazam 2’: Diretor faz trailer fake inspirado em resenhas de filme ainda em preparação](https://oglobo.globo.com/cultura/shazam-2-diretor-faz-trailer-fake-inspirado-em-resenhas-de-filme-ainda-em-preparacao-24589384)
+* [Fernanda Torres participa da 'Entrevista na janela', série feita com drone; veja](https://oglobo.globo.com/cultura/fernanda-torres-participa-da-entrevista-na-janela-serie-feita-com-drone-veja-24589370)
+* [Ex-zagueiro do Flamengo morre de Covid-19 aos 58 anos](https://oglobo.globo.com/esportes/ex-zagueiro-do-flamengo-morre-de-covid-19-aos-58-anos-1-24589393)
 * [Primeira-dama Michelle Bolsonaro anuncia teste negativo de Covid-19](https://oglobo.globo.com/brasil/primeira-dama-michelle-bolsonaro-anuncia-teste-negativo-de-covid-19-1-24589383)
 * [Moradores de cidade onde Biden nasceu se entusiasmam na torcida pelo ‘vizinho’](https://oglobo.globo.com/mundo/moradores-de-cidade-onde-biden-nasceu-se-entusiasmam-na-torcida-pelo-vizinho-24589387)
-* [Fernanda Torres participa da 'Entrevista na janela', série feita com drone; veja](https://oglobo.globo.com/cultura/fernanda-torres-participa-da-entrevista-na-janela-serie-feita-com-drone-veja-24589370)
 * [Fernanda Torres: 'A arte sempre renasce, me preocupa mais é a Amazônia queimando'](https://oglobo.globo.com/cultura/fernanda-torres-arte-sempre-renasce-me-preocupa-mais-a-amazonia-queimando-24581990)
 * [Goleada fez Messi superar maior derrota de Pelé, Maradona e Cristiano Ronaldo](https://oglobo.globo.com/esportes/goleada-fez-messi-superar-maior-derrota-de-pele-maradona-cristiano-ronaldo-24589371)
 * [Navio petroleiro encalhado nas Ilhas Maurício se parte em dois](https://oglobo.globo.com/sociedade/navio-petroleiro-encalhado-nas-ilhas-mauricio-se-parte-em-dois-1-24589373)
-* [Youtuber Gabriel Monteiro recebeu punições que somam 33 dias de detenção em quase 4 anos na PM](https://oglobo.globo.com/rio/youtuber-gabriel-monteiro-recebeu-punicoes-que-somam-33-dias-de-detencao-em-quase-4-anos-na-pm-24589361)
-* [América Latina passa de 6 milhões de casos da Covid-19](https://oglobo.globo.com/mundo/america-latina-passa-de-6-milhoes-de-casos-da-covid-19-24589355)
 * [Principal filme de Glauber Rocha será restaurado em 4K](https://epoca.globo.com/guilherme-amado/principal-filme-de-glauber-rocha-sera-restaurado-em-4k-24587002)

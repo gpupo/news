@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 21:14:50 UTC
+# indexed at 16/08/2020 21:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
-* [MicroPython](https://micropython.org/)
 * [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
+* [MicroPython](https://micropython.org/)
+* [I tried to use WordPress with GitHub Pages and it was a nightmare](https://www.melissadu.com/i-tried-to-use-wordpress-with-github-pages-and-it-was-a-nightmare/)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
-* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
+* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
-* [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
-* [I tried to use WordPress with GitHub Pages and it was a nightmare](https://www.melissadu.com/i-tried-to-use-wordpress-with-github-pages-and-it-was-a-nightmare/)
-* [SSH Considered Harmful – Why You Should Be Using Persistent Sessions](https://software.rajivprab.com/2019/07/14/ssh-considered-harmful/)
-* [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
-* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
 * [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
+* [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
+* [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
+* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
 * [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
-* [OPDS – Easy to Use, Open and Decentralized Content Distribution](https://opds.io/)
-* [Show HN: GradientMagic](https://www.gradientmagic.com/)
-* [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
-* [Around the Other Pond](https://www.historytoday.com/reviews/around-other-pond)
+* [Show HN: GradientMagic](https://www.gradientmagic.com/)
+* [OPDS – Easy to Use, Open and Decentralized Content Distribution](https://opds.io/)
 * [Professional sporting events increase seasonal influenza mortality in US cities](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3628649)
+* [Around the Other Pond](https://www.historytoday.com/reviews/around-other-pond)
 * [Moving from Common-Sense Knowledge About UEFI to Dumping UEFI Firmware](https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/)
 * [Landmark math proof clears hurdle in top Erdős conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
-* [It's been a pretty insane 12 hours across the Bay Area](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
-* [No New Categories](https://www.gkogan.co/blog/category-creation/?r=1)
 * [Error recovery with parser combinators, using Rust and nom](https://www.eyalkalderon.com/nom-error-recovery/)
 * [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
+* [No New Categories](https://www.gkogan.co/blog/category-creation/?r=1)
+* [Joxa: A concurrent, distributed Lisp for the Erlang VM](http://joxa.org)
 * [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
+* [Gammo – A pure-Ruby HTML5-compliant parser](https://github.com/namusyaka/gammo)
+* [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Looming Fee Increase Could Thwart Many U.S. Citizenship Applications](https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [On Neutral Courts, N.B.A. Bubble ‘Home’ Teams Still Have an Edge](https://www.nytimes.com/2020/08/16/sports/basketball/nba-homecourt-advantage-wnba.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [What to Do When Most Days Feel Like Wednesdays](https://www.nytimes.com/2020/07/15/at-home/newsletter.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -100,7 +100,8 @@ layout: default
 ## globo.com
 
 
-* [Sem autorização para entrar no Maracanã, Odair não comandará o Fluminense contra o Inter](https://oglobo.globo.com/esportes/sem-autorizacao-para-entrar-no-maracana-odair-nao-comandara-fluminense-contra-inter-1-24589709)
+* [Autoridade antitruste da Alemanha abre investigação contra Amazon, diz jornal](https://oglobo.globo.com/economia/autoridade-antitruste-da-alemanha-abre-investigacao-contra-amazon-diz-jornal-24589723)
+* [Com suspeita de Covid, Odair Hellmann não comanda o Fluminense contra o Inter](https://oglobo.globo.com/esportes/com-suspeita-de-covid-odair-hellmann-nao-comanda-fluminense-contra-inter-24589709)
 * [Vasco aproveita eficiência de Cano para vencer o São Paulo em São Januário](https://oglobo.globo.com/esportes/vasco-aproveita-eficiencia-de-cano-para-vencer-sao-paulo-em-sao-januario-24589714)
 * [Reportagem mostra como nova geração usa tecnologia para combater racismo](https://oglobo.globo.com/meu-oglobo/reportagem-mostra-como-nova-geracao-usa-tecnologia-para-combater-racismo-24589700)
 * [Democratas demandam que chefe dos Correios deponha ao Congresso, e Trump intensifica ataques à lisura da eleição](https://oglobo.globo.com/mundo/democratas-demandam-que-chefe-dos-correios-deponha-ao-congresso-trump-intensifica-ataques-lisura-da-eleicao-24589666)
@@ -109,4 +110,3 @@ layout: default
 * [Petrobras avança na venda de usinas termelétricas movidas a óleo combustível](https://oglobo.globo.com/economia/petrobras-avanca-na-venda-de-usinas-termeletricas-movidas-oleo-combustivel-24589608)
 * [Trabalhadores do entretenimento fazem ato em Copacabana pela liberação da realização de eventos](https://oglobo.globo.com/rio/trabalhadores-do-entretenimento-fazem-ato-em-copacabana-pela-liberacao-da-realizacao-de-eventos-24589480)
 * [Polícia Civil prende seis pessoas envolvidas em receptação de baterias furtadas de postes de energia](https://oglobo.globo.com/rio/policia-civil-prende-seis-pessoas-envolvidas-em-receptacao-de-baterias-furtadas-de-postes-de-energia-24589542)
-* [Blake Lively e Ryan Reynolds tiram selfie com máscaras customizadas pelas filhas e brincam: 'Não vamos envergonhá-las'](https://oglobo.globo.com/ela/gente/blake-lively-ryan-reynolds-tiram-selfie-com-mascaras-customizadas-pelas-filhas-brincam-nao-vamos-envergonha-las-24589524)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 20:16:54 UTC
+# indexed at 16/08/2020 20:34:58 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
-* [It's been a pretty insane 12 hours across the Bay Area](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
+* [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [MicroPython](https://micropython.org/)
+* [It's been a pretty insane 12 hours across the Bay Area](https://www.wrh.noaa.gov/total_forecast/getprod.php?new&prod=XXXAFDMTR&wfo=mtr)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
 * [Professional Sporting Events Increase Seasonal Influenza Mortality in US Cities](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3628649)
 * [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
-* [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
-* [Mozilla Foundation Independent Auditors‘ Report [pdf] (2019)](https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf)
+* [England and Wales 2020 highschool exams determined by controversial algorithm](https://www.bbc.co.uk/news/education-53787203)
 * [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
-* [England and Wales 2020 highschool exams determined by controversial algorithm](https://www.bbc.co.uk/news/education-53787203)
 * [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
 * [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
 * [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
+* [Mozilla Foundation Independent Auditors‘ Report [pdf] (2019)](https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf)
 * [OPDS – Easy to Use, Open and Decentralized Content Distribution](https://opds.io/)
-* [Moving from Common-Sense Knowledge About UEFI to Dumping UEFI Firmware](https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/)
+* [Debian turns 27](https://bits.debian.org/2020/08/debian-turns-27.html)
+* [Show HN: GradientMagic](https://www.gradientmagic.com/)
 * [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
 * [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
-* [Show HN: GradientMagic](https://www.gradientmagic.com/)
-* [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
+* [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
+* [Moving from Common-Sense Knowledge About UEFI to Dumping UEFI Firmware](https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/)
 * [No New Categories](https://www.gkogan.co/blog/category-creation/?r=1)
-* [Debian turns 27](https://bits.debian.org/2020/08/debian-turns-27.html)
-* [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Error recovery with parser combinators, using Rust and nom](https://www.eyalkalderon.com/nom-error-recovery/)
-* [Gammo – A pure-Ruby HTML5-compliant parser](https://github.com/namusyaka/gammo)
+* [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
+* [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 ## nytimes.com
 
 
@@ -79,11 +79,11 @@ layout: default
 * [Looming Fee Increase Could Thwart Many U.S. Citizenship Applications](https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [On Neutral Courts, N.B.A. Bubble ‘Home’ Teams Still Have an Edge](https://www.nytimes.com/2020/08/16/sports/basketball/nba-homecourt-advantage-wnba.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -92,21 +92,22 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
-* [The 'Basketball Cop' Was a Hero in One Video. Another Told a Different Story.](https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html)
+* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
+* [Trump searches for a line of attack as Biden and Harris hammer his handling of the virus.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/trump-searches-for-a-line-of-attack-as-biden-and-harris-hammer-his-handling-of-the-virus)
+* [‘Represent’ Review: Running for Office, and Seeking More Than Votes](https://www.nytimes.com/2020/08/13/movies/represent-review.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Democratas demandam que chefe dos Correios deponha ao Congresso, e Trump intensifica ataques à lisura da votação](https://oglobo.globo.com/mundo/democratas-demandam-que-chefe-dos-correios-deponha-ao-congresso-trump-intensifica-ataques-lisura-da-votacao-24589666)
-* [Redução da alíquota do biodiesel no diesel coloca em lados opostos produtores e distribuidores de combustíveis](https://oglobo.globo.com/economia/reducao-da-aliquota-do-biodiesel-no-diesel-coloca-em-lados-opostos-produtores-distribuidores-de-combustiveis-24589665)
-* [Petrobras avança na venda de usinas termelétricas movidas a óleo combustível](https://oglobo.globo.com/economia/petrobras-avanca-na-venda-de-usinas-termeletricas-movidas-oleo-combustivel-24589608)
-* [Orquestra Sinfônica Brasileira comemora 80 anos com séries de vídeos on-line](https://oglobo.globo.com/rioshow/orquestra-sinfonica-brasileira-comemora-80-anos-com-series-de-videos-on-line-1-24587399)
-* [Crivella anuncia adiamento da reabertura de teatros, cinemas e casas de eventos no Rio](https://oglobo.globo.com/rio/crivella-anuncia-adiamento-da-reabertura-de-teatros-cinemas-casas-de-eventos-no-rio-24589560)
-* [Trabalhadores do entretenimento fazem ato em Copacabana pela liberação da realização de eventos](https://oglobo.globo.com/rio/trabalhadores-do-entretenimento-fazem-ato-em-copacabana-pela-liberacao-da-realizacao-de-eventos-24589480)
 * [Presidente da Bielorrússia rejeita nova eleição e desafia protestos maciços](https://oglobo.globo.com/mundo/presidente-da-bielorrussia-rejeita-nova-eleicao-desafia-protestos-macicos-1-24589485)
+* [Reportagem mostra como nova geração usa tecnologia para combater racismo](https://oglobo.globo.com/meu-oglobo/reportagem-mostra-como-nova-geracao-usa-tecnologia-para-combater-racismo-24589700)
+* [Democratas demandam que chefe dos Correios deponha ao Congresso, e Trump intensifica ataques à lisura da eleição](https://oglobo.globo.com/mundo/democratas-demandam-que-chefe-dos-correios-deponha-ao-congresso-trump-intensifica-ataques-lisura-da-eleicao-24589666)
+* [Redução da alíquota do biodiesel no diesel coloca em lados opostos produtores e distribuidores de combustíveis](https://oglobo.globo.com/economia/reducao-da-aliquota-do-biodiesel-no-diesel-coloca-em-lados-opostos-produtores-distribuidores-de-combustiveis-24589665)
+* [Crivella anuncia adiamento da reabertura de teatros, cinemas e casas de eventos no Rio](https://oglobo.globo.com/rio/crivella-anuncia-adiamento-da-reabertura-de-teatros-cinemas-casas-de-eventos-no-rio-24589560)
+* [Petrobras avança na venda de usinas termelétricas movidas a óleo combustível](https://oglobo.globo.com/economia/petrobras-avanca-na-venda-de-usinas-termeletricas-movidas-oleo-combustivel-24589608)
+* [Trabalhadores do entretenimento fazem ato em Copacabana pela liberação da realização de eventos](https://oglobo.globo.com/rio/trabalhadores-do-entretenimento-fazem-ato-em-copacabana-pela-liberacao-da-realizacao-de-eventos-24589480)
 * [Análise prévia da eficácia de vacina de Oxford pode permitir uso emergencial em 2020, diz coordenadora de testes no Brasil](https://oglobo.globo.com/sociedade/coronavirus/analise-previa-da-eficacia-de-vacina-de-oxford-pode-permitir-uso-emergencial-em-2020-diz-coordenadora-de-testes-no-brasil-24589487)
 * [Polícia Civil prende seis pessoas envolvidas em receptação de baterias furtadas de postes de energia](https://oglobo.globo.com/rio/policia-civil-prende-seis-pessoas-envolvidas-em-receptacao-de-baterias-furtadas-de-postes-de-energia-24589542)
 * [Blake Lively e Ryan Reynolds tiram selfie com máscaras customizadas pelas filhas e brincam: 'Não vamos envergonhá-las'](https://oglobo.globo.com/ela/gente/blake-lively-ryan-reynolds-tiram-selfie-com-mascaras-customizadas-pelas-filhas-brincam-nao-vamos-envergonha-las-24589524)

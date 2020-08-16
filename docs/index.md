@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 19:14:44 UTC
+# indexed at 16/08/2020 19:35:27 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
-* [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [Professional Sporting Events Increase Seasonal Influenza Mortality in US Cities](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3628649)
-* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
+* [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
+* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
+* [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
+* [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
+* [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
+* [Mozilla Foundation Independent Auditors‘ Report [pdf]](https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf)
 * [Visual Game Editor for Pixi.js](https://ctjs.rocks/)
 * [OPDS – Easy to Use, Open and Decentralized Content Distribution](https://opds.io/)
-* [Show HN: GradientMagic](https://www.gradientmagic.com/)
-* [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
 * [Moving from Common-Sense Knowledge About UEFI to Dumping UEFI Firmware](https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/)
-* [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
-* [Gammo – A pure-Ruby HTML5-compliant parser](https://github.com/namusyaka/gammo)
-* [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
-* [Coronavirus crisis has made Brazil an ideal vaccine laboratory](https://www.nytimes.com/2020/08/15/world/americas/brazil-coronavirus-vaccine.html)
+* [Show HN: GradientMagic](https://www.gradientmagic.com/)
 * [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
+* [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
 * [No New Categories](https://www.gkogan.co/blog/category-creation/?r=1)
-* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
-* [Mozilla Foundation Independent Auditors‘ Report [pdf]](https://assets.mozilla.net/annualreport/2018/mozilla-fdn-2018-short-form-final-0926.pdf)
-* [“Time of the Magicians” – philosophy's great decade?](https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade)
+* [Coronavirus crisis has made Brazil an ideal vaccine laboratory](https://www.nytimes.com/2020/08/15/world/americas/brazil-coronavirus-vaccine.html)
 * [Web by Google (TM)](https://landshark.io/2020/08/16/web-by-google.html)
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
-* [Major quantum computational breakthrough is shaking up physics and maths](https://theconversation.com/major-quantum-computational-breakthrough-is-shaking-up-physics-and-maths-136634)
 * [Error recovery with parser combinators, using Rust and nom](https://www.eyalkalderon.com/nom-error-recovery/)
+* [Gammo – A pure-Ruby HTML5-compliant parser](https://github.com/namusyaka/gammo)
+* [Major quantum computational breakthrough is shaking up physics and maths](https://theconversation.com/major-quantum-computational-breakthrough-is-shaking-up-physics-and-maths-136634)
+* [England and Wales 2020 highschool exams determined by controversial algorithm](https://www.bbc.co.uk/news/education-53787203)
+* [“Time of the Magicians” – philosophy's great decade?](https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade)
 * [Amazon Liable for Defective Third-Party Products Rules CA Appellate Court](https://californiaglobe.com/section-2/amazon-liable-for-defective-third-party-products-rules-ca-appelate-court/)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
-* [Nim – Python-like statically-typed compiled language](https://nim-lang.org/)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [On Neutral Courts, N.B.A. Bubble ‘Home’ Teams Still Have an Edge](https://www.nytimes.com/2020/08/16/sports/basketball/nba-homecourt-advantage-wnba.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
@@ -92,16 +92,14 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Top Democrats Press for Postal Service Officials to Testify](https://www.nytimes.com/2020/08/16/us/politics/coronavirus-postal-service-stimulus-bill.html)
-* [Why Is China Coming After Americans Like Me in the U.S.?](https://www.nytimes.com/2020/08/10/opinion/china-hong-kong-arrest.html)
-* [Carroll Hardy, Athlete With a Unique Distinction, Dies at 87](https://www.nytimes.com/2020/08/12/sports/baseball/carroll-hardy-dead.html)
-* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
+* [The 'Basketball Cop' Was a Hero in One Video. Another Told a Different Story.](https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Crivella anuncia adiamento da reabertura de teatros, cinemas e casas de eventos no Rio](https://oglobo.globo.com/rio/crivella-anuncia-adiamento-da-reabertura-de-teatros-cinemas-casas-de-eventos-no-rio-24589560)
 * [Orquestra Sinfônica Brasileira comemora 80 anos com séries de vídeos on-line](https://oglobo.globo.com/rioshow/orquestra-sinfonica-brasileira-comemora-80-anos-com-series-de-videos-on-line-1-24587399)
 * [Trabalhadores do entretenimento fazem ato em Copacabana pela liberação da realização de eventos](https://oglobo.globo.com/rio/trabalhadores-do-entretenimento-fazem-ato-em-copacabana-pela-liberacao-da-realizacao-de-eventos-24589480)
 * [Presidente da Bielorrússia rejeita nova eleição e desafia protestos maciços](https://oglobo.globo.com/mundo/presidente-da-bielorrussia-rejeita-nova-eleicao-desafia-protestos-macicos-1-24589485)
@@ -109,6 +107,5 @@ layout: default
 * [Análise prévia da eficácia de vacina de Oxford pode permitir uso emergencial em 2020, diz coordenadora de testes no Brasil](https://oglobo.globo.com/sociedade/coronavirus/analise-previa-da-eficacia-de-vacina-de-oxford-pode-permitir-uso-emergencial-em-2020-diz-coordenadora-de-testes-no-brasil-24589487)
 * [Polícia Civil prende seis pessoas envolvidas em receptação de baterias furtadas de postes de energia](https://oglobo.globo.com/rio/policia-civil-prende-seis-pessoas-envolvidas-em-receptacao-de-baterias-furtadas-de-postes-de-energia-24589542)
 * [Blake Lively e Ryan Reynolds tiram selfie com máscaras customizadas pelas filhas e brincam: 'Não vamos envergonhá-las'](https://oglobo.globo.com/ela/gente/blake-lively-ryan-reynolds-tiram-selfie-com-mascaras-customizadas-pelas-filhas-brincam-nao-vamos-envergonha-las-24589524)
-* [Crivella divulgará esta tarde se autoriza ou não a reabertura de cinemas e teatros, prevista para este domingo](https://oglobo.globo.com/rio/crivella-divulgara-esta-tarde-se-autoriza-ou-nao-reabertura-de-cinemas-teatros-prevista-para-este-domingo-24589396)
 * [Argentina formaliza proposta revisada de dívida e estende prazo para acordo](https://oglobo.globo.com/economia/argentina-formaliza-proposta-revisada-de-divida-estende-prazo-para-acordo-24589463)
 * [Hamilton, absoluto, ganha GP da Espanha e está perto de recorde de vitórias de Schumacher](https://oglobo.globo.com/esportes/hamilton-absoluto-ganha-gp-da-espanha-esta-perto-de-recorde-de-vitorias-de-schumacher-24589436)

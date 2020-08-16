@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 16/08/2020 10:15:13 UTC
+# indexed at 16/08/2020 10:35:02 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Landmark Math Proof Clears Hurdle in Top Erdős Conjecture](https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/)
 * [Mutt email client 25 years old](http://mutt.org)
 * [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html)
+* [Karate: Test Automation Made Simple](https://github.com/intuit/karate)
+* [Apache Solr 8.6.1 Released](http://mail-archives.apache.org/mod_mbox/www-announce/202008.mbox/%3CCAD4GwrP%2B8r8W2GDDwaFb%3DXbP%2BQGfrbkS_kOhTAdjDRbPkS2%3DAw%40mail.gmail.com%3E)
 * [To the future occupants of my office at the MIT Media Lab](http://www.ethanzuckerman.com/blog/2020/08/15/to-the-future-occupants-of-my-office-at-the-mit-media-lab/)
 * [Connecting a Macintosh SE to the Internet with a Raspberry Pi](https://metalbabble.wordpress.com/2020/02/08/the-final-frontier-connecting-a-macintosh-se-to-the-internet-with-a-raspberry-pi/)
 * [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT)
 * [Using Askgit – A SQL interface to your Git repository](https://willschenk.com/articles/2020/using_askgit/)
-* [DaScript – high-performance statically strong typed scripting language](https://dascript.org/)
 * [The Messy Mediterranean](https://sovereignlimits.com/blog/the-messy-mediterranean)
+* [DaScript – high-performance statically strong typed scripting language](https://dascript.org/)
+* [Astrobotic's CubeRover program awarded $2M NASA contract](https://www.astrobotic.com/2019/10/2/astrobotic-s-cuberover-program-awarded-2-million-contract-by-nasa)
 * [Show HN: The Simplest Blogging Platform – QuickPublisher](https://www.quickpublisher.online)
 * [Ask HN: Does Google have no way to report scam advertisements?](https://news.ycombinator.com/item?id=24175924)
 * [USPS Files Patent for a Blockchain-Based Voting System](https://heraldsheets.com/us-postal-service-usps-files-patent-for-blockchain-based-voting-system/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [Kosmonaut: web browser from scratch in Rust](https://github.com/twilco/kosmonaut)
-* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
-* [PocketSuite is hiring (engineering, product, customer success, growth marketing)](https://angel.co/company/pocketsuite)
 * [The BEAM Has Spoiled Me](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html)
-* [RFC 188, by Damian Conway: Objects: Private keys and methods](https://raku-advent.blog/2020/08/16/rfc-188-by-damian-conway-objects-private-keys-and-methods/)
+* [PocketSuite is hiring (engineering, product, customer success, growth marketing)](https://angel.co/company/pocketsuite)
+* [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ)
 * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
 * [MiniFB: Small cross platform library to create framebuffer to draw pixels in](https://github.com/emoon/minifb)
+* [RFC 188, by Damian Conway: Objects: Private keys and methods](https://raku-advent.blog/2020/08/16/rfc-188-by-damian-conway-objects-private-keys-and-methods/)
 * [Elevated rates of autism in transgender and gender-diverse individuals](https://www.nature.com/articles/s41467-020-17794-1)
 * [New type of taste cell discovered in taste buds](https://neurosciencenews.com/taste-cells-16830/)
 * [BQN: An APL Variant from Marshall Lochbaum](https://mlochbaum.github.io/BQN/)
 * [Mystery of superior Leeuwenhoek microscope solved after 350 years (2018)](https://phys.org/news/2018-03-mystery-superior-leeuwenhoek-microscope-years.html)
 * [A guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
-* [Mosaic HIV Vaccines in Late-Stage Trials](https://www.verywellhealth.com/mosaic-hiv-vaccine-sparks-hope-4173079)
-* [Saliva-based Covid-19 test approved by FDA](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
-* [U.S. Department of Energy Unveils Blueprint for the Quantum Internet](https://www.energy.gov/articles/us-department-energy-unveils-blueprint-quantum-internet-launch-future-quantum-internet)
 ## nytimes.com
 
 
@@ -76,11 +76,11 @@ layout: default
 * [Japan’s Been Proudly Pacifist for 75 Years. A Missile Proposal Challenges That.](https://www.nytimes.com/2020/08/16/world/asia/japan-military-missiles-pacifist.html)
 * [Helping Girls Step Up to Entrepreneurship](https://www.nytimes.com/2020/08/14/your-money/girls-entrepreneurship-financial-literacy.html)
 * [With Less Breastfeeding Support, Mothers Are Turning to Online Help](https://www.nytimes.com/2020/08/11/parenting/breastfeeding-support-coronavirus.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [17 Learning Tools For Your Next Outdoor Excursion](https://www.nytimes.com/2020/08/11/travel/outdoors-apps-podcasts.html)
+* [I Was a Screen–Time Expert. Then the Coronavirus Happened.](https://www.nytimes.com/2020/07/27/parenting/children-screen-time-games-phones.html)
+* [How to Help Kids Cope With Moving](https://www.nytimes.com/2020/07/13/parenting/moving-tips-kids.html)
+* [Feeling Stuck? Five Tips for Managing Life Transitions](https://www.nytimes.com/2020/07/16/well/mind/managing-life-transitions.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
 * [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
 * [How Kate Pierson, of the B-52’s, and Monica Coleman, Spend Their Sundays](https://www.nytimes.com/2020/08/14/nyregion/coronavirus-kate-pierson-b-52s.html)
 * [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](https://www.nytimes.com/2020/08/13/arts/television/lovecraft-country-review.html)
@@ -89,7 +89,8 @@ layout: default
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
 * [A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle](https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html)
 * [The Coronavirus Is New, but Your Immune System Might Still Recognize It](https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html)
-* [Beer Truly Is the Champagne of Cocktails](https://www.nytimes.com/2020/08/14/dining/drinks/beer-cocktails.html)
+* [How Covid Sends Some Bodies to War With Themselves](https://www.nytimes.com/2020/08/11/magazine/covid-cytokine-storms.html)
+* [Judge orders Trump campaign to submit evidence today of fraud in mail voting.](https://www.nytimes.com/live/2020/08/14/us/election-biden-vs-trump/judge-orders-trump-campaign-to-submit-evidence-today-of-fraud-in-mail-voting)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -104,5 +105,5 @@ layout: default
 * [Ana Cláudia Guimarães: Experiência inédita no teatro 360º, onde pode-se escolher o ângulo para ver a peça](https://oglobo.globo.com/rio/bairros/ana-claudia-guimaraes-experiencia-inedita-no-teatro-360-onde-pode-se-escolher-angulo-para-ver-peca-24586895)
 * [Construções dentro de área de proteção ambiental em Charitas são alvo de inquérito](https://oglobo.globo.com/rio/bairros/construcoes-dentro-de-area-de-protecao-ambiental-em-charitas-sao-alvo-de-inquerito-1-24587392)
 * [Shows, sushi em cabines, rapel, subida em balão: Cidade das Artes lança novidades após flexibilização](https://oglobo.globo.com/rio/bairros/shows-sushi-em-cabines-rapel-subida-em-balao-cidade-das-artes-lanca-novidades-apos-flexibilizacao-24587125)
+* [Deputados gastaram R$ 9 milhões com aluguel de carros na pandemia](https://epoca.globo.com/guilherme-amado/deputados-gastaram-9-milhoes-com-aluguel-de-carros-na-pandemia-24587031)
 * [Denúncias por racismo no governo federal aumentam 160% em 2020](https://epoca.globo.com/guilherme-amado/denuncias-por-racismo-no-governo-federal-aumentam-160-em-2020-24586901)
-* ['A menor produtividade durante a pandemia pode fazer com que as mulheres tenham menos oportunidades', avalia a cientista Juliana Estradioto](https://oglobo.globo.com/celina/a-menor-produtividade-durante-pandemia-pode-fazer-com-que-as-mulheres-tenham-menos-oportunidades-avalia-cientista-juliana-estradioto-24556259)

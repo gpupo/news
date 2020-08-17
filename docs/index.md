@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 19:14:55 UTC
+# indexed at 17/08/2020 19:38:10 UTC
 
 
 ## news.ycombinator.com
 
 
-* [What’s Flying Above Us?](https://skycircl.es/donate/)
 * [I fear App Review is getting too powerful [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
-* [Karpathy's MinGPT](https://github.com/karpathy/minGPT)
+* [What’s Flying Above Us?](https://skycircl.es/donate/)
 * [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
+* [Karpathy's MinGPT](https://github.com/karpathy/minGPT)
 * [Chat server on a WiFi-enabled SD card](https://l-o-o-s-e-d.net/wartor)
-* [How to Build an Iconic Company – Keith Rabois [audio]](https://nugget.fm/rabois/)
 * [A Twist on Schrödinger's Cat Paradox Has Major Implications for Quantum Theory](https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/)
+* [How to Build an Iconic Company – Keith Rabois [audio]](https://nugget.fm/rabois/)
 * [A 35-year-old bug in patch found during the 2.11BSD restoration project](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
+* [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
+* [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
 * [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
 * [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
+* [We should discuss soil as much as we talk about coal](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
 * [Inviting employees back to the office – if you dare](https://www.functionize.com/blog/inviting-employees-back-to-the-office-if-you-dare/)
-* [IBM Reveals Next-Generation IBM POWER10 Processor](https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor)
 * [Named Tensors](http://nlp.seas.harvard.edu/NamedTensor)
+* [IBM Reveals Next-Generation IBM POWER10 Processor](https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [How the Black Sea shaped the ancient Mediterranean world](https://www.historytoday.com/reviews/around-other-pond)
-* [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
-* [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
 * [Using a Yubikey as a touchless, magic unlock key for Linux](https://kliu.io/post/yubico-magic-unlock/)
-* [Jobseekers face exploitation as online recruitment is riddled with fake news](https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news)
+* [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
 * [Show HN: Dungeon Map Doodler – Free online map drawing tool](https://dungeonmapdoodler.com/)
-* [Mux is looking for developers familiar with WebRTC/video to build new things](https://mux.com/jobs?hnj=18)
+* [Jobseekers face exploitation as online recruitment is riddled with fake news](https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news)
 * [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
+* [Apple to terminate developer account of Epic Games on August 28th](https://twitter.com/markgurman/status/1295432804440842242)
+* [Mux is looking for developers familiar with WebRTC/video to build new things](https://mux.com/jobs?hnj=18)
 * [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
-* [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
 * [Strange Rhythms: On Rosemary Mayer’s 1971 diary](https://www.thenation.com/article/culture/rosemary-mayer-diaries-1971/)
-* [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
 * [ACCC: Response to Google open letter](https://www.accc.gov.au/media-release/response-to-google-open-letter)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
-* [We should discuss soil as much as we talk about coal](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
 * [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
 ## nytimes.com
 
@@ -49,7 +49,7 @@ layout: default
 * [The Political Conventions Are Starting. Here’s What to Expect.](https://www.nytimes.com/video/us/politics/100000007219397/national-conventions-election.html)
 * [The M.V.P.s of This Year’s Conventions? The Digital and I.T. Teams](https://www.nytimes.com/2020/08/17/us/politics/streaming-convention.html)
 * [Covid-19 Live Updates](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html)
-* [Schools Reopening: The State of Play for K-12](https://www.nytimes.com/2020/08/17/us/k-12-schools-reopening.html)
+* [Schools Reopening in the Covid-19 Pandemic: The State of Play for K-12](https://www.nytimes.com/2020/08/17/us/k-12-schools-reopening.html)
 * [Struggling Under Lockdown, Schools Worldwide Relearn the Value of TV](https://www.nytimes.com/2020/08/17/world/coronavirus-television-schools.html)
 * [Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?](https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html)
 * [The Recession Is About to Slam Cities. Not Just the Blue-State Ones.](https://www.nytimes.com/2020/08/17/upshot/pandemic-recession-cities-fiscal-shortfall.html)
@@ -81,11 +81,10 @@ layout: default
 * [Trump’s Attacks on TikTok and WeChat Could Further Fracture the Internet](https://www.nytimes.com/2020/08/17/technology/trump-tiktok-wechat-ban.html)
 * [How 14 Elephant Seals Assisted an Antarctic Ice Study](https://www.nytimes.com/2020/08/14/science/antarctica-ocean-ice-seals.html)
 * [A College’s ‘Free Speech Areas’ Face Supreme Court Review](https://www.nytimes.com/2020/08/17/us/supreme-court-college-free-speech.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
 * [Aesha Ash Takes Her Place at the Head of the Class](https://www.nytimes.com/2020/08/13/arts/dance/aesha-ash-american-ballet-faculty.html)
 * [Winning the Right to Vote Was the Work of Many Lifetimes](https://www.nytimes.com/2020/08/13/us/suffrage-generations-vote.html)
 * [Luka Doncic and Kristaps Porzingis Set for N.B.A. Playoffs Debut](https://www.nytimes.com/2020/08/17/sports/basketball/doncic-porzingis-nba-playoffs.html)
@@ -104,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [BRT Rio terá duas novas linhas nos corredores Transoeste e Transcarioca a partir desta terça](https://oglobo.globo.com/rio/brt-rio-tera-duas-novas-linhas-nos-corredores-transoeste-transcarioca-partir-desta-terca-24590803)
-* [Guedes e Bolsonaro discutem alternativa para não furar teto de gastos](https://oglobo.globo.com/economia/guedes-bolsonaro-discutem-alternativa-para-nao-furar-teto-de-gastos-24590800)
-* [Amazônia registra uma nova queimada a cada 2 minutos, diz Greenpeace](https://oglobo.globo.com/sociedade/amazonia-registra-uma-nova-queimada-cada-2-minutos-diz-greenpeace-24590788)
 * [Lava-Jato do Rio condena Dario Messer, o 'doleiro dos doleiros', pela primeira vez](https://oglobo.globo.com/brasil/lava-jato-do-rio-condena-dario-messer-doleiro-dos-doleiros-pela-primeira-vez-24590799)
+* [Do Escândalo da Mandioca à Lava-Jato, que Ministério Público queremos?](https://oglobo.globo.com/opiniao/do-escandalo-da-mandioca-lava-jato-que-ministerio-publico-queremos-24590769)
+* [Guedes e Bolsonaro discutem alternativa para não furar teto de gastos](https://oglobo.globo.com/economia/guedes-bolsonaro-discutem-alternativa-para-nao-furar-teto-de-gastos-1-24590800)
+* [Cúpula da PF preocupada com mais um revés em delação feita pela corporação](https://epoca.globo.com/guilherme-amado/cupula-da-pf-preocupada-com-mais-um-reves-em-delacao-feita-pela-corporacao-24590806)
+* [Coluna | 'STF precisa se recolher e sair da vitrine', defende Marco Aurélio Mello](https://epoca.globo.com/carolina-brigido/coluna-stf-precisa-se-recolher-sair-da-vitrine-defende-marco-aurelio-mello-24590784)
+* [BRT Rio terá duas novas linhas nos corredores Transoeste e Transcarioca a partir desta terça](https://oglobo.globo.com/rio/brt-rio-tera-duas-novas-linhas-nos-corredores-transoeste-transcarioca-partir-desta-terca-24590803)
+* [Amazônia registra uma nova queimada a cada 2 minutos, diz Greenpeace](https://oglobo.globo.com/sociedade/amazonia-registra-uma-nova-queimada-cada-2-minutos-diz-greenpeace-24590788)
 * [Escola Firjan Senai abre inscrições para cursos técnicos on-line com preços populares](https://oglobo.globo.com/rio/bairros/escola-firjan-senai-abre-inscricoes-para-cursos-tecnicos-on-line-com-precos-populares-24582208)
 * [Na França, Amazon retira de seu site bonecas sexuais com aparência de meninas](https://oglobo.globo.com/celina/na-franca-amazon-retira-de-seu-site-bonecas-sexuais-com-aparencia-de-meninas-24590772)
-* [Coluna | 'STF precisa se recolher e sair da vitrine', defende Marco Aurélio Mello](https://epoca.globo.com/carolina-brigido/coluna-stf-precisa-se-recolher-sair-da-vitrine-defende-marco-aurelio-mello-24590784)
 * [Baluarte da Portela faz 87 anos e anuncia live com Marisa Monte e Paulinho da Viola](https://oglobo.globo.com/cultura/baluarte-da-portela-faz-87-anos-anuncia-live-com-marisa-monte-paulinho-da-viola-24590787)
-* [Datafolha: Atuação de Bolsonaro na pandemia é ruim ou péssima para 43%; só 30% apoiam](https://oglobo.globo.com/brasil/datafolha-atuacao-de-bolsonaro-na-pandemia-ruim-ou-pessima-para-43-so-30-apoiam-24590747)
-* [Monarco faz 87 anos ('ainda não chegou minha hora') e anuncia live com Paulinho da Viola e Marisa Monte](https://oglobo.globo.com/cultura/monarco-faz-87-anos-ainda-nao-chegou-minha-hora-anuncia-live-com-paulinho-da-viola-marisa-monte-1-24590637)

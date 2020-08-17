@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 06:17:22 UTC
+# indexed at 17/08/2020 06:34:59 UTC
 
 
 ## news.ycombinator.com
 
 
 * [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
-* [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
-* [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
-* [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
+* [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
+* [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
+* [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [Art of chording](https://www.artofchording.com)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
 * [MicroPython](https://micropython.org/)
-* [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
 * [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
-* [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
-* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
 * [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
+* [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
 * [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
-* [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
+* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
 * [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
+* [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
+* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
 * [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
-* [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
 * [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
+* [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
 * [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
 * [Utah and Georgia install tech that lets roads talk](https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk)
 * [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
-* [The Hard Problem of Breakfast](http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast)
 * [The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”](https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/)
+* [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
 * [Why did the A-level algorithm say no?](https://www.bbc.co.uk/news/education-53787203)
-* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
-* [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
+* [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
 ## nytimes.com
 
 
@@ -79,9 +79,9 @@ layout: default
 * [Fire Tornadoes Reported in Northern California Wildfire](https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
@@ -92,9 +92,9 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Who Opposes Defunding the N.Y.P.D.? These Black Lawmakers](https://www.nytimes.com/2020/08/10/nyregion/defund-police-nyc-council.html)
-* [Late Night Doesn’t Trust Trump With the Nation’s Mail](https://www.nytimes.com/2020/08/12/arts/television/late-night-seth-meyers-trump-postal-service.html)
-* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
+* [Why Be Vulnerable?](https://www.nytimes.com/2020/08/13/style/vulnerability-is-hard.html)
+* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
+* [Why A "Hidden" Trump Vote Can't Explain His Bad Poll Numbers](https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

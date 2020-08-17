@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 04:34:50 UTC
+# indexed at 17/08/2020 05:15:10 UTC
 
 
 ## news.ycombinator.com
 
 
+* [The Hard Problem of Breakfast](http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast)
 * [Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
 * [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
 * [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
 * [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [Art of chording](https://www.artofchording.com)
-* [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
-* [The Hard Problem of Breakfast](http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast)
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
 * [MicroPython](https://micropython.org/)
-* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
+* [Show HN: AppleBot – Automate Things in Apple Dev Portal (Developer.apple.com)](https://www.getapplebot.com)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
+* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
+* [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
 * [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
 * [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
 * [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
-* [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
 * [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
 * [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
-* [How long since Google said a Google Drive Linux client is coming?](https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/)
 * [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
+* [How long since Google said a Google Drive Linux client is coming?](https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
+* [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
 * [The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”](https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/)
 * [Why did the A-level algorithm say no?](https://www.bbc.co.uk/news/education-53787203)
-* [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
-* [“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite](https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite)
-* [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
-* [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
+* [Utah and Georgia install tech that lets roads talk](https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk)
 * [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
 ## nytimes.com
 
@@ -81,8 +81,8 @@ layout: default
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [The Los Angeles Teams Are the Best in the West, but Questions Remain](https://www.nytimes.com/2020/08/16/sports/basketball/lakers-clippers-nba-playoffs.html)
@@ -92,10 +92,10 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [YouTube says it will remove ‘hacked information’ meant to interfere with the election.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/youtube-says-it-will-remove-hacked-information-meant-to-interfere-with-the-election)
 * [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
 * [House candidate arrested on domestic violence charges clings to a 17-vote lead as a recount begins.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/house-candidate-arrested-on-domestic-violence-charges-clings-to-a-17-vote-lead-as-a-recount-begins)
-* [Shopping for Multi-Light Pendants](https://www.nytimes.com/2020/08/10/realestate/shopping-for-multi-light-pendants.html)
+* [Afghanistan to Investigate Video Showing Forces Mutilating Taliban Corpses](https://www.nytimes.com/2020/08/13/world/asia/afghanistan-taliban-mutilation-video.html)
+* [$630,000 Homes for Sale in California](https://www.nytimes.com/2020/08/10/realestate/630000-dollar-homes-for-sale-in-ca.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 03:15:57 UTC
+# indexed at 17/08/2020 03:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [How long since Google said a Google Drive Linux client is coming?](https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/)
 * [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
-* [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [Art of chording](https://www.artofchording.com)
+* [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
-* [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
 * [MicroPython](https://micropython.org/)
+* [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
+* [Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
 * [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
-* [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
-* [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
-* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
 * [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
-* [Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
-* [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
+* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
+* [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
 * [Hello “Hello World ”](https://blog.jfo.click/hello-hello-world/)
+* [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
 * [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
 * [The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”](https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/)
+* [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
 * [Why did the A-level algorithm say no?](https://www.bbc.co.uk/news/education-53787203)
 * [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
-* [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
+* [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
 * [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
-* [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
 * [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
-* [There's No Good Reason to Trust Blockchain Technology (2019)](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/)
+* [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
+* [“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite](https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [Fire Tornadoes Reported in Northern California Wildfire](https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [There’s Still a Pandemic Happening. It’s OK Not to Please Everyone.](https://www.nytimes.com/2020/07/16/smarter-living/people-pleaser-coronavirus.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [New Twists on Home-Sharing: 4 Airbnb Alternatives](https://www.nytimes.com/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [The Los Angeles Teams Are the Best in the West, but Questions Remain](https://www.nytimes.com/2020/08/16/sports/basketball/lakers-clippers-nba-playoffs.html)
 * [We Didn’t See Our Kids for 109 Days](https://www.nytimes.com/2020/08/14/parenting/singapore-children-coronavirus.html)
@@ -94,16 +94,18 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
-* [The 'Basketball Cop' Was a Hero in One Video. Another Told a Different Story.](https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html)
+* [A Cheese Club From a Noted Cheesemonger](https://www.nytimes.com/2020/08/10/dining/anne-saxelby-cheese-club.html)
+* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
+* [House candidate arrested on domestic violence charges clings to a 17-vote lead as a recount begins.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/house-candidate-arrested-on-domestic-violence-charges-clings-to-a-17-vote-lead-as-a-recount-begins)
+* [Here are four big tasks Biden and Harris face in their first appearance.](https://www.nytimes.com/2020/08/12/us/politics/here-are-four-big-tasks-biden-and-harris-face-in-their-first-appearance.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Futebo carioca é tema das palavras cruzadas do site do GLOBO numa edição temática nesta segunda-feira](https://oglobo.globo.com/brasil/futebo-carioca-tema-das-palavras-cruzadas-do-site-do-globo-numa-edicao-tematica-nesta-segunda-feira-1-24589951)
 * [Mortes por Covid-19 chegam a 107.879, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/mortes-por-covid-19-chegam-107879-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24589798)
+* [Futebo carioca é tema das palavras cruzadas do site do GLOBO numa edição temática nesta segunda-feira](https://oglobo.globo.com/brasil/futebo-carioca-tema-das-palavras-cruzadas-do-site-do-globo-numa-edicao-tematica-nesta-segunda-feira-1-24589951)
 * [Botafogo fica no zero com o Fortaleza e segue sem vencer no Brasileiro](https://oglobo.globo.com/esportes/botafogo-fica-no-zero-com-fortaleza-segue-sem-vencer-no-brasileiro-24589908)
 * [Morre ex-deputado Caio Narcio, aos 33 anos, vítima da Covid-19](https://oglobo.globo.com/brasil/morre-ex-deputado-caio-narcio-aos-33-anos-vitima-da-covid-19-24589799)
 * [Com dois gols de pênalti de Nenê, Fluminense vence o Internacional no Brasileiro](https://oglobo.globo.com/esportes/com-dois-gols-de-penalti-de-nene-fluminense-vence-internacional-no-brasileiro-24589800)

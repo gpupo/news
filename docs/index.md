@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 18:32:15 UTC
+# indexed at 17/08/2020 18:35:31 UTC
 
 
 ## news.ycombinator.com
@@ -102,11 +102,11 @@ layout: default
 ## globo.com
 
 
+* [Lucro do FGTS referente a 2019 já está depositado nas contas dos trabalhadores; veja como consultar](https://oglobo.globo.com/economia/lucro-do-fgts-referente-2019-ja-esta-depositado-nas-contas-dos-trabalhadores-veja-como-consultar-24590671)
+* [Mostra Internacional de Cinema em São Paulo terá sessões on-line por R$ 6, drive-in e homenagem à Cinemateca](https://oglobo.globo.com/cultura/mostra-internacional-de-cinema-em-sao-paulo-tera-sessoes-on-line-por-6-drive-in-homenagem-cinemateca-24590723)
 * [Bolívia ultrapassa 100 mil casos de coronavírus e governo prevê pico em setembro](https://oglobo.globo.com/mundo/bolivia-ultrapassa-100-mil-casos-de-coronavirus-governo-preve-pico-em-setembro-24590673)
-* [MEC complementará pacote de dados e distribuirá chips com internet para estudantes da rede federal](https://oglobo.globo.com/sociedade/mec-complementara-pacote-de-dados-distribuira-chips-com-internet-para-estudantes-da-rede-federal-24590614)
 * [Presidente do BNDES testa positivo para Covid-19](https://oglobo.globo.com/economia/presidente-do-bndes-testa-positivo-para-covid-19-24590687)
 * [Gilmar Mendes nega pedido de bolsonaristas para mudar comando da CPI das Fake News](https://oglobo.globo.com/brasil/gilmar-mendes-nega-pedido-de-bolsonaristas-para-mudar-comando-da-cpi-das-fake-news-24590689)
-* [Doria amplia pagamento de auxílio para desempregados em SP e oferta de cursos de qualificação profissional](https://oglobo.globo.com/brasil/doria-amplia-pagamento-de-auxilio-para-desempregados-em-sp-oferta-de-cursos-de-qualificacao-profissional-24590468)
 * [Alerj faz reunião sobre volta às aulas e escadaria tem protesto pela reabertura das escolas](https://oglobo.globo.com/rio/alerj-faz-reuniao-sobre-volta-as-aulas-escadaria-tem-protesto-pela-reabertura-das-escolas-24590675)
 * [Consumo mundial de petróleo vai levar 4 anos para voltar ao patamar pré-pandemia, diz estudo](https://oglobo.globo.com/economia/consumo-mundial-de-petroleo-vai-levar-4-anos-para-voltar-ao-patamar-pre-pandemia-diz-estudo-24590655)
 * [Trajetória de títulos assemelha Isla a Rafinha, mas diferença tática trará mudanças ao Flamengo](https://oglobo.globo.com/esportes/trajetoria-de-titulos-assemelha-isla-rafinha-mas-diferenca-tatica-trara-mudancas-ao-flamengo-24590567)

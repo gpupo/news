@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 17:15:14 UTC
+# indexed at 17/08/2020 17:34:27 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
 * [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
-* [A 35-year-old bug in patch found during the 2.11BSD restoration project](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
-* [Chat server on a WiFi-enabled SD card](https://l-o-o-s-e-d.net/wartor)
-* [Ask HN: How do you overcome decision fatigue in software development?](https://news.ycombinator.com/item?id=24176774)
-* [Mux is looking for developers familiar with WebRTC/video to build new things](https://mux.com/jobs?hnj=18)
-* [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
+* [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
 * [What’s Flying Above Us?](https://skycircl.es/donate/)
+* [Chat server on a WiFi-enabled SD card](https://l-o-o-s-e-d.net/wartor)
+* [A 35-year-old bug in patch found during the 2.11BSD restoration project](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
+* [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
+* [Ask HN: Parents, what are you doing for school this fall?](https://news.ycombinator.com/item?id=24189147)
 * [IBM Reveals Next-Generation IBM POWER10 Processor](https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor)
+* [Mux is looking for developers familiar with WebRTC/video to build new things](https://mux.com/jobs?hnj=18)
 * [How the Black Sea shaped the ancient Mediterranean world](https://www.historytoday.com/reviews/around-other-pond)
-* [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
+* [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [Named Tensors](http://nlp.seas.harvard.edu/NamedTensor)
 * [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
-* [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
-* [Ask HN: Parents, what are you doing for school this fall?](https://news.ycombinator.com/item?id=24189147)
-* [Show HN: Me And A Friend Remastered 85 Slate Star Codex Posts](https://www.slatestarcodexabridged.com/)
-* [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
+* [Show HN: A Friend And I Remastered 85 Slate Star Codex Posts](https://www.slatestarcodexabridged.com/)
 * [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
+* [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
+* [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
+* [What if we could live for a million years](https://www.scientificamerican.com/article/what-if-we-could-live-for-a-million-years/)
+* [Strange Rhythms: On Rosemary Mayer’s 1971 diary](https://www.thenation.com/article/culture/rosemary-mayer-diaries-1971/)
 * [ACCC: Response to Google open letter](https://www.accc.gov.au/media-release/response-to-google-open-letter)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
 * [Handmade: A Community for Self-Rolled Performant Software (2016)](https://handmade.network/manifesto)
 * [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
-* [Robinhood Now Valued at $11.2B with New Fund Backing](https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing)
 * [To Know, but Not Understand: David Weinberger on Science and Big Data (2012)](https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/)
+* [Robinhood Now Valued at $11.2B with New Fund Backing](https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing)
 * [A fake blog written by AI shot to the top of Hacker News](https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8)
-* [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
 * [Mindfulness and meditation can worsen depression and anxiety](https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/)
 * [“Time of the Magicians” – philosophy's great decade?](https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade)
-* [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
+* [Ask HN: How do you overcome decision fatigue in software development?](https://news.ycombinator.com/item?id=24176774)
 ## nytimes.com
 
 
@@ -79,8 +79,8 @@ layout: default
 * [Anger Mounts Over Mauritius Oil Spill](https://www.nytimes.com/2020/08/14/world/africa/mauritius-oil-spill.html)
 * [How 14 Elephant Seals Assisted an Antarctic Ice Study](https://www.nytimes.com/2020/08/14/science/antarctica-ocean-ice-seals.html)
 * [A College’s ‘Free Speech Areas’ Face Supreme Court Review](https://www.nytimes.com/2020/08/17/us/supreme-court-college-free-speech.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
@@ -93,22 +93,22 @@ layout: default
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
 * [For Doctors of Color, Microaggressions Are All Too Familiar](https://www.nytimes.com/2020/08/11/health/microaggression-medicine-doctors.html)
 * [New York Is Positioned to Reopen Schools Safely, Health Experts Say](https://www.nytimes.com/2020/08/07/health/coronavirus-ny-schools-reopen.html)
-* [When The Times Opposed Women’s Suffrage](https://www.nytimes.com/2020/08/17/opinion/womens-suffrage-new-york-times.html)
-* [New unemployment benefits authorized by President Trump won’t come until late August.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus/new-unemployment-benefits-authorized-by-president-trump-wont-come-until-late-august)
-* [Contact Lenses May Slow Nearsightedness in Children](https://www.nytimes.com/2020/08/17/well/family/contact-lenses-may-slow-nearsightedness-in-children.html)
+* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
+* [A Summer Lunch That Feels Like a Splurge](https://www.nytimes.com/2020/08/14/dining/lobster-salad-recipe.html)
+* [He Was an Active Guy. Suddenly His Legs Ached After a Few Blocks.](https://www.nytimes.com/2020/08/13/magazine/granulomatosis-with-polyangiitis.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Democratas pedem que FBI abra investigação contra chefe dos Correios, acusado de obstruir votação por carta](https://oglobo.globo.com/mundo/democratas-pedem-que-fbi-abra-investigacao-contra-chefe-dos-correios-acusado-de-obstruir-votacao-por-carta-24590389)
-* [Menina de 10 anos tem gravidez interrompida e passa bem](https://oglobo.globo.com/sociedade/aborto/menina-de-10-anos-tem-gravidez-interrompida-passa-bem-24590524)
 * [Israel irá importar das zonas francas dos Emirados e já prepara voos diretos através de corredor aéreo com Arábia Saudita](https://oglobo.globo.com/mundo/israel-ira-importar-das-zonas-francas-dos-emirados-ja-prepara-voos-diretos-atraves-de-corredor-aereo-com-arabia-saudita-24590569)
+* [Democratas pedem que FBI abra investigação contra chefe dos Correios, acusado de obstruir votação por carta](https://oglobo.globo.com/mundo/democratas-pedem-que-fbi-abra-investigacao-contra-chefe-dos-correios-acusado-de-obstruir-votacao-por-carta-24590389)
+* ['Nunca passei por uma situação parecida', diz médico sobre agressores que cercaram hospital em Recife](https://epoca.globo.com/brasil/nunca-passei-por-uma-situacao-parecida-diz-medico-sobre-agressores-que-cercaram-hospital-em-recife-24590624)
+* [Ministério da Economia listou 81 imóveis para hospitais de campanha, mas Saúde só respondeu 3 meses depois](https://oglobo.globo.com/sociedade/ministerio-da-economia-listou-81-imoveis-para-hospitais-de-campanha-mas-saude-so-respondeu-3-meses-depois-24590616)
+* [O MDB e o caso do aborto da menina grávida aos dez anos](https://epoca.globo.com/guilherme-amado/o-mdb-o-caso-do-aborto-da-menina-gravida-aos-dez-anos-1-24590374)
+* [Menina de 10 anos tem gravidez interrompida e passa bem](https://oglobo.globo.com/sociedade/aborto/menina-de-10-anos-tem-gravidez-interrompida-passa-bem-24590524)
 * [Banco de Desenvolvimento da América Latina vai emprestar US$ 350 milhões ao Brasil para enfrentar crise da pandemia](https://oglobo.globo.com/economia/banco-de-desenvolvimento-da-america-latina-vai-emprestar-us-350-milhoes-ao-brasil-para-enfrentar-crise-da-pandemia-24590558)
 * [Procon-SP multa iFood em R$ 2,5 milhões por má prestação de serviço e cláusulas abusivas](https://oglobo.globo.com/economia/defesa-do-consumidor/procon-sp-multa-ifood-em-25-milhoes-por-ma-prestacao-de-servico-clausulas-abusivas-24590551)
 * [Fogo Cruzado: Em cinco meses de quarentena, tiroteios no Grande Rio caíram 43%](https://oglobo.globo.com/rio/fogo-cruzado-em-cinco-meses-de-quarentena-tiroteios-no-grande-rio-cairam-43-24590531)
-* [O MDB e o caso do aborto da menina grávida aos dez anos](https://epoca.globo.com/guilherme-amado/o-mdb-o-caso-do-aborto-da-menina-gravida-aos-dez-anos-24590374)
 * [Pandemia e falta de trabalho impedem 1,5 milhão de procurar emprego no Rio](https://oglobo.globo.com/economia/pandemia-falta-de-trabalho-impedem-15-milhao-de-procurar-emprego-no-rio-24572740)
-* [Artigo: 'Quantos pontos fiz no Cartola?' Como as estatísticas viraram entretenimento no esporte](https://oglobo.globo.com/esportes/artigo-quantos-pontos-fiz-no-cartola-como-as-estatisticas-viraram-entretenimento-no-esporte-1-24590492)
-* [A invenção que permite converter água do mar em água potável em apenas meia hora, de forma sustentável](https://epoca.globo.com/sociedade/a-invencao-que-permite-converter-agua-do-mar-em-agua-potavel-em-apenas-meia-hora-de-forma-sustentavel-24590469)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 15:15:59 UTC
+# indexed at 17/08/2020 15:35:19 UTC
 
 
 ## news.ycombinator.com
 
 
 * [IBM Reveals Next-Generation IBM POWER10 Processor](https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor)
-* [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
 * [How the Black Sea shaped the ancient Mediterranean world](https://www.historytoday.com/reviews/around-other-pond)
+* [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
 * [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
 * [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
 * [ACCC: Response to Google open letter](https://www.accc.gov.au/media-release/response-to-google-open-letter)
-* [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
 * [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
+* [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
 * [Handmade: A Community for Self-Rolled Performant Software (2016)](https://handmade.network/manifesto)
+* [Ask HN: I need help finding the Australian Aboriginal flag in all artworks](https://news.ycombinator.com/item?id=24187794)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
 * [To Know, but Not Understand: David Weinberger on Science and Big Data (2012)](https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/)
 * [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
-* [The Market for Discontinued Photographic Film](https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/)
 * [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
+* [The Market for Discontinued Photographic Film](https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/)
 * [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
 * [Mindfulness and meditation can worsen depression and anxiety](https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/)
 * [“Time of the Magicians” – philosophy's great decade?](https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade)
 * [A Brief History of ClarisWorks (2003)](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
-* [Ask HN: I need help finding the Australian Aboriginal flag in all artworks](https://news.ycombinator.com/item?id=24187794)
-* [A brief introduction to observational entropy](https://arxiv.org/abs/2008.04409)
 * [Idris 2 version 0.2.1](https://www.idris-lang.org/idris-2-version-021-released.html)
-* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
 * [Ecommerce Is Eating the World – Join EasyPost](https://www.easypost.com/careers)
+* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
-* [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
-* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
-* [A-Levels: The Model is not the Student](http://thaines.com/post/alevels2020)
-* [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
 * [How to Start Using Microservices](https://hackernoon.com/how-to-start-using-microservices-0e1z3u47)
+* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
+* [A-Levels: The Model is not the Student](http://thaines.com/post/alevels2020)
+* [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
+* [Art of chording](https://www.artofchording.com)
 ## nytimes.com
 
 
@@ -67,7 +67,7 @@ layout: default
 * [Is this finally Joe Biden’s moment? Join the discussion with Jennifer Senior](https://www.pscp.tv/w/1lPKqLZpbQlxb)
 * [Meet Young Joe Biden, the ‘Wild Stallion’](https://www.nytimes.com/2020/08/15/opinion/joe-biden-2020-1988-what-it-takes.html)
 * [Junipero Serra's Sins](https://www.nytimes.com/2020/08/16/opinion/junipero-serra-catholic-saint.html)
-* [A Hospital Without Loved Ones Is the New Normal](https://www.nytimes.com/2020/08/17/opinion/coronavirus-hopsitals-visitors.html)
+* [Families Are Central to Critical Care. But the Waiting Room Is Empty.](https://www.nytimes.com/2020/08/17/opinion/coronavirus-hopsitals-visitors.html)
 * [How Tennessee Ratified the 19th Amendment](https://www.nytimes.com/2020/08/17/opinion/tennessee-19th-amendment.html)
 * [Your Questions About Coronavirus Testing, Answered](https://www.nytimes.com/2020/08/16/opinion/us-coronavirus-testing.html)
 * [The Women Who Fought Against the Vote](https://www.nytimes.com/2020/08/14/us/anti-suffrage-movement-vote.html)
@@ -82,11 +82,11 @@ layout: default
 * [The Week Old Hollywood Finally, Actually Died](https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html)
 * [With ‘Nobody Going to Work,’ Private Bus Companies Are Worried About the Future](https://www.nytimes.com/2020/08/17/nyregion/nyc-bus-commute-decamp.html)
 * [A College’s ‘Free Speech Areas’ Face Supreme Court Review](https://www.nytimes.com/2020/08/17/us/supreme-court-college-free-speech.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Secret Machines Are Back. So Much Has Changed.](https://www.nytimes.com/2020/08/16/arts/music/secret-machines-awake-in-the-brain-chamber.html)
 * [The Particular Pain of Pandemic Grief](https://www.nytimes.com/2020/08/14/well/family/the-particular-pain-of-pandemic-grief.html)
 * [What Historical Moment Is Leon Neyfakh Learning From Now?](https://www.nytimes.com/2020/08/17/style/leon-neyfakh-boston-busing-slow-burn.html)
@@ -96,9 +96,9 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [A Bitter Wind at a Shaky Time, and Iowa Is Left Reeling](https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html)
-* [Are Mammograms Worthwhile for Older Women?](https://www.nytimes.com/2020/08/17/well/live/mammograms-older-women.html)
-* [Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?](https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html)
+* [Coronavirus Doctors Battle Another Scourge: Misinformation](https://www.nytimes.com/2020/08/17/technology/coronavirus-disinformation-doctors.html)
+* [How to Cycle Up ‘Mount Everest’](https://www.nytimes.com/2020/08/13/sports/cycling/everesting-challenge-cycling-records.html)
+* [Trump attacks Biden’s mental state and touts an encouraging new poll.](https://www.nytimes.com/live/2020/08/17/us/dnc-convention/trump-attacks-bidens-mental-state-and-touts-an-encouraging-new-poll)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -106,9 +106,9 @@ layout: default
 
 
 * [Rei Juan Carlos, que deixou a Espanha há duas semanas, está nos Emirados Árabes Unidos](https://oglobo.globo.com/mundo/rei-juan-carlos-que-deixou-espanha-ha-duas-semanas-esta-nos-emirados-arabes-unidos-24590453)
+* [A invenção que permite converter água do mar em água potável em apenas meia hora, de forma sustentável](https://epoca.globo.com/sociedade/a-invencao-que-permite-converter-agua-do-mar-em-agua-potavel-em-apenas-meia-hora-de-forma-sustentavel-24590469)
 * [Estado do Rio teve em julho o menor número de homicídios dolosos em 30 anos; casos de estelionato dispararam](https://oglobo.globo.com/rio/estado-do-rio-teve-em-julho-menor-numero-de-homicidios-dolosos-em-30-anos-casos-de-estelionato-dispararam-24590385)
 * [Champions League: entenda por que o RB Leipzig, adversário do PSG de Neymar, é o time mais odiado da Alemanha](https://oglobo.globo.com/esportes/champions-league-entenda-por-que-rb-leipzig-adversario-do-psg-de-neymar-o-time-mais-odiado-da-alemanha-24590422)
-* [Estados Unidos endurecem restrições de acesso da Huawei à tecnologia americana](https://oglobo.globo.com/economia/estados-unidos-endurecem-restricoes-de-acesso-da-huawei-tecnologiaamericana-1-24590313)
 * [Temperatura mais alta do mundo pode ter sido registrada nos EUA](https://epoca.globo.com/mundo/temperatura-mais-alta-do-mundo-pode-ter-sido-registrada-nos-eua-1-24590352)
 * [Veste Rio: outlet virtual abre nesta segunda-feira com 50 marcas](https://oglobo.globo.com/ela/veste-rio/veste-rio-outlet-virtual-abre-nesta-segunda-feira-com-50-marcas-24590377)
 * [Google faz ofensiva contra lei australiana que obriga gigantes da internet a pagar por notícias](https://oglobo.globo.com/economia/google-faz-ofensiva-contra-lei-australiana-que-obriga-gigantes-da-internet-pagar-por-noticias-24590191)

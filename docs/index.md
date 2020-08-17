@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 16:16:51 UTC
+# indexed at 17/08/2020 16:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
+* [A 35-year-old bug in patch found during the 2.11BSD restoration project](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
+* [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
 * [IBM Reveals Next-Generation IBM POWER10 Processor](https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor)
 * [How the Black Sea shaped the ancient Mediterranean world](https://www.historytoday.com/reviews/around-other-pond)
-* [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
-* [A 35-year-old bug in patch found during the 2.11BSD restoration project](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
-* [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
+* [I Quit My Job. Here’s How I Planned the Start as an Entrepreneur](https://medium.com/@sjorsvandongen/i-quit-my-job-heres-how-i-planned-the-start-as-an-entrepreneur-7bc546631431)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
+* [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
 * [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
 * [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
 * [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
 * [ACCC: Response to Google open letter](https://www.accc.gov.au/media-release/response-to-google-open-letter)
-* [Handmade: A Community for Self-Rolled Performant Software (2016)](https://handmade.network/manifesto)
+* [Ask HN: How do you overcome decision fatigue in software development?](https://news.ycombinator.com/item?id=24176774)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
-* [To Know, but Not Understand: David Weinberger on Science and Big Data (2012)](https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/)
+* [Handmade: A Community for Self-Rolled Performant Software (2016)](https://handmade.network/manifesto)
 * [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
+* [To Know, but Not Understand: David Weinberger on Science and Big Data (2012)](https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/)
 * [The Market for Discontinued Photographic Film](https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/)
-* [Ask HN: I need help finding the Australian Aboriginal flag in all artworks](https://news.ycombinator.com/item?id=24187794)
 * [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
-* [Named Tensors](http://nlp.seas.harvard.edu/NamedTensor)
+* [Ask HN: I need help finding the Australian Aboriginal flag in all artworks](https://news.ycombinator.com/item?id=24187794)
 * [“Time of the Magicians” – philosophy's great decade?](https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade)
+* [Named Tensors](http://nlp.seas.harvard.edu/NamedTensor)
 * [Mindfulness and meditation can worsen depression and anxiety](https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/)
 * [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
+* [Robinhood Now Valued at $11.2B with New Fund Backing](https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing)
 * [Rolling Blackouts in California Have Power Experts Stumped](https://www.nytimes.com/2020/08/16/business/california-blackouts.html)
 * [A Brief History of ClarisWorks (2003)](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
-* [Robinhood Now Valued at $11.2B with New Fund Backing](https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing)
-* [Idris 2 version 0.2.1](https://www.idris-lang.org/idris-2-version-021-released.html)
 * [Ecommerce Is Eating the World – Join EasyPost](https://www.easypost.com/careers)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
-* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
-* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [Idris 2 version 0.2.1](https://www.idris-lang.org/idris-2-version-021-released.html)
 ## nytimes.com
 
 
@@ -81,11 +81,11 @@ layout: default
 * [The Week Old Hollywood Finally, Actually Died](https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html)
 * [With ‘Nobody Going to Work,’ Private Bus Companies Are Worried About the Future](https://www.nytimes.com/2020/08/17/nyregion/nyc-bus-commute-decamp.html)
 * [A College’s ‘Free Speech Areas’ Face Supreme Court Review](https://www.nytimes.com/2020/08/17/us/supreme-court-college-free-speech.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
+* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [Five-Minute Coronavirus Stress Resets](https://www.nytimes.com/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
 * [Secret Machines Are Back. So Much Has Changed.](https://www.nytimes.com/2020/08/16/arts/music/secret-machines-awake-in-the-brain-chamber.html)
 * [The Particular Pain of Pandemic Grief](https://www.nytimes.com/2020/08/14/well/family/the-particular-pain-of-pandemic-grief.html)
 * [What Historical Moment Is Leon Neyfakh Learning From Now?](https://www.nytimes.com/2020/08/17/style/leon-neyfakh-boston-busing-slow-burn.html)

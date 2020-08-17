@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 12:20:35 UTC
+# indexed at 17/08/2020 12:34:48 UTC
 
 
 ## news.ycombinator.com
@@ -14,25 +14,25 @@ layout: default
 * [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
 * [An Introduction to OpenBSD](https://blog.lambda.cx/posts/openbsd-introduction-talk/)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
+* [Ecommerce Is Eating the World – Join EasyPost](https://www.easypost.com/careers)
 * [To Know, but Not Understand: David Weinberger on Science and Big Data (2012)](https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/)
 * [Handmade: A Community for Self-Rolled Performant Software (2016)](https://handmade.network/manifesto)
 * [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
 * [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
 * [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
-* [A brief introduction to observational entropy](https://arxiv.org/abs/2008.04409)
+* [How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans](https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans)
 * [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
-* [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
-* [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
 * [The Market for Discontinued Photographic Film](https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/)
+* [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
+* [A brief introduction to observational entropy](https://arxiv.org/abs/2008.04409)
 * [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
-* [Predatory journal accepts fake story about scooters and hydroxychloroquine](https://scienceintegritydigest.com/2020/08/16/predatory-journal-accepts-fake-story-about-scooters-and-hydroxychloroquine/)
+* [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
 * [A Brief History of ClarisWorks (2003)](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
 * [Art of chording](https://www.artofchording.com)
 * [Idris 2 version 0.2.1](https://www.idris-lang.org/idris-2-version-021-released.html)
-* [How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans](https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans)
 * [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
-* [A-Levels: The Model is not the Student](http://thaines.com/post/alevels2020)
 * [Mindfulness and meditation can worsen depression and anxiety](https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/)
+* [A-Levels: The Model is not the Student](http://thaines.com/post/alevels2020)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
 * [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
 * [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
@@ -49,7 +49,7 @@ layout: default
 * [Trump as Candidate: Racist Attacks, Conspiracy Theories, War on the Post Office](https://www.nytimes.com/2020/08/17/us/politics/trump-election.html)
 * [Bernie Sanders Lost Again, but This Time He’ll Deliver a Victory Speech](https://www.nytimes.com/2020/08/17/us/politics/bernie-sanders-dnc.html)
 * [The Political Conventions Are Starting. Here’s What to Expect.](https://www.nytimes.com/video/us/politics/100000007219397/national-conventions-election.html)
-* [What You Need to Know About the 2020 Democratic National Convention](https://www.nytimes.com/article/the-dnc-explained.html)
+* [The Democratic Convention: Night 1 Explained](https://www.nytimes.com/article/the-dnc-explained.html)
 * [A Private Security Company Is Detaining Migrant Children at Hotels](https://www.nytimes.com/2020/08/16/us/migrant-children-hotels-coronavirus.html)
 * [Looming Fee Increase Could Thwart Many U.S. Citizenship Applications](https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html)
 * [A Crackdown on Belarus Protests Backfires. Here’s What Videos Show.](https://www.nytimes.com/2020/08/17/world/europe/belarus-crackdown-protests-minsk.html)
@@ -82,10 +82,10 @@ layout: default
 * [With ‘Nobody Going to Work,’ Private Bus Companies Are Worried About the Future](https://www.nytimes.com/2020/08/17/nyregion/nyc-bus-commute-decamp.html)
 * [A College’s ‘Free Speech Areas’ Face Supreme Court Review](https://www.nytimes.com/2020/08/17/us/supreme-court-college-free-speech.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Secret Machines Are Back. So Much Has Changed.](https://www.nytimes.com/2020/08/16/arts/music/secret-machines-awake-in-the-brain-chamber.html)
 * [The Particular Pain of Pandemic Grief](https://www.nytimes.com/2020/08/14/well/family/the-particular-pain-of-pandemic-grief.html)
 * [What Historical Moment Is Leon Neyfakh Learning From Now?](https://www.nytimes.com/2020/08/17/style/leon-neyfahk-boston-busing-slow-burn.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
+* ['Arrastaram ele pela perna', diz tia de jovem morto após torneio de futsal no Morro dos Macacos](https://oglobo.globo.com/rio/arrastaram-ele-pela-perna-diz-tia-de-jovem-morto-apos-torneio-de-futsal-no-morro-dos-macacos-24590211)
+* [Coluna | Caloteira serial, Argentina consegue entendimento com credores](https://epoca.globo.com/ariel-palacios/coluna-caloteira-serial-argentina-consegue-entendimento-com-credores-24590206)
+* [AGU recupera R$ 3,29 bilhões no primeiro semestre](https://oglobo.globo.com/brasil/agu-recupera-329-bilhoes-no-primeiro-semestre-1-24590152)
 * [Príncipes William e Harry mal se falam, segundo biógrafo](https://oglobo.globo.com/ela/gente/principes-william-harry-mal-se-falam-segundo-biografo-24590185)
-* [AGU recupera R$ 3,29 bilhões no primeiro semestre](https://oglobo.globo.com/brasil/agu-recupera-329-bilhoes-no-primeiro-semestre-24590152)
 * ['Chance desses índios não adoecerem é a mesma de ganhar na Mega-Sena', diz sertanista que fez contato com isolados](https://oglobo.globo.com/sociedade/chance-desses-indios-nao-adoecerem-a-mesma-de-ganhar-na-mega-sena-diz-sertanista-que-fez-contato-com-isolados-24590103)
 * ['Chance desses índios não ficarem doentes é a mesma de ganhar na Mega-Sena', diz sertanista que contatou isolados](https://oglobo.globo.com/sociedade/chance-desses-indios-nao-ficarem-doentes-a-mesma-de-ganhar-na-mega-sena-diz-sertanista-que-contatou-isolados-24590142)
 * [Protestos em Belarus: manifestantes presos relatam 'inferno na Terra' com tortura e abuso](https://epoca.globo.com/mundo/protestos-em-belarus-manifestantes-presos-relatam-inferno-na-terra-com-tortura-abuso-24590100)
 * [Para presidente da Alerj, parecer de Aras deve ser favorável sobre rito de impeachment de Witzel](https://oglobo.globo.com/rio/para-presidente-da-alerj-parecer-de-aras-deve-ser-favoravel-sobre-rito-de-impeachment-de-witzel-24590123)
 * [PIB do Japão tem queda recorde, e recessão se agrava no país](https://oglobo.globo.com/economia/pib-do-japao-tem-queda-recorde-recessao-se-agrava-no-pais-1-24590080)
-* [Retorno presencial ao trabalho preocupa servidores públicos, que ameaçam greve](https://oglobo.globo.com/sociedade/retorno-presencial-ao-trabalho-preocupa-servidores-publicos-que-ameacam-greve-24581652)
-* [Entidade pede cancelamento de próximo edital da Fundação Palmares até ter contrato assinado](https://epoca.globo.com/guilherme-amado/entidade-pede-cancelamento-de-proximo-edital-da-fundacao-palmares-ate-ter-contrato-assinado-24587291)
 * [Janete Clair no teatro](https://epoca.globo.com/guilherme-amado/janete-clair-no-teatro-24586939)

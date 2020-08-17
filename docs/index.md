@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 02:17:29 UTC
+# indexed at 17/08/2020 02:35:08 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
 * [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
-* [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
+* [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
 * [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
 * [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
 * [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
-* [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
-* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [Hello “Hello World ”](https://blog.jfo.click/hello-hello-world/)
-* [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
+* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
+* [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
 * [The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”](https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/)
+* [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
 * [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
-* [Progressive Cheatsheets – Making a Better Cheatsheet](https://www.hillelwayne.com/post/cheatsheets/)
 * [Why did the A-level algorithm say no?](https://www.bbc.co.uk/news/education-53787203)
 * [In the Turkish locale, "INFO".lower() != "info"](https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802)
+* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
 * [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)
+* [Progressive Cheatsheets – Making a Better Cheatsheet](https://www.hillelwayne.com/post/cheatsheets/)
 * [Kapton: Miracle Material with a Tragic History](https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/)
 * [“Japanese Lindberghs” Made a 10k Mile-Flight in 1937](https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/)
 * [AKAI MPC 3000 sampler/sequencer drum machine](https://audiojive.com/akai-mpc-3000/)
 * [Web History: Browsers](https://css-tricks.com/chapter-2-browsers/)
 * [There's No Good Reason to Trust Blockchain Technology (2019)](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/)
 * [Show HN: GradientMagic](https://www.gradientmagic.com/)
-* [QAnon Was a Theory on a Message Board. Now It’s Headed to Congress](https://www.nytimes.com/2020/08/15/opinion/qanon-marjorie-greene-congress.html)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [The Los Angeles Teams Are the Best in the West, but Questions Remain](https://www.nytimes.com/2020/08/16/sports/basketball/lakers-clippers-nba-playoffs.html)
 * [We Didn’t See Our Kids for 109 Days](https://www.nytimes.com/2020/08/14/parenting/singapore-children-coronavirus.html)

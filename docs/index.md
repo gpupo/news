@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 06:34:59 UTC
+# indexed at 17/08/2020 07:15:54 UTC
 
 
 ## news.ycombinator.com
 
 
-* [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
-* [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
+* [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
+* [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
+* [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
 * [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
+* [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
 * [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [Art of chording](https://www.artofchording.com)
-* [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
+* [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
 * [MicroPython](https://micropython.org/)
-* [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
-* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
-* [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
+* [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
 * [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
+* [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
 * [How Purism avoids Intel’s Active Management Technology](https://puri.sm/learn/avoiding-intel-amt/)
 * [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
-* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
-* [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
-* [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
-* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
-* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
+* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [Digital Design in Architecture: research landscape map 1975-2019](https://github.com/antonsavov/research-maps)
 * [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
-* [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
+* [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
+* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
+* [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
+* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
+* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
 * [WebAssembly without the browser part 1](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
-* [Utah and Georgia install tech that lets roads talk](https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk)
+* [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
 * [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
+* [Utah and Georgia install tech that lets roads talk](https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
 * [The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”](https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/)
-* [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
-* [Why did the A-level algorithm say no?](https://www.bbc.co.uk/news/education-53787203)
-* [A guide to learning algorithms through LeetCode](https://github.com/labuladong/fucking-algorithm/tree/english)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [A Private Security Company Is Detaining Migrant Children at Hotels](https://www.nytimes.com/2020/08/16/us/migrant-children-hotels-coronavirus.html)
 * [Looming Fee Increase Could Thwart Many U.S. Citizenship Applications](https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
-* [Coronavirus News: Strong Immunity May Follow Even Mild Cases](https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html)
+* [Scientists See Signs of Lasting Virus Immunity, Even After Mild Infections](https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html)
 * [Can Los Angeles Schools Test 700,000 Students and 75,000 Employees? That’s the Plan](https://www.nytimes.com/2020/08/16/us/los-angeles-schools-virus-testing.html)
 * [The Week Old Hollywood Finally, Actually Died](https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html)
 * [The Sunday Read: ‘Unwanted Truths’](https://www.nytimes.com/2020/08/16/podcasts/the-daily/trump-russia-intelligence.html)
@@ -79,11 +79,11 @@ layout: default
 * [Fire Tornadoes Reported in Northern California Wildfire](https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
-* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
+* [How to Add More Play to Your Grown-Up Life — Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [The Los Angeles Teams Are the Best in the West, but Questions Remain](https://www.nytimes.com/2020/08/16/sports/basketball/lakers-clippers-nba-playoffs.html)
 * [We Didn’t See Our Kids for 109 Days](https://www.nytimes.com/2020/08/14/parenting/singapore-children-coronavirus.html)
@@ -101,10 +101,10 @@ layout: default
 ## globo.com
 
 
-* [Futebo carioca é tema das palavras cruzadas do site do GLOBO numa edição temática nesta segunda-feira](https://oglobo.globo.com/brasil/futebo-carioca-tema-das-palavras-cruzadas-do-site-do-globo-numa-edicao-tematica-nesta-segunda-feira-1-24589951)
-* [Botafogo fica no zero com o Fortaleza e segue sem vencer no Brasileiro](https://oglobo.globo.com/esportes/botafogo-fica-no-zero-com-fortaleza-segue-sem-vencer-no-brasileiro-24589908)
+* [Veja alguns dos principais pontos da delação em que Edmar Santos diz ter sido ameaçado](https://oglobo.globo.com/rio/veja-alguns-dos-principais-pontos-da-delacao-em-que-edmar-santos-diz-ter-sido-ameacado-24589987)
+* [Presidente da Alerj acredita em parecer favorável de Aras sobre rito de impeachment de Witzel](https://oglobo.globo.com/rio/presidente-da-alerj-acredita-em-parecer-favoravel-de-aras-sobre-rito-de-impeachment-de-witzel-24589990)
+* [Entenda por que a retomada dos esportes olímpicos no Brasil se dará de forma diferente do futebol](https://oglobo.globo.com/esportes/entenda-por-que-retomada-dos-esportes-olimpicos-no-brasil-se-dara-de-forma-diferente-do-futebol-1-24585867)
 * [A metamorfose do mito](https://oglobo.globo.com/opiniao/a-metamorfose-do-mito-24587212)
-* [Julgamento de Dallagnol reflete o clima para implodir a Lava-Jato](https://oglobo.globo.com/opiniao/julgamento-de-dallagnol-reflete-clima-para-implodir-lava-jato-1-24587612)
 * [No Dia do Pão de Queijo, três receitas do quitute](https://oglobo.globo.com/rioshow/no-dia-do-pao-de-queijo-tres-receitas-do-quitute-24586803)
 * [Sem transparência, partidos abusam do dinheiro público](https://oglobo.globo.com/opiniao/sem-transparencia-partidos-abusam-do-dinheiro-publico-24587560)
 * [O impagável preço da burocracia](https://oglobo.globo.com/opiniao/o-impagavel-preco-da-burocracia-24584429)

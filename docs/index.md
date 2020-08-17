@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 08:17:14 UTC
+# indexed at 17/08/2020 08:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
 * [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
+* [Handmade: A Community for Self-Rolled Performant Software](https://handmade.network/manifesto)
 * [XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers](https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/)
 * [Idris 2 version 0.2.1](https://www.idris-lang.org/idris-2-version-021-released.html)
-* [Handmade: A Community for Self-Rolled Performant Software](https://handmade.network/manifesto)
 * [Google: Open Letter to Australians](https://about.google/intl/ALL_au/google-in-australia/an-open-letter/)
 * [Factorio and Software Engineering](https://blog.nindalf.com/posts/factorio-and-software-engineering/)
 * [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [A CRISPR first produces squid as clear as glass](https://www.nature.com/articles/d41586-020-02242-3)
-* [Art of chording](https://www.artofchording.com)
 * [A Brief History of ClarisWorks (1969)](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
+* [Art of chording](https://www.artofchording.com)
 * [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
 * [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
-* [Digital Design in Architecture: research landscape map 1975-2019](https://github.com/antonsavov/research-maps)
-* [Show HN: I made an extension to watch Netflix films with screenplays in sync](https://screenplaysubs.com/)
-* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
 * [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
+* [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
 * [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
+* [Digital Design in Architecture: research landscape map 1975-2019](https://github.com/antonsavov/research-maps)
 * [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
-* [Global Wave Discovery Ends 220-Year Search](http://abstractions.nautil.us/article/603/global-wave-discovery-ends-220-year-search)
-* [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
 * [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
+* [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
 * [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
-* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
+* [Global Wave Discovery Ends 220-Year Search](http://abstractions.nautil.us/article/603/global-wave-discovery-ends-220-year-search)
+* [WebAssembly without the browser](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
 * [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
 * [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
-* [WebAssembly without the browser](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
+* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
+* [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [Fire Tornadoes Reported in Northern California Wildfire](https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [The Los Angeles Teams Are the Best in the West, but Questions Remain](https://www.nytimes.com/2020/08/16/sports/basketball/lakers-clippers-nba-playoffs.html)
@@ -92,9 +92,10 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Why Be Vulnerable?](https://www.nytimes.com/2020/08/13/style/vulnerability-is-hard.html)
-* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
-* [Why A "Hidden" Trump Vote Can't Explain His Bad Poll Numbers](https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html)
+* [Bernie Sanders Lost Again, but This Time He’ll Deliver a Victory Speech](https://www.nytimes.com/2020/08/17/us/politics/bernie-sanders-dnc.html)
+* [Hedge funds and private equity firms gave loans. Now they’re suing.](https://www.nytimes.com/2020/08/13/business/hedge-funds-and-private-equity-firms-gave-loans-now-theyre-suing.html)
+* [‘Project Power’ Review: Ye Olde Bangs, Scares and Clichés](https://www.nytimes.com/2020/08/13/movies/project-power-review.html)
+* [Michael Cohen releases new details about his forthcoming memoir.](https://www.nytimes.com/live/2020/08/13/us/biden-vs-trump/michael-cohen-releases-new-details-about-his-forthcoming-memoir)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

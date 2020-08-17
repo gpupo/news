@@ -2,13 +2,14 @@
 layout: default
 ---
 
-# indexed at 17/08/2020 09:15:49 UTC
+# indexed at 17/08/2020 09:35:03 UTC
 
 
 ## news.ycombinator.com
 
 
 * [IBM Reveals Next-Generation IBM POWER10 Processor](https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor)
+* [ACCC: Response to Google Open Letter](https://www.accc.gov.au/media-release/response-to-google-open-letter)
 * [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/)
 * [OpenAI: Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
 * [Nerves – Elixir Platform for IoT](https://www.nerves-project.org/)
@@ -21,23 +22,22 @@ layout: default
 * [Pure Skill Minesweeper](https://github.andrewt.net/mines/)
 * [A Brief History of ClarisWorks (2003)](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
 * [Art of chording](https://www.artofchording.com)
-* [Recent Advances in Natural Language Processing](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/)
 * [Death Valley soars to 130 degrees, Earth’s highest temperature since 1931](https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/)
-* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
 * [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/)
 * [Reversing Mental Age with Psychedelics](https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/)
+* [Show HN: Structopt for C++ – Parse command line arguments by defining a struct](https://github.com/p-ranav/structopt)
 * [Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi](https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/)
-* [Digital Design in Architecture: research landscape map 1975-2019](https://github.com/antonsavov/research-maps)
 * [The Baltic states are reconfiguring their electric grids](https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids)
-* [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
+* [Digital Design in Architecture: research landscape map 1975-2019](https://github.com/antonsavov/research-maps)
 * [TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM](https://github.com/hpi-swa/trufflesqueak)
+* [The Strange Costumes of the Plague Doctors](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html)
 * [Alaska that never was: Seward's Success (2011)](http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html)
-* [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html)
 * [WebAssembly without the browser](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html)
 * [Show HN: Use React to build G Suite dialogs and add-ons](https://github.com/enuchi/React-Google-Apps-Script)
-* [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
 * [Remote work is reshaping San Francisco, as tech workers flee and rents fall](https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602)
+* [Hello “Hello World”](https://blog.jfo.click/hello-hello-world/)
 * [Utah and Georgia install tech that lets roads talk](https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk)
+* [The Game Archaeologist Discovers the Island of Kesmai (2012)](https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html)
 ## nytimes.com
 
 
@@ -79,10 +79,10 @@ layout: default
 * [Fire Tornadoes Reported in Northern California Wildfire](https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html)
 * [Christophe Girard, Former Deputy Mayor of Paris, Accused of Sexual Abuse](https://www.nytimes.com/2020/08/16/world/europe/christophe-girard-gabriel-matzneff-paris-france.html)
 * [The Israel-U.A.E. Deal and the Beirut Blast Both Box in Iran](https://www.nytimes.com/2020/08/16/world/middleeast/the-israel-uae-deal-and-the-beirut-blast-both-box-in-iran.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [What Happens When the Season Changes?](https://www.nytimes.com/2020/08/12/at-home/newsletter.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [The Los Angeles Teams Are the Best in the West, but Questions Remain](https://www.nytimes.com/2020/08/16/sports/basketball/lakers-clippers-nba-playoffs.html)
@@ -92,9 +92,9 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [Coronavirus: When Will Long-Term Care Facilities Reopen to Visitors?](https://www.nytimes.com/2020/08/14/health/coronavirus-elder-care.html)
 * [Dolphins Have Hidden Fingers. So Do Seals. These Sea Creatures Did Not.](https://www.nytimes.com/2020/08/08/science/dolphins-fingers-ichthyosaurs.html)
-* [Bernie Sanders Lost Again, but This Time He’ll Deliver a Victory Speech](https://www.nytimes.com/2020/08/17/us/politics/bernie-sanders-dnc.html)
-* [‘Is the Coronavirus Gone?’ a 5-Year-Old in Switzerland Asks](https://www.nytimes.com/2020/08/14/parenting/schools-reopening-switzerland.html)
-* [Coronavirus Briefing: What Happened Today](https://www.nytimes.com/2020/08/13/us/coronavirus-today.html)
+* [Why Be Vulnerable?](https://www.nytimes.com/2020/08/13/style/vulnerability-is-hard.html)
+* [Robert Trump, the President’s Younger Brother, Dies at 71](https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html)
+* [Why A "Hidden" Trump Vote Can't Explain His Bad Poll Numbers](https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -102,9 +102,9 @@ layout: default
 
 
 * [Ausência de diretrizes atrapalha plano de volta às aulas para alunos com deficiência](https://oglobo.globo.com/sociedade/ausencia-de-diretrizes-atrapalha-plano-de-volta-as-aulas-para-alunos-com-deficiencia-24590005)
+* [Sob orientação confusa, estudantes com deficiência seguem com retorno às aulas indefinido](https://oglobo.globo.com/sociedade/sob-orientacao-confusa-estudantes-com-deficiencia-seguem-com-retorno-as-aulas-indefinido-24590009)
 * [Prefeitos de partidos de oposição recebem menos verbas federais](https://oglobo.globo.com/brasil/prefeitos-de-partidos-de-oposicao-recebem-menos-verbas-federais-24589960)
 * [No governo Bolsonaro, prefeitos de partidos de oposição recebem menos verbas federais](https://oglobo.globo.com/brasil/no-governo-bolsonaro-prefeitos-de-partidos-de-oposicao-recebem-menos-verbas-federais-1-24589956)
-* [Sob orientação confusa, estudantes com deficência seguem com retorno às aulas indefinido](https://oglobo.globo.com/sociedade/sob-orientacao-confusa-estudantes-com-deficencia-seguem-com-retorno-as-aulas-indefinido-24590009)
 * [Repasse de verbas contra Covid-19 frustra deputados](https://oglobo.globo.com/brasil/repasse-de-verbas-contra-covid-19-frustra-deputados-24589963)
 * [Mansur: com Flamengo de estilo similar ao de Jesus, Dome viverá situação ingrata](https://oglobo.globo.com/esportes/mansur-com-flamengo-de-estilo-similar-ao-de-jesus-dome-vivera-situacao-ingrata-24589949)
 * [Aumento do limite para compra de munição partiu do Ministério da Defesa](https://oglobo.globo.com/brasil/aumento-do-limite-para-compra-de-municao-partiu-do-ministerio-da-defesa-24589944)

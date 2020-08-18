@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 11:15:23 UTC
+# indexed at 18/08/2020 11:35:06 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
 * [Canon's cloud platform has lost users' files – and it can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
+* [Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI](https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
-* [Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI](https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/)
 * [The life-changing love of one of the 20th century’s greatest physicists (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
+* [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
 * [New language features and more in Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
+* [The week old Hollywood finally died](https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html)
 * [Mailto: ?attach=~/ parameter allows including arbitrary files on disk](https://twitter.com/jensvoid/status/1295357952480751616)
 * [Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
-* [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
+* [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html)
-* [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
 * [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
-* [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
-* [The week old Hollywood finally died](https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html)
 * [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
 * [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
+* [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
 * [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
-* [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
 * [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
+* [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
 * [Impossible Figures Library](https://im-possible.info/english/library/index.html)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
 * [1-Euro Houses](https://1eurohouses.com/case-a-1-euro-houses/)
-* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
-* [What’s Flying Above Us?](https://skycircl.es/donate/)
 * [Here’s an example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
+* [What’s Flying Above Us?](https://skycircl.es/donate/)
+* [Clear Channel’s billboards will start tracking consumers in Europe](https://www.theverge.com/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe)
+* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
 ## nytimes.com
 
 
@@ -48,6 +48,7 @@ layout: default
 * [For Bill Clinton, a Chance to Address a Party That Has Left Him Behind](https://www.nytimes.com/2020/08/18/us/politics/bill-clinton-convention.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/18/world/covid-19-coronavirus.html)
 * [Will Coronavirus Join the Rush at Fraternities and Sororities?](https://www.nytimes.com/2020/08/18/us/coronavirus-fraternities-sororities.html)
+* [Pandemic Deals Blow to Britain’s Favorite Retail Brands](https://www.nytimes.com/live/2020/08/18/business/stock-market-today-coronavirus)
 * [A Novel Way to Combat Covid-19 in Nursing Homes: Strike Teams](https://www.nytimes.com/2020/08/18/health/Covid-nursing-homes.html)
 * [Postal Crisis Has States Looking for Alternatives to Mail-In Ballots](https://www.nytimes.com/2020/08/17/us/politics/postal-service-voting.html)
 * [DeJoy Earned Millions From Company With Financial Ties to Postal Service](https://www.nytimes.com/2020/08/17/us/politics/dejoy-postal-service-mail-in-voting.html)
@@ -79,11 +80,11 @@ layout: default
 * [Cai Xia Was A Communist Party Insider in China. Then She Denounced Xi.](https://www.nytimes.com/2020/08/18/world/asia/china-cai-xia-expelled-communist-party.html)
 * [Court Issuing Hariri Assassination Verdicts, but Few Expect Justice](https://www.nytimes.com/2020/08/18/world/middleeast/hariri-assassination-trial-hague.html)
 * [Uber and Lyft Consider Franchise-Like Model in California](https://www.nytimes.com/2020/08/18/technology/uber-lyft-franchise-california.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Keanu Reeves and Alex Winter Party On With Bill and Ted](https://www.nytimes.com/2020/08/18/movies/bill-ted-sequel-keanu-reeves-alex-winter.html)
 * [The Artist and Filmmaker Envisioning a Safer World for Black Women](https://www.nytimes.com/2020/08/10/t-magazine/jatovia-gary-film.html)
 * [RB Leipzig Ultras: German Soccer’s Great Contradiction](https://www.nytimes.com/2020/08/18/sports/soccer/champions-league-leipzig-psg.html)
@@ -94,22 +95,22 @@ layout: default
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
 * [She Tried to Cross a Highway in an Ultramarathon. She Didn’t Make It.](https://www.nytimes.com/2020/08/18/sports/ultramarathon-accidents.html)
+* [The Small, Black-Owned Record Label That Made a Big Impact in 1970s D.C.](https://www.nytimes.com/2020/08/12/arts/music/black-fire-records.html)
 * [‘I Was Selling Honey to Survive.’ Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
 * [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
-* [What Happened When the Homeless Moved Into a Liberal N.Y.C. Neighborhood](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Policia prende acusado de estuprar e engravidar menina de 10 anos](https://oglobo.globo.com/sociedade/policia-prende-acusado-de-estuprar-engravidar-menina-de-10-anos-24591898)
+* [30 minutos de Flamengo #02: De Rafinha a Isla: o que um lateral direito precisa ter? Léo Moura opina](https://oglobo.globo.com/esportes/30-minutos-de-flamengo-02-de-rafinha-isla-que-um-lateral-direito-precisa-ter-leo-moura-opina-24591621)
 * [Governo regulamenta lei Aldir Blanc, dois meses após aprovação no Congresso](https://oglobo.globo.com/cultura/governo-regulamenta-lei-aldir-blanc-dois-meses-apos-aprovacao-no-congresso-24591870)
 * [Correios entram em greve. Conheça seus direitos em caso de atraso de encomendas e faturas](https://oglobo.globo.com/economia/correios-entram-em-greve-conheca-seus-direitos-em-caso-de-atraso-de-encomendas-faturas-1-24591860)
-* [30 minutos de Flamengo #02: Saída de Rafinha reabre busca por dono da lateral direita; Léo Moura opina](https://oglobo.globo.com/esportes/30-minutos-de-flamengo-02-saida-de-rafinha-reabre-busca-por-dono-da-lateral-direita-leo-moura-opina-24591621)
 * [Alemão oferecia comida para aliciar crianças e adolescentes para filmes pornográficos](https://oglobo.globo.com/rio/alemao-oferecia-comida-para-aliciar-criancas-adolescentes-para-filmes-pornograficos-24591862)
 * ['Eles precisam escapar': Os momentos finais da equipe que respondeu ao incêndio em Beirute](https://epoca.globo.com/mundo/eles-precisam-escapar-os-momentos-finais-da-equipe-que-respondeu-ao-incendio-em-beirute-24591866)
 * ['Choca quem é machista. Quem não é, admira', diz Anitta sobre seu jeito de ser](https://oglobo.globo.com/ela/gente/choca-quem-machista-quem-nao-admira-diz-anitta-sobre-seu-jeito-de-ser-24591854)
 * [Como a Covid-19 motivou alerta a 500 clientes de clube de strip tease](https://epoca.globo.com/mundo/como-covid-19-motivou-alerta-500-clientes-de-clube-de-strip-tease-24591130)
-* [Quem Guedes considera seu grande adversário no governo](https://epoca.globo.com/guilherme-amado/quem-guedes-considera-seu-grande-adversario-no-governo-1-24591546)
 * [Pandemia desperta busca por refúgio nas montanhas de Petrópolis](https://oglobo.globo.com/rio/bairros/pandemia-desperta-busca-por-refugio-nas-montanhas-de-petropolis-1-24586492)
 * [Busca por sossego e qualidade de vida faz compra de imóveis disparar em Petrópolis](https://oglobo.globo.com/rio/bairros/busca-por-sossego-qualidade-de-vida-faz-compra-de-imoveis-disparar-em-petropolis-1-24586372)

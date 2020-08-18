@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 08:18:01 UTC
+# indexed at 18/08/2020 08:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Canon's cloud platform has lost users' files – and it CAN'T restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
-* [Canon's cloud platform has lost users' files – and it CAN'T restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
 * [New language features and more in Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
-* [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
 * [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html)
-* [Karpathy's MinGPT](https://github.com/karpathy/minGPT)
 * [Let's Learn x86-64 Assembly Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
+* [Karpathy's MinGPT](https://github.com/karpathy/minGPT)
 * [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
-* [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
 * [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
-* [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
-* [We should discuss soil as much as coal (2019)](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
-* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
-* [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
-* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
-* [Threat to kill wild boar that stole nude bather's laptop prompts outcry](https://www.theguardian.com/world/2020/aug/17/threat-to-kill-wild-boar-that-stole-nude-bathers-laptop-prompts-outcry-berlin)
-* [Ultraviolet Hubble Movie](http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html)
+* [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
 * [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
+* [We should discuss soil as much as coal (2019)](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
+* [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
+* [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
+* [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
+* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
 * [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
-* [Show HN: Made in India CSS](https://nishantpainter.github.io/made-in-india-css/)
+* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
+* [Ultraviolet Hubble Movie](http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html)
 * [Impossible Figures Library](https://im-possible.info/english/library/index.html)
-* [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
 * [A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
-* [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
 * [How to deploy a React app for free](https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/)
+* [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
+* [What’s Flying Above Us?](https://skycircl.es/donate/)
+* [Avro Canada VZ-9 Avrocar](https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar)
+* [A Twist on Schrödinger's Cat Paradox](https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Sturgis Motorcycle Rally Rolls to a Close as Virus Tracking Remains Complex](https://www.nytimes.com/2020/08/17/us/sturgis-motorcycle-rally-coronavirus.html)
 * [California Expresses Frustration as Blackouts Enter 4th Day](https://www.nytimes.com/2020/08/17/business/energy-environment/california-blackout-electric-grid.html)
 * [Death Valley Just Recorded the Hottest Temperature on Earth](https://www.nytimes.com/2020/08/17/climate/death-valley-hottest-temperature-on-earth.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [Black Women Are the Superheroes the World Needs](https://www.nytimes.com/2020/08/16/movies/oldguard-watchmen.html)
 * [From a Wrestling Ring to Tiny Boxes: How ‘Chad Deity’ Went Zoom](https://www.nytimes.com/2020/08/17/theater/elaborate-entrance-of-chad-deity-zoom.html)
 * [Remembering Poland’s Doomed Fight Against the Nazis](https://www.nytimes.com/2020/08/14/books/review/poland-1939-roger-moorhouse.html)
@@ -105,6 +105,7 @@ layout: default
 ## globo.com
 
 
+* [Antes de depoimento ao MP, gabinete de Carlos reuniu advogados e investigados](https://oglobo.globo.com/brasil/antes-de-depoimento-ao-mp-gabinete-de-carlos-reuniu-advogados-investigados-24591739)
 * [Novo presidente da APFut fala em 'recuperar credibilidade' e vê solução para excluídos do Profut](https://oglobo.globo.com/esportes/novo-presidente-da-apfut-fala-em-recuperar-credibilidade-ve-solucao-para-excluidos-do-profut-24591757)
 * [Por que o acesso ao aborto legal é um desafio no Brasil?](https://oglobo.globo.com/podcast/por-que-acesso-ao-aborto-legal-um-desafio-no-brasil-24591802)
 * [Governo pretende apresentar Renda Brasil junto com propostas já enviadas ao Congresso para cortar gastos](https://oglobo.globo.com/economia/governo-pretende-apresentar-renda-brasil-junto-com-propostas-ja-enviadas-ao-congresso-para-cortar-gastos-24591794)
@@ -112,6 +113,5 @@ layout: default
 * [André Kfouri: Time de Guardiola que parece não ser dele representa uma derrota mais dolorosa](https://oglobo.globo.com/esportes/andre-kfouri-time-de-guardiola-que-parece-nao-ser-dele-representa-uma-derrota-mais-dolorosa-24591672)
 * [Médicas de hospital de campanha que será desativado emocionam-se com as histórias de luta contra a Covid-19](https://oglobo.globo.com/rio/medicas-de-hospital-de-campanha-que-sera-desativado-emocionam-se-com-as-historias-de-luta-contra-covid-19-1-24591627)
 * [Cinemas se articulam para Prefeitura do Rio aprovar reabertura no dia 27](https://oglobo.globo.com/cultura/cinemas-se-articulam-para-prefeitura-do-rio-aprovar-reabertura-no-dia-27-24587322)
-* [Artigo: 'The Rocky horror picture show' tornou a plateia um lugar mais vivo que a tela](https://oglobo.globo.com/rioshow/artigo-the-rocky-horror-picture-show-tornou-plateia-um-lugar-mais-vivo-que-tela-24591252)
 * [Óleos essenciais podem ajudar a controlar o bruxismo](https://oglobo.globo.com/ela/beleza/bem-estar/oleos-essenciais-podem-ajudar-controlar-bruxismo-24584305)
 * [Pais e professores compartilham experiências na busca por uma educação antirracista](https://oglobo.globo.com/ela/pais-professores-compartilham-experiencias-na-busca-por-uma-educacao-antirracista-1-24582611)

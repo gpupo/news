@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 01:17:23 UTC
+# indexed at 18/08/2020 01:35:37 UTC
 
 
 ## news.ycombinator.com
@@ -17,26 +17,26 @@ layout: default
 * [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
 * [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
 * [We should discuss soil as much as coal (2019)](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
-* [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
 * [A circuit-like notation for lambda calculus](https://csvoss.com/circuit-notation-lambda-calculus)
-* [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
-* [Rolling blackouts in California have power experts stumped](https://www.nytimes.com/2020/08/16/business/california-blackouts.html)
+* [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
 * [A $10B domed experimental city nearly got built in rural Minnesota](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
+* [Rolling blackouts in California have power experts stumped](https://www.nytimes.com/2020/08/16/business/california-blackouts.html)
+* [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
-* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
-* [Mindfulness and meditation can worsen depression and anxiety](https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/)
 * [Reclaiming Becket: London’s great saint needs a reboot](https://thecritic.co.uk/reclaiming-becket/)
+* [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [A Twist on Schrödinger's Cat Paradox](https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/)
 * [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
 * [Show HN: Dungeon Map Doodler – Free online map drawing tool](https://dungeonmapdoodler.com/)
 * [Using a Yubikey as a touchless, magic unlock key for Linux](https://kliu.io/post/yubico-magic-unlock/)
 * [Connecting the Atari ST to the Internet with an ESP8266 (2017)](https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/)
-* [Buckingham Palace art collection to go on gallery display for the first time](https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time)
 * [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
 * [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
-* [Strange times: The sui generis Dave Brubeck](https://www.the-tls.co.uk/articles/strange-times/)
+* [Buckingham Palace art collection to go on gallery display for the first time](https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time)
 * [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
+* [Strange times: The sui generis Dave Brubeck](https://www.the-tls.co.uk/articles/strange-times/)
 * [How the Black Sea shaped the ancient Mediterranean world](https://www.historytoday.com/reviews/around-other-pond)
 ## nytimes.com
 
@@ -85,10 +85,10 @@ layout: default
 * [Death Valley Just Recorded the Hottest Temperature on Earth](https://www.nytimes.com/2020/08/17/climate/death-valley-hottest-temperature-on-earth.html)
 * [Anger Mounts Over Mauritius Oil Spill](https://www.nytimes.com/2020/08/14/world/africa/mauritius-oil-spill.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Black Women Are the Superheroes the World Needs](https://www.nytimes.com/2020/08/16/movies/oldguard-watchmen.html)
 * [From a Wrestling Ring to Tiny Boxes: How ‘Chad Deity’ Went Zoom](https://www.nytimes.com/2020/08/17/theater/elaborate-entrance-of-chad-deity-zoom.html)
 * [Remembering Poland’s Doomed Fight Against the Nazis](https://www.nytimes.com/2020/08/14/books/review/poland-1939-roger-moorhouse.html)
@@ -100,20 +100,20 @@ layout: default
 * [New York Is Positioned to Reopen Schools Safely, Health Experts Say](https://www.nytimes.com/2020/08/07/health/coronavirus-ny-schools-reopen.html)
 * [‘I Was Selling Honey to Survive.’ Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
 * [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
-* [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
+* [Doug Emhoff, Kamala Harris’s husband, takes a leave of absence from his law firm.](https://www.nytimes.com/live/2020/08/17/us/dnc-convention/doug-emhoff-kamala-harriss-husband-takes-a-leave-of-absence-from-his-law-firm)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [STF suspende processo do CNMP que poderia afastar Deltan Dallagnol das investigações da Lava-Jato](https://oglobo.globo.com/brasil/stf-suspende-processo-do-cnmp-que-poderia-afastar-deltan-dallagnol-das-investigacoes-da-lava-jato-24591554)
-* [Defensoria Pública e MPF entram com ação contra deportação de imigrantes](https://oglobo.globo.com/mundo/defensoria-publica-mpf-entram-com-acao-contra-deportacao-de-imigrantes-24591540)
+* [PMs e ladrões entram em confronto durante tentativa de assalto a loja em Botafogo](https://oglobo.globo.com/rio/pms-ladroes-entram-em-confronto-durante-tentativa-de-assalto-loja-em-botafogo-24591592)
+* [STF suspende processo do CNMP que poderia afastar Deltan Dallagnol da força-tarefa da Lava-Jato](https://oglobo.globo.com/brasil/stf-suspende-processo-do-cnmp-que-poderia-afastar-deltan-dallagnol-da-forca-tarefa-da-lava-jato-24591554)
 * [As regras de Rafinha, ou 'Rato', que deixa o Flamengo sem liderança à altura](https://oglobo.globo.com/esportes/as-regras-de-rafinha-ou-rato-que-deixa-flamengo-sem-lideranca-altura-24591400)
+* [Indígenas interditam rodovia e pedem ajuda para combater a Covid](https://oglobo.globo.com/sociedade/indigenas-interditam-rodovia-pedem-ajuda-para-combater-covid-1-24591506)
+* [Defensoria Pública e MPF entram com ação contra deportação de imigrantes](https://oglobo.globo.com/mundo/defensoria-publica-mpf-entram-com-acao-contra-deportacao-de-imigrantes-24591540)
 * [Maduro afirma que Assembleia Constituinte vai funcionar até as eleições parlamentares de dezembro](https://oglobo.globo.com/mundo/maduro-afirma-que-assembleia-constituinte-vai-funcionar-ate-as-eleicoes-parlamentares-de-dezembro-24591533)
 * [Empresas de quentinhas para presos oferecem descontos em dívidas, mas governo do Rio decide pagar o valor cheio](https://oglobo.globo.com/rio/empresas-de-quentinhas-para-presos-oferecem-descontos-em-dividas-mas-governo-do-rio-decide-pagar-valor-cheio-24591545)
-* [Indígenas interditam rodovia e pedem ajuda para combater a Covid](https://oglobo.globo.com/sociedade/indigenas-interditam-rodovia-pedem-ajuda-para-combater-covid-1-24591506)
 * [Eduardo Eugenio é reeleito para comandar Firjan até 2024](https://oglobo.globo.com/economia/eduardo-eugenio-reeleito-para-comandar-firjan-ate-2024-24591378)
 * ['Aborto é mais que necessário, é recomendado', diz Mourão sobre caso de criança de 10 anos estuprada no ES](https://oglobo.globo.com/sociedade/aborto-mais-que-necessario-recomendado-diz-mourao-sobre-caso-de-crianca-de-10-anos-estuprada-no-es-24591371)
 * [Bolsonaro é mais popular no Norte e no Centro-Oeste; veja cada região](https://epoca.globo.com/guilherme-amado/bolsonaro-mais-popular-no-norte-no-centro-oeste-veja-cada-regiao-24591353)
-* [TikTok reforça comunicação para se defender de acusações de Trump](https://oglobo.globo.com/economia/tiktok-reforca-comunicacao-para-se-defender-de-acusacoes-de-trump-24591280)

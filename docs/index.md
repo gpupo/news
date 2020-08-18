@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 14:17:01 UTC
+# indexed at 18/08/2020 14:35:03 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Simple, open source alternative to Google Analytics](https://umami.is/)
 * [Canon's cloud platform has lost users' files – and it can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
 * [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/)
-* [Simple, open source alternative to Google Analytics](https://umami.is/)
 * [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
-* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
-* [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [If Founders Treated Their Investors the Same Way They Treated Their Employees](https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/)
-* [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
+* [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
 * [Apple announces Apple Music radio](https://www.apple.com/newsroom/2020/08/apple-announces-apple-music-radio/)
+* [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 * [Ask HN: How do you switch off from work, particularly when WFH?](https://news.ycombinator.com/item?id=24196433)
 * [Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
 * [The life-changing love of one of the 20th century’s greatest physicists (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
+* [The ‘Batman Effect’: How having an alter ego empowers you](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
+* [Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI](https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/)
+* [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
 * [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
 * [Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
-* [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
-* [The ‘Batman Effect’: How having an alter ego empowers you](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
-* [NumPy another Iverson Ghost (2018)](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
 * [Mailto: ?attach=~/ parameter allows including arbitrary files on disk](https://twitter.com/jensvoid/status/1295357952480751616)
-* [Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI](https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/)
+* [NumPy another Iverson Ghost (2018)](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
 * [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
+* [Prosopagnosia: The artist in search of her face](https://www.bbc.co.uk/news/stories-53192821)
+* [The week old Hollywood finally died](https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html)
 * [A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [Strange times: The sui generis Dave Brubeck](https://www.the-tls.co.uk/articles/strange-times/)
 * [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html)
 * [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
-* [Clear Channel’s billboards will start tracking consumers in Europe](https://www.theverge.com/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe)
-* [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
 * [Impossible Figures Library](https://im-possible.info/english/library/index.html)
-* [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
+* [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [A D.N.C. Opening Night for the New Abnormal](https://www.nytimes.com/2020/08/18/arts/television/dnc-michelle-obama.html)
 * [For Bill Clinton, a Chance to Address a Party That Has Left Him Behind](https://www.nytimes.com/2020/08/18/us/politics/bill-clinton-convention.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/18/world/covid-19-coronavirus.html)
-* [Will Coronavirus Join the Rush at Fraternities and Sororities?](https://www.nytimes.com/2020/08/18/us/coronavirus-fraternities-sororities.html)
+* [‘Frats Are Being Frats’: Greek Life Is Stoking the Virus on Some Campuses](https://www.nytimes.com/2020/08/18/us/coronavirus-fraternities-sororities.html)
 * [Walmart Sees Second-Quarter Sales Soar](https://www.nytimes.com/live/2020/08/18/business/stock-market-today-coronavirus)
 * [What Happened When the Homeless Moved Into a Liberal N.Y.C. Neighborhood](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
 * [A Novel Way to Combat Covid-19 in Nursing Homes: Strike Teams](https://www.nytimes.com/2020/08/18/health/Covid-nursing-homes.html)
@@ -81,11 +81,11 @@ layout: default
 * [Cai Xia Was A Communist Party Insider in China. Then She Denounced Xi.](https://www.nytimes.com/2020/08/18/world/asia/china-cai-xia-expelled-communist-party.html)
 * [DeJoy Earned Millions From Company With Financial Ties to Postal Service](https://www.nytimes.com/2020/08/17/us/politics/dejoy-postal-service-mail-in-voting.html)
 * [Uber and Lyft Consider Franchise-Like Model in California](https://www.nytimes.com/2020/08/18/technology/uber-lyft-franchise-california.html)
-* [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
+* [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
 * [Keanu Reeves and Alex Winter Party On With Bill and Ted](https://www.nytimes.com/2020/08/18/movies/bill-ted-sequel-keanu-reeves-alex-winter.html)
 * [The Artist and Filmmaker Envisioning a Safer World for Black Women](https://www.nytimes.com/2020/08/10/t-magazine/jatovia-gary-film.html)
 * [RB Leipzig Ultras: German Soccer’s Great Contradiction](https://www.nytimes.com/2020/08/18/sports/soccer/champions-league-leipzig-psg.html)
@@ -96,6 +96,7 @@ layout: default
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
 * [Sneak In Some Exercise](https://www.nytimes.com/2020/08/15/at-home/coronavirus-at-home-quick-exercises.html)
+* [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
 * [Don’t Wait to Deck Out Your Back Porch](https://www.nytimes.com/2020/08/15/at-home/coronavirus-fall-patio-furniture.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -104,12 +105,12 @@ layout: default
 
 
 * [Julgamento por tribunal da ONU de atentado que matou premier libanês termina sem desvendar o crime](https://oglobo.globo.com/mundo/julgamento-por-tribunal-da-onu-de-atentado-que-matou-premier-libanes-termina-sem-desvendar-crime-24592111)
+* [Suspeito de tentar assaltar loja em Botafogo tem 32 mandados de prisão](https://oglobo.globo.com/rio/suspeito-de-tentar-assaltar-loja-em-botafogo-tem-32-mandados-de-prisao-24592185)
+* [Na hora de gastar, políticos preferem furar o teto a quebrar o piso](https://oglobo.globo.com/analitico/na-hora-de-gastar-politicos-preferem-furar-teto-quebrar-piso-24592153)
 * ['Está uma briga por Orçamento enorme', diz Bolsonaro](https://oglobo.globo.com/brasil/esta-uma-briga-por-orcamento-enorme-diz-bolsonaro-24592131)
+* [Alemão reencontra namorada brasileira em Frankfurt após seis meses separados pela Covid-19](https://epoca.globo.com/mundo/alemao-reencontra-namorada-brasileira-em-frankfurt-apos-seis-meses-separados-pela-covid-19-24592163)
+* [PIS/Pasep: pagamento do abono salarial 2020/2021 começa nesta terça-feira para nascidos em agosto](https://oglobo.globo.com/economia/pispasep-pagamento-do-abono-salarial-20202021-comeca-nesta-terca-feira-para-nascidos-em-agosto-24592128)
 * [Transexual relata ter sofrido agressão em seu apartamento, em Copacabana](https://oglobo.globo.com/rio/transexual-relata-ter-sofrido-agressao-em-seu-apartamento-em-copacabana-24592115)
 * [Com apoio do governo a Guedes, Bolsa abre em alta; dólar recua a R$ 5,43](https://oglobo.globo.com/economia/com-apoio-do-governo-guedes-bolsa-abre-em-alta-dolar-recua-r-543-24592107)
-* [Análise: Convenção Democrata nada convencional teve mais sucesso quando adotou tom intimista](https://oglobo.globo.com/mundo/analise-convencao-democrata-nada-convencional-teve-mais-sucesso-quando-adotou-tom-intimista-24592060)
 * [Paris Hilton desabafa em trailler de documentário: 'Ninguém sabe realmente quem eu sou'](https://oglobo.globo.com/ela/gente/paris-hilton-desabafa-em-trailler-de-documentario-ninguem-sabe-realmente-quem-eu-sou-24592097)
 * [Maioria dos brasileiros acredita que volta às aulas piorará a pandemia de Covid-19, mostra Datafolha](https://oglobo.globo.com/sociedade/maioria-dos-brasileiros-acredita-que-volta-as-aulas-piorara-pandemia-de-covid-19-mostra-datafolha-24592024)
-* [Globo tem duas indicações ao Emmy Internacional de Jornalismo de 2020](https://oglobo.globo.com/cultura/globo-tem-duas-indicacoes-ao-emmy-internacional-de-jornalismo-de-2020-24592082)
-* [Coluna | Livros da quarentena: Gregários à deriva](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-gregarios-deriva-24592058)
-* [Se um preso foge e comete um novo crime, o Estado deve ser responsabilizado?](https://epoca.globo.com/guilherme-amado/se-um-preso-foge-comete-um-novo-crime-estado-deve-ser-responsabilizado-24591450)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 05:34:57 UTC
+# indexed at 18/08/2020 06:17:27 UTC
 
 
 ## news.ycombinator.com
 
 
-* [How to deploy a React app for free](https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/)
 * [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
+* [How to deploy a React app for free](https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/)
 * [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
-* [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [What’s Flying Above Us?](https://skycircl.es/donate/)
-* [Pytov – C-like syntax Python](https://github.com/Yuvix25/pytov)
+* [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [Karpathy's MinGPT](https://github.com/karpathy/minGPT)
-* [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
+* [Pytov – C-like syntax Python](https://github.com/Yuvix25/pytov)
+* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
 * [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
+* [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
 * [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
 * [We should discuss soil as much as coal (2019)](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
-* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
+* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
 * [Rolling blackouts in California have power experts stumped](https://www.nytimes.com/2020/08/16/business/california-blackouts.html)
+* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
 * [A $10B domed experimental city nearly got built in rural Minnesota](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
-* [A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
+* [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
 * [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
 * [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
-* [Historian's Cookbook: We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
-* [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
-* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
-* [Dependency](https://xkcd.com/2347/)
 * [Using a Yubikey as a touchless, magic unlock key for Linux](https://kliu.io/post/yubico-magic-unlock/)
 * [Show HN: Dungeon Map Doodler – Free online map drawing tool](https://dungeonmapdoodler.com/)
-* [U.S. states seek $2.2T from OxyContin maker Purdue Pharma](https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG)
+* [Historian's Cookbook: We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
 * [A Twist on Schrödinger's Cat Paradox](https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/)
+* [Dependency](https://xkcd.com/2347/)
 * [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
+* [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
 ## nytimes.com
 
 
@@ -74,7 +74,7 @@ layout: default
 * [Sorry, the World’s Biggest Bike Maker Can’t Help You Buy a Bike Right Now](https://www.nytimes.com/2020/08/17/business/giant-bikes-coronavirus-shortage.html)
 * [‘I Saw a Man Standing on One of the Paths in a Densely Wooded Area’](https://www.nytimes.com/2020/08/16/nyregion/metropolitan-diary.html)
 * [Trump Administration Widens Huawei Dragnet](https://www.nytimes.com/2020/08/17/technology/trump-huawei-commerce-chips.html)
-* [With Another Slew of Injuries, the Yankees Aren’t Taking Chances](https://www.nytimes.com/2020/08/17/sports/baseball/yankees-injuries.html)
+* [U.K. Backs Down in A-Level Testing Debacle Tied to Coronavirus](https://www.nytimes.com/2020/08/17/world/europe/england-college-exam-johnson.html)
 * [Ellen DeGeneres Tells Her Staff That 3 Top Producers Are Out](https://www.nytimes.com/2020/08/17/business/media/ellen-degeneres-show-producers.html)
 * [Killing of Jam Master Jay of Run-DMC: 2 Are Arrested](https://www.nytimes.com/2020/08/17/nyregion/Jam-master-Jay-murder-arrests.html)
 * [21 Charged With Filing Fraudulent Unemployment Claims While in Jail](https://www.nytimes.com/2020/08/17/us/unemployment-fraud-jail-california.html)
@@ -82,10 +82,10 @@ layout: default
 * [Trump Administration Finalizes Plan to Open Oil Drilling in Alaska's Arctic Refuge](https://www.nytimes.com/2020/08/17/climate/alaska-oil-drilling-anwr.html)
 * [California Expresses Frustration as Blackouts Enter 4th Day](https://www.nytimes.com/2020/08/17/business/energy-environment/california-blackout-electric-grid.html)
 * [Death Valley Just Recorded the Hottest Temperature on Earth](https://www.nytimes.com/2020/08/17/climate/death-valley-hottest-temperature-on-earth.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
 * [Black Women Are the Superheroes the World Needs](https://www.nytimes.com/2020/08/16/movies/oldguard-watchmen.html)
 * [From a Wrestling Ring to Tiny Boxes: How ‘Chad Deity’ Went Zoom](https://www.nytimes.com/2020/08/17/theater/elaborate-entrance-of-chad-deity-zoom.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Totalmente virtual, Convenção Democrata começa com Bernie Sanders, republicanos, Michelle Obama e mensagem de união](https://oglobo.globo.com/mundo/totalmente-virtual-convencao-democrata-comeca-com-bernie-sanders-republicanos-michelle-obama-mensagem-de-uniao-24591765)
+* [Entenda o que é o 'G-8' formado por ilhas do Caribe para promover o turismo na região](https://oglobo.globo.com/boa-viagem/entenda-que-o-8-formado-por-ilhas-do-caribe-para-promover-turismo-na-regiao-24591829)
+* [A caminho do Flamengo, Isla virou ídolo após abandono do pai e não esquece de raízes no Chile](https://oglobo.globo.com/esportes/flamengo/a-caminho-do-flamengo-isla-virou-idolo-apos-abandono-do-pai-nao-esquece-de-raizes-no-chile-24591291)
 * [Líderes mundiais alertam para tragédia da 'geração Covid' de crianças com falhas na educação](https://oglobo.globo.com/sociedade/lideres-mundiais-alertam-para-tragedia-da-geracao-covid-de-criancas-com-falhas-na-educacao-24591196)
-* [Pandemia e voto postal trazem desafios para eleição americana](https://oglobo.globo.com/opiniao/pandemia-voto-postal-trazem-desafios-para-eleicao-americana-1-24591150)
 * [A resiliência das mulheres](https://oglobo.globo.com/opiniao/a-resiliencia-das-mulheres-24591330)
-* [Bolsonaro não tem interesse em privatizar](https://oglobo.globo.com/opiniao/bolsonaro-nao-tem-interesse-em-privatizar-1-24591211)
 * [Prêmio Kindle de Literatura dará R$ 40 mil e contrato com a Record a romance em português](https://oglobo.globo.com/cultura/premio-kindle-de-literatura-dara-40-mil-contrato-com-record-romance-em-portugues-24591234)
 * [Contra as fake news que fazem mal à saúde](https://oglobo.globo.com/opiniao/contra-as-fake-news-que-fazem-mal-saude-24591145)
 * [Caso de menina que sofreu abuso mostra dificuldade de cumprir a lei](https://oglobo.globo.com/opiniao/caso-de-menina-que-sofreu-abuso-mostra-dificuldade-de-cumprir-lei-24591118)
 * [O integralismo no poder](https://oglobo.globo.com/opiniao/o-integralismo-no-poder-24591107)
 * [Um príncipe em todos os sentidos](https://oglobo.globo.com/opiniao/um-principe-em-todos-os-sentidos-24591024)
+* [Cano iguala Gabigol e vê média de gols no Vasco crescer ao lado de Ramon Menezes](https://oglobo.globo.com/esportes/vasco/cano-iguala-gabigol-ve-media-de-gols-no-vasco-crescer-ao-lado-de-ramon-menezes-24590907)

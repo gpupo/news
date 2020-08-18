@@ -2,33 +2,35 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 18:16:52 UTC
+# indexed at 18/08/2020 18:35:08 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Dear Apple: Your Services Are No Longer Required](https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/)
 * [Popular seafood species in sharp decline around the world](https://news.ubc.ca/2020/07/21/popular-seafood-species-in-sharp-decline-around-the-world/)
+* [Dear Apple: Your Services Are No Longer Required](https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/)
 * [Laying the foundation for Rust’s future](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html)
 * [Show HN: Archivy – Self Hosted Knowledge Base embedded into your filesystem](https://github.com/Uzay-G/archivy)
 * [Canon's cloud platform has lost users' files – and it can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
+* [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
+* [YC startups are hiring at YC's Lightning Tech Talks on Sept 10th](https://www.workatastartup.com/techtalk)
 * [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/)
 * [Backblaze Hard Drive Stats Q2 2020](https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/)
 * [Shadow Traffic: Why Your Traffic Numbers Are Off by 20%](https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/)
-* [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
-* [Simple, open source alternative to Google Analytics](https://umami.is/)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
+* [Simple, open source alternative to Google Analytics](https://umami.is/)
+* [SpaceX raises $1.9B in largest funding round to date](https://techcrunch.com/2020/08/18/spacex-raises-1-9-billion-in-largest-funding-found-to-date/)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [The ‘Batman Effect’: How having an alter ego empowers you](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
+* [Allowing CMake Functions to Return(value)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 * [If Founders Treated Their Investors the Same Way They Treated Their Employees](https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/)
 * [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 * [Viola Web Browser (2009)](http://viola.org/)
 * [Ask HN: How do you switch off from work, particularly when WFH?](https://news.ycombinator.com/item?id=24196433)
 * [Investor revolt and legal dispute delay Filecoin plans](https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html)
 * [Show HN: GA Insights – Never Log into Google Analytics Again](https://news.ycombinator.com/item?id=24199806)
-* [SpaceX raises $1.9B in largest funding round to date](https://techcrunch.com/2020/08/18/spacex-raises-1-9-billion-in-largest-funding-found-to-date/)
 * [Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
 * [Black silicon photodetector breaks the 100% efficiency limit](https://phys.org/news/2020-08-black-silicon-photodetector-efficiency-limit.html)
 * [Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
@@ -36,8 +38,6 @@ layout: default
 * [The life-changing love of one of the 20th century’s greatest physicists (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
 * [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
 * [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
-* [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
-* [OneSignal is hiring a Back end Engineer interested in writing in Go and Rust](https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8)
 ## nytimes.com
 
 
@@ -57,9 +57,9 @@ layout: default
 * [A Dinner and a Deal](https://www.nytimes.com/2020/08/18/podcasts/the-daily/israel-UAE.html)
 * [Episode Four: ‘Here’s Another Fun Thing You Can Do’](https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html)
 * [Coronavirus Schools Briefing](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
-* [This Democratic Convention Shows Our Last Best Hope](https://www.nytimes.com/2020/08/18/opinion/michelle-obama-dnc-election-2020.html)
+* [A Warning for the United States From the Author of ‘The Great Influenza’](https://www.nytimes.com/2020/08/18/opinion/coronavirus-economy.html)
 * [I Was a Postal Service Regulator for 18 Years. Don’t Panic.](https://www.nytimes.com/2020/08/18/opinion/usps-vote-by-mail.html)
-* [It’s Simple. Contain the Virus. The Economy Will Come Back.](https://www.nytimes.com/2020/08/18/opinion/coronavirus-economy.html)
+* [This Democratic Convention Shows Our Last Best Hope](https://www.nytimes.com/2020/08/18/opinion/michelle-obama-dnc-election-2020.html)
 * [If Trump Cheats in the 2020 Election, Activists Are Ready](https://www.nytimes.com/2020/08/17/opinion/trump-contested-election-protests.html)
 * [On Being a Biden Conservative](https://www.nytimes.com/2020/08/17/opinion/joe-biden-conservative-2020.html)
 * [What if Trumpism Is the G.O.P.’s Natural State?](https://www.nytimes.com/2020/08/18/opinion/trump-republican-party.html)
@@ -79,10 +79,10 @@ layout: default
 * [U.S. Tries to Bolster Taiwan’s Status, Short of Recognizing Sovereignty](https://www.nytimes.com/2020/08/17/us/politics/trump-china-taiwan-hong-kong.html)
 * [The N.R.A. and Wayne LaPierre’s Next Foe: One of Their Own](https://www.nytimes.com/2020/08/18/us/nra-lawsuit-book-wayne-lapierre.html)
 * [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Keanu Reeves and Alex Winter on ‘Bill & Ted Face the Music’](https://www.nytimes.com/2020/08/18/movies/bill-ted-sequel-keanu-reeves-alex-winter.html)
 * [What It Means to Be a Gen Z Beauty Brand Today](https://www.nytimes.com/2020/08/18/style/what-it-means-to-be-a-gen-z-beauty-brand-today.html)
 * [‘The Keep Going Song’ Review: The Music of Faith Under Quarantine](https://www.nytimes.com/2020/08/17/theater/the-keep-going-song-review.html)
@@ -92,23 +92,22 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [Want to Flee the City for Suburbia? Think Again](https://www.nytimes.com/2020/08/17/opinion/coronavirus-cities-suburbs.html)
 * [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
-* [Trump hits back at Michelle Obama on Twitter.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/trump-hits-back-at-michelle-obama-on-twitter)
-* [Christie calls Kasich a ‘backstabber’ and tells Democrats ‘you can have him.’](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/christie-calls-kasich-a-backstabber-and-tells-democrats-you-can-have-him)
-* [Pelicans Fire Coach Alvin Gentry](https://www.nytimes.com/2020/08/15/sports/basketball/pelicans-fire-coach-alvin-gentry.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Coluna | Livros não deveriam ser taxados mesmo que não houvesse leitores no Brasil](https://epoca.globo.com/henrique-balbi/coluna-livros-nao-deveriam-ser-taxados-mesmo-que-nao-houvesse-leitores-no-brasil-24592686)
+* [De volta ao gol do Flamengo, Diego Alves retoma conversas por renovação](https://oglobo.globo.com/esportes/de-volta-ao-gol-do-flamengo-diego-alves-retoma-conversas-por-renovacao-24592675)
+* [É #FAKE que dados de cartórios provem que não houve 100 mil mortes por Covid-19 no Brasil](https://oglobo.globo.com/fato-ou-fake/e-fake-que-dados-de-cartorios-provem-que-nao-houve-100-mil-mortes-por-covid-19-no-brasil-24592680)
+* [Embraer faz terceira proposta de PDV em menos de dois meses](https://oglobo.globo.com/economia/embraer-faz-terceira-proposta-de-pdv-em-menos-de-dois-meses-24592649)
 * [Rodrigo Santoro sobre atuação aos 44 anos: 'Amadurecimento só vem mesmo com experiência'](https://oglobo.globo.com/ela/gente/rodrigo-santoro-sobre-atuacao-aos-44-anos-amadurecimento-so-vem-mesmo-com-experiencia-24592631)
 * [Cármen Lúcia se reúne com alvos de dossiê do Ministério da Justiça](https://epoca.globo.com/guilherme-amado/carmen-lucia-se-reune-com-alvos-de-dossie-do-ministerio-da-justica-24592636)
 * [Justiça suspende leilão de biodiesel após queda de braço entre governo e produtores](https://oglobo.globo.com/economia/justica-suspende-leilao-de-biodiesel-apos-queda-de-braco-entre-governo-produtores-1-24592560)
-* [Embraer faz terceira proposta de PDV em menos de dois meses](https://oglobo.globo.com/economia/embraer-faz-terceira-proposta-de-pdv-em-menos-de-dois-meses-24592649)
-* [Aurora fará teste de Covid-19 em cerca de 11 mil funcionários](https://oglobo.globo.com/economia/aurora-fara-teste-de-covid-19-em-cerca-de-11-mil-funcionarios-24592483)
 * [Elon Musk, da Tesla, ganha US$ 7,8 bi em um dia e vira o quarto homem mais rico do planeta](https://oglobo.globo.com/economia/elon-musk-da-tesla-ganha-us-78-bi-em-um-dia-vira-quarto-homem-mais-rico-do-planeta-24592608)
 * [É #FAKE que fotos mostrem lesões causadas por infecção após uso de máscaras contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-fotos-mostrem-lesoes-causadas-por-infeccao-apos-uso-de-mascaras-contra-covid-19-24592634)
 * ['Bolha' do US Open tem teste positivo para Covid-19](https://oglobo.globo.com/esportes/bolha-do-us-open-tem-teste-positivo-para-covid-19-24592592)
-* [Botafogo: Victor Luis tem crise de apendicite e será operado nesta terça](https://oglobo.globo.com/esportes/botafogo-victor-luis-tem-crise-de-apendicite-sera-operado-nesta-terca-24592578)
-* [Caso João Gilberto: mais um capítulo na briga familiar pelo espólio do compositor](https://oglobo.globo.com/cultura/caso-joao-gilberto-mais-um-capitulo-na-briga-familiar-pelo-espolio-do-compositor-24592590)

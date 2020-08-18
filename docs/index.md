@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 02:17:33 UTC
+# indexed at 18/08/2020 02:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -16,32 +16,32 @@ layout: default
 * [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
 * [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
 * [We should discuss soil as much as coal (2019)](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
-* [Dependency](https://xkcd.com/2347/)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
+* [Dependency](https://xkcd.com/2347/)
 * [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
 * [Rolling blackouts in California have power experts stumped](https://www.nytimes.com/2020/08/16/business/california-blackouts.html)
 * [A $10B domed experimental city nearly got built in rural Minnesota](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
 * [A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD](http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html)
 * [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
 * [Reclaiming Becket: London’s great saint needs a reboot](https://thecritic.co.uk/reclaiming-becket/)
+* [Building AGI Using Language Models](https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/)
+* [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
 * [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
 * [A Twist on Schrödinger's Cat Paradox](https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/)
 * [Show HN: Dungeon Map Doodler – Free online map drawing tool](https://dungeonmapdoodler.com/)
-* [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
 * [Using a Yubikey as a touchless, magic unlock key for Linux](https://kliu.io/post/yubico-magic-unlock/)
-* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
-* [Connecting the Atari ST to the Internet with an ESP8266 (2017)](https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/)
-* [Avro Canada VZ-9 Avrocar](https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
+* [Connecting the Atari ST to the Internet with an ESP8266 (2017)](https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/)
 * [Strange times: The sui generis Dave Brubeck](https://www.the-tls.co.uk/articles/strange-times/)
-* [Buckingham Palace art collection to go on gallery display for the first time](https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time)
+* [Avro Canada VZ-9 Avrocar](https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar)
 * [How the Black Sea shaped the ancient Mediterranean world](https://www.historytoday.com/reviews/around-other-pond)
 ## nytimes.com
 
 
-* [John Kasich and Other Republicans Join Democrats to Make Case for Biden](https://www.nytimes.com/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
+* [John Kasich and Other Republicans Join Event to Make Case for Biden](https://www.nytimes.com/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
 * [Democratic Convention Begins Tonight; Ex-Official Under Trump Backs Biden](https://www.nytimes.com/live/2020/08/17/us/dnc-convention)
 * [Democrats Find Trump to Be a Uniter, of Their Party](https://www.nytimes.com/2020/08/17/us/politics/convention-democratic-night-1.html)
 * [All the Republicans Who Have Decided Not to Support Trump](https://www.nytimes.com/article/republicans-voting-for-biden-not-trump.html)
@@ -83,11 +83,11 @@ layout: default
 * [Trump Administration Finalizes Plan to Open Oil Drilling in Alaska's Arctic Refuge](https://www.nytimes.com/2020/08/17/climate/alaska-oil-drilling-anwr.html)
 * [California Expresses Frustration as Blackouts Enter 4th Day](https://www.nytimes.com/2020/08/17/business/energy-environment/california-blackout-electric-grid.html)
 * [Death Valley Just Recorded the Hottest Temperature on Earth](https://www.nytimes.com/2020/08/17/climate/death-valley-hottest-temperature-on-earth.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [Black Women Are the Superheroes the World Needs](https://www.nytimes.com/2020/08/16/movies/oldguard-watchmen.html)
 * [From a Wrestling Ring to Tiny Boxes: How ‘Chad Deity’ Went Zoom](https://www.nytimes.com/2020/08/17/theater/elaborate-entrance-of-chad-deity-zoom.html)
 * [Remembering Poland’s Doomed Fight Against the Nazis](https://www.nytimes.com/2020/08/14/books/review/poland-1939-roger-moorhouse.html)
@@ -106,10 +106,10 @@ layout: default
 ## globo.com
 
 
+* [STF suspende processo do CNMP que poderia afastar Deltan Dallagnol da força-tarefa da Lava-Jato](https://oglobo.globo.com/brasil/stf-suspende-processo-do-cnmp-que-poderia-afastar-deltan-dallagnol-da-forca-tarefa-da-lava-jato-1-24591554)
 * [Eduardo Eugenio é reeleito para comandar Firjan até 2024](https://oglobo.globo.com/economia/eduardo-eugenio-reeleito-para-comandar-firjan-ate-2024-24591378)
 * [Advogado que defende governador no processo de impeachment na Alerj diz que vai processar Edmar Santos](https://oglobo.globo.com/rio/advogado-que-defende-governador-no-processo-de-impeachment-na-alerj-diz-que-vai-processar-edmar-santos-24591266)
 * [PMs e ladrões entram em confronto durante tentativa de assalto a loja em Botafogo](https://oglobo.globo.com/rio/pms-ladroes-entram-em-confronto-durante-tentativa-de-assalto-loja-em-botafogo-24591592)
-* [STF suspende processo do CNMP que poderia afastar Deltan Dallagnol da força-tarefa da Lava-Jato](https://oglobo.globo.com/brasil/stf-suspende-processo-do-cnmp-que-poderia-afastar-deltan-dallagnol-da-forca-tarefa-da-lava-jato-24591554)
 * [Pesquisa da Fiocruz vai avaliar possível 'catástrofe' por soma de Covid-19 e queimadas na Amazônia](https://oglobo.globo.com/sociedade/coronavirus/pesquisa-da-fiocruz-vai-avaliar-possivel-catastrofe-por-soma-de-covid-19-queimadas-na-amazonia-24591630)
 * [As regras de Rafinha, ou 'Rato', que deixa o Flamengo sem liderança à altura](https://oglobo.globo.com/esportes/as-regras-de-rafinha-ou-rato-que-deixa-flamengo-sem-lideranca-altura-24591400)
 * [Indígenas interditam rodovia e pedem ajuda para combater a Covid](https://oglobo.globo.com/sociedade/indigenas-interditam-rodovia-pedem-ajuda-para-combater-covid-1-24591506)

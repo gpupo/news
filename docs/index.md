@@ -2,47 +2,47 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 09:15:33 UTC
+# indexed at 18/08/2020 09:35:09 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [Canon's cloud platform has lost users' files – and it can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
+* [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 * [The life-changing love of one of the 20th century’s greatest physicists](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
 * [New language features and more in Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
 * [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
+* [Ask HN: How do you switch off from work, particularly when WFH?](https://news.ycombinator.com/item?id=24196433)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html)
-* [Ask HN: How do you switch off from work, particularly when WFH?](https://news.ycombinator.com/item?id=24196433)
 * [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
 * [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
-* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
 * [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
+* [A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
+* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
 * [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
-* [A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
-* [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
-* [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [Impossible Figures Library](https://im-possible.info/english/library/index.html)
-* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
+* [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
-* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
-* [A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
-* [How to deploy a React app for free](https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/)
-* [Ultraviolet Hubble Movie](http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html)
 * [Here’s an example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
+* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
+* [Ultraviolet Hubble Movie](http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html)
+* [A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
+* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
+* [How to deploy a React app for free](https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/)
 * [What’s Flying Above Us?](https://skycircl.es/donate/)
+* [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
 ## nytimes.com
 
 
 * [Michelle Obama, in Searing Speech, Says Trump ‘Cannot Meet This Moment’](https://www.nytimes.com/live/2020/08/17/us/dnc-convention)
-* [Democrats Begin Virtual Convention, Hailing Biden and Denouncing Trump’s Presidency](https://www.nytimes.com/2020/08/17/us/politics/democratic-national-convention-recap.html)
+* [Democrats Begin Virtual Convention, Hailing Biden and Denouncing Trump](https://www.nytimes.com/2020/08/17/us/politics/democratic-national-convention-recap.html)
 * [A Call to Rally Around Joe Biden ‘Like Our Lives Depend on It’](https://www.nytimes.com/2020/08/17/us/politics/convention-democratic-night-1.html)
 * [Bernie Sanders Goes on Attack Against Trump and Urges Support for Biden](https://www.nytimes.com/2020/08/17/us/politics/bernie-sanders-democratic-convention.html)
 * [The Biggest Moments From Night 1 of the Democratic Convention](https://www.nytimes.com/2020/08/18/us/politics/bernie-sanders-michelle-obama-joe-biden.html)
@@ -97,9 +97,9 @@ layout: default
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
 * [For Doctors of Color, Microaggressions Are All Too Familiar](https://www.nytimes.com/2020/08/11/health/microaggression-medicine-doctors.html)
 * [New York Is Positioned to Reopen Schools Safely, Health Experts Say](https://www.nytimes.com/2020/08/07/health/coronavirus-ny-schools-reopen.html)
-* [Think QAnon Is on the Fringe? So Was the Tea Party](https://www.nytimes.com/2020/08/13/technology/qanon-tea-party.html)
 * [‘I Was Selling Honey to Survive.’ Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
 * [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
+* [The Three Abductions of N.: How Corporate Kidnapping Works](https://www.nytimes.com/2020/08/13/business/corporate-child-abduction.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -114,5 +114,5 @@ layout: default
 * [Por que o acesso ao aborto legal é um desafio no Brasil?](https://oglobo.globo.com/podcast/por-que-acesso-ao-aborto-legal-um-desafio-no-brasil-24591802)
 * [Orçamento 2021: após pandemia, governo prevê corte de 13% na Educação e 5% na Saúde](https://oglobo.globo.com/brasil/orcamento-2021-apos-pandemia-governo-preve-corte-de-13-na-educacao-5-na-saude-24591782)
 * [Só três das 10 viagens de Bolsonaro na pandemia foram relacionadas à Covid](https://epoca.globo.com/guilherme-amado/so-tres-das-10-viagens-de-bolsonaro-na-pandemia-foram-relacionadas-covid-1-24591520)
-* [Jogos de hoje da NBA: LeBron James, James Harden e Antetokounmpo em quadra pelos playoffs; veja programação](https://oglobo.globo.com/esportes/jogos-de-hoje-da-nba-lebron-james-james-harden-antetokounmpo-em-quadra-pelos-playoffs-veja-programacao-24591702)
 * [André Kfouri: Time de Guardiola que parece não ser dele representa uma derrota mais dolorosa](https://oglobo.globo.com/esportes/andre-kfouri-time-de-guardiola-que-parece-nao-ser-dele-representa-uma-derrota-mais-dolorosa-24591672)
+* [Covid ainda dá medo em 71% dos brasileiros, aponta pesquisa](https://epoca.globo.com/guilherme-amado/covid-ainda-da-medo-em-71-dos-brasileiros-aponta-pesquisa-24591477)

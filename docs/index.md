@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 06:17:27 UTC
+# indexed at 18/08/2020 06:35:04 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [What’s Flying Above Us?](https://skycircl.es/donate/)
-* [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 * [Karpathy's MinGPT](https://github.com/karpathy/minGPT)
 * [Pytov – C-like syntax Python](https://github.com/Yuvix25/pytov)
-* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
 * [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
 * [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
-* [Artificial eyespots on cattle reduce predation by large carnivores](https://www.nature.com/articles/s42003-020-01156-0)
+* [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
+* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
 * [We should discuss soil as much as coal (2019)](https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
 * [Understanding Recursive Queries in PostgreSQL](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/)
-* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
-* [Rolling blackouts in California have power experts stumped](https://www.nytimes.com/2020/08/16/business/california-blackouts.html)
-* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
+* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
 * [A $10B domed experimental city nearly got built in rural Minnesota](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
 * [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
 * [Apple, Epic, and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/)
+* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
 * [Spectrum Analyzer Software for OpenRAMAN](http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman)
 * [Using a Yubikey as a touchless, magic unlock key for Linux](https://kliu.io/post/yubico-magic-unlock/)
 * [Show HN: Dungeon Map Doodler – Free online map drawing tool](https://dungeonmapdoodler.com/)
-* [Historian's Cookbook: We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
 * [A Twist on Schrödinger's Cat Paradox](https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/)
 * [Dependency](https://xkcd.com/2347/)
 * [Show HN: Search the text of articles submitted to HN, with live updating](https://hndex.ml/)
+* [Historian's Cookbook: We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
+* [Avro Canada VZ-9 Avrocar](https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar)
 * [Apple to kill Epic’s accounts on Friday the 28th](https://twitter.com/EpicNewsroom/status/1295430127455596544)
+* [Impossible Figures Library](https://im-possible.info/english/library/index.html)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Trump Administration Finalizes Plan to Open Oil Drilling in Alaska's Arctic Refuge](https://www.nytimes.com/2020/08/17/climate/alaska-oil-drilling-anwr.html)
 * [California Expresses Frustration as Blackouts Enter 4th Day](https://www.nytimes.com/2020/08/17/business/energy-environment/california-blackout-electric-grid.html)
 * [Death Valley Just Recorded the Hottest Temperature on Earth](https://www.nytimes.com/2020/08/17/climate/death-valley-hottest-temperature-on-earth.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Black Women Are the Superheroes the World Needs](https://www.nytimes.com/2020/08/16/movies/oldguard-watchmen.html)
 * [From a Wrestling Ring to Tiny Boxes: How ‘Chad Deity’ Went Zoom](https://www.nytimes.com/2020/08/17/theater/elaborate-entrance-of-chad-deity-zoom.html)
 * [Remembering Poland’s Doomed Fight Against the Nazis](https://www.nytimes.com/2020/08/14/books/review/poland-1939-roger-moorhouse.html)

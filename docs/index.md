@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 10:16:08 UTC
+# indexed at 18/08/2020 10:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 * [The life-changing love of one of the 20th century’s greatest physicists](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
 * [New language features and more in Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
-* [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
 * [Mailto: ?attach=~/ parameter allows including arbitrary files on disk](https://twitter.com/jensvoid/status/1295357952480751616)
 * [Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html)
+* [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
 * [Show HN: Dropbase 2.0 – Turn offline files into live databases](https://www.dropbase.io/)
-* [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
 * [The Computational Limits of Deep Learning](https://arxiv.org/abs/2007.05558)
 * [Essential Coding Theory [pdf]](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
-* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
+* [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
 * [I fear App Review is getting too powerful (2015) [pdf]](https://judiciary.house.gov/uploadedfiles/015127.pdf)
-* [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
+* [Create and view interactive cheatsheets on the command-line](https://github.com/cheat/cheat)
+* [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
 * [Using, Understanding, and Unraveling the OCaml Language](http://caml.inria.fr/pub/docs/u3-ocaml/index.html)
 * [Impossible Figures Library](https://im-possible.info/english/library/index.html)
+* [Apple expands independent repair program to Mac after US antitrust investigation](https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/)
 * [Launch HN: Batch (YC S20) – Replays for event-driven systems](https://news.ycombinator.com/item?id=24188214)
-* [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
-* [Here’s an example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
-* [A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/)
 * [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
+* [Here’s an example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
 * [What’s Flying Above Us?](https://skycircl.es/donate/)
 * [Ultraviolet Hubble Movie](http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html)
-* [He Wasn’t Toscanini, but He Made Orchestras Sing](https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html)
+* [1-Euro Houses](https://1eurohouses.com/case-a-1-euro-houses/)
+* [Projected growth of Tiger Mosquito range in northeastern US (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [Postal Crisis Has States Looking for Alternatives to Mail-In Ballots](https://www.nytimes.com/2020/08/17/us/politics/postal-service-voting.html)
 * [DeJoy Earned Millions From Company With Financial Ties to Postal Service](https://www.nytimes.com/2020/08/17/us/politics/dejoy-postal-service-mail-in-voting.html)
 * [How Mail-In Voting and Absentee Ballots Work](https://www.nytimes.com/article/Vote-by-mail.html)
+* [A Century of Suffrage](https://www.nytimes.com/2020/08/18/briefing/postal-service-michelle-obama-belarus-your-tuesday-briefing.html)
 * [N.Y. Gyms Can Reopen Under These New Rules](https://www.nytimes.com/2020/08/18/nyregion/gyms-ny-reopening.html)
 * [A Dinner and a Deal](https://www.nytimes.com/2020/08/18/podcasts/the-daily/israel-UAE.html)
 * [Episode Four: ‘Here’s Another Fun Thing You Can Do’](https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html)
@@ -78,11 +79,11 @@ layout: default
 * [Court Set to Issue Hariri Assassination Verdicts, but Few Expect Justice](https://www.nytimes.com/2020/08/18/world/middleeast/hariri-assassination-trial-hague.html)
 * [Uber and Lyft Consider Franchise-Like Model in California](https://www.nytimes.com/2020/08/18/technology/uber-lyft-franchise-california.html)
 * [Who Should Compete in Women’s Sports? There Are ‘Two Almost Irreconcilable Positions’](https://www.nytimes.com/2020/08/18/sports/transgender-athletes-womens-sports-idaho.html)
-* [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
-* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
+* [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
+* [It’s OK to Feel OK Right Now](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-feeling-ok.html)
 * [Keanu Reeves and Alex Winter Party On With Bill and Ted](https://www.nytimes.com/2020/08/18/movies/bill-ted-sequel-keanu-reeves-alex-winter.html)
 * [The Artist and Filmmaker Envisioning a Safer World for Black Women](https://www.nytimes.com/2020/08/10/t-magazine/jatovia-gary-film.html)
 * [RB Leipzig Ultras: German Soccer’s Great Contradiction](https://www.nytimes.com/2020/08/18/sports/soccer/champions-league-leipzig-psg.html)
@@ -100,9 +101,9 @@ layout: default
 ## globo.com
 
 
+* ['Choca quem é machista. Quem não é, admira', diz Anitta sobre seu jeito de ser](https://oglobo.globo.com/ela/gente/choca-quem-machista-quem-nao-admira-diz-anitta-sobre-seu-jeito-de-ser-24591854)
 * [Como a Covid-19 motivou alerta a 500 clientes de clube de strip tease](https://epoca.globo.com/mundo/como-covid-19-motivou-alerta-500-clientes-de-clube-de-strip-tease-24591130)
 * ['Me assustou muito mais que o ciclone-bomba', diz jovem que filmou tornado em SC](https://epoca.globo.com/brasil/me-assustou-muito-mais-que-ciclone-bomba-diz-jovem-que-filmou-tornado-em-sc-24590903)
-* [Terapia celular para controlar inflamação e lesão pulmonar da Covid-19 avança em testes](https://oglobo.globo.com/sociedade/coronavirus/terapia-celular-para-controlar-inflamacao-lesao-pulmonar-da-covid-19-avanca-em-testes-24591816)
 * [Quem Guedes considera seu grande adversário no governo](https://epoca.globo.com/guilherme-amado/quem-guedes-considera-seu-grande-adversario-no-governo-1-24591546)
 * [Só três das 10 viagens de Bolsonaro na pandemia foram relacionadas à Covid](https://epoca.globo.com/guilherme-amado/so-tres-das-10-viagens-de-bolsonaro-na-pandemia-foram-relacionadas-covid-1-24591520)
 * [Covid ainda dá medo em 71% dos brasileiros, aponta pesquisa](https://epoca.globo.com/guilherme-amado/covid-ainda-da-medo-em-71-dos-brasileiros-aponta-pesquisa-24591477)

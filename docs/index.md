@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 13:15:18 UTC
+# indexed at 18/08/2020 13:34:58 UTC
 
 
 ## news.ycombinator.com
@@ -11,17 +11,20 @@ layout: default
 * [Canon's cloud platform has lost users' files – and it can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
 * [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+* [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
 * [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
-* [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
-* [The life-changing love of one of the 20th century’s greatest physicists (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
-* [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
-* [Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
 * [Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI](https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/)
-* [NumPy another Iverson Ghost (2018)](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
+* [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
+* [Kotlin 1.4](https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html)
+* [The life-changing love of one of the 20th century’s greatest physicists (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
+* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
+* [Fossilised 429-million-year-old eye mirrors modern insect vision](https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html)
 * [Mailto: ?attach=~/ parameter allows including arbitrary files on disk](https://twitter.com/jensvoid/status/1295357952480751616)
+* [NumPy another Iverson Ghost (2018)](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
 * [Ask HN: How do you switch off from work, particularly when WFH?](https://news.ycombinator.com/item?id=24196433)
 * [Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [Slate, create beautiful, responsive API documentation](https://github.com/slatedocs/slate)
+* [Strange times: The sui generis Dave Brubeck](https://www.the-tls.co.uk/articles/strange-times/)
 * [A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2.5M Medical Records Leaked by AI Company](https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/)
 * [Clear Channel’s billboards will start tracking consumers in Europe](https://www.theverge.com/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe)
@@ -35,9 +38,6 @@ layout: default
 * [Impossible Figures Library](https://im-possible.info/english/library/index.html)
 * [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus)
 * [The Last of the Hedgehogs: René Girard](https://lareviewofbooks.org/article/the-last-of-the-hedgehogs)
-* [What’s Flying Above Us?](https://skycircl.es/donate/)
-* [Here’s an example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
-* [Stuck with Pound](https://kirkcenter.org/reviews/stuck-with-pound/)
 ## nytimes.com
 
 
@@ -58,6 +58,7 @@ layout: default
 * [A Dinner and a Deal](https://www.nytimes.com/2020/08/18/podcasts/the-daily/israel-UAE.html)
 * [Episode Four: ‘Here’s Another Fun Thing You Can Do’](https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html)
 * [Coronavirus Schools Briefing](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
+* [Millions of Californians Could Lose Power During Rolling Blackouts](https://www.nytimes.com/2020/08/18/us/california-blackouts.html)
 * [This Democratic Convention Shows Our Last Best Hope](https://www.nytimes.com/2020/08/18/opinion/michelle-obama-dnc-election-2020.html)
 * [If Trump Cheats in the 2020 Election, Activists Are Ready](https://www.nytimes.com/2020/08/17/opinion/trump-contested-election-protests.html)
 * [On Being a Biden Conservative](https://www.nytimes.com/2020/08/17/opinion/joe-biden-conservative-2020.html)
@@ -94,19 +95,21 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [Don’t Wait to Deck Out Your Back Porch](https://www.nytimes.com/2020/08/15/at-home/coronavirus-fall-patio-furniture.html)
-* [What to Cook This Week](https://www.nytimes.com/2020/08/16/dining/what-to-cook-this-week.html)
+* [‘Emperor’ Review: A Once-Enslaved Man Has a Date With Destiny](https://www.nytimes.com/2020/08/18/movies/emperor-review.html)
+* [Former E.C.B. president Mario Draghi warns pandemic could destroy potential of young people.](https://www.nytimes.com/live/2020/08/18/business/stock-market-today-coronavirus/former-ecb-president-mario-draghi-warns-pandemic-could-destroy-potential-of-young-people)
+* [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
+* [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Análise: Com formato 100% virtual, Convenção Democrata é a menos convencional em 200 anos](https://oglobo.globo.com/mundo/analise-com-formato-100-virtual-convencao-democrata-a-menos-convencional-em-200-anos-24592060)
-* [Coluna | Livros da quarentena: Gregários à deriva](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-gregarios-deriva-24592058)
-* [Anvisa aprova mais um estudo clínico de vacina contra Covid-19](https://oglobo.globo.com/sociedade/anvisa-aprova-mais-um-estudo-clinico-de-vacina-contra-covid-19-1-24592007)
-* [Impeachment: Alerj já tem plano B para formar nova comissão em caso de revés no STF](https://oglobo.globo.com/rio/impeachment-alerj-ja-tem-plano-para-formar-nova-comissao-em-caso-de-reves-no-stf-24591536)
+* [Análise: Convenção Democrata nada convencional teve mais sucesso quando adotou tom intimista](https://oglobo.globo.com/mundo/analise-convencao-democrata-nada-convencional-teve-mais-sucesso-quando-adotou-tom-intimista-24592060)
+* [Globo tem duas indicações ao Emmy Internacional de Jornalismo de 2020](https://oglobo.globo.com/cultura/globo-tem-duas-indicacoes-ao-emmy-internacional-de-jornalismo-de-2020-24592082)
 * [Oracle entra na disputa pela compra do TikTok](https://oglobo.globo.com/economia/oracle-entra-na-disputa-pela-compra-do-tiktok-24592019)
+* [Coluna | Livros da quarentena: Gregários à deriva](https://epoca.globo.com/colunistas/coluna-livros-da-quarentena-gregarios-deriva-24592058)
+* [Impeachment: Alerj já tem plano B para formar nova comissão em caso de revés no STF](https://oglobo.globo.com/rio/impeachment-alerj-ja-tem-plano-para-formar-nova-comissao-em-caso-de-reves-no-stf-24591536)
 * ['Acompanhei gestantes de 10 anos em estado grave na UTI': médica detalha os riscos de uma criança grávida](https://epoca.globo.com/sociedade/acompanhei-gestantes-de-10-anos-em-estado-grave-na-uti-medica-detalha-os-riscos-de-uma-crianca-gravida-24592014)
 * [MPF cobra 'medidas urgentes' do governo após contato de índios isolados no Acre](https://oglobo.globo.com/sociedade/mpf-cobra-medidas-urgentes-do-governo-apos-contato-de-indios-isolados-no-acre-1-24591940)
 * [Dois homens são presos pelo assassinato de Jam Master Jay, do Run D.M.C., 18 anos após o crime](https://oglobo.globo.com/cultura/dois-homens-sao-presos-pelo-assassinato-de-jam-master-jay-do-run-dmc-18-anos-apos-crime-24591942)

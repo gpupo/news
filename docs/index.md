@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 18/08/2020 20:18:07 UTC
+# indexed at 18/08/2020 20:35:00 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Faceboook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
-* [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
-* [Canon's cloud platform has lost users' files and can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
 * [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
-* [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/)
+* [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
 * [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+* [Canon's cloud platform has lost users' files and can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
+* [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/)
 * [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
-* [Microsoft’s ‘can’t uninstall Microsoft Edge’ support page](https://www.theverge.com/2020/8/17/21372846/microsoft-cant-uninstall-microsoft-edge-web-browser-editorial)
+* [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
+* [A single metric to drive customer success teams](https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/)
+* [Allowing CMake functions to return(value)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 * [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
-* [Allowing CMake Functions to Return(value)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 * [Having an alter ego can reduce anxiety, benefit confidence: research](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [Backblaze Hard Drive Stats Q2 2020](https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/)
 * [Simple, open source alternative to Google Analytics](https://umami.is/)
+* [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 * [YC startups are hiring at YC's Lightning Tech Talks on Sept 10th](https://www.workatastartup.com/techtalk)
 * [Laying the foundation for Rust’s future](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html)
-* [Architecture of the Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 * [An Ecology of Mind: A daughter's portrait of Gregory Bateson](http://www.anecologyofmind.com/thefilm.html)
-* [How to give access to AWS resources without creating 100s of IAM Users?](https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb)
 * [If Founders Treated Their Investors the Same Way They Treated Their Employees](https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/)
-* [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
+* [1-Euro Houses](https://1eurohouses.com/case-a-1-euro-houses/)
+* [An example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
+* [How to give access to AWS resources without creating 100s of IAM Users?](https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb)
 * [Investor revolt and legal dispute delay Filecoin plans](https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html)
 * [Ask HN: How do you switch off from work, particularly when working from home?](https://news.ycombinator.com/item?id=24196433)
-* [1-Euro Houses](https://1eurohouses.com/case-a-1-euro-houses/)
 * [Prosopagnosia: The artist in search of her face](https://www.bbc.co.uk/news/stories-53192821)
-* [An example of how brands build fake reviews on Amazon](https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/)
-* [An old Goderich salt mine could one day save you money on your hydro bill](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
+* [Kotlin 1.4](https://blog.jetbrains.com/kotlin/2020/08/kotlin-1-4-released-with-a-focus-on-quality-and-performance/)
 ## nytimes.com
 
 
@@ -80,10 +80,10 @@ layout: default
 * [Transgender Athletes Focus of Debate on Women’s Sports Participants](https://www.nytimes.com/2020/08/18/sports/transgender-athletes-womens-sports-idaho.html)
 * [What Happened When the Homeless Moved Into a Liberal N.Y.C. Neighborhood](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
 * [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set](https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Keanu Reeves and Alex Winter on ‘Bill & Ted Face the Music’](https://www.nytimes.com/2020/08/18/movies/bill-ted-sequel-keanu-reeves-alex-winter.html)
 * [What It Means to Be a Gen Z Beauty Brand Today](https://www.nytimes.com/2020/08/18/style/what-it-means-to-be-a-gen-z-beauty-brand-today.html)
 * [‘The Keep Going Song’ Review: The Music of Faith Under Quarantine](https://www.nytimes.com/2020/08/17/theater/the-keep-going-song-review.html)
@@ -94,20 +94,19 @@ layout: default
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
 * [Trump hits back at Michelle Obama, Andrew Cuomo and John Kasich on Twitter.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/trump-hits-back-at-michelle-obama-andrew-cuomo-and-john-kasich-on-twitter)
-* [Why Pooled Testing for the Coronavirus Isn't Working in the U.S.](https://www.nytimes.com/2020/08/18/health/Covid-pooled-testing.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Aras pede 'mais respeito' ao CNMP para evitar impunidade de procuradores](https://oglobo.globo.com/brasil/aras-pede-mais-respeito-ao-cnmp-para-evitar-impunidade-de-procuradores-24592957)
+* [Líderes articulam para derrubar vetos em lei que obriga uso de máscara em locais públicos](https://oglobo.globo.com/sociedade/lideres-articulam-para-derrubar-vetos-em-lei-que-obriga-uso-de-mascara-em-locais-publicos-24592947)
+* [Volta às aulas causa temores nos pais e divide estados e municípios](https://oglobo.globo.com/sociedade/volta-as-aulas-causa-temores-nos-pais-divide-estados-municipios-24592956)
+* [Temperaturas despencam, e pode nevar na região Sul do Brasil](https://oglobo.globo.com/brasil/temperaturas-despencam-pode-nevar-na-regiao-sul-do-brasil-24592887)
 * [Caso de 15 jovens que engravidaram após estupros em escola de polícia gera revolta em Moçambique](https://epoca.globo.com/mundo/caso-de-15-jovens-que-engravidaram-apos-estupros-em-escola-de-policia-gera-revolta-em-mocambique-24592930)
-* [Indígenas pedem reunião de emergência com STF e GSI após contato de isolados no Acre](https://oglobo.globo.com/sociedade/indigenas-pedem-reuniao-de-emergencia-com-stf-gsi-apos-contato-de-isolados-no-acre-24592862)
 * [Auxílio emergencial: líderes dos partidos defendem mais uma parcela de R$ 600 e duas de R$ 300](https://oglobo.globo.com/economia/auxilio-emergencial-lideres-dos-partidos-defendem-mais-uma-parcela-de-600-duas-de-300-24592873)
 * [Auxílio emergencial foi a única renda da população mais pobre, mostra FGV](https://oglobo.globo.com/economia/auxilio-emergencial-foi-unica-renda-da-populacao-mais-pobre-mostra-fgv-24592896)
-* [Temperaturas despencam, e pode nevar na região Sul do Brasil](https://oglobo.globo.com/brasil/temperaturas-despencam-pode-nevar-na-regiao-sul-do-brasil-24592887)
 * [Governo não deve tentar alterar PEC do Fundeb no Senado](https://oglobo.globo.com/sociedade/governo-nao-deve-tentar-alterar-pec-do-fundeb-no-senado-24592851)
 * [Acusado de estuprar menina chega a Vitória; exame DNA vai identificar criminoso](https://oglobo.globo.com/sociedade/aborto/acusado-de-estuprar-menina-chega-vitoria-exame-dna-vai-identificar-criminoso-24592918)
 * [Lauro e Gabeira: O custo do aumento da popularidade de Jair Bolsonaro](https://oglobo.globo.com/podcast/lauro-gabeira-custo-do-aumento-da-popularidade-de-jair-bolsonaro-24592620)
-* [Alerj: academias deverão ter canais de atendimento não presenciais durante a pandemia](https://oglobo.globo.com/economia/defesa-do-consumidor/alerj-academias-deverao-ter-canais-de-atendimento-nao-presenciais-durante-pandemia-24592890)
-* [Alerj traça dois cenários para impeachment de Wilson Witzel](https://oglobo.globo.com/rio/alerj-traca-dois-cenarios-para-impeachment-de-wilson-witzel-24592883)

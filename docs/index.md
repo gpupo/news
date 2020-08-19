@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 09:15:57 UTC
+# indexed at 19/08/2020 09:35:03 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Most “mandatory requirements” in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
-* [Most “mandatory requirements” in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
 * [Researchers can duplicate keys from the sounds they make in locks](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks)
 * [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
+* [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 * [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
 * [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
+* [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
 * [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 * [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
-* [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
-* [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
-* [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
 * [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
+* [A Lesson in Acceptance](https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance)
 * [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
+* [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
 * [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-* [A Lesson in Acceptance](https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance)
-* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
-* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
+* [How many pieces can a puzzle have?](https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/)
 * [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
-* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
+* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
+* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
 * [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
 * [Old salt mine is the first emission-free compressed air energy facility (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
+* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
-* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
 * [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
-* [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
-* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
 * [Trump gives nod to Oracle buyout of TikTok in US](https://www.bbc.com/news/business-53830533)
+* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 ## nytimes.com
 
 
@@ -56,6 +56,7 @@ layout: default
 * [USPS Suspends Changes After Outcry Over Delivery Slowdown](https://www.nytimes.com/2020/08/18/us/politics/postal-service-suspends-changes.html)
 * [What Is QAnon, the Viral Pro-Trump Conspiracy Theory?](https://www.nytimes.com/article/what-is-qanon.html)
 * [S&P 500 at Record as Stock Market Defies Economic Devastation](https://www.nytimes.com/2020/08/18/business/stock-market-record.html)
+* [In N.Y.C., Pressure to Delay In-Person Schooling](https://www.nytimes.com/2020/08/19/nyregion/nyc-schools-coronavirus.html)
 * [A Dinner and a Deal](https://www.nytimes.com/2020/08/18/podcasts/the-daily/israel-UAE.html)
 * [The Fictional World of Edward P. Jones](https://www.nytimes.com/2020/08/14/books/review/podcast-a-o-scott-edward-p-jones-eric-jay-dolin-furious-sky-hurricanes.html)
 * [Coronavirus Schools Briefing](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
@@ -81,10 +82,10 @@ layout: default
 * [Mali’s President Resigns After Being Arrested in Military Coup](https://www.nytimes.com/2020/08/18/world/africa/mali-mutiny-coup.html)
 * [‘Lottery Lawyer’ Is Accused of Fleecing Winners in $107 Million Fraud](https://www.nytimes.com/2020/08/18/nyregion/lottery-lawyer-fraud.html)
 * [What Happened When Homeless Men Moved Into the Upper West Side](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [Nubya Garcia, Tapping Into the Past to Make Jazz for a New Generation](https://www.nytimes.com/2020/08/17/arts/music/nubya-garcia-source.html)
 * [Why We Cover What Politicians Wear](https://www.nytimes.com/2020/08/17/style/why-we-cover-what-politicians-wear.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
@@ -94,9 +95,9 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [Five questions for Democrats as their virtual convention nears.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/five-questions-for-democrats-as-their-virtual-convention-nears)
 * [Supreme Court Lets Rhode Island Make Voting by Mail Easier Amid Pandemic](https://www.nytimes.com/2020/08/13/us/supreme-court-rhode-island-voting.html)
 * [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
+* [I Exchanged Notes With Elena Ferrante. Sort of.](https://www.nytimes.com/2020/08/14/insider/ferrante-novel-excerpt.html)
 * [Trevor Noah Praises Michelle Obama’s ‘Ice-Cold’ Trump Takedown](https://www.nytimes.com/2020/08/19/arts/television/trevor-noah-michelle-obama-speech.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)

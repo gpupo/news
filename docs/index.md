@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 08:17:27 UTC
+# indexed at 19/08/2020 08:35:07 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
 * [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
 * [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
-* [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
 * [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
-* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
+* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
 * [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
-* [Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”](https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/)
 * [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
-* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
-* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
-* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
-* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
-* [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
 * [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
-* [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
-* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
-* [Modal (YC W16) Is Hiring a Senior DevOps Engineer](https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b)
+* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
+* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
+* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
+* [A Lesson in Acceptance](https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance)
+* [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
 * [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
-* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
+* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
+* [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
+* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
+* [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
 * [Old salt mine is the first emission-free compressed air energy facility (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
+* [Modal (YC W16) Is Hiring a Senior DevOps Engineer](https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b)
+* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Mali’s President Resigns After Being Arrested in Military Coup](https://www.nytimes.com/2020/08/18/world/africa/mali-mutiny-coup.html)
 * [‘Lottery Lawyer’ Is Accused of Fleecing Winners in $107 Million Fraud](https://www.nytimes.com/2020/08/18/nyregion/lottery-lawyer-fraud.html)
 * [What Happened When Homeless Men Moved Into the Upper West Side](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
-* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [Nubya Garcia, Tapping Into the Past to Make Jazz for a New Generation](https://www.nytimes.com/2020/08/17/arts/music/nubya-garcia-source.html)
 * [Why We Cover What Politicians Wear](https://www.nytimes.com/2020/08/17/style/why-we-cover-what-politicians-wear.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
@@ -102,12 +102,12 @@ layout: default
 ## globo.com
 
 
+* [MEC quer abrir mão de R$ 55 milhões para militares](https://oglobo.globo.com/brasil/mec-quer-abrir-mao-de-55-milhoes-para-militares-24593753)
+* ['Não se esquece um abuso': psicóloga especializada em atender sobreviventes explica como uma criança lida com a violência sexual](https://oglobo.globo.com/celina/nao-se-esquece-um-abuso-psicologa-especializada-em-atender-sobreviventes-explica-como-uma-crianca-lida-com-violencia-sexual-1-24590887)
 * [MEC quer abrir mão de R$55 milhões para dobrar gastos com escolas cívico-militares](https://oglobo.globo.com/brasil/mec-quer-abrir-mao-de-r55-milhoes-para-dobrar-gastos-com-escolas-civico-militares-24593747)
 * [Champions League: Lyon de Juninho Pernambucano tenta surpreender o favorito Bayern de Munique](https://oglobo.globo.com/esportes/champions-league-lyon-de-juninho-pernambucano-tenta-surpreender-favorito-bayern-de-munique-24593559)
-* [Alemão fantasiava crianças e adolescentes para gravar cenas de filmes pornográficos](https://oglobo.globo.com/rio/alemao-fantasiava-criancas-adolescentes-para-gravar-cenas-de-filmes-pornograficos-24593775)
 * [A mágica das obras 'anti-crise' e os riscos para o teto de gastos](https://oglobo.globo.com/podcast/a-magica-das-obras-anti-crise-os-riscos-para-teto-de-gastos-24593931)
 * [Médico denuncia ter sido agredido por empresário ao tentar acabar com festa durante pandemia na Barra](https://oglobo.globo.com/rio/medico-denuncia-ter-sido-agredido-por-empresario-ao-tentar-acabar-com-festa-durante-pandemia-na-barra-24593881)
-* [Ameaçada, menina de 10 anos relata alívio ao saber que tio foi preso](https://oglobo.globo.com/sociedade/aborto/ameacada-menina-de-10-anos-relata-alivio-ao-saber-que-tio-foi-preso-24593583)
 * [Conselho Nacional de Justiça deve abrir processo contra desembargador que ofendeu guarda civil](https://oglobo.globo.com/sociedade/conselho-nacional-de-justica-deve-abrir-processo-contra-desembargador-que-ofendeu-guarda-civil-24593529)
 * [Cada um no seu círculo: Rio ganha espaço para shows ao ar livre, com mesas separadas por cordas e desenhos no chão](https://oglobo.globo.com/rioshow/cada-um-no-seu-circulo-rio-ganha-espaco-para-shows-ao-ar-livre-com-mesas-separadas-por-cordas-desenhos-no-chao-24592524)
 * [Nossas Kamalas silenciadas](https://oglobo.globo.com/cultura/nossas-kamalas-silenciadas-24592307)

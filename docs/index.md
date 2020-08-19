@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 14:17:16 UTC
+# indexed at 19/08/2020 14:34:59 UTC
 
 
 ## news.ycombinator.com
 
 
 * [The antibiotic paradox: why companies can’t afford to create life-saving drugs](https://www.nature.com/articles/d41586-020-02418-x)
-* [Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX](https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex)
 * [Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base](https://theheadless.dev/)
-* [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
-* [AtomVM: Erlang on Microcontrollers](https://github.com/bettio/AtomVM)
 * [Most “mandatory requirements” in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
-* [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
+* [AtomVM: Erlang on Microcontrollers](https://github.com/bettio/AtomVM)
+* [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
 * [Mousemacs – A mouse-driven Emacs](https://github.com/corvideon/mousemacs)
+* [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [Ask HN: Why is Reddit on mobile so obsessed with making me use their app?](https://news.ycombinator.com/item?id=24208958)
+* [Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX](https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex)
+* [Micro Front Ends with Stacker](https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html)
 * [Researchers can duplicate keys from the sounds they make in locks](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks)
 * [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
-* [RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0](https://github.com/StanislasBertrand/RetinaFace-tf2)
+* [IBM 3033 (1979) [pdf]](https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view)
 * [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
+* [RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0](https://github.com/StanislasBertrand/RetinaFace-tf2)
 * [How many pieces can a puzzle have?](https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/)
 * [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
-* [IBM 3033 [pdf]](http://www.bitsavers.org/pdf/ibm/3033/GC20-1859-4_3033_ProcessorComplex_Apr79.pdf)
 * [Ask HN: How to Become a Music Buff?](https://news.ycombinator.com/item?id=24209025)
 * [Ask HN: Is a SaaS provider expected to have a trademark in every country?](https://news.ycombinator.com/item?id=24195375)
 * [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
 * [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
 * [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
-* [Cloudflare Workers Documentation Redesign](https://developers.cloudflare.com/workers)
+* [Facebook Fires Employee Who Shared Proof of Right Wing Favoritism](https://sanfrancisco.cbslocal.com/2020/08/07/reports-facebook-fires-employee-who-shared-proof-of-right-wing-favoritism/)
 * [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
-* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
 * [Mancala](https://en.wikipedia.org/wiki/Mancala)
 * [Trump gives nod to Oracle buyout of TikTok in US](https://www.bbc.com/news/business-53830533)
+* [Cloudflare Workers Documentation Redesign](https://developers.cloudflare.com/workers)
+* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
-* [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
-* [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
-* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
+* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
 ## nytimes.com
 
 
@@ -50,9 +50,7 @@ layout: default
 * [DNC Schedule, Streaming: What Time do Barack Obama and Kamala Harris Speak?](https://www.nytimes.com/2020/08/19/us/politics/dnc-schedule-speakers-streaming-time.html)
 * [Report Details Manafort’s Ties During 2016 Trump Campaign to a Russian Agent](https://www.nytimes.com/2020/08/18/us/politics/paul-manafort-konstantin-kilimnik.html)
 * [What We Learned From Report on 2016 Trump Campaign and Russian Interference](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate.html)
-* [‘I’m Only One Human Being’: Parents Brace for a Go-It-Alone School Year](https://www.nytimes.com/2020/08/19/upshot/coronavirus-home-school-parents.html)
-* [‘All In, All the Time’: Reopening Florida Schools Is Likened to Military Operation](https://www.nytimes.com/2020/08/19/us/coronavirus-schools-florida-local-control.html)
-* [Alabama’s High Stakes Experiment: Reopening Universities as Virus Looms](https://www.nytimes.com/2020/08/19/business/alabama-uab-coronavirus-tests.html)
+* [California Fires Live Updates: Evacuations Ordered in Vacaville](https://www.nytimes.com/2020/08/19/us/california-wildfires-vacaville.html)
 * [The Record Market, Explained](https://www.nytimes.com/2020/08/19/briefing/jill-biden-mali-california-your-wednesday-briefing.html)
 * [In N.Y.C., Pressure to Delay In-Person Schooling](https://www.nytimes.com/2020/08/19/nyregion/nyc-schools-coronavirus.html)
 * [The President, the Postal Service and the Election](https://www.nytimes.com/2020/08/19/podcasts/the-daily/dejoy-postal-service-trump.html)
@@ -83,8 +81,8 @@ layout: default
 * [Manhattan Vacancy Rate Climbs, and Rents Drop 10%](https://www.nytimes.com/2020/08/18/nyregion/nyc-vacant-apartments.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Want to Make It Big in Fashion? Think Small](https://www.nytimes.com/2020/08/19/fashion/mens-wear-the-birth-of-a-cult.html)
 * [A New York Biker’s Headache: Where to Store It](https://www.nytimes.com/2020/08/18/realestate/new-york-bike-storage-headache.html)
 * [Henrik Lundqvist, Key to Rangers’ Past Glory, Awaits His Future](https://www.nytimes.com/2020/08/16/sports/hockey/henrik-lundqvist-rangers-contract.html)
@@ -94,8 +92,8 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [Senate Panel Details Ties Between 2016 Trump Campaign and Russia](https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html)
 * [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
+* [Senate Panel Details Ties Between 2016 Trump Campaign and Russia](https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -103,12 +101,12 @@ layout: default
 
 
 * [PTB pede à OEA a suspensão de inquéritos no STF que investigam fake news e atos antidemocráticos](https://oglobo.globo.com/brasil/ptb-pede-oea-suspensao-de-inqueritos-no-stf-que-investigam-fake-news-atos-antidemocraticos-24594329)
-* [Dez desafios para Keyna Eleison e Pablo Lafuente, os novos diretores artísticos do MAM](https://oglobo.globo.com/cultura/artes-visuais/dez-desafios-para-keyna-eleison-pablo-lafuente-os-novos-diretores-artisticos-do-mam-24594060)
-* [Mourão diz que Amazônia 'não está queimando' e convida Leonardo DiCaprio para conhecer floresta](https://oglobo.globo.com/sociedade/mourao-diz-que-amazonia-nao-esta-queimando-convida-leonardo-dicaprio-para-conhecer-floresta-24594303)
+* [UE diz que não reconhecerá resultado de eleição na Bielorrússia e defende mediação](https://oglobo.globo.com/mundo/ue-diz-que-nao-reconhecera-resultado-de-eleicao-na-bielorrussia-defende-mediacao-24594346)
+* [Cuba testará vacina própria contra Covid-19 em humanos](https://oglobo.globo.com/sociedade/cuba-testara-vacina-propria-contra-covid-19-em-humanos-24594360)
 * [Brasil defende manter eleição para presidência do BID em 2020](https://oglobo.globo.com/mundo/brasil-defende-manter-eleicao-para-presidencia-do-bid-em-2020-24594244)
+* [Mourão diz que Amazônia 'não está queimando' e convida Leonardo DiCaprio para conhecer floresta](https://oglobo.globo.com/sociedade/mourao-diz-que-amazonia-nao-esta-queimando-convida-leonardo-dicaprio-para-conhecer-floresta-1-24594303)
+* [Dez desafios para Keyna Eleison e Pablo Lafuente, os novos diretores artísticos do MAM](https://oglobo.globo.com/cultura/artes-visuais/dez-desafios-para-keyna-eleison-pablo-lafuente-os-novos-diretores-artisticos-do-mam-24594060)
 * [MP critica Google por 'querer impor uma investigação analógica' sobre morte da vereadora Marielle Franco](https://oglobo.globo.com/rio/mp-critica-google-por-querer-impor-uma-investigacao-analogica-sobre-morte-da-vereadora-marielle-franco-24594271)
-* [Equipes que estão fora do reinício da NBA tem data para voltar aos treinos](https://oglobo.globo.com/esportes/equipes-que-estao-fora-do-reinicio-da-nba-tem-data-para-voltar-aos-treinos-24594180)
 * [Hazard, do Real Madrid, é o jogador que mais perdeu valor durante pandemia, diz estudo](https://oglobo.globo.com/esportes/hazard-do-real-madrid-o-jogador-que-mais-perdeu-valor-durante-pandemia-diz-estudo-24594270)
 * [Menina de 10 anos que foi para Recife interromper gravidez tem alta](https://oglobo.globo.com/sociedade/aborto/menina-de-10-anos-que-foi-para-recife-interromper-gravidez-tem-alta-24594237)
-* [Príncipe Harry e Meghan Markle preparam projeto secreto em Hollywood, diz revista](https://oglobo.globo.com/cultura/principe-harry-meghan-markle-preparam-projeto-secreto-em-hollywood-diz-revista-24594240)
 * [Tratamento da Covid-19: cientista encontra 'ponto frágil' do coronavírus, que pode servir para neutralizá-lo](https://epoca.globo.com/mundo/tratamento-da-covid-19-cientista-encontra-ponto-fragil-do-coronavirus-que-pode-servir-para-neutraliza-lo-24594222)

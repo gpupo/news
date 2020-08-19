@@ -2,46 +2,45 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 15:15:58 UTC
+# indexed at 19/08/2020 15:34:57 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Toddlers who use touchscreens show attention differences](https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/)
 * [Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base](https://theheadless.dev/)
 * [Most “mandatory requirements” in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
+* [Apple becomes first U.S. company to reach a $2T market cap](https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html)
 * [AtomVM: Erlang on Microcontrollers](https://github.com/bettio/AtomVM)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
-* [Ask HN: Why is Reddit on mobile so obsessed with making me use their app?](https://news.ycombinator.com/item?id=24208958)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
-* [Micro frontends with Stacker](https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html)
-* [The antibiotic paradox: why companies can’t afford to create life-saving drugs](https://www.nature.com/articles/d41586-020-02418-x)
 * [California DMV Is Selling Drivers' Data to Private Investigators](https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators)
+* [Ask HN: Why is Reddit on mobile so obsessed with making me use their app?](https://news.ycombinator.com/item?id=24208958)
+* [The antibiotic paradox: why companies can’t afford to create life-saving drugs](https://www.nature.com/articles/d41586-020-02418-x)
 * [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
-* [Apple becomes first U.S. company to reach a $2T market cap](https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html)
+* [Micro frontends with Stacker](https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html)
 * [Amazon’s Project Kuiper is more than the company’s response to SpaceX](https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex)
-* [Researchers can duplicate keys from the sounds they make in locks](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks)
-* [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
-* [How many pieces can a puzzle have?](https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/)
-* [IBM 3033 (1979) [pdf]](https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view)
-* [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 * [Android TV’s homescreen ads are rolling out](https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/)
+* [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
+* [A Guide to the IBM 3033 Processor Complex (1979) [pdf]](https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view)
+* [How many pieces can a puzzle have?](https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/)
+* [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
+* [New BlackBerry with physical keyboard announced](https://www.businesswire.com/news/home/20200819005202/en/OnwardMobility-Announces-Agreements-BlackBerry-Foxconn-Subsidiary-FIH)
 * [RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0](https://github.com/StanislasBertrand/RetinaFace-tf2)
-* [Cloudflare Workers Documentation Redesign](https://developers.cloudflare.com/workers)
 * [Ask HN: Is a SaaS provider expected to have a trademark in every country?](https://news.ycombinator.com/item?id=24195375)
+* [Cloudflare Workers Documentation Redesign](https://developers.cloudflare.com/workers)
 * [Ask HN: How to Become a Music Buff?](https://news.ycombinator.com/item?id=24209025)
 * [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
-* [Mousemacs – A mouse-driven Emacs](https://github.com/corvideon/mousemacs)
-* [New BlackBerry with physical keyboard announced](https://www.businesswire.com/news/home/20200819005202/en/OnwardMobility-Announces-Agreements-BlackBerry-Foxconn-Subsidiary-FIH)
 * [Trump gives nod to Oracle buyout of TikTok in US](https://www.bbc.com/news/business-53830533)
 * [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
+* [Google Maps to be color-mapped for more detail](https://blog.google/products/maps/more-detailed-colorful-map/)
+* [Mousemacs – A mouse-driven Emacs](https://github.com/corvideon/mousemacs)
 * [Mancala](https://en.wikipedia.org/wiki/Mancala)
-* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
 * [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
 ## nytimes.com
 
 
-* [Apple Is Worth $2 Trillion, Punctuating Big Tech’s Grip](https://www.nytimes.com/2020/08/19/technology/apple-2-trillion.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html)
 * [Venezuela Deploys Security Forces in Coronavirus Crackdown](https://www.nytimes.com/2020/08/19/world/americas/coronavirus-venezuela.html)
 * [How the DNC Roll Call Showcased Voices from 57 States and Territories](https://www.nytimes.com/2020/08/19/us/politics/dnc-roll-call.html)
@@ -50,7 +49,8 @@ layout: default
 * [Hillary Clinton’s Bittersweet Return to the Democratic Convention](https://www.nytimes.com/2020/08/19/us/politics/hillary-clinton-democratic-convention.html)
 * [DNC Schedule, Streaming: What Time do Barack Obama and Kamala Harris Speak?](https://www.nytimes.com/2020/08/19/us/politics/dnc-schedule-speakers-streaming-time.html)
 * [Business Updates: European Stocks Higher in Wake of S&P 500’s Record](https://www.nytimes.com/live/2020/08/19/business/stock-market-today-coronavirus)
-* [California Fires Live Updates: Evacuations Ordered in Vacaville](https://www.nytimes.com/2020/08/19/us/california-wildfires-vacaville.html)
+* [Apple Is Worth $2 Trillion, Punctuating Big Tech’s Grip](https://www.nytimes.com/2020/08/19/technology/apple-2-trillion.html)
+* [California Fires Live Updates: Evacuations in Vacaville as Homes Burn](https://www.nytimes.com/2020/08/19/us/california-wildfires-vacaville.html)
 * [The California Wildfires in Pictures](https://www.nytimes.com/2020/08/19/us/california-wildfires-photos.html)
 * [The Record Market, Explained](https://www.nytimes.com/2020/08/19/briefing/jill-biden-mali-california-your-wednesday-briefing.html)
 * [In N.Y.C., Pressure to Delay In-Person Schooling](https://www.nytimes.com/2020/08/19/nyregion/nyc-schools-coronavirus.html)
@@ -74,6 +74,7 @@ layout: default
 * [Texas Governor Proposes Freezing Taxes in Cities That ‘Defund’ Police](https://www.nytimes.com/2020/08/18/us/texas-abbott-police-defund-austin.html)
 * [Damian Lillard Thrives in the Bubble](https://www.nytimes.com/2020/08/19/sports/damian-lillard-trail-blazers-lakers-nba.html)
 * [Ben Cross, Star of ‘Chariots of Fire,’ Dies at 72](https://www.nytimes.com/2020/08/18/movies/ben-cross-dead.html)
+* [10 Months After New Orleans Hotel Collapse, Third Body Recovered From Rubble](https://www.nytimes.com/2020/08/18/us/hard-rock-new-orleans-collapse.html)
 * [Berlin Autobahn Crashes Are Deemed a Possible Terrorist Attack](https://www.nytimes.com/2020/08/19/world/europe/berlin-autobahn-crashes-terrorism.html)
 * [‘I’m Only One Human Being’: Parents Brace for a Go-It-Alone School Year](https://www.nytimes.com/2020/08/19/upshot/coronavirus-home-school-parents.html)
 * [‘Climate Donors’ Flock to Biden to Counter Trump’s Fossil Fuel Money](https://www.nytimes.com/2020/08/18/climate/climate-change-biden.html)
@@ -100,13 +101,13 @@ layout: default
 ## globo.com
 
 
-* [Água na boca: vinho, um ingrediente marcante](https://oglobo.globo.com/rio/bairros/agua-na-boca-vinho-um-ingrediente-marcante-24593063)
 * [Câmara derruba vetos de Bolsonaro para retomar uso obrigatório de máscara e direito a água potável para índios](https://oglobo.globo.com/brasil/camara-derruba-vetos-de-bolsonaro-para-retomar-uso-obrigatorio-de-mascara-direito-agua-potavel-para-indios-24594425)
-* [UE anuncia que não reconhecerá resultado de eleição na Bielorrússia, e Lukashenko ordena repressão](https://oglobo.globo.com/mundo/ue-anuncia-que-nao-reconhecera-resultado-de-eleicao-na-bielorrussia-lukashenko-ordena-repressao-24594346)
+* [Trump entra com processo contra Nova Jersey por voto universal por correio](https://oglobo.globo.com/mundo/trump-entra-com-processo-contra-nova-jersey-por-voto-universal-por-correio-24594444)
+* [Movimento de jovens que pede reforma na monarquia cresce na Tailândia e governo ordena prisões](https://oglobo.globo.com/mundo/movimento-de-jovens-que-pede-reforma-na-monarquia-cresce-na-tailandia-governo-ordena-prisoes-24594421)
+* [Saiba quem são os irmãos Efromovich, presos na Lava-Jato](https://oglobo.globo.com/brasil/saiba-quem-sao-os-irmaos-efromovich-presos-na-lava-jato-24594400)
+* [Água na boca: vinho, um ingrediente marcante](https://oglobo.globo.com/rio/bairros/agua-na-boca-vinho-um-ingrediente-marcante-24593063)
 * [Ponte que Witzel implodiu em 2019 se tornou caminho para vice trilhar em 2020](https://oglobo.globo.com/analitico/ponte-que-witzel-implodiu-em-2019-se-tornou-caminho-para-vice-trilhar-em-2020-24594404)
 * [Artigo: Por que a ida do PSG — e do projeto político do Qatar — à final da Champions é perigosa](https://oglobo.globo.com/esportes/artigo-por-que-ida-do-psg-e-do-projeto-politico-do-qatar-a-final-da-champions-perigosa-24594399)
 * [Homem é preso em Nilópolis suspeito de estuprar menina de 7 anos, neta de sua mulher](https://oglobo.globo.com/rio/homem-preso-em-nilopolis-suspeito-de-estuprar-menina-de-7-anos-neta-de-sua-mulher-24594364)
-* [Cuba testará vacina própria contra Covid-19 em humanos: 'Soberana 01'](https://oglobo.globo.com/sociedade/cuba-testara-vacina-propria-contra-covid-19-em-humanos-soberana-01-24594360)
-* [Saiba quem são os irmãos Efromovich, presos na Lava-Jato](https://oglobo.globo.com/brasil/saiba-quem-sao-os-irmaos-efromovich-presos-na-lava-jato-24594400)
 * [Coronavírus pode ser transmitido por comida congelada? O que dizem especialistas](https://oglobo.globo.com/economia/coronavirus-pode-ser-transmitido-por-comida-congelada-que-dizem-especialistas-24594216)
 * [Pesquisa com pediatras: isolamento em pandemia afetou comportamento de crianças no Brasil](https://epoca.globo.com/sociedade/pesquisa-com-pediatras-isolamento-em-pandemia-afetou-comportamento-de-criancas-no-brasil-24594059)

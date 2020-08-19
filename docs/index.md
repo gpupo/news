@@ -2,54 +2,55 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 13:15:16 UTC
+# indexed at 19/08/2020 13:35:14 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base](https://theheadless.dev/)
+* [The antibiotic paradox: why companies can’t afford to create life-saving drugs](https://www.nature.com/articles/d41586-020-02418-x)
+* [Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX](https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex)
 * [AtomVM: Erlang on Microcontrollers](https://github.com/bettio/AtomVM)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [Most “mandatory requirements” in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
-* [Ask HN: Why is Reddit on mobile so obsessed with making me use their app?](https://news.ycombinator.com/item?id=24208958)
 * [Mousemacs – A mouse-driven Emacs](https://github.com/corvideon/mousemacs)
+* [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
+* [Ask HN: Why is Reddit on mobile so obsessed with making me use their app?](https://news.ycombinator.com/item?id=24208958)
 * [Researchers can duplicate keys from the sounds they make in locks](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks)
 * [RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0](https://github.com/StanislasBertrand/RetinaFace-tf2)
-* [How many pieces can a puzzle have?](https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/)
-* [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
 * [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
+* [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
+* [How many pieces can a puzzle have?](https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/)
+* [How can Wall Street be so healthy when Main Street isn’t?](https://apnews.com/6cadd78335fd98926ffb1e5d6ecb2916)
 * [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
+* [Ask HN: How to Become a Music Buff?](https://news.ycombinator.com/item?id=24209025)
 * [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
 * [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 * [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
-* [Ask HN: How to Become a Music Buff?](https://news.ycombinator.com/item?id=24209025)
 * [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
-* [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
 * [Ask HN: Is a SaaS provider expected to have a trademark in every country?](https://news.ycombinator.com/item?id=24195375)
+* [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
 * [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
-* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
-* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
 * [How Not to Photograph Sex Workers](https://fstoppers.com/documentary/how-not-photograph-sex-workers-506874)
-* [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-* [Mancala](https://en.wikipedia.org/wiki/Mancala)
-* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
+* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
-* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
-* [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
-* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
+* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
+* [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
+* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
 ## nytimes.com
 
 
 * [Democrats Nominate Biden for President in Roll-Call, Delivering Long-Sought Prize](https://www.nytimes.com/2020/08/18/us/politics/biden-dnc.html)
 * [Here is What Happened on the Second Night of the Democratic Convention](https://www.nytimes.com/2020/08/19/us/politics/dnc-convention.html)
-* [Watch Highlights From Jill Biden's DNC Speech](https://www.nytimes.com/2020/08/18/us/politics/jill-biden-dnc-speech.html)
+* [How the DNC Roll Call Showcased Voices from 57 States and Territories](https://www.nytimes.com/2020/08/19/us/politics/dnc-roll-call.html)
 * [Hillary Clinton’s Bittersweet Return to the Democratic Convention](https://www.nytimes.com/2020/08/19/us/politics/hillary-clinton-democratic-convention.html)
 * [DNC Schedule, Streaming: What Time do Barack Obama and Kamala Harris Speak?](https://www.nytimes.com/2020/08/19/us/politics/dnc-schedule-speakers-streaming-time.html)
 * [Senate Panel Details Ties Between 2016 Trump Campaign and Russia](https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html)
 * [What We Learned From Report on 2016 Trump Campaign and Russian Interference](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate.html)
 * [Report Details Manafort’s Ties During 2016 Trump Campaign to a Russian Agent](https://www.nytimes.com/2020/08/18/us/politics/paul-manafort-konstantin-kilimnik.html)
 * [Covid-19 News: Live Updates](https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html)
+* [Venezuela Deploys Security Forces in Coronavirus Crackdown](https://www.nytimes.com/2020/08/19/world/americas/coronavirus-venezuela.html)
 * [‘I’m Only One Human Being’: Parents Brace for a Go-It-Alone School Year](https://www.nytimes.com/2020/08/19/upshot/coronavirus-home-school-parents.html)
 * [‘All In, All the Time’: Reopening Florida Schools Is Likened to Military Operation](https://www.nytimes.com/2020/08/19/us/coronavirus-schools-florida-local-control.html)
 * [Alabama’s High Stakes Experiment: Reopening Universities as Virus Looms](https://www.nytimes.com/2020/08/19/business/alabama-uab-coronavirus-tests.html)
@@ -81,8 +82,8 @@ layout: default
 * [‘Climate Donors’ Flock to Biden to Counter Trump’s Fossil Fuel Money](https://www.nytimes.com/2020/08/18/climate/climate-change-biden.html)
 * [Reeling From a Storm, Iowans Worry They Have Been Forgotten](https://www.nytimes.com/2020/08/18/us/iowa-storm-derecho.html)
 * [Manhattan Vacancy Rate Climbs, and Rents Drop 10%](https://www.nytimes.com/2020/08/18/nyregion/nyc-vacant-apartments.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Want to Make It Big in Fashion? Think Small](https://www.nytimes.com/2020/08/19/fashion/mens-wear-the-birth-of-a-cult.html)
@@ -101,13 +102,13 @@ layout: default
 ## globo.com
 
 
+* [Caso Marielle: MP critica Google por 'querer impor uma investigação analógica' sobre morte da vereadora](https://oglobo.globo.com/rio/caso-marielle-mp-critica-google-por-querer-impor-uma-investigacao-analogica-sobre-morte-da-vereadora-24594148)
+* [Com investidores à espera da ata do banco central americano, dólar recua e vale R$ 5,45](https://oglobo.globo.com/economia/com-investidores-espera-da-ata-do-banco-central-americano-dolar-recua-vale-545-24594204)
+* ['Seria triste se os ricos tivessem prioridade para a vacina da Covid-19', diz papa Francisco](https://oglobo.globo.com/sociedade/seria-triste-se-os-ricos-tivessem-prioridade-para-vacina-da-covid-19-diz-papa-francisco-24594199)
 * [Bolsonaro escolhe diretor de instituto presbiteriano para Câmara de Educação Superior](https://oglobo.globo.com/sociedade/bolsonaro-escolhe-diretor-de-instituto-presbiteriano-para-camara-de-educacao-superior-24594156)
-* [Menina de 10 anos vítima de estupro foi constrangida por médico em hospital de Recife](https://oglobo.globo.com/sociedade/aborto/menina-de-10-anos-vitima-de-estupro-foi-constrangida-por-medico-em-hospital-de-recife-1-24594064)
 * [Bolsonaro sanciona, com vetos, lei que flexibiliza ano letivo](https://oglobo.globo.com/sociedade/bolsonaro-sanciona-com-vetos-lei-que-flexibiliza-ano-letivo-1-24594126)
 * [Artigo: Bolsonaro derruba pontes para construção de prestígio internacional do Brasil](https://oglobo.globo.com/mundo/artigo-bolsonaro-derruba-pontes-para-construcao-de-prestigio-internacional-do-brasil-24594124)
 * [Morre ator Ben Cross, de 'Carruagens de Fogo', aos 72 anos](https://oglobo.globo.com/cultura/morre-ator-ben-cross-de-carruagens-de-fogo-aos-72-anos-24594131)
 * [Coreia do Sul alerta para risco de coronavírus em todo o país a partir de surtos em igrejas](https://oglobo.globo.com/mundo/coreia-do-sul-alerta-para-risco-de-coronavirus-em-todo-pais-partir-de-surtos-em-igrejas-24594094)
 * [Susto dentro do carro: parque em São Paulo terá Halloween 'drive-thru' em 2020](https://oglobo.globo.com/boa-viagem/susto-dentro-do-carro-parque-em-sao-paulo-tera-halloween-drive-thru-em-2020-24593930)
-* [Cuba Gooding Jr. é acusado de estuprar mulher duas vezes](https://oglobo.globo.com/cultura/cuba-gooding-jr-acusado-de-estuprar-mulher-duas-vezes-24594052)
-* ['Perdi o chão' quando soube dos estupros, diz avó de menina abusada por tio no ES](https://oglobo.globo.com/sociedade/aborto/perdi-chao-quando-soube-dos-estupros-diz-avo-de-menina-abusada-por-tio-no-es-24594075)
 * [Um deputado federal suspeita ter sido gravado pelo ex-secretário de Saúde de Witzel](https://epoca.globo.com/guilherme-amado/um-deputado-federal-suspeita-ter-sido-gravado-pelo-ex-secretario-de-saude-de-witzel-24591512)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 01:35:37 UTC
+# indexed at 19/08/2020 02:18:02 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Zillow 2020 Urban-Suburban Market Report](https://www.zillow.com/research/2020-urb-suburb-market-report-27712/)
 * [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
 * [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
-* [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
 * [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
 * [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
+* [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
 * [Geographical Amusement: The rise of the cartographic board game](http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php)
+* [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24206381)
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
-* [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
 * [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
+* [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
+* [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
 * [Xplain – Explaining X11 for the rest of us (2017)](https://magcius.github.io/xplain/article/)
 * [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
-* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 * [Having an alter ego can reduce anxiety, benefit confidence: research](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
-* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
-* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
+* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
 * [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
-* [Product Activity Coefficient: A single metric to drive customer success teams](https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/)
+* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
+* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
 * [‘Oumuamua: A Hydrogen Iceberg?](https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/)
 * [Users as people and the participatory economy](https://sariazout.substack.com/p/check-your-pulse-50)
+* [Product Activity Coefficient: A single metric to drive customer success teams](https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/)
 * [An old Goderich salt mine could one day save you money on your hydro bill (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
 * [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
 * [The life-changing love of Paul Dirac (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
 * [Canon's cloud platform has lost users' files and can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
-* [Investor revolt and legal dispute delay Filecoin plans](https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html)
-* [If founders treated their investors the same way they treated their employees](https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/)
 ## nytimes.com
 
 
@@ -50,7 +50,7 @@ layout: default
 * [Senate Panel Details Ties Between 2016 Trump Campaign and Russia](https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html)
 * [Report Details Manafort’s Ties During 2016 Trump Campaign to a Russian Agent](https://www.nytimes.com/2020/08/18/us/politics/paul-manafort-konstantin-kilimnik.html)
 * [Trump and Miss Moscow: Report Examines Possible Compromises in Russia Trips](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate-intelligence.html)
-* [Covid-19: Live Tracker](https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html)
+* [Live Updates of Coronavirus Global Pandemic](https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html)
 * [Manhattan Vacancy Rate Climbs, and Rents Drop 10%](https://www.nytimes.com/2020/08/18/nyregion/nyc-vacant-apartments.html)
 * [U.N.C. Moved Classes Online. The Football Games Are Still On, for Now.](https://www.nytimes.com/2020/08/18/sports/ncaafootball/unc-football-acc-online-classes.html)
 * [USPS Suspends Changes After Outcry Over Delivery Slowdown](https://www.nytimes.com/2020/08/18/us/politics/postal-service-suspends-changes.html)
@@ -82,10 +82,10 @@ layout: default
 * [Mali’s President Resigns After Being Arrested in Military Coup](https://www.nytimes.com/2020/08/18/world/africa/mali-mutiny-coup.html)
 * [‘Lottery Lawyer’ Is Accused of Fleecing Winners in $107 Million Fraud](https://www.nytimes.com/2020/08/18/nyregion/lottery-lawyer-fraud.html)
 * [What Happened When Homeless Men Moved Into the Upper West Side](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
-* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [Nubya Garcia, Tapping Into the Past to Make Jazz for a New Generation](https://www.nytimes.com/2020/08/17/arts/music/nubya-garcia-source.html)
 * [Why We Cover What Politicians Wear](https://www.nytimes.com/2020/08/17/style/why-we-cover-what-politicians-wear.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
@@ -95,22 +95,20 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [Nursing Homes With Safety Problems Deploy Trump-Connected Lobbyists](https://www.nytimes.com/2020/08/16/business/nursing-home-safety-trump.html)
-* [A security guard’s meeting with Biden went viral. Now she’ll appear at his convention.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/a-security-guards-meeting-with-biden-went-viral-now-shell-appear-at-his-convention)
-* [New Role for a Soap Opera Writer: Husband](https://www.nytimes.com/2020/08/14/fashion/weddings/new-role-for-a-soap-opera-writer-husband.html)
+* [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [MPF marca acareação entre Flávio e Paulo Marinho sobre vazamento de operação Furna da Onça](https://oglobo.globo.com/brasil/mpf-marca-acareacao-entre-flavio-paulo-marinho-sobre-vazamento-de-operacao-furna-da-onca-24593640)
+* [Líder espiritual mapuche suspende greve de fome de mais de 100 dias após acordo com governo do Chile](https://oglobo.globo.com/mundo/lider-espiritual-mapuche-suspende-greve-de-fome-de-mais-de-100-dias-apos-acordo-com-governo-do-chile-24593683)
+* [STF exime União de indenizar produtores de etanol por ter tabelado preços entre 1986 e 1997](https://oglobo.globo.com/economia/stf-exime-uniao-de-indenizar-produtores-de-etanol-por-ter-tabelado-precos-entre-1986-1997-24593706)
+* [MPF marca acareação entre Flávio Bolsonaro e Paulo Marinho sobre vazamento de Operação Furna da Onça](https://oglobo.globo.com/brasil/mpf-marca-acareacao-entre-flavio-bolsonaro-paulo-marinho-sobre-vazamento-de-operacao-furna-da-onca-24593640)
+* [Bolsonaro sanciona, com vetos, projeto que destina R$ 16 bilhões a estados e municípios](https://oglobo.globo.com/economia/bolsonaro-sanciona-com-vetos-projeto-que-destina-16-bilhoes-estados-municipios-24593670)
 * [Chevrolet Onix ganhará versão 'esportiva' RS no mês que vem](https://oglobo.globo.com/economia/carros/chevrolet-onix-ganhara-versao-esportiva-rs-no-mes-que-vem-24593635)
 * [MDB se compromete a ter 30% de mulher nos cargos de direção](https://epoca.globo.com/guilherme-amado/mdb-se-compromete-ter-30-de-mulher-nos-cargos-de-direcao-1-24593552)
-* [Governo avalia cancelar Censo em 2021 e transferir dinheiro para a Defesa](https://oglobo.globo.com/brasil/governo-avalia-cancelar-censo-em-2021-transferir-dinheiro-para-defesa-1-24593398)
 * [A reação de Ciro Nogueira ao ser derrotado na tentativa de votar novo Código de Trânsito](https://epoca.globo.com/guilherme-amado/a-reacao-de-ciro-nogueira-ao-ser-derrotado-na-tentativa-de-votar-novo-codigo-de-transito-24593515)
 * [Em processo de reconstrução, Império Serrano lança logotipo e nova identidade visual nesta quarta-feira](https://oglobo.globo.com/rio/em-processo-de-reconstrucao-imperio-serrano-lanca-logotipo-nova-identidade-visual-nesta-quarta-feira-24592989)
 * [É #FAKE que jornalista da GloboNews chamou nordestino de 'pobre estúpido'](https://oglobo.globo.com/fato-ou-fake/e-fake-que-jornalista-da-globonews-chamou-nordestino-de-pobre-estupido-24593432)
 * [Oposição pede que Ministério Público investigue Sara Giromini por vazar nome de menina que interrompeu gravidez](https://epoca.globo.com/guilherme-amado/oposicao-pede-que-ministerio-publico-investigue-sara-giromini-por-vazar-nome-de-menina-que-interrompeu-gravidez-24593476)
-* [Fundação de Amparo à Pesquisa do Rio terá até R$ 158 milhões de reforço orçamentário após decisão da Justiça](https://oglobo.globo.com/rio/fundacao-de-amparo-pesquisa-do-rio-tera-ate-158-milhoes-de-reforco-orcamentario-apos-decisao-da-justica-1-24593426)
-* [Governo notifica OS por irregularidades na gestão do Samu e inicia processo de transição para Fundação Saúde; entenda](https://oglobo.globo.com/rio/governo-notifica-os-por-irregularidades-na-gestao-do-samu-inicia-processo-de-transicao-para-fundacao-saude-entenda-24593383)

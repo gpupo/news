@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 05:15:24 UTC
+# indexed at 19/08/2020 05:34:54 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
 * [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
 * [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
-* [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
-* [I had Covid-19, and these are the things nobody tells you](https://www.latimes.com/sports/story/2020-08-12/column-bill-plaschke-covid-19-experience)
-* [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
-* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [I use Obsidian to manage my goals, tasks, notes, & knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
-* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
+* [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
+* [Modal (YC W16) Is Hiring a Senior DevOps Engineer](https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b)
+* [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
+* [I had Covid-19, and these are the things nobody tells you](https://www.latimes.com/sports/story/2020-08-12/column-bill-plaschke-covid-19-experience)
+* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
-* [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
+* [Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”](https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/)
+* [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
+* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
 * [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
 * [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
-* [Geographical Amusement: The rise of the cartographic board game](http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php)
-* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
-* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
 * [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
+* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
+* [Geographical Amusement: The rise of the cartographic board game](http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php)
+* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
+* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
 * [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
 * [An old Goderich salt mine could one day save you money on your hydro bill (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
-* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
 * [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
 * [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
 * [Allowing CMake functions to return(value)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 * [Users as people and the participatory economy](https://sariazout.substack.com/p/check-your-pulse-50)
-* [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
-* [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24206381)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Mali’s President Resigns After Being Arrested in Military Coup](https://www.nytimes.com/2020/08/18/world/africa/mali-mutiny-coup.html)
 * [‘Lottery Lawyer’ Is Accused of Fleecing Winners in $107 Million Fraud](https://www.nytimes.com/2020/08/18/nyregion/lottery-lawyer-fraud.html)
 * [What Happened When Homeless Men Moved Into the Upper West Side](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [Nubya Garcia, Tapping Into the Past to Make Jazz for a New Generation](https://www.nytimes.com/2020/08/17/arts/music/nubya-garcia-source.html)
 * [Why We Cover What Politicians Wear](https://www.nytimes.com/2020/08/17/style/why-we-cover-what-politicians-wear.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
@@ -94,10 +94,8 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [Jill Biden, in her former classroom, spoke of frustration and loss amid the pandemic.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/jill-biden-returns-to-her-old-classroom-to-deliver-convention-speech)
-* [In Harris, Biden chooses ideological match even as party tilts left.](https://www.nytimes.com/live/2020/08/11/us/biden-vs-trump/in-harris-biden-chooses-ideological-match-even-as-party-tilts-left)
-* [Workers Join Belarus Protests, as Leader’s Base Turns Against Him](https://www.nytimes.com/2020/08/14/world/europe/Belarus-strike-Aleksandr-Lukashenko.html)
 * [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
+* [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

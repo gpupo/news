@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 04:16:52 UTC
+# indexed at 19/08/2020 04:34:43 UTC
 
 
 ## news.ycombinator.com
@@ -12,8 +12,9 @@ layout: default
 * [Researchers can duplicate keys from the sounds they make in locks](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks)
 * [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
 * [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
-* [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
 * [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
+* [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
+* [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
 * [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
 * [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
@@ -24,20 +25,19 @@ layout: default
 * [Geographical Amusement: The rise of the cartographic board game](http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php)
 * [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
 * [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
-* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+* [An old Goderich salt mine could one day save you money on your hydro bill (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
-* [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
-* [Zillow 2020 Urban-Suburban Market Report](https://www.zillow.com/research/2020-urb-suburb-market-report-27712/)
+* [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 * [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
-* [‘Oumuamua: A Hydrogen Iceberg?](https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/)
-* [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24206381)
+* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
+* [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
+* [Allowing CMake functions to return(value)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 * [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
-* [Users as people and the participatory economy](https://sariazout.substack.com/p/check-your-pulse-50)
+* [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24206381)
 * [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
-* [Product Activity Coefficient: A single metric to drive customer success teams](https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/)
+* [Users as people and the participatory economy](https://sariazout.substack.com/p/check-your-pulse-50)
 * [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
-* [Canon's cloud platform has lost users' files and can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
-* [Investor revolt and legal dispute delay Filecoin plans](https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html)
+* [Product Activity Coefficient: A single metric to drive customer success teams](https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/)
 ## nytimes.com
 
 
@@ -56,6 +56,7 @@ layout: default
 * [USPS Suspends Changes After Outcry Over Delivery Slowdown](https://www.nytimes.com/2020/08/18/us/politics/postal-service-suspends-changes.html)
 * [What Is QAnon, the Viral Pro-Trump Conspiracy Theory?](https://www.nytimes.com/article/what-is-qanon.html)
 * [S&P 500 at Record as Stock Market Defies Economic Devastation](https://www.nytimes.com/2020/08/18/business/stock-market-record.html)
+* [Postal Service, S&P 500, 19th Amendment: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/08/18/briefing/postal-service-sp-500-19th-amendment.html)
 * [A Dinner and a Deal](https://www.nytimes.com/2020/08/18/podcasts/the-daily/israel-UAE.html)
 * [The Fictional World of Edward P. Jones](https://www.nytimes.com/2020/08/14/books/review/podcast-a-o-scott-edward-p-jones-eric-jay-dolin-furious-sky-hurricanes.html)
 * [Coronavirus Schools Briefing](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
@@ -81,11 +82,10 @@ layout: default
 * [Mali’s President Resigns After Being Arrested in Military Coup](https://www.nytimes.com/2020/08/18/world/africa/mali-mutiny-coup.html)
 * [‘Lottery Lawyer’ Is Accused of Fleecing Winners in $107 Million Fraud](https://www.nytimes.com/2020/08/18/nyregion/lottery-lawyer-fraud.html)
 * [What Happened When Homeless Men Moved Into the Upper West Side](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
-* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
-* [Should You Say Yes to That Favor? Well …](https://www.nytimes.com/2020/07/16/smarter-living/coronavirus-how-to-handle-a-request-for-a-favor.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [Nubya Garcia, Tapping Into the Past to Make Jazz for a New Generation](https://www.nytimes.com/2020/08/17/arts/music/nubya-garcia-source.html)
 * [Why We Cover What Politicians Wear](https://www.nytimes.com/2020/08/17/style/why-we-cover-what-politicians-wear.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
@@ -95,7 +95,8 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
+* [Watch Highlights From Jill Biden's DNC Speech](https://www.nytimes.com/2020/08/18/us/politics/jill-biden-dnc-speech.html)
+* [Workers Join Belarus Protests, as Leader’s Base Turns Against Him](https://www.nytimes.com/2020/08/14/world/europe/Belarus-strike-Aleksandr-Lukashenko.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

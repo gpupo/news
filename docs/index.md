@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 01:17:24 UTC
+# indexed at 19/08/2020 01:35:37 UTC
 
 
 ## news.ycombinator.com
@@ -20,35 +20,35 @@ layout: default
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
 * [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
-* [Xplain – Explaining X11 for the rest of us (2017)](https://magcius.github.io/xplain/article/)
 * [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-* [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
+* [Xplain – Explaining X11 for the rest of us (2017)](https://magcius.github.io/xplain/article/)
 * [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
 * [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
 * [Having an alter ego can reduce anxiety, benefit confidence: research](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
-* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
 * [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
-* [‘Oumuamua: A Hydrogen Iceberg?](https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/)
+* [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
+* [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
+* [ANSI Z535 Compliant Safety Sign Generator](https://observatory.db.erau.edu/generators/signs/)
 * [Product Activity Coefficient: A single metric to drive customer success teams](https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/)
-* [An old Goderich salt mine could one day save you money on your hydro bill (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
+* [‘Oumuamua: A Hydrogen Iceberg?](https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/)
 * [Users as people and the participatory economy](https://sariazout.substack.com/p/check-your-pulse-50)
+* [An old Goderich salt mine could one day save you money on your hydro bill (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
 * [Modeling a Wealth Tax](http://paulgraham.com/wtax.html)
 * [The life-changing love of Paul Dirac (2015)](https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229)
-* [Allowing CMake functions to return(value)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 * [Canon's cloud platform has lost users' files and can't restore them](https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers)
 * [Investor revolt and legal dispute delay Filecoin plans](https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html)
-* [Scale AI (YC S16) is hiring engineers to build infrastructure for AI](https://scale.com/careers)
+* [If founders treated their investors the same way they treated their employees](https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/)
 ## nytimes.com
 
 
-* [Convention Will Tackle National Security, Unity and Generational Change](https://www.nytimes.com/interactive/2020/08/18/us/politics/live-dnc-stream-analysis.html)
+* [Speakers Include Party’s Leaders of Past and Future](https://www.nytimes.com/interactive/2020/08/18/us/politics/live-dnc-stream-analysis.html)
 * [Night 2 of the Democratic Convention: What to Watch For](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election)
 * [Much Changed World, Same Joe Biden Seeking to Undo What Trump Has Done](https://www.nytimes.com/2020/08/18/us/politics/joe-biden-foreign-policy.html)
 * [As D.N.C. Unfolds, Trump Reprises Grimmest Language of 2016 Campaign](https://www.nytimes.com/2020/08/18/us/politics/trump-immigration-arizona.html)
 * [DNC Speaker Whose Father Died of Covid on Turning Grief Into Activism](https://www.nytimes.com/2020/08/18/us/politics/kristin-urquiza-dnc-father-covid.html)
 * [TV Audiences Dip for First Night of Democrats’ Virtual Convention](https://www.nytimes.com/2020/08/18/business/media/democratic-convention-ratings-michelle-obama.html)
 * [Senate Panel Details Ties Between 2016 Trump Campaign and Russia](https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html)
-* [What We Learned From Report on 2016 Trump Campaign and Russian Interference](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate.html)
+* [Report Details Manafort’s Ties During 2016 Trump Campaign to a Russian Agent](https://www.nytimes.com/2020/08/18/us/politics/paul-manafort-konstantin-kilimnik.html)
 * [Trump and Miss Moscow: Report Examines Possible Compromises in Russia Trips](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate-intelligence.html)
 * [Covid-19: Live Tracker](https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html)
 * [Manhattan Vacancy Rate Climbs, and Rents Drop 10%](https://www.nytimes.com/2020/08/18/nyregion/nyc-vacant-apartments.html)
@@ -82,10 +82,10 @@ layout: default
 * [Mali’s President Resigns After Being Arrested in Military Coup](https://www.nytimes.com/2020/08/18/world/africa/mali-mutiny-coup.html)
 * [‘Lottery Lawyer’ Is Accused of Fleecing Winners in $107 Million Fraud](https://www.nytimes.com/2020/08/18/nyregion/lottery-lawyer-fraud.html)
 * [What Happened When Homeless Men Moved Into the Upper West Side](https://www.nytimes.com/2020/08/18/nyregion/uws-homeless-hotels-nyc.html)
-* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Add More Play to Your Grown-Up Life, Even Now](https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [Nubya Garcia, Tapping Into the Past to Make Jazz for a New Generation](https://www.nytimes.com/2020/08/17/arts/music/nubya-garcia-source.html)
 * [Why We Cover What Politicians Wear](https://www.nytimes.com/2020/08/17/style/why-we-cover-what-politicians-wear.html)
 * [Meet the Brave but Overlooked Women of Color Who Fought for the Vote](https://www.nytimes.com/2020/07/24/books/finish-the-fight-excerpt.html)
@@ -95,7 +95,9 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [The V.P. choice was both conventional and groundbreaking.](https://www.nytimes.com/2020/08/12/us/politics/the-vp-choice-was-both-conventional-and-groundbreaking.html)
+* [Nursing Homes With Safety Problems Deploy Trump-Connected Lobbyists](https://www.nytimes.com/2020/08/16/business/nursing-home-safety-trump.html)
+* [A security guard’s meeting with Biden went viral. Now she’ll appear at his convention.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/a-security-guards-meeting-with-biden-went-viral-now-shell-appear-at-his-convention)
+* [New Role for a Soap Opera Writer: Husband](https://www.nytimes.com/2020/08/14/fashion/weddings/new-role-for-a-soap-opera-writer-husband.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -103,9 +105,9 @@ layout: default
 
 
 * [MPF marca acareação entre Flávio e Paulo Marinho sobre vazamento de operação Furna da Onça](https://oglobo.globo.com/brasil/mpf-marca-acareacao-entre-flavio-paulo-marinho-sobre-vazamento-de-operacao-furna-da-onca-24593640)
+* [Chevrolet Onix ganhará versão 'esportiva' RS no mês que vem](https://oglobo.globo.com/economia/carros/chevrolet-onix-ganhara-versao-esportiva-rs-no-mes-que-vem-24593635)
 * [MDB se compromete a ter 30% de mulher nos cargos de direção](https://epoca.globo.com/guilherme-amado/mdb-se-compromete-ter-30-de-mulher-nos-cargos-de-direcao-1-24593552)
 * [Governo avalia cancelar Censo em 2021 e transferir dinheiro para a Defesa](https://oglobo.globo.com/brasil/governo-avalia-cancelar-censo-em-2021-transferir-dinheiro-para-defesa-1-24593398)
-* [Câmara aprova MP que diminui exigências para concessão de empréstimo durante a pandemia](https://oglobo.globo.com/economia/camara-aprova-mp-que-diminui-exigencias-para-concessao-de-emprestimo-durante-pandemia-24593404)
 * [A reação de Ciro Nogueira ao ser derrotado na tentativa de votar novo Código de Trânsito](https://epoca.globo.com/guilherme-amado/a-reacao-de-ciro-nogueira-ao-ser-derrotado-na-tentativa-de-votar-novo-codigo-de-transito-24593515)
 * [Em processo de reconstrução, Império Serrano lança logotipo e nova identidade visual nesta quarta-feira](https://oglobo.globo.com/rio/em-processo-de-reconstrucao-imperio-serrano-lanca-logotipo-nova-identidade-visual-nesta-quarta-feira-24592989)
 * [É #FAKE que jornalista da GloboNews chamou nordestino de 'pobre estúpido'](https://oglobo.globo.com/fato-ou-fake/e-fake-que-jornalista-da-globonews-chamou-nordestino-de-pobre-estupido-24593432)

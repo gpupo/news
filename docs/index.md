@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 19/08/2020 08:35:07 UTC
+# indexed at 19/08/2020 09:15:57 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
+* [Most “mandatory requirements” in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
 * [Researchers can duplicate keys from the sounds they make in locks](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks)
 * [Show HN: Handwritten.js – Convert typed text to realistic handwriting](https://github.com/alias-rahil/handwritten.js#README.md)
-* [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
-* [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
 * [The Death of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1)
+* [Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall](https://github.com/TimeToogo/tunshell)
+* [Senior Full Stack Engineer](https://apply.workable.com/jerry/j/FA1F4C0876/)
+* [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
+* [Humanly Traversable Wormholes](https://arxiv.org/abs/2008.06618)
 * [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
-* [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
 * [Haskell Mini-Patterns Handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
-* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [Black Sky satellites return images just 58 hours after launch](https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/)
-* [Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem](https://github.com/Uzay-G/archivy)
+* [I’m A Teapot – HTTP status code 418](https://httpstatuses.com/418)
+* [Voxel Plotting with Gnuplot 5.4](https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/)
 * [APL386 Unicode – An APL Font](https://abrudz.github.io/APL386/)
 * [The Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-* [On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]](https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf)
-* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
-* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
-* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
 * [A Lesson in Acceptance](https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance)
+* [Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices](https://github.com/pibooth/pibooth)
+* [Umami: Self-hosted open-source alternative to Google Analytics](https://umami.is/)
 * [Ts-migrate: tool to automatically migrate JavaScript projects to TS](https://github.com/airbnb/ts-migrate)
-* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
+* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
+* [Vision Experiment Resolved a Centuries-Old Philosophical Debate](http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate)
+* [Old salt mine is the first emission-free compressed air energy facility (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
 * [Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app](https://news.ycombinator.com/item?id=24198114)
+* [Lost Advanced Civilizations](https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html)
 * [Effective Airflow Development](https://curology.com/blog/tech/posts/effective-airflow?hn)
 * [A Virginia couple that gave birth to the billable hour](https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/)
-* [Show HN: An animated graphing calculator implemented in a pixel shader](https://fofpx.com/?pid=graphingcalculator)
-* [Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors](https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/)
-* [Old salt mine is the first emission-free compressed air energy facility (2019)](https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478)
-* [Modal (YC W16) Is Hiring a Senior DevOps Engineer](https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b)
 * [Language-Agnostic Bert Sentence Embedding](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+* [Trump gives nod to Oracle buyout of TikTok in US](https://www.bbc.com/news/business-53830533)
 ## nytimes.com
 
 
@@ -94,21 +94,23 @@ layout: default
 * [How Children’s Sleep Habits Have Changed in the Pandemic](https://www.nytimes.com/2020/08/17/well/family/children-sleep-pandemic.html)
 * [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Making Sense of ‘One of the Most Baffling Animals That Ever Lived’](https://www.nytimes.com/2020/08/12/science/reptile-long-neck-fossil.html)
-* [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
-* [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
+* [Five questions for Democrats as their virtual convention nears.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/five-questions-for-democrats-as-their-virtual-convention-nears)
+* [Supreme Court Lets Rhode Island Make Voting by Mail Easier Amid Pandemic](https://www.nytimes.com/2020/08/13/us/supreme-court-rhode-island-voting.html)
+* [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
+* [Trevor Noah Praises Michelle Obama’s ‘Ice-Cold’ Trump Takedown](https://www.nytimes.com/2020/08/19/arts/television/trevor-noah-michelle-obama-speech.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Ida de centenas de sem-teto para hotel põe bairro progressista à prova em Nova York](https://oglobo.globo.com/mundo/ida-de-centenas-de-sem-teto-para-hotel-poe-bairro-progressista-prova-em-nova-york-1-24593507)
+* [Aproximação de Bolsonaro com o PSL muda cenários nas eleições para prefeito de Rio e SP](https://oglobo.globo.com/brasil/aproximacao-de-bolsonaro-com-psl-muda-cenarios-nas-eleicoes-para-prefeito-de-rio-sp-1-24593817)
+* [Demissões e interrupção de obras e contratos: ministérios fazem alertas ao pedir recursos no Orçamento de 2021](https://oglobo.globo.com/brasil/demissoes-interrupcao-de-obras-contratos-ministerios-fazem-alertas-ao-pedir-recursos-no-orcamento-de-2021-1-24593726)
 * [MEC quer abrir mão de R$ 55 milhões para militares](https://oglobo.globo.com/brasil/mec-quer-abrir-mao-de-55-milhoes-para-militares-24593753)
 * ['Não se esquece um abuso': psicóloga especializada em atender sobreviventes explica como uma criança lida com a violência sexual](https://oglobo.globo.com/celina/nao-se-esquece-um-abuso-psicologa-especializada-em-atender-sobreviventes-explica-como-uma-crianca-lida-com-violencia-sexual-1-24590887)
 * [MEC quer abrir mão de R$55 milhões para dobrar gastos com escolas cívico-militares](https://oglobo.globo.com/brasil/mec-quer-abrir-mao-de-r55-milhoes-para-dobrar-gastos-com-escolas-civico-militares-24593747)
-* [Champions League: Lyon de Juninho Pernambucano tenta surpreender o favorito Bayern de Munique](https://oglobo.globo.com/esportes/champions-league-lyon-de-juninho-pernambucano-tenta-surpreender-favorito-bayern-de-munique-24593559)
-* [A mágica das obras 'anti-crise' e os riscos para o teto de gastos](https://oglobo.globo.com/podcast/a-magica-das-obras-anti-crise-os-riscos-para-teto-de-gastos-24593931)
 * [Médico denuncia ter sido agredido por empresário ao tentar acabar com festa durante pandemia na Barra](https://oglobo.globo.com/rio/medico-denuncia-ter-sido-agredido-por-empresario-ao-tentar-acabar-com-festa-durante-pandemia-na-barra-24593881)
-* [Conselho Nacional de Justiça deve abrir processo contra desembargador que ofendeu guarda civil](https://oglobo.globo.com/sociedade/conselho-nacional-de-justica-deve-abrir-processo-contra-desembargador-que-ofendeu-guarda-civil-24593529)
-* [Cada um no seu círculo: Rio ganha espaço para shows ao ar livre, com mesas separadas por cordas e desenhos no chão](https://oglobo.globo.com/rioshow/cada-um-no-seu-circulo-rio-ganha-espaco-para-shows-ao-ar-livre-com-mesas-separadas-por-cordas-desenhos-no-chao-24592524)
-* [Nossas Kamalas silenciadas](https://oglobo.globo.com/cultura/nossas-kamalas-silenciadas-24592307)
-* [A chef Nathalie Passos fala sobre a mania de anotar pensamentos, frases e poemas em comandas do seu restaurante](https://oglobo.globo.com/ela/gastronomia/a-chef-nathalie-passos-fala-sobre-mania-de-anotar-pensamentos-frases-poemas-em-comandas-do-seu-restaurante-24584400)
+* [Caixa deposita segunda parcela do auxílio emergencial no nome de Sara Giromini](https://epoca.globo.com/guilherme-amado/caixa-deposita-segunda-parcela-do-auxilio-emergencial-no-nome-de-sara-giromini-24593743)
+* [Ministérios alertam para impactos de cortes em 2021](https://oglobo.globo.com/brasil/ministerios-alertam-para-impactos-de-cortes-em-2021-24593737)
+* [Surpresa na semifinal da Champions, Lyon já é tradicional na disputa feminina do torneio](https://oglobo.globo.com/esportes/surpresa-na-semifinal-da-champions-lyon-ja-tradicional-na-disputa-feminina-do-torneio-1-24592757)

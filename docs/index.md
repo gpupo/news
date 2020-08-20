@@ -2,32 +2,33 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 23:14:46 UTC
+# indexed at 20/08/2020 23:34:59 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
-* [How Shopify made storefront response times 4x faster](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
 * [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
+* [How Shopify made storefront response times 4x faster](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
 * [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
-* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
+* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
 * [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
 * [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
-* [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
+* [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
 * [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
 * [Writing a Game in C: Parsing S-expressions](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
 * [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
 * [Wirecard hired actors to fool auditors](https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382)
 * [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
+* [From farm to factory: the unstoppable rise of American chicken](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
 * [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
@@ -36,7 +37,6 @@ layout: default
 * [Startup mistakes: Lessons from failed startups](https://www.failory.com/blog/startup-mistakes)
 * [Fortnite’s battle with Apple and Google could have an impact on news publishers](https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/)
 * [An Anecdote About ML Type Inference (1994)](https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a)
-* [Tackling open challenges in offline reinforcement learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html)
 * [Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go](https://analysis-tools.dev)
 ## nytimes.com
 
@@ -82,11 +82,11 @@ layout: default
 * [Most of $600 Million Settlement in Flint Water Crisis Will Go to Children](https://www.nytimes.com/2020/08/20/us/flint-water-crisis-settlement-children.html)
 * [Immigrant ‘Dreamers’ in Search of a Job Are Being Turned Away](https://www.nytimes.com/2020/08/20/us/immigration-daca-dreamers-employers.html)
 * [Kamala Harris's Big Tech Connections](https://www.nytimes.com/2020/08/20/technology/kamala-harris-ties-to-big-tech.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [A Road Trip With One of the 20th Century’s Greatest Writers](https://www.nytimes.com/2020/08/18/books/review/jay-parini-borges-and-me.html)
 * [Novak Djokovic on Coronavirus, Vaccines and His Ill-Fated Adria Tour](https://www.nytimes.com/2020/08/20/sports/tennis/djokovic-us-open.html)
@@ -96,22 +96,20 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
-* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
-* [Mitch McConnell’s opponent answers his debate challenge with another.](https://www.nytimes.com/2020/08/20/us/elections/mitch-mcconnells-opponent-answers-his-debate-challenge-with-another.html)
+* [10 No-Cook Pasta Sauces for Summer](https://www.nytimes.com/2020/08/19/dining/no-cook-pasta-sauce.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Fiocruz poderá começar a produzir vacina contra Covid-19 a partir de abril, diz Ministério da Saúde](https://oglobo.globo.com/sociedade/coronavirus/fiocruz-podera-comecar-produzir-vacina-contra-covid-19-partir-de-abril-diz-ministerio-da-saude-24597858)
-* [André Heller-Lopes deixa a direção artística do Teatro Municipal](https://oglobo.globo.com/cultura/andre-heller-lopes-deixa-direcao-artistica-do-teatro-municipal-24597429)
+* [Fiocruz poderá começar a produzir vacina contra Covid-19 a partir de abril, diz Ministério da Saúde](https://oglobo.globo.com/sociedade/coronavirus/fiocruz-podera-comecar-produzir-vacina-contra-covid-19-partir-de-abril-diz-ministerio-da-saude-1-24597858)
+* [Senadores querem explicações de Guedes por ter chamado derrubada de veto de 'crime contra o país'](https://oglobo.globo.com/economia/senadores-querem-explicacoes-de-guedes-por-ter-chamado-derrubada-de-veto-de-crime-contra-pais-24597894)
+* [É #FAKE que mistura de vinagre de maçã e alho cure a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-mistura-de-vinagre-de-maca-alho-cure-covid-19-24597816)
+* [Republicanos que tiveram cargos de alto nível na área de Segurança Nacional declaram apoio a Biden](https://oglobo.globo.com/mundo/republicanos-que-tiveram-cargos-de-alto-nivel-na-area-de-seguranca-nacional-declaram-apoio-biden-24597883)
+* [Crivella é condenado a ressarcir município por elaboração de formulário com perguntas sobre raça e religião em programa do município](https://oglobo.globo.com/rio/crivella-condenado-ressarcir-municipio-por-elaboracao-de-formulario-com-perguntas-sobre-raca-religiao-em-programa-do-municipio-24597884)
+* [Vazamento de óleo no Nordeste pode ter vindo da África, sugerem pesquisadores](https://oglobo.globo.com/sociedade/vazamento-de-oleo-no-nordeste-pode-ter-vindo-da-africa-sugerem-pesquisadores-24597658)
 * [Drama na lateral do Flamengo: saída de Rafinha, lesão e reforço que não atua desde março](https://oglobo.globo.com/esportes/drama-na-lateral-do-flamengo-saida-de-rafinha-lesao-reforco-que-nao-atua-desde-marco-24597788)
 * [Brasil tem mais de 112 mil mortes e 3,5 milhões de infectados por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-tem-mais-de-112-mil-mortes-35-milhoes-de-infectados-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24597766)
-* [Enfermeira deu banho quente de 50 graus em menina que teve o corpo queimado no Hospital Getulinho, diz polícia](https://oglobo.globo.com/rio/enfermeira-deu-banho-quente-de-50-graus-em-menina-que-teve-corpo-queimado-no-hospital-getulinho-diz-policia-24597701)
 * [Da tribuna da Câmara, Maia defende manutenção do veto de Bolsonaro por 'princípios' e 'conceitos'](https://oglobo.globo.com/economia/da-tribuna-da-camara-maia-defende-manutencao-do-veto-de-bolsonaro-por-principios-conceitos-24597791)
-* [É #FAKE que mistura de vinagre de maçã e alho cure a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-mistura-de-vinagre-de-maca-alho-cure-covid-19-24597816)
 * [TBT: Clipe 'Freedom! '90', de George Michael, que completa três décadas este ano, ganha homenagem de Cindy Crawford](https://oglobo.globo.com/ela/moda/tbt-clipe-freedom-90-de-george-michael-que-completa-tres-decadas-este-ano-ganha-homenagem-de-cindy-crawford-24597683)
-* [Justiça nega recurso da Prefeitura de Nova Iguaçu contra aumento de passagem](https://oglobo.globo.com/rio/justica-nega-recurso-da-prefeitura-de-nova-iguacu-contra-aumento-de-passagem-24597742)
-* [Cadáver em loja, cão espancado e idoso expulso: matriz do Carrefour na França diz que problemas no Brasil são 'isolados'](https://epoca.globo.com/mundo/cadaver-em-loja-cao-espancado-idoso-expulso-matriz-do-carrefour-na-franca-diz-que-problemas-no-brasil-sao-isolados-24597660)

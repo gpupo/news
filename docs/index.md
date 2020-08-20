@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 22:15:36 UTC
+# indexed at 20/08/2020 22:34:52 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
-* [Former Uber Executive Charged with Paying 'Hush Money' to Conceal Breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [How Shopify made storefront response times 4x faster](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
-* [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
-* [Learn Big-O and stop hacking your way through algorithms](https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms/?ref=hnpost)
-* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
-* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
-* [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
 * [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
-* [Writing a Game in C: Parsing S-expressions](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
-* [Words Matter: How Tech Media Helped Write Gig Companies into Existence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668606&utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter)
-* [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
-* [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
+* [Learn Big-O and stop hacking your way through algorithms](https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms/?ref=hnpost)
+* [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
+* [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
+* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
+* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
+* [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
+* [Writing a Game in C: Parsing S-expressions](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
+* [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
+* [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
 * [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
+* [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
+* [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [Wirecard hired actors to fool auditors](https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382)
 * [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
-* [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
-* [Plan the Sprint, Not the Project](https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/)
-* [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
+* [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
-* [S&P 500 Return Attribution: Its 1% economy](https://www.putnam.com/advisor/content/perspectives/7816)
 * [Big Bounce Simulations Challenge the Big Bang](https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/)
-* [Tackling open challenges in offline reinforcement learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html)
+* [Plan the Sprint, Not the Project](https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/)
 * [Startup mistakes: Lessons from failed startups](https://www.failory.com/blog/startup-mistakes)
+* [Tackling open challenges in offline reinforcement learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html)
 * [Fortnite’s battle with Apple and Google could have an impact on news publishers](https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/)
+* [Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go](https://analysis-tools.dev)
 ## nytimes.com
 
 
@@ -50,10 +50,11 @@ layout: default
 * [Trump Unleashes Scorched-Earth Attack on Biden Before Convention Night 4](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election)
 * [From Obama, Plenty of Drama in a Rare Display at the Democratic Convention](https://www.nytimes.com/2020/08/20/us/politics/obama-trump-democratic-convention.html)
 * [Former Postal Governor Tells Congress Mnuchin Politicized Postal Service](https://www.nytimes.com/2020/08/20/us/politics/former-postal-governor-tells-congress-mnuchin-politicized-postal-service.html)
-* [Jobless Claims Unexpectedly Jump to 1.1 Million](https://www.nytimes.com/live/2020/08/20/business/stock-market-today-coronavirus)
-* [Live Covid-19 Coverage: Global Updates](https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html)
+* [Live Covid-19 Updates](https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html)
+* [School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.](https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html)
 * [South Africa’s Big Coronavirus Aid Effort Tainted by Corruption](https://www.nytimes.com/2020/08/19/world/africa/coronavirus-south-africa-aid-corruption.html)
-* [Live California Fires Updates and Map](https://www.nytimes.com/2020/08/20/us/ca-fires.html)
+* [Live California Fires Updates](https://www.nytimes.com/2020/08/20/us/ca-fires.html)
+* [Poor Planning Left California Short of Electricity in a Heat Wave](https://www.nytimes.com/2020/08/20/business/energy-environment/california-blackout-electric-grid.html)
 * [How Two British Orthodontists Became Celebrities to Incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 * [Joe Biden, Steve Bannon, Native Plants: Your Thursday Evening Briefing](https://www.nytimes.com/2020/08/20/briefing/joe-biden-steve-bannon-goldenrod.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -82,10 +83,10 @@ layout: default
 * [Immigrant ‘Dreamers’ in Search of a Job Are Being Turned Away](https://www.nytimes.com/2020/08/20/us/immigration-daca-dreamers-employers.html)
 * [Italy Wants Its Tourists Back, Unless They Sit on the Statues](https://www.nytimes.com/2020/08/19/world/europe/italy-vandalism-tourism.html)
 * [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [A Road Trip With One of the 20th Century’s Greatest Writers](https://www.nytimes.com/2020/08/18/books/review/jay-parini-borges-and-me.html)
 * [Novak Djokovic on Coronavirus, Vaccines and His Ill-Fated Adria Tour](https://www.nytimes.com/2020/08/20/sports/tennis/djokovic-us-open.html)
@@ -102,13 +103,13 @@ layout: default
 ## globo.com
 
 
-* [André Heller-Lopes deixa a direção artística do Municipal](https://oglobo.globo.com/cultura/andre-heller-lopes-deixa-direcao-artistica-do-municipal-24597429)
 * [Enfermeira deu banho quente de 50 graus em menina que teve o corpo queimado no Hospital Getulinho, diz polícia](https://oglobo.globo.com/rio/enfermeira-deu-banho-quente-de-50-graus-em-menina-que-teve-corpo-queimado-no-hospital-getulinho-diz-policia-24597701)
+* [TBT: Clipe 'Freedom! '90', de George Michael, completa 30 anos, e ganha homenagem de Cindy Crawford](https://oglobo.globo.com/ela/moda/tbt-clipe-freedom-90-de-george-michael-completa-30-anos-ganha-homenagem-de-cindy-crawford-24597683)
+* [André Heller-Lopes deixa a direção artística do Theatro Municipal](https://oglobo.globo.com/cultura/andre-heller-lopes-deixa-direcao-artistica-do-theatro-municipal-24597429)
+* [Justiça nega recurso da Prefeitura de Nova Iguaçu contra aumento de passagem](https://oglobo.globo.com/rio/justica-nega-recurso-da-prefeitura-de-nova-iguacu-contra-aumento-de-passagem-24597742)
 * [Prisão de ex-estrategista de Trump fecha portas aos olavistas de Bolsonaro](https://oglobo.globo.com/analitico/prisao-de-ex-estrategista-de-trump-fecha-portas-aos-olavistas-de-bolsonaro-1-24597581)
 * [Banco Central vai estudar emissão de moeda digital](https://oglobo.globo.com/economia/banco-central-vai-estudar-emissao-de-moeda-digital-24597632)
 * [Cadáver em loja, cão espancado e idoso expulso: matriz do Carrefour na França diz que problemas no Brasil são 'isolados'](https://epoca.globo.com/mundo/cadaver-em-loja-cao-espancado-idoso-expulso-matriz-do-carrefour-na-franca-diz-que-problemas-no-brasil-sao-isolados-24597660)
-* [Governo recebeu seis pareceres sobre irregularidades nos hospitais de campanha](https://oglobo.globo.com/rio/governo-recebeu-seis-pareceres-sobre-irregularidades-nos-hospitais-de-campanha-24597578)
 * [Conheça a gerente do Bayern de Munique, finalista da Champions](https://oglobo.globo.com/esportes/conheca-gerente-do-bayern-de-munique-finalista-da-champions-24597611)
 * [Presentes milionários e caçada de elefante: as revelações da ex-amante do rei emérito da Espanha](https://epoca.globo.com/mundo/presentes-milionarios-cacada-de-elefante-as-revelacoes-da-ex-amante-do-rei-emerito-da-espanha-24597602)
-* [Em viagem perto de cidade natal de Biden, Trump chama adversário de “fantoche da esquerda radical”](https://oglobo.globo.com/mundo/em-viagem-perto-de-cidade-natal-de-biden-trump-chama-adversario-de-fantoche-da-esquerda-radical-24597565)
 * [Lotação de voos nacionais aumenta aos poucos e chega a 75%](https://epoca.globo.com/guilherme-amado/lotacao-de-voos-nacionais-aumenta-aos-poucos-chega-75-24597532)

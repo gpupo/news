@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 18:17:20 UTC
+# indexed at 20/08/2020 18:35:06 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Rideshare operations are being suspended in California](https://www.lyft.com/blog/posts/ca-operations-update)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
-* [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
 * [A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
 * [Startup mistakes: First-hand lessons from over eighty failed startups](https://www.failory.com/blog/startup-mistakes)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
-* [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
-* [The Suspected Poisoning of Alexey Navalny, Putin’s Most Prominent Adversary](https://www.newyorker.com/news/our-columnists/the-suspected-poisoning-of-alexey-navalny-putins-most-prominent-adversary)
-* [Tackling Open Challenges in Offline Reinforcement Learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html)
-* [Science Fiction Books I’ve Read (2018)](https://fortelabs.co/blog/science-fiction-books-ive-read/)
-* [Who to ignore – bullshit filters](https://ernest.oppet.it/2020/08/14/who-to-ignore/)
-* [Show HN: Say Less – An AI-powered tool to write shorter, more effective email](https://sayless.email/)
 * [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
-* [Experimental evidence supportive of the quantum DNA model](https://dc.uthsc.edu/cgi/viewcontent.cgi?article=1002&context=gsmk_facpubs)
-* [Plan the Sprint, Not the Project](https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/)
+* [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
+* [Show HN: Say Less – An AI-powered tool to write shorter, more effective email](https://sayless.email/)
+* [Who to ignore – bullshit filters](https://ernest.oppet.it/2020/08/14/who-to-ignore/)
+* [Tackling Open Challenges in Offline Reinforcement Learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html)
+* [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
+* [Magnetoplasma drive could make Mars transit take 39 days?](https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
 * [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
+* [Plan the Sprint, Not the Project](https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/)
+* [App stores, trust and anti-trust](https://www.ben-evans.com/benedictevans/2020/8/18/app-stores)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
 * [Fortnite’s battle with Apple and Google could have an impact on news publishers](https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/)
 * [Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go](https://analysis-tools.dev)
-* [App stores, trust and anti-trust](https://www.ben-evans.com/benedictevans/2020/8/18/app-stores)
 * [Big Bounce Simulations Challenge the Big Bang](https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/)
-* [Magnetoplasma drive could make Mars transit take 39 days?](https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days)
+* [Penguin’s Moonlit Maze – The Dawn of Nation-State Digital Espionage (2017) [pdf]](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf)
 * [An Anecdote About ML Type Inference (1994)](https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a)
 * [The 212-story skyscraper in Melbourne, Australia](https://twitter.com/liamosaur/status/1296305262144364544)
 * [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [Malaria No More](http://malarianomore.org)
 * [Analyzing Python Code with Python](https://rotemtam.com/2020/08/13/python-ast/)
-* [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/)
+* [Science Fiction Books I’ve Read (2018)](https://fortelabs.co/blog/science-fiction-books-ive-read/)
 * [Antibody tests show what parts of NYC were hit hardest](https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html)
+* [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/)
+* [Effect of Exercise-Related Factors on the Perception of Time](https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full)
 ## nytimes.com
 
 
@@ -78,10 +78,10 @@ layout: default
 * [323,911 Accusations of N.Y.P.D. Misconduct Are Released Online](https://www.nytimes.com/2020/08/20/nyregion/nypd-ccrb-records-published.html)
 * [Trump Cites the V.A. as a Central Achievement. But Troubles Simmer.](https://www.nytimes.com/2020/08/19/us/politics/trump-veterans.html)
 * [Italy Wants Its Tourists Back, Unless They Sit on the Statues](https://www.nytimes.com/2020/08/19/world/europe/italy-vandalism-tourism.html)
-* [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
-* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [A Road Trip With One of the 20th Century’s Greatest Writers](https://www.nytimes.com/2020/08/18/books/review/jay-parini-borges-and-me.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Governo ameaça retaliar quatro senadores que votaram para derrubar veto de Bolsonaro](https://oglobo.globo.com/economia/governo-ameaca-retaliar-quatro-senadores-que-votaram-para-derrubar-veto-de-bolsonaro-1-24597040)
-* [Leia a íntegra do discurso em que Obama acusou Trump de ameaçar democracia](https://oglobo.globo.com/mundo/leia-integra-do-discurso-em-que-obama-acusou-trump-de-ameacar-democracia-24597112)
-* [Damares pede que PF apure vazamento de dados da menina de 10 anos](https://oglobo.globo.com/sociedade/damares-pede-que-pf-apure-vazamento-de-dados-da-menina-de-10-anos-1-24597066)
+* [Banco Central fecha acordo com Aneel e Pix poderá ser usado para pagar contas de luz](https://oglobo.globo.com/economia/banco-central-fecha-acordo-com-aneel-pix-podera-ser-usado-para-pagar-contas-de-luz-24597159)
+* [Leia a íntegra do discurso em que Obama acusou Trump de ameaçar a democracia nos EUA](https://oglobo.globo.com/mundo/leia-integra-do-discurso-em-que-obama-acusou-trump-de-ameacar-democracia-nos-eua-24597112)
+* [“Há desvio de finalidade”, disse Alexandre de Moraes sobre dossiê contra servidores](https://oglobo.globo.com/brasil/ha-desvio-de-finalidade-disse-alexandre-de-moraes-sobre-dossie-contra-servidores-24597161)
+* [Conselho de Medicina investiga médicos por constrangimento a menina de 10 anos](https://oglobo.globo.com/sociedade/conselho-de-medicina-investiga-medicos-por-constrangimento-menina-de-10-anos-24597132)
+* [O jantar com charutos, vinhos e Líbano de Temer na pandemia; veja vídeos](https://epoca.globo.com/guilherme-amado/o-jantar-com-charutos-vinhos-libano-de-temer-na-pandemia-veja-videos-24597017)
+* [Iphan barra instalação de escudo contra drones em palácios de Brasília](https://oglobo.globo.com/brasil/iphanbarra-instalacao-de-escudo-contra-dronesem-palacios-de-brasilia-24597102)
 * [Prefeito de cidade mais fria do Brasil desaconselha turismo para ver neve](https://epoca.globo.com/brasil/prefeito-de-cidade-mais-fria-do-brasil-desaconselha-turismo-para-ver-neve-1-24596827)
-* [Covid-19: vacina da Johnson & Johnson será testada em 60 mil voluntários na fase final](https://oglobo.globo.com/sociedade/covid-19-vacina-da-johnson-johnson-sera-testada-em-60-mil-voluntarios-na-fase-final-1-24597038)
 * [Arrecadação federal cai para R$ 115,9 bi em julho, pior resultado para o mês desde 2009](https://oglobo.globo.com/economia/arrecadacao-federal-cai-para-1159-bi-em-julho-pior-resultado-para-mes-desde-2009-24597016)
-* [Direção de hospital afirma ter procurado família que descobriu a morte do paciente por Covid-19 só 50 dias depois](https://oglobo.globo.com/rio/direcao-de-hospital-afirma-ter-procurado-familia-que-descobriu-morte-do-paciente-por-covid-19-so-50-dias-depois-24597059)
 * [Polícia Militar confirma ocupação do Complexo do Viradouro, em Niterói](https://oglobo.globo.com/rio/policia-militar-confirma-ocupacao-do-complexo-do-viradouro-em-niteroi-24597068)
-* [Witzel nomeia para presidência da Loterj coronel que responde na Justiça Militar por fraudes em licitações](https://oglobo.globo.com/rio/witzel-nomeia-para-presidencia-da-loterj-coronel-que-responde-na-justica-militar-por-fraudes-em-licitacoes-24596940)
 * [Hospital do Rio será o primeiro da rede pública a oferecer implante de válvula cardíaca sem cirurgia](https://epoca.globo.com/guilherme-amado/hospital-do-rio-sera-primeiro-da-rede-publica-oferecer-implante-de-valvula-cardiaca-sem-cirurgia-24595939)

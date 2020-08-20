@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 06:34:53 UTC
+# indexed at 20/08/2020 07:15:57 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
-* [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
 * [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
-* [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
+* [California bullet train contractors botched bridge project](https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu)
+* [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
+* [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
-* [Amazon Braket – Amazon Web Services](https://aws.amazon.com/braket/)
+* [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
-* [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
 * [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
 * [How the ARM32 Kernel Starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 * [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
 * [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
-* [Rust and C++ Interoperability in Chrome](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability)
 * [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [Practical Data Ethics](http://ethics.fast.ai)
 * [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
 * [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
-* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
-* [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
-* [Madhya Pradesh man cycles 105km to ferry son to Class X exam centre](https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html)
 * [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
-* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
+* [Madhya Pradesh man cycles 105km to ferry son to Class X exam centre](https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html)
+* [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
+* [Phone camera-based vital signs monitoring](https://www.binah.ai)
 * [Elastic 7.9](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
-* [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
+* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
 * [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
+* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
+* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
 ## nytimes.com
 
 
@@ -52,11 +52,11 @@ layout: default
 * [Walmart, Target and Other Big-Box Retailers See Profits Surge During Pandemic](https://www.nytimes.com/2020/08/19/business/coronavirus-walmart-target-home-depot.html)
 * [California Fires Live Updates: Blazes Threaten 25,000 Structures](https://www.nytimes.com/2020/08/19/us/ca-fires.html)
 * [California Endures Fires, Blackouts, a Heat Wave and a Pandemic](https://www.nytimes.com/2020/08/19/us/california-heatwave-blackouts-wildfires.html)
+* [Aleksei Navalny Hospitalized in Russia in Suspected Poisoning](https://www.nytimes.com/2020/08/20/world/europe/navalny-poison-russia.html)
+* [Trump Phone Calls Add to Lingering Questions About Russian Interference](https://www.nytimes.com/2020/08/19/us/politics/trump-stone-investigation.html)
 * [Trump on QAnon Followers: 'These Are People That Love Our Country'](https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html)
 * [Facebook Removes 790 QAnon Groups to Fight Conspiracy Theory](https://www.nytimes.com/2020/08/19/technology/facebook-qanon-groups-takedown.html)
 * [What Is QAnon, the Viral Pro-Trump Conspiracy Theory?](https://www.nytimes.com/article/what-is-qanon.html)
-* [Trump Administration Plans Arms Sale to U.A.E. Despite Israeli Worries](https://www.nytimes.com/2020/08/19/world/middleeast/trump-netanyahu-israel-uae.html)
-* [Trump Phone Calls Add to Lingering Questions About Russian Interference](https://www.nytimes.com/2020/08/19/us/politics/trump-stone-investigation.html)
 * [The President, the Postal Service and the Election](https://www.nytimes.com/2020/08/19/podcasts/the-daily/dejoy-postal-service-trump.html)
 * [What It Means to Home-School](https://www.nytimes.com/2020/08/18/parenting/homeschool-coronavirus.html)
 * [Coronavirus Schools Briefing](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
@@ -80,7 +80,7 @@ layout: default
 * [U.S. Suspends Bilateral Agreements With Hong Kong, Escalating Tensions With China](https://www.nytimes.com/2020/08/19/us/politics/trump-china-hong-kong.html)
 * [Michigan to Pay $600 Million to Victims of Flint Water Crisis](https://www.nytimes.com/2020/08/19/us/flint-water-crisis-settlement.html)
 * [Why Did a Chinese Diplomat Walk All Over People on a Pacific Island?](https://www.nytimes.com/2020/08/19/world/asia/kiribati-china.html)
-* [Three in Masks Sought in Denver House Fire That Killed Five](https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html)
+* [Trump Administration Plans Arms Sale to U.A.E. Despite Israeli Worries](https://www.nytimes.com/2020/08/19/world/middleeast/trump-netanyahu-israel-uae.html)
 * [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
 * [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
@@ -95,9 +95,9 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [What to Know About Night 3 of The Democratic National Convention](https://www.nytimes.com/2020/08/19/us/politics/dnc-live.html)
-* [The Awkwardness of Starting a New Job Remotely During Coronavirus](https://www.nytimes.com/2020/08/20/style/starting-new-job-remote.html)
 * [Jill Biden Is Not Melania Trump](https://www.nytimes.com/2020/08/19/style/jill-biden-melania-trump-dnc.html)
+* [Trump and Miss Moscow: Report Examines Possible Compromises in Russia Trips](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate-intelligence.html)
+* [Trump live-tweeted Obama’s speech tonight. He’ll appear on Fox News right before Biden’s tomorrow.](https://www.nytimes.com/live/2020/08/19/us/dnc-convention-election/trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -105,7 +105,7 @@ layout: default
 
 
 * [Sleeping Giants diz ter recebido notícia sobre inquérito com espanto e não ter promovido censura](https://epoca.globo.com/guilherme-amado/sleeping-giants-diz-ter-recebido-noticia-sobre-inquerito-com-espanto-nao-ter-promovido-censura-24595936)
-* [Bolsonaro carrega anão no colo em Aracaju](https://epoca.globo.com/guilherme-amado/bolsonaro-carrega-anao-no-colo-em-aracaju-24595932)
+* [Análise: Flamengo e sua torcida precisam esquecer Jesus e 2019](https://oglobo.globo.com/esportes/analise-flamengo-sua-torcida-precisam-esquecer-jesus-2019-24595711)
 * [Análise: Na posição certa, Nenê mostra que não é vilão no Fluminense. Mas, sozinho, não pode ser herói](https://oglobo.globo.com/esportes/fluminense/analise-na-posicao-certa-nene-mostra-que-nao-vilao-no-fluminense-mas-sozinho-nao-pode-ser-heroi-24595855)
 * [Covid-19: Estudo de Harvard aponta que crianças têm alta carga viral e podem ser mais contagiosas do que adultos](https://oglobo.globo.com/sociedade/covid-19-estudo-de-harvard-aponta-que-criancas-tem-alta-carga-viral-podem-ser-mais-contagiosas-do-que-adultos-24594837)
 * [E o Rio, como fica?](https://oglobo.globo.com/opiniao/e-rio-como-fica-24595113)

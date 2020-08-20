@@ -2,54 +2,53 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 03:15:48 UTC
+# indexed at 20/08/2020 03:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
-* [Mail-order chicks are arriving dead, costing Maine farmers thousands of dollars](https://www.pressherald.com/2020/08/19/dead-chick-deliveries-costing-maine-farmers-thousands-of-dollars/)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
 * [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
 * [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
-* [Ever wonder what your dog is thinking?](https://pursuit.unimelb.edu.au/articles/ever-wondered-what-your-pet-is-thinking)
-* [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
-* [Mark Zuckerberg Is Despoiling a Tiny Coastal Village. The State Invited Him](https://www.wweek.com/news/2020/08/19/mark-zuckerberg-is-despoiling-a-tiny-coastal-village-and-oregons-natural-treasures-the-state-invited-him/)
+* [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
 * [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [Practical Data Ethics](http://ethics.fast.ai)
+* [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
 * [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
-* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
 * [Rust and C++ Interoperability in Chrome](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability)
 * [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
-* [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
+* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
 * [Elastic 7.9](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
 * [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
-* [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
-* [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
 * [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
+* [Mail-order chicks are arriving dead, costing Maine farmers thousands of dollars](https://www.pressherald.com/2020/08/19/dead-chick-deliveries-costing-maine-farmers-thousands-of-dollars/)
+* [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
-* [Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
+* [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
 * [Filecoin: Proof of Storage Systems](https://blog.coinlist.co/deep-dive-into-filecoin/)
+* [Ever wonder what your dog is thinking?](https://pursuit.unimelb.edu.au/articles/ever-wondered-what-your-pet-is-thinking)
+* [Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
+* [Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1](https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/)
 * [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 ## nytimes.com
 
 
-* [Harris Accepts Historic Nomination for Vice President](https://www.nytimes.com/interactive/2020/08/19/us/politics/live-dnc-stream-analysis.html)
-* [High-Stakes Speeches on Night 3 of D.N.C.: Obama, Clinton and Harris](https://www.nytimes.com/live/2020/08/19/us/dnc-convention-election)
-* [Obama Returns to the DNC With a Chance to Rescue His Legacy From Trump](https://www.nytimes.com/2020/08/19/us/politics/barack-obama-dnc-trump.html)
-* [Kamala Harris Takes the Spotlight, a Moment for Her and History](https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html)
+* [Obama Denounces Trump as a Threat to Democracy](https://www.nytimes.com/live/2020/08/19/us/dnc-convention-election)
+* [In Speech, Obama Says Biden Will Lead America Out of Dark Times](https://www.nytimes.com/2020/08/19/us/politics/obama-speech.html)
+* [Kamala Harris Accepts V.P. Nomination at the Democratic National Convention](https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html)
 * [What Kind of Second Gentleman Would Doug Emhoff Be?](https://www.nytimes.com/2020/08/19/us/politics/second-gentleman-doug-emhoff.html)
 * [Live Covid-19 Updates](https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html)
 * [China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find](https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html)
 * [Walmart, Target and Other Big-Box Retailers See Profits Surge During Pandemic](https://www.nytimes.com/2020/08/19/business/coronavirus-walmart-target-home-depot.html)
-* [Trump Says QAnon Followers Are People Who ‘Love Our Country’](https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html)
+* [Trump on QAnon Followers: 'These Are People That Love Our Country'](https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html)
 * [QAnon Groups Removed by Facebook](https://www.nytimes.com/2020/08/19/technology/facebook-qanon-groups-takedown.html)
 * [What Is QAnon, the Viral Pro-Trump Conspiracy Theory?](https://www.nytimes.com/article/what-is-qanon.html)
 * [Michigan to Pay $600 Million to Victims of Flint Water Crisis](https://www.nytimes.com/2020/08/19/us/flint-water-crisis-settlement.html)
@@ -82,11 +81,10 @@ layout: default
 * [Why Did a Chinese Diplomat Walk All Over People on a Pacific Island?](https://www.nytimes.com/2020/08/19/world/asia/kiribati-china.html)
 * [Three in Masks Sought in Denver House Fire That Killed Five](https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html)
 * [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [Sneak In Some Exercise](https://www.nytimes.com/2020/08/15/at-home/coronavirus-at-home-quick-exercises.html)
-* [You’re a Senior. How Do You Calculate Coronavirus Risk Right Now?](https://www.nytimes.com/2020/07/17/health/seniors-coronavirus-reopenings.html)
-* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [In Lagos, a Homegrown Ballet Academy Leaps Into the Spotlight](https://www.nytimes.com/2020/08/19/arts/dance/lagos-ballet-school-viral-video.html)
 * [The Glory (and the Taboo) of ‘WAP’](https://www.nytimes.com/2020/08/18/style/wap-cardi-b.html)
 * [The Future Looks Very Different on Opposite Sides of Los Angeles](https://www.nytimes.com/2020/08/18/books/review/show-them-youre-good-jeff-hobbs.html)
@@ -105,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Em noite marcada pelas mulheres, Kamala Harris aceita indicação para concorrer à vice-presidência dos EUA na convenção democrata](https://oglobo.globo.com/mundo/em-noite-marcada-pelas-mulheres-kamala-harris-aceita-indicacao-para-concorrer-vice-presidencia-dos-eua-na-convencao-democrata-24595683)
 * [Botafogo se mantém fiel a sua estratégia, vence a primeira no Brasileirão e tira Atlético-MG da liderança](https://oglobo.globo.com/esportes/botafogo-se-mantem-fiel-sua-estrategia-vence-primeira-no-brasileirao-tira-atletico-mg-da-lideranca-24595856)
 * [Governo do Distrito Federal muda critério de divulgação de mortes por Covid-19](https://oglobo.globo.com/sociedade/governo-do-distrito-federal-muda-criterio-de-divulgacao-de-mortes-por-covid-19-24595688)
 * [Facebook retira centenas de grupos da teoria da conspiração QAnon do ar](https://oglobo.globo.com/mundo/facebook-retira-centenas-de-grupos-da-teoria-da-conspiracao-qanon-do-ar-24595660)
 * [Senado derruba veto e mantém proibição de despejo de inquilinos por liminar durante pandemia](https://oglobo.globo.com/economia/senado-derruba-veto-mantem-proibicao-de-despejo-de-inquilinos-por-liminar-durante-pandemia-24595689)
 * [Rogério Marinho diz que a disciplina fiscal é a espinha dorsal das ações do governo](https://oglobo.globo.com/economia/rogerio-marinho-diz-que-disciplina-fiscal-a-espinha-dorsal-das-acoes-do-governo-1-24595670)
 * [Mega-Sena acumula e próximo sorteio pode pagar R$40 milhões](https://oglobo.globo.com/brasil/mega-sena-acumula-proximo-sorteio-pode-pagar-r40-milhoes-24595657)
-* [Seguranças de supermercado no Rio agridem suspeito de furto que já estava imobilizado](https://oglobo.globo.com/rio/segurancas-de-supermercado-no-rio-agridem-suspeito-de-furto-que-ja-estava-imobilizado-24595624)
 * [STF é trincheira na defesa da democracia](https://oglobo.globo.com/opiniao/stf-trincheira-na-defesa-da-democracia-24595390)
 * [Rafael Portugal: 'o público não riu? O ideal é fazer disso uma outra piada'](https://oglobo.globo.com/rioshow/rafael-portugal-publico-nao-riu-ideal-fazer-disso-uma-outra-piada-24594887)
 * [Lives de hoje: Norah Jones e dupla de rock dos irmãos João Suplicy e Supla são destaque](https://oglobo.globo.com/rioshow/lives-de-hoje-norah-jones-dupla-de-rock-dos-irmaos-joao-suplicy-supla-sao-destaque-24592439)

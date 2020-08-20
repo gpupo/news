@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 05:16:19 UTC
+# indexed at 20/08/2020 05:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Father bikes 105km to take his son to exam center](https://translate.googleusercontent.com/translate_c?depth=1&nv=1&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.industryadda.com/%25E0%25A4%25AE%25E0%25A4%259C%25E0%25A4%25A6%25E0%25A5%2582%25E0%25A4%25B0-%25E0%25A4%25AA%25E0%25A4%25BF%25E0%25A4%25A4%25E0%25A4%25BE-%25E0%25A4%25A8%25E0%25A5%2587-%25E0%25A4%25AC%25E0%25A5%2587%25E0%25A4%259F%25E0%25A5%2587-%25E0%25A4%2595%25E0%25A5%258B-%25E0%25A4%25AA%25E0%25A4%25B0%25E0%25A5%2580%25E0%25A4%2595/&usg=ALkJrhhxisFA_C6guT_SODZrTr-RrfhB6w)
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
 * [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
-* [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
-* [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
-* [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
+* [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
 * [Artificial Intelligence is stupid and causal reasoning won't fix it](https://arxiv.org/abs/2008.07371)
+* [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
+* [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
+* [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
 * [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
-* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
+* [Madhya Pradesh man cycles 105km to ferry son to Class X exam centre](https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html)
 * [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
+* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
 * [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
-* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
 * [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
-* [Practical Data Ethics](http://ethics.fast.ai)
-* [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
+* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
 * [Rust and C++ Interoperability in Chrome](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability)
+* [Practical Data Ethics](http://ethics.fast.ai)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
-* [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
 * [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
+* [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
+* [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
 * [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
-* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
 * [Elastic 7.9](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
+* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
 * [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
-* [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [Filecoin: Proof of Storage Systems](https://blog.coinlist.co/deep-dive-into-filecoin/)
 ## nytimes.com
 
@@ -96,8 +96,9 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [From Handshakes to Fist Bumps: The Future of the Business Greeting](https://www.nytimes.com/2020/08/20/style/shake-hands-fist-bump.html)
-* [Study Says Obesity Raises Risk of Death from Covid-19 Among Men](https://www.nytimes.com/2020/08/14/health/covid-19-obesity.html)
+* [Sabudana Khichdi Is Your New Favorite Comfort Food](https://www.nytimes.com/2020/08/19/magazine/sabudana-khichdi-is-your-new-favorite-comfort-food.html)
+* [Jill Biden Is Not Melania Trump](https://www.nytimes.com/2020/08/19/style/jill-biden-melania-trump-dnc.html)
+* [Trevor Noah Praises Michelle Obama’s ‘Ice-Cold’ Trump Takedown](https://www.nytimes.com/2020/08/19/arts/television/trevor-noah-michelle-obama-speech.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

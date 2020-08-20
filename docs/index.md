@@ -2,48 +2,48 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 12:20:57 UTC
+# indexed at 20/08/2020 12:34:47 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
-* [Show HN: A list of 470 static analysis tools](https://analysis-tools.dev)
 * [Big Bounce Simulations Challenge the Big Bang](https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/)
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
-* [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
+* [Show HN: A list of 470 static analysis tools](https://analysis-tools.dev)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
+* [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
-* [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
 * [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/)
+* [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
 * [Porting a Golang and Rust CLI tool to D](https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
+* [IBM Z mainframes revived by Red Hat, AI and security](https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security)
 * [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
 * [Micro-Optimizing .tar.gz Archives by Changing File Order](https://justinblank.com/experiments/optimizingtar.html)
 * [How the ARM32 Kernel Starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
-* [IBM Z mainframes revived by Red Hat, AI and security](https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security)
 * [Effect of Exercise-Related Factors on the Perception of Time](https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full)
-* [Lit: The Language Interpretability Tool](https://github.com/pair-code/lit/)
 * [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
+* [Lit: The Language Interpretability Tool](https://github.com/pair-code/lit/)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
-* [The Trouble with Quantum Mechanics (2017) [pdf]](http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf)
 * [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
+* [The Trouble with Quantum Mechanics (2017) [pdf]](http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf)
 * [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 * [Mutation Testing: A Tale of Two Suites](https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
+* [Boeing publicises new name for 737 Max planes after crashes](https://www.theguardian.com/business/2020/aug/20/boeing-737-max-plane-new-name-poland-enter-air)
 * [42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python](https://jobs.42.engineering)
-* [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
-* [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
 * [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
+* [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
 ## nytimes.com
 
 
 * [Democrats Nominate Harris for Vice President, as Obama Lashes Trump](https://www.nytimes.com/2020/08/19/us/politics/democratic-national-convention-recap.html)
 * [Watch the Four Moments That Mattered on the Third Night of the D.N.C.](https://www.nytimes.com/2020/08/20/us/politics/dnc-convention.html)
-* [Full Transcript and Video of Obama's Speech at the DNC](https://www.nytimes.com/2020/08/19/us/politics/obama-speech.html)
+* [D.N.C. Updates: Obama’s Extraordinary Warning](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election)
 * [The Speech Joe Biden Has Been Preparing For His Entire Life](https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html)
 * [Democrats Have Their Doubts About Biden’s Bipartisan Bonhomie](https://www.nytimes.com/2020/08/20/us/politics/biden-congress.html)
 * [‘He Stiffed Our Party’: Bloomberg Doubts Resurface Before D.N.C. Speech](https://www.nytimes.com/2020/08/20/us/politics/michael-bloomberg-dnc.html)
@@ -81,8 +81,8 @@ layout: default
 * [Trump on QAnon Followers: 'These Are People That Love Our Country'](https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html)
 * [U.S. Heads to United Nations to Demand ‘Snapback’ of Sanctions Against Iran](https://www.nytimes.com/2020/08/19/world/middleeast/trump-pompeo-iran-sanctions-security-council.html)
 * [Writers Mutiny at ‘All Rise,’ the Rare CBS Show With a Black Female Lead](https://www.nytimes.com/2020/08/20/business/media/all-rise-cbs-writers.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
 * [In the Virtual (and Actual) Footsteps of Raphael](https://www.nytimes.com/2020/08/18/travel/in-the-virtual-and-actual-footsteps-of-raphael.html)
@@ -94,13 +94,17 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [Sabudana Khichdi Is Your New Favorite Comfort Food](https://www.nytimes.com/2020/08/19/magazine/sabudana-khichdi-is-your-new-favorite-comfort-food.html)
+* [‘Cut Throat City’ Review: Desperate Straits in Post-Katrina New Orleans](https://www.nytimes.com/2020/08/20/movies/cut-throat-city-review.html)
+* [How Two British Orthodontists Became Celebrities to Incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
+* [Under Siege in Belarus, Lukashenko Turns to Putin](https://www.nytimes.com/2020/08/15/world/europe/belarus-russia-Lukashenko-Putin.html)
+* [Jill Biden Is Not Melania Trump](https://www.nytimes.com/2020/08/19/style/jill-biden-melania-trump-dnc.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Na Venezuela, Maduro faz uso das forças de segurança contra o coronavírus e infectados são perseguidos](https://oglobo.globo.com/mundo/na-venezuela-maduro-faz-uso-das-forcas-de-seguranca-contra-coronavirus-infectados-sao-perseguidos-24595227)
 * [Maluma apaga Instagram depois de receber indireta de Neymar](https://oglobo.globo.com/ela/gente/maluma-apaga-instagram-depois-de-receber-indireta-de-neymar-24596100)
 * [Taxa de desemprego sobe e chega a 13,1% em julho, aponta IBGE](https://oglobo.globo.com/economia/taxa-de-desemprego-sobe-chega-131-em-julho-aponta-ibge-24596116)
 * [Governo prorroga benefícios do Recine e Lei do Audiovisual até 2024](https://oglobo.globo.com/cultura/governo-prorroga-beneficios-do-recine-lei-do-audiovisual-ate-2024-24596091)
@@ -109,5 +113,4 @@ layout: default
 * [Remédio contra Covid-19 negociado por Crivella está em fase 1 de testes nos EUA](https://epoca.globo.com/sociedade/remedio-contra-covid-19-negociado-por-crivella-esta-em-fase-1-de-testes-nos-eua-24595214)
 * [Apenas 16% apoiam aborto por desejo da mulher no Brasil, diz pesquisa conduzida em 25 países](https://oglobo.globo.com/sociedade/aborto/apenas-16-apoiam-aborto-por-desejo-da-mulher-no-brasil-diz-pesquisa-conduzida-em-25-paises-24596075)
 * [Depois de Frida e Malala, vem aí Joana d’Arc e Rosetta Tharpe](https://epoca.globo.com/guilherme-amado/depois-de-frida-malala-vem-ai-joana-darc-rosetta-tharpe-24595918)
-* [Na Venezuela, Maduro faz uso das forças de segurança contra o coronavírus e infectados são perseguidos](https://oglobo.globo.com/mundo/na-venezuela-maduro-faz-uso-das-forcas-de-seguranca-contra-coronavirus-infectados-sao-perseguidos-24595227)
 * [PMs de SP deixarão de ter controle sobre acionamento de câmeras corporais](https://oglobo.globo.com/brasil/pms-de-sp-deixarao-de-ter-controle-sobre-acionamento-de-cameras-corporais-24595622)

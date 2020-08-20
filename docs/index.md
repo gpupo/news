@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 11:14:53 UTC
+# indexed at 20/08/2020 11:34:58 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
+* [Show HN: A list of 470 static analysis tools](https://analysis-tools.dev)
 * [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
+* [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
 * [Porting a Golang and Rust CLI tool to D](https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html)
 * [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
-* [Show HN: A list of 470 static analysis tools](https://analysis-tools.dev)
 * [How the ARM32 Kernel Starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 * [Micro-Optimizing .tar.gz Archives by Changing File Order](https://justinblank.com/experiments/optimizingtar.html)
-* [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/)
 * [Lit: The Language Interpretability Tool](https://github.com/pair-code/lit/)
-* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
+* [Mutation Testing: A Tale of Two Suites](https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/)
+* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
 * [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
-* [Mutation Testing: A Tale of Two Suites](https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/)
+* [The Trouble with Quantum Mechanics (2017) [pdf]](http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
-* [California bullet train contractors botched bridge project](https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
 * [Elastic 7.9](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
-* [The Trouble with Quantum Mechanics (2017) [pdf]](http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf)
 * [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
-* [42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python](https://jobs.42.engineering)
 * [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
 * [Facebook account now required to login to Oculus devices](https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/)
 * [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
+* [42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python](https://jobs.42.engineering)
+* [California bullet train contractors botched bridge project](https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
-* [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
 ## nytimes.com
 
 
@@ -81,10 +81,10 @@ layout: default
 * [Trump on QAnon Followers: 'These Are People That Love Our Country'](https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html)
 * [U.S. Heads to United Nations to Demand ‘Snapback’ of Sanctions Against Iran](https://www.nytimes.com/2020/08/19/world/middleeast/trump-pompeo-iran-sanctions-security-council.html)
 * [Writers Mutiny at ‘All Rise,’ the Rare CBS Show With a Black Female Lead](https://www.nytimes.com/2020/08/20/business/media/all-rise-cbs-writers.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
 * [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [In the Virtual (and Actual) Footsteps of Raphael](https://www.nytimes.com/2020/08/18/travel/in-the-virtual-and-actual-footsteps-of-raphael.html)
 * [What's the Deal With That Strawberry Dress on TikTok?](https://www.nytimes.com/2020/08/18/style/strawberry-dress-tiktok-instagram-who-designed-where-to-get.html)
 * [Mountain Time Is the Best Time Zone in America](https://www.nytimes.com/2020/08/18/magazine/mountain-time-is-the-best-time-zone-in-america.html)
@@ -94,15 +94,18 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [LeBron Wrote a Children’s Book and It’s Selling Really Well](https://www.nytimes.com/2020/08/20/books/review/lebron-james-i-promise-picture-book.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
+* [How to Watch the Democratic National Convention](https://www.nytimes.com/2020/08/20/us/politics/how-to-watch-the-democratic-national-convention.html)
+* [He Wants to Save the Present With the Indigenous Past](https://www.nytimes.com/2020/08/20/books/bruce-pascoe-aboriginal-history-australia.html)
+* [Steering Wheels’ Past, Present and (Autonomous) Future](https://www.nytimes.com/2020/08/20/business/steering-wheels-history.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Líder opositor russo Alexei Navalny está em coma, e aliados suspeitam de envenenamento](https://oglobo.globo.com/mundo/lider-opositor-russo-alexei-navalny-esta-em-coma-aliados-suspeitam-de-envenenamento-24595981)
+* [Remédio contra Covid-19 negociado por Crivella está em fase 1 de testes nos EUA](https://epoca.globo.com/sociedade/remedio-contra-covid-19-negociado-por-crivella-esta-em-fase-1-de-testes-nos-eua-24595214)
+* [Apenas 16% apoiam aborto por desejo da mulher no Brasil, diz pesquisa conduzida em 25 países](https://oglobo.globo.com/sociedade/aborto/apenas-16-apoiam-aborto-por-desejo-da-mulher-no-brasil-diz-pesquisa-conduzida-em-25-paises-24596075)
 * [Plenário virtual prejudica visibilidade das ações do STF](https://epoca.globo.com/carolina-brigido/plenario-virtual-prejudica-visibilidade-das-acoes-do-stf-24596062)
 * [Tio é preso suspeito de estuprar sobrinha; crime foi relatado em carta pela vítima](https://oglobo.globo.com/rio/tio-preso-suspeito-de-estuprar-sobrinha-crime-foi-relatado-em-carta-pela-vitima-24596060)
 * [Artistas como B Negão comentam em lives releituras de álbuns antigos](https://oglobo.globo.com/rio/bairros/artistas-como-negao-comentam-em-lives-releituras-de-albuns-antigos-1-24596003)
@@ -111,4 +114,3 @@ layout: default
 * [Centenário de Ray Bradbury é comemorado com edição de luxo de 'Fahrenheit 451', inéditos e maratona de leitura](https://oglobo.globo.com/cultura/centenario-de-ray-bradbury-comemorado-com-edicao-de-luxo-de-fahrenheit-451-ineditos-maratona-de-leitura-24594278)
 * [Na Venezuela, Maduro faz uso das forças de segurança contra o coronavírus e infectados são perseguidos](https://oglobo.globo.com/mundo/na-venezuela-maduro-faz-uso-das-forcas-de-seguranca-contra-coronavirus-infectados-sao-perseguidos-24595227)
 * [PMs de SP deixarão de ter controle sobre acionamento de câmeras corporais](https://oglobo.globo.com/brasil/pms-de-sp-deixarao-de-ter-controle-sobre-acionamento-de-cameras-corporais-24595622)
-* [Estação de tratamento de esgoto que seria implantada em Niterói é substituída por elevatória](https://oglobo.globo.com/rio/bairros/estacao-de-tratamento-de-esgoto-que-seria-implantada-em-niteroi-substituida-por-elevatoria-1-24586972)

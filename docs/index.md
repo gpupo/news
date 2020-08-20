@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 08:17:39 UTC
+# indexed at 20/08/2020 08:34:51 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
+* [Inline CSS works better in a component world](https://davnicwil.com/inline-css-works-better-in-a-component-world/)
 * [California bullet train contractors botched bridge project](https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu)
 * [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
-* [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
+* [42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python](https://jobs.42.engineering)
+* [Fortnite developer Epic takes aim at Apple](https://www.npr.org/2020/08/13/902328255/fortnite-uses-apples-own-1984-ad-against-it-in-dispute-over-payments)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
-* [Inline CSS works better in a component world](https://davnicwil.com/inline-css-works-better-in-a-component-world/)
+* [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
+* [LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties](https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
 * [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
 * [How the ARM32 Kernel Starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
-* [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
 * [Easily replicate/clone your Linux install](http://foxclone.com)
-* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
+* [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
 * [Porting a Golang and Rust CLI tool to D](https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html)
+* [Micro-Optimizing .tar.gz Archives by Changing File Order](https://justinblank.com/experiments/optimizingtar.html)
+* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
 * [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [Practical Data Ethics](http://ethics.fast.ai)
 * [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
-* [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
-* [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
 * [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
-* [Micro-Optimizing .tar.gz Archives by Changing File Order](https://justinblank.com/experiments/optimizingtar.html)
+* [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
+* [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
 * [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
-* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
-* [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
-* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
 ## nytimes.com
 
 
@@ -84,8 +84,8 @@ layout: default
 * [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
 * [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [In Lagos, a Homegrown Ballet Academy Leaps Into the Spotlight](https://www.nytimes.com/2020/08/19/arts/dance/lagos-ballet-school-viral-video.html)
 * [The Glory (and the Taboo) of ‘WAP’](https://www.nytimes.com/2020/08/18/style/wap-cardi-b.html)
 * [The Future Looks Very Different on Opposite Sides of Los Angeles](https://www.nytimes.com/2020/08/18/books/review/show-them-youre-good-jeff-hobbs.html)
@@ -106,10 +106,10 @@ layout: default
 * [Polícia investiga se eletricista fazia procedimentos estéticos na clínica Rainhas das Plásticas](https://oglobo.globo.com/rio/policia-investiga-se-eletricista-fazia-procedimentos-esteticos-na-clinica-rainhas-das-plasticas-24595902)
 * [A pandemia do novo coronavírus perde força no Brasil?](https://oglobo.globo.com/podcast/a-pandemia-do-novo-coronavirus-perde-forca-no-brasil-24595764)
 * ['A maldade vem de onde a gente menos espera', diz mãe de menina de 7 anos estuprada pelo marido da avó](https://oglobo.globo.com/rio/a-maldade-vem-de-onde-gente-menos-espera-diz-mae-de-menina-de-7-anos-estuprada-pelo-marido-da-avo-24595802)
-* [Especialista critica volta às aulas, colégios particulares comemoram e escolas públicas reclamam de despreparo](https://oglobo.globo.com/rio/especialista-critica-volta-as-aulas-colegios-particulares-comemoram-escolas-publicas-reclamam-de-despreparo-24595691)
 * [Marqueteiro do PSC viajou com delator de esquema de fraudes na Saúde do Rio](https://oglobo.globo.com/rio/marqueteiro-do-psc-viajou-com-delator-de-esquema-de-fraudes-na-saude-do-rio-24595733)
 * [No Brasil, só 16% apoiam aborto por desejo da mulher, diz pesquisa conduzida em 25 países](https://oglobo.globo.com/sociedade/no-brasil-so-16-apoiam-aborto-por-desejo-da-mulher-diz-pesquisa-conduzida-em-25-paises-24594610)
+* [‘A maldade vem de onde a gente menos espera’, diz mãe de menina de 7 anos estuprada pelo avô no Rio](https://oglobo.globo.com/rio/a-maldade-vem-de-onde-gente-menos-espera-diz-mae-de-menina-de-7-anos-estuprada-pelo-avo-no-rio-24595661)
+* [Vítima é agredida e jogada ao chão durante assalto em Copacabana; suspeitos foram presos](https://oglobo.globo.com/rio/vitima-agredida-jogada-ao-chao-durante-assalto-em-copacabana-suspeitos-foram-presos-24595529)
 * [Fundeb deve ser votado no Senado nesta quinta-feira](https://oglobo.globo.com/sociedade/fundeb-deve-ser-votado-no-senado-nesta-quinta-feira-24595310)
-* [Avanço de Covid entre jovens coincide com retomada de atividades no país](https://oglobo.globo.com/sociedade/coronavirus/avanco-de-covid-entre-jovens-coincide-com-retomada-de-atividades-no-pais-24589696)
 * [A menina](https://oglobo.globo.com/cultura/a-menina-1-24594716)
 * [Máscara facial e tipo de pele: dermatologista orienta sobre a melhor forma de usar](https://oglobo.globo.com/ela/beleza/pele/mascara-facial-tipo-de-pele-dermatologista-orienta-sobre-melhor-forma-de-usar-24592368)

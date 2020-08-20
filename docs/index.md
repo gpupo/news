@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 01:17:37 UTC
+# indexed at 20/08/2020 01:35:48 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
 * [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
+* [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
 * [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
-* [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
 * [University Endowment Sued for Under performing the S&P 500](https://www.institutionalinvestor.com/article/b1ml4nng27k0ln/University-Endowment-Sued-for-Underperforming-the-S-amp-P-500)
 * [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
 * [Practical Data Ethics](http://ethics.fast.ai)
 * [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
+* [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 * [Elastic 7.9](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
-* [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
 * [Rust and C++ Interoperability in Chrome](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability)
+* [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
 * [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
 * [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
-* [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 * [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
 * [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
-* [Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [Theheadless.dev – open source Puppeteer and Playwright knowledge base](https://theheadless.dev/)
-* [Repl.it is hiring full-stack engineers to make coding more accessible](https://repl.it/jobs)
+* [Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art](https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html)
 * [Evaluating TCP BBRv2 on the Dropbox edge network](https://arxiv.org/abs/2008.07699)
-* [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 * [Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1](https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/)
+* [Repl.it is hiring full-stack engineers to make coding more accessible](https://repl.it/jobs)
 * [Filecoin: Proof of Storage Systems](https://blog.coinlist.co/deep-dive-into-filecoin/)
+* [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 * ['Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader](https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader)
 ## nytimes.com
 
@@ -47,7 +47,7 @@ layout: default
 * [Kamala Harris Takes the Spotlight, a Moment for Her and History](https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html)
 * [What Kind of Second Gentleman Would Doug Emhoff Be?](https://www.nytimes.com/2020/08/19/us/politics/second-gentleman-doug-emhoff.html)
 * [When the V.P. Is ‘the Woman’s Spot’](https://www.nytimes.com/2020/08/19/us/politics/vice-president-kamala-harris-palin-ferraro.html)
-* [Trump Administration Pushes Arms Sale to U.A.E. Despite Israeli Worries](https://www.nytimes.com/2020/08/19/world/middleeast/trump-netanyahu-israel-uae.html)
+* [Trump Administration Plans Arms Sale to U.A.E. Despite Israeli Worries](https://www.nytimes.com/2020/08/19/world/middleeast/trump-netanyahu-israel-uae.html)
 * [Trump Phone Calls Add to Lingering Questions About Russian Interference](https://www.nytimes.com/2020/08/19/us/politics/trump-stone-investigation.html)
 * [Live Covid-19 Updates](https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html)
 * [China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find](https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html)
@@ -84,10 +84,10 @@ layout: default
 * [Decision to Halt Postal Changes Does Little to Quell Election Concerns](https://www.nytimes.com/2020/08/19/business/economy/postal-service-changes-dejoy.html)
 * [Three in Masks Sought in Denver House Fire That Killed Five](https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html)
 * [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [In Lagos, a Homegrown Ballet Academy Leaps Into the Spotlight](https://www.nytimes.com/2020/08/19/arts/dance/lagos-ballet-school-viral-video.html)
 * [The Glory (and the Taboo) of ‘WAP’](https://www.nytimes.com/2020/08/18/style/wap-cardi-b.html)
 * [The Future Looks Very Different on Opposite Sides of Los Angeles](https://www.nytimes.com/2020/08/18/books/review/show-them-youre-good-jeff-hobbs.html)
@@ -97,17 +97,17 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [All the Republicans Who Have Decided Not to Support Trump](https://www.nytimes.com/article/republicans-voting-for-biden-not-trump.html)
-* [Ellen DeGeneres Tells Her Staff That 3 Top Producers Are Out](https://www.nytimes.com/2020/08/17/business/media/ellen-degeneres-show-producers.html)
-* [Keanu Reeves and Alex Winter on ‘Bill & Ted Face the Music’](https://www.nytimes.com/2020/08/18/movies/bill-ted-sequel-keanu-reeves-alex-winter.html)
-* [America Has Two Feet. It’s About to Lose One of Them.](https://www.nytimes.com/2020/08/18/science/foot-surveying-metrology-dennis.html)
+* [Sabudana Khichdi Is Your New Favorite Comfort Food](https://www.nytimes.com/2020/08/19/magazine/sabudana-khichdi-is-your-new-favorite-comfort-food.html)
+* [Kamala Harris Cartoon in Murdoch Paper Is Denounced as Racist](https://www.nytimes.com/2020/08/17/business/media/murdoch-racism-kamala-harris.html)
+* [Senate Panel Details Ties Between 2016 Trump Campaign and Russia](https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Rogério Marinho diz que a disciplina fiscal é a espinha dorsal das ações do governo](https://oglobo.globo.com/economia/rogerio-marinho-diz-que-disciplina-fiscal-a-espinha-dorsal-das-acoes-do-governo-24595670)
+* [Rogério Marinho diz que a disciplina fiscal é a espinha dorsal das ações do governo](https://oglobo.globo.com/economia/rogerio-marinho-diz-que-disciplina-fiscal-a-espinha-dorsal-das-acoes-do-governo-1-24595670)
+* [Guedes chama de 'crime contra o país' decisão do Senado de derrubar veto de Bolsonaro e permitir aumento para servidores](https://oglobo.globo.com/economia/guedes-chama-de-crime-contra-pais-decisao-do-senado-de-derrubar-veto-de-bolsonaro-permitir-aumento-para-servidores-24595604)
 * [Bolsonaro diz que eficácia de máscaras é 'quase nula'](https://oglobo.globo.com/sociedade/bolsonaro-diz-que-eficacia-de-mascaras-quase-nula-24595474)
 * [Em noite de erros, Fluminense perde para o Bragantino e desperdiça pontos no Brasileiro](https://oglobo.globo.com/esportes/em-noite-de-erros-fluminense-perde-para-bragantino-desperdica-pontos-no-brasileiro-24595594)
 * [Facebook retira centenas de grupos da teoria da conspiração QAnon do ar](https://oglobo.globo.com/mundo/facebook-retira-centenas-de-grupos-da-teoria-da-conspiracao-qanon-do-ar-24595660)
@@ -115,5 +115,4 @@ layout: default
 * [Flamengo tem atacantes e Dome em mais uma noite ruim e só empata com Grêmio](https://oglobo.globo.com/esportes/flamengo-tem-atacantes-dome-em-mais-uma-noite-ruim-so-empata-com-gremio-24595618)
 * [Brasil tem 15 estados com tendência de queda de mortes por Covid-19](https://oglobo.globo.com/sociedade/brasil-tem-15-estados-com-tendencia-de-queda-de-mortes-por-covid-19-24595483)
 * [Seguranças de supermercado no Rio agridem suspeito de furto que já estava imobilizado](https://oglobo.globo.com/rio/segurancas-de-supermercado-no-rio-agridem-suspeito-de-furto-que-ja-estava-imobilizado-24595624)
-* [Guedes chama de 'crime contra o país' decisão do Senado de derrubar veto de Bolsonaro e permitir aumento para servidores](https://oglobo.globo.com/economia/guedes-chama-de-crime-contra-pais-decisao-do-senado-de-derrubar-veto-de-bolsonaro-permitir-aumento-para-servidores-24595604)
 * [Descalabro](https://oglobo.globo.com/opiniao/descalabro-24595524)

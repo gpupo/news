@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 06:17:45 UTC
+# indexed at 20/08/2020 06:34:53 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
 * [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
-* [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
+* [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
+* [Amazon Braket – Amazon Web Services](https://aws.amazon.com/braket/)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
 * [Secret gyms and the economics of prohibition](https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
 * [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
-* [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
-* [Madhya Pradesh man cycles 105km to ferry son to Class X exam centre](https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html)
-* [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [How the ARM32 Kernel Starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
+* [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
+* [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
 * [Use of AI to select Superstars in sports](https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/)
 * [Rust and C++ Interoperability in Chrome](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability)
+* [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
-* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
 * [Practical Data Ethics](http://ethics.fast.ai)
 * [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
-* [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
-* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
+* [Ironclad (YC S15) Is Looking for a Demand Gen Manager](https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f)
 * [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
+* [Madhya Pradesh man cycles 105km to ferry son to Class X exam centre](https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html)
 * [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
+* [Sequential Consequences](https://stuartsierra.com/2020/08/19/sequential-consequences)
 * [Elastic 7.9](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
-* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
 * [The Medieval University Monopoly](https://www.historytoday.com/miscellanies/medieval-university-monopoly)
-* ['Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader](https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader)
+* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
 ## nytimes.com
 
 
@@ -82,10 +82,10 @@ layout: default
 * [Why Did a Chinese Diplomat Walk All Over People on a Pacific Island?](https://www.nytimes.com/2020/08/19/world/asia/kiribati-china.html)
 * [Three in Masks Sought in Denver House Fire That Killed Five](https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html)
 * [Tokyo Now Has Transparent Public Toilets. Let Us Explain.](https://www.nytimes.com/2020/08/19/world/asia/japan-transparent-toilets.html)
-* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Protect Children’s Eyes During Remote Learning](https://www.nytimes.com/2020/08/17/parenting/kids-eyesight-distance-learning-coronavirus.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [In Lagos, a Homegrown Ballet Academy Leaps Into the Spotlight](https://www.nytimes.com/2020/08/19/arts/dance/lagos-ballet-school-viral-video.html)
 * [The Glory (and the Taboo) of ‘WAP’](https://www.nytimes.com/2020/08/18/style/wap-cardi-b.html)
 * [The Future Looks Very Different on Opposite Sides of Los Angeles](https://www.nytimes.com/2020/08/18/books/review/show-them-youre-good-jeff-hobbs.html)
@@ -96,8 +96,8 @@ layout: default
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
 * [What to Know About Night 3 of The Democratic National Convention](https://www.nytimes.com/2020/08/19/us/politics/dnc-live.html)
+* [The Awkwardness of Starting a New Job Remotely During Coronavirus](https://www.nytimes.com/2020/08/20/style/starting-new-job-remote.html)
 * [Jill Biden Is Not Melania Trump](https://www.nytimes.com/2020/08/19/style/jill-biden-melania-trump-dnc.html)
-* [Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots](https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 20/08/2020 09:15:49 UTC
+# indexed at 20/08/2020 09:35:08 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Can't you just right click?](https://lapcatsoftware.com/articles/unsigned.html)
-* [Inline CSS works better in a component world](https://davnicwil.com/inline-css-works-better-in-a-component-world/)
 * [Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras](https://driesdepoorter.be/24h-sunrise-sunset/)
 * [The AWS Controllers for Kubernetes](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
-* [LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties](https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par)
 * [How to contact Google SRE by dropping a shell in Cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 * [Though forests burn, trees retake farmland globally as agroforestry advances](https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/)
-* [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
 * [Implementing 'focus and reply' for Fastmail with JMAP](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/)
+* [Gmail and Google Drive Outage](https://www.google.com/appsstatus#hl=en&v=status)
 * [Easily replicate/clone your Linux install](http://foxclone.com)
-* [California bullet train contractors botched bridge project](https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu)
+* [Porting a Golang and Rust CLI tool to D](https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html)
 * [Ultralight lithium-sulfur batteries for electric airplanes](https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off)
-* [42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python](https://jobs.42.engineering)
 * [Netflix Conductor: Open-source workflow orchestration engine](https://netflix.github.io/conductor/)
 * [Micro-Optimizing .tar.gz Archives by Changing File Order](https://justinblank.com/experiments/optimizingtar.html)
 * [How the ARM32 Kernel Starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 * [The dual PhD problem of today’s startups](https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/)
-* [Porting a Golang and Rust CLI tool to D](https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html)
-* [The language of science – how words evolved](https://www.scientificamerican.com/article/the-language-of-science/)
-* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
+* [42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python](https://jobs.42.engineering)
+* [California bullet train contractors botched bridge project](https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu)
 * [Open Problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
-* [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
-* [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
+* [The language of science – how words evolved](https://www.scientificamerican.com/article/the-language-of-science/)
 * [Practical Data Ethics](http://ethics.fast.ai)
+* [Launch HN: Epihub (YC S20) – Shopify for teaching online](https://news.ycombinator.com/item?id=24215376)
+* [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
+* [Everything old is new again: binary security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 * [How Happy Couples Argue: Study (2019)](https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/)
 * [Ice Lake AVX-512 Downclocking](https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html)
 * [What harm do minimum wages do?](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do)
 * [My kid can’t handle a virtual education, and neither can I](https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/)
 * [Apple helped make 'top secret' iPod for US government](https://www.bbc.co.uk/news/technology-53835079)
 * [Launch HN: Quell (YC S20) – Immersive gaming and combat workout](https://news.ycombinator.com/item?id=24210098)
+* [LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties](https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par)
+* [Coding and drawing](https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/)
 ## nytimes.com
 
 
@@ -57,6 +57,7 @@ layout: default
 * [Trump on QAnon Followers: 'These Are People That Love Our Country'](https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html)
 * [Facebook Removes 790 QAnon Groups to Fight Conspiracy Theory](https://www.nytimes.com/2020/08/19/technology/facebook-qanon-groups-takedown.html)
 * [What Is QAnon, the Viral Pro-Trump Conspiracy Theory?](https://www.nytimes.com/article/what-is-qanon.html)
+* [What Antibody Test Results Show Us](https://www.nytimes.com/2020/08/20/nyregion/nyc-coronavirus-antibody-testing.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [What It Means to Home-School](https://www.nytimes.com/2020/08/18/parenting/homeschool-coronavirus.html)
 * [Coronavirus Schools Briefing](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)

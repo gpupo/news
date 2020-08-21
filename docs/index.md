@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 02:17:26 UTC
+# indexed at 21/08/2020 02:35:06 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
-* [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 * [Big Basin as we know it is gone](https://sempervirens.org/wildfires-in-big-basin-redwoods-state-park/)
+* [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 * [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
 * [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
 * [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
+* [The Universe Has Made Almost All the Stars It Will Ever Make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
 * [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
 * [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
-* [The Universe Has Made Almost All the Stars It Will Ever Make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
 * [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [Parsing S-expressions in C (2019)](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
 * [From farm to factory: the unstoppable rise of American chicken](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
-* [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
+* [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
+* [Elena Programming Language](https://elena-lang.github.io/)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
 * [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
-* [Why a Slack Backlash Is Inevitable](https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable)
-* [Taplytics (YC W14) Is Hiring Senior Engineers and Senior CSMs in Toronto](https://taplytics.com/careers/)
 * [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
-* [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
+* [Taplytics (YC W14) Is Hiring Senior Engineers and Senior CSMs in Toronto](https://taplytics.com/careers/)
 * [Wirecard hired actors to fool auditors](https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382)
+* [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
 * [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
-* [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
+* [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
+* [Why a Slack Backlash Is Inevitable](https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
 * [Big Bounce Simulations Challenge the Big Bang](https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/)
-* [Fortnite’s battle with Apple and Google could have an impact on news publishers](https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/)
 ## nytimes.com
 
 
@@ -101,22 +101,23 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [People in Biden’s hometown celebrate his big night, while social distancing.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/people-in-bidens-hometown-celebrate-his-big-night-while-social-distancing)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
-* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
+* [Alex Padilla and Jocelyn Benson, Democratic secretaries of state, urge everyone to vote quickly.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/alex-padilla-and-jocelyn-benson-democratic-secretaries-of-state-urge-everyone-to-vote-quickly)
+* [Chris Coons, a Delaware ally, recalls Biden’s ‘compassion’ during his father’s illness.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/chris-coons-a-delaware-ally-recalls-bidens-compassion-during-his-fathers-illness)
+* [Andrew Yang, in a hard-won speaking slot, says a lot of his dire predictions have come true.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/andrew-yang-in-a-hard-won-speaking-slot-says-a-lot-of-his-dire-predictions-have-come-true)
+* [Israel-U.A.E. Deal Swaps One Nightmare for Another for Palestinians](https://www.nytimes.com/2020/08/14/world/middleeast/palestinians-israel-uae-annexation-peace.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Senadores querem explicações de Guedes por ter chamado derrubada de veto de 'crime contra o país'](https://oglobo.globo.com/economia/senadores-querem-explicacoes-de-guedes-por-ter-chamado-derrubada-de-veto-de-crime-contra-pais-24597894)
+* [Manutenção de veto congelando salários de servidores é primeira vitória da base de Bolsonaro](https://oglobo.globo.com/economia/manutencao-de-veto-congelando-salarios-de-servidores-primeira-vitoria-da-base-de-bolsonaro-24598062)
 * [Extratos revelam depósitos em série na conta da loja de Flávio](https://oglobo.globo.com/brasil/extratos-revelam-depositos-em-serie-na-conta-da-loja-de-flavio-24598349)
 * [Vasco vence o Ceará em Fortaleza e vai festejar o aniversário de 122 anos na liderança do Brasileiro](https://oglobo.globo.com/esportes/vasco/vasco-vence-ceara-em-fortaleza-vai-festejar-aniversario-de-122-anos-na-lideranca-do-brasileiro-24598176)
-* [Senadores querem explicações de Guedes por ter chamado derrubada de veto de 'crime contra o país'](https://oglobo.globo.com/economia/senadores-querem-explicacoes-de-guedes-por-ter-chamado-derrubada-de-veto-de-crime-contra-pais-24597894)
 * [MSF é impedido de prestar atendimento a infectados por coronavírus em tribo indígena](https://oglobo.globo.com/sociedade/coronavirus/msf-impedido-de-prestar-atendimento-infectados-por-coronavirus-em-tribo-indigena-24598060)
 * [Datas com recordes de casos da Covid-19 nos estados podem ter sido divulgadas com até 52 dias de atraso, alerta Fiocruz](https://oglobo.globo.com/sociedade/datas-com-recordes-de-casos-da-covid-19-nos-estados-podem-ter-sido-divulgadas-com-ate-52-dias-de-atraso-alerta-fiocruz-24597268)
 * [Volta às aulas em Niterói deve acontecer no dia 14 de setembro](https://oglobo.globo.com/rio/bairros/volta-as-aulas-em-niteroi-deve-acontecer-no-dia-14-de-setembro-24598057)
 * [Projeto de lei que libera o armamento da Guarda Municipal será votado nas próximas semanas](https://oglobo.globo.com/rio/projeto-de-lei-que-libera-armamento-da-guarda-municipal-sera-votado-nas-proximas-semanas-24598114)
-* [Manutenção de veto congelando salários de servidores é primeira vitória da base de Bolsonaro](https://oglobo.globo.com/economia/manutencao-de-veto-congelando-salarios-de-servidores-primeira-vitoria-da-base-de-bolsonaro-24598062)
 * [Hackers invadem live de candidata do PSOL ao Rio](https://epoca.globo.com/guilherme-amado/hackers-invadem-live-de-candidata-do-psol-ao-rio-1-24597997)
 * [A Apple, o Fortnite e uma briga](https://oglobo.globo.com/economia/a-apple-fortnite-uma-briga-24597945)

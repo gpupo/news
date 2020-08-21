@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 10:16:07 UTC
+# indexed at 21/08/2020 10:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Exploding stars may have caused mass extinction on Earth, study shows](https://phys.org/news/2020-08-stars-mass-extinction-earth.html)
 * [Chromium's Impact on Root DNS Traffic](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
 * [Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”](https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/)
-* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
-* [How I got the French Tech Visa to start up in France](https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/)
-* [RSSHub: Everything Is RSSible](https://github.com/DIYgod/RSSHub)
-* [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
 * [Event Queue (Game Programming Patterns)](https://gameprogrammingpatterns.com/event-queue.html)
-* [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
+* [RSSHub: Everything Is RSSible](https://github.com/DIYgod/RSSHub)
+* [How I got the French Tech Visa to start up in France](https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/)
+* [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
 * [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
-* [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
-* [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+* [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
 * [The universe has made almost all the stars it will ever make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
-* [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
-* [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
-* [On the Delaware, a Promising New Era in Cleanup of an Urban River](https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river)
-* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
-* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
+* [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
 * [The Native-American Origins of Gumbo](https://www.atlasobscura.com/articles/native-american-gumbo)
+* [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
+* [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+* [How the Boeing 737 Max Disaster Looks to a Software Developer](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
+* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
+* [On the Delaware, a Promising New Era in Cleanup of an Urban River](https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river)
 * [Does Parkinson’s Begin in the Gut?](https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/)
+* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
 * [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
-* [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
 * [Back to the Future: Unix Wildcards Gone Wild (2014)](https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
-* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+* [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
 * [Elena Programming Language](https://elena-lang.github.io/)
-* [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
+* [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+* [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 ## nytimes.com
 
 
@@ -52,6 +52,7 @@ layout: default
 * [We Just Crossed the Line Debt Hawks Warned Us About for Decades](https://www.nytimes.com/2020/08/21/business/economy/national-debt-coronavirus-stimulus.html)
 * [Senators Lead an Increasingly Diverse Nation. Their Top Aides Are Mostly White.](https://www.nytimes.com/2020/08/21/us/politics/top-senate-aides-diversity.html)
 * [The Republican Embrace of QAnon Goes Far Beyond Trump](https://www.nytimes.com/2020/08/20/us/politics/qanon-trump-republicans.html)
+* [What We Learned From the D.N.C.](https://www.nytimes.com/2020/08/21/briefing/joe-biden-steve-bannon-postal-service-your-friday-briefing.html)
 * [New Yorkers Can Mail In Ballots, but Will the Vote Go Smoothly?](https://www.nytimes.com/2020/08/21/nyregion/absentee-voting-nyc.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [A Pandemic-Proof Bubble?](https://www.nytimes.com/2020/08/21/podcasts/the-daily/nba-coronavirus-basketball.html)
@@ -79,11 +80,11 @@ layout: default
 * [Instead of Isolating Iran, U.S. Finds Itself on the Outside Over Nuclear Deal](https://www.nytimes.com/2020/08/20/us/politics/trump-iran-nuclear-deal.html)
 * [Steve Bannon is Arrested and Charged With Fraud in 'We Build the Wall' Campaign](https://www.nytimes.com/2020/08/20/nyregion/steve-bannon-arrested-indicted.html)
 * [Movers in N.Y.C. Are So Busy They’re Turning People Away](https://www.nytimes.com/2020/08/20/nyregion/moving-new-york-coronavirus.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [Lang Lang, Piano Thunderer, Greets Bach’s Austere ‘Goldbergs’](https://www.nytimes.com/2020/08/21/arts/music/lang-lang-bach-goldberg.html)
 * [Dia Beacon Reopens With a Sonic Boom](https://www.nytimes.com/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
 * [Designing Doesn’t Stop, Even When Stage Shows Do](https://www.nytimes.com/2020/08/19/theater/set-designer-shutdown-project.html)
@@ -102,12 +103,12 @@ layout: default
 ## globo.com
 
 
-* [Rio tem manhã marcada por acidentes nas principais vias expressas](https://oglobo.globo.com/rio/rio-tem-manha-marcada-por-acidentes-nas-principais-vias-expressas-24598548)
+* [Entenda o novo mecanismo para distribuir verbas do Fundeb e como ele pode impactar o ensino](https://oglobo.globo.com/sociedade/entenda-novo-mecanismo-para-distribuir-verbas-do-fundeb-como-ele-pode-impactar-ensino-24598002)
+* [Entenda o CAQ, mecanismo do novo Fundeb e por que ele provoca intenso debate entre educadores](https://oglobo.globo.com/sociedade/educacao/entenda-caq-mecanismo-do-novo-fundeb-por-que-ele-provoca-intenso-debate-entre-educadores-24578933)
+* [Rio tem manhã marcada por acidentes nas principais vias expressas](https://oglobo.globo.com/rio/rio-tem-manha-marcada-por-acidentes-nas-principais-vias-expressas-1-24598548)
 * [Dos 300 do Brasil aos 300 do mensalão](https://epoca.globo.com/guilherme-amado/dos-300-do-brasil-aos-300-do-mensalao-24597514)
-* [Bannon apresentou empresários com interesses no governo brasileiro a Eduardo Bolsonaro](https://epoca.globo.com/guilherme-amado/bannon-apresentou-empresarios-com-interesses-no-governo-brasileiro-eduardo-bolsonaro-24597509)
 * [Terapia celular para recuperar lesões pulmonares causades pela Covid-19 ganha nova frente de testes no Brasil](https://oglobo.globo.com/sociedade/terapia-celular-para-recuperar-lesoes-pulmonares-causades-pela-covid-19-ganha-nova-frente-de-testes-no-brasil-24598171)
 * [São Paulo terá teste clínico de terapia celular para casos graves de Covid-19](https://oglobo.globo.com/sociedade/coronavirus/sao-paulo-tera-teste-clinico-de-terapia-celular-para-casos-graves-de-covid-19-24595598)
-* [Imagens de Orgulho: fotojornalistas dividem histórias inspiradoras de pessoas LGBT+ que retrataram pelo mundo](https://oglobo.globo.com/celina/imagens-de-orgulho-fotojornalistas-dividem-historias-inspiradoras-de-pessoas-lgbt-que-retrataram-pelo-mundo-24596984)
 * [Artista visual inaugura mostra que explora as dimensões do tempo](https://oglobo.globo.com/rio/bairros/artista-visual-inaugura-mostra-que-explora-as-dimensoes-do-tempo-24597443)
 * [Vendas de orgânicos produzidos em Petrópolis cresceu até 40% na pandemia](https://oglobo.globo.com/rio/bairros/vendas-de-organicos-produzidos-em-petropolis-cresceu-ate-40-na-pandemia-24597426)
 * [Peça 'O som e a fúria' é liberada na internet](https://oglobo.globo.com/rioshow/peca-som-a-furia-liberada-na-internet-24597486)

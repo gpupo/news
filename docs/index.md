@@ -2,38 +2,38 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 09:15:53 UTC
+# indexed at 21/08/2020 09:35:12 UTC
 
 
 ## news.ycombinator.com
 
 
-* [ReMarkable MicroSD](http://www.davisr.me/projects/remarkable-microsd/)
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
+* [ReMarkable MicroSD](http://www.davisr.me/projects/remarkable-microsd/)
 * [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 * [Exploding stars may have caused mass extinction on Earth, study shows](https://phys.org/news/2020-08-stars-mass-extinction-earth.html)
 * [Chromium's Impact on Root DNS Traffic](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
 * [Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”](https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/)
 * [Does Parkinson’s Begin in the Gut?](https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/)
-* [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
 * [RSSHub: Everything Is RSSible](https://github.com/DIYgod/RSSHub)
 * [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
 * [How I got the French Tech Visa to start up in France](https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/)
+* [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
 * [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
 * [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
-* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
 * [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
+* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
 * [The universe has made almost all the stars it will ever make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
 * [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
+* [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
 * [The Native-American Origins of Gumbo](https://www.atlasobscura.com/articles/native-american-gumbo)
 * [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
-* [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
+* [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
 * [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 * [Back to the Future: Unix Wildcards Gone Wild (2014)](https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
-* [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
-* [Elena Programming Language](https://elena-lang.github.io/)
 * [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
+* [Elena Programming Language](https://elena-lang.github.io/)
 * [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Parsing S-expressions in C (2019)](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
@@ -60,6 +60,7 @@ layout: default
 * [Unemployment Claims Rise as Rollout of $300 Benefit Lags](https://www.nytimes.com/2020/08/20/business/economy/unemployment-claims.html)
 * [Spreading Wildfires in California Have Killed 4](https://www.nytimes.com/2020/08/20/us/ca-fires.html)
 * [As Wildfires Rage, Californians Fear the Coronavirus at Shelters](https://www.nytimes.com/2020/08/20/us/ca-wildfires-covid.html)
+* [New Yorkers Can Mail In Ballots, but Will the Vote Go Smoothly?](https://www.nytimes.com/2020/08/21/nyregion/absentee-voting-nyc.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Joe Biden’s 30-Year Quest](https://www.nytimes.com/2020/08/20/podcasts/the-daily/biden-election.html)
 * [What Biden Must Do](https://www.nytimes.com/2020/08/20/opinion/the-argument-democratic-convention-biden.html)
@@ -88,9 +89,9 @@ layout: default
 * [‘Drive the Blade In’: Xi Shakes Up China’s Law-and-Order Forces](https://www.nytimes.com/2020/08/20/world/asia/china-xi-jinping-communist-party.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [She Was More Than Just the ‘Most Beautiful Suffragist’](https://www.nytimes.com/2020/08/19/arts/design/inez-milholland-suffragist.html)
 * [Bright Eyes’ Summertime Sadness](https://www.nytimes.com/2020/08/20/arts/music/bright-eyes-down-in-the-weeds-where-the-world-once-was-review.html)
 * [Baseball’s Unwritten Rules: Where Does It Say You Can’t Do That?](https://www.nytimes.com/2020/08/20/sports/baseball/fernando-tatis-grand-slam-unwritten-rules.html)
@@ -109,11 +110,11 @@ layout: default
 
 
 * [Ator Pedroca Monteiro conquista público da internet com mininovela de personagens hilários](https://oglobo.globo.com/ela/gente/ator-pedroca-monteiro-conquista-publico-da-internet-com-mininovela-de-personagens-hilarios-24596635)
+* [Bannon apresentou empresários com interesses no governo brasileiro a Eduardo Bolsonaro](https://epoca.globo.com/guilherme-amado/bannon-apresentou-empresarios-com-interesses-no-governo-brasileiro-eduardo-bolsonaro-24597509)
 * [STF deve ter três votos a favor e três contra reeleição de Alcolumbre e Maia](https://epoca.globo.com/guilherme-amado/stf-deve-ter-tres-votos-favor-tres-contra-reeleicao-de-alcolumbre-maia-24597387)
 * [O desafio do retorno à sala de aula durante a pandemia](https://oglobo.globo.com/podcast/o-desafio-do-retorno-sala-de-aula-durante-pandemia-24598409)
 * [Mortes por Covid-19 crescem 33% na capital do Rio](https://oglobo.globo.com/rio/mortes-por-covid-19-crescem-33-na-capital-do-rio-24598357)
 * [Depois do PDT, PSOL do Rio veta candidatos que passaram por grupos de 'renovação da política'](https://oglobo.globo.com/brasil/depois-do-pdt-psol-do-rio-veta-candidatos-que-passaram-por-grupos-de-renovacao-da-politica-24598333)
-* [Parte do Brasil pode ter atingido imunidade coletiva contra o coronavírus, dizem pesquisadores](https://oglobo.globo.com/sociedade/parte-do-brasil-pode-ter-atingido-imunidade-coletiva-contra-coronavirus-dizem-pesquisadores-24597872)
 * [As segundas intenções do Qatar na primeira final de Champions do PSG](https://oglobo.globo.com/esportes/as-segundas-intencoes-do-qatar-na-primeira-final-de-champions-do-psg-24597963)
 * [Minha filha me treina para sonhar](https://oglobo.globo.com/cultura/minha-filha-me-treina-para-sonhar-24597948)
 * [Vacina de Oxford: pesquisadores pedem sinal verde à Anvisa para testar pessoas acima de 69 anos](https://oglobo.globo.com/sociedade/vacina-de-oxford-pesquisadores-pedem-sinal-verde-anvisa-para-testar-pessoas-acima-de-69-anos-24597402)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 06:17:51 UTC
+# indexed at 21/08/2020 06:35:06 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
 * [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 * [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
-* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
-* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
-* [Chromium's Impact on Root DNS Traffic](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
-* [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
-* [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
-* [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
-* [The universe has made almost all the stars it will ever make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
 * [Does Parkinson’s Begin in the Gut?](https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/)
+* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
+* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
+* [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+* [Chromium's Impact on Root DNS Traffic](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
+* [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
+* [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
+* [The universe has made almost all the stars it will ever make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
 * [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
 * [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [Elena Programming Language](https://elena-lang.github.io/)
 * [Back to the Future: Unix Wildcards Gone Wild (2014)](https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
 * [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
+* [The Golden Age of computer user groups](https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/)
+* [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
+* [Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base](https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base)
 * [Parsing S-expressions in C (2019)](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
 * [Why did a hedge fund manager worth $700M take a $630k job managing an oil fund?](https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund)
 * [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
-* [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
 * [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
-* [Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base](https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
 * [ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote](https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
 * [From farm to factory: the unstoppable rise of American chicken](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
 * [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
-* [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
 ## nytimes.com
 
 
@@ -85,11 +85,11 @@ layout: default
 * [In South Korea’s New Covid-19 Outbreak, Religion and Politics Collide](https://www.nytimes.com/2020/08/20/world/asia/coronavirus-south-korea-church-sarang-jeil.html)
 * [Most of $600 Million Settlement in Flint Water Crisis Will Go to Children](https://www.nytimes.com/2020/08/20/us/flint-water-crisis-settlement-children.html)
 * [‘Drive the Blade In’: Xi Shakes Up China’s Law-and-Order Forces](https://www.nytimes.com/2020/08/20/world/asia/china-xi-jinping-communist-party.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [She Was More Than Just the ‘Most Beautiful Suffragist’](https://www.nytimes.com/2020/08/19/arts/design/inez-milholland-suffragist.html)
 * [Bright Eyes’ Summertime Sadness](https://www.nytimes.com/2020/08/20/arts/music/bright-eyes-down-in-the-weeds-where-the-world-once-was-review.html)
 * [Baseball’s Unwritten Rules: Where Does It Say You Can’t Do That?](https://www.nytimes.com/2020/08/20/sports/baseball/fernando-tatis-grand-slam-unwritten-rules.html)
@@ -99,9 +99,8 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [What To Know About Joe Biden's DNC Speech Tonight](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
-* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [How Two British Orthodontists Became Celebrities to Incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 16:16:52 UTC
+# indexed at 21/08/2020 16:35:04 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Port 5432 is open: introducing the Splitgraph Data Delivery Network](https://www.splitgraph.com/blog/data-delivery-network-launch)
-* [Show HN: Discover shared videos and live broadcasts from Reddit](https://redditvids.com/)
-* [PHP 8.0.0beta2 Released](https://www.php.net/index.php#id2020-08-21-1)
-* [‘Electric mud’ teems with new, mysterious bacteria](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria)
 * ['It’s a Telegram revolution’: Messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
-* [ReMarkable MicroSD](http://www.davisr.me/projects/remarkable-microsd/)
+* [Port 5432 is open: introducing the Splitgraph Data Delivery Network](https://www.splitgraph.com/blog/data-delivery-network-launch)
+* [PHP 8.0.0beta2 Released](https://www.php.net/index.php#id2020-08-21-1)
+* [Show HN: Discover shared videos and live broadcasts from Reddit](https://redditvids.com/)
+* [‘Electric mud’ teems with new, mysterious bacteria](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria)
 * [Leaked S-1 screenshots show Palantir losing $579M in 2019](https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/)
+* [ReMarkable MicroSD](http://www.davisr.me/projects/remarkable-microsd/)
 * [Game Programming Patterns: Event Queue](https://gameprogrammingpatterns.com/event-queue.html)
 * [GCC x86 Performance Hints (2012)](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
 * [Chromium's Impact on Root DNS Traffic](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
@@ -22,32 +22,31 @@ layout: default
 * [Exploding stars may have caused mass extinction on Earth, study shows](https://phys.org/news/2020-08-stars-mass-extinction-earth.html)
 * [RSSHub: Everything Is RSSible](https://github.com/DIYgod/RSSHub)
 * [Neuroimaging results altered by varying analysis pipelines](https://www.nature.com/articles/d41586-020-01282-z)
-* [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
 * [AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
+* [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
 * [FBI release a report on Russian Linux Malware called Drovorub [pdf]](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF)
 * [Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”](https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/)
 * [Reckoning with Our Mistakes](https://www.scientificamerican.com/article/reckoning-with-our-mistakes/)
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
 * [University of Utah pays $457k to ransomware gang](https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/)
-* [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
 * [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 * [On the Delaware, a Promising New Era in Cleanup of an Urban River](https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river)
+* [We [OkayCupid] decided against GraphQL for local state management](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/)
 * [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
 * [The Native-American Origins of Gumbo](https://www.atlasobscura.com/articles/native-american-gumbo)
-* [We [OkayCupid] decided against GraphQL for local state management](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/)
+* [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
 * [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
 * [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
 ## nytimes.com
 
 
-* [Closing Night at the D.N.C.: Joe Biden Accepts Democratic Nomination](https://www.nytimes.com/2020/08/20/us/politics/Joe-Biden-accepts-democratic-nomination.html)
-* [Biden Speaks Once More, With Feeling](https://www.nytimes.com/2020/08/21/arts/television/dnc-joe-biden.html)
 * [Facebook Braces Itself for Trump to Cast Doubt on Election Results](https://www.nytimes.com/2020/08/21/technology/facebook-trump-election.html)
 * [DeJoy Tells Senators Election Mail Will Be Delivered ‘Fully and on Time’](https://www.nytimes.com/live/2020/08/21/us/dnc-convention-election)
 * [Postal Crisis Hits Rural America Hard](https://www.nytimes.com/2020/08/21/us/postal-service-mail-rural.html)
 * [Watch the Four Moments That Mattered on the Fourth Night of the D.N.C.](https://www.nytimes.com/2020/08/21/us/politics/dnc-convention-.html)
 * [Republicans Gear Up to Renominate Trump](https://www.nytimes.com/2020/08/21/us/politics/rnc-trump-nomination.html)
+* [Biden Speaks Once More, With Feeling](https://www.nytimes.com/2020/08/21/arts/television/dnc-joe-biden.html)
 * [Latest Coronavirus News: Live Updates](https://www.nytimes.com/2020/08/21/world/covid-19-coronavirus.html)
 * [With Coronavirus Cases Surging, Europe Braces for New Phase in Pandemic](https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html)
 * [To Pay Rent and Avoid Eviction, Tenants Cash In Their Dreams](https://www.nytimes.com/2020/08/21/business/economy/rent-tenants-evictions.html)
@@ -63,7 +62,7 @@ layout: default
 * [Trumpism Is a Racket, and Steve Bannon Knew It](https://www.nytimes.com/2020/08/20/opinion/trump-steve-bannon-fraud.html)
 * [Where Hope and History Rhyme](https://www.nytimes.com/2020/08/21/opinion/biden-convention-speech.html)
 * [Why Would Russia Poison Aleksei Navalny Now?](https://www.nytimes.com/2020/08/21/opinion/navalny-russia-poison.html)
-* [I’ve Been to Every Convention Since ’88. Here’s What’s Missing From This One.](https://www.nytimes.com/2020/08/21/sunday-review/democratic-convention-biden.html)
+* [I’ve Been to Every Convention Since ’88. Here’s What’s Missing This Year.](https://www.nytimes.com/2020/08/21/sunday-review/democratic-convention-biden.html)
 * [The Democrats Who Rose to the Moment](https://www.nytimes.com/2020/08/20/opinion/democratic-convention-warren-biden-obama.html)
 * [Frank Bruni discusses why Joe Biden is the man for this moment](https://www.pscp.tv/w/cg6HRzFxTGpHTXJyckdYUUp8MVJER2xyWm9MYW14TJ2EJOZkRdVjal16LqJGFYQokh68o9bevgfra2x7umw5)
 * [Stocks Are Soaring. So Is Misery.](https://www.nytimes.com/2020/08/20/opinion/stock-market-unemployment.html)
@@ -79,10 +78,10 @@ layout: default
 * [The Republican Embrace of QAnon Goes Far Beyond Trump](https://www.nytimes.com/2020/08/20/us/politics/qanon-trump-republicans.html)
 * [Lori Loughlin to Be Sentenced in Admissions Case](https://www.nytimes.com/2020/08/21/us/lori-loughlin-mossimo-giannulli-sentencing.html)
 * [Movers in N.Y.C. Are So Busy They’re Turning People Away](https://www.nytimes.com/2020/08/20/nyregion/moving-new-york-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [Lang Lang, Piano Thunderer, Greets Bach’s Austere ‘Goldbergs’](https://www.nytimes.com/2020/08/21/arts/music/lang-lang-bach-goldberg.html)
 * [Dia Beacon Reopens With a Sonic Boom](https://www.nytimes.com/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
@@ -101,13 +100,13 @@ layout: default
 ## globo.com
 
 
+* [Aprovação final](https://epoca.globo.com/allan-sieber/aprovacao-final-24599107)
+* [Lula na Presidência com 80 e tantos anos não seria razoável, diz Jaques Wagner](https://epoca.globo.com/guilherme-amado/lula-na-presidencia-com-80-tantos-anos-nao-seria-razoavel-diz-jaques-wagner-24599072)
+* [Família que descobriu morte de homem no Salgado Filho após 50 dias diz que direção não pediu desculpas ou prestou ajuda](https://oglobo.globo.com/rio/familia-que-descobriu-morte-de-homem-no-salgado-filho-apos-50-dias-diz-que-direcao-nao-pediu-desculpas-ou-prestou-ajuda-24599088)
+* [Do que Bolsonaro falou e do que não falou com o embaixador da Argentina](https://oglobo.globo.com/analitico/do-que-bolsonaro-falou-do-que-nao-falou-com-embaixador-da-argentina-24598984)
+* [Dólar chega a R$ 5,61, mesmo com manutenção do veto a aumento dos servidores; Bolsa cai](https://oglobo.globo.com/economia/dolar-chega-r-561-mesmo-com-manutencao-do-veto-aumento-dos-servidores-bolsa-cai-24598976)
+* [Duas semanas depois de explosão, Líbano adota lockdown parcial para conter avanço da Covid-19](https://oglobo.globo.com/mundo/duas-semanas-depois-de-explosao-libano-adota-lockdown-parcial-para-conter-avanco-da-covid-19-24599046)
 * [Prefeitura de São Paulo diz que vai comprar 465 mil tablets para melhorar adesão às aulas online](https://oglobo.globo.com/sociedade/prefeitura-de-sao-paulo-diz-que-vai-comprar-465-mil-tablets-para-melhorar-adesao-as-aulas-online-24599041)
 * [Por que a Flórida vai soltar 750 milhões de mosquitos no sul do Estado?](https://epoca.globo.com/mundo/por-que-florida-vai-soltar-750-milhoes-de-mosquitos-no-sul-do-estado-24599064)
 * [Justiça da Bielorrússia interroga integrantes de conselho da oposição](https://oglobo.globo.com/mundo/justica-da-bielorrussia-interroga-integrantes-de-conselho-da-oposicao-24599017)
-* [Duas semanas depois de explosão, Líbano adota lockdown parcial para conter avanço da Covid-19](https://oglobo.globo.com/mundo/duas-semanas-depois-de-explosao-libano-adota-lockdown-parcial-para-conter-avanco-da-covid-19-24599046)
 * [Estupro de adolescente por 30 homens causa indignação em Israel](https://oglobo.globo.com/celina/estupro-de-adolescente-por-30-homens-causa-indignacao-em-israel-24598990)
-* [Do que Bolsonaro falou e não falou com o embaixador da Argentina](https://oglobo.globo.com/analitico/do-que-bolsonaro-falou-nao-falou-com-embaixador-da-argentina-24598984)
-* [Dólar chega a R$ 5,61 nesta sexta-feira, mesmo com manutenção pela Câmara do veto a aumento dos servidores](https://oglobo.globo.com/economia/dolar-chega-r-561-nesta-sexta-feira-mesmo-com-manutencao-pela-camara-do-veto-aumento-dos-servidores-1-24598976)
-* [Plano de saúde deve cobrir cirurgia de mastectomia de usuário transexual](https://oglobo.globo.com/economia/defesa-do-consumidor/plano-de-saude-deve-cobrir-cirurgia-de-mastectomia-de-usuario-transexual-24598948)
-* [Brasil já tem quase 100% dos shoppings reabertos](https://epoca.globo.com/guilherme-amado/brasil-ja-tem-quase-100-dos-shoppings-reabertos-24598955)
-* [Vacina chinesa testada em SP é atacada nas redes sociais por bolsonaristas](https://epoca.globo.com/brasil/vacina-chinesa-testada-em-sp-atacada-nas-redes-sociais-por-bolsonaristas-24598939)

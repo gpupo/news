@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 04:17:16 UTC
+# indexed at 21/08/2020 04:34:45 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Big Basin as we know it is gone](https://sempervirens.org/wildfires-in-big-basin-redwoods-state-park/)
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
 * [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
 * [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
+* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
 * [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
 * [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
 * [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
-* [Michigan college is tracking its students with a flawed app](https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/)
-* [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
-* [ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote](https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d)
+* [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
 * [The Universe Has Made Almost All the Stars It Will Ever Make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
+* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [Elena Programming Language](https://elena-lang.github.io/)
-* [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
+* [ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote](https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d)
 * [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
+* [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
 * [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [Parsing S-expressions in C (2019)](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
 * [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
-* [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
+* [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
+* [Back to the Future: Unix Wildcards Gone Wild (2014)](https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
 * [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
+* [From farm to factory: the unstoppable rise of American chicken](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
 * [Wirecard hired actors to fool auditors](https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382)
 * [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
-* [Why a Slack Backlash Is Inevitable](https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable)
-* [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
-* [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
+* [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
 ## nytimes.com
 
@@ -87,9 +87,9 @@ layout: default
 * [‘Drive the Blade In’: Xi Shakes Up China’s Law-and-Order Forces](https://www.nytimes.com/2020/08/20/world/asia/china-xi-jinping-communist-party.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
+* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [She Was More Than Just the ‘Most Beautiful Suffragist’](https://www.nytimes.com/2020/08/19/arts/design/inez-milholland-suffragist.html)
 * [Bright Eyes’ Summertime Sadness](https://www.nytimes.com/2020/08/20/arts/music/bright-eyes-down-in-the-weeds-where-the-world-once-was-review.html)
 * [Baseball’s Unwritten Rules: Where Does It Say You Can’t Do That?](https://www.nytimes.com/2020/08/20/sports/baseball/fernando-tatis-grand-slam-unwritten-rules.html)
@@ -99,9 +99,8 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [Beau Biden, who died in 2015, was honored in a video.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/beau-biden-who-died-in-2015-was-honored-in-a-video)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
-* [Bloomberg got his five minutes, and used it to mock Trump’s business failures.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/bloomberg-got-his-five-minutes-and-used-it-to-mock-trumps-business-failures)
+* [How Two British Orthodontists Became Celebrities to Incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
+* [10 No-Cook Pasta Sauces for Summer](https://www.nytimes.com/2020/08/19/dining/no-cook-pasta-sauce.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

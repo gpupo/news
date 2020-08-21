@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 21:15:18 UTC
+# indexed at 21/08/2020 21:34:59 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
-* [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
-* [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
+* [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [An Update on MDN Web Docs](https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/)
+* [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
+* [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [Volunteers spot almost 100 cold brown dwarfs near our sun](https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html)
 * [Ride through Wuppertal on ‘the flying train’ in clear footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
+* [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/)
+* [Lori Loughlin and husband sentenced in college bribery scandal](https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html)
 * [The Splitgraph Data Delivery Network – query over 40k public datasets](https://www.splitgraph.com/blog/data-delivery-network-launch)
-* [Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance](https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance)
-* [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
 * [University of Utah pays $457k to ransomware gang](https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/)
 * [Placeholder – Offline Coarse Geocoder Backed by SQLite](https://github.com/pelias/placeholder)
-* [Myths About Failure](https://greylock.com/reid-hoffman-myths-about-failure/)
 * [Graphene: Fast, Strong, Cheap, and Impossible to Use (2014)](https://www.newyorker.com/magazine/2014/12/22/material-question)
-* [But I was helping the compiler](https://pankajraghav.com/2020/08/16/RVO.html)
-* [Lori Loughlin and husband sentenced in college bribery scandal](https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html)
+* [Myths About Failure](https://greylock.com/reid-hoffman-myths-about-failure/)
+* [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/)
+* [Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance](https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance)
 * [ReMarkable MicroSD (2019)](http://www.davisr.me/projects/remarkable-microsd/)
+* [But I was helping the compiler](https://pankajraghav.com/2020/08/16/RVO.html)
 * [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
 * [‘Electric mud’ teems with new, mysterious bacteria](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria)
-* [Braess' Paradox and the Price of Anarchy (2019)](http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html)
-* [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
-* [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/)
 * [Leaked S-1 screenshots show Palantir losing $579M in 2019](https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/)
+* [Braess' Paradox and the Price of Anarchy (2019)](http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html)
 * [Game Programming Patterns: Event Queue (2014)](https://gameprogrammingpatterns.com/event-queue.html)
-* [Show HN: Discover shared videos and live broadcasts from Reddit](https://redditvids.com/)
 * [AI slays top F-16 pilot in DARPA dogfight simulation](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
 * [Apple responds to Epic Games lawsuit, says CEO asked for special treatment](https://www.cnbc.com/2020/08/21/apple-says-epic-games-ceo-wanted-a-side-deal-for-fortnite.html)
-* [Hotel in Tokyo installs flight simulator in room (2019)](https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/)
+* [Show HN: Discover shared videos and live broadcasts from Reddit](https://redditvids.com/)
+* [Ammonia as a fuel for compression ignition engines](https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Doctors Blocking Aleksei Navalny's Transfer Out of Russia, Supporters Say](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
 * [Lori Loughlin Gets 2 Months in College Admissions Case](https://www.nytimes.com/2020/08/21/us/lori-loughlin-mossimo-giannulli-sentencing.html)
 * [Mets' Coronavirus Positive Tests Postpone Series with Yankees](https://www.nytimes.com/2020/08/21/sports/baseball/coronavirus-mets-yankees.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [‘Tenet’ Review: Christopher Nolan’s Time-Bending Take on James Bond](https://www.nytimes.com/2020/08/21/movies/tenet-review-christopher-nolan.html)
 * [Bully’s Alicia Bognanno on Going Solo, Bipolar II Disorder and Courtney Love](https://www.nytimes.com/2020/08/18/arts/music/bully-sugaregg.html)
 * [Joe Biden Says Goodbye, Uncle Joe and Hello, Father of the Nation](https://www.nytimes.com/2020/08/21/style/joe-biden-dnc.html)
@@ -100,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Brasileiro marca de bicicleta e Sevilla é campeão da Liga Europa](https://oglobo.globo.com/esportes/brasileiro-marca-de-bicicleta-sevilla-campeao-da-liga-europa-24599417)
-* [Por que dizemos que uma mulher é 'sobrevivente' e não 'vítima' de violência sexual](https://oglobo.globo.com/celina/por-que-dizemos-que-uma-mulher-sobrevivente-nao-vitima-de-violencia-sexual-24599438)
-* [Erdogan anuncia descoberta de maior campo de gás da Turquia](https://oglobo.globo.com/mundo/erdogan-anuncia-descoberta-de-maior-campo-de-gas-da-turquia-24599637)
-* [Novo sistema da Nasa indica que 54% do fogo na Amazônia saiu do desmatamento em 2020](https://oglobo.globo.com/sociedade/novo-sistema-da-nasa-indica-que-54-do-fogo-na-amazonia-saiu-do-desmatamento-em-2020-24599433)
 * [China rebate EUA e diz que politizar o 5G vai atrasar o processo de economia digital no mundo](https://oglobo.globo.com/economia/china-rebate-eua-diz-que-politizar-5g-vai-atrasar-processo-de-economia-digital-no-mundo-24599655)
-* [Nasa: 54% do fogo na Amazônia em 2020 tem origem no desmatamento](https://oglobo.globo.com/sociedade/nasa-54-do-fogo-na-amazonia-em-2020-tem-origem-no-desmatamento-24599403)
 * [Rio pode registrar temperatura mínima de 11°C até terça-feira; confira a previsão](https://oglobo.globo.com/rio/rio-pode-registrar-temperatura-minima-de-11c-ate-terca-feira-confira-previsao-1-24599580)
+* [Nasa: 54% do fogo na Amazônia em 2020 tem origem no desmatamento](https://oglobo.globo.com/sociedade/nasa-54-do-fogo-na-amazonia-em-2020-tem-origem-no-desmatamento-1-24599403)
+* [Por que dizemos que uma mulher é 'sobrevivente' e não 'vítima' de violência](https://oglobo.globo.com/celina/por-que-dizemos-que-uma-mulher-sobrevivente-nao-vitima-de-violencia-24599438)
+* [Alemanha alerta que destruição da Amazônia ameaça acordo entre Mercosul e União Europeia](https://oglobo.globo.com/economia/alemanha-alerta-que-destruicao-da-amazonia-ameaca-acordo-entre-mercosul-uniao-europeia-24599769)
+* [Erdogan anuncia descoberta de maior campo de gás da Turquia](https://oglobo.globo.com/mundo/erdogan-anuncia-descoberta-de-maior-campo-de-gas-da-turquia-24599637)
+* [Brasileiro marca de bicicleta e Sevilla é campeão da Liga Europa](https://oglobo.globo.com/esportes/brasileiro-marca-de-bicicleta-sevilla-campeao-da-liga-europa-24599417)
+* [Novo sistema da Nasa indica que 54% do fogo na Amazônia saiu do desmatamento em 2020](https://oglobo.globo.com/sociedade/novo-sistema-da-nasa-indica-que-54-do-fogo-na-amazonia-saiu-do-desmatamento-em-2020-24599433)
 * [Mario Frias se reúne com Gilberto Gil, Milton Nascimento e Paula Fernandes para discutir direitos autorais](https://oglobo.globo.com/cultura/mario-frias-se-reune-com-gilberto-gil-milton-nascimento-paula-fernandes-para-discutir-direitos-autorais-24599537)
 * [Polícia indicia criminosos da Maré por invasão a centro de distribuição em Caxias](https://oglobo.globo.com/rio/policia-indicia-criminosos-da-mare-por-invasao-centro-de-distribuicao-em-caxias-24599516)
-* [Irmão de vereador de Duque de Caxias é encontrado morto com marcas de tiros](https://oglobo.globo.com/rio/irmao-de-vereador-de-duque-de-caxias-encontrado-morto-com-marcas-de-tiros-24599467)

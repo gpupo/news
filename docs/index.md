@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 03:16:02 UTC
+# indexed at 21/08/2020 03:35:08 UTC
 
 
 ## news.ycombinator.com
@@ -12,39 +12,39 @@ layout: default
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
 * [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 * [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
-* [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
 * [Why Did Mozilla Remove XUL Add-Ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+* [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
 * [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
 * [The Universe Has Made Almost All the Stars It Will Ever Make](http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make)
-* [Elena Programming Language](https://elena-lang.github.io/)
+* [Former Zoox employees sue, alleging rival offer was better than Amazon's](https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB)
 * [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
-* [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
+* [Elena Programming Language](https://elena-lang.github.io/)
 * [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
+* [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [Parsing S-expressions in C (2019)](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
+* [Coherent: Unix variant for DOS compatible PCs (1994) [pdf]](https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf)
 * [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
 * [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
-* [From farm to factory: the unstoppable rise of American chicken](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
 * [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
-* [Why a Slack Backlash Is Inevitable](https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable)
-* [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
 * [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
+* [Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine](https://gravitymachine.org/about/)
 * [Wirecard hired actors to fool auditors](https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382)
+* [Why a Slack Backlash Is Inevitable](https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable)
 * [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
-* [Taplytics (YC W14) Is Hiring Senior Engineers and Senior CSMs in Toronto](https://taplytics.com/careers/)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
 * [Archaeologist discovers rare items under the floor of Oxburgh Hall](https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall)
-* [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
+* [Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses](https://news.ycombinator.com/item?id=24224355)
 ## nytimes.com
 
 
-* [Frames Himself as a Balm to Heal a Nation Scarred and Divided](https://www.nytimes.com/interactive/2020/08/20/us/politics/live-dnc-stream-analysis.html)
-* [After 3 Nights of Buildup, It’s Joe Biden’s Moment](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election)
+* [A Fractious Democratic Coalition Unites Around Opposition to Trump](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election)
 * [It’s Exactly and Not at All How Joe Biden Dreamed It](https://www.nytimes.com/2020/08/20/us/politics/joe-biden-2020.html)
 * [At DNC, Biden Previews a Fall Campaign of Contrasts With Trump](https://www.nytimes.com/2020/08/20/us/politics/biden-dnc-speech-trump.html)
+* [Trump Appears in Pennsylvania, Biden's Home State, Igniting a Turf War](https://www.nytimes.com/2020/08/20/us/politics/trump-pennsylvania.html)
 * [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
 * [Steve Bannon is Arrested and Charged With Fraud in 'We Build the Wall' Campaign](https://www.nytimes.com/2020/08/20/nyregion/steve-bannon-arrested-indicted.html)
 * [Arrest Disrupts Bannon’s Efforts to Stay Relevant After Leaving White House](https://www.nytimes.com/2020/08/20/us/politics/stephen-bannon-arrest.html)
@@ -100,10 +100,10 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [Andrew Yang, in a hard-won speaking slot, says a lot of his dire predictions have come true.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/andrew-yang-in-a-hard-won-speaking-slot-says-a-lot-of-his-dire-predictions-have-come-true)
+* [Tammy Baldwin highlighted Obamacare coverage for the young.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/tammy-baldwin-highlighted-obamacare-coverage-for-the-young)
+* [Hunter Biden made a rare high-profile appearance, joined by his sister, Ashley.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/hunter-biden-made-a-rare-high-profile-appearance-joined-by-his-sister-ashley)
+* [What To Know About Joe Biden's DNC Speech Tonight](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
 * [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
-* [RB Leipzig Ultras: German Soccer’s Great Contradiction](https://www.nytimes.com/2020/08/18/sports/soccer/champions-league-leipzig-psg.html)
-* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -111,8 +111,8 @@ layout: default
 
 
 * [Encerramento da convenção democrata exalta Biden como 'gente como a gente'](https://oglobo.globo.com/mundo/encerramento-da-convencao-democrata-exalta-biden-como-gente-como-gente-24598111)
+* [Opção é entre as trevas e a luz, diz Biden ao aceitar candidatura para enfrentar Trump em novembro](https://oglobo.globo.com/mundo/opcao-entre-as-trevas-a-luz-diz-biden-ao-aceitar-candidatura-para-enfrentar-trump-em-novembro-24598472)
 * [Extratos revelam depósitos em série na conta da loja de Flávio](https://oglobo.globo.com/brasil/extratos-revelam-depositos-em-serie-na-conta-da-loja-de-flavio-24598349)
-* [Vasco vence o Ceará em Fortaleza e vai festejar o aniversário de 122 anos na liderança do Brasileiro](https://oglobo.globo.com/esportes/vasco/vasco-vence-ceara-em-fortaleza-vai-festejar-aniversario-de-122-anos-na-lideranca-do-brasileiro-24598176)
 * [Rio Gastronomia: nos dez anos do festival, restaurantes oferecem pratos especiais](https://oglobo.globo.com/rioshow/rio-gastronomia-nos-dez-anos-do-festival-restaurantes-oferecem-pratos-especiais-24596377)
 * [Com frio recorde em meio à pandemia, especialistas alertam para cuidados respiratórios](https://oglobo.globo.com/sociedade/com-frio-recorde-em-meio-pandemia-especialistas-alertam-para-cuidados-respiratorios-24597967)
 * [Susto no Senado reflete limites do governo Bolsonaro](https://oglobo.globo.com/opiniao/susto-no-senado-reflete-limites-do-governo-bolsonaro-24597937)

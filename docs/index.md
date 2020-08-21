@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 17:35:19 UTC
+# indexed at 21/08/2020 18:17:18 UTC
 
 
 ## news.ycombinator.com
 
 
 * ['It’s a Telegram revolution’: Messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
-* [RustConf 2020 Links](https://github.com/poteto/rustconf-2020)
 * [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
+* [RustConf 2020 Links](https://github.com/poteto/rustconf-2020)
 * [Hotel in Tokyo installs flight simulator in room](https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/)
 * [Volunteers spot almost 100 cold brown dwarfs near our sun](https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html)
+* [TypeScript 4.0](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html)
+* [Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance](https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance)
 * [Port 5432 is open: introducing the Splitgraph Data Delivery Network](https://www.splitgraph.com/blog/data-delivery-network-launch)
-* [‘DiceKeys’ Creates a Master Password for Life with One Roll](https://www.wired.com/story/dicekeys-cryptography/)
+* [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Show HN: Discover shared videos and live broadcasts from Reddit](https://redditvids.com/)
-* [But I was helping the compiler](https://pankajraghav.com/2020/08/16/RVO.html)
 * [Leaked S-1 screenshots show Palantir losing $579M in 2019](https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/)
+* [But I was helping the compiler](https://pankajraghav.com/2020/08/16/RVO.html)
 * [‘Electric mud’ teems with new, mysterious bacteria](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria)
+* [Placeholder – Offline Coarse Geocoder Backed by SQLite](https://github.com/pelias/placeholder)
+* [‘DiceKeys’ Creates a Master Password for Life with One Roll](https://www.wired.com/story/dicekeys-cryptography/)
 * [ReMarkable MicroSD](http://www.davisr.me/projects/remarkable-microsd/)
-* [New Story (YC Nonprofit S15) Is Hiring a Digital Marketer](https://newstorycharity.org/careers/digital-marketer)
 * [Ammonia as a Fuel for Compression Ignition Engines](https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/)
 * [Game Programming Patterns: Event Queue](https://gameprogrammingpatterns.com/event-queue.html)
+* [New Story (YC Nonprofit S15) Is Hiring a Digital Marketer](https://newstorycharity.org/careers/digital-marketer)
 * [Chromium's Impact on Root DNS Traffic](https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/)
 * [AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
-* [Ride Through a German Village on ‘The Flying Train’ in Clear Footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
 * [Exploding stars may have caused mass extinction on Earth, study shows](https://phys.org/news/2020-08-stars-mass-extinction-earth.html)
-* [GCC x86 Performance Hints (2012)](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
+* [Ride Through a German Village on ‘The Flying Train’ in Clear Footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
 * [RSSHub: Everything Is RSSible](https://github.com/DIYgod/RSSHub)
+* [GCC x86 Performance Hints (2012)](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
 * [Neuroimaging results altered by varying analysis pipelines](https://www.nature.com/articles/d41586-020-01282-z)
-* [PHP 8.0.0beta2 Released](https://www.php.net/index.php#id2020-08-21-1)
 * [Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”](https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/)
 * [FBI release a report on Russian Linux Malware called Drovorub [pdf]](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF)
 * [Reckoning with Our Mistakes](https://www.scientificamerican.com/article/reckoning-with-our-mistakes/)
-* [We [OkCupid] decided against GraphQL for local state management](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/)
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
-* [On the Delaware, a Promising New Era in Cleanup of an Urban River](https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river)
-* [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
 ## nytimes.com
 
 
@@ -72,17 +72,17 @@ layout: default
 * [Tropical Storm Laura Forms in the Atlantic](https://www.nytimes.com/2020/08/21/us/two-hurricanes-gulf.html)
 * [Tony Awards Ceremony Will Go Ahead, Online](https://www.nytimes.com/2020/08/21/theater/tony-awards-ceremony-online.html)
 * [U.K. Exam Chaos Prompts Stampede for College Places](https://www.nytimes.com/2020/08/21/world/europe/uk-exam-chaos-university.html)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
+* [U.K. Government Debt Tops £2 Trillion](https://www.nytimes.com/live/2020/08/21/business/stock-market-today-coronavirus)
 * [Ray Cave, Influential Time Magazine Editor, Is Dead at 91](https://www.nytimes.com/2020/08/21/business/media/ray-cave-dead.html)
 * [China Flooding Has Killed Hundreds and Tested Three Gorges Dam](https://www.nytimes.com/2020/08/21/world/asia/china-flooding-sichuan-chongqing.html)
 * [Doctors Blocking Aleksei Navalny's Transfer Out of Russia, Supporters Say](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
 * [Senators Lead an Increasingly Diverse Nation. Their Top Aides Are Mostly White.](https://www.nytimes.com/2020/08/21/us/politics/top-senate-aides-diversity.html)
 * [At Theaters, Push for Racial Equity Leads to Resignations and Restructuring](https://www.nytimes.com/2020/08/19/theater/racial-equity-theater-resignations.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
 * [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [‘Tenet’ Review: Christopher Nolan’s Time-Bending Take on James Bond](https://www.nytimes.com/2020/08/21/movies/tenet-review-christopher-nolan.html)
 * [Bully’s Alicia Bognanno on Going Solo, Bipolar II Disorder and Courtney Love](https://www.nytimes.com/2020/08/18/arts/music/bully-sugaregg.html)
 * [Joe Biden Says Goodbye, Uncle Joe and Hello, Father of the Nation](https://www.nytimes.com/2020/08/21/style/joe-biden-dnc.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [PF publica norma que autoriza compra de 4 armas por pessoa](https://oglobo.globo.com/brasil/pf-publica-norma-que-autoriza-compra-de-4-armas-por-pessoa-24599218)
-* [Em audiência no Senado dos EUA, chefe dos Correios promete que votos serão entregues no prazo](https://oglobo.globo.com/mundo/em-audiencia-no-senado-dos-eua-chefe-dos-correios-promete-que-votos-serao-entregues-no-prazo-24599117)
-* [EUA descongelam bens venezuelanos para ajudar oposição a lutar contra Covid-19](https://oglobo.globo.com/mundo/eua-descongelam-bens-venezuelanos-para-ajudar-oposicao-lutar-contra-covid-19-24599101)
+* [Brasil abre vagas com carteira pela primeira vez desde fevereiro](https://oglobo.globo.com/economia/brasil-abre-vagas-com-carteira-pela-primeira-vez-desde-fevereiro-24599274)
+* [Saga por Ronda: Cadela é furtada no Alemão, dona passa 24 horas procurando, oferece R$ 1 mil e acha animal](https://oglobo.globo.com/rio/saga-por-ronda-cadela-furtada-no-alemao-dona-passa-24-horas-procurando-oferece-1-mil-acha-animal-24599188)
+* [Rio poderá ter recorde de frio no ano nos próximos três dias](https://oglobo.globo.com/rio/rio-podera-ter-recorde-de-frio-no-ano-nos-proximos-tres-dias-24599297)
+* [Entenda o que está por trás do envenenamento do político de oposição russo Alexei Navalny](https://oglobo.globo.com/mundo/entenda-que-esta-por-tras-do-envenenamento-do-politico-de-oposicao-russo-alexei-navalny-24599262)
+* [Gilmar Mendes suspende investigações contra André Esteves abertas a partir de delação de Palocci](https://oglobo.globo.com/brasil/gilmar-mendes-suspende-investigacoes-contra-andre-esteves-abertas-partir-de-delacao-de-palocci-24599302)
+* [Líder do Brasileirão, até onde o Vasco pode ir?](https://oglobo.globo.com/esportes/lider-do-brasileirao-ate-onde-vasco-pode-ir-24599094)
+* [PF publica norma que autoriza compra de até 4 armas por pessoa](https://oglobo.globo.com/brasil/pf-publica-norma-que-autoriza-compra-de-ate-4-armas-por-pessoa-1-24599218)
 * [Frente fria intensa dificulta avanço de nuvens de gafanhotos ao Brasil](https://oglobo.globo.com/sociedade/frente-fria-intensa-dificulta-avanco-de-nuvens-de-gafanhotos-ao-brasil-24599134)
-* [Três receitas fáceis de fondue: queijo, chocolate e frutos do mar](https://oglobo.globo.com/rioshow/tres-receitas-faceis-de-fondue-queijo-chocolate-frutos-do-mar-24599144)
-* [Cavern Club se reinventa após cinco meses fechado](https://oglobo.globo.com/cultura/cavern-club-se-reinventa-apos-cinco-meses-fechado-24599141)
-* [Morre o músico Dinho Santiago, da Velha Guarda Show da Portela](https://oglobo.globo.com/rio/morre-musico-dinho-santiago-da-velha-guarda-show-da-portela-24599172)
-* [Sucesso no combate ao coronavírus no Brasil significa progresso para o mundo todo, diz OMS](https://oglobo.globo.com/sociedade/sucesso-no-combate-ao-coronavirus-no-brasil-significa-progresso-para-mundo-todo-diz-oms-24599115)
-* [Padre celebridade é suspeito de se apropriar de R$ 60 milhões doados por fiéis](https://epoca.globo.com/brasil/padre-celebridade-suspeito-de-se-apropriar-de-60-milhoes-doados-por-fieis-24599135)
-* [Oi terá assembleia virtual de credores após decisão da Justiça](https://oglobo.globo.com/economia/oi-tera-assembleia-virtual-de-credores-apos-decisao-da-justica-24599113)
+* [EUA descongelam bens venezuelanos para ajudar oposição a lutar contra Covid-19](https://oglobo.globo.com/mundo/eua-descongelam-bens-venezuelanos-para-ajudar-oposicao-lutar-contra-covid-19-24599101)
+* [Prefeitura de Niterói vai abrir 500 vagas para castração de cães e gatos](https://oglobo.globo.com/rio/bairros/prefeitura-de-niteroi-vai-abrir-500-vagas-para-castracao-de-caes-gatos-24599253)

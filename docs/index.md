@@ -2,28 +2,28 @@
 layout: default
 ---
 
-# indexed at 21/08/2020 00:44:51 UTC
+# indexed at 21/08/2020 01:16:48 UTC
 
 
 ## news.ycombinator.com
 
 
 * [New academic journal only publishes 'unsurprising' research rejected by others](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
-* [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
-* [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
-* [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [Why a Slack Backlash Is Inevitable](https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable)
+* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
+* [Lightroom app update wipes users' photos and presets, Adobe says not recoverable](https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/)
+* [How Shopify reduced storefront response times with a rewrite](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite)
 * [Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/)
+* [The software industry is going through the “disposable plastic” crisis](https://lwn.net/Articles/829123/)
 * [Moving from YouTube to PeerTube](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/)
 * [The Kush civilization flourished in Sudan nearly 5K years ago](https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/)
-* [Taplytics (YC W14) Is Hiring Senior Engineers and Senior CSMs in Toronto](https://taplytics.com/careers/)
 * [Former Chief Security Officer for Uber Charged with Obstruction of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
 * [Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing](https://news.ycombinator.com/item?id=24228826)
-* [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [From farm to factory: the unstoppable rise of American chicken](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
-* [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
+* [Taplytics (YC W14) Is Hiring Senior Engineers and Senior CSMs in Toronto](https://taplytics.com/careers/)
 * [Parsing S-expressions in C (2019)](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
-* [Uber and Lyft shutdown in California averted as judge grants emergency stay](https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees)
+* [Satellite warfare: An arms race is brewing in orbit](https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit)
+* [How to make a bee hotel [pdf]](https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf)
 * [Citibank's $900M Blunder](https://finshots.in/archive/citibank-billion-dollar-blunder/)
 * [Show HN: Say Less – AI summarization tool in the Gmail compose window](https://sayless.email/)
 * [“Cold Tube” cooling system uses half the energy of an air conditioner](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
@@ -34,10 +34,10 @@ layout: default
 * [Math.min(Math.max(num, min), max)](https://twitter.com/jaffathecake/status/1296382880030044160)
 * [Foiling Electric Boat](https://candelaspeedboat.com/)
 * [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
-* [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [Big Bounce Simulations Challenge the Big Bang](https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/)
-* [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
+* [Former Uber executive charged with paying 'hush money' to conceal breach](https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach)
 * [Fortnite’s battle with Apple and Google could have an impact on news publishers](https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/)
+* [Sci-fi story coauthored by GPT-3, including in-character human/AI chats](https://jamesyu.org/singular/)
 ## nytimes.com
 
 
@@ -50,9 +50,9 @@ layout: default
 * [Steve Bannon is Arrested and Charged With Fraud in 'We Build the Wall' Campaign](https://www.nytimes.com/2020/08/20/nyregion/steve-bannon-arrested-indicted.html)
 * [Arrest Disrupts Bannon’s Efforts to Stay Relevant After Leaving White House](https://www.nytimes.com/2020/08/20/us/politics/stephen-bannon-arrest.html)
 * [How Bannon and His Indicted Business Partners Cashed In on Trump](https://www.nytimes.com/2020/08/20/us/politics/bannon-we-build-the-wall.html)
+* [The Republican Embrace of QAnon Goes Far Beyond Trump](https://www.nytimes.com/2020/08/20/us/politics/qanon-trump-republicans.html)
 * [Trump Must Turn Over Tax Returns to D.A., Judge Rules](https://www.nytimes.com/2020/08/20/nyregion/donald-trump-taxes-cyrus-vance.html)
 * [Top Republican National Security Officials Say They Will Vote for Biden](https://www.nytimes.com/2020/08/20/us/politics/republican-national-security-biden.html)
-* [The Republican Embrace of QAnon Goes Far Beyond Trump](https://www.nytimes.com/2020/08/20/us/politics/qanon-trump-republicans.html)
 * [Instead of Isolating Iran, U.S. Finds Itself on the Outside Over Nuclear Deal](https://www.nytimes.com/2020/08/20/us/politics/trump-iran-nuclear-deal.html)
 * [Former Postal Governor Tells Congress Mnuchin Politicized Postal Service](https://www.nytimes.com/2020/08/20/us/politics/former-postal-governor-tells-congress-mnuchin-politicized-postal-service.html)
 * [Live Covid-19 Updates](https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html)
@@ -65,7 +65,7 @@ layout: default
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Joe Biden’s 30-Year Quest](https://www.nytimes.com/2020/08/20/podcasts/the-daily/biden-election.html)
 * [What Biden Must Do](https://www.nytimes.com/2020/08/20/opinion/the-argument-democratic-convention-biden.html)
-* [Steve Bannon’s Art of the Grift](https://www.nytimes.com/2020/08/20/opinion/steve-bannon-trump-arrested.html)
+* [Steve Bannon Wrapped Himself in Trump’s Flag, and Got Caught](https://www.nytimes.com/2020/08/20/opinion/steve-bannon-trump-arrested.html)
 * [The Democrats Who Rose to the Moment](https://www.nytimes.com/2020/08/20/opinion/democratic-convention-warren-biden-obama.html)
 * [Stocks Are Soaring. So Is Misery.](https://www.nytimes.com/2020/08/20/opinion/stock-market-unemployment.html)
 * [Trumpism Is a Racket, and Steve Bannon Knew It](https://www.nytimes.com/2020/08/20/opinion/trump-steve-bannon-fraud.html)
@@ -87,11 +87,11 @@ layout: default
 * [South Africa’s Big Coronavirus Aid Effort Tainted by Corruption](https://www.nytimes.com/2020/08/19/world/africa/coronavirus-south-africa-aid-corruption.html)
 * [Most of $600 Million Settlement in Flint Water Crisis Will Go to Children](https://www.nytimes.com/2020/08/20/us/flint-water-crisis-settlement-children.html)
 * [Immigrant ‘Dreamers’ in Search of a Job Are Being Turned Away](https://www.nytimes.com/2020/08/20/us/immigration-daca-dreamers-employers.html)
-* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Save the Gaiters!](https://www.nytimes.com/2020/08/17/well/live/coronavirus-gaiters-masks.html)
 * [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
 * [She Was More Than Just the ‘Most Beautiful Suffragist’](https://www.nytimes.com/2020/08/19/arts/design/inez-milholland-suffragist.html)
 * [Bright Eyes’ Summertime Sadness](https://www.nytimes.com/2020/08/20/arts/music/bright-eyes-down-in-the-weeds-where-the-world-once-was-review.html)
 * [Baseball’s Unwritten Rules: Where Does It Say You Can’t Do That?](https://www.nytimes.com/2020/08/20/sports/baseball/fernando-tatis-grand-slam-unwritten-rules.html)
@@ -101,22 +101,20 @@ layout: default
 * [How Young People Can Own Their Health Care (Even if They Still See a Pediatrician)](https://www.nytimes.com/2020/08/14/well/family/young-adults-health-care-autonomy.html)
 * [Global Warming Could Unlock Carbon From Tropical Soil](https://www.nytimes.com/2020/08/12/climate/tropical-soils-climate-change.html)
 * [Why Chimp Moms Flock to Caves on the Savanna](https://www.nytimes.com/2020/08/05/science/chimpanzees-caves-senegal.html)
-* [What To Know About Joe Biden's DNC Speech Tonight](https://www.nytimes.com/2020/08/20/us/politics/dnc-what-to-watch.html)
-* [A Large Coffee and a Marriage Proposal to Go](https://www.nytimes.com/2020/08/14/style/a-large-coffee-and-a-marriage-proposal-to-go.html)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
+* [10 No-Cook Pasta Sauces for Summer](https://www.nytimes.com/2020/08/19/dining/no-cook-pasta-sauce.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Vasco vence o Ceará em Fortaleza e vai festejar o aniversário de 122 anos na liderança do Brasileiro](https://oglobo.globo.com/esportes/vasco/vasco-vence-ceara-em-fortaleza-vai-festejar-aniversario-de-122-anos-na-lideranca-do-brasileiro-24598176)
+* [MSF é impedido de prestar atendimento a infectados por coronavírus em tribo indígena](https://oglobo.globo.com/sociedade/coronavirus/msf-impedido-de-prestar-atendimento-infectados-por-coronavirus-em-tribo-indigena-24598060)
 * [Volta às aulas em Niterói deve acontecer no dia 14 de setembro](https://oglobo.globo.com/rio/bairros/volta-as-aulas-em-niteroi-deve-acontecer-no-dia-14-de-setembro-24598057)
 * [Projeto de lei que libera o armamento da Guarda Municipal será votado nas próximas semanas](https://oglobo.globo.com/rio/projeto-de-lei-que-libera-armamento-da-guarda-municipal-sera-votado-nas-proximas-semanas-24598114)
 * [Manutenção de veto congelando salários de servidores é primeira vitória da base de Bolsonaro](https://oglobo.globo.com/economia/manutencao-de-veto-congelando-salarios-de-servidores-primeira-vitoria-da-base-de-bolsonaro-24598062)
-* [MSF é impedido de prestar atendimento a infectados por coronavírus em tribo indígena](https://oglobo.globo.com/sociedade/coronavirus/msf-impedido-de-prestar-atendimento-infectados-por-coronavirus-em-tribo-indigena-24598060)
 * [Hackers invadem live de candidata do PSOL ao Rio](https://epoca.globo.com/guilherme-amado/hackers-invadem-live-de-candidata-do-psol-ao-rio-1-24597997)
 * [A Apple, o Fortnite e uma briga](https://oglobo.globo.com/economia/a-apple-fortnite-uma-briga-24597945)
 * [Datas com recordes de casos da Covid-19 nos estados podem ter sido divulgadas com até 52 dias de atraso, alerta Fiocruz](https://oglobo.globo.com/sociedade/datas-com-recordes-de-casos-da-covid-19-nos-estados-podem-ter-sido-divulgadas-com-ate-52-dias-de-atraso-alerta-fiocruz-24597268)
 * [Senadores querem explicações de Guedes por ter chamado derrubada de veto de 'crime contra o país'](https://oglobo.globo.com/economia/senadores-querem-explicacoes-de-guedes-por-ter-chamado-derrubada-de-veto-de-crime-contra-pais-24597894)
-* [Republicanos que tiveram cargos de alto nível na área de Segurança Nacional declaram apoio a Biden](https://oglobo.globo.com/mundo/republicanos-que-tiveram-cargos-de-alto-nivel-na-area-de-seguranca-nacional-declaram-apoio-biden-24597883)
 * [Crivella é condenado a ressarcir município por elaboração de formulário com perguntas sobre raça e religião em programa do município](https://oglobo.globo.com/rio/crivella-condenado-ressarcir-municipio-por-elaboracao-de-formulario-com-perguntas-sobre-raca-religiao-em-programa-do-municipio-24597884)

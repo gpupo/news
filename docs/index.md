@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 08:17:18 UTC
+# indexed at 22/08/2020 08:34:53 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Moreutils – Unix tools that nobody thought to write (2012)](https://joeyh.name/code/moreutils/)
-* [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Help Make the 19th Century Searchable](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
+* [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
 * [Show HN: A Twitter bot I made that posts real-time deforestation data](https://twitter.com/ForestsWar)
 * [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
-* [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
 * [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
+* [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
 * [Matrix – An open network for secure, decentralized communication](https://matrix.org/)
 * [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
-* [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
+* [A New Bootable USB Solution](https://www.ventoy.net/)
+* [Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world](https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/)
 * [An Update on MDN Web Docs](https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/)
-* [What it means to be a developer is changing](https://vicki.substack.com/p/taking-the-shine-off-the-apple-and)
-* [F (2006)](http://www.nsl.com/k/f/f.htm)
+* [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
 * [TikTok to challenge U.S. order banning transactions with the video app](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG)
+* [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
+* [What it means to be a developer is changing](https://vicki.substack.com/p/taking-the-shine-off-the-apple-and)
 * [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
-* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
-* [Turning the Raspberry Pi 4 into a Mini Server](https://n-o-d-e.net/node_mini_server3.html)
+* [Promised Land: Religious Ideology and Solarpunk Science Fiction](http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/)
 * [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
 * [Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML](https://github.com/samsonmking/epaper.js)
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
-* [Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python](https://codemap.app)
+* [Code for The Economist's Election Model for 2020](https://github.com/TheEconomist/us-potus-model)
+* [Turning the Raspberry Pi 4 into a Mini Server](https://n-o-d-e.net/node_mini_server3.html)
+* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
 * [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
-* [A New Bootable USB Solution](https://www.ventoy.net/)
-* [New Particle Collision Math May Offer Quantum Clues](https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/)
-* [The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)](http://www.drgeorgepc.com/Tsunami1958LituyaB.html)
+* [Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python](https://codemap.app)
 * [Activists find camera inside box on power pole near union organizer’s home](https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/)
-* [Marvell Details ThunderX3 CPUs](https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3)
-* [AI slays top F-16 pilot in DARPA dogfight simulation](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
+* [The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)](http://www.drgeorgepc.com/Tsunami1958LituyaB.html)
 ## nytimes.com
 
 
@@ -83,9 +83,9 @@ layout: default
 * [Lori Loughlin Gets 2 Months in College Admissions Case](https://www.nytimes.com/2020/08/21/us/lori-loughlin-mossimo-giannulli-sentencing.html)
 * [National Zoo Panda Gives Birth](https://www.nytimes.com/2020/08/21/us/national-zoo-panda-cub.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
 * [We Heard Our First Live Music in Months. Nothing Beats It.](https://www.nytimes.com/2020/08/21/arts/music/classical-music-jack-quartet.html)
@@ -96,10 +96,9 @@ layout: default
 * [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
 * [Pediatric Doctors Group Apologizes for Racist Past Toward Black Physicians](https://www.nytimes.com/2020/08/20/health/pediatrics-medicine-racial-discrimination.html)
 * [Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?](https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [9/11 Light Tribute to Shine After All, Officials Say](https://www.nytimes.com/2020/08/15/nyregion/towers-light-2020.html)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
+* [What to Cook This Weekend](https://www.nytimes.com/2020/08/21/dining/what-to-cook-this-weekend.html)
 * [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
+* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

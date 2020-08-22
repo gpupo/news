@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 02:17:20 UTC
+# indexed at 22/08/2020 02:34:59 UTC
 
 
 ## news.ycombinator.com
@@ -15,21 +15,22 @@ layout: default
 * [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
 * [Activists find camera inside box on power pole near union organizer’s home](https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/)
+* [Flexport Is Still Hiring](https://www.flexport.com/careers)
 * [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
-* [Ride through Wuppertal on ‘the flying train’ in clear footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
-* [New Particle Collision Math May Offer Quantum Clues](https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/)
-* [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
 * [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
-* [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
+* [Ride through Wuppertal on ‘the flying train’ in clear footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
+* [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
+* [New Particle Collision Math May Offer Quantum Clues](https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/)
 * [Volunteers spot almost 100 cold brown dwarfs near our sun](https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html)
+* [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
 * [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [An Update on MDN Web Docs](https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/)
 * [How anti-trust laws are used to stop independent contractors from organizing](https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf)
+* [The case for banning gold mining](https://jpkoning.blogspot.com/2020/08/the-case-for-banning-gold-mining.html)
 * [The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)](http://www.drgeorgepc.com/Tsunami1958LituyaB.html)
 * [Pedot can make our bodies play nice with implanted electronics](https://www.freethink.com/articles/cyborgs)
-* [Implementing Traceroute in Go – Blog](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
 * [The Splitgraph Data Delivery Network – query over 40k public datasets](https://www.splitgraph.com/blog/data-delivery-network-launch)
-* [The case for banning gold mining](https://jpkoning.blogspot.com/2020/08/the-case-for-banning-gold-mining.html)
+* [Implementing Traceroute in Go – Blog](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
 * [University of Utah pays $457k to ransomware gang](https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/)
 * [Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance](https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance)
@@ -37,7 +38,6 @@ layout: default
 * [Why we decided against GraphQL for local state management](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/)
 * [Lori Loughlin and husband sentenced in college bribery scandal](https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html)
 * [Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/)
-* [Placeholder – Offline Coarse Geocoder Backed by SQLite](https://github.com/pelias/placeholder)
 ## nytimes.com
 
 
@@ -53,7 +53,7 @@ layout: default
 * [Outbreaks at U.S. Colleges Force Sudden Changes and Send Students Scrambling: Covid-19 Live Updates](https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html)
 * [For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm](https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html)
 * [Kenya’s Health Workers, Unprotected and Falling Ill, Walk Off Job](https://www.nytimes.com/2020/08/21/world/africa/kenya-doctors-strike-coronavirus.html)
-* [David Pecker Out as Chief of National Enquirer Publisher](https://www.nytimes.com/2020/08/21/business/media/david-pecker-ami-ceo.html)
+* [Aleksei Navalny, Critic of Putin, Is Being Flown to Germany After Day of Delays](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
 * [Goldman Sachs Now Has a Font](https://www.nytimes.com/2020/08/21/business/goldman-sachs-font.html)
 * [Postal Service, Lori Loughlin, Elena Ferrante: Your Friday Evening Briefing](https://www.nytimes.com/2020/08/21/briefing/postal-service-lori-loughlin-elena-ferrante.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -79,14 +79,14 @@ layout: default
 * [Military Surveillance Planes Didn’t Spy on Protesters, Pentagon Report Finds](https://www.nytimes.com/2020/08/21/us/politics/military-surveillance-planes-protesters-pentagon.html)
 * [The TV Divide: Convention Ratings Surge on MSNBC as Fox News Dips](https://www.nytimes.com/2020/08/21/business/media/democratic-convention-ratings.html)
 * [China’s Xi Jinping Declares War on Food Waste](https://www.nytimes.com/2020/08/21/world/asia/china-food-waste-xi.html)
-* [Doctors Blocking Aleksei Navalny's Transfer Out of Russia, Supporters Say](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
+* [David Pecker Out as Chief of National Enquirer Publisher](https://www.nytimes.com/2020/08/21/business/media/david-pecker-ami-ceo.html)
 * [Lori Loughlin Gets 2 Months in College Admissions Case](https://www.nytimes.com/2020/08/21/us/lori-loughlin-mossimo-giannulli-sentencing.html)
 * [National Zoo Panda Gives Birth](https://www.nytimes.com/2020/08/21/us/national-zoo-panda-cub.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
 * [We Heard Our First Live Music in Months. Nothing Beats It.](https://www.nytimes.com/2020/08/21/arts/music/classical-music-jack-quartet.html)
 * [In Berlin, a Loft That Is Part Gallery and Part Roller Rink](https://www.nytimes.com/2020/08/19/t-magazine/berlin-infamous-skating-couple-design.html)
@@ -106,8 +106,9 @@ layout: default
 ## globo.com
 
 
+* [Vasco assina memorando de intenções com a WTorre para modernização de São Januário](https://oglobo.globo.com/esportes/vasco-assina-memorando-de-intencoes-com-wtorre-para-modernizacao-de-sao-januario-24600989)
+* [Argentina congela tarifas de telefonia, internet e TV paga até dezembro](https://oglobo.globo.com/economia/argentina-congela-tarifas-de-telefonia-internet-tv-paga-ate-dezembro-24600725)
 * [Chevrolet Tracker: dirigimos a versão LT com motor 1.0 turbo e câmbio automático](https://oglobo.globo.com/economia/carros/chevrolet-tracker-dirigimos-versao-lt-com-motor-10-turbo-cambio-automatico-24600469)
-* [Argentina transforma telefonia, internet e TV paga em 'serviços públicos'](https://oglobo.globo.com/economia/argentina-transforma-telefonia-internet-tv-paga-em-servicos-publicos-24600725)
 * [É #FAKE que vídeo mostre filha do ator José de Abreu agredindo verbalmente funcionários de um quiosque no Rio](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-filha-do-ator-jose-de-abreu-agredindo-verbalmente-funcionarios-de-um-quiosque-no-rio-24600706)
 * [É #FAKE que estudo feito em 2005 comprova eficácia da cloroquina contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-estudo-feito-em-2005-comprova-eficacia-da-cloroquina-contra-covid-19-24600591)
 * [Com 113 mil mortos, Bolsonaro promoverá evento 'Brasil vencendo a Covid-19' no Planalto](https://oglobo.globo.com/sociedade/coronavirus/com-113-mil-mortos-bolsonaro-promovera-evento-brasil-vencendo-covid-19-no-planalto-24600346)
@@ -115,4 +116,3 @@ layout: default
 * [É #FAKE que vídeos mostrem ação de traficantes em comunidade do Rio após decisão do STF](https://oglobo.globo.com/fato-ou-fake/e-fake-que-videos-mostrem-acao-de-traficantes-em-comunidade-do-rio-apos-decisao-do-stf-24600439)
 * [Barroso manda governo apresentar plano mais detalhado de combate à Covid-19 entre indígenas](https://oglobo.globo.com/sociedade/barroso-manda-governo-apresentar-plano-mais-detalhado-de-combate-covid-19-entre-indigenas-24600423)
 * [Prefeitura de Niterói afasta funcionária envolvida no caso de bebê queimado no Hospital Getulinho](https://oglobo.globo.com/rio/prefeitura-de-niteroi-afasta-funcionaria-envolvida-no-caso-de-bebe-queimado-no-hospital-getulinho-24600251)
-* [É #FAKE mensagem que diz que iniciar o banho pela cabeça pode provocar ataque cardíaco](https://oglobo.globo.com/fato-ou-fake/e-fake-mensagem-que-diz-que-iniciar-banho-pela-cabeca-pode-provocar-ataque-cardiaco-24600287)

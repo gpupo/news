@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 11:14:29 UTC
+# indexed at 22/08/2020 11:35:04 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [A New Bootable USB Solution](https://www.ventoy.net/)
 * [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
 * [Moreutils – Unix tools that nobody thought to write (2012)](https://joeyh.name/code/moreutils/)
-* [Show HN: A Twitter bot I made that posts real-time deforestation data](https://twitter.com/ForestsWar)
+* [The Atomic Tank?](https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html)
+* [Cloudflare Package Repository Mirrors](https://cloudflaremirrors.com/)
 * [Matrix – An open network for secure, decentralized communication](https://matrix.org/)
+* [Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay](https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/)
 * [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
+* [Show HN: A Twitter bot I made that posts real-time deforestation data](https://twitter.com/ForestsWar)
 * [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
 * [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
 * [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
-* [Promised Land: Religious Ideology and Solarpunk Science Fiction](http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/)
-* [Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML](https://github.com/samsonmking/epaper.js)
-* [The Atomic Tank?](https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html)
 * [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
+* [Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML](https://github.com/samsonmking/epaper.js)
+* [Ammonia as a fuel for compression ignition engines](https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/)
+* [Promised Land: Religious Ideology and Solarpunk Science Fiction](http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/)
 * [College Notebook by Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [TikTok to challenge U.S. order banning transactions with the video app](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG)
-* [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
+* [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
-* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
 * [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
-* [Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay](https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/)
+* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
 * [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
 * [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
-* [What it means to be a developer is changing](https://vicki.substack.com/p/taking-the-shine-off-the-apple-and)
-* [Activists find camera inside box on power pole near union organizer’s home](https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/)
 ## nytimes.com
 
 
@@ -52,7 +52,7 @@ layout: default
 * [C.D.C. Suggests Some Child-Care Centers Can Reopen Safely](https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html)
 * [California Fires Keep Growing, With No End in Sight](https://www.nytimes.com/2020/08/21/us/california-wildfires.html)
 * [Hundreds of Trees Burned at Big Basin Redwoods State Park](https://www.nytimes.com/2020/08/21/us/big-basin-redwoods-ca-fires.html)
-* [Aleksei Navalny, Critic of Putin, Is Being Flown to Germany After Day of Delays](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
+* [Aleksei Navalny Arrives in Germany for Potential Poisoning Treatment](https://www.nytimes.com/2020/08/22/world/europe/aleksei-navalny-germany.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/21/briefing/best-weekend-reads.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [A Pandemic-Proof Bubble?](https://www.nytimes.com/2020/08/21/podcasts/the-daily/nba-coronavirus-basketball.html)
@@ -80,10 +80,10 @@ layout: default
 * [China’s Xi Jinping Declares War on Food Waste](https://www.nytimes.com/2020/08/21/world/asia/china-food-waste-xi.html)
 * [Older New Yorkers Sweat It Out, Waiting for Promised Air-Conditioners](https://www.nytimes.com/2020/08/21/nyregion/new-york-seniors-air-conditioners.html)
 * [In Belarus Town, People Tasted a Bite of Freedom. It Lasted 2 Days.](https://www.nytimes.com/2020/08/21/world/europe/grodno-belarus-protests.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Frank Sinatra Slept Here, and So Can You](https://www.nytimes.com/2020/08/21/realestate/short-term-rentals-sinatra-dylan-steinbeck.html)
 * [The New York Cafe Where Writers Go to Work — and Eat Cake](https://www.nytimes.com/2020/08/21/t-magazine/hungarian-pastry-shop-new-york.html)
@@ -94,9 +94,10 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [Another Pandemic Hurdle for Colleges: Keeping Students Fed, and Happy](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-college-students-campus.html)
-* [U.N.C. Moved Classes Online. The Football Games Are Still On, for Now.](https://www.nytimes.com/2020/08/18/sports/ncaafootball/unc-football-acc-online-classes.html)
-* [Where Has Your Tween Been During the Pandemic? On This Gaming Site](https://www.nytimes.com/2020/08/16/technology/roblox-tweens-videogame-coronavirus.html)
+* [Mothers, Babies Stranded in Ukraine Surrogacy Industry](https://www.nytimes.com/2020/08/15/world/europe/ukraine-baby-surrogate.html)
+* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
+* [Bloomberg got his five minutes, and used it to mock Trump’s business failures.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/bloomberg-got-his-five-minutes-and-used-it-to-mock-trumps-business-failures)
+* [Trump calls McCain a ‘lousy candidate’ whose campaign was run by ‘deadheads.’](https://www.nytimes.com/2020/08/20/us/elections/trump-calls-mccain-a-lousy-candidate-whose-campaign-was-run-by-deadheads.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -104,12 +105,6 @@ layout: default
 
 
 * [Com quadro estável, Navalny chega à Alemanha para tratamento](https://oglobo.globo.com/mundo/com-quadro-estavel-navalny-chega-alemanha-para-tratamento-24601223)
+* [Padre celebridade de Goiás é investigado por lavagem de dinheiro em venda de terreno](https://epoca.globo.com/brasil/padre-celebridade-de-goias-investigado-por-lavagem-de-dinheiro-em-venda-de-terreno-1-24601220)
 * [Madrugada de chuva faz Rio entrar em estágio de atenção e provoca acionamento de sirenes em comunidades](https://oglobo.globo.com/rio/madrugada-de-chuva-faz-rio-entrar-em-estagio-de-atencao-provoca-acionamento-de-sirenes-em-comunidades-24601212)
-* [Padre celebridade de Goiás é investigado por lavagem de dinheiro em venda de terreno](https://epoca.globo.com/brasil/padre-celebridade-de-goias-investigado-por-lavagem-de-dinheiro-em-venda-de-terreno-24601220)
 * [Ana Paula Araújo lança livro com 100 vítimas de estupro](https://epoca.globo.com/guilherme-amado/ana-paula-araujo-lanca-livro-com-100-vitimas-de-estupro-24597517)
-* [Em julho, 73% do desmatamento para garimpo na Amazônia ocorreu em unidades de conservação e terras Indígenas](https://oglobo.globo.com/sociedade/em-julho-73-do-desmatamento-para-garimpo-na-amazonia-ocorreu-em-unidades-de-conservacao-terras-indigenas-24599454)
-* [O aval republicano ao QAnon vai muito além de Trump](https://oglobo.globo.com/mundo/o-aval-republicano-ao-qanon-vai-muito-alem-de-trump-24600747)
-* [Vem Pra Rua se alia ao MBL e embola disputa pelo lavajatismo na eleição de SP](https://epoca.globo.com/brasil/vem-pra-rua-se-alia-ao-mbl-embola-disputa-pelo-lavajatismo-na-eleicao-de-sp-24600017)
-* [Maestrina de blocos cariocas lança videoaulas gratuitas](https://oglobo.globo.com/rio/bairros/maestrina-de-blocos-cariocas-lanca-videoaulas-gratuitas-1-24599841)
-* [‘Niterói já deveria estar num nível maior de flexibilização’, diz especialista](https://oglobo.globo.com/rio/bairros/niteroi-ja-deveria-estar-num-nivel-maior-de-flexibilizacao-diz-especialista-24599377)
-* [Coluna | Family Romance, LLC: o novo do Werner Herzog é perfeito e você deveria assisti-lo](https://epoca.globo.com/colunistas/coluna-family-romance-llc-novo-do-werner-herzog-perfeito-voce-deveria-assisti-lo-24599162)

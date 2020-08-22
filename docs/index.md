@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 00:45:20 UTC
+# indexed at 22/08/2020 01:16:44 UTC
 
 
 ## news.ycombinator.com
@@ -11,33 +11,33 @@ layout: default
 * [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
 * [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
-* [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
+* [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Activists find camera inside box on power pole near union organizer’s home](https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/)
-* [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
 * [TikTok to challenge U.S. order banning transactions with the video app](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG)
-* [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
+* [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
 * [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
+* [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
+* [Ride through Wuppertal on ‘the flying train’ in clear footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
 * [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
 * [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
-* [Ride through Wuppertal on ‘the flying train’ in clear footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
 * [Volunteers spot almost 100 cold brown dwarfs near our sun](https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html)
 * [The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)](http://www.drgeorgepc.com/Tsunami1958LituyaB.html)
 * [An Update on MDN Web Docs](https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/)
 * [Implementing Traceroute in Go – Blog](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
+* [How anti-trust laws are used to stop independent contractors from organizing](https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/)
 * [The Splitgraph Data Delivery Network – query over 40k public datasets](https://www.splitgraph.com/blog/data-delivery-network-launch)
 * [University of Utah pays $457k to ransomware gang](https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/)
-* [Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/)
 * [Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance](https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance)
-* [How anti-trust laws are used to stop independent contractors from organizing](https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf)
 * [Lori Loughlin and husband sentenced in college bribery scandal](https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html)
-* [No Hello (2013)](https://www.nohello.com/)
+* [Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/)
 * [Myths About Failure](https://greylock.com/reid-hoffman-myths-about-failure/)
 * [Why we decided against GraphQL for local state management](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/)
 * [Placeholder – Offline Coarse Geocoder Backed by SQLite](https://github.com/pelias/placeholder)
-* [‘Electric mud’ teems with new, mysterious bacteria](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria)
 * [AI slays top F-16 pilot in DARPA dogfight simulation](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
+* [No Hello (2013)](https://www.nohello.com/)
+* [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
 ## nytimes.com
 
 
@@ -51,8 +51,8 @@ layout: default
 * [The 7 Takeaways From The 2020 DNC](https://www.nytimes.com/2020/08/21/us/politics/dnc-takeaways-biden-obama.html)
 * [Fact-Checking the Democratic National Convention](https://www.nytimes.com/2020/08/21/us/politics/fact-check-democrats.html)
 * [Outbreaks at U.S. Colleges Force Sudden Changes and Send Students Scrambling: Covid-19 Live Updates](https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html)
-* [Economic Data Points to Pause in Recovery as Aid Programs Expire](https://www.nytimes.com/2020/08/21/business/economy/coronavirus-economic-recovery.html)
-* [Europe Braces for New Phase in Pandemic With Cases Surging](https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html)
+* [For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm](https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html)
+* [Kenya’s Health Workers, Unprotected and Falling Ill, Walk Off Job](https://www.nytimes.com/2020/08/21/world/africa/kenya-doctors-strike-coronavirus.html)
 * [David Pecker Out as Chief of National Enquirer Publisher](https://www.nytimes.com/2020/08/21/business/media/david-pecker-ami-ceo.html)
 * [Goldman Sachs Now Has a Font](https://www.nytimes.com/2020/08/21/business/goldman-sachs-font.html)
 * [Postal Service, Lori Loughlin, Elena Ferrante: Your Friday Evening Briefing](https://www.nytimes.com/2020/08/21/briefing/postal-service-lori-loughlin-elena-ferrante.html)
@@ -76,16 +76,16 @@ layout: default
 * [Ex-Green Beret Charged With Spying for Russia in Elaborate Scheme](https://www.nytimes.com/2020/08/21/us/politics/peter-debbins-russia-spying.html)
 * [Golden State Killer Sentenced to Life in Prison Without Parole](https://www.nytimes.com/2020/08/21/us/golden-state-killer-sentenced.html)
 * [Trump Holds a Rare White House Funeral for His Younger Brother, Robert](https://www.nytimes.com/2020/08/21/us/politics/funeral-robert-trump.html)
-* [Palantir, Tech’s Next Big I.P.O., Lost $580 Million in 2019](https://www.nytimes.com/2020/08/21/technology/palantir-ipo-580-million-loss.html)
+* [Military Surveillance Planes Didn’t Spy on Protesters, Pentagon Report Finds](https://www.nytimes.com/2020/08/21/us/politics/military-surveillance-planes-protesters-pentagon.html)
 * [The TV Divide: Convention Ratings Surge on MSNBC as Fox News Dips](https://www.nytimes.com/2020/08/21/business/media/democratic-convention-ratings.html)
 * [China’s Xi Jinping Declares War on Food Waste](https://www.nytimes.com/2020/08/21/world/asia/china-food-waste-xi.html)
 * [Doctors Blocking Aleksei Navalny's Transfer Out of Russia, Supporters Say](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
 * [Lori Loughlin Gets 2 Months in College Admissions Case](https://www.nytimes.com/2020/08/21/us/lori-loughlin-mossimo-giannulli-sentencing.html)
 * [National Zoo Panda Gives Birth](https://www.nytimes.com/2020/08/21/us/national-zoo-panda-cub.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
 * [We Heard Our First Live Music in Months. Nothing Beats It.](https://www.nytimes.com/2020/08/21/arts/music/classical-music-jack-quartet.html)
@@ -105,8 +105,9 @@ layout: default
 ## globo.com
 
 
+* [Argentina transforma telefonia, internet e TV paga em 'serviços públicos essenciais'](https://oglobo.globo.com/economia/argentina-transforma-telefonia-internet-tv-paga-em-servicos-publicos-essenciais-24600725)
+* [É #FAKE que vídeo mostre filha do ator José de Abreu agredindo verbalmente funcionários de um quiosque no Rio](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-filha-do-ator-jose-de-abreu-agredindo-verbalmente-funcionarios-de-um-quiosque-no-rio-24600706)
 * [É #FAKE que estudo feito em 2005 comprova eficácia da cloroquina contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-estudo-feito-em-2005-comprova-eficacia-da-cloroquina-contra-covid-19-24600591)
-* [PDT, PCdoB e PSOL elogiam fala de Lula sobre eleição de 2022; para presidente do PSB, 'acredita quem quiser'](https://oglobo.globo.com/brasil/pdt-pcdob-psol-elogiam-fala-de-lula-sobre-eleicao-de-2022-para-presidente-do-psb-acredita-quem-quiser-24600264)
 * [Com 113 mil mortos, Bolsonaro promoverá evento 'Brasil vencendo a Covid-19' no Planalto](https://oglobo.globo.com/sociedade/coronavirus/com-113-mil-mortos-bolsonaro-promovera-evento-brasil-vencendo-covid-19-no-planalto-24600346)
 * [Petrobras anuncia saída da presidente da Transpetro](https://oglobo.globo.com/economia/petrobras-anuncia-saida-da-presidente-da-transpetro-24600424)
 * [É #FAKE que vídeos mostrem ação de traficantes em comunidade do Rio após decisão do STF](https://oglobo.globo.com/fato-ou-fake/e-fake-que-videos-mostrem-acao-de-traficantes-em-comunidade-do-rio-apos-decisao-do-stf-24600439)
@@ -114,4 +115,3 @@ layout: default
 * [Em visita ao Nordeste, Bolsonaro faz aceno ao Congresso e chama parlamentares de 'sócios'](https://oglobo.globo.com/brasil/em-visita-ao-nordeste-bolsonaro-faz-aceno-ao-congresso-chama-parlamentares-de-socios-24600268)
 * [Prefeitura de Niterói afasta funcionária envolvida no caso de bebê queimado no Hospital Getulinho](https://oglobo.globo.com/rio/prefeitura-de-niteroi-afasta-funcionaria-envolvida-no-caso-de-bebe-queimado-no-hospital-getulinho-24600251)
 * [É #FAKE mensagem que diz que iniciar o banho pela cabeça pode provocar ataque cardíaco](https://oglobo.globo.com/fato-ou-fake/e-fake-mensagem-que-diz-que-iniciar-banho-pela-cabeca-pode-provocar-ataque-cardiaco-24600287)
-* [Se não for bem testada, vacina russa pode causar mutação e tornar vírus da Covid-19 mais resistente, alertam cientistas](https://oglobo.globo.com/sociedade/coronavirus/se-nao-for-bem-testada-vacina-russa-pode-causar-mutacao-tornar-virus-da-covid-19-mais-resistente-alertam-cientistas-24599884)

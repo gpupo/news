@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 01:16:44 UTC
+# indexed at 22/08/2020 01:35:50 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
 * [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [Activists find camera inside box on power pole near union organizer’s home](https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/)
-* [TikTok to challenge U.S. order banning transactions with the video app](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG)
 * [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
-* [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
 * [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
 * [Ride through Wuppertal on ‘the flying train’ in clear footage from 1902](https://www.thisiscolossal.com/2020/08/the-flying-train-moma/)
+* [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
 * [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
-* [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [Volunteers spot almost 100 cold brown dwarfs near our sun](https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html)
+* [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)](http://www.drgeorgepc.com/Tsunami1958LituyaB.html)
-* [An Update on MDN Web Docs](https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/)
-* [Implementing Traceroute in Go – Blog](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
 * [How anti-trust laws are used to stop independent contractors from organizing](https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf)
+* [New Particle Collision Math May Offer Quantum Clues](https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/)
+* [An Update on MDN Web Docs](https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/)
+* [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
+* [Implementing Traceroute in Go – Blog](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/)
 * [The Splitgraph Data Delivery Network – query over 40k public datasets](https://www.splitgraph.com/blog/data-delivery-network-launch)
 * [University of Utah pays $457k to ransomware gang](https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/)
 * [Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance](https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance)
 * [Lori Loughlin and husband sentenced in college bribery scandal](https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html)
-* [Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/)
 * [Myths About Failure](https://greylock.com/reid-hoffman-myths-about-failure/)
+* [Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/)
+* [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
 * [Why we decided against GraphQL for local state management](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/)
 * [Placeholder – Offline Coarse Geocoder Backed by SQLite](https://github.com/pelias/placeholder)
 * [AI slays top F-16 pilot in DARPA dogfight simulation](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
-* [No Hello (2013)](https://www.nohello.com/)
-* [ARX, Arthur and RISC OS (2012)](http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/)
 ## nytimes.com
 
 
@@ -60,16 +60,16 @@ layout: default
 * [A Pandemic-Proof Bubble?](https://www.nytimes.com/2020/08/21/podcasts/the-daily/nba-coronavirus-basketball.html)
 * [Join Us — Live! — for a Recap of the Democratic National Convention](https://www.nytimes.com/article/2020-election-events.html)
 * [With the Speech of His Life, Joe Biden Becomes the Man for This Moment](https://www.nytimes.com/2020/08/21/opinion/joe-biden-speech.html)
-* [Democratic Convention: Best and Worst Moments From Joe Biden’s Big Night](https://www.nytimes.com/2020/08/21/opinion/democratic-convention-best-worst-night-4.html)
+* [Another Putin Critic Apparently Poisoned](https://www.nytimes.com/2020/08/21/opinion/navalny-trump-putin-russia.html)
 * [Stocks Are Soaring. So Is Misery.](https://www.nytimes.com/2020/08/20/opinion/stock-market-unemployment.html)
+* [Democratic Convention: Best and Worst Moments From Joe Biden’s Big Night](https://www.nytimes.com/2020/08/21/opinion/democratic-convention-best-worst-night-4.html)
 * [Obama’s Call to Save America](https://www.nytimes.com/2020/08/21/opinion/obama-convention-2020-speech.html)
 * [Trumpism Is a Racket, and Steve Bannon Knew It](https://www.nytimes.com/2020/08/20/opinion/trump-steve-bannon-fraud.html)
 * [Is the Lockdown Making You Depressed, or Are You Just Bored?](https://www.nytimes.com/2020/08/21/opinion/covid-depression-boredom.html)
 * [The Democratic Convention's Missing Latino Voices](https://www.nytimes.com/2020/08/21/opinion/Democrats-Election-Latinos-Convention.html)
+* [Where Hope and History Rhyme](https://www.nytimes.com/2020/08/21/opinion/biden-convention-speech.html)
 * [Why Would Russia Poison Aleksei Navalny Now?](https://www.nytimes.com/2020/08/21/opinion/navalny-russia-poison.html)
 * [Steve Bannon’s Art of the Grift](https://www.nytimes.com/2020/08/20/opinion/steve-bannon-trump-arrested.html)
-* [Where Hope and History Rhyme](https://www.nytimes.com/2020/08/21/opinion/biden-convention-speech.html)
-* [A Rhode Islander Reconciles Herself to Calamari](https://www.nytimes.com/2020/08/20/opinion/rhode-island-calamari.html)
 * [He Wants to Save the Present With the Indigenous Past](https://www.nytimes.com/2020/08/20/books/bruce-pascoe-aboriginal-history-australia.html)
 * [‘Tenet’ Review: Christopher Nolan’s Time-Bending Take on James Bond](https://www.nytimes.com/2020/08/21/movies/tenet-review-christopher-nolan.html)
 * [How the ‘Useful Idiots’ of Liberal New York Fueled Income Inequality](https://www.nytimes.com/2020/08/21/nyregion/kurt-andersen-nyc-income-inequality.html)
@@ -82,11 +82,11 @@ layout: default
 * [Doctors Blocking Aleksei Navalny's Transfer Out of Russia, Supporters Say](https://www.nytimes.com/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
 * [Lori Loughlin Gets 2 Months in College Admissions Case](https://www.nytimes.com/2020/08/21/us/lori-loughlin-mossimo-giannulli-sentencing.html)
 * [National Zoo Panda Gives Birth](https://www.nytimes.com/2020/08/21/us/national-zoo-panda-cub.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
 * [We Heard Our First Live Music in Months. Nothing Beats It.](https://www.nytimes.com/2020/08/21/arts/music/classical-music-jack-quartet.html)
 * [In Berlin, a Loft That Is Part Gallery and Part Roller Rink](https://www.nytimes.com/2020/08/19/t-magazine/berlin-infamous-skating-couple-design.html)
@@ -96,8 +96,7 @@ layout: default
 * [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
 * [Pediatric Doctors Group Apologizes for Racist Past Toward Black Physicians](https://www.nytimes.com/2020/08/20/health/pediatrics-medicine-racial-discrimination.html)
 * [Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?](https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html)
-* [Top Republican National Security Officials Say They Will Vote for Biden](https://www.nytimes.com/2020/08/20/us/politics/republican-national-security-biden.html)
-* [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
+* [The Future Looks Very Different on Opposite Sides of Los Angeles](https://www.nytimes.com/2020/08/18/books/review/show-them-youre-good-jeff-hobbs.html)
 * [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -105,7 +104,7 @@ layout: default
 ## globo.com
 
 
-* [Argentina transforma telefonia, internet e TV paga em 'serviços públicos essenciais'](https://oglobo.globo.com/economia/argentina-transforma-telefonia-internet-tv-paga-em-servicos-publicos-essenciais-24600725)
+* [Argentina transforma telefonia, internet e TV paga em 'serviços públicos'](https://oglobo.globo.com/economia/argentina-transforma-telefonia-internet-tv-paga-em-servicos-publicos-24600725)
 * [É #FAKE que vídeo mostre filha do ator José de Abreu agredindo verbalmente funcionários de um quiosque no Rio](https://oglobo.globo.com/fato-ou-fake/e-fake-que-video-mostre-filha-do-ator-jose-de-abreu-agredindo-verbalmente-funcionarios-de-um-quiosque-no-rio-24600706)
 * [É #FAKE que estudo feito em 2005 comprova eficácia da cloroquina contra a Covid-19](https://oglobo.globo.com/fato-ou-fake/e-fake-que-estudo-feito-em-2005-comprova-eficacia-da-cloroquina-contra-covid-19-24600591)
 * [Com 113 mil mortos, Bolsonaro promoverá evento 'Brasil vencendo a Covid-19' no Planalto](https://oglobo.globo.com/sociedade/coronavirus/com-113-mil-mortos-bolsonaro-promovera-evento-brasil-vencendo-covid-19-no-planalto-24600346)

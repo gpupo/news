@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 14:17:05 UTC
+# indexed at 22/08/2020 14:34:54 UTC
 
 
 ## news.ycombinator.com
@@ -13,20 +13,20 @@ layout: default
 * [Mystery of Interstellar Visitor 'Oumuamua Gets Trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
 * [AutoCXX: Safely call C++ from Rust with auto generated bindings](https://github.com/google/autocxx)
 * [Cloudflare Package Repository Mirrors](https://cloudflaremirrors.com/)
-* [Help Make the 19th Century Searchable](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
 * [A New Bootable USB Solution](https://www.ventoy.net/)
+* [Help Make the 19th Century Searchable](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
 * [Dropshipping: Hustlers making millions from goods they never handle](https://www.bbc.com/news/technology-53759932)
 * [Moreutils – Unix tools that nobody thought to write (2012)](https://joeyh.name/code/moreutils/)
-* [Nasal vaccine against Covid-19 prevents infection in mice](https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/)
 * [The Atomic Tank? (2018)](https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html)
-* [Systems and Constraints](https://www.mercatus.org/bridge/commentary/systems-and-constraints)
-* [Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay](https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/)
 * [Code for The Economist's Election Model for 2020](https://github.com/TheEconomist/us-potus-model)
-* [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
+* [Systems and Constraints](https://www.mercatus.org/bridge/commentary/systems-and-constraints)
+* [Nasal vaccine against Covid-19 prevents infection in mice](https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/)
+* [Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay](https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/)
+* [AngelCAD v1.4](https://github.com/arnholm/angelcad/releases/tag/v1.4-00)
 * [Show HN: Phuslu/Log – Structured Logging for Humans](https://github.com/phuslu/log)
 * [Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML](https://github.com/samsonmking/epaper.js)
+* [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
 * [On Ethics in Software with the Authors of “The Pragmatic Programmer”](https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020)
-* [AngelCAD v1.4](https://github.com/arnholm/angelcad/releases/tag/v1.4-00)
 * [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
 * [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
 * [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
@@ -37,7 +37,7 @@ layout: default
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
 * [Fast.ai releases new deep learning course, libraries, and book](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
-* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
+* [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
 ## nytimes.com
 
 
@@ -49,8 +49,8 @@ layout: default
 * [What to Watch for at the Republican National Convention](https://www.nytimes.com/live/2020/08/22/us/trump-vs-biden)
 * [Live Updates of the California Wildfires](https://www.nytimes.com/2020/08/22/us/california-wildfires.html)
 * [Hundreds of Trees Burned at Big Basin Redwoods State Park](https://www.nytimes.com/2020/08/21/us/big-basin-redwoods-ca-fires.html)
+* [Stop Campus Partying to Slow the Virus? Colleges Try but Often Fail](https://www.nytimes.com/2020/08/22/us/college-campus-covid.html)
 * [Covid in School? Shhh. Some Schools Are Keeping It Quiet.](https://www.nytimes.com/2020/08/22/us/school-reopenings-coronavirus-reporting.html)
-* [As Politicians Clashed, Bolivia’s Pandemic Death Rate Soared](https://www.nytimes.com/2020/08/22/world/americas/virus-bolivia.html)
 * [Covid-19 Live Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html)
 * [Aleksei Navalny Arrives in Germany for Potential Poisoning Treatment](https://www.nytimes.com/2020/08/22/world/europe/aleksei-navalny-germany.html)
 * [11 of Our Best Weekend Reads](https://www.nytimes.com/2020/08/21/briefing/best-weekend-reads.html)
@@ -68,7 +68,7 @@ layout: default
 * [Where Hope and History Rhyme](https://www.nytimes.com/2020/08/21/opinion/biden-convention-speech.html)
 * [The Trump Campaign Accepted Russian Help to Win in 2016. Case Closed.](https://www.nytimes.com/2020/08/19/opinion/trump-russia-2016-report.html)
 * [Giorgio Agamben, the Philosopher Trying to Explain the Coronavirus](https://www.nytimes.com/2020/08/21/opinion/giorgio-agamben-philosophy-coronavirus.html)
-* [Greece … or Devon? Camping Outshines Continent for Britons This Summer](https://www.nytimes.com/2020/08/22/business/Britain-camping-vacations.html)
+* [Camping Outshines Continent for Britons This Summer During Covid Pandemic](https://www.nytimes.com/2020/08/22/business/Britain-camping-vacations.html)
 * [How White Progressives Undermine School Integration](https://www.nytimes.com/2020/08/21/nyregion/school-integration-progressives.html)
 * [Working From Home: Meet the Man Who Won't](https://www.nytimes.com/2020/08/20/style/work-in-office.html)
 * [Ex-Green Beret Charged With Spying for Russia in Elaborate Scheme](https://www.nytimes.com/2020/08/21/us/politics/peter-debbins-russia-spying.html)
@@ -80,11 +80,11 @@ layout: default
 * [China’s Xi Jinping Declares War on Food Waste](https://www.nytimes.com/2020/08/21/world/asia/china-food-waste-xi.html)
 * [Older New Yorkers Sweat It Out, Waiting for Promised Air-Conditioners](https://www.nytimes.com/2020/08/21/nyregion/new-york-seniors-air-conditioners.html)
 * [In Belarus Town, People Tasted a Bite of Freedom. It Lasted 2 Days.](https://www.nytimes.com/2020/08/21/world/europe/grodno-belarus-protests.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Frank Sinatra Slept Here, and So Can You](https://www.nytimes.com/2020/08/21/realestate/short-term-rentals-sinatra-dylan-steinbeck.html)
 * [The New York Cafe Where Writers Go to Work — and Eat Cake](https://www.nytimes.com/2020/08/21/t-magazine/hungarian-pastry-shop-new-york.html)
 * [From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown](https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html)
@@ -94,23 +94,21 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [3 prominent Republican women make the case for Biden.](https://www.nytimes.com/live/2020/08/17/us/dnc-convention/3-prominent-republican-women-make-the-case-for-biden)
-* [Trump’s Attacks on TikTok and WeChat Could Further Fracture the Internet](https://www.nytimes.com/2020/08/17/technology/trump-tiktok-wechat-ban.html)
-* [What Ever Happened to Saying ‘Thanks’?](https://www.nytimes.com/2020/08/20/style/thank-you-card-social-qs.html)
-* [Peter V. Tytell, a Typewriter Whisperer, Is Dead at 74](https://www.nytimes.com/2020/08/18/us/peter-v-tytell-dead.html)
+* [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
+* [What to Cook This Weekend](https://www.nytimes.com/2020/08/21/dining/what-to-cook-this-weekend.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Governo lança na terça pacote com medidas econômicas; saiba o que será anunciado](https://oglobo.globo.com/economia/governo-lanca-na-terca-pacote-com-medidas-economicas-saiba-que-sera-anunciado-24601251)
 * [Pandemia: Número de mortos por Covid-19 no mundo chega a 800 mil](https://oglobo.globo.com/mundo/pandemia-numero-de-mortos-por-covid-19-no-mundo-chega-800-mil-1-24601268)
+* [Padre celebridade de Goiás é investigado por lavagem de dinheiro em negociação de terreno](https://epoca.globo.com/brasil/padre-celebridade-de-goias-investigado-por-lavagem-de-dinheiro-em-negociacao-de-terreno-24601220)
+* [Governo lança na terça pacote com medidas econômicas; saiba o que será anunciado](https://oglobo.globo.com/economia/governo-lanca-na-terca-pacote-com-medidas-economicas-saiba-que-sera-anunciado-24601251)
+* [Giovanna Ewbank posta foto com sutiã de amamentação, pijama e pantufas: 'Look do dia'](https://oglobo.globo.com/ela/gente/giovanna-ewbank-posta-foto-com-sutia-de-amamentacao-pijama-pantufas-look-do-dia-24601281)
+* [Racismo, gordofobia e assédio moral: ex-funcionárias acusam marca de moda de práticas abusivas](https://oglobo.globo.com/celina/racismo-gordofobia-assedio-moral-ex-funcionarias-acusam-marca-de-moda-de-praticas-abusivas-24595072)
 * [Daniella Sarahyba tenta preparar cookies com as filhas: 'erros acontecem quando a mãe não entende de cozinha'](https://oglobo.globo.com/ela/gente/daniella-sarahyba-tenta-preparar-cookies-com-as-filhas-erros-acontecem-quando-mae-nao-entende-de-cozinha-24601261)
 * [Lukashenko ordena ao exército defender a integridade territorial da Bielorrússia](https://oglobo.globo.com/mundo/lukashenko-ordena-ao-exercito-defender-integridade-territorial-da-bielorrussia-24601239)
 * [Conheça os músicos africanos que estão fazendo a cabeça de Beyoncé e Drake](https://oglobo.globo.com/cultura/conheca-os-musicos-africanos-que-estao-fazendo-cabeca-de-beyonce-drake-24601258)
 * [Israel bombardeia alvos do Hamas em Gaza](https://oglobo.globo.com/mundo/israel-bombardeia-alvos-do-hamas-em-gaza-24601249)
 * [Defesa de Flávio recorre no MPF para arquivar inquérito eleitoral](https://oglobo.globo.com/brasil/defesa-de-flavio-recorre-no-mpf-para-arquivar-inquerito-eleitoral-24601245)
-* [Padre celebridade de Goiás é investigado por lavagem de dinheiro em negociação de terreno](https://epoca.globo.com/brasil/padre-celebridade-de-goias-investigado-por-lavagem-de-dinheiro-em-negociacao-de-terreno-24601220)
-* [Com quadro estável, Navalny chega à Alemanha para tratamento médico](https://oglobo.globo.com/mundo/com-quadro-estavel-navalny-chega-alemanha-para-tratamento-medico-24601223)
-* [Coluna | Family Romance, LLC: o novo do Werner Herzog é perfeito e você deveria assisti-lo](https://epoca.globo.com/colunistas/coluna-family-romance-llc-novo-do-werner-herzog-perfeito-voce-deveria-assisti-lo-24599162)

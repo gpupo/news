@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 20:17:40 UTC
+# indexed at 22/08/2020 20:34:50 UTC
 
 
 ## news.ycombinator.com
@@ -11,32 +11,32 @@ layout: default
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
-* [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
 * [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
+* [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
 * [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
+* [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
+* [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
+* [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
+* [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
 * [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
 * [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
-* [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
-* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
-* [How to update U-Boot for PostmarketOS on the Pine Phone](https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/)
-* [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
 * [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
+* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [AutoCXX: Safely call C++ from Rust with auto generated bindings](https://github.com/google/autocxx)
 * [GPT-3 has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
+* [How to update U-Boot for PostmarketOS on the Pine Phone](https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 * [The Student-Blaming Has Begun](https://www.chronicle.com/article/the-student-blaming-has-begun)
 * [Braess' Paradox and the Price of Anarchy (2019)](http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html)
 * [Microsoft Flight Simulator maps entire globe with AI](https://www.bbc.com/news/av/technology-53811956)
-* [Code for The Economist's election model for 2020](https://github.com/TheEconomist/us-potus-model)
 * [United Nuclear Scientific Equipment and Supplies](https://unitednuclear.com/)
 * [How NAT Traversal Works](https://tailscale.com/blog/how-nat-traversal-works/)
+* [Code for The Economist's election model for 2020](https://github.com/TheEconomist/us-potus-model)
 * [Bletchley Park Trust to undergo organisational restructure](https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure)
 * [Unity Joins the Blender Development Fund as a Patron Member](https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/)
 * [Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python](https://codemap.app)
-* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 * [Systems and Constraints](https://www.mercatus.org/bridge/commentary/systems-and-constraints)
 ## nytimes.com
 
@@ -79,11 +79,11 @@ layout: default
 * [He Was Iran’s Homegrown Tech Star. The Guards Saw a Blackmail Opportunity.](https://www.nytimes.com/2020/08/21/world/middleeast/Iran-technology-arrest-spy.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
 * [Consumer Groups Take PayPal to Task Over Student Loan Credit Line](https://www.nytimes.com/2020/08/21/business/paypal-student-loans-synchrony.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [Frank Sinatra Slept Here, and So Can You](https://www.nytimes.com/2020/08/21/realestate/short-term-rentals-sinatra-dylan-steinbeck.html)
 * [The New York Cafe Where Writers Go to Work — and Eat Cake](https://www.nytimes.com/2020/08/21/t-magazine/hungarian-pastry-shop-new-york.html)
 * [From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown](https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html)
@@ -93,16 +93,17 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
-* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
+* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
+* [Knicks Among 8 N.B.A. Teams Allowed to Create Home City Bubbles](https://www.nytimes.com/2020/08/18/sports/basketball/nba-knicks-bubble.html)
+* [Mitch McConnell’s opponent answers his debate challenge with another.](https://www.nytimes.com/2020/08/20/us/elections/mitch-mcconnells-opponent-answers-his-debate-challenge-with-another.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Imprensa dos EUA critica Apple por taxa na App Store e quer melhores condições](https://oglobo.globo.com/economia/imprensa-dos-eua-critica-apple-por-taxa-na-app-store-quer-melhores-condicoes-24601579)
-* [Com Alice Braga, 'Esquadrão Suicida 2' anuncia elenco completo em teaser](https://oglobo.globo.com/cultura/com-alice-braga-esquadrao-suicida-2-anuncia-elenco-completo-em-teaser-24601583)
+* [Com Alice Braga, novo 'Esquadrão Suicida' anuncia elenco completo em teaser](https://oglobo.globo.com/cultura/com-alice-braga-novo-esquadrao-suicida-anuncia-elenco-completo-em-teaser-24601583)
+* [Jornais americanos criticam Apple por taxa na App Store e querem melhores condições](https://oglobo.globo.com/economia/jornais-americanos-criticam-apple-por-taxa-na-app-store-querem-melhores-condicoes-24601579)
 * [Rio registra 3.428 novos casos de coronavírus e média móvel de mortes continua em crescimento](https://oglobo.globo.com/rio/rio-registra-3428-novos-casos-de-coronavirus-media-movel-de-mortes-continua-em-crescimento-24601582)
 * [Venezuela recebe 73 toneladas de suprimentos médicos da Espanha e Portugal para combater Covid-19](https://oglobo.globo.com/mundo/venezuela-recebe-73-toneladas-de-suprimentos-medicos-da-espanha-portugal-para-combater-covid-19-24601571)
 * [Botafogo empresta atacante Luiz Fernando para o Grêmio](https://oglobo.globo.com/esportes/botafogo-empresta-atacante-luiz-fernando-para-gremio-24601554)

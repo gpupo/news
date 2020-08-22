@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 12:20:35 UTC
+# indexed at 22/08/2020 12:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -11,24 +11,26 @@ layout: default
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 * [AutoCXX: Safely call C++ from Rust with auto generated bindings](https://github.com/google/autocxx)
 * [Cloudflare Package Repository Mirrors](https://cloudflaremirrors.com/)
+* [A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Code for The Economist's Election Model for 2020](https://github.com/TheEconomist/us-potus-model)
 * [Help Make the 19th Century Searchable](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
+* [Accused Spy Peter Debbins Evidently Beat the Polygraph to Penetrate the NSA, DIA](https://antipolygraph.org/blog/2020/08/22/accused-russian-spy-peter-rafael-dzibinski-debbins-evidently-beat-the-polygraph-to-penetrate-the-nsa-dia/)
+* [A New Bootable USB Solution](https://www.ventoy.net/)
 * [Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay](https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/)
 * [Moreutils – Unix tools that nobody thought to write (2012)](https://joeyh.name/code/moreutils/)
-* [A New Bootable USB Solution](https://www.ventoy.net/)
 * [The Atomic Tank?](https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html)
 * [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
-* [Accused Spy Peter Debbins Evidently Beat the Polygraph to Penetrate the NSA, DIA](https://antipolygraph.org/blog/2020/08/22/accused-russian-spy-peter-rafael-dzibinski-debbins-evidently-beat-the-polygraph-to-penetrate-the-nsa-dia/)
 * [Matrix – An open network for secure, decentralized communication](https://matrix.org/)
 * [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
 * [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
 * [Show HN: A Twitter bot I made that posts real-time deforestation data](https://twitter.com/ForestsWar)
-* [AngelCAD v1.4](https://github.com/arnholm/angelcad/releases/tag/v1.4-00)
 * [Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML](https://github.com/samsonmking/epaper.js)
+* [On Ethics in Software with the Authors of “The Pragmatic Programmer”](https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020)
 * [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
+* [AngelCAD v1.4](https://github.com/arnholm/angelcad/releases/tag/v1.4-00)
 * [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
-* [Promised Land: Religious Ideology and Solarpunk Science Fiction](http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/)
 * [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
+* [Promised Land: Religious Ideology and Solarpunk Science Fiction](http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/)
 * [College Notebook by Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Ammonia as a fuel for compression ignition engines](https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/)
 * [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
@@ -36,8 +38,6 @@ layout: default
 * [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
 * [F (2006)](http://www.nsl.com/k/f/f.htm)
-* [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
-* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
 ## nytimes.com
 
 
@@ -74,17 +74,17 @@ layout: default
 * [Ex-Green Beret Charged With Spying for Russia in Elaborate Scheme](https://www.nytimes.com/2020/08/21/us/politics/peter-debbins-russia-spying.html)
 * [Justice Dept. Questions Former C.I.A. Director for 8 Hours](https://www.nytimes.com/2020/08/21/us/politics/justice-department-john-brennan-durham.html)
 * [Trump Holds a Rare White House Funeral for His Younger Brother, Robert](https://www.nytimes.com/2020/08/21/us/politics/funeral-robert-trump.html)
-* [David Pecker Out as Chief of National Enquirer Publisher](https://www.nytimes.com/2020/08/21/business/media/david-pecker-ami-ceo.html)
+* [Tropical Storms Laura and Marco Form](https://www.nytimes.com/2020/08/21/us/two-hurricanes-gulf.html)
 * [National Zoo Panda Gives Birth](https://www.nytimes.com/2020/08/21/us/national-zoo-panda-cub.html)
 * [The Coronavirus, Fewer Tourists and Australia's Famous Reef](https://www.nytimes.com/2020/08/22/world/australia/great-barrier-reef-coronavirus.html)
 * [China’s Xi Jinping Declares War on Food Waste](https://www.nytimes.com/2020/08/21/world/asia/china-food-waste-xi.html)
 * [Older New Yorkers Sweat It Out, Waiting for Promised Air-Conditioners](https://www.nytimes.com/2020/08/21/nyregion/new-york-seniors-air-conditioners.html)
 * [In Belarus Town, People Tasted a Bite of Freedom. It Lasted 2 Days.](https://www.nytimes.com/2020/08/21/world/europe/grodno-belarus-protests.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Frank Sinatra Slept Here, and So Can You](https://www.nytimes.com/2020/08/21/realestate/short-term-rentals-sinatra-dylan-steinbeck.html)
 * [The New York Cafe Where Writers Go to Work — and Eat Cake](https://www.nytimes.com/2020/08/21/t-magazine/hungarian-pastry-shop-new-york.html)
 * [From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown](https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html)
@@ -102,11 +102,11 @@ layout: default
 ## globo.com
 
 
+* [Com quadro estável, Navalny chega à Alemanha para tratamento médico](https://oglobo.globo.com/mundo/com-quadro-estavel-navalny-chega-alemanha-para-tratamento-medico-24601223)
 * [Lukashenko ordena ao exército defender a integridade territorial da Bielorrússia](https://oglobo.globo.com/mundo/lukashenko-ordena-ao-exercito-defender-integridade-territorial-da-bielorrussia-24601239)
 * [Madrugada de chuva faz Rio entrar em estágio de atenção e provoca acionamento de sirenes em comunidades](https://oglobo.globo.com/rio/madrugada-de-chuva-faz-rio-entrar-em-estagio-de-atencao-provoca-acionamento-de-sirenes-em-comunidades-24601212)
 * [Padre celebridade de Goiás é investigado por lavagem de dinheiro em negociação de terreno](https://epoca.globo.com/brasil/padre-celebridade-de-goias-investigado-por-lavagem-de-dinheiro-em-negociacao-de-terreno-24601220)
 * [Ana Paula Araújo lança livro com 100 vítimas de estupro](https://epoca.globo.com/guilherme-amado/ana-paula-araujo-lanca-livro-com-100-vitimas-de-estupro-24597517)
-* [Com quadro estável, Navalny chega à Alemanha para tratamento médico](https://oglobo.globo.com/mundo/com-quadro-estavel-navalny-chega-alemanha-para-tratamento-medico-24601223)
 * [Em julho, 73% do desmatamento para garimpo na Amazônia ocorreu em unidades de conservação e terras Indígenas](https://oglobo.globo.com/sociedade/em-julho-73-do-desmatamento-para-garimpo-na-amazonia-ocorreu-em-unidades-de-conservacao-terras-indigenas-24599454)
 * [O aval republicano ao QAnon vai muito além de Trump](https://oglobo.globo.com/mundo/o-aval-republicano-ao-qanon-vai-muito-alem-de-trump-24600747)
 * [Vem Pra Rua se alia ao MBL e embola disputa pelo lavajatismo na eleição de SP](https://epoca.globo.com/brasil/vem-pra-rua-se-alia-ao-mbl-embola-disputa-pelo-lavajatismo-na-eleicao-de-sp-24600017)

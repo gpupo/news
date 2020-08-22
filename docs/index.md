@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 21:34:55 UTC
+# indexed at 22/08/2020 22:18:06 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
+* [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
+* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
-* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
-* [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
+* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
 * [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
-* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
-* [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
+* [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
 * [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
+* [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
+* [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
 * [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
-* [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
-* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
+* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [Backbone Cabal](https://en.wikipedia.org/wiki/Backbone_cabal)
 * [AutoCXX: Safely call C++ from Rust with auto generated bindings](https://github.com/google/autocxx)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
-* [GPT-3 has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
 * [How to update U-Boot for PostmarketOS on the Pine Phone](https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
+* [GPT-3 has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
 * [Braess' Paradox and the Price of Anarchy (2019)](http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html)
-* [How NAT Traversal Works](https://tailscale.com/blog/how-nat-traversal-works/)
-* [Code for The Economist's election model for 2020](https://github.com/TheEconomist/us-potus-model)
 * [Bletchley Park Trust to undergo organisational restructure](https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure)
 * [United Nuclear Scientific Equipment and Supplies](https://unitednuclear.com/)
-* [Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python](https://codemap.app)
+* [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 * [Unity Joins the Blender Development Fund as a Patron Member](https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/)
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+* [Systems and Constraints](https://www.mercatus.org/bridge/commentary/systems-and-constraints)
 ## nytimes.com
 
 
@@ -67,9 +67,8 @@ layout: default
 * [Is the Lockdown Making You Depressed, or Are You Just Bored?](https://www.nytimes.com/2020/08/21/opinion/covid-depression-boredom.html)
 * [Win or Lose, Trump Will Hold Power Over the G.O.P.](https://www.nytimes.com/2020/08/22/opinion/sunday/trump-republican-party.html)
 * [I’ve Been to Every Convention Since ’88. Here’s What’s Missing This Year.](https://www.nytimes.com/2020/08/21/sunday-review/democratic-convention-biden.html)
-* [Quiet Reflections on the Enchanting Italian Village of Panicale](https://www.nytimes.com/2020/08/17/travel/panicale-italy.html)
-* [How White Progressives Undermine School Integration](https://www.nytimes.com/2020/08/21/nyregion/school-integration-progressives.html)
-* [Behold, ‘Workleisure’: What Should You Wear When You Work From Home?](https://www.nytimes.com/2020/08/20/style/work-from-home-clothes.html)
+* [Sabudana Khichdi Is Your New Favorite Comfort Food](https://www.nytimes.com/2020/08/19/magazine/sabudana-khichdi-is-your-new-favorite-comfort-food.html)
+* [Office Gossip Still Exists in Remote Culture](https://www.nytimes.com/2020/08/20/style/office-gossip.html)
 * [TikTok Plans to Challenge Trump Administration Over Executive Order](https://www.nytimes.com/2020/08/22/technology/tiktok-lawsuit-trump-executive-order.html)
 * [UPS Driver Charged in a Series of Shootings on an Oregon Highway](https://www.nytimes.com/2020/08/22/us/oregon-shootings-kenneth-ayers.html)
 * [Oleandrin, Covid-19 Treatment Pitched to Trump, Could Be Dangerous](https://www.nytimes.com/2020/08/20/health/covid-oleandrin-trump-mypillow.html)
@@ -79,10 +78,10 @@ layout: default
 * [He Was Iran’s Homegrown Tech Star. The Guards Saw a Blackmail Opportunity.](https://www.nytimes.com/2020/08/21/world/middleeast/Iran-technology-arrest-spy.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
 * [11-Year-Old Scores Viral Rap Hit but Trips on Gaza Politics](https://www.nytimes.com/2020/08/22/world/middleeast/gaza-rapper-israel-normalization.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Frank Sinatra Slept Here, and So Can You](https://www.nytimes.com/2020/08/21/realestate/short-term-rentals-sinatra-dylan-steinbeck.html)
 * [The New York Cafe Where Writers Go to Work — and Eat Cake](https://www.nytimes.com/2020/08/21/t-magazine/hungarian-pastry-shop-new-york.html)
@@ -93,19 +92,19 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [Here comes ‘Ridin’ with Biden’ at the drive-in.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/here-comes-ridin-with-biden-at-the-drive-in)
+* [Reopening Florida Schools Is Likened to Military Operation](https://www.nytimes.com/2020/08/19/us/coronavirus-schools-florida-local-control.html)
 * [Mitch McConnell’s opponent answers his debate challenge with another.](https://www.nytimes.com/2020/08/20/us/elections/mitch-mcconnells-opponent-answers-his-debate-challenge-with-another.html)
-* [The virus canceled a Detroit car show, but Trump supporters showed up anyway.](https://www.nytimes.com/live/2020/08/15/us/biden-vs-trump-election/the-virus-canceled-a-detroit-car-show-but-trump-supporters-showed-up-anyway)
+* [Here comes ‘Ridin’ with Biden’ at the drive-in.](https://www.nytimes.com/live/2020/08/16/us/election-trump-vs-biden/here-comes-ridin-with-biden-at-the-drive-in)
+* [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Justiça suspende liminar e Prefeitura do Rio poderá reabrir refeitórios das escolas municipais](https://oglobo.globo.com/rio/justica-suspende-liminar-prefeitura-do-rio-podera-reabrir-refeitorios-das-escolas-municipais-24601608)
 * [Fluminense bate Athletico e vence a primeira fora de casa no Brasileiro](https://oglobo.globo.com/esportes/fluminense-bate-athletico-vence-primeira-fora-de-casa-no-brasileiro-24601634)
 * [Rio tem menor temperatura máxima registrada em 2020 e agosto é o mais chuvoso dos últimos 24 anos](https://oglobo.globo.com/rio/rio-tem-menor-temperatura-maxima-registrada-em-2020-agosto-o-mais-chuvoso-dos-ultimos-24-anos-24601612)
-* [Justiça suspende liminar e Prefeitura do Rio poderá reabrir refeitórios das escolas municipais](https://oglobo.globo.com/rio/justica-suspende-liminar-prefeitura-do-rio-podera-reabrir-refeitorios-das-escolas-municipais-24601608)
 * [Com Alice Braga, novo 'Esquadrão Suicida' anuncia elenco completo em teaser](https://oglobo.globo.com/cultura/com-alice-braga-novo-esquadrao-suicida-anuncia-elenco-completo-em-teaser-24601583)
 * [Jornais americanos criticam Apple por taxa na App Store e querem melhores condições](https://oglobo.globo.com/economia/jornais-americanos-criticam-apple-por-taxa-na-app-store-querem-melhores-condicoes-24601579)
 * [Rio registra 3.428 novos casos de coronavírus e média móvel de mortes continua em crescimento](https://oglobo.globo.com/rio/rio-registra-3428-novos-casos-de-coronavirus-media-movel-de-mortes-continua-em-crescimento-24601582)

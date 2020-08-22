@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 22/08/2020 10:15:49 UTC
+# indexed at 22/08/2020 10:35:01 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Moreutils – Unix tools that nobody thought to write (2012)](https://joeyh.name/code/moreutils/)
+* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 * [Code for The Economist's Election Model for 2020](https://github.com/TheEconomist/us-potus-model)
+* [Moreutils – Unix tools that nobody thought to write (2012)](https://joeyh.name/code/moreutils/)
 * [Over three billion people worldwide now play video games, study reports](https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/)
 * [Help Make the 19th Century Searchable](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
 * [A New Bootable USB Solution](https://www.ventoy.net/)
 * [WordPressiOS Locked by App Store](https://twitter.com/photomatt/status/1296879217297113088)
-* [Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world](https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/)
 * [Matrix – An open network for secure, decentralized communication](https://matrix.org/)
 * [Show HN: A Twitter bot I made that posts real-time deforestation data](https://twitter.com/ForestsWar)
-* [AutoCXX: Safely call C++ from Rust with auto generated bindings](https://github.com/google/autocxx)
+* [Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world](https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/)
 * [WireGuard support in Mikrotik RouterOS v7.1beta2](https://forum.mikrotik.com/viewtopic.php?f=1&t=165248)
-* [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
 * [Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man](https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/)
-* [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
+* [Understanding Memory Fragmentation in Haskell](https://www.well-typed.com/blog/2020/08/memory-fragmentation/)
+* [AutoCXX: Safely call C++ from Rust with auto generated bindings](https://github.com/google/autocxx)
 * [Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML](https://github.com/samsonmking/epaper.js)
 * [College Notebook by Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
+* [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
+* [The Atomic Tank?](https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html)
 * [Launch HN: Plum Mail (YC S20) – Email alternative for group conversations](https://news.ycombinator.com/item?id=24237818)
-* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
-* [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [TikTok to challenge U.S. order banning transactions with the video app](https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG)
 * [How the world’s largest garbage dump evolved into a green oasis](https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html)
+* [F (2006)](http://www.nsl.com/k/f/f.htm)
+* [The Latest Project to Preserve Pompeii Reveals New Treasures](https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940)
 * [Efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
 * [Fast.ai releases new deep learning course](https://www.fast.ai/2020/08/21/fastai2-launch/)
 * [Trust Models](https://vitalik.ca/general/2020/08/20/trust.html)
-* [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
 * [Promised Land: Religious Ideology and Solarpunk Science Fiction](http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/)
-* [What it means to be a developer is changing](https://vicki.substack.com/p/taking-the-shine-off-the-apple-and)
+* [Corsair Gaming S-1](https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm)
 * [Activists find camera inside box on power pole near union organizer’s home](https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/)
-* [AI slays top F-16 pilot in DARPA dogfight simulation](https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/)
-* [The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)](http://www.drgeorgepc.com/Tsunami1958LituyaB.html)
+* [What it means to be a developer is changing](https://vicki.substack.com/p/taking-the-shine-off-the-apple-and)
 ## nytimes.com
 
 
@@ -80,11 +80,11 @@ layout: default
 * [China’s Xi Jinping Declares War on Food Waste](https://www.nytimes.com/2020/08/21/world/asia/china-food-waste-xi.html)
 * [Older New Yorkers Sweat It Out, Waiting for Promised Air-Conditioners](https://www.nytimes.com/2020/08/21/nyregion/new-york-seniors-air-conditioners.html)
 * [In Belarus Town, People Tasted a Bite of Freedom. It Lasted 2 Days.](https://www.nytimes.com/2020/08/21/world/europe/grodno-belarus-protests.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [How to Keep Your Collections From Looking Like Clutter](https://www.nytimes.com/2020/08/18/realestate/how-to-keep-your-collections-from-looking-like-clutter.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [Breathe Better With These Nine Exercises](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html)
 * [Frank Sinatra Slept Here, and So Can You](https://www.nytimes.com/2020/08/21/realestate/short-term-rentals-sinatra-dylan-steinbeck.html)
 * [The New York Cafe Where Writers Go to Work — and Eat Cake](https://www.nytimes.com/2020/08/21/t-magazine/hungarian-pastry-shop-new-york.html)
 * [From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown](https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html)
@@ -94,10 +94,9 @@ layout: default
 * [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
 * [Pediatric Doctors Group Apologizes for Racist Past Toward Black Physicians](https://www.nytimes.com/2020/08/20/health/pediatrics-medicine-racial-discrimination.html)
 * [Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?](https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html)
-* [Alabama Reopening Universities as Virus Looms](https://www.nytimes.com/2020/08/19/business/alabama-uab-coronavirus-tests.html)
-* [‘Climate Donors’ Flock to Biden to Counter Trump’s Fossil Fuel Money](https://www.nytimes.com/2020/08/18/climate/climate-change-biden.html)
-* [Former Deputy Mayor of Paris Under Investigation in Rape Case](https://www.nytimes.com/2020/08/18/world/europe/Christophe-Girard-rape-Paris-deputy-mayor.html)
-* [Nursing homes with safety problems are deploying lobbyists with Trump ties.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus/nursing-homes-with-safety-problems-are-deploying-lobbyists-with-trump-ties)
+* [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
+* [What to Cook This Weekend](https://www.nytimes.com/2020/08/21/dining/what-to-cook-this-weekend.html)
+* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -105,6 +104,7 @@ layout: default
 
 
 * [Só 3% dos 985 assessores do Planalto são negros](https://epoca.globo.com/guilherme-amado/so-3-dos-985-assessores-do-planalto-sao-negros-24597515)
+* [Ana Paula Araújo lança livro com 100 vítimas de estupro](https://epoca.globo.com/guilherme-amado/ana-paula-araujo-lanca-livro-com-100-vitimas-de-estupro-24597517)
 * [Oposição quer apurar relação de assessor de Bolsonaro com empresários de Bannon](https://epoca.globo.com/guilherme-amado/oposicao-quer-apurar-relacao-de-assessor-de-bolsonaro-com-empresarios-de-bannon-24600748)
 * [Em julho, 73% do desmatamento para garimpo na Amazônia ocorreu em unidades de conservação e terras Indígenas](https://oglobo.globo.com/sociedade/em-julho-73-do-desmatamento-para-garimpo-na-amazonia-ocorreu-em-unidades-de-conservacao-terras-indigenas-24599454)
 * [Vem Pra Rua se alia ao MBL e embola disputa pelo lavajatismo na eleição de SP](https://epoca.globo.com/brasil/vem-pra-rua-se-alia-ao-mbl-embola-disputa-pelo-lavajatismo-na-eleicao-de-sp-24600017)
@@ -113,4 +113,3 @@ layout: default
 * ['Minha primeira experiência com gordofobia foi aos 16 anos', diz ator de série sobre assunto](https://oglobo.globo.com/rio/bairros/minha-primeira-experiencia-com-gordofobia-foi-aos-16-anos-diz-ator-de-serie-sobre-assunto-24596575)
 * [Um chega pra lá na crise: novos negócios abrem em Niterói durante a pandemia](https://oglobo.globo.com/rio/bairros/um-chega-pra-la-na-crise-novos-negocios-abrem-em-niteroi-durante-pandemia-24599730)
 * [Como o setor de transporte rodoviário tenta restaurar rotina de viagens no Brasil](https://epoca.globo.com/sociedade/como-setor-de-transporte-rodoviario-tenta-restaurar-rotina-de-viagens-no-brasil-24591256)
-* [Direitos sexuais e reprodutivos na infância: entenda por que a discussão é necessária](https://oglobo.globo.com/celina/direitos-sexuais-reprodutivos-na-infancia-entenda-por-que-discussao-necessaria-24594508)

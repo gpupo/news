@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 04:17:04 UTC
+# indexed at 23/08/2020 04:34:41 UTC
 
 
 ## news.ycombinator.com
@@ -11,19 +11,19 @@ layout: default
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
-* [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
 * [MGA Entertainment: The privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
+* [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
 * [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
+* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
-* [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
-* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
+* [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
 * [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
 * [Searx instances](https://searx.space/)
@@ -31,13 +31,13 @@ layout: default
 * [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
+* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]](https://www.youtube.com/watch?v=iaSaWfw07Sw)
 * [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
 * [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 * [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
-* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
+* [GPT-3 has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [Congress Votes to Block U.S.P.S. Changes](https://www.nytimes.com/2020/08/22/us/politics/usps-bill-congress-vote.html)
 * [Republicans Rush to Finalize Convention (‘Apprentice’ Producers Are Helping)](https://www.nytimes.com/2020/08/22/us/politics/republican-convention-preview.html)
 * [President’s Sister Describes Trump as Liar With ‘No Principles’ in Recordings](https://www.nytimes.com/2020/08/22/us/politics/maryanne-trump-donald.html)
-* [Live Updates of the California Wildfires](https://www.nytimes.com/2020/08/22/us/california-wildfires.html)
+* [If Storms Hit California, Blazes May Be Tougher to Control](https://www.nytimes.com/2020/08/22/us/california-wildfires.html)
 * [Covid Limits California’s Efforts to Fight Wildfires With Prison Labor](https://www.nytimes.com/2020/08/22/us/california-wildfires-prisoners.html)
 * [Covid-19 Updates: Global Death Toll Surpasses 800,000](https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html)
 * [An ‘Unprecedented’ Effort to Stop the Coronavirus in Nursing Homes](https://www.nytimes.com/2020/08/20/health/coronavirus-nursing-homes.html)
@@ -78,8 +78,8 @@ layout: default
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
@@ -91,7 +91,6 @@ layout: default
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
 * [‘Peninsula’ Review: The First Rule of Zombie Club Is Run!](https://www.nytimes.com/2020/08/20/movies/peninsula-review.html)
 * [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
-* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

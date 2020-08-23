@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 23:14:50 UTC
+# indexed at 23/08/2020 23:35:04 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
 * [New nitrogen products are in the air](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
+* [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
+* [Mark Zuckerberg Stoked Washington’s Fears About TikTok](https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133)
 * [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 * [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
 * [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [All about Woad](http://www.woad.org.uk)
-* [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
 * [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi)
-* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
-* [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
-* [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
+* [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
 * [My Fourier Epicycles](https://www.myfourierepicycles.com/)
 * [Never run ‘python’ in your downloads folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
+* [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
+* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Semi-transparent solar panels allow concurrent production of crops and power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
-* [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
+* [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
 * [Teletext Bad Apple](https://bitshifters.github.io/posts/prods/bs-badapple.html)
 * [How to Leave Work at Work](https://hbr.org/2020/02/how-to-leave-work-at-work)
+* [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
 * [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
-* [Paragon submits 27k NTFS driver to Linux kernel](https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/)
-* [YTS torrent tracker part of new anti-piracy scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
-* [Mark Zuckerberg Stoked Washington’s Fears About TikTok](https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133)
+* [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
 * [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
-* [Bare Metal Rust Generics](https://www.ecorax.net/as-above-so-below-1/)
-* [The Disaster Poet](https://www.laphamsquarterly.org/roundtable/disaster-poet)
+* [YTS torrent tracker part of new anti-piracy scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
+* [Paragon submits 27k-line NTFS driver to Linux kernel](https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/)
 * [Earth has lost 28 trillion tonnes of ice in less than 30 years](https://www.theguardian.com/environment/2020/aug/23/earth-lost-28-trillion-tonnes-ice-30-years-global-warming)
+* [Bare Metal Rust Generics](https://www.ecorax.net/as-above-so-below-1/)
 * [Chromium devs want the browser to talk to devices, computers directly](https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/)
-* [Airbus pilot tries Microsoft Flight Simulator [video]](https://www.youtube.com/watch?v=jchxsSdBRLo)
-* [Congratulations for reaching a million, Gordon Linoff](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
 * [Microsoft Statement in Support of Epic [pdf]](https://cdn.vox-cdn.com/uploads/chorus_asset/file/21810025/statement_support_microsoft.pdf)
+* [The Disaster Poet](https://www.laphamsquarterly.org/roundtable/disaster-poet)
+* [Congratulations for reaching a million, Gordon Linoff](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
 ## nytimes.com
 
@@ -67,9 +67,9 @@ layout: default
 * [Remembering Katrina and Its Unlearned Lessons, 15 Years On](https://www.nytimes.com/2020/08/21/opinion/sunday/coronavirus-hurricane-katrina-anniversary.html)
 * [To Test Spread of Coronavirus, These Scientists Put on a Concert](https://www.nytimes.com/2020/08/23/arts/music/coronavirus-concert-experiment.html)
 * [Review: ‘The Vow’ Follows Nxivm Down Dark, Damaging Paths](https://www.nytimes.com/2020/08/23/arts/television/review-the-vow-nxivm.html)
-* [California Wildfires Could Be Accelerated by Dry Thunderstorms](https://www.nytimes.com/2020/08/23/us/dry-thunderstorms-california-fires.html)
-* [Smashed Windows on Subway Cars Have Cost the M.T.A. $300,000](https://www.nytimes.com/2020/08/23/nyregion/nyc-subway-vandalism.html)
 * [Hurricane Marco and Tropical Storm Laura Form in the Gulf Coast](https://www.nytimes.com/2020/08/23/us/tropical-storm-laura-marco-louisiana.html)
+* [Smashed Windows on Subway Cars Have Cost the M.T.A. $300,000](https://www.nytimes.com/2020/08/23/nyregion/nyc-subway-vandalism.html)
+* [California Wildfires Could Be Accelerated by Dry Thunderstorms](https://www.nytimes.com/2020/08/23/us/dry-thunderstorms-california-fires.html)
 * [Detroit Firefighter Sivad Johnson Dies Trying to Save Girls From Drowning](https://www.nytimes.com/2020/08/23/us/sivad-johnson-detroit-firefighter-dead.html)
 * [Twitter Flags Trump Tweet for Dissuading Voting](https://www.nytimes.com/2020/08/23/technology/twitter-trump-tweet-warning.html)
 * [How Teenage Activists Are Talking to Family About Racial Injustice](https://www.nytimes.com/2020/08/22/us/black-lives-matter-parents.html)
@@ -90,17 +90,16 @@ layout: default
 * [The Dreaded Lanternfly, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [‘Cut Throat City’ Review: Desperate Straits in Post-Katrina New Orleans](https://www.nytimes.com/2020/08/20/movies/cut-throat-city-review.html)
-* [New Zealand and Coronavirus: Election Delayed Due to New Outbreak](https://www.nytimes.com/2020/08/17/world/asia/new-zealand-election-coronavirus.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
+* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
+* [A Glimmer of Hope for Trump? How Bush Mounted a Comeback in 1988](https://www.nytimes.com/2020/08/22/us/politics/george-bush-comeback-dukakis.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [ANJ e OAB criticam ameaça de Bolsonaro a repórter do GLOBO](https://oglobo.globo.com/brasil/anj-oab-criticam-ameaca-de-bolsonaro-reporter-do-globo-1-24602218)
 * [Brasil ultrapassa 114 mil mortos e 3,6 milhões de infectados por Covid-19, aponta consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-114-mil-mortos-36-milhoes-de-infectados-por-covid-19-aponta-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-24602269)
+* [ANJ e OAB criticam ameaça de Bolsonaro a repórter do GLOBO](https://oglobo.globo.com/brasil/anj-oab-criticam-ameaca-de-bolsonaro-reporter-do-globo-1-24602218)
 * [Rio registra terceiro dia de aumento da média móvel de mortes por Covid-19](https://oglobo.globo.com/rio/rio-registra-terceiro-dia-de-aumento-da-media-movel-de-mortes-por-covid-19-24602240)
 * [Senador da oposição vai à OEA por ameaça de Bolsonaro a jornalista](https://epoca.globo.com/guilherme-amado/senador-da-oposicao-vai-oea-por-ameaca-de-bolsonaro-jornalista-24602280)
 * [Na véspera de convenção republicana, Trump anuncia autorização de tratamento para a Covid-19](https://oglobo.globo.com/mundo/na-vespera-de-convencao-republicana-trump-anuncia-autorizacao-de-tratamento-para-covid-19-24602262)

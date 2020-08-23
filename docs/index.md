@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 15:15:21 UTC
+# indexed at 23/08/2020 15:35:01 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Persisting as a Solo Founder](https://vishnu.tech/posts/persistence/)
-* [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi)
+* [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
 * [Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
-* [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
+* [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi)
+* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
 * [Ketamine that's injected during arrests draws new scrutiny](https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed)
+* [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
 * [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
 * [YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
 * [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
+* [Estimating unobserved SARS-CoV-2 infections in the United States](https://www.pnas.org/content/early/2020/08/20/2005476117)
 * [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
 * [Apple takes Prepear logo trademark fight to Canada](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
-* [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
 * [Data from Chernobyl and Fukushima provide answers about the risks of nuclear](https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df)
+* [Office Life at the Pentagon Is Disconcertingly Retrograde](https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/)
 * [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
+* [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
-* [Estimating unobserved SARS-CoV-2 infections in the United States](https://www.pnas.org/content/early/2020/08/20/2005476117)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Never Run ‘Python’ in Your Downloads Folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
-* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
-* [On the problems with automated contact tracing](https://twitter.com/doctorow/status/1296248163653660672)
 * [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
 ## nytimes.com
 
@@ -79,11 +79,11 @@ layout: default
 * [With Delay in Afghan Peace Talks, a Creeping Sense of ‘Siege’ Around Kabul](https://www.nytimes.com/2020/08/23/world/asia/afghanistan-taliban-attacks-kabul.html)
 * [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefi.html)
 * [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)
 * [For Gregory Crewdson, Truth Lurks in the Landscape](https://www.nytimes.com/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
@@ -92,17 +92,17 @@ layout: default
 * [A Detailed Look at the Downside of California’s Ban on Affirmative Action](https://www.nytimes.com/2020/08/21/upshot/00up-affirmative-action-california-study.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
 * [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
+* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Artigo | Angela Nenzy foi mais do que a mulher do sambista Wilson Moreira](https://epoca.globo.com/cultura/artigo-angela-nenzy-foi-mais-do-que-mulher-do-sambista-wilson-moreira-24602029)
 * [Milhares de pessoas voltam às ruas na Bielorrússia para protestar contra Lukashenko](https://oglobo.globo.com/mundo/milhares-de-pessoas-voltam-as-ruas-na-bielorrussia-para-protestar-contra-lukashenko-24601967)
 * [Como um padre de Goiás virou celebridade e movimentou fortuna em negociações suspeitas](https://epoca.globo.com/brasil/como-um-padre-de-goias-virou-celebridade-movimentou-fortuna-em-negociacoes-suspeitas-24602007)
-* [Mesmo com deslocamento de massa de ar polar, temperaturas devem seguir em baixa no país](https://oglobo.globo.com/brasil/mesmo-com-deslocamento-de-massa-de-ar-polar-temperaturas-devem-seguir-em-baixa-no-pais-24601958)
 * [Tony Ramos lembra nu na TV e fala da fama de 'bom moço'](https://oglobo.globo.com/cultura/tony-ramos-lembra-nu-na-tv-fala-da-fama-de-bom-moco-24597176)
 * [Tony Ramos: 'Deve ter gente que me olha e diz: Que cara chato e careta'](https://oglobo.globo.com/cultura/tony-ramos-deve-ter-gente-que-me-olha-diz-que-cara-chato-careta-24594640)
 * [Renda Brasil deve incluir premiação por bom desempenho escolar e esportivo dos alunos](https://oglobo.globo.com/economia/renda-brasil-deve-incluir-premiacao-por-bom-desempenho-escolar-esportivo-dos-alunos-24602003)

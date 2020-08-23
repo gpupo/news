@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 02:34:56 UTC
+# indexed at 23/08/2020 03:15:55 UTC
 
 
 ## news.ycombinator.com
@@ -15,29 +15,29 @@ layout: default
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
 * [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
-* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
+* [MGA Entertainment: The privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
-* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
+* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
 * [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
-* [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
-* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
 * [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
-* [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
-* [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
+* [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
 * [Searx instances](https://searx.space/)
+* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
+* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
+* [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
+* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]](https://www.youtube.com/watch?v=iaSaWfw07Sw)
 * [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
+* [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
 * [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
 * [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 * [Backbone Cabal](https://en.wikipedia.org/wiki/Backbone_cabal)
-* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
 ## nytimes.com
 
 
@@ -75,11 +75,11 @@ layout: default
 * [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
 * [Pipeline Explosion in Corpus Christi Leaves 2 Dead and 2 Missing](https://www.nytimes.com/2020/08/22/us/pipeline-exposion-corpus-christi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
-* [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
-* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
@@ -99,13 +99,13 @@ layout: default
 ## globo.com
 
 
-* [Justiça suspende liminar e prefeitura do Rio poderá reabrir refeitórios das escolas municipais](https://oglobo.globo.com/rio/justica-suspende-liminar-prefeitura-do-rio-podera-reabrir-refeitorios-das-escolas-municipais-24601608)
 * [Após fortes chuvas, Rio retorna ao estágio de mobilização na noite deste sábado](https://oglobo.globo.com/rio/apos-fortes-chuvas-rio-retorna-ao-estagio-de-mobilizacao-na-noite-deste-sabado-24601827)
 * [STF absolve deputado petista que fez parte de 'lista do Janot' na Lava-Jato](https://oglobo.globo.com/brasil/stf-absolve-deputado-petista-que-fez-parte-de-lista-do-janot-na-lava-jato-24601748)
 * [STF determina fim da superlotação em unidades de internação de menores infratores de todo o Brasil](https://oglobo.globo.com/brasil/stf-determina-fim-da-superlotacao-em-unidades-de-internacao-de-menores-infratores-de-todo-brasil-24601733)
 * [Brasil registra 823 novos óbitos por coronavírus; total é de 114.277, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-823-novos-obitos-por-coronavirus-total-de-114277-diz-consorcio-de-veiculos-de-imprensa-1-24601667)
 * [Fluminense bate Athletico e vence a primeira fora de casa no Brasileiro](https://oglobo.globo.com/esportes/fluminense-bate-athletico-vence-primeira-fora-de-casa-no-brasileiro-24601634)
-* [Rio tem menor temperatura máxima registrada em 2020 e agosto é o mais chuvoso dos últimos 24 anos](https://oglobo.globo.com/rio/rio-tem-menor-temperatura-maxima-registrada-em-2020-agosto-o-mais-chuvoso-dos-ultimos-24-anos-24601612)
-* [Jornais americanos criticam Apple por taxa na App Store e querem melhores condições](https://oglobo.globo.com/economia/jornais-americanos-criticam-apple-por-taxa-na-app-store-querem-melhores-condicoes-24601579)
 * [Gabigol x Babigol: clássico entre Flamengo e Botafogo marca duelo de artilheiros com 'gol' até no nome](https://oglobo.globo.com/esportes/gabigol-babigol-classico-entre-flamengo-botafogo-marca-duelo-de-artilheiros-com-gol-ate-no-nome-24598529)
 * [Livro defende que cidadão comum será novo lobista junto ao governo e empresas](https://epoca.globo.com/guilherme-amado/livro-defende-que-cidadao-comum-sera-novo-lobista-junto-ao-governo-empresas-1-24601175)
+* [País empobrecido não pode pagar aumento de gastos do Judiciário](https://oglobo.globo.com/opiniao/pais-empobrecido-nao-pode-pagar-aumento-de-gastos-do-judiciario-24599970)
+* [Passou da hora de mudar o modelo do pré-sal](https://oglobo.globo.com/opiniao/passou-da-hora-de-mudar-modelo-do-pre-sal-24599903)
+* [Rio Gastronomia: momentos marcantes da mesa carioca na última década](https://oglobo.globo.com/rioshow/rio-gastronomia-momentos-marcantes-da-mesa-carioca-na-ultima-decada-24599577)

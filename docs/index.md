@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 03:35:02 UTC
+# indexed at 23/08/2020 04:17:04 UTC
 
 
 ## news.ycombinator.com
@@ -11,18 +11,19 @@ layout: default
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
-* [MGA Entertainment: The privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
+* [MGA Entertainment: The privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
+* [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
-* [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
+* [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
 * [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
-* [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
-* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
+* [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
+* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
 * [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
 * [Searx instances](https://searx.space/)
@@ -31,13 +32,12 @@ layout: default
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
-* [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
-* [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
 * [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
 * [Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]](https://www.youtube.com/watch?v=iaSaWfw07Sw)
-* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
+* [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
 * [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
-* [GPT-3 has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
+* [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
+* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
 ## nytimes.com
 
 
@@ -75,11 +75,11 @@ layout: default
 * [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
 * [Pipeline Explosion in Corpus Christi Leaves 2 Dead and 2 Missing](https://www.nytimes.com/2020/08/22/us/pipeline-exposion-corpus-christi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
@@ -89,23 +89,22 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [1970: Lovesick Japanese Man Hijacks Plane With Toy Gun](https://www.nytimes.com/2020/08/20/world/asia/1970-man-hijacks-plane.html)
-* [Mitch McConnell’s opponent answers his debate challenge with another.](https://www.nytimes.com/2020/08/20/us/elections/mitch-mcconnells-opponent-answers-his-debate-challenge-with-another.html)
-* [Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?](https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html)
-* [How people are spending hints at a halted recovery.](https://www.nytimes.com/live/2020/08/19/business/stock-market-today-coronavirus/how-people-are-spending-hints-at-a-halted-recovery)
+* [‘Peninsula’ Review: The First Rule of Zombie Club Is Run!](https://www.nytimes.com/2020/08/20/movies/peninsula-review.html)
+* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
+* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Em uma série de gravações, irmã de Trump descreve presidente como 'mentiroso' e 'sem princípios'](https://oglobo.globo.com/mundo/em-uma-serie-de-gravacoes-irma-de-trump-descreve-presidente-como-mentiroso-sem-principios-24601869)
 * [Após fortes chuvas, Rio retorna ao estágio de mobilização na noite deste sábado](https://oglobo.globo.com/rio/apos-fortes-chuvas-rio-retorna-ao-estagio-de-mobilizacao-na-noite-deste-sabado-24601827)
 * [STF absolve deputado petista que fez parte de 'lista do Janot' na Lava-Jato](https://oglobo.globo.com/brasil/stf-absolve-deputado-petista-que-fez-parte-de-lista-do-janot-na-lava-jato-24601748)
 * [STF determina fim da superlotação em unidades de internação de menores infratores de todo o Brasil](https://oglobo.globo.com/brasil/stf-determina-fim-da-superlotacao-em-unidades-de-internacao-de-menores-infratores-de-todo-brasil-24601733)
-* [Brasil registra 823 novos óbitos por coronavírus; total é de 114.277, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-823-novos-obitos-por-coronavirus-total-de-114277-diz-consorcio-de-veiculos-de-imprensa-1-24601667)
-* [Fluminense bate Athletico e vence a primeira fora de casa no Brasileiro](https://oglobo.globo.com/esportes/fluminense-bate-athletico-vence-primeira-fora-de-casa-no-brasileiro-24601634)
-* [Gabigol x Babigol: clássico entre Flamengo e Botafogo marca duelo de artilheiros com 'gol' até no nome](https://oglobo.globo.com/esportes/gabigol-babigol-classico-entre-flamengo-botafogo-marca-duelo-de-artilheiros-com-gol-ate-no-nome-24598529)
-* [Livro defende que cidadão comum será novo lobista junto ao governo e empresas](https://epoca.globo.com/guilherme-amado/livro-defende-que-cidadao-comum-sera-novo-lobista-junto-ao-governo-empresas-1-24601175)
+* [A escolha do presidente](https://oglobo.globo.com/opiniao/a-escolha-do-presidente-24600743)
+* [Faltam 72 dias](https://oglobo.globo.com/opiniao/faltam-72-dias-24600693)
 * [País empobrecido não pode pagar aumento de gastos do Judiciário](https://oglobo.globo.com/opiniao/pais-empobrecido-nao-pode-pagar-aumento-de-gastos-do-judiciario-24599970)
 * [Passou da hora de mudar o modelo do pré-sal](https://oglobo.globo.com/opiniao/passou-da-hora-de-mudar-modelo-do-pre-sal-24599903)
 * [Rio Gastronomia: momentos marcantes da mesa carioca na última década](https://oglobo.globo.com/rioshow/rio-gastronomia-momentos-marcantes-da-mesa-carioca-na-ultima-decada-24599577)
+* [Quem é o inimigo?](https://oglobo.globo.com/opiniao/quem-o-inimigo-24598843)

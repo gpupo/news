@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 16:16:32 UTC
+# indexed at 23/08/2020 16:35:09 UTC
 
 
 ## news.ycombinator.com
@@ -13,15 +13,15 @@ layout: default
 * [Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
 * [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi)
 * [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
+* [Launch HN: Depict.ai (YC S20) - Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Ketamine that's injected during arrests draws new scrutiny](https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed)
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
-* [Launch HN: Depict.ai (YC S20) - Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
 * [Estimating unobserved SARS-CoV-2 infections in the United States](https://www.pnas.org/content/early/2020/08/20/2005476117)
-* [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
 * [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
-* [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
+* [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
 * [YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
+* [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
 * [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
@@ -32,12 +32,12 @@ layout: default
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
-* [Office Life at the Pentagon Is Disconcertingly Retrograde](https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/)
 * [Never Run ‘Python’ in Your Downloads Folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
-* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Facebook is pressuring its independent fact-checkers to change their rulings](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
+* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
+* [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [At the R.N.C, Trump Will Take Center Stage](https://www.nytimes.com/live/2020/08/23/us/trump-vs-biden)
 * [Alex Morse Was Accused, Condemned and Then Vindicated. Will His Experience Change Anything?](https://www.nytimes.com/2020/08/23/us/politics/alex-morse-massachusetts.html)
 * [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
-* [Covid-19 Updates: Latest News and Analysis](https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html)
+* [Covid-19 Updates: White House Claims F.D.A. Is Foot-Dragging](https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html)
 * [How U.S. Policy Turned the Sonoran Desert Into a Graveyard for Migrants](https://www.nytimes.com/2020/08/18/magazine/border-crossing.html)
 * [Threatened by Facebook Disinformation, a Monk Flees Cambodia](https://www.nytimes.com/2020/08/23/world/asia/cambodia-facebook-disinformation.html)
 * [Working From Home: A Survey of Our New Out of Office Lives](https://www.nytimes.com/2020/08/20/style/working-from-home.html)
@@ -70,9 +70,9 @@ layout: default
 * [Neymar Finally Grows Up](https://www.nytimes.com/2020/08/23/sports/soccer/neymar-psg-.html)
 * [The South’s Fight for White Supremacy](https://www.nytimes.com/2020/08/23/books/review/lost-cause-meacham.html)
 * [Dry Thunderstorms Could Accelerate the California Wildfires](https://www.nytimes.com/2020/08/23/us/dry-thunderstorms-california-fires.html)
+* [‘We Just Want Him to Leave’: Protests Persist Against Belarus’s Leader](https://www.nytimes.com/2020/08/23/world/europe/belarus-aleksandr-lukashenko-protests.html)
 * [Virgin Islands Will Subpoena Billionaire Investor in Epstein Case](https://www.nytimes.com/2020/08/23/business/jeffrey-epstein-leon-black-virgin-islands.html)
-* [Texas Republicans Say New Slogan Was Inspired by Poem, Not QAnon](https://www.nytimes.com/2020/08/22/us/politics/qanon-gop-we-are-the-storm.html)
-* [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
+* [Christchurch Massacre Sentencing: What to Expect](https://www.nytimes.com/2020/08/23/world/australia/christchurch-tarrant-sentencing-explained.html)
 * [Electric Vehicle Makers Find a Back Door to Wall Street](https://www.nytimes.com/2020/08/23/business/electric-cars-spac-wall-street.html)
 * [Swift Storm Left Iowa in Tatters](https://www.nytimes.com/2020/08/22/us/iowa-derecho-storm.html)
 * [With Delay in Afghan Peace Talks, a Creeping Sense of ‘Siege’ Around Kabul](https://www.nytimes.com/2020/08/23/world/asia/afghanistan-taliban-attacks-kabul.html)
@@ -80,9 +80,9 @@ layout: default
 * [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)
 * [For Gregory Crewdson, Truth Lurks in the Landscape](https://www.nytimes.com/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
@@ -91,23 +91,21 @@ layout: default
 * [A Detailed Look at the Downside of California’s Ban on Affirmative Action](https://www.nytimes.com/2020/08/21/upshot/00up-affirmative-action-california-study.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [Poor Planning Left California Short of Electricity in a Heat Wave](https://www.nytimes.com/2020/08/20/business/energy-environment/california-blackout-electric-grid.html)
-* [At D.N.C., Billie Eilish’s ‘Future’ Meets Jennifer Hudson’s ‘Classic’](https://www.nytimes.com/2020/08/20/arts/music/billie-eilish-jennifer-hudson-dnc.html)
-* [Joe Biden Finally Got the Timing Right](https://www.nytimes.com/2020/08/20/us/politics/joe-biden-2020.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
+* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
+* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Luma de Oliveira elege seus dois momentos mais icônicos na Sapucaí](https://oglobo.globo.com/ela/gente/luma-de-oliveira-elege-seus-dois-momentos-mais-iconicos-na-sapucai-24602049)
-* [Giovanna Ewbank posta fotos amamentando o filho: 'Meu coração'](https://oglobo.globo.com/ela/gente/giovanna-ewbank-posta-fotos-amamentando-filho-meu-coracao-24602034)
-* [Coluna | Os bastidores do fenômeno da Axé Music](https://epoca.globo.com/lucas-prata/coluna-os-bastidores-do-fenomeno-da-axe-music-24602035)
-* [Artigo | Angela Nenzy foi mais do que a mulher do sambista Wilson Moreira](https://epoca.globo.com/cultura/artigo-angela-nenzy-foi-mais-do-que-mulher-do-sambista-wilson-moreira-24602029)
 * [Milhares de pessoas voltam às ruas na Bielorrússia para protestar contra Lukashenko](https://oglobo.globo.com/mundo/milhares-de-pessoas-voltam-as-ruas-na-bielorrussia-para-protestar-contra-lukashenko-24601967)
+* [Giovanna Ewbank posta fotos amamentando o filho: 'Meu coração'](https://oglobo.globo.com/ela/gente/giovanna-ewbank-posta-fotos-amamentando-filho-meu-coracao-24602034)
+* [Flamengo e Botafogo marcam no fim e empatam clássico no Maracanã](https://oglobo.globo.com/esportes/flamengo-botafogo-marcam-no-fim-empatam-classico-no-maracana-24602020)
+* [Luma de Oliveira elege seus dois momentos mais icônicos na Sapucaí](https://oglobo.globo.com/ela/gente/luma-de-oliveira-elege-seus-dois-momentos-mais-iconicos-na-sapucai-24602049)
+* [Coluna | Os bastidores do fenômeno do Axé Music](https://epoca.globo.com/lucas-prata/coluna-os-bastidores-do-fenomeno-do-axe-music-24602035)
+* [Artigo | Angela Nenzy foi mais do que a mulher do sambista Wilson Moreira](https://epoca.globo.com/cultura/artigo-angela-nenzy-foi-mais-do-que-mulher-do-sambista-wilson-moreira-24602029)
 * [Como um padre de Goiás virou celebridade e movimentou fortuna em negociações suspeitas](https://epoca.globo.com/brasil/como-um-padre-de-goias-virou-celebridade-movimentou-fortuna-em-negociacoes-suspeitas-24602007)
 * [Renda Brasil deve incluir premiação por bom desempenho escolar e esportivo dos alunos](https://oglobo.globo.com/economia/renda-brasil-deve-incluir-premiacao-por-bom-desempenho-escolar-esportivo-dos-alunos-24602003)
 * [BRT é alvo de vandalismo: cabos de eletricidade e equipamentos são furtados](https://oglobo.globo.com/rio/brt-alvo-de-vandalismo-cabos-de-eletricidade-equipamentos-sao-furtados-24601988)
 * [Reportagem conta história de mulher que teve filho gerado após estupro quando era criança](https://oglobo.globo.com/meu-oglobo/reportagem-conta-historia-de-mulher-que-teve-filho-gerado-apos-estupro-quando-era-crianca-24601962)
-* [O conselho de Eduardo Coutinho aos novos documentaristas](https://epoca.globo.com/guilherme-amado/o-conselho-de-eduardo-coutinho-aos-novos-documentaristas-1-24601033)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 12:20:35 UTC
+# indexed at 23/08/2020 12:34:44 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
+* [Ketamine that's injected during arrests draws new scrutiny](https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
-* [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
+* [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
-* [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
+* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
+* [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
 * [Apple takes Prepear logo trademark fight to Canada](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
+* [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
-* [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [On the problems with automated contact tracing](https://twitter.com/doctorow/status/1296248163653660672)
+* [Data from Chernobyl and Fukushima provide answers about the risks of nuclear](https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Searx instances](https://searx.space/)
+* [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
 * [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 * [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
-* [Scalable Bitmaps (2013)](https://ericportis.com/posts/2013/scalables/)
-* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
-* [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
-* [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
-* [Telegram messaging app proves crucial to Belarus protests](https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests)
+* [PocketSuite is hiring (engineering, product, customer success, marketing)](https://angel.co/company/pocketsuite)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Covid Limits California’s Efforts to Fight Wildfires With Prison Labor](https://www.nytimes.com/2020/08/22/us/california-wildfires-prisoners.html)
 * [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)
 * [For Gregory Crewdson, Truth Lurks in the Landscape](https://www.nytimes.com/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
@@ -91,23 +91,22 @@ layout: default
 * [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [The Republican embrace of QAnon goes far beyond Trump.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/the-republican-embrace-of-qanon-goes-far-beyond-trump)
-* [Watch Four Moments That Mattered on the First Night of the D.N.C.](https://www.nytimes.com/2020/08/18/us/politics/DNC-recap-night-1.html)
-* [At Theaters, Push for Racial Equity Leads to Resignations and Restructuring](https://www.nytimes.com/2020/08/19/theater/racial-equity-theater-resignations.html)
+* [Novak Djokovic on Coronavirus, Vaccines and His Ill-Fated Adria Tour](https://www.nytimes.com/2020/08/20/sports/tennis/djokovic-us-open.html)
+* [Four Home Runs in a Row? It’s Not as Rare as It Once Was](https://www.nytimes.com/2020/08/17/sports/baseball/white-sox-four-home-runs-in-a-row.html)
+* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [TikTok decide entrar na Justiça contra governo Trump, que proibiu negócios com aplicativo](https://oglobo.globo.com/economia/tiktok-decide-entrar-na-justica-contra-governo-trump-que-proibiu-negocios-com-aplicativo-24601931)
+* [Tumulto em boate clandestina provoca ao menos 13 mortes no Peru, após ação da polícia](https://oglobo.globo.com/mundo/tumulto-em-boate-clandestina-provoca-ao-menos-13-mortes-no-peru-apos-acao-da-policia-24601928)
 * [Rio Gastronomia: momentos marcantes da mesa carioca na última década](https://oglobo.globo.com/rioshow/rio-gastronomia-momentos-marcantes-da-mesa-carioca-na-ultima-decada-24599577)
 * [‘A cidade entrou em colapso total’, lembra fotógrafo que cobriu furacão Katrina, há 15 anos](https://oglobo.globo.com/mundo/a-cidade-entrou-em-colapso-total-lembra-fotografo-que-cobriu-furacao-katrina-ha-15-anos-24599957)
 * [Investigado por corrupção, padre celebridade movimentou R$ 1,7 bilhão após início da construção de basílica em Goiás](https://epoca.globo.com/brasil/investigado-por-corrupcao-padre-celebridade-movimentou-17-bilhao-apos-inicio-da-construcao-de-basilica-em-goias-24601910)
-* [Computadores do gabinete do ódio não foram formatados e podem conter provas](https://epoca.globo.com/guilherme-amado/computadores-do-gabinete-do-odio-nao-foram-formatados-podem-conter-provas-24601166)
 * [Senador bolsonarista diz estar sendo seduzido por artistas para concorrer à Presidência do Senado](https://epoca.globo.com/guilherme-amado/senador-bolsonarista-diz-estar-sendo-seduzido-por-artistas-para-concorrer-presidencia-do-senado-1-24601066)
 * [Queimadas no Pantanal ameaçam maior refúgio de araras-azuis do mundo](https://epoca.globo.com/brasil/queimadas-no-pantanal-ameacam-maior-refugio-de-araras-azuis-do-mundo-24600048)
-* [Chefs vão ensinar on-line a preparar menus harmonizados; inscrições terminam hoje](https://oglobo.globo.com/rio/bairros/chefs-vao-ensinar-on-line-preparar-menus-harmonizados-inscricoes-terminam-hoje-1-24599779)
 * [A família niteroiense de Euclides da Cunha](https://oglobo.globo.com/rio/a-familia-niteroiense-de-euclides-da-cunha-1-24599664)
 * [Casos de roubos têm alta em Niterói após flexibilização do isolamento social](https://oglobo.globo.com/rio/bairros/casos-de-roubos-tem-alta-em-niteroi-apos-flexibilizacao-do-isolamento-social-24599376)
 * [Coluna | Como vamos enfrentar o fundamentalismo religioso que abastece a política e violenta mulheres no Brasil?](https://epoca.globo.com/giulliana-bianconi--coluna/coluna-como-vamos-enfrentar-fundamentalismo-religioso-que-abastece-politica-violenta-mulheres-no-brasil-24599201)

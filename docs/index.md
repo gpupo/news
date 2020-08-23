@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 10:16:09 UTC
+# indexed at 23/08/2020 10:35:01 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
-* [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
+* [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
+* [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
 * [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
-* [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
+* [Cory Doctorow on “Contact Tracing”](https://threadreaderapp.com/thread/1296248163653660672.html)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
 * [Apple takes Prepear logo trademark fight to Canada](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
-* [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
+* [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
-* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
+* [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
-* [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
+* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
-* [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
+* [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
 * [Searx instances](https://searx.space/)
-* [PocketSuite is hiring (engineering, product, customer success, marketing)](https://angel.co/company/pocketsuite)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
-* [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
+* [PocketSuite is hiring (engineering, product, customer success, marketing)](https://angel.co/company/pocketsuite)
 * [Scalable Bitmaps (2013)](https://ericportis.com/posts/2013/scalables/)
+* [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
+* [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
-* [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
-* [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 ## nytimes.com
 
 
@@ -76,10 +76,10 @@ layout: default
 * [Covid Limits California’s Efforts to Fight Wildfires With Prison Labor](https://www.nytimes.com/2020/08/22/us/california-wildfires-prisoners.html)
 * [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)

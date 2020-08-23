@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 19:15:36 UTC
+# indexed at 23/08/2020 19:35:43 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Bare Metal Rust Generics](https://www.ecorax.net/as-above-so-below-1/)
+* [Realtime California Air Quality](https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928)
 * [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
 * [Build Your Own FPGA](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 * [Gordon Linoff reached a million points on StackOverflow](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
 * [Semi-transparent solar panels allow concurrent production of crops and power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
-* [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
 * [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
+* [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
 * [Solar Panels Are Starting to Die, Leaving Behind Toxic Trash](https://www.wired.com/story/solar-panels-are-starting-to-die-leaving-behind-toxic-trash/#intcid=_wired-homepage-right-rail_4d17aa85-7a00-4b58-9d0b-817df0d99ef5_popular4-1)
 * [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi)
 * [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
-* [Realtime California Air Quality](https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928)
 * [Paragon submits 27k NTFS driver to Linux kernel](https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/)
 * [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
 * [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [My Fourier Epicycles](https://www.myfourierepicycles.com/)
 * [How to Leave Work at Work](https://hbr.org/2020/02/how-to-leave-work-at-work)
-* [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
 * [How to delete all your files](https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/)
-* [US Border Patrol says they can create central repository of traveler emails](https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/)
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
-* [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
+* [US Border Patrol says they can create central repository of traveler emails](https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/)
 * [Writing a simple Python to C compiler: hello, fibonacci](https://notes.eatonphil.com/writing-a-simple-python-compiler.html)
-* [Belgian experts 'shocked' as AstraZeneca seeks liability waiver for vaccine](https://www.brusselstimes.com/belgium/127905/coronavirus-belgian-experts-shocked-as-astrazeneca-seeks-liability-waiver-for-vaccine/)
+* [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
+* [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
 * [Chromium devs want the browser to talk to devices, computers directly](https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/)
-* [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
-* [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
 * [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
+* [Belgian experts 'shocked' as AstraZeneca seeks liability waiver for vaccine](https://www.brusselstimes.com/belgium/127905/coronavirus-belgian-experts-shocked-as-astrazeneca-seeks-liability-waiver-for-vaccine/)
+* [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
 * [Estimating unobserved SARS-CoV-2 infections in the United States](https://www.pnas.org/content/early/2020/08/20/2005476117)
 * [Data from Chernobyl and Fukushima provide answers about the risks of nuclear](https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df)
+* [Apple’s Best Times Are Behind It. For Real This Time](https://mondaynote.com/apples-best-times-are-behind-it-for-real-this-time-90e8c46f3aed)
 ## nytimes.com
 
 
@@ -47,7 +47,7 @@ layout: default
 * [At the R.N.C, Trump Will Take Center Stage](https://www.nytimes.com/live/2020/08/23/us/trump-vs-biden)
 * [Alex Morse Was Accused, Condemned and Then Vindicated. Will His Experience Change Anything?](https://www.nytimes.com/2020/08/23/us/politics/alex-morse-massachusetts.html)
 * [Doctors Enter College Football’s Politics, but Maybe Just for Show](https://www.nytimes.com/2020/08/23/sports/ncaafootball/college-football-myocarditis-coronavirus.html)
-* [Covid-19 Updates: White House Claims F.D.A. Is Foot-Dragging](https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html)
+* [Covid-19 Updates: White House Claims A 'Therapeutic Breakthrough' Is Coming](https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html)
 * [In Portland, a Prosecutor Must Decide: Should Rioters Go to Jail?](https://www.nytimes.com/2020/08/23/us/portland-protests-prosecute.html)
 * [Working From Home: A Survey of Our New Out of Office Lives](https://www.nytimes.com/2020/08/20/style/working-from-home.html)
 * [California Fires, Republicans, Pasta Sauce: Your Weekend Briefing](https://www.nytimes.com/2020/08/23/briefing/california-fires-republicans-pasta-sauce-your-weekend-briefing.html)
@@ -91,23 +91,22 @@ layout: default
 * [The Dreaded Lanternfly, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
+* [Trump campaign plans post-convention event in New Hampshire.](https://www.nytimes.com/live/2020/08/23/us/trump-vs-biden/trump-campaign-plans-post-convention-event-in-new-hampshire)
+* [In This Dinner Series, Chinese Food Is at Home Worldwide](https://www.nytimes.com/2020/08/18/dining/chinese-food-lucas-sin-junzi-kitchen.html)
 * [It’s Convention Time: 2-Minute Speeches, No Pomp, a Forlorn Milwaukee](https://www.nytimes.com/2020/08/16/us/politics/democrats-convention-milwaukee-biden.html)
-* [In Berlin, a Loft That Is Part Gallery and Part Roller Rink](https://www.nytimes.com/2020/08/19/t-magazine/berlin-infamous-skating-couple-design.html)
-* [California Endures Fires, Blackouts, a Heat Wave and a Pandemic](https://www.nytimes.com/2020/08/19/us/california-heatwave-blackouts-wildfires.html)
-* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Grupo de alunos do ITA testa positivo para a Covid-19 ao retomar aulas presenciais](https://oglobo.globo.com/sociedade/grupo-de-alunos-do-ita-testa-positivo-para-covid-19-ao-retomar-aulas-presenciais-24602134)
+* [Microsoft diz que ação da Apple contra criadora do Fortnite prejudica seus jogos](https://oglobo.globo.com/economia/microsoft-diz-que-acao-da-apple-contra-criadora-do-fortnite-prejudica-seus-jogos-24602160)
 * [Perguntado sobre cheques de Queiroz a Michelle, Bolsonaro diz ter vontade de dar 'porrada' em repórter do GLOBO](https://oglobo.globo.com/brasil/perguntado-sobre-cheques-de-queiroz-michelle-bolsonaro-diz-ter-vontade-de-dar-porrada-em-reporter-do-globo-1-24602161)
 * [Mansur: os achados do Botafogo e o 'marco zero' do Flamengo](https://oglobo.globo.com/esportes/mansur-os-achados-do-botafogo-o-marco-zero-do-flamengo-24602146)
-* [Grupo de alunos do ITA testa positivo para a Covid-19 ao retornar aulas presenciais](https://oglobo.globo.com/sociedade/grupo-de-alunos-do-ita-testa-positivo-para-covid-19-ao-retornar-aulas-presenciais-24602134)
 * [Megan Fox conta que rodou filme infectada por parasita](https://oglobo.globo.com/cultura/megan-fox-conta-que-rodou-filme-infectada-por-parasita-24602112)
 * [Uso do VAR em pênalti para o Flamengo irrita Pedro Raul e Autuori: 'Sempre os mesmos favorecidos'](https://oglobo.globo.com/esportes/uso-do-var-em-penalti-para-flamengo-irrita-pedro-raul-autuori-sempre-os-mesmos-favorecidos-24602133)
 * [Dome lamenta falta de pontaria do Flamengo em clássico; Rodrigo Caio preocupa e será reavaliado](https://oglobo.globo.com/esportes/dome-lamenta-falta-de-pontaria-do-flamengo-em-classico-rodrigo-caio-preocupa-sera-reavaliado-24602132)
 * [Fluminense freta avião e vive clima de 'jogo do ano' na terceira fase da Copa do Brasil](https://oglobo.globo.com/esportes/fluminense-freta-aviao-vive-clima-de-jogo-do-ano-na-terceira-fase-da-copa-do-brasil-24602128)
 * [Quase um quarto dos 18 milhões dispensados temporariamente nos EUA não deve voltar ao trabalho, diz Goldman Sachs](https://oglobo.globo.com/economia/quase-um-quarto-dos-18-milhoes-dispensados-temporariamente-nos-eua-nao-deve-voltar-ao-trabalho-diz-goldman-sachs-24602096)
 * [Mulher baleada no pescoço continua em estado muito grave, diz secretaria de saúde](https://oglobo.globo.com/rio/mulher-baleada-no-pescoco-continua-em-estado-muito-grave-diz-secretaria-de-saude-24602097)
-* [Flamengo e Botafogo marcam no fim e empatam clássico no Maracanã](https://oglobo.globo.com/esportes/flamengo-botafogo-marcam-no-fim-empatam-classico-no-maracana-24602020)

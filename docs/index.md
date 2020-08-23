@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 01:16:12 UTC
+# indexed at 23/08/2020 01:35:48 UTC
 
 
 ## news.ycombinator.com
@@ -17,26 +17,26 @@ layout: default
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
-* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
+* [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
-* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
-* [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
-* [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
+* [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
-* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
+* [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
+* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Today is Earth Overshoot Day – (08/22)](https://www.overshootday.org/newsroom/past-earth-overshoot-days/)
 * [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [Backbone Cabal](https://en.wikipedia.org/wiki/Backbone_cabal)
+* [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
+* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
+* [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
 * [Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]](https://www.youtube.com/watch?v=iaSaWfw07Sw)
 * [Searx instances](https://searx.space/)
 * [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
-* [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
 * [GPT-3 has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
 ## nytimes.com
 
@@ -75,11 +75,11 @@ layout: default
 * [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
 * [Pipeline Explosion in Corpus Christi Leaves 2 Dead and 2 Missing](https://www.nytimes.com/2020/08/22/us/pipeline-exposion-corpus-christi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [Why We Reach for Nostalgia in Times of Crisis](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-nostalgia.html)
+* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [4 Simple Ways to Take Control of Your Coronavirus Budget](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+* [How to Start a New Job During a Pandemic](https://www.nytimes.com/2020/08/17/smarter-living/coronavirus-new-job.html)
+* [Sneak In Some Exercise](https://www.nytimes.com/2020/08/15/at-home/coronavirus-at-home-quick-exercises.html)
 * [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
@@ -90,20 +90,19 @@ layout: default
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
 * [President Trump’s younger brother died Saturday night.](https://www.nytimes.com/2020/08/16/us/elections/president-trumps-younger-brother-died-saturday-night.html)
-* [Ex-F.B.I. Lawyer Pleads Guilty to Doctoring Email in Russia Inquiry](https://www.nytimes.com/2020/08/19/us/politics/kevin-clinesmith-guilty.html)
-* [Gretchen Whitmer says Biden and Harris will ‘lead by example.’](https://www.nytimes.com/live/2020/08/17/us/dnc-convention/gretchen-whitmer-says-biden-and-harris-will-lead-by-example)
-* [Mitch McConnell’s opponent answers his debate challenge with another.](https://www.nytimes.com/2020/08/20/us/elections/mitch-mcconnells-opponent-answers-his-debate-challenge-with-another.html)
+* [‘The buck never stops there,’ Bill Clinton said of Trump’s White House.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/the-buck-never-stops-there-bill-clinton-said-of-trumps-white-house)
+* [Trump Administration Finalizes Plan to Open Oil Drilling in Alaska's Arctic Refuge](https://www.nytimes.com/2020/08/17/climate/alaska-oil-drilling-anwr.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Após fortes chuvas, Rio retorna ao estágio de Movilização na noite deste sábado](https://oglobo.globo.com/rio/apos-fortes-chuvas-rio-retorna-ao-estagio-de-movilizacao-na-noite-deste-sabado-24601827)
+* [Justiça suspende liminar e prefeitura do Rio poderá reabrir refeitórios das escolas municipais](https://oglobo.globo.com/rio/justica-suspende-liminar-prefeitura-do-rio-podera-reabrir-refeitorios-das-escolas-municipais-24601608)
+* [Após fortes chuvas, Rio retorna ao estágio de mobilização na noite deste sábado](https://oglobo.globo.com/rio/apos-fortes-chuvas-rio-retorna-ao-estagio-de-mobilizacao-na-noite-deste-sabado-24601827)
 * [STF absolve deputado petista que fez parte de 'lista do Janot' na Lava-Jato](https://oglobo.globo.com/brasil/stf-absolve-deputado-petista-que-fez-parte-de-lista-do-janot-na-lava-jato-24601748)
 * [STF determina fim da superlotação em unidades de internação de menores infratores de todo o Brasil](https://oglobo.globo.com/brasil/stf-determina-fim-da-superlotacao-em-unidades-de-internacao-de-menores-infratores-de-todo-brasil-24601733)
 * [Brasil registra 823 novos óbitos por coronavírus; total é de 114.277, diz consórcio de veículos de imprensa](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-823-novos-obitos-por-coronavirus-total-de-114277-diz-consorcio-de-veiculos-de-imprensa-1-24601667)
-* [Justiça suspende liminar e Prefeitura do Rio poderá reabrir refeitórios das escolas municipais](https://oglobo.globo.com/rio/justica-suspende-liminar-prefeitura-do-rio-podera-reabrir-refeitorios-das-escolas-municipais-24601608)
 * [Fluminense bate Athletico e vence a primeira fora de casa no Brasileiro](https://oglobo.globo.com/esportes/fluminense-bate-athletico-vence-primeira-fora-de-casa-no-brasileiro-24601634)
 * [Rio tem menor temperatura máxima registrada em 2020 e agosto é o mais chuvoso dos últimos 24 anos](https://oglobo.globo.com/rio/rio-tem-menor-temperatura-maxima-registrada-em-2020-agosto-o-mais-chuvoso-dos-ultimos-24-anos-24601612)
 * [Jornais americanos criticam Apple por taxa na App Store e querem melhores condições](https://oglobo.globo.com/economia/jornais-americanos-criticam-apple-por-taxa-na-app-store-querem-melhores-condicoes-24601579)

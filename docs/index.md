@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 08:17:14 UTC
+# indexed at 23/08/2020 08:34:52 UTC
 
 
 ## news.ycombinator.com
@@ -13,30 +13,30 @@ layout: default
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
 * [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
-* [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
-* [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
-* [PocketSuite is hiring (engineering, product, customer success, marketing)](https://angel.co/company/pocketsuite)
-* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
+* [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
+* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
+* [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
+* [PocketSuite is hiring (engineering, product, customer success, marketing)](https://angel.co/company/pocketsuite)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
+* [Apple at War with All Fruit](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
 * [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
 * [Scalable Bitmaps (2013)](https://ericportis.com/posts/2013/scalables/)
 * [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
-* [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Searx instances](https://searx.space/)
-* [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Zero G: Some German mobile users still waiting for a signal](https://apnews.com/1a29c754044d8f2a593911368e86d028)
-* [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
+* [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
+* [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
-* [California’s Wildfire Policy Backfired (2019)](https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/)
 * [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
-* [Apple at War with All Fruit](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
+* [Ask HN: How do you handle your team getting exhausted with unwanted meetings?](https://news.ycombinator.com/item?id=24250075)
+* [California’s Wildfire Policy Backfired (2019)](https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 ## nytimes.com
 
@@ -74,11 +74,11 @@ layout: default
 * [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
 * [Pipeline Explosion in Corpus Christi Leaves 2 Dead and 2 Missing](https://www.nytimes.com/2020/08/22/us/pipeline-exposion-corpus-christi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
@@ -88,15 +88,15 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [‘They would just sit and joke’: Cindy McCain recounted her husband’s friendship with Biden in a video.](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/they-would-just-sit-and-joke-cindy-mccain-recounted-her-husbands-friendship-with-biden-in-a-video)
-* [Sally Yates said Trump had ‘trampled the rule of law.’](https://www.nytimes.com/live/2020/08/18/us/dnc-convention-election/sally-yates-said-trump-had-trampled-the-rule-of-law)
-* [Mitch McConnell’s opponent answers his debate challenge with another.](https://www.nytimes.com/2020/08/20/us/elections/mitch-mcconnells-opponent-answers-his-debate-challenge-with-another.html)
+* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
+* [‘Peninsula’ Review: The First Rule of Zombie Club Is Run!](https://www.nytimes.com/2020/08/20/movies/peninsula-review.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Por que PSG e Bayern, em Lisboa, é a final de Champions mais equilibrada e peculiar dos últimos anos](https://oglobo.globo.com/esportes/por-que-psg-bayern-em-lisboa-a-final-de-champions-mais-equilibrada-peculiar-dos-ultimos-anos-24601880)
 * [Divisão sobre uso das vaias, 'timing' de cada música e vetos da CBF: Por trás do trabalho de reproduzir o som das torcidas](https://oglobo.globo.com/esportes/divisao-sobre-uso-das-vaias-timing-de-cada-musica-vetos-da-cbf-por-tras-do-trabalho-de-reproduzir-som-das-torcidas-24601864)
 * [Queiroz, Márcia e familiares de miliciano receberam mais de R$ 440 mil em auxílio-alimentação da Alerj](https://oglobo.globo.com/brasil/queiroz-marcia-familiares-de-miliciano-receberam-mais-de-440-mil-em-auxilio-alimentacao-da-alerj-1-24601722)
 * [Aproximação de Bolsonaro com centrão esvazia Ramos](https://oglobo.globo.com/brasil/aproximacao-de-bolsonaro-com-centrao-esvazia-ramos-1-24601701)
@@ -104,6 +104,5 @@ layout: default
 * [Neymar x Lewandowski: final da Champions é prévia da eleição de melhor do mundo; compare os números](https://oglobo.globo.com/esportes/neymar-lewandowski-final-da-champions-previa-da-eleicao-de-melhor-do-mundo-compare-os-numeros-24601732)
 * [Milícia da Praça Seca usa drone na guerra contra traficantes por território](https://oglobo.globo.com/rio/milicia-da-praca-seca-usa-drone-na-guerra-contra-traficantes-por-territorio-24601695)
 * [Marcelo Barreto: vitórias do Vasco no Brasileiro trazem o clube de volta ao presente](https://oglobo.globo.com/esportes/marcelo-barreto-vitorias-do-vasco-no-brasileiro-trazem-clube-de-volta-ao-presente-24601668)
-* [Pandemia do coronavírus torna crianças mais expostas a violência](https://oglobo.globo.com/sociedade/pandemia-do-coronavirus-torna-criancas-mais-expostas-violencia-1-24600606)
 * [Conheça Nina da Hora, nome quente na luta pela equidade de gênero e raça na tecnologia](https://oglobo.globo.com/ela/conheca-nina-da-hora-nome-quente-na-luta-pela-equidade-de-genero-raca-na-tecnologia-24599687)
 * [Paula Toller faz aniversário neste domingo e fala sobre beleza aos 58 anos](https://oglobo.globo.com/ela/gente/paula-toller-faz-aniversario-neste-domingo-fala-sobre-beleza-aos-58-anos-24599119)

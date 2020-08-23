@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 11:14:40 UTC
+# indexed at 23/08/2020 11:35:09 UTC
 
 
 ## news.ycombinator.com
@@ -13,10 +13,10 @@ layout: default
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
-* [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
-* [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
 * [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
+* [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
+* [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [Cory Doctorow on “Contact Tracing”](https://threadreaderapp.com/thread/1296248163653660672.html)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
@@ -27,15 +27,15 @@ layout: default
 * [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
-* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
+* [Searx instances](https://searx.space/)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
-* [Searx instances](https://searx.space/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
 * [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
+* [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
+* [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 * [PocketSuite is hiring (engineering, product, customer success, marketing)](https://angel.co/company/pocketsuite)
 * [Scalable Bitmaps (2013)](https://ericportis.com/posts/2013/scalables/)
-* [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
 * [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
 ## nytimes.com
@@ -91,18 +91,19 @@ layout: default
 * [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
-* [A Glimmer of Hope for Trump? How Bush Mounted a Comeback in 1988](https://www.nytimes.com/2020/08/22/us/politics/george-bush-comeback-dukakis.html)
-* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
+* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
+* [In N.Y.C., Pressure to Delay In-Person Schooling](https://www.nytimes.com/2020/08/19/nyregion/nyc-schools-coronavirus.html)
+* [The Democrats gave Biden the nomination he has sought since 1988.](https://www.nytimes.com/2020/08/19/us/elections/the-democrats-gave-biden-the-nomination-he-has-sought-since-1988.html)
+* [The Republican embrace of QAnon goes far beyond Trump.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/the-republican-embrace-of-qanon-goes-far-beyond-trump)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Rio Gastronomia: momentos marcantes da mesa carioca na última década](https://oglobo.globo.com/rioshow/rio-gastronomia-momentos-marcantes-da-mesa-carioca-na-ultima-decada-24599577)
 * [‘A cidade entrou em colapso total’, lembra fotógrafo que cobriu furacão Katrina, há 15 anos](https://oglobo.globo.com/mundo/a-cidade-entrou-em-colapso-total-lembra-fotografo-que-cobriu-furacao-katrina-ha-15-anos-24599957)
 * [Investigado por corrupção, padre celebridade movimentou R$ 1,7 bilhão após início da construção de basílica em Goiás](https://epoca.globo.com/brasil/investigado-por-corrupcao-padre-celebridade-movimentou-17-bilhao-apos-inicio-da-construcao-de-basilica-em-goias-24601910)
-* [Oposição quer que Ricardo Salles explique baixo investimento no Meio Ambiente: ‘Tragédia’](https://epoca.globo.com/guilherme-amado/oposicao-quer-que-ricardo-salles-explique-baixo-investimento-no-meio-ambiente-tragedia-24601850)
 * [Computadores do gabinete do ódio não foram formatados e podem conter provas](https://epoca.globo.com/guilherme-amado/computadores-do-gabinete-do-odio-nao-foram-formatados-podem-conter-provas-24601166)
 * [Senador bolsonarista diz estar sendo seduzido por artistas para concorrer à Presidência do Senado](https://epoca.globo.com/guilherme-amado/senador-bolsonarista-diz-estar-sendo-seduzido-por-artistas-para-concorrer-presidencia-do-senado-1-24601066)
 * [Queimadas no Pantanal ameaçam maior refúgio de araras-azuis do mundo](https://epoca.globo.com/brasil/queimadas-no-pantanal-ameacam-maior-refugio-de-araras-azuis-do-mundo-24600048)

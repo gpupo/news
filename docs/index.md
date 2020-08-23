@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 13:15:09 UTC
+# indexed at 23/08/2020 13:35:18 UTC
 
 
 ## news.ycombinator.com
@@ -13,31 +13,31 @@ layout: default
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
 * [Ketamine that's injected during arrests draws new scrutiny](https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
-* [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
+* [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
 * [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
+* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
 * [MGA Entertainment: A privately-owned toy company doing billions in revenue](https://julieyoung.substack.com/p/insane-companies-no-one-talks-about)
 * [Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon](https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon)
 * [The $8M Heist from the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
+* [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
 * [Apple takes Prepear logo trademark fight to Canada](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
-* [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
-* [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
-* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
+* [Office Life at the Pentagon Is Disconcertingly Retrograde](https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/)
 * [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
+* [Apple apologizes to WordPress, won’t force the free app to add purchases](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 * [Data from Chernobyl and Fukushima provide answers about the risks of nuclear](https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
+* [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
 * [Searx instances](https://searx.space/)
-* [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
-* [Office Life at the Pentagon Is Disconcertingly Retrograde](https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/)
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
-* [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
+* [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
-* [On the problems with automated contact tracing](https://twitter.com/doctorow/status/1296248163653660672)
 * [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
+* [YTS Torrent Tracker Part Brand Of New Anti-Piracy Scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
 ## nytimes.com
 
 
@@ -77,10 +77,11 @@ layout: default
 * [Covid Limits California’s Efforts to Fight Wildfires With Prison Labor](https://www.nytimes.com/2020/08/22/us/california-wildfires-prisoners.html)
 * [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
-* [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)
 * [For Gregory Crewdson, Truth Lurks in the Landscape](https://www.nytimes.com/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
@@ -90,9 +91,9 @@ layout: default
 * [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
-* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
-* [A Glimmer of Hope for Trump? How Bush Mounted a Comeback in 1988](https://www.nytimes.com/2020/08/22/us/politics/george-bush-comeback-dukakis.html)
+* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
+* [Kerry Washington, Julia Louis-Dreyfus, Eva Longoria and Tracee Ellis Ross will M.C. the convention.](https://www.nytimes.com/2020/08/17/us/elections/kerry-washington-julia-louis-dreyfus-eva-longoria-and-tracee-ellis-ross-will-mc-the-convention.html)
+* [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
@@ -100,9 +101,9 @@ layout: default
 
 
 * [Rio registra menor temperatura mínima do ano neste domingo: 10,3ºC em Guaratiba](https://oglobo.globo.com/rio/rio-registra-menor-temperatura-minima-do-ano-neste-domingo-103c-em-guaratiba-24601959)
+* [Cerca de 200 mil pessoas voltam às ruas na Bielorrússia para protestar contra Lukashenko](https://oglobo.globo.com/mundo/cerca-de-200-mil-pessoas-voltam-as-ruas-na-bielorrussia-para-protestar-contra-lukashenko-24601967)
 * [Reportagem conta história de mulher que teve filho gerado após estupro quando era criança](https://oglobo.globo.com/meu-oglobo/reportagem-conta-historia-de-mulher-que-teve-filho-gerado-apos-estupro-quando-era-crianca-24601962)
 * [Tony Ramos: 'Deve ter gente que me olha e diz: Que cara chato e careta'](https://oglobo.globo.com/cultura/tony-ramos-deve-ter-gente-que-me-olha-diz-que-cara-chato-careta-24594640)
-* [Mais de 200 mil pessoas voltam às ruas na Bielorrússia para protestar contra Lukashenko](https://oglobo.globo.com/mundo/mais-de-200-mil-pessoas-voltam-as-ruas-na-bielorrussia-para-protestar-contra-lukashenko-24601967)
 * ['New York Times' destaca 'adulto Neymar', memes e moicano: "ele cresceu"](https://oglobo.globo.com/esportes/new-york-times-destaca-adulto-neymar-memes-moicano-ele-cresceu-24601953)
 * [Tony Ramos lembra nu na TV e fala da fama de 'bom moço'](https://oglobo.globo.com/cultura/tony-ramos-lembra-nu-na-tv-fala-da-fama-de-bom-moco-24597176)
 * [Mesmo com deslocamento de massa de ar polar, temperaturas devem seguir em baixa neste domingo no país](https://oglobo.globo.com/brasil/mesmo-com-deslocamento-de-massa-de-ar-polar-temperaturas-devem-seguir-em-baixa-neste-domingo-no-pais-24601958)

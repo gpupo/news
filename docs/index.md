@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 14:16:45 UTC
+# indexed at 23/08/2020 14:35:00 UTC
 
 
 ## news.ycombinator.com
@@ -25,19 +25,19 @@ layout: default
 * [Apple takes Prepear logo trademark fight to Canada](https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada)
 * [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
 * [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test)
-* [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Data from Chernobyl and Fukushima provide answers about the risks of nuclear](https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df)
-* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
+* [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Ask HN: How to do cross platform GUI?](https://news.ycombinator.com/item?id=24242412)
 * [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
-* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
+* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
 * [How Facebook quietly pressures its independent fact-checkers](https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings)
+* [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
+* [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
 * [Python Hash Tables: understanding dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
 * [AngelCAD: Script-based 3D solid modeller](https://arnholm.github.io/angelcad-docs/)
+* [Never Run ‘Python’ in Your Downloads Folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
-* [Atmospheric Water Harvesting](https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/)
 * [On the problems with automated contact tracing](https://twitter.com/doctorow/status/1296248163653660672)
-* [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
 ## nytimes.com
 
 
@@ -76,21 +76,20 @@ layout: default
 * [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
 * [Electric Vehicle Makers Find a Back Door to Wall Street](https://www.nytimes.com/2020/08/23/business/electric-cars-spac-wall-street.html)
 * [Swift Storm Left Iowa in Tatters](https://www.nytimes.com/2020/08/22/us/iowa-derecho-storm.html)
-* [Covid Limits California’s Efforts to Fight Wildfires With Prison Labor](https://www.nytimes.com/2020/08/22/us/california-wildfires-prisoners.html)
+* [With Delay in Afghan Peace Talks, a Creeping Sense of ‘Siege’ Around Kabul](https://www.nytimes.com/2020/08/23/world/asia/afghanistan-taliban-attacks-kabul.html)
 * [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefi.html)
-* [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)
 * [For Gregory Crewdson, Truth Lurks in the Landscape](https://www.nytimes.com/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
 * [The Glory (and the Taboo) of ‘WAP’](https://www.nytimes.com/2020/08/18/style/wap-cardi-b.html)
 * [Swimming and Reading — Two Summer Activities That Go Great Together](https://www.nytimes.com/2020/08/21/books/swimming-and-reading-two-summer-activities-that-go-great-together.html)
 * [A Detailed Look at the Downside of California’s Ban on Affirmative Action](https://www.nytimes.com/2020/08/21/upshot/00up-affirmative-action-california-study.html)
-* [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
 * [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
@@ -101,6 +100,7 @@ layout: default
 ## globo.com
 
 
+* [Renda Brasil deve incluir premiação por bom desempenho escolar e esportivo dos alunos](https://oglobo.globo.com/economia/renda-brasil-deve-incluir-premiacao-por-bom-desempenho-escolar-esportivo-dos-alunos-24602003)
 * [Mesmo com deslocamento de massa de ar polar, temperaturas devem seguir em baixa no país](https://oglobo.globo.com/brasil/mesmo-com-deslocamento-de-massa-de-ar-polar-temperaturas-devem-seguir-em-baixa-no-pais-24601958)
 * [BRT é alvo de vandalismo: cabos de eletricidade e equipamentos são furtados](https://oglobo.globo.com/rio/brt-alvo-de-vandalismo-cabos-de-eletricidade-equipamentos-sao-furtados-24601988)
 * [Rio registra menor temperatura mínima do ano neste domingo: 10,3ºC em Guaratiba](https://oglobo.globo.com/rio/rio-registra-menor-temperatura-minima-do-ano-neste-domingo-103c-em-guaratiba-24601959)
@@ -109,5 +109,4 @@ layout: default
 * [Tony Ramos: 'Deve ter gente que me olha e diz: Que cara chato e careta'](https://oglobo.globo.com/cultura/tony-ramos-deve-ter-gente-que-me-olha-diz-que-cara-chato-careta-24594640)
 * ['New York Times' destaca 'adulto Neymar', memes e moicano: "ele cresceu"](https://oglobo.globo.com/esportes/new-york-times-destaca-adulto-neymar-memes-moicano-ele-cresceu-24601953)
 * [Tony Ramos lembra nu na TV e fala da fama de 'bom moço'](https://oglobo.globo.com/cultura/tony-ramos-lembra-nu-na-tv-fala-da-fama-de-bom-moco-24597176)
-* ['Adulto Neymar' é destaque no 'New York Times': 'ele finalmente cresceu'; leia artigo completo:](https://oglobo.globo.com/esportes/adulto-neymar-destaque-no-new-york-times-ele-finalmente-cresceu-leia-artigo-completo-24601952)
 * [O conselho de Eduardo Coutinho aos novos documentaristas](https://epoca.globo.com/guilherme-amado/o-conselho-de-eduardo-coutinho-aos-novos-documentaristas-1-24601033)

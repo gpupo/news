@@ -2,40 +2,40 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 18:17:09 UTC
+# indexed at 23/08/2020 18:35:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
-* [Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
 * [Build Your Own FPGA](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
+* [Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
+* [US Border Patrol says they can create central repository of traveler emails](https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/)
 * [Solar Panels Are Starting to Die, Leaving Behind Toxic Trash](https://www.wired.com/story/solar-panels-are-starting-to-die-leaving-behind-toxic-trash/#intcid=_wired-homepage-right-rail_4d17aa85-7a00-4b58-9d0b-817df0d99ef5_popular4-1)
 * [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
 * [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi)
 * [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
-* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
+* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Gordon Linoff reached a million points on StackOverflow](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
+* [Chrome, Firefox extension that blocks NSFW images using TensorFlow JS](https://github.com/nsfw-filter/nsfw-filter)
 * [Paragon submits 27k NTFS driver to Linux kernel](https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/)
-* [Launch HN: Depict.ai (YC S20) - Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
-* [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [How to Leave Work at Work](https://hbr.org/2020/02/how-to-leave-work-at-work)
-* [Ketamine that's injected during arrests draws new scrutiny](https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed)
 * [Apple is holding the Unreal Engine hostage, Epic says in new motion](https://www.theverge.com/2020/8/23/21397369/epic-apple-fortnite-lawsuit-ios-microsoft-developer-tax)
+* [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [Show HN: Using Rust to write shell-script like tasks](https://github.com/rust-shell-script/rust_cmd_lib)
-* [Estimating unobserved SARS-CoV-2 infections in the United States](https://www.pnas.org/content/early/2020/08/20/2005476117)
+* [Ketamine that's injected during arrests draws new scrutiny](https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386)
 * [Writing a simple Python to C compiler: hello, fibonacci](https://notes.eatonphil.com/writing-a-simple-python-compiler.html)
+* [Belgian experts 'shocked' as AstraZeneca seeks liability waiver for vaccine](https://www.brusselstimes.com/belgium/127905/coronavirus-belgian-experts-shocked-as-astrazeneca-seeks-liability-waiver-for-vaccine/)
+* [Estimating unobserved SARS-CoV-2 infections in the United States](https://www.pnas.org/content/early/2020/08/20/2005476117)
 * [Degoogle: Cutting Google out of your life](https://degoogle.jmoore.dev/)
+* [Chromium devs want the browser to talk to devices, computers directly](https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/)
 * [The French Army Is Building Renaissance-Style Fortresses in Africa](https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa)
 * [The cost of 1GB of mobile data in 228 countries (Feb 2020)](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
-* [Chromium devs want the browser to talk to devices, computers directly](https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/)
-* [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [American Express to Acquire Kabbage](https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage)
-* [YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
+* [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [Data from Chernobyl and Fukushima provide answers about the risks of nuclear](https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df)
-* [US Border Patrol Says They Can Create Central Repository Of Traveler Emails](https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/)
-* [Belgian experts 'shocked' as AstraZeneca seeks liability waiver for vaccine](https://www.brusselstimes.com/belgium/127905/coronavirus-belgian-experts-shocked-as-astrazeneca-seeks-liability-waiver-for-vaccine/)
+* [YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme](https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/)
 * [Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf)
 * [Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War](https://worldofspectrum.net/features/warajevo/Story.html)
 ## nytimes.com
@@ -77,10 +77,11 @@ layout: default
 * [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
 * [In California’s Wine Country, a Familiar Threat of Smoke and Flame](https://www.nytimes.com/2020/08/23/us/california-fires-wine-country-napa-valley.html)
 * [Threatened by Facebook Disinformation, a Monk Flees Cambodia](https://www.nytimes.com/2020/08/23/world/asia/cambodia-facebook-disinformation.html)
-* [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Solar System Winked](https://www.nytimes.com/2020/08/21/fashion/weddings/Planets-Aligned-for-Ilana-Ozernoy-and-Nina-Mouritzen.html)
 * [How a Free Meals Power Broker Spends His Sundays](https://www.nytimes.com/2020/08/21/nyregion/coronavirus-nyc-Rethink-Food-Winston-Chiu.html)
 * [For Gregory Crewdson, Truth Lurks in the Landscape](https://www.nytimes.com/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
@@ -90,14 +91,17 @@ layout: default
 * [The Dreaded Lanternbug, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
-* [Kamala Harris’s Father, Donald Harris, is a Prominent Economist](https://www.nytimes.com/article/kamala-harris-dad-don-harris.html)
+* [How to Watch the Democratic National Convention](https://www.nytimes.com/2020/08/20/us/politics/dnc.html)
+* [Junipero Serra's Sins](https://www.nytimes.com/2020/08/16/opinion/junipero-serra-catholic-saint.html)
+* [She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.](https://www.nytimes.com/2020/08/17/world/americas/honey-mel-gibson-chile.html)
+* [Democrats have done the setup work. Now Biden must stand on his own.](https://www.nytimes.com/2020/08/20/us/elections/democrats-have-done-the-setup-work-now-biden-must-stand-on-his-own.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Fluminense freta avião e vive clima de 'jogo do ano' na terceira fase da Copa do Brasil](https://oglobo.globo.com/esportes/fluminense-freta-aviao-vive-clima-de-jogo-do-ano-na-terceira-fase-da-copa-do-brasil-24602128)
 * [Megan Fox conta que rodou filme infectada por parasita](https://oglobo.globo.com/cultura/megan-fox-conta-que-rodou-filme-infectada-por-parasita-24602112)
 * [Quase um quarto dos 18 milhões dispensados temporariamente nos EUA não deve voltar ao trabalho, diz Goldman Sachs](https://oglobo.globo.com/economia/quase-um-quarto-dos-18-milhoes-dispensados-temporariamente-nos-eua-nao-deve-voltar-ao-trabalho-diz-goldman-sachs-24602096)
 * [Mulher baleada no pescoço continua em estado muito grave, diz secretaria de saúde](https://oglobo.globo.com/rio/mulher-baleada-no-pescoco-continua-em-estado-muito-grave-diz-secretaria-de-saude-24602097)
@@ -107,4 +111,3 @@ layout: default
 * [Coluna | Os bastidores do fenômeno do Axé Music](https://epoca.globo.com/lucas-prata/coluna-os-bastidores-do-fenomeno-do-axe-music-24602035)
 * [Artigo | Angela Nenzy foi mais do que a mulher do sambista Wilson Moreira](https://epoca.globo.com/cultura/artigo-angela-nenzy-foi-mais-do-que-mulher-do-sambista-wilson-moreira-24602029)
 * [Como um padre de Goiás virou celebridade e movimentou fortuna em negociações suspeitas](https://epoca.globo.com/brasil/como-um-padre-de-goias-virou-celebridade-movimentou-fortuna-em-negociacoes-suspeitas-24602007)
-* [Renda Brasil deve incluir premiação por bom desempenho escolar e esportivo dos alunos](https://oglobo.globo.com/economia/renda-brasil-deve-incluir-premiacao-por-bom-desempenho-escolar-esportivo-dos-alunos-24602003)

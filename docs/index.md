@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 23/08/2020 02:17:47 UTC
+# indexed at 23/08/2020 02:34:56 UTC
 
 
 ## news.ycombinator.com
@@ -18,9 +18,9 @@ layout: default
 * [VTM: A Text-Based Desktop Environment](https://vtm.netxs.online/)
 * [Debian Janitor: 60k Lintian Issues Automatically Fixed](https://www.jelmer.uk/janitor-update-3.html)
 * [Future of DeepSpeech / STT after recent changes at Mozilla](https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191)
+* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [Uber and Lyft competitors ready if service is suspended in California](https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html)
 * [Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos](http://www.righto.com/2020/08/reverse-engineering-8086s.html)
-* [Partying like it’s 1999 – Initial public offerings are back in Silicon Valley](https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley)
 * [RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling](https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/)
 * [Mystery of interstellar visitor 'Oumuamua gets trickier](https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/)
 * [Two Way Mirror Improves Video Conferencing](https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/)
@@ -30,21 +30,20 @@ layout: default
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management](https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html)
 * [Rogue planets could outnumber the stars](https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html)
-* [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Searx instances](https://searx.space/)
+* [College Notebook of Isaac Newton](http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/)
 * [Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]](https://www.youtube.com/watch?v=iaSaWfw07Sw)
 * [Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping](https://www.npmjs.com/package/aws-cost-saver)
 * [Founder Grants: Fund a startup without giving up equity](https://www.foundergrants.com/)
-* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
 * [How two British orthodontists became celebrities to incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 * [Backbone Cabal](https://en.wikipedia.org/wiki/Backbone_cabal)
+* [Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)](https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay)
 ## nytimes.com
 
 
 * [Mnuchin Paved Way for U.S.P.S. Shake-Up](https://www.nytimes.com/2020/08/22/business/economy/dejoy-postmaster-general-trump-mnuchin.html)
 * [Congress Votes to Block U.S.P.S. Changes](https://www.nytimes.com/2020/08/22/us/politics/usps-bill-congress-vote.html)
 * [Republicans Rush to Finalize Convention (‘Apprentice’ Producers Are Helping)](https://www.nytimes.com/2020/08/22/us/politics/republican-convention-preview.html)
-* [How Women of Color Are Redefining What a Politician Looks Like](https://www.nytimes.com/2020/08/22/us/politics/politics-women-dnc-fashion.html)
 * [President’s Sister Describes Trump as Liar With ‘No Principles’ in Recordings](https://www.nytimes.com/2020/08/22/us/politics/maryanne-trump-donald.html)
 * [Live Updates of the California Wildfires](https://www.nytimes.com/2020/08/22/us/california-wildfires.html)
 * [Covid Limits California’s Efforts to Fight Wildfires With Prison Labor](https://www.nytimes.com/2020/08/22/us/california-wildfires-prisoners.html)
@@ -76,11 +75,11 @@ layout: default
 * [Shouting Turns to Violence in Portland as Dueling Protests Converge](https://www.nytimes.com/2020/08/22/us/portland-protests.html)
 * [Pipeline Explosion in Corpus Christi Leaves 2 Dead and 2 Missing](https://www.nytimes.com/2020/08/22/us/pipeline-exposion-corpus-christi.html)
 * [On TikTok, Students Complain About College Quarantine Food](https://www.nytimes.com/2020/08/22/nyregion/coronavirus-tiktok-college-quarantine-food.html)
+* [Can Artificial Sweeteners Keep Us From Gaining Weight?](https://www.nytimes.com/2020/08/20/well/eat/artificial-sweeteners-sugar-weight-gain-diet-weight-loss.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [There Are Wasps in the Yard. You’d Better Get to Know Them.](https://www.nytimes.com/article/paper-wasps-yellowjackets.html)
+* [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [Thousands of Miles Away, but Still by His Daughter’s Side](https://www.nytimes.com/2020/08/18/fashion/weddings/thousands-of-miles-away-but-still-by-his-daughters-side.html)
 * [A Walk Through Harlem, New York’s Most Storied Neighborhood](https://www.nytimes.com/2020/08/20/arts/design/harlem-virtual-tour.html)
 * [The Radical Ordinariness of Carol Shields’s Literary World](https://www.nytimes.com/2020/08/15/books/review/carol-shields-stone-diaries-essay.html)
@@ -90,9 +89,10 @@ layout: default
 * [A Rip in the Fabric of Interstellar Dreams](https://www.nytimes.com/2020/08/21/science/space-telescope-puerto-rico-arecibo.html)
 * [What to Know About Stuttering](https://www.nytimes.com/2020/08/21/health/stuttering-biden-brayden-speech.html)
 * [What if We Worried Less About the Accuracy of Coronavirus Tests?](https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html)
-* [President Trump’s younger brother died Saturday night.](https://www.nytimes.com/2020/08/16/us/elections/president-trumps-younger-brother-died-saturday-night.html)
-* [New Conditions on Alaskan Mine Could Delay Vast Project That Donald Trump Jr. Opposes](https://www.nytimes.com/2020/08/22/us/politics/pebble-mine.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
+* [Bean Cakes You Can Depend On](https://www.nytimes.com/2020/08/21/dining/bean-cake-recipe.html)
+* [Late Night Savors Steve Bannon’s Arrest (and His Photo)](https://www.nytimes.com/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
+* [A Glimmer of Hope for Trump? How Bush Mounted a Comeback in 1988](https://www.nytimes.com/2020/08/22/us/politics/george-bush-comeback-dukakis.html)
+* [Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation](https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

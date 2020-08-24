@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 05:34:56 UTC
+# indexed at 24/08/2020 06:18:23 UTC
 
 
 ## news.ycombinator.com
 
 
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
-* [A Simple Scheme Compiler](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
 * [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
+* [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
+* [2020: An Isolation Odyssey](http://lydiacambron.com/index.php/project/2020-an-isolation-odyssey/)
 * [A step towards new nitrogen products](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
 * [June Jordan and Buckminster Fuller Tried to Redesign Harlem](https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem)
 * [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 * [Patrick Collison's Questions](https://patrickcollison.com/questions)
+* [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
 * [Network Coding in P2P Networks](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks)
 * [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
-* [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
-* [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
 * [Songwhip – Share a music link to every platform](https://songwhip.com)
-* [Height Modernization: Recalibrating where the U.S. physically sits on the planet](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
-* [My Fourier Epicycles](https://www.myfourierepicycles.com/)
-* [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
-* [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
-* [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
 * [A Clean Start for the Web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+* [Ten countries kept out Covid. But did they win?](https://www.bbc.com/news/world-asia-53831063)
+* [My Fourier Epicycles](https://www.myfourierepicycles.com/)
+* [Height Modernization: Recalibrating where the U.S. physically sits on the planet](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
+* [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
+* [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
 * [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
-* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
+* [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
 * [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
+* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Teletext Bad Apple](https://bitshifters.github.io/posts/prods/bs-badapple.html)
 * [Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs](https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk)
 * [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [All about Woad](http://www.woad.org.uk)
 * [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
-* [Never run ‘python’ in your downloads folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
-* [Bare Metal Rust Generics](https://www.ecorax.net/as-above-so-below-1/)
 * [Some Ugly Code Can Get Nvidia's Linux Driver Working with Accelerated XWayland](https://www.phoronix.com/scan.php?page=news_item&px=GLX-Delay-Accel-NV-XWayland)
-* [Congratulations for reaching a million, Gordon Linoff](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
+* [Principal Component Analysis](https://leimao.github.io/article/Principal-Component-Analysis/)
+* [Never run ‘python’ in your downloads folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
 ## nytimes.com
 
 
@@ -51,6 +51,7 @@ layout: default
 * [In Ohio, a Father and Stepdaughter Show the Political Shifts in the Trump Era](https://www.nytimes.com/2020/08/23/us/politics/ohio-trump-unions.html)
 * [Kellyanne Conway, Long-Serving Trump Aide, Is Leaving the White House](https://www.nytimes.com/2020/08/24/us/politics/kellyanne-conway-leaving-white-house.html)
 * [In Portland, a Prosecutor Must Decide: Which Protesters Should Go to Jail?](https://www.nytimes.com/2020/08/23/us/portland-protests-prosecute.html)
+* [Police Shooting of Black Man in Wisconsin, Captured on Video, Is Investigated](https://www.nytimes.com/2020/08/23/us/kenosha-police-shooting.html)
 * [Belarus Protests Test Limits of Lukashenko’s Brutal, One-Man Rule](https://www.nytimes.com/2020/08/24/world/europe/Lukashenko-Belarus.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [The Sunday Read: ‘Sweatpants Forever’](https://www.nytimes.com/2020/08/23/podcasts/the-daily/fashion-coronavirus.html)
@@ -68,8 +69,8 @@ layout: default
 * [We Are Living With Brain Cancer. Here’s How Biden Could Help Us.](https://www.nytimes.com/2020/08/22/opinion/glioblastoma-biden-cancer.html)
 * [To Test Spread of Coronavirus, These Scientists Put on a Concert](https://www.nytimes.com/2020/08/23/arts/music/coronavirus-concert-experiment.html)
 * [Review: ‘The Vow’ Follows Nxivm Down Dark, Damaging Paths](https://www.nytimes.com/2020/08/23/arts/television/review-the-vow-nxivm.html)
-* [Police Shooting of Black Man in Wisconsin, Captured on Video, Is Investigated](https://www.nytimes.com/2020/08/23/us/kenosha-police-shooting.html)
 * [Kansas Candidate Who Admitted to Revenge Porn Plans to Withdraw](https://www.nytimes.com/2020/08/23/us/aaron-coleman-kansas-porn.html)
+* [Dustin Johnson Rebounds With a Rout at the Northern Trust](https://www.nytimes.com/2020/08/23/sports/golf/northern-trust-scores-dustin-johnson.html)
 * [Officer Michael Oxford Is Fired After TikTok Videos Show His Arrest of Black Woman](https://www.nytimes.com/2020/08/23/us/georgia-police-officer-fired-tiktok.html)
 * [Detroit Firefighter Sivad Johnson Dies Trying to Save Girls From Drowning](https://www.nytimes.com/2020/08/23/us/sivad-johnson-detroit-firefighter-dead.html)
 * [Christchurch Massacre Sentencing: What to Expect](https://www.nytimes.com/2020/08/23/world/australia/christchurch-tarrant-sentencing-explained.html)
@@ -78,10 +79,10 @@ layout: default
 * [In California’s Wine Country, a Familiar Threat of Smoke and Flame](https://www.nytimes.com/2020/08/23/us/california-fires-wine-country-napa-valley.html)
 * [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [For a Music Critic, a Vacation That’s All Too Quiet](https://www.nytimes.com/2020/08/23/arts/music/classical-music-coronavirus.html)
 * [Internet and Power Outage? It's Storm Season](https://www.nytimes.com/2020/08/19/style/coned-blackouts-spectrum-hurricanes.html)
 * [‘Sisters in Hate’ Offers a Window Into Women in the White Nationalist Movement](https://www.nytimes.com/2020/08/19/books/review/sisters-in-hate-seyward-darby.html)

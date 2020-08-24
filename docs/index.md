@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 11:15:07 UTC
+# indexed at 24/08/2020 11:35:17 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
 * [Kali Linux 2020.3](https://www.kali.org/news/kali-2020-3-release/)
 * [Show HN: My notes on Working with Go](https://github.com/betty200744/ultimate-go)
-* [A tale of webpage speed, or throwing away React](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/)
 * [Solaris 10 Zones on Illumos Tribblix](https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html)
+* [A tale of webpage speed, or throwing away React](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/)
 * [Women Crowdfunded Radium For Marie Curie](https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/)
 * [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
-* [Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users](https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against)
 * [Pieter Levels Makes $600k a Year from Nomad List and Remote OK](https://www.nocsdegree.com/pieter-levels-learn-coding/)
+* [Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users](https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against)
 * [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
 * [Cryptography Dispatches: Registries Considered Harmful](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/)
 * [A step towards new nitrogen products](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
 * [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
 * [A Do-It-Yourself paper digital computer (1959)](https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html)
+* [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
 * [Network Coding in P2P Networks](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks)
 * [Patrick Collison's Questions](https://patrickcollison.com/questions)
-* [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
-* [Staking Claims with Scheduled Tweets](https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/)
 * [Height Modernization: Recalibrating where the U.S. physically sits on the planet](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
+* [Staking Claims with Scheduled Tweets](https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/)
 * [June Jordan and Buckminster Fuller Tried to Redesign Harlem](https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem)
-* [Spinning black hole powers jet by magnetic flux](https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html)
 * [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
+* [Spinning black hole powers jet by magnetic flux](https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html)
 * [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
 * [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [All about Woad](http://www.woad.org.uk)
 * [Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs](https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk)
 * [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
-* [Btrfs Coming to Fedora 33](https://fedoramagazine.org/btrfs-coming-to-fedora-33/)
+* [Never run ‘python’ in your downloads folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
 ## nytimes.com
 
 
@@ -73,8 +73,8 @@ layout: default
 * [For Japanese-Americans, Housing Injustices Outlived Internment](https://www.nytimes.com/2020/08/20/magazine/japanese-internment-end-wwii-trailer-parks.html)
 * [All About Roundabouts](https://www.nytimes.com/2020/08/20/business/roundabouts-traffic-circles.html)
 * [At Least 11 Killed After 2 Blasts Rip Through Philippines](https://www.nytimes.com/2020/08/24/world/asia/-philippines-explosions-jolo-sulu.html)
-* [New Zealand Massacre Sentencing: What to Expect](https://www.nytimes.com/2020/08/23/world/australia/christchurch-tarrant-sentencing-explained.html)
-* [Dustin Johnson Rebounds With a Rout at the Northern Trust](https://www.nytimes.com/2020/08/23/sports/golf/northern-trust-scores-dustin-johnson.html)
+* [New Conditions on Alaskan Mine Could Delay Vast Project That Donald Trump Jr. Opposes](https://www.nytimes.com/2020/08/22/us/politics/pebble-mine.html)
+* [Pompeo Arrives in Israel to Push Mideast Ties](https://www.nytimes.com/2020/08/24/world/middleeast/pompeo-jerusalem-rnc.html)
 * [Officer Michael Oxford Is Fired After TikTok Videos Show His Arrest of Black Woman](https://www.nytimes.com/2020/08/23/us/georgia-police-officer-fired-tiktok.html)
 * [Geoffrey Nunberg, Expert on How Language Works, Dies at 75](https://www.nytimes.com/2020/08/22/books/geoffrey-nunberg-dead.html)
 * [Belarus Protests Test Limits of Lukashenko’s Brutal, One-Man Rule](https://www.nytimes.com/2020/08/24/world/europe/Lukashenko-Belarus.html)
@@ -84,8 +84,8 @@ layout: default
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [For Tiffany & Co., a Rooftop Addition Wrapped in Glass](https://www.nytimes.com/2020/08/21/realestate/tiffany-flagship-rooftop-addition-glass.html)
 * [What Pro Wrestling Taught Me and My Immigrant Grandmother](https://www.nytimes.com/2020/08/21/well/family/wrestling-grandmother-confidence.html)
 * [Black Artists Look Beyond ‘Protest Art’ at British Shows](https://www.nytimes.com/2020/08/20/arts/design/black-artists-turner-contemporary-gallery.html)
@@ -94,8 +94,8 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [When Bugs Crawl Up the Food Chain](https://www.nytimes.com/2020/08/10/science/bugs-food-chain.html)
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
+* [Global shares rise on hopes of medical advances against the coronavirus.](https://www.nytimes.com/live/2020/08/24/business/stock-market-today-coronavirus/global-shares-rise-on-hopes-of-medical-advances-against-the-coronavirus)
 * [DeJoy Earned Millions From Company With Financial Ties to Postal Service](https://www.nytimes.com/2020/08/17/us/politics/dejoy-postal-service-mail-in-voting.html)
-* [Obesity May Be Bad for Your Brain](https://www.nytimes.com/2020/08/18/well/mind/obesity-may-be-bad-for-your-brain.html)
 * [The N.F.L. is Playing With the Coronavirus](https://www.nytimes.com/2020/08/19/opinion/nfl-season-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
@@ -103,12 +103,12 @@ layout: default
 ## globo.com
 
 
+* [PF faz operação contra suspeito de ameaçar consulado da China em SP](https://oglobo.globo.com/brasil/pf-faz-operacao-contra-suspeito-de-ameacar-consulado-da-china-em-sp-1-24602537)
 * [Deputada Flordelis é mandante da morte do marido, diz polícia; ação prende sete suspeitos](https://oglobo.globo.com/rio/deputada-flordelis-mandante-da-morte-do-marido-diz-policia-acao-prende-sete-suspeitos-24602495)
 * [Restituição do IR 2020: Receita libera hoje consulta ao quarto lote](https://oglobo.globo.com/economia/restituicao-do-ir-2020-receita-libera-hoje-consulta-ao-quarto-lote-1-24602507)
 * [Bolsonaro ameaça repórter: por que milhares de pessoas estão perguntando sobre depósitos de Queiroz para Michelle](https://epoca.globo.com/brasil/bolsonaro-ameaca-reporter-por-que-milhares-de-pessoas-estao-perguntando-sobre-depositos-de-queiroz-para-michelle-24602526)
 * [Mandetta e DEM ainda incertos sobre o futuro](https://epoca.globo.com/guilherme-amado/mandetta-dem-ainda-incertos-sobre-futuro-24601160)
 * [BRT: 'Vamos fazer de tudo para não parar', diz diretor](https://oglobo.globo.com/rio/bairros/brt-vamos-fazer-de-tudo-para-nao-parar-diz-diretor-24598963)
-* [Consultas sobre a vida de nomeados dobraram no primeiro ano de Bolsonaro](https://epoca.globo.com/guilherme-amado/consultas-sobre-vida-de-nomeados-dobraram-no-primeiro-ano-de-bolsonaro-24601185)
 * [Quintal de Ana completa 20 anos de luta pelo direito à convivência familiar](https://oglobo.globo.com/rio/bairros/quintal-de-ana-completa-20-anos-de-luta-pelo-direito-convivencia-familiar-24599854)
 * [Em Botafogo, espaço para gourmands retoma atividade](https://oglobo.globo.com/rio/bairros/em-botafogo-espaco-para-gourmands-retoma-atividade-1-24599941)
 * [Conheça o carioca que se dedica a surfar 100 dias de tubos por ano no Rio de Janeiro](https://oglobo.globo.com/esportes/conheca-carioca-que-se-dedica-surfar-100-dias-de-tubos-por-ano-no-rio-de-janeiro-24597505)

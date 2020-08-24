@@ -2,27 +2,28 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 04:34:50 UTC
+# indexed at 24/08/2020 05:15:47 UTC
 
 
 ## news.ycombinator.com
 
 
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
+* [A Simple Scheme Compiler](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
 * [A step towards new nitrogen products](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
-* [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
-* [When June Jordan and Buckminster Fuller Tried to Redesign Harlem](https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem)
+* [June Jordan and Buckminster Fuller Tried to Redesign Harlem](https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem)
 * [What coronavirus will do to our offices and homes](https://www.bbc.co.uk/news/resources/idt-dc2d6e2d-3ab4-42de-8d03-bb7eda5fff8e)
+* [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
+* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
+* [Patrick Collison's Questions](https://patrickcollison.com/questions)
 * [Network Coding in P2P Networks](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks)
 * [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
 * [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
 * [The demise of the second-hand bookshop](https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/)
-* [Semi-transparent solar panels allow concurrent production of crops and power](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189)
-* [Songwhip – Share a music link to every platform](https://songwhip.com)
+* [Height Modernization: Recalibrating where the U.S. physically sits on the planet](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
 * [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
-* [How to Leave Work at Work](https://hbr.org/2020/02/how-to-leave-work-at-work)
+* [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [My Fourier Epicycles](https://www.myfourierepicycles.com/)
-* [Patrick Collison's Questions](https://patrickcollison.com/questions)
 * [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
 * [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
 * [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
@@ -30,14 +31,13 @@ layout: default
 * [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
 * [Teletext Bad Apple](https://bitshifters.github.io/posts/prods/bs-badapple.html)
 * [Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs](https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk)
-* [All about Woad](http://www.woad.org.uk)
 * [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [A Clean Start for the Web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+* [All about Woad](http://www.woad.org.uk)
 * [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
 * [Bare Metal Rust Generics](https://www.ecorax.net/as-above-so-below-1/)
 * [Never run ‘python’ in your downloads folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
 * [Congratulations for reaching a million, Gordon Linoff](https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff)
-* [Mark Zuckerberg Stoked Washington’s Fears About TikTok](https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133)
 ## nytimes.com
 
 
@@ -77,11 +77,11 @@ layout: default
 * [Louisiana Braces for Hurricane Marco and Tropical Storm Laura](https://www.nytimes.com/2020/08/23/us/tropical-storm-laura-marco-louisiana.html)
 * [In California’s Wine Country, a Familiar Threat of Smoke and Flame](https://www.nytimes.com/2020/08/23/us/california-fires-wine-country-napa-valley.html)
 * [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [For a Music Critic, a Vacation That’s All Too Quiet](https://www.nytimes.com/2020/08/23/arts/music/classical-music-coronavirus.html)
 * [Internet and Power Outage? It's Storm Season](https://www.nytimes.com/2020/08/19/style/coned-blackouts-spectrum-hurricanes.html)
 * [‘Sisters in Hate’ Offers a Window Into Women in the White Nationalist Movement](https://www.nytimes.com/2020/08/19/books/review/sisters-in-hate-seyward-darby.html)
@@ -91,15 +91,17 @@ layout: default
 * [The Dreaded Lanternfly, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [President’s Sister Describes Trump as Liar With ‘No Principles’ in Recordings](https://www.nytimes.com/2020/08/22/us/politics/maryanne-trump-donald.html)
-* [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
-* [Trump and Miss Moscow: Report Examines Possible Compromises in Russia Trips](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate-intelligence.html)
+* [Apple Reaches $2 Trillion, Punctuating Big Tech’s Grip](https://www.nytimes.com/2020/08/19/technology/apple-2-trillion.html)
+* [Learning Pods During Coronavirus Explained](https://www.nytimes.com/article/learning-pods-coronavirus.html)
+* [Finding Love at First Glance](https://www.nytimes.com/2020/08/21/fashion/weddings/finding-love-at-first-glance.html)
+* [On Fox News, Palin used a sexist smear to suggest Harris betrayed her convictions.](https://www.nytimes.com/2020/08/20/us/elections/on-fox-news-palin-used-a-sexist-smear-to-suggest-harris-betrayed-her-convictions.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Suposto ataque a gasoduto deixa Síria às escuras](https://oglobo.globo.com/mundo/suposto-ataque-gasoduto-deixa-siria-as-escuras-24602477)
 * [Katy Perry: após vencer depressão e prestes a ter bebê, cantora tenta dar guinada na carreira com 'Smile'](https://oglobo.globo.com/cultura/musica/katy-perry-apos-vencer-depressao-prestes-ter-bebe-cantora-tenta-dar-guinada-na-carreira-com-smile-24602298)
 * [Katy Perry: o que esperar de 'Smile', disco que a cantora lança na pandemia](https://oglobo.globo.com/cultura/musica/katy-perry-que-esperar-de-smile-disco-que-cantora-lanca-na-pandemia-24602315)
 * [Segunda sem carne: como fazer sopas fáceis. A de abóbora com gengibre leva 20 minutos](https://oglobo.globo.com/rioshow/segunda-sem-carne-como-fazer-sopas-faceis-de-abobora-com-gengibre-leva-20-minutos-24546765)
@@ -107,6 +109,5 @@ layout: default
 * [Um culto de crueldade](https://oglobo.globo.com/opiniao/um-culto-de-crueldade-1-24600951)
 * [A vida de uma menina](https://oglobo.globo.com/opiniao/a-vida-de-uma-menina-24600931)
 * [Uma versão musical do Orçamento](https://oglobo.globo.com/opiniao/uma-versao-musical-do-orcamento-24600917)
-* [Sob ataque no Brasil, Lava-Jato atinge três ex-presidentes do México](https://oglobo.globo.com/opiniao/sob-ataque-no-brasil-lava-jato-atinge-tres-ex-presidentes-do-mexico-24600034)
 * [Green Deal europeu é exemplo para o Brasil](https://oglobo.globo.com/opiniao/green-deal-europeu-exemplo-para-brasil-24599609)
 * [A inadmissível captura do Estado pelas facções](https://oglobo.globo.com/opiniao/a-inadmissivel-captura-do-estado-pelas-faccoes-24599249)

@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 19:15:41 UTC
+# indexed at 24/08/2020 19:37:17 UTC
 
 
 ## news.ycombinator.com
 
 
+* [Microsoft backs Epic in court filing](https://www.bbc.com/news/technology-53888087)
 * [Being OK with Not Being Extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
-* [TikTok Inc. vs. U.S. Department of Commerce](https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/)
 * [Challenge to scientists: does your ten-year-old code still run?](https://www.nature.com/articles/d41586-020-02462-7)
+* [Vitamin D, part 2: Shannon's story](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe)
 * [Sumo Logic S-1 SEC](https://sec.report/Document/0001193125-20-227201/)
 * [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
-* [Vitamin D, part 2: Shannon's story](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe)
+* [Kodable is hiring a Game Designer to help us teach millions of kids to code](https://angel.co/company/kodable/jobs/925512-senior-game-designer)
 * [Head of Danish intelligence suspended after whistleblowers hand over information](https://www.bbc.com/news/world-europe-53889612)
-* [IBM 5160](https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/)
 * [Emotional Resilience and Burnout in Leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing)
+* [Don't ask to ask, just ask](https://dontasktoask.com/)
 * [Show HN: InstaNote – notes in a simple chat interface](https://www.instanote.io/)
+* [Jensen Huang’s Vision for Data Center Dominance Will Destroy the Arm Ecosystem](https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/)
+* [TikTok Inc. vs. U.S. Department of Commerce](https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/)
+* [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
 * [Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis](https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis)
 * [Making money building Shopify micro-SaaS apps](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify)
-* [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech)
 * [Automotive Grade Linux](https://www.automotivelinux.org/)
-* [Don't ask to ask, just ask](https://dontasktoask.com/)
-* [TriFinger: An Open-Source Robot for Learning Dexterity](https://sites.google.com/view/trifinger)
+* [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech)
+* [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
 * [Emacs xwidget-webkit enhancement suite](https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev)
-* [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
+* [TriFinger: An Open-Source Robot for Learning Dexterity](https://sites.google.com/view/trifinger)
+* [IBM 5160](https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/)
 * [Show HN: Mys – an attempt to create a statically typed Python-like language](https://github.com/eerimoq/mys)
 * [UberEats could be underpaying delivery drivers on 21% of trips](https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8)
 * [Increasing wind turbine rotor blade visibility reduces avian fatalities](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592)
 * [Ubuntu Philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
-* [A Seed Stage Mental Framework to Limit Failure as a Startup Founder](https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework)
 * [Kali Linux 2020.3](https://www.kali.org/news/kali-2020-3-release/)
+* [A Seed Stage Mental Framework to Limit Failure as a Startup Founder](https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework)
 * [Scaling Services with Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
-* [Writing a Test Case Generator for a Programming Language](http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html)
 * [Show HN: My notes on Working with Go](https://github.com/betty200744/ultimate-go)
-* [A tale of webpage speed, or throwing away React](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/)
-* [Pachyderm Raises $16M Series B and is hiring for all engineering roles](https://jobs.lever.co/pachyderm/)
-* [Why facial recognition has led to false arrests](http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine)
 ## nytimes.com
 
 
@@ -76,10 +76,11 @@ layout: default
 * [Aleksei Navalny, a Putin Critic, Was Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
 * [Private Infighting Roils Owners of Washington N.F.L. Team](https://www.nytimes.com/2020/08/24/sports/football/dan-snyder-washington-football-ownership.html)
 * [Kids Seeking Asylum Find Some Measure of It in One Makeshift School](https://www.nytimes.com/2020/08/18/parenting/migrant-children-school-border.html)
-* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [Quarantine Envy Got You Down? You’re Not Alone](https://www.nytimes.com/2020/08/10/smarter-living/quarantine-envy-pandemic.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [Baseball’s Most Unusual Season Is Halfway Over](https://www.nytimes.com/2020/08/24/sports/baseball/Dodgers-halfway-season.html)
 * [Overlooked No More: Leonora O’Reilly, Suffragist Who Fought for Working Women](https://www.nytimes.com/2020/08/21/obituaries/leonora-oreilly-overlooked.html)
 * [Witnessing Pandemic New York, With an Ear to the Past](https://www.nytimes.com/2020/08/21/insider/new-york-city-pictures-pandemic.html)
@@ -97,13 +98,13 @@ layout: default
 ## globo.com
 
 
-* [Twitter oculta publicação de Trump que sugeria fraude em uso de caixas de correio para eleição](https://oglobo.globo.com/mundo/twitter-oculta-publicacao-de-trump-que-sugeria-fraude-em-uso-de-caixas-de-correio-para-eleicao-24603206)
+* [Rio tem a maior média móvel de mortes por Covid-19 dos últimos 30 dias](https://oglobo.globo.com/rio/rio-tem-maior-media-movel-de-mortes-por-covid-19-dos-ultimos-30-dias-24603342)
+* [TCE-RJ arquiva investigação de sobrepreço na compra de álcool gel pela Secretaria de Assistência Social de Niterói](https://oglobo.globo.com/rio/bairros/tce-rj-arquiva-investigacao-de-sobrepreco-na-compra-de-alcool-gel-pela-secretaria-de-assistencia-social-de-niteroi-24603290)
 * ['A qualquer momento podem bater na porta e vir me prender', diz Svetlana Alexievich, bielorrussa vencedora do Nobel](https://oglobo.globo.com/mundo/a-qualquer-momento-podem-bater-na-porta-vir-me-prender-diz-svetlana-alexievich-bielorrussa-vencedora-do-nobel-24603193)
+* ['Adoraria explorar Amazônia com os EUA', diz Bolsonaro a Al Gore em doc sobre Davos](https://oglobo.globo.com/cultura/adoraria-explorar-amazonia-com-os-eua-diz-bolsonaro-al-gore-em-doc-sobre-davos-24603228)
+* [Luka Doncic, o armador do Dallas Mavericks que "vê o jogo em 6G"](https://oglobo.globo.com/esportes/luka-doncic-armador-do-dallas-mavericks-que-ve-jogo-em-6g-24603291)
+* [Maia diz que Câmara vai avaliar caso de Flordelis, acusada de mandar matar marido](https://oglobo.globo.com/rio/maia-diz-que-camara-vai-avaliar-caso-de-flordelis-acusada-de-mandar-matar-marido-24603305)
+* [Doria diz que Bolsonaro não vai afrontar a democracia](https://oglobo.globo.com/brasil/doria-diz-que-bolsonaro-nao-vai-afrontar-democracia-24603309)
 * [Usain Bolt confirma que está com coronavírus: 'Fiquem seguros'](https://oglobo.globo.com/esportes/usain-bolt-confirma-que-esta-com-coronavirus-fiquem-seguros-24603272)
-* ['Não estou certo se entendi bem', diz Al Gore para Bolsonaro em doc sobre Davos](https://oglobo.globo.com/cultura/nao-estou-certo-se-entendi-bem-diz-al-gore-para-bolsonaro-em-doc-sobre-davos-24603228)
 * [Ameaça de agressão de Bolsonaro a repórter do GLOBO repercute na imprensa internacional](https://oglobo.globo.com/brasil/ameaca-de-agressao-de-bolsonaro-reporter-do-globo-repercute-na-imprensa-internacional-24603106)
 * [O compliance da Receita Federal](https://epoca.globo.com/guilherme-amado/o-compliance-da-receita-federal-24603256)
-* [Sobreviventes da 'terapia' de conversão sexual compartilham suas histórias no TikTok](https://oglobo.globo.com/celina/sobreviventes-da-terapia-de-conversao-sexual-compartilham-suas-historias-no-tiktok-24596808)
-* [Ditador da Bielorrúsia sobrevoa protestos por sua renúncia segurando metralhadora](https://epoca.globo.com/mundo/ditador-da-bielorrusia-sobrevoa-protestos-por-sua-renuncia-segurando-metralhadora-24603155)
-* [Filha de Flordelis recebe atendimento médico em carceragem de delegacia](https://oglobo.globo.com/rio/filha-de-flordelis-recebe-atendimento-medico-em-carceragem-de-delegacia-24603245)
-* [Prefeitura coloca no lugar trecho da ciclovia Tim Maia que, segundo especialistas, corria risco de desabar](https://oglobo.globo.com/rio/prefeitura-coloca-no-lugar-trecho-da-ciclovia-tim-maia-que-segundo-especialistas-corria-risco-de-desabar-24603211)

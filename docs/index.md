@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 23:14:56 UTC
+# indexed at 24/08/2020 23:35:05 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Being OK with not being extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
 * [Jaron Lanier on social media](https://www.gq.com/story/jaron-lanier-tech-oracle-profile)
 * [One Year of Nushell](https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html)
-* [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
+* [Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot](https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight)
 * [Docker to rate limit image pulls](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
+* [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
 * [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
 * [Nuclear Reactor Development History](https://whatisnuclear.com/reactor_history.html)
 * [Challenge to scientists: does your ten-year-old code still run?](https://www.nature.com/articles/d41586-020-02462-7)
-* [Sinai is hiring a senior back-end engineer to build our decarbonization platform](https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer)
 * [The Computer Chronicles (1983 – 2002)](https://archive.org/details/Computer_Chronicles)
+* [Sinai is hiring a senior back-end engineer to build our decarbonization platform](https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer)
 * [Journal 2.0: Mental Space for What Matters](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
 * [Jeffrey Epstein’s Harvard connections show how money can distort research](https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/)
-* [Bridgefy, the messenger promoted for mass protests, is a privacy disaster](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 * [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
-* [Emotional resilience and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing)
-* [JavaScript Generators, Meet XPath](https://jack.wrenn.fyi/blog/xpath-for-2020/)
+* [Bridgefy, the messenger promoted for mass protests, is a privacy disaster](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 * [Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem](https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/)
-* [Top colleges should select randomly from a pool of ‘good enough’ (2005)](https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/)
+* [JavaScript Generators, Meet XPath](https://jack.wrenn.fyi/blog/xpath-for-2020/)
+* [Emotional resilience and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing)
 * [Making money building Shopify micro-SaaS apps](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify)
 * [A tale of webpage speed, or throwing away React](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/)
+* [Top colleges should select randomly from a pool of ‘good enough’ (2005)](https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/)
 * [How to clear a path through 60 feet of snow, Japanese style (2017)](https://www.atlasobscura.com/articles/snow-canyon-japan)
 * [Vitamin D, part 2: Shannon's story](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe)
+* [Show HN: Vigyaa Anonymous – A safe place to write and read anonymously](http://Vigyaa.io)
+* [Facebook agrees to pay France €106M in back taxes](https://www.bbc.co.uk/news/business-53894959)
 * [Automotive Grade Linux](https://www.automotivelinux.org/)
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
-* [Apparatus with Magnets](https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e)
 * [Remains of 17th century bishop support Neolithic emergence of tuberculosis](https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis)
-* [Facebook agrees to pay France €106M in back taxes](https://www.bbc.co.uk/news/business-53894959)
-* [Show HN: InstaNote – notes in a simple chat interface](https://www.instanote.io/)
-* [Dnjs: A pure subset of JavaScript that wants to replace configuration languages](https://github.com/leontrolski/dnjs)
+* [Apparatus with Magnets](https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e)
 ## nytimes.com
 
 
@@ -46,7 +46,6 @@ layout: default
 * [RNC Watch Guide: What to Watch For at the Convention Tonight](https://www.nytimes.com/2020/08/24/us/politics/republican-national-convention-guide.html)
 * [Donald Trump Jr. Is Ready. But for What, Exactly?](https://www.nytimes.com/2020/08/24/magazine/donald-trump-jr.html)
 * [Networks’ Challenge: Covering a Live Convention When Falsehoods Fly](https://www.nytimes.com/2020/08/24/us/politics/trump-convention-tv-fact-check.html)
-* [Jerry Falwell Jr. Resigns as Leader of Liberty University](https://www.nytimes.com/2020/08/24/us/jerry-falwell-resigns-liberty.html)
 * [Covid-19: Live News and Updates](https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html)
 * [College Reopening: The Outlook for In-Person Classes](https://www.nytimes.com/2020/08/24/us/college-university-reopening-coronavirus.html)
 * [Wisconsin Reels After Police Shooting and Night of Protest](https://www.nytimes.com/2020/08/24/us/kenosha-police-shooting.html)
@@ -76,11 +75,11 @@ layout: default
 * [Tropical Storm Live Updates: Laura Looms Large as Marco Nears Louisiana](https://www.nytimes.com/2020/08/24/us/laura-marco-storm-news.html)
 * [‘The Big Short 2.0’: How Hedge Funds Profited Off the Pain of Malls](https://www.nytimes.com/2020/08/24/business/mall-short-hedge-funds.html)
 * [Aleksei Navalny, Putin Critic in a Coma, Was Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
-* [Live Updates: DeJoy Spars With Democrats Over Postal Service Changes](https://www.nytimes.com/2020/08/24/us/politics/postal-service-dejoy-testimony.html)
+* [Key Highlights of Louis DeJoy’s Testimony to a House Panel](https://www.nytimes.com/2020/08/24/us/politics/postal-service-dejoy-testimony.html)
 * [He Helped Fellow Immigrants See the World. Now His Business Is Sinking.](https://www.nytimes.com/2020/08/24/nyregion/travel-agents-coronavirus.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [Bettye LaVette Didn’t Know the Beatles’ ‘Blackbird.’ Then It Helped Her Fly.](https://www.nytimes.com/2020/08/24/arts/music/bettye-lavette-blackbirds.html)
@@ -94,20 +93,19 @@ layout: default
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
 * [Blood Plasma Treatment for Covid-19 Now on Hold at F.D.A.](https://www.nytimes.com/2020/08/19/us/politics/blood-plasma-covid-19.html)
 * [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [Justin Townes Earle, Singer-Songwriter in Father’s Footsteps, Dies at 38](https://www.nytimes.com/2020/08/24/arts/music/justin-townes-earle-dead.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Pedro Paulo Rangel estreia temporada on-line do Teatro Casa Grande](https://oglobo.globo.com/rioshow/pedro-paulo-rangel-estreia-temporada-on-line-do-teatro-casa-grande-24603577)
+* [Governo aumenta em R$ 6 bi limite de crédito para estados e municípios](https://oglobo.globo.com/economia/governo-aumenta-em-6-bi-limite-de-credito-para-estados-municipios-24603676)
+* [Apenas 4% dos estudantes da área de saúde cadastrados para atuar no combate à Covid-19 foram recrutados](https://oglobo.globo.com/sociedade/apenas-4-dos-estudantes-da-area-de-saude-cadastrados-para-atuar-no-combate-covid-19-foram-recrutados-24603605)
+* [Filhos da deputada federal e pastora Flordelis são transferidos pra o presídio de Benfica](https://oglobo.globo.com/rio/filhos-da-deputada-federal-pastora-flordelis-sao-transferidos-pra-presidio-de-benfica-24603659)
 * [Em contra-ataque ao avanço de Bolsonaro em seus redutos, PT planeja aproximação com militares](https://oglobo.globo.com/brasil/em-contra-ataque-ao-avanco-de-bolsonaro-em-seus-redutos-pt-planeja-aproximacao-com-militares-24603617)
 * [Brasil ultrapassa 115 mil mortes por Covid-19, mostra consórcio de veículos de imprensa no boletim das 20h](https://oglobo.globo.com/sociedade/brasil-ultrapassa-115-mil-mortes-por-covid-19-mostra-consorcio-de-veiculos-de-imprensa-no-boletim-das-20h-1-24603602)
 * [Primeiro leilão de fazenda do operador de Cabral não tem nenhum interessado](https://oglobo.globo.com/brasil/primeiro-leilao-de-fazenda-do-operador-de-cabral-nao-tem-nenhum-interessado-24603591)
-* [Apenas 4% dos estudantes da área de saúde cadastrados para atuar no combate a covid-19 foram recrutados](https://oglobo.globo.com/sociedade/apenas-4-dos-estudantes-da-area-de-saude-cadastrados-para-atuar-no-combate-covid-19-foram-recrutados-24603605)
-* [Reformulação no Barcelona: veja os medalhões cotados para sair e as promessas que podem chegar](https://oglobo.globo.com/esportes/reformulacao-no-barcelona-veja-os-medalhoes-cotados-para-sair-as-promessas-que-podem-chegar-24603566)
 * ['Acaba com fetiche', diz diretora Laís Bodanzky sobre Festival de Berlim abolir distinção de gênero em prêmios de atuação](https://oglobo.globo.com/cultura/acaba-com-fetiche-diz-diretora-lais-bodanzky-sobre-festival-de-berlim-abolir-distincao-de-genero-em-premios-de-atuacao-24603380)
 * [Auxílio da União mais que compensou perdas de estados e municípios na pandemia, diz Tesouro](https://oglobo.globo.com/economia/auxilio-da-uniao-mais-que-compensou-perdas-de-estados-municipios-na-pandemia-diz-tesouro-24603592)
-* [Rio segue com madrugadas geladas até quinta-feira e mínimas de 12°C; de dia, temperaturas sobem gradualmente](https://oglobo.globo.com/rio/rio-segue-com-madrugadas-geladas-ate-quinta-feira-minimas-de-12c-de-dia-temperaturas-sobem-gradualmente-24603574)
 * [Nos EUA, empresas pagam bônus milionários a executivos pouco antes de pedirem falência](https://oglobo.globo.com/economia/nos-eua-empresas-pagam-bonus-milionarios-executivos-pouco-antes-de-pedirem-falencia-24603579)
-* [Leandra Leal fala sobre documentário gravado com a mãe durante a quarentena: 'Sempre cultivei o desejo de atuar com ela'](https://oglobo.globo.com/ela/gente/leandra-leal-fala-sobre-documentario-gravado-com-mae-durante-quarentena-sempre-cultivei-desejo-de-atuar-com-ela-1-24603531)

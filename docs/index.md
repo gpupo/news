@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 08:19:30 UTC
+# indexed at 24/08/2020 08:34:54 UTC
 
 
 ## news.ycombinator.com
 
 
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
-* [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
 * [When Women Crowdfunded Radium for Marie Curie](https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/)
-* [Universal basic income seems to improve employment and well-being](https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651)
 * [Kali Linux Replacing Bash with ZSH](https://www.kali.org/news/kali-2020-3-release/)
+* [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
+* [Universal basic income seems to improve employment and well-being](https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651)
 * [Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users](https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against)
-* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
 * [Staking Claims with Scheduled Tweets](https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/)
-* [Show HN: My Notes on Working with Go](https://github.com/betty200744/ultimate-go)
+* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
+* [Show HN: My notes on Working with Go](https://github.com/betty200744/ultimate-go)
 * [A step towards new nitrogen products](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
 * [Patrick Collison's Questions](https://patrickcollison.com/questions)
 * [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
 * [June Jordan and Buckminster Fuller Tried to Redesign Harlem](https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem)
 * [Network Coding in P2P Networks](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks)
-* [A Do-It-Yourself paper digital computer (1959)](https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html)
+* [Btrfs Coming to Fedora 33](https://fedoramagazine.org/btrfs-coming-to-fedora-33/)
 * [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
+* [A Do-It-Yourself paper digital computer (1959)](https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html)
 * [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
 * [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
 * [Height Modernization: Recalibrating where the U.S. physically sits on the planet](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
 * [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
 * [Teletext Bad Apple](https://bitshifters.github.io/posts/prods/bs-badapple.html)
-* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
+* [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
 * [Ten countries kept out Covid, but did they win?](https://www.bbc.com/news/world-asia-53831063)
 * [Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs](https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk)
+* [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
 * [All about Woad](http://www.woad.org.uk)
 * [A Clean Start for the Web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
-* [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
 * [Principal Component Analysis](https://leimao.github.io/article/Principal-Component-Analysis/)
-* [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Louisiana Braces for Hurricane Marco and Tropical Storm Laura](https://www.nytimes.com/2020/08/23/us/tropical-storm-laura-marco-louisiana.html)
 * [In California’s Wine Country, a Familiar Threat of Smoke and Flame](https://www.nytimes.com/2020/08/23/us/california-fires-wine-country-napa-valley.html)
 * [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
+* [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [For a Music Critic, a Vacation That’s All Too Quiet](https://www.nytimes.com/2020/08/23/arts/music/classical-music-coronavirus.html)
 * [Internet and Power Outage? It's Storm Season](https://www.nytimes.com/2020/08/19/style/coned-blackouts-spectrum-hurricanes.html)
 * [‘Sisters in Hate’ Offers a Window Into Women in the White Nationalist Movement](https://www.nytimes.com/2020/08/19/books/review/sisters-in-hate-seyward-darby.html)
@@ -92,8 +92,9 @@ layout: default
 * [The Dreaded Lanternfly, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [President’s Sister Describes Trump as Liar With ‘No Principles’ in Recordings](https://www.nytimes.com/2020/08/22/us/politics/maryanne-trump-donald.html)
-* [Trump and Miss Moscow: Report Examines Possible Compromises in Russia Trips](https://www.nytimes.com/2020/08/18/us/politics/trump-russia-senate-intelligence.html)
+* [How to Watch the Democratic National Convention](https://www.nytimes.com/2020/08/20/us/politics/dnc.html)
+* [Get Ready for a Teacher Shortage Like We’ve Never Seen Before](https://www.nytimes.com/2020/08/17/opinion/coronavirus-schools-teachers.html)
+* [Stephen F. Williams, U.S. Appeals Court Judge, Dies at 83](https://www.nytimes.com/2020/08/20/obituaries/stephen-f-williams-dead-coronavirus.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

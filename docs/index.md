@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 17:15:34 UTC
+# indexed at 24/08/2020 17:34:50 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Vitamin D, part 2: Shannon's story](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe)
-* [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
 * [Being OK with Not Being Extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
+* [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
 * [Challenge to scientists: does your ten-year-old code still run?](https://www.nature.com/articles/d41586-020-02462-7)
-* [Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis](https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis)
 * [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech)
+* [Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis](https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis)
 * [Show HN: InstaNote – notes in a simple chat interface](https://www.instanote.io/)
-* [UberEats could be underpaying delivery drivers on 21% of trips](https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8)
-* [Emacs xwidget-webkit enhancement suite](https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev)
 * [Emotional Resilience and Burnout in Leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing)
-* [Why facial recognition has led to false arrests](http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine)
-* [Ubuntu Philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
+* [Emacs xwidget-webkit enhancement suite](https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev)
+* [UberEats could be underpaying delivery drivers on 21% of trips](https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8)
 * [Why Uber's business model is doomed](https://www.theguardian.com/commentisfree/2020/aug/24/gig-economy-uber-lyft-insecurity-crisis)
+* [Ubuntu Philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
+* [Why facial recognition has led to false arrests](http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine)
 * [Making money building Shopify micro-SaaS apps](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify)
-* [A tale of webpage speed, or throwing away React](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/)
-* [Pachyderm Raises $16M Series B and is hiring for all engineering roles](https://jobs.lever.co/pachyderm/)
 * [Automotive Grade Linux](https://www.automotivelinux.org/)
-* [Increasing wind turbine rotor blade visibility reduces avian fatalities](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592)
-* [Minotaur: A pythonic, asynchronous, inotify interface](https://github.com/giannitedesco/minotaur)
 * [Scaling Services with Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
-* [TriFinger: An Open-Source Robot for Learning Dexterity](https://sites.google.com/view/trifinger)
+* [Minotaur: A pythonic, asynchronous, inotify interface](https://github.com/giannitedesco/minotaur)
+* [Pachyderm Raises $16M Series B and is hiring for all engineering roles](https://jobs.lever.co/pachyderm/)
+* [Increasing wind turbine rotor blade visibility reduces avian fatalities](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592)
+* [A tale of webpage speed, or throwing away React](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/)
 * [Kali Linux 2020.3](https://www.kali.org/news/kali-2020-3-release/)
 * [Show HN: My notes on Working with Go](https://github.com/betty200744/ultimate-go)
 * [A Seed Stage Mental Framework to Limit Failure as a Startup Founder](https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework)
+* [TriFinger: An Open-Source Robot for Learning Dexterity](https://sites.google.com/view/trifinger)
 * [Solaris 10 Zones on Illumos Tribblix](https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html)
 * [Remembering what you Read: Zettelkasten vs. P.A.R.A](https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/)
 * [Bletchley Park: New crisis for code-breaking hub](https://www.bbc.co.uk/news/technology-53888151)
-* [Zoom Partial Outages](https://status.zoom.us/)
 * [Why Every City Feels the Same Now](https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/)
+* [Zoom Partial Outages](https://status.zoom.us/)
 * [Pieter Levels Makes $600k a Year from Nomad List and Remote OK](https://www.nocsdegree.com/pieter-levels-learn-coding/)
 ## nytimes.com
 
@@ -52,12 +52,9 @@ layout: default
 * [‘The Big Short 2.0’: How Hedge Funds Profited Off the Pain of Malls](https://www.nytimes.com/2020/08/24/business/mall-short-hedge-funds.html)
 * [Disability, Work and Coronavirus: What Happens Now?](https://www.nytimes.com/2020/08/24/style/disability-accessibility-coronavirus.html)
 * [Aleksei Navalny Was Probably Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
-* [Trump’s Big Week](https://www.nytimes.com/2020/08/24/briefing/donald-trump-kellyanne-conway-kenosha-your-monday-briefing.html)
-* [N.Y.P.D. Records, No Longer Secret, Shed Light on Misconduct](https://www.nytimes.com/2020/08/24/nyregion/NYPD-records-released.html)
 * [A Surge in Shootings](https://www.nytimes.com/2020/08/24/podcasts/the-daily/gun-violence-new-york.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Join Us — Live! — for a Recap of the Democratic National Convention](https://www.nytimes.com/article/2020-election-events.html)
-* [California’s Crises Converge: Fleeing Wildfires in a Pandemic](https://www.nytimes.com/2020/08/24/us/california-wildfires.html)
 * [Trump’s Reality TV Show Would Like You to Forget About Reality for a While](https://www.nytimes.com/2020/08/24/opinion/trumps-republican-convention-reality-TV.html)
 * [For Conservatives to Have Any Hope, Trump Has to Lose](https://www.nytimes.com/2020/08/24/opinion/trump-conservatives-republicans.html)
 * [Jerry Seinfeld: So You Think New York Is ‘Dead’](https://www.nytimes.com/2020/08/24/opinion/jerry-seinfeld-new-york-coronavirus.html)
@@ -84,8 +81,8 @@ layout: default
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [Baseball’s Most Unusual Season Is Halfway Over](https://www.nytimes.com/2020/08/24/sports/baseball/Dodgers-halfway-season.html)
 * [Overlooked No More: Leonora O’Reilly, Suffragist Who Fought for Working Women](https://www.nytimes.com/2020/08/21/obituaries/leonora-oreilly-overlooked.html)
 * [Witnessing Pandemic New York, With an Ear to the Past](https://www.nytimes.com/2020/08/21/insider/new-york-city-pictures-pandemic.html)
@@ -103,13 +100,13 @@ layout: default
 ## globo.com
 
 
-* [Com cerca de 115 mil mortes por Covid-19 no país, Bolsonaro faz evento no Planalto para defender tratamento precoce com cloroquina](https://oglobo.globo.com/sociedade/com-cerca-de-115-mil-mortes-por-covid-19-no-pais-bolsonaro-faz-evento-no-planalto-para-defender-tratamento-precoce-com-cloroquina-24602967)
+* [Governo avalia adiar anúncio de pacote com medidas econômicas](https://oglobo.globo.com/economia/governo-avalia-adiar-anuncio-de-pacote-com-medidas-economicas-1-24603105)
 * [Bolsonaro volta a atacar a imprensa e chama jornalistas de 'bundões'](https://oglobo.globo.com/brasil/bolsonaro-volta-atacar-imprensa-chama-jornalistas-de-bundoes-1-24603082)
-* [Prédio desaba na Índia, e pelo menos 90 pessoas podem estar sob escombros, diz polícia](https://oglobo.globo.com/mundo/predio-desaba-na-india-pelo-menos-90-pessoas-podem-estar-sob-escombros-diz-policia-24603091)
 * [Veste Rio: em talk, editor da 'Vogue' Arábia fala sobre edição de setembro, cujo mote é esperança](https://oglobo.globo.com/ela/veste-rio/veste-rio-em-talk-editor-da-vogue-arabia-fala-sobre-edicao-de-setembro-cujo-mote-esperanca-24602970)
+* [Com cerca de 115 mil mortes por Covid-19 no país, Bolsonaro faz evento no Planalto para defender tratamento precoce com cloroquina](https://oglobo.globo.com/sociedade/com-cerca-de-115-mil-mortes-por-covid-19-no-pais-bolsonaro-faz-evento-no-planalto-para-defender-tratamento-precoce-com-cloroquina-24602967)
+* [Prédio desaba na Índia, e pelo menos 90 pessoas podem estar sob escombros, diz polícia](https://oglobo.globo.com/mundo/predio-desaba-na-india-pelo-menos-90-pessoas-podem-estar-sob-escombros-diz-policia-24603091)
 * [Presidente do PSL carioca diz que não fará campanha para Crivella 'de jeito nenhum'](https://oglobo.globo.com/brasil/presidente-do-psl-carioca-diz-que-nao-fara-campanha-para-crivella-de-jeito-nenhum-24603083)
 * [Polícia abre novo inquérito para apurar suspeitas de envolvimento de mais quatro pessoas na morte do pastor Anderson](https://oglobo.globo.com/rio/policia-abre-novo-inquerito-para-apurar-suspeitas-de-envolvimento-de-mais-quatro-pessoas-na-morte-do-pastor-anderson-24603089)
-* [JBS desbanca Petrobras e se torna maior empresa do país em receita](https://oglobo.globo.com/economia/jbs-desbanca-petrobras-se-torna-maior-empresa-do-pais-em-receita-24603004)
 * ['Investigação é contraditória e está sendo usada como (ato) inquisitório', diz advogado de Flordelis](https://oglobo.globo.com/rio/investigacao-contraditoria-esta-sendo-usada-como-ato-inquisitorio-diz-advogado-de-flordelis-24603058)
 * [As perguntas sem resposta na volta às aulas no Rio de Janeiro durante a pandemia](https://oglobo.globo.com/analitico/as-perguntas-sem-resposta-na-volta-as-aulas-no-rio-de-janeiro-durante-pandemia-24602996)
 * [Moderna planeja fornecer 80 milhões de doses de vacina contra a Covid-19 para a União Europeia](https://oglobo.globo.com/sociedade/moderna-planeja-fornecer-80-milhoes-de-doses-de-vacina-contra-covid-19-para-uniao-europeia-24602937)

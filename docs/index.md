@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 24/08/2020 06:18:23 UTC
+# indexed at 24/08/2020 06:35:41 UTC
 
 
 ## news.ycombinator.com
 
 
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
-* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
 * [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271)
-* [2020: An Isolation Odyssey](http://lydiacambron.com/index.php/project/2020-an-isolation-odyssey/)
-* [A step towards new nitrogen products](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
+* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
 * [June Jordan and Buckminster Fuller Tried to Redesign Harlem](https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem)
+* [A step towards new nitrogen products](https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air)
 * [Build Your Own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 * [Patrick Collison's Questions](https://patrickcollison.com/questions)
 * [CMDR-DOS: Commodore DOS on FAT32](https://www.pagetable.com/?p=1421)
 * [Network Coding in P2P Networks](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks)
-* [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
-* [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [A Clean Start for the Web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
-* [Ten countries kept out Covid. But did they win?](https://www.bbc.com/news/world-asia-53831063)
+* [Songwhip – Share a music link to every platform](https://songwhip.com)
 * [My Fourier Epicycles](https://www.myfourierepicycles.com/)
 * [Height Modernization: Recalibrating where the U.S. physically sits on the planet](https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html)
 * [Persisting as a solo founder](https://vishnu.tech/posts/persistence/)
+* [Ten countries kept out Covid, but did they win?](https://www.bbc.com/news/world-asia-53831063)
+* [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
 * [Implement an emulator for a fantasy CPU in JavaScript](https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617)
 * [Bliss: A language for systems programming (1971) [pdf]](https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf)
-* [Finding vulnerable Twitter accounts with expired domains](https://zainamro.com/hacks/finding-vulnerable-twitter-accounts)
-* [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
+* [PHP Built-In Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
 * [Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store](https://news.ycombinator.com/item?id=24252408)
+* [Natural language benchmarks don’t measure AI models’ general knowledge well](https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/)
 * [Teletext Bad Apple](https://bitshifters.github.io/posts/prods/bs-badapple.html)
 * [Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs](https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk)
-* [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [All about Woad](http://www.woad.org.uk)
 * [Show HN: Boook.link – Share a book with links to all stores](https://boook.link)
-* [Some Ugly Code Can Get Nvidia's Linux Driver Working with Accelerated XWayland](https://www.phoronix.com/scan.php?page=news_item&px=GLX-Delay-Accel-NV-XWayland)
 * [Principal Component Analysis](https://leimao.github.io/article/Principal-Component-Analysis/)
+* [Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74](https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
 * [Never run ‘python’ in your downloads folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
+* [Some Ugly Code Can Get Nvidia's Linux Driver Working with Accelerated XWayland](https://www.phoronix.com/scan.php?page=news_item&px=GLX-Delay-Accel-NV-XWayland)
+* [Bare Metal Rust Generics](https://www.ecorax.net/as-above-so-below-1/)
 ## nytimes.com
 
 
@@ -78,11 +78,11 @@ layout: default
 * [Louisiana Braces for Hurricane Marco and Tropical Storm Laura](https://www.nytimes.com/2020/08/23/us/tropical-storm-laura-marco-louisiana.html)
 * [In California’s Wine Country, a Familiar Threat of Smoke and Flame](https://www.nytimes.com/2020/08/23/us/california-fires-wine-country-napa-valley.html)
 * [Outdoor Dining Is a Hit, but N.Y.C. Restaurants Face 'Apocalyptic' Times](https://www.nytimes.com/2020/08/23/nyregion/outdoor-dining-new-york.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [How Smartphone Location Tracking Works, and What You Can Do About It](https://www.nytimes.com/2020/08/19/technology/smartphone-location-tracking-opt-out.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
 * [For a Music Critic, a Vacation That’s All Too Quiet](https://www.nytimes.com/2020/08/23/arts/music/classical-music-coronavirus.html)
 * [Internet and Power Outage? It's Storm Season](https://www.nytimes.com/2020/08/19/style/coned-blackouts-spectrum-hurricanes.html)
 * [‘Sisters in Hate’ Offers a Window Into Women in the White Nationalist Movement](https://www.nytimes.com/2020/08/19/books/review/sisters-in-hate-seyward-darby.html)
@@ -92,8 +92,9 @@ layout: default
 * [The Dreaded Lanternfly, Scourge of Agriculture, Spreads in New Jersey](https://www.nytimes.com/2020/08/21/science/lanternbug-invasive-insect.html)
 * [New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots](https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html)
 * [In N.Y.C.’s Spring Virus Surge, a Frightening Echo of 1918 Flu](https://www.nytimes.com/2020/08/13/health/coronavirus-flu-new-york.html)
-* [President’s Sister Describes Trump as Liar With ‘No Principles’ in Recordings](https://www.nytimes.com/2020/08/22/us/politics/maryanne-trump-donald.html)
-* [Scary Movies for When the World Is a Fright](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html)
+* [America Has Mistreated Its Coal Miners. Here’s Their Fight for Justice.](https://www.nytimes.com/2020/08/18/books/review/soul-full-of-coal-dust-chris-hamby.html)
+* [Untraceable cash flows into super PACs supporting Biden and Trump.](https://www.nytimes.com/live/2020/08/20/us/dnc-convention-election/untraceable-cash-flows-into-super-pacs-supporting-biden-and-trump)
+* [Mark Zuckerberg Questioned Under Oath in F.T.C. Antitrust Inquiry](https://www.nytimes.com/2020/08/20/technology/facebook-zuckerberg-ftc-questioned.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

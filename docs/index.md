@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 16:17:10 UTC
+# indexed at 25/08/2020 16:35:10 UTC
 
 
 ## news.ycombinator.com
 
 
 * [What the interns have wrought, 2020 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2020/)
-* [Searching for 'VK' shows only a single result on DuckduckGo. Why?](https://duckduckgo.com/?q=vk)
 * [Kindle Collects a Surprisingly Large Amount of Data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
-* [How to Write in Plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 * [‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5](https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5)
-* [Show HN: HyScale – An abstraction framework over Kubernetes](https://hyscale.github.io)
+* [How to Write in Plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 * [2,000-year-old redwoods survive wildfire at California's oldest state park](https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949)
+* [Show HN: HyScale – An abstraction framework over Kubernetes](https://hyscale.github.io)
 * [Animal behavior during a solar eclipse](https://readwildness.com/23/poli-eclipse)
-* [User's Kindle eBook collection revoked by Amazon (2012)](https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/)
+* [Beating Google's ReCaptcha Using AWS Rekognition (MIT license)](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
 * [OpenZFS Merged to FreeBSD](https://svnweb.freebsd.org/base?view=revision&revision=364746)
-* [The wildest insurance fraud scheme in Texas](https://www.texasmonthly.com/articles/it-was-never-enough/)
+* [Firefox 80](https://www.mozilla.org/en-US/firefox/80.0/releasenotes/)
+* [User's Kindle eBook collection revoked by Amazon (2012)](https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/)
 * [The Mathematical Structure of Particle Collisions Comes into View](http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view)
-* [GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech](https://www.gbatteries.com/roles/project-manager-technical)
-* [DIY Single-Chip 2D Retro Game Console](http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm)
-* [Mental Model: Second Order Thinking](https://models.substack.com/p/second-order-thinking)
+* [The wildest insurance fraud scheme in Texas](https://www.texasmonthly.com/articles/it-was-never-enough/)
 * [Show HN: Will It CORS? – an automatic CORS explainer](http://willitcors.com)
+* [Mental Model: Second Order Thinking](https://models.substack.com/p/second-order-thinking)
+* [Boston Dynamics' Handle Robot Recreated with Raspberry Pi](https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/)
+* [DIY Single-Chip 2D Retro Game Console](http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm)
+* [Respawn point: The inevitable reincarnation of the corporate office](https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/)
+* [GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech](https://www.gbatteries.com/roles/project-manager-technical)
 * [Please read the paper before you comment](https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/)
 * [Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”](https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/)
-* [Coronavirus: Germany puts on crowded concerts to study risks](https://www.bbc.com/news/world-europe-53875370)
-* [The GemRB project celebrates 20 year anniversary with a new release](https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html)
 * [My startup validation process](https://neilcocker.com/2020/08/22/my-startup-validation-process/)
+* [The GemRB project celebrates 20 year anniversary with a new release](https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html)
+* [Coronavirus: Germany puts on crowded concerts to study risks](https://www.bbc.com/news/world-europe-53875370)
+* [Security researcher discloses Safari bug after Apple delays patch](https://www.zdnet.com/article/security-researcher-discloses-safari-bug-after-apple-delays-patch/)
 * [Slack Incident Resolved – Degraded service affecting multiple features](https://status.slack.com/2020-08/960bbb3c9d49a3cc)
 * [Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store](https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/)
-* [Boston Dynamics' Handle Robot Recreated with Raspberry Pi](https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/)
 * [GCD and the magic of subtraction](https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/)
 * [Managing Teams Through Interfaces](https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/)
-* [Respawn point: The inevitable reincarnation of the corporate office](https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/)
 * [The fate of antiques and heirlooms in a disposable age](https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation)
-* [SourMint Malicious SDK](https://snyk.io/research/sour-mint-malicious-sdk/)
-* [Security researcher discloses Safari bug after Apple delays patch](https://www.zdnet.com/article/security-researcher-discloses-safari-bug-after-apple-delays-patch/)
 ## nytimes.com
 
 
@@ -46,16 +46,19 @@ layout: default
 * [Fact-Checking Day 1 of the Republican National Convention](https://www.nytimes.com/live/2020/08/24/us/rnc-fact-check)
 * [Trump’s Fights Are Their Fights. They Have His Back Unapologetically.](https://www.nytimes.com/2020/08/25/us/politics/trump-reelection-supporters.html)
 * [Biden Wants Black Voter Turnout Similar to Obama’s. He’ll Need Black Men.](https://www.nytimes.com/2020/08/25/us/politics/black-voters-biden.html)
+* [Covid-19 Live Updates: U.S. Parents Divided Along Political Lines Over Resuming In-Person Classes, Survey Shows](https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html)
+* [F.D.A. ‘Grossly Misrepresented’ Blood Plasma Data, Scientists Say](https://www.nytimes.com/2020/08/24/health/fda-blood-plasma.html)
+* [How the U.K. Restarted Its Restaurant Industry: Paying Half the Bill](https://www.nytimes.com/2020/08/25/business/britain-restaurants-eat-out-to-help-out.html)
 * [Jacob Blake Shooting Prompts Tense Protests and Fires in Several Cities](https://www.nytimes.com/2020/08/25/us/jacob-blake-kenosha-fires.html)
 * [Police Face Off Against Protesters in Wisconsin](https://www.nytimes.com/video/us/100000007306119/kenosha-protests-jacob-blake-wisconsin-video.html)
-* [F.D.A. ‘Grossly Misrepresented’ Blood Plasma Data, Scientists Say](https://www.nytimes.com/2020/08/24/health/fda-blood-plasma.html)
-* [Covid-19 Live Updates: U.S. Parents Divided Along Political Lines Over Resuming In-Person Classes, Survey Shows](https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html)
-* [How the U.K. Restarted Its Restaurant Industry: Paying Half the Bill](https://www.nytimes.com/2020/08/25/business/britain-restaurants-eat-out-to-help-out.html)
 * [How Bacteria-Eating Bacteria Could Help Win the War Against Germs](https://www.nytimes.com/2020/08/25/science/bacteria-bdellovibrio-predator-prey.html)
 * [Black Homeowners Face Discrimination in Appraisals](https://www.nytimes.com/2020/08/25/realestate/blacks-minorities-appraisals-discrimination.html)
+* [Virus Laggards](https://www.nytimes.com/2020/08/25/briefing/republican-convention-wisconsin-jerry-falwell-your-tuesday-briefing.html)
+* [Is New York City ‘Over’?](https://www.nytimes.com/2020/08/25/nyregion/nyc-coronavirus-reopening.html)
 * [Where We Stand on the Pandemic](https://www.nytimes.com/2020/08/25/podcasts/the-daily/coronavirus-plasma-reinfection.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Join Us — Live! — for a Recap of the Democratic National Convention](https://www.nytimes.com/article/2020-election-events.html)
+* [California Fires: Why This Year Is Different](https://www.nytimes.com/2020/08/25/us/california-fires-why-this-year-is-different.html)
 * [Grievances on Parade](https://www.nytimes.com/2020/08/25/opinion/trump-convention-platform.html)
 * [Republican Convention: Best and Worst Moments From Night 1](https://www.nytimes.com/2020/08/25/opinion/rnc-best-worst-night-1.html)
 * [Biden’s Loose Lips Could Sink His Chances](https://www.nytimes.com/2020/08/24/opinion/bidens-loose-lips-could-sink-his-chances.html)
@@ -67,8 +70,8 @@ layout: default
 * [A Vaccine That Stops Covid-19 Won’t Be Enough](https://www.nytimes.com/2020/08/24/opinion/coronavirus-vaccine-prevention.html)
 * [Jerry Seinfeld: So You Think New York Is ‘Dead’](https://www.nytimes.com/2020/08/24/opinion/jerry-seinfeld-new-york-coronavirus.html)
 * [Can Prosecutors Be Taught to Avoid Jail Sentences?](https://www.nytimes.com/2020/08/25/opinion/prosecutors-sentencing.html)
-* [The New Pandemic Flash Point: Your Vacation](https://www.nytimes.com/2020/08/25/travel/vacation-travel-coronavirus.html)
-* [What It Took to Get El Chapo Behind Bars for Life](https://www.nytimes.com/2020/08/25/books/review/el-jefe-alan-feuer.html)
+* [Meet the National Parks’ ‘Ranger of the Lost Art’](https://www.nytimes.com/2020/08/25/style/ranger-doug-leen-wpa-national-park-posters.html)
+* [Where the Produce Includes Pepperoni: The Pizza Farm](https://www.nytimes.com/2020/08/25/dining/pizza-farms.html)
 * [Hurricane Laura Live Updates: Storm Strengthens to Category 1](https://www.nytimes.com/2020/08/25/us/laura-storm-news.html)
 * [Business Updates: Stock Markets Rise on Trade Talk Progress](https://www.nytimes.com/live/2020/08/25/business/stock-market-today-coronavirus)
 * [Jerry Falwell Jr.’s Leadership at Liberty Appears Near End](https://www.nytimes.com/2020/08/24/us/jerry-falwell-resigns-liberty.html)
@@ -98,9 +101,9 @@ layout: default
 ## globo.com
 
 
-* [Espanha colocará 2 mil militares para trabalhar no rastreamento de casos da Covid-19](https://oglobo.globo.com/mundo/espanha-colocara-2-mil-militares-para-trabalhar-no-rastreamento-de-casos-da-covid-19-24604918)
 * [Comunidades não foram incluídas em megaoperação da Polícia Civil no estado do Rio nesta terça-feira](https://oglobo.globo.com/rio/comunidades-nao-foram-incluidas-em-megaoperacao-da-policia-civil-no-estado-do-rio-nesta-terca-feira-24604972)
 * [Empresas de telefonia e internet terão ouvidoria para receber queixas de consumidores; veja como reclamar](https://oglobo.globo.com/economia/defesa-do-consumidor/empresas-de-telefonia-internet-terao-ouvidoria-para-receber-queixas-de-consumidores-veja-como-reclamar-24605006)
+* [Espanha colocará 2 mil militares para trabalhar no rastreamento de casos da Covid-19](https://oglobo.globo.com/mundo/espanha-colocara-2-mil-militares-para-trabalhar-no-rastreamento-de-casos-da-covid-19-24604918)
 * [A última cartada do presidente do STJ para criar o TRF-6](https://epoca.globo.com/guilherme-amado/a-ultima-cartada-do-presidente-do-stj-para-criar-trf-6-24604830)
 * [Presidente do PSDB dá entrada em hospital após detectar Covid](https://epoca.globo.com/guilherme-amado/presidente-do-psdb-da-entrada-em-hospital-apos-detectar-covid-24604976)
 * [Congresso começa a tocar agenda verde para dar 'resposta' a Bolsonaro na área ambiental](https://epoca.globo.com/brasil/congresso-comeca-tocar-agenda-verde-para-dar-resposta-bolsonaro-na-area-ambiental-1-24604954)

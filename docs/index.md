@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 02:18:36 UTC
+# indexed at 25/08/2020 02:35:14 UTC
 
 
 ## news.ycombinator.com
@@ -15,28 +15,28 @@ layout: default
 * [One Year of Nushell](https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html)
 * [Docker to rate limit image pulls](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
 * [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
-* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
-* [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
 * [‘CSS X’](https://www.w3.org/blog/2020/03/css-x/)
+* [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
+* [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
 * [Writing an SSDP Directory in Elixir](https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir)
 * [High bitrate video streaming with GStreamer RTP](https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/)
-* [Challenge to scientists: does your ten-year-old code still run?](https://www.nature.com/articles/d41586-020-02462-7)
 * [Nuclear Reactor Development History](https://whatisnuclear.com/reactor_history.html)
+* [Challenge to scientists: does your ten-year-old code still run?](https://www.nature.com/articles/d41586-020-02462-7)
+* [Computability in Linear Algebra (2004)](https://www.sciencedirect.com/science/article/pii/S0304397504004086)
 * [Facebook agrees to pay France €106M in back taxes](https://www.bbc.co.uk/news/business-53894959)
-* [Jaron Lanier on social media](https://www.gq.com/story/jaron-lanier-tech-oracle-profile)
-* [Jeffrey Epstein’s Harvard connections show how money can distort research](https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/)
 * [How to clear a path through 60 feet of snow, Japanese style (2017)](https://www.atlasobscura.com/articles/snow-canyon-japan)
 * [Top colleges should select randomly from a pool of ‘good enough’ (2005)](https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/)
+* [Jeffrey Epstein’s Harvard connections show how money can distort research](https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/)
+* [Jaron Lanier on social media](https://www.gq.com/story/jaron-lanier-tech-oracle-profile)
 * [Journal 2.0: Mental Space for What Matters](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
 * [Bridgefy, the messenger promoted for mass protests, is a privacy disaster](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 * [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
 * [Emotional resilience and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing)
 * [Making money building Shopify micro-SaaS apps](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify)
-* [Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem](https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/)
 * [Vitamin D, part 2: Shannon's story](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe)
+* [Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem](https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/)
 * [αcτµαlly pδrταblε εxεcµταblε](https://justine.storage.googleapis.com/ape.html)
 * [Apparatus with Magnets](https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e)
-* [The Computer Chronicles (1983 – 2002)](https://archive.org/details/Computer_Chronicles)
 * [JavaScript Generators, Meet XPath](https://jack.wrenn.fyi/blog/xpath-for-2020/)
 ## nytimes.com
 
@@ -82,9 +82,9 @@ layout: default
 * [Aleksei Navalny, Putin Critic in a Coma, Was Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
 * [American and Chinese Officials Take Pulse on Trade Deal, Six Months In](https://www.nytimes.com/2020/08/24/business/economy/us-china-trade-deal.html)
 * [A Lawyer’s Tweets Put India’s Supreme Court on Trial and Him at Risk of Imprisonment](https://www.nytimes.com/2020/08/24/world/asia/india-lawyer-trial-tweets.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [Bettye LaVette Didn’t Know the Beatles’ ‘Blackbird.’ Then It Helped Her Fly.](https://www.nytimes.com/2020/08/24/arts/music/bettye-lavette-blackbirds.html)
@@ -96,16 +96,17 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [When Bugs Crawl Up the Food Chain](https://www.nytimes.com/2020/08/10/science/bugs-food-chain.html)
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
-* [“We will not be taking the word ‘God’ out of the Pledge of Allegiance, OK? Like they did a number of times at their caucuses. Under God. Under God. All of a sudden those two words are missing.”](https://www.nytimes.com/live/2020/08/24/us/rnc-fact-check/we-will-not-be-taking-the-word-god-out-of-the-pledge-of-allegiance-ok-like-they-did-a-number-of-times-at-their-caucuses-under-go)
-* [“You deserve to know that they want a complete government takeover of our health care system, so moms like me won’t be able to take our kids to the same pediatrician they’ve been seeing for years.”](https://www.nytimes.com/live/2020/08/24/us/rnc-fact-check/you-deserve-to-know-that-they-want-a-complete-government-takeover-of-our-health-care-system-so-moms-like-me-wont-be-able-to-take)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [Charlie Kirk makes a nativist pitch for four more years of Trump.](https://www.nytimes.com/live/2020/08/24/us/rnc-convention-election/charlie-kirk-makes-a-nativist-pitch-for-four-more-years-of-trump)
+* [Vernon Jones, a Democratic state legislator, crossed party lines to back Trump.](https://www.nytimes.com/live/2020/08/24/us/rnc-convention-election/vernon-jones-a-democratic-state-legislator-crossed-party-lines-to-back-trump)
+* [Mark and Patricia McCloskey, who brandished guns at peaceful protesters, made a fear-mongering pitch.](https://www.nytimes.com/live/2020/08/24/us/rnc-convention-election/mark-and-patricia-mccloskey-who-brandished-guns-at-peaceful-protesters-made-a-fear-mongering-pitch)
+* [Kimberly Klacik, whose campaign ad went viral, accused Democrats of taking Black voters for granted.](https://www.nytimes.com/live/2020/08/24/us/rnc-convention-election/kimberly-klacik-whose-campaign-ad-went-viral-accused-democrats-of-taking-black-voters-for-granted)
+* [“They are not satisfied with spreading the chaos and violence into our communities. They want to abolish the suburbs altogether by ending single-family home zoning. This forced rezoning would bring crime, lawlessness and low-quality apartments into thriving suburban neighborhoods.”](https://www.nytimes.com/live/2020/08/24/us/rnc-fact-check/they-are-not-satisfied-with-spreading-the-chaos-and-violence-into-our-communities-they-want-to-abolish-the-suburbs-altogether-by)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Primeira noite da Convenção Republicana sugere filme de horror se Trump perder](https://oglobo.globo.com/mundo/primeira-noite-da-convencao-republicana-sugere-filme-de-horror-se-trump-perder-24604293)
 * [Confeiteiro relata racismo em supermercado de São Gonçalo: 'Fui humilhado'](https://oglobo.globo.com/rio/confeiteiro-relata-racismo-em-supermercado-de-sao-goncalo-fui-humilhado-24603754)
 * [MP suspeita de operações coincidentes nas contas de Flávio Bolsonaro e loja de chocolates](https://oglobo.globo.com/brasil/mp-suspeita-de-operacoes-coincidentes-nas-contas-de-flavio-bolsonaro-loja-de-chocolates-24604119)
 * [Brasil deve receber missão para monitorar liberdade de expressão, diz relator da OEA](https://epoca.globo.com/guilherme-amado/brasil-deve-receber-missao-para-monitorar-liberdade-de-expressao-diz-relator-da-oea-1-24603711)
@@ -115,4 +116,3 @@ layout: default
 * [Ronaldinho Gaúcho retornará nesta terça ao Brasil em voo privado](https://epoca.globo.com/guilherme-amado/ronaldinho-gaucho-retornara-nesta-terca-ao-brasil-em-voo-privado-1-24603704)
 * [Cobal do Humaitá: petição on-line por permanência do espaço ganha as redes](https://oglobo.globo.com/rio/cobal-do-humaita-peticao-on-line-por-permanencia-do-espaco-ganha-as-redes-24603694)
 * [Entenda o uso do plasma no tratamento contra a Covid-19](https://oglobo.globo.com/sociedade/entenda-uso-do-plasma-no-tratamento-contra-covid-19-24602950)
-* [Pedro Paulo Rangel estreia temporada on-line do Teatro Casa Grande](https://oglobo.globo.com/rioshow/pedro-paulo-rangel-estreia-temporada-on-line-do-teatro-casa-grande-24603577)

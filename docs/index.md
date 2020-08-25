@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 19:15:12 UTC
+# indexed at 25/08/2020 19:35:57 UTC
 
 
 ## news.ycombinator.com
@@ -15,33 +15,33 @@ layout: default
 * [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
 * [Kindle collects a surprisingly large amount of data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
 * [Chrome just got faster with Profile Guided Optimization](https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html)
+* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+* [Africa declared free of wild polio in 'milestone'](https://www.bbc.com/news/world-africa-53887947)
 * [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s)
-* [Searching for 'VK' shows only a single result on DuckduckGo. Why?](https://duckduckgo.com/?q=vk)
 * [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
 * [A new botnet is covertly targeting millions of servers](https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/)
-* [Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer](https://www.reverielabs.com/careers)
+* [Searching for 'VK' shows only a single result on DuckduckGo. Why?](https://duckduckgo.com/?q=vk)
 * [How to Write in Plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+* [Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer](https://www.reverielabs.com/careers)
 * [Ventoy makes making bootable USB drives easy](https://github.com/ventoy/Ventoy)
 * [2,000-year-old redwoods survive wildfire at California's oldest state park](https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949)
-* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe](https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe)
-* [Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS](https://github.com/model-zoo/shift-ctrl-f)
-* [Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store](https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/)
 * [Topicctl – an easier way to manage Kafka topics](https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/)
+* [Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store](https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/)
+* [Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS](https://github.com/model-zoo/shift-ctrl-f)
+* [The fate of antiques and heirlooms in a disposable age](https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation)
+* [Amazon is delivering nearly two-thirds of its own packages](https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html)
 * [Scots language Wikipedia is edited primarily by someone who doesn't know Scots](https://www.reddit.com/r/linguistics/comments/igbbh2/the_scots_language_wikipedia_is_edited_primarily/)
-* [The Mathematical Structure of Particle Collisions Comes into View](http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view)
 * [‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5](https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5)
+* [The Mathematical Structure of Particle Collisions Comes into View](http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view)
 * [Show HN: PuffinBASIC – A cross-platform modern BASIC interpreter written in Java](https://news.ycombinator.com/item?id=24265387)
-* [Animal behavior during a solar eclipse](https://readwildness.com/23/poli-eclipse)
 * [Boston Dynamics' Handle Robot Recreated with Raspberry Pi](https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/)
-* [What the interns have wrought, 2020 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2020/)
-* [Standard Space Habitats](https://halcanary.org/vv/2020/07/14/3017/)
+* [Animal behavior during a solar eclipse](https://readwildness.com/23/poli-eclipse)
 * [Show HN: Will It CORS? – an automatic CORS explainer](http://willitcors.com)
-* [Show HN: HyScale – An abstraction framework over Kubernetes](https://github.com/hyscale/hyscale)
 ## nytimes.com
 
 
-* [Covid-19 Live Updates: Colleges are Suspending Students Over Virus Safety Violations](https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html)
+* [Covid-19 Live Updates: Colleges Suspend Students Over Virus Safety Breaches](https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html)
 * [Business Updates: American Airlines to Furlough 19,000 Employees](https://www.nytimes.com/live/2020/08/25/business/stock-market-today-coronavirus)
 * [Here’s How Moving to Work Remotely Could Affect Your Taxes](https://www.nytimes.com/2020/08/25/business/coronavirus-nonresident-state-taxes.html)
 * [Speeches at the R.N.C. Will Blur the Line Between Governance and Politics](https://www.nytimes.com/live/2020/08/25/us/rnc-convention-election)
@@ -79,8 +79,8 @@ layout: default
 * [N.Y.C. Mayor Election: Do Voters Want Another White Mayor?](https://www.nytimes.com/2020/08/25/nyregion/black-race-mayor-nyc.html)
 * [Fighting Tanya Zuckerbrot's F-Factor Diet on Instagram](https://www.nytimes.com/2020/08/24/style/f-factor-diet-instagram.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [‘I May Destroy You’ Imagines a Path Back From Sexual Assault](https://www.nytimes.com/2020/08/25/arts/television/i-may-destroy-you-sexual-assault.html)
@@ -92,20 +92,21 @@ layout: default
 * [The Extra Stigma of Mental Illness for African-Americans](https://www.nytimes.com/2020/08/25/well/mind/black-mental-health.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
-* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
+* [The Pandemic’s Economic Crisis Calls for a Green Recovery](https://www.nytimes.com/2020/08/25/us/pandemic-economic-crisis-calls-for-a-green-recovery-rachel-kyte.html)
+* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [De olho em 2022, Bolsonaro pinta de verde e amarelo o Minha Casa Minha Vida](https://oglobo.globo.com/analitico/de-olho-em-2022-bolsonaro-pinta-de-verde-amarelo-minha-casa-minha-vida-24605262)
+* [Bolsonaro chama ministros para discutir o Pró-Brasil](https://oglobo.globo.com/economia/bolsonaro-chama-ministros-para-discutir-pro-brasil-1-24605306)
+* [Neymar? Possível 'substituto' de Messi já está no Barcelona e pode ganhar novo status dentro do clube](https://oglobo.globo.com/esportes/neymar-possivel-substituto-de-messi-ja-esta-no-barcelona-pode-ganhar-novo-status-dentro-do-clube-24605276)
+* [Cinco secretários estaduais já foram alvos de mandados da PF por irregularidades na Saúde durante a pandemia](https://oglobo.globo.com/brasil/cinco-secretarios-estaduais-ja-foram-alvos-de-mandados-da-pf-por-irregularidades-na-saude-durante-pandemia-24605311)
 * [Começa sessão para votar PEC do Fundeb no Senado](https://oglobo.globo.com/sociedade/comeca-sessao-para-votar-pec-do-fundeb-no-senado-24605156)
 * [Internazionale, Manchester City, PSG: confira possíveis destinos de Messi, que pode estar de saída do Barcelona](https://oglobo.globo.com/esportes/internazionale-manchester-city-psg-confira-possiveis-destinos-de-messi-que-pode-estar-de-saida-do-barcelona-24605265)
-* [Relatório do Coaf registra pagamento de Wassef a médico que atendeu Fabrício Queiroz](https://oglobo.globo.com/brasil/relatorio-do-coaf-registra-pagamento-de-wassef-medico-que-atendeu-fabricio-queiroz-1-24605193)
-* [Veja quem da família Bolsonaro já testou positivo para Covid-19](https://oglobo.globo.com/brasil/veja-quem-da-familia-bolsonaro-ja-testou-positivo-para-covid-19-24605202)
 * [Governadores buscam aprovar reformas para reduzir gastos com servidores](https://oglobo.globo.com/economia/governadores-buscam-aprovar-reformas-para-reduzir-gastos-com-servidores-24604368)
 * [Coluna | Livro de Mark Fisher usa cultura pop para analisar crise da imaginação atual](https://epoca.globo.com/henrique-balbi/coluna-livro-de-mark-fisher-usa-cultura-pop-para-analisar-crise-da-imaginacao-atual-24605197)
 * [Padre celebridade pediu segredo de justica para 'proteção de sua intimidade' em caso de extorsão](https://epoca.globo.com/brasil/padre-celebridade-pediu-segredo-de-justica-para-protecao-de-sua-intimidade-em-caso-de-extorsao-24605154)
 * [Relatório do Coaf registra pagamento de Wassef a médico que atendeu Queiroz](https://oglobo.globo.com/brasil/relatorio-do-coaf-registra-pagamento-de-wassef-medico-que-atendeu-queiroz-24605213)
-* [Feirão on-line da Serasa para quitar dívidas por R$ 100 termina dia 31](https://oglobo.globo.com/economia/defesa-do-consumidor/feirao-on-line-da-serasa-para-quitar-dividas-por-100-termina-dia-31-24605187)
-* [Cotado para ser relator de privatização da Eletrobras, senador vê avanço em discussão da medida](https://oglobo.globo.com/economia/cotado-para-ser-relator-de-privatizacao-da-eletrobras-senador-ve-avanco-em-discussao-da-medida-24605174)

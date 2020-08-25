@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 07:34:58 UTC
+# indexed at 25/08/2020 08:18:41 UTC
 
 
 ## news.ycombinator.com
 
 
-* [US home construction surges 22.6%, third monthly increase](https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918)
 * [2,000-year-old redwoods survive wildfire at California's oldest state park](https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949)
 * [Please read the paper before you comment](https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/)
 * [What Is the Small Web?](https://ar.al/2020/08/07/what-is-the-small-web/)
-* [OpenZFS Merged to FreeBSD](https://svnweb.freebsd.org/base?view=revision&revision=364746)
 * [How to Write in Plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+* [OpenZFS Merged to FreeBSD](https://svnweb.freebsd.org/base?view=revision&revision=364746)
+* [Expert: A Major Hurricane Hitting Houston Would Be “America’s Chernobyl”](https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/)
 * [Asana S-1](https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm)
-* [Epic vs. Apple: Order Granting in Part and Denying in Part Motion for TRO [pdf]](https://www.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.48.0.pdf)
 * [rc.d belongs in libexec, not etc](https://jmmv.dev/2020/08/rcd-libexec-etc.html)
 * [The wildest insurance fraud scheme in Texas](https://www.texasmonthly.com/articles/it-was-never-enough/)
+* [US home construction surges 22.6%, third monthly increase](https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918)
 * [Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot](https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight)
 * [GCD and the magic of subtraction](https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/)
-* [Docker to rate limit image pulls](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
 * [One Year of Nushell](https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html)
+* [Docker to rate limit image pulls](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
 * [The Renaissance of the Shell?](https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/)
 * [Clover: An all-in-one notebook](https://cloverapp.co/)
 * [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
-* [BPF Portability and CO-Re (Compile Once Run Everywhere)](https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html)
-* [BuildZoom (better way to build custom homes) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-* [Expert: A Major Hurricane Hitting Houston Would Be “America’s Chernobyl”](https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/)
 * [How to clear a path through 60 feet of snow, Japanese style (2017)](https://www.atlasobscura.com/articles/snow-canyon-japan)
 * [Being OK with not being extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
-* [Writing an SSDP Directory in Elixir](https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir)
 * [Dnjs: A pure subset of JavaScript that wants to replace configuration languages](https://github.com/leontrolski/dnjs)
+* [Writing an SSDP Directory in Elixir](https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir)
+* [BPF Portability and CO-Re (Compile Once Run Everywhere)](https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html)
 * [Nuclear Reactor Development History](https://whatisnuclear.com/reactor_history.html)
 * [High bitrate video streaming with GStreamer RTP](https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/)
-* [‘CSS X’](https://www.w3.org/blog/2020/03/css-x/)
-* [EBS Storage Improvements](https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/)
+* [BuildZoom (better way to build custom homes) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 * [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
+* [EBS Storage Improvements](https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/)
 * [Bridgefy, the messenger promoted for mass protests, is a privacy disaster](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
+* [‘CSS X’](https://www.w3.org/blog/2020/03/css-x/)
+* [Jeffrey Epstein’s Harvard connections show how money can distort research](https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Aleksei Navalny, Putin Critic in a Coma, Was Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
 * [American and Chinese Officials Take Pulse on Trade Deal, Six Months In](https://www.nytimes.com/2020/08/24/business/economy/us-china-trade-deal.html)
 * [1,100-Year-Old Treasure Is Unearthed by Teenagers in Israel](https://www.nytimes.com/2020/08/24/world/middleeast/israel-gold-coins-archaeology.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [Bettye LaVette Didn’t Know the Beatles’ ‘Blackbird.’ Then It Helped Her Fly.](https://www.nytimes.com/2020/08/24/arts/music/bettye-lavette-blackbirds.html)
 * [America Has Mistreated Its Coal Miners. Here’s Their Fight for Justice.](https://www.nytimes.com/2020/08/18/books/review/soul-full-of-coal-dust-chris-hamby.html)
 * [View From the I.M.F. — In a Crisis Like No Other, Gender Still Counts](https://www.nytimes.com/2020/08/23/us/IMF-kristalina-georgieva-gender-pandemic-crisis-economy.html)
@@ -104,13 +104,13 @@ layout: default
 ## globo.com
 
 
-* [Pacientes na Bélgica e na Holanda foram reinfectados pelo coronavírus](https://oglobo.globo.com/sociedade/pacientes-na-belgica-na-holanda-foram-reinfectados-pelo-coronavirus-24604345)
-* [Associações de juízes contestam editorial do GLOBO](https://oglobo.globo.com/opiniao/associacoes-de-juizes-contestam-editorial-do-globo-24603826)
-* [Fluminense x Figueirense: Por que o 2020 do tricolor passa por este jogo](https://oglobo.globo.com/esportes/fluminense-figueirense-por-que-2020-do-tricolor-passa-por-este-jogo-1-24603727)
-* [Dome sacrifica mantra de Jesus no Flamengo e gera desconforto no elenco por adaptação](https://oglobo.globo.com/esportes/dome-sacrifica-mantra-de-jesus-no-flamengo-gera-desconforto-no-elenco-por-adaptacao-24603415)
-* [Análise: o início de trabalho de Domènec Torrent no Flamengo é, de fato, pior que o de Jorge Jesus?](https://oglobo.globo.com/esportes/analise-inicio-de-trabalho-de-domenec-torrent-no-flamengo-de-fato-pior-que-de-jorge-jesus-24603369)
-* [Trapaças no paraíso](https://oglobo.globo.com/opiniao/trapacas-no-paraiso-24603640)
-* [Bahia, um exemplo a olhar](https://oglobo.globo.com/opiniao/bahia-um-exemplo-olhar-24603630)
-* [O minion dribla-teto](https://oglobo.globo.com/opiniao/o-minion-dribla-teto-24603620)
-* [Os estados e as mudanças climáticas](https://oglobo.globo.com/opiniao/os-estados-as-mudancas-climaticas-24603598)
-* [Impostos às claras](https://oglobo.globo.com/opiniao/impostos-as-claras-24603422)
+* [Impasse sobre o valor do Renda Brasil atrasa anúncio de megapacote do governo](https://oglobo.globo.com/economia/impasse-sobre-valor-do-renda-brasil-atrasa-anuncio-de-megapacote-do-governo-24604307)
+* [Estudo da UFRJ aponta aumento da transmissão da Covid-19 na cidade do Rio; confira 'Covidímetro'](https://oglobo.globo.com/rio/estudo-da-ufrj-aponta-aumento-da-transmissao-da-covid-19-na-cidade-do-rio-confira-covidimetro-1-24604209)
+* [Caso Flordelis: veja como foi a arquitetura do crime e a participação de cada um dos acusados na morte do pastor](https://oglobo.globo.com/rio/caso-flordelis-veja-como-foi-arquitetura-do-crime-a-participacao-de-cada-um-dos-acusados-na-morte-do-pastor-24604027)
+* [Governo muda estratégia para avançar com privatização da Eletrobras](https://oglobo.globo.com/economia/governo-muda-estrategia-para-avancar-com-privatizacao-da-eletrobras-24604121)
+* [Equipe econômica avalia propor imposto sobre big techs](https://oglobo.globo.com/economia/equipe-economica-avalia-propor-imposto-sobre-big-techs-24604111)
+* [Presidente, por que sua esposa recebeu R$ 89 mil de Queiroz?](https://oglobo.globo.com/podcast/presidente-por-que-sua-esposa-recebeu-89-mil-de-queiroz-1-24604034)
+* [Mototaxista baleado por PM morre após três anos com projétil alojado na cabeça](https://oglobo.globo.com/rio/mototaxista-baleado-por-pm-morre-apos-tres-anos-com-projetil-alojado-na-cabeca-24604088)
+* [Ao menos R$ 18 milhões foram gastos por governos em remédios sem eficácia comprovada contra a Covid-19](https://oglobo.globo.com/sociedade/ao-menos-18-milhoes-foram-gastos-por-governos-em-remedios-sem-eficacia-comprovada-contra-covid-19-1-24604031)
+* [Longe do retorno, festivais de música investem em estruturas físicas para shows (ainda) virtuais](https://oglobo.globo.com/cultura/longe-do-retorno-festivais-de-musica-investem-em-estruturas-fisicas-para-shows-ainda-virtuais-24603829)
+* [André Kfouri: O tempo ainda está à frente de Neymar](https://oglobo.globo.com/esportes/andre-kfouri-tempo-ainda-esta-frente-de-neymar-24603692)

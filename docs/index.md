@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 22:16:05 UTC
+# indexed at 25/08/2020 22:35:24 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
+* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
 * [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
-* [WebBundles harmful to content blocking, security tools, and the open web](https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/)
 * [Alberta government gives green light to Calgary-Edmonton Hyperloop project](https://www.theglobeandmail.com/canada/alberta/article-alberta-government-gives-green-light-to-hyperloop-project/)
+* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [A Chrome feature is creating enormous load on global root DNS servers](https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/)
 * [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
 * [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
+* [WebBundles harmful to content blocking, security tools, and the open web](https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/)
 * [Mux (YC W16) is hiring devs that want to help others build video (remote ok!)](https://mux.com/jobs?hnj=17)
-* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
 * [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
 * [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 * [Kindle collects a surprisingly large amount of data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
 * [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
+* [Incident updates, interruptions and the 30 minute window](https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/)
 * [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
 * [Tipe raises $2.1M seed round to build a customizable CMS for developers](https://tipe.io/blog/tipe-raises-seed)
-* [Palantir S-1](https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm)
 * [Amazon drops Linux support for generating Kindle ebooks](https://www.amazon.com/gp/feature.html/?docId=1000765211)
 * [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
-* [Incident updates, interruptions and the 30 minute window](https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/)
-* [Stone structures in Saudi Arabia may be among oldest monuments in world](https://www.livescience.com/mysterious-stone-structures-saudi-arabia-oldest.html)
-* [Topicctl – an easier way to manage Kafka topics](https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/)
-* [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
-* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
-* [Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store](https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/)
-* [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
-* [Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS](https://github.com/model-zoo/shift-ctrl-f)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
+* [Topicctl – an easier way to manage Kafka topics](https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/)
+* [Stone structures in Saudi Arabia may be among oldest monuments in world](https://www.livescience.com/mysterious-stone-structures-saudi-arabia-oldest.html)
+* [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
+* [Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS](https://github.com/model-zoo/shift-ctrl-f)
+* [Three Ways to Hack a Printed Circuit Board](https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board)
+* [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
+* [Palantir S-1](https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm)
 ## nytimes.com
 
 
@@ -81,10 +81,11 @@ layout: default
 * [Jerry Falwell Jr. Is Officially Out at Liberty University](https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html)
 * [Gail Sheehy, Journalist, Author and Social Observer, Dies at 83](https://www.nytimes.com/2020/08/25/books/gail-sheehy-dead.html)
 * [N.Y.C. Mayor Election: Do Voters Want Another White Mayor?](https://www.nytimes.com/2020/08/25/nyregion/black-race-mayor-nyc.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [The Power of Low-Stakes Productivity](https://www.nytimes.com/2020/08/17/smarter-living/the-power-of-low-stakes-productivity.html)
-* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [How ‘I May Destroy You’ Imagines a Path Back From Sexual Assault](https://www.nytimes.com/2020/08/25/arts/television/i-may-destroy-you-sexual-assault.html)
 * [Paul Theroux on a Globetrotting Novel Inspired by a Real Adventurer](https://www.nytimes.com/2020/08/25/books/review/hector-tobar-last-great-road-bum.html)
 * [Andy Murray Finds Pleasure in Tennis Again, After All the Pain](https://www.nytimes.com/2020/08/25/sports/tennis/andy-murray-alexander-zverev.html)
@@ -94,21 +95,20 @@ layout: default
 * [The Extra Stigma of Mental Illness for African-Americans](https://www.nytimes.com/2020/08/25/well/mind/black-mental-health.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
-* [For Refusing a Drink, a Chinese Worker Was Slapped in the Face](https://www.nytimes.com/2020/08/25/world/asia/china-slap-drinking-work.html)
-* [Trump’s Fights Are Their Fights. They Have His Back Unapologetically.](https://www.nytimes.com/2020/08/25/us/politics/trump-reelection-supporters.html)
+* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Morre mulher baleada no pescoço durante assalto a ônibus em Madureira](https://oglobo.globo.com/rio/morre-mulher-baleada-no-pescoco-durante-assalto-onibus-em-madureira-24605722)
+* [Ministro do STJ suspende inquérito que investiga jornalista por artigo sobre Bolsonaro e Covid-19](https://oglobo.globo.com/brasil/ministro-do-stj-suspende-inquerito-que-investiga-jornalista-por-artigo-sobre-bolsonaro-covid-19-24605727)
+* [Após ordem judicial com proibição de sair do país, Flordelis entrega passaportes](https://oglobo.globo.com/rio/apos-ordem-judicial-com-proibicao-de-sair-do-pais-flordelis-entrega-passaportes-24605737)
+* [30 Minutos de Vasco #03: Cano pode chegar a 30 gols no Brasileiro? Valdir Bigode responde](https://oglobo.globo.com/esportes/30-minutos-de-vasco-03-cano-pode-chegar-30-gols-no-brasileiro-valdir-bigode-responde-24605519)
 * [Messi pode sair do Barcelona sem multa? Entenda a discussão em torno da cláusula que virou centro da disputa](https://oglobo.globo.com/esportes/messi-pode-sair-do-barcelona-sem-multa-entenda-discussao-em-torno-da-clausula-que-virou-centro-da-disputa-24605698)
-* [Wassef recebeu repasses milionários de sócia de empresa que possui contratos com o governo federal, mostra relatório do Coaf](https://oglobo.globo.com/brasil/wassef-recebeu-repasses-milionarios-de-socia-de-empresa-que-possui-contratos-com-governo-federal-mostra-relatorio-do-coaf-24605633)
 * ['Anjo' Wassef passou a assombrar os planos de Bolsonaro](https://oglobo.globo.com/analitico/anjo-wassef-passou-assombrar-os-planos-de-bolsonaro-24605493)
 * [Alemanha alerta para 'desastre' e tenta mediar diálogo entre Grécia e Turquia em disputa no Mediterrâneo](https://oglobo.globo.com/mundo/alemanha-alerta-para-desastre-tenta-mediar-dialogo-entre-grecia-turquia-em-disputa-no-mediterraneo-24605680)
 * [Cármen Lúcia dá prazo de 48 horas para Banco Central explicar cédula de R$ 200](https://oglobo.globo.com/economia/carmen-lucia-da-prazo-de-48-horas-para-banco-central-explicar-cedula-de-200-1-24605645)
 * [Discurso fervoroso faz de nora de Trump a estrela da Convenção Republicana](https://oglobo.globo.com/mundo/discurso-fervoroso-faz-de-nora-de-trump-estrela-da-convencao-republicana-24605661)
 * [Frederick Wassef recebeu repasses milionários de sócia de empresa que possui contratos com o governo, mostra relatório do Coaf](https://oglobo.globo.com/brasil/frederick-wassef-recebeu-repasses-milionarios-de-socia-de-empresa-que-possui-contratos-com-governo-mostra-relatorio-do-coaf-24605654)
-* [Após quase um século, ExxonMobil é retirada do índice Dow Jones](https://oglobo.globo.com/economia/apos-quase-um-seculo-exxonmobil-retirada-do-indice-dow-jones-24605629)
-* [É #FAKE que João de Deus disse que ministros do STF pediam dinheiro e garotas em lugares secretos](https://oglobo.globo.com/fato-ou-fake/e-fake-que-joao-de-deus-disse-que-ministros-do-stf-pediam-dinheiro-garotas-em-lugares-secretos-24605599)
-* [Ministério da Economia mapeia os cinco setores mais impactados pela pandemia; veja quais são](https://epoca.globo.com/guilherme-amado/ministerio-da-economia-mapeia-os-cinco-setores-mais-impactados-pela-pandemia-veja-quais-sao-24605575)

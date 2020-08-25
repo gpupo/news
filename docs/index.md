@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 05:17:29 UTC
+# indexed at 25/08/2020 05:35:07 UTC
 
 
 ## news.ycombinator.com
@@ -14,30 +14,30 @@ layout: default
 * [rc.d belongs in libexec, not etc](https://jmmv.dev/2020/08/rcd-libexec-etc.html)
 * [Being OK with not being extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
 * [GCD and the magic of subtraction](https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/)
-* [Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot](https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight)
 * [The wildest insurance fraud scheme in Texas](https://www.texasmonthly.com/articles/it-was-never-enough/)
+* [Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot](https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight)
+* [US home construction surges 22.6%, third monthly increase](https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918)
 * [One Year of Nushell](https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html)
 * [Docker to rate limit image pulls](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
-* [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
 * [Clover: An all-in-one notebook](https://cloverapp.co/)
+* [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm)
+* [2,000-year-old redwoods survive wildfire at California's oldest state park](https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949)
 * [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
-* [EBS Storage Improvements](https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/)
 * [Writing an SSDP Directory in Elixir](https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir)
 * [Vitamin D, part 2: Shannon's story](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe)
+* [EBS Storage Improvements](https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/)
 * [Nuclear Reactor Development History](https://whatisnuclear.com/reactor_history.html)
-* [High bitrate video streaming with GStreamer RTP](https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/)
 * [How to clear a path through 60 feet of snow, Japanese style (2017)](https://www.atlasobscura.com/articles/snow-canyon-japan)
+* [High bitrate video streaming with GStreamer RTP](https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/)
+* [Operation Rosehub (Mad Gadget) (2017)](https://opensource.googleblog.com/2017/03/operation-rosehub.html)
 * [Making money building Shopify micro-SaaS apps](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify)
 * [‘CSS X’](https://www.w3.org/blog/2020/03/css-x/)
 * [Bridgefy, the messenger promoted for mass protests, is a privacy disaster](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 * [Emotional resilience and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing)
 * [Jeffrey Epstein’s Harvard connections show how money can distort research](https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/)
 * [Show HN: Mys – an attempt to create a statically typed Python-like language](https://github.com/eerimoq/mys)
-* [Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem](https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/)
 * [Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)](https://recruiterflow.com/caper/jobs#menu)
 * [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
-* [Jaron Lanier on social media](https://www.gq.com/story/jaron-lanier-tech-oracle-profile)
-* [Journal 2.0: Mental Space for What Matters](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
 ## nytimes.com
 
 
@@ -55,7 +55,6 @@ layout: default
 * [4 Years of Catastrophic Fires in California: ‘I’m Numb’](https://www.nytimes.com/2020/08/24/us/california-fires-wildfires.html)
 * [Scope of California Wildfires Is Staggering](https://www.nytimes.com/2020/08/24/us/california-fires.html)
 * [Jerry Falwell Jr.’s Leadership at Liberty Appears Near End](https://www.nytimes.com/2020/08/24/us/jerry-falwell-resigns-liberty.html)
-* [Republicans, Kenosha, Aleksei Navalny: Your Monday Evening Briefing](https://www.nytimes.com/2020/08/24/briefing/republicans-kenosha-aleksei-navalny.html)
 * [A Surge in Shootings](https://www.nytimes.com/2020/08/24/podcasts/the-daily/gun-violence-new-york.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
 * [Join Us — Live! — for a Recap of the Democratic National Convention](https://www.nytimes.com/article/2020-election-events.html)
@@ -82,11 +81,11 @@ layout: default
 * [Aleksei Navalny, Putin Critic in a Coma, Was Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
 * [American and Chinese Officials Take Pulse on Trade Deal, Six Months In](https://www.nytimes.com/2020/08/24/business/economy/us-china-trade-deal.html)
 * [1,100-Year-Old Treasure Is Unearthed by Teenagers in Israel](https://www.nytimes.com/2020/08/24/world/middleeast/israel-gold-coins-archaeology.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Bettye LaVette Didn’t Know the Beatles’ ‘Blackbird.’ Then It Helped Her Fly.](https://www.nytimes.com/2020/08/24/arts/music/bettye-lavette-blackbirds.html)
 * [America Has Mistreated Its Coal Miners. Here’s Their Fight for Justice.](https://www.nytimes.com/2020/08/18/books/review/soul-full-of-coal-dust-chris-hamby.html)
 * [View From the I.M.F. — In a Crisis Like No Other, Gender Still Counts](https://www.nytimes.com/2020/08/23/us/IMF-kristalina-georgieva-gender-pandemic-crisis-economy.html)
@@ -96,8 +95,9 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [When Bugs Crawl Up the Food Chain](https://www.nytimes.com/2020/08/10/science/bugs-food-chain.html)
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
-* [What to Cook This Week](https://www.nytimes.com/2020/08/23/dining/what-to-cook-this-week.html)
-* [Kellyanne Conway Is Leaving White House to Focus on Her Family](https://www.nytimes.com/2020/08/24/us/politics/kellyanne-conway-leaving-white-house.html)
+* [RB Leipzig Ultras: German Soccer’s Great Contradiction](https://www.nytimes.com/2020/08/18/sports/soccer/champions-league-leipzig-psg.html)
+* [Museum Boss Salaries: Reduced but Still an Issue Amid Wider Cutbacks](https://www.nytimes.com/2020/08/18/arts/design/museum-leader-salaries-pay-disparity.html)
+* [Mark and Patricia McCloskey, who brandished guns at peaceful protesters, made a fear-mongering pitch.](https://www.nytimes.com/live/2020/08/24/us/rnc-convention-election/mark-and-patricia-mccloskey-who-brandished-guns-at-peaceful-protesters-made-a-fear-mongering-pitch)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)

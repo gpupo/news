@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 25/08/2020 08:34:44 UTC
+# indexed at 25/08/2020 09:16:14 UTC
 
 
 ## news.ycombinator.com
 
 
 * [2,000-year-old redwoods survive wildfire at California's oldest state park](https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949)
-* [Please read the paper before you comment](https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/)
 * [How to Write in Plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+* [Please read the paper before you comment](https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/)
 * [OpenZFS Merged to FreeBSD](https://svnweb.freebsd.org/base?view=revision&revision=364746)
 * [Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”](https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/)
 * [Asana S-1](https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm)
-* [What Is the Small Web?](https://ar.al/2020/08/07/what-is-the-small-web/)
 * [The wildest insurance fraud scheme in Texas](https://www.texasmonthly.com/articles/it-was-never-enough/)
-* [rc.d belongs in libexec, not etc](https://jmmv.dev/2020/08/rcd-libexec-etc.html)
 * [Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot](https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight)
 * [GCD and the magic of subtraction](https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/)
-* [Docker to rate limit image pulls](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/)
-* [One Year of Nushell](https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html)
 * [The Renaissance of the Shell?](https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/)
+* [One Year of Nushell](https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html)
+* [Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine](https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/)
+* [DIY Single-Chip 2D Retro Game Console](http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm)
 * [US home construction surges 22.6%, third monthly increase](https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918)
 * [Clover: An all-in-one notebook](https://cloverapp.co/)
-* [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
+* [What Is the Small Web?](https://ar.al/2020/08/07/what-is-the-small-web/)
 * [The Everyday Inspiration for Anna Karenina](https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina)
-* [How to clear a path through 60 feet of snow, Japanese style (2017)](https://www.atlasobscura.com/articles/snow-canyon-japan)
-* [Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine](https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/)
-* [Being OK with not being extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
-* [Writing an SSDP Directory in Elixir](https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir)
+* [The robotics revolution is here, and it's changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
 * [Dnjs: A pure subset of JavaScript that wants to replace configuration languages](https://github.com/leontrolski/dnjs)
+* [How to clear a path through 60 feet of snow, Japanese style (2017)](https://www.atlasobscura.com/articles/snow-canyon-japan)
+* [Being OK with not being extraordinary](https://www.tiffanymatthe.com/not-extraordinary)
+* [rc.d belongs in libexec, not etc](https://jmmv.dev/2020/08/rcd-libexec-etc.html)
+* [Writing an SSDP Directory in Elixir](https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir)
 * [High bitrate video streaming with GStreamer RTP](https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/)
-* [BPF Portability and CO-Re (Compile Once Run Everywhere)](https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html)
-* [BuildZoom (better way to build custom homes) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 * [Nuclear Reactor Development History](https://whatisnuclear.com/reactor_history.html)
 * [How I helped fix Canadaʼs Covid Alert app](https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app)
+* [BPF Portability and CO-Re (Compile Once Run Everywhere)](https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html)
 * [Bridgefy, the messenger promoted for mass protests, is a privacy disaster](https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/)
 * [EBS Storage Improvements](https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/)
+* [‘CSS X’](https://www.w3.org/blog/2020/03/css-x/)
 ## nytimes.com
 
 
@@ -82,11 +82,11 @@ layout: default
 * [Aleksei Navalny, Putin Critic in a Coma, Was Poisoned, German Doctors Say](https://www.nytimes.com/2020/08/24/world/europe/aleksei-navalny-poison.html)
 * [American and Chinese Officials Take Pulse on Trade Deal, Six Months In](https://www.nytimes.com/2020/08/24/business/economy/us-china-trade-deal.html)
 * [1,100-Year-Old Treasure Is Unearthed by Teenagers in Israel](https://www.nytimes.com/2020/08/24/world/middleeast/israel-gold-coins-archaeology.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
 * [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [Bettye LaVette Didn’t Know the Beatles’ ‘Blackbird.’ Then It Helped Her Fly.](https://www.nytimes.com/2020/08/24/arts/music/bettye-lavette-blackbirds.html)
 * [America Has Mistreated Its Coal Miners. Here’s Their Fight for Justice.](https://www.nytimes.com/2020/08/18/books/review/soul-full-of-coal-dust-chris-hamby.html)
 * [View From the I.M.F. — In a Crisis Like No Other, Gender Still Counts](https://www.nytimes.com/2020/08/23/us/IMF-kristalina-georgieva-gender-pandemic-crisis-economy.html)
@@ -96,21 +96,22 @@ layout: default
 * [Coronavirus Antibody: Clinical Trials of Drugs Are Taking Longer Than Expected](https://www.nytimes.com/2020/08/14/health/covid-19-antibody-treatments.html)
 * [When Bugs Crawl Up the Food Chain](https://www.nytimes.com/2020/08/10/science/bugs-food-chain.html)
 * [Could Owl and Crocodilian Tears Lead to a Cure for Your Dry Eyes?](https://www.nytimes.com/2020/08/13/science/animal-tears.html)
-* [What to Cook This Week](https://www.nytimes.com/2020/08/23/dining/what-to-cook-this-week.html)
-* [Kellyanne Conway Is Leaving White House to Focus on Her Family](https://www.nytimes.com/2020/08/24/us/politics/kellyanne-conway-leaving-white-house.html)
+* [How to Watch the Democratic National Convention](https://www.nytimes.com/2020/08/20/us/politics/dnc.html)
+* [Stephen Colbert Says Republicans Have Gone Full Cult for Trump](https://www.nytimes.com/2020/08/25/arts/television/stephen-colbert-republican-national-convention.html)
+* [Mark and Patricia McCloskey, who brandished guns at peaceful protesters, made a fear-mongering pitch.](https://www.nytimes.com/live/2020/08/24/us/rnc-convention-election/mark-and-patricia-mccloskey-who-brandished-guns-at-peaceful-protesters-made-a-fear-mongering-pitch)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Impasse sobre o valor do Renda Brasil atrasa anúncio de megapacote do governo](https://oglobo.globo.com/economia/impasse-sobre-valor-do-renda-brasil-atrasa-anuncio-de-megapacote-do-governo-24604307)
 * [Fernando Bezerra usou influência para marcar audiência entre empresário acusado de lhe pagar propina e ministro da Infraestrutura, diz PF](https://oglobo.globo.com/brasil/fernando-bezerra-usou-influencia-para-marcar-audiencia-entre-empresario-acusado-de-lhe-pagar-propina-ministro-da-infraestrutura-diz-pf-24604264)
 * [Bezerra usou influência para marcar audiência entre empresário acusado de lhe pagar propina e ministro da Infraestrutura, diz PF](https://oglobo.globo.com/brasil/bezerra-usou-influencia-para-marcar-audiencia-entre-empresario-acusado-de-lhe-pagar-propina-ministro-da-infraestrutura-diz-pf-24604247)
 * [Estudo da UFRJ aponta aumento da transmissão da Covid-19 na cidade do Rio; confira 'Covidímetro'](https://oglobo.globo.com/rio/estudo-da-ufrj-aponta-aumento-da-transmissao-da-covid-19-na-cidade-do-rio-confira-covidimetro-1-24604209)
 * [Caso Flordelis: veja como foi a arquitetura do crime e a participação de cada um dos acusados na morte do pastor](https://oglobo.globo.com/rio/caso-flordelis-veja-como-foi-arquitetura-do-crime-a-participacao-de-cada-um-dos-acusados-na-morte-do-pastor-24604027)
 * [Governo muda estratégia para avançar com privatização da Eletrobras](https://oglobo.globo.com/economia/governo-muda-estrategia-para-avancar-com-privatizacao-da-eletrobras-24604121)
 * [Equipe econômica avalia propor imposto sobre big techs](https://oglobo.globo.com/economia/equipe-economica-avalia-propor-imposto-sobre-big-techs-24604111)
+* [Aliança pelo Brasil deve ficar pronto no máximo em junho de 2020](https://epoca.globo.com/guilherme-amado/alianca-pelo-brasil-deve-ficar-pronto-no-maximo-em-junho-de-2020-24604215)
 * [Presidente, por que sua esposa recebeu R$ 89 mil de Queiroz?](https://oglobo.globo.com/podcast/presidente-por-que-sua-esposa-recebeu-89-mil-de-queiroz-1-24604034)
 * [Mototaxista baleado por PM morre após três anos com projétil alojado na cabeça](https://oglobo.globo.com/rio/mototaxista-baleado-por-pm-morre-apos-tres-anos-com-projetil-alojado-na-cabeca-24604088)
 * [André Kfouri: O tempo ainda está à frente de Neymar](https://oglobo.globo.com/esportes/andre-kfouri-tempo-ainda-esta-frente-de-neymar-24603692)

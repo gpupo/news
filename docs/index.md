@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 05:17:16 UTC
+# indexed at 26/08/2020 05:35:03 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
-* [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
+* [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
 * [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
-* [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
-* [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
-* [My AI Timelines Have Sped Up](https://www.alexirpan.com/2020/08/18/ai-timelines.html)
+* [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
-* [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
-* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
-* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [A Chrome feature is creating enormous load on global root DNS servers](https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/)
+* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+* [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
+* [My AI Timelines Have Sped Up](https://www.alexirpan.com/2020/08/18/ai-timelines.html)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
 * [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
 * [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
+* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
 * [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
-* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
+* [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
 * [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
 * [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 * [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
 * [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
-* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 * [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
+* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 * [WebBundles harmful to content blocking, security tools, and the open web](https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/)
 ## nytimes.com
 
@@ -57,6 +57,7 @@ layout: default
 * [Police Face Off Against Protesters in Wisconsin](https://www.nytimes.com/video/us/100000007306119/kenosha-protests-jacob-blake-wisconsin-video.html)
 * [How Bacteria-Eating Bacteria Could Help Win the War Against Germs](https://www.nytimes.com/2020/08/25/science/bacteria-bdellovibrio-predator-prey.html)
 * [Heat, Smoke and Covid Are Battering the Workers Who Feed America](https://www.nytimes.com/2020/08/25/climate/california-farm-workers-climate-change.html)
+* [Melania Trump, Jacob Blake, College Suspensions: Your Tuesday Evening Briefing](https://www.nytimes.com/2020/08/25/briefing/melania-trump-kenosha-college-suspensions.html)
 * [Where We Stand on the Pandemic](https://www.nytimes.com/2020/08/25/podcasts/the-daily/coronavirus-plasma-reinfection.html)
 * [The Life of a Brilliant, Suffering Scientist](https://www.nytimes.com/2020/08/21/books/review/podcast-Dominant-Character-Samanth-Subramanian-Book-of-Eels-Patrik-Svensson.html)
 * [Episode One: The Book of Statuses](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html)
@@ -81,11 +82,11 @@ layout: default
 * [Whitney Cancels Show That Included Works Bought at Fund-Raisers](https://www.nytimes.com/2020/08/25/arts/design/whitney-museum-exhibition-canceled.html)
 * [Jerry Falwell Jr.’s Departure Brings Relief on Liberty University’s Campus](https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html)
 * [California Fires Live Updates: Firefighters Make Progress in ‘Marathon’ Battle](https://www.nytimes.com/2020/08/25/us/california-fires.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
-* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
-* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
+* [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
+* [Why Your Brain Short-Circuits When a Kid Cries](https://www.nytimes.com/2020/08/12/parenting/kid-crying-response.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [Make Pizza on Your Grill](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+* [How Play Energizes Your Kid’s Brain](https://www.nytimes.com/2020/07/21/parenting/play-brain-science.html)
 * [The Actors With Disabilities Redefining Representation](https://www.nytimes.com/2020/08/25/t-magazine/actors-disability-theater-film-tv.html)
 * [Orchestras Looking to Broaden Horizons? Start Improvising](https://www.nytimes.com/2020/08/25/arts/music/classical-music-orchestra-improvisation.html)
 * [Can I Stay Friends With Someone Who Voices Racist Views?](https://www.nytimes.com/2020/08/25/magazine/can-i-stay-friends-with-someone-who-voices-racist-views.html)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 10:16:42 UTC
+# indexed at 26/08/2020 10:34:59 UTC
 
 
 ## news.ycombinator.com
@@ -14,9 +14,9 @@ layout: default
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
 * [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
+* [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
-* [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
 * [Tom Lehrer's Mathematical Songs](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
 * [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
@@ -24,20 +24,20 @@ layout: default
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
-* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
-* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
+* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
 * [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
+* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
+* [Low adoption of features and the sad realization](https://agyam.com/low-adoption-and-sad-realization/)
+* [Draft of OCaml Scientific Computing book](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book)
 * [Use YC's Work at a Startup to apply to hundreds of eng jobs with one application](https://www.workatastartup.com/)
 * [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
-* [Low adoption of features and the sad realization](https://agyam.com/low-adoption-and-sad-realization/)
 * [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
-* [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
-* [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 * [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
-* [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
+* [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
+* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 ## nytimes.com
 
 
@@ -79,8 +79,8 @@ layout: default
 * [What’s a Palantir? The Tech Industry’s Next Big I.P.O.](https://www.nytimes.com/2020/08/26/technology/palantir-ipo.html)
 * [Airline Job Cuts Could Pressure Congress and Trump on Stimulus](https://www.nytimes.com/2020/08/25/business/american-airline-furlough-19000.html)
 * [Climate Is Taking On a Growing Role for Voters, Research Suggests](https://www.nytimes.com/2020/08/24/climate/climate-change-survey-voters.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
@@ -93,15 +93,16 @@ layout: default
 * [The Extra Stigma of Mental Illness for African-Americans](https://www.nytimes.com/2020/08/25/well/mind/black-mental-health.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
-* [Republican Convention: Best and Worst Moments From Night 1](https://www.nytimes.com/2020/08/25/opinion/rnc-best-worst-night-1.html)
+* [Feminist Factions United and Filled the Streets for This Historic March](https://www.nytimes.com/2020/08/26/us/womens-strike-for-equality.html)
 * [Kimberly Guilfoyle, the R.N.C.'s Woman in Red](https://www.nytimes.com/2020/08/25/style/kimberly-guilfoyle-republican-national-convention.html)
-* [Trump’s Fights Are Their Fights. They Have His Back Unapologetically.](https://www.nytimes.com/2020/08/25/us/politics/trump-reelection-supporters.html)
+* [Europe Braces for New Phase in Pandemic With Cases Surging](https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [ANS estende suspensão de reajuste a plano que já teve alta, mas deixa de fora empresariais com mais de 30 usuários](https://oglobo.globo.com/economia/ans-estende-suspensao-de-reajuste-plano-que-ja-teve-alta-mas-deixa-de-fora-empresariais-com-mais-de-30-usuarios-24606431)
 * [Muda Senado faz gesto ao STF e diz que não é hora de Lava Toga](https://epoca.globo.com/guilherme-amado/muda-senado-faz-gesto-ao-stf-diz-que-nao-hora-de-lava-toga-24606399)
 * [Ministério da Economia impede Palmares de nomear cantor lírico para cuidar de quilombolas](https://epoca.globo.com/guilherme-amado/ministerio-da-economia-impede-palmares-de-nomear-cantor-lirico-para-cuidar-de-quilombolas-24606380)
 * [Guedes irá lançar pacote para agilizar concessão de alvarás para construção civil](https://epoca.globo.com/guilherme-amado/guedes-ira-lancar-pacote-para-agilizar-concessao-de-alvaras-para-construcao-civil-1-24606358)
@@ -109,6 +110,5 @@ layout: default
 * [Casos graves de Covid-19 em crianças são raros, mas estão entre os mistérios mais desafiadores do coronavírus](https://oglobo.globo.com/sociedade/casos-graves-de-covid-19-em-criancas-sao-raros-mas-estao-entre-os-misterios-mais-desafiadores-do-coronavirus-1-24606096)
 * [Do boteco à alta gastronomia, carnes suínas estão com tudo](https://oglobo.globo.com/rio/bairros/do-boteco-alta-gastronomia-carnes-suinas-estao-com-tudo-1-24605954)
 * [Dia Internacional da Igualdade Feminina: entenda as origens da data e os desafios à conquista da equidade de gênero](https://oglobo.globo.com/celina/dia-internacional-da-igualdade-feminina-entenda-as-origens-da-data-os-desafios-conquista-da-equidade-de-genero-24603323)
-* [Heloisa Buarque de Hollanda: 'O feminismo hegemônico não está nem aí para a favela'](https://oglobo.globo.com/celina/heloisa-buarque-de-hollanda-feminismo-hegemonico-nao-esta-nem-ai-para-favela-24324914)
 * [Emenda que previa desapropriação de prédio para famílias pobres é rejeitada por vereadores de Niterói](https://oglobo.globo.com/rio/bairros/emenda-que-previa-desapropriacao-de-predio-para-familias-pobres-rejeitada-por-vereadores-de-niteroi-24599380)
 * [Curta metragem compara dilemas de mulheres maduras aos de jovens de 18 anos](https://oglobo.globo.com/rio/bairros/curta-metragem-compara-dilemas-de-mulheres-maduras-aos-de-jovens-de-18-anos-24598985)

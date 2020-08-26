@@ -2,39 +2,39 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 08:18:50 UTC
+# indexed at 26/08/2020 08:35:02 UTC
 
 
 ## news.ycombinator.com
 
 
-* [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
 * [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
+* [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
 * [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
+* [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
 * [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
-* [Use YC's Work at a Startup to apply to hundreds of eng jobs with one application](https://www.workatastartup.com/)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
+* [Use YC's Work at a Startup to apply to hundreds of eng jobs with one application](https://www.workatastartup.com/)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
 * [Tom Lehrer's Mathematical Songs](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
 * [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
 * [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
-* [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
-* [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
 * [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
+* [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
 * [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
-* [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
+* [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
 * [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
 * [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
 * [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
-* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 * [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
+* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 * [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 * [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
 * [radEventListener: Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)

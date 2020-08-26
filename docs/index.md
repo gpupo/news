@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 01:16:50 UTC
+# indexed at 26/08/2020 01:35:55 UTC
 
 
 ## news.ycombinator.com
@@ -12,31 +12,31 @@ layout: default
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
-* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
+* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
-* [Vanta (YC W18) is hiring as we build simple security and compliance for startups](https://vanta.com/jobs)
 * [A Chrome feature is creating enormous load on global root DNS servers](https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/)
 * [Thiel Fellow startup Luminar, developing LIDAR, valued at $3.4B in IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
+* [Vanta (YC W18) is hiring as we build simple security and compliance for startups](https://vanta.com/jobs)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
 * [Kindle collects a surprisingly large amount of data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
 * [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
-* [A Tuna's Worth](https://www.hakaimagazine.com/features/a-tunas-worth/)
-* [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
 * [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [WebBundles harmful to content blocking, security tools, and the open web](https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/)
+* [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
+* [A Tuna's Worth](https://www.hakaimagazine.com/features/a-tunas-worth/)
+* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
 * [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
-* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
+* [Practical tips for better microcopy](https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/)
 * [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 * [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
-* [Practical tips for better microcopy](https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/)
-* [Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)](http://www.inflightassistant.com/smoothtrack/index.html)
 * [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
-* [Three Ways to Hack a Printed Circuit Board](https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board)
+* [Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)](http://www.inflightassistant.com/smoothtrack/index.html)
 * [Tipe raises $2.1M seed round to build a customizable CMS for developers](https://tipe.io/blog/tipe-raises-seed)
-* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
+* [Three Ways to Hack a Printed Circuit Board](https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board)
 * [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
+* [Topicctl – an easier way to manage Kafka topics](https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/)
 * [Amazon drops Linux support for generating Kindle ebooks](https://www.amazon.com/gp/feature.html/?docId=1000765211)
 ## nytimes.com
 
@@ -81,11 +81,11 @@ layout: default
 * [Whitney Cancels Show That Included Works Bought at Fund-Raisers](https://www.nytimes.com/2020/08/25/arts/design/whitney-museum-exhibition-canceled.html)
 * [Jerry Falwell Jr.’s Departure Brings Relief on Liberty University’s Campus](https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html)
 * [California Fires Live Updates: Firefighters Make Progress in ‘Marathon’ Battle](https://www.nytimes.com/2020/08/25/us/california-fires.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
-* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
+* [How to Move During the Coronavirus](https://www.nytimes.com/2020/07/24/style/moving-during-covid-coronavirus.html)
+* [5 Things We Know About Flying Right Now](https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html)
+* [Sneak In Some Exercise](https://www.nytimes.com/2020/08/15/at-home/coronavirus-at-home-quick-exercises.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [The Actors With Disabilities Redefining Representation](https://www.nytimes.com/2020/08/25/t-magazine/actors-disability-theater-film-tv.html)
 * [Orchestras Looking to Broaden Horizons? Start Improvising](https://www.nytimes.com/2020/08/25/arts/music/classical-music-orchestra-improvisation.html)
 * [Can I Stay Friends With Someone Who Voices Racist Views?](https://www.nytimes.com/2020/08/25/magazine/can-i-stay-friends-with-someone-who-voices-racist-views.html)
@@ -103,11 +103,11 @@ layout: default
 ## globo.com
 
 
+* [Hospital do Fundão registra aumento de casos de Covid-19 em agosto](https://oglobo.globo.com/rio/hospital-do-fundao-registra-aumento-de-casos-de-covid-19-em-agosto-24606125)
 * [Auxílio emergencial: definição sobre novo valor deve sair até sexta-feira, diz Bolsonaro](https://oglobo.globo.com/economia/auxilio-emergencial-definicao-sobre-novo-valor-deve-sair-ate-sexta-feira-diz-bolsonaro-24606051)
 * [Bolsonaro pede R$ 577,5 milhões ao Congresso para estatais dos setores naval e aéreo](https://oglobo.globo.com/economia/bolsonaro-pede-5775-milhoes-ao-congresso-para-estatais-dos-setores-naval-aereo-24606006)
 * [Destino de Flordelis e Anderson na madrugada do crime ainda é mistério; polícia suspeita de ida à casa de swing](https://oglobo.globo.com/rio/destino-de-flordelis-anderson-na-madrugada-do-crime-ainda-misterio-policia-suspeita-de-ida-casa-de-swing-24606061)
 * ['Bons tempos onde menor podia trabalhar', diz Bolsonaro em evento de bares e restaurantes](https://oglobo.globo.com/brasil/bons-tempos-onde-menor-podia-trabalhar-diz-bolsonaro-em-evento-de-bares-restaurantes-1-24606022)
-* [Brasil 'não vê problema' em hipótese de vitória de Biden, diz Ernesto Araújo](https://oglobo.globo.com/mundo/brasil-nao-ve-problema-em-hipotese-de-vitoria-de-biden-diz-ernesto-araujo-24605927)
 * [Brasil registra média móvel de 950 mortos por coronavírus, a menor em 85 dias](https://oglobo.globo.com/sociedade/coronavirus/brasil-registra-media-movel-de-950-mortos-por-coronavirus-menor-em-85-dias-24605959)
 * [Proposta de Crivella de antecipar royalties pode custar R$ 1,6 bilhão em sete anos aos cofres da prefeitura](https://oglobo.globo.com/rio/proposta-de-crivella-de-antecipar-royalties-pode-custar-16-bilhao-em-sete-anos-aos-cofres-da-prefeitura-24605928)
 * [Fundeb: entenda a importância de tornar permanente o fundo da educação básica brasileira](https://oglobo.globo.com/sociedade/fundeb-entenda-importancia-de-tornar-permanente-fundo-da-educacao-basica-brasileira-1-24605749)

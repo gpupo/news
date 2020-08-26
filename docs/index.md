@@ -2,41 +2,41 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 08:35:02 UTC
+# indexed at 26/08/2020 09:16:13 UTC
 
 
 ## news.ycombinator.com
 
 
-* [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
+* [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
-* [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
-* [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
-* [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
+* [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
-* [Use YC's Work at a Startup to apply to hundreds of eng jobs with one application](https://www.workatastartup.com/)
-* [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
+* [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
 * [Tom Lehrer's Mathematical Songs](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
 * [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
 * [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
-* [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
-* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
+* [Use YC's Work at a Startup to apply to hundreds of eng jobs with one application](https://www.workatastartup.com/)
+* [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
 * [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
-* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
-* [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
-* [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
 * [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
+* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
+* [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
+* [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
+* [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
 * [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
 * [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
-* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 * [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
+* [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
+* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
+* [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 * [radEventListener: Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)
 ## nytimes.com
 
@@ -81,11 +81,11 @@ layout: default
 * [Whitney Cancels Show That Included Works Bought at Fund-Raisers](https://www.nytimes.com/2020/08/25/arts/design/whitney-museum-exhibition-canceled.html)
 * [Jerry Falwell Jr.’s Departure Brings Relief on Liberty University’s Campus](https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html)
 * [California Fires Live Updates: Firefighters Make Progress in ‘Marathon’ Battle](https://www.nytimes.com/2020/08/25/us/california-fires.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
-* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [The Actors With Disabilities Redefining Representation](https://www.nytimes.com/2020/08/25/t-magazine/actors-disability-theater-film-tv.html)
 * [Orchestras Looking to Broaden Horizons? Start Improvising](https://www.nytimes.com/2020/08/25/arts/music/classical-music-orchestra-improvisation.html)
 * [Can I Stay Friends With Someone Who Voices Racist Views?](https://www.nytimes.com/2020/08/25/magazine/can-i-stay-friends-with-someone-who-voices-racist-views.html)
@@ -103,13 +103,13 @@ layout: default
 ## globo.com
 
 
+* [Pesquisadores japoneses afirmam que ozônio neutraliza o coronavírus](https://oglobo.globo.com/sociedade/pesquisadores-japoneses-afirmam-que-ozonio-neutraliza-coronavirus-24606423)
 * [Comércio do Rio amarga o pior semestre da história, diz Clube de Diretores Lojistas](https://oglobo.globo.com/rio/comercio-do-rio-amarga-pior-semestre-da-historia-diz-clube-de-diretores-lojistas-24606226)
-* [Frederick Wassef, advogado da família Bolsonaro, é investigado pelo MPF do Rio](https://oglobo.globo.com/brasil/frederick-wassef-advogado-da-familia-bolsonaro-investigado-pelo-mpf-do-rio-24606287)
+* [Guedes irá lançar pacote para agilizar concessão de alvarás para construção civil](https://epoca.globo.com/guilherme-amado/guedes-ira-lancar-pacote-para-agilizar-concessao-de-alvaras-para-construcao-civil-1-24606358)
 * [O que a reinfecção revela sobre a eficácia da vacina contra Covid?](https://oglobo.globo.com/podcast/o-que-reinfeccao-revela-sobre-eficacia-da-vacina-contra-covid-24606331)
-* [Advogado da família Bolsonaro é investigado pelo MPF do Rio](https://oglobo.globo.com/brasil/advogado-da-familia-bolsonaro-investigado-pelo-mpf-do-rio-1-24606245)
 * [Fim de abono salarial é novo impasse para o Renda Brasil](https://oglobo.globo.com/economia/fim-de-abono-salarial-novo-impasse-para-renda-brasil-24606218)
-* [Coronavírus: se fosse um país, Rio ocuparia 13º lugar no ranking global de mortes](https://oglobo.globo.com/rio/coronavirus-se-fosse-um-pais-rio-ocuparia-13-lugar-no-ranking-global-de-mortes-1-24606001)
-* [Comércio carioca amarga o pior semestre da história, diz Clube de Diretores Lojistas](https://oglobo.globo.com/rio/comercio-carioca-amarga-pior-semestre-da-historia-diz-clube-de-diretores-lojistas-24606216)
 * [Preso com maconha em ônibus, traficante virou chefe de facção paulista no Rio dentro da cadeia](https://oglobo.globo.com/rio/preso-com-maconha-em-onibus-traficante-virou-chefe-de-faccao-paulista-no-rio-dentro-da-cadeia-24606095)
 * [Vasco: Talles enfrenta o Goiás em meio a teste de amadurecimento na carreira](https://oglobo.globo.com/esportes/vasco-talles-enfrenta-goias-em-meio-teste-de-amadurecimento-na-carreira-1-24605903)
 * [André Kfouri: Messi, o guardanapo e o burofax](https://oglobo.globo.com/esportes/andre-kfouri-messi-guardanapo-o-burofax-24605934)
+* [Dia Internacional da Igualdade Feminina: entenda as origens da data e os desafios à conquista da equidade de gênero](https://oglobo.globo.com/celina/dia-internacional-da-igualdade-feminina-entenda-as-origens-da-data-os-desafios-conquista-da-equidade-de-genero-24603323)
+* [Heloisa Buarque de Hollanda: 'O feminismo hegemônico não está nem aí para a favela'](https://oglobo.globo.com/celina/heloisa-buarque-de-hollanda-feminismo-hegemonico-nao-esta-nem-ai-para-favela-24324914)

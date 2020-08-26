@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 21:15:59 UTC
+# indexed at 26/08/2020 21:35:15 UTC
 
 
 ## news.ycombinator.com
@@ -10,8 +10,9 @@ layout: default
 
 * [MixedName – Bilingual baby name finder](https://mixedname.com/)
 * [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
-* [New Racket Language Website](https://racket-lang.org/)
 * [YouTube Alternatives at a Glance](https://www.ionos.com/digitalguide/online-marketing/social-media/youtube-alternatives-an-overview-of-the-best-portals/)
+* [New Racket Language Website](https://racket-lang.org/)
+* [Willscott/go-NFS: Golang NFSv3 server](https://github.com/willscott/go-nfs/)
 * [Building a Home Lab Beginners Guide](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 * [Preparing Our Partners for iOS 14](https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/)
 * [SEC Modernizes the Accredited Investor Definition](https://www.sec.gov/news/press-release/2020-191)
@@ -21,23 +22,22 @@ layout: default
 * [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
 * [Kubernetes 1.19](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md)
 * [Jacques Cousteau’s grandson wants to build the ISS of the sea](https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/)
-* [SATCON1 Report on Impact of Satellite Constellations on Astronomy](https://noirlab.edu/public/products/techdocs/techdoc003/)
-* [SSH Keygen – RSA, DSA, Ecdsa, EdDSA](https://gravitational.com/blog/comparing-ssh-keys/)
-* [What happens when you load a URL? (2015)](https://danluu.com/navigate-url/)
 * [Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation](https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html)
+* [Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D](https://bennettfeely.com/ztext/)
+* [SSH Keygen – RSA, DSA, Ecdsa, EdDSA](https://gravitational.com/blog/comparing-ssh-keys/)
+* [SATCON1 Report on Impact of Satellite Constellations on Astronomy](https://noirlab.edu/public/products/techdocs/techdoc003/)
+* [What happens when you load a URL? (2015)](https://danluu.com/navigate-url/)
 * [Melancholy of obsolete futures: on Soviet Brutalism](https://thecritic.co.uk/melancholy-of-obsolete-futures/)
 * [Lucid Air EV’s Battery Will Be 113.0 KWh](https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/)
 * [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
 * [Talk to Your Data: One Model, Any Relational Database](https://blog.einstein.ai/talk-to-your-data-one-model-any-database/)
 * [US indictments of piracy group members throw top-tier piracy world into chaos](https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/)
-* [How to not fear your death: An Epicurean perspective](https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death)
-* [Draft of OCaml Scientific Computing book](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book)
-* [Portland passes low-density zoning reform](https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/)
-* [Scientists who never won a Nobel Prize](https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html)
-* [Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D](https://bennettfeely.com/ztext/)
 * [Jetpack Compose Alpha is released](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
-* [Abstracting Abstract Machines (2010) [pdf]](http://matt.might.net/papers/vanhorn2010abstract.pdf)
+* [Draft of OCaml Scientific Computing book](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book)
+* [How to not fear your death: An Epicurean perspective](https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death)
+* [Portland passes low-density zoning reform](https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/)
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+* [Understanding DNS: Anatomy of a BIND zone file](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
 ## nytimes.com
 
 
@@ -69,17 +69,17 @@ layout: default
 * [Feminist Factions United and Filled the Streets for This Historic March](https://www.nytimes.com/2020/08/26/us/womens-strike-for-equality.html)
 * [The Suffragists Fought to Redefine Femininity. The Debate Isn’t Over.](https://www.nytimes.com/2020/08/26/us/womens-suffrage-femininity.html)
 * [World Economic Forum Says Davos Summit Postponed: Live Updates](https://www.nytimes.com/live/2020/08/26/business/stock-market-updates-coronavirus)
-* [Justice Dept. Is Set to Execute Native American Prisoner](https://www.nytimes.com/2020/08/25/us/politics/native-american-death-penalty.html)
+* [Suspect in Sarah Lawrence Cult Case Is Accused of Witness Tampering](https://www.nytimes.com/2020/08/26/nyregion/larry-ray-sarah-lawrence.html)
 * [Yale Law Professor Is Suspended After Sexual Harassment Inquiry](https://www.nytimes.com/2020/08/26/nyregion/jed-rubenfeld-yale.html)
 * [Coronavirus Superspreader Event in Boston Led to Thousands of Infections](https://www.nytimes.com/2020/08/26/health/covid-19-superspreaders-boston.html)
 * [Family of Fort Hood Soldier Found Dead Demands Congress Investigate](https://www.nytimes.com/2020/08/26/us/elder-fernandes-ft-hood-missing.html)
-* [Afghanistan Floods Leave Nearly 80 Dead](https://www.nytimes.com/2020/08/26/world/asia/afghanistan-floods-charikar.html)
-* [U.S. Sanctions 24 Chinese Companies Over Role in South China Sea](https://www.nytimes.com/2020/08/26/business/economy/trump-sanctions-south-china-sea.html)
-* [How TikTok’s Talks With Microsoft Turned Into a Soap Opera](https://www.nytimes.com/2020/08/26/technology/tiktoks-microsoft-deal-soap-opera-trump.html)
+* [Africa Celebrates the End of the Wild Poliovirus (but Not the End of All Polio)](https://www.nytimes.com/2020/08/24/world/africa/polio-africa-eradicated.html)
+* [U.S. Troops Injured in Syria After Collision With Russian Vehicles](https://www.nytimes.com/2020/08/26/world/middleeast/pentagon-russia-syria.html)
+* [Sarah Turney Sought Justice on TikTok. Now Her Father Is Charged With Homicide.](https://www.nytimes.com/2020/08/26/us/alissa-turney-update.html)
 * [Bare Breasts on French Beaches? You Can, Despite Police Warnings](https://www.nytimes.com/2020/08/26/world/europe/france-beach-topless.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [That ‘Home Office’ of Yours? It Needs an Upgrade](https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html)
 * [Stay Cool Without Racking Up a Bill](https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html)
 * [New Director Sees Berlin’s Jewish Museum as a Place for Debate](https://www.nytimes.com/2020/08/26/arts/design/jewish-museum-berlin-director-hetty-berg.html)
 * [‘Soul!’ Brought Black Culture to TV in 1968. A New Doc Tells Its Story.](https://www.nytimes.com/2020/08/25/arts/music/mr-soul-ellis-haizlip.html)
@@ -97,11 +97,11 @@ layout: default
 ## globo.com
 
 
-* [Ao defender teto de gastos, Maia deixa Guedes exposto a insatisfação de Bolsonaro](https://oglobo.globo.com/analitico/ao-defender-teto-de-gastos-maia-deixa-guedes-exposto-insatisfacao-de-bolsonaro-24607532)
-* [Mulheres teriam melhor resposta imunológica à COVID-19, diz estudo](https://oglobo.globo.com/sociedade/coronavirus/mulheres-teriam-melhor-resposta-imunologica-covid-19-diz-estudo-24607611)
 * [Senado altera texto da Câmara e antecipa vigência da Lei de Proteção de Dados](https://oglobo.globo.com/economia/senado-altera-texto-da-camara-antecipa-vigencia-da-lei-de-protecao-de-dados-24607597)
+* [Mulheres teriam melhor resposta imunológica à Covid-19, diz estudo](https://oglobo.globo.com/sociedade/coronavirus/mulheres-teriam-melhor-resposta-imunologica-covid-19-diz-estudo-24607611)
 * [É #FAKE que O Globo escreveu que Heloísa é esposa de Flávio Bolsonaro](https://oglobo.globo.com/fato-ou-fake/e-fake-que-globo-escreveu-que-heloisa-esposa-de-flavio-bolsonaro-24607389)
-* [Vacina chinesa: voluntários ainda podem se candidatar para testes em Niterói; veja como se inscrever](https://oglobo.globo.com/rio/vacina-chinesa-voluntarios-ainda-podem-se-candidatar-para-testes-em-niteroi-veja-como-se-inscrever-24607471)
+* [Cientista descobre fóssil de dinossauro de 166 milhões de anos 'por acaso' em praia](https://epoca.globo.com/mundo/cientista-descobre-fossil-de-dinossauro-de-166-milhoes-de-anos-por-acaso-em-praia-24607627)
+* [Ao defender teto de gastos, Maia deixa Guedes exposto a insatisfação de Bolsonaro](https://oglobo.globo.com/analitico/ao-defender-teto-de-gastos-maia-deixa-guedes-exposto-insatisfacao-de-bolsonaro-24607532)
 * [Rio tem aumento na média móvel de mortes por coronavírus pelo sexto dia seguido](https://oglobo.globo.com/rio/rio-tem-aumento-na-media-movel-de-mortes-por-coronavirus-pelo-sexto-dia-seguido-24607586)
 * ["Ele poderia ter nos usado como escudo humano", disse porteiro que impediu entrada de bandido com fuzil em prédio no Humaitá](https://oglobo.globo.com/rio/ele-poderia-ter-nos-usado-como-escudo-humano-disse-porteiro-que-impediu-entrada-de-bandido-com-fuzil-em-predio-no-humaita-24607515)
 * [Gilmar Mendes vota pela aplicação de índice mais benéfico ao empregado nas correções de dívidas trabalhistas](https://oglobo.globo.com/economia/gilmar-mendes-vota-pela-aplicacao-de-indice-mais-benefico-ao-empregado-nas-correcoes-de-dividas-trabalhistas-24607503)

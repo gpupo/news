@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 02:17:59 UTC
+# indexed at 26/08/2020 02:35:08 UTC
 
 
 ## news.ycombinator.com
@@ -12,32 +12,32 @@ layout: default
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
+* [My AI Timelines Have Sped Up](https://www.alexirpan.com/2020/08/18/ai-timelines.html)
 * [You want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
+* [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
 * [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [A Chrome feature is creating enormous load on global root DNS servers](https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/)
-* [Kindle collects a surprisingly large amount of data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
-* [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
+* [Kindle collects a surprisingly large amount of data](https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/)
 * [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
-* [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
-* [Vanta (YC W18) is hiring as we build simple security and compliance for startups](https://vanta.com/jobs)
-* [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
+* [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
 * [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
-* [Practical tips for better microcopy](https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/)
+* [Vanta (YC W18) is hiring as we build simple security and compliance for startups](https://vanta.com/jobs)
+* [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
+* [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
 * [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
 * [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
-* [My AI Timelines Have Sped Up](https://www.alexirpan.com/2020/08/18/ai-timelines.html)
+* [Practical tips for better microcopy](https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/)
+* [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
+* [A Tuna's Worth](https://www.hakaimagazine.com/features/a-tunas-worth/)
+* [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
 * [WebBundles harmful to content blocking, security tools, and the open web](https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/)
 * [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
-* [A Tuna's Worth](https://www.hakaimagazine.com/features/a-tunas-worth/)
-* [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
-* [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
-* [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
-* [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
-* [Tipe raises $2.1M seed round to build a customizable CMS for developers](https://tipe.io/blog/tipe-raises-seed)
 * [Three Ways to Hack a Printed Circuit Board](https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board)
+* [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
+* [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
 ## nytimes.com
 
 
@@ -63,7 +63,7 @@ layout: default
 * [To Deal With China, Trump Should Learn German](https://www.nytimes.com/2020/08/25/opinion/trump-china-germany.html)
 * [Where Is the Republican Party Heading?](https://www.nytimes.com/2020/08/25/opinion/trump-republican-party.html)
 * [Biden Wants to Return to a ‘Normal’ Foreign Policy. That’s the Problem.](https://www.nytimes.com/2020/08/25/opinion/biden-foreign-policy.html)
-* [Why Are Republicans Warping ‘the Very Heart and Soul of Conservatism’?](https://www.nytimes.com/2020/08/25/opinion/republicans-libertarians-economics.html)
+* [Republicans Are Ripping Out ‘the Very Heart and Soul’ of Their Party](https://www.nytimes.com/2020/08/25/opinion/republicans-libertarians-economics.html)
 * [The F.D.A. Commissioner’s Fuzzy Math](https://www.nytimes.com/2020/08/25/opinion/fda-plasma-coronavirus.html)
 * [Buzz Bissinger: College Football Players Should Threaten to Boycott](https://www.nytimes.com/2020/08/25/opinion/buzz-bissinger-college-football-change.html)
 * [Republican Convention: Best and Worst Moments From Night 1](https://www.nytimes.com/2020/08/25/opinion/rnc-best-worst-night-1.html)
@@ -74,7 +74,7 @@ layout: default
 * [Behind the Cancellation of James Beard Awards, Worries About Chefs’ Behavior and No Black Winners](https://www.nytimes.com/2020/08/25/dining/james-beard-awards-cancel.html)
 * [How the Hollywood Fix Cornered the Influencer Paparazzi Market](https://www.nytimes.com/2020/08/25/style/hollywood-fix-influencer-videos.html)
 * [Book Review: ‘The Lying Life of Adults,’ by Elena Ferrante](https://www.nytimes.com/2020/08/25/books/review-lying-life-of-adults-elena-ferrante.html)
-* [Hurricane Laura Strengthens in the Gulf and Rekindles Dread from Past Storms](https://www.nytimes.com/2020/08/25/us/hurricane-laura-louisiana-texas.html)
+* [Hurricane Laura Strengthens in the Gulf and Rekindles Dread From Past Storms](https://www.nytimes.com/2020/08/25/us/hurricane-laura-louisiana-texas.html)
 * [McDonald’s Investigating Whether Former C.E.O. Covered Up Others’ Misconduct](https://www.nytimes.com/2020/08/25/business/mcdonalds-investigation-steve-easterbrook.html)
 * [Kevin Clarkson Steps Down as Flurry of Text Messages Are Aired](https://www.nytimes.com/2020/08/25/us/alaska-clarkson-resignation.html)
 * [A Michigan Woman Was Declared Dead, Then Woke Up at a Funeral Home](https://www.nytimes.com/2020/08/25/us/michigan-woman-alive-funeral-home.html)
@@ -95,22 +95,21 @@ layout: default
 * [The Extra Stigma of Mental Illness for African-Americans](https://www.nytimes.com/2020/08/25/well/mind/black-mental-health.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
-* [Trump Administration Orders Hospitals to Report Data or Risk Losing Funding](https://www.nytimes.com/2020/08/25/us/politics/trump-coronavirus-data.html)
 * [Kimberly Guilfoyle, the R.N.C.'s Woman in Red](https://www.nytimes.com/2020/08/25/style/kimberly-guilfoyle-republican-national-convention.html)
-* [Ray Cave, Influential Time Magazine Editor, Is Dead at 91](https://www.nytimes.com/2020/08/21/business/media/ray-cave-dead.html)
+* [Trump’s Fights Are Their Fights. They Have His Back Unapologetically.](https://www.nytimes.com/2020/08/25/us/politics/trump-reelection-supporters.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Nenê marca três gols e comanda classificação do Fluminense na Copa do Brasil](https://oglobo.globo.com/esportes/fluminense/nene-marca-tres-gols-comanda-classificacao-do-fluminense-na-copa-do-brasil-24606320)
+* [Marca francesa Delage volta à cena com um carro de 1.115cv](https://oglobo.globo.com/economia/carros/marca-francesa-delage-volta-cena-com-um-carro-de-1115cv-24606282)
 * [Saiba o que é trabalho infantil e por que é considerado ilegal](https://oglobo.globo.com/economia/saiba-que-trabalho-infantil-por-que-considerado-ilegal-24606150)
 * [Destino de Flordelis e Anderson na madrugada do crime ainda é mistério; polícia suspeita de ida à casa de swing](https://oglobo.globo.com/rio/destino-de-flordelis-anderson-na-madrugada-do-crime-ainda-misterio-policia-suspeita-de-ida-casa-de-swing-24606061)
 * [Auxílio emergencial: definição sobre novo valor deve sair até sexta-feira, diz Bolsonaro](https://oglobo.globo.com/economia/auxilio-emergencial-definicao-sobre-novo-valor-deve-sair-ate-sexta-feira-diz-bolsonaro-24606051)
 * [Brasil está entre os melhores países no enfrentamento da Covid-19, diz Bolsonaro](https://oglobo.globo.com/sociedade/brasil-esta-entre-os-melhores-paises-no-enfrentamento-da-covid-19-diz-bolsonaro-24606160)
 * [Bolsonaro pede R$ 577,5 milhões ao Congresso para estatais dos setores naval e aéreo](https://oglobo.globo.com/economia/bolsonaro-pede-5775-milhoes-ao-congresso-para-estatais-dos-setores-naval-aereo-24606006)
 * ['Bons tempos onde menor podia trabalhar', diz Bolsonaro em evento de bares e restaurantes](https://oglobo.globo.com/brasil/bons-tempos-onde-menor-podia-trabalhar-diz-bolsonaro-em-evento-de-bares-restaurantes-1-24606022)
-* [Proposta de Crivella de antecipar royalties pode custar R$ 1,6 bilhão em sete anos aos cofres da prefeitura](https://oglobo.globo.com/rio/proposta-de-crivella-de-antecipar-royalties-pode-custar-16-bilhao-em-sete-anos-aos-cofres-da-prefeitura-24605928)
 * [Fundeb: entenda a importância de tornar permanente o fundo da educação básica brasileira](https://oglobo.globo.com/sociedade/fundeb-entenda-importancia-de-tornar-permanente-fundo-da-educacao-basica-brasileira-1-24605749)
 * [Relatório do CNJ classifica magistrados e servidores do Tribunal de Justiça do Rio como os mais produtivos do país](https://oglobo.globo.com/brasil/relatorio-do-cnj-classifica-magistrados-servidores-do-tribunal-de-justica-do-rio-como-os-mais-produtivos-do-pais-24606021)
-* [O que é o 'Burofax', meio pelo qual Messi comunicou o Barcelona de seu desejo de sair](https://oglobo.globo.com/esportes/o-que-o-burofax-meio-pelo-qual-messi-comunicou-barcelona-de-seu-desejo-de-sair-24605989)

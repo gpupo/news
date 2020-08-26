@@ -2,42 +2,42 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 15:16:17 UTC
+# indexed at 26/08/2020 15:35:16 UTC
 
 
 ## news.ycombinator.com
 
 
 * [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
+* [Portland passes low-density zoning reform](https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/)
 * [Is TDD Dead? (2014)](https://martinfowler.com/articles/is-tdd-dead/)
 * [Discrete Cosine Transform – Explain Like I'm Five](https://ottverse.com/discrete-cosine-transform-dct-video-compression/)
 * [Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea](https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/)
 * [What happens when you load a URL? (2015)](https://danluu.com/navigate-url/)
-* [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
 * [Lucid Air EV’s Battery Will Be a Big 113.0 KWh, Topping Tesla’s Best](https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/)
+* [SATCON1 Report on Impact of Satellite Constellations on Astronomy](https://noirlab.edu/public/products/techdocs/techdoc003/)
+* [SEC Modernizes the Accredited Investor Definition](https://www.sec.gov/news/press-release/2020-191)
+* [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
 * [Draft of OCaml Scientific Computing book](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book)
 * [Understanding DNS: Anatomy of a BIND zone file](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
-* [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
 * [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
+* [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
 * [How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin](https://www.bloomberg.com/graphics/2020-sackler-family-money/)
 * [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
+* [Melancholy of obsolete futures: on Soviet Brutalism](https://thecritic.co.uk/melancholy-of-obsolete-futures/)
+* [SS7 Cellular Network Flaw Nobody Wants to Fix Being Exploited to Drain Bank Acct](https://www.techdirt.com/articles/20190131/10492341502/ss7-cellular-network-flaw-nobody-wants-to-fix-now-being-exploited-to-drain-bank-accounts.shtml)
 * [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
-* [HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k](https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k)
 * [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
-* [SEC Modernizes the Accredited Investor Definition](https://www.sec.gov/news/press-release/2020-191)
+* [HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k](https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k)
+* [Teen Has Filled the Scots Wikipedia with Thousands of Fake Translations](https://gizmodo.com/alleged-teen-brony-has-filled-the-scots-wiki-with-thous-1844845086)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
 * [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24281744)
+* [TikTok, Trump, and the Future of Open Source Surveillance](https://fossa.com/blog/tiktok-trump-and-the-future-of-open-source-surveillance/)
 * [Low adoption of features and the sad realization](https://agyam.com/low-adoption-and-sad-realization/)
 * [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
-* [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
-* [Tom Lehrer's Mathematical Songs (1951)](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
 * [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
-* [My AI Timelines Have Sped Up](https://www.alexirpan.com/2020/08/18/ai-timelines.html)
-* [Lean HTTP Server for Gleam](http://crowdhailer.me/2020-06-23/introducing-lean-server-for-midas/)
-* [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
-* [Agoge](https://en.wikipedia.org/wiki/Agoge)
 ## nytimes.com
 
 
@@ -65,7 +65,7 @@ layout: default
 * [Why Only the Republicans Are Talking About Abortion](https://www.nytimes.com/2020/08/26/opinion/rnc-abortion-republican-party.html)
 * [California, We Can’t Go On Like This](https://www.nytimes.com/2020/08/26/opinion/california-wildfires-blackouts.html)
 * [I Attended Boys State, and Survived](https://www.nytimes.com/2020/08/26/opinion/boys-state-electoral-politics.html)
-* [The Week Women’s Suffrage Almost Wasn’t](https://www.nytimes.com/2020/08/26/opinion/suffrage-19th-amendment.html)
+* [Women Would Abolish Child Labour (and Other Anti-Suffrage Excuses)](https://www.nytimes.com/2020/08/26/opinion/suffrage-19th-amendment.html)
 * [Join Michelle Cottle to discuss the best and worst of Night 2 of the R.N.C.](https://twitter.com/nytopinion/status/1298637157985288192)
 * [To Deal With China, Trump Should Learn German](https://www.nytimes.com/2020/08/25/opinion/trump-china-germany.html)
 * [Biden Wants to Return to a ‘Normal’ Foreign Policy. That’s the Problem.](https://www.nytimes.com/2020/08/25/opinion/biden-foreign-policy.html)
@@ -96,23 +96,21 @@ layout: default
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [E-Bikes Are All the Rage. Should They Be?](https://www.nytimes.com/2020/08/19/well/move/e-bike-safety-exercise.html)
-* [Melania Trump, Dressed for Battle at the R.N.C.](https://www.nytimes.com/2020/08/26/style/melania-trump-republican-national-convention.html)
+* [Republican Convention: Best and Worst Moments From Night 1](https://www.nytimes.com/2020/08/25/opinion/rnc-best-worst-night-1.html)
 * [Kimberly Guilfoyle, the R.N.C.'s Woman in Red](https://www.nytimes.com/2020/08/25/style/kimberly-guilfoyle-republican-national-convention.html)
-* [The 3 Scariest Chemicals to Watch Out For in Your Home](https://www.nytimes.com/2020/08/26/parenting/home-toxic-chemicals.html)
-* [What’s on TV Thursday: ‘Bill & Ted’ and ‘An Easy Girl’](https://www.nytimes.com/2020/08/20/arts/television/whats-on-tv-thursday-bill-ted-and-an-easy-girl.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [Convocada a depor sobre protestos contra Lukashenho, Prêmio Nobel bielorrussa se reserva o direito ao silêncio](https://oglobo.globo.com/mundo/convocada-depor-sobre-protestos-contra-lukashenho-premio-nobel-bielorrussa-se-reserva-direito-ao-silencio-24606917)
+* [Congresso promulga Emenda Constitucional do novo Fundeb](https://oglobo.globo.com/sociedade/congresso-promulga-emenda-constitucional-do-novo-fundeb-24606927)
 * [Há um método nas reações agressivas de Bolsonaro](https://oglobo.globo.com/analitico/ha-um-metodo-nas-reacoes-agressivas-de-bolsonaro-24606732)
-* [Ministra do STJ rejeita pedido da defesa de Witzel para arquivar inquérito que apura 'incitação ao crime'](https://oglobo.globo.com/rio/ministra-do-stj-rejeita-pedido-da-defesa-de-witzel-para-arquivar-inquerito-que-apura-incitacao-ao-crime-1-24606838)
-* [Hacker que criava sites clonados para roubar dados de cartões de crédito é preso no Rio](https://oglobo.globo.com/rio/hacker-que-criava-sites-clonados-para-roubar-dados-de-cartoes-de-credito-preso-no-rio-24606884)
-* [NBA: discussão sobre boicote aos jogos mostra que protestos antirracismo na liga não serão passageiros](https://oglobo.globo.com/esportes/nba-discussao-sobre-boicote-aos-jogos-mostra-que-protestos-antirracismo-na-liga-nao-serao-passageiros-1-24606862)
-* [Contratação de Messi transformaria qualquer clube — e o futebol europeu como um todo](https://oglobo.globo.com/esportes/contratacao-de-messi-transformaria-qualquer-clube-e-futebol-europeu-como-um-todo-24606680)
 * [Mourão defende que alunos com condições paguem para estudar em universidades públicas](https://oglobo.globo.com/sociedade/educacao/mourao-defende-que-alunos-com-condicoes-paguem-para-estudar-em-universidades-publicas-1-24606879)
+* [NBA: discussão sobre boicote aos jogos mostra que protestos antirracismo na liga não serão passageiros](https://oglobo.globo.com/esportes/nba-discussao-sobre-boicote-aos-jogos-mostra-que-protestos-antirracismo-na-liga-nao-serao-passageiros-1-24606862)
+* [Artigo | Temos um negacionista no poder](https://epoca.globo.com/michel-gherman/artigo-temos-um-negacionista-no-poder-1-24606648)
+* [Hacker que criava sites clonados para roubar dados de cartões de crédito é preso no Rio](https://oglobo.globo.com/rio/hacker-que-criava-sites-clonados-para-roubar-dados-de-cartoes-de-credito-preso-no-rio-24606884)
+* [Contratação de Messi transformaria qualquer clube — e o futebol europeu como um todo](https://oglobo.globo.com/esportes/contratacao-de-messi-transformaria-qualquer-clube-e-futebol-europeu-como-um-todo-24606680)
 * [Rapaz é baleado durante assalto quando passeava pela Praia do Peró, em Cabo Frio](https://oglobo.globo.com/rio/rapaz-baleado-durante-assalto-quando-passeava-pela-praia-do-pero-em-cabo-frio-24606855)
-* [Coronavírus: Fórum Econômico Mundial de Davos adia encontro de 2021](https://oglobo.globo.com/economia/coronavirus-forum-economico-mundial-de-davos-adia-encontro-de-2021-1-24606804)
-* [Problema técnico atrasa em quase uma hora viagem no ramal Saracuruna da SuperVia](https://oglobo.globo.com/rio/problema-tecnico-atrasa-em-quase-uma-hora-viagem-no-ramal-saracuruna-da-supervia-24606808)
 * [A história da mulher negra que se passava por branca](https://epoca.globo.com/guilherme-amado/a-historia-da-mulher-negra-que-se-passava-por-branca-1-24606369)

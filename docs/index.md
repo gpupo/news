@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 20:18:27 UTC
+# indexed at 26/08/2020 20:35:07 UTC
 
 
 ## news.ycombinator.com
 
 
 * [MixedName – Bilingual baby name finder](https://mixedname.com/)
-* [Kubernetes 1.19.0 released](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md)
 * [Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework](https://arwes.dev)
 * [New Racket Language Website](https://racket-lang.org/)
 * [Preparing Our Partners for iOS 14](https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/)
@@ -18,26 +17,27 @@ layout: default
 * [Is TDD Dead? (2014)](https://martinfowler.com/articles/is-tdd-dead/)
 * [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
 * [First tax year with Stripe Atlas](https://tryhexadecimal.com/journal/business-taxes)
+* [Kubernetes 1.19](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md)
 * [Jacques Cousteau’s grandson wants to build the ISS of the sea](https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/)
-* [Scientists who never won a Nobel Prize](https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html)
 * [SATCON1 Report on Impact of Satellite Constellations on Astronomy](https://noirlab.edu/public/products/techdocs/techdoc003/)
 * [What happens when you load a URL? (2015)](https://danluu.com/navigate-url/)
 * [SSH Keygen – RSA, DSA, Ecdsa, EdDSA](https://gravitational.com/blog/comparing-ssh-keys/)
-* [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
 * [Melancholy of obsolete futures: on Soviet Brutalism](https://thecritic.co.uk/melancholy-of-obsolete-futures/)
-* [Lucid Air EV’s Battery Will Be 113.0 KWh](https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/)
+* [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
 * [Talk to Your Data: One Model, Any Relational Database](https://blog.einstein.ai/talk-to-your-data-one-model-any-database/)
+* [Lucid Air EV’s Battery Will Be 113.0 KWh](https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/)
 * [1930s Household Refrigerators (2013)](https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/)
-* [What archaeology tells us about the music and sounds made by Africa’s ancestors](https://theconversation.com/what-archaeology-tells-us-about-the-music-and-sounds-made-by-africas-ancestors-143809)
 * [US indictments of piracy group members throw top-tier piracy world into chaos](https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/)
-* [Portland passes low-density zoning reform](https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/)
 * [Draft of OCaml Scientific Computing book](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book)
+* [How to not fear your death: An Epicurean perspective](https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death)
+* [Portland passes low-density zoning reform](https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/)
+* [Scientists who never won a Nobel Prize](https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html)
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [Understanding DNS: Anatomy of a BIND zone file](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
-* [Jetpack Compose Alpha is released](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
 * [Rethinking the App Store](https://stratechery.com/2020/rethinking-the-app-store/)
-* [Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band](https://lulimjewelry.com)
+* [Jetpack Compose Alpha is released](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
 * [SS7 cellular network flaw being exploited to drain bank accounts](https://www.techdirt.com/articles/20190131/10492341502/ss7-cellular-network-flaw-nobody-wants-to-fix-now-being-exploited-to-drain-bank-accounts.shtml)
+* [Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band](https://lulimjewelry.com)
 ## nytimes.com
 
 
@@ -45,7 +45,7 @@ layout: default
 * [M.T.A. Warns of Doomsday Subway Cuts Without $12 Billion in Federal Aid](https://www.nytimes.com/2020/08/26/nyregion/nyc-subway-bus-service-cuts.html)
 * [Kenosha Shootings: Two Killed and One Injured in Chaotic Night](https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html)
 * [Border Officials Weighed Deploying Migrant ‘Heat Ray’ Ahead of Midterms](https://www.nytimes.com/2020/08/26/us/politics/trump-campaign-immigration.html)
-* [Politics Updates: Trump Says He Will Send Law Enforcement to Kenosha](https://www.nytimes.com/live/2020/08/26/us/rnc-convention-election)
+* [Election Updates: Pence to Take His Turn on Night 3 of Convention](https://www.nytimes.com/live/2020/08/26/us/rnc-convention-election)
 * [G.O.P. Women in Arizona Could Decide an Unexpected 2020 Battle](https://www.nytimes.com/2020/08/26/us/politics/republicans-arizona-2020.html)
 * [Hurricane Laura Strengthens to Category 4: Live Updates](https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html)
 * [U.S. Flood Strategy Shifts to ‘Unavoidable’ Relocation of Entire Neighborhoods](https://www.nytimes.com/2020/08/26/climate/flooding-relocation-managed-retreat.html)
@@ -76,11 +76,11 @@ layout: default
 * [U.S. Sanctions 24 Chinese Companies Over Role in South China Sea](https://www.nytimes.com/2020/08/26/business/economy/trump-sanctions-south-china-sea.html)
 * [How TikTok’s Talks With Microsoft Turned Into a Soap Opera](https://www.nytimes.com/2020/08/26/technology/tiktoks-microsoft-deal-soap-opera-trump.html)
 * [Bare Breasts on French Beaches? You Can, Despite Police Warnings](https://www.nytimes.com/2020/08/26/world/europe/france-beach-topless.html)
+* [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [The Monotony of Family Meals Can Trigger Past Disordered Eating](https://www.nytimes.com/2020/08/19/parenting/eating-disorders-coronavirus.html)
-* [How to Ask if Everything Is OK When It’s Clearly Not](https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html)
-* [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
-* [The Many Symptoms of Covid-19](https://www.nytimes.com/2020/08/05/well/live/coronavirus-covid-symptoms.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
+* [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
 * [New Director Sees Berlin’s Jewish Museum as a Place for Debate](https://www.nytimes.com/2020/08/26/arts/design/jewish-museum-berlin-director-hetty-berg.html)
 * [‘Soul!’ Brought Black Culture to TV in 1968. A New Doc Tells Its Story.](https://www.nytimes.com/2020/08/25/arts/music/mr-soul-ellis-haizlip.html)
 * [Melania Trump's Convention Outfit: Ready for Battle!](https://www.nytimes.com/2020/08/26/style/melania-trump-republican-national-convention.html)
@@ -90,22 +90,20 @@ layout: default
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [Are You Overpraising Your Child?](https://www.nytimes.com/2020/08/13/parenting/praising-children.html)
 * [E-Bikes Are All the Rage. Should They Be?](https://www.nytimes.com/2020/08/19/well/move/e-bike-safety-exercise.html)
-* [What to Watch: Joe Biden Speaks for Himself](https://www.nytimes.com/2020/08/20/us/politics/democratic-national-convention-guide.html)
-* [Kimberly Guilfoyle, the R.N.C.'s Woman in Red](https://www.nytimes.com/2020/08/25/style/kimberly-guilfoyle-republican-national-convention.html)
-* [A judge rules again that Trump must produce his tax returns.](https://www.nytimes.com/2020/08/20/us/elections/a-judge-rules-again-that-trump-must-produce-his-tax-returns.html)
+* [Republican Convention: Best and Worst Moments From Night 1](https://www.nytimes.com/2020/08/25/opinion/rnc-best-worst-night-1.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
+* [NBA: Bucks e Magic boicotam jogo 5 dos playoffs e apoiam protestos por Jacob Blake](https://oglobo.globo.com/esportes/nba-bucks-magic-boicotam-jogo-5-dos-playoffs-apoiam-protestos-por-jacob-blake-24607432)
+* [Coaf aponta pagamento de R$ 276 mil feito por Wassef a advogado que defendeu Bolsonaro no STF](https://oglobo.globo.com/brasil/coaf-aponta-pagamento-de-276-mil-feito-por-wassef-advogado-que-defendeu-bolsonaro-no-stf-24607396)
+* [Bolsonaro dá até sexta para Guedes apresentar nova proposta do Renda Brasil](https://oglobo.globo.com/economia/bolsonaro-da-ate-sexta-para-guedes-apresentar-nova-proposta-do-renda-brasil-1-24607380)
+* [Furacão Laura sobe para categoria 4 e pode causar danos catastróficos no litoral do Texas e da Louisiana](https://oglobo.globo.com/mundo/furacao-laura-sobe-para-categoria-4-pode-causar-danos-catastroficos-no-litoral-do-texas-da-louisiana-24607398)
 * [Dome tem treinos elogiados no Flamengo e muda perfil de goleiros](https://oglobo.globo.com/esportes/dome-tem-treinos-elogiados-no-flamengo-muda-perfil-de-goleiros-24607413)
+* [Em meio à pandemia, Câmara aprova criação de um novo Tribunal Regional Federal e dá aval a aumento de despesas](https://oglobo.globo.com/brasil/em-meio-pandemia-camara-aprova-criacao-de-um-novo-tribunal-regional-federal-da-aval-aumento-de-despesas-24607344)
 * [Bastidores do Flamengo: as condições de Diego durante a renovação](https://oglobo.globo.com/esportes/bastidores-do-flamengo-as-condicoes-de-diego-durante-renovacao-24607357)
 * [Coaf aponta pagamento de R$ 276 mil feito por Wassef a advogado que defendeu Bolsonaro](https://oglobo.globo.com/brasil/coaf-aponta-pagamento-de-276-mil-feito-por-wassef-advogado-que-defendeu-bolsonaro-24607406)
-* [Coaf aponta pagamento de R$ 276 mil feito por Wassef a advogado que defendeu Bolsonaro no STF](https://oglobo.globo.com/brasil/coaf-aponta-pagamento-de-276-mil-feito-por-wassef-advogado-que-defendeu-bolsonaro-no-stf-24607396)
-* [Bolsonaro dá até sexta para Guedes apresentar nova proposta do Renda Brasil](https://oglobo.globo.com/economia/bolsonaro-da-ate-sexta-para-guedes-apresentar-nova-proposta-do-renda-brasil-24607380)
-* ['Nada que vá desrespeitar o teto de gastos será votado na Câmara', diz Maia](https://oglobo.globo.com/economia/nada-que-va-desrespeitar-teto-de-gastos-sera-votado-na-camara-diz-maia-24607339)
-* [Em meio à pandemia, Câmara aprova criação de um novo Tribunal Regional Federal](https://oglobo.globo.com/brasil/em-meio-pandemia-camara-aprova-criacao-de-um-novo-tribunal-regional-federal-24607344)
-* [Em visita a Teerã, chefe da agência nuclear da ONU confirma acordo para inspeções em locais apontados como suspeitos](https://oglobo.globo.com/mundo/em-visita-teera-chefe-da-agencia-nuclear-da-onu-confirma-acordo-para-inspecoes-em-locais-apontados-como-suspeitos-24607336)
 * [Argentina deixa US$ 100 milhões em exportações brasileiras paradas na fronteira](https://oglobo.globo.com/economia/argentina-deixa-us-100-milhoes-em-exportacoes-brasileiras-paradas-na-fronteira-24607340)
 * [Guedes quer bancar prorrogação do auxílio emergencial com recursos que sobraram do Bolsa Família](https://oglobo.globo.com/economia/guedes-quer-bancar-prorrogacao-do-auxilio-emergencial-com-recursos-que-sobraram-do-bolsa-familia-24607341)

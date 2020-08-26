@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 06:18:25 UTC
+# indexed at 26/08/2020 06:35:15 UTC
 
 
 ## news.ycombinator.com
@@ -16,28 +16,28 @@ layout: default
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
+* [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
+* [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
 * [Japan facing credit card number shortage](https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c)
-* [radEventListener: Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)
 * [Syllabus for Eric's PhD Students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+* [radEventListener: Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)
+* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
 * [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
-* [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
-* [Global Mass Surveillance – The Fourteen Eyes](https://www.privacytools.io/providers/#ukusa)
+* [Tom Lehrer's Mathematical Songs](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
 * [Optimal Peanut Butter and Banana Sandwiches](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
-* [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
-* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 * [Signifier – a Brutalist response to 17th century typefaces](https://klim.co.nz/blog/signifier-design-information/)
 * [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
-* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
+* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 * [Gallup: 81% of Black Americans Want Police to Retain Local Presence](https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx)
+* [Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer](https://www.tesorio.com/careers#job-openings)
 * [Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff)
+* [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
 * [FritzFrog: A New Generation of Peer-to-Peer Botnets](https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/)
-* [Tom Lehrer's Mathematical Songs](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
-* [Keeping CALM: When Distributed Consistency Is Easy](https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
-* [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
-* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
-* [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
 * [AWS Controllers for Kubernetes](https://github.com/aws/aws-controllers-k8s)
+* [Firefox Android Build that caused issues is working as intended](https://www.theregister.com/2020/08/25/firefox_android_update/)
+* [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
+* [Evgeny Kuznetsov practices with Bauer stick that has hole in the blade](https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/)
 ## nytimes.com
 
 
@@ -53,7 +53,7 @@ layout: default
 * [Airline Job Cuts Could Pressure Congress and Trump on Stimulus](https://www.nytimes.com/2020/08/25/business/american-airline-furlough-19000.html)
 * [Extra $300 Stimulus Unemployment Payment: Who Will Get It and When?](https://www.nytimes.com/article/stimulus-unemployment-payment-benefit.html)
 * [How the U.K. Restarted Its Restaurant Industry: Paying Half the Bill](https://www.nytimes.com/2020/08/25/business/britain-restaurants-eat-out-to-help-out.html)
-* [After Jacob Blake Shooting, Scrutiny of Kenosha Police Intensifies](https://www.nytimes.com/2020/08/25/us/jacob-blake-kenosha-fires.html)
+* [Three Shot Amid Protests Over Jacob Blake Shooting](https://www.nytimes.com/2020/08/26/us/three-shot-amid-protests-over-jacob-blake-shooting.html)
 * [Police Face Off Against Protesters in Wisconsin](https://www.nytimes.com/video/us/100000007306119/kenosha-protests-jacob-blake-wisconsin-video.html)
 * [How Bacteria-Eating Bacteria Could Help Win the War Against Germs](https://www.nytimes.com/2020/08/25/science/bacteria-bdellovibrio-predator-prey.html)
 * [Heat, Smoke and Covid Are Battering the Workers Who Feed America](https://www.nytimes.com/2020/08/25/climate/california-farm-workers-climate-change.html)
@@ -82,11 +82,11 @@ layout: default
 * [Whitney Cancels Show That Included Works Bought at Fund-Raisers](https://www.nytimes.com/2020/08/25/arts/design/whitney-museum-exhibition-canceled.html)
 * [Jerry Falwell Jr.’s Departure Brings Relief on Liberty University’s Campus](https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html)
 * [California Fires Live Updates: Firefighters Make Progress in ‘Marathon’ Battle](https://www.nytimes.com/2020/08/25/us/california-fires.html)
-* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
-* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
+* [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
+* [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
 * [The Actors With Disabilities Redefining Representation](https://www.nytimes.com/2020/08/25/t-magazine/actors-disability-theater-film-tv.html)
 * [Orchestras Looking to Broaden Horizons? Start Improvising](https://www.nytimes.com/2020/08/25/arts/music/classical-music-orchestra-improvisation.html)
 * [Can I Stay Friends With Someone Who Voices Racist Views?](https://www.nytimes.com/2020/08/25/magazine/can-i-stay-friends-with-someone-who-voices-racist-views.html)
@@ -96,17 +96,15 @@ layout: default
 * [The Extra Stigma of Mental Illness for African-Americans](https://www.nytimes.com/2020/08/25/well/mind/black-mental-health.html)
 * [How to Handle Separation Anxiety Meltdowns in Kids](https://www.nytimes.com/2020/08/20/parenting/separation-anxiety-children.html)
 * [This Star Looked Like It Would Explode. Maybe It Just Sneezed](https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html)
+* [10 Under-the-Radar Movies for Offbeat Times](https://www.nytimes.com/2020/08/23/movies/offbeat-movies-streaming.html)
 * [Kimberly Guilfoyle, the R.N.C.'s Woman in Red](https://www.nytimes.com/2020/08/25/style/kimberly-guilfoyle-republican-national-convention.html)
-* [The Democrats Who Rose to the Moment](https://www.nytimes.com/2020/08/20/opinion/democratic-convention-warren-biden-obama.html)
-* [Working From Home With Three Kids and No School](https://www.nytimes.com/2020/08/20/style/working-remotely-kids.html)
-* [July's Popular Home Listings](https://www.nytimes.com/2020/08/20/realestate/the-most-popular-listings-of-july.html)
 * [Try Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 * [The Crossword, Vertex and More](https://www.nytimes.com/crosswords)
 * [Try Tiles](https://www.nytimes.com/puzzles/tiles)
 ## globo.com
 
 
-* [Israel bombardeia posições do Hezbollah no Líbano após ataque a suas tropas](https://oglobo.globo.com/mundo/israel-bombardeia-posicoes-do-hezbollah-no-libano-apos-ataque-suas-tropas-24606394)
+* [Israel bombardeia posições do Hezbollah no Líbano após ataque a suas tropas](https://oglobo.globo.com/mundo/israel-bombardeia-posicoes-do-hezbollah-no-libano-apos-ataque-suas-tropas-1-24606394)
 * [Primeira a falar às vítimas da pandemia, Melania Trump tenta conquistar famílias](https://oglobo.globo.com/mundo/primeira-falar-as-vitimas-da-pandemia-melania-trump-tenta-conquistar-familias-1-24605886)
 * [Incêndios e desmatamento na Amazônia expõem mais de 4 milhões de pessoas a níveis elevados de poluição atmosférica](https://oglobo.globo.com/sociedade/incendios-desmatamento-na-amazonia-expoem-mais-de-4-milhoes-de-pessoas-niveis-elevados-de-poluicao-atmosferica-1-24606286)
 * [Distribuidoras vão precisar entregar até 70,5% mais água para suprir demanda no país em 2040, diz estudo](https://oglobo.globo.com/economia/distribuidoras-vao-precisar-entregar-ate-705-mais-agua-para-suprir-demanda-no-pais-em-2040-diz-estudo-24605855)

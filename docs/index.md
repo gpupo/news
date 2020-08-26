@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# indexed at 26/08/2020 12:21:13 UTC
+# indexed at 26/08/2020 12:34:47 UTC
 
 
 ## news.ycombinator.com
@@ -10,34 +10,34 @@ layout: default
 
 * [Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea](https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/)
 * [Draft of OCaml Scientific Computing book](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book)
+* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 * [Understanding DNS: Anatomy of a BIND zone file](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
+* [Boom Supersonic hopes to test-fly its supersonic plane in 2021](https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html)
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+* [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=24281744)
 * [HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k](https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k)
 * [Want people to do the right thing? Save them the guilt trip](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip)
 * [Africa declared free of wild polio](https://www.bbc.com/news/world-africa-53887947)
+* [How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin](https://www.bloomberg.com/graphics/2020-sackler-family-money/)
 * [New facts about the leadup to the Beirut explosion](https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment)
 * [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216)
 * [PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)](https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/)
-* [How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin](https://www.bloomberg.com/graphics/2020-sackler-family-money/)
 * [Heyyyyyyyyyyyy.com](https://heyyyyyyyyyyyy.com/)
-* [Tom Lehrer's Mathematical Songs](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
+* [Tom Lehrer's Mathematical Songs (1951)](https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/)
 * [Missions to and Sample Returns from Nearby Interstellar Objects](https://arxiv.org/abs/2008.07647)
+* [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
+* [Low adoption of features and the sad realization](https://agyam.com/low-adoption-and-sad-realization/)
 * [Luminar Plans $3.4B Reverse-Merger IPO](https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger)
 * [Creating a Common Lisp implementation, part 1 [video]](https://www.youtube.com/watch?v=Wa81OJnlsoI)
-* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [Shrinking a Kotlin Binary by 99.2%](https://jakewharton.com/shrinking-a-kotlin-binary/)
-* [Low adoption of features and the sad realization](https://agyam.com/low-adoption-and-sad-realization/)
-* [YC Software Startups: Value and Initial Programming Language Used](https://charliereese.ca/article/top-50-y-combinator-tech-startups)
+* [Cat vs. panel heater: which is better?](https://www.oneroof.co.nz/news/38319)
 * [Going Public Circa 2020; Door #3: The SPAC](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)
 * [“Alexander the Grate” on living in the “interstices of the infrastructure”](https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/)
 * [US indictments of piracy group members throw top-tier piracy world into chaos](https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/)
 * [Zappos CEO Tony Hsieh is stepping down after 21 years](https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/)
 * [Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR](https://github.com/open-sdr/openwifi)
-* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 * [Lightmatter's Mars SoC Bends Light to Process Data](https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics)
-* [Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS](https://github.com/model-zoo/shift-ctrl-f)
-* [The longest train ride in the world](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
-* [Use YC's Work at a Startup to apply to hundreds of eng jobs with one application](https://www.workatastartup.com/)
+* [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
 ## nytimes.com
 
 
@@ -84,8 +84,8 @@ layout: default
 * [Play these Old School Games](https://www.nytimes.com/2020/08/22/at-home/sharpen-a-pencil-and-challenge-an-opponent.html)
 * [Why Getting Children Flu Shots Is Even More Important This Year](https://www.nytimes.com/2020/08/21/parenting/flu-shot-kids-coronavirus.html)
 * [5 Simple Ways to Improve Your Wi-Fi](https://www.nytimes.com/2020/08/24/smarter-living/home-wifi-upgrade.html)
-* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [How to Set Pandemic Boundaries for Relatives](https://www.nytimes.com/2020/08/22/well/family/boundaries-pandemic-family-relationships.html)
+* [I Hope This Email Finds You Well](https://www.nytimes.com/2020/08/19/smarter-living/coronavirus-how-to-write-better-emails.html)
 * [Black Chefs Are Landing More Cookbook Deals. Is That Enough?](https://www.nytimes.com/2020/08/24/books/black-food-writers-cookbook-publishing.html)
 * [The Girl Scout Uniform, Updated for Gen Z](https://www.nytimes.com/2020/08/25/fashion/new-girl-scout-uniform.html)
 * [Emmys 2020: Sterling K. Brown and Andre Braugher’s Lives Keep Intersecting](https://www.nytimes.com/2020/08/25/arts/television/emmys-sterling-k-brown-andre-braugher.html)
@@ -102,13 +102,13 @@ layout: default
 ## globo.com
 
 
-* [Diretor se arrepende de filme sobre Flordelis: 'Uma mentira'](https://oglobo.globo.com/cultura/diretor-se-arrepende-de-filme-sobre-flordelis-uma-mentira-24606492)
+* [Dólar abre em alta, cotado a R$ 5,53](https://oglobo.globo.com/economia/dolar-abre-em-alta-cotado-r-553-24606585)
 * [Pai de Steven Spielberg morre aos 103 anos](https://oglobo.globo.com/cultura/pai-de-steven-spielberg-morre-aos-103-anos-24606551)
+* [A controversa lei alemã que inspira projeto de lei das Fake News](https://epoca.globo.com/brasil/a-controversa-lei-alema-que-inspira-projeto-de-lei-das-fake-news-1-24606576)
+* [Diretor se arrepende de filme sobre Flordelis: 'Uma mentira'](https://oglobo.globo.com/cultura/diretor-se-arrepende-de-filme-sobre-flordelis-uma-mentira-24606492)
 * [Abono salarial atende 23 milhões. Conheça este e outros programas que Guedes quer encerrar para criar Renda Brasil](https://oglobo.globo.com/economia/abono-salarial-atende-23-milhoes-conheca-este-outros-programas-que-guedes-quer-encerrar-para-criar-renda-brasil-24606486)
 * [Depois de prisão no Paraguai, Ronaldinho Gaúcho escolhe look de R$ 12 mil para voltar para casa](https://oglobo.globo.com/ela/gente/depois-de-prisao-no-paraguai-ronaldinho-gaucho-escolhe-look-de-12-mil-para-voltar-para-casa-24606501)
-* [Polícia faz operação na Cidade de Deus para checar denúncias e retirar barricadas](https://oglobo.globo.com/rio/policia-faz-operacao-na-cidade-de-deus-para-checar-denuncias-retirar-barricadas-1-24606450)
 * [Governo nomeia substituto de Salim Mattar na secretaria de Desestatização](https://oglobo.globo.com/economia/governo-nomeia-substituto-de-salim-mattar-na-secretaria-de-desestatizacao-24606503)
 * [Queimadas na Amazônia estão ligadas a mais de 2 mil hospitalizações em 2019, diz relatório](https://epoca.globo.com/sociedade/queimadas-na-amazonia-estao-ligadas-mais-de-2-mil-hospitalizacoes-em-2019-diz-relatorio-24606508)
-* [Documento falso de Ronaldinho foi feito pelo próprio governo paraguaio, afirma advogado de Gaúcho em entrevista](https://epoca.globo.com/guilherme-amado/documento-falso-de-ronaldinho-foi-feito-pelo-proprio-governo-paraguaio-afirma-advogado-de-gaucho-em-entrevista-1-24606390)
 * [Nascidas na Vila Kennedy, amigas dão cestas básicas a famílias da comunidade](https://oglobo.globo.com/rio/bairros/nascidas-na-vila-kennedy-amigas-dao-cestas-basicas-familias-da-comunidade-24606258)
 * [Cidade alemã teme ser arruinada pelo esforço dos EUA em impedir finalização de gasoduto russo](https://oglobo.globo.com/mundo/cidade-alema-teme-ser-arruinada-pelo-esforco-dos-eua-em-impedir-finalizacao-de-gasoduto-russo-24605207)
